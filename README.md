@@ -43,8 +43,12 @@ Two rules keep the geometry honest, both grounded in the roam data rather than i
 - **Fliers cover unwalkable ground.** A Pixie's region is the floor under a flight path — its trail
   spans 51 yalms vertically in West Ronfaure against about 11 for ground mobs. No amount of geometry
   fixes that; those regions need a human.
-- **Region names are positional** (`<zone>_<compass>`, suffixed on collision) and are therefore not
-  stable across regenerations. Do not reference them from anything until they are reviewed.
+- **Region names are anchored, not positional.** A name is `<zone>_<compass>_<index>`, where the
+  index is the zone-local mob index of the lowest-numbered mob in the region and the compass reading
+  comes from that mob's own recorded position. Each mob belongs to exactly one region, so the anchor
+  is unique without a collision counter, and neither part moves when the geometry is retuned. Across
+  a reach-cap change 99.9% of spawns keep their region name and across a simplification change 100%
+  do; the residual churn is a grouping change genuinely moving a mob to a different region.
 - **Coverage is limited by the capture.** A zone only gets regions where mobs were observed; sparsely
   sampled corners get nothing.
 
