@@ -79,8 +79,8 @@ spawns:
 
   17547280:
     template: Vanguard_Maestro
-    at:       [-1.622, 8.408, -51.594, 126]
     level:    [75, 77]
+    region:   s_14
 
   17547281:
     template: Vanguard_Tinkerer
@@ -400,7 +400,7 @@ spawns:
   17547344:
     template: Vanguard_Enchanter
     level:    [75, 77]
-    region:   c_80
+    region:   s_79
 
   17547345:
     template: Vanguard_Maestro
@@ -445,7 +445,7 @@ spawns:
   17547353:
     template: Vanguard_Armorer
     level:    [75, 77]
-    region:   s_87
+    region:   sw_89
 
   17547354:
     template: Vanguard_Hitman
@@ -575,12 +575,12 @@ spawns:
   17547379:
     template: Vanguard_Smithy
     level:    [75, 77]
-    region:   se_111
+    region:   se_115
 
   17547380:
     template: Vanguard_Alchemist
     level:    [75, 77]
-    region:   se_111
+    region:   se_115
 
   17547381:
     template: Buffrix_Eargone
@@ -635,7 +635,7 @@ spawns:
   17547391:
     template: Goblin_Replica
     level:    [65, 65]
-    region:   w_77
+    region:   s_127
 
   17547392:
     template: Goblin_Replica
@@ -825,7 +825,7 @@ spawns:
   17547429:
     template: Vanguards_Slime
     level:    [90, 92]
-    region:   c_161
+    region:   c_165
 
   17547430:
     template: Vanguard_Maestro
@@ -1010,7 +1010,7 @@ spawns:
   17547466:
     template: Vanguard_Hitman
     level:    [90, 92]
-    region:   n_202
+    region:   c_201
 
   17547467:
     template: Goblin_Statue

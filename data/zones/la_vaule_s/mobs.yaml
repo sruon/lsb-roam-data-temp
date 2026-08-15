@@ -99,8 +99,8 @@ spawns:
 
   17125396:
     template: Mariehene
-    at:       [173.106, 3.432, -134.099, 120]
     level:    [71, 74]
+    region:   e_20
 
   17125397:
     template: Mariehene
@@ -1660,7 +1660,7 @@ spawns:
   17125714:
     template: Savage_Hound_Condottiere
     level:    [0, 0]
-    region:   e_336
+    region:   e_338
 
   17125715:
     template: Savage_Hound_Condottiere
@@ -1675,17 +1675,17 @@ spawns:
   17125717:
     template: Savage_Hound_Condottiere
     level:    [0, 0]
-    region:   e_337
+    region:   e_338
 
   17125718:
     template: Savage_Hound_Condottiere
     level:    [0, 0]
-    region:   e_342
+    region:   e_338
 
   17125719:
     template: Savage_Hound_Condottiere
     level:    [0, 0]
-    region:   e_337
+    region:   e_338
 
   17125720:
     template: Savage_Hound_Condottiere
@@ -1695,7 +1695,7 @@ spawns:
   17125721:
     template: Savage_Hound_Condottiere
     level:    [0, 0]
-    region:   e_345
+    region:   e_338
 
   17125722:
     template: Ashmea_B_Greinner
@@ -1705,7 +1705,7 @@ spawns:
   17125723:
     template: Scarlet_Boar_Esquire
     level:    [0, 0]
-    region:   se_347
+    region:   e_338
 
   17125724:
     template: Scarlet_Boar_Esquire
@@ -1715,7 +1715,7 @@ spawns:
   17125725:
     template: Scarlet_Boar_Esquire
     level:    [0, 0]
-    region:   e_349
+    region:   e_346
 
   17125726:
     template: Scarlet_Boar_Esquire
@@ -2475,7 +2475,7 @@ spawns:
   17125877:
     template: Gravemaker_Mesmerizer
     level:    [70, 70]
-    region:   ne_498
+    region:   ne_442
 
   17125878:
     template: Gravemaker_Mesmerizer
@@ -2495,7 +2495,7 @@ spawns:
   17125881:
     template: Gravemaker_Mesmerizer
     level:    [70, 70]
-    region:   se_59
+    region:   se_504
 
   17125882:
     template: Gravemaker_Mesmerizer
@@ -2515,7 +2515,7 @@ spawns:
   17125885:
     template: Clan_Longtooth_Pillager
     level:    [0, 0]
-    region:   ne_509
+    region:   ne_498
 
   17125886:
     template: Clan_Longtooth_Pillager
@@ -3009,8 +3009,8 @@ spawns:
 
   17125984:
     template: Rainemard
-    at:       [275.695, 3.778, -221.410, 27]
     level:    [1, 1]
+    region:   se_608
 
   17125985:
     template: Maat

@@ -114,8 +114,8 @@ spawns:
 
   17448983:
     template: Yagudo_Abbot
-    at:       [-50.069, -0.500, -147.351, 193]
     level:    [71, 74]
+    region:   c_23
 
   17448984:
     template: Yagudo_Prior
@@ -144,8 +144,8 @@ spawns:
 
   17448989:
     template: Dire_Bat
-    at:       [25.066, 6.635, 62.899, 23]
     level:    [62, 64]
+    region:   c_29
 
   17448990:
     template: Citadel_Pipistrelles
@@ -430,7 +430,7 @@ spawns:
   17449046:
     template: Aquarian_Caster
     level:    [1, 1]
-    region:   w_85
+    region:   sw_86
 
   17449047:
     template: Aquarian_Caster
@@ -450,7 +450,7 @@ spawns:
   17449050:
     template: Aquarian_Caster
     level:    [1, 1]
-    region:   n_88
+    region:   n_90
 
   17449051:
     template: Gariri
@@ -525,7 +525,7 @@ spawns:
   17449065:
     template: Libran_Caster
     level:    [1, 1]
-    region:   w_103
+    region:   w_105
 
   17449066:
     template: Libran_Caster
@@ -670,7 +670,7 @@ spawns:
   17449094:
     template: Lutete
     level:    [67, 67]
-    region:   c_134
+    region:   n_90
 
   17449095:
     template: Luminous_Coalescence
@@ -700,7 +700,7 @@ spawns:
   17449100:
     template: Ariesian_Caster
     level:    [67, 67]
-    region:   c_134
+    region:   n_90
 
   17449101:
     template: Ariesian_Caster
@@ -720,7 +720,7 @@ spawns:
   17449104:
     template: Ariesian_Caster
     level:    [67, 67]
-    region:   c_144
+    region:   sw_86
 
   17449105:
     template: Ariesian_Caster
@@ -730,7 +730,7 @@ spawns:
   17449106:
     template: Ariesian_Caster
     level:    [67, 67]
-    region:   c_134
+    region:   n_90
 
   17449107:
     template: Piscean_Caster
@@ -1059,8 +1059,8 @@ spawns:
 
   17449172:
     template: Muu_Buxu_the_Elusive
-    at:       [39.269, 6.500, 11.108, 182]
     level:    [0, 0]
+    region:   ne_212
 
   17449173:
     template: Divine_Assassin
@@ -1069,23 +1069,23 @@ spawns:
 
   17449174:
     template: Divine_Assassin
-    at:       [0.000, 0.000, 0.000, 124]
     level:    [60, 60]
+    region:   ne_212
 
   17449175:
     template: Divine_Assassin
-    at:       [0.000, 0.000, 0.000, 179]
     level:    [60, 60]
+    region:   ne_212
 
   17449176:
     template: Divine_Assassin
-    at:       [0.000, 0.000, 0.000, 191]
     level:    [60, 60]
+    region:   ne_212
 
   17449177:
     template: Divine_Assassin
-    at:       [0.000, 0.000, 0.000, 13]
     level:    [60, 60]
+    region:   ne_212
 
   17449178:
     template: Divine_Assassin
@@ -1094,8 +1094,8 @@ spawns:
 
   17449179:
     template: Divine_Assassin
-    at:       [0.000, 0.000, 0.000, 72]
     level:    [60, 60]
+    region:   ne_212
 
   17449180:
     template: Divine_Assassin
@@ -1104,8 +1104,8 @@ spawns:
 
   17449181:
     template: Divine_Assassin
-    at:       [0.000, 0.000, 0.000, 250]
     level:    [60, 60]
+    region:   ne_212
 
   17449182:
     template: Dee_Xalmo_the_Grim

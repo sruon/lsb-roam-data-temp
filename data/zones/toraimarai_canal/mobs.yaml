@@ -39,13 +39,13 @@ spawns:
 
   17469448:
     template: Canal_Bats
-    at:       [-175.000, 15.500, 216.240, 195]
     level:    [45, 47]
+    region:   nw_8
 
   17469449:
     template: Canal_Bats
     level:    [45, 47]
-    region:   nw_9
+    region:   nw_8
 
   17469450:
     template: Hell_Bat
@@ -54,8 +54,8 @@ spawns:
 
   17469451:
     template: Hell_Bat
-    at:       [-175.200, 15.500, 198.257, 65]
     level:    [47, 49]
+    region:   nw_8
 
   17469452:
     template: Bigclaw
@@ -64,13 +64,13 @@ spawns:
 
   17469453:
     template: Bigclaw
-    at:       [-175.400, 15.498, 197.251, 191]
     level:    [49, 52]
+    region:   nw_8
 
   17469454:
     template: Fallen_Knight
-    at:       [-175.400, 15.510, 201.878, 194]
     level:    [52, 55]
+    region:   nw_14
 
   17469455:
     template: Canal_Bats
@@ -79,23 +79,23 @@ spawns:
 
   17469456:
     template: Canal_Bats
-    at:       [-185.900, 15.500, 138.270, 192]
     level:    [45, 47]
+    region:   nw_16
 
   17469457:
     template: Hell_Bat
-    at:       [-174.232, 15.500, 193.291, 80]
     level:    [47, 49]
+    region:   nw_16
 
   17469458:
     template: Hell_Bat
     level:    [47, 49]
-    region:   nw_18
+    region:   nw_16
 
   17469459:
     template: Bigclaw
     level:    [49, 52]
-    region:   nw_18
+    region:   nw_16
 
   17469460:
     template: Fallen_Knight
@@ -109,18 +109,18 @@ spawns:
 
   17469462:
     template: Canal_Bats
-    at:       [-134.700, 15.500, 134.677, 255]
     level:    [45, 47]
+    region:   nw_22
 
   17469463:
     template: Hell_Bat
-    at:       [-175.000, 15.508, 124.352, 59]
     level:    [47, 49]
+    region:   nw_22
 
   17469464:
     template: Hell_Bat
-    at:       [-137.500, 15.498, 134.632, 127]
     level:    [47, 49]
+    region:   nw_22
 
   17469465:
     template: Bigclaw
@@ -129,8 +129,8 @@ spawns:
 
   17469466:
     template: Fallen_Knight
-    at:       [-138.100, 15.500, 134.660, 0]
     level:    [52, 55]
+    region:   nw_22
 
   17469467:
     template: Canal_Bats
@@ -150,7 +150,7 @@ spawns:
   17469470:
     template: Hell_Bat
     level:    [47, 49]
-    region:   c_30
+    region:   n_27
 
   17469471:
     template: Bigclaw
@@ -189,18 +189,18 @@ spawns:
 
   17469478:
     template: Canal_Bats
-    at:       [-64.770, 15.498, 37.384, 191]
     level:    [45, 47]
+    region:   c_38
 
   17469479:
     template: Hell_Bat
-    at:       [-64.040, 15.502, 45.104, 203]
     level:    [47, 49]
+    region:   c_38
 
   17469480:
     template: Hell_Bat
-    at:       [-64.790, 15.498, 22.609, 188]
     level:    [47, 49]
+    region:   c_38
 
   17469481:
     template: Bigclaw
@@ -209,13 +209,13 @@ spawns:
 
   17469482:
     template: Bigclaw
-    at:       [-64.330, 15.503, 44.885, 203]
     level:    [49, 52]
+    region:   c_38
 
   17469483:
     template: Fallen_Knight
-    at:       [-65.150, 15.500, 33.464, 191]
     level:    [52, 55]
+    region:   c_38
 
   17469484:
     template: Canal_Bats
@@ -230,7 +230,7 @@ spawns:
   17469486:
     template: Hell_Bat
     level:    [47, 49]
-    region:   c_46
+    region:   c_45
 
   17469487:
     template: Hell_Bat
@@ -294,8 +294,8 @@ spawns:
 
   17469499:
     template: Hell_Bat
-    at:       [-64.680, 15.500, 158.220, 63]
     level:    [47, 49]
+    region:   n_59
 
   17469500:
     template: Bigclaw
@@ -305,12 +305,12 @@ spawns:
   17469501:
     template: Bigclaw
     level:    [49, 52]
-    region:   n_61
+    region:   n_59
 
   17469502:
     template: Fallen_Knight
-    at:       [-67.070, 15.500, 147.904, 120]
     level:    [52, 55]
+    region:   n_59
 
   17469503:
     template: Dark_Aspic
@@ -400,7 +400,7 @@ spawns:
   17469520:
     template: Hell_Bat
     level:    [47, 49]
-    region:   w_80
+    region:   w_79
 
   17469521:
     template: Hell_Bat
@@ -410,12 +410,12 @@ spawns:
   17469522:
     template: Bigclaw
     level:    [49, 52]
-    region:   w_80
+    region:   w_79
 
   17469523:
     template: Bigclaw
     level:    [49, 52]
-    region:   w_80
+    region:   w_79
 
   17469524:
     template: Fallen_Knight
@@ -454,18 +454,18 @@ spawns:
 
   17469531:
     template: Hell_Bat
-    at:       [-224.600, 15.500, 1.110, 190]
     level:    [47, 49]
+    region:   w_91
 
   17469532:
     template: Hell_Bat
-    at:       [-183.200, 20.000, -20.791, 239]
     level:    [47, 49]
+    region:   w_91
 
   17469533:
     template: Bigclaw
-    at:       [-224.600, 15.500, -8.578, 203]
     level:    [49, 52]
+    region:   w_91
 
   17469534:
     template: Fallen_Knight
@@ -515,22 +515,22 @@ spawns:
   17469543:
     template: Scavenger_Crab
     level:    [60, 62]
-    region:   w_100
+    region:   w_103
 
   17469544:
     template: Scavenger_Crab
     level:    [60, 62]
-    region:   w_100
+    region:   w_103
 
   17469545:
     template: Scavenger_Crab
     level:    [60, 62]
-    region:   w_100
+    region:   w_103
 
   17469546:
     template: Scavenger_Crab
     level:    [60, 62]
-    region:   w_100
+    region:   w_103
 
   17469547:
     template: Fleshcraver
@@ -759,23 +759,23 @@ spawns:
 
   17469592:
     template: Bloodsucker
-    at:       [-43.520, 15.500, -25.315, 0]
     level:    [54, 57]
+    region:   c_152
 
   17469593:
     template: Bloodsucker
-    at:       [-30.180, 15.501, -25.334, 0]
     level:    [54, 57]
+    region:   c_153
 
   17469594:
     template: Bloodsucker
-    at:       [-22.360, 15.501, -25.596, 3]
     level:    [54, 57]
+    region:   c_154
 
   17469595:
     template: Bloodsucker
-    at:       [-25.320, 15.515, -25.315, 131]
     level:    [54, 57]
+    region:   c_155
 
   17469596:
     template: Blackwater_Pugil
@@ -1020,7 +1020,7 @@ spawns:
   17469644:
     template: Starborer
     level:    [96, 97]
-    region:   s_204
+    region:   s_203
 
   17469645:
     template: Starborer
@@ -1040,7 +1040,7 @@ spawns:
   17469648:
     template: Starborer
     level:    [96, 97]
-    region:   s_204
+    region:   s_203
 
   17469649:
     template: Starborer
@@ -1139,8 +1139,8 @@ spawns:
 
   17469668:
     template: Hinge_Oil
-    at:       [64.984, 25.000, -37.398, 12]
     level:    [65, 65]
+    region:   c_228
 
   17469669:
     template: Hinge_Oil
@@ -1255,32 +1255,32 @@ spawns:
   17469691:
     template: Starborer
     level:    [96, 97]
-    region:   e_250
+    region:   e_251
 
   17469692:
     template: Starborer
     level:    [96, 97]
-    region:   e_250
+    region:   e_251
 
   17469693:
     template: Starborer
     level:    [96, 97]
-    region:   e_250
+    region:   e_251
 
   17469694:
     template: Starborer
     level:    [96, 97]
-    region:   se_254
+    region:   e_250
 
   17469695:
     template: Starborer
     level:    [96, 97]
-    region:   e_250
+    region:   e_251
 
   17469696:
     template: Starborer
     level:    [96, 97]
-    region:   e_250
+    region:   e_251
 
   17469697:
     template: Blackwater_Pugil

@@ -274,23 +274,23 @@ spawns:
 
   17403959:
     template: Bark_Spider
-    at:       [299.330, -0.750, 79.557, 120]
     level:    [60, 63]
+    region:   ne_55
 
   17403960:
     template: Bark_Spider
-    at:       [301.790, 0.513, 70.169, 202]
     level:    [60, 63]
+    region:   ne_55
 
   17403961:
     template: Bark_Spider
-    at:       [258.300, 5.516, 53.095, 87]
     level:    [60, 63]
+    region:   ne_57
 
   17403962:
     template: Bark_Spider
-    at:       [258.730, 5.567, 54.658, 220]
     level:    [60, 63]
+    region:   ne_57
 
   17403963:
     template: Bark_Spider
@@ -309,13 +309,13 @@ spawns:
 
   17403966:
     template: Bark_Spider
-    at:       [222.120, 8.521, -8.940, 210]
     level:    [60, 63]
+    region:   ne_62
 
   17403967:
     template: Bark_Spider
-    at:       [219.620, 8.220, 0.265, 90]
     level:    [60, 63]
+    region:   ne_62
 
   17403968:
     template: Mourioche
@@ -620,7 +620,7 @@ spawns:
   17404028:
     template: Old_Goobbue
     level:    [65, 68]
-    region:   n_117
+    region:   n_124
 
   17404029:
     template: Unut
@@ -865,12 +865,12 @@ spawns:
   17404077:
     template: Mourioche
     level:    [65, 68]
-    region:   nw_173
+    region:   nw_172
 
   17404078:
     template: Mourioche
     level:    [65, 68]
-    region:   nw_173
+    region:   nw_172
 
   17404079:
     template: Mourioche
@@ -1315,7 +1315,7 @@ spawns:
   17404167:
     template: Water_Elemental
     level:    [69, 72]
-    region:   n_263
+    region:   n_262
 
   17404168:
     template: Robber_Crab
@@ -1485,7 +1485,7 @@ spawns:
   17404201:
     template: Korrigan
     level:    [72, 75]
-    region:   w_297
+    region:   w_296
 
   17404202:
     template: Steelshell
@@ -1649,13 +1649,13 @@ spawns:
 
   17404234:
     template: Processionaire
-    at:       [-180.100, 8.481, -188.120, 211]
     level:    [72, 75]
+    region:   w_329
 
   17404235:
     template: Thunder_Elemental
-    at:       [-179.500, 8.442, -182.860, 83]
     level:    [71, 72]
+    region:   w_329
 
   17404236:
     template: Mourning_Crawler
@@ -1934,13 +1934,13 @@ spawns:
 
   17404291:
     template: Boyahda_Sapling
-    at:       [-196.400, 11.498, 19.512, 247]
     level:    [74, 77]
+    region:   nw_387
 
   17404292:
     template: Boyahda_Sapling
-    at:       [-195.000, 11.553, 20.129, 124]
     level:    [74, 77]
+    region:   nw_387
 
   17404293:
     template: Boyahda_Sapling

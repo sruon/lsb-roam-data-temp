@@ -804,8 +804,8 @@ spawns:
 
   17272993:
     template: Rock_Golem
-    at:       [293.559, -1.257, 62.537, 53]
     level:    [49, 50]
+    region:   e_161
 
   17272994:
     template: Rock_Golem
@@ -1300,7 +1300,7 @@ spawns:
   17273092:
     template: Master_Coeurl
     level:    [44, 47]
-    region:   c_256
+    region:   c_260
 
   17273093:
     template: Hell_Hound

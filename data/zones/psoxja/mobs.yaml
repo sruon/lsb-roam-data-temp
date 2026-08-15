@@ -420,7 +420,7 @@ spawns:
   16814164:
     template: Goblin_Alchemist
     level:    [65, 67]
-    region:   se_84
+    region:   se_83
 
   16814165:
     template: Goblin_Bandit
@@ -574,8 +574,8 @@ spawns:
 
   16814195:
     template: Labyrinth_Lizard
-    at:       [230.270, -0.464, 289.159, 102]
     level:    [56, 58]
+    region:   ne_115
 
   16814196:
     template: Cryptonberry_Plaguer
@@ -599,8 +599,8 @@ spawns:
 
   16814200:
     template: Labyrinth_Lizard
-    at:       [309.775, -0.352, 310.160, 59]
     level:    [56, 58]
+    region:   ne_120
 
   16814201:
     template: Snoll
@@ -609,8 +609,8 @@ spawns:
 
   16814202:
     template: Labyrinth_Lizard
-    at:       [265.977, -0.352, 245.769, 69]
     level:    [56, 58]
+    region:   ne_122
 
   16814203:
     template: Snoll
@@ -639,13 +639,13 @@ spawns:
 
   16814208:
     template: Snow_Lizard
-    at:       [249.925, 15.647, 353.064, 100]
     level:    [63, 65]
+    region:   ne_128
 
   16814209:
     template: Snow_Lizard
-    at:       [269.494, 15.647, 332.142, 33]
     level:    [63, 65]
+    region:   ne_129
 
   16814210:
     template: Dark_Elemental
@@ -674,8 +674,8 @@ spawns:
 
   16814215:
     template: Cryptonberry_Stalker
-    at:       [285.561, 15.647, 293.993, 199]
     level:    [59, 60]
+    region:   ne_135
 
   16814216:
     template: Snow_Lizard
@@ -1340,7 +1340,7 @@ spawns:
   16814348:
     template: Diremite
     level:    [46, 47]
-    region:   c_268
+    region:   c_266
 
   16814349:
     template: Diremite
@@ -1589,8 +1589,8 @@ spawns:
 
   16814398:
     template: Purgatory_Bat
-    at:       [-389.028, 31.404, 368.271, 192]
     level:    [72, 74]
+    region:   nw_318
 
   16814399:
     template: Avalanche
@@ -1619,8 +1619,8 @@ spawns:
 
   16814404:
     template: Purgatory_Bat
-    at:       [-249.221, 31.414, 356.740, 63]
     level:    [72, 74]
+    region:   nw_324
 
   16814405:
     template: Diremite_Dominator
@@ -1704,13 +1704,13 @@ spawns:
 
   16814421:
     template: Purgatory_Bat
-    at:       [-295.371, 47.446, 389.103, 128]
     level:    [73, 76]
+    region:   nw_341
 
   16814422:
     template: Purgatory_Bat
-    at:       [-287.224, 47.409, 389.100, 126]
     level:    [73, 76]
+    region:   nw_341
 
   16814423:
     template: Frost_Lizard

@@ -39,18 +39,18 @@ spawns:
 
   16826376:
     template: Goblin_Fireman
-    at:       [-237.211, 7.544, -178.894, 129]
     level:    [66, 68]
+    region:   sw_8
 
   16826377:
     template: Goblin_Packman
-    at:       [-216.441, 9.415, -180.127, 15]
     level:    [66, 68]
+    region:   sw_8
 
   16826378:
     template: Goblin_Lengthman
-    at:       [-255.610, 7.525, -179.771, 127]
     level:    [66, 68]
+    region:   sw_8
 
   16826379:
     template: Bugbear_Watchman
@@ -224,8 +224,8 @@ spawns:
 
   16826413:
     template: Moblin_Draftsman
-    at:       [90.171, 19.386, 135.042, 169]
     level:    [66, 68]
+    region:   n_45
 
   16826414:
     template: Moblin_Workman
@@ -254,8 +254,8 @@ spawns:
 
   16826419:
     template: Bugbear_Trashman
-    at:       [95.286, 19.377, 107.633, 105]
     level:    [66, 67]
+    region:   n_51
 
   16826420:
     template: Goblin_Packman
@@ -344,18 +344,18 @@ spawns:
 
   16826437:
     template: Goblin_Lengthman
-    at:       [-28.640, 15.399, 33.106, 155]
     level:    [66, 68]
+    region:   c_69
 
   16826438:
     template: Goblin_Foreman
-    at:       [-29.502, 15.399, 33.705, 156]
     level:    [66, 68]
+    region:   c_69
 
   16826439:
     template: Goblins_Bat
-    at:       [-27.074, 15.399, 33.131, 142]
     level:    [61, 64]
+    region:   c_69
 
   16826440:
     template: Bugbear_Watchman
@@ -550,7 +550,7 @@ spawns:
   16826478:
     template: Bugbear_Trashman
     level:    [66, 67]
-    region:   s_109
+    region:   s_110
 
   16826479:
     template: Bugbear_Watchman
@@ -879,8 +879,8 @@ spawns:
 
   16826544:
     template: Moblin_Roadman
-    at:       [189.857, 15.399, 14.755, 51]
     level:    [78, 79]
+    region:   c_176
 
   16826545:
     template: Goblin_Marksman

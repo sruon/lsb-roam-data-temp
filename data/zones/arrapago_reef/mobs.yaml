@@ -180,7 +180,7 @@ spawns:
   16998436:
     template: Arrapago_Apkallu
     level:    [70, 72]
-    region:   e_36
+    region:   e_35
 
   16998437:
     template: Merrow_Chantress
@@ -199,8 +199,8 @@ spawns:
 
   16998440:
     template: Reserve_Draugar
-    at:       [449.850, -4.022, 146.264, 9]
     level:    [72, 73]
+    region:   e_40
 
   16998441:
     template: Draugars_Wyvern
@@ -209,8 +209,8 @@ spawns:
 
   16998442:
     template: Jnun
-    at:       [412.283, -2.050, 142.585, 195]
     level:    [77, 78]
+    region:   e_42
 
   16998443:
     template: Jnun
@@ -744,8 +744,8 @@ spawns:
 
   16998549:
     template: Phasma
-    at:       [-153.688, -9.750, 410.645, 164]
     level:    [73, 74]
+    region:   n_149
 
   16998550:
     template: Bhoot
@@ -840,7 +840,7 @@ spawns:
   16998568:
     template: Fallen_Imperial_Wizard
     level:    [72, 74]
-    region:   w_167
+    region:   w_168
 
   16998569:
     template: Fallen_Imperial_Trooper
@@ -1125,12 +1125,12 @@ spawns:
   16998625:
     template: Nirgali
     level:    [87, 89]
-    region:   w_224
+    region:   w_225
 
   16998626:
     template: Nirgali
     level:    [87, 89]
-    region:   w_224
+    region:   w_225
 
   16998627:
     template: Nirgali
@@ -1559,8 +1559,8 @@ spawns:
 
   16998712:
     template: Draugar_Servant
-    at:       [-468.697, -7.000, 213.653, 59]
     level:    [79, 81]
+    region:   w_311
 
   16998713:
     template: Jnun
@@ -1674,8 +1674,8 @@ spawns:
 
   16998735:
     template: Merrow_Typhoondancer
-    at:       [-295.847, -7.008, 301.477, 167]
     level:    [81, 83]
+    region:   nw_335
 
   16998736:
     template: Merrow_Bladedancer
@@ -1784,8 +1784,8 @@ spawns:
 
   16998757:
     template: Dweomershell
-    at:       [-303.700, -5.381, 198.623, 229]
     level:    [88, 89]
+    region:   w_357
 
   16998758:
     template: Dweomershell
@@ -2135,12 +2135,12 @@ spawns:
   16998827:
     template: Ephramadian_Shade
     level:    [68, 70]
-    region:   sw_426
+    region:   sw_427
 
   16998828:
     template: Ephramadian_Shade
     level:    [68, 70]
-    region:   sw_426
+    region:   sw_427
 
   16998829:
     template: Ephramadian_Shade

@@ -55,12 +55,12 @@ spawns:
   16949259:
     template: Nightmare_Worm
     level:    [78, 80]
-    region:   c_11
+    region:   c_9
 
   16949260:
     template: Nightmare_Worm
     level:    [78, 80]
-    region:   c_11
+    region:   c_9
 
   16949261:
     template: Nightmare_Worm
@@ -90,7 +90,7 @@ spawns:
   16949266:
     template: Nightmare_Worm
     level:    [78, 80]
-    region:   c_18
+    region:   c_17
 
   16949267:
     template: Nightmare_Worm
@@ -110,7 +110,7 @@ spawns:
   16949270:
     template: Adamantking_Effigy
     level:    [70, 70]
-    region:   c_22
+    region:   c_17
 
   16949271:
     template: Adamantking_Effigy
@@ -220,7 +220,7 @@ spawns:
   16949292:
     template: Tombstone_Prototype
     level:    [70, 70]
-    region:   sw_39
+    region:   sw_44
 
   16949293:
     template: Hydra_Black_Mage
@@ -270,7 +270,7 @@ spawns:
   16949302:
     template: Hydras_Avatar
     level:    [77, 79]
-    region:   nw_50
+    region:   nw_54
 
   16949303:
     template: Manifest_Icon
@@ -285,12 +285,12 @@ spawns:
   16949305:
     template: Manifest_Icon
     level:    [70, 70]
-    region:   nw_50
+    region:   nw_54
 
   16949306:
     template: Icon_Prototype
     level:    [70, 70]
-    region:   nw_50
+    region:   nw_54
 
   16949307:
     template: Nightmare_Taurus
@@ -504,23 +504,23 @@ spawns:
 
   16949349:
     template: Kindred_Monk
-    at:       [98.430, -41.598, 13.109, 49]
     level:    [95, 97]
+    region:   e_101
 
   16949350:
     template: Kindred_Black_Mage
-    at:       [98.623, -41.563, -6.756, 63]
     level:    [95, 97]
+    region:   e_101
 
   16949351:
     template: Kindred_Beastmaster
-    at:       [98.847, -41.500, 7.399, 184]
     level:    [95, 97]
+    region:   e_101
 
   16949352:
     template: Kindreds_Vouivre
-    at:       [98.657, -41.616, 13.845, 222]
     level:    [95, 97]
+    region:   e_101
 
   16949353:
     template: Kindred_White_Mage

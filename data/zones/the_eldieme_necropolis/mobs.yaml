@@ -419,33 +419,33 @@ spawns:
 
   17576020:
     template: Mummy
-    at:       [-515.164, -8.109, 506.405, 190]
     level:    [50, 52]
+    region:   nw_84
 
   17576021:
     template: Mummy
-    at:       [-517.719, -8.109, 506.570, 134]
     level:    [50, 52]
+    region:   nw_84
 
   17576022:
     template: Lich
-    at:       [-515.318, -8.109, 492.611, 0]
     level:    [51, 53]
+    region:   nw_84
 
   17576023:
     template: Mummy
-    at:       [-485.049, -8.109, 499.659, 0]
     level:    [50, 52]
+    region:   nw_87
 
   17576024:
     template: Mummy
-    at:       [-484.744, -8.109, 499.674, 123]
     level:    [50, 52]
+    region:   nw_87
 
   17576025:
     template: Lich
-    at:       [-481.744, -8.109, 506.583, 133]
     level:    [51, 53]
+    region:   nw_87
 
   17576026:
     template: Mummy
@@ -474,18 +474,18 @@ spawns:
 
   17576031:
     template: Blood_Soul
-    at:       [-422.890, 7.889, 500.012, 4]
     level:    [50, 52]
+    region:   nw_95
 
   17576032:
     template: Blood_Soul
-    at:       [-422.137, 7.889, 493.070, 128]
     level:    [50, 52]
+    region:   nw_95
 
   17576033:
     template: Blood_Soul
-    at:       [-414.504, 7.888, 499.852, 192]
     level:    [50, 52]
+    region:   nw_95
 
   17576034:
     template: Ka
@@ -715,7 +715,7 @@ spawns:
   17576079:
     template: Nekros_Hound
     level:    [93, 95]
-    region:   se_143
+    region:   se_61
 
   17576080:
     template: Nekros_Hound
@@ -799,18 +799,18 @@ spawns:
 
   17576096:
     template: Revenant
-    at:       [381.371, -40.051, 22.000, 253]
     level:    [44, 47]
+    region:   e_160
 
   17576097:
     template: Revenant
-    at:       [384.591, -40.051, 19.237, 147]
     level:    [44, 47]
+    region:   e_160
 
   17576098:
     template: Revenant
-    at:       [376.559, -40.051, 20.060, 97]
     level:    [44, 47]
+    region:   e_160
 
   17576099:
     template: Hell_Hound
@@ -1210,7 +1210,7 @@ spawns:
   17576178:
     template: Tomb_Warrior
     level:    [60, 62]
-    region:   se_241
+    region:   se_242
 
   17576179:
     template: Tomb_Mage
@@ -1235,12 +1235,12 @@ spawns:
   17576183:
     template: Shade
     level:    [46, 48]
-    region:   se_247
+    region:   se_245
 
   17576184:
     template: Lost_Soul
     level:    [45, 46]
-    region:   se_247
+    region:   se_245
 
   17576185:
     template: Lost_Soul
@@ -1535,7 +1535,7 @@ spawns:
   17576243:
     template: Lost_Soul
     level:    [45, 46]
-    region:   c_307
+    region:   e_306
 
   17576244:
     template: Spriggan

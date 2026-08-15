@@ -814,23 +814,23 @@ spawns:
 
   16806051:
     template: Flesh_Eater
-    at:       [-66.936, 33.382, -122.975, 186]
     level:    [34, 35]
+    region:   s_163
 
   16806052:
     template: Flesh_Eater
-    at:       [-63.057, 33.596, -103.561, 205]
     level:    [34, 35]
+    region:   s_163
 
   16806053:
     template: Flesh_Eater
-    at:       [-65.304, 33.543, -110.112, 205]
     level:    [34, 35]
+    region:   s_163
 
   16806054:
     template: Air_Elemental
     level:    [40, 42]
-    region:   s_166
+    region:   s_163
 
   16806055:
     template: Flesh_Eater
@@ -929,8 +929,8 @@ spawns:
 
   16806074:
     template: Flesh_Eater
-    at:       [-66.724, 13.646, -74.311, 198]
     level:    [35, 36]
+    region:   s_186
 
   16806075:
     template: Hecteyes
@@ -1039,13 +1039,13 @@ spawns:
 
   16806096:
     template: Flesh_Eater
-    at:       [-265.935, 13.564, 248.438, 210]
     level:    [34, 36]
+    region:   nw_208
 
   16806097:
     template: Air_Elemental
-    at:       [-265.656, 13.582, 248.894, 82]
     level:    [41, 43]
+    region:   nw_208
 
   16806098:
     template: Hecteyes
@@ -1074,8 +1074,8 @@ spawns:
 
   16806103:
     template: Flesh_Eater
-    at:       [-265.155, -5.964, 330.605, 68]
     level:    [36, 37]
+    region:   nw_215
 
   16806104:
     template: Flesh_Eater
@@ -1085,12 +1085,12 @@ spawns:
   16806105:
     template: Flesh_Eater
     level:    [36, 37]
-    region:   nw_216
+    region:   nw_217
 
   16806106:
     template: Air_Elemental
     level:    [41, 43]
-    region:   nw_216
+    region:   nw_217
 
   16806107:
     template: Tulwar_Scorpion

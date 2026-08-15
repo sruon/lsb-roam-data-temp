@@ -314,8 +314,8 @@ spawns:
 
   17354815:
     template: Orcish_Flamethrower
-    at:       [-32.396, -24.173, 127.006, 198]
     level:    [16, 18]
+    region:   nw_63
 
   17354816:
     template: Orcish_Fodder
@@ -400,12 +400,12 @@ spawns:
   17354832:
     template: Orcish_Fodder
     level:    [8, 10]
-    region:   nw_80
+    region:   nw_77
 
   17354833:
     template: Orcish_Mesmerizer
     level:    [8, 10]
-    region:   nw_80
+    region:   nw_77
 
   17354834:
     template: Orcish_Grappler
@@ -495,7 +495,7 @@ spawns:
   17354851:
     template: Cheiroptera
     level:    [8, 10]
-    region:   ne_92
+    region:   ne_99
 
   17354852:
     template: Orcish_Grunt
@@ -904,8 +904,8 @@ spawns:
 
   17354933:
     template: Orcish_Flamethrower
-    at:       [111.626, -43.474, -96.720, 58]
     level:    [16, 18]
+    region:   s_181
 
   17354934:
     template: Orcish_Grunt

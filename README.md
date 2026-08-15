@@ -33,8 +33,10 @@ belongs to the pack that walks it, not to one species.
 Two rules keep the geometry honest, and both are answered by the zone's **navmesh** rather than by a
 tuned constant:
 
-- A polygon may not reach more than 4 yalms from ground a mob was recorded standing on, and it is
-  clipped to the navmesh, so padding cannot cross a wall. Each grid cell is checked at nine points
+- A polygon may not reach more than 4 yalms from ground a mob was recorded standing on, and that
+  padding is clipped to the navmesh so it cannot cross a wall. Clipping applies to padding only,
+  never to a cell a mob was actually recorded in: the navmesh stops at a shoreline the mobs plainly
+  use, and deleting those cells cut the southern strip off a lakeside region. Each grid cell is checked at nine points
   across it and needs seven on the navmesh: judging by the centre alone lets every boundary cell hang
   half a cell over the wall, while demanding all nine erases narrow indoor corridors, where no cell is
   ever fully covered. Where clipping severs a corridor the mobs walked through, the cells along the
@@ -52,11 +54,12 @@ tuned constant:
   castle's storeys collapse into one another -- Castle Oztroja had 22 of 94 regions mixing floors. Inferring walkable ground from the capture
   instead both over-reaches -- padding a trail out across a tunnel wall -- and under-covers, since
   the roam capture lights up only about 45% of a zone's walkable surface.
-- A gap is cut out as a hole only when it is off the navmesh **and** none of the region's own mobs
-  were recorded inside it. A recorded position outranks the navmesh: it stops at the shallows, so
-  without that rule the deep water a river crab swims in is clipped away and returns as a hole in the
-  middle of its own lake. A gap on walkable ground is somewhere the mobs simply were not recorded,
-  not a building, so it is filled in.
+- **An enclosed gap the region's own mobs never entered is a hole.** Closing a trail by 16 yalms
+  bridges sampling gaps, but it also fills in whatever the mobs walked *around* -- a lake, a mountain,
+  a building. Whether such a gap is an obstacle is not a question about the navmesh, barriers or
+  water: it is only whether these mobs were ever recorded inside it. Asking it any other way needed a
+  separate rule per case, and they contradicted each other -- an exception added so river crabs could
+  swim in their lake erased the same lake from the land region that walks around it.
 
 The navmesh comes from `lsb/navmeshes/*.nav`; all 161 zones have one.
 

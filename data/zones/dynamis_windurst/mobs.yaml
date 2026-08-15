@@ -855,7 +855,7 @@ spawns:
   17543339:
     template: Vanguard_Partisan
     level:    [75, 77]
-    region:   e_167
+    region:   e_171
 
   17543340:
     template: Vanguards_Wyvern
@@ -874,8 +874,8 @@ spawns:
 
   17543343:
     template: Vanguard_Priest
-    at:       [111.377, -8.410, 117.748, 123]
     level:    [75, 77]
+    region:   e_175
 
   17543344:
     template: Vanguard_Chanter
@@ -1214,13 +1214,13 @@ spawns:
 
   17543411:
     template: Vanguard_Salvager
-    at:       [-99.732, -18.000, 203.763, 98]
     level:    [90, 92]
+    region:   nw_243
 
   17543412:
     template: Vanguard_Inciter
-    at:       [-97.015, -18.434, 197.382, 250]
     level:    [90, 92]
+    region:   nw_243
 
   17543413:
     template: Vanguard_Persecutor

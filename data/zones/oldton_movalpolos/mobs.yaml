@@ -174,8 +174,8 @@ spawns:
 
   16822307:
     template: Moblin_Ragman
-    at:       [-267.419, 7.285, 23.881, 207]
     level:    [33, 35]
+    region:   w_35
 
   16822308:
     template: Bugbear_Servingman
@@ -219,8 +219,8 @@ spawns:
 
   16822316:
     template: Goblin_Gutterman
-    at:       [-216.933, 7.397, -9.241, 41]
     level:    [33, 35]
+    region:   w_44
 
   16822317:
     template: Goblin_Craftsman
@@ -229,8 +229,8 @@ spawns:
 
   16822318:
     template: Moblin_Ragman
-    at:       [-228.946, 7.472, -25.505, 78]
     level:    [33, 35]
+    region:   w_46
 
   16822319:
     template: Dark_Bats
@@ -429,13 +429,13 @@ spawns:
 
   16822358:
     template: Moblin_Chapman
-    at:       [-134.841, 7.314, -214.812, 40]
     level:    [34, 36]
+    region:   s_86
 
   16822359:
     template: Bugbear_Servingman
-    at:       [-101.177, 7.397, -234.822, 183]
     level:    [33, 35]
+    region:   s_87
 
   16822360:
     template: Bugbear_Servingman
@@ -459,8 +459,8 @@ spawns:
 
   16822364:
     template: Moblin_Witchman
-    at:       [-96.275, 7.488, -270.593, 83]
     level:    [34, 36]
+    region:   s_92
 
   16822365:
     template: Goblin_Craftsman
@@ -684,13 +684,13 @@ spawns:
 
   16822409:
     template: Moblin_Pikeman
-    at:       [26.816, 7.401, 69.280, 30]
     level:    [42, 43]
+    region:   e_137
 
   16822410:
     template: Goblin_Doorman
-    at:       [29.179, 7.393, 65.228, 41]
     level:    [42, 43]
+    region:   e_137
 
   16822411:
     template: Moblin_Pikeman
@@ -759,8 +759,8 @@ spawns:
 
   16822424:
     template: Goblin_Oilman
-    at:       [29.047, 9.399, -118.903, 114]
     level:    [42, 43]
+    region:   se_152
 
   16822425:
     template: Bugbear_Bondman
@@ -789,18 +789,18 @@ spawns:
 
   16822430:
     template: Goblin_Shovelman
-    at:       [59.446, 11.399, -76.484, 128]
     level:    [42, 43]
+    region:   se_158
 
   16822431:
     template: Goblin_Tollman
     level:    [42, 43]
-    region:   se_159
+    region:   se_158
 
   16822432:
     template: Goblins_Bat
     level:    [37, 38]
-    region:   se_159
+    region:   se_158
 
   16822433:
     template: Goblin_Freelance
@@ -925,7 +925,7 @@ spawns:
   16822457:
     template: Moblin_Gurneyman
     level:    [46, 47]
-    region:   c_134
+    region:   e_185
 
   16822458:
     template: Moblin_Gurneyman

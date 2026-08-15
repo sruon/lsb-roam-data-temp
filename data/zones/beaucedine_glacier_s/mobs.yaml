@@ -605,7 +605,7 @@ spawns:
   17334393:
     template: Gawper
     level:    [80, 82]
-    region:   s_120
+    region:   s_121
 
   17334394:
     template: Gawper
@@ -3074,13 +3074,13 @@ spawns:
 
   17334887:
     template: Goblin_Lansquenet
-    at:       [67.451, -60.483, -67.316, 126]
     level:    [1, 1]
+    region:   ne_615
 
   17334888:
     template: Goblin_Lansquenet
-    at:       [67.805, -60.378, -66.419, 112]
     level:    [1, 1]
+    region:   ne_615
 
   17334889:
     template: Goblin_Lansquenet

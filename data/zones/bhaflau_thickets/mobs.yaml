@@ -204,23 +204,23 @@ spawns:
 
   16990249:
     template: Aht_Urhgan_Attercop
-    at:       [371.994, -9.766, 180.350, 155]
     level:    [64, 65]
+    region:   e_41
 
   16990250:
     template: Aht_Urhgan_Attercop
     level:    [64, 65]
-    region:   e_42
+    region:   e_41
 
   16990251:
     template: Fomor_Thief
     level:    [63, 64]
-    region:   e_42
+    region:   e_43
 
   16990252:
     template: Harvestman
     level:    [72, 73]
-    region:   e_42
+    region:   e_43
 
   16990253:
     template: Lesser_Colibri
@@ -754,8 +754,8 @@ spawns:
 
   16990359:
     template: Colibri
-    at:       [100.000, -34.000, 523.000, 127]
     level:    [71, 73]
+    region:   n_151
 
   16990360:
     template: Olden_Treant
@@ -804,13 +804,13 @@ spawns:
 
   16990369:
     template: Incubus_Bats
-    at:       [-37.000, -32.000, 476.000, 127]
     level:    [61, 63]
+    region:   n_161
 
   16990370:
     template: Incubus_Bats
-    at:       [-20.000, -35.000, 530.000, 127]
     level:    [61, 63]
+    region:   n_161
 
   16990371:
     template: Treant_Sapling
@@ -1435,32 +1435,32 @@ spawns:
   16990495:
     template: Locus_Colibri
     level:    [133, 135]
-    region:   w_267
+    region:   w_287
 
   16990496:
     template: Locus_Colibri
     level:    [133, 135]
-    region:   w_267
+    region:   w_287
 
   16990497:
     template: Locus_Colibri
     level:    [133, 135]
-    region:   w_267
+    region:   w_287
 
   16990498:
     template: Locus_Colibri
     level:    [133, 135]
-    region:   w_267
+    region:   w_287
 
   16990499:
     template: Locus_Colibri
     level:    [133, 135]
-    region:   w_267
+    region:   w_287
 
   16990500:
     template: Locus_Wivre
     level:    [135, 137]
-    region:   w_267
+    region:   w_287
 
   16990501:
     template: Locus_Colibri

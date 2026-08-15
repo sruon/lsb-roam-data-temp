@@ -269,23 +269,23 @@ spawns:
 
   17342518:
     template: Orcish_Augur
-    at:       [20.000, -24.000, -58.000, 44]
     level:    [76, 79]
+    region:   sw_54
 
   17342519:
     template: Orcish_Dragonbrander
-    at:       [16.000, -24.000, -26.000, 54]
     level:    [76, 78]
+    region:   sw_54
 
   17342520:
     template: Orcish_Champion
     level:    [76, 79]
-    region:   sw_56
+    region:   sw_54
 
   17342521:
     template: Orcish_Dragonbrander
     level:    [76, 78]
-    region:   sw_56
+    region:   sw_54
 
   17342522:
     template: Demon_Magus
@@ -685,12 +685,12 @@ spawns:
   17342601:
     template: Demons_Elemental
     level:    [75, 78]
-    region:   sw_137
+    region:   sw_136
 
   17342602:
     template: Demon_Magus
     level:    [80, 81]
-    region:   sw_138
+    region:   sw_136
 
   17342603:
     template: Ogler

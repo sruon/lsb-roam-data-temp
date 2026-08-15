@@ -1339,8 +1339,8 @@ spawns:
 
   17387788:
     template: Orcish_Dreadnought
-    at:       [-61.000, 4.000, -241.000, 127]
     level:    [63, 67]
+    region:   s_268
 
   17387789:
     template: Orcish_Farkiller
@@ -1605,12 +1605,12 @@ spawns:
   17387841:
     template: Orcish_Brawler
     level:    [35, 39]
-    region:   se_321
+    region:   se_319
 
   17387842:
     template: Orcish_Impaler
     level:    [32, 36]
-    region:   se_321
+    region:   se_319
 
   17387843:
     template: Orcish_Beastrider
@@ -1625,17 +1625,17 @@ spawns:
   17387845:
     template: Orcish_Brawler
     level:    [35, 39]
-    region:   se_321
+    region:   se_319
 
   17387846:
     template: Davoi_Hornet
     level:    [20, 23]
-    region:   se_326
+    region:   se_319
 
   17387847:
     template: Davoi_Hornet
     level:    [20, 23]
-    region:   s_327
+    region:   se_319
 
   17387848:
     template: Orcish_Impaler
@@ -2039,8 +2039,8 @@ spawns:
 
   17387928:
     template: Orcish_Beastrider
-    at:       [-169.000, -0.714, -174.000, 125]
     level:    [33, 37]
+    region:   w_408
 
   17387929:
     template: Orcish_Nightraider
@@ -2079,8 +2079,8 @@ spawns:
 
   17387936:
     template: Orcish_Farkiller
-    at:       [48.901, -4.018, -112.083, 1]
     level:    [62, 66]
+    region:   c_415
 
   17387937:
     template: Orcish_Dreadnought

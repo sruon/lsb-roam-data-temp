@@ -69,8 +69,8 @@ spawns:
 
   17055758:
     template: Treant_Sapling
-    at:       [150.020, 39.062, 141.151, 129]
     level:    [66, 68]
+    region:   c_14
 
   17055759:
     template: Treant_Sapling
@@ -194,8 +194,8 @@ spawns:
 
   17055783:
     template: Treant_Sapling
-    at:       [-94.330, 18.579, 8.603, 120]
     level:    [67, 68]
+    region:   c_39
 
   17055784:
     template: Puktrap
@@ -874,8 +874,8 @@ spawns:
 
   17055919:
     template: Mold_Eater
-    at:       [-340.500, 13.885, -365.240, 56]
     level:    [69, 71]
+    region:   sw_175
 
   17055920:
     template: Mold_Eater
@@ -894,8 +894,8 @@ spawns:
 
   17055923:
     template: Mold_Eater
-    at:       [-294.700, 14.083, -380.610, 120]
     level:    [69, 71]
+    region:   sw_179
 
   17055924:
     template: Mold_Eater
@@ -1074,23 +1074,23 @@ spawns:
 
   17055959:
     template: Fossorial_Flea
-    at:       [-101.400, 8.603, -266.700, 91]
     level:    [66, 68]
+    region:   s_215
 
   17055960:
     template: Fossorial_Flea
-    at:       [-95.770, 8.376, -255.890, 199]
     level:    [66, 68]
+    region:   s_215
 
   17055961:
     template: Fossorial_Flea
-    at:       [-97.900, 8.608, -262.030, 87]
     level:    [66, 68]
+    region:   s_215
 
   17055962:
     template: Treant_Sapling
-    at:       [-190.100, 8.037, -141.360, 251]
     level:    [67, 69]
+    region:   w_218
 
   17055963:
     template: Slime_Mold
@@ -1569,8 +1569,8 @@ spawns:
 
   17056058:
     template: Phlebotomic_Slug
-    at:       [260.860, 33.388, -163.250, 193]
     level:    [68, 70]
+    region:   se_314
 
   17056059:
     template: Phlebotomic_Slug
@@ -1854,8 +1854,8 @@ spawns:
 
   17056115:
     template: Treant_Sapling
-    at:       [216.380, 1.089, 417.045, 189]
     level:    [67, 69]
+    region:   ne_371
 
   17056116:
     template: Qiqirn_Enterpriser

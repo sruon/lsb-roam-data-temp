@@ -224,8 +224,8 @@ spawns:
 
   17440813:
     template: Goblin_Bouncer
-    at:       [-32.000, 0.474, 113.000, 127]
     level:    [50, 52]
+    region:   ne_45
 
   17440814:
     template: Goblin_Enchanter
@@ -314,8 +314,8 @@ spawns:
 
   17440831:
     template: Orcish_Bowshooter
-    at:       [-6.000, 0.474, -106.000, 127]
     level:    [47, 49]
+    region:   se_63
 
   17440832:
     template: Orcish_Footsoldier

@@ -124,13 +124,13 @@ spawns:
 
   17350681:
     template: Orcish_Stonelauncher
-    at:       [12.978, -1.869, -30.634, 127]
     level:    [8, 10]
+    region:   se_25
 
   17350682:
     template: Orcish_Stonelauncher
-    at:       [-12.438, -1.835, -30.861, 127]
     level:    [8, 10]
+    region:   s_26
 
   17350683:
     template: Orcish_Grappler
@@ -1090,17 +1090,17 @@ spawns:
   17350878:
     template: Ghelsba_Pugil
     level:    [3, 6]
-    region:   ne_160
+    region:   ne_222
 
   17350879:
     template: Ghelsba_Pugil
     level:    [3, 6]
-    region:   ne_160
+    region:   ne_222
 
   17350880:
     template: Ghelsba_Pugil
     level:    [3, 6]
-    region:   ne_160
+    region:   ne_222
 
   17350881:
     template: Ghelsba_Pugil
@@ -1139,8 +1139,8 @@ spawns:
 
   17350888:
     template: Orcish_Mesmerizer
-    at:       [59.298, -32.283, 337.830, 127]
     level:    [5, 7]
+    region:   ne_232
 
   17350889:
     template: Orcish_Mesmerizer

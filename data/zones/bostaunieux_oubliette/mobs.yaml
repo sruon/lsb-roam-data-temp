@@ -134,8 +134,8 @@ spawns:
 
   17461275:
     template: Haunt
-    at:       [-218.968, 0.000, -171.540, 120]
     level:    [60, 63]
+    region:   w_27
 
   17461276:
     template: Garm
@@ -205,12 +205,12 @@ spawns:
   17461289:
     template: Dark_Aspic
     level:    [52, 53]
-    region:   n_39
+    region:   n_41
 
   17461290:
     template: Dark_Aspic
     level:    [52, 54]
-    region:   n_39
+    region:   n_41
 
   17461291:
     template: Funnel_Bats
@@ -225,12 +225,12 @@ spawns:
   17461293:
     template: Dark_Aspic
     level:    [52, 54]
-    region:   c_44
+    region:   c_45
 
   17461294:
     template: Dark_Aspic
     level:    [52, 54]
-    region:   c_44
+    region:   c_45
 
   17461295:
     template: Haunt
@@ -245,7 +245,7 @@ spawns:
   17461297:
     template: Dark_Aspic
     level:    [52, 54]
-    region:   n_48
+    region:   n_49
 
   17461298:
     template: Funnel_Bats
@@ -265,17 +265,17 @@ spawns:
   17461301:
     template: Mousse
     level:    [58, 62]
-    region:   c_50
+    region:   c_53
 
   17461302:
     template: Mousse
     level:    [58, 62]
-    region:   c_50
+    region:   c_53
 
   17461303:
     template: Mousse
     level:    [58, 62]
-    region:   c_50
+    region:   c_53
 
   17461304:
     template: Mousse
@@ -345,7 +345,7 @@ spawns:
   17461317:
     template: Dark_Aspic
     level:    [52, 54]
-    region:   c_68
+    region:   c_69
 
   17461318:
     template: Funnel_Bats
@@ -405,7 +405,7 @@ spawns:
   17461329:
     template: Werebat
     level:    [55, 59]
-    region:   sw_80
+    region:   sw_81
 
   17461330:
     template: Werebat
@@ -420,12 +420,12 @@ spawns:
   17461332:
     template: Dark_Aspic
     level:    [52, 53]
-    region:   sw_80
+    region:   sw_84
 
   17461333:
     template: Dark_Aspic
     level:    [52, 53]
-    region:   sw_80
+    region:   sw_84
 
   17461334:
     template: Garm
@@ -500,12 +500,12 @@ spawns:
   17461348:
     template: Panna_Cotta
     level:    [95, 96]
-    region:   s_96
+    region:   s_100
 
   17461349:
     template: Panna_Cotta
     level:    [95, 96]
-    region:   s_98
+    region:   s_101
 
   17461350:
     template: Blind_Bat
@@ -525,12 +525,12 @@ spawns:
   17461353:
     template: Panna_Cotta
     level:    [95, 96]
-    region:   s_102
+    region:   s_105
 
   17461354:
     template: Panna_Cotta
     level:    [95, 96]
-    region:   s_102
+    region:   s_105
 
   17461355:
     template: Nachtmahr
@@ -570,7 +570,7 @@ spawns:
   17461362:
     template: Panna_Cotta
     level:    [95, 96]
-    region:   s_112
+    region:   s_114
 
   17461363:
     template: Nachtmahr
@@ -605,12 +605,12 @@ spawns:
   17461369:
     template: Panna_Cotta
     level:    [95, 96]
-    region:   se_118
+    region:   e_121
 
   17461370:
     template: Panna_Cotta
     level:    [95, 96]
-    region:   se_118
+    region:   e_121
 
   17461371:
     template: Dabilla
@@ -700,12 +700,12 @@ spawns:
   17461388:
     template: Blind_Bat
     level:    [95, 97]
-    region:   e_140
+    region:   e_139
 
   17461389:
     template: Panna_Cotta
     level:    [95, 96]
-    region:   e_139
+    region:   e_141
 
   17461390:
     template: Nachtmahr
@@ -715,7 +715,7 @@ spawns:
   17461391:
     template: Panna_Cotta
     level:    [95, 96]
-    region:   e_142
+    region:   e_143
 
   17461392:
     template: Blind_Bat
@@ -740,12 +740,12 @@ spawns:
   17461396:
     template: Panna_Cotta
     level:    [95, 96]
-    region:   ne_144
+    region:   ne_148
 
   17461397:
     template: Panna_Cotta
     level:    [95, 96]
-    region:   ne_144
+    region:   ne_148
 
   17461398:
     template: Dabilla

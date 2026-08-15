@@ -54,8 +54,8 @@ spawns:
 
   17477643:
     template: Witch_Hazel
-    at:       [60.612, -0.761, 124.941, 200]
     level:    [62, 64]
+    region:   c_11
 
   17477644:
     template: Witch_Hazel
@@ -94,8 +94,8 @@ spawns:
 
   17477651:
     template: Electrumcap
-    at:       [-59.309, -8.759, 123.696, 200]
     level:    [68, 70]
+    region:   c_19
 
   17477652:
     template: Wespe
@@ -114,8 +114,8 @@ spawns:
 
   17477655:
     template: Labyrinth_Lizard
-    at:       [102.307, -0.710, 252.748, 42]
     level:    [65, 67]
+    region:   n_23
 
   17477656:
     template: Witch_Hazel
@@ -134,8 +134,8 @@ spawns:
 
   17477659:
     template: Labyrinth_Lizard
-    at:       [-110.008, -0.785, 218.141, 114]
     level:    [65, 67]
+    region:   n_27
 
   17477660:
     template: Wespe
@@ -674,13 +674,13 @@ spawns:
 
   17477767:
     template: 1st_Gold_Musketeer
-    at:       [0.000, 0.000, 0.000, 164]
     level:    [0, 0]
+    region:   c_135
 
   17477768:
     template: 1st_Gold_Musketeer
-    at:       [0.000, 0.000, 0.000, 153]
     level:    [0, 0]
+    region:   c_135
 
   17477769:
     template: 1st_Gold_Musketeer
@@ -689,18 +689,18 @@ spawns:
 
   17477770:
     template: 1st_Gold_Musketeer
-    at:       [0.000, 0.000, 0.000, 167]
     level:    [0, 0]
+    region:   c_135
 
   17477771:
     template: 1st_Gold_Musketeer
-    at:       [0.000, 0.000, 0.000, 191]
     level:    [0, 0]
+    region:   c_135
 
   17477772:
     template: 1st_Gold_Musketeer
-    at:       [0.000, 0.000, 0.000, 154]
     level:    [0, 0]
+    region:   c_135
 
   17477773:
     template: 1st_Gold_Musketeer
@@ -709,8 +709,8 @@ spawns:
 
   17477774:
     template: 1st_Gold_Musketeer
-    at:       [0.000, 0.000, 0.000, 153]
     level:    [0, 0]
+    region:   c_135
 
   17477775:
     template: 1st_Gold_Musketeer
@@ -774,48 +774,48 @@ spawns:
 
   17477787:
     template: 1st_Legion_Reiter
-    at:       [117.750, -34.189, -79.442, 204]
     level:    [68, 68]
+    region:   c_135
 
   17477788:
     template: 1st_Legion_Reiter
-    at:       [117.576, -34.189, -79.417, 205]
     level:    [68, 68]
+    region:   c_135
 
   17477789:
     template: 1st_Legion_Reiter
-    at:       [117.527, -34.189, -79.187, 206]
     level:    [68, 68]
+    region:   c_135
 
   17477790:
     template: 1st_Legion_Reiter
-    at:       [117.922, -34.189, -79.114, 203]
     level:    [68, 68]
+    region:   c_135
 
   17477791:
     template: 1st_Legion_Reiter
-    at:       [117.730, -34.189, -79.634, 203]
     level:    [68, 68]
+    region:   c_135
 
   17477792:
     template: 1st_Legion_Reiter
-    at:       [117.738, -34.189, -79.643, 203]
     level:    [68, 68]
+    region:   c_135
 
   17477793:
     template: 1st_Legion_Reiter
-    at:       [157.087, -32.911, -140.415, 251]
     level:    [68, 68]
+    region:   c_135
 
   17477794:
     template: 1st_Legion_Reiter
-    at:       [59.382, -32.894, -101.262, 135]
     level:    [68, 68]
+    region:   c_135
 
   17477795:
     template: 1st_Legion_Reiter
-    at:       [118.211, -34.189, -79.254, 199]
     level:    [68, 68]
+    region:   c_135
 
   17477796:
     template: 4th_Legionnaire
@@ -1179,8 +1179,8 @@ spawns:
 
   17477868:
     template: Qulun_Heavyshell
-    at:       [0.000, 0.000, 0.000, 231]
     level:    [60, 60]
+    region:   ne_236
 
   17477869:
     template: Qulun_Heavyshell
@@ -1194,33 +1194,33 @@ spawns:
 
   17477871:
     template: Qulun_Heavyshell
-    at:       [0.000, 0.000, 0.000, 222]
     level:    [60, 60]
+    region:   ne_236
 
   17477872:
     template: Qulun_Heavyshell
-    at:       [0.000, 0.000, 0.000, 28]
     level:    [60, 60]
+    region:   ne_236
 
   17477873:
     template: Qulun_Heavyshell
-    at:       [0.000, 0.000, 0.000, 61]
     level:    [60, 60]
+    region:   ne_236
 
   17477874:
     template: Qulun_Heavyshell
-    at:       [0.000, 0.000, 0.000, 214]
     level:    [60, 60]
+    region:   ne_236
 
   17477875:
     template: Qulun_Heavyshell
-    at:       [0.000, 0.000, 0.000, 12]
     level:    [60, 60]
+    region:   ne_236
 
   17477876:
     template: Qulun_Heavyshell
-    at:       [0.000, 0.000, 0.000, 146]
     level:    [60, 60]
+    region:   ne_236
 
   17477877:
     template: GoBhu_Herohunter
@@ -1274,83 +1274,83 @@ spawns:
 
   17477887:
     template: GoDha_Jademaiden
-    at:       [124.793, -32.966, -90.399, 218]
     level:    [70, 70]
+    region:   ne_236
 
   17477888:
     template: GoDhas_Elite_Raider
-    at:       [0.000, 0.000, 0.000, 218]
     level:    [70, 70]
+    region:   ne_236
 
   17477889:
     template: GoDhas_Elite_Raider
-    at:       [0.000, 0.000, 0.000, 41]
     level:    [70, 70]
+    region:   ne_236
 
   17477890:
     template: GoDhas_Elite_Raider
-    at:       [0.000, 0.000, 0.000, 180]
     level:    [70, 70]
+    region:   ne_236
 
   17477891:
     template: GoDhas_Elite_Raider
-    at:       [120.180, -34.189, -81.112, 110]
     level:    [70, 70]
+    region:   ne_236
 
   17477892:
     template: GoDhas_Elite_Raider
-    at:       [121.555, -34.189, -81.477, 36]
     level:    [70, 70]
+    region:   ne_236
 
   17477893:
     template: GoDhas_Elite_Raider
-    at:       [0.000, 0.000, 0.000, 28]
     level:    [70, 70]
+    region:   e_261
 
   17477894:
     template: GoDhas_Elite_Raider
-    at:       [0.000, 0.000, 0.000, 208]
     level:    [70, 70]
+    region:   ne_236
 
   17477895:
     template: GoDhas_Elite_Raider
-    at:       [119.951, -34.189, -81.036, 109]
     level:    [70, 70]
+    region:   e_263
 
   17477896:
     template: GoDhas_Elite_Raider
-    at:       [0.000, 0.000, 0.000, 255]
     level:    [70, 70]
+    region:   ne_236
 
   17477897:
     template: BoDhos_Shieldwarrior
-    at:       [0.000, 0.000, 0.000, 55]
     level:    [75, 80]
+    region:   ne_236
 
   17477898:
     template: BoDhos_Shieldwarrior
-    at:       [0.000, 0.000, 0.000, 137]
     level:    [75, 80]
+    region:   ne_236
 
   17477899:
     template: BoDhos_Shieldwarrior
-    at:       [0.000, 0.000, 0.000, 161]
     level:    [75, 80]
+    region:   ne_236
 
   17477900:
     template: BoDhos_Shieldwarrior
-    at:       [0.000, 0.000, 0.000, 14]
     level:    [75, 80]
+    region:   ne_236
 
   17477901:
     template: BoDhos_Shieldwarrior
-    at:       [0.000, 0.000, 0.000, 34]
     level:    [75, 80]
+    region:   ne_236
 
   17477902:
     template: BoDhos_Shieldwarrior
-    at:       [0.000, 0.000, 0.000, 77]
     level:    [75, 80]
+    region:   ne_236
 
   17477903:
     template: Confederate_Mantelet
@@ -1939,8 +1939,8 @@ spawns:
 
   17478020:
     template: Areuhat
-    at:       [0.000, 0.000, 0.000, 0]
     level:    [1, 1]
+    region:   c_135
 
   17478021:
     template: Odzmanouk
