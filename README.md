@@ -32,7 +32,9 @@ Two rules keep the geometry honest, and both are answered by the zone's **navmes
 tuned constant:
 
 - A polygon may not reach more than 4 yalms from ground a mob was recorded standing on, and it is
-  clipped to the navmesh, so padding cannot cross a wall. Inferring walkable ground from the capture
+  clipped to the navmesh, so padding cannot cross a wall. A grid cell counts as walkable only when
+  the *whole* cell is on the navmesh, not merely its centre -- otherwise every boundary cell hangs up
+  to half a cell over the wall, which is what pushed visible spurs into obstacles. Inferring walkable ground from the capture
   instead both over-reaches -- padding a trail out across a tunnel wall -- and under-covers, since
   the roam capture lights up only about 45% of a zone's walkable surface.
 - A gap is cut out as a hole only when it is off the navmesh. A gap on walkable ground is somewhere
@@ -45,9 +47,10 @@ The navmesh comes from `lsb/navmeshes/*.nav`; all 161 zones have one.
 - **Fliers cover unwalkable ground.** A Pixie's region is the floor under a flight path — its trail
   spans 51 yalms vertically in West Ronfaure against about 11 for ground mobs. No amount of geometry
   fixes that; those regions need a human.
-- **Region names are anchored, not positional.** A name is `<zone>_<compass>_<index>`, where the
-  index is the zone-local mob index of the lowest-numbered mob in the region and the compass reading
-  comes from that mob's own recorded position. Each mob belongs to exactly one region, so the anchor
+- **Region names are anchored, not positional.** A name is `<compass>_<index>` -- no zone prefix,
+  since a name is only ever resolved against its own `zone.yaml`. The index is the zone-local mob
+  index of the lowest-numbered mob in the region, and the compass reading comes from that mob's own
+  recorded position. Each mob belongs to exactly one region, so the anchor
   is unique without a collision counter, and neither part moves when the geometry is retuned. Across
   a reach-cap change 99.9% of spawns keep their region name and across a simplification change 100%
   do; the residual churn is a grouping change genuinely moving a mob to a different region.
