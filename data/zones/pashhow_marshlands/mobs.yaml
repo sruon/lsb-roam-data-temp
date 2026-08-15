@@ -280,22 +280,22 @@ spawns:
   17223736:
     template: Goobbue
     level:    [24, 25]
-    region:   sw_20
+    region:   sw_56
 
   17223737:
     template: Goobbue
     level:    [24, 25]
-    region:   sw_20
+    region:   sw_56
 
   17223738:
     template: Malboro
     level:    [27, 28]
-    region:   sw_20
+    region:   sw_56
 
   17223739:
     template: Old_Quadav
     level:    [22, 23]
-    region:   sw_20
+    region:   sw_56
 
   17223740:
     template: Veteran_Quadav
@@ -305,22 +305,22 @@ spawns:
   17223741:
     template: Greater_Quadav
     level:    [17, 18]
-    region:   sw_20
+    region:   sw_56
 
   17223742:
     template: Copper_Quadav
     level:    [22, 23]
-    region:   sw_20
+    region:   sw_56
 
   17223743:
     template: Brass_Quadav
     level:    [22, 23]
-    region:   sw_20
+    region:   sw_56
 
   17223744:
     template: Onyx_Quadav
     level:    [17, 18]
-    region:   sw_20
+    region:   sw_56
 
   17223745:
     template: Ghoul
@@ -335,7 +335,7 @@ spawns:
   17223747:
     template: Thunder_Elemental
     level:    [27, 29]
-    region:   sw_20
+    region:   sw_56
 
   17223748:
     template: Gadfly
@@ -525,47 +525,47 @@ spawns:
   17223785:
     template: Goobbue
     level:    [24, 25]
-    region:   s_93
+    region:   s_105
 
   17223786:
     template: Goobbue
     level:    [24, 25]
-    region:   s_93
+    region:   s_105
 
   17223787:
     template: Malboro
     level:    [27, 28]
-    region:   s_93
+    region:   s_105
 
   17223788:
     template: Old_Quadav
     level:    [22, 23]
-    region:   s_93
+    region:   s_105
 
   17223789:
     template: Veteran_Quadav
     level:    [17, 18]
-    region:   s_93
+    region:   s_105
 
   17223790:
     template: Greater_Quadav
     level:    [17, 18]
-    region:   s_93
+    region:   s_105
 
   17223791:
     template: Copper_Quadav
     level:    [22, 23]
-    region:   s_93
+    region:   s_105
 
   17223792:
     template: Brass_Quadav
     level:    [22, 23]
-    region:   s_93
+    region:   s_105
 
   17223793:
     template: Onyx_Quadav
     level:    [17, 18]
-    region:   s_93
+    region:   s_105
 
   17223794:
     template: Ghoul
@@ -580,7 +580,7 @@ spawns:
   17223796:
     template: Thunder_Elemental
     level:    [27, 28]
-    region:   s_93
+    region:   s_105
 
   17223797:
     template: NiZho_Bladebender
@@ -795,7 +795,7 @@ spawns:
   17223839:
     template: Goobbue
     level:    [24, 25]
-    region:   e_145
+    region:   e_159
 
   17223840:
     template: Old_Quadav
@@ -1100,7 +1100,7 @@ spawns:
   17223900:
     template: Thunder_Elemental
     level:    [27, 28]
-    region:   c_219
+    region:   c_220
 
   17223901:
     template: Thread_Leech
@@ -1455,12 +1455,12 @@ spawns:
   17223971:
     template: Marsh_Funguar
     level:    [24, 25]
-    region:   sw_280
+    region:   w_291
 
   17223972:
     template: Goblin_Mugger
     level:    [21, 22]
-    region:   sw_280
+    region:   w_291
 
   17223973:
     template: Goblin_Ambusher
@@ -1485,17 +1485,17 @@ spawns:
   17223977:
     template: Goblin_Butcher
     level:    [16, 17]
-    region:   sw_280
+    region:   w_291
 
   17223978:
     template: Black_Bat
     level:    [17, 18]
-    region:   sw_280
+    region:   w_291
 
   17223979:
     template: Black_Bat
     level:    [17, 18]
-    region:   sw_280
+    region:   w_291
 
   17223980:
     template: Malboro
@@ -2075,7 +2075,7 @@ spawns:
   17224095:
     template: Marsh_Funguar
     level:    [24, 25]
-    region:   se_412
+    region:   se_415
 
   17224096:
     template: Marsh_Funguar
@@ -2135,32 +2135,32 @@ spawns:
   17224107:
     template: Old_Quadav
     level:    [22, 23]
-    region:   se_412
+    region:   se_427
 
   17224108:
     template: Veteran_Quadav
     level:    [17, 18]
-    region:   se_412
+    region:   se_427
 
   17224109:
     template: Greater_Quadav
     level:    [17, 18]
-    region:   se_412
+    region:   se_427
 
   17224110:
     template: Copper_Quadav
     level:    [22, 23]
-    region:   se_412
+    region:   se_427
 
   17224111:
     template: Brass_Quadav
     level:    [22, 23]
-    region:   se_412
+    region:   se_427
 
   17224112:
     template: Onyx_Quadav
     level:    [17, 18]
-    region:   se_412
+    region:   se_427
 
   17224113:
     template: Water_Wasp
@@ -2270,12 +2270,12 @@ spawns:
   17224134:
     template: Fox_Fire
     level:    [24, 25]
-    region:   ne_449
+    region:   e_454
 
   17224135:
     template: Goblin_Digger
+    at:       [107.818, 23.883, 44.235, 127]
     level:    [18, 19]
-    region:   ne_455
 
   17224136:
     template: Hobgoblin_Warrior

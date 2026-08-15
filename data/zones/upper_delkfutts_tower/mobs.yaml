@@ -155,7 +155,7 @@ spawns:
   17424415:
     template: Gigass_Bats
     level:    [27, 29]
-    region:   e_30
+    region:   ne_31
 
   17424416:
     template: Gigas_Stonemason
@@ -289,13 +289,13 @@ spawns:
 
   17424442:
     template: Demonic_Doll
-    at:       [-358.825, -144.159, -38.803, 127]
     level:    [68, 70]
+    region:   sw_58
 
   17424443:
     template: Demonic_Doll
-    at:       [-226.754, -144.728, -32.811, 106]
     level:    [68, 70]
+    region:   se_59
 
   17424444:
     template: Pallas
@@ -465,7 +465,7 @@ spawns:
   17424477:
     template: Incubus_Bats
     level:    [62, 64]
-    region:   sw_92
+    region:   sw_93
 
   17424478:
     template: Incubus_Bats
@@ -475,7 +475,7 @@ spawns:
   17424479:
     template: Incubus_Bats
     level:    [62, 64]
-    region:   ne_94
+    region:   ne_95
 
   17424480:
     template: Alkyoneus
@@ -540,12 +540,12 @@ spawns:
   17424492:
     template: Jotunn_Wildkeeper
     level:    [65, 69]
-    region:   n_105
+    region:   c_108
 
   17424493:
     template: Gigass_Bat
     level:    [53, 55]
-    region:   n_105
+    region:   c_108
 
   17424494:
     template: Jotunn_Wallkeeper
@@ -590,12 +590,12 @@ spawns:
   17424502:
     template: Jotunn_Wildkeeper
     level:    [65, 69]
-    region:   c_115
+    region:   c_118
 
   17424503:
     template: Gigass_Bat
     level:    [53, 55]
-    region:   c_115
+    region:   c_118
 
   17424504:
     template: Jotunn_Wallkeeper
@@ -610,7 +610,7 @@ spawns:
   17424506:
     template: Jotunn_Hallkeeper
     level:    [65, 69]
-    region:   c_121
+    region:   s_122
 
   17424507:
     template: Jotunn_Wildkeeper

@@ -1070,7 +1070,7 @@ spawns:
   17191126:
     template: Carrion_Worm
     level:    [3, 4]
-    region:   c_209
+    region:   c_214
 
   17191127:
     template: Scarab_Beetle
@@ -1955,7 +1955,7 @@ spawns:
   17191303:
     template: Orcish_Grappler
     level:    [7, 8]
-    region:   se_380
+    region:   se_391
 
   17191304:
     template: Ding_Bats
@@ -2019,28 +2019,28 @@ spawns:
 
   17191316:
     template: Goblin_Digger
+    at:       [357.813, -10.344, -411.927, 11]
     level:    [7, 8]
-    region:   se_404
 
   17191317:
     template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [53, 55]
-    region:   n_405
 
   17191318:
     template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [53, 55]
-    region:   w_406
 
   17191319:
     template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [53, 55]
-    region:   n_407
 
   17191320:
     template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [53, 55]
-    region:   n_408
 
   17191321:
     template: Pixie
@@ -2685,17 +2685,17 @@ spawns:
   17191459:
     template: She-Slime
     level:    [0, 0]
-    region:   w_26
+    region:   w_547
 
   17191460:
     template: She-Slime
     level:    [0, 0]
-    region:   w_26
+    region:   nw_548
 
   17191461:
     template: She-Slime
     level:    [0, 0]
-    region:   w_26
+    region:   w_547
 
   17191462:
     template: She-Slime
@@ -2715,7 +2715,7 @@ spawns:
   17191465:
     template: She-Slime
     level:    [0, 0]
-    region:   nw_52
+    region:   nw_553
 
   17191466:
     template: Metal_Slime

@@ -364,13 +364,13 @@ spawns:
 
   17031241:
     template: Troll_Lapidarist
-    at:       [-184.900, 18.986, 15.708, 155]
     level:    [73, 75]
+    region:   w_73
 
   17031242:
     template: Moblin_Millionaire
-    at:       [-184.000, 19.520, 21.191, 240]
     level:    [74, 75]
+    region:   w_73
 
   17031243:
     template: Troll_Gemologist
@@ -439,13 +439,13 @@ spawns:
 
   17031256:
     template: Fire_Elemental
-    at:       [223.750, -6.359, 223.132, 217]
     level:    [74, 75]
+    region:   n_88
 
   17031257:
     template: Troll_Lapidarist
     level:    [71, 73]
-    region:   n_89
+    region:   n_88
 
   17031258:
     template: Magmatic_Eruca
@@ -609,8 +609,8 @@ spawns:
 
   17031290:
     template: Fire_Elemental
-    at:       [113.990, 13.583, -20.493, 2]
     level:    [74, 75]
+    region:   c_121
 
   17031291:
     template: Troll_Lapidarist
@@ -899,8 +899,8 @@ spawns:
 
   17031348:
     template: Troll_Cameist
-    at:       [-277.400, 19.447, 43.181, 139]
     level:    [73, 75]
+    region:   w_180
 
   17031349:
     template: Moblin_Billionaire
@@ -929,13 +929,13 @@ spawns:
 
   17031354:
     template: Troll_Engraver
-    at:       [-311.500, 19.711, -0.946, 170]
     level:    [73, 75]
+    region:   w_186
 
   17031355:
     template: Trolls_Automaton
-    at:       [-301.700, 20.163, -3.119, 183]
     level:    [69, 78]
+    region:   w_186
 
   17031356:
     template: Moblin_Billionaire
@@ -1160,7 +1160,7 @@ spawns:
   17031400:
     template: Fire_Elemental
     level:    [74, 75]
-    region:   nw_232
+    region:   nw_230
 
   17031401:
     template: Big_Bomb
@@ -1284,13 +1284,13 @@ spawns:
 
   17031425:
     template: Troll_Machinist
-    at:       [-367.500, 0.182, 353.766, 30]
     level:    [78, 82]
+    region:   nw_257
 
   17031426:
     template: Trolls_Automaton
-    at:       [-368.700, 0.081, 352.382, 193]
     level:    [69, 78]
+    region:   nw_257
 
   17031427:
     template: Troll_Scrimer
@@ -1534,13 +1534,13 @@ spawns:
 
   17031475:
     template: Troll_Targeteer
-    at:       [-100.300, -10.450, 259.440, 12]
     level:    [78, 82]
+    region:   n_307
 
   17031476:
     template: Moblin_Millionaire
-    at:       [-100.000, -10.470, 264.398, 250]
     level:    [76, 77]
+    region:   n_307
 
   17031477:
     template: Troll_Artilleryman
@@ -1580,12 +1580,12 @@ spawns:
   17031484:
     template: Troll_Scrimer
     level:    [78, 82]
-    region:   n_316
+    region:   n_200
 
   17031485:
     template: Troll_Grenadier
     level:    [78, 82]
-    region:   n_316
+    region:   n_200
 
   17031486:
     template: Troll_Artilleryman
@@ -1754,13 +1754,13 @@ spawns:
 
   17031519:
     template: Friars_Lantern
-    at:       [605.038, 29.798, 86.692, 254]
     level:    [77, 79]
+    region:   se_351
 
   17031520:
     template: Troll_Cuirasser
-    at:       [593.282, 29.494, 81.551, 116]
     level:    [78, 82]
+    region:   se_351
 
   17031521:
     template: Troll_Combatant
@@ -2050,12 +2050,12 @@ spawns:
   17031578:
     template: Hilltroll_Mirror_Guard
     level:    [81, 82]
-    region:   n_193
+    region:   n_410
 
   17031579:
     template: Woodtroll_Mirror_Guard
     level:    [81, 82]
-    region:   n_193
+    region:   n_410
 
   17031580:
     template: Hilltroll_Mirror_Guard

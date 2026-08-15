@@ -270,7 +270,7 @@ spawns:
   17371190:
     template: Giddeus_Bee
     level:    [4, 5]
-    region:   n_54
+    region:   nw_49
 
   17371191:
     template: Giddeus_Pugil
@@ -944,13 +944,13 @@ spawns:
 
   17371325:
     template: Yagudo_Piper
-    at:       [221.000, -2.717, -277.000, 74]
     level:    [14, 18]
+    region:   se_189
 
   17371326:
     template: Yagudo_Persecutor
-    at:       [218.000, -1.876, -295.000, 90]
     level:    [14, 18]
+    region:   se_189
 
   17371327:
     template: Yagudo_Initiate
@@ -1224,13 +1224,13 @@ spawns:
 
   17371381:
     template: Yagudos_Elemental
-    at:       [1.000, 1.000, 1.000, 0]
     level:    [4, 6]
+    region:   sw_244
 
   17371382:
     template: Yagudo_Piper
-    at:       [-254.814, -2.759, -266.385, 127]
     level:    [14, 18]
+    region:   sw_244
 
   17371383:
     template: Yagudo_Persecutor
@@ -1310,7 +1310,7 @@ spawns:
   17371398:
     template: Digger_Wasp
     level:    [11, 13]
-    region:   sw_262
+    region:   sw_256
 
   17371399:
     template: Quu_Xijo_the_Illusory
@@ -2004,8 +2004,8 @@ spawns:
 
   17371537:
     template: Yagudo_Votary
-    at:       [66.774, -1.451, -252.935, 127]
     level:    [21, 23]
+    region:   se_401
 
   17371538:
     template: Yagudo_Votary

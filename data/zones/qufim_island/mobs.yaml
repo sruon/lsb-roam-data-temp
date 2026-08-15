@@ -125,7 +125,7 @@ spawns:
   17293337:
     template: Land_Worm
     level:    [26, 27]
-    region:   e_19
+    region:   e_25
 
   17293338:
     template: Dark_Bats
@@ -175,7 +175,7 @@ spawns:
   17293347:
     template: Giant_Ascetic
     level:    [29, 30]
-    region:   e_19
+    region:   e_35
 
   17293348:
     template: Giant_Trapper
@@ -265,7 +265,7 @@ spawns:
   17293365:
     template: Banshee
     level:    [31, 32]
-    region:   e_43
+    region:   c_53
 
   17293366:
     template: Thunder_Elemental
@@ -635,7 +635,7 @@ spawns:
   17293439:
     template: Land_Worm
     level:    [26, 27]
-    region:   c_118
+    region:   e_127
 
   17293440:
     template: Banshee
@@ -725,7 +725,7 @@ spawns:
   17293457:
     template: Wight
     level:    [28, 29]
-    region:   e_130
+    region:   ne_145
 
   17293458:
     template: Clipper
@@ -855,7 +855,7 @@ spawns:
   17293483:
     template: Banshee
     level:    [31, 32]
-    region:   c_170
+    region:   w_171
 
   17293484:
     template: Thunder_Elemental
@@ -915,7 +915,7 @@ spawns:
   17293496:
     template: Giant_Ranger
     level:    [29, 30]
-    region:   c_175
+    region:   c_184
 
   17293497:
     template: Giant_Ascetic
@@ -950,7 +950,7 @@ spawns:
   17293503:
     template: Wight
     level:    [28, 29]
-    region:   c_175
+    region:   c_191
 
   17293504:
     template: Light_Elemental
@@ -1025,12 +1025,12 @@ spawns:
   17293518:
     template: Glow_Bat
     level:    [28, 29]
-    region:   n_195
+    region:   n_206
 
   17293519:
     template: Giant_Ranger
     level:    [29, 30]
-    region:   n_195
+    region:   n_207
 
   17293520:
     template: Giant_Ascetic
@@ -1080,17 +1080,17 @@ spawns:
   17293529:
     template: Wight
     level:    [28, 29]
-    region:   n_195
+    region:   c_217
 
   17293530:
     template: Wight
     level:    [28, 29]
-    region:   n_195
+    region:   c_217
 
   17293531:
     template: Wight
     level:    [28, 29]
-    region:   n_195
+    region:   c_219
 
   17293532:
     template: Light_Elemental
@@ -1105,7 +1105,7 @@ spawns:
   17293534:
     template: Dancing_Weapon
     level:    [28, 29]
-    region:   n_222
+    region:   n_221
 
   17293535:
     template: Dancing_Weapon
@@ -1155,7 +1155,7 @@ spawns:
   17293544:
     template: Dark_Bats
     level:    [26, 27]
-    region:   n_226
+    region:   n_232
 
   17293545:
     template: Dark_Bats
@@ -1180,7 +1180,7 @@ spawns:
   17293549:
     template: Glow_Bat
     level:    [28, 29]
-    region:   n_226
+    region:   n_237
 
   17293550:
     template: Giant_Ranger
@@ -1235,17 +1235,17 @@ spawns:
   17293560:
     template: Wight
     level:    [28, 29]
-    region:   n_226
+    region:   n_248
 
   17293561:
     template: Wight
     level:    [28, 29]
-    region:   n_226
+    region:   n_237
 
   17293562:
     template: Wight
     level:    [28, 29]
-    region:   n_226
+    region:   n_250
 
   17293563:
     template: Light_Elemental
@@ -1325,17 +1325,17 @@ spawns:
   17293578:
     template: Giant_Hunter
     level:    [29, 30]
-    region:   n_262
+    region:   n_266
 
   17293579:
     template: Wight
     level:    [28, 29]
-    region:   n_252
+    region:   n_267
 
   17293580:
     template: Wight
     level:    [28, 29]
-    region:   n_252
+    region:   n_268
 
   17293581:
     template: Light_Elemental
@@ -1405,7 +1405,7 @@ spawns:
   17293594:
     template: Banshee
     level:    [31, 32]
-    region:   n_270
+    region:   n_282
 
   17293595:
     template: Banshee
@@ -1415,7 +1415,7 @@ spawns:
   17293596:
     template: Thunder_Elemental
     level:    [35, 36]
-    region:   n_270
+    region:   n_282
 
   17293597:
     template: Qoofim
@@ -1689,63 +1689,63 @@ spawns:
 
   17293651:
     template: Goblin_Bounty_Hunter
+    at:       [91.148, -21.365, -66.309, 16]
     level:    [32, 36]
-    region:   e_339
 
   17293652:
     template: Goblin_Bounty_Hunter
+    at:       [43.732, -18.879, -105.300, 15]
     level:    [32, 36]
-    region:   se_340
 
   17293653:
     template: Goblin_Bounty_Hunter
+    at:       [-30.420, -18.696, -70.234, 76]
     level:    [32, 36]
-    region:   c_341
 
   17293654:
     template: Goblin_Bounty_Hunter
+    at:       [-56.626, -19.798, -62.189, 250]
     level:    [32, 36]
-    region:   c_342
 
   17293655:
     template: Goblin_Bounty_Hunter
+    at:       [-225.331, -18.870, -3.738, 117]
     level:    [32, 36]
-    region:   c_343
 
   17293656:
     template: Goblin_Bounty_Hunter
+    at:       [-288.229, -7.039, 14.614, 137]
     level:    [32, 36]
-    region:   w_344
 
   17293657:
     template: Goblin_Bounty_Hunter
+    at:       [-329.932, -18.535, 49.133, 39]
     level:    [32, 36]
-    region:   w_345
 
   17293658:
     template: Goblin_Bounty_Hunter
+    at:       [-107.449, -19.151, 394.440, 11]
     level:    [32, 36]
-    region:   n_346
 
   17293659:
     template: Goblin_Bounty_Hunter
+    at:       [-80.198, -20.483, 368.466, 1]
     level:    [32, 36]
-    region:   n_347
 
   17293660:
     template: Goblin_Bounty_Hunter
+    at:       [3.481, -20.111, 329.441, 36]
     level:    [32, 36]
-    region:   ne_348
 
   17293661:
     template: Goblin_Bounty_Hunter
+    at:       [44.547, -20.690, 289.820, 106]
     level:    [32, 36]
-    region:   ne_349
 
   17293662:
     template: Goblin_Bounty_Hunter
+    at:       [-17.459, -18.679, 87.008, 149]
     level:    [11, 11]
-    region:   c_350
 
   17293663:
     template: Jester_Malatrix

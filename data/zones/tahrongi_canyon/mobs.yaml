@@ -45,7 +45,7 @@ spawns:
   17256457:
     template: Strolling_Sapling
     level:    [7, 8]
-    region:   se_4
+    region:   se_1
 
   17256458:
     template: Strolling_Sapling
@@ -630,7 +630,7 @@ spawns:
   17256574:
     template: Earth_Elemental
     level:    [18, 19]
-    region:   c_117
+    region:   e_126
 
   17256575:
     template: Canyon_Rarab
@@ -885,7 +885,7 @@ spawns:
   17256625:
     template: Grenade
     level:    [15, 17]
-    region:   w_167
+    region:   w_177
 
   17256626:
     template: Killer_Bee
@@ -1245,7 +1245,7 @@ spawns:
   17256697:
     template: Yagudo_Acolyte
     level:    [8, 9]
-    region:   c_203
+    region:   n_231
 
   17256698:
     template: Yagudo_Scribe
@@ -1255,7 +1255,7 @@ spawns:
   17256699:
     template: Yagudo_Piper
     level:    [13, 14]
-    region:   c_203
+    region:   n_231
 
   17256700:
     template: Yagudo_Persecutor
@@ -2165,7 +2165,7 @@ spawns:
   17256881:
     template: Earth_Elemental
     level:    [18, 20]
-    region:   nw_423
+    region:   nw_433
 
   17256882:
     template: Akbaba
@@ -2249,8 +2249,8 @@ spawns:
 
   17256898:
     template: Goblin_Digger
+    at:       [-45.370, 24.024, 241.743, 76]
     level:    [12, 13]
-    region:   n_450
 
   17256899:
     template: Goblin_Archaeologist
@@ -2264,28 +2264,28 @@ spawns:
 
   17256901:
     template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [51, 54]
-    region:   s_453
 
   17256902:
     template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [51, 54]
-    region:   s_454
 
   17256903:
     template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [51, 54]
-    region:   se_455
 
   17256904:
     template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [51, 54]
-    region:   nw_456
 
   17256905:
     template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [51, 54]
-    region:   c_457
 
   17256906:
     template: Allocamelus

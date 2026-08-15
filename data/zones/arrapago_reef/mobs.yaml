@@ -39,13 +39,13 @@ spawns:
 
   16998408:
     template: Reserve_Draugar
-    at:       [478.340, -9.761, 81.387, 62]
     level:    [72, 73]
+    region:   e_8
 
   16998409:
     template: Merrow_Chantress
-    at:       [464.402, -7.000, 70.480, 221]
     level:    [73, 75]
+    region:   e_9
 
   16998410:
     template: Arrapago_Apkallu
@@ -154,13 +154,13 @@ spawns:
 
   16998431:
     template: Arrapago_Apkallu
-    at:       [431.375, -3.723, 173.280, 23]
     level:    [70, 72]
+    region:   e_31
 
   16998432:
     template: Arrapago_Apkallu
-    at:       [418.079, -3.919, 179.725, 83]
     level:    [70, 72]
+    region:   e_31
 
   16998433:
     template: Arrapago_Apkallu
@@ -184,18 +184,18 @@ spawns:
 
   16998437:
     template: Merrow_Chantress
-    at:       [446.761, -7.025, 114.934, 135]
     level:    [73, 75]
+    region:   e_37
 
   16998438:
     template: Reserve_Draugar
-    at:       [444.331, -7.151, 113.642, 182]
     level:    [72, 73]
+    region:   e_37
 
   16998439:
     template: Reserve_Draugar
-    at:       [452.400, -7.033, 109.170, 129]
     level:    [72, 73]
+    region:   e_37
 
   16998440:
     template: Reserve_Draugar
@@ -204,8 +204,8 @@ spawns:
 
   16998441:
     template: Draugars_Wyvern
-    at:       [1.000, 1.000, 1.000, 2]
     level:    [67, 75]
+    region:   e_40
 
   16998442:
     template: Jnun
@@ -214,8 +214,8 @@ spawns:
 
   16998443:
     template: Jnun
-    at:       [426.945, -2.164, 151.652, 240]
     level:    [77, 78]
+    region:   e_42
 
   16998444:
     template: Reserve_Draugar
@@ -230,7 +230,7 @@ spawns:
   16998446:
     template: Nipper
     level:    [72, 73]
-    region:   e_44
+    region:   e_46
 
   16998447:
     template: Nipper
@@ -464,13 +464,13 @@ spawns:
 
   16998493:
     template: Qutrub
-    at:       [-0.567, -13.298, 166.169, 64]
     level:    [73, 74]
+    region:   c_93
 
   16998494:
     template: Qutrub
-    at:       [-0.686, -13.313, 166.233, 64]
     level:    [73, 74]
+    region:   c_93
 
   16998495:
     template: Purgatory_Bat
@@ -604,13 +604,13 @@ spawns:
 
   16998521:
     template: Reserve_Draugar
-    at:       [-21.870, -7.000, 301.769, 49]
     level:    [72, 73]
+    region:   n_121
 
   16998522:
     template: Merrow_Chantress
-    at:       [-15.137, -9.758, 315.406, 121]
     level:    [73, 75]
+    region:   n_122
 
   16998523:
     template: Nipper
@@ -675,17 +675,17 @@ spawns:
   16998535:
     template: Draugars_Wyvern
     level:    [67, 75]
-    region:   n_135
+    region:   n_133
 
   16998536:
     template: Merrow_Kabukidancer
-    at:       [-14.500, -3.220, 341.368, 210]
     level:    [73, 75]
+    region:   n_136
 
   16998537:
     template: Merrow_Icedancer
-    at:       [-64.128, -4.176, 333.745, 39]
     level:    [73, 75]
+    region:   n_137
 
   16998538:
     template: Reserve_Draugar
@@ -739,13 +739,13 @@ spawns:
 
   16998548:
     template: Merrow_Chantress
-    at:       [-156.152, -9.749, 409.965, 177]
     level:    [73, 75]
+    region:   n_148
 
   16998549:
     template: Phasma
     level:    [73, 74]
-    region:   n_149
+    region:   n_148
 
   16998550:
     template: Bhoot
@@ -754,28 +754,28 @@ spawns:
 
   16998551:
     template: Phasma
-    at:       [-130.481, -10.000, 434.866, 167]
     level:    [73, 74]
+    region:   n_151
 
   16998552:
     template: Merrow_Shadowdancer
-    at:       [-101.676, -4.227, 425.811, 216]
     level:    [73, 75]
+    region:   n_152
 
   16998553:
     template: Reserve_Draugar
-    at:       [-106.043, -3.982, 419.083, 221]
     level:    [72, 73]
+    region:   n_152
 
   16998554:
     template: Jnun
-    at:       [-69.108, -2.019, 458.504, 146]
     level:    [77, 78]
+    region:   n_154
 
   16998555:
     template: Ashakku
-    at:       [-33.804, -4.253, 496.581, 24]
     level:    [73, 74]
+    region:   n_155
 
   16998556:
     template: Ashakku
@@ -819,18 +819,18 @@ spawns:
 
   16998564:
     template: Phasma
-    at:       [-225.228, -3.950, 120.541, 37]
     level:    [73, 74]
+    region:   w_164
 
   16998565:
     template: Jnun
-    at:       [-272.921, -3.784, 153.575, 160]
     level:    [77, 78]
+    region:   w_165
 
   16998566:
     template: Jnun
-    at:       [-264.514, -2.322, 133.911, 32]
     level:    [77, 78]
+    region:   w_165
 
   16998567:
     template: Fallen_Volunteer
@@ -840,12 +840,12 @@ spawns:
   16998568:
     template: Fallen_Imperial_Wizard
     level:    [72, 74]
-    region:   w_168
+    region:   w_167
 
   16998569:
     template: Fallen_Imperial_Trooper
     level:    [72, 74]
-    region:   w_169
+    region:   w_167
 
   16998570:
     template: Merrow_Chantress
@@ -889,23 +889,23 @@ spawns:
 
   16998578:
     template: Jnun
-    at:       [-369.107, -5.278, 88.784, 130]
     level:    [77, 78]
+    region:   w_178
 
   16998579:
     template: Merrow_Chantress
-    at:       [-415.250, -7.011, 105.964, 206]
     level:    [73, 75]
+    region:   w_179
 
   16998580:
     template: Fallen_Volunteer
-    at:       [-412.762, -8.312, 111.995, 199]
     level:    [72, 74]
+    region:   w_179
 
   16998581:
     template: Fallen_Imperial_Wizard
-    at:       [-421.265, -6.882, 103.021, 92]
     level:    [72, 74]
+    region:   w_181
 
   16998582:
     template: Merrow_Kabukidancer
@@ -969,8 +969,8 @@ spawns:
 
   16998594:
     template: Jnun
-    at:       [-488.007, -5.158, 85.171, 35]
     level:    [77, 78]
+    region:   w_194
 
   16998595:
     template: Merrow_Icedancer
@@ -1125,12 +1125,12 @@ spawns:
   16998625:
     template: Nirgali
     level:    [87, 89]
-    region:   w_225
+    region:   w_224
 
   16998626:
     template: Nirgali
     level:    [87, 89]
-    region:   w_225
+    region:   w_224
 
   16998627:
     template: Nirgali
@@ -1165,17 +1165,17 @@ spawns:
   16998633:
     template: Nirgali
     level:    [87, 89]
-    region:   w_190
+    region:   w_233
 
   16998634:
     template: Nirgali
     level:    [87, 89]
-    region:   w_190
+    region:   w_233
 
   16998635:
     template: Nirgali
     level:    [87, 89]
-    region:   w_190
+    region:   w_233
 
   16998636:
     template: Lamia_Bellydancer
@@ -1189,8 +1189,8 @@ spawns:
 
   16998638:
     template: Draugar_Servant
-    at:       [-23.721, -2.099, 429.445, 203]
     level:    [79, 81]
+    region:   n_236
 
   16998639:
     template: Soulflayer
@@ -1284,8 +1284,8 @@ spawns:
 
   16998657:
     template: Phasma
-    at:       [109.564, -4.015, 226.246, 255]
     level:    [73, 74]
+    region:   n_257
 
   16998658:
     template: Phasma
@@ -1304,18 +1304,18 @@ spawns:
 
   16998661:
     template: Merrow_Songstress
-    at:       [185.787, -7.755, 288.889, 158]
     level:    [81, 83]
+    region:   n_261
 
   16998662:
     template: Draugar_Servant
-    at:       [184.278, -7.011, 295.976, 194]
     level:    [79, 81]
+    region:   n_261
 
   16998663:
     template: Merrow_Bladedancer
-    at:       [203.712, -11.008, 280.946, 25]
     level:    [81, 83]
+    region:   n_263
 
   16998664:
     template: Ice_Elemental
@@ -1324,8 +1324,8 @@ spawns:
 
   16998665:
     template: Draugar_Servant
-    at:       [228.061, -2.306, 302.545, 59]
     level:    [79, 81]
+    region:   ne_265
 
   16998666:
     template: Lahama
@@ -1419,18 +1419,18 @@ spawns:
 
   16998684:
     template: Merrow_Wavedancer
-    at:       [399.311, -9.675, 409.513, 30]
     level:    [81, 83]
+    region:   ne_284
 
   16998685:
     template: Merrow_Songstress
-    at:       [388.981, -6.999, 412.720, 124]
     level:    [81, 83]
+    region:   ne_285
 
   16998686:
     template: Draugar_Servant
-    at:       [390.568, -7.000, 415.169, 190]
     level:    [79, 81]
+    region:   ne_285
 
   16998687:
     template: Jnun
@@ -1549,8 +1549,8 @@ spawns:
 
   16998710:
     template: Merrow_Typhoondancer
-    at:       [-472.506, -7.281, 203.831, 179]
     level:    [81, 83]
+    region:   w_310
 
   16998711:
     template: Merrow_Songstress
@@ -1664,13 +1664,13 @@ spawns:
 
   16998733:
     template: Nix_Songstress
-    at:       [-286.216, -10.000, 282.547, 31]
     level:    [81, 83]
+    region:   nw_333
 
   16998734:
     template: Nix_Songstress
-    at:       [-284.578, -10.000, 283.936, 83]
     level:    [81, 83]
+    region:   nw_333
 
   16998735:
     template: Merrow_Typhoondancer
@@ -1679,18 +1679,18 @@ spawns:
 
   16998736:
     template: Merrow_Bladedancer
-    at:       [-343.062, -2.162, 338.935, 30]
     level:    [81, 83]
+    region:   nw_336
 
   16998737:
     template: Merrow_Wavedancer
-    at:       [-367.927, -6.069, 379.936, 161]
     level:    [81, 83]
+    region:   nw_337
 
   16998738:
     template: Merrow_Typhoondancer
-    at:       [-367.189, -4.933, 373.970, 137]
     level:    [81, 83]
+    region:   nw_337
 
   16998739:
     template: Merrow_Wavedancer
@@ -1704,8 +1704,8 @@ spawns:
 
   16998741:
     template: Dark_Elemental
-    at:       [-264.843, -2.823, 385.519, 29]
     level:    [80, 80]
+    region:   nw_341
 
   16998742:
     template: Lamie_No9
@@ -1779,23 +1779,23 @@ spawns:
 
   16998756:
     template: Dweomershell
-    at:       [-280.400, -4.974, 162.382, 230]
     level:    [88, 89]
+    region:   w_356
 
   16998757:
     template: Dweomershell
     level:    [88, 89]
-    region:   w_357
+    region:   w_356
 
   16998758:
     template: Dweomershell
-    at:       [-302.800, -3.700, 173.001, 137]
     level:    [88, 89]
+    region:   w_356
 
   16998759:
     template: Dweomershell
-    at:       [-289.000, -5.242, 166.268, 163]
     level:    [88, 90]
+    region:   w_356
 
   16998760:
     template: Dweomershell
@@ -1900,7 +1900,7 @@ spawns:
   16998780:
     template: Draugar_Servant
     level:    [79, 81]
-    region:   s_380
+    region:   s_379
 
   16998781:
     template: Ice_Elemental
@@ -2109,13 +2109,13 @@ spawns:
 
   16998822:
     template: Jnun
-    at:       [-78.375, -4.854, -483.804, 96]
     level:    [79, 80]
+    region:   s_422
 
   16998823:
     template: Jnun
-    at:       [-89.975, -1.096, -496.171, 42]
     level:    [79, 80]
+    region:   s_423
 
   16998824:
     template: Ice_Elemental
@@ -2135,12 +2135,12 @@ spawns:
   16998827:
     template: Ephramadian_Shade
     level:    [68, 70]
-    region:   sw_427
+    region:   sw_426
 
   16998828:
     template: Ephramadian_Shade
     level:    [68, 70]
-    region:   sw_427
+    region:   sw_426
 
   16998829:
     template: Ephramadian_Shade

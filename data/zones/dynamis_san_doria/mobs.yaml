@@ -64,8 +64,8 @@ spawns:
 
   17534989:
     template: Vanguard_Bugler
-    at:       [101.608, 0.442, 102.394, 162]
     level:    [75, 77]
+    region:   ne_12
 
   17534990:
     template: Vanguard_Gutslasher
@@ -249,8 +249,8 @@ spawns:
 
   17535026:
     template: Warchief_Tombstone
-    at:       [156.591, -7.197, 41.199, 64]
     level:    [65, 65]
+    region:   e_48
 
   17535027:
     template: Vanguard_Bugler
@@ -399,8 +399,8 @@ spawns:
 
   17535056:
     template: Vanguard_Trooper
-    at:       [-9.360, -3.500, -33.706, 124]
     level:    [75, 77]
+    region:   s_79
 
   17535057:
     template: Warchief_Tombstone
@@ -570,7 +570,7 @@ spawns:
   17535090:
     template: Vanguard_Backstabber
     level:    [90, 92]
-    region:   w_114
+    region:   w_109
 
   17535091:
     template: Vanguard_Grappler
@@ -590,12 +590,12 @@ spawns:
   17535094:
     template: Vanguard_Hawker
     level:    [90, 92]
-    region:   w_118
+    region:   w_115
 
   17535095:
     template: Vanguards_Hecteyes
     level:    [90, 92]
-    region:   w_118
+    region:   w_115
 
   17535096:
     template: Vanguard_Impaler
@@ -725,7 +725,7 @@ spawns:
   17535121:
     template: Vanguard_Vexer
     level:    [90, 92]
-    region:   n_145
+    region:   n_144
 
   17535122:
     template: Vanguard_Neckchopper
@@ -755,7 +755,7 @@ spawns:
   17535127:
     template: Vanguard_Trooper
     level:    [90, 92]
-    region:   nw_151
+    region:   nw_150
 
   17535128:
     template: Warchief_Tombstone
@@ -810,7 +810,7 @@ spawns:
   17535138:
     template: Vanguard_Trooper
     level:    [75, 77]
-    region:   c_161
+    region:   c_162
 
   17535139:
     template: Warchief_Tombstone
@@ -819,8 +819,8 @@ spawns:
 
   17535140:
     template: Vanguard_Footsoldier
-    at:       [-250.700, -4.499, 95.956, 73]
     level:    [90, 92]
+    region:   nw_164
 
   17535141:
     template: Vanguard_Amputator
@@ -829,13 +829,13 @@ spawns:
 
   17535142:
     template: Vanguard_Trooper
-    at:       [-254.436, -4.500, 92.420, 91]
     level:    [90, 92]
+    region:   nw_164
 
   17535143:
     template: Vanguard_Gutslasher
-    at:       [-268.385, -4.099, 107.758, 190]
     level:    [90, 92]
+    region:   nw_164
 
   17535144:
     template: Vanguard_Footsoldier

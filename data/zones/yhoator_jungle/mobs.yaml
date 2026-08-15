@@ -100,22 +100,22 @@ spawns:
   17285140:
     template: Yhoator_Mandragora
     level:    [35, 37]
-    region:   w_20
+    region:   nw_20
 
   17285141:
     template: Yhoator_Mandragora
     level:    [35, 37]
-    region:   w_20
+    region:   nw_20
 
   17285142:
     template: Goblin_Pathfinder
     level:    [35, 39]
-    region:   w_20
+    region:   nw_20
 
   17285143:
     template: Goblins_Bee
     level:    [28, 30]
-    region:   w_20
+    region:   nw_20
 
   17285144:
     template: Yhoator_Mandragora
@@ -690,12 +690,12 @@ spawns:
   17285258:
     template: Yhoator_Wasp
     level:    [37, 40]
-    region:   c_138
+    region:   c_137
 
   17285259:
     template: Goblin_Reaper
     level:    [41, 45]
-    region:   c_138
+    region:   c_137
 
   17285260:
     template: Young_Opo-opo
@@ -870,7 +870,7 @@ spawns:
   17285294:
     template: Worker_Crawler
     level:    [43, 46]
-    region:   w_174
+    region:   w_171
 
   17285295:
     template: Worker_Crawler
@@ -985,17 +985,17 @@ spawns:
   17285317:
     template: Young_Opo-opo
     level:    [40, 44]
-    region:   sw_197
+    region:   w_197
 
   17285318:
     template: Goblin_Poacher
     level:    [45, 49]
-    region:   sw_197
+    region:   w_197
 
   17285319:
     template: Worker_Crawler
     level:    [43, 46]
-    region:   sw_197
+    region:   w_197
 
   17285320:
     template: Worker_Crawler
@@ -1704,8 +1704,8 @@ spawns:
 
   17285461:
     template: Tonberry_Hexer
-    at:       [0.000, 0.000, 0.000, 0]
     level:    [45, 49]
+    region:   se_341
 
   17285462:
     template: Tonberry_Creeper
@@ -2114,8 +2114,8 @@ spawns:
 
   17285543:
     template: Goblin_Digger
+    at:       [-69.276, 6.961, -179.442, 127]
     level:    [41, 44]
-    region:   w_423
 
   17285544:
     template: Kappa_Akuso

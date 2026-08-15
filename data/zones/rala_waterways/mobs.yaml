@@ -29,23 +29,23 @@ spawns:
 
   17833990:
     template: Spoutdrenched_Toad
-    at:       [-416.600, -6.267, -301.900, 151]
     level:    [99, 107]
+    region:   sw_6
 
   17833991:
     template: Spoutdrenched_Toad
     level:    [99, 107]
-    region:   sw_7
+    region:   sw_6
 
   17833992:
     template: Spoutdrenched_Toad
     level:    [99, 107]
-    region:   sw_7
+    region:   sw_6
 
   17833993:
     template: Rustwater_Toad
     level:    [99, 107]
-    region:   sw_7
+    region:   sw_6
 
   17833994:
     template: Waterway_Pugil
@@ -94,23 +94,23 @@ spawns:
 
   17834003:
     template: Spoutdrenched_Toad
-    at:       [-498.400, -6.267, -225.810, 86]
     level:    [99, 107]
+    region:   sw_19
 
   17834004:
     template: Spoutdrenched_Toad
-    at:       [-502.500, -6.267, -225.610, 66]
     level:    [99, 107]
+    region:   sw_19
 
   17834005:
     template: Spoutdrenched_Toad
-    at:       [-498.700, -6.267, -219.600, 219]
     level:    [99, 107]
+    region:   sw_19
 
   17834006:
     template: Rustwater_Toad
-    at:       [-496.600, -6.267, -217.700, 99]
     level:    [99, 107]
+    region:   sw_19
 
   17834007:
     template: Stillwater_Funguar
@@ -224,28 +224,28 @@ spawns:
 
   17834029:
     template: Stillwater_Funguar
-    at:       [-574.000, -6.267, -60.868, 49]
     level:    [99, 107]
+    region:   w_45
 
   17834030:
     template: Stillwater_Funguar
-    at:       [-583.900, -6.267, -63.365, 198]
     level:    [99, 107]
+    region:   w_45
 
   17834031:
     template: Spoutdrenched_Toad
-    at:       [-572.900, -6.267, -63.866, 169]
     level:    [99, 107]
+    region:   w_45
 
   17834032:
     template: Stillwater_Funguar
-    at:       [-421.500, -6.267, -58.312, 138]
     level:    [99, 107]
+    region:   w_48
 
   17834033:
     template: Stillwater_Funguar
-    at:       [-419.900, -6.267, -54.770, 218]
     level:    [99, 107]
+    region:   w_48
 
   17834034:
     template: Chalybeous_Slime
@@ -269,33 +269,33 @@ spawns:
 
   17834038:
     template: Pewter_Diremite
-    at:       [-417.900, -6.267, 96.100, 151]
     level:    [99, 107]
+    region:   nw_54
 
   17834039:
     template: Pewter_Diremite
-    at:       [-425.600, -6.267, 93.071, 118]
     level:    [99, 107]
+    region:   nw_54
 
   17834040:
     template: Pewter_Diremite
-    at:       [-506.100, -6.267, 99.671, 179]
     level:    [99, 107]
+    region:   nw_56
 
   17834041:
     template: Pewter_Diremite
-    at:       [-494.300, -6.267, 99.969, 230]
     level:    [99, 107]
+    region:   nw_56
 
   17834042:
     template: Pewter_Diremite
-    at:       [-336.500, -6.267, 24.680, 156]
     level:    [99, 107]
+    region:   nw_58
 
   17834043:
     template: Pewter_Diremite
-    at:       [-345.500, -6.267, 22.430, 74]
     level:    [99, 107]
+    region:   nw_58
 
   17834044:
     template: Chalybeous_Slime
@@ -379,13 +379,13 @@ spawns:
 
   17834060:
     template: Skittering_Spider
-    at:       [62.712, -6.267, 22.907, 116]
     level:    [99, 107]
+    region:   ne_76
 
   17834061:
     template: Skittering_Spider
-    at:       [61.193, -6.267, 25.932, 187]
     level:    [99, 107]
+    region:   ne_76
 
   17834062:
     template: Weatherworn_Leech
@@ -429,18 +429,18 @@ spawns:
 
   17834070:
     template: Duskbringer_Bat
-    at:       [142.030, -6.267, 100.556, 29]
     level:    [99, 107]
+    region:   ne_86
 
   17834071:
     template: Duskbringer_Bat
-    at:       [137.030, -6.267, 99.751, 217]
     level:    [99, 107]
+    region:   ne_86
 
   17834072:
     template: New_Moon_Bats
     level:    [99, 107]
-    region:   ne_88
+    region:   ne_86
 
   17834073:
     template: Duskbringer_Bat
@@ -459,18 +459,18 @@ spawns:
 
   17834076:
     template: Duskbringer_Bat
-    at:       [294.490, -6.267, 98.623, 71]
     level:    [99, 107]
+    region:   ne_92
 
   17834077:
     template: Duskbringer_Bat
-    at:       [295.410, -6.267, 102.099, 101]
     level:    [99, 107]
+    region:   ne_92
 
   17834078:
     template: New_Moon_Bats
-    at:       [304.160, -6.267, 93.593, 115]
     level:    [99, 107]
+    region:   ne_92
 
   17834079:
     template: Skittering_Spider
@@ -489,18 +489,18 @@ spawns:
 
   17834082:
     template: Skittering_Spider
-    at:       [307.060, -6.267, -60.202, 48]
     level:    [99, 107]
+    region:   e_98
 
   17834083:
     template: Skittering_Spider
-    at:       [299.190, -6.267, -64.383, 69]
     level:    [99, 107]
+    region:   e_98
 
   17834084:
     template: Skittering_Spider
-    at:       [294.600, -6.267, -55.978, 75]
     level:    [99, 107]
+    region:   e_98
 
   17834085:
     template: Weatherworn_Leech
@@ -589,13 +589,13 @@ spawns:
 
   17834102:
     template: Duskjaw_Obdella
-    at:       [300.880, -6.267, -186.270, 50]
     level:    [99, 107]
+    region:   se_118
 
   17834103:
     template: Duskjaw_Obdella
-    at:       [298.760, -6.267, -179.960, 161]
     level:    [99, 107]
+    region:   se_118
 
   17834104:
     template: Weatherworn_Leech

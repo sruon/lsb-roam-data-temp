@@ -115,7 +115,7 @@ spawns:
   17186839:
     template: Ding_Bats
     level:    [1, 1]
-    region:   n_22
+    region:   n_23
 
   17186840:
     template: Ding_Bats
@@ -805,7 +805,7 @@ spawns:
   17186977:
     template: Carrion_Worm
     level:    [3, 4]
-    region:   c_156
+    region:   w_161
 
   17186978:
     template: Carrion_Worm
@@ -1110,7 +1110,7 @@ spawns:
   17187038:
     template: Mouse_Bat
     level:    [5, 6]
-    region:   c_203
+    region:   c_222
 
   17187039:
     template: Tainted_Hound
@@ -1140,7 +1140,7 @@ spawns:
   17187044:
     template: Carrion_Worm
     level:    [4, 5]
-    region:   e_225
+    region:   c_228
 
   17187045:
     template: Carrion_Worm
@@ -1270,7 +1270,7 @@ spawns:
   17187070:
     template: Forest_Funguar
     level:    [5, 6]
-    region:   w_246
+    region:   w_254
 
   17187071:
     template: Scarab_Beetle
@@ -1280,7 +1280,7 @@ spawns:
   17187072:
     template: Scarab_Beetle
     level:    [6, 7]
-    region:   w_246
+    region:   w_256
 
   17187073:
     template: Wild_Sheep
@@ -1320,7 +1320,7 @@ spawns:
   17187080:
     template: Ding_Bats
     level:    [4, 5]
-    region:   w_246
+    region:   c_264
 
   17187081:
     template: Mouse_Bat
@@ -1330,7 +1330,7 @@ spawns:
   17187082:
     template: Mouse_Bat
     level:    [5, 6]
-    region:   w_246
+    region:   w_256
 
   17187083:
     template: Tainted_Hound
@@ -1480,7 +1480,7 @@ spawns:
   17187112:
     template: Carrion_Worm
     level:    [4, 5]
-    region:   s_292
+    region:   s_296
 
   17187113:
     template: Forest_Funguar
@@ -1695,7 +1695,7 @@ spawns:
   17187155:
     template: Carrion_Worm
     level:    [5, 6]
-    region:   s_335
+    region:   s_339
 
   17187156:
     template: Forest_Funguar
@@ -2279,8 +2279,8 @@ spawns:
 
   17187272:
     template: Goblin_Digger
+    at:       [-442.939, -22.108, -92.488, 12]
     level:    [7, 8]
-    region:   c_456
 
   17187273:
     template: Marauder_Dvogzog
@@ -2334,28 +2334,28 @@ spawns:
 
   17187283:
     template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [51, 54]
-    region:   sw_467
 
   17187284:
     template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [51, 54]
-    region:   s_468
 
   17187285:
     template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [51, 54]
-    region:   se_469
 
   17187286:
     template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [51, 54]
-    region:   c_470
 
   17187287:
     template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [51, 54]
-    region:   sw_471
 
   17187288:
     template: Gougetooth_Ganzaga

@@ -405,7 +405,7 @@ spawns:
   17264721:
     template: Earth_Elemental
     level:    [27, 29]
-    region:   sw_71
+    region:   sw_81
 
   17264722:
     template: Chonchon
@@ -490,7 +490,7 @@ spawns:
   17264738:
     template: Earth_Elemental
     level:    [27, 29]
-    region:   s_91
+    region:   s_98
 
   17264739:
     template: Wandering_Sapling
@@ -585,37 +585,37 @@ spawns:
   17264757:
     template: Yagudo_Votary
     level:    [22, 23]
-    region:   s_99
+    region:   s_117
 
   17264758:
     template: Yagudo_Mendicant
     level:    [17, 18]
-    region:   s_99
+    region:   s_117
 
   17264759:
     template: Yagudos_Elemental
     level:    [9, 13]
-    region:   s_99
+    region:   s_117
 
   17264760:
     template: Yagudo_Theologist
     level:    [22, 23]
-    region:   s_99
+    region:   s_117
 
   17264761:
     template: Yagudo_Piper
     level:    [17, 18]
-    region:   s_99
+    region:   s_117
 
   17264762:
     template: Yagudo_Priest
     level:    [22, 23]
-    region:   s_99
+    region:   s_117
 
   17264763:
     template: Yagudo_Persecutor
     level:    [17, 18]
-    region:   s_99
+    region:   s_117
 
   17264764:
     template: Zombie
@@ -635,7 +635,7 @@ spawns:
   17264767:
     template: Fire_Elemental
     level:    [27, 29]
-    region:   se_108
+    region:   s_127
 
   17264768:
     template: Naa_Zeku_the_Unwaiting
@@ -790,7 +790,7 @@ spawns:
   17264798:
     template: Earth_Elemental
     level:    [27, 29]
-    region:   c_129
+    region:   c_158
 
   17264799:
     template: Jubjub
@@ -885,7 +885,7 @@ spawns:
   17264817:
     template: Raptor
     level:    [24, 25]
-    region:   se_169
+    region:   se_177
 
   17264818:
     template: Daggerclaw_Dracos
@@ -1090,12 +1090,12 @@ spawns:
   17264858:
     template: Stag_Beetle
     level:    [22, 23]
-    region:   c_212
+    region:   c_218
 
   17264859:
     template: Stag_Beetle
     level:    [22, 23]
-    region:   c_212
+    region:   c_219
 
   17264860:
     template: Night_Bats
@@ -1105,7 +1105,7 @@ spawns:
   17264861:
     template: Night_Bats
     level:    [15, 16]
-    region:   c_212
+    region:   c_218
 
   17264862:
     template: Black_Bat
@@ -1170,37 +1170,37 @@ spawns:
   17264874:
     template: Yagudo_Votary
     level:    [22, 23]
-    region:   c_212
+    region:   e_234
 
   17264875:
     template: Yagudo_Mendicant
     level:    [17, 18]
-    region:   c_212
+    region:   e_234
 
   17264876:
     template: Yagudos_Elemental
     level:    [9, 13]
-    region:   c_212
+    region:   e_234
 
   17264877:
     template: Yagudo_Theologist
     level:    [22, 23]
-    region:   c_212
+    region:   e_234
 
   17264878:
     template: Yagudo_Piper
     level:    [17, 18]
-    region:   c_212
+    region:   e_234
 
   17264879:
     template: Yagudo_Priest
     level:    [22, 23]
-    region:   c_212
+    region:   e_234
 
   17264880:
     template: Yagudo_Persecutor
     level:    [17, 18]
-    region:   c_212
+    region:   e_234
 
   17264881:
     template: Zombie
@@ -1215,7 +1215,7 @@ spawns:
   17264883:
     template: Bogy
     level:    [25, 26]
-    region:   c_212
+    region:   e_243
 
   17264884:
     template: Wandering_Sapling
@@ -1250,12 +1250,12 @@ spawns:
   17264890:
     template: Stag_Beetle
     level:    [22, 23]
-    region:   c_244
+    region:   c_250
 
   17264891:
     template: Stag_Beetle
     level:    [22, 23]
-    region:   c_244
+    region:   c_250
 
   17264892:
     template: Wandering_Sapling
@@ -1395,7 +1395,7 @@ spawns:
   17264919:
     template: Bogy
     level:    [25, 26]
-    region:   e_269
+    region:   c_279
 
   17264920:
     template: Yagudo_Votary
@@ -1840,7 +1840,7 @@ spawns:
   17265008:
     template: Hill_Lizard
     level:    [21, 22]
-    region:   n_359
+    region:   n_368
 
   17265009:
     template: Wandering_Sapling
@@ -1985,12 +1985,12 @@ spawns:
   17265037:
     template: Crane_Fly
     level:    [20, 21]
-    region:   nw_391
+    region:   n_397
 
   17265038:
     template: Hill_Lizard
     level:    [21, 22]
-    region:   nw_391
+    region:   n_397
 
   17265039:
     template: Hill_Lizard
@@ -2219,8 +2219,8 @@ spawns:
 
   17265084:
     template: Goblin_Digger
+    at:       [290.654, -16.546, 233.311, 49]
     level:    [18, 19]
-    region:   c_444
 
   17265085:
     template: Hobgoblin_Warrior

@@ -235,17 +235,17 @@ spawns:
   16814127:
     template: Diremite_Stalker
     level:    [56, 59]
-    region:   e_47
+    region:   e_46
 
   16814128:
     template: Diremite_Stalker
     level:    [56, 59]
-    region:   e_47
+    region:   e_46
 
   16814129:
     template: Diremite_Stalker
     level:    [56, 59]
-    region:   e_47
+    region:   e_46
 
   16814130:
     template: Ice_Elemental
@@ -360,12 +360,12 @@ spawns:
   16814152:
     template: Diremite_Assaulter
     level:    [65, 68]
-    region:   se_71
+    region:   se_72
 
   16814153:
     template: Dire_Bat
     level:    [65, 68]
-    region:   se_71
+    region:   se_72
 
   16814154:
     template: Diremite_Assaulter
@@ -405,12 +405,12 @@ spawns:
   16814161:
     template: Diremite_Assaulter
     level:    [65, 68]
-    region:   s_80
+    region:   s_81
 
   16814162:
     template: Thousand_Eyes
     level:    [64, 66]
-    region:   s_80
+    region:   s_81
 
   16814163:
     template: Goblin_Mercenary
@@ -500,12 +500,12 @@ spawns:
   16814180:
     template: Goblin_Veterinarian
     level:    [66, 68]
-    region:   se_100
+    region:   se_97
 
   16814181:
     template: Goblins_Bat
     level:    [57, 61]
-    region:   se_100
+    region:   se_97
 
   16814182:
     template: Goblin_Mercenary
@@ -589,13 +589,13 @@ spawns:
 
   16814198:
     template: Labyrinth_Lizard
-    at:       [248.543, -0.352, 347.980, 227]
     level:    [56, 58]
+    region:   ne_118
 
   16814199:
     template: Snoll
-    at:       [268.860, -0.352, 330.032, 38]
     level:    [56, 59]
+    region:   ne_119
 
   16814200:
     template: Labyrinth_Lizard
@@ -614,8 +614,8 @@ spawns:
 
   16814203:
     template: Snoll
-    at:       [250.225, -0.352, 274.089, 193]
     level:    [56, 59]
+    region:   ne_123
 
   16814204:
     template: Cryptonberry_Stalker
@@ -699,28 +699,28 @@ spawns:
 
   16814220:
     template: Maledict_Millstone
-    at:       [247.629, 47.423, 295.336, 77]
     level:    [66, 68]
+    region:   ne_140
 
   16814221:
     template: Maledict_Millstone
-    at:       [249.203, 47.598, 299.132, 34]
     level:    [66, 68]
+    region:   ne_140
 
   16814222:
     template: Maledict_Millstone
     level:    [66, 68]
-    region:   ne_142
+    region:   ne_140
 
   16814223:
     template: Cryptonberry_Harrier
     level:    [59, 60]
-    region:   ne_143
+    region:   ne_140
 
   16814224:
     template: Tonberrys_Elemental
     level:    [49, 53]
-    region:   ne_144
+    region:   ne_140
 
   16814225:
     template: Diremite_Assaulter
@@ -854,8 +854,8 @@ spawns:
 
   16814251:
     template: Camazotz
-    at:       [-391.492, -0.324, -212.637, 22]
     level:    [52, 54]
+    region:   sw_171
 
   16814252:
     template: Cryptonberry_Plaguer
@@ -880,12 +880,12 @@ spawns:
   16814256:
     template: Cryptonberry_Cutter
     level:    [56, 58]
-    region:   sw_172
+    region:   sw_176
 
   16814257:
     template: Camazotz
-    at:       [-325.820, 15.397, -184.351, 1]
     level:    [52, 54]
+    region:   sw_177
 
   16814258:
     template: Treasure_Chest
@@ -1080,17 +1080,17 @@ spawns:
   16814296:
     template: Diremite_Assaulter
     level:    [63, 65]
-    region:   sw_216
+    region:   sw_215
 
   16814297:
     template: Diremite_Assaulter
     level:    [63, 65]
-    region:   sw_216
+    region:   sw_215
 
   16814298:
     template: Diremite_Assaulter
     level:    [63, 65]
-    region:   sw_218
+    region:   sw_215
 
   16814299:
     template: Treasure_Chest
@@ -1340,37 +1340,37 @@ spawns:
   16814348:
     template: Diremite
     level:    [46, 47]
-    region:   c_266
+    region:   c_268
 
   16814349:
     template: Diremite
-    at:       [-28.170, 31.675, 15.307, 47]
     level:    [47, 48]
+    region:   c_269
 
   16814350:
     template: Diremite
-    at:       [-30.601, 31.611, 19.421, 53]
     level:    [47, 48]
+    region:   c_269
 
   16814351:
     template: Vampire_Bat
     level:    [48, 50]
-    region:   c_271
+    region:   c_269
 
   16814352:
     template: Vampire_Bat
     level:    [48, 50]
-    region:   c_271
+    region:   c_269
 
   16814353:
     template: Dark_Elemental
     level:    [50, 50]
-    region:   c_273
+    region:   c_269
 
   16814354:
     template: Ice_Elemental
     level:    [50, 50]
-    region:   c_271
+    region:   c_269
 
   16814355:
     template: Vampire_Bat

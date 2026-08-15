@@ -734,8 +734,8 @@ spawns:
 
   17137811:
     template: River_Crab
-    at:       [-20.002, 507.156, 2.095, 1]
     level:    [15, 18]
+    region:   c_147
 
   17137812:
     template: Rock_Eater
@@ -995,12 +995,12 @@ spawns:
   17137863:
     template: Coppercap
     level:    [41, 50]
-    region:   w_140
+    region:   c_199
 
   17137864:
     template: Coppercap
     level:    [41, 50]
-    region:   w_140
+    region:   c_199
 
   17137865:
     template: Goblin_Chapman
@@ -1349,8 +1349,8 @@ spawns:
 
   17137934:
     template: Pixie
+    at:       [291.344, -60.649, 523.466, 47]
     level:    [51, 54]
-    region:   c_270
 
   17137936:
     template: Stone_Eater
@@ -2720,7 +2720,7 @@ spawns:
   17138210:
     template: Beadeaux_Vanguard
     level:    [60, 60]
-    region:   w_544
+    region:   c_546
 
   17138211:
     template: Beadeaux_Vanguard
@@ -2730,7 +2730,7 @@ spawns:
   17138212:
     template: Beadeaux_Vanguard
     level:    [60, 60]
-    region:   w_544
+    region:   w_548
 
   17138213:
     template: Beadeaux_Vanguard
@@ -2745,7 +2745,7 @@ spawns:
   17138215:
     template: Beadeaux_Vanguard
     level:    [60, 60]
-    region:   c_549
+    region:   w_551
 
   17138216:
     template: Beadeaux_Vanguard
@@ -2755,7 +2755,7 @@ spawns:
   17138217:
     template: Beadeaux_Vanguard
     level:    [60, 60]
-    region:   c_547
+    region:   c_553
 
   17138218:
     template: BiGho_Headtaker

@@ -79,13 +79,13 @@ spawns:
 
   17043472:
     template: Mamool_Ja_Savant
-    at:       [295.658, -12.348, -258.343, 213]
     level:    [74, 75]
+    region:   se_16
 
   17043473:
     template: Mamool_Ja_Sophist
-    at:       [300.928, -12.262, -180.927, 47]
     level:    [74, 75]
+    region:   se_17
 
   17043474:
     template: Mamool_Ja_Bounder
@@ -94,23 +94,23 @@ spawns:
 
   17043475:
     template: Mamool_Ja_Mimicker
-    at:       [338.402, -11.263, -221.273, 39]
     level:    [73, 75]
+    region:   se_19
 
   17043476:
     template: Colibri
-    at:       [348.482, -11.352, -222.502, 3]
     level:    [70, 71]
+    region:   se_19
 
   17043477:
     template: Mamool_Ja_Strapper
-    at:       [330.140, -5.368, -217.872, 42]
     level:    [73, 75]
+    region:   se_21
 
   17043478:
     template: Mamool_Jas_Lizard
-    at:       [1.000, 1.000, 1.000, 174]
     level:    [66, 68]
+    region:   se_21
 
   17043479:
     template: Carriage_Lizard
@@ -125,7 +125,7 @@ spawns:
   17043481:
     template: Mamool_Ja_Zenist
     level:    [73, 75]
-    region:   se_25
+    region:   e_25
 
   17043482:
     template: Mamool_Ja_Zenist
@@ -190,17 +190,17 @@ spawns:
   17043494:
     template: Ziz
     level:    [76, 77]
-    region:   se_38
+    region:   s_38
 
   17043495:
     template: Ziz
     level:    [76, 77]
-    region:   se_38
+    region:   s_38
 
   17043496:
     template: Suhur_Mas
     level:    [71, 71]
-    region:   se_31
+    region:   se_40
 
   17043497:
     template: Suhur_Mas
@@ -254,28 +254,28 @@ spawns:
 
   17043507:
     template: Mamool_Ja_Savant
-    at:       [257.741, 5.732, -259.162, 143]
     level:    [74, 75]
+    region:   se_51
 
   17043508:
     template: Mamool_Ja_Sophist
-    at:       [218.191, 5.649, -343.766, 145]
     level:    [74, 75]
+    region:   se_52
 
   17043509:
     template: Mamool_Ja_Bounder
-    at:       [136.821, 5.681, -338.787, 236]
     level:    [73, 75]
+    region:   s_53
 
   17043510:
     template: Mamool_Ja_Spearman
-    at:       [142.152, 5.685, -298.380, 73]
     level:    [73, 75]
+    region:   s_54
 
   17043511:
     template: Mamool_Jas_Wyvern
-    at:       [1.000, 1.000, 1.000, 218]
     level:    [66, 68]
+    region:   s_54
 
   17043512:
     template: Mamool_Ja_Mimicker
@@ -304,8 +304,8 @@ spawns:
 
   17043517:
     template: Mamool_Ja_Zenist
-    at:       [299.195, 13.202, -307.288, 144]
     level:    [73, 75]
+    region:   se_61
 
   17043518:
     template: Mamool_Ja_Savant
@@ -324,13 +324,13 @@ spawns:
 
   17043521:
     template: Mamool_Ja_Sophist
-    at:       [255.873, 13.959, -373.855, 117]
     level:    [74, 75]
+    region:   se_65
 
   17043522:
     template: Carriage_Lizard
-    at:       [253.004, 13.874, -375.217, 163]
     level:    [70, 72]
+    region:   se_65
 
   17043523:
     template: Carriage_Lizard
@@ -339,13 +339,13 @@ spawns:
 
   17043524:
     template: Carriage_Lizard
-    at:       [224.391, 13.986, -419.616, 33]
     level:    [70, 72]
+    region:   se_68
 
   17043525:
     template: Mamool_Ja_Bounder
-    at:       [223.772, 13.932, -418.925, 146]
     level:    [73, 75]
+    region:   se_68
 
   17043526:
     template: Carriage_Lizard
@@ -430,7 +430,7 @@ spawns:
   17043542:
     template: Mamool_Jas_Lizard
     level:    [66, 68]
-    region:   c_86
+    region:   c_85
 
   17043543:
     template: Mamool_Ja_Savant
@@ -439,8 +439,8 @@ spawns:
 
   17043544:
     template: Mamool_Ja_Sophist
-    at:       [143.138, -11.548, -85.275, 191]
     level:    [74, 75]
+    region:   c_88
 
   17043545:
     template: Mamool_Ja_Bounder
@@ -449,18 +449,18 @@ spawns:
 
   17043546:
     template: Mamool_Ja_Zenist
-    at:       [100.820, -12.460, -16.495, 150]
     level:    [73, 75]
+    region:   c_90
 
   17043547:
     template: Mamool_Ja_Mimicker
-    at:       [54.794, -11.469, -67.751, 67]
     level:    [73, 75]
+    region:   c_91
 
   17043548:
     template: Puk
-    at:       [57.353, -11.334, -59.787, 143]
     level:    [70, 72]
+    region:   c_91
 
   17043549:
     template: Mamool_Ja_Mimicker
@@ -475,7 +475,7 @@ spawns:
   17043551:
     template: Carriage_Lizard
     level:    [72, 72]
-    region:   c_95
+    region:   c_93
 
   17043552:
     template: Ziz
@@ -594,33 +594,33 @@ spawns:
 
   17043575:
     template: Mamool_Ja_Savant
-    at:       [140.208, 5.663, -222.886, 6]
     level:    [74, 75]
+    region:   s_119
 
   17043576:
     template: Mamool_Ja_Mimicker
-    at:       [105.849, 5.592, -257.383, 44]
     level:    [73, 75]
+    region:   s_120
 
   17043577:
     template: Mamool_Ja_Zenist
-    at:       [55.904, 6.680, -262.882, 212]
     level:    [73, 75]
+    region:   s_121
 
   17043578:
     template: Mamool_Ja_Savant
-    at:       [61.080, 6.684, -261.264, 104]
     level:    [74, 75]
+    region:   s_121
 
   17043579:
     template: Mamool_Ja_Sophist
-    at:       [17.645, 5.677, -258.015, 177]
     level:    [74, 75]
+    region:   s_123
 
   17043580:
     template: Mamool_Ja_Bounder
-    at:       [25.864, 5.700, -216.139, 3]
     level:    [73, 75]
+    region:   s_124
 
   17043581:
     template: Mamool_Ja_Spearman
@@ -654,18 +654,18 @@ spawns:
 
   17043587:
     template: Mamool_Ja_Sophist
-    at:       [-20.379, 12.441, -167.358, 199]
     level:    [74, 75]
+    region:   s_131
 
   17043588:
     template: Carriage_Lizard
-    at:       [-21.107, 11.542, -174.908, 60]
     level:    [70, 72]
+    region:   s_131
 
   17043589:
     template: Carriage_Lizard
-    at:       [-15.808, 10.117, -179.548, 128]
     level:    [70, 72]
+    region:   s_131
 
   17043590:
     template: Mamool_Ja_Bounder
@@ -675,12 +675,12 @@ spawns:
   17043591:
     template: Mamool_Ja_Savant
     level:    [74, 75]
-    region:   c_135
+    region:   c_134
 
   17043592:
     template: Carriage_Lizard
     level:    [70, 72]
-    region:   c_135
+    region:   c_134
 
   17043593:
     template: Suhur_Mas
@@ -734,23 +734,23 @@ spawns:
 
   17043603:
     template: Mamool_Ja_Strapper
-    at:       [-99.978, 10.117, -99.603, 111]
     level:    [73, 75]
+    region:   c_147
 
   17043604:
     template: Mamool_Jas_Lizard
-    at:       [1.000, 1.000, 1.000, 104]
     level:    [66, 68]
+    region:   c_147
 
   17043605:
     template: Mamool_Ja_Spearman
-    at:       [-132.804, 10.693, -67.110, 217]
     level:    [73, 75]
+    region:   w_149
 
   17043606:
     template: Mamool_Jas_Wyvern
-    at:       [1.000, 1.000, 1.000, 213]
     level:    [66, 68]
+    region:   w_149
 
   17043607:
     template: Poroggo
@@ -789,8 +789,8 @@ spawns:
 
   17043614:
     template: Air_Elemental
-    at:       [-106.814, 5.808, -59.126, 128]
     level:    [75, 80]
+    region:   c_158
 
   17043615:
     template: Poroggo
@@ -824,8 +824,8 @@ spawns:
 
   17043621:
     template: Carriage_Lizard
-    at:       [-155.252, 5.286, -98.869, 1]
     level:    [72, 72]
+    region:   w_163
 
   17043622:
     template: Battle_Bugard
@@ -879,8 +879,8 @@ spawns:
 
   17043632:
     template: Mamool_Ja_Zenist
-    at:       [-223.144, 5.646, -102.124, 120]
     level:    [73, 75]
+    region:   w_176
 
   17043633:
     template: Mamool_Ja_Savant
@@ -889,13 +889,13 @@ spawns:
 
   17043634:
     template: Mamool_Ja_Sophist
-    at:       [-304.459, 5.699, -96.455, 184]
     level:    [74, 75]
+    region:   w_178
 
   17043635:
     template: Mamool_Ja_Zenist
-    at:       [-299.744, 5.659, -58.372, 15]
     level:    [73, 75]
+    region:   w_179
 
   17043636:
     template: Mamool_Ja_Sophist
@@ -904,38 +904,38 @@ spawns:
 
   17043637:
     template: Carriage_Lizard
-    at:       [-258.543, 11.409, -19.656, 41]
     level:    [70, 72]
+    region:   w_181
 
   17043638:
     template: Carriage_Lizard
-    at:       [-299.541, 10.929, -15.405, 49]
     level:    [70, 72]
+    region:   w_182
 
   17043639:
     template: Carriage_Lizard
-    at:       [-297.834, 10.930, -21.516, 149]
     level:    [70, 72]
+    region:   w_182
 
   17043640:
     template: Mamool_Ja_Bounder
-    at:       [-300.220, 10.525, 22.827, 215]
     level:    [73, 75]
+    region:   w_184
 
   17043641:
     template: Carriage_Lizard
-    at:       [-307.218, 10.308, 20.039, 114]
     level:    [70, 72]
+    region:   w_184
 
   17043642:
     template: Carriage_Lizard
-    at:       [-341.063, 18.054, 29.493, 199]
     level:    [70, 72]
+    region:   w_186
 
   17043643:
     template: Carriage_Lizard
-    at:       [-325.108, 12.461, 18.977, 0]
     level:    [70, 72]
+    region:   w_186
 
   17043644:
     template: Carriage_Lizard
@@ -989,38 +989,38 @@ spawns:
 
   17043654:
     template: Puk
-    at:       [-298.646, 4.909, -137.004, 58]
     level:    [70, 72]
+    region:   w_198
 
   17043655:
     template: Puk
-    at:       [-298.563, 4.903, -138.439, 162]
     level:    [70, 72]
+    region:   w_198
 
   17043656:
     template: Puk
-    at:       [-224.570, 4.993, -137.970, 152]
     level:    [70, 72]
+    region:   w_200
 
   17043657:
     template: Puk
-    at:       [-234.793, 5.052, -140.220, 127]
     level:    [70, 72]
+    region:   w_200
 
   17043658:
     template: Brei
-    at:       [-257.519, 3.943, -179.919, 63]
     level:    [77, 78]
+    region:   sw_202
 
   17043659:
     template: Brei
-    at:       [-258.333, 3.880, -182.342, 210]
     level:    [77, 78]
+    region:   sw_202
 
   17043660:
     template: Brei
-    at:       [-260.235, 4.451, -170.249, 169]
     level:    [77, 78]
+    region:   sw_202
 
   17043661:
     template: Puk
@@ -1115,22 +1115,22 @@ spawns:
   17043679:
     template: Mamool_Ja_Spearman
     level:    [73, 75]
-    region:   s_223
+    region:   c_223
 
   17043680:
     template: Mamool_Jas_Wyvern
     level:    [66, 68]
-    region:   s_223
+    region:   c_223
 
   17043681:
     template: Mamool_Ja_Spearman
     level:    [73, 75]
-    region:   s_223
+    region:   c_223
 
   17043682:
     template: Mamool_Jas_Wyvern
     level:    [66, 68]
-    region:   s_223
+    region:   c_223
 
   17043683:
     template: Mamool_Ja_Strapper
@@ -1164,13 +1164,13 @@ spawns:
 
   17043689:
     template: Mamool_Ja_Savant
-    at:       [-222.973, 5.727, -182.383, 216]
     level:    [74, 75]
+    region:   sw_233
 
   17043690:
     template: Mamool_Ja_Sophist
-    at:       [-179.850, 5.652, -137.151, 148]
     level:    [74, 75]
+    region:   w_234
 
   17043691:
     template: Mamool_Ja_Mimicker
@@ -1179,8 +1179,8 @@ spawns:
 
   17043692:
     template: Mamool_Ja_Bounder
-    at:       [-130.546, 6.893, -138.435, 107]
     level:    [73, 75]
+    region:   w_236
 
   17043693:
     template: Mamool_Ja_Mimicker
@@ -1189,23 +1189,23 @@ spawns:
 
   17043694:
     template: Puk
-    at:       [-262.919, 8.029, -253.764, 61]
     level:    [70, 72]
+    region:   sw_238
 
   17043695:
     template: Puk
-    at:       [-270.212, 8.144, -257.333, 125]
     level:    [70, 72]
+    region:   sw_238
 
   17043696:
     template: Qiqirn_Poulterer
-    at:       [-298.296, 7.176, -261.856, 77]
     level:    [77, 77]
+    region:   sw_240
 
   17043697:
     template: Qiqirn_Goldsmith
-    at:       [-298.344, 7.173, -262.018, 74]
     level:    [77, 77]
+    region:   sw_240
 
   17043698:
     template: Qiqirn_Mine
@@ -1214,13 +1214,13 @@ spawns:
 
   17043699:
     template: Spinner
-    at:       [-88.702, -0.183, -260.926, 0]
     level:    [79, 81]
+    region:   s_243
 
   17043700:
     template: Spinner
-    at:       [-101.148, 1.903, -258.868, 35]
     level:    [79, 81]
+    region:   s_243
 
   17043701:
     template: Spinner
@@ -1234,53 +1234,53 @@ spawns:
 
   17043703:
     template: Spinner
-    at:       [-58.514, 1.972, -255.331, 95]
     level:    [79, 81]
+    region:   s_247
 
   17043704:
     template: Spinner
-    at:       [-57.476, 1.899, -251.773, 179]
     level:    [79, 81]
+    region:   s_247
 
   17043705:
     template: Spinner
-    at:       [-58.465, 1.956, -254.781, 79]
     level:    [79, 81]
+    region:   s_247
 
   17043706:
     template: Spinner
-    at:       [-19.362, 5.726, -287.289, 195]
     level:    [79, 81]
+    region:   s_250
 
   17043707:
     template: Spinner
-    at:       [-18.740, 5.324, -282.927, 77]
     level:    [79, 81]
+    region:   s_250
 
   17043708:
     template: Spinner
-    at:       [-56.905, 4.930, -209.103, 52]
     level:    [79, 81]
+    region:   s_252
 
   17043709:
     template: Spinner
-    at:       [-51.366, 5.028, -218.324, 192]
     level:    [79, 81]
+    region:   s_252
 
   17043710:
     template: Spinner
-    at:       [-9.111, 8.057, -302.384, 0]
     level:    [79, 81]
+    region:   s_254
 
   17043711:
     template: Spinner
-    at:       [-17.789, 7.957, -300.154, 55]
     level:    [79, 81]
+    region:   s_254
 
   17043712:
     template: Mamool_Ja_Lurker
-    at:       [62.932, 1.394, -308.304, 68]
     level:    [81, 83]
+    region:   s_256
 
   17043713:
     template: Spinner
@@ -1309,18 +1309,18 @@ spawns:
 
   17043718:
     template: Mamool_Ja_Philosopher
-    at:       [128.838, 7.911, -380.602, 11]
     level:    [81, 83]
+    region:   s_262
 
   17043719:
     template: Spinner
-    at:       [131.380, 7.907, -382.196, 155]
     level:    [79, 81]
+    region:   s_262
 
   17043720:
     template: Spinner
-    at:       [135.529, 8.029, -381.338, 185]
     level:    [79, 81]
+    region:   s_262
 
   17043721:
     template: Mamool_Ja_Mimer
@@ -1344,38 +1344,38 @@ spawns:
 
   17043725:
     template: Mamool_Ja_Infiltrator
-    at:       [163.420, 14.052, -498.544, 164]
     level:    [81, 83]
+    region:   s_269
 
   17043726:
     template: Mamool_Ja_Blusterer
-    at:       [161.356, 14.149, -497.391, 16]
     level:    [81, 83]
+    region:   s_269
 
   17043727:
     template: Mamool_Ja_Philosopher
-    at:       [136.860, 13.971, -498.702, 69]
     level:    [81, 83]
+    region:   s_271
 
   17043728:
     template: Mamool_Ja_Lurker
-    at:       [136.782, 13.900, -498.076, 66]
     level:    [81, 83]
+    region:   s_271
 
   17043729:
     template: Mamool_Ja_Mimer
-    at:       [101.417, 13.698, -500.708, 2]
     level:    [81, 83]
+    region:   s_273
 
   17043730:
     template: Mamool_Ja_Infiltrator
-    at:       [90.047, 16.994, -499.380, 89]
     level:    [81, 83]
+    region:   s_274
 
   17043731:
     template: Mamool_Ja_Blusterer
-    at:       [84.153, 17.142, -501.062, 133]
     level:    [81, 83]
+    region:   s_274
 
   17043732:
     template: Watch_Wyvern
@@ -1514,13 +1514,13 @@ spawns:
 
   17043759:
     template: Mamool_Ja_Philosopher
-    at:       [-21.949, 8.680, -459.991, 76]
     level:    [81, 83]
+    region:   s_303
 
   17043760:
     template: Mamool_Ja_Lurker
-    at:       [-26.460, 8.546, -459.128, 165]
     level:    [81, 83]
+    region:   s_303
 
   17043761:
     template: Mamool_Ja_Lurker
@@ -1529,18 +1529,18 @@ spawns:
 
   17043762:
     template: Mamool_Ja_Mimer
-    at:       [-19.323, 8.737, -342.231, 26]
     level:    [81, 83]
+    region:   s_306
 
   17043763:
     template: Mamool_Ja_Infiltrator
-    at:       [16.373, 8.724, -341.976, 60]
     level:    [81, 83]
+    region:   s_307
 
   17043764:
     template: Mamool_Ja_Philosopher
-    at:       [17.913, 8.649, -339.685, 238]
     level:    [81, 83]
+    region:   s_307
 
   17043765:
     template: Mamool_Ja_Mimer
@@ -1689,8 +1689,8 @@ spawns:
 
   17043794:
     template: Mamool_Ja_Pikeman
-    at:       [-97.073, 9.699, -361.623, 181]
     level:    [81, 83]
+    region:   s_338
 
   17043795:
     template: Mamool_Jas_Wyvern
@@ -1699,18 +1699,18 @@ spawns:
 
   17043796:
     template: Hunting_Raptor
-    at:       [461.187, 30.488, 535.133, 34]
     level:    [75, 76]
+    region:   ne_340
 
   17043797:
     template: Hunting_Raptor
-    at:       [462.312, 32.444, 495.706, 32]
     level:    [75, 76]
+    region:   ne_340
 
   17043798:
     template: Hunting_Raptor
-    at:       [458.829, 38.807, 459.853, 90]
     level:    [75, 76]
+    region:   ne_342
 
   17043799:
     template: Mamool_Ja_Lurker
@@ -1724,28 +1724,28 @@ spawns:
 
   17043801:
     template: Hunting_Raptor
-    at:       [416.170, 41.200, 417.559, 202]
     level:    [75, 76]
+    region:   ne_345
 
   17043802:
     template: Mamool_Ja_Blusterer
-    at:       [404.178, 42.165, 458.889, 15]
     level:    [81, 83]
+    region:   ne_345
 
   17043803:
     template: Mamool_Ja_Infiltrator
-    at:       [379.922, 41.833, 466.181, 61]
     level:    [81, 83]
+    region:   ne_347
 
   17043804:
     template: Air_Elemental
-    at:       [365.996, 42.021, 458.191, 7]
     level:    [75, 80]
+    region:   ne_348
 
   17043805:
     template: Hunting_Raptor
-    at:       [341.973, 41.894, 448.772, 170]
     level:    [75, 76]
+    region:   ne_349
 
   17043806:
     template: Hunting_Raptor
@@ -1759,68 +1759,68 @@ spawns:
 
   17043808:
     template: Spinner
-    at:       [417.241, 44.390, 380.297, 0]
     level:    [79, 81]
+    region:   ne_352
 
   17043809:
     template: Spinner
-    at:       [413.086, 43.754, 380.365, 132]
     level:    [79, 81]
+    region:   ne_352
 
   17043810:
     template: Spinner
-    at:       [420.544, 44.516, 350.283, 199]
     level:    [79, 81]
+    region:   ne_352
 
   17043811:
     template: Mamool_Ja_Pikeman
-    at:       [421.339, 44.410, 348.254, 182]
     level:    [81, 83]
+    region:   ne_355
 
   17043812:
     template: Mamool_Jas_Wyvern
-    at:       [1.000, 1.000, 1.000, 54]
     level:    [66, 68]
+    region:   ne_355
 
   17043813:
     template: Mamool_Ja_Blusterer
-    at:       [372.139, 45.034, 378.171, 24]
     level:    [81, 83]
+    region:   ne_357
 
   17043814:
     template: Mamool_Ja_Philosopher
-    at:       [375.911, 44.953, 375.220, 154]
     level:    [81, 83]
+    region:   ne_358
 
   17043815:
     template: Mamool_Ja_Mimer
-    at:       [314.598, 45.017, 380.187, 247]
     level:    [81, 83]
+    region:   ne_358
 
   17043816:
     template: Spinner
-    at:       [314.476, 45.019, 380.208, 248]
     level:    [79, 81]
+    region:   ne_360
 
   17043817:
     template: Spinner
-    at:       [299.086, 45.065, 375.541, 183]
     level:    [79, 81]
+    region:   ne_360
 
   17043818:
     template: Spinner
-    at:       [339.238, 44.645, 351.569, 196]
     level:    [79, 81]
+    region:   ne_360
 
   17043819:
     template: Spinner
-    at:       [338.285, 44.525, 342.815, 190]
     level:    [79, 81]
+    region:   ne_363
 
   17043820:
     template: Mamool_Ja_Lurker
-    at:       [369.271, 44.949, 304.126, 226]
     level:    [81, 83]
+    region:   ne_363
 
   17043821:
     template: Mamool_Ja_Blusterer
@@ -1829,33 +1829,33 @@ spawns:
 
   17043822:
     template: Mamool_Ja_Mimer
-    at:       [379.778, 42.413, 278.055, 191]
     level:    [81, 83]
+    region:   ne_366
 
   17043823:
     template: Mamool_Ja_Philosopher
-    at:       [378.993, 41.781, 283.585, 186]
     level:    [81, 83]
+    region:   ne_367
 
   17043824:
     template: Hunting_Raptor
-    at:       [299.838, 44.958, 327.372, 216]
     level:    [75, 76]
+    region:   ne_367
 
   17043825:
     template: Ziz
-    at:       [302.055, 44.974, 315.629, 230]
     level:    [77, 78]
+    region:   ne_369
 
   17043826:
     template: Mamool_Ja_Stabler
-    at:       [298.703, 45.064, 314.594, 158]
     level:    [81, 83]
+    region:   ne_370
 
   17043827:
     template: Mamool_Jas_Raptor
-    at:       [1.000, 1.000, 1.000, 87]
     level:    [76, 78]
+    region:   ne_370
 
   17043828:
     template: Ziz
@@ -1909,48 +1909,48 @@ spawns:
 
   17043838:
     template: Mamool_Ja_Infiltrator
-    at:       [348.351, 45.051, 217.098, 0]
     level:    [81, 83]
+    region:   ne_382
 
   17043839:
     template: Mamool_Ja_Philosopher
-    at:       [300.332, 45.011, 222.394, 129]
     level:    [81, 83]
+    region:   ne_383
 
   17043840:
     template: Mamool_Ja_Lurker
-    at:       [300.829, 44.785, 181.686, 196]
     level:    [81, 83]
+    region:   ne_384
 
   17043841:
     template: Mamool_Ja_Blusterer
-    at:       [294.665, 47.753, 175.888, 32]
     level:    [81, 83]
+    region:   e_385
 
   17043842:
     template: Mamool_Ja_Philosopher
-    at:       [260.078, 48.051, 186.062, 60]
     level:    [81, 83]
+    region:   e_386
 
   17043843:
     template: Mamool_Ja_Lurker
-    at:       [259.882, 47.949, 168.238, 172]
     level:    [81, 83]
+    region:   e_387
 
   17043844:
     template: Mamool_Ja_Infiltrator
-    at:       [263.785, 47.925, 143.573, 60]
     level:    [81, 83]
+    region:   e_388
 
   17043845:
     template: Mamool_Ja_Stabler
-    at:       [263.423, 47.882, 145.461, 189]
     level:    [81, 83]
+    region:   e_389
 
   17043846:
     template: Mamool_Jas_Raptor
-    at:       [1.000, 1.000, 1.000, 241]
     level:    [76, 78]
+    region:   e_389
 
   17043847:
     template: Archaic_Mirror
@@ -1995,7 +1995,7 @@ spawns:
   17043855:
     template: Mamool_Ja_Conservator
     level:    [81, 83]
-    region:   se_7
+    region:   se_399
 
   17043856:
     template: Mamool_Ja_Treasurer
@@ -2054,13 +2054,13 @@ spawns:
 
   17043867:
     template: Mamool_Ja_Conservator
-    at:       [-173.039, 4.187, -95.576, 182]
     level:    [81, 83]
+    region:   w_411
 
   17043868:
     template: Mamool_Ja_Treasurer
-    at:       [-254.567, 14.432, -73.429, 177]
     level:    [81, 83]
+    region:   w_411
 
   17043869:
     template: Mamool_Ja_Conservator

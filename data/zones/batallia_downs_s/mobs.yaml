@@ -190,7 +190,7 @@ spawns:
   17121318:
     template: Goblin_Corpsman
     level:    [62, 64]
-    region:   c_26
+    region:   c_38
 
   17121319:
     template: Goblin_Blastmaster
@@ -240,7 +240,7 @@ spawns:
   17121328:
     template: Stalking_Sapling
     level:    [24, 27]
-    region:   c_26
+    region:   c_38
 
   17121329:
     template: Stalking_Sapling
@@ -710,7 +710,7 @@ spawns:
   17121422:
     template: Goblin_Mine
     level:    [58, 58]
-    region:   n_124
+    region:   n_142
 
   17121423:
     template: Goblin_Freesword
@@ -1540,7 +1540,7 @@ spawns:
   17121588:
     template: Lycopodium
     level:    [28, 32]
-    region:   s_303
+    region:   s_308
 
   17121589:
     template: Lycopodium
@@ -1630,7 +1630,7 @@ spawns:
   17121606:
     template: Ba
     level:    [33, 37]
-    region:   s_303
+    region:   s_308
 
   17121607:
     template: Ba
@@ -1890,12 +1890,12 @@ spawns:
   17121658:
     template: Orcish_Impaler
     level:    [65, 69]
-    region:   nw_376
+    region:   nw_378
 
   17121659:
     template: Orcish_Chasseur
     level:    [65, 69]
-    region:   nw_376
+    region:   nw_378
 
   17121660:
     template: Orcish_Brawler
@@ -2024,43 +2024,43 @@ spawns:
 
   17121685:
     template: Pixie
+    at:       [296.633, 5.168, -258.014, 108]
     level:    [57, 58]
-    region:   s_405
 
   17121686:
     template: Pixie
+    at:       [344.727, 7.844, -87.338, 98]
     level:    [57, 58]
-    region:   e_406
 
   17121687:
     template: Pixie
+    at:       [-228.283, -6.713, 285.002, 107]
     level:    [57, 58]
-    region:   n_407
 
   17121688:
     template: Pixie
+    at:       [-197.167, -25.834, -9.873, 35]
     level:    [57, 58]
-    region:   c_408
 
   17121689:
     template: Pixie
+    at:       [-372.721, -17.256, -85.458, 97]
     level:    [57, 58]
-    region:   c_409
 
   17121690:
     template: Pixie
+    at:       [-312.813, -16.995, 145.661, 226]
     level:    [57, 58]
-    region:   nw_410
 
   17121691:
     template: Pixie
+    at:       [-566.500, -8.810, 26.022, 61]
     level:    [57, 58]
-    region:   nw_411
 
   17121692:
     template: Pixie
+    at:       [-480.403, -24.557, 278.781, 81]
     level:    [57, 58]
-    region:   nw_412
 
   17121693:
     template: Sandworm
@@ -2365,52 +2365,52 @@ spawns:
   17121753:
     template: Feldrautte_I_Rouhent
     level:    [0, 0]
-    region:   sw_453
+    region:   e_473
 
   17121754:
     template: Norvallen_Knight
     level:    [0, 0]
-    region:   sw_453
+    region:   e_473
 
   17121755:
     template: Norvallen_Knight
     level:    [0, 0]
-    region:   sw_453
+    region:   e_473
 
   17121756:
     template: Norvallen_Knight
     level:    [0, 0]
-    region:   sw_453
+    region:   e_473
 
   17121757:
     template: Norvallen_Knight
     level:    [0, 0]
-    region:   sw_453
+    region:   e_473
 
   17121758:
     template: Norvallen_Knight
     level:    [0, 0]
-    region:   sw_453
+    region:   e_473
 
   17121759:
     template: Norvallen_Knight
     level:    [0, 0]
-    region:   sw_453
+    region:   e_473
 
   17121760:
     template: Norvallen_Knight
     level:    [0, 0]
-    region:   sw_453
+    region:   e_473
 
   17121761:
     template: Norvallen_Knight
     level:    [0, 0]
-    region:   sw_453
+    region:   e_473
 
   17121762:
     template: Norvallen_Knight
     level:    [0, 0]
-    region:   sw_453
+    region:   e_473
 
   17121763:
     template: Yrvaulair_S_Cousseraux
@@ -2450,12 +2450,12 @@ spawns:
   17121770:
     template: Royal_Knight
     level:    [1, 1]
-    region:   sw_484
+    region:   e_490
 
   17121771:
     template: Royal_Knight
     level:    [1, 1]
-    region:   sw_491
+    region:   e_483
 
   17121772:
     template: Royal_Knight
@@ -2465,52 +2465,52 @@ spawns:
   17121773:
     template: Mieuseloir_B_Enchelles
     level:    [0, 0]
-    region:   sw_453
+    region:   e_473
 
   17121774:
     template: Crimson_Wolf_Esquire
     level:    [0, 0]
-    region:   sw_453
+    region:   e_473
 
   17121775:
     template: Crimson_Wolf_Esquire
     level:    [0, 0]
-    region:   sw_453
+    region:   e_473
 
   17121776:
     template: Crimson_Wolf_Esquire
     level:    [0, 0]
-    region:   sw_453
+    region:   e_473
 
   17121777:
     template: Crimson_Wolf_Esquire
     level:    [0, 0]
-    region:   sw_453
+    region:   e_473
 
   17121778:
     template: Crimson_Wolf_Esquire
     level:    [0, 0]
-    region:   sw_453
+    region:   e_473
 
   17121779:
     template: Crimson_Wolf_Esquire
     level:    [0, 0]
-    region:   sw_453
+    region:   e_473
 
   17121780:
     template: Crimson_Wolf_Esquire
     level:    [0, 0]
-    region:   sw_453
+    region:   e_473
 
   17121781:
     template: Crimson_Wolf_Esquire
     level:    [0, 0]
-    region:   sw_453
+    region:   e_473
 
   17121782:
     template: Crimson_Wolf_Esquire
     level:    [0, 0]
-    region:   sw_453
+    region:   e_473
 
   17121783:
     template: Gold_Badger_Esquire
@@ -2675,32 +2675,32 @@ spawns:
   17121815:
     template: Royal_Palliator
     level:    [60, 60]
-    region:   sw_453
+    region:   e_473
 
   17121816:
     template: Royal_Palliator
     level:    [60, 60]
-    region:   sw_453
+    region:   e_473
 
   17121817:
     template: Royal_Palliator
     level:    [60, 60]
-    region:   sw_453
+    region:   e_473
 
   17121818:
     template: Royal_Palliator
     level:    [60, 60]
-    region:   sw_453
+    region:   e_473
 
   17121819:
     template: Royal_Palliator
     level:    [60, 60]
-    region:   sw_453
+    region:   e_473
 
   17121820:
     template: Royal_Palliator
     level:    [60, 60]
-    region:   sw_453
+    region:   e_473
 
   17121821:
     template: Royal_Provisioner
@@ -2730,7 +2730,7 @@ spawns:
   17121826:
     template: Steelhide_Protector
     level:    [60, 60]
-    region:   sw_460
+    region:   ne_546
 
   17121827:
     template: Steelhide_Protector
@@ -2750,7 +2750,7 @@ spawns:
   17121830:
     template: Steelhide_Protector
     level:    [60, 60]
-    region:   ne_550
+    region:   c_548
 
   17121831:
     template: Steelhide_Protector
@@ -2760,7 +2760,7 @@ spawns:
   17121832:
     template: Steelhide_Protector
     level:    [60, 60]
-    region:   ne_545
+    region:   ne_552
 
   17121833:
     template: Steelhide_Protector
@@ -2780,7 +2780,7 @@ spawns:
   17121836:
     template: Gutrender_Trooper
     level:    [60, 60]
-    region:   ne_550
+    region:   s_556
 
   17121837:
     template: Gutrender_Trooper
@@ -3050,7 +3050,7 @@ spawns:
   17121890:
     template: Clan_Bear_Fighter
     level:    [0, 0]
-    region:   ne_607
+    region:   ne_610
 
   17121891:
     template: Clan_Bear_Fighter
@@ -3490,7 +3490,7 @@ spawns:
   17121978:
     template: Rainemard
     level:    [1, 1]
-    region:   sw_453
+    region:   e_473
 
   17121979:
     template: Maat

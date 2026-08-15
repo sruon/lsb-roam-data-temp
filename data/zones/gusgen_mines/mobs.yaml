@@ -94,23 +94,23 @@ spawns:
 
   17580051:
     template: Fly_Agaric
-    at:       [-14.282, -59.900, -177.424, 15]
     level:    [20, 23]
+    region:   s_19
 
   17580052:
     template: Fly_Agaric
-    at:       [-16.713, -59.780, -186.027, 66]
     level:    [20, 23]
+    region:   s_19
 
   17580053:
     template: Fly_Agaric
-    at:       [-28.088, -59.560, -180.088, 127]
     level:    [20, 23]
+    region:   s_19
 
   17580054:
     template: Fly_Agaric
-    at:       [-27.976, -59.560, -180.089, 88]
     level:    [20, 23]
+    region:   s_19
 
   17580055:
     template: Fly_Agaric
@@ -204,18 +204,18 @@ spawns:
 
   17580073:
     template: Ghoul
-    at:       [5.000, -54.000, -92.000, 127]
     level:    [20, 24]
+    region:   s_41
 
   17580074:
     template: Ghoul
-    at:       [15.834, -60.117, -96.727, 67]
     level:    [20, 24]
+    region:   s_41
 
   17580075:
     template: Ghoul
-    at:       [41.000, -54.000, -93.000, 55]
     level:    [24, 27]
+    region:   s_41
 
   17580076:
     template: Ghoul
@@ -524,13 +524,13 @@ spawns:
 
   17580137:
     template: Wendigo
-    at:       [18.865, -40.100, 106.229, 248]
     level:    [26, 30]
+    region:   c_105
 
   17580138:
     template: Wight
-    at:       [19.186, -40.599, 102.541, 57]
     level:    [29, 33]
+    region:   c_105
 
   17580139:
     template: Accursed_Soldier
@@ -1095,67 +1095,67 @@ spawns:
   17580251:
     template: Gallinipper
     level:    [32, 35]
-    region:   nw_214
+    region:   nw_219
 
   17580252:
     template: Gallinipper
     level:    [32, 35]
-    region:   nw_214
+    region:   nw_219
 
   17580253:
     template: Gallinipper
     level:    [32, 35]
-    region:   nw_214
+    region:   nw_219
 
   17580254:
     template: Gallinipper
     level:    [32, 35]
-    region:   nw_214
+    region:   nw_219
 
   17580255:
     template: Feu_Follet
     level:    [35, 38]
-    region:   nw_214
+    region:   nw_219
 
   17580256:
     template: Feu_Follet
     level:    [35, 38]
-    region:   nw_214
+    region:   nw_219
 
   17580257:
     template: Gallinipper
     level:    [32, 35]
-    region:   nw_215
+    region:   nw_225
 
   17580258:
     template: Gallinipper
     level:    [32, 35]
-    region:   nw_215
+    region:   nw_225
 
   17580259:
     template: Gallinipper
     level:    [32, 35]
-    region:   nw_215
+    region:   nw_225
 
   17580260:
     template: Gallinipper
     level:    [32, 35]
-    region:   nw_215
+    region:   nw_225
 
   17580261:
     template: Gallinipper
     level:    [32, 35]
-    region:   nw_215
+    region:   nw_225
 
   17580262:
     template: Feu_Follet
     level:    [35, 38]
-    region:   nw_215
+    region:   nw_225
 
   17580263:
     template: Feu_Follet
     level:    [35, 38]
-    region:   nw_215
+    region:   nw_225
 
   17580264:
     template: Mauthe_Doog
@@ -1310,7 +1310,7 @@ spawns:
   17580294:
     template: Myconid
     level:    [30, 32]
-    region:   nw_256
+    region:   nw_262
 
   17580295:
     template: Wight

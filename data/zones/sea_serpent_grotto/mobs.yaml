@@ -1509,8 +1509,8 @@ spawns:
 
   17498414:
     template: Rock_Crab
-    at:       [-299.728, 20.234, -71.261, 92]
     level:    [53, 58]
+    region:   w_302
 
   17498415:
     template: Marsh_Sahagin
@@ -1954,13 +1954,13 @@ spawns:
 
   17498503:
     template: Robber_Crab
-    at:       [-255.176, 47.969, -333.297, 127]
     level:    [62, 67]
+    region:   sw_391
 
   17498504:
     template: Robber_Crab
-    at:       [-258.214, 51.147, -343.688, 57]
     level:    [62, 67]
+    region:   sw_391
 
   17498505:
     template: Devil_Manta
@@ -2070,7 +2070,7 @@ spawns:
   17498526:
     template: Delta_Sahagin
     level:    [69, 71]
-    region:   c_414
+    region:   c_413
 
   17498527:
     template: Shore_Sahagin

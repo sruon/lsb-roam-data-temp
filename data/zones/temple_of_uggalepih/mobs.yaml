@@ -459,18 +459,18 @@ spawns:
 
   17428572:
     template: Branding_Iron
-    at:       [60.000, 1.461, -64.000, 21]
     level:    [55, 58]
+    region:   s_92
 
   17428573:
     template: Rumble_Crawler
-    at:       [53.801, 1.162, -73.590, 44]
     level:    [53, 56]
+    region:   s_92
 
   17428574:
     template: Rumble_Crawler
-    at:       [61.266, 1.346, -70.879, 98]
     level:    [53, 56]
+    region:   s_92
 
   17428575:
     template: Rumble_Crawler
@@ -669,18 +669,18 @@ spawns:
 
   17428614:
     template: Branding_Iron
-    at:       [-146.000, 1.463, -21.000, 53]
     level:    [55, 58]
+    region:   sw_134
 
   17428615:
     template: Wespe
-    at:       [-135.898, 1.462, -24.791, 33]
     level:    [52, 55]
+    region:   sw_134
 
   17428616:
     template: Wespe
-    at:       [-139.891, 1.499, -20.621, 63]
     level:    [52, 55]
+    region:   sw_134
 
   17428617:
     template: Tonberry_Cutter
@@ -779,8 +779,8 @@ spawns:
 
   17428636:
     template: Tonberry_Cutter
-    at:       [-140.494, 0.000, -90.177, 16]
     level:    [56, 59]
+    region:   sw_156
 
   17428637:
     template: Tonberry_Cutter
@@ -1159,8 +1159,8 @@ spawns:
 
   17428712:
     template: Iron_Maiden
-    at:       [-69.000, -17.000, -152.000, 2]
     level:    [64, 68]
+    region:   sw_232
 
   17428713:
     template: Hover_Tank
@@ -1324,13 +1324,13 @@ spawns:
 
   17428745:
     template: Tonberry_Stalker
-    at:       [272.000, -0.013, 90.000, 56]
     level:    [56, 59]
+    region:   e_265
 
   17428746:
     template: Tonberry_Cutter
-    at:       [268.877, 0.000, 112.780, 37]
     level:    [56, 59]
+    region:   e_266
 
   17428747:
     template: Tonberry_Pursuer
@@ -1459,8 +1459,8 @@ spawns:
 
   17428772:
     template: Tonberry_Stabber
-    at:       [336.400, -0.500, 218.653, 127]
     level:    [64, 67]
+    region:   ne_292
 
   17428773:
     template: Tonberry_Dismayer
@@ -1519,13 +1519,13 @@ spawns:
 
   17428784:
     template: Temple_Bee
-    at:       [301.085, 1.490, 260.047, 94]
     level:    [60, 63]
+    region:   ne_304
 
   17428785:
     template: Temple_Bee
-    at:       [300.268, 1.517, 263.782, 127]
     level:    [60, 63]
+    region:   ne_304
 
   17428786:
     template: Water_Elemental

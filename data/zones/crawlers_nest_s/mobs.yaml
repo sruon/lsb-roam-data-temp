@@ -19,18 +19,18 @@ spawns:
 
   17477636:
     template: Witch_Hazel
-    at:       [61.938, -1.166, -3.232, 53]
     level:    [62, 64]
+    region:   c_4
 
   17477637:
     template: Puroboros
-    at:       [71.091, -1.376, 26.452, 203]
     level:    [69, 70]
+    region:   c_5
 
   17477638:
     template: Puroboros
-    at:       [67.278, -1.224, 22.986, 114]
     level:    [69, 70]
+    region:   c_5
 
   17477639:
     template: Fire_Elemental
@@ -84,8 +84,8 @@ spawns:
 
   17477649:
     template: Witch_Hazel
-    at:       [3.464, -0.682, 178.693, 127]
     level:    [62, 64]
+    region:   n_17
 
   17477650:
     template: Witch_Hazel
@@ -119,8 +119,8 @@ spawns:
 
   17477656:
     template: Witch_Hazel
-    at:       [59.648, -0.854, 276.879, 74]
     level:    [62, 64]
+    region:   n_24
 
   17477657:
     template: Witch_Hazel
@@ -129,8 +129,8 @@ spawns:
 
   17477658:
     template: Witch_Hazel
-    at:       [42.337, -0.621, 299.036, 139]
     level:    [62, 64]
+    region:   n_26
 
   17477659:
     template: Labyrinth_Lizard
@@ -139,8 +139,8 @@ spawns:
 
   17477660:
     template: Wespe
-    at:       [-100.810, -0.653, 276.514, 64]
     level:    [64, 66]
+    region:   n_28
 
   17477661:
     template: Wespe
@@ -190,7 +190,7 @@ spawns:
   17477670:
     template: Emerald_Quadav
     level:    [66, 69]
-    region:   n_38
+    region:   n_37
 
   17477671:
     template: Labyrinth_Lizard
@@ -199,13 +199,13 @@ spawns:
 
   17477672:
     template: Puroboros
-    at:       [60.664, -0.888, 266.081, 40]
     level:    [69, 70]
+    region:   n_40
 
   17477673:
     template: Puroboros
-    at:       [61.420, -0.897, 264.549, 170]
     level:    [69, 70]
+    region:   n_40
 
   17477674:
     template: Fire_Elemental
@@ -214,8 +214,8 @@ spawns:
 
   17477675:
     template: Abatwa
-    at:       [55.076, -0.963, 264.432, 145]
     level:    [78, 81]
+    region:   n_40
 
   17477676:
     template: Bronze_Quadav
@@ -230,7 +230,7 @@ spawns:
   17477678:
     template: Labyrinth_Lizard
     level:    [65, 67]
-    region:   n_46
+    region:   n_44
 
   17477679:
     template: Brass_Quadav
@@ -409,13 +409,13 @@ spawns:
 
   17477714:
     template: Processionaire
-    at:       [-115.953, -0.919, 350.867, 183]
     level:    [69, 71]
+    region:   n_82
 
   17477715:
     template: Processionaire
     level:    [69, 71]
-    region:   n_83
+    region:   n_82
 
   17477716:
     template: Silver_Quadav
@@ -449,18 +449,18 @@ spawns:
 
   17477722:
     template: Processionaire
-    at:       [-164.538, -0.755, 368.831, 130]
     level:    [69, 71]
+    region:   nw_90
 
   17477723:
     template: Processionaire
-    at:       [-168.643, -0.777, 363.107, 240]
     level:    [69, 71]
+    region:   nw_90
 
   17477724:
     template: Water_Elemental
     level:    [75, 75]
-    region:   n_88
+    region:   n_92
 
   17477725:
     template: Water_Elemental
@@ -669,8 +669,8 @@ spawns:
 
   17477766:
     template: Elivira
-    at:       [129.558, -33.401, -87.867, 168]
     level:    [1, 1]
+    region:   c_134
 
   17477767:
     template: 1st_Gold_Musketeer
@@ -684,8 +684,8 @@ spawns:
 
   17477769:
     template: 1st_Gold_Musketeer
-    at:       [0.000, 0.000, 0.000, 163]
     level:    [0, 0]
+    region:   c_134
 
   17477770:
     template: 1st_Gold_Musketeer
@@ -704,8 +704,8 @@ spawns:
 
   17477773:
     template: 1st_Gold_Musketeer
-    at:       [0.000, 0.000, 0.000, 162]
     level:    [0, 0]
+    region:   c_134
 
   17477774:
     template: 1st_Gold_Musketeer
@@ -714,8 +714,8 @@ spawns:
 
   17477775:
     template: 1st_Gold_Musketeer
-    at:       [0.000, 0.000, 0.000, 173]
     level:    [0, 0]
+    region:   c_134
 
   17477776:
     template: Kurt
@@ -769,53 +769,53 @@ spawns:
 
   17477786:
     template: Else
-    at:       [117.658, -34.189, -79.519, 204]
     level:    [68, 68]
+    region:   c_154
 
   17477787:
     template: 1st_Legion_Reiter
     level:    [68, 68]
-    region:   c_135
+    region:   c_155
 
   17477788:
     template: 1st_Legion_Reiter
     level:    [68, 68]
-    region:   c_135
+    region:   c_155
 
   17477789:
     template: 1st_Legion_Reiter
     level:    [68, 68]
-    region:   c_135
+    region:   c_155
 
   17477790:
     template: 1st_Legion_Reiter
     level:    [68, 68]
-    region:   c_135
+    region:   c_155
 
   17477791:
     template: 1st_Legion_Reiter
     level:    [68, 68]
-    region:   c_135
+    region:   c_155
 
   17477792:
     template: 1st_Legion_Reiter
     level:    [68, 68]
-    region:   c_135
+    region:   c_155
 
   17477793:
     template: 1st_Legion_Reiter
     level:    [68, 68]
-    region:   c_135
+    region:   c_155
 
   17477794:
     template: 1st_Legion_Reiter
     level:    [68, 68]
-    region:   c_135
+    region:   c_155
 
   17477795:
     template: 1st_Legion_Reiter
     level:    [68, 68]
-    region:   c_135
+    region:   c_155
 
   17477796:
     template: 4th_Legionnaire
@@ -1074,53 +1074,53 @@ spawns:
 
   17477847:
     template: BoDho_Hundredfist
-    at:       [0.000, 0.000, 0.000, 216]
     level:    [75, 80]
+    region:   e_215
 
   17477848:
     template: Waughroon_Heavyshell
-    at:       [0.000, 0.000, 0.000, 219]
     level:    [60, 60]
+    region:   e_216
 
   17477849:
     template: Waughroon_Heavyshell
-    at:       [0.000, 0.000, 0.000, 217]
     level:    [60, 60]
+    region:   e_217
 
   17477850:
     template: Waughroon_Heavyshell
-    at:       [0.000, 0.000, 0.000, 167]
     level:    [60, 60]
+    region:   e_218
 
   17477851:
     template: Waughroon_Heavyshell
-    at:       [0.000, 0.000, 0.000, 57]
     level:    [60, 60]
+    region:   e_219
 
   17477852:
     template: Waughroon_Heavyshell
-    at:       [0.000, 0.000, 0.000, 219]
     level:    [60, 60]
+    region:   e_217
 
   17477853:
     template: Waughroon_Heavyshell
-    at:       [0.000, 0.000, 0.000, 219]
     level:    [60, 60]
+    region:   e_221
 
   17477854:
     template: Waughroon_Heavyshell
-    at:       [0.000, 0.000, 0.000, 182]
     level:    [60, 60]
+    region:   e_219
 
   17477855:
     template: Waughroon_Heavyshell
-    at:       [0.000, 0.000, 0.000, 217]
     level:    [60, 60]
+    region:   e_223
 
   17477856:
     template: Waughroon_Heavyshell
-    at:       [0.000, 0.000, 0.000, 217]
     level:    [60, 60]
+    region:   e_217
 
   17477857:
     template: DeVyu_Headhunter
@@ -1184,28 +1184,28 @@ spawns:
 
   17477869:
     template: Qulun_Heavyshell
-    at:       [0.000, 0.000, 0.000, 77]
     level:    [60, 60]
+    region:   e_237
 
   17477870:
     template: Qulun_Heavyshell
-    at:       [0.000, 0.000, 0.000, 205]
     level:    [60, 60]
+    region:   e_238
 
   17477871:
     template: Qulun_Heavyshell
     level:    [60, 60]
-    region:   ne_236
+    region:   ne_239
 
   17477872:
     template: Qulun_Heavyshell
     level:    [60, 60]
-    region:   ne_236
+    region:   ne_240
 
   17477873:
     template: Qulun_Heavyshell
     level:    [60, 60]
-    region:   ne_236
+    region:   ne_241
 
   17477874:
     template: Qulun_Heavyshell
@@ -1215,12 +1215,12 @@ spawns:
   17477875:
     template: Qulun_Heavyshell
     level:    [60, 60]
-    region:   ne_236
+    region:   ne_240
 
   17477876:
     template: Qulun_Heavyshell
     level:    [60, 60]
-    region:   ne_236
+    region:   ne_244
 
   17477877:
     template: GoBhu_Herohunter
@@ -1275,82 +1275,82 @@ spawns:
   17477887:
     template: GoDha_Jademaiden
     level:    [70, 70]
-    region:   ne_236
+    region:   e_255
 
   17477888:
     template: GoDhas_Elite_Raider
     level:    [70, 70]
-    region:   ne_236
+    region:   e_255
 
   17477889:
     template: GoDhas_Elite_Raider
     level:    [70, 70]
-    region:   ne_236
+    region:   e_255
 
   17477890:
     template: GoDhas_Elite_Raider
     level:    [70, 70]
-    region:   ne_236
+    region:   e_255
 
   17477891:
     template: GoDhas_Elite_Raider
     level:    [70, 70]
-    region:   ne_236
+    region:   e_255
 
   17477892:
     template: GoDhas_Elite_Raider
     level:    [70, 70]
-    region:   ne_236
+    region:   e_255
 
   17477893:
     template: GoDhas_Elite_Raider
     level:    [70, 70]
-    region:   e_261
+    region:   e_255
 
   17477894:
     template: GoDhas_Elite_Raider
     level:    [70, 70]
-    region:   ne_236
+    region:   e_255
 
   17477895:
     template: GoDhas_Elite_Raider
     level:    [70, 70]
-    region:   e_263
+    region:   e_255
 
   17477896:
     template: GoDhas_Elite_Raider
     level:    [70, 70]
-    region:   ne_236
+    region:   e_255
 
   17477897:
     template: BoDhos_Shieldwarrior
     level:    [75, 80]
-    region:   ne_236
+    region:   ne_265
 
   17477898:
     template: BoDhos_Shieldwarrior
     level:    [75, 80]
-    region:   ne_236
+    region:   ne_266
 
   17477899:
     template: BoDhos_Shieldwarrior
     level:    [75, 80]
-    region:   ne_236
+    region:   ne_267
 
   17477900:
     template: BoDhos_Shieldwarrior
     level:    [75, 80]
-    region:   ne_236
+    region:   ne_268
 
   17477901:
     template: BoDhos_Shieldwarrior
     level:    [75, 80]
-    region:   ne_236
+    region:   ne_269
 
   17477902:
     template: BoDhos_Shieldwarrior
     level:    [75, 80]
-    region:   ne_236
+    region:   ne_270
 
   17477903:
     template: Confederate_Mantelet
@@ -1940,7 +1940,7 @@ spawns:
   17478020:
     template: Areuhat
     level:    [1, 1]
-    region:   c_135
+    region:   sw_388
 
   17478021:
     template: Odzmanouk
@@ -2419,13 +2419,13 @@ spawns:
 
   17478116:
     template: Locus_Worker_Lugcrawler
-    at:       [-26.523, 0.000, -309.370, 159]
     level:    [132, 134]
+    region:   s_484
 
   17478117:
     template: Apex_Mycelar
-    at:       [-27.499, 0.000, -309.559, 177]
     level:    [136, 138]
+    region:   s_484
 
   17478118:
     template: Apex_Hornfly
@@ -2444,23 +2444,23 @@ spawns:
 
   17478121:
     template: Apex_Hornfly
-    at:       [110.958, 0.000, -318.055, 243]
     level:    [131, 134]
+    region:   s_489
 
   17478122:
     template: Locus_Hornfly
-    at:       [107.017, -1.000, -321.824, 76]
     level:    [131, 133]
+    region:   s_489
 
   17478123:
     template: Apex_Worker_Lugcrawler
-    at:       [112.783, 0.000, -325.495, 179]
     level:    [132, 134]
+    region:   s_489
 
   17478124:
     template: Locus_Nest_Elytra
-    at:       [116.852, 0.000, -320.552, 239]
     level:    [132, 134]
+    region:   s_489
 
   17478125:
     template: Apex_Hornfly
@@ -2499,8 +2499,8 @@ spawns:
 
   17478132:
     template: Locus_Nest_Elytra
-    at:       [113.086, 0.000, -306.567, 43]
     level:    [132, 134]
+    region:   s_497
 
   17478133:
     template: Apex_Hornfly
@@ -2515,7 +2515,7 @@ spawns:
   17478135:
     template: Locus_Worker_Lugcrawler
     level:    [132, 134]
-    region:   s_503
+    region:   s_501
 
   17478136:
     template: Apex_Nest_Elytra
@@ -2585,12 +2585,12 @@ spawns:
   17478149:
     template: Locus_Dragonfly
     level:    [133, 135]
-    region:   s_513
+    region:   s_517
 
   17478150:
     template: Locus_Blazer_Elytra
     level:    [134, 136]
-    region:   s_513
+    region:   s_517
 
   17478151:
     template: Apex_Dragonfly
@@ -2615,22 +2615,22 @@ spawns:
   17478155:
     template: Apex_Dragonfly
     level:    [133, 135]
-    region:   s_513
+    region:   s_523
 
   17478156:
     template: Locus_Dragonfly
     level:    [133, 135]
-    region:   s_513
+    region:   s_523
 
   17478157:
     template: Apex_Soldier_Lugcrawler
     level:    [135, 135]
-    region:   s_513
+    region:   s_523
 
   17478158:
     template: Locus_Blazer_Elytra
     level:    [134, 136]
-    region:   s_513
+    region:   s_523
 
   17478159:
     template: Apex_Dragonfly
@@ -2889,18 +2889,18 @@ spawns:
 
   17478210:
     template: Apex_Mycelar
-    at:       [128.559, -1.000, -232.482, 73]
     level:    [136, 138]
+    region:   s_578
 
   17478211:
     template: Apex_Mycelar
-    at:       [131.866, -1.000, -233.513, 151]
     level:    [136, 138]
+    region:   s_578
 
   17478212:
     template: Apex_Doom_Scorpion
-    at:       [125.963, 0.000, -233.422, 116]
     level:    [135, 138]
+    region:   s_578
 
   17478213:
     template: Apex_Mycelar
@@ -3025,7 +3025,7 @@ spawns:
   17478237:
     template: Apex_Water_Elemental
     level:    [135, 137]
-    region:   s_444
+    region:   s_605
 
   17478238:
     template: Apex_Fire_Elemental
@@ -3035,154 +3035,154 @@ spawns:
   17478239:
     template: Apex_Water_Elemental
     level:    [135, 137]
-    region:   s_548
+    region:   s_607
 
   17478240:
     template: Apex_Rumble_Lugcrawler
-    at:       [-103.298, 0.000, -383.855, 61]
     level:    [136, 138]
+    region:   s_608
 
   17478241:
     template: Apex_Rumble_Lugcrawler
-    at:       [-97.809, -1.000, -371.140, 144]
     level:    [136, 138]
+    region:   s_608
 
   17478242:
     template: Apex_Rumble_Lugcrawler
     level:    [136, 138]
-    region:   s_610
+    region:   s_608
 
   17478243:
     template: Apex_Rumble_Lugcrawler
-    at:       [-103.445, 0.000, -383.077, 61]
     level:    [136, 138]
+    region:   s_608
 
   17478244:
     template: Apex_Rumble_Lugcrawler
-    at:       [-124.215, 0.000, -379.450, 124]
     level:    [136, 138]
+    region:   s_612
 
   17478245:
     template: Apex_Rumble_Lugcrawler
     level:    [136, 138]
-    region:   s_610
+    region:   s_613
 
   17478246:
     template: Apex_Helm_Elytra
-    at:       [-176.995, -1.000, -347.365, 205]
     level:    [136, 138]
+    region:   sw_614
 
   17478247:
     template: Apex_Helm_Elytra
-    at:       [-178.438, 0.000, -358.076, 244]
     level:    [136, 138]
+    region:   sw_614
 
   17478248:
     template: Apex_Helm_Elytra
-    at:       [-181.028, 0.000, -348.936, 113]
     level:    [136, 138]
+    region:   sw_614
 
   17478249:
     template: Apex_Helm_Elytra
-    at:       [-181.853, 0.000, -344.583, 150]
     level:    [136, 138]
+    region:   sw_614
 
   17478250:
     template: Apex_Helm_Elytra
-    at:       [-218.014, 0.000, -341.472, 71]
     level:    [136, 138]
+    region:   sw_618
 
   17478251:
     template: Apex_Helm_Elytra
-    at:       [-188.846, 0.000, -340.916, 43]
     level:    [136, 138]
+    region:   sw_618
 
   17478252:
     template: Apex_Helm_Elytra
-    at:       [-206.563, 0.000, -339.952, 113]
     level:    [136, 138]
+    region:   sw_618
 
   17478253:
     template: Apex_Helm_Elytra
-    at:       [-210.263, -1.000, -341.312, 244]
     level:    [136, 138]
+    region:   sw_618
 
   17478254:
     template: Apex_Helm_Elytra
-    at:       [-219.351, 0.000, -319.041, 43]
     level:    [136, 138]
+    region:   sw_622
 
   17478255:
     template: Apex_Helm_Elytra
-    at:       [-220.628, 0.000, -317.519, 38]
     level:    [136, 138]
+    region:   sw_622
 
   17478256:
     template: Apex_Helm_Elytra
     level:    [136, 138]
-    region:   sw_624
+    region:   sw_622
 
   17478257:
     template: Apex_Helm_Elytra
-    at:       [-222.370, -1.000, -327.519, 248]
     level:    [136, 138]
+    region:   sw_622
 
   17478258:
     template: Apex_Lugcrawler_Hunter
-    at:       [-228.235, 0.000, -251.094, 7]
     level:    [137, 139]
+    region:   sw_626
 
   17478259:
     template: Apex_Lugcrawler_Hunter
-    at:       [-236.414, -0.849, -252.522, 82]
     level:    [137, 139]
+    region:   sw_626
 
   17478260:
     template: Apex_Lugcrawler_Hunter
-    at:       [-247.517, -1.149, -253.238, 23]
     level:    [137, 139]
+    region:   sw_628
 
   17478261:
     template: Apex_Lugcrawler_Hunter
-    at:       [-249.005, -0.737, -238.943, 34]
     level:    [137, 139]
+    region:   sw_628
 
   17478262:
     template: Apex_Lugcrawler_Hunter
-    at:       [-249.488, -0.671, -239.978, 9]
     level:    [137, 139]
+    region:   sw_628
 
   17478263:
     template: Apex_Lugcrawler_Hunter
-    at:       [-251.084, -0.907, -245.721, 19]
     level:    [137, 139]
+    region:   sw_628
 
   17478264:
     template: Apex_Knight_Lugcrawler
-    at:       [-345.967, -1.000, -266.580, 191]
     level:    [138, 140]
+    region:   sw_632
 
   17478265:
     template: Apex_Knight_Lugcrawler
-    at:       [-332.155, 0.000, -260.243, 8]
     level:    [138, 140]
+    region:   sw_632
 
   17478266:
     template: Apex_Knight_Lugcrawler
-    at:       [-347.033, -1.000, -259.023, 95]
     level:    [138, 140]
+    region:   sw_632
 
   17478267:
     template: Apex_Knight_Lugcrawler
-    at:       [-339.777, -2.000, -255.805, 175]
     level:    [138, 140]
+    region:   sw_632
 
   17478268:
     template: Apex_Knight_Lugcrawler
-    at:       [-332.210, -0.903, -260.202, 8]
     level:    [138, 140]
+    region:   sw_632
 
   17478269:
     template: Apex_Knight_Lugcrawler
-    at:       [-342.440, -1.000, -258.157, 46]
     level:    [138, 140]
+    region:   sw_632

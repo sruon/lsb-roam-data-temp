@@ -39,13 +39,13 @@ spawns:
 
   17895432:
     template: Stonesoftener_Acuex
-    at:       [290.770, 30.297, 100.806, 1]
     level:    [110, 110]
+    region:   e_8
 
   17895433:
     template: Stonesoftener_Acuex
     level:    [110, 110]
-    region:   e_9
+    region:   e_8
 
   17895434:
     template: Stonesoftener_Acuex
@@ -79,13 +79,13 @@ spawns:
 
   17895440:
     template: Draftrider_Bat
-    at:       [271.670, 29.975, 260.071, 5]
     level:    [110, 110]
+    region:   ne_16
 
   17895441:
     template: Draftrider_Bat
-    at:       [265.010, 30.358, 260.720, 16]
     level:    [110, 110]
+    region:   ne_16
 
   17895442:
     template: Cliffclinger_Toad
@@ -94,23 +94,23 @@ spawns:
 
   17895443:
     template: Cliffclinger_Toad
-    at:       [218.760, 40.000, 81.912, 56]
     level:    [124, 126]
+    region:   e_18
 
   17895444:
     template: Cliffclinger_Toad
-    at:       [218.770, 39.001, 87.038, 116]
     level:    [124, 126]
+    region:   e_18
 
   17895445:
     template: Drusy_Twitherym
-    at:       [217.620, 40.333, 73.816, 135]
     level:    [124, 127]
+    region:   e_18
 
   17895446:
     template: Drusy_Twitherym
-    at:       [220.490, 39.361, 85.207, 242]
     level:    [124, 127]
+    region:   e_18
 
   17895447:
     template: Cliffclinger_Toad
@@ -130,12 +130,12 @@ spawns:
   17895450:
     template: Drusy_Twitherym
     level:    [124, 127]
-    region:   ne_26
+    region:   e_26
 
   17895451:
     template: Drusy_Twitherym
     level:    [124, 127]
-    region:   ne_26
+    region:   e_26
 
   17895452:
     template: Spinescent_Protuberance
@@ -160,17 +160,17 @@ spawns:
   17895456:
     template: Wheezing_Acuex
     level:    [124, 127]
-    region:   ne_32
+    region:   e_32
 
   17895457:
     template: Wheezing_Acuex
     level:    [124, 127]
-    region:   ne_32
+    region:   e_32
 
   17895458:
     template: Wheezing_Acuex
     level:    [124, 127]
-    region:   ne_32
+    region:   e_32
 
   17895459:
     template: Wheezing_Acuex
@@ -275,22 +275,22 @@ spawns:
   17895479:
     template: Talus_Tarichuk
     level:    [124, 127]
-    region:   ne_53
+    region:   ne_55
 
   17895480:
     template: Talus_Tarichuk
     level:    [124, 127]
-    region:   ne_53
+    region:   ne_55
 
   17895481:
     template: Drusy_Twitherym
     level:    [124, 127]
-    region:   ne_53
+    region:   ne_55
 
   17895482:
     template: Drusy_Twitherym
     level:    [124, 127]
-    region:   ne_53
+    region:   ne_55
 
   17895483:
     template: Talus_Tarichuk
@@ -444,18 +444,18 @@ spawns:
 
   17895513:
     template: Metalcruncher_Worm
-    at:       [293.460, -10.290, 481.479, 232]
     level:    [124, 127]
+    region:   ne_89
 
   17895514:
     template: Metalcruncher_Worm
-    at:       [305.920, -10.050, 474.933, 201]
     level:    [124, 127]
+    region:   ne_89
 
   17895515:
     template: Metalcruncher_Worm
-    at:       [306.130, -10.270, 481.600, 161]
     level:    [124, 127]
+    region:   ne_89
 
   17895516:
     template: Serac_Rabbit
@@ -474,18 +474,18 @@ spawns:
 
   17895519:
     template: Metalcruncher_Worm
-    at:       [302.880, 19.975, 396.898, 58]
     level:    [124, 127]
+    region:   ne_95
 
   17895520:
     template: Metalcruncher_Worm
-    at:       [304.070, 19.673, 404.907, 250]
     level:    [124, 127]
+    region:   ne_95
 
   17895521:
     template: Metalcruncher_Worm
-    at:       [301.690, 20.000, 398.816, 196]
     level:    [124, 127]
+    region:   ne_95
 
   17895522:
     template: Serac_Rabbit
@@ -545,37 +545,37 @@ spawns:
   17895533:
     template: Serac_Rabbit
     level:    [124, 127]
-    region:   ne_103
+    region:   ne_109
 
   17895534:
     template: Serac_Rabbit
     level:    [124, 127]
-    region:   ne_103
+    region:   ne_109
 
   17895535:
     template: Serac_Rabbit
     level:    [124, 127]
-    region:   ne_103
+    region:   ne_109
 
   17895536:
     template: Powdery_Snoll
     level:    [124, 127]
-    region:   ne_103
+    region:   ne_109
 
   17895537:
     template: Powdery_Snoll
     level:    [124, 127]
-    region:   ne_103
+    region:   ne_109
 
   17895538:
     template: Powdery_Snoll
     level:    [124, 127]
-    region:   ne_103
+    region:   ne_109
 
   17895539:
     template: Metalcruncher_Worm
     level:    [124, 127]
-    region:   ne_103
+    region:   ne_109
 
   17895540:
     template: Serac_Rabbit
@@ -604,18 +604,18 @@ spawns:
 
   17895545:
     template: Metalcruncher_Worm
-    at:       [220.190, 29.999, 402.432, 152]
     level:    [124, 127]
+    region:   ne_121
 
   17895546:
     template: Metalcruncher_Worm
-    at:       [224.260, 29.993, 397.686, 196]
     level:    [124, 127]
+    region:   ne_121
 
   17895547:
     template: Metalcruncher_Worm
-    at:       [220.300, 30.000, 402.407, 162]
     level:    [124, 127]
+    region:   ne_121
 
   17895548:
     template: Powdery_Snoll
@@ -659,18 +659,18 @@ spawns:
 
   17895556:
     template: Metalcruncher_Worm
-    at:       [99.574, 29.808, 418.944, 235]
     level:    [124, 127]
+    region:   n_132
 
   17895557:
     template: Metalcruncher_Worm
-    at:       [100.400, 29.704, 423.545, 186]
     level:    [124, 127]
+    region:   n_132
 
   17895558:
     template: Metalcruncher_Worm
-    at:       [99.237, 29.704, 423.933, 226]
     level:    [124, 127]
+    region:   n_132
 
   17895559:
     template: Powdery_Snoll
@@ -725,32 +725,32 @@ spawns:
   17895569:
     template: Grimfang_Bat
     level:    [124, 127]
-    region:   n_145
+    region:   c_145
 
   17895570:
     template: Grimfang_Bat
     level:    [124, 127]
-    region:   n_145
+    region:   c_145
 
   17895571:
     template: Calcined_Umbril
     level:    [125, 127]
-    region:   n_145
+    region:   c_145
 
   17895572:
     template: Metalcruncher_Worm
     level:    [124, 127]
-    region:   n_148
+    region:   c_148
 
   17895573:
     template: Metalcruncher_Worm
     level:    [124, 127]
-    region:   n_148
+    region:   c_148
 
   17895574:
     template: Metalcruncher_Worm
     level:    [124, 127]
-    region:   n_148
+    region:   c_148
 
   17895575:
     template: Depthdiver_Bats
@@ -784,23 +784,23 @@ spawns:
 
   17895581:
     template: Bergschrund_Gefyrst
-    at:       [106.810, 39.907, 222.485, 209]
     level:    [124, 127]
+    region:   n_157
 
   17895582:
     template: Metalcruncher_Worm
-    at:       [103.900, 39.997, 273.585, 227]
     level:    [124, 127]
+    region:   n_158
 
   17895583:
     template: Metalcruncher_Worm
-    at:       [102.900, 39.981, 283.341, 174]
     level:    [124, 127]
+    region:   n_158
 
   17895584:
     template: Metalcruncher_Worm
-    at:       [98.747, 40.000, 283.816, 153]
     level:    [124, 127]
+    region:   n_158
 
   17895585:
     template: Depthdiver_Bats
@@ -814,8 +814,8 @@ spawns:
 
   17895587:
     template: Calcined_Umbril
-    at:       [69.432, 35.310, 296.227, 229]
     level:    [125, 127]
+    region:   n_161
 
   17895588:
     template: Grimfang_Bat
@@ -910,17 +910,17 @@ spawns:
   17895606:
     template: Calcined_Umbril
     level:    [125, 127]
-    region:   n_175
+    region:   n_182
 
   17895607:
     template: Calcined_Umbril
     level:    [125, 127]
-    region:   n_175
+    region:   n_182
 
   17895608:
     template: Calcined_Umbril
     level:    [125, 127]
-    region:   n_175
+    region:   n_182
 
   17895609:
     template: Malodorous_Tarichuk
@@ -929,18 +929,18 @@ spawns:
 
   17895610:
     template: Malodorous_Tarichuk
-    at:       [-280.600, 29.684, -267.070, 35]
     level:    [121, 123]
+    region:   sw_186
 
   17895611:
     template: Malodorous_Tarichuk
-    at:       [-221.700, 39.730, -236.510, 186]
     level:    [121, 123]
+    region:   sw_187
 
   17895612:
     template: Bound_Twitherym
-    at:       [-220.800, 39.987, -241.990, 147]
     level:    [121, 123]
+    region:   sw_187
 
   17895613:
     template: Malodorous_Tarichuk
@@ -959,13 +959,13 @@ spawns:
 
   17895616:
     template: Malodorous_Tarichuk
-    at:       [-181.716, 40.245, -297.415, 78]
     level:    [121, 123]
+    region:   sw_192
 
   17895617:
     template: Bound_Twitherym
-    at:       [-183.756, 40.174, -298.709, 248]
     level:    [121, 123]
+    region:   sw_192
 
   17895618:
     template: Bound_Twitherym
@@ -1030,17 +1030,17 @@ spawns:
   17895630:
     template: Malodorous_Tarichuk
     level:    [121, 123]
-    region:   sw_196
+    region:   sw_206
 
   17895631:
     template: Malodorous_Tarichuk
     level:    [121, 123]
-    region:   sw_196
+    region:   sw_206
 
   17895632:
     template: Malodorous_Tarichuk
     level:    [121, 123]
-    region:   sw_196
+    region:   sw_206
 
   17895633:
     template: Slabspitter_Jagil
@@ -1080,12 +1080,12 @@ spawns:
   17895640:
     template: Touched_Gefyrst
     level:    [121, 122]
-    region:   sw_209
+    region:   sw_216
 
   17895641:
     template: Touched_Gefyrst
     level:    [121, 122]
-    region:   sw_209
+    region:   sw_216
 
   17895642:
     template: Malodorous_Tarichuk
@@ -1105,7 +1105,7 @@ spawns:
   17895645:
     template: Malodorous_Tarichuk
     level:    [121, 123]
-    region:   sw_221
+    region:   sw_220
 
   17895646:
     template: Malodorous_Tarichuk
@@ -1119,8 +1119,8 @@ spawns:
 
   17895648:
     template: Nesting_Hippogryph
-    at:       [-238.500, 32.862, -338.980, 0]
     level:    [125, 125]
+    region:   sw_224
 
   17895649:
     template: Bound_Twitherym
@@ -1135,12 +1135,12 @@ spawns:
   17895651:
     template: Bound_Twitherym
     level:    [121, 123]
-    region:   sw_225
+    region:   sw_227
 
   17895652:
     template: Malodorous_Tarichuk
     level:    [121, 123]
-    region:   sw_225
+    region:   sw_227
 
   17895653:
     template: Bound_Twitherym
@@ -1149,13 +1149,13 @@ spawns:
 
   17895654:
     template: Malodorous_Tarichuk
-    at:       [-241.827, 40.020, -366.782, 121]
     level:    [121, 123]
+    region:   sw_230
 
   17895655:
     template: Malodorous_Tarichuk
-    at:       [-249.434, 40.095, -360.267, 69]
     level:    [121, 123]
+    region:   sw_230
 
   17895656:
     template: Bound_Twitherym
@@ -1164,8 +1164,8 @@ spawns:
 
   17895657:
     template: Nesting_Hippogryph
-    at:       [-175.711, 39.882, -360.605, 220]
     level:    [125, 125]
+    region:   sw_233
 
   17895658:
     template: Nesting_Hippogryph
@@ -1190,7 +1190,7 @@ spawns:
   17895662:
     template: Pestiferous_Acuex
     level:    [121, 124]
-    region:   sw_238
+    region:   sw_235
 
   17895663:
     template: Nesting_Hippogryph
@@ -1199,8 +1199,8 @@ spawns:
 
   17895664:
     template: Nesting_Hippogryph
-    at:       [-323.200, 39.804, -426.970, 41]
     level:    [125, 125]
+    region:   sw_240
 
   17895665:
     template: Pestiferous_Acuex
@@ -1220,32 +1220,32 @@ spawns:
   17895668:
     template: Bound_Twitherym
     level:    [121, 123]
-    region:   sw_241
+    region:   sw_244
 
   17895669:
     template: Bound_Twitherym
     level:    [121, 123]
-    region:   sw_241
+    region:   sw_244
 
   17895670:
     template: Pestiferous_Acuex
     level:    [121, 124]
-    region:   sw_241
+    region:   sw_246
 
   17895671:
     template: Pestiferous_Acuex
     level:    [121, 124]
-    region:   sw_241
+    region:   sw_246
 
   17895672:
     template: Pestiferous_Acuex
-    at:       [-403.900, 39.756, -359.210, 92]
     level:    [121, 124]
+    region:   sw_248
 
   17895673:
     template: Pestiferous_Acuex
-    at:       [-407.100, 39.973, -359.830, 147]
     level:    [121, 124]
+    region:   sw_248
 
   17895674:
     template: Bound_Twitherym
@@ -1264,13 +1264,13 @@ spawns:
 
   17895677:
     template: Pestiferous_Acuex
-    at:       [-418.100, 40.220, -400.240, 107]
     level:    [121, 124]
+    region:   sw_253
 
   17895678:
     template: Bound_Twitherym
     level:    [121, 123]
-    region:   sw_252
+    region:   sw_254
 
   17895679:
     template: Soundsplitter_Bat
@@ -1279,18 +1279,18 @@ spawns:
 
   17895680:
     template: Wayward_Dullahan
-    at:       [-263.300, 49.551, -500.730, 95]
     level:    [121, 124]
+    region:   sw_256
 
   17895681:
     template: Schorl_Umbril
     level:    [122, 124]
-    region:   sw_255
+    region:   sw_257
 
   17895682:
     template: Schorl_Umbril
     level:    [122, 124]
-    region:   sw_255
+    region:   sw_257
 
   17895683:
     template: Schorl_Umbril
@@ -1304,13 +1304,13 @@ spawns:
 
   17895685:
     template: Schorl_Umbril
-    at:       [-366.300, 40.136, -456.550, 84]
     level:    [122, 124]
+    region:   sw_261
 
   17895686:
     template: Soundsplitter_Bat
-    at:       [-359.400, 40.316, -456.930, 242]
     level:    [121, 124]
+    region:   sw_261
 
   17895687:
     template: Schorl_Umbril
@@ -1415,7 +1415,7 @@ spawns:
   17895707:
     template: Nesting_Hippogryph
     level:    [125, 125]
-    region:   sw_280
+    region:   sw_283
 
   17895708:
     template: Schorl_Umbril

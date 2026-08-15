@@ -49,13 +49,13 @@ spawns:
 
   16850955:
     template: Apex_Idle_Drifter
-    at:       [242.224, 0.000, -210.399, 100]
     level:    [139, 142]
+    region:   se_10
 
   16850956:
     template: Apex_Idle_Drifter
-    at:       [246.788, 0.000, -192.966, 100]
     level:    [139, 142]
+    region:   se_10
 
   16850957:
     template: Apex_Idle_Drifter
@@ -254,8 +254,8 @@ spawns:
 
   16850998:
     template: Seether
-    at:       [-248.506, -0.500, -159.522, 179]
     level:    [30, 32]
+    region:   sw_54
 
   16850999:
     template: Wanderer
@@ -965,7 +965,7 @@ spawns:
   16851148:
     template: Apex_Idle_Drifter
     level:    [139, 142]
-    region:   n_204
+    region:   n_203
 
   16851149:
     template: Apex_Idle_Drifter
@@ -975,7 +975,7 @@ spawns:
   16851150:
     template: Apex_Woeful_Lamenter
     level:    [139, 142]
-    region:   n_204
+    region:   n_203
 
   16851152:
     template: Memory_Receptacle
@@ -1099,8 +1099,8 @@ spawns:
 
   16851179:
     template: Seether
-    at:       [276.466, -0.500, 311.362, 151]
     level:    [35, 37]
+    region:   ne_235
 
   16851180:
     template: Seether
@@ -1114,8 +1114,8 @@ spawns:
 
   16851182:
     template: Weeper
-    at:       [265.389, -0.500, 287.330, 130]
     level:    [33, 35]
+    region:   ne_238
 
   16851183:
     template: Wanderer
@@ -1124,13 +1124,13 @@ spawns:
 
   16851184:
     template: Weeper
-    at:       [289.700, -0.500, 274.565, 133]
     level:    [33, 35]
+    region:   ne_240
 
   16851185:
     template: Weeper
-    at:       [300.774, -0.499, 269.536, 73]
     level:    [33, 35]
+    region:   ne_240
 
   16851186:
     template: Seether
@@ -1425,7 +1425,7 @@ spawns:
   16851244:
     template: Gorger
     level:    [37, 39]
-    region:   e_299
+    region:   e_300
 
   16851245:
     template: Gorger
@@ -1510,27 +1510,27 @@ spawns:
   16851261:
     template: Apex_Idle_Drifter
     level:    [139, 142]
-    region:   e_317
+    region:   e_282
 
   16851262:
     template: Apex_Idle_Drifter
     level:    [139, 142]
-    region:   e_317
+    region:   e_282
 
   16851263:
     template: Apex_Idle_Drifter
     level:    [139, 142]
-    region:   e_317
+    region:   e_282
 
   16851264:
     template: Apex_Idle_Drifter
     level:    [139, 142]
-    region:   e_317
+    region:   e_282
 
   16851265:
     template: Apex_Idle_Drifter
     level:    [139, 142]
-    region:   e_317
+    region:   e_282
 
   16851266:
     template: Apex_Livid_Rager

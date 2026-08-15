@@ -994,28 +994,28 @@ spawns:
 
   17113287:
     template: Orcish_Bowshooter
-    at:       [36.015, -1.474, -194.455, 127]
     level:    [76, 79]
+    region:   c_199
 
   17113288:
     template: Orcish_Bowshooter
-    at:       [56.118, -4.048, -240.235, 255]
     level:    [76, 79]
+    region:   s_200
 
   17113289:
     template: Orcish_Bowshooter
-    at:       [-1.539, -5.220, -294.259, 64]
     level:    [76, 79]
+    region:   s_201
 
   17113290:
     template: Orcish_Bowshooter
-    at:       [-86.410, -4.876, -385.219, 93]
     level:    [76, 79]
+    region:   s_202
 
   17113291:
     template: Orcish_Bowshooter
-    at:       [-166.022, -2.743, -425.923, 222]
     level:    [76, 79]
+    region:   s_203
 
   17113292:
     template: Orcish_Champion
@@ -1705,7 +1705,7 @@ spawns:
   17113429:
     template: Goblin_Mine
     level:    [75, 75]
-    region:   sw_337
+    region:   sw_341
 
   17113430:
     template: Orcish_Bowshooter
@@ -2260,7 +2260,7 @@ spawns:
   17113540:
     template: Norvallen_Knight
     level:    [0, 0]
-    region:   sw_413
+    region:   sw_452
 
   17113541:
     template: Yrvaulair_S_Cousseraux
@@ -2630,7 +2630,7 @@ spawns:
   17113614:
     template: Gutrender_Trooper
     level:    [75, 80]
-    region:   nw_525
+    region:   nw_526
 
   17113615:
     template: Gutrender_Trooper
@@ -2645,7 +2645,7 @@ spawns:
   17113617:
     template: Gutrender_Trooper
     level:    [75, 80]
-    region:   nw_529
+    region:   nw_526
 
   17113618:
     template: Gutrender_Trooper
@@ -2780,12 +2780,12 @@ spawns:
   17113644:
     template: Anderss_Guard
     level:    [60, 60]
-    region:   ne_537
+    region:   ne_556
 
   17113645:
     template: Anderss_Guard
     level:    [60, 60]
-    region:   ne_537
+    region:   ne_556
 
   17113646:
     template: Moonfang_Warrior
@@ -2840,7 +2840,7 @@ spawns:
   17113656:
     template: Bloodwing_Impaler
     level:    [70, 70]
-    region:   sw_413
+    region:   se_568
 
   17113657:
     template: Bloodwing_Impaler
@@ -2985,7 +2985,7 @@ spawns:
   17113685:
     template: Orcish_Strongarm
     level:    [60, 60]
-    region:   c_596
+    region:   c_597
 
   17113686:
     template: Orcish_Strongarm
@@ -3005,12 +3005,12 @@ spawns:
   17113689:
     template: Orcish_Strongarm
     level:    [60, 60]
-    region:   c_601
+    region:   c_598
 
   17113690:
     template: Orcish_Turret
     level:    [60, 60]
-    region:   ne_537
+    region:   ne_602
 
   17113691:
     template: War_Smilodon
@@ -3450,7 +3450,7 @@ spawns:
   17113778:
     template: Kilhwch
     level:    [1, 1]
-    region:   sw_474
+    region:   c_690
 
   17113779:
     template: Alfons

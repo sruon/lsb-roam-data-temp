@@ -715,12 +715,12 @@ spawns:
   17281167:
     template: Goblin_Furrier
     level:    [32, 37]
-    region:   w_142
+    region:   w_143
 
   17281168:
     template: Goblin_Furrier
     level:    [32, 37]
-    region:   w_142
+    region:   w_143
 
   17281169:
     template: Death_Jacket
@@ -1360,7 +1360,7 @@ spawns:
   17281296:
     template: Pyuu_the_Spatemaker
     level:    [73, 74]
-    region:   w_81
+    region:   w_272
 
   17281297:
     template: Young_Opo-opo
@@ -1370,22 +1370,22 @@ spawns:
   17281298:
     template: Young_Opo-opo
     level:    [34, 36]
-    region:   sw_273
+    region:   sw_274
 
   17281299:
     template: Creek_Sahagin
     level:    [34, 38]
-    region:   sw_273
+    region:   sw_274
 
   17281300:
     template: Creek_Sahagin
     level:    [34, 38]
-    region:   sw_273
+    region:   sw_274
 
   17281301:
     template: Stream_Sahagin
     level:    [34, 38]
-    region:   sw_273
+    region:   sw_274
 
   17281302:
     template: Makara
@@ -2214,8 +2214,8 @@ spawns:
 
   17281467:
     template: Goblin_Digger
+    at:       [-459.990, 2.040, -69.201, 127]
     level:    [36, 38]
-    region:   c_443
 
   17281468:
     template: Hobgoblin_Warrior

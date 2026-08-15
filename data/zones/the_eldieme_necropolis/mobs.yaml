@@ -125,12 +125,12 @@ spawns:
   17575961:
     template: Hellbound_Warrior
     level:    [91, 93]
-    region:   n_23
+    region:   n_25
 
   17575962:
     template: Hellbound_Warlock
-    at:       [346.298, -32.049, -337.533, 33]
     level:    [91, 93]
+    region:   se_26
 
   17575963:
     template: Hellbound_Warrior
@@ -144,13 +144,13 @@ spawns:
 
   17575965:
     template: Hellbound_Warrior
-    at:       [279.043, -15.946, -260.977, 124]
     level:    [91, 93]
+    region:   se_29
 
   17575966:
     template: Hellbound_Warlock
     level:    [91, 93]
-    region:   n_27
+    region:   n_30
 
   17575967:
     template: Marchosias
@@ -159,8 +159,8 @@ spawns:
 
   17575968:
     template: Marchosias
-    at:       [-15.659, -2.271, 92.899, 94]
     level:    [40, 43]
+    region:   c_31
 
   17575969:
     template: Lost_Soul
@@ -195,17 +195,17 @@ spawns:
   17575975:
     template: Marchosias
     level:    [40, 43]
-    region:   s_39
+    region:   c_39
 
   17575976:
     template: Marchosias
     level:    [40, 43]
-    region:   s_39
+    region:   c_39
 
   17575977:
     template: Marchosias
     level:    [40, 43]
-    region:   s_39
+    region:   c_39
 
   17575978:
     template: Hellbound_Warrior
@@ -345,17 +345,17 @@ spawns:
   17576005:
     template: Lost_Soul
     level:    [45, 46]
-    region:   e_69
+    region:   ne_69
 
   17576006:
     template: Lost_Soul
     level:    [45, 46]
-    region:   e_69
+    region:   ne_69
 
   17576007:
     template: Lost_Soul
     level:    [45, 46]
-    region:   e_69
+    region:   ne_69
 
   17576008:
     template: Anemone
@@ -664,33 +664,33 @@ spawns:
 
   17576069:
     template: Nekros_Hound
-    at:       [343.784, -32.046, -332.424, 38]
     level:    [93, 95]
+    region:   se_26
 
   17576070:
     template: Nekros_Hound
     level:    [93, 95]
-    region:   n_23
+    region:   n_25
 
   17576071:
     template: Nekros_Hound
-    at:       [332.513, -18.213, -263.195, 146]
     level:    [93, 95]
+    region:   se_135
 
   17576072:
     template: Nekros_Hound
-    at:       [332.474, -18.195, -263.109, 127]
     level:    [93, 95]
+    region:   se_135
 
   17576073:
     template: Nekros_Hound
-    at:       [269.083, -16.068, -258.059, 22]
     level:    [93, 95]
+    region:   se_29
 
   17576074:
     template: Nekros_Hound
     level:    [93, 95]
-    region:   n_27
+    region:   n_30
 
   17576075:
     template: Nekros_Hound
@@ -795,7 +795,7 @@ spawns:
   17576095:
     template: Hell_Hound
     level:    [46, 49]
-    region:   se_159
+    region:   e_159
 
   17576096:
     template: Revenant
@@ -830,17 +830,17 @@ spawns:
   17576102:
     template: Hell_Hound
     level:    [46, 49]
-    region:   se_166
+    region:   e_166
 
   17576103:
     template: Hell_Hound
     level:    [46, 49]
-    region:   se_166
+    region:   e_166
 
   17576104:
     template: Hell_Hound
     level:    [46, 49]
-    region:   se_166
+    region:   e_166
 
   17576105:
     template: Ka
@@ -1125,12 +1125,12 @@ spawns:
   17576161:
     template: Tomb_Wolf
     level:    [53, 55]
-    region:   se_225
+    region:   e_225
 
   17576162:
     template: Tomb_Wolf
     level:    [53, 55]
-    region:   se_225
+    region:   e_225
 
   17576163:
     template: Ice_Elemental
@@ -1140,7 +1140,7 @@ spawns:
   17576164:
     template: Earth_Elemental
     level:    [52, 55]
-    region:   se_225
+    region:   e_225
 
   17576165:
     template: Tomb_Wolf
@@ -1180,7 +1180,7 @@ spawns:
   17576172:
     template: Tomb_Wolf
     level:    [53, 55]
-    region:   s_236
+    region:   c_236
 
   17576173:
     template: Tomb_Wolf
@@ -1210,7 +1210,7 @@ spawns:
   17576178:
     template: Tomb_Warrior
     level:    [60, 62]
-    region:   se_242
+    region:   se_241
 
   17576179:
     template: Tomb_Mage
@@ -1325,7 +1325,7 @@ spawns:
   17576201:
     template: Dark_Stalker
     level:    [57, 59]
-    region:   se_265
+    region:   e_265
 
   17576202:
     template: Dark_Stalker
@@ -1335,7 +1335,7 @@ spawns:
   17576203:
     template: Dark_Stalker
     level:    [57, 59]
-    region:   se_265
+    region:   e_265
 
   17576204:
     template: Ice_Elemental
@@ -1380,7 +1380,7 @@ spawns:
   17576212:
     template: Spriggan
     level:    [64, 66]
-    region:   e_273
+    region:   e_276
 
   17576213:
     template: Spriggan
@@ -1610,32 +1610,32 @@ spawns:
   17576258:
     template: Tomb_Mage
     level:    [60, 63]
-    region:   e_322
+    region:   e_320
 
   17576259:
     template: Tomb_Mage
     level:    [60, 63]
-    region:   e_322
+    region:   e_320
 
   17576260:
     template: Tomb_Warrior
     level:    [60, 62]
-    region:   e_324
+    region:   ne_324
 
   17576261:
     template: Tomb_Warrior
     level:    [60, 62]
-    region:   e_324
+    region:   ne_324
 
   17576262:
     template: Tomb_Mage
     level:    [60, 63]
-    region:   e_324
+    region:   ne_324
 
   17576263:
     template: Tomb_Mage
     level:    [60, 63]
-    region:   e_324
+    region:   ne_324
 
   17576264:
     template: Yum_Kimil

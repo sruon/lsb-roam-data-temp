@@ -229,8 +229,8 @@ spawns:
 
   17309742:
     template: Groundskeeper
-    at:       [17.000, -43.000, -198.000, 127]
     level:    [75, 78]
+    region:   s_46
 
   17309743:
     template: Groundskeeper
@@ -284,8 +284,8 @@ spawns:
 
   17309753:
     template: Groundskeeper
-    at:       [-26.791, -44.099, -210.834, 5]
     level:    [75, 78]
+    region:   s_57
 
   17309754:
     template: Groundskeeper
@@ -454,8 +454,8 @@ spawns:
 
   17309787:
     template: Groundskeeper
-    at:       [401.366, -40.821, -37.737, 3]
     level:    [75, 78]
+    region:   e_91
 
   17309788:
     template: Groundskeeper
@@ -494,18 +494,18 @@ spawns:
 
   17309795:
     template: Groundskeeper
-    at:       [281.239, -33.453, -243.755, 127]
     level:    [75, 78]
+    region:   se_99
 
   17309796:
     template: Flamingo
-    at:       [311.019, -40.852, -211.550, 127]
     level:    [72, 74]
+    region:   se_100
 
   17309797:
     template: Flamingo
-    at:       [299.563, -40.823, -226.582, 127]
     level:    [72, 74]
+    region:   se_100
 
   17309798:
     template: Water_Elemental
@@ -584,13 +584,13 @@ spawns:
 
   17309813:
     template: Groundskeeper
-    at:       [242.065, -15.371, 327.388, 79]
     level:    [75, 78]
+    region:   ne_117
 
   17309814:
     template: Groundskeeper
-    at:       [272.554, -21.274, 274.922, 27]
     level:    [75, 78]
+    region:   ne_118
 
   17309815:
     template: Groundskeeper
@@ -640,7 +640,7 @@ spawns:
   17309824:
     template: Flamingo
     level:    [72, 74]
-    region:   n_128
+    region:   ne_127
 
   17309825:
     template: Air_Elemental
@@ -674,8 +674,8 @@ spawns:
 
   17309831:
     template: Groundskeeper
-    at:       [156.962, -40.788, 365.583, 80]
     level:    [75, 78]
+    region:   ne_135
 
   17309832:
     template: Groundskeeper
@@ -719,23 +719,23 @@ spawns:
 
   17309840:
     template: Groundskeeper
-    at:       [310.129, -38.483, 201.693, 39]
     level:    [75, 78]
+    region:   ne_144
 
   17309841:
     template: Flamingo
-    at:       [280.058, -40.706, 236.870, 72]
     level:    [72, 74]
+    region:   ne_145
 
   17309842:
     template: Flamingo
-    at:       [287.588, -40.750, 237.783, 127]
     level:    [72, 74]
+    region:   ne_145
 
   17309843:
     template: Thunder_Elemental
-    at:       [293.204, -40.707, 225.361, 45]
     level:    [78, 79]
+    region:   ne_145
 
   17309844:
     template: Flamingo
@@ -769,8 +769,8 @@ spawns:
 
   17309850:
     template: Groundskeeper
-    at:       [327.964, -40.500, 224.733, 106]
     level:    [75, 78]
+    region:   ne_154
 
   17309851:
     template: Groundskeeper
@@ -814,8 +814,8 @@ spawns:
 
   17309859:
     template: Groundskeeper
-    at:       [-236.787, -20.604, 306.549, 100]
     level:    [75, 78]
+    region:   nw_163
 
   17309860:
     template: Sprinkler
@@ -859,8 +859,8 @@ spawns:
 
   17309868:
     template: Light_Elemental
-    at:       [-139.793, -40.500, 354.924, 254]
     level:    [78, 79]
+    region:   n_172
 
   17309869:
     template: Flamingo
@@ -894,8 +894,8 @@ spawns:
 
   17309875:
     template: Groundskeeper
-    at:       [-116.255, -40.614, 387.386, 193]
     level:    [75, 78]
+    region:   n_179
 
   17309876:
     template: Groundskeeper
@@ -924,23 +924,23 @@ spawns:
 
   17309881:
     template: Groundskeeper
-    at:       [-321.384, -33.073, 189.602, 127]
     level:    [75, 78]
+    region:   nw_185
 
   17309882:
     template: Dark_Elemental
-    at:       [-320.543, -33.346, 189.351, 127]
     level:    [78, 79]
+    region:   nw_185
 
   17309883:
     template: Flamingo
-    at:       [-295.582, -40.504, 231.292, 96]
     level:    [72, 74]
+    region:   nw_187
 
   17309884:
     template: Flamingo
     level:    [72, 74]
-    region:   nw_188
+    region:   nw_187
 
   17309885:
     template: Dark_Elemental
@@ -984,8 +984,8 @@ spawns:
 
   17309893:
     template: Groundskeeper
-    at:       [-289.932, -40.614, 255.529, 44]
     level:    [75, 78]
+    region:   nw_197
 
   17309894:
     template: Sprinkler
@@ -1149,23 +1149,23 @@ spawns:
 
   17309926:
     template: Groundskeeper
-    at:       [-286.523, -30.006, -254.421, 90]
     level:    [75, 78]
+    region:   sw_230
 
   17309927:
     template: Flamingo
-    at:       [-314.255, -40.700, -206.124, 109]
     level:    [72, 74]
+    region:   sw_231
 
   17309928:
     template: Flamingo
-    at:       [-314.100, -40.700, -200.779, 127]
     level:    [72, 74]
+    region:   sw_231
 
   17309929:
     template: Earth_Elemental
-    at:       [-306.647, -40.700, -191.197, 127]
     level:    [78, 79]
+    region:   sw_231
 
   17309930:
     template: Flamingo
@@ -1204,8 +1204,8 @@ spawns:
 
   17309937:
     template: Groundskeeper
-    at:       [-380.817, -40.521, -219.627, 116]
     level:    [75, 78]
+    region:   sw_241
 
   17309938:
     template: Groundskeeper
@@ -1215,7 +1215,7 @@ spawns:
   17309939:
     template: Groundskeeper
     level:    [75, 78]
-    region:   s_243
+    region:   s_242
 
   17309940:
     template: Groundskeeper
@@ -1230,12 +1230,12 @@ spawns:
   17309942:
     template: Groundskeeper
     level:    [75, 78]
-    region:   s_246
+    region:   s_244
 
   17309943:
     template: Groundskeeper
     level:    [75, 78]
-    region:   s_243
+    region:   s_242
 
   17309944:
     template: Groundskeeper

@@ -49,13 +49,13 @@ spawns:
 
   17883146:
     template: Foreboding_Funguar
-    at:       [294.010, 29.266, -255.280, 211]
     level:    [102, 106]
+    region:   se_10
 
   17883147:
     template: Foreboding_Funguar
-    at:       [302.330, 29.576, -261.410, 0]
     level:    [102, 106]
+    region:   se_10
 
   17883148:
     template: Grossular_Bat
@@ -164,18 +164,18 @@ spawns:
 
   17883169:
     template: Crepuscular_Worm
-    at:       [25.527, 29.504, -261.510, 20]
     level:    [102, 106]
+    region:   s_33
 
   17883170:
     template: Crepuscular_Worm
-    at:       [19.850, 29.083, -262.870, 80]
     level:    [102, 106]
+    region:   s_33
 
   17883171:
     template: Crepuscular_Worm
-    at:       [23.978, 28.999, -255.880, 220]
     level:    [102, 106]
+    region:   s_33
 
   17883172:
     template: Foreboding_Funguar
@@ -219,18 +219,18 @@ spawns:
 
   17883180:
     template: Tenebrous_Obdella
-    at:       [-97.080, 28.763, -262.100, 49]
     level:    [102, 106]
+    region:   s_44
 
   17883181:
     template: Tenebrous_Obdella
-    at:       [-102.300, 28.691, -260.360, 23]
     level:    [102, 106]
+    region:   s_44
 
   17883182:
     template: Tenebrous_Obdella
-    at:       [-98.970, 28.951, -263.200, 179]
     level:    [102, 106]
+    region:   s_44
 
   17883183:
     template: Pallid_Funguar
@@ -249,13 +249,13 @@ spawns:
 
   17883186:
     template: Livid_Umbril
-    at:       [-23.420, 29.257, -261.150, 33]
     level:    [102, 106]
+    region:   s_50
 
   17883187:
     template: Livid_Umbril
-    at:       [-26.120, 29.309, -261.680, 169]
     level:    [102, 106]
+    region:   s_50
 
   17883188:
     template: Tunnel_Lizard
@@ -429,33 +429,33 @@ spawns:
 
   17883222:
     template: Tunnel_Lizard
-    at:       [-81.880, 19.613, 46.598, 133]
     level:    [102, 106]
+    region:   c_86
 
   17883223:
     template: Tunnel_Lizard
-    at:       [-76.910, 19.284, 33.324, 245]
     level:    [102, 106]
+    region:   c_86
 
   17883224:
     template: Tunnel_Lizard
-    at:       [-84.460, 19.422, 38.706, 211]
     level:    [102, 106]
+    region:   c_86
 
   17883225:
     template: Tunnel_Lizard
-    at:       [-71.370, 19.502, 42.670, 244]
     level:    [102, 106]
+    region:   c_86
 
   17883226:
     template: Pallid_Funguar
-    at:       [-58.390, 29.535, 217.617, 26]
     level:    [102, 106]
+    region:   n_90
 
   17883227:
     template: Pallid_Funguar
-    at:       [-64.280, 28.912, 218.436, 181]
     level:    [102, 106]
+    region:   n_90
 
   17883228:
     template: Pallid_Funguar
@@ -499,28 +499,28 @@ spawns:
 
   17883236:
     template: Livid_Umbril
-    at:       [-182.100, 29.135, 264.201, 120]
     level:    [102, 106]
+    region:   n_100
 
   17883237:
     template: Livid_Umbril
-    at:       [-178.100, 28.982, 255.466, 60]
     level:    [102, 106]
+    region:   n_100
 
   17883238:
     template: Flatus_Acuex
-    at:       [-293.900, 29.010, 299.263, 53]
     level:    [102, 106]
+    region:   nw_102
 
   17883239:
     template: Flatus_Acuex
-    at:       [-295.200, 29.079, 298.700, 25]
     level:    [102, 106]
+    region:   nw_102
 
   17883240:
     template: Flatus_Acuex
-    at:       [-294.500, 29.340, 302.964, 201]
     level:    [102, 106]
+    region:   nw_102
 
   17883241:
     template: Subterrane_Spider
@@ -535,12 +535,12 @@ spawns:
   17883243:
     template: Speckled_Spider
     level:    [102, 106]
-    region:   n_107
+    region:   n_105
 
   17883244:
     template: Speckled_Spider
     level:    [102, 106]
-    region:   n_107
+    region:   n_105
 
   17883245:
     template: Subterrane_Spider
@@ -550,7 +550,7 @@ spawns:
   17883246:
     template: Subterrane_Spider
     level:    [102, 106]
-    region:   nw_110
+    region:   nw_109
 
   17883247:
     template: Speckled_Spider
@@ -750,42 +750,42 @@ spawns:
   17883286:
     template: Flatus_Acuex
     level:    [102, 106]
-    region:   ne_150
+    region:   ne_149
 
   17883287:
     template: Livid_Umbril
     level:    [102, 106]
-    region:   ne_150
+    region:   ne_149
 
   17883288:
     template: Livid_Umbril
     level:    [102, 106]
-    region:   ne_150
+    region:   ne_149
 
   17883289:
     template: Flatus_Acuex
-    at:       [63.772, 29.510, 375.726, 0]
     level:    [102, 106]
+    region:   n_153
 
   17883290:
     template: Flatus_Acuex
-    at:       [64.458, 29.145, 381.075, 183]
     level:    [102, 106]
+    region:   n_153
 
   17883291:
     template: Flatus_Acuex
-    at:       [57.437, 29.475, 380.834, 190]
     level:    [102, 106]
+    region:   n_153
 
   17883292:
     template: Pallid_Funguar
-    at:       [145.230, 9.333, 423.019, 19]
     level:    [102, 106]
+    region:   n_156
 
   17883293:
     template: Pallid_Funguar
-    at:       [145.110, 9.346, 422.937, 11]
     level:    [102, 106]
+    region:   n_156
 
   17883294:
     template: Tenebrous_Obdella
@@ -929,13 +929,13 @@ spawns:
 
   17883322:
     template: Pallid_Funguar
-    at:       [503.600, 29.107, 293.384, 40]
     level:    [102, 106]
+    region:   ne_186
 
   17883323:
     template: Pallid_Funguar
     level:    [102, 106]
-    region:   ne_187
+    region:   ne_186
 
   17883324:
     template: Fuliginous_Mandragora
@@ -969,23 +969,23 @@ spawns:
 
   17883330:
     template: Igneous_Clot
-    at:       [398.010, 19.507, 111.532, 80]
     level:    [102, 106]
+    region:   e_194
 
   17883331:
     template: Igneous_Clot
-    at:       [396.100, 19.540, 120.912, 45]
     level:    [102, 106]
+    region:   e_194
 
   17883332:
     template: Igneous_Clot
-    at:       [396.560, 19.450, 111.897, 42]
     level:    [102, 106]
+    region:   e_194
 
   17883333:
     template: Igneous_Clot
-    at:       [399.240, 19.443, 125.970, 93]
     level:    [102, 106]
+    region:   e_194
 
   17883334:
     template: Pallid_Funguar
@@ -1015,17 +1015,17 @@ spawns:
   17883339:
     template: Flatus_Acuex
     level:    [102, 106]
-    region:   e_203
+    region:   e_202
 
   17883340:
     template: Flatus_Acuex
     level:    [102, 106]
-    region:   e_203
+    region:   e_202
 
   17883341:
     template: Flatus_Acuex
     level:    [102, 106]
-    region:   e_203
+    region:   e_202
 
   17883342:
     template: Asperous_Marolith
@@ -1069,13 +1069,13 @@ spawns:
 
   17883350:
     template: Livid_Umbril
-    at:       [457.890, 29.631, -182.840, 60]
     level:    [102, 106]
+    region:   e_214
 
   17883351:
     template: Livid_Umbril
-    at:       [454.800, 29.302, -179.000, 204]
     level:    [102, 106]
+    region:   e_214
 
   17883352:
     template: Pallid_Funguar
@@ -1169,33 +1169,33 @@ spawns:
 
   17883370:
     template: Invidious_Lizard
-    at:       [-2.854, 19.458, 79.508, 87]
     level:    [102, 106]
+    region:   c_233
 
   17883371:
     template: Invidious_Lizard
     level:    [102, 106]
-    region:   c_235
+    region:   c_233
 
   17883372:
     template: Invidious_Lizard
     level:    [102, 106]
-    region:   c_235
+    region:   c_233
 
   17883373:
     template: Tenebrous_Obdella
-    at:       [100.190, 19.552, 220.197, 6]
     level:    [102, 106]
+    region:   n_237
 
   17883374:
     template: Tenebrous_Obdella
-    at:       [99.169, 19.629, 223.666, 227]
     level:    [102, 106]
+    region:   n_237
 
   17883375:
     template: Tenebrous_Obdella
-    at:       [99.029, 19.733, 220.570, 130]
     level:    [102, 106]
+    region:   n_237
 
   17883376:
     template: Fuliginous_Mandragora
@@ -1224,13 +1224,13 @@ spawns:
 
   17883381:
     template: Livid_Umbril
-    at:       [299.140, 19.089, 212.917, 193]
     level:    [102, 106]
+    region:   ne_245
 
   17883382:
     template: Livid_Umbril
-    at:       [298.520, 19.011, 212.022, 38]
     level:    [102, 106]
+    region:   ne_245
 
   17883383:
     template: Livid_Umbril
@@ -1335,7 +1335,7 @@ spawns:
   17883403:
     template: Crepuscular_Worm
     level:    [102, 106]
-    region:   e_267
+    region:   e_265
 
   17883404:
     template: Grossular_Bat
@@ -1354,13 +1354,13 @@ spawns:
 
   17883407:
     template: Grossular_Bat
-    at:       [337.680, 29.218, -184.670, 200]
     level:    [102, 106]
+    region:   se_271
 
   17883408:
     template: Grossular_Bat
-    at:       [341.820, 29.736, -190.520, 189]
     level:    [102, 106]
+    region:   se_271
 
   17883409:
     template: Flatus_Acuex
@@ -1465,7 +1465,7 @@ spawns:
   17883429:
     template: Tenebrous_Obdella
     level:    [102, 106]
-    region:   s_293
+    region:   s_292
 
   17883430:
     template: Tenebrous_Obdella
@@ -1589,13 +1589,13 @@ spawns:
 
   17883454:
     template: Crepuscular_Worm
-    at:       [-188.300, 29.208, 420.822, 86]
     level:    [102, 106]
+    region:   n_318
 
   17883455:
     template: Crepuscular_Worm
-    at:       [-179.100, 29.433, 428.816, 38]
     level:    [102, 106]
+    region:   n_318
 
   17883456:
     template: Foreboding_Funguar
@@ -1754,13 +1754,13 @@ spawns:
 
   17883487:
     template: Tenebrous_Obdella
-    at:       [461.380, 29.732, 205.792, 190]
     level:    [102, 106]
+    region:   ne_351
 
   17883488:
     template: Flatus_Acuex
-    at:       [455.070, 29.604, 205.554, 194]
     level:    [102, 106]
+    region:   ne_351
 
   17883489:
     template: Flatus_Acuex
@@ -1804,13 +1804,13 @@ spawns:
 
   17883497:
     template: Tenebrous_Obdella
-    at:       [345.673, 29.066, 302.059, 21]
     level:    [102, 106]
+    region:   ne_361
 
   17883498:
     template: Tenebrous_Obdella
-    at:       [349.097, 29.224, 304.237, 180]
     level:    [102, 106]
+    region:   ne_361
 
   17883499:
     template: Crepuscular_Worm
@@ -1909,13 +1909,13 @@ spawns:
 
   17883518:
     template: Pallid_Funguar
-    at:       [33.778, 20.353, 138.246, 253]
     level:    [102, 106]
+    region:   c_382
 
   17883519:
     template: Pallid_Funguar
-    at:       [52.069, 19.288, 137.106, 154]
     level:    [102, 106]
+    region:   c_382
 
   17883520:
     template: Subterrane_Spider
@@ -1929,13 +1929,13 @@ spawns:
 
   17883522:
     template: Subterrane_Spider
-    at:       [32.136, 19.471, 175.033, 140]
     level:    [102, 106]
+    region:   c_386
 
   17883523:
     template: Speckled_Spider
-    at:       [26.013, 18.920, 179.537, 140]
     level:    [102, 106]
+    region:   c_386
 
   17883524:
     template: Crepuscular_Worm
@@ -1949,13 +1949,13 @@ spawns:
 
   17883526:
     template: Pallid_Funguar
-    at:       [260.650, 20.586, 196.619, 35]
     level:    [102, 106]
+    region:   ne_390
 
   17883527:
     template: Pallid_Funguar
-    at:       [255.940, 20.125, 198.738, 70]
     level:    [102, 106]
+    region:   ne_390
 
   17883528:
     template: Pallid_Funguar
@@ -2294,8 +2294,8 @@ spawns:
 
   17883595:
     template: Acuex
-    at:       [201.530, 19.488, 359.903, 48]
     level:    [104, 106]
+    region:   ne_454
 
   17883596:
     template: Banespore
@@ -2394,8 +2394,8 @@ spawns:
 
   17883615:
     template: Acuex
-    at:       [-133.900, 15.482, 25.066, 106]
     level:    [104, 106]
+    region:   c_478
 
   17883616:
     template: Knotted_Root
@@ -2504,8 +2504,8 @@ spawns:
 
   17883637:
     template: Acuex
-    at:       [172.690, 18.892, 300.467, 208]
     level:    [104, 106]
+    region:   ne_501
 
   17883638:
     template: Tormented_Obdella
@@ -2554,13 +2554,13 @@ spawns:
 
   17883647:
     template: Wetscale_Toad
-    at:       [-439.500, 29.337, -552.770, 146]
     level:    [125, 126]
+    region:   sw_511
 
   17883648:
     template: Plodding_Funguar
-    at:       [-442.000, 29.378, -553.250, 199]
     level:    [125, 126]
+    region:   sw_512
 
   17883649:
     template: Plodding_Funguar
@@ -2629,8 +2629,8 @@ spawns:
 
   17883662:
     template: Moldmouth_Attercop
-    at:       [-309.600, 29.398, -493.700, 44]
     level:    [125, 126]
+    region:   sw_526
 
   17883663:
     template: Pungent_Fungus
@@ -2749,8 +2749,8 @@ spawns:
 
   17883686:
     template: Coagulum_Acuex
-    at:       [-577.500, 29.513, -490.410, 49]
     level:    [125, 126]
+    region:   sw_550
 
   17883687:
     template: Coagulum_Acuex
@@ -2769,23 +2769,23 @@ spawns:
 
   17883690:
     template: Plodding_Funguar
-    at:       [-404.600, 29.458, -484.890, 201]
     level:    [125, 126]
+    region:   sw_554
 
   17883691:
     template: Wetscale_Toad
-    at:       [-399.500, 29.347, -470.830, 236]
     level:    [125, 126]
+    region:   sw_555
 
   17883692:
     template: Plodding_Funguar
-    at:       [-393.500, 29.511, -474.730, 25]
     level:    [125, 126]
+    region:   sw_556
 
   17883693:
     template: Wetscale_Toad
-    at:       [-394.000, 29.503, -474.870, 24]
     level:    [125, 126]
+    region:   sw_556
 
   17883694:
     template: Plodding_Funguar
@@ -2809,13 +2809,13 @@ spawns:
 
   17883698:
     template: Fulvous_Bats
-    at:       [-472.600, 29.138, -442.650, 57]
     level:    [125, 126]
+    region:   sw_562
 
   17883699:
     template: Fulvous_Bats
-    at:       [-489.600, 29.395, -447.370, 166]
     level:    [125, 126]
+    region:   sw_563
 
   17883700:
     template: Obstinate_Clot
@@ -3024,8 +3024,8 @@ spawns:
 
   17883741:
     template: Imposing_Dullahan
-    at:       [-438.200, 29.635, -350.480, 166]
     level:    [127, 127]
+    region:   sw_605
 
   17883742:
     template: Imposing_Dullahan
@@ -3049,13 +3049,13 @@ spawns:
 
   17883746:
     template: Shadowshiver_Umbril
-    at:       [-406.300, 29.600, -415.350, 139]
     level:    [126, 127]
+    region:   sw_610
 
   17883747:
     template: Drearyeyed_Bat
-    at:       [-398.900, 30.708, -418.140, 110]
     level:    [125, 126]
+    region:   sw_610
 
   17883748:
     template: Drearyeyed_Bat
@@ -3064,5 +3064,5 @@ spawns:
 
   17883749:
     template: Shadowshiver_Umbril
-    at:       [-498.000, 29.363, -373.160, 105]
     level:    [126, 127]
+    region:   sw_613

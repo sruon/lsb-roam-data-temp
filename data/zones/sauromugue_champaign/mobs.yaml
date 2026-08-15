@@ -770,82 +770,82 @@ spawns:
   17268890:
     template: Hill_Lizard
     level:    [25, 26]
-    region:   w_154
+    region:   c_154
 
   17268891:
     template: Hill_Lizard
     level:    [25, 26]
-    region:   w_154
+    region:   c_154
 
   17268892:
     template: Diving_Beetle
     level:    [27, 28]
-    region:   w_154
+    region:   c_154
 
   17268893:
     template: Diving_Beetle
     level:    [27, 28]
-    region:   w_154
+    region:   c_154
 
   17268894:
     template: Midnight_Wings
     level:    [23, 24]
-    region:   w_154
+    region:   c_154
 
   17268895:
     template: Midnight_Wings
     level:    [23, 24]
-    region:   w_154
+    region:   c_154
 
   17268896:
     template: Moon_Bat
     level:    [25, 26]
-    region:   w_154
+    region:   c_154
 
   17268897:
     template: Champaign_Coeurl
     level:    [33, 34]
-    region:   c_161
+    region:   e_161
 
   17268898:
     template: Goblin_Mugger
     level:    [26, 27]
-    region:   c_161
+    region:   e_161
 
   17268899:
     template: Goblin_Pathfinder
     level:    [31, 32]
-    region:   c_161
+    region:   e_161
 
   17268900:
     template: Goblins_Beetle
     level:    [23, 27]
-    region:   c_161
+    region:   e_161
 
   17268901:
     template: Goblin_Leecher
     level:    [26, 27]
-    region:   c_161
+    region:   e_161
 
   17268902:
     template: Goblin_Furrier
     level:    [31, 32]
-    region:   c_161
+    region:   e_161
 
   17268903:
     template: Goblin_Gambler
     level:    [26, 27]
-    region:   c_161
+    region:   e_161
 
   17268904:
     template: Goblin_Smithy
     level:    [31, 32]
-    region:   e_131
+    region:   e_161
 
   17268905:
     template: Goblin_Shaman
     level:    [31, 32]
-    region:   c_161
+    region:   e_161
 
   17268906:
     template: Wight
@@ -860,7 +860,7 @@ spawns:
   17268908:
     template: Earth_Elemental
     level:    [38, 40]
-    region:   w_154
+    region:   c_172
 
   17268909:
     template: Goblin_Mugger
@@ -965,47 +965,47 @@ spawns:
   17268929:
     template: Champaign_Coeurl
     level:    [33, 34]
-    region:   c_181
+    region:   c_193
 
   17268930:
     template: Yagudo_Votary
     level:    [27, 28]
-    region:   c_181
+    region:   c_193
 
   17268931:
     template: Yagudo_Herald
     level:    [32, 33]
-    region:   c_181
+    region:   c_193
 
   17268932:
     template: Yagudo_Theologist
     level:    [27, 28]
-    region:   c_181
+    region:   c_193
 
   17268933:
     template: Yagudo_Drummer
     level:    [32, 33]
-    region:   c_181
+    region:   c_193
 
   17268934:
     template: Yagudo_Oracle
     level:    [32, 33]
-    region:   c_181
+    region:   c_193
 
   17268935:
     template: Yagudos_Elemental
     level:    [23, 28]
-    region:   c_181
+    region:   c_193
 
   17268936:
     template: Yagudo_Priest
     level:    [27, 28]
-    region:   c_181
+    region:   c_193
 
   17268937:
     template: Yagudo_Interrogator
     level:    [32, 33]
-    region:   c_181
+    region:   c_193
 
   17268938:
     template: Wight
@@ -1695,42 +1695,42 @@ spawns:
   17269075:
     template: Goblin_Mugger
     level:    [26, 27]
-    region:   s_331
+    region:   s_339
 
   17269076:
     template: Goblin_Pathfinder
     level:    [31, 32]
-    region:   s_331
+    region:   s_339
 
   17269077:
     template: Goblins_Beetle
     level:    [26, 27]
-    region:   s_331
+    region:   s_339
 
   17269078:
     template: Goblin_Leecher
     level:    [26, 27]
-    region:   s_331
+    region:   s_339
 
   17269079:
     template: Goblin_Furrier
     level:    [31, 32]
-    region:   s_331
+    region:   s_339
 
   17269080:
     template: Goblin_Gambler
     level:    [26, 27]
-    region:   s_331
+    region:   s_339
 
   17269081:
     template: Goblin_Smithy
     level:    [31, 32]
-    region:   s_331
+    region:   s_339
 
   17269082:
     template: Goblin_Shaman
     level:    [31, 32]
-    region:   s_331
+    region:   s_339
 
   17269083:
     template: Wight
@@ -1745,7 +1745,7 @@ spawns:
   17269085:
     template: Thunder_Elemental
     level:    [38, 40]
-    region:   s_331
+    region:   s_339
 
   17269086:
     template: Evil_Spirit
@@ -1844,8 +1844,8 @@ spawns:
 
   17269105:
     template: Goblin_Digger
+    at:       [481.391, 23.461, 122.486, 127]
     level:    [29, 30]
-    region:   e_369
 
   17269106:
     template: Roc
@@ -2074,8 +2074,8 @@ spawns:
 
   17269178:
     template: Goblin_Bounty_Hunter
+    at:       [241.937, 39.829, 451.606, 255]
     level:    [30, 34]
-    region:   n_442
 
   17269179:
     template: Macro_Test

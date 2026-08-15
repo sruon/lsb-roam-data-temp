@@ -720,12 +720,12 @@ spawns:
   17248400:
     template: Crawler
     level:    [5, 6]
-    region:   c_138
+    region:   c_144
 
   17248401:
     template: Crawler
     level:    [5, 6]
-    region:   c_138
+    region:   c_144
 
   17248402:
     template: Savanna_Rarab
@@ -950,12 +950,12 @@ spawns:
   17248446:
     template: Crawler
     level:    [7, 8]
-    region:   e_188
+    region:   c_190
 
   17248447:
     template: Crawler
     level:    [7, 8]
-    region:   e_188
+    region:   n_191
 
   17248448:
     template: Giant_Bee
@@ -1704,8 +1704,8 @@ spawns:
 
   17248597:
     template: Goblin_Digger
+    at:       [237.793, -16.801, 204.498, 104]
     level:    [5, 6]
-    region:   e_341
 
   17248598:
     template: Yagudo_Votary
@@ -1754,28 +1754,28 @@ spawns:
 
   17248607:
     template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [51, 54]
-    region:   c_351
 
   17248608:
     template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [51, 54]
-    region:   s_352
 
   17248609:
     template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [51, 54]
-    region:   nw_353
 
   17248610:
     template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [51, 54]
-    region:   ne_354
 
   17248611:
     template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [51, 54]
-    region:   s_355
 
   17248612:
     template: Bakru

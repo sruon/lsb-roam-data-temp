@@ -215,12 +215,12 @@ spawns:
   16891947:
     template: Utukku
     level:    [55, 55]
-    region:   c_36
+    region:   c_43
 
   16891948:
     template: Elel
     level:    [60, 60]
-    region:   c_32
+    region:   w_44
 
   16891949:
     template: Stegotaur
@@ -229,8 +229,8 @@ spawns:
 
   16891950:
     template: Stegotaur
-    at:       [-60.765, -0.347, -53.644, 187]
     level:    [47, 49]
+    region:   sw_46
 
   16891951:
     template: Fomor_Ranger
@@ -314,18 +314,18 @@ spawns:
 
   16891967:
     template: Fomor_Warrior
-    at:       [89.519, -0.619, -60.246, 0]
     level:    [54, 56]
+    region:   s_63
 
   16891968:
     template: Fomor_Thief
     level:    [54, 56]
-    region:   s_64
+    region:   s_63
 
   16891969:
     template: Fomor_Paladin
     level:    [54, 56]
-    region:   s_64
+    region:   s_63
 
   16891970:
     template: Old_Professor_Mariselle
@@ -644,8 +644,8 @@ spawns:
 
   16892033:
     template: Teratotaur
-    at:       [136.889, -0.600, 60.078, 0]
     level:    [57, 58]
+    region:   ne_129
 
   16892034:
     template: Fomor_Warrior
@@ -815,7 +815,7 @@ spawns:
   16892067:
     template: Dark_Elemental
     level:    [60, 60]
-    region:   se_163
+    region:   se_161
 
   16892068:
     template: Balor
@@ -924,13 +924,13 @@ spawns:
 
   16892089:
     template: Aqueduct_Spider
-    at:       [140.228, -0.560, -81.596, 64]
     level:    [84, 86]
+    region:   se_185
 
   16892090:
     template: Aqueduct_Spider
-    at:       [140.477, -0.529, -80.427, 64]
     level:    [84, 86]
+    region:   se_185
 
   16892091:
     template: Aqueduct_Spider
@@ -945,14 +945,14 @@ spawns:
   16892093:
     template: Aqueduct_Spider
     level:    [84, 86]
-    region:   se_163
+    region:   se_161
 
   16892094:
     template: Aqueduct_Spider
     level:    [84, 86]
-    region:   se_163
+    region:   se_161
 
   16892095:
     template: Aqueduct_Spider
     level:    [84, 86]
-    region:   se_163
+    region:   se_161

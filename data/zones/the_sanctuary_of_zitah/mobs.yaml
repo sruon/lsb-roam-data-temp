@@ -639,8 +639,8 @@ spawns:
 
   17272960:
     template: Rock_Golem
-    at:       [501.088, 0.684, -580.998, 127]
     level:    [49, 50]
+    region:   se_128
 
   17272961:
     template: Ogrefly
@@ -844,8 +844,8 @@ spawns:
 
   17273001:
     template: Water_Elemental
-    at:       [-96.572, -3.493, -214.771, 47]
     level:    [48, 49]
+    region:   c_169
 
   17273002:
     template: Goblin_Robber
@@ -1285,22 +1285,22 @@ spawns:
   17273089:
     template: Goobbue_Parasite
     level:    [42, 45]
-    region:   c_257
+    region:   c_256
 
   17273090:
     template: Lesser_Gaylas
     level:    [39, 42]
-    region:   c_257
+    region:   c_256
 
   17273091:
     template: Lesser_Gaylas
     level:    [39, 42]
-    region:   c_257
+    region:   c_256
 
   17273092:
     template: Master_Coeurl
     level:    [44, 47]
-    region:   c_260
+    region:   c_256
 
   17273093:
     template: Hell_Hound
@@ -1309,8 +1309,8 @@ spawns:
 
   17273094:
     template: Water_Elemental
-    at:       [-106.204, -3.368, 60.872, 127]
     level:    [48, 49]
+    region:   c_262
 
   17273095:
     template: Goobbue_Parasite
@@ -1555,7 +1555,7 @@ spawns:
   17273143:
     template: Hell_Hound
     level:    [46, 50]
-    region:   w_311
+    region:   w_309
 
   17273144:
     template: Hell_Hound

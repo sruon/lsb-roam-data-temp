@@ -234,8 +234,8 @@ spawns:
 
   17236015:
     template: Demon_Pawn
-    at:       [234.942, -20.900, -166.407, 81]
     level:    [48, 50]
+    region:   c_47
 
   17236016:
     template: Lost_Soul
@@ -344,13 +344,13 @@ spawns:
 
   17236037:
     template: Demon_Pawn
-    at:       [118.887, -29.056, -112.005, 72]
     level:    [48, 50]
+    region:   c_69
 
   17236038:
     template: Demon_Pawn
-    at:       [39.646, -28.883, -138.735, 71]
     level:    [48, 50]
+    region:   c_70
 
   17236039:
     template: Demon_Pawn
@@ -359,8 +359,8 @@ spawns:
 
   17236040:
     template: Demon_Pawn
-    at:       [-6.399, -28.425, -98.901, 121]
     level:    [48, 50]
+    region:   c_72
 
   17236041:
     template: Lost_Soul
@@ -630,7 +630,7 @@ spawns:
   17236094:
     template: Dark_Elemental
     level:    [48, 50]
-    region:   e_126
+    region:   e_122
 
   17236095:
     template: Blizzard_Gigas
@@ -909,13 +909,13 @@ spawns:
 
   17236150:
     template: Demon_Pawn
-    at:       [-105.421, -40.059, 40.246, 127]
     level:    [50, 52]
+    region:   w_182
 
   17236151:
     template: Demon_Knight
-    at:       [-110.155, -39.986, 38.252, 105]
     level:    [50, 52]
+    region:   w_182
 
   17236152:
     template: Demon_Pawn

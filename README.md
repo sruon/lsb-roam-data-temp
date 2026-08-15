@@ -68,6 +68,9 @@ The navmesh comes from `lsb/navmeshes/*.nav`; all 161 zones have one.
 - **Fliers cover unwalkable ground.** A Pixie's region is the floor under a flight path — its trail
   spans 51 yalms vertically in West Ronfaure against about 11 for ground mobs. No amount of geometry
   fixes that; those regions need a human.
+- **Pixies, Goblin Diggers and Goblin Bounty Hunters get no region at all.** They cross a whole zone
+  on a sparse trail, so any polygon they produce sprawls over everything else without describing
+  anywhere a mob usefully lives.
 - **Region names are anchored, not positional.** A name is `<compass>_<index>` -- no zone prefix,
   since a name is only ever resolved against its own `zone.yaml`. The index is the zone-local mob
   index of the lowest-numbered mob in the region, and the compass reading comes from that mob's own

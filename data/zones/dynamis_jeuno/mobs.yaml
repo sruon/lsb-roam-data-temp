@@ -29,8 +29,8 @@ spawns:
 
   17547270:
     template: Vanguard_Shaman
-    at:       [30.440, 8.401, -53.121, 25]
     level:    [75, 77]
+    region:   se_6
 
   17547271:
     template: Vanguard_Enchanter
@@ -40,7 +40,7 @@ spawns:
   17547272:
     template: Vanguard_Pathfinder
     level:    [75, 77]
-    region:   se_8
+    region:   se_6
 
   17547273:
     template: Vanguards_Slime
@@ -80,7 +80,7 @@ spawns:
   17547280:
     template: Vanguard_Maestro
     level:    [75, 77]
-    region:   s_14
+    region:   s_16
 
   17547281:
     template: Vanguard_Tinkerer
@@ -115,12 +115,12 @@ spawns:
   17547287:
     template: Vanguards_Avatar
     level:    [75, 77]
-    region:   s_22
+    region:   s_23
 
   17547288:
     template: Vanguard_Ronin
     level:    [75, 77]
-    region:   s_22
+    region:   s_23
 
   17547289:
     template: Vanguard_Armorer
@@ -165,12 +165,12 @@ spawns:
   17547297:
     template: Goblin_Replica
     level:    [65, 65]
-    region:   s_32
+    region:   s_22
 
   17547298:
     template: Smeltix_Thickhide
     level:    [75, 77]
-    region:   s_32
+    region:   s_22
 
   17547299:
     template: Jabkix_Pigeonpecs
@@ -214,8 +214,8 @@ spawns:
 
   17547307:
     template: Vanguard_Armorer
-    at:       [33.959, -0.495, -18.323, 66]
     level:    [75, 77]
+    region:   e_43
 
   17547308:
     template: Vanguard_Alchemist
@@ -260,12 +260,12 @@ spawns:
   17547316:
     template: Vanguard_Ronin
     level:    [75, 77]
-    region:   e_50
+    region:   e_52
 
   17547317:
     template: Vanguard_Necromancer
     level:    [75, 77]
-    region:   e_50
+    region:   e_52
 
   17547318:
     template: Vanguards_Avatar
@@ -285,12 +285,12 @@ spawns:
   17547321:
     template: Vanguard_Enchanter
     level:    [75, 77]
-    region:   e_56
+    region:   e_57
 
   17547322:
     template: Morgmox_Moldnoggin
     level:    [75, 77]
-    region:   e_56
+    region:   e_57
 
   17547323:
     template: Vanguards_Avatar
@@ -305,7 +305,7 @@ spawns:
   17547325:
     template: Vanguard_Welldigger
     level:    [75, 77]
-    region:   c_60
+    region:   c_61
 
   17547326:
     template: Vanguard_Maestro
@@ -330,37 +330,37 @@ spawns:
   17547330:
     template: Vanguard_Ronin
     level:    [75, 77]
-    region:   c_66
+    region:   c_65
 
   17547331:
     template: Vanguard_Maestro
     level:    [75, 77]
-    region:   c_65
+    region:   c_61
 
   17547332:
     template: Vanguard_Dragontamer
     level:    [75, 77]
-    region:   c_66
+    region:   c_65
 
   17547333:
     template: Vanguards_Wyvern
-    at:       [-19.259, 2.500, -5.104, 193]
     level:    [75, 77]
+    region:   c_69
 
   17547334:
     template: Vanguard_Alchemist
     level:    [75, 77]
-    region:   e_44
+    region:   c_70
 
   17547335:
     template: Vanguard_Shaman
-    at:       [-21.299, 2.400, -4.747, 101]
     level:    [75, 77]
+    region:   c_71
 
   17547336:
     template: Vanguard_Enchanter
     level:    [75, 77]
-    region:   c_72
+    region:   c_71
 
   17547337:
     template: Morgmox_Moldnoggin
@@ -379,18 +379,18 @@ spawns:
 
   17547340:
     template: Vanguard_Ambusher
-    at:       [-29.829, 2.400, -17.725, 134]
     level:    [75, 77]
+    region:   c_76
 
   17547341:
     template: Vanguard_Pathfinder
     level:    [75, 77]
-    region:   w_77
+    region:   c_75
 
   17547342:
     template: Vanguards_Slime
     level:    [75, 77]
-    region:   w_78
+    region:   c_75
 
   17547343:
     template: Vanguard_Pitfighter
@@ -400,12 +400,12 @@ spawns:
   17547344:
     template: Vanguard_Enchanter
     level:    [75, 77]
-    region:   s_79
+    region:   c_80
 
   17547345:
     template: Vanguard_Maestro
     level:    [75, 77]
-    region:   w_77
+    region:   s_81
 
   17547346:
     template: Vanguard_Ambusher
@@ -430,17 +430,17 @@ spawns:
   17547350:
     template: Vanguard_Pitfighter
     level:    [75, 77]
-    region:   s_86
+    region:   s_84
 
   17547351:
     template: Vanguard_Alchemist
     level:    [75, 77]
-    region:   s_87
+    region:   s_84
 
   17547352:
     template: Vanguard_Tinkerer
-    at:       [-29.402, -0.598, -57.856, 65]
     level:    [75, 77]
+    region:   s_88
 
   17547353:
     template: Vanguard_Armorer
@@ -459,13 +459,13 @@ spawns:
 
   17547356:
     template: Bandrix_Rockjaw
-    at:       [-37.337, -0.595, -49.359, 65]
     level:    [79, 79]
+    region:   sw_91
 
   17547357:
     template: Vanguard_Smithy
     level:    [75, 77]
-    region:   s_87
+    region:   s_84
 
   17547358:
     template: Vanguard_Shaman
@@ -475,7 +475,7 @@ spawns:
   17547359:
     template: Vanguard_Maestro
     level:    [75, 77]
-    region:   e_44
+    region:   s_95
 
   17547360:
     template: Vanguard_Welldigger
@@ -514,23 +514,23 @@ spawns:
 
   17547367:
     template: Vanguard_Ronin
-    at:       [14.121, -0.599, -73.273, 28]
     level:    [75, 77]
+    region:   se_103
 
   17547368:
     template: Vanguard_Hitman
     level:    [75, 77]
-    region:   se_104
+    region:   se_103
 
   17547369:
     template: Vanguard_Pathfinder
     level:    [75, 77]
-    region:   sw_91
+    region:   se_103
 
   17547370:
     template: Vanguards_Slime
     level:    [75, 77]
-    region:   sw_91
+    region:   se_103
 
   17547371:
     template: Vanguard_Armorer
@@ -540,17 +540,17 @@ spawns:
   17547372:
     template: Vanguard_Shaman
     level:    [75, 77]
-    region:   se_107
+    region:   se_108
 
   17547373:
     template: Vanguard_Necromancer
     level:    [75, 77]
-    region:   se_107
+    region:   se_108
 
   17547374:
     template: Vanguards_Avatar
     level:    [75, 77]
-    region:   se_107
+    region:   se_108
 
   17547375:
     template: Vanguard_Pitfighter
@@ -575,12 +575,12 @@ spawns:
   17547379:
     template: Vanguard_Smithy
     level:    [75, 77]
-    region:   se_115
+    region:   e_45
 
   17547380:
     template: Vanguard_Alchemist
     level:    [75, 77]
-    region:   se_115
+    region:   e_45
 
   17547381:
     template: Buffrix_Eargone
@@ -605,22 +605,22 @@ spawns:
   17547385:
     template: Vanguard_Alchemist
     level:    [75, 77]
-    region:   se_121
+    region:   se_119
 
   17547386:
     template: Vanguard_Maestro
     level:    [75, 77]
-    region:   sw_91
+    region:   se_119
 
   17547387:
     template: Buffrix_Eargone
     level:    [75, 77]
-    region:   se_123
+    region:   se_120
 
   17547388:
     template: Humnox_Drumbelly
-    at:       [29.478, -0.495, -31.992, 200]
     level:    [75, 77]
+    region:   se_119
 
   17547389:
     template: Goblin_Statue
@@ -645,7 +645,7 @@ spawns:
   17547393:
     template: Goblin_Replica
     level:    [65, 65]
-    region:   c_66
+    region:   c_129
 
   17547394:
     template: Ticktox_Beadyeyes
@@ -680,7 +680,7 @@ spawns:
   17547400:
     template: Vanguard_Welldigger
     level:    [90, 92]
-    region:   w_134
+    region:   w_136
 
   17547401:
     template: Vanguard_Alchemist
@@ -690,7 +690,7 @@ spawns:
   17547402:
     template: Kikklix_Longlegs
     level:    [90, 92]
-    region:   w_134
+    region:   w_136
 
   17547403:
     template: Vanguard_Smithy
@@ -825,7 +825,7 @@ spawns:
   17547429:
     template: Vanguards_Slime
     level:    [90, 92]
-    region:   c_165
+    region:   c_161
 
   17547430:
     template: Vanguard_Maestro
@@ -865,7 +865,7 @@ spawns:
   17547437:
     template: Vanguards_Avatar
     level:    [90, 92]
-    region:   n_172
+    region:   n_173
 
   17547438:
     template: Mortilox_Wartpaws
@@ -900,7 +900,7 @@ spawns:
   17547444:
     template: Vanguards_Avatar
     level:    [90, 92]
-    region:   n_178
+    region:   n_180
 
   17547445:
     template: Vanguard_Maestro
@@ -910,17 +910,17 @@ spawns:
   17547446:
     template: Vanguard_Ronin
     level:    [90, 92]
-    region:   n_182
+    region:   n_181
 
   17547447:
     template: Vanguard_Armorer
     level:    [90, 92]
-    region:   n_183
+    region:   n_176
 
   17547448:
     template: Vanguard_Maestro
     level:    [90, 92]
-    region:   n_183
+    region:   n_176
 
   17547449:
     template: Vanguard_Tinkerer
@@ -974,13 +974,13 @@ spawns:
 
   17547459:
     template: Vanguard_Ambusher
-    at:       [7.319, -5.901, 66.798, 24]
     level:    [90, 92]
+    region:   n_195
 
   17547460:
     template: Vanguard_Hitman
     level:    [90, 92]
-    region:   n_196
+    region:   n_195
 
   17547461:
     template: Vanguard_Ambusher
@@ -990,7 +990,7 @@ spawns:
   17547462:
     template: Vanguard_Hitman
     level:    [90, 92]
-    region:   ne_198
+    region:   ne_197
 
   17547463:
     template: Vanguard_Ambusher
@@ -1024,8 +1024,8 @@ spawns:
 
   17547469:
     template: Vanguard_Smithy
-    at:       [-2.563, 2.706, 112.752, 201]
     level:    [90, 92]
+    region:   n_205
 
   17547470:
     template: Vanguard_Pitfighter
@@ -1034,8 +1034,8 @@ spawns:
 
   17547471:
     template: Vanguard_Welldigger
-    at:       [-0.508, 2.499, 112.929, 190]
     level:    [90, 92]
+    region:   n_205
 
   17547472:
     template: Anvilix_Sootwrists
@@ -1054,8 +1054,8 @@ spawns:
 
   17547475:
     template: Vanguard_Alchemist
-    at:       [-2.164, 2.500, 106.255, 209]
     level:    [90, 92]
+    region:   n_211
 
   17547476:
     template: Vanguard_Shaman

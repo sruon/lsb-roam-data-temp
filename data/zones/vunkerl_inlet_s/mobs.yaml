@@ -385,7 +385,7 @@ spawns:
   17117261:
     template: Goblin_Mine
     level:    [63, 63]
-    region:   c_76
+    region:   c_77
 
   17117262:
     template: Goblin_Flagman
@@ -425,7 +425,7 @@ spawns:
   17117269:
     template: Goblin_Mine
     level:    [63, 63]
-    region:   c_84
+    region:   c_85
 
   17117270:
     template: Goblin_Guerrilla
@@ -905,17 +905,17 @@ spawns:
   17117365:
     template: Orcish_Footsoldier
     level:    [71, 74]
-    region:   sw_170
+    region:   w_181
 
   17117366:
     template: Orcish_Gladiator
     level:    [71, 74]
-    region:   sw_170
+    region:   w_181
 
   17117367:
     template: Orcish_Hexspinner
     level:    [71, 74]
-    region:   sw_170
+    region:   w_181
 
   17117368:
     template: Doom_Soldier
@@ -1290,7 +1290,7 @@ spawns:
   17117442:
     template: Treant
     level:    [73, 76]
-    region:   s_257
+    region:   s_258
 
   17117443:
     template: Wandering_Sapling
@@ -1589,13 +1589,13 @@ spawns:
 
   17117502:
     template: Goliath_Beetle
-    at:       [-410.295, -29.942, 365.563, 209]
     level:    [34, 36]
+    region:   nw_318
 
   17117503:
     template: Goliath_Beetle
-    at:       [-395.382, -31.937, 358.505, 73]
     level:    [34, 36]
+    region:   nw_318
 
   17117504:
     template: Carrion_Marabou
@@ -1659,8 +1659,8 @@ spawns:
 
   17117516:
     template: Goliath_Beetle
-    at:       [-435.769, -29.689, 289.748, 124]
     level:    [34, 36]
+    region:   nw_332
 
   17117517:
     template: Gnole
@@ -1690,7 +1690,7 @@ spawns:
   17117522:
     template: Gnole
     level:    [66, 68]
-    region:   nw_338
+    region:   nw_331
 
   17117523:
     template: Air_Elemental
@@ -2065,7 +2065,7 @@ spawns:
   17117597:
     template: Feldrautte_I_Rouhent
     level:    [70, 70]
-    region:   sw_384
+    region:   sw_413
 
   17117598:
     template: Norvallen_Knight
@@ -2165,7 +2165,7 @@ spawns:
   17117617:
     template: Noillurie
     level:    [1, 1]
-    region:   sw_384
+    region:   c_433
 
   17117618:
     template: Red_Rose_Condottiere
@@ -2535,7 +2535,7 @@ spawns:
   17117691:
     template: Spinebeak_Neckchopper
     level:    [60, 60]
-    region:   sw_507
+    region:   c_433
 
   17117692:
     template: Spinebeak_Neckchopper
@@ -2545,7 +2545,7 @@ spawns:
   17117693:
     template: Spinebeak_Neckchopper
     level:    [60, 60]
-    region:   sw_509
+    region:   c_433
 
   17117694:
     template: Spinebeak_Neckchopper
@@ -2555,17 +2555,17 @@ spawns:
   17117695:
     template: Spinebeak_Neckchopper
     level:    [60, 60]
-    region:   sw_511
+    region:   c_433
 
   17117696:
     template: Spinebeak_Neckchopper
     level:    [60, 60]
-    region:   sw_509
+    region:   sw_512
 
   17117697:
     template: Spinebeak_Neckchopper
     level:    [60, 60]
-    region:   sw_509
+    region:   sw_512
 
   17117698:
     template: Jagidbods_Warmachine
@@ -2625,42 +2625,42 @@ spawns:
   17117709:
     template: Alpha_Gnole_Anders
     level:    [0, 0]
-    region:   sw_507
+    region:   c_433
 
   17117710:
     template: Anderss_Guard
     level:    [60, 60]
-    region:   ne_526
+    region:   c_433
 
   17117711:
     template: Anderss_Guard
     level:    [60, 60]
-    region:   sw_507
+    region:   c_433
 
   17117712:
     template: Moonfang_Warrior
     level:    [60, 60]
-    region:   sw_507
+    region:   c_433
 
   17117713:
     template: Moonfang_Warrior
     level:    [60, 60]
-    region:   sw_507
+    region:   c_433
 
   17117714:
     template: Moonfang_Warrior
     level:    [60, 60]
-    region:   ne_530
+    region:   c_433
 
   17117715:
     template: Moonfang_Warrior
     level:    [60, 60]
-    region:   sw_507
+    region:   c_433
 
   17117716:
     template: Moonfang_Warrior
     level:    [60, 60]
-    region:   sw_507
+    region:   c_433
 
   17117717:
     template: Moonfang_Warrior
@@ -2670,42 +2670,42 @@ spawns:
   17117718:
     template: Moonfang_Warrior
     level:    [60, 60]
-    region:   sw_507
+    region:   c_433
 
   17117719:
     template: Moonfang_Warrior
     level:    [60, 60]
-    region:   sw_507
+    region:   c_433
 
   17117720:
     template: Moonfang_Warrior
     level:    [60, 60]
-    region:   sw_511
+    region:   c_433
 
   17117721:
     template: Three-eyed_Prozpuz
     level:    [60, 60]
-    region:   sw_507
+    region:   c_537
 
   17117722:
     template: Throatripper_Predator
     level:    [60, 60]
-    region:   sw_511
+    region:   c_537
 
   17117723:
     template: Throatripper_Predator
     level:    [60, 60]
-    region:   sw_511
+    region:   c_537
 
   17117724:
     template: Throatripper_Predator
     level:    [60, 60]
-    region:   s_540
+    region:   c_537
 
   17117725:
     template: Throatripper_Predator
     level:    [60, 60]
-    region:   s_540
+    region:   c_537
 
   17117726:
     template: Throatripper_Predator

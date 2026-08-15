@@ -585,7 +585,7 @@ spawns:
   16806005:
     template: Bane_Lizard
     level:    [47, 48]
-    region:   se_114
+    region:   se_117
 
   16806006:
     template: Bane_Lizard
@@ -595,12 +595,12 @@ spawns:
   16806007:
     template: Ogrefly
     level:    [45, 47]
-    region:   se_114
+    region:   se_117
 
   16806008:
     template: Ogrefly
     level:    [45, 47]
-    region:   se_114
+    region:   se_117
 
   16806009:
     template: Bane_Lizard
@@ -909,23 +909,23 @@ spawns:
 
   16806070:
     template: Flesh_Eater
-    at:       [-44.080, 13.508, -63.402, 63]
     level:    [34, 35]
+    region:   c_182
 
   16806071:
     template: Flesh_Eater
-    at:       [-43.982, 13.505, -63.318, 63]
     level:    [34, 35]
+    region:   c_182
 
   16806072:
     template: Air_Elemental
-    at:       [-45.088, 13.355, -50.984, 180]
     level:    [41, 43]
+    region:   c_182
 
   16806073:
     template: Flesh_Eater
-    at:       [-44.038, 13.385, -54.642, 186]
     level:    [34, 35]
+    region:   c_182
 
   16806074:
     template: Flesh_Eater
@@ -1024,18 +1024,18 @@ spawns:
 
   16806093:
     template: Flesh_Eater
-    at:       [-243.865, 13.518, 263.571, 196]
     level:    [34, 36]
+    region:   nw_205
 
   16806094:
     template: Flesh_Eater
-    at:       [-245.305, 13.359, 248.779, 216]
     level:    [34, 36]
+    region:   nw_205
 
   16806095:
     template: Air_Elemental
     level:    [41, 43]
-    region:   nw_207
+    region:   nw_205
 
   16806096:
     template: Flesh_Eater
@@ -1085,12 +1085,12 @@ spawns:
   16806105:
     template: Flesh_Eater
     level:    [36, 37]
-    region:   nw_217
+    region:   nw_216
 
   16806106:
     template: Air_Elemental
     level:    [41, 43]
-    region:   nw_217
+    region:   nw_216
 
   16806107:
     template: Tulwar_Scorpion
@@ -1150,17 +1150,17 @@ spawns:
   16806118:
     template: Monarch_Ogrefly
     level:    [65, 66]
-    region:   sw_226
+    region:   sw_230
 
   16806119:
     template: Sand_Lizard
     level:    [65, 67]
-    region:   sw_226
+    region:   sw_230
 
   16806120:
     template: Sand_Lizard
     level:    [65, 67]
-    region:   sw_226
+    region:   sw_230
 
   16806121:
     template: Tracker_Antlion
@@ -1735,7 +1735,7 @@ spawns:
   16806235:
     template: Earth_Elemental
     level:    [75, 76]
-    region:   w_340
+    region:   w_347
 
   16806236:
     template: Earth_Elemental

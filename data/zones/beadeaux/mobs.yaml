@@ -119,13 +119,13 @@ spawns:
 
   17379352:
     template: Ooze
-    at:       [-100.640, 0.085, 54.555, 127]
     level:    [28, 30]
+    region:   w_24
 
   17379353:
     template: Ooze
-    at:       [-104.888, -0.150, 56.675, 127]
     level:    [28, 30]
+    region:   w_24
 
   17379354:
     template: Old_Quadav
@@ -2100,7 +2100,7 @@ spawns:
   17379748:
     template: Topaz_Quadav
     level:    [55, 59]
-    region:   n_417
+    region:   ne_420
 
   17379749:
     template: Larva

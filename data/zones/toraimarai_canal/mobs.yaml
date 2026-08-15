@@ -70,7 +70,7 @@ spawns:
   17469454:
     template: Fallen_Knight
     level:    [52, 55]
-    region:   nw_14
+    region:   nw_8
 
   17469455:
     template: Canal_Bats
@@ -515,22 +515,22 @@ spawns:
   17469543:
     template: Scavenger_Crab
     level:    [60, 62]
-    region:   w_103
+    region:   w_100
 
   17469544:
     template: Scavenger_Crab
     level:    [60, 62]
-    region:   w_103
+    region:   w_100
 
   17469545:
     template: Scavenger_Crab
     level:    [60, 62]
-    region:   w_103
+    region:   w_100
 
   17469546:
     template: Scavenger_Crab
     level:    [60, 62]
-    region:   w_103
+    region:   w_100
 
   17469547:
     template: Fleshcraver
@@ -694,43 +694,43 @@ spawns:
 
   17469579:
     template: Stygian_Pugil
-    at:       [-315.300, 16.000, 19.311, 163]
     level:    [63, 65]
+    region:   w_139
 
   17469580:
     template: Stygian_Pugil
-    at:       [-327.700, 16.000, 7.621, 164]
     level:    [63, 65]
+    region:   w_140
 
   17469581:
     template: Stygian_Pugil
-    at:       [-315.900, 16.000, -45.784, 123]
     level:    [63, 65]
+    region:   w_141
 
   17469582:
     template: Stygian_Pugil
-    at:       [-331.900, 15.998, -47.748, 5]
     level:    [63, 65]
+    region:   w_142
 
   17469583:
     template: Stygian_Pugil
-    at:       [-303.000, 21.002, -21.481, 108]
     level:    [63, 65]
+    region:   w_143
 
   17469584:
     template: Stygian_Pugil
-    at:       [-304.600, 21.000, -18.027, 254]
     level:    [63, 65]
+    region:   w_143
 
   17469585:
     template: Stygian_Pugil
-    at:       [-328.900, 17.500, -7.620, 151]
     level:    [63, 65]
+    region:   w_145
 
   17469586:
     template: Stygian_Pugil
-    at:       [-338.100, 20.650, -17.672, 41]
     level:    [63, 65]
+    region:   w_145
 
   17469587:
     template: Oni_Carcass
@@ -765,17 +765,17 @@ spawns:
   17469593:
     template: Bloodsucker
     level:    [54, 57]
-    region:   c_153
+    region:   c_152
 
   17469594:
     template: Bloodsucker
     level:    [54, 57]
-    region:   c_154
+    region:   c_152
 
   17469595:
     template: Bloodsucker
     level:    [54, 57]
-    region:   c_155
+    region:   c_152
 
   17469596:
     template: Blackwater_Pugil
@@ -864,43 +864,43 @@ spawns:
 
   17469613:
     template: Blackwater_Pugil
-    at:       [30.840, 16.000, -152.110, 135]
     level:    [96, 97]
+    region:   s_173
 
   17469614:
     template: Blackwater_Pugil
-    at:       [55.415, 16.000, -152.580, 188]
     level:    [96, 97]
+    region:   s_174
 
   17469615:
     template: Blackwater_Pugil
-    at:       [31.211, 16.002, -214.960, 61]
     level:    [96, 97]
+    region:   s_175
 
   17469616:
     template: Blackwater_Pugil
-    at:       [59.001, 16.000, -204.340, 229]
     level:    [96, 97]
+    region:   s_176
 
   17469617:
     template: Blackwater_Pugil
-    at:       [23.510, 17.500, -193.050, 4]
     level:    [96, 97]
+    region:   s_177
 
   17469618:
     template: Blackwater_Pugil
-    at:       [25.121, 17.499, -196.150, 121]
     level:    [96, 97]
+    region:   s_177
 
   17469619:
     template: Blackwater_Pugil
-    at:       [51.506, 21.023, -178.310, 233]
     level:    [96, 97]
+    region:   s_179
 
   17469620:
     template: Blackwater_Pugil
-    at:       [59.535, 18.554, -187.750, 58]
     level:    [96, 97]
+    region:   s_179
 
   17469621:
     template: Plunderer_Crab
@@ -1129,13 +1129,13 @@ spawns:
 
   17469666:
     template: Hinge_Oil
-    at:       [77.995, 24.999, -25.224, 201]
     level:    [65, 65]
+    region:   c_226
 
   17469667:
     template: Hinge_Oil
-    at:       [75.444, 23.000, -52.520, 87]
     level:    [65, 65]
+    region:   c_227
 
   17469668:
     template: Hinge_Oil
@@ -1144,8 +1144,8 @@ spawns:
 
   17469669:
     template: Hinge_Oil
-    at:       [93.262, 21.999, -42.956, 71]
     level:    [65, 65]
+    region:   c_229
 
   17469670:
     template: Deviling_Bats
@@ -1255,17 +1255,17 @@ spawns:
   17469691:
     template: Starborer
     level:    [96, 97]
-    region:   e_251
+    region:   e_250
 
   17469692:
     template: Starborer
     level:    [96, 97]
-    region:   e_251
+    region:   e_250
 
   17469693:
     template: Starborer
     level:    [96, 97]
-    region:   e_251
+    region:   e_250
 
   17469694:
     template: Starborer
@@ -1275,12 +1275,12 @@ spawns:
   17469695:
     template: Starborer
     level:    [96, 97]
-    region:   e_251
+    region:   e_250
 
   17469696:
     template: Starborer
     level:    [96, 97]
-    region:   e_251
+    region:   e_250
 
   17469697:
     template: Blackwater_Pugil
@@ -1304,43 +1304,43 @@ spawns:
 
   17469701:
     template: Blackwater_Pugil
-    at:       [301.860, 21.003, -67.757, 253]
     level:    [96, 97]
+    region:   e_261
 
   17469702:
     template: Blackwater_Pugil
-    at:       [299.960, 21.305, -71.077, 215]
     level:    [96, 97]
+    region:   e_261
 
   17469703:
     template: Blackwater_Pugil
-    at:       [272.600, 15.998, -72.207, 155]
     level:    [96, 97]
+    region:   e_263
 
   17469704:
     template: Blackwater_Pugil
-    at:       [332.390, 16.000, -67.947, 163]
     level:    [96, 97]
+    region:   e_264
 
   17469705:
     template: Blackwater_Pugil
-    at:       [306.210, 18.500, -83.663, 138]
     level:    [96, 97]
+    region:   e_265
 
   17469706:
     template: Blackwater_Pugil
-    at:       [312.610, 17.500, -87.714, 88]
     level:    [96, 97]
+    region:   e_265
 
   17469707:
     template: Blackwater_Pugil
-    at:       [273.150, 15.998, -83.324, 179]
     level:    [96, 97]
+    region:   e_267
 
   17469708:
     template: Blackwater_Pugil
-    at:       [331.170, 16.000, -91.986, 229]
     level:    [96, 97]
+    region:   e_268
 
   17469709:
     template: Poroggo_Excavator
@@ -1350,27 +1350,27 @@ spawns:
   17469710:
     template: Flume_Toad
     level:    [94, 96]
-    region:   se_269
+    region:   se_270
 
   17469711:
     template: Flume_Toad
     level:    [94, 96]
-    region:   se_269
+    region:   se_270
 
   17469712:
     template: Flume_Toad
     level:    [94, 96]
-    region:   se_269
+    region:   se_270
 
   17469713:
     template: Flume_Toad
     level:    [94, 96]
-    region:   se_269
+    region:   se_270
 
   17469714:
     template: Flume_Toad
     level:    [94, 96]
-    region:   se_269
+    region:   se_270
 
   17469715:
     template: Flume_Toad
@@ -1435,22 +1435,22 @@ spawns:
   17469727:
     template: Flume_Toad
     level:    [94, 96]
-    region:   se_282
+    region:   se_287
 
   17469728:
     template: Flume_Toad
     level:    [94, 96]
-    region:   se_282
+    region:   se_287
 
   17469729:
     template: Flume_Toad
     level:    [94, 96]
-    region:   se_282
+    region:   se_287
 
   17469730:
     template: Flume_Toad
     level:    [94, 96]
-    region:   se_282
+    region:   se_287
 
   17469731:
     template: Poroggo_Excavator
@@ -1539,23 +1539,23 @@ spawns:
 
   17469748:
     template: Bouncing_Ball
-    at:       [163.940, 11.000, -109.120, 222]
     level:    [64, 67]
+    region:   se_308
 
   17469749:
     template: Bouncing_Ball
-    at:       [157.530, 12.050, -138.810, 125]
     level:    [64, 67]
+    region:   se_309
 
   17469750:
     template: Bouncing_Ball
-    at:       [143.810, 10.000, -116.590, 127]
     level:    [64, 67]
+    region:   se_310
 
   17469751:
     template: Bouncing_Ball
-    at:       [174.040, 12.000, -114.990, 72]
     level:    [64, 67]
+    region:   se_311
 
   17469752:
     template: Dire_Bat

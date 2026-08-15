@@ -340,12 +340,12 @@ spawns:
   17244228:
     template: Flesh_Eater
     level:    [37, 42]
-    region:   c_64
+    region:   c_68
 
   17244229:
     template: Flesh_Eater
     level:    [37, 42]
-    region:   c_64
+    region:   c_68
 
   17244230:
     template: Sabotender
@@ -630,7 +630,7 @@ spawns:
   17244286:
     template: Flesh_Eater
     level:    [37, 42]
-    region:   n_121
+    region:   n_126
 
   17244287:
     template: Sabotender
@@ -710,12 +710,12 @@ spawns:
   17244302:
     template: Flesh_Eater
     level:    [37, 42]
-    region:   c_138
+    region:   c_142
 
   17244303:
     template: Flesh_Eater
     level:    [37, 42]
-    region:   c_138
+    region:   c_143
 
   17244304:
     template: Sabotender
@@ -755,7 +755,7 @@ spawns:
   17244311:
     template: Flesh_Eater
     level:    [37, 42]
-    region:   c_146
+    region:   c_151
 
   17244312:
     template: Sabotender
@@ -885,7 +885,7 @@ spawns:
   17244337:
     template: Flesh_Eater
     level:    [37, 42]
-    region:   c_173
+    region:   s_177
 
   17244338:
     template: Lost_Soul
@@ -930,7 +930,7 @@ spawns:
   17244346:
     template: Flesh_Eater
     level:    [37, 42]
-    region:   s_181
+    region:   s_186
 
   17244347:
     template: Lost_Soul
@@ -1020,7 +1020,7 @@ spawns:
   17244364:
     template: Flesh_Eater
     level:    [37, 42]
-    region:   s_198
+    region:   s_204
 
   17244365:
     template: Lost_Soul
@@ -1200,17 +1200,17 @@ spawns:
   17244400:
     template: Flesh_Eater
     level:    [37, 42]
-    region:   w_235
+    region:   w_240
 
   17244401:
     template: Flesh_Eater
     level:    [37, 42]
-    region:   w_235
+    region:   w_241
 
   17244402:
     template: Lost_Soul
     level:    [44, 48]
-    region:   w_235
+    region:   c_242
 
   17244403:
     template: Lost_Soul
@@ -1325,12 +1325,12 @@ spawns:
   17244425:
     template: Flesh_Eater
     level:    [37, 42]
-    region:   nw_260
+    region:   n_265
 
   17244426:
     template: Flesh_Eater
     level:    [37, 42]
-    region:   nw_260
+    region:   nw_266
 
   17244427:
     template: Diatryma
@@ -1365,12 +1365,12 @@ spawns:
   17244433:
     template: Flesh_Eater
     level:    [37, 42]
-    region:   nw_268
+    region:   nw_273
 
   17244434:
     template: Flesh_Eater
     level:    [37, 42]
-    region:   nw_268
+    region:   nw_273
 
   17244435:
     template: Diatryma
@@ -1405,7 +1405,7 @@ spawns:
   17244441:
     template: Flesh_Eater
     level:    [37, 42]
-    region:   w_276
+    region:   nw_281
 
   17244442:
     template: Sabotender
@@ -1590,7 +1590,7 @@ spawns:
   17244478:
     template: Lesser_Manticore
     level:    [47, 49]
-    region:   w_312
+    region:   w_318
 
   17244479:
     template: Lesser_Manticore
@@ -1790,7 +1790,7 @@ spawns:
   17244518:
     template: Doom_Scorpion
     level:    [44, 47]
-    region:   n_358
+    region:   n_357
 
   17244519:
     template: Flesh_Eater
@@ -1809,8 +1809,8 @@ spawns:
 
   17244522:
     template: Goblin_Digger
+    at:       [-211.184, 7.776, -136.339, 127]
     level:    [45, 49]
-    region:   w_362
 
   17244523:
     template: Decurio_I-III

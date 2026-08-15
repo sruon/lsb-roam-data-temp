@@ -120,7 +120,7 @@ spawns:
   17387544:
     template: Davoi_Hornet
     level:    [20, 23]
-    region:   e_24
+    region:   ne_24
 
   17387545:
     template: Orcish_Fighter
@@ -1230,32 +1230,32 @@ spawns:
   17387766:
     template: Orcish_Veteran
     level:    [52, 56]
-    region:   s_246
+    region:   c_246
 
   17387767:
     template: Orcish_Predator
     level:    [54, 57]
-    region:   s_246
+    region:   c_246
 
   17387768:
     template: Orcish_Zerker
     level:    [54, 58]
-    region:   s_246
+    region:   c_246
 
   17387769:
     template: Orcish_Warchief
     level:    [55, 59]
-    region:   s_246
+    region:   c_246
 
   17387770:
     template: Orcish_Veteran
     level:    [52, 56]
-    region:   s_246
+    region:   c_246
 
   17387771:
     template: Orcish_Predator
     level:    [54, 57]
-    region:   s_246
+    region:   c_246
 
   17387772:
     template: Orcish_Zerker
@@ -1270,12 +1270,12 @@ spawns:
   17387774:
     template: Geezard
     level:    [35, 37]
-    region:   s_246
+    region:   c_246
 
   17387775:
     template: Geezard
     level:    [34, 37]
-    region:   s_246
+    region:   c_246
 
   17387776:
     template: Thunder_Elemental
@@ -1814,13 +1814,13 @@ spawns:
 
   17387883:
     template: Morbol
-    at:       [187.780, 1.271, -373.121, 190]
     level:    [37, 39]
+    region:   se_363
 
   17387884:
     template: Davoi_Mush
-    at:       [189.698, 1.145, -371.004, 127]
     level:    [34, 35]
+    region:   se_363
 
   17387885:
     template: Morbol
@@ -2060,17 +2060,17 @@ spawns:
   17387932:
     template: Orcish_Farkiller
     level:    [62, 66]
-    region:   c_412
+    region:   c_411
 
   17387933:
     template: Orcish_Dreadnought
     level:    [63, 67]
-    region:   c_412
+    region:   c_411
 
   17387934:
     template: Orcish_Champion
-    at:       [34.000, -2.000, -129.000, 7]
     level:    [64, 68]
+    region:   c_414
 
   17387935:
     template: Orcish_Farkiller
@@ -2084,23 +2084,23 @@ spawns:
 
   17387937:
     template: Orcish_Dreadnought
-    at:       [41.115, -4.021, -122.144, 127]
     level:    [63, 67]
+    region:   c_415
 
   17387938:
     template: Orcish_Dreadnought
-    at:       [70.000, -8.477, -144.000, 35]
     level:    [63, 67]
+    region:   c_418
 
   17387939:
     template: Orcish_Dragoon
-    at:       [70.953, -8.617, -157.231, 100]
     level:    [65, 69]
+    region:   c_418
 
   17387940:
     template: Orcish_Dragoon
-    at:       [49.000, -9.000, -164.000, 127]
     level:    [65, 69]
+    region:   c_418
 
   17387941:
     template: Orcish_Dragoon
@@ -2109,18 +2109,18 @@ spawns:
 
   17387942:
     template: Orcish_Champion
-    at:       [55.000, -9.904, -143.844, 111]
     level:    [64, 68]
+    region:   c_422
 
   17387943:
     template: Orcish_Warchief
-    at:       [48.000, -9.000, -143.000, 127]
     level:    [55, 59]
+    region:   c_422
 
   17387944:
     template: Orcish_Warchief
-    at:       [58.000, -9.000, -140.000, 35]
     level:    [55, 59]
+    region:   c_422
 
   17387945:
     template: Dirtyhanded_Gochakzuk
