@@ -1,0 +1,3053 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17211393:
+    template: Stone_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [2, 4]
+
+  17211394:
+    template: Sand_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [3, 4]
+
+  17211395:
+    template: Land_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [5, 6]
+
+  17211396:
+    template: Pug_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [7, 8]
+
+  17211397:
+    template: Fighting_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [9, 10]
+
+  17211398:
+    template: Huge_Hornet
+    level:    [1, 1]
+    region:   north_gustaberg_e_8
+
+  17211399:
+    template: Huge_Hornet
+    level:    [1, 1]
+    region:   north_gustaberg_e_8
+
+  17211400:
+    template: Huge_Hornet
+    level:    [1, 1]
+    region:   north_gustaberg_e_8
+
+  17211401:
+    template: Huge_Hornet
+    level:    [1, 1]
+    region:   north_gustaberg_e_8
+
+  17211402:
+    template: Huge_Hornet
+    level:    [1, 1]
+    region:   north_gustaberg_e_8
+
+  17211403:
+    template: Huge_Hornet
+    level:    [1, 1]
+    region:   north_gustaberg_e_8
+
+  17211404:
+    template: Huge_Hornet
+    level:    [1, 1]
+    region:   north_gustaberg_e_8
+
+  17211405:
+    template: Huge_Hornet
+    level:    [1, 1]
+    region:   north_gustaberg_e_8
+
+  17211406:
+    template: Tunnel_Worm
+    level:    [1, 1]
+    region:   north_gustaberg_e_8
+
+  17211407:
+    template: Tunnel_Worm
+    level:    [1, 1]
+    region:   north_gustaberg_e_8
+
+  17211408:
+    template: Tunnel_Worm
+    level:    [1, 1]
+    region:   north_gustaberg_e_8
+
+  17211409:
+    template: Tunnel_Worm
+    level:    [1, 1]
+    region:   north_gustaberg_e_8
+
+  17211410:
+    template: Ding_Bats
+    at:       [676.608, -0.637, 437.112, 87]
+    level:    [1, 1]
+
+  17211411:
+    template: Ding_Bats
+    at:       [730.553, -2.621, 457.043, 25]
+    level:    [1, 1]
+
+  17211412:
+    template: Ding_Bats
+    level:    [1, 1]
+    region:   north_gustaberg_e_8
+
+  17211413:
+    template: Ding_Bats
+    level:    [1, 1]
+    region:   north_gustaberg_e_8
+
+  17211414:
+    template: Huge_Hornet
+    level:    [1, 1]
+    region:   north_gustaberg_e_7
+
+  17211415:
+    template: Huge_Hornet
+    level:    [1, 1]
+    region:   north_gustaberg_e_7
+
+  17211416:
+    template: Huge_Hornet
+    level:    [1, 1]
+    region:   north_gustaberg_e_7
+
+  17211417:
+    template: Huge_Hornet
+    level:    [1, 1]
+    region:   north_gustaberg_e_7
+
+  17211418:
+    template: Huge_Hornet
+    level:    [1, 1]
+    region:   north_gustaberg_e_7
+
+  17211419:
+    template: Huge_Hornet
+    level:    [1, 1]
+    region:   north_gustaberg_e_7
+
+  17211420:
+    template: Huge_Hornet
+    level:    [1, 1]
+    region:   north_gustaberg_e_7
+
+  17211421:
+    template: Huge_Hornet
+    level:    [1, 1]
+    region:   north_gustaberg_e_7
+
+  17211422:
+    template: Tunnel_Worm
+    level:    [1, 1]
+    region:   north_gustaberg_e_7
+
+  17211423:
+    template: Tunnel_Worm
+    level:    [1, 1]
+    region:   north_gustaberg_e_7
+
+  17211424:
+    template: Tunnel_Worm
+    level:    [1, 1]
+    region:   north_gustaberg_e_7
+
+  17211425:
+    template: Tunnel_Worm
+    level:    [1, 1]
+    region:   north_gustaberg_e_7
+
+  17211426:
+    template: Ding_Bats
+    at:       [580.802, -0.868, 439.269, 113]
+    level:    [1, 1]
+
+  17211427:
+    template: Ding_Bats
+    at:       [541.974, 0.338, 378.054, 51]
+    level:    [1, 1]
+
+  17211428:
+    template: Ding_Bats
+    level:    [1, 1]
+    region:   north_gustaberg_e_7
+
+  17211429:
+    template: Ding_Bats
+    level:    [1, 1]
+    region:   north_gustaberg_e_7
+
+  17211430:
+    template: Huge_Hornet
+    level:    [1, 1]
+    region:   north_gustaberg_e_3
+
+  17211431:
+    template: Huge_Hornet
+    level:    [1, 1]
+    region:   north_gustaberg_e_3
+
+  17211432:
+    template: Huge_Hornet
+    level:    [1, 1]
+    region:   north_gustaberg_e_3
+
+  17211433:
+    template: Huge_Hornet
+    level:    [1, 1]
+    region:   north_gustaberg_e_3
+
+  17211434:
+    template: Huge_Hornet
+    level:    [1, 1]
+    region:   north_gustaberg_e_3
+
+  17211435:
+    template: Huge_Hornet
+    level:    [1, 1]
+    region:   north_gustaberg_e_3
+
+  17211436:
+    template: Huge_Hornet
+    level:    [1, 1]
+    region:   north_gustaberg_e_3
+
+  17211437:
+    template: Huge_Hornet
+    level:    [1, 1]
+    region:   north_gustaberg_e_3
+
+  17211438:
+    template: Huge_Hornet
+    level:    [1, 1]
+    region:   north_gustaberg_e_3
+
+  17211439:
+    template: Huge_Hornet
+    level:    [1, 1]
+    region:   north_gustaberg_e_3
+
+  17211440:
+    template: Tunnel_Worm
+    level:    [1, 1]
+    region:   north_gustaberg_e_3
+
+  17211441:
+    template: Tunnel_Worm
+    level:    [1, 1]
+    region:   north_gustaberg_e_3
+
+  17211442:
+    template: Tunnel_Worm
+    level:    [1, 1]
+    region:   north_gustaberg_e_3
+
+  17211443:
+    template: Tunnel_Worm
+    level:    [1, 1]
+    region:   north_gustaberg_e_3
+
+  17211444:
+    template: Tunnel_Worm
+    level:    [1, 1]
+    region:   north_gustaberg_e_3
+
+  17211445:
+    template: Ding_Bats
+    at:       [323.233, -0.721, 293.771, 96]
+    level:    [1, 1]
+
+  17211446:
+    template: Ding_Bats
+    at:       [348.555, 2.170, 258.482, 95]
+    level:    [1, 1]
+
+  17211447:
+    template: Ding_Bats
+    at:       [396.369, -0.696, 223.970, 127]
+    level:    [1, 1]
+
+  17211448:
+    template: Ding_Bats
+    level:    [1, 1]
+    region:   north_gustaberg_e_3
+
+  17211449:
+    template: Ding_Bats
+    level:    [1, 1]
+    region:   north_gustaberg_e_3
+
+  17211450:
+    template: Maneating_Hornet
+    level:    [3, 4]
+    region:   north_gustaberg_e_4
+
+  17211451:
+    template: Maneating_Hornet
+    level:    [3, 4]
+    region:   north_gustaberg_e_4
+
+  17211452:
+    template: Maneating_Hornet
+    level:    [3, 4]
+    region:   north_gustaberg_e_4
+
+  17211453:
+    template: Stone_Eater
+    level:    [3, 4]
+    region:   north_gustaberg_e_4
+
+  17211454:
+    template: Stone_Eater
+    level:    [3, 4]
+    region:   north_gustaberg_e_4
+
+  17211455:
+    template: Stone_Eater
+    level:    [3, 4]
+    region:   north_gustaberg_e_4
+
+  17211456:
+    template: Ornery_Sheep
+    level:    [5, 6]
+    region:   north_gustaberg_e_4
+
+  17211457:
+    template: Ornery_Sheep
+    level:    [5, 6]
+    region:   north_gustaberg_e_4
+
+  17211458:
+    template: Goblin_Thug
+    level:    [4, 5]
+    region:   north_gustaberg_e_4
+
+  17211459:
+    template: Goblin_Thug
+    level:    [4, 5]
+    region:   north_gustaberg_e_4
+
+  17211460:
+    template: Ding_Bats
+    at:       [359.737, -20.508, 645.112, 126]
+    level:    [2, 3]
+
+  17211461:
+    template: Ding_Bats
+    at:       [397.966, -20.496, 633.527, 127]
+    level:    [2, 3]
+
+  17211462:
+    template: Ding_Bats
+    level:    [2, 3]
+    region:   north_gustaberg_e_4
+
+  17211463:
+    template: Fledermaus
+    level:    [3, 4]
+    region:   north_gustaberg_e_4
+
+  17211464:
+    template: Black_Wolf
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [5, 6]
+
+  17211465:
+    template: Maneating_Hornet
+    level:    [3, 4]
+    region:   north_gustaberg_c_13
+
+  17211466:
+    template: Maneating_Hornet
+    level:    [3, 4]
+    region:   north_gustaberg_c_13
+
+  17211467:
+    template: Maneating_Hornet
+    level:    [3, 4]
+    region:   north_gustaberg_c_13
+
+  17211468:
+    template: Maneating_Hornet
+    level:    [3, 4]
+    region:   north_gustaberg_c_13
+
+  17211469:
+    template: Stone_Eater
+    level:    [3, 4]
+    region:   north_gustaberg_c_13
+
+  17211470:
+    template: Stone_Eater
+    level:    [3, 4]
+    region:   north_gustaberg_c_13
+
+  17211471:
+    template: Stone_Eater
+    level:    [3, 4]
+    region:   north_gustaberg_c_13
+
+  17211472:
+    template: Ornery_Sheep
+    level:    [5, 6]
+    region:   north_gustaberg_c_13
+
+  17211473:
+    template: Ornery_Sheep
+    level:    [5, 6]
+    region:   north_gustaberg_c_13
+
+  17211474:
+    template: Goblin_Thug
+    level:    [4, 5]
+    region:   north_gustaberg_c_13
+
+  17211475:
+    template: Goblin_Weaver
+    level:    [4, 5]
+    region:   north_gustaberg_c_13
+
+  17211476:
+    template: Ding_Bats
+    at:       [211.411, -20.519, 681.456, 127]
+    level:    [2, 3]
+
+  17211477:
+    template: Ding_Bats
+    level:    [2, 3]
+    region:   north_gustaberg_c_13
+
+  17211478:
+    template: Fledermaus
+    at:       [276.456, -20.757, 712.285, 127]
+    level:    [3, 4]
+
+  17211479:
+    template: Fledermaus
+    level:    [3, 4]
+    region:   north_gustaberg_c_13
+
+  17211480:
+    template: Black_Wolf
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [5, 6]
+
+  17211481:
+    template: Maneating_Hornet
+    level:    [3, 4]
+    region:   north_gustaberg_c_9
+
+  17211482:
+    template: Maneating_Hornet
+    level:    [3, 4]
+    region:   north_gustaberg_c_9
+
+  17211483:
+    template: Maneating_Hornet
+    level:    [3, 4]
+    region:   north_gustaberg_c_9
+
+  17211484:
+    template: Maneating_Hornet
+    level:    [3, 4]
+    region:   north_gustaberg_c_9
+
+  17211485:
+    template: Stone_Eater
+    level:    [3, 4]
+    region:   north_gustaberg_c_9
+
+  17211486:
+    template: Stone_Eater
+    level:    [3, 4]
+    region:   north_gustaberg_c_9
+
+  17211487:
+    template: Stone_Eater
+    level:    [3, 4]
+    region:   north_gustaberg_c_9
+
+  17211488:
+    template: Ornery_Sheep
+    level:    [5, 6]
+    region:   north_gustaberg_c_9
+
+  17211489:
+    template: Ornery_Sheep
+    level:    [5, 6]
+    region:   north_gustaberg_c_9
+
+  17211490:
+    template: Goblin_Thug
+    level:    [4, 5]
+    region:   north_gustaberg_c_9
+
+  17211491:
+    template: Goblin_Thug
+    level:    [4, 5]
+    region:   north_gustaberg_c_9
+
+  17211492:
+    template: Ding_Bats
+    at:       [162.251, -20.423, 575.700, 127]
+    level:    [2, 3]
+
+  17211493:
+    template: Ding_Bats
+    at:       [118.505, -20.402, 448.993, 91]
+    level:    [2, 3]
+
+  17211494:
+    template: Ding_Bats
+    level:    [2, 3]
+    region:   north_gustaberg_c_9
+
+  17211495:
+    template: Fledermaus
+    level:    [3, 4]
+    region:   north_gustaberg_c_9
+
+  17211496:
+    template: Black_Wolf
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [5, 6]
+
+  17211497:
+    template: Maneating_Hornet
+    level:    [3, 4]
+    region:   north_gustaberg_c_10
+
+  17211498:
+    template: Maneating_Hornet
+    level:    [3, 4]
+    region:   north_gustaberg_c_10
+
+  17211499:
+    template: Maneating_Hornet
+    level:    [3, 4]
+    region:   north_gustaberg_c_10
+
+  17211500:
+    template: Stone_Eater
+    level:    [3, 4]
+    region:   north_gustaberg_c_10
+
+  17211501:
+    template: Stone_Eater
+    level:    [3, 4]
+    region:   north_gustaberg_c_10
+
+  17211502:
+    template: Stone_Eater
+    level:    [3, 4]
+    region:   north_gustaberg_c_10
+
+  17211503:
+    template: Ornery_Sheep
+    level:    [5, 6]
+    region:   north_gustaberg_c_10
+
+  17211504:
+    template: Ornery_Sheep
+    level:    [5, 6]
+    region:   north_gustaberg_c_10
+
+  17211505:
+    template: Goblin_Thug
+    level:    [4, 5]
+    region:   north_gustaberg_c_10
+
+  17211506:
+    template: Goblin_Weaver
+    level:    [4, 5]
+    region:   north_gustaberg_c_10
+
+  17211507:
+    template: Ding_Bats
+    at:       [248.730, -19.929, 352.612, 127]
+    level:    [2, 3]
+
+  17211508:
+    template: Ding_Bats
+    level:    [2, 3]
+    region:   north_gustaberg_c_10
+
+  17211509:
+    template: Fledermaus
+    at:       [196.863, -20.496, 376.963, 127]
+    level:    [3, 4]
+
+  17211510:
+    template: Fledermaus
+    level:    [3, 4]
+    region:   north_gustaberg_c_10
+
+  17211511:
+    template: Black_Wolf
+    at:       [251.134, -20.099, 347.499, 182]
+    level:    [5, 6]
+
+  17211512:
+    template: Maneating_Hornet
+    level:    [3, 4]
+    region:   north_gustaberg_e_5
+
+  17211513:
+    template: Maneating_Hornet
+    level:    [3, 4]
+    region:   north_gustaberg_e_5
+
+  17211514:
+    template: Stone_Eater
+    level:    [3, 4]
+    region:   north_gustaberg_e_5
+
+  17211515:
+    template: Stone_Eater
+    level:    [3, 4]
+    region:   north_gustaberg_e_5
+
+  17211516:
+    template: Ornery_Sheep
+    level:    [5, 6]
+    region:   north_gustaberg_e_5
+
+  17211517:
+    template: Ornery_Sheep
+    level:    [5, 6]
+    region:   north_gustaberg_e_5
+
+  17211518:
+    template: Goblin_Thug
+    level:    [4, 5]
+    region:   north_gustaberg_e_5
+
+  17211519:
+    template: Ding_Bats
+    at:       [403.638, -20.017, 423.385, 110]
+    level:    [2, 3]
+
+  17211520:
+    template: Fledermaus
+    level:    [3, 4]
+    region:   north_gustaberg_e_5
+
+  17211521:
+    template: Black_Wolf
+    at:       [391.087, -20.643, 418.648, 97]
+    level:    [5, 6]
+
+  17211522:
+    template: Maneating_Hornet
+    level:    [3, 4]
+    region:   north_gustaberg_e
+
+  17211523:
+    template: Maneating_Hornet
+    level:    [3, 4]
+    region:   north_gustaberg_e
+
+  17211524:
+    template: Stone_Eater
+    level:    [3, 4]
+    region:   north_gustaberg_e
+
+  17211525:
+    template: Ornery_Sheep
+    level:    [5, 6]
+    region:   north_gustaberg_e
+
+  17211526:
+    template: Ornery_Sheep
+    level:    [5, 6]
+    region:   north_gustaberg_e
+
+  17211527:
+    template: Goblin_Weaver
+    level:    [4, 5]
+    region:   north_gustaberg_e
+
+  17211528:
+    template: Ding_Bats
+    level:    [2, 3]
+    region:   north_gustaberg_e
+
+  17211529:
+    template: Fledermaus
+    at:       [262.618, -21.077, 353.507, 42]
+    level:    [3, 4]
+
+  17211530:
+    template: Black_Wolf
+    at:       [295.680, -20.470, 364.715, 38]
+    level:    [5, 6]
+
+  17211531:
+    template: Maneating_Hornet
+    level:    [4, 5]
+    region:   north_gustaberg_c_11
+
+  17211532:
+    template: Maneating_Hornet
+    level:    [4, 5]
+    region:   north_gustaberg_c_11
+
+  17211533:
+    template: Maneating_Hornet
+    at:       [216.150, -41.182, 445.157, 127]
+    level:    [4, 5]
+
+  17211534:
+    template: Maneating_Hornet
+    level:    [4, 5]
+    region:   north_gustaberg_c_11
+
+  17211535:
+    template: Maneating_Hornet
+    level:    [4, 5]
+    region:   north_gustaberg_c_11
+
+  17211536:
+    template: Maneating_Hornet
+    level:    [4, 5]
+    region:   north_gustaberg_c_11
+
+  17211537:
+    template: Stinging_Sophie
+    at:       [234.104, -40.332, 462.288, 127]
+    level:    [9, 10]
+
+  17211538:
+    template: Stone_Eater
+    level:    [4, 5]
+    region:   north_gustaberg_c_11
+
+  17211539:
+    template: Stone_Eater
+    level:    [4, 5]
+    region:   north_gustaberg_e_2
+
+  17211540:
+    template: Stone_Eater
+    level:    [4, 5]
+    region:   north_gustaberg_c_11
+
+  17211541:
+    template: Ornery_Sheep
+    level:    [7, 8]
+    region:   north_gustaberg_c_11
+
+  17211542:
+    template: Ornery_Sheep
+    level:    [7, 8]
+    region:   north_gustaberg_c_11
+
+  17211543:
+    template: Ornery_Sheep
+    level:    [7, 8]
+    region:   north_gustaberg_c_11
+
+  17211544:
+    template: Ornery_Sheep
+    level:    [7, 8]
+    region:   north_gustaberg_c_11
+
+  17211545:
+    template: Goblin_Thug
+    level:    [5, 6]
+    region:   north_gustaberg_c_11
+
+  17211546:
+    template: Goblin_Thug
+    level:    [5, 6]
+    region:   north_gustaberg_c_11
+
+  17211547:
+    template: Goblin_Weaver
+    level:    [5, 6]
+    region:   north_gustaberg_c_11
+
+  17211548:
+    template: Ding_Bats
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [3, 4]
+
+  17211549:
+    template: Ding_Bats
+    at:       [239.271, -40.592, 454.496, 22]
+    level:    [3, 4]
+
+  17211550:
+    template: Ding_Bats
+    level:    [3, 4]
+    region:   north_gustaberg_c_11
+
+  17211551:
+    template: Fledermaus
+    at:       [294.288, -40.193, 430.849, 86]
+    level:    [4, 5]
+
+  17211552:
+    template: Fledermaus
+    level:    [4, 5]
+    region:   north_gustaberg_c_11
+
+  17211553:
+    template: Black_Wolf
+    at:       [212.715, -41.427, 446.869, 127]
+    level:    [7, 8]
+
+  17211554:
+    template: Enchanted_Bones
+    at:       [181.012, -40.808, 526.818, 127]
+    level:    [5, 8]
+
+  17211555:
+    template: Enchanted_Bones
+    at:       [249.912, -40.183, 457.021, 113]
+    level:    [5, 8]
+
+  17211556:
+    template: Maneating_Hornet
+    level:    [4, 5]
+    region:   north_gustaberg_c_12
+
+  17211557:
+    template: Maneating_Hornet
+    level:    [4, 5]
+    region:   north_gustaberg_c_12
+
+  17211558:
+    template: Maneating_Hornet
+    level:    [4, 5]
+    region:   north_gustaberg_c_12
+
+  17211559:
+    template: Maneating_Hornet
+    level:    [4, 5]
+    region:   north_gustaberg_c_12
+
+  17211560:
+    template: Maneating_Hornet
+    level:    [4, 5]
+    region:   north_gustaberg_c_12
+
+  17211561:
+    template: Stinging_Sophie
+    at:       [340.381, -40.473, 601.786, 127]
+    level:    [9, 10]
+
+  17211562:
+    template: Stone_Eater
+    level:    [4, 5]
+    region:   north_gustaberg_c_12
+
+  17211563:
+    template: Stone_Eater
+    level:    [4, 5]
+    region:   north_gustaberg_c_12
+
+  17211564:
+    template: Stone_Eater
+    level:    [4, 5]
+    region:   north_gustaberg_c_12
+
+  17211565:
+    template: Ornery_Sheep
+    level:    [7, 8]
+    region:   north_gustaberg_c_12
+
+  17211566:
+    template: Ornery_Sheep
+    level:    [7, 8]
+    region:   north_gustaberg_c_12
+
+  17211567:
+    template: Ornery_Sheep
+    level:    [7, 8]
+    region:   north_gustaberg_c_12
+
+  17211568:
+    template: Ornery_Sheep
+    level:    [7, 8]
+    region:   north_gustaberg_c_12
+
+  17211569:
+    template: Goblin_Thug
+    level:    [5, 6]
+    region:   north_gustaberg_c_12
+
+  17211570:
+    template: Goblin_Thug
+    level:    [5, 6]
+    region:   north_gustaberg_c_12
+
+  17211571:
+    template: Goblin_Weaver
+    level:    [5, 6]
+    region:   north_gustaberg_c_12
+
+  17211572:
+    template: Ding_Bats
+    at:       [250.113, -40.375, 592.222, 127]
+    level:    [3, 4]
+
+  17211573:
+    template: Ding_Bats
+    at:       [302.809, -41.405, 606.049, 127]
+    level:    [3, 4]
+
+  17211574:
+    template: Ding_Bats
+    level:    [3, 4]
+    region:   north_gustaberg_c_12
+
+  17211575:
+    template: Fledermaus
+    level:    [4, 5]
+    region:   north_gustaberg_c_12
+
+  17211576:
+    template: Black_Wolf
+    at:       [324.353, -40.596, 615.870, 127]
+    level:    [7, 8]
+
+  17211577:
+    template: Enchanted_Bones
+    at:       [288.459, -41.108, 603.843, 127]
+    level:    [5, 8]
+
+  17211578:
+    template: Enchanted_Bones
+    at:       [200.711, -40.413, 535.023, 11]
+    level:    [5, 8]
+
+  17211579:
+    template: Maneating_Hornet
+    level:    [5, 6]
+    region:   north_gustaberg_c_14
+
+  17211580:
+    template: Maneating_Hornet
+    level:    [5, 6]
+    region:   north_gustaberg_c_14
+
+  17211581:
+    template: Maneating_Hornet
+    level:    [5, 6]
+    region:   north_gustaberg_c_14
+
+  17211582:
+    template: Maneating_Hornet
+    level:    [5, 6]
+    region:   north_gustaberg_c_14
+
+  17211583:
+    template: Maneating_Hornet
+    level:    [5, 6]
+    region:   north_gustaberg_c_14
+
+  17211584:
+    template: Goblin_Thug
+    level:    [6, 7]
+    region:   north_gustaberg_c_14
+
+  17211585:
+    template: Goblin_Thug
+    level:    [6, 7]
+    region:   north_gustaberg_c_14
+
+  17211586:
+    template: Goblin_Weaver
+    level:    [6, 7]
+    region:   north_gustaberg_c_14
+
+  17211587:
+    template: Ding_Bats
+    at:       [327.337, -60.788, 530.183, 91]
+    level:    [4, 5]
+
+  17211588:
+    template: Ding_Bats
+    level:    [4, 5]
+    region:   north_gustaberg_c_14
+
+  17211589:
+    template: Fledermaus
+    at:       [304.646, -61.022, 547.930, 127]
+    level:    [5, 6]
+
+  17211590:
+    template: Fledermaus
+    level:    [5, 6]
+    region:   north_gustaberg_c_14
+
+  17211591:
+    template: Enchanted_Bones
+    at:       [318.531, -60.104, 545.945, 127]
+    level:    [5, 8]
+
+  17211592:
+    template: Enchanted_Bones
+    at:       [278.751, -60.549, 545.385, 127]
+    level:    [5, 8]
+
+  17211593:
+    template: Enchanted_Bones
+    at:       [262.853, -60.219, 509.673, 89]
+    level:    [5, 8]
+
+  17211594:
+    template: River_Crab
+    level:    [2, 3]
+    region:   north_gustaberg_se
+
+  17211595:
+    template: River_Crab
+    level:    [2, 3]
+    region:   north_gustaberg_se
+
+  17211596:
+    template: River_Crab
+    level:    [2, 3]
+    region:   north_gustaberg_se
+
+  17211597:
+    template: River_Crab
+    level:    [2, 3]
+    region:   north_gustaberg_se
+
+  17211598:
+    template: Stone_Eater
+    level:    [2, 3]
+    region:   north_gustaberg_s_4
+
+  17211599:
+    template: Stone_Eater
+    level:    [2, 3]
+    region:   north_gustaberg_s_4
+
+  17211600:
+    template: Stone_Eater
+    level:    [2, 3]
+    region:   north_gustaberg_s_4
+
+  17211601:
+    template: Stone_Eater
+    level:    [2, 3]
+    region:   north_gustaberg_s_4
+
+  17211602:
+    template: Stone_Eater
+    level:    [2, 3]
+    region:   north_gustaberg_s_4
+
+  17211603:
+    template: Rock_Lizard
+    level:    [4, 5]
+    region:   north_gustaberg_s_4
+
+  17211604:
+    template: Walking_Sapling
+    level:    [3, 4]
+    region:   north_gustaberg_s_4
+
+  17211605:
+    template: Vulture
+    level:    [3, 4]
+    region:   north_gustaberg_s_4
+
+  17211606:
+    template: Vulture
+    level:    [3, 4]
+    region:   north_gustaberg_s_4
+
+  17211607:
+    template: Vulture
+    level:    [3, 4]
+    region:   north_gustaberg_s_4
+
+  17211608:
+    template: Young_Quadav
+    at:       [255.370, 2.261, 262.118, 127]
+    level:    [3, 4]
+
+  17211609:
+    template: Young_Quadav
+    level:    [3, 4]
+    region:   north_gustaberg_s_4
+
+  17211610:
+    template: Amber_Quadav
+    level:    [3, 4]
+    region:   north_gustaberg_s_4
+
+  17211611:
+    template: Young_Quadav
+    at:       [176.000, 1.000, 259.000, 127]
+    level:    [3, 4]
+
+  17211612:
+    template: Young_Quadav
+    at:       [185.000, 2.000, 254.000, 127]
+    level:    [3, 4]
+
+  17211613:
+    template: Amber_Quadav
+    at:       [178.586, 1.468, 256.145, 49]
+    level:    [3, 4]
+
+  17211614:
+    template: Stone_Eater
+    level:    [2, 3]
+    region:   north_gustaberg_s_2
+
+  17211615:
+    template: Stone_Eater
+    level:    [2, 3]
+    region:   north_gustaberg_s_2
+
+  17211616:
+    template: Stone_Eater
+    level:    [2, 3]
+    region:   north_gustaberg_s_2
+
+  17211617:
+    template: Stone_Eater
+    level:    [2, 3]
+    region:   north_gustaberg_s_2
+
+  17211618:
+    template: Stone_Eater
+    level:    [2, 3]
+    region:   north_gustaberg_s_2
+
+  17211619:
+    template: Stone_Eater
+    level:    [2, 3]
+    region:   north_gustaberg_s_2
+
+  17211620:
+    template: Rock_Lizard
+    level:    [4, 5]
+    region:   north_gustaberg_s_2
+
+  17211621:
+    template: Rock_Lizard
+    level:    [4, 5]
+    region:   north_gustaberg_s_2
+
+  17211622:
+    template: Walking_Sapling
+    level:    [3, 4]
+    region:   north_gustaberg_s_2
+
+  17211623:
+    template: Walking_Sapling
+    level:    [3, 4]
+    region:   north_gustaberg_s_2
+
+  17211624:
+    template: Vulture
+    level:    [3, 4]
+    region:   north_gustaberg_s_2
+
+  17211625:
+    template: Vulture
+    level:    [3, 4]
+    region:   north_gustaberg_s_2
+
+  17211626:
+    template: Vulture
+    level:    [3, 4]
+    region:   north_gustaberg_s_2
+
+  17211627:
+    template: Young_Quadav
+    level:    [3, 4]
+    region:   north_gustaberg_s_2
+
+  17211628:
+    template: Young_Quadav
+    level:    [3, 4]
+    region:   north_gustaberg_s_2
+
+  17211629:
+    template: Stone_Eater
+    level:    [2, 3]
+    region:   north_gustaberg_c_6
+
+  17211630:
+    template: Stone_Eater
+    level:    [2, 3]
+    region:   north_gustaberg_c_6
+
+  17211631:
+    template: Walking_Sapling
+    level:    [3, 4]
+    region:   north_gustaberg_c_6
+
+  17211632:
+    template: Vulture
+    level:    [3, 4]
+    region:   north_gustaberg_c_6
+
+  17211633:
+    template: Young_Quadav
+    level:    [3, 4]
+    region:   north_gustaberg_c_6
+
+  17211634:
+    template: Amethyst_Quadav
+    at:       [-49.000, -0.010, 479.000, 127]
+    level:    [3, 4]
+
+  17211635:
+    template: Amber_Quadav
+    level:    [3, 4]
+    region:   north_gustaberg_c_6
+
+  17211636:
+    template: Shrapnel
+    level:    [8, 10]
+    region:   north_gustaberg_c_7
+
+  17211637:
+    template: Young_Quadav
+    at:       [59.000, -0.010, 427.000, 83]
+    level:    [3, 4]
+
+  17211638:
+    template: Young_Quadav
+    at:       [-83.000, -0.010, 399.000, 80]
+    level:    [3, 4]
+
+  17211639:
+    template: Amber_Quadav
+    at:       [57.553, -0.465, 420.584, 125]
+    level:    [3, 4]
+
+  17211640:
+    template: Stone_Eater
+    level:    [2, 3]
+    region:   north_gustaberg_c_5
+
+  17211641:
+    template: Stone_Eater
+    level:    [2, 3]
+    region:   north_gustaberg_c_5
+
+  17211642:
+    template: Stone_Eater
+    level:    [2, 3]
+    region:   north_gustaberg_c_5
+
+  17211643:
+    template: Walking_Sapling
+    level:    [3, 4]
+    region:   north_gustaberg_c_5
+
+  17211644:
+    template: Vulture
+    level:    [3, 4]
+    region:   north_gustaberg_c_5
+
+  17211645:
+    template: Vulture
+    level:    [3, 4]
+    region:   north_gustaberg_c_5
+
+  17211646:
+    template: Young_Quadav
+    level:    [3, 4]
+    region:   north_gustaberg_c_5
+
+  17211647:
+    template: Amethyst_Quadav
+    at:       [-29.703, -1.834, 291.623, 59]
+    level:    [3, 4]
+
+  17211648:
+    template: Amber_Quadav
+    at:       [-124.225, -0.398, 293.719, 127]
+    level:    [3, 4]
+
+  17211649:
+    template: Shrapnel
+    at:       [-101.454, 2.560, 369.232, 127]
+    level:    [8, 8]
+
+  17211650:
+    template: Young_Quadav
+    at:       [-58.840, 1.551, 254.026, 76]
+    level:    [3, 4]
+
+  17211651:
+    template: Young_Quadav
+    at:       [-58.817, 1.514, 254.668, 76]
+    level:    [3, 4]
+
+  17211652:
+    template: Amethyst_Quadav
+    at:       [-63.361, 2.143, 256.942, 29]
+    level:    [3, 3]
+
+  17211653:
+    template: Stone_Eater
+    level:    [2, 3]
+    region:   north_gustaberg_s
+
+  17211654:
+    template: Stone_Eater
+    level:    [2, 3]
+    region:   north_gustaberg_s
+
+  17211655:
+    template: Stone_Eater
+    level:    [2, 3]
+    region:   north_gustaberg_s
+
+  17211656:
+    template: Stone_Eater
+    level:    [2, 3]
+    region:   north_gustaberg_s
+
+  17211657:
+    template: Stone_Eater
+    level:    [2, 3]
+    region:   north_gustaberg_s
+
+  17211658:
+    template: Rock_Lizard
+    level:    [4, 5]
+    region:   north_gustaberg_s
+
+  17211659:
+    template: Rock_Lizard
+    level:    [4, 5]
+    region:   north_gustaberg_s
+
+  17211660:
+    template: Walking_Sapling
+    level:    [3, 4]
+    region:   north_gustaberg_s
+
+  17211661:
+    template: Vulture
+    level:    [3, 4]
+    region:   north_gustaberg_s
+
+  17211662:
+    template: Vulture
+    level:    [3, 4]
+    region:   north_gustaberg_s
+
+  17211663:
+    template: Young_Quadav
+    level:    [3, 4]
+    region:   north_gustaberg_s
+
+  17211664:
+    template: Amethyst_Quadav
+    level:    [3, 4]
+    region:   north_gustaberg_s
+
+  17211665:
+    template: Amber_Quadav
+    level:    [3, 4]
+    region:   north_gustaberg_s
+
+  17211666:
+    template: Bedrock_Barry
+    level:    [11, 12]
+    region:   north_gustaberg_s
+
+  17211667:
+    template: Ornery_Sheep
+    at:       [-81.450, -20.693, 158.438, 44]
+    level:    [5, 6]
+
+  17211668:
+    template: Ornery_Sheep
+    at:       [-87.629, -20.981, 176.370, 103]
+    level:    [5, 6]
+
+  17211669:
+    template: Goblin_Thug
+    level:    [4, 5]
+    region:   north_gustaberg_s_3
+
+  17211670:
+    template: Goblin_Weaver
+    level:    [4, 5]
+    region:   north_gustaberg_s_3
+
+  17211671:
+    template: Maneating_Hornet
+    level:    [3, 4]
+    region:   north_gustaberg_c
+
+  17211672:
+    template: Maneating_Hornet
+    level:    [3, 4]
+    region:   north_gustaberg_c
+
+  17211673:
+    template: Maneating_Hornet
+    level:    [3, 4]
+    region:   north_gustaberg_c
+
+  17211674:
+    template: Stone_Eater
+    level:    [2, 3]
+    region:   north_gustaberg_c
+
+  17211675:
+    template: Stone_Eater
+    level:    [2, 3]
+    region:   north_gustaberg_c_2
+
+  17211676:
+    template: Stone_Eater
+    level:    [2, 3]
+    region:   north_gustaberg_c
+
+  17211677:
+    template: Walking_Sapling
+    level:    [3, 4]
+    region:   north_gustaberg_c
+
+  17211678:
+    template: Walking_Sapling
+    level:    [3, 4]
+    region:   north_gustaberg_c
+
+  17211679:
+    template: Shrapnel
+    at:       [-192.786, -0.674, 368.604, 127]
+    level:    [8, 10]
+
+  17211680:
+    template: River_Crab
+    level:    [4, 5]
+    region:   north_gustaberg_c_4
+
+  17211681:
+    template: River_Crab
+    level:    [4, 5]
+    region:   north_gustaberg_c_4
+
+  17211682:
+    template: River_Crab
+    level:    [4, 5]
+    region:   north_gustaberg_c_4
+
+  17211683:
+    template: River_Crab
+    level:    [4, 5]
+    region:   north_gustaberg_c_4
+
+  17211684:
+    template: Goblin_Fisher
+    level:    [4, 5]
+    region:   north_gustaberg_c_4
+
+  17211685:
+    template: Goblin_Fisher
+    level:    [4, 5]
+    region:   north_gustaberg_c_4
+
+  17211686:
+    template: Goblin_Fisher
+    level:    [4, 5]
+    region:   north_gustaberg_c_4
+
+  17211687:
+    template: Maneating_Hornet
+    level:    [4, 5]
+    region:   north_gustaberg_c_3
+
+  17211688:
+    template: Maneating_Hornet
+    level:    [4, 5]
+    region:   north_gustaberg_c_3
+
+  17211689:
+    template: Maneating_Hornet
+    level:    [4, 5]
+    region:   north_gustaberg_c_3
+
+  17211690:
+    template: Stone_Eater
+    level:    [4, 5]
+    region:   north_gustaberg_c_3
+
+  17211691:
+    template: Stone_Eater
+    level:    [4, 5]
+    region:   north_gustaberg_c_3
+
+  17211692:
+    template: Walking_Sapling
+    level:    [4, 5]
+    region:   north_gustaberg_c_3
+
+  17211693:
+    template: Walking_Sapling
+    level:    [4, 5]
+    region:   north_gustaberg_c_3
+
+  17211694:
+    template: Walking_Sapling
+    level:    [4, 5]
+    region:   north_gustaberg_c_3
+
+  17211695:
+    template: Young_Quadav
+    level:    [6, 7]
+    region:   north_gustaberg_c_3
+
+  17211696:
+    template: Young_Quadav
+    level:    [6, 7]
+    region:   north_gustaberg_c_3
+
+  17211697:
+    template: Walking_Sapling
+    level:    [4, 5]
+    region:   north_gustaberg_c_8
+
+  17211698:
+    template: Walking_Sapling
+    level:    [4, 5]
+    region:   north_gustaberg_c_8
+
+  17211699:
+    template: Walking_Sapling
+    level:    [4, 5]
+    region:   north_gustaberg_c_8
+
+  17211700:
+    template: Walking_Sapling
+    level:    [4, 5]
+    region:   north_gustaberg_c_8
+
+  17211701:
+    template: Walking_Sapling
+    level:    [4, 5]
+    region:   north_gustaberg_c_8
+
+  17211702:
+    template: Maighdean_Uaine
+    at:       [272.000, -0.324, 797.800, 0]
+    level:    [11, 11]
+
+  17211703:
+    template: Vulture
+    at:       [170.252, 0.972, 761.254, 127]
+    level:    [5, 6]
+
+  17211704:
+    template: Vulture
+    at:       [150.107, -0.465, 652.312, 2]
+    level:    [5, 6]
+
+  17211705:
+    template: Vulture
+    at:       [122.959, -0.533, 650.810, 127]
+    level:    [5, 6]
+
+  17211706:
+    template: Young_Quadav
+    at:       [101.556, 2.204, 657.896, 71]
+    level:    [6, 7]
+
+  17211707:
+    template: Amethyst_Quadav
+    at:       [141.242, 0.523, 690.146, 23]
+    level:    [6, 7]
+
+  17211708:
+    template: Amber_Quadav
+    at:       [114.107, -0.309, 620.033, 127]
+    level:    [6, 7]
+
+  17211709:
+    template: Walking_Sapling
+    at:       [290.544, -2.638, 840.552, 76]
+    level:    [5, 6]
+
+  17211710:
+    template: Walking_Sapling
+    at:       [239.992, -0.493, 788.037, 99]
+    level:    [5, 6]
+
+  17211711:
+    template: Walking_Sapling
+    at:       [289.709, -0.297, 750.252, 127]
+    level:    [5, 6]
+
+  17211712:
+    template: Walking_Sapling
+    at:       [233.074, -1.709, 853.486, 127]
+    level:    [5, 6]
+
+  17211713:
+    template: Walking_Sapling
+    at:       [313.953, -0.642, 728.251, 119]
+    level:    [5, 6]
+
+  17211714:
+    template: Maighdean_Uaine
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [11, 11]
+
+  17211715:
+    template: Vulture
+    level:    [6, 7]
+    region:   north_gustaberg_n
+
+  17211716:
+    template: Vulture
+    level:    [6, 7]
+    region:   north_gustaberg_n
+
+  17211717:
+    template: Vulture
+    level:    [6, 7]
+    region:   north_gustaberg_n
+
+  17211718:
+    template: Young_Quadav
+    level:    [7, 8]
+    region:   north_gustaberg_n
+
+  17211719:
+    template: Amethyst_Quadav
+    level:    [7, 8]
+    region:   north_gustaberg_n
+
+  17211720:
+    template: Amber_Quadav
+    level:    [7, 8]
+    region:   north_gustaberg_n
+
+  17211721:
+    template: Stone_Eater
+    level:    [5, 6]
+    region:   north_gustaberg_e_6
+
+  17211722:
+    template: Stone_Eater
+    level:    [5, 6]
+    region:   north_gustaberg_e_6
+
+  17211723:
+    template: Stone_Eater
+    level:    [5, 6]
+    region:   north_gustaberg_e_6
+
+  17211724:
+    template: Stone_Eater
+    level:    [5, 6]
+    region:   north_gustaberg_e_6
+
+  17211725:
+    template: Stone_Eater
+    level:    [5, 6]
+    region:   north_gustaberg_e_6
+
+  17211726:
+    template: Walking_Sapling
+    level:    [5, 6]
+    region:   north_gustaberg_e_6
+
+  17211727:
+    template: Walking_Sapling
+    level:    [5, 6]
+    region:   north_gustaberg_e_6
+
+  17211728:
+    template: Vulture
+    level:    [6, 7]
+    region:   north_gustaberg_e_6
+
+  17211729:
+    template: Vulture
+    level:    [6, 7]
+    region:   north_gustaberg_e_6
+
+  17211730:
+    template: Young_Quadav
+    level:    [7, 8]
+    region:   north_gustaberg_e_6
+
+  17211731:
+    template: Young_Quadav
+    level:    [7, 8]
+    region:   north_gustaberg_e_6
+
+  17211732:
+    template: Amethyst_Quadav
+    at:       [483.867, -1.661, 676.336, 127]
+    level:    [7, 8]
+
+  17211733:
+    template: Amber_Quadav
+    level:    [7, 8]
+    region:   north_gustaberg_e_6
+
+  17211734:
+    template: Young_Quadav
+    at:       [502.000, -0.010, 620.000, 93]
+    level:    [7, 8]
+
+  17211735:
+    template: Amethyst_Quadav
+    at:       [496.614, -0.448, 617.949, 82]
+    level:    [7, 8]
+
+  17211736:
+    template: Amber_Quadav
+    at:       [499.721, -0.048, 614.631, 26]
+    level:    [7, 8]
+
+  17211737:
+    template: Walking_Sapling
+    level:    [5, 6]
+    region:   north_gustaberg_n_2
+
+  17211738:
+    template: Walking_Sapling
+    level:    [5, 6]
+    region:   north_gustaberg_n_2
+
+  17211739:
+    template: Walking_Sapling
+    level:    [5, 6]
+    region:   north_gustaberg_n_2
+
+  17211740:
+    template: Walking_Sapling
+    level:    [5, 6]
+    region:   north_gustaberg_n_2
+
+  17211741:
+    template: Walking_Sapling
+    level:    [5, 6]
+    region:   north_gustaberg_n_2
+
+  17211742:
+    template: Walking_Sapling
+    level:    [5, 6]
+    region:   north_gustaberg_n_2
+
+  17211743:
+    template: Vulture
+    level:    [6, 7]
+    region:   north_gustaberg_n_2
+
+  17211744:
+    template: Vulture
+    level:    [6, 7]
+    region:   north_gustaberg_n_2
+
+  17211745:
+    template: Vulture
+    level:    [6, 7]
+    region:   north_gustaberg_n_2
+
+  17211746:
+    template: Young_Quadav
+    level:    [6, 7]
+    region:   north_gustaberg_n_2
+
+  17211747:
+    template: Young_Quadav
+    level:    [6, 7]
+    region:   north_gustaberg_n_2
+
+  17211748:
+    template: Amethyst_Quadav
+    at:       [245.872, -7.874, 902.640, 127]
+    level:    [7, 8]
+
+  17211749:
+    template: Amber_Quadav
+    level:    [7, 8]
+    region:   north_gustaberg_n_2
+
+  17211750:
+    template: Young_Quadav
+    at:       [258.734, -18.407, 1019.530, 127]
+    level:    [7, 8]
+
+  17211751:
+    template: Amethyst_Quadav
+    at:       [261.622, -18.137, 1025.840, 127]
+    level:    [7, 8]
+
+  17211752:
+    template: Amber_Quadav
+    at:       [256.728, -19.312, 1023.630, 127]
+    level:    [7, 8]
+
+  17211753:
+    template: Young_Quadav
+    level:    [7, 8]
+    region:   north_gustaberg_ne
+
+  17211754:
+    template: Young_Quadav
+    level:    [7, 8]
+    region:   north_gustaberg_ne
+
+  17211755:
+    template: Stone_Eater
+    level:    [5, 6]
+    region:   north_gustaberg_sw_3
+
+  17211756:
+    template: Stone_Eater
+    level:    [5, 6]
+    region:   north_gustaberg_sw_3
+
+  17211757:
+    template: Stone_Eater
+    level:    [5, 6]
+    region:   north_gustaberg_sw_3
+
+  17211758:
+    template: Rock_Lizard
+    at:       [-450.864, 51.437, -26.670, 127]
+    level:    [7, 8]
+
+  17211759:
+    template: Rock_Lizard
+    at:       [-435.400, 48.607, 23.684, 121]
+    level:    [7, 8]
+
+  17211760:
+    template: Rock_Lizard
+    at:       [-394.567, 47.032, 4.769, 127]
+    level:    [7, 8]
+
+  17211761:
+    template: Vulture
+    at:       [-419.596, 49.841, -4.919, 127]
+    level:    [6, 7]
+
+  17211762:
+    template: Vulture
+    at:       [-380.843, 47.750, -28.829, 127]
+    level:    [6, 7]
+
+  17211763:
+    template: Young_Quadav
+    at:       [-421.847, 41.812, -94.981, 0]
+    level:    [7, 8]
+
+  17211764:
+    template: Amethyst_Quadav
+    level:    [7, 8]
+    region:   north_gustaberg_sw_3
+
+  17211765:
+    template: Amber_Quadav
+    level:    [7, 8]
+    region:   north_gustaberg_sw_3
+
+  17211766:
+    template: Enchanted_Bones
+    at:       [-394.238, 46.593, -56.040, 0]
+    level:    [5, 8]
+
+  17211767:
+    template: Shrapnel
+    at:       [-407.531, 48.691, -55.234, 127]
+    level:    [8, 10]
+
+  17211768:
+    template: Stone_Eater
+    level:    [5, 6]
+    region:   north_gustaberg_sw
+
+  17211769:
+    template: Stone_Eater
+    level:    [5, 6]
+    region:   north_gustaberg_sw
+
+  17211770:
+    template: Stone_Eater
+    level:    [5, 6]
+    region:   north_gustaberg_sw
+
+  17211771:
+    template: Rock_Lizard
+    level:    [7, 8]
+    region:   north_gustaberg_sw
+
+  17211772:
+    template: Rock_Lizard
+    level:    [7, 8]
+    region:   north_gustaberg_sw
+
+  17211773:
+    template: Rock_Lizard
+    level:    [7, 8]
+    region:   north_gustaberg_sw
+
+  17211774:
+    template: Vulture
+    level:    [6, 7]
+    region:   north_gustaberg_sw
+
+  17211775:
+    template: Vulture
+    level:    [6, 7]
+    region:   north_gustaberg_sw
+
+  17211776:
+    template: Young_Quadav
+    level:    [7, 8]
+    region:   north_gustaberg_sw
+
+  17211777:
+    template: Amethyst_Quadav
+    level:    [7, 8]
+    region:   north_gustaberg_sw
+
+  17211778:
+    template: Amber_Quadav
+    level:    [7, 8]
+    region:   north_gustaberg_sw
+
+  17211779:
+    template: Enchanted_Bones
+    at:       [-489.722, 39.199, 115.754, 127]
+    level:    [5, 8]
+
+  17211780:
+    template: Shrapnel
+    level:    [8, 10]
+    region:   north_gustaberg_sw_2
+
+  17211781:
+    template: Stone_Eater
+    level:    [4, 5]
+    region:   north_gustaberg_sw_4
+
+  17211782:
+    template: Stone_Eater
+    level:    [4, 5]
+    region:   north_gustaberg_sw_4
+
+  17211783:
+    template: Rock_Lizard
+    level:    [7, 8]
+    region:   north_gustaberg_sw_4
+
+  17211784:
+    template: Rock_Lizard
+    level:    [7, 8]
+    region:   north_gustaberg_sw_4
+
+  17211785:
+    template: Walking_Sapling
+    level:    [5, 6]
+    region:   north_gustaberg_sw_4
+
+  17211786:
+    template: Walking_Sapling
+    at:       [-303.492, 39.597, 202.056, 116]
+    level:    [5, 6]
+
+  17211787:
+    template: Vulture
+    at:       [-316.117, 40.477, 230.502, 127]
+    level:    [5, 6]
+
+  17211788:
+    template: Vulture
+    at:       [-283.000, 40.000, 213.000, 127]
+    level:    [5, 6]
+
+  17211789:
+    template: Young_Quadav
+    at:       [-365.500, 40.439, 191.942, 127]
+    level:    [6, 7]
+
+  17211790:
+    template: Amethyst_Quadav
+    at:       [-319.444, 39.838, 294.777, 127]
+    level:    [6, 7]
+
+  17211791:
+    template: Amber_Quadav
+    at:       [-353.513, 40.800, 203.890, 127]
+    level:    [6, 7]
+
+  17211792:
+    template: Black_Wolf
+    at:       [-293.111, 40.714, 245.035, 9]
+    level:    [5, 8]
+
+  17211793:
+    template: Enchanted_Bones
+    at:       [-326.239, 40.276, 181.709, 127]
+    level:    [5, 8]
+
+  17211794:
+    template: Shrapnel
+    at:       [-454.318, 38.097, 274.242, 87]
+    level:    [8, 9]
+
+  17211795:
+    template: Stone_Eater
+    level:    [4, 5]
+    region:   north_gustaberg_w_2
+
+  17211796:
+    template: Stone_Eater
+    level:    [4, 5]
+    region:   north_gustaberg_w_2
+
+  17211797:
+    template: Stone_Eater
+    level:    [4, 5]
+    region:   north_gustaberg_w_2
+
+  17211798:
+    template: Rock_Lizard
+    level:    [7, 8]
+    region:   north_gustaberg_w_2
+
+  17211799:
+    template: Rock_Lizard
+    level:    [7, 8]
+    region:   north_gustaberg_w_2
+
+  17211800:
+    template: Rock_Lizard
+    level:    [7, 8]
+    region:   north_gustaberg_w_2
+
+  17211801:
+    template: Walking_Sapling
+    level:    [5, 6]
+    region:   north_gustaberg_w_2
+
+  17211802:
+    template: Walking_Sapling
+    level:    [5, 6]
+    region:   north_gustaberg_w_2
+
+  17211803:
+    template: Walking_Sapling
+    level:    [5, 6]
+    region:   north_gustaberg_w_2
+
+  17211804:
+    template: Goblin_Thug
+    level:    [6, 7]
+    region:   north_gustaberg_w_2
+
+  17211805:
+    template: Goblin_Weaver
+    level:    [6, 7]
+    region:   north_gustaberg_w_2
+
+  17211806:
+    template: Enchanted_Bones
+    at:       [-435.533, 40.557, 384.991, 150]
+    level:    [5, 8]
+
+  17211807:
+    template: Stone_Eater
+    level:    [5, 6]
+    region:   north_gustaberg_w_5
+
+  17211808:
+    template: Stone_Eater
+    level:    [5, 6]
+    region:   north_gustaberg_w_5
+
+  17211809:
+    template: Stone_Eater
+    level:    [5, 6]
+    region:   north_gustaberg_w_5
+
+  17211810:
+    template: Rock_Lizard
+    level:    [7, 8]
+    region:   north_gustaberg_w_5
+
+  17211811:
+    template: Rock_Lizard
+    level:    [7, 8]
+    region:   north_gustaberg_w_5
+
+  17211812:
+    template: Rock_Lizard
+    level:    [7, 8]
+    region:   north_gustaberg_w_5
+
+  17211813:
+    template: Walking_Sapling
+    level:    [5, 6]
+    region:   north_gustaberg_w_5
+
+  17211814:
+    template: Walking_Sapling
+    level:    [5, 6]
+    region:   north_gustaberg_w_5
+
+  17211815:
+    template: Walking_Sapling
+    at:       [-370.407, 41.048, 460.262, 117]
+    level:    [5, 6]
+
+  17211816:
+    template: Young_Quadav
+    at:       [-311.067, 39.868, 477.737, 127]
+    level:    [7, 8]
+
+  17211817:
+    template: Amethyst_Quadav
+    at:       [-435.000, 40.000, 495.000, 25]
+    level:    [7, 8]
+
+  17211818:
+    template: Amber_Quadav
+    at:       [-371.501, 41.039, 460.377, 115]
+    level:    [7, 8]
+
+  17211819:
+    template: Stone_Eater
+    at:       [-534.755, 45.451, 404.160, 101]
+    level:    [5, 6]
+
+  17211820:
+    template: Stone_Eater
+    at:       [-616.327, 38.771, 443.984, 127]
+    level:    [5, 6]
+
+  17211821:
+    template: Stone_Eater
+    at:       [-553.150, 39.234, 442.016, 250]
+    level:    [5, 6]
+
+  17211822:
+    template: Rock_Lizard
+    at:       [-660.151, 42.272, 379.111, 127]
+    level:    [7, 8]
+
+  17211823:
+    template: Rock_Lizard
+    at:       [-651.326, 39.404, 394.331, 18]
+    level:    [7, 8]
+
+  17211824:
+    template: Rock_Lizard
+    level:    [7, 8]
+    region:   north_gustaberg_w
+
+  17211825:
+    template: Walking_Sapling
+    level:    [5, 6]
+    region:   north_gustaberg_w
+
+  17211826:
+    template: Walking_Sapling
+    level:    [5, 6]
+    region:   north_gustaberg_w
+
+  17211827:
+    template: Walking_Sapling
+    level:    [5, 6]
+    region:   north_gustaberg_w
+
+  17211828:
+    template: Goblin_Thug
+    level:    [7, 8]
+    region:   north_gustaberg_w
+
+  17211829:
+    template: Goblin_Weaver
+    level:    [7, 8]
+    region:   north_gustaberg_w
+
+  17211830:
+    template: Enchanted_Bones
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [5, 8]
+
+  17211831:
+    template: Sand_Pugil
+    level:    [19, 20]
+    region:   north_gustaberg_w_3
+
+  17211832:
+    template: Sand_Pugil
+    level:    [19, 20]
+    region:   north_gustaberg_w_3
+
+  17211833:
+    template: Sand_Pugil
+    level:    [19, 20]
+    region:   north_gustaberg_w_3
+
+  17211834:
+    template: Goblin_Mugger
+    level:    [21, 22]
+    region:   north_gustaberg_w_3
+
+  17211835:
+    template: Goblin_Leecher
+    level:    [21, 22]
+    region:   north_gustaberg_w_3
+
+  17211836:
+    template: Goblin_Gambler
+    at:       [-365.987, 98.463, 402.765, 127]
+    level:    [21, 22]
+
+  17211837:
+    template: Goblin_Leecher
+    at:       [-438.101, 98.071, 402.872, 125]
+    level:    [21, 22]
+
+  17211838:
+    template: Goblin_Gambler
+    level:    [21, 22]
+    region:   north_gustaberg_w_3
+
+  17211839:
+    template: Sand_Pugil
+    level:    [19, 20]
+    region:   north_gustaberg_w_4
+
+  17211840:
+    template: Sand_Pugil
+    level:    [19, 20]
+    region:   north_gustaberg_w_4
+
+  17211841:
+    template: Sand_Pugil
+    level:    [19, 20]
+    region:   north_gustaberg_w_4
+
+  17211842:
+    template: Goblin_Mugger
+    level:    [21, 22]
+    region:   north_gustaberg_w_4
+
+  17211843:
+    template: Goblin_Leecher
+    at:       [-465.830, 98.186, 422.527, 94]
+    level:    [21, 22]
+
+  17211844:
+    template: Goblin_Gambler
+    level:    [21, 22]
+    region:   north_gustaberg_w_4
+
+  17211845:
+    template: Goblin_Leecher
+    at:       [-485.323, 98.103, 416.005, 127]
+    level:    [21, 22]
+
+  17211846:
+    template: Goblin_Gambler
+    at:       [-390.051, 97.756, 437.450, 4]
+    level:    [21, 22]
+
+  17211847:
+    template: Goblin_Digger
+    at:       [197.132, -40.437, 501.941, 81]
+    level:    [6, 7]
+
+  17211848:
+    template: Gambilox_Wanderling
+    at:       [-220.962, 98.051, 440.458, 0]
+    level:    [53, 53]
+
+  17211849:
+    template: Old_Quadav
+    at:       [-560.733, 39.555, 71.004, 106]
+    level:    [20, 25]
+
+  17211850:
+    template: Old_Quadav
+    at:       [-560.238, 39.539, 81.429, 91]
+    level:    [20, 25]
+
+  17211851:
+    template: Heliodor_Quadav
+    at:       [-572.000, 40.000, 61.000, 140]
+    level:    [20, 25]
+
+  17211852:
+    template: Heliodor_Quadav
+    at:       [-582.000, 38.750, 66.000, 21]
+    level:    [20, 25]
+
+  17211853:
+    template: Brass_Quadav
+    at:       [-562.505, 40.109, 60.710, 11]
+    level:    [20, 25]
+
+  17211854:
+    template: Brass_Quadav
+    at:       [-576.423, 39.857, 77.335, 85]
+    level:    [20, 25]
+
+  17211855:
+    template: Sapphirine_Quadav
+    at:       [-566.559, 39.566, 72.583, 24]
+    level:    [20, 25]
+
+  17211856:
+    template: Sapphirine_Quadav
+    at:       [-575.116, 39.765, 76.453, 21]
+    level:    [20, 25]
+
+  17211857:
+    template: Lead_Quadav
+    at:       [-563.458, 39.861, 87.275, 30]
+    level:    [25, 25]
+
+  17211858:
+    template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [51, 54]
+
+  17211859:
+    template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [51, 54]
+
+  17211860:
+    template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [51, 54]
+
+  17211861:
+    template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [51, 54]
+
+  17211862:
+    template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [51, 54]
+
+  17211863:
+    template: Deathly_Stinger
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17211864:
+    template: Yilbegan
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [90, 92]
+
+  17211865:
+    template: Blobdingnag
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [85, 85]
+
+  17211866:
+    template: Septic_Boil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [85, 85]
+
+  17211867:
+    template: Septic_Boil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [85, 85]
+
+  17211868:
+    template: Septic_Boil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [85, 85]
+
+  17211869:
+    template: Septic_Boil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [85, 85]
+
+  17211870:
+    template: Septic_Boil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [85, 85]
+
+  17211871:
+    template: Septic_Boil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [85, 85]
+
+  17211872:
+    template: Shoggoth
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [82, 82]
+
+  17211873:
+    template: Lamprey_Lord
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [82, 82]
+
+  17211874:
+    template: Ground_Guzzler
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17211875:
+    template: Ground_Guzzler
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17211876:
+    template: Ground_Guzzler
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17211877:
+    template: Ground_Guzzler
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17211878:
+    template: Globster
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17211879:
+    template: Globster
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17211880:
+    template: Globster
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17211881:
+    template: Globster
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17211882:
+    template: Sallow_Seymour
+    at:       [798.000, -0.500, 440.000, 147]
+    level:    [100, 101]
+
+  17211883:
+    template: Sallow_Seymour
+    at:       [558.000, -10.500, 603.000, 188]
+    level:    [100, 101]
+
+  17211884:
+    template: Sallow_Seymour
+    at:       [-322.000, 39.500, -42.000, 86]
+    level:    [100, 101]
+
+  17211885:
+    template: Tatenashi_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17211886:
+    template: Hizamaru_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17211887:
+    template: Ubuginu_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17211888:
+    template: Hachiryu_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17211889:
+    template: Omodaka_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17211890:
+    template: Bull_[Herd1]
+    at:       [25.371, -0.900, 433.532, 221]
+    level:    [12, 12]
+
+  17211891:
+    template: Cow_[Herd1]
+    at:       [24.445, -1.049, 428.475, 215]
+    level:    [11, 11]
+
+  17211892:
+    template: Cow_[Herd1]
+    at:       [99.200, -0.402, 412.217, 218]
+    level:    [11, 11]
+
+  17211893:
+    template: Cow_[Herd1]
+    at:       [9.688, -0.331, 434.088, 98]
+    level:    [11, 11]
+
+  17211894:
+    template: Calf_[Herd1]
+    at:       [-1.700, -0.964, 402.109, 225]
+    level:    [10, 10]
+
+  17211895:
+    template: Calf_[Herd1]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [10, 10]
+
+  17211896:
+    template: Calf_[Herd1]
+    at:       [61.762, -0.399, 402.619, 0]
+    level:    [10, 10]
+
+  17211897:
+    template: Calf_[Herd1]
+    at:       [69.878, 0.692, 430.464, 218]
+    level:    [10, 10]
+
+  17211898:
+    template: Calf_[Herd1]
+    at:       [68.859, 0.000, 419.609, 0]
+    level:    [10, 10]
+
+  17211899:
+    template: Calf_[Herd1]
+    at:       [73.454, -1.738, 449.812, 8]
+    level:    [10, 10]
+
+  17211900:
+    template: Bull_[Herd2]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17211901:
+    template: Cow_[Herd2]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17211902:
+    template: Cow_[Herd2]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17211903:
+    template: Cow_[Herd2]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17211904:
+    template: Calf_[Herd2]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17211905:
+    template: Calf_[Herd2]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17211906:
+    template: Calf_[Herd2]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17211907:
+    template: Calf_[Herd2]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17211908:
+    template: Calf_[Herd2]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17211909:
+    template: Calf_[Herd2]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17211910:
+    template: Bull_[Herd3]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17211911:
+    template: Cow_[Herd3]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17211912:
+    template: Cow_[Herd3]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17211913:
+    template: Cow_[Herd3]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17211914:
+    template: Calf_[Herd3]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17211915:
+    template: Calf_[Herd3]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17211916:
+    template: Calf_[Herd3]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17211917:
+    template: Calf_[Herd3]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17211918:
+    template: Calf_[Herd3]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17211919:
+    template: Calf_[Herd3]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17211930:
+    template: Pyracmon
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17211931:
+    template: Wraith_Bat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17211932:
+    template: Wraith_Bat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17211933:
+    template: Wraith_Bat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17211934:
+    template: Wraith_Bat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17211935:
+    template: Wraith_Bat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17211936:
+    template: Wraith_Bat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17211937:
+    template: Wraith_Bat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17211938:
+    template: Wraith_Bat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17211939:
+    template: Wraith_Bat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17211940:
+    template: Wraith_Bat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17211941:
+    template: Astral_Box
+    at:       [602.990, -0.500, 479.800, 0]
+    level:    [0, 0]
+
+  17211942:
+    template: Astral_Box
+    at:       [569.180, -1.500, 468.747, 0]
+    level:    [0, 0]
+
+  17211943:
+    template: Astral_Box
+    at:       [515.160, -1.434, 505.690, 0]
+    level:    [0, 0]
+
+  17211944:
+    template: Astral_Box
+    at:       [518.430, -1.126, 521.565, 0]
+    level:    [0, 0]
+
+  17211945:
+    template: Astral_Box
+    at:       [557.060, -0.624, 458.753, 0]
+    level:    [0, 0]
+
+  17211946:
+    template: Astral_Box
+    at:       [527.300, -0.810, 503.641, 0]
+    level:    [0, 0]
+
+  17211947:
+    template: Astral_Box
+    at:       [558.110, -0.518, 459.811, 0]
+    level:    [0, 0]
+
+  17211948:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17211949:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17211950:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17211951:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17211952:
+    template: Astral_Box
+    at:       [526.310, -0.112, 416.252, 0]
+    level:    [0, 0]
+
+  17211953:
+    template: Astral_Box
+    at:       [536.340, -0.985, 487.294, 0]
+    level:    [0, 0]
+
+  17211954:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17211955:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17211956:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17211957:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17211958:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17211959:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17211960:
+    template: Astral_Box
+    at:       [535.460, -1.388, 350.506, 0]
+    level:    [0, 0]
+
+  17211961:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17211962:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17211963:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17211964:
+    template: Astral_Box
+    at:       [550.800, -0.500, 478.975, 0]
+    level:    [0, 0]
+
+  17211965:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17211966:
+    template: Astral_Box
+    at:       [557.050, -0.624, 458.752, 0]
+    level:    [0, 0]
+
+  17211967:
+    template: Astral_Box
+    at:       [536.340, -0.985, 487.294, 0]
+    level:    [0, 0]
+
+  17211968:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17211969:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17211970:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17211971:
+    template: Astral_Box
+    at:       [533.500, -1.207, 448.824, 0]
+    level:    [0, 0]
+
+  17211972:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17211973:
+    template: Astral_Box
+    at:       [602.940, -0.611, 386.596, 0]
+    level:    [0, 0]
+
+  17211974:
+    template: Astral_Box
+    at:       [535.460, -1.388, 350.506, 0]
+    level:    [0, 0]
+
+  17211975:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17211976:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17211977:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17211978:
+    template: Astral_Box
+    at:       [550.800, -0.500, 478.975, 0]
+    level:    [0, 0]
+
+  17211979:
+    template: Astral_Box
+    at:       [509.090, -0.430, 418.621, 0]
+    level:    [0, 0]
+
+  17211980:
+    template: Astral_Box
+    at:       [557.050, -0.624, 458.752, 0]
+    level:    [0, 0]
+
+  17211981:
+    template: Astral_Box
+    at:       [535.460, -1.388, 350.506, 0]
+    level:    [0, 0]
+
+  17211982:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17211983:
+    template: Spriggan_Sifter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17211984:
+    template: Spriggan_Sifter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17211985:
+    template: Spriggan_Sifter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17211986:
+    template: Spriggan_Sifter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17211987:
+    template: Spriggan_Sifter
+    at:       [690.660, -0.465, 433.671, 70]
+    level:    [0, 0]
+
+  17211988:
+    template: Spriggan_Sifter
+    at:       [632.900, -0.469, 406.700, 204]
+    level:    [0, 0]
+
+  17211989:
+    template: Spriggan_Sifter
+    at:       [705.570, -0.885, 484.109, 211]
+    level:    [0, 0]
+
+  17211990:
+    template: Spriggan_Sifter
+    at:       [772.520, -0.685, 438.303, 201]
+    level:    [0, 0]
+
+  17211991:
+    template: Spriggan_Sifter
+    at:       [622.510, 0.004, 431.234, 174]
+    level:    [0, 0]
+
+  17211992:
+    template: Spriggan_Sifter
+    at:       [713.140, -0.560, 466.937, 12]
+    level:    [0, 0]
+
+  17211993:
+    template: Spriggan_Sifter
+    at:       [652.140, 1.964, 368.606, 240]
+    level:    [0, 0]
+
+  17211994:
+    template: Spriggan_Sifter
+    at:       [698.410, -0.768, 359.072, 222]
+    level:    [0, 0]
+
+  17211995:
+    template: Spriggan_Sifter
+    at:       [662.280, 0.303, 388.373, 102]
+    level:    [0, 0]
+
+  17211996:
+    template: Spriggan_Sifter
+    at:       [654.150, 2.318, 372.588, 36]
+    level:    [0, 0]
+
+  17211997:
+    template: Spriggan_Sifter
+    at:       [592.080, 0.097, 425.569, 149]
+    level:    [0, 0]
+
+  17211998:
+    template: Spriggan_Crier
+    at:       [603.810, -0.230, 433.330, 238]
+    level:    [0, 0]
+
+  17211999:
+    template: Spriggan_Crier
+    at:       [606.410, -0.444, 437.937, 62]
+    level:    [0, 0]
+
+  17212000:
+    template: Spriggan_Crier
+    at:       [580.740, -0.223, 459.200, 67]
+    level:    [0, 0]
+
+  17212001:
+    template: Spriggan_Crier
+    at:       [574.450, 2.105, 425.579, 145]
+    level:    [0, 0]
+
+  17212002:
+    template: Spriggan_Crier
+    at:       [623.330, 2.109, 398.480, 178]
+    level:    [0, 0]
+
+  17212003:
+    template: Spriggan_Crier
+    at:       [523.410, 0.298, 419.305, 255]
+    level:    [0, 0]
+
+  17212004:
+    template: Spriggan_Crier
+    at:       [514.970, -0.043, 410.449, 58]
+    level:    [0, 0]
+
+  17212005:
+    template: Spriggan_Crier
+    at:       [538.820, -0.893, 450.682, 170]
+    level:    [0, 0]
+
+  17212006:
+    template: Spriggan_Graverobber
+    at:       [539.060, 0.210, 376.787, 7]
+    level:    [0, 0]
+
+  17212007:
+    template: Spriggan_Graverobber
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17212008:
+    template: Spriggan_Graverobber
+    at:       [428.210, -0.437, 375.589, 68]
+    level:    [0, 0]
+
+  17212009:
+    template: Spriggan_Graverobber
+    at:       [361.490, -0.588, 298.635, 196]
+    level:    [0, 0]
+
+  17212010:
+    template: Spriggan_Graverobber
+    at:       [440.960, -0.486, 381.220, 242]
+    level:    [0, 0]
+
+  17212011:
+    template: Spriggan_Graverobber
+    at:       [360.540, -0.589, 297.993, 198]
+    level:    [0, 0]
+
+  17212012:
+    template: Spriggan_Graverobber
+    at:       [341.330, -0.407, 319.736, 74]
+    level:    [0, 0]

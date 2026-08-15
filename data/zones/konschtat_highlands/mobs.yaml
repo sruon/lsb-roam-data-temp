@@ -1,0 +1,2283 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17219585:
+    template: Mist_Lizard
+    level:    [10, 11]
+    region:   konschtat_highlands_s
+
+  17219586:
+    template: Mist_Lizard
+    level:    [10, 11]
+    region:   konschtat_highlands_s
+
+  17219587:
+    template: Mist_Lizard
+    level:    [10, 11]
+    region:   konschtat_highlands_s
+
+  17219588:
+    template: Mist_Lizard
+    level:    [10, 11]
+    region:   konschtat_highlands_s
+
+  17219589:
+    template: Mist_Lizard
+    level:    [10, 11]
+    region:   konschtat_highlands_s
+
+  17219590:
+    template: Mist_Lizard
+    level:    [10, 11]
+    region:   konschtat_highlands_s
+
+  17219591:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_s
+
+  17219592:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_s
+
+  17219593:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_s
+
+  17219594:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_s
+
+  17219595:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_s
+
+  17219596:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_s
+
+  17219597:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   konschtat_highlands_s_2
+
+  17219598:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   konschtat_highlands_s_2
+
+  17219599:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   konschtat_highlands_s_2
+
+  17219600:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   konschtat_highlands_s_2
+
+  17219601:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   konschtat_highlands_s_2
+
+  17219602:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   konschtat_highlands_s_2
+
+  17219603:
+    template: Goblin_Thug
+    level:    [9, 10]
+    region:   konschtat_highlands_s_2
+
+  17219604:
+    template: Goblin_Ambusher
+    level:    [12, 13]
+    region:   konschtat_highlands_s_2
+
+  17219605:
+    template: Goblin_Weaver
+    level:    [9, 10]
+    region:   konschtat_highlands_s_2
+
+  17219606:
+    template: Goblin_Butcher
+    at:       [-101.000, -57.000, -660.000, 127]
+    level:    [12, 13]
+
+  17219607:
+    template: Goblin_Thug
+    at:       [-77.823, -56.275, -670.291, 34]
+    level:    [9, 10]
+
+  17219608:
+    template: Goblin_Weaver
+    at:       [-98.272, -57.775, -662.657, 127]
+    level:    [9, 10]
+
+  17219609:
+    template: Goblin_Butcher
+    at:       [-97.796, -57.493, -660.834, 127]
+    level:    [12, 13]
+
+  17219610:
+    template: Mist_Lizard
+    level:    [10, 11]
+    region:   konschtat_highlands_se
+
+  17219611:
+    template: Mist_Lizard
+    level:    [10, 11]
+    region:   konschtat_highlands_se
+
+  17219612:
+    template: Mist_Lizard
+    level:    [10, 11]
+    region:   konschtat_highlands_se
+
+  17219613:
+    template: Mist_Lizard
+    level:    [10, 11]
+    region:   konschtat_highlands_se
+
+  17219614:
+    template: Mist_Lizard
+    level:    [10, 11]
+    region:   konschtat_highlands_se
+
+  17219615:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_se
+
+  17219616:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_se
+
+  17219617:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_se
+
+  17219618:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_se
+
+  17219619:
+    template: Ghillie_Dhu
+    level:    [16, 18]
+    region:   konschtat_highlands_se
+
+  17219620:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   konschtat_highlands_se_2
+
+  17219621:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   konschtat_highlands_se_2
+
+  17219622:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   konschtat_highlands_se_2
+
+  17219623:
+    template: Young_Quadav
+    level:    [9, 10]
+    region:   konschtat_highlands_se_2
+
+  17219624:
+    template: Onyx_Quadav
+    level:    [13, 14]
+    region:   konschtat_highlands_se_2
+
+  17219625:
+    template: Amethyst_Quadav
+    level:    [9, 10]
+    region:   konschtat_highlands_se_2
+
+  17219626:
+    template: Amber_Quadav
+    level:    [9, 10]
+    region:   konschtat_highlands_se_2
+
+  17219627:
+    template: Young_Quadav
+    at:       [503.000, -15.000, -424.000, 127]
+    level:    [9, 10]
+
+  17219628:
+    template: Amethyst_Quadav
+    at:       [496.785, -16.114, -421.315, 93]
+    level:    [9, 10]
+
+  17219629:
+    template: Amber_Quadav
+    at:       [499.752, -15.779, -418.372, 127]
+    level:    [9, 10]
+
+  17219630:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_e
+
+  17219631:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_e
+
+  17219632:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_e
+
+  17219633:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_e
+
+  17219634:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_e
+
+  17219635:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_e
+
+  17219636:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_e
+
+  17219637:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_e
+
+  17219638:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_e
+
+  17219639:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_e
+
+  17219640:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_e
+
+  17219641:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_e
+
+  17219642:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_e
+
+  17219643:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_e
+
+  17219644:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_e
+
+  17219645:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_e
+
+  17219646:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_e
+
+  17219647:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_e
+
+  17219648:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_e
+
+  17219649:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_e
+
+  17219650:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_e
+
+  17219651:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_e
+
+  17219652:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_e
+
+  17219653:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_e
+
+  17219654:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_e
+
+  17219655:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_e
+
+  17219656:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_e
+
+  17219657:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_e_4
+
+  17219658:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_e_4
+
+  17219659:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   konschtat_highlands_e_4
+
+  17219660:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   konschtat_highlands_e_4
+
+  17219661:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   konschtat_highlands_e_4
+
+  17219662:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   konschtat_highlands_e_4
+
+  17219663:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   konschtat_highlands_e_4
+
+  17219664:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   konschtat_highlands_e_4
+
+  17219665:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   konschtat_highlands_e_4
+
+  17219666:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   konschtat_highlands_e_4
+
+  17219667:
+    template: Ghost
+    level:    [15, 16]
+    region:   konschtat_highlands_e_4
+
+  17219668:
+    template: Ghost
+    level:    [15, 16]
+    region:   konschtat_highlands_e_4
+
+  17219669:
+    template: Ghost
+    level:    [15, 16]
+    region:   konschtat_highlands_e_4
+
+  17219670:
+    template: Young_Quadav
+    level:    [9, 10]
+    region:   konschtat_highlands_e
+
+  17219671:
+    template: Young_Quadav
+    level:    [9, 10]
+    region:   konschtat_highlands_e
+
+  17219672:
+    template: Veteran_Quadav
+    level:    [13, 14]
+    region:   konschtat_highlands_e
+
+  17219673:
+    template: Greater_Quadav
+    at:       [418.088, 10.790, 79.852, 127]
+    level:    [13, 14]
+
+  17219674:
+    template: Onyx_Quadav
+    at:       [610.562, 20.472, 139.956, 91]
+    level:    [13, 14]
+
+  17219675:
+    template: Amethyst_Quadav
+    level:    [9, 10]
+    region:   konschtat_highlands_e
+
+  17219676:
+    template: Amber_Quadav
+    level:    [9, 10]
+    region:   konschtat_highlands_e
+
+  17219677:
+    template: Skeleton_Warrior
+    at:       [526.456, 8.858, 167.034, 75]
+    level:    [10, 12]
+
+  17219678:
+    template: Skeleton_Warrior
+    at:       [345.299, 19.741, 166.122, 115]
+    level:    [10, 12]
+
+  17219679:
+    template: Skeleton_Sorcerer
+    at:       [412.034, 16.215, 130.671, 73]
+    level:    [11, 13]
+
+  17219680:
+    template: Thunder_Elemental
+    level:    [18, 20]
+    region:   konschtat_highlands_e
+
+  17219681:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_ne
+
+  17219682:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_ne
+
+  17219683:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_ne
+
+  17219684:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_ne
+
+  17219685:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_ne
+
+  17219686:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_ne
+
+  17219687:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_ne
+
+  17219688:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_ne
+
+  17219689:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_ne
+
+  17219690:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_ne
+
+  17219691:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_ne
+
+  17219692:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_ne
+
+  17219693:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_ne
+
+  17219694:
+    template: Poltergeist
+    level:    [18, 19]
+    region:   konschtat_highlands_ne_5
+
+  17219695:
+    template: Poltergeist
+    level:    [18, 19]
+    region:   konschtat_highlands_ne_5
+
+  17219696:
+    template: Poltergeist
+    level:    [18, 19]
+    region:   konschtat_highlands_ne_5
+
+  17219697:
+    template: Poltergeist
+    at:       [459.714, 25.343, 240.892, 81]
+    level:    [18, 19]
+
+  17219698:
+    template: Poltergeist
+    at:       [483.000, 28.000, 261.000, 82]
+    level:    [18, 19]
+
+  17219699:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_ne_2
+
+  17219700:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_ne_2
+
+  17219701:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_ne_2
+
+  17219702:
+    template: Mist_Lizard
+    level:    [12, 12]
+    region:   konschtat_highlands_ne_2
+
+  17219703:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_ne_2
+
+  17219704:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_ne_2
+
+  17219705:
+    template: Huge_Wasp
+    level:    [10, 11]
+    region:   konschtat_highlands_ne_2
+
+  17219706:
+    template: Huge_Wasp
+    level:    [10, 11]
+    region:   konschtat_highlands_ne_2
+
+  17219707:
+    template: Huge_Wasp
+    level:    [10, 11]
+    region:   konschtat_highlands_ne_2
+
+  17219708:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   konschtat_highlands_ne_2
+
+  17219709:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   konschtat_highlands_ne_2
+
+  17219710:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   konschtat_highlands_ne_2
+
+  17219711:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_ne_4
+
+  17219712:
+    template: Mist_Lizard
+    level:    [11, 11]
+    region:   konschtat_highlands_ne_4
+
+  17219713:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_ne_4
+
+  17219714:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_ne_4
+
+  17219715:
+    template: Huge_Wasp
+    level:    [10, 11]
+    region:   konschtat_highlands_ne_4
+
+  17219716:
+    template: Huge_Wasp
+    level:    [10, 11]
+    region:   konschtat_highlands_ne_4
+
+  17219717:
+    template: Huge_Wasp
+    level:    [10, 11]
+    region:   konschtat_highlands_ne_4
+
+  17219718:
+    template: Huge_Wasp
+    level:    [10, 11]
+    region:   konschtat_highlands_ne_4
+
+  17219719:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   konschtat_highlands_ne_4
+
+  17219720:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   konschtat_highlands_ne_4
+
+  17219721:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   konschtat_highlands_ne_4
+
+  17219722:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_ne_4
+
+  17219723:
+    template: Veteran_Quadav
+    at:       [435.249, 31.537, 322.498, 101]
+    level:    [13, 14]
+
+  17219724:
+    template: Greater_Quadav
+    level:    [13, 14]
+    region:   konschtat_highlands_ne
+
+  17219725:
+    template: Onyx_Quadav
+    level:    [13, 14]
+    region:   konschtat_highlands_ne
+
+  17219726:
+    template: Amethyst_Quadav
+    level:    [9, 10]
+    region:   konschtat_highlands_ne
+
+  17219727:
+    template: Amber_Quadav
+    at:       [446.000, 32.000, 563.000, 59]
+    level:    [9, 10]
+
+  17219728:
+    template: Skeleton_Warrior
+    at:       [449.625, 32.242, 287.894, 127]
+    level:    [10, 12]
+
+  17219729:
+    template: Skeleton_Warrior
+    level:    [10, 12]
+    region:   konschtat_highlands_e_3
+
+  17219730:
+    template: Skeleton_Sorcerer
+    level:    [11, 13]
+    region:   konschtat_highlands_ne_3
+
+  17219731:
+    template: Grenade
+    level:    [15, 16]
+    region:   konschtat_highlands_e_2
+
+  17219732:
+    template: Veteran_Quadav
+    at:       [379.400, 32.014, 537.655, 42]
+    level:    [14, 15]
+
+  17219733:
+    template: Amethyst_Quadav
+    at:       [380.042, 32.098, 543.204, 127]
+    level:    [14, 15]
+
+  17219734:
+    template: Amber_Quadav
+    at:       [385.000, 31.000, 541.000, 127]
+    level:    [9, 10]
+
+  17219735:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   konschtat_highlands_ne_6
+
+  17219736:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   konschtat_highlands_ne_6
+
+  17219737:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   konschtat_highlands_ne_6
+
+  17219738:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   konschtat_highlands_ne_6
+
+  17219739:
+    template: Mist_Lizard
+    level:    [11, 11]
+    region:   konschtat_highlands_sw
+
+  17219740:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_sw
+
+  17219741:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_sw
+
+  17219742:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_sw
+
+  17219743:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_sw
+
+  17219744:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_sw
+
+  17219745:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_sw
+
+  17219746:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_sw
+
+  17219747:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_sw
+
+  17219748:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_sw
+
+  17219749:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_sw
+
+  17219750:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_sw
+
+  17219751:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_sw
+
+  17219752:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_sw
+
+  17219753:
+    template: Wolf_Zombie
+    at:       [-167.521, -13.832, -105.744, 64]
+    level:    [12, 13]
+
+  17219754:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_sw
+
+  17219755:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_sw
+
+  17219756:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_sw
+
+  17219757:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_sw
+
+  17219758:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_sw
+
+  17219759:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_sw
+
+  17219760:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_sw
+
+  17219761:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_sw
+
+  17219762:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_sw
+
+  17219763:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_sw
+
+  17219764:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_sw
+
+  17219765:
+    template: Wolf_Zombie
+    at:       [-319.756, -18.233, -168.804, 127]
+    level:    [12, 13]
+
+  17219766:
+    template: Goblin_Thug
+    level:    [9, 10]
+    region:   konschtat_highlands_sw
+
+  17219767:
+    template: Goblin_Thug
+    level:    [9, 10]
+    region:   konschtat_highlands_sw
+
+  17219768:
+    template: Goblin_Ambusher
+    level:    [12, 13]
+    region:   konschtat_highlands_sw
+
+  17219769:
+    template: Goblin_Weaver
+    level:    [9, 10]
+    region:   konschtat_highlands_sw
+
+  17219770:
+    template: Goblin_Tinkerer
+    level:    [12, 13]
+    region:   konschtat_highlands_sw
+
+  17219771:
+    template: Goblin_Butcher
+    at:       [-423.118, -14.719, -192.018, 127]
+    level:    [12, 13]
+
+  17219772:
+    template: Skeleton_Warrior
+    at:       [-403.593, -0.936, -164.908, 127]
+    level:    [10, 12]
+
+  17219773:
+    template: Skeleton_Sorcerer
+    at:       [-177.810, -48.472, -447.798, 67]
+    level:    [11, 13]
+
+  17219774:
+    template: Earth_Elemental
+    level:    [18, 20]
+    region:   konschtat_highlands_sw
+
+  17219775:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_w_2
+
+  17219776:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_w_2
+
+  17219777:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_w_2
+
+  17219778:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_w_2
+
+  17219779:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_w_2
+
+  17219780:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_w_2
+
+  17219781:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_w_2
+
+  17219782:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_w_2
+
+  17219783:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_w_2
+
+  17219784:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_w_2
+
+  17219785:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_w_2
+
+  17219786:
+    template: Wolf_Zombie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [12, 13]
+
+  17219787:
+    template: Highlander_Lizard
+    level:    [27, 28]
+    region:   konschtat_highlands_w_2
+
+  17219788:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_w_7
+
+  17219789:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_w_7
+
+  17219790:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_w_7
+
+  17219791:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_w_7
+
+  17219792:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_w_7
+
+  17219793:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_w_7
+
+  17219794:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_w_7
+
+  17219795:
+    template: Stray_Mary
+    at:       [-257.465, -15.805, -117.638, 87]
+    level:    [19, 20]
+
+  17219796:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_w_7
+
+  17219797:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_w_7
+
+  17219798:
+    template: Wolf_Zombie
+    at:       [-248.949, -15.684, -116.538, 66]
+    level:    [12, 13]
+
+  17219799:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_w_4
+
+  17219800:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_w_4
+
+  17219801:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_w_4
+
+  17219802:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_w_4
+
+  17219803:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_w_4
+
+  17219804:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_w_4
+
+  17219805:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_w_4
+
+  17219806:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_w_4
+
+  17219807:
+    template: Strolling_Sapling
+    level:    [9, 9]
+    region:   konschtat_highlands_w_4
+
+  17219808:
+    template: Wolf_Zombie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [12, 13]
+
+  17219809:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_w_5
+
+  17219810:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_w_5
+
+  17219811:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_w_5
+
+  17219812:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_w_5
+
+  17219813:
+    template: Mad_Sheep
+    level:    [9, 10]
+    region:   konschtat_highlands_w_5
+
+  17219814:
+    template: Mad_Sheep
+    level:    [9, 10]
+    region:   konschtat_highlands_w_5
+
+  17219815:
+    template: Mad_Sheep
+    level:    [9, 10]
+    region:   konschtat_highlands_w_5
+
+  17219816:
+    template: Strolling_Sapling
+    level:    [12, 13]
+    region:   konschtat_highlands_w_5
+
+  17219817:
+    template: Strolling_Sapling
+    level:    [12, 13]
+    region:   konschtat_highlands_w_5
+
+  17219818:
+    template: Wolf_Zombie
+    at:       [-346.462, 16.385, 39.794, 127]
+    level:    [9, 10]
+
+  17219819:
+    template: Goblin_Thug
+    level:    [12, 13]
+    region:   konschtat_highlands_w_2
+
+  17219820:
+    template: Goblin_Thug
+    level:    [8, 10]
+    region:   konschtat_highlands_w_2
+
+  17219821:
+    template: Goblin_Ambusher
+    level:    [12, 16]
+    region:   konschtat_highlands_w_6
+
+  17219822:
+    template: Goblin_Ambusher
+    level:    [12, 16]
+    region:   konschtat_highlands_w_2
+
+  17219823:
+    template: Goblin_Weaver
+    level:    [9, 10]
+    region:   konschtat_highlands_w_10
+
+  17219824:
+    template: Goblin_Weaver
+    level:    [12, 13]
+    region:   konschtat_highlands_w_2
+
+  17219825:
+    template: Goblin_Weaver
+    level:    [12, 13]
+    region:   konschtat_highlands_w_2
+
+  17219826:
+    template: Goblin_Tinkerer
+    at:       [-267.360, -7.594, -86.026, 127]
+    level:    [9, 10]
+
+  17219827:
+    template: Goblin_Tinkerer
+    level:    [12, 13]
+    region:   konschtat_highlands_w_2
+
+  17219828:
+    template: Goblin_Butcher
+    at:       [-443.405, 7.740, -34.818, 127]
+    level:    [9, 10]
+
+  17219829:
+    template: Goblin_Butcher
+    level:    [9, 10]
+    region:   konschtat_highlands_w_2
+
+  17219830:
+    template: Skeleton_Warrior
+    at:       [-365.392, 10.289, -25.143, 90]
+    level:    [10, 12]
+
+  17219831:
+    template: Skeleton_Sorcerer
+    at:       [-409.075, -7.404, -123.000, 123]
+    level:    [11, 13]
+
+  17219832:
+    template: Grenade
+    level:    [15, 17]
+    region:   konschtat_highlands_w_9
+
+  17219833:
+    template: Goblin_Weaver
+    at:       [-416.207, -2.123, -138.556, 43]
+    level:    [12, 13]
+
+  17219834:
+    template: Goblin_Tinkerer
+    at:       [-401.835, -0.770, -162.697, 35]
+    level:    [12, 13]
+
+  17219835:
+    template: Goblin_Butcher
+    at:       [-419.927, -1.628, -137.729, 127]
+    level:    [8, 9]
+
+  17219836:
+    template: Goblin_Thug
+    at:       [-516.770, 0.199, 48.224, 127]
+    level:    [8, 9]
+
+  17219837:
+    template: Goblin_Ambusher
+    at:       [-457.036, 14.437, 22.029, 27]
+    level:    [12, 16]
+
+  17219838:
+    template: Goblin_Weaver
+    at:       [-457.000, 14.000, 15.000, 94]
+    level:    [11, 11]
+
+  17219839:
+    template: Huge_Wasp
+    level:    [11, 12]
+    region:   konschtat_highlands_c
+
+  17219840:
+    template: Huge_Wasp
+    level:    [11, 12]
+    region:   konschtat_highlands_c
+
+  17219841:
+    template: Mad_Sheep
+    level:    [9, 10]
+    region:   konschtat_highlands_c
+
+  17219842:
+    template: Mad_Sheep
+    level:    [9, 10]
+    region:   konschtat_highlands_c
+
+  17219843:
+    template: Mad_Sheep
+    level:    [9, 10]
+    region:   konschtat_highlands_c
+
+  17219844:
+    template: Mad_Sheep
+    level:    [9, 10]
+    region:   konschtat_highlands_c
+
+  17219845:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_c
+
+  17219846:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_c
+
+  17219847:
+    template: Wolf_Zombie
+    at:       [-235.061, 16.179, 62.048, 83]
+    level:    [9, 10]
+
+  17219848:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_c_3
+
+  17219849:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_c_3
+
+  17219850:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_c_3
+
+  17219851:
+    template: Huge_Wasp
+    level:    [11, 12]
+    region:   konschtat_highlands_c_3
+
+  17219852:
+    template: Huge_Wasp
+    level:    [11, 12]
+    region:   konschtat_highlands_c_3
+
+  17219853:
+    template: Huge_Wasp
+    level:    [11, 12]
+    region:   konschtat_highlands_c_3
+
+  17219854:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_c_3
+
+  17219855:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_c_3
+
+  17219856:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_c_3
+
+  17219857:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_c_3
+
+  17219858:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_c_3
+
+  17219859:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_c_4
+
+  17219860:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_c_4
+
+  17219861:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_c_4
+
+  17219862:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_c_4
+
+  17219863:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_c_4
+
+  17219864:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_c_4
+
+  17219865:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_c_4
+
+  17219866:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_c_4
+
+  17219867:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_c_4
+
+  17219868:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_c_4
+
+  17219869:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_c_4
+
+  17219870:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_c_4
+
+  17219871:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_c_4
+
+  17219872:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_c_4
+
+  17219873:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_c_4
+
+  17219874:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_c_4
+
+  17219875:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_c_4
+
+  17219876:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_c_4
+
+  17219877:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_c_4
+
+  17219878:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_c_4
+
+  17219879:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_c_4
+
+  17219880:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_c_4
+
+  17219881:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_c_4
+
+  17219882:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_c_4
+
+  17219883:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_c_4
+
+  17219884:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_c_4
+
+  17219885:
+    template: Tremor_Ram
+    level:    [22, 23]
+    region:   konschtat_highlands_c_4
+
+  17219886:
+    template: Rampaging_Ram
+    level:    [27, 28]
+    region:   konschtat_highlands_n_6
+
+  17219887:
+    template: Steelfleece_Baldarich
+    at:       [-10.000, 7.000, 45.000, 127]
+    level:    [55, 56]
+
+  17219888:
+    template: Young_Quadav
+    level:    [9, 10]
+    region:   konschtat_highlands_c_4
+
+  17219889:
+    template: Veteran_Quadav
+    level:    [13, 14]
+    region:   konschtat_highlands_c_4
+
+  17219890:
+    template: Greater_Quadav
+    level:    [13, 14]
+    region:   konschtat_highlands_c_4
+
+  17219891:
+    template: Onyx_Quadav
+    level:    [13, 14]
+    region:   konschtat_highlands_c_4
+
+  17219892:
+    template: Amethyst_Quadav
+    level:    [9, 10]
+    region:   konschtat_highlands_c_4
+
+  17219893:
+    template: Amber_Quadav
+    level:    [9, 10]
+    region:   konschtat_highlands_c_4
+
+  17219894:
+    template: Skeleton_Warrior
+    at:       [-37.801, 31.560, 365.201, 127]
+    level:    [10, 12]
+
+  17219895:
+    template: Skeleton_Sorcerer
+    at:       [-43.670, 15.382, 228.732, 127]
+    level:    [11, 13]
+
+  17219896:
+    template: Ghost
+    level:    [15, 16]
+    region:   konschtat_highlands_c_3
+
+  17219897:
+    template: Grenade
+    level:    [15, 16]
+    region:   konschtat_highlands_n_5
+
+  17219898:
+    template: Earth_Elemental
+    level:    [18, 20]
+    region:   konschtat_highlands_c_4
+
+  17219899:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_w_8
+
+  17219900:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_w_8
+
+  17219901:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_w_8
+
+  17219902:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_w_8
+
+  17219903:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_w_8
+
+  17219904:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_w_8
+
+  17219905:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_w_8
+
+  17219906:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_w_8
+
+  17219907:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_w_8
+
+  17219908:
+    template: Wolf_Zombie
+    at:       [-317.749, 19.378, 226.035, 64]
+    level:    [12, 13]
+
+  17219909:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_w_3
+
+  17219910:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_w_3
+
+  17219911:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_w_3
+
+  17219912:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_w_3
+
+  17219913:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_w_3
+
+  17219914:
+    template: Huge_Wasp
+    level:    [9, 10]
+    region:   konschtat_highlands_w_3
+
+  17219915:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_w_3
+
+  17219916:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_w_3
+
+  17219917:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_w_3
+
+  17219918:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   konschtat_highlands_w_3
+
+  17219919:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   konschtat_highlands_w
+
+  17219920:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   konschtat_highlands_w
+
+  17219921:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   konschtat_highlands_w
+
+  17219922:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   konschtat_highlands_w
+
+  17219923:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   konschtat_highlands_w
+
+  17219924:
+    template: Ghost
+    at:       [-710.913, 2.309, 101.913, 119]
+    level:    [15, 16]
+
+  17219925:
+    template: Earth_Elemental
+    at:       [-700.529, 2.963, 104.203, 104]
+    level:    [18, 20]
+
+  17219926:
+    template: Huge_Wasp
+    level:    [10, 11]
+    region:   konschtat_highlands_w_3
+
+  17219927:
+    template: Huge_Wasp
+    level:    [10, 11]
+    region:   konschtat_highlands_w_3
+
+  17219928:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_w_3
+
+  17219929:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_w_3
+
+  17219930:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_w_3
+
+  17219931:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_w_3
+
+  17219932:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_w_3
+
+  17219933:
+    template: Stray_Mary
+    at:       [-212.268, 39.477, 329.581, 127]
+    level:    [19, 20]
+
+  17219934:
+    template: Strolling_Sapling
+    level:    [10, 11]
+    region:   konschtat_highlands_w_3
+
+  17219935:
+    template: Strolling_Sapling
+    level:    [10, 11]
+    region:   konschtat_highlands_w_3
+
+  17219936:
+    template: Wolf_Zombie
+    level:    [12, 13]
+    region:   konschtat_highlands_nw
+
+  17219937:
+    template: Huge_Wasp
+    level:    [10, 11]
+    region:   konschtat_highlands_n_3
+
+  17219938:
+    template: Huge_Wasp
+    level:    [10, 11]
+    region:   konschtat_highlands_n_3
+
+  17219939:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_n_3
+
+  17219940:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_n_3
+
+  17219941:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_n_3
+
+  17219942:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   konschtat_highlands_n_3
+
+  17219943:
+    template: Strolling_Sapling
+    level:    [10, 11]
+    region:   konschtat_highlands_n_3
+
+  17219944:
+    template: Strolling_Sapling
+    level:    [10, 11]
+    region:   konschtat_highlands_n_3
+
+  17219945:
+    template: Wolf_Zombie
+    level:    [12, 13]
+    region:   konschtat_highlands_c_5
+
+  17219946:
+    template: Goblin_Tinkerer
+    at:       [-111.048, 11.646, 270.473, 49]
+    level:    [12, 13]
+
+  17219947:
+    template: Goblin_Thug
+    level:    [9, 10]
+    region:   konschtat_highlands_w_3
+
+  17219948:
+    template: Goblin_Ambusher
+    level:    [13, 14]
+    region:   konschtat_highlands_w_3
+
+  17219949:
+    template: Goblin_Ambusher
+    level:    [13, 14]
+    region:   konschtat_highlands_w_3
+
+  17219950:
+    template: Goblin_Weaver
+    level:    [9, 10]
+    region:   konschtat_highlands_w_3
+
+  17219951:
+    template: Goblin_Weaver
+    level:    [9, 10]
+    region:   konschtat_highlands_w_3
+
+  17219952:
+    template: Goblin_Tinkerer
+    level:    [13, 14]
+    region:   konschtat_highlands_w_3
+
+  17219953:
+    template: Goblin_Butcher
+    level:    [13, 14]
+    region:   konschtat_highlands_w_3
+
+  17219954:
+    template: Goblin_Butcher
+    level:    [13, 14]
+    region:   konschtat_highlands_w_3
+
+  17219955:
+    template: Skeleton_Warrior
+    at:       [-314.998, 30.755, 271.463, 70]
+    level:    [10, 12]
+
+  17219956:
+    template: Skeleton_Sorcerer
+    at:       [-191.612, 38.647, 318.807, 127]
+    level:    [11, 13]
+
+  17219957:
+    template: Thunder_Elemental
+    level:    [18, 20]
+    region:   konschtat_highlands_w_3
+
+  17219958:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_n_2
+
+  17219959:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_n_2
+
+  17219960:
+    template: Huge_Wasp
+    level:    [10, 11]
+    region:   konschtat_highlands_n_2
+
+  17219961:
+    template: Huge_Wasp
+    level:    [10, 11]
+    region:   konschtat_highlands_n_2
+
+  17219962:
+    template: Mad_Sheep
+    level:    [13, 14]
+    region:   konschtat_highlands_n_2
+
+  17219963:
+    template: Mad_Sheep
+    level:    [13, 14]
+    region:   konschtat_highlands_n_2
+
+  17219964:
+    template: Mad_Sheep
+    level:    [13, 14]
+    region:   konschtat_highlands_n_2
+
+  17219965:
+    template: Strolling_Sapling
+    level:    [10, 11]
+    region:   konschtat_highlands_n_2
+
+  17219966:
+    template: Strolling_Sapling
+    level:    [10, 11]
+    region:   konschtat_highlands_n_2
+
+  17219967:
+    template: Wolf_Zombie
+    level:    [13, 14]
+    region:   konschtat_highlands_n_4
+
+  17219968:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_n_2
+
+  17219969:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_n_2
+
+  17219970:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_n_2
+
+  17219971:
+    template: Huge_Wasp
+    level:    [10, 11]
+    region:   konschtat_highlands_n_2
+
+  17219972:
+    template: Huge_Wasp
+    level:    [10, 11]
+    region:   konschtat_highlands_n_2
+
+  17219973:
+    template: Mad_Sheep
+    level:    [13, 14]
+    region:   konschtat_highlands_n_2
+
+  17219974:
+    template: Mad_Sheep
+    level:    [13, 14]
+    region:   konschtat_highlands_n_2
+
+  17219975:
+    template: Mad_Sheep
+    level:    [13, 14]
+    region:   konschtat_highlands_n_2
+
+  17219976:
+    template: Strolling_Sapling
+    level:    [10, 11]
+    region:   konschtat_highlands_n_2
+
+  17219977:
+    template: Strolling_Sapling
+    level:    [10, 11]
+    region:   konschtat_highlands_n_2
+
+  17219978:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_n_2
+
+  17219979:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_n_2
+
+  17219980:
+    template: Mist_Lizard
+    level:    [11, 12]
+    region:   konschtat_highlands_n_2
+
+  17219981:
+    template: Huge_Wasp
+    level:    [10, 11]
+    region:   konschtat_highlands_n_2
+
+  17219982:
+    template: Huge_Wasp
+    level:    [10, 11]
+    region:   konschtat_highlands_n_2
+
+  17219983:
+    template: Mad_Sheep
+    level:    [13, 14]
+    region:   konschtat_highlands_n_2
+
+  17219984:
+    template: Mad_Sheep
+    level:    [13, 14]
+    region:   konschtat_highlands_n_2
+
+  17219985:
+    template: Strolling_Sapling
+    level:    [10, 11]
+    region:   konschtat_highlands_n_2
+
+  17219986:
+    template: Strolling_Sapling
+    level:    [10, 11]
+    region:   konschtat_highlands_n_2
+
+  17219987:
+    template: Tremor_Ram
+    level:    [22, 23]
+    region:   konschtat_highlands_n_2
+
+  17219988:
+    template: Goblin_Ambusher
+    level:    [13, 14]
+    region:   konschtat_highlands_n_2
+
+  17219989:
+    template: Goblin_Tinkerer
+    level:    [13, 14]
+    region:   konschtat_highlands_n_2
+
+  17219990:
+    template: Goblin_Butcher
+    level:    [13, 14]
+    region:   konschtat_highlands_n_2
+
+  17219991:
+    template: Veteran_Quadav
+    at:       [-167.325, 63.785, 589.155, 127]
+    level:    [14, 15]
+
+  17219992:
+    template: Greater_Quadav
+    level:    [14, 15]
+    region:   konschtat_highlands_n_2
+
+  17219993:
+    template: Onyx_Quadav
+    at:       [-103.799, 50.135, 458.197, 127]
+    level:    [14, 15]
+
+  17219994:
+    template: Skeleton_Warrior
+    at:       [-155.997, 59.753, 511.910, 43]
+    level:    [10, 12]
+
+  17219995:
+    template: Skeleton_Sorcerer
+    at:       [-176.029, 53.167, 463.645, 101]
+    level:    [11, 13]
+
+  17219996:
+    template: Thunder_Elemental
+    level:    [18, 20]
+    region:   konschtat_highlands_n_2
+
+  17219997:
+    template: Goblin_Digger
+    level:    [13, 14]
+    region:   konschtat_highlands_n
+
+  17219998:
+    template: Goblin_Archaeologist
+    at:       [141.024, 23.679, 248.830, 101]
+    level:    [30, 75]
+
+  17219999:
+    template: Forger
+    at:       [-710.000, 2.000, 102.000, 6]
+    level:    [20, 20]
+
+  17220000:
+    template: Haty
+    at:       [-204.271, 8.118, 36.959, 0]
+    level:    [14, 14]
+
+  17220001:
+    template: Bendigeit_Vran
+    at:       [-2.110, 24.440, 105.396, 127]
+    level:    [14, 14]
+
+  17220002:
+    template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [51, 54]
+
+  17220003:
+    template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [51, 54]
+
+  17220004:
+    template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [51, 54]
+
+  17220005:
+    template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [51, 54]
+
+  17220006:
+    template: Pixie
+    level:    [51, 54]
+    region:   konschtat_highlands_c_2
+
+  17220007:
+    template: Thunderhead
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17220008:
+    template: Yilbegan
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [90, 92]
+
+  17220009:
+    template: Dawon
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [85, 85]
+
+  17220010:
+    template: Tammuz
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [82, 82]
+
+  17220011:
+    template: Chesma
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [82, 82]
+
+  17220012:
+    template: Void_Hare
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17220013:
+    template: Void_Hare
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17220014:
+    template: Void_Hare
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17220015:
+    template: Void_Hare
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17220016:
+    template: Prickly_Sheep
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17220017:
+    template: Prickly_Sheep
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17220018:
+    template: Prickly_Sheep
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17220019:
+    template: Prickly_Sheep
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17220020:
+    template: Gwynn_ap_Nudd
+    at:       [-125.000, 71.549, 720.000, 231]
+    level:    [94, 95]
+
+  17220021:
+    template: Gwynn_ap_Nudd
+    at:       [397.728, -1.861, -4.327, 107]
+    level:    [94, 95]
+
+  17220022:
+    template: Gwynn_ap_Nudd
+    at:       [200.000, -24.500, -400.000, 50]
+    level:    [94, 95]
+
+  17220064:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17220065:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17220066:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17220076:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17220077:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17220078:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17220088:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17220089:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17220090:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17220091:
+    template: Tatenashi_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17220092:
+    template: Hizamaru_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17220093:
+    template: Ubuginu_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17220094:
+    template: Hachiryu_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17220095:
+    template: Omodaka_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17220096:
+    template: Sleepy_Mabel
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17220097:
+    template: Sleepy_Mabel
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17220098:
+    template: Sleepy_Mabel
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17220099:
+    template: Otherworldly_Rimester
+    at:       [208.462, 23.534, 309.907, 74]
+    level:    [0, 0]

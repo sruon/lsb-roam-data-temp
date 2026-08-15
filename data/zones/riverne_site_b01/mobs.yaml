@@ -1,0 +1,868 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  16896001:
+    template: Lesser_Roc
+    level:    [47, 51]
+    region:   riverne_site_b01_se_7
+
+  16896002:
+    template: Lesser_Roc
+    level:    [47, 51]
+    region:   riverne_site_b01_se_7
+
+  16896003:
+    template: Lesser_Roc
+    level:    [47, 51]
+    region:   riverne_site_b01_se_7
+
+  16896004:
+    template: Lesser_Roc
+    level:    [47, 51]
+    region:   riverne_site_b01_se_7
+
+  16896005:
+    template: Lesser_Roc
+    level:    [47, 51]
+    region:   riverne_site_b01_se_7
+
+  16896006:
+    template: Lesser_Roc
+    level:    [47, 51]
+    region:   riverne_site_b01_se_7
+
+  16896007:
+    template: Lesser_Roc
+    level:    [47, 51]
+    region:   riverne_site_b01_se_7
+
+  16896008:
+    template: Lesser_Roc
+    level:    [47, 51]
+    region:   riverne_site_b01_se_7
+
+  16896009:
+    template: Lesser_Roc
+    level:    [47, 51]
+    region:   riverne_site_b01_se_7
+
+  16896010:
+    template: Lesser_Roc
+    level:    [47, 51]
+    region:   riverne_site_b01_se_7
+
+  16896011:
+    template: Pyrodrake
+    level:    [50, 53]
+    region:   riverne_site_b01_se_7
+
+  16896012:
+    template: Pyrodrake
+    level:    [50, 53]
+    region:   riverne_site_b01_se_7
+
+  16896013:
+    template: Nimbus_Hippogryph
+    level:    [49, 52]
+    region:   riverne_site_b01_se_7
+
+  16896014:
+    template: Nimbus_Hippogryph
+    level:    [49, 52]
+    region:   riverne_site_b01_se_7
+
+  16896015:
+    template: Nimbus_Hippogryph
+    level:    [49, 52]
+    region:   riverne_site_b01_se_7
+
+  16896016:
+    template: Nimbus_Hippogryph
+    level:    [49, 52]
+    region:   riverne_site_b01_se_7
+
+  16896017:
+    template: Nimbus_Hippogryph
+    at:       [635.841, -0.114, -558.070, 175]
+    level:    [49, 52]
+
+  16896018:
+    template: Pyrodrake
+    level:    [50, 53]
+    region:   riverne_site_b01_se_5
+
+  16896019:
+    template: Nimbus_Hippogryph
+    level:    [49, 52]
+    region:   riverne_site_b01_se_5
+
+  16896020:
+    template: Nimbus_Hippogryph
+    level:    [49, 52]
+    region:   riverne_site_b01_se_5
+
+  16896021:
+    template: Thunder_Elemental
+    level:    [57, 64]
+    region:   riverne_site_b01_se_5
+
+  16896022:
+    template: Lesser_Roc
+    level:    [47, 51]
+    region:   riverne_site_b01_se_6
+
+  16896023:
+    template: Lesser_Roc
+    level:    [47, 51]
+    region:   riverne_site_b01_se_6
+
+  16896024:
+    template: Pyrodrake
+    level:    [50, 53]
+    region:   riverne_site_b01_se_6
+
+  16896025:
+    template: Pyrodrake
+    level:    [50, 53]
+    region:   riverne_site_b01_se_6
+
+  16896026:
+    template: Pyrodrake
+    level:    [50, 53]
+    region:   riverne_site_b01_se_6
+
+  16896027:
+    template: Pyrodrake
+    level:    [50, 53]
+    region:   riverne_site_b01_se_6
+
+  16896028:
+    template: Pyrodrake
+    level:    [50, 53]
+    region:   riverne_site_b01_se_6
+
+  16896029:
+    template: Nimbus_Hippogryph
+    level:    [49, 52]
+    region:   riverne_site_b01_se_6
+
+  16896030:
+    template: Nimbus_Hippogryph
+    at:       [683.102, -0.298, -708.909, 56]
+    level:    [49, 52]
+
+  16896031:
+    template: Pyrodrake
+    at:       [472.589, -2.392, -776.482, 97]
+    level:    [50, 53]
+
+  16896032:
+    template: Lesser_Roc
+    level:    [47, 51]
+    region:   riverne_site_b01_se_4
+
+  16896033:
+    template: Lesser_Roc
+    level:    [47, 51]
+    region:   riverne_site_b01_se_4
+
+  16896034:
+    template: Lesser_Roc
+    level:    [47, 51]
+    region:   riverne_site_b01_se_4
+
+  16896035:
+    template: Pyrodrake
+    level:    [50, 53]
+    region:   riverne_site_b01_se_4
+
+  16896036:
+    template: Pyrodrake
+    level:    [50, 53]
+    region:   riverne_site_b01_se_4
+
+  16896037:
+    template: Nimbus_Hippogryph
+    level:    [49, 52]
+    region:   riverne_site_b01_se_4
+
+  16896038:
+    template: Nimbus_Hippogryph
+    at:       [443.615, 0.393, -537.771, 159]
+    level:    [49, 52]
+
+  16896039:
+    template: Nimbus_Hippogryph
+    at:       [457.170, 0.215, -444.924, 185]
+    level:    [49, 52]
+
+  16896040:
+    template: Lesser_Roc
+    level:    [47, 51]
+    region:   riverne_site_b01_se_3
+
+  16896041:
+    template: Lesser_Roc
+    level:    [47, 51]
+    region:   riverne_site_b01_se_3
+
+  16896042:
+    template: Lesser_Roc
+    level:    [47, 51]
+    region:   riverne_site_b01_se_3
+
+  16896043:
+    template: Strato_Hippogryph
+    level:    [55, 57]
+    region:   riverne_site_b01_se_2
+
+  16896044:
+    template: Strato_Hippogryph
+    level:    [55, 57]
+    region:   riverne_site_b01_se_2
+
+  16896045:
+    template: Strato_Hippogryph
+    level:    [55, 57]
+    region:   riverne_site_b01_se_2
+
+  16896046:
+    template: Strato_Hippogryph
+    level:    [55, 57]
+    region:   riverne_site_b01_se_2
+
+  16896047:
+    template: Lunantishee
+    level:    [55, 58]
+    region:   riverne_site_b01_se_2
+
+  16896048:
+    template: Lunantishee
+    level:    [55, 58]
+    region:   riverne_site_b01_se_2
+
+  16896049:
+    template: Lunantishee
+    level:    [55, 58]
+    region:   riverne_site_b01_se_2
+
+  16896050:
+    template: Lunantishee
+    level:    [55, 58]
+    region:   riverne_site_b01_se_2
+
+  16896051:
+    template: Thunder_Elemental
+    level:    [57, 64]
+    region:   riverne_site_b01_se_2
+
+  16896052:
+    template: Ignidrake
+    level:    [57, 59]
+    region:   riverne_site_b01_se
+
+  16896053:
+    template: Ignidrake
+    level:    [57, 59]
+    region:   riverne_site_b01_se
+
+  16896054:
+    template: Ignidrake
+    level:    [57, 59]
+    region:   riverne_site_b01_se
+
+  16896055:
+    template: Ignidrake
+    level:    [57, 59]
+    region:   riverne_site_b01_se
+
+  16896056:
+    template: Ignidrake
+    level:    [57, 59]
+    region:   riverne_site_b01_se
+
+  16896057:
+    template: Nitro_Cluster
+    level:    [55, 57]
+    region:   riverne_site_b01_se
+
+  16896058:
+    template: Nitro_Cluster
+    level:    [55, 57]
+    region:   riverne_site_b01_se
+
+  16896059:
+    template: Nitro_Cluster
+    level:    [55, 57]
+    region:   riverne_site_b01_se
+
+  16896060:
+    template: Nitro_Cluster
+    level:    [55, 57]
+    region:   riverne_site_b01_se
+
+  16896061:
+    template: Nitro_Cluster
+    at:       [292.856, -2.825, -744.128, 12]
+    level:    [55, 57]
+
+  16896062:
+    template: Nitro_Cluster
+    at:       [293.546, -2.828, -744.053, 109]
+    level:    [55, 57]
+
+  16896063:
+    template: Blazedrake
+    level:    [85, 86]
+    region:   riverne_site_b01_s_9
+
+  16896064:
+    template: Blazedrake
+    level:    [85, 86]
+    region:   riverne_site_b01_s_9
+
+  16896065:
+    template: Blazedrake
+    level:    [85, 86]
+    region:   riverne_site_b01_s_9
+
+  16896066:
+    template: Blazedrake
+    level:    [85, 86]
+    region:   riverne_site_b01_s_8
+
+  16896067:
+    template: Blazedrake
+    level:    [85, 86]
+    region:   riverne_site_b01_s_10
+
+  16896068:
+    template: Blazedrake
+    level:    [85, 86]
+    region:   riverne_site_b01_s_10
+
+  16896069:
+    template: Blazedrake
+    at:       [125.550, -0.203, -642.603, 106]
+    level:    [85, 86]
+
+  16896070:
+    template: Strato_Hippogryph
+    level:    [55, 57]
+    region:   riverne_site_b01_s_11
+
+  16896071:
+    template: Strato_Hippogryph
+    level:    [55, 57]
+    region:   riverne_site_b01_s_11
+
+  16896072:
+    template: Lunantishee
+    level:    [55, 58]
+    region:   riverne_site_b01_s_11
+
+  16896073:
+    template: Lunantishee
+    level:    [55, 58]
+    region:   riverne_site_b01_s_11
+
+  16896074:
+    template: Strato_Hippogryph
+    level:    [55, 57]
+    region:   riverne_site_b01_s_7
+
+  16896075:
+    template: Strato_Hippogryph
+    level:    [55, 57]
+    region:   riverne_site_b01_s_7
+
+  16896076:
+    template: Lunantishee
+    level:    [55, 58]
+    region:   riverne_site_b01_s_7
+
+  16896077:
+    template: Lunantishee
+    level:    [55, 58]
+    region:   riverne_site_b01_s_7
+
+  16896078:
+    template: Blazedrake
+    level:    [85, 86]
+    region:   riverne_site_b01_s_2
+
+  16896079:
+    template: Blazedrake
+    level:    [85, 86]
+    region:   riverne_site_b01_s_2
+
+  16896080:
+    template: Blazedrake
+    level:    [85, 86]
+    region:   riverne_site_b01_s_2
+
+  16896081:
+    template: Blazedrake
+    level:    [85, 86]
+    region:   riverne_site_b01_s_3
+
+  16896082:
+    template: Blazedrake
+    level:    [85, 86]
+    region:   riverne_site_b01_s
+
+  16896083:
+    template: Blazedrake
+    level:    [85, 86]
+    region:   riverne_site_b01_s
+
+  16896084:
+    template: Blazedrake
+    level:    [85, 86]
+    region:   riverne_site_b01_s
+
+  16896085:
+    template: Blazedrake
+    level:    [85, 86]
+    region:   riverne_site_b01_s
+
+  16896086:
+    template: Blazedrake
+    level:    [85, 86]
+    region:   riverne_site_b01_s_4
+
+  16896087:
+    template: Blazedrake
+    level:    [85, 86]
+    region:   riverne_site_b01_s_4
+
+  16896088:
+    template: Blazedrake
+    level:    [85, 86]
+    region:   riverne_site_b01_s_4
+
+  16896089:
+    template: Blazedrake
+    level:    [85, 86]
+    region:   riverne_site_b01_s_6
+
+  16896090:
+    template: Blazedrake
+    level:    [85, 86]
+    region:   riverne_site_b01_s_6
+
+  16896091:
+    template: Blazedrake
+    level:    [85, 86]
+    region:   riverne_site_b01_s_5
+
+  16896092:
+    template: Blazedrake
+    level:    [85, 86]
+    region:   riverne_site_b01_s_5
+
+  16896093:
+    template: Lesser_Roc
+    level:    [47, 51]
+    region:   riverne_site_b01_ne_6
+
+  16896094:
+    template: Lesser_Roc
+    at:       [678.360, -24.119, 393.556, 58]
+    level:    [47, 51]
+
+  16896095:
+    template: Lesser_Roc
+    at:       [714.281, -24.491, 355.088, 105]
+    level:    [47, 51]
+
+  16896096:
+    template: Lesser_Roc
+    at:       [723.062, -23.468, 348.277, 38]
+    level:    [47, 51]
+
+  16896097:
+    template: Air_Elemental
+    at:       [705.393, 20.780, 644.721, 104]
+    level:    [57, 60]
+
+  16896098:
+    template: Lesser_Roc
+    at:       [642.482, 20.070, 654.605, 80]
+    level:    [47, 51]
+
+  16896099:
+    template: Lesser_Roc
+    at:       [711.059, 20.317, 625.244, 107]
+    level:    [47, 51]
+
+  16896100:
+    template: Lesser_Roc
+    at:       [706.592, 20.782, 597.548, 125]
+    level:    [47, 51]
+
+  16896101:
+    template: Nimbus_Hippogryph
+    at:       [650.770, 20.052, 676.513, 251]
+    level:    [49, 52]
+
+  16896102:
+    template: Nimbus_Hippogryph
+    level:    [49, 52]
+    region:   riverne_site_b01_ne_5
+
+  16896103:
+    template: Nimbus_Hippogryph
+    level:    [49, 52]
+    region:   riverne_site_b01_ne_5
+
+  16896104:
+    template: Nimbus_Hippogryph
+    level:    [49, 52]
+    region:   riverne_site_b01_ne_5
+
+  16896105:
+    template: Nimbus_Hippogryph
+    level:    [49, 52]
+    region:   riverne_site_b01_ne_5
+
+  16896106:
+    template: Nimbus_Hippogryph
+    level:    [49, 52]
+    region:   riverne_site_b01_ne_5
+
+  16896107:
+    template: Imdugud
+    at:       [655.263, 20.664, 651.320, 0]
+    level:    [60, 60]
+
+  16896108:
+    template: Nimbus_Hippogryph
+    level:    [49, 52]
+    region:   riverne_site_b01_ne_4
+
+  16896109:
+    template: Nimbus_Hippogryph
+    level:    [49, 52]
+    region:   riverne_site_b01_ne_4
+
+  16896110:
+    template: Nimbus_Hippogryph
+    level:    [49, 52]
+    region:   riverne_site_b01_ne_4
+
+  16896111:
+    template: Lesser_Roc
+    level:    [47, 51]
+    region:   riverne_site_b01_ne_3
+
+  16896112:
+    template: Pyrodrake
+    level:    [50, 53]
+    region:   riverne_site_b01_ne_2
+
+  16896113:
+    template: Pyrodrake
+    level:    [50, 53]
+    region:   riverne_site_b01_ne_2
+
+  16896114:
+    template: Pyrodrake
+    level:    [50, 53]
+    region:   riverne_site_b01_ne_2
+
+  16896115:
+    template: Air_Elemental
+    at:       [191.265, 15.734, 692.917, 93]
+    level:    [57, 60]
+
+  16896116:
+    template: Lesser_Roc
+    level:    [47, 51]
+    region:   riverne_site_b01_ne
+
+  16896117:
+    template: Nimbus_Hippogryph
+    level:    [49, 52]
+    region:   riverne_site_b01_ne
+
+  16896118:
+    template: Nitro_Cluster
+    level:    [55, 57]
+    region:   riverne_site_b01_n_3
+
+  16896119:
+    template: Nitro_Cluster
+    level:    [55, 57]
+    region:   riverne_site_b01_n_3
+
+  16896120:
+    template: Lunantishee
+    level:    [55, 58]
+    region:   riverne_site_b01_n_2
+
+  16896121:
+    template: Lunantishee
+    level:    [55, 58]
+    region:   riverne_site_b01_n_2
+
+  16896122:
+    template: Lunantishee
+    level:    [55, 58]
+    region:   riverne_site_b01_n_2
+
+  16896123:
+    template: Air_Elemental
+    at:       [-265.311, 32.163, 738.200, 21]
+    level:    [58, 61]
+
+  16896124:
+    template: Strato_Hippogryph
+    level:    [55, 57]
+    region:   riverne_site_b01_n
+
+  16896125:
+    template: Strato_Hippogryph
+    level:    [55, 57]
+    region:   riverne_site_b01_n
+
+  16896126:
+    template: Lunantishee
+    level:    [55, 58]
+    region:   riverne_site_b01_n
+
+  16896127:
+    template: Lunantishee
+    level:    [55, 58]
+    region:   riverne_site_b01_n
+
+  16896128:
+    template: Lunantishee
+    level:    [55, 58]
+    region:   riverne_site_b01_n
+
+  16896129:
+    template: Lunantishee
+    level:    [55, 58]
+    region:   riverne_site_b01_n
+
+  16896130:
+    template: Lunantishee
+    level:    [55, 58]
+    region:   riverne_site_b01_n
+
+  16896131:
+    template: Boroka
+    at:       [-365.921, -31.255, 486.367, 161]
+    level:    [58, 60]
+
+  16896132:
+    template: Ignidrake
+    level:    [57, 59]
+    region:   riverne_site_b01_nw_4
+
+  16896133:
+    template: Lunantishee
+    level:    [55, 58]
+    region:   riverne_site_b01_nw_4
+
+  16896134:
+    template: Air_Elemental
+    at:       [-586.808, 1.079, 689.897, 193]
+    level:    [58, 61]
+
+  16896135:
+    template: Ignidrake
+    level:    [57, 59]
+    region:   riverne_site_b01_nw_2
+
+  16896136:
+    template: Ignidrake
+    level:    [57, 59]
+    region:   riverne_site_b01_nw_2
+
+  16896137:
+    template: Ignidrake
+    level:    [57, 59]
+    region:   riverne_site_b01_nw_2
+
+  16896138:
+    template: Ignidrake
+    level:    [57, 59]
+    region:   riverne_site_b01_nw_2
+
+  16896139:
+    template: Ignidrake
+    level:    [57, 59]
+    region:   riverne_site_b01_nw_2
+
+  16896140:
+    template: Nitro_Cluster
+    level:    [55, 57]
+    region:   riverne_site_b01_nw_3
+
+  16896141:
+    template: Nitro_Cluster
+    level:    [55, 57]
+    region:   riverne_site_b01_nw_3
+
+  16896142:
+    template: Air_Elemental
+    at:       [-721.281, -0.231, 530.199, 35]
+    level:    [58, 61]
+
+  16896143:
+    template: Strato_Hippogryph
+    level:    [55, 57]
+    region:   riverne_site_b01_nw
+
+  16896144:
+    template: Strato_Hippogryph
+    level:    [55, 57]
+    region:   riverne_site_b01_nw
+
+  16896145:
+    template: Strato_Hippogryph
+    level:    [55, 57]
+    region:   riverne_site_b01_nw
+
+  16896146:
+    template: Strato_Hippogryph
+    level:    [55, 57]
+    region:   riverne_site_b01_nw
+
+  16896147:
+    template: Strato_Hippogryph
+    level:    [55, 57]
+    region:   riverne_site_b01_w
+
+  16896148:
+    template: Lunantishee
+    level:    [55, 58]
+    region:   riverne_site_b01_w
+
+  16896149:
+    template: Ignidrake
+    level:    [57, 59]
+    region:   riverne_site_b01_nw_2
+
+  16896150:
+    template: Nitro_Cluster
+    level:    [55, 57]
+    region:   riverne_site_b01_w_2
+
+  16896151:
+    template: Nitro_Cluster
+    level:    [55, 57]
+    region:   riverne_site_b01_w_2
+
+  16896152:
+    template: Spell_Spitter_Spilospok
+    at:       [278.386, 88.067, 841.088, 27]
+    level:    [55, 55]
+
+  16896153:
+    template: Chemical_Cook_Chemachiq
+    at:       [273.748, 88.160, 840.823, 20]
+    level:    [55, 55]
+
+  16896154:
+    template: Book_Browser_Bokabraq
+    at:       [278.558, 88.079, 844.786, 25]
+    level:    [55, 55]
+
+  16896155:
+    template: Unstable_Cluster
+    at:       [309.500, -1.189, -706.500, 134]
+    level:    [56, 57]
+
+  16896156:
+    template: Bahamut
+    at:       [-706.661, 0.405, 820.898, 3]
+    level:    [85, 85]
+
+  16896157:
+    template: Bahamut_bv2
+    at:       [-706.971, 0.208, 828.373, 41]
+    level:    [92, 92]
+
+  16896158:
+    template: Ouryu_bv2
+    at:       [-700.194, 0.490, 841.407, 67]
+    level:    [88, 88]
+
+  16896159:
+    template: Tiamat_bv2
+    at:       [-678.588, 0.776, 819.903, 126]
+    level:    [88, 88]
+
+  16896160:
+    template: Jormungand_bv2
+    at:       [-701.959, 0.869, 797.652, 156]
+    level:    [88, 88]
+
+  16896161:
+    template: Vrtra_bv2
+    at:       [-721.731, 0.456, 818.535, 23]
+    level:    [88, 88]
+
+  16896162:
+    template: Ziryu
+    at:       [-687.889, 0.321, 791.656, 0]
+    level:    [74, 76]
+
+  16896163:
+    template: Ziryu
+    at:       [-697.289, 1.902, 788.694, 0]
+    level:    [74, 76]
+
+  16896164:
+    template: Ziryu
+    at:       [-716.051, 0.816, 813.272, 0]
+    level:    [74, 76]
+
+  16896165:
+    template: Ziryu
+    at:       [-693.144, 0.284, 816.515, 0]
+    level:    [74, 76]
+
+  16896166:
+    template: Water_Elemental
+    at:       [-704.841, 0.661, 797.990, 212]
+    level:    [74, 76]
+
+  16896167:
+    template: Earth_Elemental
+    at:       [-696.848, 0.353, 805.876, 198]
+    level:    [74, 76]
+
+  16896168:
+    template: Pey
+    at:       [-688.086, -0.043, 836.809, 113]
+    level:    [78, 79]
+
+  16896169:
+    template: Pey
+    at:       [-684.670, 0.217, 824.265, 181]
+    level:    [78, 79]
+
+  16896170:
+    template: Iruci
+    at:       [-699.758, 0.285, 802.629, 104]
+    level:    [78, 79]
+
+  16896171:
+    template: Iruci
+    at:       [-686.287, 0.157, 828.709, 165]
+    level:    [78, 79]
+
+  16896172:
+    template: Airi
+    at:       [-701.484, 0.481, 802.338, 96]
+    level:    [78, 79]
+
+  16896173:
+    template: Airi
+    at:       [-709.580, 0.302, 827.196, 94]
+    level:    [78, 79]

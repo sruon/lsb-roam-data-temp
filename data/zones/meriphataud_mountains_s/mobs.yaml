@@ -1,0 +1,3623 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17174529:
+    template: Yagudo_Chanter
+    at:       [720.560, -32.455, -36.436, 60]
+    level:    [76, 79]
+
+  17174530:
+    template: Yagudo_Prioress
+    at:       [711.629, -31.956, -41.285, 157]
+    level:    [76, 79]
+
+  17174531:
+    template: Yagudos_Elemental
+    at:       [714.613, -32.003, -42.543, 152]
+    level:    [71, 73]
+
+  17174532:
+    template: Yagudo_Knight_Templar
+    at:       [704.866, -29.840, 11.101, 243]
+    level:    [76, 79]
+
+  17174533:
+    template: Yagudo_High_Priest
+    at:       [703.364, -29.167, 41.600, 195]
+    level:    [76, 79]
+
+  17174534:
+    template: Yagudo_Eradicator
+    at:       [695.093, -31.552, -23.614, 64]
+    level:    [76, 79]
+
+  17174535:
+    template: Yagudo_Prelate
+    at:       [686.057, -32.109, -51.378, 126]
+    level:    [76, 79]
+
+  17174536:
+    template: Yagudo_Sentinel
+    at:       [718.024, -32.269, 15.324, 81]
+    level:    [76, 79]
+
+  17174537:
+    template: Yagudo_Prioress
+    at:       [669.991, -24.716, 20.593, 126]
+    level:    [76, 79]
+
+  17174538:
+    template: Yagudos_Elemental
+    at:       [671.874, -24.546, 21.697, 126]
+    level:    [71, 73]
+
+  17174539:
+    template: Yagudo_Chanter
+    at:       [667.143, -22.809, 46.838, 100]
+    level:    [76, 79]
+
+  17174540:
+    template: Yagudo_Knight_Templar
+    at:       [638.466, -24.549, 121.435, 225]
+    level:    [76, 79]
+
+  17174541:
+    template: Yagudo_Eradicator
+    at:       [527.448, -24.645, 132.728, 244]
+    level:    [76, 79]
+
+  17174542:
+    template: Yagudo_Sentinel
+    at:       [215.179, -17.387, 272.893, 169]
+    level:    [76, 79]
+
+  17174543:
+    template: Yagudo_High_Priest
+    at:       [397.651, 0.673, -130.461, 181]
+    level:    [76, 79]
+
+  17174544:
+    template: Yagudo_Prelate
+    at:       [430.164, -11.347, -140.247, 204]
+    level:    [76, 79]
+
+  17174545:
+    template: Yagudo_Knight_Templar
+    at:       [355.622, 6.474, -273.632, 183]
+    level:    [76, 79]
+
+  17174546:
+    template: Yagudo_Eradicator
+    at:       [378.084, 0.057, -322.465, 115]
+    level:    [76, 79]
+
+  17174547:
+    template: Yagudo_High_Priest
+    at:       [117.594, 17.437, -68.400, 39]
+    level:    [76, 79]
+
+  17174548:
+    template: Yagudo_Eradicator
+    at:       [154.086, 6.572, -89.571, 63]
+    level:    [76, 79]
+
+  17174549:
+    template: Yagudo_Knight_Templar
+    at:       [69.536, 23.285, -152.917, 247]
+    level:    [76, 79]
+
+  17174550:
+    template: Yagudo_Prelate
+    at:       [84.640, 14.672, -201.445, 61]
+    level:    [76, 79]
+
+  17174551:
+    template: Yagudo_High_Priest
+    at:       [-6.203, 2.878, -95.301, 66]
+    level:    [76, 79]
+
+  17174552:
+    template: Yagudo_Eradicator
+    at:       [-28.136, 23.353, -128.448, 30]
+    level:    [76, 79]
+
+  17174553:
+    template: Yagudo_Chanter
+    at:       [-113.324, 15.303, -244.141, 115]
+    level:    [76, 79]
+
+  17174554:
+    template: Yagudo_Sentinel
+    at:       [-135.479, 7.758, -277.087, 113]
+    level:    [76, 79]
+
+  17174555:
+    template: Yagudo_High_Priest
+    at:       [283.458, -0.309, -8.794, 63]
+    level:    [76, 79]
+
+  17174556:
+    template: Yagudo_Sentinel
+    at:       [25.327, 2.560, 29.206, 117]
+    level:    [76, 79]
+
+  17174557:
+    template: Yagudo_Knight_Templar
+    at:       [17.938, 18.718, -8.547, 21]
+    level:    [76, 79]
+
+  17174558:
+    template: War_Lynx
+    level:    [68, 72]
+    region:   meriphataud_mountains_s_ne_8
+
+  17174559:
+    template: War_Lynx
+    level:    [68, 72]
+    region:   meriphataud_mountains_s_ne_8
+
+  17174560:
+    template: War_Lynx
+    level:    [68, 72]
+    region:   meriphataud_mountains_s_ne_8
+
+  17174561:
+    template: Muq_Shabeel
+    level:    [72, 72]
+    region:   meriphataud_mountains_s_ne_8
+
+  17174562:
+    template: War_Lynx
+    level:    [68, 72]
+    region:   meriphataud_mountains_s_ne_6
+
+  17174563:
+    template: War_Lynx
+    level:    [68, 72]
+    region:   meriphataud_mountains_s_ne_6
+
+  17174564:
+    template: War_Lynx
+    level:    [68, 72]
+    region:   meriphataud_mountains_s_ne_6
+
+  17174565:
+    template: War_Lynx
+    level:    [68, 72]
+    region:   meriphataud_mountains_s_ne_11
+
+  17174566:
+    template: War_Lynx
+    level:    [68, 72]
+    region:   meriphataud_mountains_s_ne_11
+
+  17174567:
+    template: War_Lynx
+    level:    [68, 72]
+    region:   meriphataud_mountains_s_ne_9
+
+  17174568:
+    template: War_Lynx
+    level:    [68, 72]
+    region:   meriphataud_mountains_s_ne_9
+
+  17174569:
+    template: Treant_Sapling
+    level:    [56, 59]
+    region:   meriphataud_mountains_s_ne_7
+
+  17174570:
+    template: Treant_Sapling
+    level:    [56, 59]
+    region:   meriphataud_mountains_s_ne_7
+
+  17174571:
+    template: Treant_Sapling
+    level:    [56, 59]
+    region:   meriphataud_mountains_s_ne_10
+
+  17174572:
+    template: Treant_Sapling
+    level:    [56, 59]
+    region:   meriphataud_mountains_s_ne_10
+
+  17174573:
+    template: Treant_Sapling
+    at:       [625.767, -29.962, 500.317, 201]
+    level:    [56, 59]
+
+  17174574:
+    template: Treant_Sapling
+    level:    [56, 59]
+    region:   meriphataud_mountains_s_ne_3
+
+  17174575:
+    template: Treant_Sapling
+    level:    [56, 59]
+    region:   meriphataud_mountains_s_ne
+
+  17174576:
+    template: Treant_Sapling
+    level:    [56, 59]
+    region:   meriphataud_mountains_s_ne
+
+  17174577:
+    template: War_Lynx
+    level:    [68, 72]
+    region:   meriphataud_mountains_s_ne_4
+
+  17174578:
+    template: War_Lynx
+    level:    [68, 72]
+    region:   meriphataud_mountains_s_ne_4
+
+  17174579:
+    template: Stag_Beetle
+    level:    [44, 47]
+    region:   meriphataud_mountains_s_e_12
+
+  17174580:
+    template: Stag_Beetle
+    level:    [44, 47]
+    region:   meriphataud_mountains_s_e_12
+
+  17174581:
+    template: Dragonfly
+    level:    [58, 60]
+    region:   meriphataud_mountains_s_e_11
+
+  17174582:
+    template: Dragonfly
+    level:    [58, 60]
+    region:   meriphataud_mountains_s_e_11
+
+  17174583:
+    template: Stag_Beetle
+    level:    [44, 47]
+    region:   meriphataud_mountains_s_e_15
+
+  17174584:
+    template: Stag_Beetle
+    level:    [44, 47]
+    region:   meriphataud_mountains_s_e_15
+
+  17174585:
+    template: Stag_Beetle
+    at:       [478.230, -23.984, 222.311, 78]
+    level:    [44, 47]
+
+  17174586:
+    template: Dragonfly
+    level:    [58, 60]
+    region:   meriphataud_mountains_s_e_8
+
+  17174587:
+    template: Dragonfly
+    level:    [58, 60]
+    region:   meriphataud_mountains_s_e_8
+
+  17174588:
+    template: Night_Bats
+    level:    [55, 57]
+    region:   meriphataud_mountains_s_e_8
+
+  17174589:
+    template: Stag_Beetle
+    level:    [44, 47]
+    region:   meriphataud_mountains_s_e_5
+
+  17174590:
+    template: Stag_Beetle
+    level:    [44, 47]
+    region:   meriphataud_mountains_s_e_5
+
+  17174591:
+    template: Dragonfly
+    level:    [58, 60]
+    region:   meriphataud_mountains_s_e_4
+
+  17174592:
+    template: Dragonfly
+    level:    [58, 60]
+    region:   meriphataud_mountains_s_e_4
+
+  17174593:
+    template: Black_Bat
+    level:    [55, 55]
+    region:   meriphataud_mountains_s_e_4
+
+  17174594:
+    template: Hill_Lizard
+    level:    [42, 44]
+    region:   meriphataud_mountains_s_nw_3
+
+  17174595:
+    template: Hill_Lizard
+    level:    [42, 44]
+    region:   meriphataud_mountains_s_nw_3
+
+  17174596:
+    template: Scavenging_Hound
+    level:    [49, 49]
+    region:   meriphataud_mountains_s_nw_3
+
+  17174597:
+    template: Wandering_Sapling
+    level:    [28, 30]
+    region:   meriphataud_mountains_s_nw_4
+
+  17174598:
+    template: Hill_Lizard
+    level:    [42, 44]
+    region:   meriphataud_mountains_s_nw_4
+
+  17174599:
+    template: Lycopodium
+    at:       [-363.819, 9.197, 434.518, 9]
+    level:    [31, 34]
+
+  17174600:
+    template: Lycopodium
+    at:       [-373.289, 6.518, 388.248, 22]
+    level:    [31, 34]
+
+  17174601:
+    template: Stag_Beetle
+    level:    [44, 47]
+    region:   meriphataud_mountains_s_nw_5
+
+  17174602:
+    template: Stag_Beetle
+    level:    [44, 47]
+    region:   meriphataud_mountains_s_nw_5
+
+  17174603:
+    template: Lycopodium
+    at:       [-370.172, 9.350, 434.997, 134]
+    level:    [31, 34]
+
+  17174604:
+    template: Stag_Beetle
+    level:    [44, 47]
+    region:   meriphataud_mountains_s_nw_2
+
+  17174605:
+    template: Lycopodium
+    level:    [31, 34]
+    region:   meriphataud_mountains_s_nw
+
+  17174606:
+    template: Stag_Beetle
+    level:    [44, 47]
+    region:   meriphataud_mountains_s_nw
+
+  17174607:
+    template: Hill_Lizard
+    level:    [42, 44]
+    region:   meriphataud_mountains_s_nw_20
+
+  17174608:
+    template: Hill_Lizard
+    level:    [42, 44]
+    region:   meriphataud_mountains_s_nw_20
+
+  17174609:
+    template: Wandering_Sapling
+    level:    [28, 30]
+    region:   meriphataud_mountains_s_nw_49
+
+  17174610:
+    template: Wandering_Sapling
+    level:    [28, 30]
+    region:   meriphataud_mountains_s_nw_49
+
+  17174611:
+    template: Treant_Sapling
+    level:    [56, 59]
+    region:   meriphataud_mountains_s_nw_59
+
+  17174612:
+    template: Dragonfly
+    level:    [58, 60]
+    region:   meriphataud_mountains_s_nw_6
+
+  17174613:
+    template: Dragonfly
+    level:    [58, 60]
+    region:   meriphataud_mountains_s_nw_6
+
+  17174614:
+    template: Stag_Beetle
+    level:    [44, 47]
+    region:   meriphataud_mountains_s_nw_6
+
+  17174615:
+    template: Stag_Beetle
+    level:    [44, 47]
+    region:   meriphataud_mountains_s_nw_6
+
+  17174616:
+    template: Stag_Beetle
+    level:    [44, 47]
+    region:   meriphataud_mountains_s_nw_57
+
+  17174617:
+    template: Stag_Beetle
+    level:    [44, 47]
+    region:   meriphataud_mountains_s_nw_57
+
+  17174618:
+    template: Stag_Beetle
+    level:    [44, 47]
+    region:   meriphataud_mountains_s_n_2
+
+  17174619:
+    template: Dragonfly
+    level:    [58, 60]
+    region:   meriphataud_mountains_s_n
+
+  17174620:
+    template: Dragonfly
+    level:    [58, 60]
+    region:   meriphataud_mountains_s_n
+
+  17174621:
+    template: Goblin_Paratrooper
+    level:    [71, 73]
+    region:   meriphataud_mountains_s_n_5
+
+  17174622:
+    template: Goblin_Bombardier
+    level:    [71, 73]
+    region:   meriphataud_mountains_s_n_5
+
+  17174623:
+    template: Lynx
+    level:    [49, 51]
+    region:   meriphataud_mountains_s_nw_39
+
+  17174624:
+    template: Lynx
+    level:    [49, 51]
+    region:   meriphataud_mountains_s_nw_39
+
+  17174625:
+    template: Lynx
+    level:    [49, 51]
+    region:   meriphataud_mountains_s_nw_58
+
+  17174626:
+    template: Lynx
+    at:       [-87.697, 7.782, 515.553, 1]
+    level:    [49, 51]
+
+  17174627:
+    template: Lynx
+    at:       [-78.634, 7.872, 508.752, 182]
+    level:    [49, 51]
+
+  17174628:
+    template: Hill_Lizard
+    level:    [42, 44]
+    region:   meriphataud_mountains_s_n_4
+
+  17174629:
+    template: Hill_Lizard
+    level:    [42, 44]
+    region:   meriphataud_mountains_s_n_4
+
+  17174630:
+    template: Wandering_Sapling
+    level:    [28, 30]
+    region:   meriphataud_mountains_s_n_6
+
+  17174631:
+    template: Wandering_Sapling
+    level:    [28, 30]
+    region:   meriphataud_mountains_s_n_6
+
+  17174632:
+    template: Lynx
+    level:    [49, 51]
+    region:   meriphataud_mountains_s_n_10
+
+  17174633:
+    template: Lynx
+    level:    [49, 51]
+    region:   meriphataud_mountains_s_n_10
+
+  17174634:
+    template: Lynx
+    level:    [49, 51]
+    region:   meriphataud_mountains_s_n_10
+
+  17174635:
+    template: Dragonfly
+    level:    [58, 60]
+    region:   meriphataud_mountains_s_n_7
+
+  17174636:
+    template: Dragonfly
+    level:    [58, 60]
+    region:   meriphataud_mountains_s_n_7
+
+  17174637:
+    template: Dragonfly
+    level:    [58, 60]
+    region:   meriphataud_mountains_s_n_9
+
+  17174638:
+    template: Dragonfly
+    level:    [58, 60]
+    region:   meriphataud_mountains_s_n_9
+
+  17174639:
+    template: Goblin_Paratrooper
+    level:    [71, 73]
+    region:   meriphataud_mountains_s_n_11
+
+  17174640:
+    template: Goblin_Field_Doctor
+    level:    [71, 74]
+    region:   meriphataud_mountains_s_n_11
+
+  17174641:
+    template: Wandering_Sapling
+    level:    [28, 30]
+    region:   meriphataud_mountains_s_n_16
+
+  17174642:
+    template: Wandering_Sapling
+    level:    [28, 30]
+    region:   meriphataud_mountains_s_n_16
+
+  17174643:
+    template: Lynx
+    level:    [49, 51]
+    region:   meriphataud_mountains_s_n_17
+
+  17174644:
+    template: Lynx
+    level:    [49, 51]
+    region:   meriphataud_mountains_s_n_17
+
+  17174645:
+    template: Lynx
+    level:    [49, 51]
+    region:   meriphataud_mountains_s_n_17
+
+  17174646:
+    template: Lynx
+    level:    [49, 51]
+    region:   meriphataud_mountains_s_n_8
+
+  17174647:
+    template: Lynx
+    level:    [49, 51]
+    region:   meriphataud_mountains_s_n_8
+
+  17174648:
+    template: Lynx
+    level:    [49, 51]
+    region:   meriphataud_mountains_s_n_8
+
+  17174649:
+    template: Lynx
+    level:    [49, 51]
+    region:   meriphataud_mountains_s_n_8
+
+  17174650:
+    template: Dragonfly
+    level:    [58, 60]
+    region:   meriphataud_mountains_s_n_19
+
+  17174651:
+    template: Dragonfly
+    level:    [58, 60]
+    region:   meriphataud_mountains_s_n_19
+
+  17174652:
+    template: Lynx
+    level:    [49, 51]
+    region:   meriphataud_mountains_s_c_23
+
+  17174653:
+    template: Lynx
+    level:    [49, 51]
+    region:   meriphataud_mountains_s_c_23
+
+  17174654:
+    template: Lynx
+    level:    [49, 51]
+    region:   meriphataud_mountains_s_c_23
+
+  17174655:
+    template: Dragonfly
+    level:    [58, 60]
+    region:   meriphataud_mountains_s_e
+
+  17174656:
+    template: Dragonfly
+    level:    [58, 60]
+    region:   meriphataud_mountains_s_e
+
+  17174657:
+    template: Wandering_Sapling
+    level:    [28, 30]
+    region:   meriphataud_mountains_s_n_12
+
+  17174658:
+    template: Wandering_Sapling
+    level:    [28, 30]
+    region:   meriphataud_mountains_s_n_12
+
+  17174659:
+    template: Dragonfly
+    level:    [58, 60]
+    region:   meriphataud_mountains_s_c_10
+
+  17174660:
+    template: Dragonfly
+    level:    [58, 60]
+    region:   meriphataud_mountains_s_c_10
+
+  17174661:
+    template: Jumbo_Rafflesia
+    level:    [68, 72]
+    region:   meriphataud_mountains_s_c_13
+
+  17174662:
+    template: Jumbo_Rafflesia
+    level:    [68, 72]
+    region:   meriphataud_mountains_s_c_13
+
+  17174663:
+    template: Dragonfly
+    level:    [58, 60]
+    region:   meriphataud_mountains_s_c_13
+
+  17174664:
+    template: Dragonfly
+    level:    [58, 60]
+    region:   meriphataud_mountains_s_c_8
+
+  17174665:
+    template: Dragonfly
+    level:    [58, 60]
+    region:   meriphataud_mountains_s_c_8
+
+  17174666:
+    template: Jumbo_Rafflesia
+    level:    [68, 72]
+    region:   meriphataud_mountains_s_c_8
+
+  17174667:
+    template: Jumbo_Rafflesia
+    level:    [68, 72]
+    region:   meriphataud_mountains_s_c_8
+
+  17174668:
+    template: Dragonfly
+    level:    [58, 60]
+    region:   meriphataud_mountains_s_c_17
+
+  17174669:
+    template: Dragonfly
+    level:    [58, 60]
+    region:   meriphataud_mountains_s_c_17
+
+  17174670:
+    template: Jumbo_Rafflesia
+    level:    [68, 72]
+    region:   meriphataud_mountains_s_c_17
+
+  17174671:
+    template: Jumbo_Rafflesia
+    level:    [68, 72]
+    region:   meriphataud_mountains_s_c_17
+
+  17174672:
+    template: Jumbo_Rafflesia
+    level:    [68, 72]
+    region:   meriphataud_mountains_s_c_3
+
+  17174673:
+    template: Dragonfly
+    level:    [58, 60]
+    region:   meriphataud_mountains_s_c_3
+
+  17174674:
+    template: Jumbo_Rafflesia
+    level:    [68, 72]
+    region:   meriphataud_mountains_s_c_11
+
+  17174675:
+    template: Dragonfly
+    level:    [58, 60]
+    region:   meriphataud_mountains_s_c_11
+
+  17174676:
+    template: Stag_Beetle
+    level:    [44, 47]
+    region:   meriphataud_mountains_s_c_19
+
+  17174677:
+    template: Stag_Beetle
+    level:    [44, 47]
+    region:   meriphataud_mountains_s_c_19
+
+  17174678:
+    template: Gnat
+    level:    [78, 82]
+    region:   meriphataud_mountains_s_w_12
+
+  17174679:
+    template: Gnat
+    level:    [78, 82]
+    region:   meriphataud_mountains_s_w_12
+
+  17174680:
+    template: Gnat
+    level:    [78, 82]
+    region:   meriphataud_mountains_s_w_10
+
+  17174681:
+    template: Gnat
+    level:    [78, 82]
+    region:   meriphataud_mountains_s_w_10
+
+  17174682:
+    template: Hemodrosophila
+    at:       [-247.246, -8.446, 136.097, 148]
+    level:    [0, 0]
+
+  17174683:
+    template: Gnat
+    level:    [78, 82]
+    region:   meriphataud_mountains_s_w_7
+
+  17174684:
+    template: Gnat
+    level:    [78, 82]
+    region:   meriphataud_mountains_s_w_7
+
+  17174685:
+    template: Dragonfly
+    level:    [58, 60]
+    region:   meriphataud_mountains_s_c_5
+
+  17174686:
+    template: Stag_Beetle
+    level:    [44, 47]
+    region:   meriphataud_mountains_s_c_5
+
+  17174687:
+    template: Wandering_Sapling
+    level:    [28, 30]
+    region:   meriphataud_mountains_s_c_11
+
+  17174688:
+    template: Wandering_Sapling
+    level:    [28, 30]
+    region:   meriphataud_mountains_s_c_11
+
+  17174689:
+    template: Stag_Beetle
+    level:    [44, 47]
+    region:   meriphataud_mountains_s_c_16
+
+  17174690:
+    template: Stag_Beetle
+    level:    [44, 47]
+    region:   meriphataud_mountains_s_c_16
+
+  17174691:
+    template: Black_Bat
+    level:    [55, 55]
+    region:   meriphataud_mountains_s_c_16
+
+  17174692:
+    template: Night_Bats
+    level:    [55, 57]
+    region:   meriphataud_mountains_s_c_16
+
+  17174693:
+    template: Wandering_Sapling
+    level:    [28, 30]
+    region:   meriphataud_mountains_s_c_22
+
+  17174694:
+    template: Wandering_Sapling
+    level:    [28, 30]
+    region:   meriphataud_mountains_s_c_22
+
+  17174695:
+    template: Scolopendrid
+    level:    [67, 70]
+    region:   meriphataud_mountains_s_w_4
+
+  17174696:
+    template: Scolopendrid
+    level:    [67, 70]
+    region:   meriphataud_mountains_s_w_4
+
+  17174697:
+    template: Scolopendrid
+    level:    [67, 70]
+    region:   meriphataud_mountains_s_w_9
+
+  17174698:
+    template: Scolopendrid
+    at:       [-93.007, 13.304, -283.335, 70]
+    level:    [67, 70]
+
+  17174699:
+    template: Scolopendrid
+    level:    [67, 70]
+    region:   meriphataud_mountains_s_sw_23
+
+  17174700:
+    template: Scolopendrid
+    level:    [67, 70]
+    region:   meriphataud_mountains_s_sw_25
+
+  17174701:
+    template: Scolopendrid
+    level:    [67, 70]
+    region:   meriphataud_mountains_s_sw_18
+
+  17174702:
+    template: Scolopendrid
+    level:    [67, 70]
+    region:   meriphataud_mountains_s_sw_24
+
+  17174703:
+    template: Scolopendrid
+    level:    [67, 70]
+    region:   meriphataud_mountains_s_s
+
+  17174704:
+    template: Scolopendrid
+    at:       [-54.098, 20.512, -113.212, 201]
+    level:    [67, 70]
+
+  17174705:
+    template: Mountain_Scolopendrid
+    level:    [78, 81]
+    region:   meriphataud_mountains_s_s_5
+
+  17174706:
+    template: Mountain_Scolopendrid
+    level:    [78, 81]
+    region:   meriphataud_mountains_s_s_5
+
+  17174707:
+    template: Mountain_Scolopendrid
+    level:    [78, 81]
+    region:   meriphataud_mountains_s_s_9
+
+  17174708:
+    template: Mountain_Scolopendrid
+    level:    [78, 81]
+    region:   meriphataud_mountains_s_s_10
+
+  17174709:
+    template: Centipedal_Centruroides
+    at:       [133.834, 22.199, -208.700, 239]
+    level:    [81, 83]
+
+  17174710:
+    template: Mountain_Scolopendrid
+    level:    [78, 81]
+    region:   meriphataud_mountains_s_c_18
+
+  17174711:
+    template: Mountain_Scolopendrid
+    level:    [78, 81]
+    region:   meriphataud_mountains_s_s_13
+
+  17174712:
+    template: Mountain_Scolopendrid
+    level:    [78, 81]
+    region:   meriphataud_mountains_s_c_7
+
+  17174713:
+    template: Mountain_Scolopendrid
+    at:       [54.625, 20.693, -15.412, 190]
+    level:    [78, 81]
+
+  17174714:
+    template: Mountain_Scolopendrid
+    level:    [78, 81]
+    region:   meriphataud_mountains_s_c_15
+
+  17174715:
+    template: Mountain_Scolopendrid
+    level:    [78, 81]
+    region:   meriphataud_mountains_s_c_21
+
+  17174716:
+    template: Mountain_Scolopendrid
+    level:    [78, 81]
+    region:   meriphataud_mountains_s_e_3
+
+  17174717:
+    template: Mountain_Scolopendrid
+    at:       [370.236, 4.447, -52.368, 60]
+    level:    [78, 81]
+
+  17174718:
+    template: Mountain_Scolopendrid
+    level:    [78, 81]
+    region:   meriphataud_mountains_s_se_6
+
+  17174719:
+    template: Mountain_Scolopendrid
+    level:    [78, 81]
+    region:   meriphataud_mountains_s_se_8
+
+  17174720:
+    template: Mountain_Scolopendrid
+    level:    [78, 81]
+    region:   meriphataud_mountains_s_s_18
+
+  17174721:
+    template: Mountain_Scolopendrid
+    level:    [78, 81]
+    region:   meriphataud_mountains_s_e_6
+
+  17174722:
+    template: Mountain_Scolopendrid
+    level:    [78, 81]
+    region:   meriphataud_mountains_s_e_9
+
+  17174723:
+    template: Mountain_Scolopendrid
+    level:    [78, 81]
+    region:   meriphataud_mountains_s_e_9
+
+  17174724:
+    template: Gnat
+    level:    [78, 82]
+    region:   meriphataud_mountains_s_se_11
+
+  17174725:
+    template: Gnat
+    level:    [78, 82]
+    region:   meriphataud_mountains_s_se_11
+
+  17174726:
+    template: Gnat
+    level:    [78, 82]
+    region:   meriphataud_mountains_s_se_11
+
+  17174727:
+    template: Gnat
+    level:    [78, 82]
+    region:   meriphataud_mountains_s_se_11
+
+  17174728:
+    template: Gnat
+    level:    [78, 82]
+    region:   meriphataud_mountains_s_se_11
+
+  17174729:
+    template: Gnat
+    level:    [78, 82]
+    region:   meriphataud_mountains_s_se_11
+
+  17174730:
+    template: Goblin_Paratrooper
+    level:    [71, 73]
+    region:   meriphataud_mountains_s_se_13
+
+  17174731:
+    template: Goblin_Field_Doctor
+    level:    [71, 74]
+    region:   meriphataud_mountains_s_se_13
+
+  17174732:
+    template: Goblin_Bombardier
+    level:    [71, 73]
+    region:   meriphataud_mountains_s_se_13
+
+  17174733:
+    template: Raptor
+    level:    [64, 68]
+    region:   meriphataud_mountains_s_se_12
+
+  17174734:
+    template: Raptor
+    level:    [64, 68]
+    region:   meriphataud_mountains_s_se_12
+
+  17174735:
+    template: Raptor
+    level:    [64, 68]
+    region:   meriphataud_mountains_s_se_10
+
+  17174736:
+    template: Raptor
+    level:    [64, 68]
+    region:   meriphataud_mountains_s_se_10
+
+  17174737:
+    template: Raptor
+    level:    [64, 68]
+    region:   meriphataud_mountains_s_se_2
+
+  17174738:
+    template: Raptor
+    level:    [64, 68]
+    region:   meriphataud_mountains_s_se_2
+
+  17174739:
+    template: Axe_Beak
+    level:    [66, 69]
+    region:   meriphataud_mountains_s_se_9
+
+  17174740:
+    template: Axe_Beak
+    level:    [66, 69]
+    region:   meriphataud_mountains_s_se_7
+
+  17174741:
+    template: Axe_Beak
+    level:    [66, 69]
+    region:   meriphataud_mountains_s_se_3
+
+  17174742:
+    template: Axe_Beak
+    level:    [66, 69]
+    region:   meriphataud_mountains_s_se_3
+
+  17174743:
+    template: Axe_Beak
+    level:    [66, 69]
+    region:   meriphataud_mountains_s_e_2
+
+  17174744:
+    template: Raptor
+    level:    [64, 68]
+    region:   meriphataud_mountains_s_e_7
+
+  17174745:
+    template: Raptor
+    level:    [64, 68]
+    region:   meriphataud_mountains_s_e_7
+
+  17174746:
+    template: Axe_Beak
+    level:    [66, 69]
+    region:   meriphataud_mountains_s_se_4
+
+  17174747:
+    template: Axe_Beak
+    level:    [66, 69]
+    region:   meriphataud_mountains_s_se_4
+
+  17174748:
+    template: Treant_Sapling
+    level:    [56, 59]
+    region:   meriphataud_mountains_s_se_5
+
+  17174749:
+    template: Treant_Sapling
+    level:    [56, 59]
+    region:   meriphataud_mountains_s_se_5
+
+  17174750:
+    template: Mountain_Jubjub
+    level:    [61, 64]
+    region:   meriphataud_mountains_s_se
+
+  17174751:
+    template: Mountain_Jubjub
+    level:    [61, 64]
+    region:   meriphataud_mountains_s_se
+
+  17174752:
+    template: Raptor
+    level:    [64, 68]
+    region:   meriphataud_mountains_s_s_16
+
+  17174753:
+    template: Raptor
+    level:    [64, 68]
+    region:   meriphataud_mountains_s_s_16
+
+  17174754:
+    template: Treant_Sapling
+    level:    [56, 59]
+    region:   meriphataud_mountains_s_s_8
+
+  17174755:
+    template: Treant_Sapling
+    level:    [56, 59]
+    region:   meriphataud_mountains_s_s_8
+
+  17174756:
+    template: Treant_Sapling
+    level:    [56, 59]
+    region:   meriphataud_mountains_s_s_7
+
+  17174757:
+    template: Treant_Sapling
+    level:    [56, 59]
+    region:   meriphataud_mountains_s_s_7
+
+  17174758:
+    template: Axe_Beak
+    level:    [66, 69]
+    region:   meriphataud_mountains_s_c_24
+
+  17174759:
+    template: Mountain_Jubjub
+    level:    [61, 64]
+    region:   meriphataud_mountains_s_c_24
+
+  17174760:
+    template: Mountain_Jubjub
+    level:    [61, 64]
+    region:   meriphataud_mountains_s_c_24
+
+  17174761:
+    template: Raptor
+    level:    [64, 68]
+    region:   meriphataud_mountains_s_c_20
+
+  17174762:
+    template: Jubjub
+    level:    [42, 45]
+    region:   meriphataud_mountains_s_c_14
+
+  17174763:
+    template: Scavenging_Hound
+    level:    [49, 49]
+    region:   meriphataud_mountains_s_c_14
+
+  17174764:
+    template: Jubjub
+    level:    [42, 45]
+    region:   meriphataud_mountains_s_c_9
+
+  17174765:
+    template: Scavenging_Hound
+    level:    [49, 49]
+    region:   meriphataud_mountains_s_c_9
+
+  17174766:
+    template: Jubjub
+    level:    [42, 45]
+    region:   meriphataud_mountains_s_c_12
+
+  17174767:
+    template: Condor
+    level:    [90, 93]
+    region:   meriphataud_mountains_s_c_4
+
+  17174768:
+    template: Condor
+    level:    [90, 93]
+    region:   meriphataud_mountains_s_c_4
+
+  17174769:
+    template: Condor
+    level:    [90, 93]
+    region:   meriphataud_mountains_s_c_4
+
+  17174770:
+    template: Condor
+    level:    [90, 93]
+    region:   meriphataud_mountains_s_c_4
+
+  17174771:
+    template: Condor
+    level:    [90, 93]
+    region:   meriphataud_mountains_s_c_6
+
+  17174772:
+    template: Condor
+    level:    [90, 93]
+    region:   meriphataud_mountains_s_c_6
+
+  17174773:
+    template: Condor
+    level:    [90, 93]
+    region:   meriphataud_mountains_s_c_6
+
+  17174774:
+    template: Condor
+    level:    [90, 93]
+    region:   meriphataud_mountains_s_w_15
+
+  17174775:
+    template: Condor
+    level:    [90, 93]
+    region:   meriphataud_mountains_s_w_15
+
+  17174776:
+    template: Condor
+    level:    [90, 93]
+    region:   meriphataud_mountains_s_w_15
+
+  17174777:
+    template: Condor
+    level:    [90, 93]
+    region:   meriphataud_mountains_s_w_15
+
+  17174778:
+    template: Condor
+    level:    [90, 93]
+    region:   meriphataud_mountains_s_c_2
+
+  17174779:
+    template: Condor
+    level:    [90, 93]
+    region:   meriphataud_mountains_s_c_2
+
+  17174780:
+    template: Condor
+    level:    [90, 93]
+    region:   meriphataud_mountains_s_c_2
+
+  17174781:
+    template: Condor
+    level:    [90, 93]
+    region:   meriphataud_mountains_s_w_13
+
+  17174782:
+    template: Hill_Lizard
+    level:    [42, 44]
+    region:   meriphataud_mountains_s_w_3
+
+  17174783:
+    template: Treant_Sapling
+    level:    [56, 59]
+    region:   meriphataud_mountains_s_w_5
+
+  17174784:
+    template: Treant_Sapling
+    level:    [56, 59]
+    region:   meriphataud_mountains_s_w_5
+
+  17174785:
+    template: Hill_Lizard
+    at:       [-353.570, 1.269, -42.987, 92]
+    level:    [42, 44]
+
+  17174786:
+    template: Hill_Lizard
+    level:    [42, 44]
+    region:   meriphataud_mountains_s_w_6
+
+  17174787:
+    template: Hill_Lizard
+    level:    [42, 44]
+    region:   meriphataud_mountains_s_w_6
+
+  17174788:
+    template: Hill_Lizard
+    level:    [42, 44]
+    region:   meriphataud_mountains_s_w_11
+
+  17174789:
+    template: Jubjub
+    level:    [42, 45]
+    region:   meriphataud_mountains_s_w_8
+
+  17174790:
+    template: Jubjub
+    level:    [42, 45]
+    region:   meriphataud_mountains_s_w_8
+
+  17174791:
+    template: Scavenging_Hound
+    level:    [49, 49]
+    region:   meriphataud_mountains_s_w_8
+
+  17174792:
+    template: Hill_Lizard
+    level:    [42, 44]
+    region:   meriphataud_mountains_s_w_14
+
+  17174793:
+    template: Hill_Lizard
+    level:    [42, 44]
+    region:   meriphataud_mountains_s_w_14
+
+  17174794:
+    template: Goblin_Field_Doctor
+    at:       [-148.228, -8.174, 88.141, 154]
+    level:    [71, 74]
+
+  17174795:
+    template: Goblin_Bombardier
+    at:       [-145.532, -8.169, 84.942, 2]
+    level:    [71, 73]
+
+  17174796:
+    template: Goblin_Paratrooper
+    at:       [-159.200, -10.179, 92.305, 181]
+    level:    [71, 73]
+
+  17174797:
+    template: Hill_Lizard
+    level:    [42, 44]
+    region:   meriphataud_mountains_s_sw_19
+
+  17174798:
+    template: Hill_Lizard
+    level:    [42, 44]
+    region:   meriphataud_mountains_s_sw_19
+
+  17174799:
+    template: Hill_Lizard
+    level:    [42, 44]
+    region:   meriphataud_mountains_s_sw_17
+
+  17174800:
+    template: Hill_Lizard
+    level:    [42, 44]
+    region:   meriphataud_mountains_s_sw_17
+
+  17174801:
+    template: Black_Bat
+    level:    [55, 55]
+    region:   meriphataud_mountains_s_sw_14
+
+  17174802:
+    template: Night_Bats
+    level:    [55, 57]
+    region:   meriphataud_mountains_s_sw_14
+
+  17174803:
+    template: Wandering_Sapling
+    level:    [28, 30]
+    region:   meriphataud_mountains_s_sw_20
+
+  17174804:
+    template: Wandering_Sapling
+    level:    [28, 30]
+    region:   meriphataud_mountains_s_sw_20
+
+  17174805:
+    template: Black_Bat
+    level:    [55, 55]
+    region:   meriphataud_mountains_s_sw_12
+
+  17174806:
+    template: Hill_Lizard
+    level:    [42, 44]
+    region:   meriphataud_mountains_s_sw_12
+
+  17174807:
+    template: Night_Bats
+    level:    [55, 57]
+    region:   meriphataud_mountains_s_sw_7
+
+  17174808:
+    template: Hill_Lizard
+    level:    [42, 44]
+    region:   meriphataud_mountains_s_sw_7
+
+  17174809:
+    template: Lycopodium
+    level:    [31, 34]
+    region:   meriphataud_mountains_s_sw
+
+  17174810:
+    template: Lycopodium
+    level:    [31, 34]
+    region:   meriphataud_mountains_s_sw
+
+  17174811:
+    template: Lycopodium
+    level:    [31, 34]
+    region:   meriphataud_mountains_s_sw
+
+  17174812:
+    template: Lycopodium
+    level:    [31, 34]
+    region:   meriphataud_mountains_s_sw_2
+
+  17174813:
+    template: Wandering_Sapling
+    level:    [28, 30]
+    region:   meriphataud_mountains_s_sw_5
+
+  17174814:
+    template: Lycopodium
+    level:    [31, 34]
+    region:   meriphataud_mountains_s_sw_3
+
+  17174815:
+    template: Lycopodium
+    level:    [31, 34]
+    region:   meriphataud_mountains_s_sw_2
+
+  17174816:
+    template: Jubjub
+    level:    [42, 45]
+    region:   meriphataud_mountains_s_sw_2
+
+  17174817:
+    template: Jubjub
+    level:    [42, 45]
+    region:   meriphataud_mountains_s_sw_2
+
+  17174818:
+    template: Jubjub
+    level:    [42, 45]
+    region:   meriphataud_mountains_s_sw_2
+
+  17174819:
+    template: Wandering_Sapling
+    at:       [-365.233, 1.254, -308.177, 196]
+    level:    [28, 30]
+
+  17174820:
+    template: Axe_Beak
+    at:       [-144.850, 7.707, -298.366, 150]
+    level:    [66, 69]
+
+  17174821:
+    template: Hill_Lizard
+    level:    [42, 44]
+    region:   meriphataud_mountains_s_sw_13
+
+  17174822:
+    template: Axe_Beak
+    level:    [66, 69]
+    region:   meriphataud_mountains_s_sw_13
+
+  17174823:
+    template: Condor
+    level:    [90, 93]
+    region:   meriphataud_mountains_s_sw_21
+
+  17174824:
+    template: Condor
+    level:    [90, 93]
+    region:   meriphataud_mountains_s_sw_21
+
+  17174825:
+    template: Condor
+    level:    [90, 93]
+    region:   meriphataud_mountains_s_sw_21
+
+  17174826:
+    template: Condor
+    level:    [90, 93]
+    region:   meriphataud_mountains_s_sw_21
+
+  17174827:
+    template: Condor
+    level:    [90, 93]
+    region:   meriphataud_mountains_s_sw_11
+
+  17174828:
+    template: Condor
+    level:    [90, 93]
+    region:   meriphataud_mountains_s_sw_11
+
+  17174829:
+    template: Condor
+    level:    [90, 93]
+    region:   meriphataud_mountains_s_sw_11
+
+  17174830:
+    template: Condor
+    level:    [90, 93]
+    region:   meriphataud_mountains_s_sw_11
+
+  17174831:
+    template: Condor
+    level:    [90, 93]
+    region:   meriphataud_mountains_s_sw_11
+
+  17174832:
+    template: Condor
+    level:    [90, 93]
+    region:   meriphataud_mountains_s_sw_11
+
+  17174833:
+    template: Condor
+    level:    [90, 93]
+    region:   meriphataud_mountains_s_sw_11
+
+  17174834:
+    template: Condor
+    level:    [90, 93]
+    region:   meriphataud_mountains_s_sw_11
+
+  17174835:
+    template: Condor
+    level:    [90, 93]
+    region:   meriphataud_mountains_s_sw_11
+
+  17174836:
+    template: Condor
+    level:    [90, 93]
+    region:   meriphataud_mountains_s_sw_11
+
+  17174837:
+    template: Condor
+    level:    [90, 93]
+    region:   meriphataud_mountains_s_sw_11
+
+  17174838:
+    template: Hill_Lizard
+    level:    [42, 44]
+    region:   meriphataud_mountains_s_sw_10
+
+  17174839:
+    template: Hill_Lizard
+    level:    [42, 44]
+    region:   meriphataud_mountains_s_sw_10
+
+  17174840:
+    template: Lycopodium
+    level:    [31, 34]
+    region:   meriphataud_mountains_s_sw_8
+
+  17174841:
+    template: Lycopodium
+    level:    [31, 34]
+    region:   meriphataud_mountains_s_nw_3
+
+  17174842:
+    template: Lycopodium
+    level:    [31, 34]
+    region:   meriphataud_mountains_s_sw_4
+
+  17174843:
+    template: Lycopodium
+    level:    [31, 34]
+    region:   meriphataud_mountains_s_nw_3
+
+  17174844:
+    template: Lycopodium
+    level:    [31, 34]
+    region:   meriphataud_mountains_s_sw_6
+
+  17174845:
+    template: Lycopodium
+    level:    [31, 34]
+    region:   meriphataud_mountains_s_nw_3
+
+  17174846:
+    template: Hill_Lizard
+    level:    [42, 44]
+    region:   meriphataud_mountains_s_sw_16
+
+  17174847:
+    template: Hill_Lizard
+    level:    [42, 44]
+    region:   meriphataud_mountains_s_sw_16
+
+  17174848:
+    template: Hill_Lizard
+    level:    [42, 44]
+    region:   meriphataud_mountains_s_sw_22
+
+  17174849:
+    template: Hill_Lizard
+    level:    [42, 44]
+    region:   meriphataud_mountains_s_sw_22
+
+  17174850:
+    template: Treant_Sapling
+    level:    [56, 59]
+    region:   meriphataud_mountains_s_s_15
+
+  17174851:
+    template: Treant_Sapling
+    level:    [56, 59]
+    region:   meriphataud_mountains_s_s_15
+
+  17174852:
+    template: Treant_Sapling
+    level:    [56, 59]
+    region:   meriphataud_mountains_s_s_12
+
+  17174853:
+    template: Treant_Sapling
+    level:    [56, 59]
+    region:   meriphataud_mountains_s_s_12
+
+  17174854:
+    template: Raptor
+    level:    [64, 68]
+    region:   meriphataud_mountains_s_s_6
+
+  17174855:
+    template: Raptor
+    level:    [64, 68]
+    region:   meriphataud_mountains_s_s_6
+
+  17174856:
+    template: Raptor
+    level:    [64, 68]
+    region:   meriphataud_mountains_s_s_4
+
+  17174857:
+    template: Raptor
+    level:    [64, 68]
+    region:   meriphataud_mountains_s_s_3
+
+  17174858:
+    template: Jubjub
+    level:    [42, 45]
+    region:   meriphataud_mountains_s_s_2
+
+  17174859:
+    template: Jubjub
+    level:    [42, 45]
+    region:   meriphataud_mountains_s_s_2
+
+  17174860:
+    template: Jubjub
+    level:    [42, 45]
+    region:   meriphataud_mountains_s_s_2
+
+  17174861:
+    template: Scavenging_Hound
+    level:    [49, 49]
+    region:   meriphataud_mountains_s_s_2
+
+  17174862:
+    template: Raptor
+    level:    [64, 68]
+    region:   meriphataud_mountains_s_s_14
+
+  17174863:
+    template: Raptor
+    level:    [64, 68]
+    region:   meriphataud_mountains_s_s_14
+
+  17174864:
+    template: Earth_Elemental
+    level:    [75, 75]
+    region:   meriphataud_mountains_s_s_16
+
+  17174865:
+    template: Earth_Elemental
+    level:    [75, 75]
+    region:   meriphataud_mountains_s_c_9
+
+  17174866:
+    template: Earth_Elemental
+    level:    [75, 75]
+    region:   meriphataud_mountains_s_se_2
+
+  17174867:
+    template: Fire_Elemental
+    level:    [75, 75]
+    region:   meriphataud_mountains_s_c_8
+
+  17174868:
+    template: Fire_Elemental
+    level:    [75, 75]
+    region:   meriphataud_mountains_s_s_15
+
+  17174869:
+    template: Fire_Elemental
+    level:    [75, 75]
+    region:   meriphataud_mountains_s_se_14
+
+  17174870:
+    template: Sprite
+    level:    [66, 67]
+    region:   meriphataud_mountains_s_n_8
+
+  17174871:
+    template: Sprite
+    level:    [66, 67]
+    region:   meriphataud_mountains_s_c
+
+  17174872:
+    template: Sprite
+    level:    [66, 67]
+    region:   meriphataud_mountains_s_w
+
+  17174873:
+    template: Goblin_Picket
+    level:    [71, 74]
+    region:   meriphataud_mountains_s_s_11
+
+  17174874:
+    template: Goblin_Picket
+    level:    [71, 74]
+    region:   meriphataud_mountains_s_sw_9
+
+  17174875:
+    template: Goblin_Picket
+    level:    [71, 74]
+    region:   meriphataud_mountains_s_ne_5
+
+  17174876:
+    template: Goblin_Mine
+    level:    [66, 67]
+    region:   meriphataud_mountains_s_s_17
+
+  17174877:
+    template: Goblin_Mine
+    level:    [66, 67]
+    region:   meriphataud_mountains_s_sw_15
+
+  17174878:
+    template: Goblin_Mine
+    level:    [66, 67]
+    region:   meriphataud_mountains_s_ne_5
+
+  17174879:
+    template: Jumbo_Rafflesia
+    at:       [513.941, -16.316, 38.739, 93]
+    level:    [68, 72]
+
+  17174880:
+    template: Jumbo_Rafflesia
+    level:    [68, 72]
+    region:   meriphataud_mountains_s_e_13
+
+  17174881:
+    template: Gnat
+    level:    [78, 82]
+    region:   meriphataud_mountains_s_e_13
+
+  17174882:
+    template: Jumbo_Rafflesia
+    level:    [68, 72]
+    region:   meriphataud_mountains_s_e_16
+
+  17174883:
+    template: Gnat
+    level:    [78, 82]
+    region:   meriphataud_mountains_s_e_16
+
+  17174884:
+    template: Gnat
+    level:    [78, 82]
+    region:   meriphataud_mountains_s_e_16
+
+  17174885:
+    template: Jumbo_Rafflesia
+    level:    [68, 72]
+    region:   meriphataud_mountains_s_e_14
+
+  17174886:
+    template: Gnat
+    level:    [78, 82]
+    region:   meriphataud_mountains_s_e_14
+
+  17174887:
+    template: Jumbo_Rafflesia
+    level:    [68, 72]
+    region:   meriphataud_mountains_s_e_10
+
+  17174888:
+    template: Sandworm
+    at:       [-258.142, -6.427, -416.533, 242]
+    level:    [85, 85]
+
+  17174889:
+    template: Bloodlapper
+    at:       [754.922, -16.325, -442.974, 81]
+    level:    [80, 80]
+
+  17174890:
+    template: Yagudo_Transporter
+    at:       [442.789, -18.692, 132.895, 139]
+    level:    [50, 50]
+
+  17174891:
+    template: Yagudo_Guard
+    at:       [441.437, -19.389, 135.203, 153]
+    level:    [75, 75]
+
+  17174892:
+    template: Yagudo_Guard
+    at:       [441.132, -19.720, 135.819, 153]
+    level:    [75, 75]
+
+  17174893:
+    template: Brummbar
+    at:       [0.000, 0.000, 0.000, 10]
+    level:    [1, 1]
+
+  17174894:
+    template: Brummer
+    at:       [0.000, 0.000, 0.000, 116]
+    level:    [1, 1]
+
+  17174895:
+    template: Brummer
+    at:       [0.000, 0.000, 0.000, 116]
+    level:    [1, 1]
+
+  17174896:
+    template: Brummer
+    at:       [0.000, 0.000, 0.000, 159]
+    level:    [1, 1]
+
+  17174897:
+    template: Brummer
+    at:       [0.000, 0.000, 0.000, 101]
+    level:    [1, 1]
+
+  17174898:
+    template: Brummer
+    at:       [0.000, 0.000, 0.000, 99]
+    level:    [1, 1]
+
+  17174899:
+    template: Brummer
+    at:       [0.000, 0.000, 0.000, 183]
+    level:    [1, 1]
+
+  17174900:
+    template: Yii_Haqi_the_Threnodist
+    at:       [0.000, 0.000, 0.000, 142]
+    level:    [0, 0]
+
+  17174901:
+    template: Nuu_Gazo_the_Dirgerimer
+    at:       [0.000, 0.000, 0.000, 112]
+    level:    [0, 0]
+
+  17174902:
+    template: Slate_Scorpion
+    at:       [0.000, 0.000, 0.000, 157]
+    level:    [1, 1]
+
+  17174903:
+    template: Slate_Scorpion
+    at:       [0.000, 0.000, 0.000, 120]
+    level:    [1, 1]
+
+  17174904:
+    template: Ochre_Scorpion
+    at:       [0.000, 0.000, 0.000, 145]
+    level:    [1, 1]
+
+  17174905:
+    template: Ochre_Scorpion
+    at:       [0.000, 0.000, 0.000, 183]
+    level:    [1, 1]
+
+  17174906:
+    template: Yilbegan
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [90, 92]
+
+  17174907:
+    template: Orcus
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [85, 85]
+
+  17174908:
+    template: Farruca_Fly
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [82, 82]
+
+  17174909:
+    template: Jyeshtha
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [82, 82]
+
+  17174910:
+    template: Rummager_Beetle
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17174911:
+    template: Rummager_Beetle
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17174912:
+    template: Rummager_Beetle
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17174913:
+    template: Rummager_Beetle
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17174914:
+    template: Raker_Bee
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17174915:
+    template: Raker_Bee
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17174916:
+    template: Raker_Bee
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17174917:
+    template: Raker_Bee
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17174918:
+    template: Kayeel-Payeel
+    at:       [-274.659, 14.912, 419.206, 242]
+    level:    [70, 70]
+
+  17174919:
+    template: Ice_Fiend
+    at:       [-270.290, 13.941, 421.428, 101]
+    level:    [70, 70]
+
+  17174920:
+    template: Thunder_Fiend
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_31
+
+  17174921:
+    template: Aquarian_Caster
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174922:
+    template: Aquarian_Caster
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174923:
+    template: Aquarian_Caster
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174924:
+    template: Aquarian_Caster
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174925:
+    template: Aquarian_Caster
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174926:
+    template: Aquarian_Caster
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174927:
+    template: Aquarian_Caster
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174928:
+    template: Aquarian_Caster
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174929:
+    template: Aquarian_Caster
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174930:
+    template: Gariri
+    at:       [-275.538, 15.378, 420.137, 32]
+    level:    [70, 70]
+
+  17174931:
+    template: Flame_Giant
+    at:       [-297.364, 16.403, 422.253, 104]
+    level:    [70, 70]
+
+  17174932:
+    template: Scorpion_Caster
+    at:       [0.000, 0.000, 0.000, 182]
+    level:    [70, 70]
+
+  17174933:
+    template: Scorpion_Caster
+    at:       [0.000, 0.000, 0.000, 40]
+    level:    [70, 70]
+
+  17174934:
+    template: Scorpion_Caster
+    at:       [0.000, 0.000, 0.000, 172]
+    level:    [70, 70]
+
+  17174935:
+    template: Scorpion_Caster
+    at:       [0.000, 0.000, 0.000, 134]
+    level:    [70, 70]
+
+  17174936:
+    template: Scorpion_Caster
+    at:       [0.000, 0.000, 0.000, 129]
+    level:    [70, 70]
+
+  17174937:
+    template: Scorpion_Caster
+    at:       [0.000, 0.000, 0.000, 22]
+    level:    [70, 70]
+
+  17174938:
+    template: Scorpion_Caster
+    at:       [0.000, 0.000, 0.000, 146]
+    level:    [70, 70]
+
+  17174939:
+    template: Scorpion_Caster
+    at:       [0.000, 0.000, 0.000, 182]
+    level:    [70, 70]
+
+  17174940:
+    template: Scorpion_Caster
+    at:       [0.000, 0.000, 0.000, 182]
+    level:    [70, 70]
+
+  17174941:
+    template: Zolku-Azolku
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174942:
+    template: Libran_Caster
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174943:
+    template: Libran_Caster
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174944:
+    template: Libran_Caster
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174945:
+    template: Libran_Caster
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174946:
+    template: Libran_Caster
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174947:
+    template: Libran_Caster
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174948:
+    template: Libran_Caster
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174949:
+    template: Libran_Caster
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174950:
+    template: Libran_Caster
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174951:
+    template: Lhu_Mhakaracca
+    level:    [65, 65]
+    region:   meriphataud_mountains_s_nw_33
+
+  17174952:
+    template: Pya
+    at:       [-257.817, 10.454, 399.305, 66]
+    level:    [65, 65]
+
+  17174953:
+    template: Kyo
+    at:       [-257.838, 10.459, 399.084, 66]
+    level:    [65, 65]
+
+  17174954:
+    template: Python_Mercenary
+    level:    [65, 65]
+    region:   meriphataud_mountains_s_nw_55
+
+  17174955:
+    template: Python_Mercenary
+    level:    [65, 65]
+    region:   meriphataud_mountains_s_nw_16
+
+  17174956:
+    template: Python_Mercenary
+    level:    [65, 65]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174957:
+    template: Python_Mercenary
+    level:    [65, 65]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174958:
+    template: Python_Mercenary
+    level:    [65, 65]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174959:
+    template: Python_Mercenary
+    level:    [65, 65]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174960:
+    template: Python_Mercenary
+    at:       [-265.473, 12.552, 401.157, 11]
+    level:    [65, 65]
+
+  17174961:
+    template: Python_Mercenary
+    level:    [65, 65]
+    region:   meriphataud_mountains_s_nw_33
+
+  17174962:
+    template: Python_Mercenary
+    level:    [65, 65]
+    region:   meriphataud_mountains_s_nw_53
+
+  17174963:
+    template: Haja_Zhwan
+    level:    [69, 69]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174964:
+    template: Wildcat_Volunteer
+    level:    [69, 69]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174965:
+    template: Wildcat_Volunteer
+    level:    [69, 69]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174966:
+    template: Wildcat_Volunteer
+    at:       [-263.357, 11.673, 415.574, 37]
+    level:    [69, 69]
+
+  17174967:
+    template: Wildcat_Volunteer
+    at:       [-273.505, 14.886, 421.404, 23]
+    level:    [69, 69]
+
+  17174968:
+    template: Wildcat_Volunteer
+    at:       [-273.086, 14.780, 421.580, 24]
+    level:    [69, 69]
+
+  17174969:
+    template: Wildcat_Volunteer
+    at:       [-264.351, 11.972, 416.633, 35]
+    level:    [69, 69]
+
+  17174970:
+    template: Wildcat_Volunteer
+    level:    [69, 69]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174971:
+    template: Wildcat_Volunteer
+    level:    [69, 69]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174972:
+    template: Wildcat_Volunteer
+    level:    [69, 69]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174973:
+    template: Mikhe_Aryohcha
+    level:    [68, 68]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174974:
+    template: Cougar_Volunteer
+    level:    [66, 66]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174975:
+    template: Cougar_Volunteer
+    level:    [66, 66]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174976:
+    template: Cougar_Volunteer
+    level:    [66, 66]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174977:
+    template: Cougar_Volunteer
+    level:    [66, 66]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174978:
+    template: Cougar_Volunteer
+    level:    [66, 66]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174979:
+    template: Cougar_Volunteer
+    level:    [66, 66]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174980:
+    template: Cougar_Volunteer
+    level:    [66, 66]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174981:
+    template: Cougar_Volunteer
+    level:    [66, 66]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174982:
+    template: Cougar_Volunteer
+    level:    [66, 66]
+    region:   meriphataud_mountains_s_nw_7
+
+  17174983:
+    template: Piscean_Caster
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_n_14
+
+  17174984:
+    template: Piscean_Caster
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_w_2
+
+  17174985:
+    template: Piscean_Caster
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_n_13
+
+  17174986:
+    template: Piscean_Caster
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_32
+
+  17174987:
+    template: Piscean_Caster
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_w_16
+
+  17174988:
+    template: Piscean_Caster
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_w_17
+
+  17174989:
+    template: Allied_Mantelet
+    at:       [-297.950, 16.917, 415.445, 64]
+    level:    [50, 50]
+
+  17174990:
+    template: Allied_Mantelet
+    at:       [-298.975, 15.724, 446.847, 169]
+    level:    [50, 50]
+
+  17174991:
+    template: Allied_Mantelet
+    at:       [-271.450, 14.804, 429.600, 0]
+    level:    [50, 50]
+
+  17174992:
+    template: Allied_Mantelet
+    at:       [-279.997, 16.054, 413.555, 64]
+    level:    [50, 50]
+
+  17174993:
+    template: Allied_Mantelet
+    at:       [-308.165, 17.458, 430.055, 128]
+    level:    [50, 50]
+
+  17174994:
+    template: Allied_Mantelet
+    at:       [-281.315, 15.500, 443.618, 222]
+    level:    [50, 50]
+
+  17174995:
+    template: Nail_Bomb
+    at:       [-288.463, 15.723, 438.446, 106]
+    level:    [70, 70]
+
+  17174996:
+    template: Nail_Bomb
+    at:       [-298.330, 16.212, 429.148, 142]
+    level:    [70, 70]
+
+  17174997:
+    template: Nail_Bomb
+    at:       [-288.135, 15.706, 438.552, 112]
+    level:    [70, 70]
+
+  17174998:
+    template: Nail_Bomb
+    at:       [-297.290, 16.364, 437.679, 177]
+    level:    [70, 70]
+
+  17174999:
+    template: Nail_Bomb
+    at:       [-288.580, 15.729, 438.509, 101]
+    level:    [70, 70]
+
+  17175000:
+    template: Nail_Bomb
+    at:       [-278.045, 15.699, 429.325, 97]
+    level:    [70, 70]
+
+  17175001:
+    template: Allied_Belfry
+    at:       [-266.050, 11.537, 390.252, 149]
+    level:    [70, 70]
+
+  17175002:
+    template: Wildcat_Vanguard
+    at:       [-268.631, 13.313, 391.778, 204]
+    level:    [70, 70]
+
+  17175003:
+    template: Wildcat_Vanguard
+    at:       [-268.631, 13.313, 391.778, 207]
+    level:    [70, 70]
+
+  17175004:
+    template: Wildcat_Vanguard
+    at:       [-268.631, 13.313, 391.778, 207]
+    level:    [70, 70]
+
+  17175005:
+    template: Wildcat_Vanguard
+    at:       [-268.631, 13.313, 391.778, 207]
+    level:    [70, 70]
+
+  17175006:
+    template: Wildcat_Vanguard
+    at:       [-268.631, 13.313, 391.778, 204]
+    level:    [70, 70]
+
+  17175007:
+    template: Wildcat_Vanguard
+    at:       [-268.181, 13.496, 394.440, 205]
+    level:    [70, 70]
+
+  17175008:
+    template: Allied_Armored_Belfry
+    at:       [0.000, 0.000, 0.000, 184]
+    level:    [70, 70]
+
+  17175009:
+    template: Cardian_Prototype
+    at:       [0.000, 0.000, 0.000, 96]
+    level:    [70, 70]
+
+  17175010:
+    template: Cardian_Prototype
+    at:       [0.000, 0.000, 0.000, 17]
+    level:    [70, 70]
+
+  17175011:
+    template: Cardian_Prototype
+    at:       [0.000, 0.000, 0.000, 95]
+    level:    [70, 70]
+
+  17175012:
+    template: Cardian_Prototype
+    at:       [0.000, 0.000, 0.000, 37]
+    level:    [70, 70]
+
+  17175013:
+    template: Cardian_Prototype
+    at:       [0.000, 0.000, 0.000, 140]
+    level:    [70, 70]
+
+  17175014:
+    template: Cardian_Prototype
+    at:       [0.000, 0.000, 0.000, 7]
+    level:    [70, 70]
+
+  17175015:
+    template: Combat_Salvemixer
+    level:    [60, 60]
+    region:   meriphataud_mountains_s_nw_7
+
+  17175016:
+    template: Combat_Salvemixer
+    level:    [60, 60]
+    region:   meriphataud_mountains_s_nw_7
+
+  17175017:
+    template: Combat_Salvemixer
+    level:    [60, 60]
+    region:   meriphataud_mountains_s_nw_7
+
+  17175018:
+    template: Combat_Salvemixer
+    level:    [60, 60]
+    region:   meriphataud_mountains_s_nw_7
+
+  17175019:
+    template: Combat_Salvemixer
+    level:    [60, 60]
+    region:   meriphataud_mountains_s_nw_7
+
+  17175020:
+    template: Combat_Salvemixer
+    at:       [-284.753, 15.537, 437.766, 160]
+    level:    [60, 60]
+
+  17175021:
+    template: Federation_Dispenser
+    at:       [-251.654, 5.888, 386.402, 147]
+    level:    [70, 70]
+
+  17175022:
+    template: Federation_Dispenser
+    at:       [-292.627, 17.490, 408.825, 114]
+    level:    [70, 70]
+
+  17175023:
+    template: Federation_Dispenser
+    at:       [-278.036, 13.565, 388.749, 192]
+    level:    [70, 70]
+
+  17175024:
+    template: Vee_Qiqa_the_Decreer
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17175025:
+    template: Vee_Qiqas_Elemental
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_38
+
+  17175026:
+    template: Vee_Qiqas_Elemental
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_38
+
+  17175027:
+    template: Vee_Qiqas_Elemental
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_38
+
+  17175028:
+    template: Vee_Qiqas_Elemental
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_38
+
+  17175029:
+    template: Divine_Templar
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_24
+
+  17175030:
+    template: Divine_Templar
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_10
+
+  17175031:
+    template: Divine_Templar
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_18
+
+  17175032:
+    template: Divine_Templar
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_18
+
+  17175033:
+    template: Divine_Templar
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_18
+
+  17175034:
+    template: Divine_Templar
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_42
+
+  17175035:
+    template: Divine_Templar
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_36
+
+  17175036:
+    template: Divine_Templar
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_18
+
+  17175037:
+    template: Divine_Templar
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17175038:
+    template: Moo_Ouzi_the_Swiftblade
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_13
+
+  17175039:
+    template: Divine_Disseminator
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17175040:
+    template: Divine_Disseminator
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_18
+
+  17175041:
+    template: Divine_Disseminator
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17175042:
+    template: Divine_Disseminator
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17175043:
+    template: Divine_Disseminator
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17175044:
+    template: Divine_Disseminator
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17175045:
+    template: Divine_Disseminator
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17175046:
+    template: Divine_Disseminator
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17175047:
+    template: Divine_Disseminator
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17175048:
+    template: Muu_Buxu_the_Elusive
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17175049:
+    template: Divine_Assassin
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17175050:
+    template: Divine_Assassin
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_11
+
+  17175051:
+    template: Divine_Assassin
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17175052:
+    template: Divine_Assassin
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17175053:
+    template: Divine_Assassin
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_9
+
+  17175054:
+    template: Divine_Assassin
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17175055:
+    template: Divine_Assassin
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17175056:
+    template: Divine_Assassin
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_28
+
+  17175057:
+    template: Divine_Assassin
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17175058:
+    template: Dee_Xalmo_the_Grim
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_40
+
+  17175059:
+    template: Divine_Ascetic
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_29
+
+  17175060:
+    template: Divine_Ascetic
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_18
+
+  17175061:
+    template: Divine_Ascetic
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_15
+
+  17175062:
+    template: Divine_Ascetic
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_37
+
+  17175063:
+    template: Divine_Ascetic
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_26
+
+  17175064:
+    template: Divine_Ascetic
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_n_3
+
+  17175065:
+    template: Divine_Ascetic
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_43
+
+  17175066:
+    template: Divine_Ascetic
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_18
+
+  17175067:
+    template: Divine_Ascetic
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_44
+
+  17175068:
+    template: Kazan_the_Peerless
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17175069:
+    template: Plenilune_Ronin
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_18
+
+  17175070:
+    template: Plenilune_Ronin
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_27
+
+  17175071:
+    template: Plenilune_Ronin
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_45
+
+  17175072:
+    template: Plenilune_Ronin
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17175073:
+    template: Plenilune_Ronin
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_22
+
+  17175074:
+    template: Plenilune_Ronin
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17175075:
+    template: Plenilune_Ronin
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_12
+
+  17175076:
+    template: Plenilune_Ronin
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17175077:
+    template: Plenilune_Ronin
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_46
+
+  17175078:
+    template: Vaa_Oozu_the_Redolent
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17175079:
+    template: Vaa_Oozus_Scolopendrid
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_33
+
+  17175080:
+    template: Vaa_Oozus_Scolopendrid
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_34
+
+  17175081:
+    template: Divine_Inciter
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17175082:
+    template: Divine_Inciter
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_14
+
+  17175083:
+    template: Divine_Inciter
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17175084:
+    template: Divine_Inciter
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17175085:
+    template: Divine_Inciter
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17175086:
+    template: Divine_Inciter
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17175087:
+    template: Divine_Inciter
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_7
+
+  17175088:
+    template: Divine_Inciter
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_19
+
+  17175089:
+    template: Divine_Inciter
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_25
+
+  17175090:
+    template: Divine_Pilgrim
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_47
+
+  17175091:
+    template: Divine_Pilgrim
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_48
+
+  17175092:
+    template: Divine_Pilgrim
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_30
+
+  17175093:
+    template: Divine_Pilgrim
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_17
+
+  17175094:
+    template: Divine_Pilgrim
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_60
+
+  17175095:
+    template: Divine_Pilgrim
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_n_15
+
+  17175096:
+    template: Confederate_Mantelet
+    at:       [-297.950, 16.917, 415.445, 64]
+    level:    [70, 70]
+
+  17175097:
+    template: Confederate_Mantelet
+    at:       [-298.975, 15.724, 446.847, 169]
+    level:    [70, 70]
+
+  17175098:
+    template: Confederate_Mantelet
+    at:       [-271.450, 14.804, 429.600, 0]
+    level:    [70, 70]
+
+  17175099:
+    template: Confederate_Mantelet
+    at:       [-279.997, 16.054, 413.555, 64]
+    level:    [70, 70]
+
+  17175100:
+    template: Confederate_Mantelet
+    at:       [-308.165, 17.458, 430.055, 128]
+    level:    [70, 70]
+
+  17175101:
+    template: Confederate_Mantelet
+    at:       [-281.315, 15.500, 443.618, 222]
+    level:    [70, 70]
+
+  17175102:
+    template: Iron_Bomb
+    at:       [-288.595, 15.729, 438.695, 191]
+    level:    [70, 70]
+
+  17175103:
+    template: Iron_Bomb
+    at:       [-278.700, 15.780, 428.598, 187]
+    level:    [70, 70]
+
+  17175104:
+    template: Iron_Bomb
+    at:       [-288.592, 15.729, 438.460, 174]
+    level:    [70, 70]
+
+  17175105:
+    template: Iron_Bomb
+    at:       [-298.569, 16.299, 428.276, 95]
+    level:    [70, 70]
+
+  17175106:
+    template: Iron_Bomb
+    at:       [-288.653, 15.732, 438.484, 179]
+    level:    [70, 70]
+
+  17175107:
+    template: Iron_Bomb
+    at:       [-297.457, 16.372, 438.040, 210]
+    level:    [70, 70]
+
+  17175108:
+    template: Confederate_Belfry
+    at:       [-266.050, 11.537, 390.252, 143]
+    level:    [70, 70]
+
+  17175109:
+    template: Yagudo_Genja
+    at:       [0.000, 0.000, 0.000, 126]
+    level:    [70, 70]
+
+  17175110:
+    template: Yagudo_Genja
+    at:       [-295.728, 16.260, 421.499, 178]
+    level:    [70, 70]
+
+  17175111:
+    template: Yagudo_Genja
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175112:
+    template: Yagudo_Genja
+    at:       [-269.389, 13.620, 391.643, 154]
+    level:    [70, 70]
+
+  17175113:
+    template: Yagudo_Genja
+    at:       [0.000, 0.000, 0.000, 204]
+    level:    [70, 70]
+
+  17175114:
+    template: Yagudo_Genja
+    at:       [0.000, 0.000, 0.000, 248]
+    level:    [70, 70]
+
+  17175115:
+    template: Yagudo_Turret
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_ne_2
+
+  17175116:
+    template: War_Lynx
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_8
+
+  17175117:
+    template: War_Lynx
+    at:       [-293.829, 16.082, 441.837, 252]
+    level:    [70, 70]
+
+  17175118:
+    template: War_Lynx
+    at:       [-293.932, 16.093, 441.766, 251]
+    level:    [70, 70]
+
+  17175119:
+    template: War_Lynx
+    at:       [-293.998, 16.099, 441.703, 250]
+    level:    [70, 70]
+
+  17175120:
+    template: War_Lynx
+    at:       [-293.909, 16.090, 441.742, 250]
+    level:    [70, 70]
+
+  17175121:
+    template: War_Lynx
+    at:       [-296.952, 16.347, 439.281, 77]
+    level:    [70, 70]
+
+  17175122:
+    template: Fiendish_Leechkeeper
+    at:       [-277.968, 15.434, 411.168, 154]
+    level:    [60, 60]
+
+  17175123:
+    template: Fiendish_Leechkeeper
+    at:       [-289.871, 15.921, 418.059, 172]
+    level:    [60, 60]
+
+  17175124:
+    template: Fiendish_Leechkeeper
+    at:       [-248.507, 5.330, 384.118, 164]
+    level:    [60, 60]
+
+  17175125:
+    template: Fiendish_Leechkeeper
+    at:       [-254.209, 9.580, 396.570, 146]
+    level:    [60, 60]
+
+  17175126:
+    template: Fiendish_Leechkeeper
+    at:       [-262.788, 11.514, 415.305, 15]
+    level:    [60, 60]
+
+  17175127:
+    template: Fiendish_Leechkeeper
+    at:       [-254.526, 9.631, 395.030, 199]
+    level:    [60, 60]
+
+  17175128:
+    template: Shadowhorn
+    at:       [-271.299, 14.574, 425.927, 174]
+    level:    [70, 70]
+
+  17175129:
+    template: Shadowhorn_Stormer
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_23
+
+  17175130:
+    template: Shadowhorn_Stormer
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_50
+
+  17175131:
+    template: Shadowhorn_Stormer
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_n_18
+
+  17175132:
+    template: Shadowhorn_Stormer
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_41
+
+  17175133:
+    template: Shadowhorn_Stormer
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_35
+
+  17175134:
+    template: Shadowhorn_Stormer
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_51
+
+  17175135:
+    template: Shadowhorn_Stormer
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_52
+
+  17175136:
+    template: Shadowhorn_Stormer
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_21
+
+  17175137:
+    template: Shadowhorn_Stormer
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_54
+
+  17175138:
+    template: Shadowhand
+    at:       [-306.873, 17.127, 431.681, 77]
+    level:    [70, 70]
+
+  17175139:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 183]
+    level:    [70, 70]
+
+  17175140:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 236]
+    level:    [70, 70]
+
+  17175141:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 99]
+    level:    [70, 70]
+
+  17175142:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 54]
+    level:    [70, 70]
+
+  17175143:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175144:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175145:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175146:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175147:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175148:
+    template: Shadowfang
+    at:       [0.000, 0.000, 0.000, 176]
+    level:    [70, 70]
+
+  17175149:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 196]
+    level:    [70, 70]
+
+  17175150:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 196]
+    level:    [70, 70]
+
+  17175151:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 196]
+    level:    [70, 70]
+
+  17175152:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 196]
+    level:    [70, 70]
+
+  17175153:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 196]
+    level:    [70, 70]
+
+  17175154:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175155:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175156:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175157:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175158:
+    template: Shadoweye
+    at:       [-278.106, 15.979, 424.601, 0]
+    level:    [70, 70]
+
+  17175159:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 165]
+    level:    [70, 70]
+
+  17175160:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175161:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175162:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175163:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175164:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175165:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175166:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175167:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175168:
+    template: Fortification
+    at:       [-279.785, 15.801, 430.001, 0]
+    level:    [70, 70]
+
+  17175169:
+    template: Fortification
+    at:       [-296.838, 16.000, 427.848, 0]
+    level:    [70, 70]
+
+  17175170:
+    template: Fortification
+    at:       [-295.661, 16.226, 438.100, 0]
+    level:    [70, 70]
+
+  17175171:
+    template: Fortification
+    at:       [-288.176, 15.712, 436.923, 0]
+    level:    [70, 70]
+
+  17175172:
+    template: Rikoh_Wahcondalo
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175173:
+    template: Kagetora
+    at:       [-299.157, 19.702, 405.985, 0]
+    level:    [70, 70]
+
+  17175174:
+    template: Kagetora
+    at:       [-256.303, 10.013, 404.989, 167]
+    level:    [70, 70]
+
+  17175175:
+    template: Kagetora
+    at:       [-256.303, 10.013, 404.989, 167]
+    level:    [70, 70]
+
+  17175176:
+    template: Kagetora
+    at:       [-256.303, 10.013, 404.989, 165]
+    level:    [70, 70]
+
+  17175177:
+    template: Kagetora
+    at:       [-256.303, 10.013, 404.989, 182]
+    level:    [70, 70]
+
+  17175178:
+    template: Kagetora
+    at:       [-256.303, 10.013, 404.989, 165]
+    level:    [70, 70]
+
+  17175179:
+    template: Dalzakk
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175180:
+    template: Oggbi
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175181:
+    template: Rainemard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175182:
+    template: Maat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175183:
+    template: Degenhard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175184:
+    template: Azima
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175185:
+    template: Choh_Moui
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175186:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175187:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175188:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175189:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175190:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 78]
+    level:    [70, 70]
+
+  17175191:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 153]
+    level:    [70, 70]
+
+  17175192:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 36]
+    level:    [70, 70]
+
+  17175193:
+    template: Chigoe
+    at:       [-287.075, 16.513, 398.354, 39]
+    level:    [70, 70]
+
+  17175194:
+    template: Azo
+    at:       [-296.221, 16.274, 421.500, 156]
+    level:    [70, 70]
+
+  17175195:
+    template: Vahi
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175196:
+    template: Rongo-Nango
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175197:
+    template: Lerren
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175198:
+    template: Jajaro
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175199:
+    template: Popochu
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175200:
+    template: Papako
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175201:
+    template: Momowa
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175202:
+    template: Ulla
+    at:       [-264.479, 12.179, 401.472, 111]
+    level:    [70, 70]
+
+  17175203:
+    template: Kilhwch
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175204:
+    template: Alfons
+    at:       [0.000, 0.000, 0.000, 51]
+    level:    [70, 70]
+
+  17175205:
+    template: Achtelle
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175206:
+    template: Bravo
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175207:
+    template: Duskraven
+    at:       [0.000, 0.000, 0.000, 241]
+    level:    [70, 70]
+
+  17175208:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175209:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 50]
+    level:    [70, 70]
+
+  17175210:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 49]
+    level:    [70, 70]
+
+  17175211:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 49]
+    level:    [70, 70]
+
+  17175212:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 49]
+    level:    [70, 70]
+
+  17175213:
+    template: Areuhat
+    at:       [-256.473, 10.118, 401.965, 248]
+    level:    [70, 70]
+
+  17175214:
+    template: Odzmanouk
+    at:       [0.000, 0.000, 0.000, 122]
+    level:    [70, 70]
+
+  17175215:
+    template: Boodlix
+    at:       [-279.670, 16.253, 424.013, 162]
+    level:    [70, 70]
+
+  17175216:
+    template: Goblin_Lansquenet
+    at:       [-268.205, 10.638, 382.030, 166]
+    level:    [70, 70]
+
+  17175217:
+    template: Goblin_Lansquenet
+    at:       [-279.809, 16.276, 423.517, 194]
+    level:    [70, 70]
+
+  17175218:
+    template: Goblin_Lansquenet
+    at:       [-269.397, 13.681, 421.732, 16]
+    level:    [70, 70]
+
+  17175219:
+    template: Titania
+    at:       [0.000, 0.000, 0.000, 196]
+    level:    [70, 70]
+
+  17175220:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 197]
+    level:    [70, 70]
+
+  17175221:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 184]
+    level:    [70, 70]
+
+  17175222:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175223:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 255]
+    level:    [70, 70]
+
+  17175224:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175225:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175226:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175227:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175228:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175229:
+    template: Babban_Ny_Mheillea
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175230:
+    template: Abenzio
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175231:
+    template: Bryher
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175232:
+    template: Camlin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175233:
+    template: Darach
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175234:
+    template: Raigegue_R_dOraguille
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175235:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175236:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175237:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175238:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175239:
+    template: Eurytos
+    at:       [-271.158, 14.514, 425.482, 0]
+    level:    [70, 70]
+
+  17175240:
+    template: Gigas_Mercenary
+    at:       [-276.277, 15.706, 426.000, 0]
+    level:    [70, 70]
+
+  17175241:
+    template: Gigas_Mercenary
+    at:       [-276.402, 15.732, 425.440, 0]
+    level:    [70, 70]
+
+  17175242:
+    template: Poroggo_Prince
+    at:       [-278.152, 14.955, 393.493, 3]
+    level:    [70, 70]
+
+  17175243:
+    template: Poroggo_Servant
+    at:       [-441.249, -8.660, 83.790, 0]
+    level:    [70, 70]
+
+  17175244:
+    template: Poroggo_Servant
+    at:       [-445.353, -9.197, 81.971, 0]
+    level:    [70, 70]
+
+  17175245:
+    template: Poroggo_Servant
+    at:       [-445.617, -9.178, 80.766, 0]
+    level:    [70, 70]
+
+  17175246:
+    template: Kaiser_Behemoth
+    level:    [70, 70]
+    region:   meriphataud_mountains_s_nw_56
+
+  17175247:
+    template: Ferreous_Coffin
+    at:       [-289.369, 15.768, 441.807, 24]
+    level:    [70, 70]
+
+  17175248:
+    template: Lewenhart
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175249:
+    template: Auroral_Alicorn
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17175250:
+    template: Akupara
+    at:       [200.000, -0.500, -520.000, 6]
+    level:    [92, 95]
+
+  17175251:
+    template: Akupara
+    at:       [-282.000, 15.500, 602.000, 16]
+    level:    [92, 95]
+
+  17175252:
+    template: Akupara
+    at:       [-513.702, 15.614, 518.762, 111]
+    level:    [92, 95]

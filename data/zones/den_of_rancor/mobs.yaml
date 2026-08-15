@@ -1,0 +1,2168 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17432577:
+    template: Rock_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [53, 55]
+
+  17432578:
+    template: Razorjaw_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [53, 55]
+
+  17432579:
+    template: Bloodsucker
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [58, 60]
+
+  17432580:
+    template: Mousse
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [64, 67]
+
+  17432581:
+    template: Mousse
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [64, 67]
+
+  17432582:
+    template: Rancor_Torch
+    at:       [119.101, 14.986, -318.679, 157]
+    level:    [69, 73]
+
+  17432583:
+    template: Mimic
+    at:       [185.654, -28.001, -107.475, 127]
+    level:    [65, 65]
+
+  17432584:
+    template: Tonberry_Trailer
+    level:    [62, 65]
+    region:   den_of_rancor_w_13
+
+  17432585:
+    template: Dire_Bat
+    at:       [-3.824, 15.564, -43.606, 127]
+    level:    [60, 63]
+
+  17432586:
+    template: Tonberry_Trailer
+    level:    [62, 65]
+    region:   den_of_rancor_w_14
+
+  17432587:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_w_14
+
+  17432588:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_w_14
+
+  17432589:
+    template: Fire_Elemental
+    level:    [70, 72]
+    region:   den_of_rancor_w_14
+
+  17432590:
+    template: Tonberry_Imprecator
+    level:    [62, 64]
+    region:   den_of_rancor_w_18
+
+  17432591:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_w_18
+
+  17432592:
+    template: Tonberry_Trailer
+    at:       [-2.478, 15.667, -42.535, 5]
+    level:    [62, 65]
+
+  17432593:
+    template: Tonberry_Imprecator
+    at:       [29.000, 16.000, -42.000, 2]
+    level:    [62, 64]
+
+  17432594:
+    template: Dire_Bat
+    at:       [18.465, 15.362, -69.896, 63]
+    level:    [60, 63]
+
+  17432595:
+    template: Dire_Bat
+    at:       [0.500, 16.000, -100.000, 25]
+    level:    [60, 63]
+
+  17432596:
+    template: Dire_Bat
+    at:       [20.000, 16.000, -79.000, 127]
+    level:    [60, 63]
+
+  17432597:
+    template: Tonberry_Trailer
+    at:       [22.757, 15.738, -102.055, 127]
+    level:    [62, 65]
+
+  17432598:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_w_11
+
+  17432599:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_w_11
+
+  17432600:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_w_11
+
+  17432601:
+    template: Dire_Bat
+    at:       [39.857, 15.545, -101.641, 127]
+    level:    [60, 63]
+
+  17432602:
+    template: Dire_Bat
+    at:       [52.693, 15.348, -107.705, 32]
+    level:    [60, 63]
+
+  17432603:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_c
+
+  17432604:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_c
+
+  17432605:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_c
+
+  17432606:
+    template: Dire_Bat
+    at:       [76.184, 15.092, -61.292, 54]
+    level:    [60, 63]
+
+  17432607:
+    template: Tonberry_Trailer
+    level:    [62, 65]
+    region:   den_of_rancor_c_4
+
+  17432608:
+    template: Tonberry_Imprecator
+    level:    [62, 64]
+    region:   den_of_rancor_c_4
+
+  17432609:
+    template: Sozu_Bliberry
+    at:       [98.830, 16.807, -40.687, 127]
+    level:    [65, 66]
+
+  17432610:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_c_4
+
+  17432611:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_c_6
+
+  17432612:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_c_6
+
+  17432613:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_c_6
+
+  17432614:
+    template: Tonberry_Trailer
+    level:    [62, 65]
+    region:   den_of_rancor_c_9
+
+  17432615:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_c_9
+
+  17432616:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_c_9
+
+  17432617:
+    template: Tonberry_Trailer
+    at:       [101.000, 17.000, -45.000, 11]
+    level:    [62, 65]
+
+  17432618:
+    template: Tonberry_Imprecator
+    at:       [178.000, 16.000, -87.000, 127]
+    level:    [62, 64]
+
+  17432619:
+    template: Dire_Bat
+    at:       [135.109, 15.709, -65.366, 127]
+    level:    [60, 63]
+
+  17432620:
+    template: Dire_Bat
+    at:       [124.732, 15.610, -59.721, 127]
+    level:    [60, 63]
+
+  17432621:
+    template: Tonberry_Trailer
+    level:    [62, 65]
+    region:   den_of_rancor_c_7
+
+  17432622:
+    template: Tonberry_Trailer
+    level:    [62, 65]
+    region:   den_of_rancor_c_7
+
+  17432623:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_c_7
+
+  17432624:
+    template: Celeste-eyed_Tozberry
+    at:       [146.000, 15.412, -102.000, 127]
+    level:    [67, 69]
+
+  17432625:
+    template: Tonberry_Trailer
+    at:       [145.000, 16.000, -95.000, 127]
+    level:    [62, 65]
+
+  17432626:
+    template: Dire_Bat
+    at:       [109.478, 15.349, -100.959, 114]
+    level:    [60, 63]
+
+  17432627:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_w_9
+
+  17432628:
+    template: Tonberry_Slasher
+    level:    [67, 69]
+    region:   den_of_rancor_w_4
+
+  17432629:
+    template: Tonberry_Slasher
+    level:    [67, 69]
+    region:   den_of_rancor_w_4
+
+  17432630:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_w_4
+
+  17432631:
+    template: Fire_Elemental
+    level:    [70, 72]
+    region:   den_of_rancor_w_4
+
+  17432632:
+    template: Tonberry_Beleaguerer
+    level:    [66, 69]
+    region:   den_of_rancor_w_6
+
+  17432633:
+    template: Tonberrys_Elemental
+    level:    [53, 59]
+    region:   den_of_rancor_w_6
+
+  17432634:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_w_5
+
+  17432635:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_w_5
+
+  17432636:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_w_5
+
+  17432637:
+    template: Dire_Bat
+    at:       [-67.000, 15.428, -15.000, 127]
+    level:    [60, 63]
+
+  17432638:
+    template: Bifrons
+    level:    [68, 70]
+    region:   den_of_rancor_w
+
+  17432639:
+    template: Bifrons
+    at:       [-74.000, 16.000, 6.000, 127]
+    level:    [68, 70]
+
+  17432640:
+    template: Friar_Rush
+    at:       [-86.000, 16.000, 2.000, 35]
+    level:    [70, 70]
+
+  17432641:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_w_19
+
+  17432642:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_w_19
+
+  17432643:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_w_19
+
+  17432644:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_c_2
+
+  17432645:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_c_2
+
+  17432646:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_c_2
+
+  17432647:
+    template: Tonberry_Imprecator
+    level:    [62, 64]
+    region:   den_of_rancor_w_18
+
+  17432648:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_w_18
+
+  17432649:
+    template: Cave_Worm
+    level:    [61, 64]
+    region:   den_of_rancor_w_18
+
+  17432650:
+    template: Cave_Worm
+    level:    [61, 64]
+    region:   den_of_rancor_w_18
+
+  17432651:
+    template: Tonberry_Trailer
+    level:    [62, 65]
+    region:   den_of_rancor_w_15
+
+  17432652:
+    template: Cave_Worm
+    level:    [61, 64]
+    region:   den_of_rancor_w_15
+
+  17432653:
+    template: Cave_Worm
+    level:    [61, 64]
+    region:   den_of_rancor_w_15
+
+  17432654:
+    template: Cave_Worm
+    level:    [61, 64]
+    region:   den_of_rancor_w_15
+
+  17432655:
+    template: Cave_Worm
+    at:       [0.020, 35.468, -68.012, 127]
+    level:    [61, 64]
+
+  17432656:
+    template: Cave_Worm
+    level:    [61, 64]
+    region:   den_of_rancor_w_12
+
+  17432657:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_w_12
+
+  17432658:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_w_12
+
+  17432659:
+    template: Carmine-tailed_Janberry
+    at:       [0.500, 36.000, -87.000, 31]
+    level:    [66, 67]
+
+  17432660:
+    template: Tonberrys_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [53, 59]
+
+  17432661:
+    template: Tonberry_Imprecator
+    level:    [62, 64]
+    region:   den_of_rancor_w_17
+
+  17432662:
+    template: Tonberry_Imprecator
+    level:    [62, 64]
+    region:   den_of_rancor_w_17
+
+  17432663:
+    template: Cave_Worm
+    level:    [61, 64]
+    region:   den_of_rancor_w_17
+
+  17432664:
+    template: Cave_Worm
+    level:    [61, 64]
+    region:   den_of_rancor_w_17
+
+  17432665:
+    template: Tonberry_Trailer
+    level:    [62, 65]
+    region:   den_of_rancor_sw_14
+
+  17432666:
+    template: Cave_Worm
+    level:    [61, 64]
+    region:   den_of_rancor_sw_14
+
+  17432667:
+    template: Cave_Worm
+    level:    [61, 64]
+    region:   den_of_rancor_sw_14
+
+  17432668:
+    template: Tonberry_Imprecator
+    at:       [-15.819, 35.574, -134.720, 127]
+    level:    [62, 64]
+
+  17432669:
+    template: Dire_Bat
+    at:       [-26.316, 35.579, -138.970, 127]
+    level:    [60, 63]
+
+  17432670:
+    template: Tonberry_Trailer
+    level:    [62, 65]
+    region:   den_of_rancor_w_20
+
+  17432671:
+    template: Tonberry_Imprecator
+    at:       [39.428, 36.480, -136.605, 127]
+    level:    [62, 64]
+
+  17432672:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_w_10
+
+  17432673:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_w_10
+
+  17432674:
+    template: Cave_Worm
+    level:    [61, 64]
+    region:   den_of_rancor_w_10
+
+  17432675:
+    template: Cave_Worm
+    level:    [61, 64]
+    region:   den_of_rancor_w_10
+
+  17432676:
+    template: Tonberry_Trailer
+    level:    [62, 65]
+    region:   den_of_rancor_w_7
+
+  17432677:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_w_7
+
+  17432678:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_w_7
+
+  17432679:
+    template: Tonberry_Trailer
+    level:    [62, 65]
+    region:   den_of_rancor_w_2
+
+  17432680:
+    template: Tonberry_Imprecator
+    level:    [62, 64]
+    region:   den_of_rancor_w_2
+
+  17432681:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_w_2
+
+  17432682:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_w_2
+
+  17432683:
+    template: Tonberry_Trailer
+    at:       [-79.935, 45.373, 18.524, 4]
+    level:    [62, 65]
+
+  17432684:
+    template: Dire_Bat
+    at:       [-82.567, 45.393, 21.987, 127]
+    level:    [60, 63]
+
+  17432685:
+    template: Tonberry_Imprecator
+    at:       [-36.701, 45.315, 19.801, 65]
+    level:    [62, 64]
+
+  17432686:
+    template: Dire_Bat
+    at:       [-40.879, 45.440, 21.912, 127]
+    level:    [60, 63]
+
+  17432687:
+    template: Tormentor
+    level:    [75, 78]
+    region:   den_of_rancor_ne_6
+
+  17432688:
+    template: Tormentor
+    level:    [75, 78]
+    region:   den_of_rancor_ne_6
+
+  17432689:
+    template: Tormentor
+    level:    [75, 78]
+    region:   den_of_rancor_ne_6
+
+  17432690:
+    template: Tormentor
+    level:    [75, 78]
+    region:   den_of_rancor_ne_6
+
+  17432691:
+    template: Puck
+    at:       [323.838, -4.000, 322.532, 127]
+    level:    [74, 77]
+
+  17432692:
+    template: Bullbeggar
+    level:    [78, 80]
+    region:   den_of_rancor_ne_10
+
+  17432693:
+    template: Bullbeggar
+    level:    [78, 80]
+    region:   den_of_rancor_ne_10
+
+  17432694:
+    template: Bullbeggar
+    level:    [78, 80]
+    region:   den_of_rancor_ne_10
+
+  17432695:
+    template: Tormentor
+    level:    [75, 78]
+    region:   den_of_rancor_ne_9
+
+  17432696:
+    template: Tormentor
+    level:    [75, 78]
+    region:   den_of_rancor_ne_9
+
+  17432697:
+    template: Tormentor
+    level:    [75, 78]
+    region:   den_of_rancor_ne_9
+
+  17432698:
+    template: Tormentor
+    level:    [75, 78]
+    region:   den_of_rancor_ne_9
+
+  17432699:
+    template: Puck
+    at:       [342.186, -4.000, 271.980, 0]
+    level:    [74, 77]
+
+  17432700:
+    template: Puck
+    level:    [74, 77]
+    region:   den_of_rancor_ne_12
+
+  17432701:
+    template: Puck
+    level:    [74, 77]
+    region:   den_of_rancor_ne_12
+
+  17432702:
+    template: Puck
+    level:    [74, 77]
+    region:   den_of_rancor_ne_12
+
+  17432703:
+    template: Puck
+    level:    [74, 77]
+    region:   den_of_rancor_ne_12
+
+  17432704:
+    template: Puck
+    at:       [404.117, -4.120, 235.828, 127]
+    level:    [74, 77]
+
+  17432705:
+    template: Tormentor
+    at:       [383.952, -1.659, 289.411, 127]
+    level:    [75, 78]
+
+  17432706:
+    template: Tormentor
+    at:       [393.675, 3.107, 297.123, 127]
+    level:    [75, 78]
+
+  17432707:
+    template: Puck
+    at:       [386.735, 1.000, 294.356, 0]
+    level:    [74, 77]
+
+  17432708:
+    template: Bullbeggar
+    level:    [78, 80]
+    region:   den_of_rancor_ne_15
+
+  17432709:
+    template: Bullbeggar
+    level:    [78, 80]
+    region:   den_of_rancor_ne_15
+
+  17432710:
+    template: Bullbeggar
+    level:    [78, 80]
+    region:   den_of_rancor_ne_15
+
+  17432711:
+    template: Bullbeggar
+    level:    [78, 80]
+    region:   den_of_rancor_ne_15
+
+  17432712:
+    template: Puck
+    level:    [74, 77]
+    region:   den_of_rancor_ne_15
+
+  17432713:
+    template: Puck
+    at:       [461.042, 5.446, 315.550, 127]
+    level:    [74, 77]
+
+  17432714:
+    template: Puck
+    at:       [461.170, 5.173, 327.517, 127]
+    level:    [74, 77]
+
+  17432715:
+    template: Puck
+    at:       [456.495, 5.013, 324.549, 127]
+    level:    [74, 77]
+
+  17432716:
+    template: Tormentor
+    level:    [75, 78]
+    region:   den_of_rancor_ne_14
+
+  17432717:
+    template: Tormentor
+    level:    [75, 78]
+    region:   den_of_rancor_ne_14
+
+  17432718:
+    template: Tormentor
+    level:    [75, 78]
+    region:   den_of_rancor_ne_14
+
+  17432719:
+    template: Tormentor
+    level:    [75, 78]
+    region:   den_of_rancor_ne_14
+
+  17432720:
+    template: Puck
+    level:    [74, 77]
+    region:   den_of_rancor_ne_14
+
+  17432721:
+    template: Tonberry_Slasher
+    at:       [417.368, 25.726, 304.131, 3]
+    level:    [67, 69]
+
+  17432722:
+    template: Tonberry_Slasher
+    level:    [67, 69]
+    region:   den_of_rancor_ne_13
+
+  17432723:
+    template: Tonberry_Beleaguerer
+    at:       [418.611, 25.532, 295.349, 32]
+    level:    [66, 69]
+
+  17432724:
+    template: Tonberrys_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [53, 59]
+
+  17432725:
+    template: Bullbeggar
+    level:    [78, 80]
+    region:   den_of_rancor_ne_11
+
+  17432726:
+    template: Bullbeggar
+    level:    [78, 80]
+    region:   den_of_rancor_ne_11
+
+  17432727:
+    template: Bullbeggar
+    level:    [78, 80]
+    region:   den_of_rancor_ne_11
+
+  17432728:
+    template: Den_Scorpion
+    at:       [372.000, 26.000, 296.000, 127]
+    level:    [79, 81]
+
+  17432729:
+    template: Bullbeggar
+    at:       [452.788, 24.222, 294.637, 47]
+    level:    [78, 80]
+
+  17432730:
+    template: Bullbeggar
+    level:    [78, 80]
+    region:   den_of_rancor_ne_15
+
+  17432731:
+    template: Bullbeggar
+    level:    [78, 80]
+    region:   den_of_rancor_ne_15
+
+  17432732:
+    template: Den_Scorpion
+    level:    [79, 81]
+    region:   den_of_rancor_ne_15
+
+  17432733:
+    template: Tonberry_Slasher
+    at:       [424.000, 26.000, 302.000, 127]
+    level:    [67, 69]
+
+  17432734:
+    template: Bifrons
+    at:       [401.006, 25.500, 367.180, 127]
+    level:    [68, 70]
+
+  17432735:
+    template: Bifrons
+    at:       [409.028, 25.478, 357.297, 108]
+    level:    [68, 70]
+
+  17432736:
+    template: Tormentor
+    at:       [336.014, 13.972, 262.470, 127]
+    level:    [75, 78]
+
+  17432737:
+    template: Bullbeggar
+    at:       [342.723, 15.533, 267.984, 127]
+    level:    [78, 80]
+
+  17432738:
+    template: Bullbeggar
+    at:       [346.569, 15.541, 264.690, 5]
+    level:    [78, 80]
+
+  17432739:
+    template: Tormentor
+    level:    [75, 78]
+    region:   den_of_rancor_ne_5
+
+  17432740:
+    template: Tormentor
+    level:    [75, 78]
+    region:   den_of_rancor_ne_5
+
+  17432741:
+    template: Tormentor
+    level:    [75, 78]
+    region:   den_of_rancor_ne_5
+
+  17432742:
+    template: Puck
+    at:       [308.395, 15.484, 260.147, 240]
+    level:    [74, 77]
+
+  17432743:
+    template: Tormentor
+    level:    [75, 78]
+    region:   den_of_rancor_ne_8
+
+  17432744:
+    template: Tormentor
+    level:    [75, 78]
+    region:   den_of_rancor_ne_8
+
+  17432745:
+    template: Tormentor
+    level:    [75, 78]
+    region:   den_of_rancor_ne_8
+
+  17432746:
+    template: Puck
+    level:    [74, 77]
+    region:   den_of_rancor_ne_8
+
+  17432747:
+    template: Puck
+    at:       [304.252, 15.744, 225.500, 127]
+    level:    [74, 77]
+
+  17432748:
+    template: Puck
+    at:       [297.671, 15.160, 211.494, 44]
+    level:    [74, 77]
+
+  17432749:
+    template: Den_Scorpion
+    at:       [299.868, 15.576, 217.351, 86]
+    level:    [79, 81]
+
+  17432750:
+    template: Puck
+    at:       [298.161, 15.558, 216.908, 40]
+    level:    [74, 77]
+
+  17432751:
+    template: Bullbeggar
+    level:    [78, 80]
+    region:   den_of_rancor_ne
+
+  17432752:
+    template: Bullbeggar
+    level:    [78, 80]
+    region:   den_of_rancor_ne
+
+  17432753:
+    template: Bullbeggar
+    level:    [78, 80]
+    region:   den_of_rancor_ne
+
+  17432754:
+    template: Bullbeggar
+    level:    [78, 80]
+    region:   den_of_rancor_ne_3
+
+  17432755:
+    template: Bullbeggar
+    level:    [78, 80]
+    region:   den_of_rancor_ne_3
+
+  17432756:
+    template: Bullbeggar
+    level:    [78, 80]
+    region:   den_of_rancor_ne_3
+
+  17432757:
+    template: Bullbeggar
+    at:       [254.574, 15.637, 180.203, 45]
+    level:    [78, 80]
+
+  17432758:
+    template: Bullbeggar
+    at:       [256.488, 14.418, 172.967, 115]
+    level:    [78, 80]
+
+  17432759:
+    template: Den_Scorpion
+    at:       [256.184, 15.000, 183.434, 127]
+    level:    [79, 81]
+
+  17432760:
+    template: Tormentor
+    level:    [75, 78]
+    region:   den_of_rancor_n
+
+  17432761:
+    template: Tormentor
+    level:    [75, 78]
+    region:   den_of_rancor_n
+
+  17432762:
+    template: Tormentor
+    level:    [75, 78]
+    region:   den_of_rancor_n
+
+  17432763:
+    template: Puck
+    at:       [227.698, 15.000, 182.723, 127]
+    level:    [74, 77]
+
+  17432764:
+    template: Tormentor
+    at:       [195.503, 13.635, 175.322, 28]
+    level:    [75, 78]
+
+  17432765:
+    template: Den_Scorpion
+    at:       [174.244, 12.348, 182.149, 47]
+    level:    [79, 81]
+
+  17432766:
+    template: Den_Scorpion
+    at:       [190.623, 12.233, 167.173, 33]
+    level:    [79, 81]
+
+  17432767:
+    template: Den_Scorpion
+    at:       [180.158, 15.380, 174.054, 127]
+    level:    [79, 81]
+
+  17432768:
+    template: Bullbeggar
+    level:    [78, 80]
+    region:   den_of_rancor_ne_2
+
+  17432769:
+    template: Bullbeggar
+    level:    [78, 80]
+    region:   den_of_rancor_ne_2
+
+  17432770:
+    template: Bullbeggar
+    level:    [78, 80]
+    region:   den_of_rancor_ne_2
+
+  17432771:
+    template: Puck
+    level:    [74, 77]
+    region:   den_of_rancor_ne_4
+
+  17432772:
+    template: Puck
+    level:    [74, 77]
+    region:   den_of_rancor_ne_4
+
+  17432773:
+    template: Den_Scorpion
+    at:       [301.739, 15.802, 145.633, 123]
+    level:    [79, 81]
+
+  17432774:
+    template: Puck
+    at:       [303.871, 15.809, 141.949, 31]
+    level:    [74, 77]
+
+  17432775:
+    template: Tormentor
+    level:    [75, 78]
+    region:   den_of_rancor_ne_7
+
+  17432776:
+    template: Tormentor
+    level:    [75, 78]
+    region:   den_of_rancor_ne_7
+
+  17432777:
+    template: Tormentor
+    level:    [75, 78]
+    region:   den_of_rancor_ne_7
+
+  17432778:
+    template: Tormentor
+    level:    [75, 78]
+    region:   den_of_rancor_ne_7
+
+  17432779:
+    template: Tormentor
+    level:    [75, 78]
+    region:   den_of_rancor_ne_7
+
+  17432780:
+    template: Puck
+    at:       [325.841, 13.000, 142.558, 127]
+    level:    [74, 77]
+
+  17432781:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_w_16
+
+  17432782:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_w_16
+
+  17432783:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_w_16
+
+  17432784:
+    template: Tonberry_Slasher
+    level:    [67, 69]
+    region:   den_of_rancor_c_3
+
+  17432785:
+    template: Tonberry_Slasher
+    level:    [67, 69]
+    region:   den_of_rancor_c_3
+
+  17432786:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_c_3
+
+  17432787:
+    template: Tonberry_Slasher
+    at:       [76.568, 15.606, -165.687, 127]
+    level:    [67, 69]
+
+  17432788:
+    template: Tonberry_Slasher
+    level:    [67, 69]
+    region:   den_of_rancor_s_6
+
+  17432789:
+    template: Tonberry_Beleaguerer
+    level:    [66, 69]
+    region:   den_of_rancor_s_6
+
+  17432790:
+    template: Tonberrys_Elemental
+    level:    [53, 59]
+    region:   den_of_rancor_s_6
+
+  17432791:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_s_6
+
+  17432792:
+    template: Fire_Elemental
+    level:    [70, 72]
+    region:   den_of_rancor_s_6
+
+  17432793:
+    template: Tonberry_Slasher
+    level:    [67, 69]
+    region:   den_of_rancor_s_11
+
+  17432794:
+    template: Tonberry_Slasher
+    level:    [67, 69]
+    region:   den_of_rancor_s_11
+
+  17432795:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_s_11
+
+  17432796:
+    template: Mousse
+    at:       [99.732, 15.501, -140.500, 65]
+    level:    [64, 67]
+
+  17432797:
+    template: Mousse
+    at:       [95.387, 15.629, -145.979, 127]
+    level:    [64, 67]
+
+  17432798:
+    template: Tawny-fingered_Mugberry
+    at:       [100.000, 17.000, -180.000, 127]
+    level:    [70, 72]
+
+  17432799:
+    template: Tonberry_Beleaguerer
+    at:       [85.000, 16.000, -113.000, 127]
+    level:    [66, 69]
+
+  17432800:
+    template: Tonberrys_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [53, 59]
+
+  17432801:
+    template: Tonberry_Slasher
+    at:       [79.018, 15.568, -163.092, 119]
+    level:    [67, 69]
+
+  17432802:
+    template: Tonberry_Beleaguerer
+    at:       [117.267, 15.619, -156.876, 127]
+    level:    [66, 69]
+
+  17432803:
+    template: Tonberrys_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [53, 59]
+
+  17432804:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_s_5
+
+  17432805:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_s_5
+
+  17432806:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_s_5
+
+  17432807:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_s_5
+
+  17432808:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_s_5
+
+  17432809:
+    template: Dire_Bat
+    at:       [139.000, 15.000, -192.000, 52]
+    level:    [60, 63]
+
+  17432810:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_w_8
+
+  17432811:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_w_8
+
+  17432812:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_w_8
+
+  17432813:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_w_8
+
+  17432814:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_w_8
+
+  17432815:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_w_3
+
+  17432816:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_w_3
+
+  17432817:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_w_3
+
+  17432818:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_w_3
+
+  17432819:
+    template: Tonberry_Slasher
+    level:    [67, 69]
+    region:   den_of_rancor_sw_4
+
+  17432820:
+    template: Tonberry_Beleaguerer
+    level:    [66, 69]
+    region:   den_of_rancor_sw_4
+
+  17432821:
+    template: Tonberrys_Elemental
+    level:    [53, 59]
+    region:   den_of_rancor_sw_4
+
+  17432822:
+    template: Tonberry_Beleaguerer
+    level:    [66, 69]
+    region:   den_of_rancor_sw_4
+
+  17432823:
+    template: Tonberrys_Elemental
+    level:    [53, 59]
+    region:   den_of_rancor_sw_4
+
+  17432824:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_sw_4
+
+  17432825:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_sw_4
+
+  17432826:
+    template: Tonberry_Slasher
+    at:       [-44.078, 16.081, -177.664, 127]
+    level:    [67, 69]
+
+  17432827:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_sw_8
+
+  17432828:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_sw_8
+
+  17432829:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_sw_8
+
+  17432830:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_sw_8
+
+  17432831:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_sw_8
+
+  17432832:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_sw_12
+
+  17432833:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_sw_12
+
+  17432834:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_sw_12
+
+  17432835:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_sw_12
+
+  17432836:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_sw_12
+
+  17432837:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_sw_9
+
+  17432838:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_sw_9
+
+  17432839:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_sw_9
+
+  17432840:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_sw_9
+
+  17432841:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_sw_9
+
+  17432842:
+    template: Dire_Bat
+    at:       [-1.000, 16.000, -218.000, 7]
+    level:    [60, 63]
+
+  17432843:
+    template: Mousse
+    at:       [-14.302, 14.430, -224.502, 11]
+    level:    [64, 67]
+
+  17432844:
+    template: Mousse
+    at:       [-13.607, 14.035, -221.351, 199]
+    level:    [64, 67]
+
+  17432845:
+    template: Bistre-hearted_Malberry
+    at:       [-32.000, 16.000, -178.000, 127]
+    level:    [71, 73]
+
+  17432846:
+    template: Mousse
+    at:       [-25.880, 15.051, -218.278, 238]
+    level:    [64, 67]
+
+  17432847:
+    template: Mousse
+    at:       [-20.373, 15.226, -210.914, 158]
+    level:    [64, 67]
+
+  17432848:
+    template: Water_Elemental
+    at:       [-24.064, 15.145, -217.639, 99]
+    level:    [68, 73]
+
+  17432849:
+    template: Tonberry_Slasher
+    at:       [139.000, 16.000, -227.000, 28]
+    level:    [67, 69]
+
+  17432850:
+    template: Tonberry_Slasher
+    at:       [132.000, 15.000, -217.000, 55]
+    level:    [67, 69]
+
+  17432851:
+    template: Tonberry_Beleaguerer
+    at:       [142.000, 16.000, -216.000, 127]
+    level:    [66, 69]
+
+  17432852:
+    template: Tonberrys_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [53, 59]
+
+  17432853:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_s_16
+
+  17432854:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_s_16
+
+  17432855:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_s_16
+
+  17432856:
+    template: Tonberry_Slasher
+    level:    [67, 69]
+    region:   den_of_rancor_s_17
+
+  17432857:
+    template: Tonberry_Beleaguerer
+    level:    [66, 69]
+    region:   den_of_rancor_s_17
+
+  17432858:
+    template: Tonberrys_Elemental
+    level:    [53, 59]
+    region:   den_of_rancor_s_17
+
+  17432859:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_s_17
+
+  17432860:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_s_17
+
+  17432861:
+    template: Tonberry_Beleaguerer
+    at:       [178.342, 16.701, -236.890, 127]
+    level:    [66, 69]
+
+  17432862:
+    template: Tonberrys_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [53, 59]
+
+  17432863:
+    template: Dire_Bat
+    at:       [101.622, 15.542, -240.184, 64]
+    level:    [60, 63]
+
+  17432864:
+    template: Dire_Bat
+    at:       [114.019, 15.841, -221.130, 121]
+    level:    [60, 63]
+
+  17432865:
+    template: Mousse
+    at:       [101.615, 15.628, -230.654, 89]
+    level:    [64, 67]
+
+  17432866:
+    template: Dire_Bat
+    at:       [121.000, 16.000, -260.000, 121]
+    level:    [60, 63]
+
+  17432867:
+    template: Tonberry_Slasher
+    at:       [94.135, 15.775, -255.097, 127]
+    level:    [67, 69]
+
+  17432868:
+    template: Tonberry_Beleaguerer
+    at:       [96.250, 15.805, -258.654, 99]
+    level:    [66, 69]
+
+  17432869:
+    template: Tonberrys_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [53, 59]
+
+  17432870:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_s_10
+
+  17432871:
+    template: Tonberry_Slasher
+    level:    [67, 69]
+    region:   den_of_rancor_s_10
+
+  17432872:
+    template: Mousse
+    at:       [111.027, 15.508, -317.467, 92]
+    level:    [64, 67]
+
+  17432873:
+    template: Mousse
+    at:       [114.101, 15.502, -326.874, 77]
+    level:    [64, 67]
+
+  17432874:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_s_2
+
+  17432875:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_s_2
+
+  17432876:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_s_2
+
+  17432877:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_s_2
+
+  17432878:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_sw_11
+
+  17432879:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_sw_11
+
+  17432880:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_sw_11
+
+  17432881:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_sw_11
+
+  17432882:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_sw_11
+
+  17432883:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_sw_11
+
+  17432884:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_s_3
+
+  17432885:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_s_3
+
+  17432886:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_s_3
+
+  17432887:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_s_3
+
+  17432888:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_s_14
+
+  17432889:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   den_of_rancor_s_14
+
+  17432890:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_s_14
+
+  17432891:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_s_13
+
+  17432892:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_s_13
+
+  17432893:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_s_13
+
+  17432894:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_s_13
+
+  17432895:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_c_5
+
+  17432896:
+    template: Demonic_Pugil
+    level:    [73, 76]
+    region:   den_of_rancor_c_5
+
+  17432897:
+    template: Demonic_Pugil
+    level:    [73, 76]
+    region:   den_of_rancor_c_5
+
+  17432898:
+    template: Demonic_Pugil
+    level:    [73, 76]
+    region:   den_of_rancor_c_5
+
+  17432899:
+    template: Doom_Toad
+    level:    [75, 78]
+    region:   den_of_rancor_c_5
+
+  17432900:
+    template: Demonic_Pugil
+    level:    [73, 76]
+    region:   den_of_rancor_c_8
+
+  17432901:
+    template: Demonic_Pugil
+    level:    [73, 76]
+    region:   den_of_rancor_c_8
+
+  17432902:
+    template: Demonic_Pugil
+    level:    [73, 76]
+    region:   den_of_rancor_c_8
+
+  17432903:
+    template: Doom_Toad
+    level:    [75, 78]
+    region:   den_of_rancor_c_8
+
+  17432904:
+    template: Mousse
+    at:       [154.425, 35.712, -113.867, 18]
+    level:    [64, 67]
+
+  17432905:
+    template: Demonic_Pugil
+    at:       [161.646, 35.298, -114.791, 127]
+    level:    [73, 76]
+
+  17432906:
+    template: Demonic_Pugil
+    at:       [150.171, 35.905, -123.389, 127]
+    level:    [73, 76]
+
+  17432907:
+    template: Demonic_Pugil
+    at:       [150.736, 35.915, -123.950, 37]
+    level:    [73, 76]
+
+  17432908:
+    template: Doom_Toad
+    at:       [161.607, 35.199, -109.179, 127]
+    level:    [75, 78]
+
+  17432909:
+    template: Water_Elemental
+    at:       [165.190, 35.999, -80.587, 127]
+    level:    [68, 73]
+
+  17432910:
+    template: Demonic_Pugil
+    at:       [159.362, 36.079, -72.600, 127]
+    level:    [73, 75]
+
+  17432911:
+    template: Demonic_Pugil
+    at:       [173.155, 35.951, -94.694, 87]
+    level:    [73, 76]
+
+  17432912:
+    template: Succubus_Bats
+    level:    [65, 68]
+    region:   den_of_rancor_s_9
+
+  17432913:
+    template: Succubus_Bats
+    level:    [65, 68]
+    region:   den_of_rancor_s_9
+
+  17432914:
+    template: Tonberry_Slasher
+    level:    [67, 69]
+    region:   den_of_rancor_sw_9
+
+  17432915:
+    template: Tonberry_Beleaguerer
+    level:    [66, 69]
+    region:   den_of_rancor_sw_9
+
+  17432916:
+    template: Tonberrys_Elemental
+    level:    [53, 59]
+    region:   den_of_rancor_sw_9
+
+  17432917:
+    template: Succubus_Bats
+    level:    [65, 68]
+    region:   den_of_rancor_sw_9
+
+  17432918:
+    template: Succubus_Bats
+    level:    [65, 68]
+    region:   den_of_rancor_sw_9
+
+  17432919:
+    template: Tonberry_Slasher
+    level:    [67, 69]
+    region:   den_of_rancor_s
+
+  17432920:
+    template: Tonberry_Slasher
+    level:    [67, 69]
+    region:   den_of_rancor_s
+
+  17432921:
+    template: Succubus_Bats
+    level:    [65, 68]
+    region:   den_of_rancor_s
+
+  17432922:
+    template: Succubus_Bats
+    level:    [65, 68]
+    region:   den_of_rancor_s
+
+  17432923:
+    template: Tonberry_Slasher
+    level:    [67, 69]
+    region:   den_of_rancor_sw_13
+
+  17432924:
+    template: Tonberry_Beleaguerer
+    level:    [66, 69]
+    region:   den_of_rancor_sw_13
+
+  17432925:
+    template: Tonberrys_Elemental
+    level:    [53, 59]
+    region:   den_of_rancor_sw_13
+
+  17432926:
+    template: Succubus_Bats
+    level:    [65, 68]
+    region:   den_of_rancor_sw_13
+
+  17432927:
+    template: Fire_Elemental
+    level:    [70, 72]
+    region:   den_of_rancor_sw_13
+
+  17432928:
+    template: Tonberry_Slasher
+    level:    [67, 69]
+    region:   den_of_rancor_s_7
+
+  17432929:
+    template: Tonberry_Slasher
+    level:    [67, 69]
+    region:   den_of_rancor_s_7
+
+  17432930:
+    template: Succubus_Bats
+    level:    [65, 68]
+    region:   den_of_rancor_s_7
+
+  17432931:
+    template: Cutlass_Scorpion
+    level:    [68, 70]
+    region:   den_of_rancor_s_7
+
+  17432932:
+    template: Succubus_Bats
+    level:    [65, 68]
+    region:   den_of_rancor_s_12
+
+  17432933:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_s_12
+
+  17432934:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_s_12
+
+  17432935:
+    template: Cutlass_Scorpion
+    level:    [68, 70]
+    region:   den_of_rancor_s_12
+
+  17432936:
+    template: Tonberry_Beleaguerer
+    at:       [52.761, 36.143, -219.130, 127]
+    level:    [66, 69]
+
+  17432937:
+    template: Tonberrys_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [53, 59]
+
+  17432938:
+    template: Succubus_Bats
+    level:    [65, 68]
+    region:   den_of_rancor_s_15
+
+  17432939:
+    template: Succubus_Bats
+    level:    [65, 68]
+    region:   den_of_rancor_s_15
+
+  17432940:
+    template: Mousse
+    level:    [64, 67]
+    region:   den_of_rancor_s_15
+
+  17432941:
+    template: Mousse
+    at:       [206.719, 35.514, -285.343, 23]
+    level:    [64, 67]
+
+  17432942:
+    template: Bifrons
+    at:       [207.491, 35.504, -285.699, 64]
+    level:    [68, 70]
+
+  17432943:
+    template: Bifrons
+    at:       [192.356, 35.534, -275.124, 127]
+    level:    [68, 70]
+
+  17432944:
+    template: Million_Eyes
+    at:       [101.000, 25.000, -346.000, 127]
+    level:    [73, 76]
+
+  17432945:
+    template: Million_Eyes
+    at:       [100.952, 25.789, -336.591, 125]
+    level:    [73, 76]
+
+  17432946:
+    template: Million_Eyes
+    at:       [96.601, 25.652, -342.227, 127]
+    level:    [73, 76]
+
+  17432947:
+    template: Million_Eyes
+    level:    [73, 76]
+    region:   den_of_rancor_s_8
+
+  17432948:
+    template: Million_Eyes
+    level:    [73, 76]
+    region:   den_of_rancor_s_8
+
+  17432949:
+    template: Million_Eyes
+    level:    [73, 76]
+    region:   den_of_rancor_sw_10
+
+  17432950:
+    template: Million_Eyes
+    level:    [73, 76]
+    region:   den_of_rancor_sw_10
+
+  17432951:
+    template: Million_Eyes
+    level:    [73, 76]
+    region:   den_of_rancor_sw_10
+
+  17432952:
+    template: Million_Eyes
+    level:    [73, 76]
+    region:   den_of_rancor_sw_10
+
+  17432953:
+    template: Million_Eyes
+    level:    [73, 76]
+    region:   den_of_rancor_sw_10
+
+  17432954:
+    template: Tonberry_Slasher
+    at:       [-20.122, 25.261, -294.893, 127]
+    level:    [67, 69]
+
+  17432955:
+    template: Tonberry_Slasher
+    at:       [-32.897, 25.773, -280.915, 127]
+    level:    [67, 69]
+
+  17432956:
+    template: Tonberry_Slasher
+    at:       [-38.351, 25.797, -285.935, 91]
+    level:    [67, 69]
+
+  17432957:
+    template: Tonberry_Beleaguerer
+    at:       [-35.517, 25.899, -281.578, 57]
+    level:    [66, 69]
+
+  17432958:
+    template: Tonberrys_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [53, 59]
+
+  17432959:
+    template: Tonberry_Slasher
+    level:    [67, 69]
+    region:   den_of_rancor_sw_7
+
+  17432960:
+    template: Million_Eyes
+    level:    [73, 76]
+    region:   den_of_rancor_sw_7
+
+  17432961:
+    template: Tonberry_Beleaguerer
+    level:    [66, 69]
+    region:   den_of_rancor_sw_3
+
+  17432962:
+    template: Tonberrys_Elemental
+    level:    [53, 59]
+    region:   den_of_rancor_sw_3
+
+  17432963:
+    template: Million_Eyes
+    level:    [73, 76]
+    region:   den_of_rancor_sw_3
+
+  17432964:
+    template: Tonberry_Slasher
+    level:    [67, 69]
+    region:   den_of_rancor_sw_2
+
+  17432965:
+    template: Tonberry_Beleaguerer
+    level:    [66, 69]
+    region:   den_of_rancor_sw_2
+
+  17432966:
+    template: Tonberrys_Elemental
+    level:    [53, 59]
+    region:   den_of_rancor_sw_2
+
+  17432967:
+    template: Million_Eyes
+    level:    [73, 76]
+    region:   den_of_rancor_sw_2
+
+  17432968:
+    template: Million_Eyes
+    level:    [73, 76]
+    region:   den_of_rancor_sw_2
+
+  17432969:
+    template: Million_Eyes
+    level:    [73, 76]
+    region:   den_of_rancor_sw_5
+
+  17432970:
+    template: Million_Eyes
+    level:    [73, 76]
+    region:   den_of_rancor_sw_5
+
+  17432971:
+    template: Million_Eyes
+    level:    [73, 76]
+    region:   den_of_rancor_sw_5
+
+  17432972:
+    template: Doom_Toad
+    level:    [75, 78]
+    region:   den_of_rancor_sw_5
+
+  17432973:
+    template: Doom_Toad
+    level:    [75, 78]
+    region:   den_of_rancor_sw_5
+
+  17432974:
+    template: Ogama
+    at:       [-32.223, 36.078, -369.741, 117]
+    level:    [80, 82]
+
+  17432975:
+    template: Million_Eyes
+    level:    [73, 76]
+    region:   den_of_rancor_sw_6
+
+  17432976:
+    template: Million_Eyes
+    level:    [73, 76]
+    region:   den_of_rancor_sw_6
+
+  17432977:
+    template: Million_Eyes
+    level:    [73, 76]
+    region:   den_of_rancor_sw_6
+
+  17432978:
+    template: Doom_Toad
+    level:    [75, 78]
+    region:   den_of_rancor_sw_6
+
+  17432979:
+    template: Doom_Toad
+    at:       [-21.000, 36.000, -351.000, 18]
+    level:    [75, 78]
+
+  17432980:
+    template: Tonberry_Slasher
+    at:       [-113.000, 6.000, -215.000, 127]
+    level:    [69, 71]
+
+  17432981:
+    template: Tonberry_Beleaguerer
+    at:       [-124.000, 7.000, -219.000, 127]
+    level:    [69, 72]
+
+  17432982:
+    template: Tonberrys_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [53, 59]
+
+  17432983:
+    template: Tonberry_Slasher
+    at:       [-139.000, 6.000, -205.000, 55]
+    level:    [69, 71]
+
+  17432984:
+    template: Tonberry_Slasher
+    at:       [-140.000, 7.000, -193.000, 127]
+    level:    [69, 71]
+
+  17432985:
+    template: Tonberry_Beleaguerer
+    at:       [-145.220, 5.250, -179.819, 127]
+    level:    [69, 72]
+
+  17432986:
+    template: Tonberrys_Elemental
+    level:    [53, 59]
+    region:   den_of_rancor_sw
+
+  17432987:
+    template: Tonberry_Beleaguerer
+    at:       [-125.000, 5.000, -177.000, 127]
+    level:    [69, 72]
+
+  17432988:
+    template: Tonberrys_Elemental
+    level:    [53, 59]
+    region:   den_of_rancor_sw
+
+  17432989:
+    template: Tonberry_Decapitator
+    at:       [-149.044, 5.434, -176.297, 90]
+    level:    [72, 74]
+
+  17432990:
+    template: Doom_Toad
+    at:       [-170.000, 5.479, -179.000, 127]
+    level:    [75, 78]
+
+  17432991:
+    template: Doom_Toad
+    at:       [-111.213, 5.120, -179.656, 127]
+    level:    [75, 78]
+
+  17432992:
+    template: Tonberry_Slasher
+    at:       [-141.721, 6.766, -214.374, 45]
+    level:    [69, 71]
+
+  17432993:
+    template: Water_Elemental
+    at:       [-141.878, 6.745, -216.956, 127]
+    level:    [68, 73]
+
+  17432994:
+    template: Million_Eyes
+    level:    [73, 76]
+    region:   den_of_rancor_s_4
+
+  17432995:
+    template: Million_Eyes
+    level:    [73, 76]
+    region:   den_of_rancor_s_4
+
+  17432996:
+    template: Million_Eyes
+    level:    [73, 76]
+    region:   den_of_rancor_s_4
+
+  17432997:
+    template: Tonberry_Slasher
+    at:       [-164.833, 15.922, -123.932, 124]
+    level:    [69, 71]
+
+  17432998:
+    template: Tonberry_Slasher
+    at:       [-161.653, 15.810, -121.665, 95]
+    level:    [69, 71]
+
+  17432999:
+    template: Tonberry_Beleaguerer
+    at:       [-158.206, 15.636, -123.734, 127]
+    level:    [69, 72]
+
+  17433000:
+    template: Tonberrys_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [53, 59]
+
+  17433001:
+    template: Tonberry_Tracker
+    at:       [-167.336, 15.851, -120.259, 100]
+    level:    [72, 74]
+
+  17433002:
+    template: Tonberry_Decapitator
+    at:       [-165.510, 15.833, -116.849, 124]
+    level:    [72, 74]
+
+  17433003:
+    template: Tonberry_Pontifex
+    at:       [-164.725, 16.416, -116.191, 19]
+    level:    [75, 75]
+
+  17433004:
+    template: Tonberry_Tracker
+    at:       [-188.621, 15.588, -100.234, 127]
+    level:    [72, 74]
+
+  17433005:
+    template: Hakutaku
+    at:       [24.000, 25.000, -306.000, 121]
+    level:    [84, 85]
+
+  17433006:
+    template: Mokumokuren
+    at:       [118.000, 36.000, -283.000, 127]
+    level:    [80, 82]
+
+  17433007:
+    template: Azrael
+    at:       [37.509, 35.500, -85.849, 80]
+    level:    [0, 0]
+
+  17433008:
+    template: Azrael
+    at:       [25.897, 36.303, -196.186, 253]
+    level:    [0, 0]
+
+  17433009:
+    template: Azrael
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]

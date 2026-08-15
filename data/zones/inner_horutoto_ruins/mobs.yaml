@@ -1,0 +1,948 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17563649:
+    template: Battue_Bats
+    at:       [463.290, -8.046, 138.674, 103]
+    level:    [1, 3]
+
+  17563650:
+    template: Battue_Bats
+    at:       [462.224, -8.026, 133.832, 32]
+    level:    [1, 3]
+
+  17563651:
+    template: Battue_Bats
+    at:       [384.000, -0.005, 144.000, 95]
+    level:    [1, 3]
+
+  17563652:
+    template: Battue_Bats
+    at:       [379.196, -0.006, 139.133, 99]
+    level:    [1, 3]
+
+  17563653:
+    template: Goblin_Thug
+    at:       [385.718, -0.014, 98.594, 99]
+    level:    [1, 3]
+
+  17563654:
+    template: Goblin_Thug
+    at:       [387.911, -0.002, 25.103, 29]
+    level:    [1, 3]
+
+  17563655:
+    template: Goblin_Thug
+    level:    [1, 3]
+    region:   inner_horutoto_ruins_ne_4
+
+  17563656:
+    template: Goblin_Thug
+    level:    [1, 3]
+    region:   inner_horutoto_ruins_ne_4
+
+  17563657:
+    template: Goblin_Thug
+    level:    [1, 3]
+    region:   inner_horutoto_ruins_ne_4
+
+  17563658:
+    template: Battue_Bats
+    level:    [1, 3]
+    region:   inner_horutoto_ruins_ne_4
+
+  17563659:
+    template: Battue_Bats
+    level:    [1, 3]
+    region:   inner_horutoto_ruins_ne_4
+
+  17563660:
+    template: Goblin_Thug
+    level:    [1, 3]
+    region:   inner_horutoto_ruins_ne_3
+
+  17563661:
+    template: Goblin_Thug
+    level:    [1, 3]
+    region:   inner_horutoto_ruins_ne_3
+
+  17563662:
+    template: Goblin_Thug
+    level:    [1, 3]
+    region:   inner_horutoto_ruins_ne_3
+
+  17563663:
+    template: Goblin_Thug
+    level:    [1, 3]
+    region:   inner_horutoto_ruins_ne_3
+
+  17563664:
+    template: Battue_Bats
+    level:    [1, 3]
+    region:   inner_horutoto_ruins_ne_3
+
+  17563665:
+    template: Battue_Bats
+    level:    [1, 3]
+    region:   inner_horutoto_ruins_ne_3
+
+  17563666:
+    template: Blade_Bat
+    level:    [4, 6]
+    region:   inner_horutoto_ruins_e_3
+
+  17563667:
+    template: Blade_Bat
+    level:    [4, 6]
+    region:   inner_horutoto_ruins_e_3
+
+  17563668:
+    template: Goblin_Thug
+    at:       [421.952, -0.028, -26.985, 95]
+    level:    [3, 6]
+
+  17563669:
+    template: Goblin_Weaver
+    at:       [425.932, -0.005, -18.715, 127]
+    level:    [3, 6]
+
+  17563670:
+    template: Magicked_Bones
+    at:       [412.357, -0.001, -18.677, 109]
+    level:    [3, 8]
+
+  17563671:
+    template: Magicked_Bones
+    at:       [426.700, -0.009, -26.620, 58]
+    level:    [3, 8]
+
+  17563672:
+    template: Goblin_Weaver
+    at:       [452.927, -0.500, 21.676, 64]
+    level:    [3, 6]
+
+  17563673:
+    template: Goblin_Thug
+    at:       [456.238, -0.523, 12.349, 127]
+    level:    [3, 4]
+
+  17563674:
+    template: Goblin_Weaver
+    at:       [453.212, -0.500, 20.915, 192]
+    level:    [3, 4]
+
+  17563675:
+    template: Goblin_Thug
+    at:       [458.105, -0.500, 26.463, 128]
+    level:    [3, 4]
+
+  17563676:
+    template: Goblin_Weaver
+    at:       [307.520, -0.504, 105.672, 40]
+    level:    [3, 4]
+
+  17563677:
+    template: Goblin_Thug
+    at:       [306.860, -0.050, 106.627, 254]
+    level:    [3, 4]
+
+  17563678:
+    template: Goblin_Weaver
+    at:       [453.000, -1.000, 96.000, 127]
+    level:    [3, 4]
+
+  17563679:
+    template: Goblin_Thug
+    at:       [452.000, -1.000, 100.000, 127]
+    level:    [3, 4]
+
+  17563680:
+    template: Troika_Bats
+    level:    [79, 80]
+    region:   inner_horutoto_ruins_ne_2
+
+  17563681:
+    template: Troika_Bats
+    level:    [78, 80]
+    region:   inner_horutoto_ruins_ne_2
+
+  17563682:
+    template: Deathwatch_Beetle
+    level:    [79, 80]
+    region:   inner_horutoto_ruins_ne_2
+
+  17563683:
+    template: Deathwatch_Beetle
+    level:    [79, 81]
+    region:   inner_horutoto_ruins_ne_2
+
+  17563684:
+    template: Goblin_Flesher
+    at:       [248.000, -1.000, 82.000, 127]
+    level:    [80, 82]
+
+  17563685:
+    template: Goblin_Metallurgist
+    at:       [242.000, -1.000, -38.000, 127]
+    level:    [80, 82]
+
+  17563686:
+    template: Goblin_Lurcher
+    at:       [284.000, -1.000, -37.000, 127]
+    level:    [83, 84]
+
+  17563687:
+    template: Goblin_Lurcher
+    at:       [263.009, -0.258, -36.001, 127]
+    level:    [83, 84]
+
+  17563688:
+    template: Skinnymalinks
+    level:    [81, 83]
+    region:   inner_horutoto_ruins_ne
+
+  17563689:
+    template: Skinnymalinks
+    level:    [81, 83]
+    region:   inner_horutoto_ruins_ne
+
+  17563690:
+    template: Skinnymajinx
+    level:    [81, 83]
+    region:   inner_horutoto_ruins_ne
+
+  17563691:
+    template: Troika_Bats
+    level:    [79, 80]
+    region:   inner_horutoto_ruins_e_2
+
+  17563692:
+    template: Troika_Bats
+    level:    [78, 80]
+    region:   inner_horutoto_ruins_e_2
+
+  17563693:
+    template: Troika_Bats
+    level:    [79, 80]
+    region:   inner_horutoto_ruins_e_2
+
+  17563694:
+    template: Troika_Bats
+    level:    [78, 79]
+    region:   inner_horutoto_ruins_e_2
+
+  17563695:
+    template: Deathwatch_Beetle
+    level:    [79, 80]
+    region:   inner_horutoto_ruins_e_2
+
+  17563696:
+    template: Deathwatch_Beetle
+    level:    [79, 81]
+    region:   inner_horutoto_ruins_e_2
+
+  17563697:
+    template: Deathwatch_Beetle
+    level:    [79, 81]
+    region:   inner_horutoto_ruins_e_2
+
+  17563698:
+    template: Troika_Bats
+    level:    [78, 80]
+    region:   inner_horutoto_ruins_e
+
+  17563699:
+    template: Troika_Bats
+    level:    [78, 80]
+    region:   inner_horutoto_ruins_e
+
+  17563700:
+    template: Troika_Bats
+    level:    [79, 80]
+    region:   inner_horutoto_ruins_e
+
+  17563701:
+    template: Troika_Bats
+    level:    [79, 80]
+    region:   inner_horutoto_ruins_c_2
+
+  17563702:
+    template: Troika_Bats
+    level:    [78, 80]
+    region:   inner_horutoto_ruins_c_2
+
+  17563703:
+    template: Troika_Bats
+    level:    [78, 80]
+    region:   inner_horutoto_ruins_c_2
+
+  17563704:
+    template: Deathwatch_Beetle
+    level:    [79, 81]
+    region:   inner_horutoto_ruins_c_2
+
+  17563705:
+    template: Deathwatch_Beetle
+    level:    [79, 81]
+    region:   inner_horutoto_ruins_c_2
+
+  17563706:
+    template: Deathwatch_Beetle
+    at:       [89.000, 0.794, 11.000, 64]
+    level:    [79, 80]
+
+  17563707:
+    template: Deathwatch_Beetle
+    at:       [118.000, 0.500, -20.000, 127]
+    level:    [80, 81]
+
+  17563708:
+    template: Covin_Bat
+    at:       [103.593, -0.640, -8.701, 127]
+    level:    [81, 83]
+
+  17563709:
+    template: Goblin_Metallurgist
+    at:       [241.000, -1.000, 72.000, 115]
+    level:    [80, 82]
+
+  17563710:
+    template: Goblin_Trailblazer
+    at:       [231.000, -1.000, 71.000, 127]
+    level:    [80, 82]
+
+  17563711:
+    template: Goblin_Lurcher
+    at:       [236.000, -1.000, 83.000, 123]
+    level:    [83, 84]
+
+  17563712:
+    template: Skinnymalinks
+    level:    [81, 83]
+    region:   inner_horutoto_ruins_n_2
+
+  17563713:
+    template: Skinnymalinks
+    level:    [81, 83]
+    region:   inner_horutoto_ruins_n_2
+
+  17563714:
+    template: Skinnymajinx
+    level:    [81, 83]
+    region:   inner_horutoto_ruins_n_2
+
+  17563715:
+    template: Skinnymajinx
+    level:    [81, 83]
+    region:   inner_horutoto_ruins_n_2
+
+  17563716:
+    template: Deathwatch_Beetle
+    at:       [48.305, -0.609, 76.995, 127]
+    level:    [80, 81]
+
+  17563717:
+    template: Deathwatch_Beetle
+    at:       [0.100, 0.721, 23.000, 91]
+    level:    [80, 81]
+
+  17563718:
+    template: Deathwatch_Beetle
+    at:       [3.811, 0.244, 16.316, 83]
+    level:    [79, 81]
+
+  17563719:
+    template: Covin_Bat
+    level:    [81, 83]
+    region:   inner_horutoto_ruins_n
+
+  17563720:
+    template: Covin_Bat
+    level:    [81, 83]
+    region:   inner_horutoto_ruins_n
+
+  17563721:
+    template: Covin_Bat
+    level:    [81, 83]
+    region:   inner_horutoto_ruins_c
+
+  17563722:
+    template: Covin_Bat
+    level:    [81, 83]
+    region:   inner_horutoto_ruins_c
+
+  17563723:
+    template: Covin_Bat
+    level:    [81, 83]
+    region:   inner_horutoto_ruins_c
+
+  17563724:
+    template: Deathwatch_Beetle
+    level:    [79, 81]
+    region:   inner_horutoto_ruins_c
+
+  17563725:
+    template: Deathwatch_Beetle
+    level:    [80, 81]
+    region:   inner_horutoto_ruins_c
+
+  17563726:
+    template: Deathwatch_Beetle
+    level:    [79, 81]
+    region:   inner_horutoto_ruins_c
+
+  17563727:
+    template: Goblin_Metallurgist
+    level:    [80, 82]
+    region:   inner_horutoto_ruins_s_2
+
+  17563728:
+    template: Goblin_Trailblazer
+    level:    [80, 82]
+    region:   inner_horutoto_ruins_s_2
+
+  17563729:
+    template: Goblin_Flesher
+    level:    [81, 82]
+    region:   inner_horutoto_ruins_s_2
+
+  17563730:
+    template: Goblin_Lurcher
+    level:    [83, 84]
+    region:   inner_horutoto_ruins_s_2
+
+  17563731:
+    template: Goblin_Lurcher
+    level:    [83, 84]
+    region:   inner_horutoto_ruins_s_2
+
+  17563732:
+    template: Covin_Bat
+    level:    [81, 83]
+    region:   inner_horutoto_ruins_s_2
+
+  17563733:
+    template: Covin_Bat
+    level:    [81, 83]
+    region:   inner_horutoto_ruins_s_2
+
+  17563734:
+    template: Covin_Bat
+    level:    [81, 83]
+    region:   inner_horutoto_ruins_s
+
+  17563735:
+    template: Covin_Bat
+    level:    [81, 83]
+    region:   inner_horutoto_ruins_s
+
+  17563736:
+    template: Deathwatch_Beetle
+    level:    [79, 80]
+    region:   inner_horutoto_ruins_s
+
+  17563737:
+    template: Deathwatch_Beetle
+    level:    [79, 80]
+    region:   inner_horutoto_ruins_s
+
+  17563738:
+    template: Deathwatch_Beetle
+    level:    [79, 81]
+    region:   inner_horutoto_ruins_s
+
+  17563739:
+    template: Goblin_Metallurgist
+    level:    [80, 81]
+    region:   inner_horutoto_ruins_sw_6
+
+  17563740:
+    template: Goblin_Trailblazer
+    level:    [81, 82]
+    region:   inner_horutoto_ruins_sw_6
+
+  17563741:
+    template: Goblin_Flesher
+    level:    [80, 82]
+    region:   inner_horutoto_ruins_sw_6
+
+  17563742:
+    template: Goblin_Lurcher
+    level:    [83, 84]
+    region:   inner_horutoto_ruins_sw_6
+
+  17563743:
+    template: Goblin_Lurcher
+    level:    [83, 84]
+    region:   inner_horutoto_ruins_sw_6
+
+  17563744:
+    template: Goblin_Lurcher
+    level:    [83, 84]
+    region:   inner_horutoto_ruins_sw_6
+
+  17563745:
+    template: Covin_Bat
+    level:    [81, 83]
+    region:   inner_horutoto_ruins_sw_6
+
+  17563746:
+    template: Covin_Bat
+    level:    [81, 83]
+    region:   inner_horutoto_ruins_sw_6
+
+  17563747:
+    template: Blob
+    at:       [-63.000, 8.000, -60.000, 127]
+    level:    [15, 18]
+
+  17563748:
+    template: Blob
+    at:       [-52.372, 7.413, -58.898, 20]
+    level:    [15, 18]
+
+  17563749:
+    template: Maltha
+    at:       [-57.347, 7.631, -66.473, 98]
+    level:    [22, 23]
+
+  17563750:
+    template: Balloon
+    level:    [8, 10]
+    region:   inner_horutoto_ruins_w_4
+
+  17563751:
+    template: Balloon
+    level:    [8, 10]
+    region:   inner_horutoto_ruins_w_4
+
+  17563752:
+    template: Goblin_Mugger
+    level:    [20, 23]
+    region:   inner_horutoto_ruins_sw_5
+
+  17563753:
+    template: Goblin_Leecher
+    level:    [20, 23]
+    region:   inner_horutoto_ruins_sw_5
+
+  17563754:
+    template: Goblin_Gambler
+    level:    [20, 23]
+    region:   inner_horutoto_ruins_sw_5
+
+  17563755:
+    template: Battle_Bat
+    level:    [17, 20]
+    region:   inner_horutoto_ruins_sw_5
+
+  17563756:
+    template: Battle_Bat
+    level:    [17, 20]
+    region:   inner_horutoto_ruins_sw_5
+
+  17563757:
+    template: Goblin_Mugger
+    level:    [20, 23]
+    region:   inner_horutoto_ruins_sw_4
+
+  17563758:
+    template: Goblin_Leecher
+    at:       [-238.315, -0.002, -179.249, 97]
+    level:    [20, 23]
+
+  17563759:
+    template: Goblin_Gambler
+    level:    [20, 23]
+    region:   inner_horutoto_ruins_sw_4
+
+  17563760:
+    template: Battle_Bat
+    level:    [17, 20]
+    region:   inner_horutoto_ruins_sw_4
+
+  17563761:
+    template: Battle_Bat
+    level:    [17, 20]
+    region:   inner_horutoto_ruins_sw_4
+
+  17563762:
+    template: Goblin_Mugger
+    level:    [20, 23]
+    region:   inner_horutoto_ruins_sw_2
+
+  17563763:
+    template: Goblin_Leecher
+    level:    [20, 23]
+    region:   inner_horutoto_ruins_sw_2
+
+  17563764:
+    template: Goblin_Gambler
+    level:    [20, 23]
+    region:   inner_horutoto_ruins_sw_2
+
+  17563765:
+    template: Goblin_Mugger
+    level:    [20, 23]
+    region:   inner_horutoto_ruins_sw_2
+
+  17563766:
+    template: Goblin_Leecher
+    level:    [20, 23]
+    region:   inner_horutoto_ruins_sw_2
+
+  17563767:
+    template: Goblin_Gambler
+    level:    [20, 23]
+    region:   inner_horutoto_ruins_sw_2
+
+  17563768:
+    template: Battle_Bat
+    level:    [17, 20]
+    region:   inner_horutoto_ruins_sw_2
+
+  17563769:
+    template: Battle_Bat
+    level:    [17, 20]
+    region:   inner_horutoto_ruins_sw_2
+
+  17563770:
+    template: Goblin_Mugger
+    at:       [-241.000, 0.500, -112.000, 73]
+    level:    [20, 23]
+
+  17563771:
+    template: Goblin_Leecher
+    at:       [-185.000, 0.500, -125.000, 127]
+    level:    [20, 23]
+
+  17563772:
+    template: Goblin_Gambler
+    at:       [-195.000, 0.500, -120.000, 89]
+    level:    [20, 23]
+
+  17563773:
+    template: Goblin_Mugger
+    at:       [-231.000, 0.500, -123.000, 23]
+    level:    [20, 23]
+
+  17563774:
+    template: Goblin_Leecher
+    at:       [-211.861, 0.500, -145.508, 127]
+    level:    [20, 23]
+
+  17563775:
+    template: Goblin_Gambler
+    at:       [-206.146, -0.055, -138.555, 121]
+    level:    [20, 23]
+
+  17563776:
+    template: Goblin_Mugger
+    at:       [-230.000, 0.500, -162.000, 127]
+    level:    [20, 23]
+
+  17563777:
+    template: Goblin_Leecher
+    at:       [-185.000, 0.500, -161.000, 127]
+    level:    [20, 23]
+
+  17563778:
+    template: Goblin_Gambler
+    at:       [-227.319, 0.500, -144.897, 127]
+    level:    [20, 23]
+
+  17563779:
+    template: Goblin_Mugger
+    at:       [-229.000, 0.500, -126.000, 127]
+    level:    [20, 23]
+
+  17563780:
+    template: Goblin_Leecher
+    at:       [-232.183, 0.500, -133.879, 127]
+    level:    [20, 23]
+
+  17563781:
+    template: Goblin_Gambler
+    at:       [-239.268, 0.401, -143.190, 127]
+    level:    [20, 23]
+
+  17563782:
+    template: Goblin_Mugger
+    at:       [-258.280, -0.035, -217.784, 127]
+    level:    [20, 23]
+
+  17563783:
+    template: Goblin_Leecher
+    at:       [-266.376, -0.002, -221.677, 127]
+    level:    [20, 23]
+
+  17563784:
+    template: Goblin_Gambler
+    at:       [-267.058, 0.500, -212.180, 34]
+    level:    [20, 23]
+
+  17563785:
+    template: Slendlix_Spindlethumb
+    at:       [-238.000, -0.500, -167.000, 127]
+    level:    [33, 34]
+
+  17563786:
+    template: Battle_Bat
+    level:    [17, 20]
+    region:   inner_horutoto_ruins_sw_3
+
+  17563787:
+    template: Battle_Bat
+    level:    [17, 20]
+    region:   inner_horutoto_ruins_sw_3
+
+  17563788:
+    template: Battle_Bat
+    level:    [17, 20]
+    region:   inner_horutoto_ruins_sw_3
+
+  17563789:
+    template: Will-o-the-Wisp
+    level:    [24, 25]
+    region:   inner_horutoto_ruins_sw
+
+  17563790:
+    template: Boggart
+    at:       [-302.031, -0.054, -96.892, 96]
+    level:    [22, 26]
+
+  17563791:
+    template: Boggart
+    at:       [-298.351, -0.049, -102.037, 127]
+    level:    [22, 26]
+
+  17563792:
+    template: Will-o-the-Wisp
+    at:       [-299.000, 0.500, -71.000, 63]
+    level:    [23, 25]
+
+  17563793:
+    template: Boggart
+    level:    [22, 26]
+    region:   inner_horutoto_ruins_w
+
+  17563794:
+    template: Boggart
+    level:    [22, 26]
+    region:   inner_horutoto_ruins_w
+
+  17563795:
+    template: Boggart
+    at:       [-291.092, 0.442, -24.551, 164]
+    level:    [22, 26]
+
+  17563796:
+    template: Boggart
+    level:    [22, 26]
+    region:   inner_horutoto_ruins_w
+
+  17563797:
+    template: Boggart
+    level:    [22, 26]
+    region:   inner_horutoto_ruins_w_2
+
+  17563798:
+    template: Boggart
+    level:    [22, 26]
+    region:   inner_horutoto_ruins_w_2
+
+  17563799:
+    template: Boggart
+    at:       [-237.426, 0.500, -23.412, 113]
+    level:    [22, 26]
+
+  17563800:
+    template: Boggart
+    level:    [22, 26]
+    region:   inner_horutoto_ruins_w_2
+
+  17563801:
+    template: Nocuous_Weapon
+    at:       [-234.000, 0.476, -52.000, 127]
+    level:    [25, 27]
+
+  17563802:
+    template: Will-o-the-Wisp
+    level:    [23, 25]
+    region:   inner_horutoto_ruins_w_3
+
+  17563803:
+    template: Battue_Bats
+    at:       [-223.916, -10.015, 14.463, 127]
+    level:    [1, 3]
+
+  17563804:
+    template: Battue_Bats
+    at:       [-220.985, -10.006, 17.001, 160]
+    level:    [1, 3]
+
+  17563805:
+    template: Will-o-the-Wisp
+    at:       [-259.108, -0.006, 13.129, 57]
+    level:    [23, 25]
+
+  17563806:
+    template: Will-o-the-Wisp
+    level:    [23, 25]
+    region:   inner_horutoto_ruins_nw_3
+
+  17563807:
+    template: Boggart
+    level:    [22, 26]
+    region:   inner_horutoto_ruins_nw_3
+
+  17563808:
+    template: Boggart
+    level:    [22, 26]
+    region:   inner_horutoto_ruins_nw_3
+
+  17563809:
+    template: Wendigo
+    level:    [25, 28]
+    region:   inner_horutoto_ruins_nw_2
+
+  17563810:
+    template: Wendigo
+    level:    [25, 28]
+    region:   inner_horutoto_ruins_nw_2
+
+  17563811:
+    template: Wendigo
+    level:    [25, 28]
+    region:   inner_horutoto_ruins_nw_2
+
+  17563812:
+    template: Battle_Bat
+    at:       [-305.374, -0.020, 97.738, 185]
+    level:    [17, 20]
+
+  17563813:
+    template: Battle_Bat
+    level:    [17, 20]
+    region:   inner_horutoto_ruins_nw_2
+
+  17563814:
+    template: Wendigo
+    level:    [25, 28]
+    region:   inner_horutoto_ruins_nw_4
+
+  17563815:
+    template: Wendigo
+    level:    [25, 28]
+    region:   inner_horutoto_ruins_nw_4
+
+  17563816:
+    template: Wendigo
+    at:       [-280.269, 0.500, 126.430, 127]
+    level:    [25, 28]
+
+  17563817:
+    template: Battle_Bat
+    level:    [17, 20]
+    region:   inner_horutoto_ruins_nw_4
+
+  17563818:
+    template: Battle_Bat
+    at:       [-303.057, -0.010, 107.514, 201]
+    level:    [17, 20]
+
+  17563819:
+    template: Wendigo
+    level:    [25, 28]
+    region:   inner_horutoto_ruins_nw
+
+  17563820:
+    template: Wendigo
+    level:    [25, 28]
+    region:   inner_horutoto_ruins_nw
+
+  17563821:
+    template: Wendigo
+    level:    [25, 28]
+    region:   inner_horutoto_ruins_nw
+
+  17563822:
+    template: Battle_Bat
+    level:    [17, 20]
+    region:   inner_horutoto_ruins_nw
+
+  17563823:
+    template: Battle_Bat
+    at:       [-283.843, 0.001, 127.683, 118]
+    level:    [17, 20]
+
+  17563824:
+    template: Wendigo
+    at:       [-302.315, -0.002, 177.821, 30]
+    level:    [25, 28]
+
+  17563825:
+    template: Wendigo
+    level:    [25, 28]
+    region:   inner_horutoto_ruins_nw_5
+
+  17563826:
+    template: Wendigo
+    level:    [25, 28]
+    region:   inner_horutoto_ruins_nw_5
+
+  17563827:
+    template: Battle_Bat
+    at:       [-263.944, 0.002, 120.664, 55]
+    level:    [17, 20]
+
+  17563828:
+    template: Battle_Bat
+    level:    [19, 20]
+    region:   inner_horutoto_ruins_nw_5
+
+  17563829:
+    template: Wendigo
+    at:       [-278.000, -1.000, 98.000, 127]
+    level:    [25, 28]
+
+  17563830:
+    template: Wendigo
+    at:       [-259.000, -1.000, 97.000, 127]
+    level:    [25, 28]
+
+  17563831:
+    template: Wendigo
+    at:       [-301.000, -1.000, 104.000, 127]
+    level:    [25, 28]
+
+  17563832:
+    template: Wendigo
+    at:       [-327.000, -1.000, 100.000, 127]
+    level:    [25, 28]
+
+  17563833:
+    template: Wendigo
+    at:       [-302.000, -1.000, 139.000, 127]
+    level:    [25, 28]
+
+  17563834:
+    template: Wendigo
+    at:       [-325.000, -1.000, 140.000, 127]
+    level:    [25, 28]
+
+  17563835:
+    template: Wendigo
+    at:       [-288.000, -1.000, 116.000, 127]
+    level:    [25, 28]
+
+  17563836:
+    template: Wendigo
+    at:       [-258.000, -1.000, 174.000, 127]
+    level:    [25, 28]
+
+  17563837:
+    template: Wendigo
+    at:       [-269.000, -1.000, 142.000, 127]
+    level:    [25, 28]

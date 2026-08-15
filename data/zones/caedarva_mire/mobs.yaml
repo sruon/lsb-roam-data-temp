@@ -1,0 +1,2378 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17100801:
+    template: Caedarva_Pondscum
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [64, 66]
+
+  17100802:
+    template: Caedarva_Marshscum
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [66, 67]
+
+  17100803:
+    template: Suhur_Mas
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [69, 71]
+
+  17100804:
+    template: Llamhigyn_Y_Dwr
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [76, 78]
+
+  17100805:
+    template: Llamhigyn_Y_Dwr
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [76, 78]
+
+  17100806:
+    template: Chigoe
+    at:       [237.115, -8.949, -352.812, 20]
+    level:    [62, 66]
+
+  17100807:
+    template: Chigoe
+    at:       [314.347, -8.709, -446.945, 110]
+    level:    [62, 66]
+
+  17100808:
+    template: Chigoe
+    at:       [318.988, -10.787, -455.924, 43]
+    level:    [62, 66]
+
+  17100809:
+    template: Chigoe
+    at:       [318.605, -10.500, -453.678, 232]
+    level:    [62, 66]
+
+  17100810:
+    template: Chigoe
+    at:       [239.320, -8.268, -353.714, 25]
+    level:    [62, 66]
+
+  17100811:
+    template: Chigoe
+    at:       [270.933, -20.099, -328.418, 152]
+    level:    [62, 66]
+
+  17100812:
+    template: Chigoe
+    at:       [270.459, -20.098, -328.045, 151]
+    level:    [62, 66]
+
+  17100813:
+    template: Chigoe
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [62, 66]
+
+  17100814:
+    template: Chigoe
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [62, 66]
+
+  17100815:
+    template: Chigoe
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [62, 66]
+
+  17100816:
+    template: Puktrap
+    level:    [64, 66]
+    region:   caedarva_mire_s
+
+  17100817:
+    template: Marsh_Murre
+    level:    [64, 66]
+    region:   caedarva_mire_s
+
+  17100818:
+    template: Marsh_Murre
+    level:    [64, 66]
+    region:   caedarva_mire_s_5
+
+  17100819:
+    template: Treant_Sapling
+    level:    [61, 63]
+    region:   caedarva_mire_s_5
+
+  17100820:
+    template: Chigoe
+    level:    [64, 66]
+    region:   caedarva_mire_s_7
+
+  17100821:
+    template: Chigoe
+    level:    [64, 66]
+    region:   caedarva_mire_s_7
+
+  17100822:
+    template: Treant_Sapling
+    level:    [61, 63]
+    region:   caedarva_mire_s_7
+
+  17100823:
+    template: Chigoe
+    level:    [64, 66]
+    region:   caedarva_mire_s_10
+
+  17100824:
+    template: Chigoe
+    level:    [64, 66]
+    region:   caedarva_mire_s_10
+
+  17100825:
+    template: Treant_Sapling
+    level:    [61, 63]
+    region:   caedarva_mire_s_10
+
+  17100826:
+    template: Marsh_Murre
+    level:    [64, 66]
+    region:   caedarva_mire_s_8
+
+  17100827:
+    template: Puktrap
+    level:    [64, 66]
+    region:   caedarva_mire_s_8
+
+  17100828:
+    template: Puktrap
+    level:    [64, 66]
+    region:   caedarva_mire_s_8
+
+  17100829:
+    template: Water_Elemental
+    at:       [135.250, -0.130, -697.086, 119]
+    level:    [70, 71]
+
+  17100830:
+    template: Puktrap
+    level:    [64, 66]
+    region:   caedarva_mire_s_6
+
+  17100831:
+    template: Caedarva_Leech
+    level:    [63, 65]
+    region:   caedarva_mire_s_6
+
+  17100832:
+    template: Puktrap
+    level:    [64, 66]
+    region:   caedarva_mire_s_3
+
+  17100833:
+    template: Puktrap
+    level:    [64, 66]
+    region:   caedarva_mire_s_3
+
+  17100834:
+    template: Marsh_Murre
+    level:    [64, 66]
+    region:   caedarva_mire_s_2
+
+  17100835:
+    template: Treant_Sapling
+    level:    [61, 63]
+    region:   caedarva_mire_s_2
+
+  17100836:
+    template: Puktrap
+    level:    [64, 66]
+    region:   caedarva_mire_s_20
+
+  17100837:
+    template: Caedarva_Leech
+    level:    [63, 65]
+    region:   caedarva_mire_s_20
+
+  17100838:
+    template: Treant_Sapling
+    level:    [61, 63]
+    region:   caedarva_mire_s_20
+
+  17100839:
+    template: Marsh_Murre
+    level:    [64, 66]
+    region:   caedarva_mire_s_23
+
+  17100840:
+    template: Orderly_Imp
+    level:    [63, 65]
+    region:   caedarva_mire_s_25
+
+  17100841:
+    template: Marsh_Murre
+    level:    [64, 66]
+    region:   caedarva_mire_s_25
+
+  17100842:
+    template: Puktrap
+    level:    [64, 66]
+    region:   caedarva_mire_s_21
+
+  17100843:
+    template: Puktrap
+    level:    [64, 66]
+    region:   caedarva_mire_s_21
+
+  17100844:
+    template: Caedarva_Leech
+    level:    [63, 65]
+    region:   caedarva_mire_s_21
+
+  17100845:
+    template: Puktrap
+    level:    [64, 66]
+    region:   caedarva_mire_s_22
+
+  17100846:
+    template: Puktrap
+    level:    [64, 66]
+    region:   caedarva_mire_s_22
+
+  17100847:
+    template: Caedarva_Leech
+    level:    [63, 65]
+    region:   caedarva_mire_s_22
+
+  17100848:
+    template: Puktrap
+    level:    [64, 66]
+    region:   caedarva_mire_s_9
+
+  17100849:
+    template: Caedarva_Leech
+    level:    [63, 65]
+    region:   caedarva_mire_s_9
+
+  17100850:
+    template: Marsh_Murre
+    level:    [64, 66]
+    region:   caedarva_mire_s_11
+
+  17100851:
+    template: Treant_Sapling
+    level:    [61, 63]
+    region:   caedarva_mire_s_11
+
+  17100852:
+    template: Chigoe
+    level:    [64, 66]
+    region:   caedarva_mire_s_11
+
+  17100853:
+    template: Chigoe
+    level:    [64, 66]
+    region:   caedarva_mire_s_11
+
+  17100854:
+    template: Puktrap
+    level:    [64, 66]
+    region:   caedarva_mire_s_13
+
+  17100855:
+    template: Puktrap
+    level:    [64, 66]
+    region:   caedarva_mire_s_13
+
+  17100856:
+    template: Caedarva_Leech
+    level:    [63, 65]
+    region:   caedarva_mire_s_13
+
+  17100857:
+    template: Marsh_Murre
+    level:    [64, 66]
+    region:   caedarva_mire_s_19
+
+  17100858:
+    template: Treant_Sapling
+    level:    [61, 63]
+    region:   caedarva_mire_s_19
+
+  17100859:
+    template: Puktrap
+    level:    [64, 66]
+    region:   caedarva_mire_s_18
+
+  17100860:
+    template: Puktrap
+    level:    [64, 66]
+    region:   caedarva_mire_s_18
+
+  17100861:
+    template: Water_Elemental
+    at:       [202.899, -0.445, -560.923, 135]
+    level:    [70, 71]
+
+  17100862:
+    template: Marsh_Murre
+    level:    [64, 66]
+    region:   caedarva_mire_s_24
+
+  17100863:
+    template: Puktrap
+    level:    [64, 66]
+    region:   caedarva_mire_s_24
+
+  17100864:
+    template: Marsh_Murre
+    level:    [64, 66]
+    region:   caedarva_mire_s_26
+
+  17100865:
+    template: Puktrap
+    level:    [64, 66]
+    region:   caedarva_mire_s_26
+
+  17100866:
+    template: Puktrap
+    at:       [186.973, 0.650, -618.610, 53]
+    level:    [64, 66]
+
+  17100867:
+    template: Puktrap
+    at:       [158.850, 0.696, -623.267, 145]
+    level:    [64, 66]
+
+  17100868:
+    template: Caedarva_Leech
+    level:    [63, 65]
+    region:   caedarva_mire_s_29
+
+  17100869:
+    template: Caedarva_Leech
+    level:    [63, 65]
+    region:   caedarva_mire_se_2
+
+  17100870:
+    template: Wild_Karakul
+    level:    [68, 70]
+    region:   caedarva_mire_se_3
+
+  17100871:
+    template: Wild_Karakul
+    level:    [68, 70]
+    region:   caedarva_mire_s_31
+
+  17100872:
+    template: Wild_Karakul
+    level:    [68, 70]
+    region:   caedarva_mire_s_31
+
+  17100873:
+    template: Wild_Karakul
+    level:    [68, 70]
+    region:   caedarva_mire_s_28
+
+  17100874:
+    template: Wild_Karakul
+    level:    [68, 70]
+    region:   caedarva_mire_s_28
+
+  17100875:
+    template: Wild_Karakul
+    level:    [68, 70]
+    region:   caedarva_mire_se
+
+  17100876:
+    template: Wild_Karakul
+    level:    [68, 70]
+    region:   caedarva_mire_se
+
+  17100877:
+    template: Water_Elemental
+    at:       [317.504, -16.525, -360.700, 70]
+    level:    [70, 71]
+
+  17100878:
+    template: Wild_Karakul
+    level:    [68, 70]
+    region:   caedarva_mire_s_27
+
+  17100879:
+    template: Wild_Karakul
+    level:    [68, 70]
+    region:   caedarva_mire_s_27
+
+  17100880:
+    template: Jnun
+    at:       [301.229, -15.545, -368.114, 241]
+    level:    [72, 73]
+
+  17100881:
+    template: Jnun
+    at:       [300.517, -15.085, -382.627, 149]
+    level:    [72, 73]
+
+  17100882:
+    template: Oil_Slick
+    level:    [65, 67]
+    region:   caedarva_mire_s_30
+
+  17100883:
+    template: Oil_Slick
+    level:    [65, 67]
+    region:   caedarva_mire_s_30
+
+  17100884:
+    template: Jnun
+    at:       [301.042, -15.186, -348.030, 226]
+    level:    [72, 73]
+
+  17100885:
+    template: Marsh_Murre
+    level:    [66, 68]
+    region:   caedarva_mire_s_16
+
+  17100886:
+    template: Mature_Treant
+    level:    [70, 72]
+    region:   caedarva_mire_s_15
+
+  17100887:
+    template: Treant_Sapling
+    level:    [61, 63]
+    region:   caedarva_mire_s_15
+
+  17100888:
+    template: Treant_Sapling
+    level:    [61, 63]
+    region:   caedarva_mire_s_15
+
+  17100889:
+    template: Wild_Karakul
+    level:    [68, 70]
+    region:   caedarva_mire_s_17
+
+  17100890:
+    template: Chigoe
+    level:    [64, 66]
+    region:   caedarva_mire_s_17
+
+  17100891:
+    template: Chigoe
+    level:    [64, 66]
+    region:   caedarva_mire_s_17
+
+  17100892:
+    template: Wild_Karakul
+    level:    [68, 70]
+    region:   caedarva_mire_s_14
+
+  17100893:
+    template: Chigoe
+    level:    [64, 66]
+    region:   caedarva_mire_s_14
+
+  17100894:
+    template: Chigoe
+    level:    [65, 66]
+    region:   caedarva_mire_s_14
+
+  17100895:
+    template: Orderly_Imp
+    level:    [66, 68]
+    region:   caedarva_mire_s_14
+
+  17100896:
+    template: Mature_Treant
+    level:    [70, 72]
+    region:   caedarva_mire_s_12
+
+  17100897:
+    template: Treant_Sapling
+    level:    [61, 63]
+    region:   caedarva_mire_s_12
+
+  17100898:
+    template: Treant_Sapling
+    level:    [61, 63]
+    region:   caedarva_mire_s_12
+
+  17100899:
+    template: Caedarva_Leech
+    level:    [63, 65]
+    region:   caedarva_mire_c_2
+
+  17100900:
+    template: Chigoe
+    level:    [64, 66]
+    region:   caedarva_mire_c_2
+
+  17100901:
+    template: Chigoe
+    level:    [64, 66]
+    region:   caedarva_mire_c_2
+
+  17100902:
+    template: Chigoe
+    level:    [64, 66]
+    region:   caedarva_mire_c_2
+
+  17100903:
+    template: Mature_Treant
+    level:    [70, 72]
+    region:   caedarva_mire_c
+
+  17100904:
+    template: Treant_Sapling
+    level:    [61, 63]
+    region:   caedarva_mire_c
+
+  17100905:
+    template: Treant_Sapling
+    level:    [61, 63]
+    region:   caedarva_mire_c
+
+  17100906:
+    template: Treant_Sapling
+    level:    [61, 63]
+    region:   caedarva_mire_c_4
+
+  17100907:
+    template: Treant_Sapling
+    level:    [61, 63]
+    region:   caedarva_mire_c_4
+
+  17100908:
+    template: Oil_Slick
+    level:    [65, 67]
+    region:   caedarva_mire_c_3
+
+  17100909:
+    template: Oil_Slick
+    level:    [65, 67]
+    region:   caedarva_mire_c_3
+
+  17100910:
+    template: Jnun
+    at:       [135.303, -7.233, -181.500, 166]
+    level:    [72, 73]
+
+  17100911:
+    template: Mature_Treant
+    level:    [70, 72]
+    region:   caedarva_mire_c_5
+
+  17100912:
+    template: Treant_Sapling
+    level:    [61, 63]
+    region:   caedarva_mire_c_5
+
+  17100913:
+    template: Mature_Treant
+    level:    [70, 72]
+    region:   caedarva_mire_c_7
+
+  17100914:
+    template: Treant_Sapling
+    level:    [61, 63]
+    region:   caedarva_mire_c_7
+
+  17100915:
+    template: Orderly_Imp
+    level:    [66, 68]
+    region:   caedarva_mire_c_8
+
+  17100916:
+    template: Mature_Treant
+    level:    [70, 72]
+    region:   caedarva_mire_c_8
+
+  17100917:
+    template: Treant_Sapling
+    level:    [61, 63]
+    region:   caedarva_mire_c_8
+
+  17100918:
+    template: Treant_Sapling
+    level:    [61, 63]
+    region:   caedarva_mire_c_8
+
+  17100919:
+    template: Lamia_Fatedealer
+    level:    [74, 75]
+    region:   caedarva_mire_c_9
+
+  17100920:
+    template: Reserve_Draugar
+    level:    [73, 74]
+    region:   caedarva_mire_c_9
+
+  17100921:
+    template: Reserve_Draugar
+    level:    [73, 74]
+    region:   caedarva_mire_c_9
+
+  17100922:
+    template: Mature_Treant
+    level:    [70, 72]
+    region:   caedarva_mire_c_9
+
+  17100923:
+    template: Lamia_Fatedealer
+    level:    [74, 75]
+    region:   caedarva_mire_c_6
+
+  17100924:
+    template: Reserve_Draugar
+    level:    [73, 74]
+    region:   caedarva_mire_c_6
+
+  17100925:
+    template: Reserve_Draugar
+    level:    [73, 74]
+    region:   caedarva_mire_c_6
+
+  17100926:
+    template: Marsh_Murre
+    level:    [66, 68]
+    region:   caedarva_mire_se_4
+
+  17100927:
+    template: Heraldic_Imp
+    level:    [79, 81]
+    region:   caedarva_mire_se_5
+
+  17100928:
+    template: Spongilla_Fly
+    level:    [78, 79]
+    region:   caedarva_mire_se_5
+
+  17100929:
+    template: Spongilla_Fly
+    level:    [78, 79]
+    region:   caedarva_mire_se_5
+
+  17100930:
+    template: Heraldic_Imp
+    level:    [79, 81]
+    region:   caedarva_mire_e_4
+
+  17100931:
+    template: Heraldic_Imp
+    level:    [79, 81]
+    region:   caedarva_mire_e_4
+
+  17100932:
+    template: Spongilla_Fly
+    level:    [78, 79]
+    region:   caedarva_mire_e_4
+
+  17100933:
+    template: Jnun
+    level:    [76, 77]
+    region:   caedarva_mire_se_6
+
+  17100934:
+    template: Jnun
+    at:       [464.310, -6.500, -300.164, 70]
+    level:    [76, 77]
+
+  17100935:
+    template: Water_Elemental
+    at:       [446.211, -7.513, -302.275, 21]
+    level:    [70, 71]
+
+  17100936:
+    template: Jnun
+    at:       [450.107, -6.307, -299.079, 135]
+    level:    [76, 77]
+
+  17100937:
+    template: Jnun
+    at:       [462.380, -7.209, -329.571, 45]
+    level:    [76, 77]
+
+  17100938:
+    template: Spongilla_Fly
+    level:    [78, 79]
+    region:   caedarva_mire_e_11
+
+  17100939:
+    template: Heraldic_Imp
+    level:    [79, 81]
+    region:   caedarva_mire_e_11
+
+  17100940:
+    template: Spongilla_Fly
+    level:    [78, 79]
+    region:   caedarva_mire_e_11
+
+  17100941:
+    template: Spongilla_Fly
+    level:    [78, 79]
+    region:   caedarva_mire_se_7
+
+  17100942:
+    template: Heraldic_Imp
+    level:    [79, 81]
+    region:   caedarva_mire_se_7
+
+  17100943:
+    template: Spongilla_Fly
+    level:    [78, 79]
+    region:   caedarva_mire_se_8
+
+  17100944:
+    template: Heraldic_Imp
+    level:    [79, 81]
+    region:   caedarva_mire_se_8
+
+  17100945:
+    template: Heraldic_Imp
+    level:    [79, 81]
+    region:   caedarva_mire_se_9
+
+  17100946:
+    template: Heraldic_Imp
+    level:    [79, 81]
+    region:   caedarva_mire_e_2
+
+  17100947:
+    template: Spongilla_Fly
+    level:    [78, 79]
+    region:   caedarva_mire_e_2
+
+  17100948:
+    template: Spongilla_Fly
+    level:    [78, 79]
+    region:   caedarva_mire_e_2
+
+  17100949:
+    template: Heraldic_Imp
+    level:    [79, 81]
+    region:   caedarva_mire_e_3
+
+  17100950:
+    template: Heraldic_Imp
+    level:    [79, 81]
+    region:   caedarva_mire_e_3
+
+  17100951:
+    template: Heraldic_Imp
+    level:    [79, 81]
+    region:   caedarva_mire_e_5
+
+  17100952:
+    template: Spongilla_Fly
+    level:    [78, 79]
+    region:   caedarva_mire_e_5
+
+  17100953:
+    template: Caedarva_Leech
+    level:    [63, 65]
+    region:   caedarva_mire_e
+
+  17100954:
+    template: Caedarva_Leech
+    level:    [63, 65]
+    region:   caedarva_mire_e
+
+  17100955:
+    template: Caedarva_Leech
+    level:    [63, 65]
+    region:   caedarva_mire_c_10
+
+  17100956:
+    template: Chigoe
+    level:    [64, 66]
+    region:   caedarva_mire_c_10
+
+  17100957:
+    template: Chigoe
+    level:    [64, 66]
+    region:   caedarva_mire_c_10
+
+  17100958:
+    template: Chigoe
+    level:    [64, 66]
+    region:   caedarva_mire_c_10
+
+  17100959:
+    template: Spongilla_Fly
+    level:    [78, 79]
+    region:   caedarva_mire_e_6
+
+  17100960:
+    template: Heraldic_Imp
+    level:    [79, 81]
+    region:   caedarva_mire_e_7
+
+  17100961:
+    template: Heraldic_Imp
+    level:    [79, 81]
+    region:   caedarva_mire_e_7
+
+  17100962:
+    template: Thunder_Elemental
+    level:    [70, 71]
+    region:   caedarva_mire_e_7
+
+  17100963:
+    template: Marsh_Murre
+    level:    [64, 66]
+    region:   caedarva_mire_s_4
+
+  17100964:
+    template: Heraldic_Imp
+    level:    [79, 81]
+    region:   caedarva_mire_e_9
+
+  17100965:
+    template: Mosshorn
+    level:    [80, 81]
+    region:   caedarva_mire_e_8
+
+  17100966:
+    template: Wild_Karakul
+    level:    [68, 70]
+    region:   caedarva_mire_e_8
+
+  17100967:
+    template: Mosshorn
+    level:    [80, 81]
+    region:   caedarva_mire_e_12
+
+  17100968:
+    template: Wild_Karakul
+    level:    [68, 70]
+    region:   caedarva_mire_e_12
+
+  17100969:
+    template: Elder_Treant
+    level:    [80, 82]
+    region:   caedarva_mire_e_16
+
+  17100970:
+    template: Elder_Treant
+    level:    [80, 82]
+    region:   caedarva_mire_e_14
+
+  17100971:
+    template: Mosshorn
+    level:    [80, 81]
+    region:   caedarva_mire_e_15
+
+  17100972:
+    template: Wild_Karakul
+    level:    [68, 70]
+    region:   caedarva_mire_e_15
+
+  17100973:
+    template: Mosshorn
+    level:    [80, 81]
+    region:   caedarva_mire_e_10
+
+  17100974:
+    template: Elder_Treant
+    level:    [80, 82]
+    region:   caedarva_mire_e_10
+
+  17100975:
+    template: Mosshorn
+    level:    [80, 81]
+    region:   caedarva_mire_e_13
+
+  17100976:
+    template: Elder_Treant
+    level:    [80, 82]
+    region:   caedarva_mire_e_13
+
+  17100977:
+    template: Treant_Sapling
+    level:    [61, 63]
+    region:   caedarva_mire_sw_13
+
+  17100978:
+    template: Treant_Sapling
+    level:    [61, 63]
+    region:   caedarva_mire_sw_13
+
+  17100979:
+    template: Marsh_Murre
+    level:    [64, 66]
+    region:   caedarva_mire_sw_13
+
+  17100980:
+    template: Caedarva_Leech
+    level:    [63, 65]
+    region:   caedarva_mire_sw_13
+
+  17100981:
+    template: Marsh_Murre
+    level:    [64, 66]
+    region:   caedarva_mire_sw_11
+
+  17100982:
+    template: Marsh_Murre
+    level:    [64, 66]
+    region:   caedarva_mire_sw_11
+
+  17100983:
+    template: Caedarva_Leech
+    level:    [63, 65]
+    region:   caedarva_mire_sw_11
+
+  17100984:
+    template: Marsh_Murre
+    level:    [64, 66]
+    region:   caedarva_mire_sw_7
+
+  17100985:
+    template: Marsh_Murre
+    level:    [64, 66]
+    region:   caedarva_mire_sw_7
+
+  17100986:
+    template: Treant_Sapling
+    level:    [61, 63]
+    region:   caedarva_mire_sw_7
+
+  17100987:
+    template: Treant_Sapling
+    level:    [61, 63]
+    region:   caedarva_mire_sw_7
+
+  17100988:
+    template: Marsh_Murre
+    level:    [64, 66]
+    region:   caedarva_mire_sw_9
+
+  17100989:
+    template: Marsh_Murre
+    level:    [65, 67]
+    region:   caedarva_mire_sw_8
+
+  17100990:
+    template: Qiqirn_Rock_Hound
+    level:    [67, 69]
+    region:   caedarva_mire_sw_10
+
+  17100991:
+    template: Guard_Skeleton
+    level:    [67, 69]
+    region:   caedarva_mire_sw_10
+
+  17100992:
+    template: Orderly_Imp
+    level:    [66, 68]
+    region:   caedarva_mire_sw_5
+
+  17100993:
+    template: Marsh_Murre
+    at:       [-414.725, 7.020, -609.893, 5]
+    level:    [65, 67]
+
+  17100994:
+    template: Qiqirn_Rock_Hound
+    at:       [-445.583, 7.748, -606.324, 253]
+    level:    [67, 69]
+
+  17100995:
+    template: Guard_Skeleton
+    level:    [67, 69]
+    region:   caedarva_mire_sw_4
+
+  17100996:
+    template: Qiqirn_Mireguide
+    at:       [-441.161, 7.831, -577.821, 40]
+    level:    [67, 69]
+
+  17100997:
+    template: Qiqirn_Mine
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 75]
+
+  17100998:
+    template: Guard_Skeleton
+    level:    [67, 69]
+    region:   caedarva_mire_sw_3
+
+  17100999:
+    template: Qiqirn_Rock_Hound
+    at:       [-420.630, 7.504, -585.338, 127]
+    level:    [67, 69]
+
+  17101000:
+    template: Guard_Skeleton
+    at:       [-405.310, 7.643, -585.286, 126]
+    level:    [67, 69]
+
+  17101001:
+    template: Marsh_Murre
+    at:       [-386.580, 7.852, -556.033, 182]
+    level:    [65, 67]
+
+  17101002:
+    template: Qiqirn_Mireguide
+    at:       [-426.312, 7.629, -574.422, 2]
+    level:    [67, 69]
+
+  17101003:
+    template: Qiqirn_Mine
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 75]
+
+  17101004:
+    template: Guard_Skeleton
+    level:    [67, 69]
+    region:   caedarva_mire_sw_6
+
+  17101005:
+    template: Marsh_Murre
+    level:    [65, 67]
+    region:   caedarva_mire_sw_2
+
+  17101006:
+    template: Marsh_Murre
+    at:       [-362.341, 4.303, -579.876, 23]
+    level:    [65, 67]
+
+  17101007:
+    template: Qiqirn_Mireguide
+    at:       [-367.418, 7.722, -552.142, 179]
+    level:    [67, 69]
+
+  17101008:
+    template: Qiqirn_Mine
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 75]
+
+  17101009:
+    template: Guard_Skeleton
+    level:    [67, 69]
+    region:   caedarva_mire_sw_12
+
+  17101010:
+    template: Marsh_Murre
+    at:       [-349.849, 6.372, -547.437, 6]
+    level:    [65, 67]
+
+  17101011:
+    template: Orderly_Imp
+    at:       [-343.280, 4.409, -556.486, 7]
+    level:    [66, 68]
+
+  17101012:
+    template: Qiqirn_Mireguide
+    at:       [-343.185, 4.934, -583.392, 5]
+    level:    [67, 69]
+
+  17101013:
+    template: Qiqirn_Mine
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 75]
+
+  17101014:
+    template: Guard_Skeleton
+    at:       [-342.967, 4.479, -567.506, 253]
+    level:    [67, 69]
+
+  17101015:
+    template: Marsh_Murre
+    at:       [-463.839, 5.685, -586.081, 31]
+    level:    [65, 67]
+
+  17101016:
+    template: Chigoe
+    level:    [64, 66]
+    region:   caedarva_mire_sw
+
+  17101017:
+    template: Chigoe
+    level:    [64, 66]
+    region:   caedarva_mire_sw
+
+  17101018:
+    template: Orderly_Imp
+    level:    [66, 68]
+    region:   caedarva_mire_sw
+
+  17101019:
+    template: Marsh_Murre
+    level:    [65, 67]
+    region:   caedarva_mire_sw_14
+
+  17101020:
+    template: Marsh_Murre
+    at:       [-321.764, 3.386, -506.753, 249]
+    level:    [65, 67]
+
+  17101021:
+    template: Slough_Skua
+    level:    [88, 89]
+    region:   caedarva_mire_sw_16
+
+  17101022:
+    template: Slough_Skua
+    level:    [88, 89]
+    region:   caedarva_mire_sw_16
+
+  17101023:
+    template: Slough_Skua
+    level:    [88, 89]
+    region:   caedarva_mire_sw_16
+
+  17101024:
+    template: Slough_Skua
+    level:    [88, 89]
+    region:   caedarva_mire_sw_16
+
+  17101025:
+    template: Slough_Skua
+    level:    [88, 89]
+    region:   caedarva_mire_sw_15
+
+  17101026:
+    template: Slough_Skua
+    level:    [88, 89]
+    region:   caedarva_mire_sw_15
+
+  17101027:
+    template: Slough_Skua
+    level:    [88, 89]
+    region:   caedarva_mire_sw_15
+
+  17101028:
+    template: Slough_Skua
+    level:    [88, 89]
+    region:   caedarva_mire_sw_15
+
+  17101029:
+    template: Slough_Skua
+    level:    [88, 89]
+    region:   caedarva_mire_sw_15
+
+  17101030:
+    template: Slough_Skua
+    level:    [88, 89]
+    region:   caedarva_mire_sw_17
+
+  17101031:
+    template: Slough_Skua
+    level:    [88, 89]
+    region:   caedarva_mire_sw_17
+
+  17101032:
+    template: Slough_Skua
+    level:    [88, 89]
+    region:   caedarva_mire_sw_17
+
+  17101033:
+    template: Slough_Skua
+    level:    [88, 89]
+    region:   caedarva_mire_sw_17
+
+  17101034:
+    template: Slough_Skua
+    level:    [88, 89]
+    region:   caedarva_mire_sw_17
+
+  17101035:
+    template: Slough_Skua
+    level:    [88, 89]
+    region:   caedarva_mire_sw_17
+
+  17101036:
+    template: Ephramadian_Shade
+    at:       [-746.200, 11.550, -57.243, 158]
+    level:    [75, 77]
+
+  17101037:
+    template: Ephramadian_Shade
+    at:       [-742.400, 12.805, -53.251, 224]
+    level:    [75, 77]
+
+  17101038:
+    template: Ephramadian_Shade
+    level:    [75, 77]
+    region:   caedarva_mire_w
+
+  17101039:
+    template: Ephramadian_Shade
+    level:    [75, 77]
+    region:   caedarva_mire_w_2
+
+  17101040:
+    template: Ephramadian_Shade
+    level:    [75, 77]
+    region:   caedarva_mire_w_4
+
+  17101041:
+    template: Ephramadian_Shade
+    level:    [75, 77]
+    region:   caedarva_mire_w_6
+
+  17101042:
+    template: Ephramadian_Shade
+    level:    [75, 77]
+    region:   caedarva_mire_w_6
+
+  17101043:
+    template: Jnun
+    at:       [-616.565, 12.820, -172.268, 1]
+    level:    [75, 77]
+
+  17101044:
+    template: Jnun
+    at:       [-616.358, 12.786, -189.502, 22]
+    level:    [75, 77]
+
+  17101045:
+    template: Ephramadian_Shade
+    level:    [75, 77]
+    region:   caedarva_mire_w_7
+
+  17101046:
+    template: Ephramadian_Shade
+    level:    [75, 77]
+    region:   caedarva_mire_w_11
+
+  17101047:
+    template: Water_Elemental
+    at:       [-595.500, 10.767, -182.620, 232]
+    level:    [70, 71]
+
+  17101048:
+    template: Ephramadian_Shade
+    level:    [75, 77]
+    region:   caedarva_mire_w_8
+
+  17101049:
+    template: Ephramadian_Shade
+    level:    [75, 77]
+    region:   caedarva_mire_w_12
+
+  17101050:
+    template: Ephramadian_Shade
+    level:    [75, 77]
+    region:   caedarva_mire_w_5
+
+  17101051:
+    template: Ephramadian_Shade
+    level:    [75, 77]
+    region:   caedarva_mire_w_3
+
+  17101052:
+    template: Ephramadian_Shade
+    level:    [75, 77]
+    region:   caedarva_mire_w_3
+
+  17101053:
+    template: Ephramadian_Shade
+    at:       [-657.600, 10.652, -270.510, 27]
+    level:    [75, 77]
+
+  17101054:
+    template: Ephramadian_Shade
+    at:       [-655.100, 10.506, -270.720, 171]
+    level:    [75, 77]
+
+  17101055:
+    template: Guard_Bhoot
+    at:       [-589.839, 7.268, -133.674, 235]
+    level:    [81, 83]
+
+  17101056:
+    template: Dark_Elemental
+    at:       [-598.417, 9.389, -146.678, 69]
+    level:    [74, 76]
+
+  17101057:
+    template: Draugar_Servant
+    level:    [78, 80]
+    region:   caedarva_mire_w_19
+
+  17101058:
+    template: Draugars_Wyvern
+    level:    [74, 75]
+    region:   caedarva_mire_w_23
+
+  17101059:
+    template: Draugar_Servant
+    level:    [78, 80]
+    region:   caedarva_mire_w_23
+
+  17101060:
+    template: Lamia_Idolater
+    level:    [79, 81]
+    region:   caedarva_mire_w_23
+
+  17101061:
+    template: Draugar_Servant
+    level:    [78, 80]
+    region:   caedarva_mire_w_24
+
+  17101062:
+    template: Draugar_Servant
+    level:    [78, 80]
+    region:   caedarva_mire_w_24
+
+  17101063:
+    template: Lamia_Idolater
+    level:    [79, 81]
+    region:   caedarva_mire_w_28
+
+  17101064:
+    template: Lamia_Idolater
+    level:    [79, 81]
+    region:   caedarva_mire_w_28
+
+  17101065:
+    template: Heraldic_Imp
+    level:    [79, 81]
+    region:   caedarva_mire_w_28
+
+  17101066:
+    template: Jnun
+    at:       [-423.378, -3.326, -177.261, 28]
+    level:    [75, 77]
+
+  17101067:
+    template: Jnun
+    at:       [-412.104, -3.153, -179.663, 206]
+    level:    [75, 77]
+
+  17101068:
+    template: Jnun
+    level:    [75, 77]
+    region:   caedarva_mire_w_35
+
+  17101069:
+    template: Oil_Slick
+    at:       [-378.321, -3.375, -141.927, 11]
+    level:    [67, 69]
+
+  17101070:
+    template: Oil_Slick
+    at:       [-387.203, -3.184, -132.252, 196]
+    level:    [67, 69]
+
+  17101071:
+    template: Lamia_Idolater
+    level:    [79, 81]
+    region:   caedarva_mire_w_34
+
+  17101072:
+    template: Lamia_Idolater
+    level:    [79, 81]
+    region:   caedarva_mire_w_26
+
+  17101073:
+    template: Lamia_Idolater
+    level:    [79, 81]
+    region:   caedarva_mire_w_26
+
+  17101074:
+    template: Water_Elemental
+    at:       [-415.382, -4.145, -148.733, 6]
+    level:    [70, 71]
+
+  17101075:
+    template: Draugars_Wyvern
+    level:    [74, 75]
+    region:   caedarva_mire_w_27
+
+  17101076:
+    template: Draugar_Servant
+    level:    [78, 80]
+    region:   caedarva_mire_w_27
+
+  17101077:
+    template: Guard_Bhoot
+    level:    [81, 83]
+    region:   caedarva_mire_w_27
+
+  17101078:
+    template: Lamia_Idolater
+    level:    [79, 81]
+    region:   caedarva_mire_w_32
+
+  17101079:
+    template: Draugar_Servant
+    level:    [78, 80]
+    region:   caedarva_mire_w_32
+
+  17101080:
+    template: Lamia_Toxophilite
+    level:    [82, 83]
+    region:   caedarva_mire_w_30
+
+  17101081:
+    template: Draugar_Servant
+    level:    [78, 80]
+    region:   caedarva_mire_w_30
+
+  17101082:
+    template: Draugar_Servant
+    level:    [78, 80]
+    region:   caedarva_mire_w_30
+
+  17101083:
+    template: Lamia_Idolater
+    level:    [79, 81]
+    region:   caedarva_mire_w_33
+
+  17101084:
+    template: Lamia_Idolater
+    level:    [79, 81]
+    region:   caedarva_mire_w_33
+
+  17101085:
+    template: Dark_Elemental
+    level:    [74, 76]
+    region:   caedarva_mire_w_33
+
+  17101086:
+    template: Lamia_Idolater
+    level:    [79, 81]
+    region:   caedarva_mire_w_31
+
+  17101087:
+    template: Lamia_Idolater
+    level:    [79, 81]
+    region:   caedarva_mire_w_29
+
+  17101088:
+    template: Lamia_Idolater
+    level:    [79, 81]
+    region:   caedarva_mire_w_25
+
+  17101089:
+    template: Lamia_Idolater
+    level:    [79, 81]
+    region:   caedarva_mire_w_22
+
+  17101090:
+    template: Lamia_Chaukidar
+    level:    [82, 83]
+    region:   caedarva_mire_w_9
+
+  17101091:
+    template: Lamia_Idolater
+    level:    [79, 81]
+    region:   caedarva_mire_w_21
+
+  17101092:
+    template: Lamia_Idolater
+    level:    [79, 81]
+    region:   caedarva_mire_w_21
+
+  17101093:
+    template: Lamia_Idolater
+    level:    [79, 81]
+    region:   caedarva_mire_w_17
+
+  17101094:
+    template: Lamia_Idolater
+    level:    [79, 81]
+    region:   caedarva_mire_w_17
+
+  17101095:
+    template: Heraldic_Imp
+    level:    [79, 81]
+    region:   caedarva_mire_w_17
+
+  17101096:
+    template: Lamia_Necromancer
+    level:    [82, 83]
+    region:   caedarva_mire_w_18
+
+  17101097:
+    template: Lamia_Idolater
+    level:    [79, 81]
+    region:   caedarva_mire_w_18
+
+  17101098:
+    template: Lamia_Idolater
+    level:    [79, 81]
+    region:   caedarva_mire_w_18
+
+  17101099:
+    template: Aynu-kaysey
+    level:    [82, 83]
+    region:   caedarva_mire_w_18
+
+  17101100:
+    template: Vauxia_Fly
+    level:    [87, 89]
+    region:   caedarva_mire_w_15
+
+  17101101:
+    template: Vauxia_Fly
+    level:    [87, 89]
+    region:   caedarva_mire_w_15
+
+  17101102:
+    template: Vauxia_Fly
+    level:    [87, 89]
+    region:   caedarva_mire_w_15
+
+  17101103:
+    template: Vauxia_Fly
+    level:    [87, 89]
+    region:   caedarva_mire_w_16
+
+  17101104:
+    template: Vauxia_Fly
+    level:    [87, 89]
+    region:   caedarva_mire_w_16
+
+  17101105:
+    template: Vauxia_Fly
+    level:    [87, 89]
+    region:   caedarva_mire_w_16
+
+  17101106:
+    template: Vauxia_Fly
+    level:    [87, 89]
+    region:   caedarva_mire_w_14
+
+  17101107:
+    template: Vauxia_Fly
+    level:    [87, 89]
+    region:   caedarva_mire_w_14
+
+  17101108:
+    template: Vauxia_Fly
+    level:    [87, 89]
+    region:   caedarva_mire_w_14
+
+  17101109:
+    template: Vauxia_Fly
+    level:    [87, 89]
+    region:   caedarva_mire_w_10
+
+  17101110:
+    template: Vauxia_Fly
+    level:    [87, 89]
+    region:   caedarva_mire_w_10
+
+  17101111:
+    template: Vauxia_Fly
+    level:    [87, 89]
+    region:   caedarva_mire_w_10
+
+  17101112:
+    template: Vauxia_Fly
+    level:    [87, 89]
+    region:   caedarva_mire_w_13
+
+  17101113:
+    template: Vauxia_Fly
+    level:    [87, 89]
+    region:   caedarva_mire_w_13
+
+  17101114:
+    template: Vauxia_Fly
+    level:    [87, 89]
+    region:   caedarva_mire_w_13
+
+  17101115:
+    template: Vauxia_Fly
+    level:    [87, 89]
+    region:   caedarva_mire_w_9
+
+  17101116:
+    template: Vauxia_Fly
+    level:    [87, 89]
+    region:   caedarva_mire_w_9
+
+  17101117:
+    template: Vauxia_Fly
+    level:    [87, 89]
+    region:   caedarva_mire_w_9
+
+  17101118:
+    template: Lamia_Idolater
+    level:    [79, 81]
+    region:   caedarva_mire_w_20
+
+  17101119:
+    template: Ephramadian_Shade
+    level:    [75, 77]
+    region:   caedarva_mire_nw_10
+
+  17101120:
+    template: Ephramadian_Shade
+    level:    [75, 77]
+    region:   caedarva_mire_nw_9
+
+  17101121:
+    template: Ephramadian_Shade
+    level:    [75, 77]
+    region:   caedarva_mire_nw_6
+
+  17101122:
+    template: Ephramadian_Shade
+    level:    [75, 77]
+    region:   caedarva_mire_nw_4
+
+  17101123:
+    template: Draugar_Servant
+    level:    [78, 80]
+    region:   caedarva_mire_nw_7
+
+  17101124:
+    template: Draugar_Servant
+    level:    [78, 80]
+    region:   caedarva_mire_nw_2
+
+  17101125:
+    template: Lamia_Toxophilite
+    level:    [82, 83]
+    region:   caedarva_mire_nw
+
+  17101126:
+    template: Draugar_Servant
+    level:    [78, 80]
+    region:   caedarva_mire_nw
+
+  17101127:
+    template: Draugar_Servant
+    level:    [78, 80]
+    region:   caedarva_mire_nw
+
+  17101128:
+    template: Draugars_Wyvern
+    level:    [74, 75]
+    region:   caedarva_mire_nw_5
+
+  17101129:
+    template: Draugar_Servant
+    level:    [78, 80]
+    region:   caedarva_mire_nw_5
+
+  17101130:
+    template: Lamia_Chaukidar
+    level:    [82, 83]
+    region:   caedarva_mire_nw_8
+
+  17101131:
+    template: Lamia_Idolater
+    level:    [79, 81]
+    region:   caedarva_mire_nw_8
+
+  17101132:
+    template: Lamia_Idolater
+    level:    [79, 81]
+    region:   caedarva_mire_nw_8
+
+  17101133:
+    template: Lamia_Idolater
+    level:    [79, 81]
+    region:   caedarva_mire_nw_3
+
+  17101134:
+    template: Lamia_Idolater
+    level:    [79, 81]
+    region:   caedarva_mire_nw_11
+
+  17101135:
+    template: Lamia_Deathdancer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [73, 75]
+
+  17101136:
+    template: Dark_Rider
+    at:       [322.703, -8.500, -440.885, 74]
+    level:    [95, 95]
+
+  17101137:
+    template: Dark_Bugler
+    at:       [499.695, -24.050, 2.663, 106]
+    level:    [76, 76]
+
+  17101138:
+    template: Dark_Bugler
+    at:       [472.333, -26.335, -12.995, 216]
+    level:    [76, 76]
+
+  17101139:
+    template: Dark_Bugler
+    at:       [415.727, -20.088, -126.116, 115]
+    level:    [76, 76]
+
+  17101140:
+    template: Dark_Esquire
+    at:       [390.531, -9.046, -217.579, 44]
+    level:    [76, 76]
+
+  17101141:
+    template: Dark_Esquire
+    at:       [484.556, -8.619, -275.598, 215]
+    level:    [76, 76]
+
+  17101142:
+    template: Dark_Esquire
+    at:       [332.531, -15.760, -404.727, 84]
+    level:    [76, 76]
+
+  17101143:
+    template: Peallaidh
+    at:       [279.313, -16.214, -390.119, 69]
+    level:    [75, 75]
+
+  17101144:
+    template: Zikko
+    at:       [-613.174, 13.337, -180.725, 205]
+    level:    [80, 80]
+
+  17101145:
+    template: Caedarva_Toad
+    at:       [136.189, -0.100, -626.997, 240]
+    level:    [45, 45]
+
+  17101146:
+    template: Jazaraat
+    at:       [-388.900, 7.191, -570.690, 227]
+    level:    [67, 70]
+
+  17101147:
+    template: Ravin_Raven
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [63, 65]
+
+  17101148:
+    template: Lamia_No27
+    at:       [454.931, -7.000, -270.619, 104]
+    level:    [79, 81]
+
+  17101149:
+    template: Moshdahn
+    at:       [458.922, -7.000, -271.195, 254]
+    level:    [79, 81]
+
+  17101150:
+    template: Heraldic_Imp
+    level:    [80, 82]
+    region:   caedarva_mire_ne_6
+
+  17101151:
+    template: Heraldic_Imp
+    level:    [80, 82]
+    region:   caedarva_mire_ne_6
+
+  17101152:
+    template: Heraldic_Imp
+    level:    [80, 82]
+    region:   caedarva_mire_ne_6
+
+  17101153:
+    template: Soulflayer
+    level:    [82, 83]
+    region:   caedarva_mire_ne_6
+
+  17101154:
+    template: Soulflayer
+    level:    [82, 83]
+    region:   caedarva_mire_ne_6
+
+  17101155:
+    template: Heraldic_Imp
+    level:    [80, 82]
+    region:   caedarva_mire_ne_3
+
+  17101156:
+    template: Heraldic_Imp
+    level:    [80, 82]
+    region:   caedarva_mire_ne_3
+
+  17101157:
+    template: Soulflayer
+    level:    [82, 83]
+    region:   caedarva_mire_ne_3
+
+  17101158:
+    template: Vidhuwa_the_Wrathborn
+    level:    [0, 0]
+    region:   caedarva_mire_ne_3
+
+  17101159:
+    template: Heraldic_Imp
+    level:    [80, 82]
+    region:   caedarva_mire_ne_5
+
+  17101160:
+    template: Heraldic_Imp
+    level:    [80, 82]
+    region:   caedarva_mire_ne_5
+
+  17101161:
+    template: Heraldic_Imp
+    level:    [80, 82]
+    region:   caedarva_mire_ne_5
+
+  17101162:
+    template: Soulflayer
+    level:    [82, 83]
+    region:   caedarva_mire_ne_5
+
+  17101163:
+    template: Heraldic_Imp
+    level:    [80, 82]
+    region:   caedarva_mire_ne_5
+
+  17101164:
+    template: Heraldic_Imp
+    level:    [80, 82]
+    region:   caedarva_mire_ne_5
+
+  17101165:
+    template: Soulflayer
+    level:    [82, 83]
+    region:   caedarva_mire_ne_4
+
+  17101166:
+    template: Heraldic_Imp
+    level:    [80, 82]
+    region:   caedarva_mire_ne_9
+
+  17101167:
+    template: Soulflayer
+    level:    [82, 83]
+    region:   caedarva_mire_ne_9
+
+  17101168:
+    template: Soulflayer
+    level:    [82, 83]
+    region:   caedarva_mire_ne_9
+
+  17101169:
+    template: Heraldic_Imp
+    at:       [732.600, -8.105, 355.677, 73]
+    level:    [80, 82]
+
+  17101170:
+    template: Heraldic_Imp
+    level:    [80, 82]
+    region:   caedarva_mire_ne_10
+
+  17101171:
+    template: Heraldic_Imp
+    level:    [80, 82]
+    region:   caedarva_mire_ne_10
+
+  17101172:
+    template: Heraldic_Imp
+    level:    [80, 82]
+    region:   caedarva_mire_ne_10
+
+  17101173:
+    template: Soulflayer
+    level:    [82, 83]
+    region:   caedarva_mire_ne_10
+
+  17101174:
+    template: Soulflayer
+    level:    [82, 83]
+    region:   caedarva_mire_ne_10
+
+  17101175:
+    template: Heraldic_Imp
+    level:    [80, 82]
+    region:   caedarva_mire_ne_8
+
+  17101176:
+    template: Heraldic_Imp
+    level:    [80, 82]
+    region:   caedarva_mire_ne_8
+
+  17101177:
+    template: Heraldic_Imp
+    level:    [80, 82]
+    region:   caedarva_mire_ne_8
+
+  17101178:
+    template: Soulflayer
+    level:    [82, 83]
+    region:   caedarva_mire_ne_8
+
+  17101179:
+    template: Soulflayer
+    level:    [82, 83]
+    region:   caedarva_mire_ne_8
+
+  17101180:
+    template: Heraldic_Imp
+    at:       [725.780, -8.512, 511.204, 97]
+    level:    [80, 82]
+
+  17101181:
+    template: Heraldic_Imp
+    at:       [732.430, -7.873, 461.785, 38]
+    level:    [80, 82]
+
+  17101182:
+    template: Heraldic_Imp
+    level:    [80, 82]
+    region:   caedarva_mire_ne_11
+
+  17101183:
+    template: Heraldic_Imp
+    level:    [80, 82]
+    region:   caedarva_mire_ne_11
+
+  17101184:
+    template: Soulflayer
+    level:    [82, 83]
+    region:   caedarva_mire_ne_11
+
+  17101185:
+    template: Soulflayer
+    level:    [82, 83]
+    region:   caedarva_mire_ne_11
+
+  17101186:
+    template: Soulflayer
+    level:    [82, 83]
+    region:   caedarva_mire_ne_11
+
+  17101187:
+    template: Soulflayer
+    at:       [696.660, -8.298, 511.791, 123]
+    level:    [82, 83]
+
+  17101188:
+    template: Heraldic_Imp
+    level:    [80, 82]
+    region:   caedarva_mire_ne_7
+
+  17101189:
+    template: Heraldic_Imp
+    level:    [80, 82]
+    region:   caedarva_mire_ne_7
+
+  17101190:
+    template: Soulflayer
+    level:    [82, 83]
+    region:   caedarva_mire_ne_7
+
+  17101191:
+    template: Heraldic_Imp
+    level:    [80, 82]
+    region:   caedarva_mire_ne_12
+
+  17101192:
+    template: Heraldic_Imp
+    level:    [80, 82]
+    region:   caedarva_mire_ne_12
+
+  17101193:
+    template: Heraldic_Imp
+    level:    [80, 82]
+    region:   caedarva_mire_ne_2
+
+  17101194:
+    template: Heraldic_Imp
+    level:    [80, 82]
+    region:   caedarva_mire_ne_2
+
+  17101195:
+    template: Heraldic_Imp
+    level:    [80, 82]
+    region:   caedarva_mire_ne
+
+  17101196:
+    template: Heraldic_Imp
+    at:       [578.602, -18.818, 450.053, 77]
+    level:    [80, 82]
+
+  17101197:
+    template: Khimaira
+    at:       [603.887, -16.140, 414.765, 255]
+    level:    [85, 85]
+
+  17101198:
+    template: Verdelet
+    at:       [417.020, -19.295, -69.990, 63]
+    level:    [85, 86]
+
+  17101199:
+    template: Tyger
+    at:       [-766.000, -12.000, 632.000, 239]
+    level:    [88, 90]
+
+  17101200:
+    template: Mahjlaef_the_Paintorn
+    at:       [695.369, -7.147, 527.646, 42]
+    level:    [83, 85]
+
+  17101201:
+    template: Experimental_Lamia
+    at:       [-773.369, -11.824, 322.298, 15]
+    level:    [82, 84]
+
+  17101202:
+    template: Merrow_Shadowdancer
+    at:       [-699.225, -3.760, 180.461, 106]
+    level:    [73, 75]
+
+  17101203:
+    template: Merrow_Typhoondancer
+    at:       [-701.965, 3.331, 147.010, 87]
+    level:    [73, 75]
+
+  17101204:
+    template: Merrow_Typhoondancer
+    at:       [-701.174, 0.354, 154.094, 212]
+    level:    [73, 75]
+
+  17101205:
+    template: Brekekekex
+    at:       [242.949, -4.942, -491.421, 66]
+    level:    [95, 96]
+
+  17101206:
+    template: Chorus_Toad
+    at:       [242.351, -4.750, -492.251, 47]
+    level:    [95, 96]
+
+  17101207:
+    template: Chorus_Toad
+    at:       [242.822, -4.750, -493.156, 169]
+    level:    [95, 96]
+
+  17101208:
+    template: Chorus_Toad
+    at:       [242.236, -4.750, -492.338, 35]
+    level:    [95, 96]
+
+  17101209:
+    template: Chorus_Toad
+    at:       [242.181, -4.750, -493.085, 225]
+    level:    [95, 96]
+
+  17101210:
+    template: Chorus_Toad
+    at:       [242.321, -4.750, -492.256, 44]
+    level:    [95, 96]
+
+  17101211:
+    template: Chorus_Toad
+    at:       [242.107, -4.750, -492.947, 237]
+    level:    [95, 96]
+
+  17101212:
+    template: Chorus_Toad
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [95, 96]
+
+  17101213:
+    template: Chorus_Toad
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [95, 96]
+
+  17101214:
+    template: Brekekekex
+    at:       [254.210, -2.500, -725.390, 152]
+    level:    [95, 96]
+
+  17101215:
+    template: Chorus_Toad
+    at:       [252.486, -2.000, -725.176, 254]
+    level:    [95, 96]
+
+  17101216:
+    template: Chorus_Toad
+    at:       [253.415, -2.000, -724.427, 50]
+    level:    [95, 96]
+
+  17101217:
+    template: Chorus_Toad
+    at:       [252.909, -2.000, -725.797, 226]
+    level:    [95, 96]
+
+  17101218:
+    template: Chorus_Toad
+    at:       [253.902, -2.217, -723.924, 70]
+    level:    [95, 96]
+
+  17101219:
+    template: Chorus_Toad
+    at:       [253.629, -2.000, -725.365, 196]
+    level:    [95, 96]
+
+  17101220:
+    template: Chorus_Toad
+    at:       [253.026, -2.000, -724.556, 30]
+    level:    [95, 96]
+
+  17101221:
+    template: Chorus_Toad
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [95, 96]
+
+  17101222:
+    template: Chorus_Toad
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [95, 96]
+
+  17101223:
+    template: Brekekekex
+    at:       [-314.613, -4.758, -748.020, 117]
+    level:    [95, 96]
+
+  17101224:
+    template: Chorus_Toad
+    at:       [-312.199, -4.565, -742.070, 14]
+    level:    [95, 96]
+
+  17101225:
+    template: Chorus_Toad
+    at:       [-311.661, -4.565, -741.758, 69]
+    level:    [95, 96]
+
+  17101226:
+    template: Chorus_Toad
+    at:       [-311.224, -4.565, -742.385, 138]
+    level:    [95, 96]
+
+  17101227:
+    template: Chorus_Toad
+    at:       [-312.098, -4.565, -741.923, 29]
+    level:    [95, 96]
+
+  17101228:
+    template: Chorus_Toad
+    at:       [-311.451, -4.565, -742.692, 169]
+    level:    [95, 96]
+
+  17101229:
+    template: Chorus_Toad
+    at:       [-312.191, -4.565, -742.064, 15]
+    level:    [95, 96]
+
+  17101230:
+    template: Chorus_Toad
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [95, 96]
+
+  17101231:
+    template: Chorus_Toad
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [95, 96]
+
+  17101232:
+    template: Shedu
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [99, 99]
+
+  17101233:
+    template: Shedu
+    at:       [591.048, -9.162, 316.739, 80]
+    level:    [99, 99]
+
+  17101234:
+    template: Shedu
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [99, 99]
+
+  17101235:
+    template: Awoken_Vampyr_Jarl
+    at:       [784.870, -12.750, 647.170, 11]
+    level:    [119, 119]
+
+  17101245:
+    template: Locus_Imp
+    level:    [134, 136]
+    region:   caedarva_mire_ne_16
+
+  17101246:
+    template: Locus_Imp
+    level:    [134, 136]
+    region:   caedarva_mire_ne_16
+
+  17101247:
+    template: Locus_Imp
+    level:    [134, 136]
+    region:   caedarva_mire_ne_16
+
+  17101248:
+    template: Locus_Imp
+    level:    [134, 136]
+    region:   caedarva_mire_ne_16
+
+  17101249:
+    template: Locus_Imp
+    level:    [134, 136]
+    region:   caedarva_mire_ne_16
+
+  17101250:
+    template: Locus_Imp
+    level:    [134, 136]
+    region:   caedarva_mire_ne_16
+
+  17101251:
+    template: Locus_Imp
+    level:    [134, 136]
+    region:   caedarva_mire_ne_16
+
+  17101252:
+    template: Locus_Imp
+    level:    [134, 136]
+    region:   caedarva_mire_ne_16
+
+  17101253:
+    template: Locus_Imp
+    level:    [134, 136]
+    region:   caedarva_mire_ne_14
+
+  17101254:
+    template: Locus_Imp
+    level:    [134, 136]
+    region:   caedarva_mire_ne_14
+
+  17101255:
+    template: Locus_Imp
+    level:    [134, 136]
+    region:   caedarva_mire_ne_14
+
+  17101256:
+    template: Locus_Imp
+    level:    [134, 136]
+    region:   caedarva_mire_ne_14
+
+  17101257:
+    template: Locus_Imp
+    level:    [134, 136]
+    region:   caedarva_mire_ne_14
+
+  17101258:
+    template: Locus_Imp
+    level:    [134, 136]
+    region:   caedarva_mire_ne_14
+
+  17101259:
+    template: Locus_Imp
+    level:    [134, 136]
+    region:   caedarva_mire_ne_14
+
+  17101260:
+    template: Locus_Imp
+    level:    [134, 136]
+    region:   caedarva_mire_ne_14
+
+  17101261:
+    template: Locus_Imp
+    level:    [134, 136]
+    region:   caedarva_mire_ne_15
+
+  17101262:
+    template: Locus_Imp
+    level:    [134, 136]
+    region:   caedarva_mire_ne_15
+
+  17101263:
+    template: Locus_Imp
+    level:    [134, 136]
+    region:   caedarva_mire_ne_15
+
+  17101264:
+    template: Locus_Imp
+    level:    [134, 136]
+    region:   caedarva_mire_ne_15
+
+  17101265:
+    template: Locus_Imp
+    level:    [134, 136]
+    region:   caedarva_mire_ne_15
+
+  17101266:
+    template: Locus_Imp
+    level:    [134, 136]
+    region:   caedarva_mire_ne_15
+
+  17101267:
+    template: Locus_Imp
+    level:    [134, 136]
+    region:   caedarva_mire_ne_15
+
+  17101268:
+    template: Locus_Imp
+    level:    [134, 136]
+    region:   caedarva_mire_ne_15
+
+  17101269:
+    template: Locus_Imp
+    level:    [134, 136]
+    region:   caedarva_mire_ne_13
+
+  17101270:
+    template: Locus_Imp
+    level:    [134, 136]
+    region:   caedarva_mire_ne_13
+
+  17101271:
+    template: Locus_Imp
+    level:    [134, 136]
+    region:   caedarva_mire_ne_13
+
+  17101272:
+    template: Locus_Imp
+    level:    [134, 136]
+    region:   caedarva_mire_ne_13
+
+  17101273:
+    template: Locus_Imp
+    level:    [134, 136]
+    region:   caedarva_mire_ne_13
+
+  17101274:
+    template: Locus_Imp
+    level:    [134, 136]
+    region:   caedarva_mire_ne_13
+
+  17101275:
+    template: Locus_Imp
+    level:    [134, 136]
+    region:   caedarva_mire_ne_13
+
+  17101276:
+    template: Locus_Imp
+    level:    [134, 136]
+    region:   caedarva_mire_ne_13
+
+  17101277:
+    template: Locus_Imp
+    at:       [819.875, -4.182, 358.746, 63]
+    level:    [134, 136]
+
+  17101278:
+    template: Locus_Imp
+    at:       [816.298, -5.288, 366.971, 101]
+    level:    [134, 136]
+
+  17101279:
+    template: Locus_Imp
+    at:       [824.116, -4.031, 366.492, 216]
+    level:    [134, 136]
+
+  17101280:
+    template: Locus_Imp
+    at:       [818.711, -4.390, 358.249, 12]
+    level:    [134, 136]
+
+  17101281:
+    template: Locus_Imp
+    at:       [823.319, -3.057, 357.436, 171]
+    level:    [134, 136]
+
+  17101282:
+    template: Locus_Imp
+    at:       [823.401, -4.255, 368.201, 4]
+    level:    [134, 136]
+
+  17101283:
+    template: Locus_Imp
+    at:       [815.465, -5.339, 366.313, 203]
+    level:    [134, 136]
+
+  17101284:
+    template: Locus_Imp
+    at:       [816.616, -4.585, 359.677, 103]
+    level:    [134, 136]

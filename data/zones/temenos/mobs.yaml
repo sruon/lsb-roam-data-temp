@@ -1,0 +1,2498 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  16928769:
+    template: Temenos_Yagudo
+    level:    [150, 150]
+    region:   temenos_ne_5
+
+  16928770:
+    template: Yagudos_Elemental
+    level:    [150, 150]
+    region:   temenos_ne_5
+
+  16928771:
+    template: Temenos_Yagudo
+    level:    [150, 150]
+    region:   temenos_ne_5
+
+  16928772:
+    template: Temenos_Yagudo
+    level:    [150, 150]
+    region:   temenos_ne_5
+
+  16928773:
+    template: Temenos_Yagudo
+    level:    [150, 150]
+    region:   temenos_ne_5
+
+  16928774:
+    template: Temenos_Yagudo
+    at:       [-108.370, -80.693, 429.732, 121]
+    level:    [150, 150]
+
+  16928775:
+    template: Temenos_Meeble
+    at:       [-97.978, -80.670, 415.196, 221]
+    level:    [150, 150]
+
+  16928776:
+    template: Temenos_Meeble
+    at:       [-109.945, -80.694, 426.978, 66]
+    level:    [150, 150]
+
+  16928777:
+    template: Temenos_Meeble
+    at:       [-102.550, -80.519, 421.675, 255]
+    level:    [150, 150]
+
+  16928778:
+    template: Temenos_Meeble
+    at:       [-104.385, -80.698, 429.614, 164]
+    level:    [150, 150]
+
+  16928779:
+    template: Temenos_Meeble
+    at:       [-97.557, -80.698, 426.567, 94]
+    level:    [150, 150]
+
+  16928780:
+    template: Temenos_Orc
+    level:    [150, 150]
+    region:   temenos_ne_3
+
+  16928781:
+    template: Temenos_Orc
+    at:       [-150.858, -80.546, 412.431, 66]
+    level:    [150, 150]
+
+  16928782:
+    template: Temenos_Orc
+    at:       [-139.636, -80.563, 411.365, 115]
+    level:    [150, 150]
+
+  16928783:
+    template: Temenos_Orc
+    at:       [-151.977, -80.610, 420.697, 61]
+    level:    [150, 150]
+
+  16928784:
+    template: Temenos_Orc
+    level:    [150, 150]
+    region:   temenos_ne_4
+
+  16928785:
+    template: Temenos_Quadav
+    level:    [150, 150]
+    region:   temenos_ne_4
+
+  16928786:
+    template: Temenos_Quadav
+    level:    [150, 150]
+    region:   temenos_ne_4
+
+  16928787:
+    template: Temenos_Quadav
+    level:    [150, 150]
+    region:   temenos_ne_4
+
+  16928788:
+    template: Temenos_Quadav
+    level:    [150, 150]
+    region:   temenos_ne_4
+
+  16928789:
+    template: Temenos_Quadav
+    level:    [150, 150]
+    region:   temenos_ne_4
+
+  16928790:
+    template: Temenos_Orc
+    level:    [150, 150]
+    region:   temenos_ne
+
+  16928791:
+    template: Temenos_Orc
+    level:    [150, 150]
+    region:   temenos_ne
+
+  16928792:
+    template: Temenos_Orc
+    level:    [150, 150]
+    region:   temenos_ne
+
+  16928793:
+    template: Temenos_Orc
+    level:    [150, 150]
+    region:   temenos_ne
+
+  16928794:
+    template: Temenos_Orc
+    level:    [150, 150]
+    region:   temenos_ne
+
+  16928795:
+    template: Temenos_Evil_Weapon
+    level:    [150, 150]
+    region:   temenos_ne_2
+
+  16928796:
+    template: Temenos_Evil_Weapon
+    level:    [150, 150]
+    region:   temenos_ne_2
+
+  16928797:
+    template: Temenos_Evil_Weapon
+    level:    [150, 150]
+    region:   temenos_ne_2
+
+  16928798:
+    template: Temenos_Evil_Weapon
+    level:    [150, 150]
+    region:   temenos_ne_2
+
+  16928799:
+    template: Temenos_Evil_Weapon
+    level:    [150, 150]
+    region:   temenos_ne_2
+
+  16928800:
+    template: Temenos_Quadav
+    at:       [-310.952, 79.500, 429.171, 99]
+    level:    [150, 150]
+
+  16928801:
+    template: Temenos_Quadav
+    at:       [-311.027, 79.500, 429.250, 98]
+    level:    [150, 150]
+
+  16928802:
+    template: Temenos_Quadav
+    level:    [150, 150]
+    region:   temenos_n_6
+
+  16928803:
+    template: Temenos_Quadav
+    at:       [-299.114, 79.500, 429.820, 72]
+    level:    [150, 150]
+
+  16928804:
+    template: Temenos_Quadav
+    at:       [-313.718, 79.500, 431.667, 153]
+    level:    [150, 150]
+
+  16928805:
+    template: Temenos_Doll
+    at:       [-299.576, 79.500, 405.112, 67]
+    level:    [150, 150]
+
+  16928806:
+    template: Temenos_Doll
+    at:       [-311.327, 79.500, 411.193, 164]
+    level:    [150, 150]
+
+  16928807:
+    template: Temenos_Doll
+    at:       [-303.806, 79.500, 408.584, 255]
+    level:    [150, 150]
+
+  16928808:
+    template: Temenos_Doll
+    at:       [-299.417, 79.500, 413.687, 144]
+    level:    [150, 150]
+
+  16928809:
+    template: Temenos_Doll
+    at:       [-311.696, 79.500, 411.207, 166]
+    level:    [150, 150]
+
+  16928810:
+    template: Temenos_Evil_Weapon
+    at:       [-419.538, -78.501, 434.879, 136]
+    level:    [150, 150]
+
+  16928811:
+    template: Temenos_Evil_Weapon
+    level:    [150, 150]
+    region:   temenos_n_5
+
+  16928812:
+    template: Temenos_Evil_Weapon
+    level:    [150, 150]
+    region:   temenos_n_5
+
+  16928813:
+    template: Temenos_Evil_Weapon
+    level:    [150, 150]
+    region:   temenos_n_5
+
+  16928814:
+    template: Temenos_Evil_Weapon
+    level:    [150, 150]
+    region:   temenos_n_5
+
+  16928815:
+    template: Temenos_Yagudo
+    level:    [150, 150]
+    region:   temenos_n_5
+
+  16928816:
+    template: Yagudos_Elemental
+    level:    [150, 150]
+    region:   temenos_n_5
+
+  16928817:
+    template: Temenos_Yagudo
+    level:    [150, 150]
+    region:   temenos_n_5
+
+  16928818:
+    template: Temenos_Yagudo
+    level:    [150, 150]
+    region:   temenos_n_5
+
+  16928819:
+    template: Temenos_Yagudo
+    level:    [150, 150]
+    region:   temenos_n_5
+
+  16928820:
+    template: Temenos_Yagudo
+    level:    [150, 150]
+    region:   temenos_n_5
+
+  16928821:
+    template: Temenos_Doll
+    level:    [150, 150]
+    region:   temenos_n_3
+
+  16928822:
+    template: Temenos_Doll
+    level:    [150, 150]
+    region:   temenos_n_3
+
+  16928823:
+    template: Temenos_Doll
+    level:    [150, 150]
+    region:   temenos_n_3
+
+  16928824:
+    template: Temenos_Doll
+    level:    [150, 150]
+    region:   temenos_n_3
+
+  16928825:
+    template: Temenos_Doll
+    level:    [150, 150]
+    region:   temenos_n_3
+
+  16928826:
+    template: Temenos_Goblin
+    level:    [150, 150]
+    region:   temenos_n_3
+
+  16928827:
+    template: Temenos_Goblin
+    level:    [150, 150]
+    region:   temenos_n_3
+
+  16928828:
+    template: Temenos_Goblin
+    level:    [150, 150]
+    region:   temenos_n_3
+
+  16928829:
+    template: Temenos_Goblin
+    level:    [150, 150]
+    region:   temenos_n_3
+
+  16928830:
+    template: Temenos_Moblin
+    level:    [150, 150]
+    region:   temenos_n_3
+
+  16928831:
+    template: Temenos_Orc
+    level:    [150, 150]
+    region:   temenos_n_3
+
+  16928832:
+    template: Temenos_Orc
+    level:    [150, 150]
+    region:   temenos_n_3
+
+  16928833:
+    template: Temenos_Orc
+    level:    [150, 150]
+    region:   temenos_n_3
+
+  16928834:
+    template: Temenos_Orc
+    level:    [150, 150]
+    region:   temenos_n_3
+
+  16928835:
+    template: Temenos_Orc
+    level:    [150, 150]
+    region:   temenos_n_3
+
+  16928836:
+    template: Temenos_Quadav
+    level:    [150, 150]
+    region:   temenos_n_3
+
+  16928837:
+    template: Temenos_Quadav
+    level:    [150, 150]
+    region:   temenos_n_3
+
+  16928838:
+    template: Temenos_Quadav
+    level:    [150, 150]
+    region:   temenos_n_3
+
+  16928839:
+    template: Temenos_Quadav
+    level:    [150, 150]
+    region:   temenos_n_3
+
+  16928840:
+    template: Temenos_Quadav
+    level:    [150, 150]
+    region:   temenos_n_3
+
+  16928841:
+    template: Temenos_Bomb
+    level:    [150, 150]
+    region:   temenos_n_3
+
+  16928842:
+    template: Temenos_Bomb
+    level:    [150, 150]
+    region:   temenos_n_2
+
+  16928843:
+    template: Temenos_Bomb
+    level:    [150, 150]
+    region:   temenos_n_2
+
+  16928844:
+    template: Temenos_Bomb
+    level:    [150, 150]
+    region:   temenos_n_2
+
+  16928845:
+    template: Temenos_Bomb
+    level:    [150, 150]
+    region:   temenos_n_2
+
+  16928846:
+    template: Temenos_Yagudo
+    level:    [150, 150]
+    region:   temenos_n_2
+
+  16928847:
+    template: Yagudos_Elemental
+    level:    [150, 150]
+    region:   temenos_n_2
+
+  16928848:
+    template: Temenos_Yagudo
+    level:    [150, 150]
+    region:   temenos_n_2
+
+  16928849:
+    template: Temenos_Yagudo
+    level:    [150, 150]
+    region:   temenos_n_2
+
+  16928850:
+    template: Temenos_Yagudo
+    level:    [150, 150]
+    region:   temenos_n_2
+
+  16928851:
+    template: Temenos_Yagudo
+    level:    [150, 150]
+    region:   temenos_n_2
+
+  16928852:
+    template: Temenos_Cryptonberry
+    level:    [150, 150]
+    region:   temenos_n
+
+  16928853:
+    template: Temenos_Cryptonberry
+    level:    [150, 150]
+    region:   temenos_n
+
+  16928854:
+    template: Temenos_Cryptonberry
+    level:    [150, 150]
+    region:   temenos_n
+
+  16928855:
+    template: Temenos_Cryptonberry
+    level:    [150, 150]
+    region:   temenos_n
+
+  16928856:
+    template: Cryptonberrys_Elemental
+    level:    [150, 150]
+    region:   temenos_n
+
+  16928857:
+    template: Temenos_Cryptonberry
+    level:    [150, 150]
+    region:   temenos_n
+
+  16928858:
+    template: Temenos_Meeble
+    level:    [150, 150]
+    region:   temenos_n
+
+  16928859:
+    template: Temenos_Meeble
+    level:    [150, 150]
+    region:   temenos_n
+
+  16928860:
+    template: Temenos_Meeble
+    level:    [150, 150]
+    region:   temenos_n
+
+  16928861:
+    template: Temenos_Meeble
+    level:    [150, 150]
+    region:   temenos_n
+
+  16928862:
+    template: Temenos_Meeble
+    level:    [150, 150]
+    region:   temenos_n
+
+  16928863:
+    template: Temenos_Sahagin
+    level:    [150, 150]
+    region:   temenos_nw_11
+
+  16928864:
+    template: Temenos_Sahagin
+    level:    [150, 150]
+    region:   temenos_nw_11
+
+  16928865:
+    template: Temenos_Sahagin
+    level:    [150, 150]
+    region:   temenos_nw_11
+
+  16928866:
+    template: Temenos_Sahagin
+    level:    [150, 150]
+    region:   temenos_nw_11
+
+  16928867:
+    template: Temenos_Sahagin
+    level:    [150, 150]
+    region:   temenos_nw_11
+
+  16928868:
+    template: Temenos_Antica
+    level:    [150, 150]
+    region:   temenos_nw_12
+
+  16928869:
+    template: Temenos_Antica
+    level:    [150, 150]
+    region:   temenos_nw_12
+
+  16928870:
+    template: Temenos_Antica
+    level:    [150, 150]
+    region:   temenos_nw_12
+
+  16928871:
+    template: Temenos_Antica
+    level:    [150, 150]
+    region:   temenos_nw_12
+
+  16928872:
+    template: Temenos_Antica
+    level:    [150, 150]
+    region:   temenos_nw_12
+
+  16928873:
+    template: Temenos_Sahagin
+    level:    [150, 150]
+    region:   temenos_nw_10
+
+  16928874:
+    template: Temenos_Sahagin
+    level:    [150, 150]
+    region:   temenos_nw_10
+
+  16928875:
+    template: Temenos_Sahagin
+    level:    [150, 150]
+    region:   temenos_nw_10
+
+  16928876:
+    template: Temenos_Sahagin
+    level:    [150, 150]
+    region:   temenos_nw_10
+
+  16928877:
+    template: Temenos_Sahagin
+    level:    [150, 150]
+    region:   temenos_nw_10
+
+  16928878:
+    template: Temenos_Magic_Pot
+    level:    [150, 150]
+    region:   temenos_nw_9
+
+  16928879:
+    template: Temenos_Magic_Pot
+    level:    [150, 150]
+    region:   temenos_nw_9
+
+  16928880:
+    template: Temenos_Magic_Pot
+    level:    [150, 150]
+    region:   temenos_nw_9
+
+  16928881:
+    template: Temenos_Magic_Pot
+    level:    [150, 150]
+    region:   temenos_nw_9
+
+  16928882:
+    template: Temenos_Magic_Pot
+    level:    [150, 150]
+    region:   temenos_nw_9
+
+  16928883:
+    template: Temenos_Golem
+    level:    [150, 150]
+    region:   temenos_nw_7
+
+  16928884:
+    template: Temenos_Golem
+    level:    [150, 150]
+    region:   temenos_nw_7
+
+  16928885:
+    template: Temenos_Golem
+    level:    [150, 150]
+    region:   temenos_nw_7
+
+  16928886:
+    template: Temenos_Golem
+    level:    [150, 150]
+    region:   temenos_nw_7
+
+  16928887:
+    template: Temenos_Golem
+    level:    [150, 150]
+    region:   temenos_nw_7
+
+  16928888:
+    template: Temenos_Antica
+    level:    [150, 150]
+    region:   temenos_nw_7
+
+  16928889:
+    template: Temenos_Antica
+    level:    [150, 150]
+    region:   temenos_nw_6
+
+  16928890:
+    template: Temenos_Antica
+    level:    [150, 150]
+    region:   temenos_nw_6
+
+  16928891:
+    template: Temenos_Antica
+    level:    [150, 150]
+    region:   temenos_nw_6
+
+  16928892:
+    template: Temenos_Antica
+    level:    [150, 150]
+    region:   temenos_nw_6
+
+  16928893:
+    template: Temenos_Magic_Pot
+    level:    [150, 150]
+    region:   temenos_nw_6
+
+  16928894:
+    template: Temenos_Magic_Pot
+    level:    [150, 150]
+    region:   temenos_nw_5
+
+  16928895:
+    template: Temenos_Magic_Pot
+    level:    [150, 150]
+    region:   temenos_nw_5
+
+  16928896:
+    template: Temenos_Magic_Pot
+    level:    [150, 150]
+    region:   temenos_nw_5
+
+  16928897:
+    template: Temenos_Magic_Pot
+    level:    [150, 150]
+    region:   temenos_nw_5
+
+  16928898:
+    template: Temenos_Cryptonberry
+    at:       [-419.241, -160.500, 113.666, 111]
+    level:    [150, 150]
+
+  16928899:
+    template: Temenos_Cryptonberry
+    level:    [150, 150]
+    region:   temenos_nw_5
+
+  16928900:
+    template: Temenos_Cryptonberry
+    level:    [150, 150]
+    region:   temenos_nw_5
+
+  16928901:
+    template: Temenos_Cryptonberry
+    level:    [150, 150]
+    region:   temenos_nw_5
+
+  16928902:
+    template: Cryptonberrys_Elemental
+    at:       [-419.692, -162.875, 98.908, 45]
+    level:    [150, 150]
+
+  16928903:
+    template: Temenos_Cryptonberry
+    level:    [150, 150]
+    region:   temenos_nw_5
+
+  16928904:
+    template: Temenos_Golem
+    level:    [150, 150]
+    region:   temenos_nw_5
+
+  16928905:
+    template: Temenos_Golem
+    level:    [150, 150]
+    region:   temenos_nw_2
+
+  16928906:
+    template: Temenos_Golem
+    level:    [150, 150]
+    region:   temenos_nw_2
+
+  16928907:
+    template: Temenos_Golem
+    level:    [150, 150]
+    region:   temenos_nw_2
+
+  16928908:
+    template: Temenos_Golem
+    level:    [150, 150]
+    region:   temenos_nw_2
+
+  16928909:
+    template: Temenos_Gigas
+    level:    [150, 150]
+    region:   temenos_nw_2
+
+  16928910:
+    template: Temenos_Gigas
+    level:    [150, 150]
+    region:   temenos_nw_4
+
+  16928911:
+    template: Temenos_Gigas
+    level:    [150, 150]
+    region:   temenos_nw_4
+
+  16928912:
+    template: Temenos_Gigas
+    level:    [150, 150]
+    region:   temenos_nw_4
+
+  16928913:
+    template: Temenos_Gigas
+    at:       [-461.392, -160.500, 130.271, 71]
+    level:    [150, 150]
+
+  16928914:
+    template: Temenos_Sahagin
+    level:    [150, 150]
+    region:   temenos_nw_4
+
+  16928915:
+    template: Temenos_Sahagin
+    level:    [150, 150]
+    region:   temenos_nw_4
+
+  16928916:
+    template: Temenos_Sahagin
+    level:    [150, 150]
+    region:   temenos_nw_4
+
+  16928917:
+    template: Temenos_Sahagin
+    level:    [150, 150]
+    region:   temenos_nw_4
+
+  16928918:
+    template: Temenos_Sahagin
+    level:    [150, 150]
+    region:   temenos_nw_4
+
+  16928919:
+    template: Temenos_Antica
+    level:    [150, 150]
+    region:   temenos_nw_4
+
+  16928920:
+    template: Temenos_Antica
+    level:    [150, 150]
+    region:   temenos_nw
+
+  16928921:
+    template: Temenos_Antica
+    level:    [150, 150]
+    region:   temenos_nw
+
+  16928922:
+    template: Temenos_Antica
+    level:    [150, 150]
+    region:   temenos_nw
+
+  16928923:
+    template: Temenos_Antica
+    level:    [150, 150]
+    region:   temenos_nw
+
+  16928924:
+    template: Temenos_Snoll
+    level:    [150, 150]
+    region:   temenos_nw
+
+  16928925:
+    template: Temenos_Snoll
+    level:    [150, 150]
+    region:   temenos_nw
+
+  16928926:
+    template: Temenos_Snoll
+    level:    [150, 150]
+    region:   temenos_e_5
+
+  16928927:
+    template: Temenos_Snoll
+    level:    [150, 150]
+    region:   temenos_e_5
+
+  16928928:
+    template: Temenos_Snoll
+    level:    [150, 150]
+    region:   temenos_e_5
+
+  16928929:
+    template: Temenos_Cryptonberry
+    level:    [150, 150]
+    region:   temenos_e_5
+
+  16928930:
+    template: Temenos_Cryptonberry
+    level:    [150, 150]
+    region:   temenos_e_5
+
+  16928931:
+    template: Temenos_Cryptonberry
+    level:    [150, 150]
+    region:   temenos_ne_6
+
+  16928932:
+    template: Temenos_Cryptonberry
+    at:       [-612.144, -0.412, 133.280, 42]
+    level:    [150, 150]
+
+  16928933:
+    template: Cryptonberrys_Elemental
+    at:       [-610.623, -0.206, 133.624, 90]
+    level:    [150, 150]
+
+  16928934:
+    template: Temenos_Cryptonberry
+    level:    [150, 150]
+    region:   temenos_ne_6
+
+  16928935:
+    template: Temenos_Euvhi
+    at:       [-105.957, -80.639, -129.702, 247]
+    level:    [150, 150]
+
+  16928936:
+    template: Temenos_Euvhi
+    at:       [-97.827, -80.550, -139.009, 141]
+    level:    [150, 150]
+
+  16928937:
+    template: Temenos_Euvhi
+    at:       [-99.213, -80.494, -140.098, 169]
+    level:    [150, 150]
+
+  16928938:
+    template: Temenos_Euvhi
+    at:       [-101.576, -80.507, -135.926, 49]
+    level:    [150, 150]
+
+  16928939:
+    template: Temenos_Euvhi
+    at:       [-110.664, -80.501, -137.157, 66]
+    level:    [150, 150]
+
+  16928940:
+    template: Temenos_Aern
+    at:       [-100.965, -80.473, -140.750, 245]
+    level:    [150, 150]
+
+  16928941:
+    template: Temenos_Aern
+    level:    [150, 150]
+    region:   temenos_e_3
+
+  16928942:
+    template: Temenos_Aern
+    level:    [150, 150]
+    region:   temenos_e_3
+
+  16928943:
+    template: Temenos_Aern
+    level:    [150, 150]
+    region:   temenos_e_3
+
+  16928944:
+    template: Temenos_Aern
+    level:    [150, 150]
+    region:   temenos_e_3
+
+  16928945:
+    template: Temenos_Aern
+    level:    [150, 150]
+    region:   temenos_e_3
+
+  16928946:
+    template: Temenos_Aern
+    level:    [150, 150]
+    region:   temenos_e_3
+
+  16928947:
+    template: Temenos_Aern
+    level:    [150, 150]
+    region:   temenos_n_4
+
+  16928948:
+    template: Temenos_Aern
+    level:    [150, 150]
+    region:   temenos_n_4
+
+  16928949:
+    template: Temenos_Aern
+    level:    [150, 150]
+    region:   temenos_n_4
+
+  16928950:
+    template: Temenos_Meeble
+    level:    [150, 150]
+    region:   temenos_n_4
+
+  16928951:
+    template: Temenos_Meeble
+    level:    [150, 150]
+    region:   temenos_n_4
+
+  16928952:
+    template: Temenos_Meeble
+    level:    [150, 150]
+    region:   temenos_n_4
+
+  16928953:
+    template: Temenos_Meeble
+    level:    [150, 150]
+    region:   temenos_n_4
+
+  16928954:
+    template: Temenos_Meeble
+    level:    [150, 150]
+    region:   temenos_n_4
+
+  16928955:
+    template: Temenos_Aern
+    level:    [150, 150]
+    region:   temenos_n_4
+
+  16928956:
+    template: Temenos_Aern
+    level:    [150, 150]
+    region:   temenos_n_4
+
+  16928957:
+    template: Temenos_Aern
+    at:       [-302.209, 78.928, -171.954, 94]
+    level:    [150, 150]
+
+  16928958:
+    template: Temenos_Aern
+    at:       [-299.438, 79.500, -162.280, 78]
+    level:    [150, 150]
+
+  16928959:
+    template: Temenos_Aern
+    at:       [-259.011, 79.500, -155.729, 95]
+    level:    [150, 150]
+
+  16928960:
+    template: Temenos_Euvhi
+    at:       [-258.313, 79.500, -132.152, 78]
+    level:    [150, 150]
+
+  16928961:
+    template: Temenos_Euvhi
+    at:       [-247.047, 79.500, -130.599, 91]
+    level:    [150, 150]
+
+  16928962:
+    template: Temenos_Euvhi
+    at:       [-258.842, 79.500, -125.643, 162]
+    level:    [150, 150]
+
+  16928963:
+    template: Temenos_Euvhi
+    at:       [-247.109, 79.500, -130.363, 91]
+    level:    [150, 150]
+
+  16928964:
+    template: Temenos_Euvhi
+    at:       [-250.289, 79.500, -127.611, 130]
+    level:    [150, 150]
+
+  16928965:
+    template: Temenos_Gigas
+    at:       [-300.310, 79.500, -131.525, 46]
+    level:    [150, 150]
+
+  16928966:
+    template: Temenos_Gigas
+    at:       [-314.580, 79.500, -127.164, 102]
+    level:    [150, 150]
+
+  16928967:
+    template: Temenos_Gigas
+    at:       [-314.461, 79.500, -127.859, 153]
+    level:    [150, 150]
+
+  16928968:
+    template: Temenos_Gigas
+    level:    [150, 150]
+    region:   temenos_n_4
+
+  16928969:
+    template: Temenos_Gigas
+    level:    [150, 150]
+    region:   temenos_n_4
+
+  16928970:
+    template: Temenos_Goblin
+    level:    [150, 150]
+    region:   temenos_n_4
+
+  16928971:
+    template: Temenos_Goblin
+    level:    [150, 150]
+    region:   temenos_n_4
+
+  16928972:
+    template: Temenos_Goblin
+    level:    [150, 150]
+    region:   temenos_n_4
+
+  16928973:
+    template: Temenos_Goblin
+    level:    [150, 150]
+    region:   temenos_n_4
+
+  16928974:
+    template: Temenos_Moblin
+    level:    [150, 150]
+    region:   temenos_n_4
+
+  16928975:
+    template: Temenos_Ghrah
+    level:    [150, 150]
+    region:   temenos_n_4
+
+  16928976:
+    template: Temenos_Ghrah
+    level:    [150, 150]
+    region:   temenos_n_4
+
+  16928977:
+    template: Temenos_Ghrah
+    level:    [150, 150]
+    region:   temenos_n_4
+
+  16928978:
+    template: Temenos_Ghrah
+    level:    [150, 150]
+    region:   temenos_c_6
+
+  16928979:
+    template: Temenos_Ghrah
+    level:    [150, 150]
+    region:   temenos_c_6
+
+  16928980:
+    template: Temenos_Pixie
+    level:    [150, 150]
+    region:   temenos_c_6
+
+  16928981:
+    template: Temenos_Pixie
+    level:    [150, 150]
+    region:   temenos_c_6
+
+  16928982:
+    template: Temenos_Pixie
+    level:    [150, 150]
+    region:   temenos_c_6
+
+  16928983:
+    template: Temenos_Pixie
+    level:    [150, 150]
+    region:   temenos_c_6
+
+  16928984:
+    template: Temenos_Pixie
+    level:    [150, 150]
+    region:   temenos_c_6
+
+  16928985:
+    template: Temenos_Ghrah
+    level:    [150, 150]
+    region:   temenos_c_6
+
+  16928986:
+    template: Temenos_Ghrah
+    level:    [150, 150]
+    region:   temenos_c_6
+
+  16928987:
+    template: Temenos_Ghrah
+    level:    [150, 150]
+    region:   temenos_c_6
+
+  16928988:
+    template: Temenos_Ghrah
+    level:    [150, 150]
+    region:   temenos_c_6
+
+  16928989:
+    template: Temenos_Ghrah
+    level:    [150, 150]
+    region:   temenos_c_6
+
+  16928990:
+    template: Temenos_Unseelie
+    level:    [150, 150]
+    region:   temenos_c_6
+
+  16928991:
+    template: Temenos_Unseelie
+    level:    [150, 150]
+    region:   temenos_c_6
+
+  16928992:
+    template: Temenos_Unseelie
+    level:    [150, 150]
+    region:   temenos_c_6
+
+  16928993:
+    template: Temenos_Unseelie
+    level:    [150, 150]
+    region:   temenos_c_6
+
+  16928994:
+    template: Temenos_Unseelie
+    level:    [150, 150]
+    region:   temenos_c_6
+
+  16928995:
+    template: Temenos_Aern
+    level:    [150, 150]
+    region:   temenos_c_6
+
+  16928996:
+    template: Temenos_Aern
+    level:    [150, 150]
+    region:   temenos_c_6
+
+  16928997:
+    template: Temenos_Aern
+    level:    [150, 150]
+    region:   temenos_c_6
+
+  16928998:
+    template: Temenos_Aern
+    level:    [150, 150]
+    region:   temenos_c_6
+
+  16928999:
+    template: Temenos_Aern
+    level:    [150, 150]
+    region:   temenos_c_3
+
+  16929000:
+    template: Temenos_Euvhi
+    level:    [150, 150]
+    region:   temenos_c_3
+
+  16929001:
+    template: Temenos_Euvhi
+    level:    [150, 150]
+    region:   temenos_c_3
+
+  16929002:
+    template: Temenos_Euvhi
+    level:    [150, 150]
+    region:   temenos_c_3
+
+  16929003:
+    template: Temenos_Euvhi
+    level:    [150, 150]
+    region:   temenos_c_3
+
+  16929004:
+    template: Temenos_Euvhi
+    level:    [150, 150]
+    region:   temenos_c_3
+
+  16929005:
+    template: Temenos_Djinn
+    level:    [150, 150]
+    region:   temenos_c_3
+
+  16929006:
+    template: Temenos_Djinn
+    level:    [150, 150]
+    region:   temenos_c_3
+
+  16929007:
+    template: Temenos_Djinn
+    level:    [150, 150]
+    region:   temenos_c_3
+
+  16929008:
+    template: Temenos_Djinn
+    level:    [150, 150]
+    region:   temenos_c_3
+
+  16929009:
+    template: Temenos_Djinn
+    level:    [150, 150]
+    region:   temenos_c_2
+
+  16929010:
+    template: Temenos_Aern
+    level:    [150, 150]
+    region:   temenos_c_2
+
+  16929011:
+    template: Temenos_Aern
+    level:    [150, 150]
+    region:   temenos_c_2
+
+  16929012:
+    template: Temenos_Aern
+    level:    [150, 150]
+    region:   temenos_c_2
+
+  16929013:
+    template: Temenos_Aern
+    level:    [150, 150]
+    region:   temenos_c_2
+
+  16929014:
+    template: Temenos_Aern
+    level:    [150, 150]
+    region:   temenos_c_2
+
+  16929015:
+    template: Temenos_Orc
+    level:    [150, 150]
+    region:   temenos_c_2
+
+  16929016:
+    template: Temenos_Orc
+    level:    [150, 150]
+    region:   temenos_c_2
+
+  16929017:
+    template: Temenos_Orc
+    level:    [150, 150]
+    region:   temenos_c_2
+
+  16929018:
+    template: Temenos_Orc
+    level:    [150, 150]
+    region:   temenos_c_2
+
+  16929019:
+    template: Temenos_Orc
+    level:    [150, 150]
+    region:   temenos_c_2
+
+  16929020:
+    template: Temenos_Orc
+    level:    [150, 150]
+    region:   temenos_w_13
+
+  16929021:
+    template: Temenos_Orc
+    level:    [150, 150]
+    region:   temenos_w_13
+
+  16929022:
+    template: Temenos_Orc
+    level:    [150, 150]
+    region:   temenos_w_13
+
+  16929023:
+    template: Temenos_Orc
+    level:    [150, 150]
+    region:   temenos_w_13
+
+  16929024:
+    template: Temenos_Orc
+    level:    [150, 150]
+    region:   temenos_w_13
+
+  16929025:
+    template: Temenos_Doll
+    at:       [349.317, -164.500, -418.751, 77]
+    level:    [150, 150]
+
+  16929026:
+    template: Temenos_Doll
+    level:    [150, 150]
+    region:   temenos_w_16
+
+  16929027:
+    template: Temenos_Doll
+    at:       [347.982, -164.543, -418.663, 31]
+    level:    [150, 150]
+
+  16929028:
+    template: Temenos_Doll
+    level:    [150, 150]
+    region:   temenos_w_16
+
+  16929029:
+    template: Temenos_Doll
+    at:       [341.604, -164.500, -410.854, 115]
+    level:    [150, 150]
+
+  16929030:
+    template: Temenos_Evil_Weapon
+    level:    [150, 150]
+    region:   temenos_nw_8
+
+  16929031:
+    template: Temenos_Evil_Weapon
+    level:    [150, 150]
+    region:   temenos_nw_8
+
+  16929032:
+    template: Temenos_Evil_Weapon
+    level:    [150, 150]
+    region:   temenos_nw_8
+
+  16929033:
+    template: Temenos_Evil_Weapon
+    at:       [330.218, -166.418, -418.896, 136]
+    level:    [150, 150]
+
+  16929034:
+    template: Temenos_Evil_Weapon
+    at:       [339.455, -166.499, -420.459, 198]
+    level:    [150, 150]
+
+  16929035:
+    template: Temenos_Quadav
+    level:    [150, 150]
+    region:   temenos_w_12
+
+  16929036:
+    template: Temenos_Quadav
+    level:    [150, 150]
+    region:   temenos_w_12
+
+  16929037:
+    template: Temenos_Quadav
+    level:    [150, 150]
+    region:   temenos_w_12
+
+  16929038:
+    template: Temenos_Quadav
+    level:    [150, 150]
+    region:   temenos_w_12
+
+  16929039:
+    template: Temenos_Quadav
+    level:    [150, 150]
+    region:   temenos_w_12
+
+  16929040:
+    template: Temenos_Quadav
+    level:    [150, 150]
+    region:   temenos_w_9
+
+  16929041:
+    template: Temenos_Quadav
+    level:    [150, 150]
+    region:   temenos_w_9
+
+  16929042:
+    template: Temenos_Quadav
+    level:    [150, 150]
+    region:   temenos_w_9
+
+  16929043:
+    template: Temenos_Quadav
+    level:    [150, 150]
+    region:   temenos_w_9
+
+  16929044:
+    template: Temenos_Quadav
+    level:    [150, 150]
+    region:   temenos_w_9
+
+  16929045:
+    template: Temenos_Doll
+    level:    [150, 150]
+    region:   temenos_w_9
+
+  16929046:
+    template: Temenos_Doll
+    level:    [150, 150]
+    region:   temenos_w_7
+
+  16929047:
+    template: Temenos_Doll
+    level:    [150, 150]
+    region:   temenos_w_7
+
+  16929048:
+    template: Temenos_Doll
+    level:    [150, 150]
+    region:   temenos_w_7
+
+  16929049:
+    template: Temenos_Doll
+    level:    [150, 150]
+    region:   temenos_w_7
+
+  16929050:
+    template: Temenos_Evil_Weapon
+    level:    [150, 150]
+    region:   temenos_w_7
+
+  16929051:
+    template: Temenos_Evil_Weapon
+    level:    [150, 150]
+    region:   temenos_w_6
+
+  16929052:
+    template: Temenos_Evil_Weapon
+    level:    [150, 150]
+    region:   temenos_w_6
+
+  16929053:
+    template: Temenos_Evil_Weapon
+    level:    [150, 150]
+    region:   temenos_w_6
+
+  16929054:
+    template: Temenos_Evil_Weapon
+    level:    [150, 150]
+    region:   temenos_w_6
+
+  16929055:
+    template: Temenos_Yagudo
+    level:    [150, 150]
+    region:   temenos_w_6
+
+  16929056:
+    template: Yagudos_Elemental
+    level:    [150, 150]
+    region:   temenos_w_6
+
+  16929057:
+    template: Temenos_Yagudo
+    level:    [150, 150]
+    region:   temenos_w_6
+
+  16929058:
+    template: Temenos_Yagudo
+    level:    [150, 150]
+    region:   temenos_w_6
+
+  16929059:
+    template: Temenos_Yagudo
+    level:    [150, 150]
+    region:   temenos_w_6
+
+  16929060:
+    template: Temenos_Yagudo
+    level:    [150, 150]
+    region:   temenos_w_6
+
+  16929061:
+    template: Temenos_Yagudo
+    level:    [150, 150]
+    region:   temenos_w_6
+
+  16929062:
+    template: Yagudos_Elemental
+    level:    [150, 150]
+    region:   temenos_w_4
+
+  16929063:
+    template: Temenos_Yagudo
+    level:    [150, 150]
+    region:   temenos_w_4
+
+  16929064:
+    template: Temenos_Yagudo
+    level:    [150, 150]
+    region:   temenos_w_4
+
+  16929065:
+    template: Temenos_Yagudo
+    level:    [150, 150]
+    region:   temenos_w_4
+
+  16929066:
+    template: Temenos_Yagudo
+    level:    [150, 150]
+    region:   temenos_w_4
+
+  16929067:
+    template: Temenos_Sahagin
+    level:    [150, 150]
+    region:   temenos_nw_3
+
+  16929068:
+    template: Temenos_Sahagin
+    level:    [150, 150]
+    region:   temenos_nw_3
+
+  16929069:
+    template: Temenos_Sahagin
+    at:       [28.975, -0.501, -493.438, 160]
+    level:    [150, 150]
+
+  16929070:
+    template: Temenos_Sahagin
+    level:    [150, 150]
+    region:   temenos_nw_3
+
+  16929071:
+    template: Temenos_Sahagin
+    level:    [150, 150]
+    region:   temenos_nw_3
+
+  16929072:
+    template: Temenos_Magic_Pot
+    level:    [150, 150]
+    region:   temenos_nw_3
+
+  16929073:
+    template: Temenos_Magic_Pot
+    level:    [150, 150]
+    region:   temenos_nw_3
+
+  16929074:
+    template: Temenos_Magic_Pot
+    level:    [150, 150]
+    region:   temenos_nw_3
+
+  16929075:
+    template: Temenos_Magic_Pot
+    level:    [150, 150]
+    region:   temenos_nw_3
+
+  16929076:
+    template: Temenos_Magic_Pot
+    level:    [150, 150]
+    region:   temenos_nw_3
+
+  16929077:
+    template: Temenos_Sahagin
+    level:    [150, 150]
+    region:   temenos_w_3
+
+  16929078:
+    template: Temenos_Sahagin
+    level:    [150, 150]
+    region:   temenos_w_3
+
+  16929079:
+    template: Temenos_Sahagin
+    level:    [150, 150]
+    region:   temenos_w_3
+
+  16929080:
+    template: Temenos_Sahagin
+    level:    [150, 150]
+    region:   temenos_w_3
+
+  16929081:
+    template: Temenos_Sahagin
+    level:    [150, 150]
+    region:   temenos_w_3
+
+  16929082:
+    template: Temenos_Snoll
+    level:    [150, 150]
+    region:   temenos_w_3
+
+  16929083:
+    template: Temenos_Snoll
+    level:    [150, 150]
+    region:   temenos_e_4
+
+  16929084:
+    template: Temenos_Snoll
+    level:    [150, 150]
+    region:   temenos_e_4
+
+  16929085:
+    template: Temenos_Cluster
+    level:    [150, 150]
+    region:   temenos_e_4
+
+  16929086:
+    template: Temenos_Cluster
+    level:    [150, 150]
+    region:   temenos_e_4
+
+  16929087:
+    template: Temenos_Cluster
+    level:    [150, 150]
+    region:   temenos_e_4
+
+  16929088:
+    template: Temenos_Golem
+    level:    [150, 150]
+    region:   temenos_e_6
+
+  16929089:
+    template: Temenos_Golem
+    level:    [150, 150]
+    region:   temenos_e_6
+
+  16929090:
+    template: Temenos_Golem
+    level:    [150, 150]
+    region:   temenos_e_6
+
+  16929091:
+    template: Temenos_Golem
+    at:       [64.937, 1.227, -415.165, 90]
+    level:    [150, 150]
+
+  16929092:
+    template: Temenos_Golem
+    level:    [150, 150]
+    region:   temenos_e_6
+
+  16929093:
+    template: Temenos_Antica
+    at:       [60.516, -0.500, -419.610, 197]
+    level:    [150, 150]
+
+  16929094:
+    template: Temenos_Antica
+    at:       [48.858, -0.441, -418.813, 250]
+    level:    [150, 150]
+
+  16929095:
+    template: Temenos_Antica
+    at:       [20.108, -6.500, -438.221, 192]
+    level:    [150, 150]
+
+  16929096:
+    template: Temenos_Antica
+    at:       [59.130, -0.500, -424.040, 33]
+    level:    [150, 150]
+
+  16929097:
+    template: Temenos_Antica
+    at:       [48.539, -0.429, -418.731, 250]
+    level:    [150, 150]
+
+  16929098:
+    template: Temenos_Antica
+    level:    [150, 150]
+    region:   temenos_e_2
+
+  16929099:
+    template: Temenos_Antica
+    level:    [150, 150]
+    region:   temenos_e_2
+
+  16929100:
+    template: Temenos_Antica
+    level:    [150, 150]
+    region:   temenos_e_2
+
+  16929101:
+    template: Temenos_Antica
+    level:    [150, 150]
+    region:   temenos_e_2
+
+  16929102:
+    template: Temenos_Antica
+    level:    [150, 150]
+    region:   temenos_e_2
+
+  16929103:
+    template: Temenos_Antica
+    level:    [150, 150]
+    region:   temenos_e
+
+  16929104:
+    template: Temenos_Antica
+    level:    [150, 150]
+    region:   temenos_e
+
+  16929105:
+    template: Temenos_Antica
+    level:    [150, 150]
+    region:   temenos_e
+
+  16929106:
+    template: Temenos_Antica
+    level:    [150, 150]
+    region:   temenos_e
+
+  16929107:
+    template: Temenos_Antica
+    level:    [150, 150]
+    region:   temenos_e
+
+  16929108:
+    template: Temenos_Golem
+    level:    [150, 150]
+    region:   temenos_c_7
+
+  16929109:
+    template: Temenos_Golem
+    level:    [150, 150]
+    region:   temenos_c_7
+
+  16929110:
+    template: Temenos_Golem
+    level:    [150, 150]
+    region:   temenos_c_7
+
+  16929111:
+    template: Temenos_Golem
+    level:    [150, 150]
+    region:   temenos_c_7
+
+  16929112:
+    template: Temenos_Golem
+    level:    [150, 150]
+    region:   temenos_c_7
+
+  16929113:
+    template: Temenos_Antica
+    at:       [-51.128, -0.434, -420.636, 252]
+    level:    [150, 150]
+
+  16929114:
+    template: Temenos_Antica
+    level:    [150, 150]
+    region:   temenos_c_7
+
+  16929115:
+    template: Temenos_Antica
+    at:       [-59.297, -0.500, -426.312, 197]
+    level:    [150, 150]
+
+  16929116:
+    template: Temenos_Antica
+    at:       [-53.127, -0.482, -420.644, 123]
+    level:    [150, 150]
+
+  16929117:
+    template: Temenos_Antica
+    level:    [150, 150]
+    region:   temenos_c_7
+
+  16929118:
+    template: Temenos_Snoll
+    level:    [150, 150]
+    region:   temenos_c_7
+
+  16929119:
+    template: Temenos_Snoll
+    at:       [-71.269, -0.666, -448.013, 120]
+    level:    [150, 150]
+
+  16929120:
+    template: Temenos_Snoll
+    level:    [150, 150]
+    region:   temenos_c_7
+
+  16929121:
+    template: Temenos_Cluster
+    level:    [150, 150]
+    region:   temenos_c_7
+
+  16929122:
+    template: Temenos_Cluster
+    level:    [150, 150]
+    region:   temenos_c_7
+
+  16929123:
+    template: Temenos_Cluster
+    level:    [150, 150]
+    region:   temenos_c_7
+
+  16929124:
+    template: Temenos_Magic_Pot
+    level:    [150, 150]
+    region:   temenos_c_7
+
+  16929125:
+    template: Temenos_Magic_Pot
+    level:    [150, 150]
+    region:   temenos_c_7
+
+  16929126:
+    template: Temenos_Magic_Pot
+    level:    [150, 150]
+    region:   temenos_c_7
+
+  16929127:
+    template: Temenos_Magic_Pot
+    level:    [150, 150]
+    region:   temenos_c_7
+
+  16929128:
+    template: Temenos_Magic_Pot
+    at:       [-70.398, 1.499, -506.663, 244]
+    level:    [150, 150]
+
+  16929129:
+    template: Temenos_Sahagin
+    level:    [150, 150]
+    region:   temenos_c_7
+
+  16929130:
+    template: Temenos_Sahagin
+    at:       [-49.831, -0.422, -500.758, 197]
+    level:    [150, 150]
+
+  16929131:
+    template: Temenos_Sahagin
+    level:    [150, 150]
+    region:   temenos_c_7
+
+  16929132:
+    template: Temenos_Sahagin
+    level:    [150, 150]
+    region:   temenos_c_7
+
+  16929133:
+    template: Temenos_Sahagin
+    level:    [150, 150]
+    region:   temenos_c_5
+
+  16929134:
+    template: Temenos_Sahagin
+    level:    [150, 150]
+    region:   temenos_c_5
+
+  16929135:
+    template: Temenos_Sahagin
+    level:    [150, 150]
+    region:   temenos_c_5
+
+  16929136:
+    template: Temenos_Sahagin
+    level:    [150, 150]
+    region:   temenos_c_5
+
+  16929137:
+    template: Temenos_Sahagin
+    level:    [150, 150]
+    region:   temenos_c_5
+
+  16929138:
+    template: Temenos_Sahagin
+    level:    [150, 150]
+    region:   temenos_c_5
+
+  16929139:
+    template: Temenos_Cryptonberry
+    level:    [150, 150]
+    region:   temenos_c_5
+
+  16929140:
+    template: Temenos_Cryptonberry
+    level:    [150, 150]
+    region:   temenos_c_5
+
+  16929141:
+    template: Temenos_Cryptonberry
+    level:    [150, 150]
+    region:   temenos_c_5
+
+  16929142:
+    template: Temenos_Cryptonberry
+    level:    [150, 150]
+    region:   temenos_c_5
+
+  16929143:
+    template: Cryptonberrys_Elemental
+    level:    [150, 150]
+    region:   temenos_c_5
+
+  16929144:
+    template: Temenos_Cryptonberry
+    level:    [150, 150]
+    region:   temenos_c_5
+
+  16929145:
+    template: Temenos_Cryptonberry
+    level:    [150, 150]
+    region:   temenos_c_5
+
+  16929146:
+    template: Temenos_Cryptonberry
+    level:    [150, 150]
+    region:   temenos_c_5
+
+  16929147:
+    template: Temenos_Cryptonberry
+    level:    [150, 150]
+    region:   temenos_c_5
+
+  16929148:
+    template: Temenos_Cryptonberry
+    level:    [150, 150]
+    region:   temenos_c_5
+
+  16929149:
+    template: Cryptonberrys_Elemental
+    level:    [150, 150]
+    region:   temenos_c_5
+
+  16929150:
+    template: Temenos_Cryptonberry
+    level:    [150, 150]
+    region:   temenos_c_5
+
+  16929151:
+    template: Temenos_Cryptonberry
+    level:    [150, 150]
+    region:   temenos_c_5
+
+  16929152:
+    template: Temenos_Cryptonberry
+    level:    [150, 150]
+    region:   temenos_c_5
+
+  16929153:
+    template: Temenos_Cryptonberry
+    level:    [150, 150]
+    region:   temenos_c_4
+
+  16929154:
+    template: Temenos_Cryptonberry
+    level:    [150, 150]
+    region:   temenos_c_4
+
+  16929155:
+    template: Cryptonberrys_Elemental
+    level:    [150, 150]
+    region:   temenos_c_4
+
+  16929156:
+    template: Temenos_Cryptonberry
+    level:    [150, 150]
+    region:   temenos_c_4
+
+  16929157:
+    template: Temenos_Ghrah
+    level:    [150, 150]
+    region:   temenos_c_4
+
+  16929158:
+    template: Temenos_Ghrah
+    level:    [150, 150]
+    region:   temenos_c_4
+
+  16929159:
+    template: Temenos_Ghrah
+    level:    [150, 150]
+    region:   temenos_c_4
+
+  16929160:
+    template: Temenos_Ghrah
+    level:    [150, 150]
+    region:   temenos_c_4
+
+  16929161:
+    template: Temenos_Ghrah
+    level:    [150, 150]
+    region:   temenos_c_4
+
+  16929162:
+    template: Temenos_Gigas
+    level:    [150, 150]
+    region:   temenos_c_4
+
+  16929163:
+    template: Temenos_Gigas
+    level:    [150, 150]
+    region:   temenos_c
+
+  16929164:
+    template: Temenos_Gigas
+    level:    [150, 150]
+    region:   temenos_c
+
+  16929165:
+    template: Temenos_Gigas
+    level:    [150, 150]
+    region:   temenos_c
+
+  16929166:
+    template: Temenos_Gigas
+    level:    [150, 150]
+    region:   temenos_c
+
+  16929167:
+    template: Temenos_Goblin
+    level:    [150, 150]
+    region:   temenos_c
+
+  16929168:
+    template: Temenos_Goblin
+    level:    [150, 150]
+    region:   temenos_c
+
+  16929169:
+    template: Temenos_Goblin
+    level:    [150, 150]
+    region:   temenos_c
+
+  16929170:
+    template: Temenos_Goblin
+    level:    [150, 150]
+    region:   temenos_c
+
+  16929171:
+    template: Temenos_Moblin
+    level:    [150, 150]
+    region:   temenos_c
+
+  16929172:
+    template: Temenos_Meeble
+    level:    [150, 150]
+    region:   temenos_c
+
+  16929173:
+    template: Temenos_Meeble
+    level:    [150, 150]
+    region:   temenos_w_15
+
+  16929174:
+    template: Temenos_Meeble
+    level:    [150, 150]
+    region:   temenos_w_15
+
+  16929175:
+    template: Temenos_Meeble
+    level:    [150, 150]
+    region:   temenos_w_15
+
+  16929176:
+    template: Temenos_Meeble
+    level:    [150, 150]
+    region:   temenos_w_15
+
+  16929177:
+    template: Temenos_Euvhi
+    level:    [150, 150]
+    region:   temenos_w_15
+
+  16929178:
+    template: Temenos_Euvhi
+    at:       [-258.677, -163.900, -420.853, 65]
+    level:    [150, 150]
+
+  16929179:
+    template: Temenos_Euvhi
+    level:    [150, 150]
+    region:   temenos_w_14
+
+  16929180:
+    template: Temenos_Euvhi
+    at:       [-258.686, -163.467, -422.336, 202]
+    level:    [150, 150]
+
+  16929181:
+    template: Temenos_Euvhi
+    at:       [-258.342, -163.838, -420.760, 66]
+    level:    [150, 150]
+
+  16929182:
+    template: Temenos_Aern
+    at:       [-272.104, -161.454, -433.205, 229]
+    level:    [150, 150]
+
+  16929183:
+    template: Temenos_Aern
+    level:    [150, 150]
+    region:   temenos_w_11
+
+  16929184:
+    template: Temenos_Aern
+    level:    [150, 150]
+    region:   temenos_w_11
+
+  16929185:
+    template: Temenos_Aern
+    level:    [150, 150]
+    region:   temenos_w_11
+
+  16929186:
+    template: Temenos_Aern
+    level:    [150, 150]
+    region:   temenos_w_11
+
+  16929187:
+    template: Temenos_Euvhi
+    level:    [150, 150]
+    region:   temenos_w_11
+
+  16929188:
+    template: Temenos_Euvhi
+    level:    [150, 150]
+    region:   temenos_w_10
+
+  16929189:
+    template: Temenos_Euvhi
+    level:    [150, 150]
+    region:   temenos_w_10
+
+  16929190:
+    template: Temenos_Euvhi
+    at:       [-300.733, -163.897, -419.435, 63]
+    level:    [150, 150]
+
+  16929191:
+    template: Temenos_Euvhi
+    level:    [150, 150]
+    region:   temenos_w_10
+
+  16929192:
+    template: Temenos_Pixie
+    level:    [150, 150]
+    region:   temenos_w_10
+
+  16929193:
+    template: Temenos_Pixie
+    level:    [150, 150]
+    region:   temenos_w_8
+
+  16929194:
+    template: Temenos_Pixie
+    level:    [150, 150]
+    region:   temenos_w_8
+
+  16929195:
+    template: Temenos_Pixie
+    level:    [150, 150]
+    region:   temenos_w_8
+
+  16929196:
+    template: Temenos_Pixie
+    level:    [150, 150]
+    region:   temenos_w_8
+
+  16929197:
+    template: Temenos_Unseelie
+    level:    [150, 150]
+    region:   temenos_w_8
+
+  16929198:
+    template: Temenos_Unseelie
+    level:    [150, 150]
+    region:   temenos_w_5
+
+  16929199:
+    template: Temenos_Unseelie
+    level:    [150, 150]
+    region:   temenos_w_5
+
+  16929200:
+    template: Temenos_Unseelie
+    level:    [150, 150]
+    region:   temenos_w_5
+
+  16929201:
+    template: Temenos_Unseelie
+    level:    [150, 150]
+    region:   temenos_w_5
+
+  16929202:
+    template: Temenos_Meeble
+    level:    [150, 150]
+    region:   temenos_w_5
+
+  16929203:
+    template: Temenos_Meeble
+    level:    [150, 150]
+    region:   temenos_w_5
+
+  16929204:
+    template: Temenos_Meeble
+    at:       [-340.168, -160.500, -427.748, 142]
+    level:    [150, 150]
+
+  16929205:
+    template: Temenos_Meeble
+    level:    [150, 150]
+    region:   temenos_w_5
+
+  16929206:
+    template: Temenos_Meeble
+    level:    [150, 150]
+    region:   temenos_w_5
+
+  16929207:
+    template: Temenos_Goblin
+    level:    [150, 150]
+    region:   temenos_w_5
+
+  16929208:
+    template: Temenos_Goblin
+    level:    [150, 150]
+    region:   temenos_w_5
+
+  16929209:
+    template: Temenos_Goblin
+    level:    [150, 150]
+    region:   temenos_w_5
+
+  16929210:
+    template: Temenos_Goblin
+    level:    [150, 150]
+    region:   temenos_w_5
+
+  16929211:
+    template: Temenos_Moblin
+    level:    [150, 150]
+    region:   temenos_w_5
+
+  16929212:
+    template: Temenos_Ghrah
+    level:    [150, 150]
+    region:   temenos_w_5
+
+  16929213:
+    template: Temenos_Ghrah
+    level:    [150, 150]
+    region:   temenos_w
+
+  16929214:
+    template: Temenos_Ghrah
+    level:    [150, 150]
+    region:   temenos_w
+
+  16929215:
+    template: Temenos_Ghrah
+    level:    [150, 150]
+    region:   temenos_w
+
+  16929216:
+    template: Temenos_Ghrah
+    level:    [150, 150]
+    region:   temenos_w
+
+  16929217:
+    template: Temenos_Gigas
+    level:    [150, 150]
+    region:   temenos_w
+
+  16929218:
+    template: Temenos_Gigas
+    at:       [-329.246, -160.500, -504.909, 67]
+    level:    [150, 150]
+
+  16929219:
+    template: Temenos_Gigas
+    level:    [150, 150]
+    region:   temenos_w_2
+
+  16929220:
+    template: Temenos_Gigas
+    at:       [-319.329, -160.500, -499.578, 24]
+    level:    [150, 150]
+
+  16929221:
+    template: Temenos_Gigas
+    level:    [150, 150]
+    region:   temenos_w_2
+
+  16929222:
+    template: Agoge
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [150, 150]
+
+  16929223:
+    template: Hesychasts
+    level:    [150, 150]
+    region:   temenos_w_2
+
+  16929224:
+    template: Piety
+    level:    [150, 150]
+    region:   temenos_w_2
+
+  16929225:
+    template: Archmages
+    level:    [150, 150]
+    region:   temenos_w_2
+
+  16929226:
+    template: Vitiation
+    level:    [150, 150]
+    region:   temenos_w_2
+
+  16929227:
+    template: Plunderers
+    level:    [150, 150]
+    region:   temenos_w_2
+
+  16929228:
+    template: Caballarius
+    level:    [150, 150]
+    region:   temenos_w
+
+  16929229:
+    template: Fallens
+    level:    [150, 150]
+    region:   temenos_w
+
+  16929230:
+    template: Ankusa
+    level:    [150, 150]
+    region:   temenos_w
+
+  16929231:
+    template: Bihu
+    level:    [150, 150]
+    region:   temenos_w
+
+  16929232:
+    template: Arcadian
+    level:    [150, 150]
+    region:   temenos_w
+
+  16929233:
+    template: Sakonji
+    level:    [150, 150]
+    region:   temenos_se
+
+  16929234:
+    template: Mochizuki
+    level:    [150, 150]
+    region:   temenos_se
+
+  16929235:
+    template: Pteroslaver
+    level:    [150, 150]
+    region:   temenos_se
+
+  16929236:
+    template: Glyphic
+    level:    [150, 150]
+    region:   temenos_se
+
+  16929237:
+    template: Glyphics_Avatar
+    level:    [150, 150]
+    region:   temenos_se
+
+  16929238:
+    template: Luhlaza
+    level:    [150, 150]
+    region:   temenos_se_3
+
+  16929239:
+    template: Lanun
+    level:    [150, 150]
+    region:   temenos_se_3
+
+  16929240:
+    template: Pitre
+    level:    [150, 150]
+    region:   temenos_se_3
+
+  16929241:
+    template: Horos
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [150, 150]
+
+  16929242:
+    template: Pedagogy
+    level:    [150, 150]
+    region:   temenos_se_3
+
+  16929243:
+    template: Bagua
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [150, 150]
+
+  16929244:
+    template: Baguas_Luopan
+    level:    [150, 150]
+    region:   temenos_se_4
+
+  16929245:
+    template: Baguas_Luopan
+    level:    [150, 150]
+    region:   temenos_se_4
+
+  16929246:
+    template: Baguas_Luopan
+    level:    [150, 150]
+    region:   temenos_se_5
+
+  16929247:
+    template: Baguas_Luopan
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [150, 150]
+
+  16929248:
+    template: Futhark
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [150, 150]
+
+  16929249:
+    template: Agrios_Aern
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [150, 150]
+
+  16929250:
+    template: Agrios_Ixion
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [150, 150]
+
+  16929251:
+    template: Agrios_Alicorn
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [150, 150]
+
+  16929252:
+    template: Pallikari_Mammet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [150, 150]
+
+  16929253:
+    template: Pallikari_Khrysokhimaira
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [150, 150]
+
+  16929254:
+    template: Pallikari_Ironclad
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [150, 150]
+
+  16929255:
+    template: Ultima_Forerunner
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [150, 150]
+
+  16929256:
+    template: Ultimas_Zisurru
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [150, 150]
+
+  16929257:
+    template: Ultimas_Zisurru
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [150, 150]
+
+  16929258:
+    template: Ultimas_Zisurru
+    level:    [150, 150]
+    region:   temenos_se_2
+
+  16929259:
+    template: Ultimas_Zisurru
+    level:    [150, 150]
+    region:   temenos_se_2
+
+  16929260:
+    template: Ultimas_Zisurru
+    level:    [150, 150]
+    region:   temenos_se_2
+
+  16929261:
+    template: Ultimas_Zisurru
+    level:    [150, 150]
+    region:   temenos_se_2
+
+  16929262:
+    template: Temenos_Hume_Echo
+    level:    [150, 150]
+    region:   temenos_se_2
+
+  16929263:
+    template: Temenos_Elvaan_Echo
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [150, 150]
+
+  16929264:
+    template: Temenos_Tarutaru_Echo
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [150, 150]
+
+  16929265:
+    template: Temenos_Mithra_Echo
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [150, 150]
+
+  16929266:
+    template: Mithras_Avatar
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [150, 150]
+
+  16929267:
+    template: Temenos_Galka_Echo
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [150, 150]

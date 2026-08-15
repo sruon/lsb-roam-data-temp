@@ -1,0 +1,2313 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17207297:
+    template: Snipper
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [20, 23]
+
+  17207298:
+    template: Land_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [20, 23]
+
+  17207299:
+    template: Cutter
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [28, 30]
+
+  17207300:
+    template: Greater_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [20, 23]
+
+  17207301:
+    template: Kraken
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [37, 40]
+
+  17207302:
+    template: Weeping_Willow
+    level:    [45, 45]
+    region:   batallia_downs_nw
+
+  17207303:
+    template: Sobbing_Sapling
+    at:       [-670.000, -23.000, 352.000, 127]
+    level:    [36, 38]
+
+  17207304:
+    template: Sobbing_Sapling
+    at:       [-670.000, -23.000, 352.000, 127]
+    level:    [36, 38]
+
+  17207305:
+    template: Sobbing_Sapling
+    at:       [-670.000, -23.000, 352.000, 127]
+    level:    [36, 38]
+
+  17207306:
+    template: Sobbing_Sapling
+    at:       [-670.000, -23.000, 352.000, 127]
+    level:    [36, 38]
+
+  17207307:
+    template: Sobbing_Sapling
+    at:       [-670.000, -23.000, 352.000, 127]
+    level:    [36, 38]
+
+  17207308:
+    template: Lumber_Jack
+    at:       [-670.000, -23.000, 352.000, 127]
+    level:    [55, 55]
+
+  17207309:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_c
+
+  17207310:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_c
+
+  17207311:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_c
+
+  17207312:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_c
+
+  17207313:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_c
+
+  17207314:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_c
+
+  17207315:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_c
+
+  17207316:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_c
+
+  17207317:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_c
+
+  17207318:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_c
+
+  17207319:
+    template: Mauthe_Doog
+    at:       [-372.827, -14.081, 10.748, 41]
+    level:    [31, 32]
+
+  17207320:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_c
+
+  17207321:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_c
+
+  17207322:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_c
+
+  17207323:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_c
+
+  17207324:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_c
+
+  17207325:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_c
+
+  17207326:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_c
+
+  17207327:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_c
+
+  17207328:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_c
+
+  17207329:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_c
+
+  17207330:
+    template: Mauthe_Doog
+    at:       [-296.567, -19.759, 5.115, 127]
+    level:    [31, 32]
+
+  17207331:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_c_4
+
+  17207332:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_c_4
+
+  17207333:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_c_4
+
+  17207334:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_c_4
+
+  17207335:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_c_4
+
+  17207336:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_c_4
+
+  17207337:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_c_4
+
+  17207338:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_c_4
+
+  17207339:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_c_4
+
+  17207340:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_c_4
+
+  17207341:
+    template: Mauthe_Doog
+    at:       [-215.882, -21.505, 60.215, 29]
+    level:    [31, 32]
+
+  17207342:
+    template: Evil_Spirit
+    at:       [-209.015, -4.200, 39.787, 127]
+    level:    [35, 36]
+
+  17207343:
+    template: Goblin_Mugger
+    level:    [26, 27]
+    region:   batallia_downs_c
+
+  17207344:
+    template: Goblin_Pathfinder
+    level:    [30, 31]
+    region:   batallia_downs_c
+
+  17207345:
+    template: Goblins_Dragonfly
+    level:    [23, 25]
+    region:   batallia_downs_c
+
+  17207346:
+    template: Goblin_Leecher
+    level:    [26, 27]
+    region:   batallia_downs_c
+
+  17207347:
+    template: Goblin_Furrier
+    level:    [30, 31]
+    region:   batallia_downs_c
+
+  17207348:
+    template: Goblin_Gambler
+    level:    [26, 27]
+    region:   batallia_downs_c
+
+  17207349:
+    template: Goblin_Smithy
+    level:    [30, 31]
+    region:   batallia_downs_c
+
+  17207350:
+    template: Goblin_Shaman
+    level:    [30, 31]
+    region:   batallia_downs_c
+
+  17207351:
+    template: Wight
+    at:       [-225.173, -35.449, -99.367, 119]
+    level:    [26, 32]
+
+  17207352:
+    template: Wight
+    at:       [-317.979, -21.608, -62.346, 31]
+    level:    [26, 32]
+
+  17207353:
+    template: Ignis_Fatuus
+    level:    [34, 35]
+    region:   batallia_downs_c_3
+
+  17207354:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_w
+
+  17207355:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_w
+
+  17207356:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_w
+
+  17207357:
+    template: Stalking_Sapling
+    level:    [23, 23]
+    region:   batallia_downs_w
+
+  17207358:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_w
+
+  17207359:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_w
+
+  17207360:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_w
+
+  17207361:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_w
+
+  17207362:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_w
+
+  17207363:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_w
+
+  17207364:
+    template: Mauthe_Doog
+    at:       [-534.931, -20.567, -27.813, 120]
+    level:    [31, 32]
+
+  17207365:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_w
+
+  17207366:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_w
+
+  17207367:
+    template: Stalking_Sapling
+    level:    [24, 24]
+    region:   batallia_downs_w
+
+  17207368:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_w
+
+  17207369:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_w
+
+  17207370:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_w
+
+  17207371:
+    template: Mauthe_Doog
+    at:       [-583.280, -15.389, 82.938, 23]
+    level:    [31, 32]
+
+  17207372:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_w
+
+  17207373:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_w
+
+  17207374:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_w
+
+  17207375:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_w
+
+  17207376:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_w
+
+  17207377:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_w
+
+  17207378:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_w
+
+  17207379:
+    template: Mauthe_Doog
+    at:       [-653.519, -21.142, 174.410, 16]
+    level:    [31, 32]
+
+  17207380:
+    template: Goblin_Mugger
+    level:    [26, 27]
+    region:   batallia_downs_w
+
+  17207381:
+    template: Goblin_Pathfinder
+    level:    [30, 31]
+    region:   batallia_downs_w
+
+  17207382:
+    template: Goblins_Dragonfly
+    level:    [23, 25]
+    region:   batallia_downs_w
+
+  17207383:
+    template: Goblin_Leecher
+    level:    [26, 27]
+    region:   batallia_downs_w
+
+  17207384:
+    template: Goblin_Furrier
+    level:    [30, 31]
+    region:   batallia_downs_w
+
+  17207385:
+    template: Goblin_Gambler
+    level:    [26, 27]
+    region:   batallia_downs_w
+
+  17207386:
+    template: Goblin_Smithy
+    level:    [30, 31]
+    region:   batallia_downs_w
+
+  17207387:
+    template: Goblin_Shaman
+    level:    [30, 31]
+    region:   batallia_downs_w
+
+  17207388:
+    template: Wight
+    at:       [-512.256, -24.897, -52.702, 81]
+    level:    [26, 32]
+
+  17207389:
+    template: Wight
+    at:       [-712.999, -16.617, 125.180, 92]
+    level:    [26, 32]
+
+  17207390:
+    template: Earth_Elemental
+    level:    [38, 40]
+    region:   batallia_downs_w
+
+  17207391:
+    template: Goblin_Furrier
+    at:       [-457.282, -15.717, -93.748, 127]
+    level:    [30, 31]
+
+  17207392:
+    template: Goblin_Smithy
+    at:       [-459.340, -15.765, -88.176, 54]
+    level:    [30, 31]
+
+  17207393:
+    template: Goblin_Shaman
+    at:       [-460.460, -16.276, -99.022, 14]
+    level:    [30, 31]
+
+  17207394:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_nw_3
+
+  17207395:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_nw_3
+
+  17207396:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_nw_3
+
+  17207397:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_nw_3
+
+  17207398:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_nw_3
+
+  17207399:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_nw_3
+
+  17207400:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_nw_3
+
+  17207401:
+    template: Mauthe_Doog
+    at:       [-493.853, -16.205, 212.750, 127]
+    level:    [31, 32]
+
+  17207402:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_nw_3
+
+  17207403:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_nw_3
+
+  17207404:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_nw_3
+
+  17207405:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_nw_3
+
+  17207406:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_nw_3
+
+  17207407:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_nw_3
+
+  17207408:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_nw_3
+
+  17207409:
+    template: Mauthe_Doog
+    at:       [-354.006, -14.066, 216.305, 127]
+    level:    [31, 32]
+
+  17207410:
+    template: Skirling_Liger
+    level:    [42, 43]
+    region:   batallia_downs_nw_3
+
+  17207411:
+    template: Evil_Spirit
+    at:       [-358.742, -12.200, 169.096, 127]
+    level:    [35, 36]
+
+  17207412:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_nw_3
+
+  17207413:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_nw_3
+
+  17207414:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_nw_3
+
+  17207415:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_nw_3
+
+  17207416:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_nw_3
+
+  17207417:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_nw_3
+
+  17207418:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_nw_3
+
+  17207419:
+    template: Mauthe_Doog
+    at:       [-273.072, -15.422, 399.232, 116]
+    level:    [31, 32]
+
+  17207420:
+    template: Orcish_Fighter
+    level:    [26, 27]
+    region:   batallia_downs_nw_3
+
+  17207421:
+    template: Orcish_Impaler
+    level:    [30, 31]
+    region:   batallia_downs_nw_3
+
+  17207422:
+    template: Orcish_Beastrider
+    level:    [30, 31]
+    region:   batallia_downs_nw_3
+
+  17207423:
+    template: Orcish_Nightraider
+    level:    [30, 31]
+    region:   batallia_downs_nw_3
+
+  17207424:
+    template: Orcish_Cursemaker
+    level:    [26, 27]
+    region:   batallia_downs_nw_3
+
+  17207425:
+    template: Orcish_Serjeant
+    level:    [26, 27]
+    region:   batallia_downs_nw_3
+
+  17207426:
+    template: Orcish_Brawler
+    at:       [-367.261, -16.106, 271.735, 15]
+    level:    [30, 31]
+
+  17207427:
+    template: Goblin_Mugger
+    level:    [26, 27]
+    region:   batallia_downs_nw_3
+
+  17207428:
+    template: Goblin_Pathfinder
+    level:    [30, 31]
+    region:   batallia_downs_nw_3
+
+  17207429:
+    template: Goblins_Dragonfly
+    level:    [23, 25]
+    region:   batallia_downs_nw_3
+
+  17207430:
+    template: Goblin_Leecher
+    level:    [26, 27]
+    region:   batallia_downs_nw_3
+
+  17207431:
+    template: Goblin_Furrier
+    at:       [-448.950, -14.149, 99.818, 127]
+    level:    [30, 31]
+
+  17207432:
+    template: Goblin_Gambler
+    level:    [26, 27]
+    region:   batallia_downs_nw_3
+
+  17207433:
+    template: Goblin_Smithy
+    at:       [-368.028, -15.730, 226.336, 117]
+    level:    [30, 31]
+
+  17207434:
+    template: Goblin_Shaman
+    level:    [30, 31]
+    region:   batallia_downs_nw_3
+
+  17207435:
+    template: Wight
+    at:       [-312.745, -15.894, 121.672, 48]
+    level:    [26, 32]
+
+  17207436:
+    template: Wight
+    at:       [-355.105, -16.033, 73.755, 127]
+    level:    [26, 32]
+
+  17207437:
+    template: Wight
+    at:       [-350.582, -15.672, 235.707, 117]
+    level:    [26, 32]
+
+  17207438:
+    template: Wight
+    at:       [-405.325, -17.278, 143.939, 192]
+    level:    [26, 32]
+
+  17207439:
+    template: Earth_Elemental
+    level:    [38, 40]
+    region:   batallia_downs_nw_3
+
+  17207440:
+    template: Orcish_Impaler
+    at:       [-349.935, -15.665, 256.478, 127]
+    level:    [30, 31]
+
+  17207441:
+    template: Orcish_Beastrider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [30, 31]
+
+  17207442:
+    template: Orcish_Nightraider
+    at:       [-344.000, -15.000, 252.000, 34]
+    level:    [30, 31]
+
+  17207443:
+    template: Orcish_Brawler
+    at:       [-344.625, -15.942, 255.723, 33]
+    level:    [30, 31]
+
+  17207444:
+    template: Goblin_Furrier
+    at:       [-380.918, -16.254, 102.267, 8]
+    level:    [30, 31]
+
+  17207445:
+    template: Goblin_Smithy
+    at:       [-385.019, -15.724, 101.838, 36]
+    level:    [30, 31]
+
+  17207446:
+    template: Goblin_Shaman
+    at:       [-382.000, -15.000, 106.000, 127]
+    level:    [30, 31]
+
+  17207447:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_n_2
+
+  17207448:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_n_2
+
+  17207449:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_n_2
+
+  17207450:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_n_2
+
+  17207451:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_n_2
+
+  17207452:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_n_2
+
+  17207453:
+    template: Mauthe_Doog
+    at:       [-297.336, -7.993, 94.787, 110]
+    level:    [31, 32]
+
+  17207454:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_n
+
+  17207455:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_n
+
+  17207456:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_n
+
+  17207457:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_n
+
+  17207458:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_n
+
+  17207459:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_n
+
+  17207460:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_n
+
+  17207461:
+    template: Mauthe_Doog
+    at:       [-160.211, 0.239, 310.123, 127]
+    level:    [31, 32]
+
+  17207462:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_n_3
+
+  17207463:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_n_3
+
+  17207464:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_n_3
+
+  17207465:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_n_3
+
+  17207466:
+    template: Orcish_Fighter
+    at:       [-194.696, -1.280, 238.555, 94]
+    level:    [26, 27]
+
+  17207467:
+    template: Orcish_Impaler
+    level:    [30, 31]
+    region:   batallia_downs_n
+
+  17207468:
+    template: Orcish_Beastrider
+    level:    [30, 31]
+    region:   batallia_downs_n
+
+  17207469:
+    template: Orcish_Nightraider
+    level:    [30, 31]
+    region:   batallia_downs_n
+
+  17207470:
+    template: Orcish_Cursemaker
+    level:    [26, 27]
+    region:   batallia_downs_n
+
+  17207471:
+    template: Orcish_Serjeant
+    level:    [26, 27]
+    region:   batallia_downs_n
+
+  17207472:
+    template: Orcish_Brawler
+    level:    [30, 31]
+    region:   batallia_downs_n
+
+  17207473:
+    template: Wight
+    at:       [-158.502, -2.097, 227.833, 133]
+    level:    [26, 32]
+
+  17207474:
+    template: Wight
+    at:       [-271.266, -7.665, 92.827, 193]
+    level:    [26, 32]
+
+  17207475:
+    template: Ice_Elemental
+    at:       [-287.589, -7.776, 267.616, 127]
+    level:    [38, 40]
+
+  17207476:
+    template: Tottering_Toby
+    at:       [-255.542, -7.872, 185.826, 64]
+    level:    [27, 28]
+
+  17207477:
+    template: Orcish_Fighter
+    at:       [-135.000, -1.000, 306.000, 84]
+    level:    [26, 27]
+
+  17207478:
+    template: Orcish_Cursemaker
+    at:       [-140.461, -2.034, 304.404, 82]
+    level:    [26, 27]
+
+  17207479:
+    template: Orcish_Serjeant
+    at:       [-136.141, -2.335, 302.232, 70]
+    level:    [26, 27]
+
+  17207480:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_n_5
+
+  17207481:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_n_5
+
+  17207482:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_n_5
+
+  17207483:
+    template: Treant
+    level:    [36, 37]
+    region:   batallia_downs_n_5
+
+  17207484:
+    template: Ba
+    level:    [27, 28]
+    region:   batallia_downs_c_6
+
+  17207485:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_c_6
+
+  17207486:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_c_6
+
+  17207487:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_c_6
+
+  17207488:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_c_6
+
+  17207489:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_c_6
+
+  17207490:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_c_6
+
+  17207491:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_c_6
+
+  17207492:
+    template: Mauthe_Doog
+    at:       [-125.802, -20.425, -18.400, 127]
+    level:    [31, 32]
+
+  17207493:
+    template: Ba
+    level:    [27, 28]
+    region:   batallia_downs_c_5
+
+  17207494:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_c_5
+
+  17207495:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_c_5
+
+  17207496:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_c_5
+
+  17207497:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_c_5
+
+  17207498:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_c_5
+
+  17207499:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_c_5
+
+  17207500:
+    template: Mauthe_Doog
+    at:       [-19.493, -8.294, 9.690, 119]
+    level:    [31, 32]
+
+  17207501:
+    template: Evil_Spirit
+    at:       [-87.610, -4.200, -76.529, 100]
+    level:    [35, 36]
+
+  17207502:
+    template: Evil_Spirit
+    at:       [-41.392, -4.199, -46.433, 90]
+    level:    [35, 36]
+
+  17207503:
+    template: Ba
+    level:    [27, 28]
+    region:   batallia_downs_c_7
+
+  17207504:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_c_7
+
+  17207505:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_c_7
+
+  17207506:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_c_7
+
+  17207507:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_c_7
+
+  17207508:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_c_7
+
+  17207509:
+    template: Mauthe_Doog
+    at:       [-149.951, -22.071, -116.049, 127]
+    level:    [31, 32]
+
+  17207510:
+    template: Goblin_Mugger
+    level:    [26, 27]
+    region:   batallia_downs_c_5
+
+  17207511:
+    template: Goblin_Pathfinder
+    level:    [30, 31]
+    region:   batallia_downs_c_5
+
+  17207512:
+    template: Goblins_Dragonfly
+    level:    [23, 25]
+    region:   batallia_downs_c_5
+
+  17207513:
+    template: Goblin_Leecher
+    level:    [26, 27]
+    region:   batallia_downs_c_5
+
+  17207514:
+    template: Goblin_Furrier
+    level:    [30, 31]
+    region:   batallia_downs_c_5
+
+  17207515:
+    template: Goblin_Gambler
+    level:    [26, 27]
+    region:   batallia_downs_c_5
+
+  17207516:
+    template: Goblin_Smithy
+    level:    [30, 31]
+    region:   batallia_downs_c_5
+
+  17207517:
+    template: Goblin_Shaman
+    level:    [30, 31]
+    region:   batallia_downs_c_5
+
+  17207518:
+    template: Wight
+    at:       [-101.580, -7.548, -121.676, 90]
+    level:    [26, 32]
+
+  17207519:
+    template: Wight
+    at:       [-36.178, -6.963, 8.459, 53]
+    level:    [26, 32]
+
+  17207520:
+    template: Earth_Elemental
+    level:    [38, 40]
+    region:   batallia_downs_c_5
+
+  17207521:
+    template: Ba
+    level:    [27, 28]
+    region:   batallia_downs_n_6
+
+  17207522:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_n_6
+
+  17207523:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_n_6
+
+  17207524:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_n_6
+
+  17207525:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_n_6
+
+  17207526:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_n_6
+
+  17207527:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_n_6
+
+  17207528:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_n_6
+
+  17207529:
+    template: Mauthe_Doog
+    at:       [7.559, 0.174, 91.985, 110]
+    level:    [31, 32]
+
+  17207530:
+    template: Ba
+    level:    [27, 28]
+    region:   batallia_downs_n_6
+
+  17207531:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_n_6
+
+  17207532:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_n_6
+
+  17207533:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_n_6
+
+  17207534:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_n_6
+
+  17207535:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_n_6
+
+  17207536:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_n_6
+
+  17207537:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_n_6
+
+  17207538:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_n_6
+
+  17207539:
+    template: Mauthe_Doog
+    level:    [31, 32]
+    region:   batallia_downs_n_6
+
+  17207540:
+    template: Evil_Spirit
+    at:       [-15.644, 3.800, 301.852, 127]
+    level:    [35, 36]
+
+  17207541:
+    template: Ba
+    level:    [27, 28]
+    region:   batallia_downs_n_6
+
+  17207542:
+    template: Ba
+    level:    [27, 28]
+    region:   batallia_downs_n_6
+
+  17207543:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_n_6
+
+  17207544:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_n_6
+
+  17207545:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_n_6
+
+  17207546:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_n_6
+
+  17207547:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_n_6
+
+  17207548:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_n_6
+
+  17207549:
+    template: Mauthe_Doog
+    at:       [76.969, -13.122, 157.650, 127]
+    level:    [31, 32]
+
+  17207550:
+    template: Orcish_Fighter
+    level:    [26, 27]
+    region:   batallia_downs_n_6
+
+  17207551:
+    template: Orcish_Impaler
+    level:    [30, 31]
+    region:   batallia_downs_n_6
+
+  17207552:
+    template: Orcish_Beastrider
+    level:    [30, 31]
+    region:   batallia_downs_n_6
+
+  17207553:
+    template: Orcish_Nightraider
+    level:    [30, 31]
+    region:   batallia_downs_n_6
+
+  17207554:
+    template: Orcish_Cursemaker
+    level:    [26, 27]
+    region:   batallia_downs_n_6
+
+  17207555:
+    template: Orcish_Serjeant
+    level:    [26, 27]
+    region:   batallia_downs_n_6
+
+  17207556:
+    template: Orcish_Brawler
+    level:    [30, 31]
+    region:   batallia_downs_n_6
+
+  17207557:
+    template: Wight
+    level:    [26, 32]
+    region:   batallia_downs_n_7
+
+  17207558:
+    template: Wight
+    at:       [-73.646, 0.774, 101.020, 127]
+    level:    [26, 32]
+
+  17207559:
+    template: Ignis_Fatuus
+    level:    [34, 36]
+    region:   batallia_downs_n_8
+
+  17207560:
+    template: Ba
+    level:    [27, 28]
+    region:   batallia_downs_ne
+
+  17207561:
+    template: Ba
+    level:    [27, 28]
+    region:   batallia_downs_ne
+
+  17207562:
+    template: Ba
+    level:    [27, 28]
+    region:   batallia_downs_ne
+
+  17207563:
+    template: Ba
+    level:    [27, 28]
+    region:   batallia_downs_ne
+
+  17207564:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_ne
+
+  17207565:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_ne
+
+  17207566:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_ne
+
+  17207567:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_ne
+
+  17207568:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_ne
+
+  17207569:
+    template: Mauthe_Doog
+    at:       [97.134, 9.954, 289.177, 55]
+    level:    [31, 32]
+
+  17207570:
+    template: Ba
+    level:    [27, 28]
+    region:   batallia_downs_ne
+
+  17207571:
+    template: Ba
+    level:    [27, 28]
+    region:   batallia_downs_ne
+
+  17207572:
+    template: Ba
+    level:    [27, 28]
+    region:   batallia_downs_ne
+
+  17207573:
+    template: Ba
+    level:    [27, 28]
+    region:   batallia_downs_ne
+
+  17207574:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_ne
+
+  17207575:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_ne
+
+  17207576:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_ne
+
+  17207577:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_ne
+
+  17207578:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_ne
+
+  17207579:
+    template: Mauthe_Doog
+    at:       [245.778, 8.461, 38.333, 66]
+    level:    [31, 32]
+
+  17207580:
+    template: Ba
+    level:    [27, 28]
+    region:   batallia_downs_ne_2
+
+  17207581:
+    template: Ba
+    level:    [27, 28]
+    region:   batallia_downs_ne_2
+
+  17207582:
+    template: Ba
+    level:    [27, 28]
+    region:   batallia_downs_ne_2
+
+  17207583:
+    template: Clipper
+    level:    [24, 25]
+    region:   batallia_downs_ne_2
+
+  17207584:
+    template: Clipper
+    level:    [24, 25]
+    region:   batallia_downs_ne_2
+
+  17207585:
+    template: Clipper
+    level:    [24, 25]
+    region:   batallia_downs_ne_2
+
+  17207586:
+    template: Clipper
+    level:    [24, 25]
+    region:   batallia_downs_ne_2
+
+  17207587:
+    template: Clipper
+    level:    [24, 25]
+    region:   batallia_downs_ne_2
+
+  17207588:
+    template: Clipper
+    level:    [24, 25]
+    region:   batallia_downs_ne_2
+
+  17207589:
+    template: Ice_Elemental
+    at:       [380.161, 7.038, 116.525, 102]
+    level:    [38, 40]
+
+  17207590:
+    template: Orcish_Fighter
+    level:    [26, 27]
+    region:   batallia_downs_ne
+
+  17207591:
+    template: Orcish_Impaler
+    level:    [30, 31]
+    region:   batallia_downs_ne
+
+  17207592:
+    template: Orcish_Beastrider
+    level:    [30, 31]
+    region:   batallia_downs_ne
+
+  17207593:
+    template: Orcish_Nightraider
+    level:    [30, 31]
+    region:   batallia_downs_ne
+
+  17207594:
+    template: Orcish_Cursemaker
+    level:    [26, 27]
+    region:   batallia_downs_ne
+
+  17207595:
+    template: Orcish_Serjeant
+    level:    [26, 27]
+    region:   batallia_downs_ne
+
+  17207596:
+    template: Orcish_Brawler
+    level:    [30, 31]
+    region:   batallia_downs_ne
+
+  17207597:
+    template: Wight
+    at:       [83.356, 2.038, 222.500, 1]
+    level:    [26, 32]
+
+  17207598:
+    template: Wight
+    level:    [26, 32]
+    region:   batallia_downs_ne_7
+
+  17207599:
+    template: Ba
+    level:    [27, 28]
+    region:   batallia_downs_e
+
+  17207600:
+    template: Ba
+    level:    [27, 28]
+    region:   batallia_downs_e
+
+  17207601:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_e
+
+  17207602:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_e
+
+  17207603:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_e
+
+  17207604:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_e
+
+  17207605:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_e
+
+  17207606:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_e
+
+  17207607:
+    template: Mauthe_Doog
+    at:       [241.633, 6.130, -36.608, 26]
+    level:    [31, 32]
+
+  17207608:
+    template: Eyegouger
+    at:       [177.300, -2.100, -54.540, 60]
+    level:    [46, 46]
+
+  17207609:
+    template: Evil_Spirit
+    at:       [79.883, 3.799, -200.221, 123]
+    level:    [35, 36]
+
+  17207610:
+    template: Evil_Spirit
+    at:       [197.963, 11.795, -42.483, 70]
+    level:    [35, 36]
+
+  17207611:
+    template: Ba
+    level:    [27, 28]
+    region:   batallia_downs_e
+
+  17207612:
+    template: Ba
+    level:    [27, 28]
+    region:   batallia_downs_e
+
+  17207613:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_e
+
+  17207614:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_e
+
+  17207615:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_e
+
+  17207616:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_e
+
+  17207617:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_e
+
+  17207618:
+    template: Ba
+    level:    [27, 28]
+    region:   batallia_downs_se_3
+
+  17207619:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_se_3
+
+  17207620:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_se_3
+
+  17207621:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_se_3
+
+  17207622:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_se_3
+
+  17207623:
+    template: Goblin_Mugger
+    level:    [26, 27]
+    region:   batallia_downs_e
+
+  17207624:
+    template: Goblin_Pathfinder
+    level:    [30, 31]
+    region:   batallia_downs_e
+
+  17207625:
+    template: Goblins_Dragonfly
+    level:    [23, 25]
+    region:   batallia_downs_e
+
+  17207626:
+    template: Goblin_Leecher
+    level:    [26, 27]
+    region:   batallia_downs_e
+
+  17207627:
+    template: Goblin_Furrier
+    level:    [30, 31]
+    region:   batallia_downs_e
+
+  17207628:
+    template: Goblin_Gambler
+    level:    [26, 27]
+    region:   batallia_downs_e
+
+  17207629:
+    template: Goblin_Smithy
+    level:    [30, 31]
+    region:   batallia_downs_e
+
+  17207630:
+    template: Goblin_Shaman
+    level:    [30, 31]
+    region:   batallia_downs_e
+
+  17207631:
+    template: Ignis_Fatuus
+    level:    [34, 36]
+    region:   batallia_downs_e_2
+
+  17207632:
+    template: Goblin_Furrier
+    at:       [377.113, 7.714, -99.702, 85]
+    level:    [30, 31]
+
+  17207633:
+    template: Goblin_Smithy
+    at:       [378.000, 8.000, -107.000, 127]
+    level:    [30, 31]
+
+  17207634:
+    template: Goblin_Shaman
+    at:       [376.587, 7.715, -99.686, 123]
+    level:    [30, 31]
+
+  17207635:
+    template: Evil_Weapon
+    level:    [37, 38]
+    region:   batallia_downs_se_2
+
+  17207636:
+    template: Evil_Weapon
+    level:    [37, 38]
+    region:   batallia_downs_se_2
+
+  17207637:
+    template: Evil_Weapon
+    level:    [37, 38]
+    region:   batallia_downs_se_2
+
+  17207638:
+    template: Evil_Weapon
+    level:    [37, 38]
+    region:   batallia_downs_se_2
+
+  17207639:
+    template: Evil_Weapon
+    level:    [37, 38]
+    region:   batallia_downs_se_2
+
+  17207640:
+    template: Prankster_Maverix
+    at:       [159.000, 7.500, -314.000, 60]
+    level:    [51, 52]
+
+  17207641:
+    template: Ba
+    level:    [27, 28]
+    region:   batallia_downs_se
+
+  17207642:
+    template: Ba
+    level:    [27, 28]
+    region:   batallia_downs_se
+
+  17207643:
+    template: Ba
+    level:    [27, 28]
+    region:   batallia_downs_se
+
+  17207644:
+    template: Clipper
+    level:    [24, 25]
+    region:   batallia_downs_se
+
+  17207645:
+    template: Clipper
+    level:    [24, 25]
+    region:   batallia_downs_se
+
+  17207646:
+    template: Clipper
+    level:    [24, 25]
+    region:   batallia_downs_se
+
+  17207647:
+    template: Clipper
+    level:    [24, 25]
+    region:   batallia_downs_se
+
+  17207648:
+    template: Clipper
+    level:    [24, 25]
+    region:   batallia_downs_se
+
+  17207649:
+    template: Goblin_Pathfinder
+    level:    [30, 31]
+    region:   batallia_downs_se
+
+  17207650:
+    template: Goblins_Dragonfly
+    level:    [23, 25]
+    region:   batallia_downs_se
+
+  17207651:
+    template: Goblin_Furrier
+    level:    [30, 31]
+    region:   batallia_downs_se
+
+  17207652:
+    template: Goblin_Smithy
+    level:    [30, 31]
+    region:   batallia_downs_se
+
+  17207653:
+    template: Goblin_Shaman
+    level:    [30, 31]
+    region:   batallia_downs_se
+
+  17207654:
+    template: Wight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [26, 32]
+
+  17207655:
+    template: Wight
+    at:       [272.070, 7.847, -363.923, 127]
+    level:    [26, 32]
+
+  17207656:
+    template: Ice_Elemental
+    at:       [105.596, 4.769, -404.876, 62]
+    level:    [38, 40]
+
+  17207657:
+    template: Ahtu
+    level:    [51, 52]
+    region:   batallia_downs_se_8
+
+  17207658:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_nw_2
+
+  17207659:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_nw_2
+
+  17207660:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_nw_2
+
+  17207661:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_nw_2
+
+  17207662:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_nw_2
+
+  17207663:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_nw_2
+
+  17207664:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_nw_2
+
+  17207665:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_nw_2
+
+  17207666:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_nw_2
+
+  17207667:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_nw_2
+
+  17207668:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_nw_2
+
+  17207669:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_nw_2
+
+  17207670:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_nw_2
+
+  17207671:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_nw_2
+
+  17207672:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_nw_2
+
+  17207673:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_nw_2
+
+  17207674:
+    template: May_Fly
+    level:    [25, 26]
+    region:   batallia_downs_nw_2
+
+  17207675:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_nw_2
+
+  17207676:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_nw_2
+
+  17207677:
+    template: Stalking_Sapling
+    level:    [23, 24]
+    region:   batallia_downs_nw_2
+
+  17207678:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_nw_2
+
+  17207679:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_nw_2
+
+  17207680:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   batallia_downs_nw_2
+
+  17207681:
+    template: Goblin_Pathfinder
+    level:    [30, 31]
+    region:   batallia_downs_nw_2
+
+  17207682:
+    template: Goblins_Dragonfly
+    level:    [23, 25]
+    region:   batallia_downs_nw_2
+
+  17207683:
+    template: Goblin_Furrier
+    level:    [30, 31]
+    region:   batallia_downs_nw_2
+
+  17207684:
+    template: Goblin_Smithy
+    level:    [30, 31]
+    region:   batallia_downs_nw_2
+
+  17207685:
+    template: Goblin_Shaman
+    level:    [30, 31]
+    region:   batallia_downs_nw_2
+
+  17207686:
+    template: Goblin_Pathfinder
+    level:    [30, 31]
+    region:   batallia_downs_nw_2
+
+  17207687:
+    template: Goblins_Dragonfly
+    level:    [23, 25]
+    region:   batallia_downs_nw_2
+
+  17207688:
+    template: Goblin_Furrier
+    level:    [30, 31]
+    region:   batallia_downs_nw_2
+
+  17207689:
+    template: Goblin_Smithy
+    level:    [30, 31]
+    region:   batallia_downs_nw_2
+
+  17207690:
+    template: Goblin_Shaman
+    level:    [30, 31]
+    region:   batallia_downs_nw_2
+
+  17207691:
+    template: Wight
+    level:    [26, 32]
+    region:   batallia_downs_nw_2
+
+  17207692:
+    template: Wight
+    level:    [26, 32]
+    region:   batallia_downs_nw_2
+
+  17207693:
+    template: Ignis_Fatuus
+    level:    [34, 36]
+    region:   batallia_downs_nw_4
+
+  17207694:
+    template: Treant
+    level:    [36, 37]
+    region:   batallia_downs_nw
+
+  17207695:
+    template: Goblin_Digger
+    level:    [28, 29]
+    region:   batallia_downs_n_4
+
+  17207696:
+    template: Sturmtiger
+    at:       [145.373, 16.462, -548.560, 0]
+    level:    [52, 52]
+
+  17207697:
+    template: Suparna
+    at:       [210.000, 15.000, -606.000, 45]
+    level:    [72, 72]
+
+  17207698:
+    template: Suparna_Fledgling
+    at:       [215.000, 16.000, -608.000, 80]
+    level:    [68, 68]
+
+  17207699:
+    template: Badshah
+    at:       [-45.625, -9.124, 310.523, 9]
+    level:    [43, 44]
+
+  17207700:
+    template: Badshah
+    at:       [-38.152, -10.343, 311.543, 94]
+    level:    [43, 44]
+
+  17207701:
+    template: Badshah
+    at:       [-38.840, -10.094, 312.965, 82]
+    level:    [43, 44]
+
+  17207702:
+    template: Badshah
+    at:       [-40.044, -9.854, 313.352, 64]
+    level:    [43, 44]
+
+  17207703:
+    template: Badshah
+    at:       [-37.948, -10.254, 312.063, 93]
+    level:    [43, 44]
+
+  17207704:
+    template: Sprite
+    level:    [51, 54]
+    region:   batallia_downs_w_3
+
+  17207705:
+    template: Sprite
+    level:    [51, 54]
+    region:   batallia_downs_c_8
+
+  17207706:
+    template: Sprite
+    level:    [51, 54]
+    region:   batallia_downs_c_9
+
+  17207707:
+    template: Sprite
+    level:    [51, 54]
+    region:   batallia_downs_c_2
+
+  17207708:
+    template: Sprite
+    level:    [51, 54]
+    region:   batallia_downs_w_2
+
+  17207709:
+    template: Lanky_Lenglen
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [26, 36]
+
+  17207710:
+    template: Vegnix_Greenthumb
+    at:       [-407.526, -23.507, 412.544, 0]
+    level:    [26, 36]
+
+  17207711:
+    template: Yilbegan
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [90, 92]
+
+  17207712:
+    template: Verthandi
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [85, 85]
+
+  17207713:
+    template: Urd
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [82, 82]
+
+  17207714:
+    template: Skuld
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [82, 82]
+
+  17207715:
+    template: Aither
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17207716:
+    template: Deorc
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17207717:
+    template: Eorthe
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17207718:
+    template: Puretos
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17207719:
+    template: Pruina
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17207720:
+    template: Beorht
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17207721:
+    template: Thunor
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17207722:
+    template: Lacus
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17207723:
+    template: Cherufe
+    at:       [78.397, 7.192, -274.576, 63]
+    level:    [93, 94]
+
+  17207724:
+    template: Cherufe
+    at:       [286.496, 7.404, -376.652, 74]
+    level:    [93, 94]
+
+  17207725:
+    template: Cherufe
+    at:       [-320.000, -16.500, -42.000, 0]
+    level:    [93, 94]
+
+  17207726:
+    template: Lumber_Jill
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17207727:
+    template: Lumber_Jill
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17207728:
+    template: Lumber_Jill
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17207738:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17207739:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17207740:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17207750:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17207751:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17207752:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17207762:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17207763:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17207764:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17207765:
+    template: Tatenashi_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17207766:
+    template: Hizamaru_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17207767:
+    template: Ubuginu_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17207768:
+    template: Hachiryu_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17207769:
+    template: Omodaka_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17207770:
+    template: Goblin_Bounty_Hunter
+    level:    [30, 36]
+    region:   batallia_downs_ne_9
+
+  17207771:
+    template: Goblin_Bounty_Hunter
+    level:    [30, 36]
+    region:   batallia_downs_ne_8
+
+  17207772:
+    template: Goblin_Bounty_Hunter
+    level:    [30, 36]
+    region:   batallia_downs_ne_6
+
+  17207773:
+    template: Goblin_Bounty_Hunter
+    level:    [30, 36]
+    region:   batallia_downs_ne_5
+
+  17207774:
+    template: Goblin_Bounty_Hunter
+    level:    [30, 36]
+    region:   batallia_downs_ne_3
+
+  17207775:
+    template: Goblin_Bounty_Hunter
+    level:    [30, 36]
+    region:   batallia_downs_ne_4
+
+  17207776:
+    template: Goblin_Bounty_Hunter
+    level:    [30, 36]
+    region:   batallia_downs_se_7
+
+  17207777:
+    template: Goblin_Bounty_Hunter
+    level:    [30, 36]
+    region:   batallia_downs_se_5
+
+  17207778:
+    template: Goblin_Bounty_Hunter
+    level:    [30, 36]
+    region:   batallia_downs_se_4
+
+  17207779:
+    template: Goblin_Bounty_Hunter
+    level:    [30, 36]
+    region:   batallia_downs_s
+
+  17207780:
+    template: Goblin_Bounty_Hunter
+    level:    [30, 36]
+    region:   batallia_downs_se_6
+
+  17207781:
+    template: Goblin_Bounty_Hunter
+    level:    [30, 36]
+    region:   batallia_downs_se_10
+
+  17207782:
+    template: Goblin_Bounty_Hunter
+    level:    [30, 36]
+    region:   batallia_downs_se_9
+
+  17207785:
+    template: Awoken_Freke
+    at:       [233.000, 7.000, 76.000, 45]
+    level:    [119, 119]
+
+  17207786:
+    template: Macro_Test
+    at:       [430.000, 7.737, -155.380, 250]
+    level:    [1, 1]
+
+  17207787:
+    template: Macro_Test
+    at:       [430.720, 7.763, -159.580, 250]
+    level:    [1, 1]

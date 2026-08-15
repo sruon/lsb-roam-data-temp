@@ -1,0 +1,1198 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17276929:
+    template: Mokkurkalfi
+    at:       [104.729, -4.143, -115.265, 215]
+    level:    [68, 70]
+
+  17276930:
+    template: Mokkurkalfi
+    at:       [101.918, -4.000, -115.265, 215]
+    level:    [68, 70]
+
+  17276931:
+    template: Killing_Weapon
+    level:    [60, 64]
+    region:   romaeve_s_4
+
+  17276932:
+    template: Killing_Weapon
+    level:    [60, 64]
+    region:   romaeve_s_3
+
+  17276933:
+    template: Ominous_Weapon
+    level:    [61, 65]
+    region:   romaeve_s_6
+
+  17276934:
+    template: Killing_Weapon
+    level:    [60, 64]
+    region:   romaeve_s
+
+  17276935:
+    template: Ominous_Weapon
+    level:    [61, 65]
+    region:   romaeve_s
+
+  17276936:
+    template: Cursed_Puppet
+    level:    [65, 69]
+    region:   romaeve_s
+
+  17276937:
+    template: Killing_Weapon
+    level:    [60, 64]
+    region:   romaeve_s_5
+
+  17276938:
+    template: Ominous_Weapon
+    level:    [61, 65]
+    region:   romaeve_s_5
+
+  17276939:
+    template: Cursed_Puppet
+    level:    [65, 69]
+    region:   romaeve_s_5
+
+  17276940:
+    template: Killing_Weapon
+    level:    [60, 64]
+    region:   romaeve_s_2
+
+  17276941:
+    template: Killing_Weapon
+    at:       [44.211, -4.583, -52.037, 127]
+    level:    [60, 64]
+
+  17276942:
+    template: Ominous_Weapon
+    at:       [-84.808, -3.672, -95.509, 16]
+    level:    [61, 65]
+
+  17276943:
+    template: Ominous_Weapon
+    level:    [61, 65]
+    region:   romaeve_s_8
+
+  17276944:
+    template: Ominous_Weapon
+    level:    [61, 65]
+    region:   romaeve_sw_6
+
+  17276945:
+    template: Cursed_Puppet
+    level:    [65, 69]
+    region:   romaeve_sw_6
+
+  17276946:
+    template: Ominous_Weapon
+    level:    [61, 65]
+    region:   romaeve_s_7
+
+  17276947:
+    template: Cursed_Puppet
+    level:    [65, 69]
+    region:   romaeve_s_7
+
+  17276948:
+    template: Ominous_Weapon
+    level:    [61, 65]
+    region:   romaeve_c_4
+
+  17276949:
+    template: Ominous_Weapon
+    level:    [61, 65]
+    region:   romaeve_c_4
+
+  17276950:
+    template: Cursed_Puppet
+    level:    [65, 69]
+    region:   romaeve_c_4
+
+  17276951:
+    template: Cursed_Puppet
+    level:    [65, 69]
+    region:   romaeve_c_4
+
+  17276952:
+    template: Cannonball
+    level:    [66, 70]
+    region:   romaeve_c_4
+
+  17276953:
+    template: Killing_Weapon
+    level:    [60, 64]
+    region:   romaeve_sw_7
+
+  17276954:
+    template: Killing_Weapon
+    level:    [60, 64]
+    region:   romaeve_s_9
+
+  17276955:
+    template: Killing_Weapon
+    level:    [60, 64]
+    region:   romaeve_sw_5
+
+  17276956:
+    template: Ominous_Weapon
+    level:    [61, 65]
+    region:   romaeve_sw_5
+
+  17276957:
+    template: Cursed_Puppet
+    level:    [65, 69]
+    region:   romaeve_sw_5
+
+  17276958:
+    template: Killing_Weapon
+    level:    [60, 64]
+    region:   romaeve_sw_3
+
+  17276959:
+    template: Cursed_Puppet
+    level:    [65, 69]
+    region:   romaeve_sw_3
+
+  17276960:
+    template: Killing_Weapon
+    level:    [60, 64]
+    region:   romaeve_sw_4
+
+  17276961:
+    template: Water_Elemental
+    at:       [-145.083, 0.500, -84.150, 127]
+    level:    [67, 69]
+
+  17276962:
+    template: Killing_Weapon
+    at:       [-159.796, 0.784, -78.421, 10]
+    level:    [60, 64]
+
+  17276963:
+    template: Magic_Flagon
+    at:       [-144.695, 0.500, -95.692, 127]
+    level:    [64, 69]
+
+  17276964:
+    template: Killing_Weapon
+    level:    [60, 64]
+    region:   romaeve_se
+
+  17276965:
+    template: Ominous_Weapon
+    level:    [61, 65]
+    region:   romaeve_se
+
+  17276966:
+    template: Cursed_Puppet
+    level:    [65, 69]
+    region:   romaeve_se
+
+  17276967:
+    template: Killing_Weapon
+    level:    [60, 64]
+    region:   romaeve_se_3
+
+  17276968:
+    template: Cursed_Puppet
+    level:    [65, 69]
+    region:   romaeve_se_3
+
+  17276969:
+    template: Killing_Weapon
+    level:    [60, 64]
+    region:   romaeve_se_2
+
+  17276970:
+    template: Thunder_Elemental
+    level:    [67, 69]
+    region:   romaeve_se_2
+
+  17276971:
+    template: Killing_Weapon
+    level:    [60, 64]
+    region:   romaeve_se_4
+
+  17276972:
+    template: Magic_Flagon
+    at:       [158.766, 0.500, -87.935, 127]
+    level:    [64, 69]
+
+  17276973:
+    template: Killing_Weapon
+    level:    [60, 64]
+    region:   romaeve_c_2
+
+  17276974:
+    template: Ominous_Weapon
+    level:    [61, 65]
+    region:   romaeve_c_2
+
+  17276975:
+    template: Cursed_Puppet
+    level:    [65, 69]
+    region:   romaeve_c_2
+
+  17276976:
+    template: Killing_Weapon
+    at:       [-71.858, -6.062, 18.557, 56]
+    level:    [60, 64]
+
+  17276977:
+    template: Magic_Flagon
+    at:       [-71.937, -5.699, 18.558, 127]
+    level:    [64, 69]
+
+  17276978:
+    template: Ominous_Weapon
+    at:       [-41.170, -6.500, 0.923, 127]
+    level:    [61, 65]
+
+  17276979:
+    template: Magic_Flagon
+    at:       [-37.783, -5.972, -10.393, 127]
+    level:    [64, 69]
+
+  17276980:
+    template: Ominous_Weapon
+    at:       [-96.583, -6.500, 0.846, 78]
+    level:    [61, 65]
+
+  17276981:
+    template: Magic_Flagon
+    at:       [-101.575, -6.099, -1.520, 127]
+    level:    [64, 69]
+
+  17276982:
+    template: Nightmare_Vase
+    at:       [-108.575, -5.699, -5.432, 57]
+    level:    [70, 73]
+
+  17276983:
+    template: Killing_Weapon
+    level:    [60, 64]
+    region:   romaeve_c_6
+
+  17276984:
+    template: Ominous_Weapon
+    level:    [61, 65]
+    region:   romaeve_c_6
+
+  17276985:
+    template: Cursed_Puppet
+    level:    [65, 69]
+    region:   romaeve_c_6
+
+  17276986:
+    template: Killing_Weapon
+    at:       [58.744, -6.072, 19.022, 127]
+    level:    [60, 64]
+
+  17276987:
+    template: Magic_Flagon
+    at:       [59.825, -5.760, 25.123, 127]
+    level:    [64, 69]
+
+  17276988:
+    template: Ominous_Weapon
+    at:       [37.127, -6.368, -2.967, 105]
+    level:    [61, 65]
+
+  17276989:
+    template: Magic_Flagon
+    at:       [31.094, -5.700, -9.066, 127]
+    level:    [64, 69]
+
+  17276990:
+    template: Ominous_Weapon
+    at:       [96.341, -6.337, 2.324, 118]
+    level:    [61, 65]
+
+  17276991:
+    template: Magic_Flagon
+    at:       [102.459, -6.364, 1.121, 127]
+    level:    [64, 69]
+
+  17276992:
+    template: Nightmare_Vase
+    at:       [69.000, -5.000, 21.000, 127]
+    level:    [70, 73]
+
+  17276993:
+    template: Killing_Weapon
+    level:    [60, 64]
+    region:   romaeve_c_3
+
+  17276994:
+    template: Ominous_Weapon
+    level:    [61, 65]
+    region:   romaeve_c_3
+
+  17276995:
+    template: Ominous_Weapon
+    level:    [61, 65]
+    region:   romaeve_c_3
+
+  17276996:
+    template: Cursed_Puppet
+    level:    [65, 69]
+    region:   romaeve_c_3
+
+  17276997:
+    template: Cannonball
+    level:    [66, 70]
+    region:   romaeve_c_3
+
+  17276998:
+    template: Apocalyptic_Weapon
+    level:    [78, 80]
+    region:   romaeve_nw_9
+
+  17276999:
+    template: Infernal_Weapon
+    level:    [79, 81]
+    region:   romaeve_nw_9
+
+  17277000:
+    template: Cursed_Puppet
+    level:    [65, 69]
+    region:   romaeve_nw_9
+
+  17277001:
+    template: Apocalyptic_Weapon
+    level:    [78, 80]
+    region:   romaeve_w_11
+
+  17277002:
+    template: Cursed_Puppet
+    level:    [65, 69]
+    region:   romaeve_w_11
+
+  17277003:
+    template: Apocalyptic_Weapon
+    at:       [-146.041, -8.500, 6.534, 33]
+    level:    [78, 80]
+
+  17277004:
+    template: Infernal_Weapon
+    at:       [-160.655, -8.500, 20.212, 127]
+    level:    [79, 81]
+
+  17277005:
+    template: Apocalyptic_Weapon
+    level:    [78, 80]
+    region:   romaeve_w_10
+
+  17277006:
+    template: Cursed_Puppet
+    level:    [65, 69]
+    region:   romaeve_w_10
+
+  17277007:
+    template: Water_Elemental
+    at:       [-178.955, -5.122, -8.975, 64]
+    level:    [67, 69]
+
+  17277008:
+    template: Apocalyptic_Weapon
+    level:    [78, 80]
+    region:   romaeve_w_9
+
+  17277009:
+    template: Infernal_Weapon
+    level:    [79, 81]
+    region:   romaeve_w_9
+
+  17277010:
+    template: Cursed_Puppet
+    level:    [65, 69]
+    region:   romaeve_w_9
+
+  17277011:
+    template: Martinet
+    level:    [72, 74]
+    region:   romaeve_w_9
+
+  17277012:
+    template: Apocalyptic_Weapon
+    at:       [-163.567, -8.499, -21.382, 127]
+    level:    [78, 80]
+
+  17277013:
+    template: Infernal_Weapon
+    at:       [-185.180, -8.500, -12.199, 16]
+    level:    [79, 81]
+
+  17277014:
+    template: Cursed_Puppet
+    level:    [65, 69]
+    region:   romaeve_n
+
+  17277015:
+    template: Apocalyptic_Weapon
+    level:    [78, 80]
+    region:   romaeve_ne
+
+  17277016:
+    template: Infernal_Weapon
+    level:    [79, 81]
+    region:   romaeve_ne
+
+  17277017:
+    template: Cursed_Puppet
+    level:    [65, 69]
+    region:   romaeve_ne
+
+  17277018:
+    template: Apocalyptic_Weapon
+    level:    [78, 80]
+    region:   romaeve_e
+
+  17277019:
+    template: Cursed_Puppet
+    level:    [65, 69]
+    region:   romaeve_e
+
+  17277020:
+    template: Apocalyptic_Weapon
+    at:       [146.977, -8.585, 5.940, 127]
+    level:    [78, 80]
+
+  17277021:
+    template: Infernal_Weapon
+    at:       [165.148, -8.500, 16.747, 127]
+    level:    [79, 81]
+
+  17277022:
+    template: Apocalyptic_Weapon
+    level:    [78, 80]
+    region:   romaeve_e_2
+
+  17277023:
+    template: Infernal_Weapon
+    level:    [79, 81]
+    region:   romaeve_e_2
+
+  17277024:
+    template: Thunder_Elemental
+    level:    [67, 69]
+    region:   romaeve_e_2
+
+  17277025:
+    template: Apocalyptic_Weapon
+    level:    [78, 80]
+    region:   romaeve_e_3
+
+  17277026:
+    template: Infernal_Weapon
+    level:    [79, 81]
+    region:   romaeve_e_3
+
+  17277027:
+    template: Cursed_Puppet
+    level:    [65, 69]
+    region:   romaeve_e_3
+
+  17277028:
+    template: Apocalyptic_Weapon
+    at:       [168.818, -8.500, -21.140, 127]
+    level:    [78, 80]
+
+  17277029:
+    template: Infernal_Weapon
+    at:       [185.081, -8.500, -6.635, 127]
+    level:    [79, 81]
+
+  17277030:
+    template: Cursed_Puppet
+    level:    [65, 69]
+    region:   romaeve_n_3
+
+  17277031:
+    template: Mythril_Golem
+    at:       [-1.452, -13.424, -68.042, 78]
+    level:    [68, 70]
+
+  17277032:
+    template: Mythril_Golem
+    at:       [-2.828, -20.858, -28.241, 107]
+    level:    [68, 70]
+
+  17277033:
+    template: Mythril_Golem
+    level:    [68, 70]
+    region:   romaeve_c_5
+
+  17277034:
+    template: Cursed_Puppet
+    level:    [65, 69]
+    region:   romaeve_n
+
+  17277035:
+    template: Cursed_Puppet
+    level:    [65, 69]
+    region:   romaeve_n_3
+
+  17277036:
+    template: Cursed_Puppet
+    level:    [65, 69]
+    region:   romaeve_n_2
+
+  17277037:
+    template: Cursed_Puppet
+    level:    [65, 69]
+    region:   romaeve_n_2
+
+  17277038:
+    template: Cursed_Puppet
+    level:    [65, 69]
+    region:   romaeve_n_2
+
+  17277039:
+    template: Cursed_Puppet
+    level:    [65, 69]
+    region:   romaeve_n_2
+
+  17277040:
+    template: Cannonball
+    level:    [66, 70]
+    region:   romaeve_n_2
+
+  17277041:
+    template: Cannonball
+    level:    [66, 70]
+    region:   romaeve_n_2
+
+  17277042:
+    template: Apocalyptic_Weapon
+    level:    [78, 80]
+    region:   romaeve_w_8
+
+  17277043:
+    template: Apocalyptic_Weapon
+    level:    [78, 80]
+    region:   romaeve_w_6
+
+  17277044:
+    template: Infernal_Weapon
+    level:    [79, 81]
+    region:   romaeve_w_7
+
+  17277045:
+    template: Apocalyptic_Weapon
+    level:    [78, 80]
+    region:   romaeve_w
+
+  17277046:
+    template: Infernal_Weapon
+    level:    [79, 81]
+    region:   romaeve_sw_2
+
+  17277047:
+    template: Apocalyptic_Weapon
+    level:    [78, 80]
+    region:   romaeve_sw
+
+  17277048:
+    template: Infernal_Weapon
+    level:    [79, 81]
+    region:   romaeve_w_2
+
+  17277049:
+    template: Infernal_Weapon
+    level:    [79, 81]
+    region:   romaeve_w_5
+
+  17277050:
+    template: Magic_Flagon
+    at:       [-275.211, -3.700, 12.496, 97]
+    level:    [64, 69]
+
+  17277051:
+    template: Magic_Flagon
+    at:       [-287.656, -3.960, -12.858, 104]
+    level:    [64, 69]
+
+  17277052:
+    template: Magic_Flagon
+    at:       [-302.655, -3.752, -51.130, 127]
+    level:    [64, 69]
+
+  17277053:
+    template: Magic_Flagon
+    at:       [-229.519, -3.700, -78.519, 28]
+    level:    [64, 69]
+
+  17277054:
+    template: Magic_Flagon
+    at:       [-218.444, -3.976, -48.355, 15]
+    level:    [64, 69]
+
+  17277055:
+    template: Magic_Flagon
+    at:       [-272.983, 3.950, -5.435, 228]
+    level:    [64, 69]
+
+  17277056:
+    template: Magic_Flagon
+    at:       [-281.928, 3.691, -29.100, 127]
+    level:    [64, 69]
+
+  17277057:
+    template: Magic_Flagon
+    at:       [-227.987, 3.663, -41.924, 75]
+    level:    [64, 69]
+
+  17277058:
+    template: Apocalyptic_Weapon
+    at:       [-212.306, -7.906, -18.156, 127]
+    level:    [78, 80]
+
+  17277059:
+    template: Infernal_Weapon
+    level:    [79, 81]
+    region:   romaeve_w_4
+
+  17277060:
+    template: Darksteel_Golem
+    level:    [80, 82]
+    region:   romaeve_w_4
+
+  17277061:
+    template: Apocalyptic_Weapon
+    level:    [78, 80]
+    region:   romaeve_w_3
+
+  17277062:
+    template: Darksteel_Golem
+    level:    [80, 82]
+    region:   romaeve_w_3
+
+  17277063:
+    template: Infernal_Weapon
+    level:    [79, 81]
+    region:   romaeve_e_4
+
+  17277064:
+    template: Apocalyptic_Weapon
+    level:    [78, 80]
+    region:   romaeve_e_7
+
+  17277065:
+    template: Infernal_Weapon
+    level:    [79, 81]
+    region:   romaeve_e_6
+
+  17277066:
+    template: Apocalyptic_Weapon
+    level:    [78, 80]
+    region:   romaeve_e_8
+
+  17277067:
+    template: Infernal_Weapon
+    level:    [79, 81]
+    region:   romaeve_e_9
+
+  17277068:
+    template: Apocalyptic_Weapon
+    level:    [78, 80]
+    region:   romaeve_se_5
+
+  17277069:
+    template: Infernal_Weapon
+    level:    [79, 81]
+    region:   romaeve_se_6
+
+  17277070:
+    template: Infernal_Weapon
+    level:    [79, 81]
+    region:   romaeve_e_11
+
+  17277071:
+    template: Magic_Flagon
+    at:       [264.671, -4.335, 20.213, 127]
+    level:    [64, 69]
+
+  17277072:
+    template: Magic_Flagon
+    at:       [279.955, -4.196, -6.232, 127]
+    level:    [64, 69]
+
+  17277073:
+    template: Magic_Flagon
+    at:       [305.356, -3.700, -68.187, 20]
+    level:    [64, 69]
+
+  17277074:
+    template: Magic_Flagon
+    at:       [236.758, -4.688, -68.890, 127]
+    level:    [64, 69]
+
+  17277075:
+    template: Magic_Flagon
+    at:       [223.836, -4.268, -47.426, 127]
+    level:    [64, 69]
+
+  17277076:
+    template: Magic_Flagon
+    at:       [271.039, 3.500, -13.155, 107]
+    level:    [64, 69]
+
+  17277077:
+    template: Magic_Flagon
+    at:       [286.128, 3.806, -38.642, 68]
+    level:    [64, 69]
+
+  17277078:
+    template: Magic_Flagon
+    at:       [221.619, 4.299, -39.444, 127]
+    level:    [64, 69]
+
+  17277079:
+    template: Rogue_Receptacle
+    at:       [219.800, -3.200, -41.220, 60]
+    level:    [67, 68]
+
+  17277080:
+    template: Apocalyptic_Weapon
+    level:    [78, 80]
+    region:   romaeve_e_5
+
+  17277081:
+    template: Infernal_Weapon
+    at:       [253.213, 3.500, -12.074, 127]
+    level:    [79, 81]
+
+  17277082:
+    template: Darksteel_Golem
+    at:       [237.535, 3.499, -18.181, 88]
+    level:    [80, 82]
+
+  17277083:
+    template: Apocalyptic_Weapon
+    level:    [78, 80]
+    region:   romaeve_e_10
+
+  17277084:
+    template: Darksteel_Golem
+    level:    [80, 82]
+    region:   romaeve_e_10
+
+  17277085:
+    template: Apocalyptic_Weapon
+    level:    [78, 80]
+    region:   romaeve_nw
+
+  17277086:
+    template: Infernal_Weapon
+    level:    [79, 81]
+    region:   romaeve_nw_4
+
+  17277087:
+    template: Apocalyptic_Weapon
+    level:    [78, 80]
+    region:   romaeve_nw_8
+
+  17277088:
+    template: Infernal_Weapon
+    level:    [79, 81]
+    region:   romaeve_nw_10
+
+  17277089:
+    template: Apocalyptic_Weapon
+    level:    [78, 80]
+    region:   romaeve_nw_11
+
+  17277090:
+    template: Infernal_Weapon
+    level:    [79, 81]
+    region:   romaeve_nw_3
+
+  17277091:
+    template: Infernal_Weapon
+    level:    [79, 81]
+    region:   romaeve_nw_2
+
+  17277092:
+    template: Magic_Flagon
+    at:       [-133.356, -4.675, 136.486, 48]
+    level:    [64, 69]
+
+  17277093:
+    template: Magic_Flagon
+    at:       [-184.515, -4.026, 116.434, 127]
+    level:    [64, 69]
+
+  17277094:
+    template: Magic_Flagon
+    at:       [-205.051, -3.700, 101.649, 127]
+    level:    [64, 69]
+
+  17277095:
+    template: Magic_Flagon
+    at:       [-132.145, -4.022, 63.617, 22]
+    level:    [64, 69]
+
+  17277096:
+    template: Magic_Flagon
+    at:       [-109.374, -4.018, 78.090, 0]
+    level:    [64, 69]
+
+  17277097:
+    template: Magic_Flagon
+    at:       [-155.988, 3.500, 117.915, 214]
+    level:    [64, 69]
+
+  17277098:
+    template: Magic_Flagon
+    at:       [-180.262, 3.925, 113.115, 127]
+    level:    [64, 69]
+
+  17277099:
+    template: Magic_Flagon
+    at:       [-138.021, 3.695, 70.711, 226]
+    level:    [64, 69]
+
+  17277100:
+    template: Apocalyptic_Weapon
+    level:    [78, 80]
+    region:   romaeve_nw_6
+
+  17277101:
+    template: Infernal_Weapon
+    level:    [79, 81]
+    region:   romaeve_nw_7
+
+  17277102:
+    template: Darksteel_Golem
+    level:    [80, 82]
+    region:   romaeve_nw_7
+
+  17277103:
+    template: Nargun
+    level:    [77, 79]
+    region:   romaeve_nw_7
+
+  17277104:
+    template: Apocalyptic_Weapon
+    level:    [78, 80]
+    region:   romaeve_nw_5
+
+  17277105:
+    template: Darksteel_Golem
+    level:    [80, 82]
+    region:   romaeve_nw_5
+
+  17277106:
+    template: Apocalyptic_Weapon
+    level:    [78, 80]
+    region:   romaeve_ne_7
+
+  17277107:
+    template: Infernal_Weapon
+    level:    [79, 81]
+    region:   romaeve_ne_6
+
+  17277108:
+    template: Apocalyptic_Weapon
+    level:    [78, 80]
+    region:   romaeve_ne_5
+
+  17277109:
+    template: Infernal_Weapon
+    level:    [79, 81]
+    region:   romaeve_ne_4
+
+  17277110:
+    template: Apocalyptic_Weapon
+    level:    [78, 80]
+    region:   romaeve_ne_3
+
+  17277111:
+    template: Infernal_Weapon
+    level:    [79, 81]
+    region:   romaeve_ne_2
+
+  17277112:
+    template: Infernal_Weapon
+    level:    [79, 81]
+    region:   romaeve_ne_8
+
+  17277113:
+    template: Magic_Flagon
+    at:       [133.596, -4.664, 135.501, 80]
+    level:    [64, 69]
+
+  17277114:
+    template: Magic_Flagon
+    at:       [182.353, -4.677, 107.017, 115]
+    level:    [64, 69]
+
+  17277115:
+    template: Magic_Flagon
+    at:       [201.457, -3.969, 100.906, 127]
+    level:    [64, 69]
+
+  17277116:
+    template: Magic_Flagon
+    at:       [137.876, -4.430, 64.682, 53]
+    level:    [64, 69]
+
+  17277117:
+    template: Magic_Flagon
+    at:       [104.432, -3.700, 78.851, 110]
+    level:    [64, 69]
+
+  17277118:
+    template: Magic_Flagon
+    at:       [154.586, 3.900, 124.320, 163]
+    level:    [64, 69]
+
+  17277119:
+    template: Magic_Flagon
+    at:       [174.787, 3.328, 105.063, 65]
+    level:    [64, 69]
+
+  17277120:
+    template: Magic_Flagon
+    at:       [143.608, 3.300, 72.359, 184]
+    level:    [64, 69]
+
+  17277121:
+    template: Apocalyptic_Weapon
+    at:       [161.093, -6.782, 51.033, 89]
+    level:    [78, 80]
+
+  17277122:
+    template: Infernal_Weapon
+    level:    [79, 81]
+    region:   romaeve_ne_4
+
+  17277123:
+    template: Darksteel_Golem
+    level:    [80, 82]
+    region:   romaeve_ne_4
+
+  17277124:
+    template: Apocalyptic_Weapon
+    at:       [177.221, 3.234, 75.166, 127]
+    level:    [78, 80]
+
+  17277125:
+    template: Darksteel_Golem
+    at:       [164.194, 3.500, 74.653, 66]
+    level:    [80, 82]
+
+  17277126:
+    template: Eldhrimnir
+    at:       [200.300, -11.000, -24.800, 105]
+    level:    [80, 80]
+
+  17277127:
+    template: Shikigami_Weapon
+    level:    [77, 80]
+    region:   romaeve_c
+
+  17277128:
+    template: Jackpot
+    at:       [222.500, -7.039, -99.500, 195]
+    level:    [1, 1]
+
+  17277129:
+    template: Steely_Weapon
+    level:    [68, 68]
+    region:   romaeve_s_4
+
+  17277130:
+    template: Steely_Weapon
+    level:    [68, 68]
+    region:   romaeve_s
+
+  17277131:
+    template: Steely_Weapon
+    level:    [68, 68]
+    region:   romaeve_s_5
+
+  17277132:
+    template: Lode_Golem
+    level:    [70, 70]
+    region:   romaeve_sw_5
+
+  17277133:
+    template: Lode_Golem
+    level:    [70, 70]
+    region:   romaeve_sw_3
+
+  17277134:
+    template: Lode_Golem
+    level:    [70, 70]
+    region:   romaeve_sw_4
+
+  17277135:
+    template: Fired_Urn
+    level:    [69, 69]
+    region:   romaeve_se
+
+  17277136:
+    template: Fired_Urn
+    level:    [69, 69]
+    region:   romaeve_se_3
+
+  17277137:
+    template: Fired_Urn
+    level:    [69, 69]
+    region:   romaeve_se_2
+
+  17277138:
+    template: Mimic_King
+    at:       [114.000, -8.500, 47.000, 243]
+    level:    [93, 95]
+
+  17277139:
+    template: Mimic_Jester
+    at:       [119.000, -8.500, 52.000, 96]
+    level:    [90, 91]
+
+  17277140:
+    template: Mimic_Mage
+    at:       [119.000, -8.500, 42.000, 131]
+    level:    [90, 91]
+
+  17277141:
+    template: Mimic_King
+    at:       [-114.000, -8.500, 44.000, 196]
+    level:    [93, 95]
+
+  17277142:
+    template: Mimic_Jester
+    at:       [-109.000, -8.500, 49.000, 22]
+    level:    [90, 91]
+
+  17277143:
+    template: Mimic_Mage
+    at:       [-109.000, -8.500, 39.000, 185]
+    level:    [90, 91]
+
+  17277144:
+    template: Mimic_King
+    at:       [46.000, -4.500, -36.000, 204]
+    level:    [93, 95]
+
+  17277145:
+    template: Mimic_Jester
+    at:       [51.000, -4.500, -31.000, 50]
+    level:    [90, 91]
+
+  17277146:
+    template: Mimic_Mage
+    at:       [51.000, -4.500, 431.000, 111]
+    level:    [90, 91]
+
+  17277147:
+    template: Douma_Weapon
+    at:       [43.361, -2.500, -96.558, 180]
+    level:    [0, 0]
+
+  17277148:
+    template: Katashiro_Weapon
+    at:       [44.405, -2.500, -97.494, 170]
+    level:    [0, 0]
+
+  17277149:
+    template: Katashiro_Weapon
+    at:       [43.887, -2.500, -92.531, 79]
+    level:    [0, 0]
+
+  17277150:
+    template: Katashiro_Weapon
+    at:       [43.913, -2.500, -93.256, 105]
+    level:    [0, 0]
+
+  17277151:
+    template: Katashiro_Weapon
+    at:       [43.569, -2.500, -94.147, 113]
+    level:    [0, 0]
+
+  17277152:
+    template: Katashiro_Weapon
+    at:       [45.088, -2.500, -95.232, 0]
+    level:    [0, 0]
+
+  17277153:
+    template: Katashiro_Weapon
+    at:       [44.498, -2.500, -97.526, 169]
+    level:    [0, 0]
+
+  17277154:
+    template: Douma_Weapon
+    at:       [-59.879, -2.500, -120.716, 0]
+    level:    [0, 0]
+
+  17277155:
+    template: Katashiro_Weapon
+    at:       [-50.667, -2.500, -121.558, 119]
+    level:    [0, 0]
+
+  17277156:
+    template: Katashiro_Weapon
+    at:       [-43.052, -2.500, -123.418, 197]
+    level:    [0, 0]
+
+  17277157:
+    template: Katashiro_Weapon
+    at:       [-58.547, -2.500, -121.403, 255]
+    level:    [0, 0]
+
+  17277158:
+    template: Katashiro_Weapon
+    at:       [-42.714, -2.500, -122.756, 0]
+    level:    [0, 0]
+
+  17277159:
+    template: Katashiro_Weapon
+    at:       [-43.034, -2.467, -122.771, 0]
+    level:    [0, 0]
+
+  17277160:
+    template: Katashiro_Weapon
+    at:       [-42.612, -2.500, -123.652, 190]
+    level:    [0, 0]
+
+  17277161:
+    template: Douma_Weapon
+    at:       [-184.584, -8.500, -55.671, 118]
+    level:    [0, 0]
+
+  17277162:
+    template: Katashiro_Weapon
+    at:       [-193.015, -8.500, -52.545, 126]
+    level:    [0, 0]
+
+  17277163:
+    template: Katashiro_Weapon
+    at:       [-187.482, -8.500, -53.343, 64]
+    level:    [0, 0]
+
+  17277164:
+    template: Katashiro_Weapon
+    at:       [-186.524, -8.500, -53.723, 79]
+    level:    [0, 0]
+
+  17277165:
+    template: Katashiro_Weapon
+    at:       [-186.310, -8.500, -53.837, 82]
+    level:    [0, 0]
+
+  17277166:
+    template: Katashiro_Weapon
+    at:       [-185.953, -8.500, -54.172, 89]
+    level:    [0, 0]
+
+  17277167:
+    template: Katashiro_Weapon
+    at:       [-185.700, -8.500, -54.853, 100]
+    level:    [0, 0]

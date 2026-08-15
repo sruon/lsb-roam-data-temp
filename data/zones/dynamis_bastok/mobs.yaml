@@ -1,0 +1,1198 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17539073:
+    template: GuDha_Effigy
+    at:       [-12.509, -1.559, -124.363, 56]
+    level:    [85, 85]
+
+  17539074:
+    template: Vanguard_Vindicator
+    level:    [75, 77]
+    region:   dynamis_bastok_se_3
+
+  17539075:
+    template: Vanguard_Militant
+    at:       [59.143, -0.499, -77.688, 186]
+    level:    [75, 77]
+
+  17539076:
+    template: Vanguard_Beasttender
+    at:       [67.618, -0.323, -74.090, 96]
+    level:    [75, 77]
+
+  17539077:
+    template: Vanguards_Scorpion
+    at:       [66.758, -0.397, -75.293, 111]
+    level:    [75, 77]
+
+  17539078:
+    template: Vanguard_Thaumaturge
+    at:       [60.283, -0.500, -83.699, 20]
+    level:    [75, 77]
+
+  17539079:
+    template: Vanguard_Protector
+    at:       [71.076, -0.500, -78.161, 69]
+    level:    [75, 77]
+
+  17539080:
+    template: Vanguard_Purloiner
+    at:       [68.147, -0.362, -78.017, 36]
+    level:    [75, 77]
+
+  17539081:
+    template: Vanguard_Vigilante
+    at:       [58.128, -0.479, -69.451, 101]
+    level:    [75, 77]
+
+  17539082:
+    template: Vanguard_Defender
+    at:       [74.496, -0.006, -69.126, 195]
+    level:    [75, 77]
+
+  17539083:
+    template: Vanguard_Vindicator
+    level:    [75, 77]
+    region:   dynamis_bastok_se_2
+
+  17539084:
+    template: Vanguard_Constable
+    level:    [75, 77]
+    region:   dynamis_bastok_se_2
+
+  17539085:
+    template: Vanguard_Thaumaturge
+    at:       [37.259, -0.014, -68.957, 137]
+    level:    [75, 77]
+
+  17539086:
+    template: Vanguard_Hatamoto
+    level:    [75, 77]
+    region:   dynamis_bastok_se_2
+
+  17539087:
+    template: Vanguard_Kusa
+    at:       [49.144, -0.500, -72.117, 115]
+    level:    [75, 77]
+
+  17539088:
+    template: Vanguard_Drakekeeper
+    at:       [29.913, -0.499, -63.533, 137]
+    level:    [75, 77]
+
+  17539089:
+    template: Vanguards_Wyvern
+    at:       [43.841, -0.500, -67.947, 229]
+    level:    [75, 77]
+
+  17539090:
+    template: Vanguard_Vindicator
+    level:    [75, 77]
+    region:   dynamis_bastok_se
+
+  17539091:
+    template: Vanguard_Militant
+    at:       [-4.026, -0.500, -75.873, 238]
+    level:    [75, 77]
+
+  17539092:
+    template: Vanguard_Vigilante
+    at:       [-4.255, -0.500, -79.221, 161]
+    level:    [75, 77]
+
+  17539093:
+    template: Vanguard_Vigilante
+    level:    [75, 77]
+    region:   dynamis_bastok_se
+
+  17539094:
+    template: Vanguard_Minstrel
+    level:    [75, 77]
+    region:   dynamis_bastok_se
+
+  17539095:
+    template: Vanguard_Mason
+    at:       [-6.948, -0.500, -78.144, 105]
+    level:    [75, 77]
+
+  17539096:
+    template: Vanguard_Hatamoto
+    at:       [-1.421, -0.500, -84.073, 247]
+    level:    [75, 77]
+
+  17539097:
+    template: Vanguard_Kusa
+    level:    [75, 77]
+    region:   dynamis_bastok_se
+
+  17539098:
+    template: Vanguard_Undertaker
+    level:    [75, 77]
+    region:   dynamis_bastok_se
+
+  17539099:
+    template: Vanguards_Avatar
+    at:       [15.421, -0.500, -81.002, 241]
+    level:    [75, 77]
+
+  17539100:
+    template: Vanguard_Protector
+    level:    [75, 77]
+    region:   dynamis_bastok_s_2
+
+  17539101:
+    template: Vanguard_Constable
+    at:       [-25.604, -0.500, -91.352, 182]
+    level:    [75, 77]
+
+  17539102:
+    template: Vanguard_Thaumaturge
+    at:       [-13.567, -0.500, -83.988, 26]
+    level:    [75, 77]
+
+  17539103:
+    template: Vanguard_Defender
+    level:    [75, 77]
+    region:   dynamis_bastok_s
+
+  17539104:
+    template: Vanguard_Defender
+    at:       [-19.315, -0.500, -77.140, 181]
+    level:    [75, 77]
+
+  17539105:
+    template: Vanguard_Drakekeeper
+    level:    [75, 77]
+    region:   dynamis_bastok_s
+
+  17539106:
+    template: Vanguards_Wyvern
+    level:    [75, 77]
+    region:   dynamis_bastok_s_3
+
+  17539107:
+    template: Vanguard_Purloiner
+    at:       [-25.232, -0.303, -80.729, 120]
+    level:    [75, 77]
+
+  17539108:
+    template: Vanguard_Militant
+    level:    [75, 77]
+    region:   dynamis_bastok_s
+
+  17539109:
+    template: Vanguard_Minstrel
+    level:    [75, 77]
+    region:   dynamis_bastok_s
+
+  17539110:
+    template: Vanguard_Beasttender
+    level:    [75, 77]
+    region:   dynamis_bastok_c
+
+  17539111:
+    template: Vanguards_Scorpion
+    level:    [75, 77]
+    region:   dynamis_bastok_c_2
+
+  17539112:
+    template: Vanguard_Drakekeeper
+    level:    [75, 77]
+    region:   dynamis_bastok_c
+
+  17539113:
+    template: Vanguards_Wyvern
+    at:       [-38.465, -0.500, -43.297, 83]
+    level:    [75, 77]
+
+  17539114:
+    template: Vanguard_Vindicator
+    level:    [75, 77]
+    region:   dynamis_bastok_c
+
+  17539115:
+    template: Vanguard_Militant
+    level:    [75, 77]
+    region:   dynamis_bastok_c
+
+  17539116:
+    template: Vanguard_Vigilante
+    level:    [75, 77]
+    region:   dynamis_bastok_c
+
+  17539117:
+    template: Vanguard_Mason
+    level:    [75, 77]
+    region:   dynamis_bastok_c
+
+  17539118:
+    template: Adamantking_Effigy
+    at:       [-33.563, -0.500, -30.935, 59]
+    level:    [65, 65]
+
+  17539119:
+    template: Adamantking_Effigy
+    at:       [-38.715, -0.500, -51.344, 176]
+    level:    [65, 65]
+
+  17539120:
+    template: Adamantking_Effigy
+    at:       [-5.656, -0.004, -81.643, 241]
+    level:    [65, 65]
+
+  17539121:
+    template: Vanguard_Defender
+    level:    [75, 77]
+    region:   dynamis_bastok_n_2
+
+  17539122:
+    template: Vanguard_Minstrel
+    at:       [-56.834, -0.500, 11.244, 135]
+    level:    [75, 77]
+
+  17539123:
+    template: Vanguard_Thaumaturge
+    level:    [75, 77]
+    region:   dynamis_bastok_n
+
+  17539124:
+    template: Vanguard_Protector
+    at:       [-62.898, -0.500, 5.906, 160]
+    level:    [75, 77]
+
+  17539125:
+    template: Vanguard_Constable
+    at:       [-56.600, -0.500, -9.896, 254]
+    level:    [75, 77]
+
+  17539126:
+    template: Vanguard_Vigilante
+    at:       [-49.959, -0.500, 11.644, 70]
+    level:    [75, 77]
+
+  17539127:
+    template: Vanguard_Defender
+    at:       [-52.368, -0.499, 40.219, 160]
+    level:    [75, 77]
+
+  17539128:
+    template: Vanguard_Minstrel
+    level:    [75, 77]
+    region:   dynamis_bastok_n_3
+
+  17539129:
+    template: Vanguard_Vindicator
+    at:       [-50.686, -0.499, 31.806, 55]
+    level:    [75, 77]
+
+  17539130:
+    template: Vanguard_Militant
+    at:       [-43.881, -0.495, 23.574, 84]
+    level:    [75, 77]
+
+  17539131:
+    template: Vanguard_Purloiner
+    at:       [-39.072, -0.147, 39.486, 11]
+    level:    [75, 77]
+
+  17539132:
+    template: Vanguard_Mason
+    at:       [-52.027, -0.499, 36.924, 69]
+    level:    [75, 77]
+
+  17539133:
+    template: Vanguard_Vindicator
+    at:       [36.689, -0.285, -48.432, 194]
+    level:    [75, 77]
+
+  17539134:
+    template: Vanguard_Purloiner
+    level:    [75, 77]
+    region:   dynamis_bastok_e_2
+
+  17539135:
+    template: Vanguard_Militant
+    level:    [75, 77]
+    region:   dynamis_bastok_e_2
+
+  17539136:
+    template: Vanguard_Vigilante
+    at:       [-19.007, -2.486, -65.375, 72]
+    level:    [75, 77]
+
+  17539137:
+    template: Vanguard_Thaumaturge
+    at:       [-14.931, -2.374, -66.853, 53]
+    level:    [75, 77]
+
+  17539138:
+    template: Vanguard_Vigilante
+    at:       [2.449, -2.174, -68.860, 62]
+    level:    [75, 77]
+
+  17539139:
+    template: Vanguard_Thaumaturge
+    at:       [2.199, -3.370, -64.131, 219]
+    level:    [75, 77]
+
+  17539140:
+    template: Vanguard_Vigilante
+    at:       [14.365, -3.499, -59.726, 121]
+    level:    [75, 77]
+
+  17539141:
+    template: Vanguard_Thaumaturge
+    at:       [14.932, -3.470, -62.205, 123]
+    level:    [75, 77]
+
+  17539142:
+    template: Adamantking_Image
+    at:       [6.602, -3.500, -52.642, 253]
+    level:    [65, 65]
+
+  17539143:
+    template: GuNhi_Noondozer
+    at:       [31.283, -1.155, -84.309, 203]
+    level:    [82, 82]
+
+  17539144:
+    template: Vanguards_Avatar
+    at:       [30.708, 0.372, -85.943, 204]
+    level:    [82, 82]
+
+  17539145:
+    template: Vanguard_Purloiner
+    level:    [75, 77]
+    region:   dynamis_bastok_e
+
+  17539146:
+    template: Vanguard_Purloiner
+    level:    [75, 77]
+    region:   dynamis_bastok_e
+
+  17539147:
+    template: ZeVho_Fallsplitter
+    level:    [85, 85]
+    region:   dynamis_bastok_e
+
+  17539148:
+    template: Adamantking_Image
+    at:       [-12.127, -0.499, 38.817, 128]
+    level:    [65, 65]
+
+  17539149:
+    template: Adamantking_Image
+    at:       [60.294, -0.500, -15.040, 192]
+    level:    [65, 65]
+
+  17539150:
+    template: Vanguard_Hatamoto
+    level:    [75, 77]
+    region:   dynamis_bastok_n_4
+
+  17539151:
+    template: Vanguard_Kusa
+    level:    [75, 77]
+    region:   dynamis_bastok_n_4
+
+  17539152:
+    template: Vanguard_Hatamoto
+    level:    [75, 77]
+    region:   dynamis_bastok_n_4
+
+  17539153:
+    template: Vanguard_Purloiner
+    at:       [-11.403, -0.500, 37.791, 128]
+    level:    [75, 77]
+
+  17539154:
+    template: Vanguard_Vindicator
+    level:    [75, 77]
+    region:   dynamis_bastok_n_4
+
+  17539155:
+    template: Vanguard_Mason
+    at:       [8.390, -0.500, 14.375, 190]
+    level:    [75, 77]
+
+  17539156:
+    template: Vanguard_Kusa
+    at:       [8.219, -0.500, 21.988, 60]
+    level:    [75, 77]
+
+  17539157:
+    template: Vanguard_Purloiner
+    at:       [8.263, -0.157, 8.389, 49]
+    level:    [75, 77]
+
+  17539158:
+    template: Vanguard_Vindicator
+    at:       [8.730, -0.500, 16.593, 62]
+    level:    [75, 77]
+
+  17539159:
+    template: Vanguard_Militant
+    at:       [8.479, -0.500, 24.718, 189]
+    level:    [75, 77]
+
+  17539160:
+    template: Vanguard_Mason
+    at:       [9.073, -0.500, 0.785, 193]
+    level:    [75, 77]
+
+  17539161:
+    template: Adamantking_Effigy
+    at:       [9.209, -0.500, 0.593, 57]
+    level:    [65, 65]
+
+  17539162:
+    template: Adamantking_Effigy
+    at:       [9.248, -0.500, -2.606, 188]
+    level:    [65, 65]
+
+  17539163:
+    template: Adamantking_Effigy
+    at:       [9.427, -0.500, -5.045, 63]
+    level:    [65, 65]
+
+  17539164:
+    template: Vanguard_Drakekeeper
+    level:    [75, 77]
+    region:   dynamis_bastok_ne
+
+  17539165:
+    template: Vanguards_Wyvern
+    at:       [67.427, 6.500, -6.995, 125]
+    level:    [75, 77]
+
+  17539166:
+    template: Vanguard_Undertaker
+    at:       [39.223, -0.500, 8.679, 132]
+    level:    [75, 77]
+
+  17539167:
+    template: Vanguards_Avatar
+    at:       [42.923, -0.500, 8.445, 133]
+    level:    [75, 77]
+
+  17539168:
+    template: Vanguard_Thaumaturge
+    level:    [75, 77]
+    region:   dynamis_bastok_ne
+
+  17539169:
+    template: Vanguard_Vigilante
+    level:    [75, 77]
+    region:   dynamis_bastok_ne
+
+  17539170:
+    template: Vanguard_Mason
+    at:       [60.990, -0.499, -3.856, 64]
+    level:    [75, 77]
+
+  17539171:
+    template: Adamantking_Effigy
+    at:       [60.890, -0.488, -2.977, 191]
+    level:    [65, 65]
+
+  17539172:
+    template: Adamantking_Effigy
+    at:       [58.996, -0.500, -11.863, 209]
+    level:    [65, 65]
+
+  17539173:
+    template: Adamantking_Effigy
+    at:       [60.378, -0.500, -3.517, 62]
+    level:    [65, 65]
+
+  17539174:
+    template: Vanguard_Vigilante
+    at:       [81.310, -0.500, 8.507, 1]
+    level:    [75, 77]
+
+  17539175:
+    template: Vanguard_Vigilante
+    at:       [91.224, -0.500, 6.704, 24]
+    level:    [75, 77]
+
+  17539176:
+    template: Vanguard_Defender
+    at:       [84.391, -0.500, 8.573, 0]
+    level:    [75, 77]
+
+  17539177:
+    template: Vanguard_Beasttender
+    at:       [76.775, -0.500, 8.674, 128]
+    level:    [75, 77]
+
+  17539178:
+    template: Vanguards_Scorpion
+    at:       [78.922, -0.500, 8.583, 128]
+    level:    [75, 77]
+
+  17539179:
+    template: Vanguard_Thaumaturge
+    at:       [-21.009, -0.500, 23.482, 120]
+    level:    [75, 77]
+
+  17539180:
+    template: Vanguard_Protector
+    at:       [-14.795, -0.006, 30.009, 232]
+    level:    [75, 77]
+
+  17539181:
+    template: Vanguard_Protector
+    at:       [-15.636, -0.500, 23.088, 4]
+    level:    [75, 77]
+
+  17539182:
+    template: Vanguard_Constable
+    at:       [-17.605, -0.500, 23.406, 136]
+    level:    [75, 77]
+
+  17539183:
+    template: Vanguard_Vigilante
+    at:       [7.746, -0.066, 3.135, 53]
+    level:    [75, 77]
+
+  17539184:
+    template: Vanguard_Defender
+    at:       [11.362, -0.500, 2.981, 101]
+    level:    [75, 77]
+
+  17539185:
+    template: Vanguard_Thaumaturge
+    at:       [-6.048, -0.500, -6.941, 62]
+    level:    [75, 77]
+
+  17539186:
+    template: Vanguard_Protector
+    at:       [-5.820, -0.500, -11.857, 62]
+    level:    [75, 77]
+
+  17539187:
+    template: Vanguard_Constable
+    at:       [-6.227, -0.500, -3.738, 188]
+    level:    [75, 77]
+
+  17539188:
+    template: GiPha_Manameister
+    at:       [30.380, 5.343, 11.809, 64]
+    level:    [85, 85]
+
+  17539190:
+    template: KoDho_Cannonball
+    at:       [59.668, -0.500, -17.649, 25]
+    level:    [85, 85]
+
+  17539191:
+    template: Vanguard_Vindicator
+    at:       [-88.697, -0.421, 0.088, 146]
+    level:    [90, 92]
+
+  17539192:
+    template: Vanguard_Militant
+    at:       [-82.961, -0.500, -5.756, 31]
+    level:    [90, 92]
+
+  17539193:
+    template: Vanguard_Constable
+    at:       [-81.504, -0.500, -3.786, 18]
+    level:    [90, 92]
+
+  17539194:
+    template: Vanguard_Thaumaturge
+    at:       [-89.843, -0.500, -3.790, 209]
+    level:    [90, 92]
+
+  17539195:
+    template: Vanguard_Protector
+    at:       [-82.389, 0.151, -4.340, 10]
+    level:    [90, 92]
+
+  17539196:
+    template: Vanguard_Defender
+    at:       [-81.217, -0.500, -4.778, 237]
+    level:    [90, 92]
+
+  17539197:
+    template: Vanguard_Beasttender
+    at:       [-82.531, -0.068, -5.206, 25]
+    level:    [90, 92]
+
+  17539198:
+    template: Vanguards_Scorpion
+    at:       [-83.391, -0.500, -4.250, 28]
+    level:    [90, 92]
+
+  17539199:
+    template: Vanguard_Drakekeeper
+    at:       [-97.697, 7.253, 51.128, 208]
+    level:    [90, 92]
+
+  17539200:
+    template: Vanguards_Wyvern
+    at:       [-101.000, 7.500, 44.354, 244]
+    level:    [90, 92]
+
+  17539201:
+    template: Vanguard_Purloiner
+    at:       [-105.974, 7.351, 51.139, 50]
+    level:    [90, 92]
+
+  17539202:
+    template: Vanguard_Vigilante
+    at:       [-103.288, 11.450, 67.890, 41]
+    level:    [90, 92]
+
+  17539203:
+    template: Vanguard_Minstrel
+    at:       [-99.507, 7.263, 47.654, 249]
+    level:    [90, 92]
+
+  17539204:
+    template: Vanguard_Hatamoto
+    at:       [-104.397, 7.216, 47.481, 67]
+    level:    [90, 92]
+
+  17539205:
+    template: Vanguard_Minstrel
+    at:       [-106.531, 10.100, 60.949, 80]
+    level:    [90, 92]
+
+  17539206:
+    template: Vanguard_Mason
+    at:       [-108.000, 11.500, 71.783, 131]
+    level:    [90, 92]
+
+  17539207:
+    template: Vanguard_Hatamoto
+    at:       [-106.409, 11.986, 66.730, 106]
+    level:    [90, 92]
+
+  17539208:
+    template: Vanguard_Kusa
+    at:       [-111.052, 10.222, 61.820, 162]
+    level:    [90, 92]
+
+  17539209:
+    template: Vanguard_Undertaker
+    at:       [-107.854, 11.294, 69.329, 72]
+    level:    [90, 92]
+
+  17539210:
+    template: Vanguards_Avatar
+    at:       [-106.196, 11.781, 68.820, 89]
+    level:    [90, 92]
+
+  17539211:
+    template: Vanguard_Undertaker
+    at:       [-101.297, 10.164, 61.351, 45]
+    level:    [90, 92]
+
+  17539212:
+    template: Vanguards_Avatar
+    at:       [-101.900, 11.031, 65.200, 246]
+    level:    [90, 92]
+
+  17539213:
+    template: Vanguard_Beasttender
+    level:    [90, 92]
+    region:   dynamis_bastok_w_3
+
+  17539214:
+    template: Vanguards_Scorpion
+    at:       [-105.242, -0.500, -7.872, 44]
+    level:    [90, 92]
+
+  17539215:
+    template: Vanguard_Vindicator
+    at:       [-125.300, -0.499, -18.719, 161]
+    level:    [90, 92]
+
+  17539216:
+    template: Vanguard_Protector
+    at:       [-101.219, -0.500, -8.639, 39]
+    level:    [90, 92]
+
+  17539217:
+    template: Vanguard_Vigilante
+    level:    [90, 92]
+    region:   dynamis_bastok_w_3
+
+  17539218:
+    template: Vanguard_Hatamoto
+    level:    [90, 92]
+    region:   dynamis_bastok_w
+
+  17539219:
+    template: Vanguard_Hatamoto
+    level:    [90, 92]
+    region:   dynamis_bastok_w
+
+  17539220:
+    template: Vanguard_Kusa
+    level:    [90, 92]
+    region:   dynamis_bastok_w
+
+  17539221:
+    template: Vanguard_Kusa
+    level:    [90, 92]
+    region:   dynamis_bastok_w
+
+  17539222:
+    template: Vanguard_Undertaker
+    level:    [90, 92]
+    region:   dynamis_bastok_w
+
+  17539223:
+    template: Vanguards_Avatar
+    at:       [-155.074, -0.543, -18.459, 19]
+    level:    [90, 92]
+
+  17539224:
+    template: Vanguard_Minstrel
+    level:    [90, 92]
+    region:   dynamis_bastok_w
+
+  17539225:
+    template: Vanguard_Protector
+    at:       [-133.551, -4.299, 7.920, 195]
+    level:    [90, 92]
+
+  17539226:
+    template: Vanguard_Defender
+    at:       [-134.343, -4.838, 8.958, 210]
+    level:    [90, 92]
+
+  17539227:
+    template: Adamantking_Effigy
+    at:       [-131.830, -4.939, 9.118, 195]
+    level:    [80, 80]
+
+  17539228:
+    template: Adamantking_Effigy
+    at:       [-130.141, -2.179, -0.430, 75]
+    level:    [80, 80]
+
+  17539229:
+    template: Adamantking_Effigy
+    at:       [-128.456, -8.978, 16.966, 166]
+    level:    [80, 80]
+
+  17539230:
+    template: Vanguard_Hatamoto
+    at:       [-130.128, -10.483, 18.853, 40]
+    level:    [90, 92]
+
+  17539231:
+    template: Vanguard_Kusa
+    at:       [-131.731, -11.686, 21.691, 131]
+    level:    [90, 92]
+
+  17539232:
+    template: Vanguard_Protector
+    at:       [-168.284, -6.392, -20.822, 46]
+    level:    [90, 92]
+
+  17539233:
+    template: Vanguard_Defender
+    at:       [-165.900, -4.723, -24.989, 43]
+    level:    [90, 92]
+
+  17539234:
+    template: Adamantking_Effigy
+    at:       [-176.910, -8.185, -21.968, 165]
+    level:    [80, 80]
+
+  17539235:
+    template: Adamantking_Effigy
+    at:       [-164.861, -3.941, -26.738, 169]
+    level:    [80, 80]
+
+  17539236:
+    template: Adamantking_Effigy
+    at:       [-175.270, -7.823, -19.167, 193]
+    level:    [80, 80]
+
+  17539237:
+    template: Vanguard_Beasttender
+    at:       [-177.648, -7.963, -16.341, 241]
+    level:    [90, 92]
+
+  17539238:
+    template: Vanguards_Scorpion
+    at:       [-172.516, -7.837, -16.583, 142]
+    level:    [90, 92]
+
+  17539239:
+    template: Vanguard_Drakekeeper
+    at:       [-177.848, -8.989, -25.569, 252]
+    level:    [90, 92]
+
+  17539240:
+    template: Vanguards_Wyvern
+    at:       [-177.578, -8.822, -23.048, 244]
+    level:    [90, 92]
+
+  17539241:
+    template: Vanguard_Vindicator
+    at:       [-184.171, -9.106, -15.070, 242]
+    level:    [90, 92]
+
+  17539242:
+    template: Vanguard_Militant
+    at:       [-176.557, -8.584, -15.427, 223]
+    level:    [90, 92]
+
+  17539243:
+    template: Vanguard_Constable
+    at:       [-185.322, -9.130, -20.465, 9]
+    level:    [90, 92]
+
+  17539244:
+    template: Vanguard_Vindicator
+    level:    [90, 92]
+    region:   dynamis_bastok_w_2
+
+  17539245:
+    template: Vanguard_Constable
+    level:    [90, 92]
+    region:   dynamis_bastok_w_2
+
+  17539246:
+    template: Vanguard_Thaumaturge
+    level:    [90, 92]
+    region:   dynamis_bastok_w_2
+
+  17539247:
+    template: Vanguard_Beasttender
+    level:    [90, 92]
+    region:   dynamis_bastok_w_2
+
+  17539248:
+    template: Vanguards_Scorpion
+    level:    [90, 92]
+    region:   dynamis_bastok_w_2
+
+  17539249:
+    template: Vanguard_Drakekeeper
+    level:    [90, 92]
+    region:   dynamis_bastok_w_2
+
+  17539250:
+    template: Vanguards_Wyvern
+    at:       [-111.500, -0.995, -37.965, 253]
+    level:    [90, 92]
+
+  17539251:
+    template: Vanguard_Thaumaturge
+    level:    [90, 92]
+    region:   dynamis_bastok_sw
+
+  17539252:
+    template: Vanguard_Vigilante
+    level:    [90, 92]
+    region:   dynamis_bastok_sw
+
+  17539253:
+    template: Adamantking_Image
+    level:    [80, 80]
+    region:   dynamis_bastok_sw
+
+  17539254:
+    template: Vanguard_Vindicator
+    at:       [-58.887, -8.506, -63.955, 17]
+    level:    [90, 92]
+
+  17539255:
+    template: Vanguard_Vindicator
+    at:       [-51.935, -8.500, -70.675, 199]
+    level:    [90, 92]
+
+  17539256:
+    template: Vanguard_Defender
+    at:       [-55.390, -8.502, -70.429, 97]
+    level:    [90, 92]
+
+  17539257:
+    template: Vanguard_Purloiner
+    at:       [-58.194, -8.540, -62.769, 32]
+    level:    [90, 92]
+
+  17539258:
+    template: Vanguard_Vigilante
+    at:       [-56.741, -8.500, -57.299, 153]
+    level:    [90, 92]
+
+  17539259:
+    template: Vanguard_Militant
+    at:       [-52.266, -8.507, -61.768, 239]
+    level:    [90, 92]
+
+  17539260:
+    template: Vanguard_Protector
+    at:       [-59.433, -8.544, -66.659, 184]
+    level:    [90, 92]
+
+  17539261:
+    template: Vanguard_Militant
+    at:       [-20.303, 6.500, 28.170, 6]
+    level:    [90, 92]
+
+  17539262:
+    template: Vanguard_Militant
+    level:    [90, 92]
+    region:   dynamis_bastok_n_5
+
+  17539263:
+    template: Vanguard_Vigilante
+    at:       [-32.386, -0.335, 37.195, 168]
+    level:    [90, 92]
+
+  17539264:
+    template: Vanguard_Vigilante
+    at:       [-8.431, 6.500, 27.190, 11]
+    level:    [90, 92]
+
+  17539265:
+    template: Vanguard_Protector
+    at:       [-20.675, 6.500, 28.194, 187]
+    level:    [90, 92]
+
+  17539266:
+    template: Adamantking_Effigy
+    at:       [-17.199, 6.500, 31.391, 193]
+    level:    [80, 80]
+
+  17539267:
+    template: Adamantking_Effigy
+    at:       [-17.632, 6.500, 31.270, 57]
+    level:    [80, 80]
+
+  17539268:
+    template: Vanguard_Constable
+    at:       [3.814, 6.500, 24.002, 43]
+    level:    [90, 92]
+
+  17539269:
+    template: Vanguard_Constable
+    at:       [-3.776, 6.500, 28.354, 118]
+    level:    [90, 92]
+
+  17539270:
+    template: Vanguard_Thaumaturge
+    at:       [14.041, 6.500, 0.361, 11]
+    level:    [90, 92]
+
+  17539271:
+    template: Vanguard_Thaumaturge
+    level:    [90, 92]
+    region:   dynamis_bastok_n_6
+
+  17539272:
+    template: Vanguard_Undertaker
+    at:       [0.411, 6.546, 26.121, 120]
+    level:    [90, 92]
+
+  17539273:
+    template: Vanguards_Avatar
+    at:       [1.353, 6.651, 28.012, 106]
+    level:    [90, 92]
+
+  17539274:
+    template: Adamantking_Effigy
+    at:       [3.335, 6.500, 21.486, 190]
+    level:    [80, 80]
+
+  17539275:
+    template: Adamantking_Effigy
+    at:       [-0.731, 6.500, 21.482, 165]
+    level:    [80, 80]
+
+  17539276:
+    template: Vanguard_Purloiner
+    at:       [-0.232, 6.500, 3.392, 147]
+    level:    [90, 92]
+
+  17539277:
+    template: Vanguard_Purloiner
+    at:       [2.053, 6.500, -1.791, 2]
+    level:    [90, 92]
+
+  17539278:
+    template: Vanguard_Defender
+    at:       [19.974, -0.500, 9.023, 126]
+    level:    [90, 92]
+
+  17539279:
+    template: Vanguard_Vigilante
+    at:       [15.340, -0.424, 8.099, 145]
+    level:    [90, 92]
+
+  17539280:
+    template: Vanguard_Thaumaturge
+    at:       [2.244, 6.500, -11.149, 219]
+    level:    [90, 92]
+
+  17539281:
+    template: Vanguard_Hatamoto
+    at:       [22.884, 6.500, -6.799, 9]
+    level:    [90, 92]
+
+  17539282:
+    template: Vanguard_Kusa
+    at:       [25.051, 6.500, -6.374, 96]
+    level:    [90, 92]
+
+  17539283:
+    template: Vanguard_Minstrel
+    at:       [35.535, -0.500, 13.768, 64]
+    level:    [90, 92]
+
+  17539284:
+    template: Vanguard_Beasttender
+    at:       [17.358, 6.500, -5.228, 41]
+    level:    [90, 92]
+
+  17539285:
+    template: Vanguards_Scorpion
+    at:       [17.478, 6.500, -5.124, 123]
+    level:    [90, 92]
+
+  17539286:
+    template: Adamantking_Effigy
+    at:       [15.875, 6.500, -0.761, 245]
+    level:    [80, 80]
+
+  17539287:
+    template: Adamantking_Effigy
+    at:       [23.512, 6.500, -2.799, 104]
+    level:    [80, 80]
+
+  17539288:
+    template: Vanguard_Hatamoto
+    at:       [90.690, -0.500, 8.077, 106]
+    level:    [90, 92]
+
+  17539289:
+    template: Vanguard_Kusa
+    at:       [49.958, 6.500, -3.001, 99]
+    level:    [90, 92]
+
+  17539290:
+    template: Vanguard_Minstrel
+    at:       [51.506, 6.399, -1.653, 98]
+    level:    [90, 92]
+
+  17539291:
+    template: Vanguard_Drakekeeper
+    at:       [38.753, 0.000, 19.119, 102]
+    level:    [90, 92]
+
+  17539292:
+    template: Vanguards_Wyvern
+    at:       [34.862, 0.000, 22.937, 248]
+    level:    [90, 92]
+
+  17539293:
+    template: Adamantking_Effigy
+    at:       [48.881, 6.016, -6.656, 9]
+    level:    [80, 80]
+
+  17539294:
+    template: Adamantking_Effigy
+    at:       [35.544, 6.500, 0.580, 93]
+    level:    [80, 80]
+
+  17539295:
+    template: Vanguard_Hatamoto
+    at:       [66.626, 6.500, -6.692, 119]
+    level:    [90, 92]
+
+  17539296:
+    template: Vanguard_Minstrel
+    at:       [65.522, 6.500, -6.398, 25]
+    level:    [90, 92]
+
+  17539297:
+    template: Vanguard_Purloiner
+    at:       [66.044, 6.500, -4.016, 205]
+    level:    [90, 92]
+
+  17539298:
+    template: Vanguard_Thaumaturge
+    at:       [87.254, 6.500, -0.635, 118]
+    level:    [90, 92]
+
+  17539299:
+    template: Vanguard_Vigilante
+    at:       [86.753, 6.500, -1.397, 160]
+    level:    [90, 92]
+
+  17539300:
+    template: Vanguard_Vindicator
+    at:       [75.080, 6.500, -28.890, 143]
+    level:    [90, 92]
+
+  17539301:
+    template: Vanguard_Militant
+    at:       [71.326, 6.500, -29.040, 247]
+    level:    [90, 92]
+
+  17539302:
+    template: Vanguard_Vigilante
+    at:       [66.825, 6.500, -30.591, 221]
+    level:    [90, 92]
+
+  17539303:
+    template: Vanguard_Protector
+    at:       [81.378, 6.500, -29.280, 252]
+    level:    [90, 92]
+
+  17539304:
+    template: Vanguard_Constable
+    at:       [70.154, 6.500, -32.482, 122]
+    level:    [90, 92]
+
+  17539305:
+    template: Vanguard_Minstrel
+    at:       [70.665, 6.500, -29.054, 241]
+    level:    [90, 92]
+
+  17539306:
+    template: Adamantking_Image
+    at:       [92.906, 6.500, -3.771, 128]
+    level:    [80, 80]
+
+  17539307:
+    template: ZoPha_Forgesoul
+    at:       [-131.000, -0.500, -68.000, 143]
+    level:    [95, 95]
+
+  17539308:
+    template: RaGho_Darkfount
+    at:       [-187.748, -9.076, -22.176, 199]
+    level:    [95, 95]
+
+  17539309:
+    template: RaGhos_Avatar
+    at:       [-188.858, -9.111, -23.138, 181]
+    level:    [92, 92]
+
+  17539310:
+    template: VaZhe_Pummelsong
+    at:       [-104.509, 11.500, 73.066, 87]
+    level:    [95, 95]
+
+  17539311:
+    template: BuBho_Truesteel
+    at:       [74.671, 6.500, -34.801, 183]
+    level:    [95, 95]
+
+  17539312:
+    template: Arch_GuDha_Effigy
+    at:       [-16.149, -2.000, -130.500, 147]
+    level:    [99, 99]

@@ -1,0 +1,2578 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17203201:
+    template: Stag_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [17, 18]
+
+  17203202:
+    template: Spring_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [16, 18]
+
+  17203203:
+    template: Thread_Leech
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [19, 22]
+
+  17203204:
+    template: Ferocious_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [24, 25]
+
+  17203205:
+    template: Huge_Leech
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [27, 29]
+
+  17203206:
+    template: Knight_Crab
+    level:    [35, 35]
+    region:   jugner_forest_n
+
+  17203207:
+    template: Knight_Crab
+    level:    [35, 35]
+    region:   jugner_forest_n
+
+  17203208:
+    template: Knight_Crab
+    level:    [35, 35]
+    region:   jugner_forest_n
+
+  17203209:
+    template: Knight_Crab
+    level:    [35, 35]
+    region:   jugner_forest_n
+
+  17203210:
+    template: Knight_Crab
+    level:    [35, 35]
+    region:   jugner_forest_n
+
+  17203211:
+    template: Knight_Crab
+    level:    [35, 35]
+    region:   jugner_forest_n
+
+  17203212:
+    template: Knight_Crab
+    level:    [35, 35]
+    region:   jugner_forest_n
+
+  17203213:
+    template: Knight_Crab
+    level:    [35, 35]
+    region:   jugner_forest_n
+
+  17203214:
+    template: Knight_Crab
+    level:    [35, 35]
+    region:   jugner_forest_n
+
+  17203215:
+    template: Knight_Crab
+    level:    [35, 35]
+    region:   jugner_forest_n
+
+  17203216:
+    template: King_Arthro
+    level:    [55, 55]
+    region:   jugner_forest_sw_6
+
+  17203217:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_sw
+
+  17203218:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_sw
+
+  17203219:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_sw
+
+  17203220:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_sw
+
+  17203221:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_sw
+
+  17203222:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_sw
+
+  17203223:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_sw
+
+  17203224:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_sw
+
+  17203225:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_sw
+
+  17203226:
+    template: Scavenging_Hound
+    level:    [22, 23]
+    region:   jugner_forest_sw_2
+
+  17203227:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_sw_3
+
+  17203228:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_sw_3
+
+  17203229:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_sw_3
+
+  17203230:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_sw_3
+
+  17203231:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_sw_3
+
+  17203232:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_sw_3
+
+  17203233:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_sw_3
+
+  17203234:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_sw_3
+
+  17203235:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_sw_3
+
+  17203236:
+    template: Scavenging_Hound
+    level:    [22, 23]
+    region:   jugner_forest_sw_5
+
+  17203237:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_sw_4
+
+  17203238:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_sw_4
+
+  17203239:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_sw_4
+
+  17203240:
+    template: Forest_Leech
+    level:    [21, 22]
+    region:   jugner_forest_sw_4
+
+  17203241:
+    template: Forest_Leech
+    level:    [21, 22]
+    region:   jugner_forest_sw_4
+
+  17203242:
+    template: Forest_Leech
+    level:    [21, 22]
+    region:   jugner_forest_sw_4
+
+  17203243:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_sw
+
+  17203244:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_sw
+
+  17203245:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_sw
+
+  17203246:
+    template: Screamer
+    level:    [17, 18]
+    region:   jugner_forest_sw
+
+  17203247:
+    template: Screamer
+    level:    [17, 18]
+    region:   jugner_forest_sw
+
+  17203248:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_sw
+
+  17203249:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_sw
+
+  17203250:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_sw
+
+  17203251:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_sw
+
+  17203252:
+    template: Walking_Tree
+    level:    [27, 28]
+    region:   jugner_forest_sw
+
+  17203253:
+    template: Scavenging_Hound
+    at:       [-193.197, -1.405, -93.869, 235]
+    level:    [22, 23]
+
+  17203254:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_w_5
+
+  17203255:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_w_5
+
+  17203256:
+    template: Forest_Leech
+    level:    [21, 22]
+    region:   jugner_forest_w_5
+
+  17203257:
+    template: Forest_Leech
+    level:    [21, 22]
+    region:   jugner_forest_w_5
+
+  17203258:
+    template: Forest_Leech
+    level:    [21, 22]
+    region:   jugner_forest_w_5
+
+  17203259:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_w_6
+
+  17203260:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_w_6
+
+  17203261:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_w_6
+
+  17203262:
+    template: Forest_Leech
+    at:       [-231.637, -0.067, -160.362, 120]
+    level:    [21, 22]
+
+  17203263:
+    template: Forest_Leech
+    level:    [21, 22]
+    region:   jugner_forest_w_6
+
+  17203264:
+    template: Forest_Leech
+    level:    [21, 22]
+    region:   jugner_forest_w_6
+
+  17203265:
+    template: Forest_Tiger
+    level:    [24, 25]
+    region:   jugner_forest_sw
+
+  17203266:
+    template: Forest_Tiger
+    level:    [24, 25]
+    region:   jugner_forest_sw
+
+  17203267:
+    template: Orcish_Grunt
+    level:    [16, 17]
+    region:   jugner_forest_sw
+
+  17203268:
+    template: Orcish_Stonechucker
+    level:    [16, 17]
+    region:   jugner_forest_sw
+
+  17203269:
+    template: Orcish_Neckchopper
+    level:    [16, 17]
+    region:   jugner_forest_sw
+
+  17203270:
+    template: Orcish_Fighter
+    level:    [21, 22]
+    region:   jugner_forest_sw
+
+  17203271:
+    template: Orcish_Cursemaker
+    level:    [22, 22]
+    region:   jugner_forest_sw
+
+  17203272:
+    template: Orcish_Serjeant
+    level:    [21, 22]
+    region:   jugner_forest_sw
+
+  17203273:
+    template: Ghoul
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [16, 17]
+
+  17203274:
+    template: Zombie
+    level:    [16, 17]
+    region:   jugner_forest_w_7
+
+  17203275:
+    template: Thunder_Elemental
+    level:    [27, 29]
+    region:   jugner_forest_sw
+
+  17203276:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_w_2
+
+  17203277:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_w_2
+
+  17203278:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_w_2
+
+  17203279:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_w_2
+
+  17203280:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_w_2
+
+  17203281:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_w_2
+
+  17203282:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_w_2
+
+  17203283:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_w_2
+
+  17203284:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_w_3
+
+  17203285:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_w_3
+
+  17203286:
+    template: Forest_Leech
+    level:    [21, 22]
+    region:   jugner_forest_w_3
+
+  17203287:
+    template: Forest_Leech
+    level:    [21, 22]
+    region:   jugner_forest_w_3
+
+  17203288:
+    template: Forest_Leech
+    level:    [21, 22]
+    region:   jugner_forest_w_3
+
+  17203289:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_c
+
+  17203290:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_c
+
+  17203291:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_c
+
+  17203292:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_c
+
+  17203293:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_c
+
+  17203294:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_c
+
+  17203295:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_c
+
+  17203296:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_c
+
+  17203297:
+    template: Scavenging_Hound
+    at:       [-278.434, 4.831, 173.891, 115]
+    level:    [22, 23]
+
+  17203298:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_c
+
+  17203299:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_c
+
+  17203300:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_c
+
+  17203301:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_c
+
+  17203302:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_c
+
+  17203303:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_c
+
+  17203304:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_c
+
+  17203305:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_c
+
+  17203306:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_c
+
+  17203307:
+    template: Scavenging_Hound
+    level:    [22, 23]
+    region:   jugner_forest_c_7
+
+  17203308:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_c_4
+
+  17203309:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_c_4
+
+  17203310:
+    template: Forest_Leech
+    level:    [21, 22]
+    region:   jugner_forest_c_4
+
+  17203311:
+    template: Forest_Leech
+    level:    [21, 22]
+    region:   jugner_forest_c_4
+
+  17203312:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_c_6
+
+  17203313:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_c_6
+
+  17203314:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_c_6
+
+  17203315:
+    template: Forest_Leech
+    level:    [21, 22]
+    region:   jugner_forest_c_6
+
+  17203316:
+    template: Forest_Leech
+    level:    [21, 22]
+    region:   jugner_forest_c_6
+
+  17203317:
+    template: Forest_Leech
+    level:    [21, 22]
+    region:   jugner_forest_c_6
+
+  17203318:
+    template: Forest_Tiger
+    level:    [24, 25]
+    region:   jugner_forest_c
+
+  17203319:
+    template: Forest_Tiger
+    level:    [24, 25]
+    region:   jugner_forest_c
+
+  17203320:
+    template: Goblin_Mugger
+    level:    [21, 22]
+    region:   jugner_forest_c
+
+  17203321:
+    template: Goblin_Ambusher
+    level:    [16, 17]
+    region:   jugner_forest_c
+
+  17203322:
+    template: Goblin_Leecher
+    level:    [21, 22]
+    region:   jugner_forest_c
+
+  17203323:
+    template: Goblin_Tinkerer
+    level:    [16, 17]
+    region:   jugner_forest_c
+
+  17203324:
+    template: Goblin_Gambler
+    level:    [21, 22]
+    region:   jugner_forest_c
+
+  17203325:
+    template: Goblin_Butcher
+    level:    [16, 17]
+    region:   jugner_forest_c
+
+  17203326:
+    template: Ghoul
+    level:    [16, 17]
+    region:   jugner_forest_c_2
+
+  17203327:
+    template: Zombie
+    level:    [21, 22]
+    region:   jugner_forest_w_4
+
+  17203328:
+    template: Thunder_Elemental
+    level:    [27, 29]
+    region:   jugner_forest_c
+
+  17203329:
+    template: Snipper
+    level:    [19, 20]
+    region:   jugner_forest_nw
+
+  17203330:
+    template: Snipper
+    level:    [19, 20]
+    region:   jugner_forest_nw
+
+  17203331:
+    template: Land_Pugil
+    level:    [19, 20]
+    region:   jugner_forest_nw
+
+  17203332:
+    template: Land_Pugil
+    level:    [19, 20]
+    region:   jugner_forest_nw
+
+  17203333:
+    template: Bogy
+    level:    [25, 26]
+    region:   jugner_forest_nw
+
+  17203334:
+    template: Water_Elemental
+    at:       [-500.637, 8.492, 281.808, 127]
+    level:    [27, 29]
+
+  17203335:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_n_2
+
+  17203336:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_n_2
+
+  17203337:
+    template: Screamer
+    level:    [17, 18]
+    region:   jugner_forest_n_2
+
+  17203338:
+    template: Screamer
+    level:    [17, 18]
+    region:   jugner_forest_n_2
+
+  17203339:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_n_2
+
+  17203340:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_n_2
+
+  17203341:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_n_2
+
+  17203342:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_n_2
+
+  17203343:
+    template: Snipper
+    level:    [19, 20]
+    region:   jugner_forest_n_2
+
+  17203344:
+    template: Snipper
+    level:    [19, 20]
+    region:   jugner_forest_n_2
+
+  17203345:
+    template: Land_Pugil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [19, 20]
+
+  17203346:
+    template: Land_Pugil
+    level:    [19, 20]
+    region:   jugner_forest_n_2
+
+  17203347:
+    template: Bogy
+    level:    [25, 26]
+    region:   jugner_forest_n_2
+
+  17203348:
+    template: Water_Elemental
+    level:    [27, 29]
+    region:   jugner_forest_n_3
+
+  17203349:
+    template: Snipper
+    level:    [19, 20]
+    region:   jugner_forest_n_4
+
+  17203350:
+    template: Snipper
+    level:    [19, 20]
+    region:   jugner_forest_n_4
+
+  17203351:
+    template: Land_Pugil
+    level:    [19, 20]
+    region:   jugner_forest_n_4
+
+  17203352:
+    template: Land_Pugil
+    level:    [19, 20]
+    region:   jugner_forest_n_4
+
+  17203353:
+    template: Bogy
+    level:    [25, 26]
+    region:   jugner_forest_n_4
+
+  17203354:
+    template: Water_Elemental
+    at:       [105.628, 3.643, 439.504, 127]
+    level:    [27, 29]
+
+  17203355:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_c_3
+
+  17203356:
+    template: Screamer
+    level:    [17, 18]
+    region:   jugner_forest_c_3
+
+  17203357:
+    template: Screamer
+    level:    [17, 18]
+    region:   jugner_forest_c_3
+
+  17203358:
+    template: Screamer
+    level:    [17, 18]
+    region:   jugner_forest_c_3
+
+  17203359:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_c_3
+
+  17203360:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_c_3
+
+  17203361:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_c_3
+
+  17203362:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_c_3
+
+  17203363:
+    template: Scavenging_Hound
+    level:    [22, 23]
+    region:   jugner_forest_c_10
+
+  17203364:
+    template: Jugner_Funguar
+    at:       [145.004, 4.216, 22.830, 19]
+    level:    [24, 25]
+
+  17203365:
+    template: Jugner_Funguar
+    at:       [122.952, 4.991, 28.192, 124]
+    level:    [24, 25]
+
+  17203366:
+    template: Forest_Leech
+    level:    [21, 22]
+    region:   jugner_forest_c_11
+
+  17203367:
+    template: Forest_Leech
+    level:    [21, 22]
+    region:   jugner_forest_c_11
+
+  17203368:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_c_3
+
+  17203369:
+    template: Screamer
+    level:    [17, 18]
+    region:   jugner_forest_c_3
+
+  17203370:
+    template: Screamer
+    level:    [17, 18]
+    region:   jugner_forest_c_3
+
+  17203371:
+    template: Screamer
+    level:    [17, 18]
+    region:   jugner_forest_c_3
+
+  17203372:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_c_3
+
+  17203373:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_c_3
+
+  17203374:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_c_3
+
+  17203375:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_c_3
+
+  17203376:
+    template: Screamer
+    level:    [17, 18]
+    region:   jugner_forest_c_3
+
+  17203377:
+    template: Screamer
+    level:    [17, 18]
+    region:   jugner_forest_c_3
+
+  17203378:
+    template: Screamer
+    level:    [17, 18]
+    region:   jugner_forest_c_3
+
+  17203379:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_c_3
+
+  17203380:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_c_3
+
+  17203381:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_c_3
+
+  17203382:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_c_3
+
+  17203383:
+    template: Snipper
+    level:    [19, 20]
+    region:   jugner_forest_c_8
+
+  17203384:
+    template: Snipper
+    level:    [19, 20]
+    region:   jugner_forest_c_8
+
+  17203385:
+    template: Snipper
+    level:    [19, 20]
+    region:   jugner_forest_c_8
+
+  17203386:
+    template: Land_Pugil
+    level:    [19, 20]
+    region:   jugner_forest_c_8
+
+  17203387:
+    template: Land_Pugil
+    level:    [19, 20]
+    region:   jugner_forest_c_8
+
+  17203388:
+    template: Land_Pugil
+    level:    [19, 20]
+    region:   jugner_forest_c_8
+
+  17203389:
+    template: Snipper
+    level:    [19, 20]
+    region:   jugner_forest_c_12
+
+  17203390:
+    template: Land_Pugil
+    level:    [19, 20]
+    region:   jugner_forest_c_12
+
+  17203391:
+    template: Snipper
+    level:    [19, 20]
+    region:   jugner_forest_s_5
+
+  17203392:
+    template: Land_Pugil
+    level:    [19, 20]
+    region:   jugner_forest_s_5
+
+  17203393:
+    template: Snipper
+    level:    [19, 20]
+    region:   jugner_forest_s_3
+
+  17203394:
+    template: Snipper
+    level:    [19, 20]
+    region:   jugner_forest_s_3
+
+  17203395:
+    template: Land_Pugil
+    level:    [19, 20]
+    region:   jugner_forest_s_3
+
+  17203396:
+    template: Land_Pugil
+    level:    [19, 20]
+    region:   jugner_forest_s_3
+
+  17203397:
+    template: Forest_Tiger
+    level:    [24, 25]
+    region:   jugner_forest_c_3
+
+  17203398:
+    template: Orcish_Grunt
+    level:    [16, 17]
+    region:   jugner_forest_c_3
+
+  17203399:
+    template: Orcish_Stonechucker
+    level:    [16, 17]
+    region:   jugner_forest_c_3
+
+  17203400:
+    template: Orcish_Neckchopper
+    level:    [16, 17]
+    region:   jugner_forest_c_3
+
+  17203401:
+    template: Orcish_Fighter
+    level:    [21, 22]
+    region:   jugner_forest_c_3
+
+  17203402:
+    template: Orcish_Cursemaker
+    level:    [21, 22]
+    region:   jugner_forest_c_3
+
+  17203403:
+    template: Orcish_Serjeant
+    level:    [21, 22]
+    region:   jugner_forest_c_3
+
+  17203404:
+    template: Ghoul
+    at:       [-99.057, 0.279, -365.504, 127]
+    level:    [16, 17]
+
+  17203405:
+    template: Zombie
+    at:       [-8.231, -0.457, -242.167, 127]
+    level:    [21, 22]
+
+  17203406:
+    template: Will-o-the-Wisp
+    level:    [24, 25]
+    region:   jugner_forest_c_3
+
+  17203407:
+    template: Orcish_Grunt
+    level:    [16, 17]
+    region:   jugner_forest_s
+
+  17203408:
+    template: Orcish_Stonechucker
+    level:    [16, 17]
+    region:   jugner_forest_s
+
+  17203409:
+    template: Orcish_Neckchopper
+    level:    [16, 17]
+    region:   jugner_forest_s
+
+  17203410:
+    template: Orcish_Fighter
+    at:       [-192.900, -3.760, -457.319, 127]
+    level:    [21, 22]
+
+  17203411:
+    template: Orcish_Fighter
+    level:    [21, 22]
+    region:   jugner_forest_s
+
+  17203412:
+    template: Orcish_Cursemaker
+    level:    [21, 22]
+    region:   jugner_forest_s
+
+  17203413:
+    template: Orcish_Serjeant
+    level:    [21, 22]
+    region:   jugner_forest_s
+
+  17203414:
+    template: Meteormauler_Zhagtegg
+    at:       [-232.300, -8.180, -571.660, 221]
+    level:    [37, 40]
+
+  17203415:
+    template: Orcish_Cursemaker
+    at:       [-142.000, -1.000, -411.000, 127]
+    level:    [25, 25]
+
+  17203416:
+    template: Orcish_Serjeant
+    at:       [-160.949, -1.982, -392.046, 127]
+    level:    [24, 25]
+
+  17203417:
+    template: Snipper
+    level:    [19, 20]
+    region:   jugner_forest_s_2
+
+  17203418:
+    template: Snipper
+    level:    [19, 20]
+    region:   jugner_forest_s_2
+
+  17203419:
+    template: Land_Pugil
+    level:    [19, 20]
+    region:   jugner_forest_s_2
+
+  17203420:
+    template: Land_Pugil
+    level:    [19, 20]
+    region:   jugner_forest_s_2
+
+  17203421:
+    template: Bogy
+    level:    [25, 26]
+    region:   jugner_forest_s_2
+
+  17203422:
+    template: Water_Elemental
+    at:       [-8.196, -15.777, -588.725, 127]
+    level:    [27, 29]
+
+  17203423:
+    template: Forest_Tiger
+    at:       [-47.585, -19.117, -648.590, 127]
+    level:    [24, 25]
+
+  17203424:
+    template: Forest_Tiger
+    at:       [-53.845, -20.874, -654.784, 106]
+    level:    [24, 25]
+
+  17203425:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_s_4
+
+  17203426:
+    template: Screamer
+    level:    [17, 18]
+    region:   jugner_forest_s_4
+
+  17203427:
+    template: Screamer
+    level:    [17, 18]
+    region:   jugner_forest_s_4
+
+  17203428:
+    template: Screamer
+    level:    [17, 18]
+    region:   jugner_forest_s_4
+
+  17203429:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_s_4
+
+  17203430:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_s_4
+
+  17203431:
+    template: Screamer
+    level:    [17, 18]
+    region:   jugner_forest_s_4
+
+  17203432:
+    template: Screamer
+    level:    [17, 18]
+    region:   jugner_forest_s_4
+
+  17203433:
+    template: Screamer
+    level:    [17, 18]
+    region:   jugner_forest_s_4
+
+  17203434:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_s_4
+
+  17203435:
+    template: Forest_Tiger
+    level:    [24, 25]
+    region:   jugner_forest_s_4
+
+  17203436:
+    template: Forest_Tiger
+    level:    [24, 25]
+    region:   jugner_forest_s_4
+
+  17203437:
+    template: Orcish_Grunt
+    level:    [16, 17]
+    region:   jugner_forest_s_4
+
+  17203438:
+    template: Orcish_Stonechucker
+    level:    [16, 17]
+    region:   jugner_forest_s_4
+
+  17203439:
+    template: Orcish_Neckchopper
+    level:    [16, 17]
+    region:   jugner_forest_s_4
+
+  17203440:
+    template: Orcish_Fighter
+    at:       [-47.952, -6.456, -463.572, 127]
+    level:    [21, 22]
+
+  17203441:
+    template: Orcish_Cursemaker
+    level:    [21, 22]
+    region:   jugner_forest_s_4
+
+  17203442:
+    template: Orcish_Serjeant
+    at:       [133.598, -0.381, -219.910, 127]
+    level:    [21, 22]
+
+  17203443:
+    template: Ghoul
+    at:       [-42.065, -8.565, -476.637, 127]
+    level:    [16, 17]
+
+  17203444:
+    template: Zombie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [21, 22]
+
+  17203445:
+    template: Will-o-the-Wisp
+    level:    [24, 25]
+    region:   jugner_forest_s_4
+
+  17203446:
+    template: Scavenging_Hound
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [22, 23]
+
+  17203447:
+    template: Fraelissa
+    level:    [34, 35]
+    region:   jugner_forest_s_4
+
+  17203448:
+    template: Fradubio
+    at:       [76.573, -0.901, -246.241, 4]
+    level:    [59, 60]
+
+  17203449:
+    template: Duessa
+    at:       [77.573, -0.901, -246.241, 0]
+    level:    [54, 54]
+
+  17203450:
+    template: Duessa
+    at:       [78.573, -0.901, -246.241, 0]
+    level:    [54, 54]
+
+  17203451:
+    template: Duessa
+    at:       [79.573, -0.901, -246.241, 0]
+    level:    [54, 54]
+
+  17203452:
+    template: Duessa
+    at:       [80.573, -0.901, -246.241, 0]
+    level:    [54, 54]
+
+  17203453:
+    template: Duessa
+    at:       [81.573, -0.901, -246.241, 0]
+    level:    [54, 54]
+
+  17203454:
+    template: Snipper
+    level:    [19, 20]
+    region:   jugner_forest_s_6
+
+  17203455:
+    template: Snipper
+    level:    [19, 20]
+    region:   jugner_forest_s_6
+
+  17203456:
+    template: Land_Pugil
+    level:    [19, 20]
+    region:   jugner_forest_s_6
+
+  17203457:
+    template: Land_Pugil
+    level:    [19, 20]
+    region:   jugner_forest_s_6
+
+  17203458:
+    template: Snipper
+    level:    [19, 20]
+    region:   jugner_forest_se_2
+
+  17203459:
+    template: Land_Pugil
+    level:    [19, 20]
+    region:   jugner_forest_se_2
+
+  17203460:
+    template: Snipper
+    level:    [19, 20]
+    region:   jugner_forest_se_2
+
+  17203461:
+    template: Snipper
+    level:    [19, 20]
+    region:   jugner_forest_se_2
+
+  17203462:
+    template: Land_Pugil
+    level:    [19, 20]
+    region:   jugner_forest_se_2
+
+  17203463:
+    template: Land_Pugil
+    level:    [19, 20]
+    region:   jugner_forest_se_2
+
+  17203464:
+    template: Bogy
+    level:    [25, 26]
+    region:   jugner_forest_se_2
+
+  17203465:
+    template: Water_Elemental
+    at:       [246.856, -17.062, -503.959, 127]
+    level:    [27, 29]
+
+  17203466:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_se
+
+  17203467:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_se
+
+  17203468:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_se
+
+  17203469:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_se
+
+  17203470:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_se
+
+  17203471:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_se
+
+  17203472:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_se
+
+  17203473:
+    template: Walking_Tree
+    level:    [27, 28]
+    region:   jugner_forest_se
+
+  17203474:
+    template: Scavenging_Hound
+    at:       [247.226, -3.611, -379.283, 125]
+    level:    [22, 23]
+
+  17203475:
+    template: Supplespine_Mujwuj
+    at:       [50.114, -0.184, -240.493, 127]
+    level:    [50, 50]
+
+  17203476:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_se_4
+
+  17203477:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_se_4
+
+  17203478:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_se_4
+
+  17203479:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_se_4
+
+  17203480:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_se_4
+
+  17203481:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_se_4
+
+  17203482:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_se_4
+
+  17203483:
+    template: Scavenging_Hound
+    at:       [412.250, -13.583, -385.550, 209]
+    level:    [22, 23]
+
+  17203484:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_c_13
+
+  17203485:
+    template: Screamer
+    level:    [17, 18]
+    region:   jugner_forest_c_13
+
+  17203486:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_c_13
+
+  17203487:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_c_13
+
+  17203488:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_c_13
+
+  17203489:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_c_13
+
+  17203490:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_c_13
+
+  17203491:
+    template: Scavenging_Hound
+    level:    [22, 23]
+    region:   jugner_forest_c_13
+
+  17203492:
+    template: Forest_Tiger
+    level:    [24, 25]
+    region:   jugner_forest_se
+
+  17203493:
+    template: Orcish_Grunt
+    level:    [16, 17]
+    region:   jugner_forest_se
+
+  17203494:
+    template: Orcish_Stonechucker
+    level:    [16, 17]
+    region:   jugner_forest_se
+
+  17203495:
+    template: Orcish_Neckchopper
+    level:    [16, 17]
+    region:   jugner_forest_se
+
+  17203496:
+    template: Orcish_Fighter
+    level:    [21, 22]
+    region:   jugner_forest_se
+
+  17203497:
+    template: Orcish_Cursemaker
+    level:    [22, 22]
+    region:   jugner_forest_se
+
+  17203498:
+    template: Orcish_Serjeant
+    level:    [21, 22]
+    region:   jugner_forest_se
+
+  17203499:
+    template: Ghoul
+    at:       [226.547, -2.926, -138.020, 56]
+    level:    [16, 17]
+
+  17203500:
+    template: Zombie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [21, 22]
+
+  17203501:
+    template: Will-o-the-Wisp
+    level:    [24, 25]
+    region:   jugner_forest_se
+
+  17203502:
+    template: Boggart
+    level:    [25, 26]
+    region:   jugner_forest_se_3
+
+  17203503:
+    template: Boggart
+    level:    [25, 26]
+    region:   jugner_forest_se_3
+
+  17203504:
+    template: Snipper
+    level:    [19, 20]
+    region:   jugner_forest_e_3
+
+  17203505:
+    template: Snipper
+    level:    [19, 20]
+    region:   jugner_forest_e_3
+
+  17203506:
+    template: Land_Pugil
+    level:    [19, 20]
+    region:   jugner_forest_e_3
+
+  17203507:
+    template: Land_Pugil
+    level:    [19, 20]
+    region:   jugner_forest_e_3
+
+  17203508:
+    template: Bogy
+    level:    [25, 26]
+    region:   jugner_forest_e_3
+
+  17203509:
+    template: Water_Elemental
+    at:       [321.833, -0.025, -188.876, 127]
+    level:    [27, 29]
+
+  17203510:
+    template: Boggart
+    level:    [25, 26]
+    region:   jugner_forest_e_4
+
+  17203511:
+    template: Boggart
+    level:    [25, 26]
+    region:   jugner_forest_e_4
+
+  17203512:
+    template: Boggart
+    level:    [25, 26]
+    region:   jugner_forest_e_4
+
+  17203513:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_e_5
+
+  17203514:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_e_5
+
+  17203515:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_e_5
+
+  17203516:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_e_5
+
+  17203517:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_e_5
+
+  17203518:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_e_5
+
+  17203519:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_c_9
+
+  17203520:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_c_9
+
+  17203521:
+    template: Screamer
+    level:    [17, 18]
+    region:   jugner_forest_c_9
+
+  17203522:
+    template: Screamer
+    level:    [17, 18]
+    region:   jugner_forest_c_9
+
+  17203523:
+    template: Screamer
+    level:    [17, 18]
+    region:   jugner_forest_c_9
+
+  17203524:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_c_9
+
+  17203525:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_c_9
+
+  17203526:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_c_9
+
+  17203527:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_c_9
+
+  17203528:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_e
+
+  17203529:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_e
+
+  17203530:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_e
+
+  17203531:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_e
+
+  17203532:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_e
+
+  17203533:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_e
+
+  17203534:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_e
+
+  17203535:
+    template: Scavenging_Hound
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [22, 23]
+
+  17203536:
+    template: Forest_Tiger
+    at:       [325.443, -1.678, 40.651, 82]
+    level:    [24, 25]
+
+  17203537:
+    template: Forest_Tiger
+    at:       [316.655, -1.970, 35.257, 77]
+    level:    [24, 25]
+
+  17203538:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_e
+
+  17203539:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_e
+
+  17203540:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_e
+
+  17203541:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_e
+
+  17203542:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_e
+
+  17203543:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_e
+
+  17203544:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_e
+
+  17203545:
+    template: Walking_Tree
+    level:    [27, 28]
+    region:   jugner_forest_e
+
+  17203546:
+    template: Scavenging_Hound
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [22, 23]
+
+  17203547:
+    template: Sappy_Sycamore
+    level:    [41, 42]
+    region:   jugner_forest_e
+
+  17203548:
+    template: Jugner_Funguar
+    at:       [251.603, 3.366, 212.978, 127]
+    level:    [24, 25]
+
+  17203549:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_e_2
+
+  17203550:
+    template: Forest_Leech
+    level:    [21, 22]
+    region:   jugner_forest_e_2
+
+  17203551:
+    template: Forest_Leech
+    level:    [21, 22]
+    region:   jugner_forest_e_2
+
+  17203552:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_e
+
+  17203553:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_e
+
+  17203554:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_e
+
+  17203555:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_e
+
+  17203556:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_e
+
+  17203557:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_e
+
+  17203558:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_e
+
+  17203559:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_e
+
+  17203560:
+    template: Scavenging_Hound
+    at:       [490.611, -0.319, 169.448, 42]
+    level:    [22, 23]
+
+  17203561:
+    template: Forest_Tiger
+    level:    [24, 25]
+    region:   jugner_forest_e
+
+  17203562:
+    template: Goblin_Mugger
+    level:    [21, 22]
+    region:   jugner_forest_e
+
+  17203563:
+    template: Goblin_Ambusher
+    level:    [16, 17]
+    region:   jugner_forest_e
+
+  17203564:
+    template: Goblin_Leecher
+    level:    [21, 22]
+    region:   jugner_forest_e
+
+  17203565:
+    template: Goblin_Tinkerer
+    level:    [16, 17]
+    region:   jugner_forest_e
+
+  17203566:
+    template: Goblin_Gambler
+    level:    [21, 22]
+    region:   jugner_forest_e
+
+  17203567:
+    template: Goblin_Butcher
+    level:    [16, 17]
+    region:   jugner_forest_e
+
+  17203568:
+    template: Ghoul
+    at:       [265.531, -2.347, 301.585, 127]
+    level:    [16, 17]
+
+  17203569:
+    template: Zombie
+    at:       [467.420, -0.556, 170.924, 127]
+    level:    [21, 22]
+
+  17203570:
+    template: Thunder_Elemental
+    level:    [27, 29]
+    region:   jugner_forest_e
+
+  17203571:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_ne_6
+
+  17203572:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_ne_6
+
+  17203573:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_ne_6
+
+  17203574:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_ne_6
+
+  17203575:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_ne_6
+
+  17203576:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_ne_6
+
+  17203577:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_ne_6
+
+  17203578:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_ne_6
+
+  17203579:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_ne_6
+
+  17203580:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_ne_6
+
+  17203581:
+    template: Stag_Beetle
+    at:       [535.504, -1.517, 152.171, 53]
+    level:    [22, 23]
+
+  17203582:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_ne_9
+
+  17203583:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_ne_9
+
+  17203584:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_ne_9
+
+  17203585:
+    template: Panzer_Percival
+    at:       [585.027, 0.044, 203.418, 13]
+    level:    [25, 26]
+
+  17203586:
+    template: Boggart
+    level:    [25, 26]
+    region:   jugner_forest_ne_9
+
+  17203587:
+    template: Boggart
+    level:    [25, 26]
+    region:   jugner_forest_ne_9
+
+  17203588:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_n_5
+
+  17203589:
+    template: Screamer
+    level:    [17, 18]
+    region:   jugner_forest_n_5
+
+  17203590:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_n_5
+
+  17203591:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_n_5
+
+  17203592:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_n_5
+
+  17203593:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_n_5
+
+  17203594:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_n_5
+
+  17203595:
+    template: Scavenging_Hound
+    at:       [102.959, 2.946, 431.712, 198]
+    level:    [22, 23]
+
+  17203596:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_ne_2
+
+  17203597:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_ne_2
+
+  17203598:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_ne_2
+
+  17203599:
+    template: Forest_Leech
+    at:       [246.972, 1.469, 367.769, 34]
+    level:    [21, 22]
+
+  17203600:
+    template: Forest_Leech
+    level:    [21, 22]
+    region:   jugner_forest_ne_2
+
+  17203601:
+    template: Forest_Leech
+    level:    [21, 22]
+    region:   jugner_forest_ne_2
+
+  17203602:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_ne
+
+  17203603:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_ne
+
+  17203604:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_ne
+
+  17203605:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_ne
+
+  17203606:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_ne
+
+  17203607:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_ne
+
+  17203608:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_ne
+
+  17203609:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_ne
+
+  17203610:
+    template: Scavenging_Hound
+    level:    [22, 23]
+    region:   jugner_forest_ne_5
+
+  17203611:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_ne
+
+  17203612:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_ne
+
+  17203613:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_ne
+
+  17203614:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_ne
+
+  17203615:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_ne
+
+  17203616:
+    template: Wandering_Sapling
+    level:    [15, 16]
+    region:   jugner_forest_ne
+
+  17203617:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_ne
+
+  17203618:
+    template: Brutal_Sheep
+    level:    [20, 21]
+    region:   jugner_forest_ne
+
+  17203619:
+    template: Scavenging_Hound
+    at:       [476.953, -0.516, 586.987, 127]
+    level:    [22, 23]
+
+  17203620:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_ne_7
+
+  17203621:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_ne_7
+
+  17203622:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_ne_7
+
+  17203623:
+    template: Forest_Leech
+    level:    [21, 22]
+    region:   jugner_forest_ne_7
+
+  17203624:
+    template: Forest_Leech
+    level:    [21, 22]
+    region:   jugner_forest_ne_7
+
+  17203625:
+    template: Forest_Leech
+    level:    [21, 22]
+    region:   jugner_forest_ne_7
+
+  17203626:
+    template: Forest_Tiger
+    level:    [24, 25]
+    region:   jugner_forest_ne
+
+  17203627:
+    template: Forest_Tiger
+    level:    [24, 25]
+    region:   jugner_forest_ne
+
+  17203628:
+    template: Goblin_Mugger
+    level:    [21, 22]
+    region:   jugner_forest_ne
+
+  17203629:
+    template: Goblin_Ambusher
+    level:    [16, 17]
+    region:   jugner_forest_ne
+
+  17203630:
+    template: Goblin_Leecher
+    level:    [21, 22]
+    region:   jugner_forest_ne
+
+  17203631:
+    template: Goblin_Tinkerer
+    level:    [16, 17]
+    region:   jugner_forest_ne
+
+  17203632:
+    template: Goblin_Gambler
+    level:    [21, 22]
+    region:   jugner_forest_ne
+
+  17203633:
+    template: Goblin_Butcher
+    level:    [16, 17]
+    region:   jugner_forest_ne
+
+  17203634:
+    template: Ghoul
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [16, 17]
+
+  17203635:
+    template: Zombie
+    at:       [262.618, -4.596, 321.318, 127]
+    level:    [21, 22]
+
+  17203636:
+    template: Thunder_Elemental
+    level:    [27, 29]
+    region:   jugner_forest_ne
+
+  17203637:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_ne_4
+
+  17203638:
+    template: Stag_Beetle
+    level:    [22, 23]
+    region:   jugner_forest_ne_4
+
+  17203639:
+    template: Stag_Beetle
+    at:       [274.083, 0.250, 537.848, 0]
+    level:    [22, 23]
+
+  17203640:
+    template: Stag_Beetle
+    at:       [326.435, -0.877, 493.729, 55]
+    level:    [22, 23]
+
+  17203641:
+    template: Stag_Beetle
+    at:       [242.000, -0.100, 528.000, 127]
+    level:    [22, 23]
+
+  17203642:
+    template: Panzer_Percival
+    at:       [239.541, -0.365, 559.722, 127]
+    level:    [25, 26]
+
+  17203643:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_ne_8
+
+  17203644:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_ne_8
+
+  17203645:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_ne_8
+
+  17203646:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_ne_8
+
+  17203647:
+    template: Jugner_Funguar
+    level:    [24, 25]
+    region:   jugner_forest_ne_8
+
+  17203648:
+    template: Goblin_Digger
+    level:    [18, 19]
+    region:   jugner_forest_w
+
+  17203649:
+    template: Hobgoblin_Warrior
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17203650:
+    template: Hobgoblin_White_Mage
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17203651:
+    template: Hobgoblin_Black_Mage
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17203652:
+    template: Hobgoblin_Red_Mage
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17203653:
+    template: Hobgoblin_Thief
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17203654:
+    template: Hobgoblin_Dark_Knight
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17203655:
+    template: Hobgoblin_Ranger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17203656:
+    template: Hobgoblin_Beastmaster
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17203657:
+    template: Goblins_Beetle
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [28, 30]
+
+  17203658:
+    template: Halforc_Warrior
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17203659:
+    template: Halforc_Monk
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17203660:
+    template: Halforc_Black_Mage
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17203661:
+    template: Halforc_Paladin
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17203662:
+    template: Halforc_Dark_Knight
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17203663:
+    template: Halforc_Ranger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17203664:
+    template: Halforc_Dragoon
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17203665:
+    template: Orcs_Wyvern
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [28, 30]
+
+  17203666:
+    template: Giollemitte_B_Feroun
+    at:       [-308.447, -0.354, 405.531, 197]
+    level:    [38, 38]
+
+  17203667:
+    template: Skeleton_Esquire_NM
+    at:       [-317.101, 0.000, 399.182, 217]
+    level:    [35, 35]
+
+  17203668:
+    template: Orcish_Fighter
+    at:       [67.926, 0.422, 8.893, 160]
+    level:    [30, 35]
+
+  17203669:
+    template: Orcish_Fighter
+    at:       [49.375, 0.267, 3.777, 190]
+    level:    [30, 35]
+
+  17203670:
+    template: Orcish_Chasseur
+    at:       [59.426, 0.361, 7.184, 180]
+    level:    [30, 35]
+
+  17203671:
+    template: Orcish_Chasseur
+    at:       [65.343, 0.847, 9.220, 175]
+    level:    [30, 35]
+
+  17203672:
+    template: Orcish_Serjeant
+    at:       [76.898, 0.967, 26.193, 165]
+    level:    [30, 35]
+
+  17203673:
+    template: Orcish_Serjeant
+    at:       [45.089, 0.261, 5.450, 100]
+    level:    [30, 35]
+
+  17203674:
+    template: Orcish_Cursemaker
+    at:       [70.079, 1.011, 12.161, 155]
+    level:    [30, 35]
+
+  17203675:
+    template: Orcish_Cursemaker
+    at:       [57.264, 0.409, 6.678, 145]
+    level:    [30, 35]
+
+  17203676:
+    template: Orcish_Colonel
+    at:       [68.668, 0.691, 35.729, 155]
+    level:    [35, 35]
+
+  17203677:
+    template: Cernunnos
+    at:       [-508.989, 7.048, 288.029, 26]
+    level:    [80, 80]
+
+  17203678:
+    template: Sprite
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [61, 63]
+
+  17203679:
+    template: Sprite
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [61, 63]
+
+  17203680:
+    template: Sprite
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [61, 63]
+
+  17203681:
+    template: Sprite
+    level:    [61, 63]
+    region:   jugner_forest_c_5
+
+  17203682:
+    template: Sprite
+    level:    [61, 63]
+    region:   jugner_forest_ne_3
+
+  17203683:
+    template: Kumbaba
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17203684:
+    template: Yilbegan
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [90, 92]
+
+  17203685:
+    template: Krabkatoa
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [90, 90]
+
+  17203686:
+    template: Yacumama
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [82, 82]
+
+  17203687:
+    template: Capricornus
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [82, 82]
+
+  17203688:
+    template: Quagmire_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17203689:
+    template: Quagmire_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17203690:
+    template: Quagmire_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17203691:
+    template: Quagmire_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17203692:
+    template: Sunderclaw
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17203693:
+    template: Sunderclaw
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17203694:
+    template: Sunderclaw
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17203695:
+    template: Sunderclaw
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17203696:
+    template: Belphoebe
+    at:       [81.207, -0.805, 115.184, 202]
+    level:    [88, 90]
+
+  17203697:
+    template: Belphoebe
+    at:       [263.840, -0.447, 539.103, 233]
+    level:    [88, 90]
+
+  17203698:
+    template: Belphoebe
+    at:       [-333.937, -1.242, -118.985, 139]
+    level:    [88, 90]
+
+  17203699:
+    template: Emperor_Arthro
+    at:       [84.790, -0.188, -201.369, 133]
+    level:    [0, 0]
+
+  17203700:
+    template: Emperor_Arthro
+    at:       [79.291, 0.048, 361.784, 11]
+    level:    [0, 0]
+
+  17203701:
+    template: Emperor_Arthro
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17203743:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17203744:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17203745:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17203755:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17203756:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17203757:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17203767:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17203768:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17203769:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17203770:
+    template: Tatenashi_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17203771:
+    template: Hizamaru_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17203772:
+    template: Ubuginu_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17203773:
+    template: Hachiryu_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17203774:
+    template: Omodaka_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]

@@ -1,0 +1,2263 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17387521:
+    template: Ferocious_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [22, 24]
+
+  17387522:
+    template: Ferocious_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [22, 24]
+
+  17387523:
+    template: Greater_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 32]
+
+  17387524:
+    template: Gloop
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [38, 40]
+
+  17387525:
+    template: Oil_Spill
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [45, 47]
+
+  17387526:
+    template: Orcish_Fighter
+    level:    [22, 23]
+    region:   davoi_e_3
+
+  17387527:
+    template: Orcish_Fighter
+    level:    [22, 23]
+    region:   davoi_e_3
+
+  17387528:
+    template: Orcish_Fighter
+    level:    [22, 23]
+    region:   davoi_e_3
+
+  17387529:
+    template: Orcish_Cursemaker
+    level:    [22, 23]
+    region:   davoi_e_3
+
+  17387530:
+    template: Davoi_Hornet
+    level:    [20, 23]
+    region:   davoi_e_3
+
+  17387531:
+    template: Davoi_Hornet
+    level:    [20, 23]
+    region:   davoi_e_3
+
+  17387532:
+    template: Orcish_Fighter
+    level:    [22, 23]
+    region:   davoi_e_4
+
+  17387533:
+    template: Orcish_Cursemaker
+    level:    [22, 23]
+    region:   davoi_e_4
+
+  17387534:
+    template: Orcish_Cursemaker
+    level:    [22, 23]
+    region:   davoi_e_4
+
+  17387535:
+    template: Orcish_Serjeant
+    level:    [22, 28]
+    region:   davoi_e_4
+
+  17387536:
+    template: Davoi_Hornet
+    level:    [20, 23]
+    region:   davoi_e_4
+
+  17387537:
+    template: Davoi_Hornet
+    level:    [20, 23]
+    region:   davoi_e_4
+
+  17387538:
+    template: Orcish_Fighter
+    level:    [22, 23]
+    region:   davoi_e
+
+  17387539:
+    template: Orcish_Cursemaker
+    level:    [22, 23]
+    region:   davoi_e
+
+  17387540:
+    template: Orcish_Serjeant
+    level:    [22, 28]
+    region:   davoi_e
+
+  17387541:
+    template: Orcish_Serjeant
+    level:    [22, 28]
+    region:   davoi_e
+
+  17387542:
+    template: Davoi_Hornet
+    level:    [20, 23]
+    region:   davoi_e
+
+  17387543:
+    template: Davoi_Hornet
+    level:    [20, 23]
+    region:   davoi_e
+
+  17387544:
+    template: Davoi_Hornet
+    level:    [20, 23]
+    region:   davoi_e_6
+
+  17387545:
+    template: Orcish_Fighter
+    level:    [22, 26]
+    region:   davoi_e_8
+
+  17387546:
+    template: Orcish_Cursemaker
+    level:    [23, 27]
+    region:   davoi_e_8
+
+  17387547:
+    template: Orcish_Serjeant
+    level:    [22, 28]
+    region:   davoi_e_8
+
+  17387548:
+    template: Orcish_Fighter
+    level:    [22, 26]
+    region:   davoi_e_8
+
+  17387549:
+    template: Davoi_Hornet
+    level:    [20, 23]
+    region:   davoi_e_8
+
+  17387550:
+    template: Davoi_Hornet
+    level:    [20, 23]
+    region:   davoi_e_8
+
+  17387551:
+    template: Davoi_Hornet
+    level:    [20, 23]
+    region:   davoi_ne
+
+  17387552:
+    template: Wood_Bats
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [20, 23]
+
+  17387553:
+    template: Orcish_Cursemaker
+    at:       [298.000, 0.027, -22.000, 127]
+    level:    [23, 27]
+
+  17387554:
+    template: Orcish_Serjeant
+    at:       [312.000, 1.000, -20.000, 127]
+    level:    [22, 28]
+
+  17387555:
+    template: Wood_Bats
+    at:       [305.882, 0.157, -27.901, 77]
+    level:    [20, 23]
+
+  17387556:
+    template: Wood_Bats
+    at:       [302.272, 0.122, -14.559, 6]
+    level:    [20, 23]
+
+  17387557:
+    template: Orcish_Fighter
+    level:    [22, 26]
+    region:   davoi_e_9
+
+  17387558:
+    template: Orcish_Cursemaker
+    level:    [23, 27]
+    region:   davoi_e_9
+
+  17387559:
+    template: Orcish_Serjeant
+    level:    [22, 28]
+    region:   davoi_e_9
+
+  17387560:
+    template: Orcish_Cursemaker
+    at:       [336.498, -0.563, -138.502, 104]
+    level:    [23, 27]
+
+  17387561:
+    template: Davoi_Hornet
+    level:    [20, 23]
+    region:   davoi_e_9
+
+  17387562:
+    template: Davoi_Hornet
+    level:    [20, 23]
+    region:   davoi_e_9
+
+  17387563:
+    template: Orcish_Cursemaker
+    at:       [371.525, 0.235, -176.188, 126]
+    level:    [23, 27]
+
+  17387564:
+    template: Orcish_Serjeant
+    at:       [378.197, -0.741, -178.024, 34]
+    level:    [22, 28]
+
+  17387565:
+    template: Wood_Bats
+    at:       [370.243, -0.607, -182.091, 76]
+    level:    [20, 23]
+
+  17387566:
+    template: Wood_Bats
+    at:       [370.895, -0.692, -183.119, 127]
+    level:    [20, 23]
+
+  17387567:
+    template: Hawkeyed_Dnatbat
+    level:    [26, 28]
+    region:   davoi_e_9
+
+  17387568:
+    template: Orcish_Fighter
+    level:    [22, 26]
+    region:   davoi_e_5
+
+  17387569:
+    template: Orcish_Serjeant
+    level:    [22, 28]
+    region:   davoi_e_5
+
+  17387570:
+    template: Orcish_Impaler
+    level:    [32, 36]
+    region:   davoi_e_7
+
+  17387571:
+    template: Orcish_Beastrider
+    level:    [33, 37]
+    region:   davoi_e_7
+
+  17387572:
+    template: Orcish_Nightraider
+    level:    [34, 38]
+    region:   davoi_e_7
+
+  17387573:
+    template: Orcish_Brawler
+    level:    [35, 39]
+    region:   davoi_e_7
+
+  17387574:
+    template: Orcish_Beastrider
+    level:    [33, 37]
+    region:   davoi_e_7
+
+  17387575:
+    template: War_Lizard
+    level:    [29, 32]
+    region:   davoi_e_7
+
+  17387576:
+    template: War_Lizard
+    level:    [29, 32]
+    region:   davoi_e_7
+
+  17387577:
+    template: Thunder_Elemental
+    at:       [304.292, 3.491, -199.561, 50]
+    level:    [47, 49]
+
+  17387578:
+    template: Orcish_Impaler
+    level:    [32, 36]
+    region:   davoi_se_3
+
+  17387579:
+    template: Orcish_Beastrider
+    level:    [33, 37]
+    region:   davoi_se_3
+
+  17387580:
+    template: Orcish_Nightraider
+    level:    [34, 38]
+    region:   davoi_se_3
+
+  17387581:
+    template: Orcish_Brawler
+    level:    [35, 39]
+    region:   davoi_se_3
+
+  17387582:
+    template: Orcish_Firebelcher
+    level:    [39, 42]
+    region:   davoi_se_3
+
+  17387583:
+    template: War_Lizard
+    level:    [29, 32]
+    region:   davoi_se_3
+
+  17387584:
+    template: War_Lizard
+    level:    [30, 32]
+    region:   davoi_se_3
+
+  17387585:
+    template: Steelbiter_Gudrud
+    at:       [244.000, 4.000, -240.000, 127]
+    level:    [33, 34]
+
+  17387586:
+    template: Orcs_Wyvern
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [26, 28]
+
+  17387587:
+    template: Orcish_Impaler
+    level:    [32, 36]
+    region:   davoi_se_4
+
+  17387588:
+    template: Orcish_Nightraider
+    level:    [34, 38]
+    region:   davoi_se_4
+
+  17387589:
+    template: Orcish_Brawler
+    level:    [35, 39]
+    region:   davoi_se_4
+
+  17387590:
+    template: War_Lizard
+    level:    [29, 32]
+    region:   davoi_se_4
+
+  17387591:
+    template: War_Lizard
+    level:    [29, 32]
+    region:   davoi_se_4
+
+  17387592:
+    template: Thunder_Elemental
+    at:       [279.788, 3.489, -289.817, 77]
+    level:    [47, 49]
+
+  17387593:
+    template: Orcish_Impaler
+    level:    [32, 36]
+    region:   davoi_se_5
+
+  17387594:
+    template: Orcish_Beastrider
+    at:       [338.008, 3.500, -216.525, 127]
+    level:    [33, 37]
+
+  17387595:
+    template: Orcish_Nightraider
+    at:       [338.915, -0.585, -245.677, 127]
+    level:    [34, 38]
+
+  17387596:
+    template: Orcish_Brawler
+    at:       [341.960, 1.566, -226.818, 40]
+    level:    [35, 39]
+
+  17387597:
+    template: War_Lizard
+    level:    [29, 32]
+    region:   davoi_se_5
+
+  17387598:
+    template: War_Lizard
+    level:    [29, 32]
+    region:   davoi_se_5
+
+  17387599:
+    template: Orcish_Cursemaker
+    level:    [23, 27]
+    region:   davoi_n_5
+
+  17387600:
+    template: Davoi_Hornet
+    level:    [20, 23]
+    region:   davoi_n_5
+
+  17387601:
+    template: Davoi_Hornet
+    level:    [20, 23]
+    region:   davoi_n_5
+
+  17387602:
+    template: War_Lizard
+    at:       [158.000, -0.662, -18.000, 5]
+    level:    [29, 32]
+
+  17387603:
+    template: War_Lizard
+    at:       [153.880, -0.769, -18.092, 127]
+    level:    [29, 32]
+
+  17387604:
+    template: War_Lizard
+    at:       [163.222, 0.115, -24.843, 154]
+    level:    [29, 32]
+
+  17387605:
+    template: War_Lizard
+    at:       [161.440, 0.000, -14.975, 94]
+    level:    [29, 32]
+
+  17387606:
+    template: Tigerbane_Bakdak
+    at:       [174.212, 2.068, -20.285, 127]
+    level:    [31, 32]
+
+  17387607:
+    template: Orcish_Fighter
+    level:    [22, 26]
+    region:   davoi_n_4
+
+  17387608:
+    template: Orcish_Serjeant
+    level:    [22, 28]
+    region:   davoi_n_4
+
+  17387609:
+    template: Davoi_Hornet
+    level:    [20, 23]
+    region:   davoi_n_4
+
+  17387610:
+    template: Orcish_Impaler
+    at:       [39.394, -0.500, -16.452, 101]
+    level:    [32, 36]
+
+  17387611:
+    template: Orcish_Beastrider
+    at:       [33.625, -0.726, -20.595, 45]
+    level:    [33, 37]
+
+  17387612:
+    template: Orcish_Nightraider
+    level:    [34, 38]
+    region:   davoi_n_2
+
+  17387613:
+    template: Orcish_Brawler
+    at:       [28.347, -1.240, -20.937, 127]
+    level:    [35, 39]
+
+  17387614:
+    template: Orcish_Impaler
+    at:       [11.000, -0.550, -26.000, 127]
+    level:    [32, 36]
+
+  17387615:
+    template: Orcish_Beastrider
+    level:    [33, 37]
+    region:   davoi_n_2
+
+  17387616:
+    template: Orcish_Nightraider
+    at:       [45.000, -0.500, -16.000, 117]
+    level:    [34, 38]
+
+  17387617:
+    template: Orcish_Brawler
+    level:    [35, 39]
+    region:   davoi_n_2
+
+  17387618:
+    template: Orcish_Impaler
+    level:    [32, 36]
+    region:   davoi_n
+
+  17387619:
+    template: Orcish_Beastrider
+    at:       [-18.288, -0.730, 28.080, 49]
+    level:    [33, 37]
+
+  17387620:
+    template: Orcish_Nightraider
+    at:       [-20.398, -0.500, 0.466, 99]
+    level:    [34, 38]
+
+  17387621:
+    template: Orcish_Brawler
+    at:       [-23.157, -0.580, 23.713, 127]
+    level:    [35, 39]
+
+  17387622:
+    template: Orcish_Impaler
+    level:    [32, 36]
+    region:   davoi_n
+
+  17387623:
+    template: Orcish_Beastrider
+    level:    [33, 37]
+    region:   davoi_n
+
+  17387624:
+    template: Orcish_Nightraider
+    at:       [-17.206, -0.588, -20.429, 16]
+    level:    [34, 38]
+
+  17387625:
+    template: Orcish_Brawler
+    at:       [-23.218, -1.292, -18.247, 71]
+    level:    [35, 39]
+
+  17387626:
+    template: Wolf_Bat
+    level:    [25, 28]
+    region:   davoi_n
+
+  17387627:
+    template: Wolf_Bat
+    level:    [25, 28]
+    region:   davoi_n
+
+  17387628:
+    template: Orcish_Bowshooter
+    at:       [-16.772, 0.292, -67.249, 123]
+    level:    [42, 46]
+
+  17387629:
+    template: Orcish_Footsoldier
+    at:       [-13.487, 0.492, -55.206, 127]
+    level:    [44, 47]
+
+  17387630:
+    template: Orcish_Gladiator
+    at:       [-25.188, 0.162, -59.013, 127]
+    level:    [44, 48]
+
+  17387631:
+    template: Orcish_Trooper
+    at:       [-19.737, 0.094, -53.029, 52]
+    level:    [46, 49]
+
+  17387632:
+    template: Wolf_Bat
+    at:       [-22.840, -0.038, -51.280, 15]
+    level:    [25, 28]
+
+  17387633:
+    template: Wolf_Bat
+    at:       [-20.003, 0.715, -66.593, 13]
+    level:    [25, 28]
+
+  17387634:
+    template: Orcish_Impaler
+    at:       [-53.910, -0.583, 56.606, 12]
+    level:    [32, 36]
+
+  17387635:
+    template: Orcish_Beastrider
+    level:    [33, 37]
+    region:   davoi_nw_8
+
+  17387636:
+    template: Orcish_Nightraider
+    at:       [-64.578, -0.658, 61.273, 127]
+    level:    [34, 38]
+
+  17387637:
+    template: Orcish_Brawler
+    at:       [-59.013, -0.590, 14.783, 127]
+    level:    [35, 39]
+
+  17387638:
+    template: Orcish_Impaler
+    at:       [-50.158, -0.537, 22.257, 90]
+    level:    [32, 36]
+
+  17387639:
+    template: Orcish_Beastrider
+    at:       [-56.626, -0.607, 63.285, 127]
+    level:    [33, 37]
+
+  17387640:
+    template: Orcish_Nightraider
+    level:    [34, 38]
+    region:   davoi_nw_8
+
+  17387641:
+    template: Orcish_Firebelcher
+    level:    [39, 42]
+    region:   davoi_nw_8
+
+  17387642:
+    template: Wolf_Bat
+    level:    [25, 28]
+    region:   davoi_nw_8
+
+  17387643:
+    template: Wolf_Bat
+    level:    [25, 28]
+    region:   davoi_nw_8
+
+  17387644:
+    template: Poisonhand_Gnadgad
+    at:       [-60.045, -0.517, 41.996, 127]
+    level:    [39, 40]
+
+  17387645:
+    template: Orcish_Impaler
+    at:       [-101.515, -0.441, 85.083, 51]
+    level:    [32, 36]
+
+  17387646:
+    template: Orcish_Beastrider
+    level:    [33, 37]
+    region:   davoi_nw_4
+
+  17387647:
+    template: Orcish_Nightraider
+    level:    [34, 38]
+    region:   davoi_nw_4
+
+  17387648:
+    template: Orcish_Brawler
+    at:       [-114.517, -0.441, 99.444, 127]
+    level:    [35, 39]
+
+  17387649:
+    template: Davoi_Wasp
+    level:    [30, 33]
+    region:   davoi_nw_4
+
+  17387650:
+    template: Davoi_Wasp
+    level:    [30, 33]
+    region:   davoi_nw_4
+
+  17387651:
+    template: Orcish_Bowshooter
+    level:    [42, 46]
+    region:   davoi_nw_6
+
+  17387652:
+    template: Orcish_Footsoldier
+    level:    [44, 47]
+    region:   davoi_nw_6
+
+  17387653:
+    template: Orcish_Gladiator
+    level:    [44, 48]
+    region:   davoi_nw_6
+
+  17387654:
+    template: Orcish_Trooper
+    level:    [46, 49]
+    region:   davoi_nw_6
+
+  17387655:
+    template: Orcish_Bowshooter
+    at:       [-126.922, 3.500, 40.331, 127]
+    level:    [42, 46]
+
+  17387656:
+    template: Orcish_Footsoldier
+    at:       [-114.161, 3.499, 38.953, 127]
+    level:    [44, 47]
+
+  17387657:
+    template: Orcish_Gladiator
+    level:    [44, 48]
+    region:   davoi_nw_6
+
+  17387658:
+    template: Orcish_Trooper
+    at:       [-65.404, -0.567, 20.242, 2]
+    level:    [46, 49]
+
+  17387659:
+    template: Davoi_Wasp
+    level:    [30, 33]
+    region:   davoi_nw_6
+
+  17387660:
+    template: Davoi_Wasp
+    level:    [30, 33]
+    region:   davoi_nw_6
+
+  17387661:
+    template: Thunder_Elemental
+    at:       [-122.216, 3.466, 31.290, 253]
+    level:    [47, 49]
+
+  17387662:
+    template: Orcish_Bowshooter
+    level:    [42, 46]
+    region:   davoi_nw_3
+
+  17387663:
+    template: Orcish_Footsoldier
+    level:    [44, 47]
+    region:   davoi_nw_3
+
+  17387664:
+    template: Orcish_Gladiator
+    level:    [44, 48]
+    region:   davoi_nw_3
+
+  17387665:
+    template: Orcish_Trooper
+    level:    [46, 49]
+    region:   davoi_nw_3
+
+  17387666:
+    template: Orcish_Bowshooter
+    at:       [-153.725, 3.500, -0.316, 127]
+    level:    [42, 46]
+
+  17387667:
+    template: Orcish_Footsoldier
+    level:    [44, 47]
+    region:   davoi_nw_3
+
+  17387668:
+    template: Orcish_Gladiator
+    at:       [-152.332, 3.325, -5.304, 22]
+    level:    [44, 48]
+
+  17387669:
+    template: Orcish_Trooper
+    at:       [-132.000, 4.000, -1.000, 127]
+    level:    [46, 49]
+
+  17387670:
+    template: Davoi_Wasp
+    level:    [30, 33]
+    region:   davoi_nw_3
+
+  17387671:
+    template: Davoi_Wasp
+    level:    [30, 33]
+    region:   davoi_nw_3
+
+  17387672:
+    template: Thunder_Elemental
+    at:       [-146.903, 3.511, -9.100, 95]
+    level:    [47, 49]
+
+  17387673:
+    template: Orcish_Bowshooter
+    at:       [-106.825, 3.500, -5.499, 61]
+    level:    [42, 46]
+
+  17387674:
+    template: Orcish_Footsoldier
+    level:    [44, 47]
+    region:   davoi_nw_5
+
+  17387675:
+    template: Orcish_Gladiator
+    at:       [-118.528, 3.500, -45.533, 99]
+    level:    [44, 48]
+
+  17387676:
+    template: Orcish_Trooper
+    level:    [46, 49]
+    region:   davoi_nw_5
+
+  17387677:
+    template: Orcish_Bowshooter
+    level:    [42, 46]
+    region:   davoi_nw_5
+
+  17387678:
+    template: Orcish_Footsoldier
+    level:    [44, 47]
+    region:   davoi_nw_5
+
+  17387679:
+    template: Orcish_Gladiator
+    at:       [-106.548, 3.371, -27.668, 127]
+    level:    [44, 48]
+
+  17387680:
+    template: Orcish_Trooper
+    at:       [-128.409, 3.598, -37.008, 108]
+    level:    [46, 49]
+
+  17387681:
+    template: Davoi_Wasp
+    level:    [30, 33]
+    region:   davoi_nw_5
+
+  17387682:
+    template: Thunder_Elemental
+    at:       [-106.612, 3.499, -38.718, 234]
+    level:    [47, 49]
+
+  17387683:
+    template: Orcish_Bowshooter
+    level:    [42, 46]
+    region:   davoi_nw_7
+
+  17387684:
+    template: Orcish_Footsoldier
+    at:       [-83.000, 4.000, -41.000, 127]
+    level:    [44, 47]
+
+  17387685:
+    template: Orcish_Gladiator
+    at:       [-93.000, 4.000, -33.000, 13]
+    level:    [44, 48]
+
+  17387686:
+    template: Orcish_Trooper
+    level:    [46, 49]
+    region:   davoi_nw_7
+
+  17387687:
+    template: Orcish_Bowshooter
+    level:    [42, 46]
+    region:   davoi_nw_7
+
+  17387688:
+    template: Orcish_Footsoldier
+    level:    [44, 47]
+    region:   davoi_nw_7
+
+  17387689:
+    template: Orcish_Gladiator
+    at:       [-106.031, 3.688, -38.752, 127]
+    level:    [44, 48]
+
+  17387690:
+    template: Orcish_Trooper
+    at:       [-70.728, 3.184, -49.898, 127]
+    level:    [46, 49]
+
+  17387691:
+    template: Davoi_Wasp
+    level:    [30, 33]
+    region:   davoi_nw_7
+
+  17387692:
+    template: Thunder_Elemental
+    at:       [-87.278, 3.483, -37.031, 42]
+    level:    [47, 49]
+
+  17387693:
+    template: Orcish_Bowshooter
+    at:       [-47.682, -0.571, -97.713, 127]
+    level:    [42, 46]
+
+  17387694:
+    template: Orcish_Footsoldier
+    level:    [44, 47]
+    region:   davoi_c
+
+  17387695:
+    template: Orcish_Gladiator
+    at:       [-33.427, -0.671, -102.038, 127]
+    level:    [44, 48]
+
+  17387696:
+    template: Orcish_Trooper
+    level:    [46, 49]
+    region:   davoi_c
+
+  17387697:
+    template: Geezard
+    level:    [34, 37]
+    region:   davoi_c
+
+  17387698:
+    template: Geezard
+    level:    [34, 37]
+    region:   davoi_c
+
+  17387699:
+    template: Geezard
+    level:    [34, 37]
+    region:   davoi_c
+
+  17387700:
+    template: Geezard
+    level:    [35, 37]
+    region:   davoi_c_3
+
+  17387701:
+    template: Geezard
+    level:    [34, 37]
+    region:   davoi_c_3
+
+  17387702:
+    template: Geezard
+    level:    [34, 37]
+    region:   davoi_c_3
+
+  17387703:
+    template: Orcish_Bowshooter
+    at:       [-184.047, -1.225, 62.124, 104]
+    level:    [42, 46]
+
+  17387704:
+    template: Orcish_Footsoldier
+    level:    [44, 47]
+    region:   davoi_nw_2
+
+  17387705:
+    template: Orcish_Gladiator
+    level:    [44, 48]
+    region:   davoi_nw_2
+
+  17387706:
+    template: Orcish_Trooper
+    at:       [-190.785, -0.592, 59.947, 4]
+    level:    [46, 49]
+
+  17387707:
+    template: Orcish_Bowshooter
+    level:    [42, 46]
+    region:   davoi_nw_2
+
+  17387708:
+    template: Orcish_Footsoldier
+    level:    [44, 47]
+    region:   davoi_nw_2
+
+  17387709:
+    template: Orcish_Gladiator
+    at:       [-178.641, -0.557, 49.085, 127]
+    level:    [44, 48]
+
+  17387710:
+    template: Orcish_Trooper
+    at:       [-224.942, -0.952, 61.747, 4]
+    level:    [46, 49]
+
+  17387711:
+    template: Davoi_Wasp
+    level:    [30, 33]
+    region:   davoi_nw_2
+
+  17387712:
+    template: Davoi_Wasp
+    level:    [30, 33]
+    region:   davoi_nw_2
+
+  17387713:
+    template: Orcish_Bowshooter
+    level:    [42, 46]
+    region:   davoi_nw
+
+  17387714:
+    template: Orcish_Footsoldier
+    at:       [-219.760, -1.129, -11.176, 90]
+    level:    [44, 47]
+
+  17387715:
+    template: Orcish_Gladiator
+    at:       [-221.628, -0.699, -7.814, 127]
+    level:    [44, 48]
+
+  17387716:
+    template: Orcish_Trooper
+    level:    [46, 49]
+    region:   davoi_nw
+
+  17387717:
+    template: Wolf_Bat
+    level:    [25, 28]
+    region:   davoi_nw
+
+  17387718:
+    template: Wolf_Bat
+    level:    [25, 28]
+    region:   davoi_nw
+
+  17387719:
+    template: Orcish_Bowshooter
+    at:       [-191.246, -0.934, -60.289, 127]
+    level:    [42, 46]
+
+  17387720:
+    template: Orcish_Footsoldier
+    level:    [44, 47]
+    region:   davoi_w_4
+
+  17387721:
+    template: Orcish_Gladiator
+    at:       [-207.449, -0.744, -56.371, 120]
+    level:    [44, 48]
+
+  17387722:
+    template: Orcish_Trooper
+    level:    [46, 49]
+    region:   davoi_w_4
+
+  17387723:
+    template: Wolf_Bat
+    level:    [25, 28]
+    region:   davoi_w_4
+
+  17387724:
+    template: Wolf_Bat
+    level:    [25, 28]
+    region:   davoi_w_4
+
+  17387725:
+    template: Orcish_Bowshooter
+    at:       [-217.698, -0.138, -92.331, 127]
+    level:    [42, 46]
+
+  17387726:
+    template: Orcish_Footsoldier
+    at:       [-218.801, -1.030, -96.868, 97]
+    level:    [44, 47]
+
+  17387727:
+    template: Orcish_Gladiator
+    at:       [-225.953, -0.785, -94.893, 127]
+    level:    [44, 48]
+
+  17387728:
+    template: Orcish_Trooper
+    at:       [-223.864, -0.669, -91.307, 144]
+    level:    [46, 49]
+
+  17387729:
+    template: Wolf_Bat
+    at:       [-211.245, 0.293, -99.476, 127]
+    level:    [25, 28]
+
+  17387730:
+    template: Wolf_Bat
+    at:       [-217.537, -0.674, -96.954, 121]
+    level:    [25, 28]
+
+  17387731:
+    template: Orcish_Bowshooter
+    level:    [42, 46]
+    region:   davoi_w_6
+
+  17387732:
+    template: Orcish_Footsoldier
+    at:       [-141.600, -0.500, -79.722, 52]
+    level:    [44, 47]
+
+  17387733:
+    template: Orcish_Gladiator
+    at:       [-142.389, -0.149, -73.044, 226]
+    level:    [44, 48]
+
+  17387734:
+    template: Orcish_Trooper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [46, 49]
+
+  17387735:
+    template: Davoi_Wasp
+    level:    [30, 33]
+    region:   davoi_w_6
+
+  17387736:
+    template: Orcish_Bowshooter
+    at:       [-97.300, -0.500, -116.293, 87]
+    level:    [42, 46]
+
+  17387737:
+    template: Orcish_Footsoldier
+    level:    [44, 47]
+    region:   davoi_w_9
+
+  17387738:
+    template: Orcish_Gladiator
+    level:    [44, 48]
+    region:   davoi_w_9
+
+  17387739:
+    template: Orcish_Trooper
+    at:       [-96.812, -1.000, -97.444, 46]
+    level:    [46, 49]
+
+  17387740:
+    template: Orcish_Bowshooter
+    level:    [42, 46]
+    region:   davoi_w_9
+
+  17387741:
+    template: Orcish_Footsoldier
+    level:    [44, 47]
+    region:   davoi_w_9
+
+  17387742:
+    template: Orcish_Gladiator
+    at:       [-103.187, -0.398, -104.972, 127]
+    level:    [44, 48]
+
+  17387743:
+    template: Orcish_Trooper
+    at:       [-100.252, -1.619, -151.056, 127]
+    level:    [46, 49]
+
+  17387744:
+    template: Davoi_Wasp
+    level:    [30, 33]
+    region:   davoi_w_9
+
+  17387745:
+    template: Davoi_Wasp
+    level:    [30, 33]
+    region:   davoi_w_9
+
+  17387746:
+    template: Orcish_Veteran
+    at:       [-97.309, 2.063, -215.943, 54]
+    level:    [52, 56]
+
+  17387747:
+    template: Orcish_Predator
+    level:    [54, 57]
+    region:   davoi_w_8
+
+  17387748:
+    template: Orcish_Zerker
+    at:       [-89.559, 0.543, 20.514, 8]
+    level:    [54, 58]
+
+  17387749:
+    template: Orcish_Warchief
+    at:       [-98.000, -0.042, -165.000, 127]
+    level:    [55, 59]
+
+  17387750:
+    template: Orcish_Veteran
+    at:       [-69.058, 3.672, -292.991, 57]
+    level:    [52, 56]
+
+  17387751:
+    template: Orcish_Predator
+    level:    [54, 57]
+    region:   davoi_w_8
+
+  17387752:
+    template: Orcish_Zerker
+    at:       [-103.000, 3.000, -227.000, 127]
+    level:    [54, 58]
+
+  17387753:
+    template: Orcish_Warchief
+    level:    [55, 59]
+    region:   davoi_w_8
+
+  17387754:
+    template: Orcish_Veteran
+    level:    [52, 56]
+    region:   davoi_sw_4
+
+  17387755:
+    template: Orcish_Predator
+    level:    [54, 57]
+    region:   davoi_sw_4
+
+  17387756:
+    template: Orcish_Zerker
+    level:    [54, 58]
+    region:   davoi_sw_4
+
+  17387757:
+    template: Orcish_Warchief
+    level:    [55, 59]
+    region:   davoi_sw_4
+
+  17387758:
+    template: Orcish_Veteran
+    at:       [-93.624, 3.251, -297.337, 43]
+    level:    [52, 56]
+
+  17387759:
+    template: Orcish_Predator
+    level:    [54, 57]
+    region:   davoi_sw_4
+
+  17387760:
+    template: Orcish_Zerker
+    level:    [54, 58]
+    region:   davoi_sw_4
+
+  17387761:
+    template: Orcish_Warchief
+    at:       [-91.712, 3.041, -286.255, 127]
+    level:    [55, 59]
+
+  17387762:
+    template: Geezard
+    level:    [34, 37]
+    region:   davoi_sw_4
+
+  17387763:
+    template: Geezard
+    level:    [34, 37]
+    region:   davoi_sw_4
+
+  17387764:
+    template: Geezard
+    level:    [34, 37]
+    region:   davoi_sw_4
+
+  17387765:
+    template: Thunder_Elemental
+    at:       [-82.414, 3.500, -289.808, 64]
+    level:    [47, 49]
+
+  17387766:
+    template: Orcish_Veteran
+    level:    [52, 56]
+    region:   davoi_c_2
+
+  17387767:
+    template: Orcish_Predator
+    level:    [54, 57]
+    region:   davoi_c_2
+
+  17387768:
+    template: Orcish_Zerker
+    level:    [54, 58]
+    region:   davoi_c_2
+
+  17387769:
+    template: Orcish_Warchief
+    level:    [55, 59]
+    region:   davoi_c_2
+
+  17387770:
+    template: Orcish_Veteran
+    level:    [52, 56]
+    region:   davoi_c_2
+
+  17387771:
+    template: Orcish_Predator
+    level:    [54, 57]
+    region:   davoi_c_2
+
+  17387772:
+    template: Orcish_Zerker
+    at:       [-4.850, 3.499, -194.161, 142]
+    level:    [54, 58]
+
+  17387773:
+    template: Orcish_Warchief
+    at:       [-36.000, 3.000, -214.000, 32]
+    level:    [55, 59]
+
+  17387774:
+    template: Geezard
+    level:    [35, 37]
+    region:   davoi_c_2
+
+  17387775:
+    template: Geezard
+    level:    [34, 37]
+    region:   davoi_c_2
+
+  17387776:
+    template: Thunder_Elemental
+    at:       [-34.001, 3.554, -204.240, 90]
+    level:    [47, 49]
+
+  17387777:
+    template: Orcish_Veteran
+    level:    [52, 56]
+    region:   davoi_sw_2
+
+  17387778:
+    template: Orcish_Predator
+    level:    [54, 57]
+    region:   davoi_sw_2
+
+  17387779:
+    template: Orcish_Zerker
+    level:    [56, 57]
+    region:   davoi_sw_2
+
+  17387780:
+    template: Orcish_Warchief
+    level:    [55, 59]
+    region:   davoi_sw_2
+
+  17387781:
+    template: Orcish_Veteran
+    level:    [52, 56]
+    region:   davoi_sw_2
+
+  17387782:
+    template: Orcish_Predator
+    at:       [-117.507, 3.527, -229.725, 58]
+    level:    [54, 57]
+
+  17387783:
+    template: Orcish_Zerker
+    level:    [54, 58]
+    region:   davoi_sw_2
+
+  17387784:
+    template: Orcish_Warchief
+    level:    [55, 59]
+    region:   davoi_sw_3
+
+  17387785:
+    template: Geezard
+    level:    [34, 37]
+    region:   davoi_sw_2
+
+  17387786:
+    template: Geezard
+    level:    [34, 37]
+    region:   davoi_sw_2
+
+  17387787:
+    template: Thunder_Elemental
+    at:       [-126.392, 3.364, -252.471, 132]
+    level:    [47, 49]
+
+  17387788:
+    template: Orcish_Dreadnought
+    at:       [-61.000, 4.000, -241.000, 127]
+    level:    [63, 67]
+
+  17387789:
+    template: Orcish_Farkiller
+    at:       [-11.000, 4.000, -201.000, 127]
+    level:    [62, 66]
+
+  17387790:
+    template: Orcish_Champion
+    at:       [-114.249, 3.227, -245.926, 103]
+    level:    [64, 68]
+
+  17387791:
+    template: Orcish_Veteran
+    level:    [52, 56]
+    region:   davoi_sw
+
+  17387792:
+    template: Orcish_Predator
+    at:       [-154.000, -0.514, -301.000, 81]
+    level:    [54, 57]
+
+  17387793:
+    template: Orcish_Zerker
+    at:       [-173.000, -0.708, -298.000, 41]
+    level:    [54, 58]
+
+  17387794:
+    template: Geezard
+    level:    [34, 37]
+    region:   davoi_sw
+
+  17387795:
+    template: Geezard
+    level:    [34, 37]
+    region:   davoi_sw
+
+  17387796:
+    template: Geezard
+    level:    [35, 37]
+    region:   davoi_sw
+
+  17387797:
+    template: Geezard
+    level:    [34, 37]
+    region:   davoi_sw
+
+  17387798:
+    template: Orcish_Bowshooter
+    level:    [42, 46]
+    region:   davoi_s
+
+  17387799:
+    template: Orcish_Footsoldier
+    at:       [12.000, -0.659, -300.000, 127]
+    level:    [44, 47]
+
+  17387800:
+    template: Orcish_Gladiator
+    level:    [44, 48]
+    region:   davoi_s
+
+  17387801:
+    template: Orcish_Trooper
+    at:       [-21.024, -0.445, -292.571, 127]
+    level:    [46, 49]
+
+  17387802:
+    template: Orcish_Bowshooter
+    level:    [42, 46]
+    region:   davoi_s
+
+  17387803:
+    template: Orcish_Footsoldier
+    at:       [-7.749, -0.937, -301.568, 127]
+    level:    [44, 47]
+
+  17387804:
+    template: Orcish_Gladiator
+    at:       [-3.310, -0.543, -299.825, 42]
+    level:    [44, 48]
+
+  17387805:
+    template: Orcish_Trooper
+    level:    [46, 49]
+    region:   davoi_s
+
+  17387806:
+    template: Wolf_Bat
+    level:    [25, 28]
+    region:   davoi_s
+
+  17387807:
+    template: Wolf_Bat
+    level:    [25, 28]
+    region:   davoi_s
+
+  17387808:
+    template: Orcish_Bowshooter
+    at:       [24.000, -0.580, -266.000, 127]
+    level:    [42, 46]
+
+  17387809:
+    template: Orcish_Footsoldier
+    at:       [22.447, -0.591, -269.417, 70]
+    level:    [44, 47]
+
+  17387810:
+    template: Orcish_Gladiator
+    at:       [20.000, -0.581, -262.000, 127]
+    level:    [44, 48]
+
+  17387811:
+    template: Orcish_Trooper
+    at:       [11.000, -0.273, -260.000, 127]
+    level:    [46, 49]
+
+  17387812:
+    template: Wolf_Bat
+    at:       [15.281, -0.093, -263.357, 119]
+    level:    [25, 28]
+
+  17387813:
+    template: Wolf_Bat
+    at:       [24.687, -0.607, -269.027, 12]
+    level:    [25, 28]
+
+  17387814:
+    template: Orcish_Bowshooter
+    at:       [67.000, -0.475, -258.000, 127]
+    level:    [42, 46]
+
+  17387815:
+    template: Orcish_Footsoldier
+    level:    [44, 47]
+    region:   davoi_s_2
+
+  17387816:
+    template: Orcish_Gladiator
+    level:    [44, 48]
+    region:   davoi_s_2
+
+  17387817:
+    template: Orcish_Trooper
+    at:       [58.278, -0.825, -275.215, 127]
+    level:    [46, 49]
+
+  17387818:
+    template: Orcish_Bowshooter
+    at:       [54.862, -1.418, -248.353, 59]
+    level:    [42, 46]
+
+  17387819:
+    template: Orcish_Footsoldier
+    at:       [94.000, -0.707, -266.000, 127]
+    level:    [44, 47]
+
+  17387820:
+    template: Orcish_Gladiator
+    at:       [57.094, -1.350, -254.896, 26]
+    level:    [44, 48]
+
+  17387821:
+    template: Orcish_Trooper
+    level:    [46, 49]
+    region:   davoi_s_2
+
+  17387822:
+    template: Wolf_Bat
+    level:    [25, 28]
+    region:   davoi_s_2
+
+  17387823:
+    template: Wolf_Bat
+    level:    [25, 28]
+    region:   davoi_s_2
+
+  17387824:
+    template: Orcish_Bowshooter
+    at:       [62.103, 0.487, -330.666, 127]
+    level:    [42, 46]
+
+  17387825:
+    template: Orcish_Footsoldier
+    at:       [58.000, 0.452, -340.000, 127]
+    level:    [44, 47]
+
+  17387826:
+    template: Orcish_Gladiator
+    at:       [58.202, -0.132, -324.509, 81]
+    level:    [44, 48]
+
+  17387827:
+    template: Orcish_Trooper
+    at:       [64.000, 0.528, -342.000, 43]
+    level:    [46, 49]
+
+  17387828:
+    template: Wolf_Bat
+    at:       [57.563, 0.282, -329.404, 127]
+    level:    [25, 28]
+
+  17387829:
+    template: Wolf_Bat
+    at:       [57.472, 0.877, -346.827, 127]
+    level:    [25, 28]
+
+  17387830:
+    template: Orcish_Bowshooter
+    level:    [42, 46]
+    region:   davoi_c_7
+
+  17387831:
+    template: Orcish_Footsoldier
+    at:       [58.802, -0.486, -242.783, 69]
+    level:    [44, 47]
+
+  17387832:
+    template: Orcish_Gladiator
+    at:       [63.109, -0.636, -204.325, 73]
+    level:    [44, 48]
+
+  17387833:
+    template: Orcish_Trooper
+    level:    [46, 49]
+    region:   davoi_c_7
+
+  17387834:
+    template: Orcish_Bowshooter
+    at:       [59.891, -0.499, -200.520, 127]
+    level:    [42, 46]
+
+  17387835:
+    template: Orcish_Footsoldier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [44, 47]
+
+  17387836:
+    template: Orcish_Gladiator
+    level:    [44, 48]
+    region:   davoi_c_7
+
+  17387837:
+    template: Orcish_Trooper
+    at:       [53.000, -0.513, -226.000, 80]
+    level:    [46, 49]
+
+  17387838:
+    template: Orcish_Impaler
+    at:       [163.050, -0.569, -259.599, 127]
+    level:    [32, 36]
+
+  17387839:
+    template: Orcish_Beastrider
+    level:    [33, 37]
+    region:   davoi_s_3
+
+  17387840:
+    template: Orcish_Nightraider
+    at:       [157.000, -0.447, -256.000, 127]
+    level:    [34, 38]
+
+  17387841:
+    template: Orcish_Brawler
+    level:    [35, 39]
+    region:   davoi_s_3
+
+  17387842:
+    template: Orcish_Impaler
+    level:    [32, 36]
+    region:   davoi_s_3
+
+  17387843:
+    template: Orcish_Beastrider
+    at:       [171.322, -0.996, -249.706, 15]
+    level:    [33, 37]
+
+  17387844:
+    template: Orcish_Nightraider
+    at:       [190.000, -0.464, -255.000, 127]
+    level:    [34, 38]
+
+  17387845:
+    template: Orcish_Brawler
+    level:    [35, 39]
+    region:   davoi_s_3
+
+  17387846:
+    template: Davoi_Hornet
+    level:    [20, 23]
+    region:   davoi_s_3
+
+  17387847:
+    template: Davoi_Hornet
+    level:    [20, 23]
+    region:   davoi_s_3
+
+  17387848:
+    template: Orcish_Impaler
+    level:    [32, 36]
+    region:   davoi_se_2
+
+  17387849:
+    template: Orcish_Beastrider
+    at:       [188.353, 2.292, -294.909, 5]
+    level:    [33, 37]
+
+  17387850:
+    template: Orcish_Nightraider
+    at:       [218.861, -0.518, -291.622, 65]
+    level:    [34, 38]
+
+  17387851:
+    template: Orcish_Brawler
+    level:    [35, 39]
+    region:   davoi_se_2
+
+  17387852:
+    template: Orcish_Impaler
+    level:    [32, 36]
+    region:   davoi_se_2
+
+  17387853:
+    template: Orcish_Beastrider
+    level:    [33, 37]
+    region:   davoi_se_2
+
+  17387854:
+    template: Orcish_Nightraider
+    at:       [225.000, -1.000, -307.000, 127]
+    level:    [34, 38]
+
+  17387855:
+    template: Orcish_Brawler
+    at:       [215.967, -1.496, -302.560, 101]
+    level:    [35, 39]
+
+  17387856:
+    template: War_Lizard
+    level:    [29, 32]
+    region:   davoi_se_2
+
+  17387857:
+    template: War_Lizard
+    level:    [30, 32]
+    region:   davoi_se_2
+
+  17387858:
+    template: Davoi_Pugil
+    at:       [61.045, 3.283, -98.121, 44]
+    level:    [26, 29]
+
+  17387859:
+    template: Davoi_Pugil
+    level:    [26, 29]
+    region:   davoi_c_8
+
+  17387860:
+    template: Davoi_Pugil
+    level:    [26, 29]
+    region:   davoi_c_8
+
+  17387861:
+    template: Water_Elemental
+    at:       [89.155, 3.348, -105.356, 22]
+    level:    [47, 49]
+
+  17387862:
+    template: Davoi_Pugil
+    level:    [26, 29]
+    region:   davoi_n_3
+
+  17387863:
+    template: Davoi_Pugil
+    level:    [26, 29]
+    region:   davoi_n_3
+
+  17387864:
+    template: Davoi_Pugil
+    level:    [26, 29]
+    region:   davoi_n_3
+
+  17387865:
+    template: Water_Elemental
+    at:       [59.386, 3.363, 4.042, 205]
+    level:    [47, 49]
+
+  17387866:
+    template: Morbol
+    at:       [90.765, -0.635, 54.896, 127]
+    level:    [37, 39]
+
+  17387867:
+    template: Davoi_Wasp
+    at:       [96.746, -0.822, 61.943, 102]
+    level:    [30, 33]
+
+  17387868:
+    template: Davoi_Wasp
+    at:       [100.000, -0.897, 66.000, 127]
+    level:    [30, 33]
+
+  17387869:
+    template: Wolf_Bat
+    at:       [99.282, -0.954, 57.288, 223]
+    level:    [25, 28]
+
+  17387870:
+    template: Wolf_Bat
+    at:       [90.964, -0.611, 55.481, 71]
+    level:    [25, 28]
+
+  17387871:
+    template: Davoi_Pugil
+    level:    [26, 29]
+    region:   davoi_c_10
+
+  17387872:
+    template: Davoi_Pugil
+    level:    [26, 29]
+    region:   davoi_c_10
+
+  17387873:
+    template: Davoi_Pugil
+    level:    [26, 29]
+    region:   davoi_c_10
+
+  17387874:
+    template: Water_Elemental
+    at:       [93.784, 3.378, -119.862, 127]
+    level:    [47, 49]
+
+  17387875:
+    template: Davoi_Pugil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [26, 29]
+
+  17387876:
+    template: Davoi_Pugil
+    level:    [26, 29]
+    region:   davoi_c_11
+
+  17387877:
+    template: Davoi_Pugil
+    level:    [26, 29]
+    region:   davoi_c_11
+
+  17387878:
+    template: Water_Elemental
+    at:       [136.965, 3.280, -275.093, 132]
+    level:    [47, 49]
+
+  17387879:
+    template: Davoi_Pugil
+    level:    [26, 29]
+    region:   davoi_se
+
+  17387880:
+    template: Davoi_Pugil
+    level:    [26, 29]
+    region:   davoi_se
+
+  17387881:
+    template: Davoi_Pugil
+    level:    [26, 29]
+    region:   davoi_se
+
+  17387882:
+    template: Water_Elemental
+    at:       [177.004, 3.326, -341.232, 7]
+    level:    [47, 49]
+
+  17387883:
+    template: Morbol
+    at:       [187.780, 1.271, -373.121, 190]
+    level:    [37, 39]
+
+  17387884:
+    template: Davoi_Mush
+    at:       [189.698, 1.145, -371.004, 127]
+    level:    [34, 35]
+
+  17387885:
+    template: Morbol
+    at:       [170.613, 3.024, -375.708, 192]
+    level:    [37, 39]
+
+  17387886:
+    template: Davoi_Mush
+    at:       [170.782, 3.085, -375.200, 127]
+    level:    [33, 34]
+
+  17387887:
+    template: Davoi_Pugil
+    at:       [19.930, 3.522, -160.726, 76]
+    level:    [26, 29]
+
+  17387888:
+    template: Davoi_Pugil
+    level:    [26, 29]
+    region:   davoi_c_4
+
+  17387889:
+    template: Davoi_Pugil
+    level:    [26, 29]
+    region:   davoi_c_4
+
+  17387890:
+    template: Water_Elemental
+    at:       [19.072, 3.353, -178.869, 142]
+    level:    [47, 49]
+
+  17387891:
+    template: Davoi_Pugil
+    level:    [26, 29]
+    region:   davoi_w_7
+
+  17387892:
+    template: Davoi_Pugil
+    level:    [26, 29]
+    region:   davoi_w_7
+
+  17387893:
+    template: Davoi_Pugil
+    level:    [26, 29]
+    region:   davoi_w_7
+
+  17387894:
+    template: Water_Elemental
+    at:       [-59.624, 3.320, -137.600, 126]
+    level:    [47, 49]
+
+  17387895:
+    template: Davoi_Pugil
+    at:       [-197.858, 3.350, -143.711, 0]
+    level:    [26, 29]
+
+  17387896:
+    template: Davoi_Pugil
+    level:    [26, 29]
+    region:   davoi_w_3
+
+  17387897:
+    template: Davoi_Pugil
+    level:    [26, 29]
+    region:   davoi_w_3
+
+  17387898:
+    template: Water_Elemental
+    at:       [-238.690, 3.342, -138.387, 127]
+    level:    [47, 49]
+
+  17387899:
+    template: Davoi_Pugil
+    level:    [26, 29]
+    region:   davoi_w
+
+  17387900:
+    template: Davoi_Pugil
+    level:    [26, 29]
+    region:   davoi_w
+
+  17387901:
+    template: Davoi_Pugil
+    level:    [26, 29]
+    region:   davoi_w
+
+  17387902:
+    template: Water_Elemental
+    at:       [-255.903, 3.335, -128.525, 127]
+    level:    [47, 49]
+
+  17387903:
+    template: War_Lizard
+    level:    [29, 32]
+    region:   davoi_w_2
+
+  17387904:
+    template: War_Lizard
+    level:    [29, 32]
+    region:   davoi_w_2
+
+  17387905:
+    template: Orcish_Impaler
+    at:       [-241.000, 4.000, -207.000, 127]
+    level:    [32, 36]
+
+  17387906:
+    template: Orcish_Beastrider
+    at:       [-278.000, 4.000, -200.000, 116]
+    level:    [33, 37]
+
+  17387907:
+    template: Orcish_Nightraider
+    at:       [-229.671, 3.065, -211.800, 42]
+    level:    [34, 38]
+
+  17387908:
+    template: Orcish_Brawler
+    at:       [-259.007, 3.493, -198.303, 127]
+    level:    [35, 39]
+
+  17387909:
+    template: Orcish_Impaler
+    at:       [-271.446, 3.034, -186.121, 127]
+    level:    [32, 36]
+
+  17387910:
+    template: Orcish_Beastrider
+    at:       [-260.348, 0.615, -169.724, 127]
+    level:    [33, 37]
+
+  17387911:
+    template: Orcish_Nightraider
+    at:       [-247.593, 3.613, -209.089, 33]
+    level:    [34, 38]
+
+  17387912:
+    template: Orcish_Brawler
+    at:       [-226.068, 2.769, -206.979, 127]
+    level:    [35, 39]
+
+  17387913:
+    template: War_Lizard
+    at:       [-242.000, 4.000, -196.000, 127]
+    level:    [29, 32]
+
+  17387914:
+    template: War_Lizard
+    at:       [-282.029, 3.500, -189.224, 127]
+    level:    [29, 32]
+
+  17387915:
+    template: War_Lizard
+    at:       [-224.611, -0.366, -283.025, 127]
+    level:    [29, 32]
+
+  17387916:
+    template: War_Lizard
+    at:       [-217.178, -0.174, -284.391, 6]
+    level:    [29, 32]
+
+  17387917:
+    template: War_Lizard
+    at:       [-157.192, -0.024, -178.768, 127]
+    level:    [29, 32]
+
+  17387918:
+    template: War_Lizard
+    at:       [-157.433, -0.015, -183.257, 127]
+    level:    [29, 32]
+
+  17387919:
+    template: Davoi_Mush
+    at:       [-225.237, 2.295, -294.764, 94]
+    level:    [35, 35]
+
+  17387920:
+    template: Blubbery_Bulge
+    at:       [-225.237, 2.295, -294.764, 94]
+    level:    [45, 47]
+
+  17387921:
+    template: Orcish_Impaler
+    at:       [-181.658, -0.378, -174.954, 127]
+    level:    [32, 36]
+
+  17387922:
+    template: Orcish_Beastrider
+    at:       [-148.000, -0.518, -182.000, 127]
+    level:    [33, 37]
+
+  17387923:
+    template: Orcish_Nightraider
+    level:    [34, 38]
+    region:   davoi_w_5
+
+  17387924:
+    template: Orcish_Brawler
+    level:    [35, 39]
+    region:   davoi_w_5
+
+  17387925:
+    template: War_Lizard
+    level:    [29, 32]
+    region:   davoi_w_5
+
+  17387926:
+    template: War_Lizard
+    level:    [29, 32]
+    region:   davoi_w_5
+
+  17387927:
+    template: Orcish_Impaler
+    at:       [-119.626, 0.000, -181.793, 121]
+    level:    [32, 36]
+
+  17387928:
+    template: Orcish_Beastrider
+    at:       [-169.000, -0.714, -174.000, 125]
+    level:    [33, 37]
+
+  17387929:
+    template: Orcish_Nightraider
+    at:       [-124.428, -0.757, -181.794, 130]
+    level:    [38, 38]
+
+  17387930:
+    template: Orcish_Brawler
+    at:       [-116.960, -0.059, -180.446, 127]
+    level:    [35, 39]
+
+  17387931:
+    template: Orcish_Farkiller
+    level:    [62, 66]
+    region:   davoi_c_9
+
+  17387932:
+    template: Orcish_Farkiller
+    level:    [62, 66]
+    region:   davoi_c_9
+
+  17387933:
+    template: Orcish_Dreadnought
+    level:    [63, 67]
+    region:   davoi_c_9
+
+  17387934:
+    template: Orcish_Champion
+    at:       [34.000, -2.000, -129.000, 7]
+    level:    [64, 68]
+
+  17387935:
+    template: Orcish_Farkiller
+    level:    [62, 66]
+    region:   davoi_c_5
+
+  17387936:
+    template: Orcish_Farkiller
+    level:    [62, 66]
+    region:   davoi_c_5
+
+  17387937:
+    template: Orcish_Dreadnought
+    level:    [63, 67]
+    region:   davoi_c_5
+
+  17387938:
+    template: Orcish_Dreadnought
+    level:    [63, 67]
+    region:   davoi_c_6
+
+  17387939:
+    template: Orcish_Dragoon
+    level:    [65, 69]
+    region:   davoi_c_6
+
+  17387940:
+    template: Orcish_Dragoon
+    level:    [65, 69]
+    region:   davoi_c_6
+
+  17387941:
+    template: Orcish_Dragoon
+    at:       [63.980, -8.394, -126.172, 127]
+    level:    [65, 69]
+
+  17387942:
+    template: Orcish_Champion
+    at:       [55.000, -9.904, -143.844, 111]
+    level:    [64, 68]
+
+  17387943:
+    template: Orcish_Warchief
+    at:       [48.000, -9.000, -143.000, 127]
+    level:    [55, 59]
+
+  17387944:
+    template: Orcish_Warchief
+    at:       [58.000, -9.000, -140.000, 35]
+    level:    [55, 59]
+
+  17387945:
+    template: Dirtyhanded_Gochakzuk
+    at:       [56.259, -12.073, -152.955, 127]
+    level:    [71, 71]
+
+  17387946:
+    template: Orcish_Farkiller
+    at:       [143.960, -0.286, -178.055, 62]
+    level:    [62, 66]
+
+  17387947:
+    template: Orcish_Dreadnought
+    level:    [63, 67]
+    region:   davoi_c_12
+
+  17387948:
+    template: Orcish_Champion
+    at:       [136.743, -0.169, -152.134, 127]
+    level:    [64, 68]
+
+  17387949:
+    template: Orcish_Dragoon
+    at:       [167.000, -0.546, -175.000, 71]
+    level:    [65, 69]
+
+  17387950:
+    template: Orcish_Farkiller
+    at:       [83.000, -2.000, -131.000, 125]
+    level:    [62, 66]
+
+  17387951:
+    template: Orcish_Dreadnought
+    level:    [63, 67]
+    region:   davoi_c_12
+
+  17387952:
+    template: Orcish_Champion
+    at:       [145.701, -0.395, -176.229, 127]
+    level:    [64, 68]
+
+  17387953:
+    template: Orcish_Dragoon
+    level:    [65, 69]
+    region:   davoi_c_12
+
+  17387954:
+    template: Orcish_Farkiller
+    level:    [62, 66]
+    region:   davoi_e_2
+
+  17387955:
+    template: Orcish_Dreadnought
+    at:       [180.000, -0.704, -173.000, 127]
+    level:    [63, 67]
+
+  17387956:
+    template: Orcish_Champion
+    level:    [64, 68]
+    region:   davoi_e_2
+
+  17387957:
+    template: Orcish_Dragoon
+    at:       [71.000, -2.000, -113.000, 127]
+    level:    [65, 69]
+
+  17387958:
+    template: Orcish_Farkiller
+    at:       [179.790, -0.572, -191.012, 32]
+    level:    [62, 66]
+
+  17387959:
+    template: Orcish_Dreadnought
+    at:       [141.544, -0.749, -172.264, 127]
+    level:    [63, 67]
+
+  17387960:
+    template: Orcish_Champion
+    level:    [64, 68]
+    region:   davoi_e_2
+
+  17387961:
+    template: Orcish_Dragoon
+    at:       [177.104, -0.427, -182.749, 127]
+    level:    [65, 69]
+
+  17387962:
+    template: Orcish_Dreadnought
+    at:       [180.656, -0.210, -213.239, 30]
+    level:    [63, 67]
+
+  17387963:
+    template: Orcish_Warchief
+    at:       [176.161, 0.104, -218.530, 127]
+    level:    [55, 59]
+
+  17387964:
+    template: Orcish_Warchief
+    at:       [173.099, -0.295, -213.957, 127]
+    level:    [55, 59]
+
+  17387965:
+    template: Gavotvut
+    at:       [293.542, 3.519, -216.794, 199]
+    level:    [45, 45]
+
+  17387966:
+    template: Barakbok
+    at:       [289.378, 4.142, -214.877, 199]
+    level:    [43, 43]
+
+  17387967:
+    template: Bilopdop
+    at:       [-122.838, 3.765, -44.842, 220]
+    level:    [55, 55]
+
+  17387968:
+    template: Deloknok
+    at:       [-125.649, 4.000, -40.612, 220]
+    level:    [53, 53]
+
+  17387969:
+    template: Purpleflash_Brukdok
+    at:       [-135.469, -0.091, -184.703, 127]
+    level:    [45, 45]
+
+  17387970:
+    template: One-eyed_Gwajboj
+    at:       [-35.357, 4.250, -216.834, 57]
+    level:    [62, 62]
+
+  17387971:
+    template: Three-eyed_Prozpuz
+    at:       [-29.598, 4.137, -216.639, 71]
+    level:    [60, 60]
+
+  17387972:
+    template: Hematic_Cyst
+    at:       [177.000, 3.676, -372.524, 199]
+    level:    [40, 40]

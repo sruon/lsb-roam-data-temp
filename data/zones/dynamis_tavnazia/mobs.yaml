@@ -1,0 +1,693 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  16949249:
+    template: Diabolos_Spade
+    at:       [1.035, -30.310, 148.976, 86]
+    level:    [85, 85]
+
+  16949250:
+    template: Diabolos_Heart
+    at:       [0.900, -30.331, 149.505, 59]
+    level:    [85, 85]
+
+  16949251:
+    template: Diabolos_Diamond
+    at:       [1.500, -30.308, 149.500, 82]
+    level:    [85, 85]
+
+  16949252:
+    template: Diabolos_Club
+    at:       [1.500, -30.308, 149.500, 204]
+    level:    [85, 85]
+
+  16949253:
+    template: Diaboloss_Shard
+    at:       [1.820, -30.392, 145.221, 161]
+    level:    [80, 80]
+
+  16949254:
+    template: Diaboloss_Shard
+    at:       [3.198, -30.196, 147.990, 128]
+    level:    [80, 80]
+
+  16949255:
+    template: Nightmare_Bugard
+    at:       [23.871, -12.546, 44.276, 141]
+    level:    [78, 80]
+
+  16949256:
+    template: Nightmare_Bugard
+    at:       [30.454, -12.502, 44.152, 127]
+    level:    [78, 80]
+
+  16949257:
+    template: Nightmare_Worm
+    level:    [78, 80]
+    region:   dynamis_tavnazia_c_2
+
+  16949258:
+    template: Nightmare_Worm
+    at:       [-17.477, -22.499, 20.797, 216]
+    level:    [78, 80]
+
+  16949259:
+    template: Nightmare_Worm
+    at:       [0.161, -24.030, 33.732, 26]
+    level:    [78, 80]
+
+  16949260:
+    template: Nightmare_Worm
+    level:    [78, 80]
+    region:   dynamis_tavnazia_c_2
+
+  16949261:
+    template: Nightmare_Worm
+    at:       [-21.913, -22.478, -13.886, 45]
+    level:    [78, 80]
+
+  16949262:
+    template: Nightmare_Worm
+    at:       [-18.776, -22.301, -18.321, 158]
+    level:    [78, 80]
+
+  16949263:
+    template: Nightmare_Worm
+    at:       [-22.120, -22.424, -14.472, 47]
+    level:    [78, 80]
+
+  16949264:
+    template: Nightmare_Worm
+    at:       [-23.397, -22.587, -12.544, 174]
+    level:    [78, 80]
+
+  16949265:
+    template: Nightmare_Worm
+    level:    [78, 80]
+    region:   dynamis_tavnazia_c_3
+
+  16949266:
+    template: Nightmare_Worm
+    level:    [78, 80]
+    region:   dynamis_tavnazia_c_3
+
+  16949267:
+    template: Nightmare_Worm
+    level:    [78, 80]
+    region:   dynamis_tavnazia_c_3
+
+  16949268:
+    template: Nightmare_Worm
+    level:    [78, 80]
+    region:   dynamis_tavnazia_c_3
+
+  16949269:
+    template: Adamantking_Effigy
+    at:       [28.563, -22.697, -8.070, 168]
+    level:    [70, 70]
+
+  16949270:
+    template: Adamantking_Effigy
+    level:    [70, 70]
+    region:   dynamis_tavnazia_c_3
+
+  16949271:
+    template: Adamantking_Effigy
+    at:       [15.148, -22.449, -17.837, 102]
+    level:    [70, 70]
+
+  16949272:
+    template: Effigy_Prototype
+    level:    [70, 70]
+    region:   dynamis_tavnazia_c_3
+
+  16949273:
+    template: Nightmare_Hornet
+    level:    [78, 80]
+    region:   dynamis_tavnazia_nw_3
+
+  16949274:
+    template: Nightmare_Hornet
+    level:    [78, 80]
+    region:   dynamis_tavnazia_nw_3
+
+  16949275:
+    template: Nightmare_Hornet
+    level:    [78, 80]
+    region:   dynamis_tavnazia_nw_3
+
+  16949276:
+    template: Nightmare_Hornet
+    level:    [78, 80]
+    region:   dynamis_tavnazia_nw_3
+
+  16949277:
+    template: Nightmare_Hornet
+    level:    [78, 80]
+    region:   dynamis_tavnazia_sw_2
+
+  16949278:
+    template: Nightmare_Hornet
+    level:    [78, 80]
+    region:   dynamis_tavnazia_sw_2
+
+  16949279:
+    template: Nightmare_Hornet
+    level:    [78, 80]
+    region:   dynamis_tavnazia_sw_2
+
+  16949280:
+    template: Nightmare_Hornet
+    level:    [78, 80]
+    region:   dynamis_tavnazia_sw_2
+
+  16949281:
+    template: Hydra_Warrior
+    level:    [77, 79]
+    region:   dynamis_tavnazia_w
+
+  16949282:
+    template: Hydra_Red_Mage
+    level:    [77, 79]
+    region:   dynamis_tavnazia_w
+
+  16949283:
+    template: Hydra_Paladin
+    at:       [-96.407, -27.366, -16.573, 55]
+    level:    [77, 79]
+
+  16949284:
+    template: Hydra_Ninja
+    level:    [77, 79]
+    region:   dynamis_tavnazia_w
+
+  16949285:
+    template: Hydra_Monk
+    at:       [-99.500, -27.420, -44.662, 8]
+    level:    [77, 79]
+
+  16949286:
+    template: Hydra_White_Mage
+    at:       [-109.493, -27.493, -39.361, 236]
+    level:    [77, 79]
+
+  16949287:
+    template: Hydra_Beastmaster
+    at:       [-110.239, -27.449, -36.357, 150]
+    level:    [77, 79]
+
+  16949288:
+    template: Hydras_Hound
+    at:       [-107.359, -27.478, -36.484, 133]
+    level:    [77, 79]
+
+  16949289:
+    template: Serjeant_Tombstone
+    at:       [-106.493, -27.492, -37.804, 18]
+    level:    [70, 70]
+
+  16949290:
+    template: Serjeant_Tombstone
+    at:       [-110.807, -27.363, -53.316, 177]
+    level:    [70, 70]
+
+  16949291:
+    template: Serjeant_Tombstone
+    at:       [-112.810, -27.540, -49.090, 194]
+    level:    [70, 70]
+
+  16949292:
+    template: Tombstone_Prototype
+    at:       [-106.651, -27.581, -42.936, 132]
+    level:    [70, 70]
+
+  16949293:
+    template: Hydra_Black_Mage
+    level:    [77, 79]
+    region:   dynamis_tavnazia_w_2
+
+  16949294:
+    template: Hydra_Dark_Knight
+    level:    [77, 79]
+    region:   dynamis_tavnazia_w_2
+
+  16949295:
+    template: Hydra_Bard
+    level:    [77, 79]
+    region:   dynamis_tavnazia_w_2
+
+  16949296:
+    template: Hydra_Dragoon
+    level:    [77, 79]
+    region:   dynamis_tavnazia_w_2
+
+  16949297:
+    template: Hydras_Wyvern
+    at:       [-96.071, -27.255, 21.502, 102]
+    level:    [77, 79]
+
+  16949298:
+    template: Hydra_Thief
+    at:       [-103.367, -27.296, 50.013, 234]
+    level:    [77, 79]
+
+  16949299:
+    template: Hydra_Ranger
+    at:       [-104.862, -27.407, 54.295, 95]
+    level:    [77, 79]
+
+  16949300:
+    template: Hydra_Samurai
+    at:       [-110.409, -27.419, 48.331, 195]
+    level:    [77, 79]
+
+  16949301:
+    template: Hydra_Summoner
+    at:       [-97.630, -27.450, 49.399, 30]
+    level:    [77, 79]
+
+  16949302:
+    template: Hydras_Avatar
+    at:       [-99.329, -27.428, 51.145, 31]
+    level:    [77, 79]
+
+  16949303:
+    template: Manifest_Icon
+    at:       [-106.274, -27.395, 52.796, 171]
+    level:    [70, 70]
+
+  16949304:
+    template: Manifest_Icon
+    at:       [-101.292, -27.320, 52.954, 89]
+    level:    [70, 70]
+
+  16949305:
+    template: Manifest_Icon
+    at:       [-102.625, -27.346, 46.551, 3]
+    level:    [70, 70]
+
+  16949306:
+    template: Icon_Prototype
+    at:       [-105.414, -27.320, 48.618, 196]
+    level:    [70, 70]
+
+  16949307:
+    template: Nightmare_Taurus
+    level:    [78, 80]
+    region:   dynamis_tavnazia_sw
+
+  16949308:
+    template: Nightmare_Taurus
+    level:    [78, 80]
+    region:   dynamis_tavnazia_sw
+
+  16949309:
+    template: Nightmare_Taurus
+    level:    [78, 80]
+    region:   dynamis_tavnazia_sw
+
+  16949310:
+    template: Nightmare_Taurus
+    at:       [-80.283, -20.490, -68.536, 98]
+    level:    [78, 80]
+
+  16949311:
+    template: Nightmare_Taurus
+    at:       [-80.290, -20.490, -63.233, 242]
+    level:    [78, 80]
+
+  16949312:
+    template: Nightmare_Taurus
+    level:    [78, 80]
+    region:   dynamis_tavnazia_nw
+
+  16949313:
+    template: Nightmare_Taurus
+    level:    [78, 80]
+    region:   dynamis_tavnazia_nw
+
+  16949314:
+    template: Nightmare_Taurus
+    level:    [78, 80]
+    region:   dynamis_tavnazia_nw
+
+  16949315:
+    template: Nightmare_Taurus
+    level:    [78, 80]
+    region:   dynamis_tavnazia_nw_2
+
+  16949316:
+    template: Nightmare_Taurus
+    level:    [78, 80]
+    region:   dynamis_tavnazia_nw_2
+
+  16949317:
+    template: Nightmare_Makara
+    at:       [-84.818, -13.085, 11.089, 187]
+    level:    [78, 80]
+
+  16949318:
+    template: Nightmare_Makara
+    at:       [-79.299, -11.973, 7.221, 125]
+    level:    [78, 80]
+
+  16949319:
+    template: Nightmare_Makara
+    at:       [-87.969, -13.360, 4.338, 193]
+    level:    [78, 80]
+
+  16949320:
+    template: Nightmare_Makara
+    at:       [-86.147, -13.054, 8.368, 100]
+    level:    [78, 80]
+
+  16949321:
+    template: Nightmare_Makara
+    at:       [-74.099, -12.204, 0.955, 63]
+    level:    [78, 80]
+
+  16949322:
+    template: Goblin_Replica
+    at:       [-73.610, -11.653, -5.566, 10]
+    level:    [70, 70]
+
+  16949323:
+    template: Goblin_Replica
+    at:       [-75.699, -11.257, 14.462, 1]
+    level:    [70, 70]
+
+  16949324:
+    template: Goblin_Replica
+    at:       [-84.564, -12.866, -5.932, 153]
+    level:    [70, 70]
+
+  16949325:
+    template: Statue_Prototype
+    at:       [-72.307, -11.686, -5.761, 11]
+    level:    [70, 70]
+
+  16949326:
+    template: Diabolos_Somnus
+    at:       [1.500, -30.308, 149.500, 64]
+    level:    [105, 105]
+
+  16949327:
+    template: Diabolos_Nox
+    at:       [1.500, -30.308, 149.500, 64]
+    level:    [105, 105]
+
+  16949328:
+    template: Diabolos_Letum
+    at:       [1.500, -30.300, 149.500, 64]
+    level:    [105, 105]
+
+  16949329:
+    template: Diabolos_Umbra
+    at:       [1.500, -30.308, 149.500, 4]
+    level:    [105, 105]
+
+  16949330:
+    template: Diaboloss_Vestige
+    at:       [2.214, -30.304, 150.537, 28]
+    level:    [0, 0]
+
+  16949331:
+    template: Diaboloss_Vestige
+    at:       [2.214, -30.304, 150.537, 28]
+    level:    [0, 0]
+
+  16949332:
+    template: Nightmare_Cluster
+    level:    [95, 97]
+    region:   dynamis_tavnazia_c_2
+
+  16949333:
+    template: Nightmare_Cluster
+    level:    [95, 97]
+    region:   dynamis_tavnazia_c_2
+
+  16949334:
+    template: Nightmare_Cluster
+    level:    [95, 97]
+    region:   dynamis_tavnazia_c_2
+
+  16949335:
+    template: Nightmare_Cluster
+    level:    [95, 97]
+    region:   dynamis_tavnazia_c
+
+  16949336:
+    template: Nightmare_Cluster
+    level:    [95, 97]
+    region:   dynamis_tavnazia_c
+
+  16949337:
+    template: Nightmare_Cluster
+    level:    [95, 97]
+    region:   dynamis_tavnazia_c
+
+  16949338:
+    template: Nightmare_Cluster
+    level:    [95, 97]
+    region:   dynamis_tavnazia_c_3
+
+  16949339:
+    template: Nightmare_Cluster
+    at:       [20.402, -36.380, -17.969, 208]
+    level:    [95, 97]
+
+  16949340:
+    template: Nightmare_Cluster
+    level:    [95, 97]
+    region:   dynamis_tavnazia_c_3
+
+  16949341:
+    template: Nightmare_Leech
+    level:    [95, 97]
+    region:   dynamis_tavnazia_ne
+
+  16949342:
+    template: Nightmare_Leech
+    level:    [95, 97]
+    region:   dynamis_tavnazia_ne
+
+  16949343:
+    template: Nightmare_Leech
+    level:    [95, 97]
+    region:   dynamis_tavnazia_ne
+
+  16949344:
+    template: Nightmare_Leech
+    level:    [95, 97]
+    region:   dynamis_tavnazia_ne
+
+  16949345:
+    template: Nightmare_Leech
+    level:    [95, 97]
+    region:   dynamis_tavnazia_se
+
+  16949346:
+    template: Nightmare_Leech
+    level:    [95, 97]
+    region:   dynamis_tavnazia_se
+
+  16949347:
+    template: Nightmare_Leech
+    level:    [95, 97]
+    region:   dynamis_tavnazia_se
+
+  16949348:
+    template: Nightmare_Leech
+    level:    [95, 97]
+    region:   dynamis_tavnazia_se
+
+  16949349:
+    template: Kindred_Monk
+    level:    [95, 97]
+    region:   dynamis_tavnazia_e
+
+  16949350:
+    template: Kindred_Black_Mage
+    level:    [95, 97]
+    region:   dynamis_tavnazia_e
+
+  16949351:
+    template: Kindred_Beastmaster
+    level:    [95, 97]
+    region:   dynamis_tavnazia_e
+
+  16949352:
+    template: Kindreds_Vouivre
+    level:    [95, 97]
+    region:   dynamis_tavnazia_e
+
+  16949353:
+    template: Kindred_White_Mage
+    level:    [95, 97]
+    region:   dynamis_tavnazia_ne_4
+
+  16949354:
+    template: Kindred_Dark_Knight
+    level:    [95, 97]
+    region:   dynamis_tavnazia_ne_4
+
+  16949355:
+    template: Kindred_Ranger
+    level:    [95, 97]
+    region:   dynamis_tavnazia_ne_4
+
+  16949356:
+    template: Goblin_Replica
+    at:       [113.318, -41.500, 45.880, 67]
+    level:    [70, 70]
+
+  16949357:
+    template: Goblin_Replica
+    at:       [102.970, -41.560, 32.953, 145]
+    level:    [70, 70]
+
+  16949358:
+    template: Goblin_Replica
+    at:       [103.360, -41.290, 52.062, 93]
+    level:    [70, 70]
+
+  16949359:
+    template: Kindred_Red_Mage
+    at:       [100.540, -41.430, -37.951, 205]
+    level:    [95, 97]
+
+  16949360:
+    template: Kindred_Paladin
+    at:       [113.300, -41.500, -41.226, 56]
+    level:    [95, 97]
+
+  16949361:
+    template: Kindred_Samurai
+    at:       [109.100, -41.530, -45.554, 77]
+    level:    [95, 97]
+
+  16949362:
+    template: Manifest_Icon
+    at:       [96.217, -41.480, -46.854, 235]
+    level:    [70, 70]
+
+  16949363:
+    template: Manifest_Icon
+    at:       [98.420, -41.430, -46.411, 129]
+    level:    [70, 70]
+
+  16949364:
+    template: Manifest_Icon
+    at:       [101.190, -41.380, -46.007, 171]
+    level:    [70, 70]
+
+  16949365:
+    template: Kindred_Warrior
+    level:    [95, 97]
+    region:   dynamis_tavnazia_se_2
+
+  16949366:
+    template: Kindred_Thief
+    level:    [95, 97]
+    region:   dynamis_tavnazia_se_2
+
+  16949367:
+    template: Kindred_Summoner
+    level:    [95, 97]
+    region:   dynamis_tavnazia_se_2
+
+  16949368:
+    template: Kindreds_Avatar
+    level:    [95, 97]
+    region:   dynamis_tavnazia_se_2
+
+  16949369:
+    template: Adamantking_Effigy
+    at:       [77.518, -34.500, -67.840, 182]
+    level:    [70, 70]
+
+  16949370:
+    template: Adamantking_Effigy
+    at:       [80.979, -36.735, -42.289, 67]
+    level:    [70, 70]
+
+  16949371:
+    template: Adamantking_Effigy
+    level:    [70, 70]
+    region:   dynamis_tavnazia_se_2
+
+  16949372:
+    template: Kindred_Bard
+    level:    [95, 97]
+    region:   dynamis_tavnazia_ne_3
+
+  16949373:
+    template: Kindred_Ninja
+    level:    [95, 97]
+    region:   dynamis_tavnazia_ne_3
+
+  16949374:
+    template: Kindred_Dragoon
+    level:    [95, 97]
+    region:   dynamis_tavnazia_ne_3
+
+  16949375:
+    template: Kindreds_Wyvern
+    at:       [87.105, -34.310, 62.461, 83]
+    level:    [95, 97]
+
+  16949376:
+    template: Serjeant_Tombstone
+    at:       [86.276, -34.144, 63.686, 64]
+    level:    [70, 70]
+
+  16949377:
+    template: Serjeant_Tombstone
+    at:       [84.518, -34.470, 63.696, 128]
+    level:    [70, 70]
+
+  16949378:
+    template: Serjeant_Tombstone
+    level:    [70, 70]
+    region:   dynamis_tavnazia_ne_3
+
+  16949379:
+    template: Vanguard_Eye
+    at:       [76.675, -25.349, 1.108, 135]
+    level:    [80, 82]
+
+  16949380:
+    template: Prototype_Eye
+    at:       [72.709, -25.402, 4.501, 76]
+    level:    [80, 82]
+
+  16949381:
+    template: Vanguard_Eye
+    level:    [80, 82]
+    region:   dynamis_tavnazia_se_3
+
+  16949382:
+    template: Vanguard_Eye
+    level:    [80, 82]
+    region:   dynamis_tavnazia_se_3
+
+  16949383:
+    template: Vanguard_Eye
+    level:    [80, 82]
+    region:   dynamis_tavnazia_se_3
+
+  16949384:
+    template: Vanguard_Eye
+    level:    [80, 82]
+    region:   dynamis_tavnazia_ne_2
+
+  16949385:
+    template: Vanguard_Eye
+    level:    [80, 82]
+    region:   dynamis_tavnazia_ne_2
+
+  16949386:
+    template: Vanguard_Eye
+    level:    [80, 82]
+    region:   dynamis_tavnazia_ne_2

@@ -1,0 +1,1503 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17891329:
+    template: Chumchomp_Jagil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17891330:
+    template: Chumchomp_Jagil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17891331:
+    template: Crusty_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17891332:
+    template: Crusty_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17891333:
+    template: Crusty_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17891334:
+    template: Knotted_Root
+    at:       [-58.000, -11.500, 80.000, 47]
+    level:    [105, 110]
+
+  17891335:
+    template: Knotted_Root
+    at:       [-62.000, -11.500, 80.000, 52]
+    level:    [105, 110]
+
+  17891336:
+    template: Velkk_Punisher
+    at:       [-71.850, -10.550, 93.278, 147]
+    level:    [106, 106]
+
+  17891337:
+    template: Trogloptera
+    at:       [-64.190, -10.630, 86.120, 55]
+    level:    [106, 106]
+
+  17891338:
+    template: Velkk_Vaticinator
+    at:       [-58.050, -10.550, 77.244, 220]
+    level:    [106, 106]
+
+  17891339:
+    template: Trogloptera
+    at:       [-62.040, -10.490, 76.729, 183]
+    level:    [106, 106]
+
+  17891340:
+    template: Knotted_Root
+    at:       [-160.000, -21.500, 302.000, 56]
+    level:    [105, 110]
+
+  17891341:
+    template: Knotted_Root
+    at:       [-160.000, -21.500, 298.000, 19]
+    level:    [105, 110]
+
+  17891342:
+    template: Velkk_Ravager
+    at:       [-179.500, -20.370, 298.652, 115]
+    level:    [106, 106]
+
+  17891343:
+    template: Crevice_Tarichuk
+    at:       [-163.700, -20.470, 299.139, 53]
+    level:    [106, 106]
+
+  17891344:
+    template: Velkk_Manipulator
+    at:       [-156.500, -20.540, 302.148, 133]
+    level:    [106, 106]
+
+  17891345:
+    template: Crevice_Tarichuk
+    at:       [-154.800, -20.550, 301.657, 226]
+    level:    [106, 106]
+
+  17891346:
+    template: Leafdancer_Twitherym
+    level:    [121, 123]
+    region:   dho_gates_c_7
+
+  17891347:
+    template: Leafdancer_Twitherym
+    level:    [121, 123]
+    region:   dho_gates_c_7
+
+  17891348:
+    template: Leafdancer_Twitherym
+    level:    [121, 123]
+    region:   dho_gates_c_7
+
+  17891349:
+    template: Leafdancer_Twitherym
+    level:    [121, 123]
+    region:   dho_gates_c_7
+
+  17891350:
+    template: Ripsaw_Jagil
+    level:    [121, 123]
+    region:   dho_gates_c_7
+
+  17891351:
+    template: Ripsaw_Jagil
+    level:    [121, 123]
+    region:   dho_gates_c_7
+
+  17891352:
+    template: Ripsaw_Jagil
+    level:    [121, 123]
+    region:   dho_gates_c_7
+
+  17891353:
+    template: Velkk_Trampler
+    level:    [121, 123]
+    region:   dho_gates_c_3
+
+  17891354:
+    template: Velkk_Trampler
+    level:    [121, 123]
+    region:   dho_gates_c_3
+
+  17891355:
+    template: Velkk_Dreadnought
+    level:    [121, 123]
+    region:   dho_gates_c_3
+
+  17891356:
+    template: Velkk_Dreadnought
+    level:    [121, 123]
+    region:   dho_gates_c_3
+
+  17891357:
+    template: Ripsaw_Jagil
+    level:    [121, 123]
+    region:   dho_gates_c_3
+
+  17891358:
+    template: Ripsaw_Jagil
+    level:    [121, 123]
+    region:   dho_gates_c_3
+
+  17891359:
+    template: Ripsaw_Jagil
+    level:    [121, 123]
+    region:   dho_gates_c_3
+
+  17891360:
+    template: Ripsaw_Jagil
+    level:    [121, 123]
+    region:   dho_gates_c_3
+
+  17891361:
+    template: Velkk_Archmagus
+    level:    [121, 123]
+    region:   dho_gates_w_7
+
+  17891362:
+    template: Velkk_Archmagus
+    level:    [121, 123]
+    region:   dho_gates_w_7
+
+  17891363:
+    template: Velkk_Cyclonicist
+    level:    [121, 123]
+    region:   dho_gates_w_7
+
+  17891364:
+    template: Velkk_Cyclonicist
+    level:    [121, 123]
+    region:   dho_gates_w_7
+
+  17891365:
+    template: Unyielding_Tarichuk
+    at:       [-153.100, -19.710, 194.029, 173]
+    level:    [121, 123]
+
+  17891366:
+    template: Unyielding_Tarichuk
+    at:       [-159.700, -20.120, 202.119, 56]
+    level:    [121, 123]
+
+  17891367:
+    template: Spumous_Slug
+    level:    [121, 123]
+    region:   dho_gates_n_2
+
+  17891368:
+    template: Spumous_Slug
+    level:    [121, 123]
+    region:   dho_gates_n_2
+
+  17891369:
+    template: Spumous_Slug
+    level:    [121, 123]
+    region:   dho_gates_n_2
+
+  17891370:
+    template: Septic_Acuex
+    level:    [121, 123]
+    region:   dho_gates_n
+
+  17891371:
+    template: Septic_Acuex
+    level:    [121, 123]
+    region:   dho_gates_n
+
+  17891372:
+    template: Septic_Acuex
+    level:    [121, 123]
+    region:   dho_gates_n
+
+  17891373:
+    template: Firth_Umbril
+    at:       [19.507, -19.900, 257.394, 180]
+    level:    [121, 123]
+
+  17891374:
+    template: Firth_Umbril
+    at:       [23.150, -19.770, 261.140, 87]
+    level:    [121, 123]
+
+  17891375:
+    template: Blightdella
+    at:       [-84.880, -20.290, 410.701, 38]
+    level:    [121, 123]
+
+  17891376:
+    template: Blightdella
+    at:       [-90.900, -20.110, 404.928, 134]
+    level:    [121, 123]
+
+  17891377:
+    template: Pungent_Fungus
+    at:       [-73.980, -19.480, 405.440, 96]
+    level:    [1, 1]
+
+  17891378:
+    template: Pungent_Fungus
+    at:       [-68.990, -20.160, 388.058, 93]
+    level:    [1, 1]
+
+  17891379:
+    template: Leafdancer_Twitherym
+    at:       [-41.230, -20.000, 431.062, 176]
+    level:    [121, 123]
+
+  17891380:
+    template: Leafdancer_Twitherym
+    at:       [-40.900, -20.030, 431.411, 69]
+    level:    [121, 123]
+
+  17891381:
+    template: Leafdancer_Twitherym
+    at:       [-41.660, -20.130, 447.893, 214]
+    level:    [121, 123]
+
+  17891382:
+    template: Duskprowlers
+    level:    [121, 123]
+    region:   dho_gates_nw_3
+
+  17891383:
+    template: Duskprowlers
+    level:    [121, 123]
+    region:   dho_gates_nw_3
+
+  17891384:
+    template: Velkk_Reaver
+    level:    [105, 110]
+    region:   dho_gates_nw_3
+
+  17891385:
+    template: Velkk_Reaver
+    level:    [105, 110]
+    region:   dho_gates_nw_3
+
+  17891386:
+    template: Velkk_Reaver
+    level:    [105, 110]
+    region:   dho_gates_nw_3
+
+  17891387:
+    template: Firth_Umbril
+    at:       [-287.400, -39.740, 316.059, 85]
+    level:    [121, 123]
+
+  17891388:
+    template: Firth_Umbril
+    at:       [-288.900, -40.280, 323.920, 78]
+    level:    [121, 123]
+
+  17891389:
+    template: Firth_Umbril
+    at:       [-279.900, -40.180, 318.743, 8]
+    level:    [121, 123]
+
+  17891390:
+    template: Velkk_Stormcaller
+    at:       [-412.200, -40.110, 178.363, 155]
+    level:    [105, 110]
+
+  17891391:
+    template: Velkk_Stormcaller
+    at:       [-416.300, -41.250, 185.552, 243]
+    level:    [105, 110]
+
+  17891392:
+    template: Velkk_Stormcaller
+    at:       [-410.000, -39.660, 175.945, 26]
+    level:    [105, 110]
+
+  17891393:
+    template: Unyielding_Tarichuk
+    at:       [-360.200, -29.440, 182.100, 82]
+    level:    [121, 123]
+
+  17891394:
+    template: Unyielding_Tarichuk
+    at:       [-362.800, -29.870, 178.085, 109]
+    level:    [121, 123]
+
+  17891395:
+    template: Velkk_Berserker
+    level:    [105, 110]
+    region:   dho_gates_nw_2
+
+  17891396:
+    template: Velkk_Berserker
+    level:    [105, 110]
+    region:   dho_gates_nw_2
+
+  17891397:
+    template: Velkk_Berserker
+    level:    [105, 110]
+    region:   dho_gates_nw_2
+
+  17891398:
+    template: Velkk_Berserker
+    level:    [105, 110]
+    region:   dho_gates_nw_2
+
+  17891399:
+    template: Spinescent_Protuberance
+    at:       [-391.700, -39.320, 270.716, 102]
+    level:    [1, 1]
+
+  17891400:
+    template: Velkk_Magus
+    level:    [105, 110]
+    region:   dho_gates_nw
+
+  17891401:
+    template: Velkk_Magus
+    level:    [105, 110]
+    region:   dho_gates_nw
+
+  17891402:
+    template: Velkk_Magus
+    level:    [105, 110]
+    region:   dho_gates_nw
+
+  17891403:
+    template: Velkk_Magus
+    level:    [105, 110]
+    region:   dho_gates_nw
+
+  17891404:
+    template: Spinescent_Protuberance
+    at:       [-452.300, -39.230, 255.337, 45]
+    level:    [1, 1]
+
+  17891405:
+    template: Velkk_Reaver
+    level:    [105, 110]
+    region:   dho_gates_w
+
+  17891406:
+    template: Velkk_Reaver
+    level:    [105, 110]
+    region:   dho_gates_w
+
+  17891407:
+    template: Velkk_Reaver
+    level:    [105, 110]
+    region:   dho_gates_w
+
+  17891408:
+    template: Velkk_Reaver
+    level:    [105, 110]
+    region:   dho_gates_w
+
+  17891409:
+    template: Spinescent_Protuberance
+    at:       [-498.000, -40.890, 163.214, 110]
+    level:    [1, 1]
+
+  17891410:
+    template: Velkk_Stormcaller
+    level:    [105, 110]
+    region:   dho_gates_w_2
+
+  17891411:
+    template: Velkk_Stormcaller
+    level:    [105, 110]
+    region:   dho_gates_w_2
+
+  17891412:
+    template: Velkk_Stormcaller
+    level:    [105, 110]
+    region:   dho_gates_w_2
+
+  17891413:
+    template: Velkk_Stormcaller
+    level:    [105, 110]
+    region:   dho_gates_w_2
+
+  17891414:
+    template: Spinescent_Protuberance
+    at:       [-463.800, -40.100, 128.972, 117]
+    level:    [1, 1]
+
+  17891415:
+    template: Unyielding_Tarichuk
+    at:       [-457.000, -39.630, 77.559, 59]
+    level:    [121, 123]
+
+  17891416:
+    template: Unyielding_Tarichuk
+    at:       [-457.100, -39.770, 75.029, 217]
+    level:    [121, 123]
+
+  17891417:
+    template: Velkk_Reaver
+    level:    [105, 110]
+    region:   dho_gates_w_5
+
+  17891418:
+    template: Velkk_Reaver
+    level:    [105, 110]
+    region:   dho_gates_w_5
+
+  17891419:
+    template: Velkk_Berserker
+    level:    [105, 110]
+    region:   dho_gates_w_5
+
+  17891420:
+    template: Velkk_Berserker
+    level:    [105, 110]
+    region:   dho_gates_w_5
+
+  17891421:
+    template: Velkk_Magus
+    level:    [105, 110]
+    region:   dho_gates_w_4
+
+  17891422:
+    template: Velkk_Magus
+    level:    [105, 110]
+    region:   dho_gates_w_4
+
+  17891423:
+    template: Velkk_Stormcaller
+    level:    [105, 110]
+    region:   dho_gates_w_4
+
+  17891424:
+    template: Velkk_Stormcaller
+    level:    [105, 110]
+    region:   dho_gates_w_4
+
+  17891425:
+    template: Spinescent_Protuberance
+    at:       [-180.200, -20.540, 173.401, 126]
+    level:    [1, 1]
+
+  17891426:
+    template: Spinescent_Protuberance
+    at:       [-177.300, -19.890, 185.203, 93]
+    level:    [1, 1]
+
+  17891427:
+    template: Pungent_Fungus
+    at:       [-122.400, -19.300, 418.286, 71]
+    level:    [1, 1]
+
+  17891428:
+    template: Pungent_Fungus
+    at:       [-119.200, -19.190, 418.026, 7]
+    level:    [1, 1]
+
+  17891429:
+    template: Blightdella
+    level:    [121, 123]
+    region:   dho_gates_n_4
+
+  17891430:
+    template: Blightdella
+    level:    [121, 123]
+    region:   dho_gates_n_4
+
+  17891431:
+    template: Spumous_Slug
+    level:    [121, 123]
+    region:   dho_gates_n_3
+
+  17891432:
+    template: Spumous_Slug
+    level:    [121, 123]
+    region:   dho_gates_n_3
+
+  17891433:
+    template: Pungent_Fungus
+    at:       [13.390, -20.010, 474.759, 27]
+    level:    [1, 1]
+
+  17891434:
+    template: Pungent_Fungus
+    at:       [12.005, -20.870, 464.596, 46]
+    level:    [1, 1]
+
+  17891435:
+    template: Void_Worm
+    level:    [121, 123]
+    region:   dho_gates_nw_4
+
+  17891436:
+    template: Void_Worm
+    level:    [121, 123]
+    region:   dho_gates_nw_4
+
+  17891437:
+    template: Spinescent_Protuberance
+    at:       [-261.600, -28.470, 246.427, 115]
+    level:    [1, 1]
+
+  17891438:
+    template: Spinescent_Protuberance
+    at:       [-259.300, -29.790, 243.386, 123]
+    level:    [1, 1]
+
+  17891439:
+    template: Spinescent_Protuberance
+    at:       [-327.800, -37.850, 301.585, 110]
+    level:    [1, 1]
+
+  17891440:
+    template: Spinescent_Protuberance
+    at:       [-332.200, -35.580, 297.579, 84]
+    level:    [1, 1]
+
+  17891441:
+    template: Twilight_Bat
+    at:       [-307.200, -40.900, 297.934, 132]
+    level:    [121, 123]
+
+  17891442:
+    template: Twilight_Bat
+    at:       [-303.400, -40.760, 299.324, 248]
+    level:    [121, 123]
+
+  17891443:
+    template: Leafdancer_Twitherym
+    level:    [121, 123]
+    region:   dho_gates_w_3
+
+  17891444:
+    template: Leafdancer_Twitherym
+    level:    [121, 123]
+    region:   dho_gates_w_3
+
+  17891445:
+    template: Slinking_Slug
+    at:       [278.970, -19.740, -246.850, 201]
+    level:    [121, 123]
+
+  17891446:
+    template: Slinking_Slug
+    at:       [273.040, -19.720, -240.460, 31]
+    level:    [121, 123]
+
+  17891447:
+    template: Bloodspattered_Fly
+    at:       [292.890, -19.340, -246.910, 152]
+    level:    [120, 123]
+
+  17891448:
+    template: Midnight_Worm
+    at:       [315.980, -20.230, -250.770, 25]
+    level:    [120, 123]
+
+  17891449:
+    template: Midnight_Worm
+    at:       [321.080, -19.780, -244.470, 26]
+    level:    [120, 123]
+
+  17891450:
+    template: Bloodspattered_Fly
+    at:       [342.180, -21.300, -217.560, 188]
+    level:    [120, 123]
+
+  17891451:
+    template: Midnight_Worm
+    at:       [343.360, -21.610, -216.470, 126]
+    level:    [120, 123]
+
+  17891452:
+    template: Midnight_Worm
+    at:       [369.330, -20.400, -219.250, 231]
+    level:    [120, 123]
+
+  17891453:
+    template: Bloodspattered_Fly
+    at:       [350.380, -21.550, -214.450, 107]
+    level:    [120, 123]
+
+  17891454:
+    template: Rancidclaw_Crab
+    at:       [444.070, -9.043, -287.750, 89]
+    level:    [120, 123]
+
+  17891455:
+    template: Rancidclaw_Crab
+    at:       [447.070, -9.085, -284.640, 119]
+    level:    [120, 123]
+
+  17891456:
+    template: Irascible_Tarichuk
+    at:       [434.040, -9.885, -276.090, 36]
+    level:    [120, 123]
+
+  17891457:
+    template: Irascible_Tarichuk
+    at:       [443.780, -10.160, -271.310, 158]
+    level:    [120, 123]
+
+  17891458:
+    template: Rancidclaw_Crab
+    at:       [443.680, -10.130, -271.720, 167]
+    level:    [120, 123]
+
+  17891459:
+    template: Rancidclaw_Crab
+    at:       [438.840, -9.826, -289.730, 101]
+    level:    [120, 123]
+
+  17891460:
+    template: Surly_Craklaw
+    at:       [478.930, -9.432, -259.940, 36]
+    level:    [123, 125]
+
+  17891461:
+    template: Surly_Craklaw
+    at:       [474.720, -12.390, -269.460, 127]
+    level:    [123, 125]
+
+  17891462:
+    template: Rancidclaw_Crab
+    at:       [413.450, -10.530, -302.040, 180]
+    level:    [120, 123]
+
+  17891463:
+    template: Midnight_Worm
+    at:       [395.760, -9.965, -296.730, 69]
+    level:    [120, 123]
+
+  17891464:
+    template: Midnight_Worm
+    at:       [406.760, -10.480, -295.730, 49]
+    level:    [120, 123]
+
+  17891465:
+    template: Midnight_Worm
+    at:       [394.890, -9.729, -297.370, 14]
+    level:    [120, 123]
+
+  17891466:
+    template: Bloodspattered_Fly
+    at:       [402.000, -19.800, -222.150, 1]
+    level:    [120, 123]
+
+  17891467:
+    template: Surly_Craklaw
+    at:       [192.810, -10.080, -305.630, 67]
+    level:    [123, 125]
+
+  17891468:
+    template: Surly_Craklaw
+    at:       [184.630, -9.421, -320.730, 201]
+    level:    [123, 125]
+
+  17891469:
+    template: Surly_Craklaw
+    at:       [179.350, -9.314, -305.850, 141]
+    level:    [123, 125]
+
+  17891470:
+    template: Slinking_Slug
+    level:    [121, 123]
+    region:   dho_gates_se
+
+  17891471:
+    template: Slinking_Slug
+    at:       [247.030, -11.820, -346.900, 242]
+    level:    [121, 123]
+
+  17891472:
+    template: Slinking_Slug
+    at:       [249.710, -10.060, -336.100, 132]
+    level:    [121, 123]
+
+  17891473:
+    template: Slinking_Slug
+    at:       [253.990, -9.642, -336.870, 9]
+    level:    [121, 123]
+
+  17891474:
+    template: Slinking_Slug
+    at:       [253.980, -20.500, -257.550, 117]
+    level:    [121, 123]
+
+  17891475:
+    template: Slinking_Slug
+    at:       [257.960, -20.340, -256.720, 248]
+    level:    [121, 123]
+
+  17891476:
+    template: Irascible_Tarichuk
+    at:       [323.800, -9.975, -309.150, 165]
+    level:    [120, 123]
+
+  17891477:
+    template: Bloodspattered_Fly
+    level:    [120, 123]
+    region:   dho_gates_se_2
+
+  17891478:
+    template: Irascible_Tarichuk
+    level:    [120, 123]
+    region:   dho_gates_se_2
+
+  17891479:
+    template: Irascible_Tarichuk
+    at:       [298.430, -11.040, -339.200, 68]
+    level:    [120, 123]
+
+  17891480:
+    template: Bloodspattered_Fly
+    at:       [305.770, -10.070, -345.910, 134]
+    level:    [120, 123]
+
+  17891481:
+    template: Rancidclaw_Crab
+    at:       [309.990, -9.994, -368.870, 102]
+    level:    [120, 123]
+
+  17891482:
+    template: Irascible_Tarichuk
+    level:    [120, 123]
+    region:   dho_gates_se_5
+
+  17891483:
+    template: Rancidclaw_Crab
+    at:       [324.610, -9.043, -366.500, 98]
+    level:    [120, 123]
+
+  17891484:
+    template: Rancidclaw_Crab
+    at:       [322.990, -9.067, -368.730, 202]
+    level:    [120, 123]
+
+  17891485:
+    template: Bloodspattered_Fly
+    at:       [329.890, -10.070, -354.800, 48]
+    level:    [120, 123]
+
+  17891486:
+    template: Irascible_Tarichuk
+    at:       [319.010, -9.659, -333.170, 155]
+    level:    [120, 123]
+
+  17891487:
+    template: Slinking_Slug
+    level:    [121, 123]
+    region:   dho_gates_se_6
+
+  17891488:
+    template: Slinking_Slug
+    at:       [400.470, -1.873, -371.040, 255]
+    level:    [121, 123]
+
+  17891489:
+    template: Slinking_Slug
+    at:       [389.690, -0.713, -376.850, 150]
+    level:    [121, 123]
+
+  17891490:
+    template: Slinking_Slug
+    at:       [409.540, 0.040, -383.320, 108]
+    level:    [121, 123]
+
+  17891491:
+    template: Surly_Craklaw
+    at:       [446.990, -0.291, -410.980, 104]
+    level:    [123, 125]
+
+  17891492:
+    template: Slinking_Slug
+    at:       [350.310, -10.500, -347.650, 209]
+    level:    [121, 123]
+
+  17891493:
+    template: Slinking_Slug
+    at:       [350.530, -10.480, -347.860, 210]
+    level:    [121, 123]
+
+  17891494:
+    template: Slinking_Slug
+    at:       [347.320, -10.520, -354.360, 69]
+    level:    [121, 123]
+
+  17891495:
+    template: Fleshrending_Obdella
+    at:       [238.260, -0.018, -415.650, 139]
+    level:    [120, 123]
+
+  17891496:
+    template: Fleshrending_Obdella
+    at:       [240.270, 0.045, -426.600, 252]
+    level:    [120, 123]
+
+  17891497:
+    template: Peevish_Acuex
+    at:       [240.800, -1.863, -411.230, 127]
+    level:    [120, 123]
+
+  17891498:
+    template: Peevish_Acuex
+    at:       [219.690, -0.591, -422.350, 104]
+    level:    [120, 123]
+
+  17891499:
+    template: Midnight_Worm
+    at:       [268.930, -6.084, -384.390, 104]
+    level:    [120, 123]
+
+  17891500:
+    template: Midnight_Worm
+    at:       [261.080, -0.570, -406.590, 76]
+    level:    [120, 123]
+
+  17891501:
+    template: Rancidclaw_Crab
+    at:       [478.410, -0.229, -439.420, 112]
+    level:    [120, 123]
+
+  17891502:
+    template: Rancidclaw_Crab
+    at:       [484.880, 0.893, -447.900, 208]
+    level:    [120, 123]
+
+  17891503:
+    template: Rancidclaw_Crab
+    at:       [484.810, 0.892, -447.790, 209]
+    level:    [120, 123]
+
+  17891504:
+    template: Dreadpincer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17891505:
+    template: Dwende
+    at:       [542.080, 0.494, -420.740, 124]
+    level:    [125, 125]
+
+  17891506:
+    template: Bloodspattered_Fly
+    at:       [534.600, -1.649, -412.920, 219]
+    level:    [120, 123]
+
+  17891507:
+    template: Bloodspattered_Fly
+    at:       [550.610, -1.029, -421.960, 210]
+    level:    [120, 123]
+
+  17891508:
+    template: Surly_Craklaw
+    at:       [432.670, 0.340, -516.700, 92]
+    level:    [123, 125]
+
+  17891509:
+    template: Surly_Craklaw
+    at:       [450.170, 0.041, -522.660, 253]
+    level:    [123, 125]
+
+  17891510:
+    template: Peevish_Acuex
+    at:       [399.150, 0.253, -494.570, 175]
+    level:    [120, 123]
+
+  17891511:
+    template: Peevish_Acuex
+    at:       [398.180, 0.557, -497.270, 12]
+    level:    [120, 123]
+
+  17891512:
+    template: Peevish_Acuex
+    at:       [378.360, 0.002, -492.950, 152]
+    level:    [120, 123]
+
+  17891513:
+    template: Fleshrending_Obdella
+    at:       [401.970, -1.865, -490.290, 134]
+    level:    [120, 123]
+
+  17891514:
+    template: Fleshrending_Obdella
+    at:       [389.710, -1.804, -492.940, 131]
+    level:    [120, 123]
+
+  17891515:
+    template: Fleshrending_Obdella
+    at:       [392.840, -2.016, -508.340, 136]
+    level:    [120, 123]
+
+  17891516:
+    template: Peevish_Acuex
+    at:       [387.170, -1.751, -504.250, 55]
+    level:    [120, 123]
+
+  17891517:
+    template: Surly_Craklaw
+    at:       [454.780, -0.020, -416.180, 23]
+    level:    [123, 125]
+
+  17891518:
+    template: Bloodspattered_Fly
+    at:       [495.480, -0.790, -424.860, 106]
+    level:    [120, 123]
+
+  17891519:
+    template: Bloodspattered_Fly
+    at:       [515.750, -0.472, -421.260, 255]
+    level:    [120, 123]
+
+  17891520:
+    template: Fleshrending_Obdella
+    at:       [209.210, -0.711, -431.800, 36]
+    level:    [120, 123]
+
+  17891521:
+    template: Dwende
+    at:       [202.650, 0.144, -440.300, 250]
+    level:    [125, 125]
+
+  17891522:
+    template: Bloodspattered_Fly
+    at:       [180.710, -0.490, -460.570, 226]
+    level:    [120, 123]
+
+  17891523:
+    template: Dwende
+    at:       [181.000, 0.712, -481.260, 28]
+    level:    [125, 125]
+
+  17891524:
+    template: Bloodspattered_Fly
+    at:       [170.630, -1.980, -477.710, 216]
+    level:    [120, 123]
+
+  17891525:
+    template: Bloodspattered_Fly
+    at:       [184.120, 0.188, -464.330, 104]
+    level:    [120, 123]
+
+  17891526:
+    template: Fleshrending_Obdella
+    at:       [224.250, -0.324, -460.380, 130]
+    level:    [120, 123]
+
+  17891527:
+    template: Fleshrending_Obdella
+    at:       [219.440, -0.569, -458.280, 149]
+    level:    [120, 123]
+
+  17891528:
+    template: Fetid_Umbril
+    at:       [289.480, -0.333, -482.620, 166]
+    level:    [120, 123]
+
+  17891529:
+    template: Fetid_Umbril
+    at:       [291.890, 0.209, -485.350, 24]
+    level:    [120, 123]
+
+  17891530:
+    template: Plagueborn_Dullahan
+    at:       [315.820, 0.275, -503.970, 169]
+    level:    [120, 123]
+
+  17891531:
+    template: Fetid_Umbril
+    at:       [318.030, 0.455, -505.900, 28]
+    level:    [120, 123]
+
+  17891532:
+    template: Plagueborn_Dullahan
+    at:       [328.880, 0.193, -518.940, 5]
+    level:    [120, 123]
+
+  17891533:
+    template: Fetid_Umbril
+    at:       [331.990, -0.386, -497.370, 124]
+    level:    [120, 123]
+
+  17891534:
+    template: Plagueborn_Dullahan
+    at:       [351.910, 0.025, -470.050, 146]
+    level:    [120, 123]
+
+  17891535:
+    template: Fetid_Umbril
+    at:       [351.890, -0.009, -469.210, 129]
+    level:    [120, 123]
+
+  17891536:
+    template: Fetid_Umbril
+    at:       [330.060, -0.174, -473.590, 217]
+    level:    [120, 123]
+
+  17891537:
+    template: Plagueborn_Dullahan
+    level:    [120, 123]
+    region:   dho_gates_se_4
+
+  17891538:
+    template: Plagueborn_Dullahan
+    level:    [120, 123]
+    region:   dho_gates_se_3
+
+  17891539:
+    template: Fetid_Umbril
+    level:    [120, 123]
+    region:   dho_gates_se_3
+
+  17891540:
+    template: Surly_Craklaw
+    at:       [325.780, -0.123, -445.810, 96]
+    level:    [123, 125]
+
+  17891541:
+    template: Surly_Craklaw
+    at:       [312.360, 0.493, -437.540, 143]
+    level:    [123, 125]
+
+  17891542:
+    template: Surly_Craklaw
+    at:       [310.670, 0.424, -442.230, 71]
+    level:    [123, 125]
+
+  17891543:
+    template: Apex_Jagil
+    level:    [128, 130]
+    region:   dho_gates_c_7
+
+  17891544:
+    template: Apex_Bats
+    level:    [128, 130]
+    region:   dho_gates_c_7
+
+  17891545:
+    template: Apex_Craklaw
+    level:    [128, 130]
+    region:   dho_gates_c_7
+
+  17891546:
+    template: Apex_Crab
+    level:    [128, 130]
+    region:   dho_gates_c_7
+
+  17891547:
+    template: Apex_Bats
+    level:    [128, 130]
+    region:   dho_gates_c_5
+
+  17891548:
+    template: Apex_Bats
+    level:    [128, 130]
+    region:   dho_gates_c_5
+
+  17891549:
+    template: Apex_Bats
+    level:    [128, 130]
+    region:   dho_gates_c_5
+
+  17891550:
+    template: Apex_Bats
+    level:    [128, 130]
+    region:   dho_gates_c_5
+
+  17891551:
+    template: Apex_Bats
+    level:    [128, 130]
+    region:   dho_gates_c_5
+
+  17891552:
+    template: Apex_Bats
+    level:    [128, 130]
+    region:   dho_gates_c_5
+
+  17891553:
+    template: Apex_Jagil
+    level:    [128, 130]
+    region:   dho_gates_c_6
+
+  17891554:
+    template: Apex_Jagil
+    level:    [128, 130]
+    region:   dho_gates_c_6
+
+  17891555:
+    template: Apex_Jagil
+    level:    [128, 130]
+    region:   dho_gates_c_6
+
+  17891556:
+    template: Apex_Jagil
+    level:    [128, 130]
+    region:   dho_gates_c_6
+
+  17891557:
+    template: Apex_Jagil
+    level:    [128, 130]
+    region:   dho_gates_c_6
+
+  17891558:
+    template: Apex_Crab
+    level:    [128, 130]
+    region:   dho_gates_c_6
+
+  17891559:
+    template: Apex_Crab
+    level:    [128, 130]
+    region:   dho_gates_c_6
+
+  17891560:
+    template: Apex_Crab
+    level:    [128, 130]
+    region:   dho_gates_c_6
+
+  17891561:
+    template: Apex_Crab
+    level:    [128, 130]
+    region:   dho_gates_c_6
+
+  17891562:
+    template: Apex_Crab
+    level:    [128, 130]
+    region:   dho_gates_c_6
+
+  17891563:
+    template: Apex_Jagil
+    level:    [128, 130]
+    region:   dho_gates_c_4
+
+  17891564:
+    template: Apex_Jagil
+    level:    [128, 130]
+    region:   dho_gates_c_4
+
+  17891565:
+    template: Apex_Jagil
+    level:    [128, 130]
+    region:   dho_gates_c_4
+
+  17891566:
+    template: Apex_Jagil
+    level:    [128, 130]
+    region:   dho_gates_c_4
+
+  17891567:
+    template: Apex_Jagil
+    level:    [128, 130]
+    region:   dho_gates_c_4
+
+  17891568:
+    template: Apex_Crab
+    level:    [128, 130]
+    region:   dho_gates_c_4
+
+  17891569:
+    template: Apex_Crab
+    level:    [128, 130]
+    region:   dho_gates_c_4
+
+  17891570:
+    template: Apex_Crab
+    level:    [128, 130]
+    region:   dho_gates_c_4
+
+  17891571:
+    template: Apex_Crab
+    level:    [128, 130]
+    region:   dho_gates_c_4
+
+  17891572:
+    template: Apex_Crab
+    level:    [128, 130]
+    region:   dho_gates_c_4
+
+  17891573:
+    template: Apex_Bats
+    level:    [128, 130]
+    region:   dho_gates_c_8
+
+  17891574:
+    template: Apex_Bats
+    level:    [128, 130]
+    region:   dho_gates_c_8
+
+  17891575:
+    template: Apex_Bats
+    level:    [128, 130]
+    region:   dho_gates_c_8
+
+  17891576:
+    template: Apex_Bats
+    level:    [128, 130]
+    region:   dho_gates_c_8
+
+  17891577:
+    template: Apex_Bats
+    level:    [128, 130]
+    region:   dho_gates_c_8
+
+  17891578:
+    template: Apex_Crab
+    level:    [128, 130]
+    region:   dho_gates_c_8
+
+  17891579:
+    template: Apex_Crab
+    level:    [128, 130]
+    region:   dho_gates_c_8
+
+  17891580:
+    template: Apex_Crab
+    level:    [128, 130]
+    region:   dho_gates_c_8
+
+  17891581:
+    template: Apex_Crab
+    level:    [128, 130]
+    region:   dho_gates_c_8
+
+  17891582:
+    template: Apex_Crab
+    level:    [128, 130]
+    region:   dho_gates_c_8
+
+  17891583:
+    template: Apex_Bats
+    level:    [128, 130]
+    region:   dho_gates_c_8
+
+  17891584:
+    template: Apex_Bats
+    level:    [128, 130]
+    region:   dho_gates_c_8
+
+  17891585:
+    template: Apex_Bats
+    level:    [128, 130]
+    region:   dho_gates_c_8
+
+  17891586:
+    template: Apex_Bats
+    level:    [128, 130]
+    region:   dho_gates_c_8
+
+  17891587:
+    template: Apex_Bats
+    level:    [128, 130]
+    region:   dho_gates_c_8
+
+  17891588:
+    template: Apex_Crab
+    level:    [128, 130]
+    region:   dho_gates_c_8
+
+  17891589:
+    template: Apex_Crab
+    level:    [128, 130]
+    region:   dho_gates_c_8
+
+  17891590:
+    template: Apex_Crab
+    level:    [128, 130]
+    region:   dho_gates_c_8
+
+  17891591:
+    template: Apex_Crab
+    level:    [128, 130]
+    region:   dho_gates_c_8
+
+  17891592:
+    template: Apex_Crab
+    level:    [128, 130]
+    region:   dho_gates_c_8
+
+  17891593:
+    template: Apex_Bats
+    at:       [-190.700, 0.266, -0.864, 45]
+    level:    [128, 130]
+
+  17891594:
+    template: Apex_Bats
+    level:    [128, 130]
+    region:   dho_gates_c_2
+
+  17891595:
+    template: Apex_Bats
+    level:    [128, 130]
+    region:   dho_gates_c_2
+
+  17891596:
+    template: Apex_Bats
+    level:    [128, 130]
+    region:   dho_gates_c_2
+
+  17891597:
+    template: Apex_Craklaw
+    level:    [128, 130]
+    region:   dho_gates_c_2
+
+  17891598:
+    template: Apex_Craklaw
+    at:       [-212.400, -0.740, -5.397, 94]
+    level:    [128, 130]
+
+  17891599:
+    template: Apex_Craklaw
+    at:       [-202.000, 0.195, -84.182, 114]
+    level:    [128, 130]
+
+  17891600:
+    template: Apex_Craklaw
+    at:       [-199.200, 0.405, -71.666, 200]
+    level:    [128, 130]
+
+  17891601:
+    template: Apex_Craklaw
+    at:       [-189.000, 0.549, -82.224, 180]
+    level:    [128, 130]
+
+  17891602:
+    template: Apex_Craklaw
+    at:       [-198.300, 0.078, -82.038, 45]
+    level:    [128, 130]
+
+  17891603:
+    template: Apex_Craklaw
+    at:       [-211.600, -0.112, -81.996, 168]
+    level:    [128, 130]
+
+  17891604:
+    template: Apex_Craklaw
+    level:    [128, 130]
+    region:   dho_gates_w_6
+
+  17891605:
+    template: Apex_Craklaw
+    level:    [128, 130]
+    region:   dho_gates_w_6
+
+  17891606:
+    template: Apex_Craklaw
+    level:    [128, 130]
+    region:   dho_gates_w_6
+
+  17891607:
+    template: Apex_Craklaw
+    level:    [128, 130]
+    region:   dho_gates_w_6
+
+  17891608:
+    template: Apex_Craklaw
+    level:    [128, 130]
+    region:   dho_gates_w_6
+
+  17891609:
+    template: Apex_Craklaw
+    level:    [128, 130]
+    region:   dho_gates_w_6
+
+  17891610:
+    template: Apex_Bats
+    at:       [-141.200, -0.192, 54.020, 96]
+    level:    [128, 130]
+
+  17891611:
+    template: Apex_Bats
+    at:       [-142.000, -0.156, 58.495, 24]
+    level:    [128, 130]
+
+  17891612:
+    template: Apex_Bats
+    at:       [-140.700, 0.093, 58.573, 40]
+    level:    [128, 130]
+
+  17891613:
+    template: Apex_Bats
+    at:       [-141.000, 0.205, 57.938, 13]
+    level:    [128, 130]
+
+  17891614:
+    template: Apex_Bats
+    at:       [-133.800, 0.149, 62.652, 95]
+    level:    [128, 130]
+
+  17891615:
+    template: Apex_Bats
+    at:       [-141.000, -0.342, 62.404, 220]
+    level:    [128, 130]
+
+  17891616:
+    template: Apex_Jagil
+    level:    [128, 130]
+    region:   dho_gates_c
+
+  17891617:
+    template: Apex_Jagil
+    level:    [128, 130]
+    region:   dho_gates_c
+
+  17891618:
+    template: Apex_Jagil
+    level:    [128, 130]
+    region:   dho_gates_c
+
+  17891619:
+    template: Apex_Jagil
+    level:    [128, 130]
+    region:   dho_gates_c
+
+  17891620:
+    template: Apex_Crab
+    level:    [128, 130]
+    region:   dho_gates_c
+
+  17891621:
+    template: Apex_Crab
+    level:    [128, 130]
+    region:   dho_gates_c
+
+  17891622:
+    template: Apex_Crab
+    level:    [128, 130]
+    region:   dho_gates_c
+
+  17891623:
+    template: Apex_Crab
+    level:    [128, 130]
+    region:   dho_gates_c
+
+  17891624:
+    template: Apex_Crab
+    at:       [-259.500, 0.527, 4.337, 64]
+    level:    [128, 130]
+
+  17891625:
+    template: Apex_Crab
+    at:       [-259.900, 0.336, 5.331, 155]
+    level:    [128, 130]
+
+  17891626:
+    template: Apex_Crab
+    at:       [-260.100, 0.588, 0.581, 27]
+    level:    [128, 130]
+
+  17891627:
+    template: Apex_Crab
+    at:       [-264.000, 0.376, 0.770, 167]
+    level:    [128, 130]
+
+  17891628:
+    template: Apex_Crab
+    at:       [-258.000, -0.338, 7.547, 209]
+    level:    [128, 130]

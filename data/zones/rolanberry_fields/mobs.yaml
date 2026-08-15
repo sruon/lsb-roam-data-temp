@@ -1,0 +1,2543 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17227777:
+    template: Snipper
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [22, 23]
+
+  17227778:
+    template: Big_Jaw
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [22, 23]
+
+  17227779:
+    template: Horrid_Fluke
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [29, 30]
+
+  17227780:
+    template: Greater_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [29, 30]
+
+  17227781:
+    template: Big_Leech
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [34, 36]
+
+  17227782:
+    template: Silk_Caterpillar
+    level:    [28, 30]
+    region:   rolanberry_fields_ne_6
+
+  17227783:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_s_3
+
+  17227784:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_s_3
+
+  17227785:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_s_3
+
+  17227786:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_s_3
+
+  17227787:
+    template: Moon_Bat
+    at:       [15.146, -3.192, -826.552, 61]
+    level:    [25, 26]
+
+  17227788:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_s_3
+
+  17227789:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_s_3
+
+  17227790:
+    template: Goobbue_Farmer
+    level:    [31, 32]
+    region:   rolanberry_fields_s_3
+
+  17227791:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_s_13
+
+  17227792:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_s_13
+
+  17227793:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_s_15
+
+  17227794:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_s_15
+
+  17227795:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_s_3
+
+  17227796:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_s_3
+
+  17227797:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_s_3
+
+  17227798:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_s_3
+
+  17227799:
+    template: Moon_Bat
+    at:       [-8.326, 2.292, -625.871, 127]
+    level:    [25, 26]
+
+  17227800:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_s_3
+
+  17227801:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_s_3
+
+  17227802:
+    template: Goobbue_Farmer
+    level:    [31, 32]
+    region:   rolanberry_fields_s_3
+
+  17227803:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_s_8
+
+  17227804:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_s_8
+
+  17227805:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_s_8
+
+  17227806:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_s_8
+
+  17227807:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_s_11
+
+  17227808:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_s_11
+
+  17227809:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_s_4
+
+  17227810:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_s_4
+
+  17227811:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_s_4
+
+  17227812:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_s_4
+
+  17227813:
+    template: Moon_Bat
+    at:       [-167.886, -1.098, -561.463, 127]
+    level:    [25, 26]
+
+  17227814:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_s_4
+
+  17227815:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_s_4
+
+  17227816:
+    template: Goobbue_Farmer
+    level:    [31, 32]
+    region:   rolanberry_fields_s_4
+
+  17227817:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_s_12
+
+  17227818:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_s_12
+
+  17227819:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_s_12
+
+  17227820:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_s_6
+
+  17227821:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_s_6
+
+  17227822:
+    template: Old_Quadav
+    level:    [27, 28]
+    region:   rolanberry_fields_s_3
+
+  17227823:
+    template: Copper_Quadav
+    level:    [27, 28]
+    region:   rolanberry_fields_s_3
+
+  17227824:
+    template: Bronze_Quadav
+    level:    [32, 33]
+    region:   rolanberry_fields_s_3
+
+  17227825:
+    template: Brass_Quadav
+    level:    [27, 28]
+    region:   rolanberry_fields_s_3
+
+  17227826:
+    template: Silver_Quadav
+    level:    [32, 33]
+    region:   rolanberry_fields_s_3
+
+  17227827:
+    template: Zircon_Quadav
+    level:    [32, 33]
+    region:   rolanberry_fields_s_3
+
+  17227828:
+    template: Garnet_Quadav
+    level:    [32, 33]
+    region:   rolanberry_fields_s_3
+
+  17227829:
+    template: Wight
+    level:    [32, 34]
+    region:   rolanberry_fields_s_10
+
+  17227830:
+    template: Wight
+    at:       [-44.751, -6.203, -672.086, 127]
+    level:    [32, 34]
+
+  17227831:
+    template: Fire_Elemental
+    level:    [38, 40]
+    region:   rolanberry_fields_s_9
+
+  17227832:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_s_14
+
+  17227833:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_s_14
+
+  17227834:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_s_14
+
+  17227835:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_s_14
+
+  17227836:
+    template: Ochu
+    level:    [36, 37]
+    region:   rolanberry_fields_s_14
+
+  17227837:
+    template: Ochu
+    level:    [36, 37]
+    region:   rolanberry_fields_s_14
+
+  17227838:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_s_14
+
+  17227839:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_s_14
+
+  17227840:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_s_14
+
+  17227841:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_s_14
+
+  17227842:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_s
+
+  17227843:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_s
+
+  17227844:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_s
+
+  17227845:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_s
+
+  17227846:
+    template: Ochu
+    level:    [36, 37]
+    region:   rolanberry_fields_s
+
+  17227847:
+    template: Ochu
+    level:    [36, 37]
+    region:   rolanberry_fields_s
+
+  17227848:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_s
+
+  17227849:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_s
+
+  17227850:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_s
+
+  17227851:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_s
+
+  17227852:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_sw_4
+
+  17227853:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_sw_4
+
+  17227854:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_sw_4
+
+  17227855:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_sw_4
+
+  17227856:
+    template: Ochu
+    level:    [36, 37]
+    region:   rolanberry_fields_sw_4
+
+  17227857:
+    template: Ochu
+    level:    [36, 37]
+    region:   rolanberry_fields_sw_4
+
+  17227858:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_sw_4
+
+  17227859:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_sw_4
+
+  17227860:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_sw_4
+
+  17227861:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_sw_4
+
+  17227862:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_sw_2
+
+  17227863:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_sw_2
+
+  17227864:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_sw_2
+
+  17227865:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_sw_2
+
+  17227866:
+    template: Ochu
+    level:    [36, 37]
+    region:   rolanberry_fields_sw_2
+
+  17227867:
+    template: Ochu
+    level:    [36, 37]
+    region:   rolanberry_fields_sw_2
+
+  17227868:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_sw_2
+
+  17227869:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_sw_2
+
+  17227870:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_sw_2
+
+  17227871:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_sw_2
+
+  17227872:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_sw_3
+
+  17227873:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_sw_3
+
+  17227874:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_sw_3
+
+  17227875:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_sw_3
+
+  17227876:
+    template: Ochu
+    level:    [36, 37]
+    region:   rolanberry_fields_sw_3
+
+  17227877:
+    template: Ochu
+    level:    [36, 37]
+    region:   rolanberry_fields_sw_3
+
+  17227878:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_sw_3
+
+  17227879:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_sw_3
+
+  17227880:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_sw_3
+
+  17227881:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_sw_3
+
+  17227882:
+    template: Goblin_Mugger
+    level:    [26, 27]
+    region:   rolanberry_fields_sw_2
+
+  17227883:
+    template: Goblin_Pathfinder
+    level:    [31, 32]
+    region:   rolanberry_fields_sw_2
+
+  17227884:
+    template: Goblins_Bee
+    level:    [23, 25]
+    region:   rolanberry_fields_sw_2
+
+  17227885:
+    template: Goblin_Leecher
+    level:    [26, 27]
+    region:   rolanberry_fields_sw_2
+
+  17227886:
+    template: Goblin_Furrier
+    level:    [31, 32]
+    region:   rolanberry_fields_sw_2
+
+  17227887:
+    template: Goblin_Gambler
+    level:    [26, 27]
+    region:   rolanberry_fields_sw_2
+
+  17227888:
+    template: Goblin_Smithy
+    level:    [31, 32]
+    region:   rolanberry_fields_sw_2
+
+  17227889:
+    template: Goblin_Shaman
+    level:    [31, 31]
+    region:   rolanberry_fields_sw_2
+
+  17227890:
+    template: Wight
+    level:    [31, 33]
+    region:   rolanberry_fields_s_5
+
+  17227891:
+    template: Wight
+    at:       [-514.596, -23.573, -449.658, 81]
+    level:    [31, 33]
+
+  17227892:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_s_7
+
+  17227893:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_s_7
+
+  17227894:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_s_7
+
+  17227895:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_s_7
+
+  17227896:
+    template: Ochu
+    level:    [36, 37]
+    region:   rolanberry_fields_s_7
+
+  17227897:
+    template: Ochu
+    level:    [36, 37]
+    region:   rolanberry_fields_s_7
+
+  17227898:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_s_7
+
+  17227899:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_s_7
+
+  17227900:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_s_7
+
+  17227901:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_s_7
+
+  17227902:
+    template: Ignis_Fatuus
+    level:    [34, 36]
+    region:   rolanberry_fields_s_7
+
+  17227903:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_c_4
+
+  17227904:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_c_4
+
+  17227905:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_c_4
+
+  17227906:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_c_4
+
+  17227907:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_c_4
+
+  17227908:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_c_4
+
+  17227909:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_c_4
+
+  17227910:
+    template: Goobbue_Farmer
+    level:    [31, 32]
+    region:   rolanberry_fields_c_4
+
+  17227911:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_s_2
+
+  17227912:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_s_2
+
+  17227913:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_s_2
+
+  17227914:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_s_2
+
+  17227915:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_c_4
+
+  17227916:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_c_4
+
+  17227917:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_c_4
+
+  17227918:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_c_4
+
+  17227919:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_c_4
+
+  17227920:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_c_4
+
+  17227921:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_c_4
+
+  17227922:
+    template: Goobbue_Farmer
+    level:    [31, 32]
+    region:   rolanberry_fields_c_4
+
+  17227923:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_c_10
+
+  17227924:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_c_10
+
+  17227925:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_c_4
+
+  17227926:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_c_4
+
+  17227927:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_c_4
+
+  17227928:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_c_4
+
+  17227929:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_c_4
+
+  17227930:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_c_4
+
+  17227931:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_c_4
+
+  17227932:
+    template: Goobbue_Farmer
+    level:    [31, 32]
+    region:   rolanberry_fields_c_4
+
+  17227933:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_c_9
+
+  17227934:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_c_9
+
+  17227935:
+    template: Old_Quadav
+    level:    [27, 28]
+    region:   rolanberry_fields_c_4
+
+  17227936:
+    template: Copper_Quadav
+    level:    [27, 28]
+    region:   rolanberry_fields_c_4
+
+  17227937:
+    template: Bronze_Quadav
+    level:    [32, 33]
+    region:   rolanberry_fields_c_4
+
+  17227938:
+    template: Brass_Quadav
+    level:    [27, 28]
+    region:   rolanberry_fields_c_4
+
+  17227939:
+    template: Silver_Quadav
+    level:    [32, 33]
+    region:   rolanberry_fields_c_4
+
+  17227940:
+    template: Zircon_Quadav
+    level:    [32, 33]
+    region:   rolanberry_fields_c_4
+
+  17227941:
+    template: Garnet_Quadav
+    level:    [32, 33]
+    region:   rolanberry_fields_c_4
+
+  17227942:
+    template: Wight
+    at:       [-137.336, 1.896, -210.520, 127]
+    level:    [32, 34]
+
+  17227943:
+    template: Wight
+    at:       [-182.234, 4.636, -328.340, 127]
+    level:    [32, 34]
+
+  17227944:
+    template: Fire_Elemental
+    at:       [-109.356, 0.391, -234.225, 200]
+    level:    [38, 40]
+
+  17227945:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_c_12
+
+  17227946:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_c_12
+
+  17227947:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_c_12
+
+  17227948:
+    template: Ochu
+    level:    [36, 37]
+    region:   rolanberry_fields_c_12
+
+  17227949:
+    template: Ochu
+    level:    [36, 37]
+    region:   rolanberry_fields_c_12
+
+  17227950:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_c_12
+
+  17227951:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_c_12
+
+  17227952:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_c_12
+
+  17227953:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_c_12
+
+  17227954:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_c_7
+
+  17227955:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_c_7
+
+  17227956:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_c_7
+
+  17227957:
+    template: Ochu
+    level:    [36, 37]
+    region:   rolanberry_fields_c_7
+
+  17227958:
+    template: Ochu
+    level:    [36, 37]
+    region:   rolanberry_fields_c_7
+
+  17227959:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_c_7
+
+  17227960:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_c_7
+
+  17227961:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_c_7
+
+  17227962:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_c_7
+
+  17227963:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_c_11
+
+  17227964:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_c_11
+
+  17227965:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_c_11
+
+  17227966:
+    template: Ochu
+    level:    [36, 37]
+    region:   rolanberry_fields_c_11
+
+  17227967:
+    template: Ochu
+    level:    [36, 37]
+    region:   rolanberry_fields_c_11
+
+  17227968:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_c_11
+
+  17227969:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_c_11
+
+  17227970:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_c_11
+
+  17227971:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_c_11
+
+  17227972:
+    template: Black_Triple_Stars
+    at:       [5.000, -15.000, -142.000, 127]
+    level:    [26, 27]
+
+  17227973:
+    template: Goblin_Mugger
+    level:    [26, 27]
+    region:   rolanberry_fields_c_7
+
+  17227974:
+    template: Goblin_Pathfinder
+    level:    [31, 32]
+    region:   rolanberry_fields_c_7
+
+  17227975:
+    template: Goblins_Bee
+    level:    [23, 25]
+    region:   rolanberry_fields_c_7
+
+  17227976:
+    template: Goblin_Leecher
+    level:    [26, 27]
+    region:   rolanberry_fields_c_7
+
+  17227977:
+    template: Goblin_Furrier
+    level:    [31, 32]
+    region:   rolanberry_fields_c_7
+
+  17227978:
+    template: Goblin_Gambler
+    level:    [26, 27]
+    region:   rolanberry_fields_c_7
+
+  17227979:
+    template: Goblin_Smithy
+    level:    [31, 32]
+    region:   rolanberry_fields_c_7
+
+  17227980:
+    template: Goblin_Shaman
+    level:    [31, 32]
+    region:   rolanberry_fields_c_7
+
+  17227981:
+    template: Wight
+    at:       [0.023, -14.892, -211.381, 86]
+    level:    [28, 33]
+
+  17227982:
+    template: Wight
+    at:       [39.215, -8.027, -356.326, 180]
+    level:    [28, 33]
+
+  17227983:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_c_13
+
+  17227984:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_c_13
+
+  17227985:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_c_13
+
+  17227986:
+    template: Ochu
+    level:    [36, 37]
+    region:   rolanberry_fields_c_13
+
+  17227987:
+    template: Ochu
+    level:    [36, 37]
+    region:   rolanberry_fields_c_13
+
+  17227988:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_c_14
+
+  17227989:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_c_13
+
+  17227990:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_c_13
+
+  17227991:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_c_13
+
+  17227992:
+    template: Black_Triple_Stars
+    at:       [76.000, -15.000, -209.000, 127]
+    level:    [26, 27]
+
+  17227993:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_e
+
+  17227994:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_e
+
+  17227995:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_e
+
+  17227996:
+    template: Ochu
+    level:    [36, 37]
+    region:   rolanberry_fields_e
+
+  17227997:
+    template: Ochu
+    level:    [36, 37]
+    region:   rolanberry_fields_e
+
+  17227998:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_e
+
+  17227999:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_e
+
+  17228000:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_e
+
+  17228001:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_e
+
+  17228002:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_e
+
+  17228003:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_e
+
+  17228004:
+    template: Poison_Leech
+    level:    [25, 26]
+    region:   rolanberry_fields_e
+
+  17228005:
+    template: Poison_Leech
+    level:    [25, 26]
+    region:   rolanberry_fields_e
+
+  17228006:
+    template: Poison_Leech
+    level:    [25, 26]
+    region:   rolanberry_fields_e
+
+  17228007:
+    template: Poison_Leech
+    level:    [25, 26]
+    region:   rolanberry_fields_e
+
+  17228008:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_e
+
+  17228009:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_e
+
+  17228010:
+    template: Goblin_Mugger
+    level:    [26, 27]
+    region:   rolanberry_fields_e
+
+  17228011:
+    template: Goblin_Pathfinder
+    level:    [31, 32]
+    region:   rolanberry_fields_e
+
+  17228012:
+    template: Goblins_Bee
+    level:    [23, 25]
+    region:   rolanberry_fields_e
+
+  17228013:
+    template: Goblin_Leecher
+    level:    [26, 27]
+    region:   rolanberry_fields_e
+
+  17228014:
+    template: Goblin_Furrier
+    level:    [31, 32]
+    region:   rolanberry_fields_e
+
+  17228015:
+    template: Goblin_Gambler
+    level:    [26, 27]
+    region:   rolanberry_fields_e
+
+  17228016:
+    template: Goblin_Smithy
+    level:    [31, 32]
+    region:   rolanberry_fields_e
+
+  17228017:
+    template: Goblin_Shaman
+    level:    [31, 32]
+    region:   rolanberry_fields_e
+
+  17228018:
+    template: Wight
+    at:       [72.827, -16.007, -226.665, 181]
+    level:    [28, 33]
+
+  17228019:
+    template: Wight
+    at:       [120.811, -23.620, -188.944, 7]
+    level:    [28, 33]
+
+  17228020:
+    template: Clipper
+    level:    [24, 25]
+    region:   rolanberry_fields_e_2
+
+  17228021:
+    template: Clipper
+    level:    [24, 25]
+    region:   rolanberry_fields_e_2
+
+  17228022:
+    template: Clipper
+    level:    [24, 25]
+    region:   rolanberry_fields_e_2
+
+  17228023:
+    template: Water_Elemental
+    level:    [38, 40]
+    region:   rolanberry_fields_e_2
+
+  17228024:
+    template: Goobbue_Farmer
+    level:    [31, 32]
+    region:   rolanberry_fields_e_4
+
+  17228025:
+    template: Midnight_Wings
+    at:       [347.679, -31.273, -406.395, 90]
+    level:    [22, 23]
+
+  17228026:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_e_4
+
+  17228027:
+    template: Evil_Weapon
+    level:    [37, 38]
+    region:   rolanberry_fields_e_3
+
+  17228028:
+    template: Evil_Weapon
+    level:    [37, 38]
+    region:   rolanberry_fields_e_3
+
+  17228029:
+    template: Evil_Weapon
+    level:    [37, 38]
+    region:   rolanberry_fields_e_3
+
+  17228030:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_c_2
+
+  17228031:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_c_2
+
+  17228032:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_c_2
+
+  17228033:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_c_2
+
+  17228034:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_c_2
+
+  17228035:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_c_2
+
+  17228036:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_c_2
+
+  17228037:
+    template: Goobbue_Farmer
+    level:    [31, 32]
+    region:   rolanberry_fields_c_2
+
+  17228038:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_c_8
+
+  17228039:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_c_8
+
+  17228040:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_c_8
+
+  17228041:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_c_2
+
+  17228042:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_c_2
+
+  17228043:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_c_2
+
+  17228044:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_c_2
+
+  17228045:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_c_2
+
+  17228046:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_c_2
+
+  17228047:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_c_2
+
+  17228048:
+    template: Goobbue_Farmer
+    level:    [31, 32]
+    region:   rolanberry_fields_c_2
+
+  17228049:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_w_9
+
+  17228050:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_w_9
+
+  17228051:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_w_9
+
+  17228052:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_c_2
+
+  17228053:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_c_2
+
+  17228054:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_c_2
+
+  17228055:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_c_2
+
+  17228056:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_c_2
+
+  17228057:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_c_2
+
+  17228058:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_c_2
+
+  17228059:
+    template: Goobbue_Farmer
+    level:    [31, 32]
+    region:   rolanberry_fields_c_2
+
+  17228060:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_nw_3
+
+  17228061:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_nw_3
+
+  17228062:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_nw_3
+
+  17228063:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_nw
+
+  17228064:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_nw
+
+  17228065:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_nw
+
+  17228066:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_nw
+
+  17228067:
+    template: Old_Quadav
+    level:    [27, 28]
+    region:   rolanberry_fields_c_2
+
+  17228068:
+    template: Copper_Quadav
+    level:    [27, 28]
+    region:   rolanberry_fields_c_2
+
+  17228069:
+    template: Bronze_Quadav
+    level:    [32, 33]
+    region:   rolanberry_fields_c_2
+
+  17228070:
+    template: Brass_Quadav
+    level:    [27, 28]
+    region:   rolanberry_fields_c_2
+
+  17228071:
+    template: Silver_Quadav
+    level:    [32, 33]
+    region:   rolanberry_fields_c_2
+
+  17228072:
+    template: Zircon_Quadav
+    level:    [32, 33]
+    region:   rolanberry_fields_c_2
+
+  17228073:
+    template: Garnet_Quadav
+    level:    [32, 33]
+    region:   rolanberry_fields_c_2
+
+  17228074:
+    template: Wight
+    at:       [-264.730, 0.571, -158.487, 114]
+    level:    [32, 34]
+
+  17228075:
+    template: Wight
+    level:    [32, 34]
+    region:   rolanberry_fields_c_5
+
+  17228076:
+    template: Ignis_Fatuus
+    level:    [34, 36]
+    region:   rolanberry_fields_c_6
+
+  17228077:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_w_4
+
+  17228078:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_w_4
+
+  17228079:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_w_4
+
+  17228080:
+    template: Ochu
+    level:    [36, 37]
+    region:   rolanberry_fields_w_4
+
+  17228081:
+    template: Ochu
+    level:    [36, 37]
+    region:   rolanberry_fields_w_4
+
+  17228082:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_w_4
+
+  17228083:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_w_4
+
+  17228084:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_w_4
+
+  17228085:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_w_4
+
+  17228086:
+    template: Ravenous_Crawler
+    level:    [42, 43]
+    region:   rolanberry_fields_w_4
+
+  17228087:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_w_8
+
+  17228088:
+    template: Ochu
+    level:    [36, 37]
+    region:   rolanberry_fields_w_8
+
+  17228089:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_w_8
+
+  17228090:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_w_8
+
+  17228091:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_w_8
+
+  17228092:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_w_5
+
+  17228093:
+    template: Ochu
+    level:    [36, 37]
+    region:   rolanberry_fields_w_5
+
+  17228094:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_w_5
+
+  17228095:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_w_5
+
+  17228096:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_w_5
+
+  17228097:
+    template: Goblin_Mugger
+    level:    [26, 27]
+    region:   rolanberry_fields_w_4
+
+  17228098:
+    template: Goblin_Pathfinder
+    level:    [31, 32]
+    region:   rolanberry_fields_w_4
+
+  17228099:
+    template: Goblins_Bee
+    level:    [23, 25]
+    region:   rolanberry_fields_w_4
+
+  17228100:
+    template: Goblin_Leecher
+    level:    [26, 27]
+    region:   rolanberry_fields_w_4
+
+  17228101:
+    template: Goblin_Furrier
+    level:    [31, 32]
+    region:   rolanberry_fields_w_4
+
+  17228102:
+    template: Goblin_Gambler
+    level:    [26, 27]
+    region:   rolanberry_fields_w_4
+
+  17228103:
+    template: Goblin_Smithy
+    level:    [31, 32]
+    region:   rolanberry_fields_w_4
+
+  17228104:
+    template: Goblin_Shaman
+    level:    [31, 32]
+    region:   rolanberry_fields_w_4
+
+  17228105:
+    template: Wight
+    at:       [-391.094, -7.790, 42.948, 36]
+    level:    [28, 33]
+
+  17228106:
+    template: Wight
+    at:       [-475.890, -15.913, -157.121, 116]
+    level:    [28, 33]
+
+  17228107:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_w_7
+
+  17228108:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_w_7
+
+  17228109:
+    template: Evil_Spirit
+    level:    [35, 36]
+    region:   rolanberry_fields_w_7
+
+  17228110:
+    template: Fire_Elemental
+    at:       [-406.194, -7.875, -249.450, 218]
+    level:    [38, 40]
+
+  17228111:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_w_3
+
+  17228112:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_w_3
+
+  17228113:
+    template: Poison_Leech
+    level:    [25, 26]
+    region:   rolanberry_fields_w_3
+
+  17228114:
+    template: Poison_Leech
+    level:    [25, 26]
+    region:   rolanberry_fields_w_3
+
+  17228115:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_w_3
+
+  17228116:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_w_3
+
+  17228117:
+    template: Clipper
+    level:    [24, 25]
+    region:   rolanberry_fields_w_6
+
+  17228118:
+    template: Clipper
+    level:    [24, 25]
+    region:   rolanberry_fields_w_6
+
+  17228119:
+    template: Water_Elemental
+    level:    [38, 40]
+    region:   rolanberry_fields_w_6
+
+  17228120:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_w
+
+  17228121:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_w
+
+  17228122:
+    template: Ochu
+    level:    [36, 37]
+    region:   rolanberry_fields_w
+
+  17228123:
+    template: Poison_Leech
+    level:    [25, 26]
+    region:   rolanberry_fields_w
+
+  17228124:
+    template: Poison_Leech
+    level:    [25, 26]
+    region:   rolanberry_fields_w
+
+  17228125:
+    template: Poison_Leech
+    level:    [25, 26]
+    region:   rolanberry_fields_w
+
+  17228126:
+    template: Poison_Leech
+    level:    [25, 26]
+    region:   rolanberry_fields_w
+
+  17228127:
+    template: Poison_Leech
+    level:    [25, 26]
+    region:   rolanberry_fields_w
+
+  17228128:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_w
+
+  17228129:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_w
+
+  17228130:
+    template: Clipper
+    level:    [24, 25]
+    region:   rolanberry_fields_w_2
+
+  17228131:
+    template: Clipper
+    level:    [24, 25]
+    region:   rolanberry_fields_w_2
+
+  17228132:
+    template: Clipper
+    level:    [24, 25]
+    region:   rolanberry_fields_w_2
+
+  17228133:
+    template: Clipper
+    level:    [24, 25]
+    region:   rolanberry_fields_w_2
+
+  17228134:
+    template: Water_Elemental
+    level:    [38, 40]
+    region:   rolanberry_fields_w_2
+
+  17228135:
+    template: Ochu
+    level:    [36, 37]
+    region:   rolanberry_fields_w
+
+  17228136:
+    template: Goblin_Mugger
+    level:    [26, 27]
+    region:   rolanberry_fields_w
+
+  17228137:
+    template: Goblin_Pathfinder
+    level:    [31, 32]
+    region:   rolanberry_fields_w
+
+  17228138:
+    template: Goblins_Bee
+    level:    [23, 25]
+    region:   rolanberry_fields_w
+
+  17228139:
+    template: Goblin_Leecher
+    level:    [26, 27]
+    region:   rolanberry_fields_w
+
+  17228140:
+    template: Goblin_Furrier
+    level:    [31, 32]
+    region:   rolanberry_fields_w
+
+  17228141:
+    template: Goblin_Gambler
+    level:    [26, 27]
+    region:   rolanberry_fields_w
+
+  17228142:
+    template: Goblin_Smithy
+    level:    [31, 32]
+    region:   rolanberry_fields_w
+
+  17228143:
+    template: Goblin_Shaman
+    level:    [31, 32]
+    region:   rolanberry_fields_w
+
+  17228144:
+    template: Wight
+    at:       [-543.954, -21.037, -111.476, 48]
+    level:    [28, 33]
+
+  17228145:
+    template: Wight
+    at:       [-428.833, -15.218, -262.510, 127]
+    level:    [28, 33]
+
+  17228146:
+    template: Evil_Spirit
+    level:    [35, 36]
+    region:   rolanberry_fields_e_6
+
+  17228147:
+    template: Evil_Spirit
+    level:    [35, 36]
+    region:   rolanberry_fields_e_6
+
+  17228148:
+    template: Evil_Weapon
+    at:       [396.992, -24.010, -152.613, 59]
+    level:    [37, 38]
+
+  17228149:
+    template: Evil_Weapon
+    level:    [37, 38]
+    region:   rolanberry_fields_e_5
+
+  17228150:
+    template: Eldritch_Edge
+    at:       [395.000, -24.000, -147.000, 127]
+    level:    [55, 55]
+
+  17228151:
+    template: Evil_Weapon
+    level:    [37, 38]
+    region:   rolanberry_fields_e_7
+
+  17228152:
+    template: Evil_Weapon
+    level:    [37, 38]
+    region:   rolanberry_fields_e_7
+
+  17228153:
+    template: Evil_Weapon
+    level:    [37, 38]
+    region:   rolanberry_fields_ne_5
+
+  17228154:
+    template: Evil_Weapon
+    level:    [37, 38]
+    region:   rolanberry_fields_ne_5
+
+  17228155:
+    template: Evil_Weapon
+    level:    [37, 38]
+    region:   rolanberry_fields_ne_5
+
+  17228156:
+    template: Evil_Weapon
+    level:    [37, 38]
+    region:   rolanberry_fields_ne_5
+
+  17228157:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_n
+
+  17228158:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_n
+
+  17228159:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_n
+
+  17228160:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_n
+
+  17228161:
+    template: Midnight_Wings
+    at:       [-66.674, 9.899, 357.464, 127]
+    level:    [22, 23]
+
+  17228162:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_n
+
+  17228163:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_n
+
+  17228164:
+    template: Moon_Bat
+    at:       [-245.706, 9.357, 182.077, 2]
+    level:    [25, 26]
+
+  17228165:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_n
+
+  17228166:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_n
+
+  17228167:
+    template: Goobbue_Farmer
+    level:    [31, 32]
+    region:   rolanberry_fields_n
+
+  17228168:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_nw_2
+
+  17228169:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_nw_2
+
+  17228170:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_nw_2
+
+  17228171:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_nw_2
+
+  17228172:
+    template: Midnight_Wings
+    at:       [-392.182, 5.029, 302.039, 252]
+    level:    [22, 23]
+
+  17228173:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_nw_2
+
+  17228174:
+    template: Moon_Bat
+    at:       [-393.522, 0.734, 286.345, 98]
+    level:    [25, 26]
+
+  17228175:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_nw_2
+
+  17228176:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_ne_2
+
+  17228177:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_ne_2
+
+  17228178:
+    template: Berry_Grub
+    level:    [27, 28]
+    region:   rolanberry_fields_ne_2
+
+  17228179:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_ne_2
+
+  17228180:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_ne_2
+
+  17228181:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_ne_2
+
+  17228182:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_ne_2
+
+  17228183:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_ne_2
+
+  17228184:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_ne_2
+
+  17228185:
+    template: Goobbue_Farmer
+    level:    [31, 32]
+    region:   rolanberry_fields_ne_2
+
+  17228186:
+    template: Ochu
+    level:    [36, 37]
+    region:   rolanberry_fields_ne_2
+
+  17228187:
+    template: Evil_Spirit
+    level:    [35, 36]
+    region:   rolanberry_fields_ne_2
+
+  17228188:
+    template: Old_Quadav
+    level:    [27, 28]
+    region:   rolanberry_fields_n
+
+  17228189:
+    template: Copper_Quadav
+    level:    [27, 28]
+    region:   rolanberry_fields_n
+
+  17228190:
+    template: Bronze_Quadav
+    level:    [32, 33]
+    region:   rolanberry_fields_n
+
+  17228191:
+    template: Brass_Quadav
+    level:    [27, 28]
+    region:   rolanberry_fields_n
+
+  17228192:
+    template: Silver_Quadav
+    level:    [32, 33]
+    region:   rolanberry_fields_n
+
+  17228193:
+    template: Zircon_Quadav
+    level:    [32, 33]
+    region:   rolanberry_fields_n
+
+  17228194:
+    template: Garnet_Quadav
+    level:    [32, 33]
+    region:   rolanberry_fields_n
+
+  17228195:
+    template: Wight
+    at:       [168.783, 16.038, 200.582, 127]
+    level:    [32, 34]
+
+  17228196:
+    template: Wight
+    at:       [-68.807, 9.012, 359.016, 61]
+    level:    [32, 34]
+
+  17228197:
+    template: Ignis_Fatuus
+    level:    [34, 36]
+    region:   rolanberry_fields_n_2
+
+  17228198:
+    template: Evil_Spirit
+    level:    [35, 36]
+    region:   rolanberry_fields_n_3
+
+  17228199:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_n_4
+
+  17228200:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_n_4
+
+  17228201:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_n_4
+
+  17228202:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_n_4
+
+  17228203:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_n_4
+
+  17228204:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_n_4
+
+  17228205:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_n_4
+
+  17228206:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_n_4
+
+  17228207:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_ne_3
+
+  17228208:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_ne_3
+
+  17228209:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_ne_3
+
+  17228210:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_ne_3
+
+  17228211:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_ne_3
+
+  17228212:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_ne_3
+
+  17228213:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_ne_3
+
+  17228214:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_ne_3
+
+  17228215:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_ne
+
+  17228216:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_ne
+
+  17228217:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_ne
+
+  17228218:
+    template: Death_Wasp
+    level:    [25, 26]
+    region:   rolanberry_fields_ne
+
+  17228219:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_ne
+
+  17228220:
+    template: Midnight_Wings
+    level:    [22, 23]
+    region:   rolanberry_fields_ne
+
+  17228221:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_ne
+
+  17228222:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   rolanberry_fields_ne
+
+  17228223:
+    template: Goblin_Mugger
+    level:    [26, 27]
+    region:   rolanberry_fields_ne
+
+  17228224:
+    template: Goblin_Pathfinder
+    level:    [31, 32]
+    region:   rolanberry_fields_ne
+
+  17228225:
+    template: Goblins_Bee
+    level:    [23, 25]
+    region:   rolanberry_fields_ne
+
+  17228226:
+    template: Goblin_Leecher
+    level:    [26, 27]
+    region:   rolanberry_fields_ne
+
+  17228227:
+    template: Goblin_Furrier
+    level:    [31, 32]
+    region:   rolanberry_fields_ne
+
+  17228228:
+    template: Goblin_Gambler
+    level:    [26, 27]
+    region:   rolanberry_fields_ne
+
+  17228229:
+    template: Goblin_Smithy
+    level:    [31, 32]
+    region:   rolanberry_fields_ne
+
+  17228230:
+    template: Goblin_Shaman
+    level:    [31, 32]
+    region:   rolanberry_fields_ne_4
+
+  17228231:
+    template: Poison_Leech
+    level:    [25, 26]
+    region:   rolanberry_fields_sw
+
+  17228232:
+    template: Poison_Leech
+    level:    [25, 26]
+    region:   rolanberry_fields_sw
+
+  17228233:
+    template: Poison_Leech
+    level:    [25, 26]
+    region:   rolanberry_fields_sw
+
+  17228234:
+    template: Poison_Leech
+    level:    [25, 26]
+    region:   rolanberry_fields_sw
+
+  17228235:
+    template: Ochu
+    level:    [36, 37]
+    region:   rolanberry_fields_sw
+
+  17228236:
+    template: Drooling_Daisy
+    at:       [-763.000, -31.000, -414.000, 127]
+    level:    [39, 40]
+
+  17228237:
+    template: Clipper
+    level:    [24, 25]
+    region:   rolanberry_fields_sw
+
+  17228238:
+    template: Clipper
+    level:    [24, 25]
+    region:   rolanberry_fields_sw
+
+  17228239:
+    template: Clipper
+    level:    [24, 25]
+    region:   rolanberry_fields_sw
+
+  17228240:
+    template: Clipper
+    level:    [24, 25]
+    region:   rolanberry_fields_sw
+
+  17228241:
+    template: Goblin_Digger
+    level:    [28, 29]
+    region:   rolanberry_fields_c_3
+
+  17228242:
+    template: Simurgh
+    level:    [58, 58]
+    region:   rolanberry_fields_sw
+
+  17228243:
+    template: Sprite
+    level:    [61, 63]
+    region:   rolanberry_fields_c
+
+  17228244:
+    template: Sprite
+    level:    [61, 63]
+    region:   rolanberry_fields_c
+
+  17228245:
+    template: Sprite
+    level:    [61, 63]
+    region:   rolanberry_fields_c
+
+  17228246:
+    template: Sprite
+    level:    [61, 63]
+    region:   rolanberry_fields_c
+
+  17228247:
+    template: Sprite
+    level:    [61, 63]
+    region:   rolanberry_fields_c
+
+  17228248:
+    template: Urayuli
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17228249:
+    template: Chuglix_Berrypaws
+    at:       [-686.216, -31.556, -369.723, 0]
+    level:    [1, 1]
+
+  17228250:
+    template: Yilbegan
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [90, 92]
+
+  17228251:
+    template: Verthandi
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [85, 85]
+
+  17228252:
+    template: Urd
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [82, 82]
+
+  17228253:
+    template: Skuld
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [82, 82]
+
+  17228254:
+    template: Aither
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17228255:
+    template: Deorc
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17228256:
+    template: Eorthe
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17228257:
+    template: Puretos
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17228258:
+    template: Pruina
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17228259:
+    template: Beorht
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17228260:
+    template: Thunor
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17228261:
+    template: Lacus
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17228262:
+    template: Yatagarasu
+    at:       [-360.000, 7.500, 279.000, 149]
+    level:    [94, 95]
+
+  17228263:
+    template: Yatagarasu
+    at:       [-435.000, -8.406, 15.000, 212]
+    level:    [94, 95]
+
+  17228264:
+    template: Yatagarasu
+    at:       [-630.000, -24.266, -270.000, 19]
+    level:    [94, 95]
+
+  17228265:
+    template: Strix
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17228266:
+    template: Strix
+    at:       [-481.160, -8.500, 117.660, 118]
+    level:    [0, 0]
+
+  17228267:
+    template: Strix
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17228277:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17228278:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17228279:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17228289:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17228290:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17228291:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17228301:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17228302:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17228303:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17228304:
+    template: Tatenashi_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17228305:
+    template: Hizamaru_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17228306:
+    template: Ubuginu_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17228307:
+    template: Hachiryu_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17228308:
+    template: Omodaka_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17228309:
+    template: Macro_Test
+    at:       [221.589, 23.516, 463.339, 184]
+    level:    [1, 1]
+
+  17228310:
+    template: Macro_Test
+    at:       [225.399, 24.354, 464.200, 184]
+    level:    [1, 1]
+
+  17228311:
+    template: Macro_Test
+    at:       [230.000, 24.573, 465.149, 184]
+    level:    [1, 1]

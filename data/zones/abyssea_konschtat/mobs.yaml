@@ -1,0 +1,2088 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  16838657:
+    template: Hadal_Satiator
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [78, 88]
+
+  16838658:
+    template: Hadal_Mirror
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [83, 85]
+
+  16838659:
+    template: Hadal_Mirror
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [83, 85]
+
+  16838660:
+    template: Hadal_Mirror
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [83, 85]
+
+  16838661:
+    template: Depths_Digester
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16838662:
+    template: Meanderer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [78, 88]
+
+  16838663:
+    template: Meanderer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [78, 88]
+
+  16838664:
+    template: Meanderer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [78, 88]
+
+  16838665:
+    template: Meanderer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [78, 88]
+
+  16838666:
+    template: Meanderer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [78, 88]
+
+  16838667:
+    template: Meanderer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [78, 88]
+
+  16838668:
+    template: Turul
+    level:    [90, 90]
+    region:   abyssea_konschtat_ne_4
+
+  16838670:
+    template: Sturdy_Pyxis
+    at:       [-557.505, -0.500, 37.512, 0]
+    level:    [0, 0]
+
+  16838671:
+    template: Sturdy_Pyxis
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16838672:
+    template: Sturdy_Pyxis
+    at:       [356.233, 23.635, 265.882, 0]
+    level:    [0, 0]
+
+  16838673:
+    template: Sturdy_Pyxis
+    at:       [429.432, 16.964, 174.953, 0]
+    level:    [0, 0]
+
+  16838674:
+    template: Pavan
+    level:    [78, 88]
+    region:   abyssea_konschtat_s_2
+
+  16838675:
+    template: Pavan
+    level:    [78, 88]
+    region:   abyssea_konschtat_c
+
+  16838676:
+    template: Pavan
+    level:    [78, 88]
+    region:   abyssea_konschtat_n
+
+  16838677:
+    template: Pavan
+    level:    [78, 88]
+    region:   abyssea_konschtat_c_8
+
+  16838678:
+    template: Pavan
+    level:    [78, 88]
+    region:   abyssea_konschtat_ne_2
+
+  16838679:
+    template: Shadow_Lizard
+    level:    [74, 75]
+    region:   abyssea_konschtat_s_8
+
+  16838680:
+    template: Shadow_Lizard
+    level:    [74, 75]
+    region:   abyssea_konschtat_s_8
+
+  16838681:
+    template: Shadow_Lizard
+    level:    [74, 75]
+    region:   abyssea_konschtat_s_6
+
+  16838682:
+    template: Shadow_Lizard
+    level:    [74, 75]
+    region:   abyssea_konschtat_s_6
+
+  16838683:
+    template: Shadow_Lizard
+    level:    [74, 75]
+    region:   abyssea_konschtat_s_6
+
+  16838684:
+    template: Shadow_Lizard
+    level:    [74, 75]
+    region:   abyssea_konschtat_s_7
+
+  16838685:
+    template: Shadow_Lizard
+    level:    [74, 75]
+    region:   abyssea_konschtat_s_7
+
+  16838686:
+    template: Shadow_Lizard
+    level:    [74, 75]
+    region:   abyssea_konschtat_s_7
+
+  16838687:
+    template: Trotting_Sapling
+    level:    [74, 75]
+    region:   abyssea_konschtat_s
+
+  16838688:
+    template: Trotting_Sapling
+    level:    [74, 75]
+    region:   abyssea_konschtat_s
+
+  16838689:
+    template: Trotting_Sapling
+    level:    [74, 75]
+    region:   abyssea_konschtat_s
+
+  16838690:
+    template: Trotting_Sapling
+    level:    [74, 75]
+    region:   abyssea_konschtat_s
+
+  16838691:
+    template: Trotting_Sapling
+    level:    [74, 75]
+    region:   abyssea_konschtat_e_6
+
+  16838692:
+    template: Trotting_Sapling
+    level:    [74, 75]
+    region:   abyssea_konschtat_e_6
+
+  16838693:
+    template: Trotting_Sapling
+    level:    [74, 75]
+    region:   abyssea_konschtat_e_6
+
+  16838694:
+    template: Ley_Clionid
+    level:    [74, 75]
+    region:   abyssea_konschtat_se
+
+  16838695:
+    template: Ley_Clionid
+    level:    [74, 75]
+    region:   abyssea_konschtat_se
+
+  16838696:
+    template: Ley_Clionid
+    level:    [74, 75]
+    region:   abyssea_konschtat_se
+
+  16838697:
+    template: Ley_Clionid
+    level:    [74, 75]
+    region:   abyssea_konschtat_se
+
+  16838698:
+    template: Ley_Clionid
+    level:    [74, 75]
+    region:   abyssea_konschtat_se
+
+  16838699:
+    template: Ley_Clionid
+    level:    [74, 75]
+    region:   abyssea_konschtat_se_3
+
+  16838700:
+    template: Ley_Clionid
+    level:    [74, 75]
+    region:   abyssea_konschtat_se_3
+
+  16838701:
+    template: Ley_Clionid
+    level:    [74, 75]
+    region:   abyssea_konschtat_se_3
+
+  16838702:
+    template: Ley_Clionid
+    level:    [74, 75]
+    region:   abyssea_konschtat_se_3
+
+  16838703:
+    template: Ley_Clionid
+    level:    [74, 75]
+    region:   abyssea_konschtat_se_3
+
+  16838704:
+    template: Ley_Clionid
+    level:    [74, 75]
+    region:   abyssea_konschtat_se_3
+
+  16838705:
+    template: Ephemeral_Clionid
+    level:    [74, 75]
+    region:   abyssea_konschtat_se
+
+  16838706:
+    template: Sods_Limule
+    level:    [74, 75]
+    region:   abyssea_konschtat_se_4
+
+  16838707:
+    template: Sods_Limule
+    level:    [74, 75]
+    region:   abyssea_konschtat_se_4
+
+  16838708:
+    template: Sods_Limule
+    level:    [74, 75]
+    region:   abyssea_konschtat_se_4
+
+  16838709:
+    template: Sods_Limule
+    level:    [74, 75]
+    region:   abyssea_konschtat_se_4
+
+  16838710:
+    template: Sods_Limule
+    level:    [74, 75]
+    region:   abyssea_konschtat_se_4
+
+  16838711:
+    template: Sods_Limule
+    level:    [74, 75]
+    region:   abyssea_konschtat_se_4
+
+  16838712:
+    template: Sods_Limule
+    level:    [74, 75]
+    region:   abyssea_konschtat_se_2
+
+  16838713:
+    template: Sods_Limule
+    level:    [74, 75]
+    region:   abyssea_konschtat_se_2
+
+  16838714:
+    template: Sods_Limule
+    level:    [74, 75]
+    region:   abyssea_konschtat_se_2
+
+  16838715:
+    template: Sods_Limule
+    level:    [74, 75]
+    region:   abyssea_konschtat_se_2
+
+  16838716:
+    template: Sods_Limule
+    level:    [74, 75]
+    region:   abyssea_konschtat_se_2
+
+  16838717:
+    template: Ephemeral_Limule
+    level:    [74, 75]
+    region:   abyssea_konschtat_se_2
+
+  16838718:
+    template: Ashtaerh_the_Gallvexed
+    at:       [360.000, -16.000, -400.000, 0]
+    level:    [85, 85]
+
+  16838719:
+    template: Shadow_Lizard
+    level:    [74, 75]
+    region:   abyssea_konschtat_s_3
+
+  16838720:
+    template: Shadow_Lizard
+    level:    [74, 75]
+    region:   abyssea_konschtat_s_3
+
+  16838721:
+    template: Shadow_Lizard
+    level:    [74, 75]
+    region:   abyssea_konschtat_s_3
+
+  16838722:
+    template: Shadow_Lizard
+    level:    [74, 75]
+    region:   abyssea_konschtat_s_3
+
+  16838723:
+    template: Shadow_Lizard
+    level:    [74, 75]
+    region:   abyssea_konschtat_s_3
+
+  16838724:
+    template: Shadow_Lizard
+    level:    [74, 75]
+    region:   abyssea_konschtat_s_4
+
+  16838725:
+    template: Shadow_Lizard
+    level:    [74, 75]
+    region:   abyssea_konschtat_s_4
+
+  16838726:
+    template: Shadow_Lizard
+    level:    [74, 75]
+    region:   abyssea_konschtat_s_4
+
+  16838727:
+    template: Shadow_Lizard
+    level:    [74, 75]
+    region:   abyssea_konschtat_s_4
+
+  16838728:
+    template: Shadow_Lizard
+    level:    [74, 75]
+    region:   abyssea_konschtat_s_5
+
+  16838729:
+    template: Shadow_Lizard
+    level:    [74, 75]
+    region:   abyssea_konschtat_s_5
+
+  16838730:
+    template: Shadow_Lizard
+    level:    [74, 75]
+    region:   abyssea_konschtat_s_5
+
+  16838731:
+    template: Shadow_Lizard
+    level:    [74, 75]
+    region:   abyssea_konschtat_s_5
+
+  16838732:
+    template: Ephemeral_Limule
+    level:    [74, 75]
+    region:   abyssea_konschtat_s_2
+
+  16838733:
+    template: Trotting_Sapling
+    at:       [-302.527, -45.031, -365.407, 121]
+    level:    [74, 75]
+
+  16838734:
+    template: Trotting_Sapling
+    level:    [74, 75]
+    region:   abyssea_konschtat_sw_2
+
+  16838735:
+    template: Trotting_Sapling
+    level:    [74, 75]
+    region:   abyssea_konschtat_sw_2
+
+  16838736:
+    template: Trotting_Sapling
+    level:    [74, 75]
+    region:   abyssea_konschtat_sw_2
+
+  16838737:
+    template: Trotting_Sapling
+    level:    [74, 75]
+    region:   abyssea_konschtat_sw_2
+
+  16838738:
+    template: Trotting_Sapling
+    level:    [74, 75]
+    region:   abyssea_konschtat_sw_2
+
+  16838739:
+    template: Trotting_Sapling
+    at:       [400.000, -0.700, -90.000, 170]
+    level:    [74, 75]
+
+  16838740:
+    template: Trotting_Sapling
+    level:    [74, 75]
+    region:   abyssea_konschtat_sw_3
+
+  16838741:
+    template: Trotting_Sapling
+    level:    [74, 75]
+    region:   abyssea_konschtat_sw_3
+
+  16838742:
+    template: Trotting_Sapling
+    level:    [74, 75]
+    region:   abyssea_konschtat_sw_3
+
+  16838743:
+    template: Trotting_Sapling
+    level:    [74, 75]
+    region:   abyssea_konschtat_sw_3
+
+  16838744:
+    template: Trotting_Sapling
+    at:       [-430.845, -18.341, -206.830, 146]
+    level:    [74, 75]
+
+  16838745:
+    template: Trotting_Sapling
+    level:    [74, 75]
+    region:   abyssea_konschtat_sw
+
+  16838746:
+    template: Trotting_Sapling
+    level:    [74, 75]
+    region:   abyssea_konschtat_sw
+
+  16838747:
+    template: Trotting_Sapling
+    level:    [74, 75]
+    region:   abyssea_konschtat_sw
+
+  16838748:
+    template: Trotting_Sapling
+    level:    [74, 75]
+    region:   abyssea_konschtat_sw
+
+  16838749:
+    template: Trotting_Sapling
+    level:    [74, 75]
+    region:   abyssea_konschtat_sw
+
+  16838750:
+    template: Ephemeral_Clionid
+    level:    [74, 75]
+    region:   abyssea_konschtat_sw_2
+
+  16838751:
+    template: Gangly_Gean
+    level:    [85, 85]
+    region:   abyssea_konschtat_sw_2
+
+  16838752:
+    template: Razorback
+    level:    [78, 88]
+    region:   abyssea_konschtat_c_2
+
+  16838753:
+    template: Razorback
+    level:    [78, 88]
+    region:   abyssea_konschtat_c_2
+
+  16838754:
+    template: Razorback
+    level:    [78, 88]
+    region:   abyssea_konschtat_c_2
+
+  16838755:
+    template: Razorback
+    level:    [78, 88]
+    region:   abyssea_konschtat_c_2
+
+  16838756:
+    template: Razorback
+    level:    [78, 88]
+    region:   abyssea_konschtat_c_2
+
+  16838757:
+    template: Razorback
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_18
+
+  16838758:
+    template: Razorback
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_18
+
+  16838759:
+    template: Razorback
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_18
+
+  16838760:
+    template: Razorback
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_18
+
+  16838761:
+    template: Razorback
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_18
+
+  16838762:
+    template: Razorback
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_14
+
+  16838763:
+    template: Razorback
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_14
+
+  16838764:
+    template: Razorback
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_14
+
+  16838765:
+    template: Razorback
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_14
+
+  16838766:
+    template: Ephemeral_Limule
+    level:    [79, 83]
+    region:   abyssea_konschtat_w_15
+
+  16838767:
+    template: Sarcophilus
+    at:       [-234.000, -15.000, -119.000, 0]
+    level:    [85, 85]
+
+  16838768:
+    template: Hoary_Ragwort
+    level:    [78, 88]
+    region:   abyssea_konschtat_w
+
+  16838769:
+    template: Hoary_Ragwort
+    level:    [78, 88]
+    region:   abyssea_konschtat_w
+
+  16838770:
+    template: Hoary_Ragwort
+    level:    [78, 88]
+    region:   abyssea_konschtat_w
+
+  16838771:
+    template: Hoary_Ragwort
+    level:    [78, 88]
+    region:   abyssea_konschtat_w
+
+  16838772:
+    template: Hoary_Ragwort
+    level:    [78, 88]
+    region:   abyssea_konschtat_w
+
+  16838773:
+    template: Hoary_Ragwort
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_5
+
+  16838774:
+    template: Hoary_Ragwort
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_5
+
+  16838775:
+    template: Hoary_Ragwort
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_5
+
+  16838776:
+    template: Hoary_Ragwort
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_5
+
+  16838777:
+    template: Hoary_Ragwort
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_5
+
+  16838778:
+    template: Hoary_Ragwort
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_10
+
+  16838779:
+    template: Hoary_Ragwort
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_10
+
+  16838780:
+    template: Hoary_Ragwort
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_10
+
+  16838781:
+    template: Ephemeral_Limule
+    level:    [79, 83]
+    region:   abyssea_konschtat_w_3
+
+  16838782:
+    template: Bombadeel
+    at:       [-357.000, 8.000, -41.000, 0]
+    level:    [85, 85]
+
+  16838783:
+    template: Sods_Limule
+    level:    [79, 80]
+    region:   abyssea_konschtat_w_2
+
+  16838784:
+    template: Sods_Limule
+    level:    [79, 80]
+    region:   abyssea_konschtat_w_2
+
+  16838785:
+    template: Sods_Limule
+    level:    [79, 80]
+    region:   abyssea_konschtat_w_2
+
+  16838786:
+    template: Sods_Limule
+    level:    [79, 80]
+    region:   abyssea_konschtat_w_2
+
+  16838787:
+    template: Sods_Limule
+    level:    [74, 75]
+    region:   abyssea_konschtat_w_2
+
+  16838788:
+    template: Sods_Limule
+    level:    [79, 80]
+    region:   abyssea_konschtat_w_6
+
+  16838789:
+    template: Sods_Limule
+    level:    [79, 80]
+    region:   abyssea_konschtat_w_6
+
+  16838790:
+    template: Sods_Limule
+    level:    [79, 80]
+    region:   abyssea_konschtat_w_6
+
+  16838791:
+    template: Sods_Limule
+    level:    [79, 80]
+    region:   abyssea_konschtat_w_6
+
+  16838792:
+    template: Sods_Limule
+    level:    [79, 80]
+    region:   abyssea_konschtat_w_6
+
+  16838793:
+    template: Sods_Limule
+    level:    [79, 80]
+    region:   abyssea_konschtat_w_9
+
+  16838794:
+    template: Sods_Limule
+    level:    [79, 80]
+    region:   abyssea_konschtat_w_9
+
+  16838795:
+    template: Sods_Limule
+    level:    [79, 80]
+    region:   abyssea_konschtat_w_9
+
+  16838796:
+    template: Ephemeral_Limule
+    level:    [79, 83]
+    region:   abyssea_konschtat_w_9
+
+  16838797:
+    template: Ley_Clionid
+    level:    [79, 80]
+    region:   abyssea_konschtat_nw
+
+  16838798:
+    template: Ley_Clionid
+    level:    [79, 80]
+    region:   abyssea_konschtat_nw
+
+  16838799:
+    template: Ley_Clionid
+    level:    [79, 80]
+    region:   abyssea_konschtat_nw
+
+  16838800:
+    template: Ley_Clionid
+    level:    [74, 75]
+    region:   abyssea_konschtat_nw
+
+  16838801:
+    template: Ley_Clionid
+    level:    [79, 80]
+    region:   abyssea_konschtat_w_8
+
+  16838802:
+    template: Ley_Clionid
+    level:    [79, 80]
+    region:   abyssea_konschtat_w_8
+
+  16838803:
+    template: Ley_Clionid
+    level:    [74, 75]
+    region:   abyssea_konschtat_w_8
+
+  16838804:
+    template: Ley_Clionid
+    level:    [79, 80]
+    region:   abyssea_konschtat_w_8
+
+  16838805:
+    template: Ley_Clionid
+    level:    [79, 80]
+    region:   abyssea_konschtat_w_7
+
+  16838806:
+    template: Ley_Clionid
+    level:    [79, 80]
+    region:   abyssea_konschtat_w_7
+
+  16838807:
+    template: Ley_Clionid
+    level:    [79, 80]
+    region:   abyssea_konschtat_w_7
+
+  16838808:
+    template: Ley_Clionid
+    level:    [79, 80]
+    region:   abyssea_konschtat_w_7
+
+  16838809:
+    template: Ephemeral_Clionid
+    level:    [74, 75]
+    region:   abyssea_konschtat_nw
+
+  16838810:
+    template: Abxzomit
+    level:    [79, 80]
+    region:   abyssea_konschtat_w_4
+
+  16838811:
+    template: Abxzomit
+    level:    [79, 80]
+    region:   abyssea_konschtat_w_4
+
+  16838812:
+    template: Abxzomit
+    level:    [79, 80]
+    region:   abyssea_konschtat_w_4
+
+  16838813:
+    template: Abxzomit
+    level:    [79, 80]
+    region:   abyssea_konschtat_w_4
+
+  16838814:
+    template: Abxzomit
+    level:    [79, 80]
+    region:   abyssea_konschtat_w_4
+
+  16838815:
+    template: Abxzomit
+    level:    [79, 80]
+    region:   abyssea_konschtat_w_4
+
+  16838816:
+    template: Abxzomit
+    level:    [79, 80]
+    region:   abyssea_konschtat_w_4
+
+  16838817:
+    template: Abxzomit
+    level:    [79, 80]
+    region:   abyssea_konschtat_w_4
+
+  16838818:
+    template: Abxzomit
+    level:    [79, 80]
+    region:   abyssea_konschtat_w_4
+
+  16838819:
+    template: Ephemeral_Clionid
+    at:       [-520.473, 11.729, 222.814, 134]
+    level:    [74, 75]
+
+  16838820:
+    template: Khalamari
+    level:    [85, 85]
+    region:   abyssea_konschtat_w_4
+
+  16838821:
+    template: Shadow_Funguar
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_17
+
+  16838822:
+    template: Shadow_Funguar
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_17
+
+  16838823:
+    template: Shadow_Funguar
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_17
+
+  16838824:
+    template: Shadow_Funguar
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_19
+
+  16838825:
+    template: Shadow_Funguar
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_19
+
+  16838826:
+    template: Shadow_Funguar
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_19
+
+  16838827:
+    template: Shadow_Funguar
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_19
+
+  16838828:
+    template: Shadow_Funguar
+    level:    [78, 88]
+    region:   abyssea_konschtat_c_3
+
+  16838829:
+    template: Shadow_Funguar
+    level:    [78, 88]
+    region:   abyssea_konschtat_c_3
+
+  16838830:
+    template: Shadow_Funguar
+    level:    [78, 88]
+    region:   abyssea_konschtat_c_3
+
+  16838831:
+    template: Shadow_Funguar
+    level:    [78, 88]
+    region:   abyssea_konschtat_c_3
+
+  16838832:
+    template: Shadow_Funguar
+    level:    [78, 88]
+    region:   abyssea_konschtat_c_4
+
+  16838833:
+    template: Shadow_Funguar
+    level:    [78, 88]
+    region:   abyssea_konschtat_c_4
+
+  16838834:
+    template: Shadow_Funguar
+    level:    [78, 88]
+    region:   abyssea_konschtat_c_4
+
+  16838835:
+    template: Shadow_Funguar
+    level:    [78, 88]
+    region:   abyssea_konschtat_c_4
+
+  16838836:
+    template: Ephemeral_Limule
+    level:    [79, 83]
+    region:   abyssea_konschtat_c
+
+  16838837:
+    template: Hexenpilz
+    at:       [-182.000, 2.000, 31.000, 0]
+    level:    [85, 85]
+
+  16838838:
+    template: Highland_Rafflesia
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_13
+
+  16838839:
+    template: Highland_Rafflesia
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_13
+
+  16838840:
+    template: Highland_Rafflesia
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_13
+
+  16838841:
+    template: Highland_Rafflesia
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_13
+
+  16838842:
+    template: Highland_Rafflesia
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_11
+
+  16838843:
+    template: Highland_Rafflesia
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_11
+
+  16838844:
+    template: Highland_Rafflesia
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_11
+
+  16838845:
+    template: Highland_Rafflesia
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_11
+
+  16838846:
+    template: Highland_Rafflesia
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_11
+
+  16838847:
+    template: Highland_Rafflesia
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_11
+
+  16838848:
+    template: Highland_Rafflesia
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_11
+
+  16838849:
+    template: Highland_Rafflesia
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_12
+
+  16838850:
+    template: Highland_Rafflesia
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_12
+
+  16838851:
+    template: Highland_Rafflesia
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_12
+
+  16838852:
+    template: Highland_Rafflesia
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_12
+
+  16838853:
+    template: Highland_Rafflesia
+    level:    [78, 88]
+    region:   abyssea_konschtat_w_12
+
+  16838854:
+    template: Ephemeral_Clionid
+    level:    [79, 82]
+    region:   abyssea_konschtat_w_16
+
+  16838855:
+    template: Raskovnik
+    level:    [85, 85]
+    region:   abyssea_konschtat_w_11
+
+  16838856:
+    template: Mesa_Wivre
+    level:    [78, 88]
+    region:   abyssea_konschtat_n_2
+
+  16838857:
+    template: Mesa_Wivre
+    level:    [78, 88]
+    region:   abyssea_konschtat_n_2
+
+  16838858:
+    template: Mesa_Wivre
+    level:    [78, 88]
+    region:   abyssea_konschtat_n_2
+
+  16838859:
+    template: Mesa_Wivre
+    level:    [78, 88]
+    region:   abyssea_konschtat_n_2
+
+  16838860:
+    template: Mesa_Wivre
+    level:    [78, 88]
+    region:   abyssea_konschtat_n_2
+
+  16838861:
+    template: Mesa_Wivre
+    level:    [78, 88]
+    region:   abyssea_konschtat_n_3
+
+  16838862:
+    template: Mesa_Wivre
+    level:    [78, 88]
+    region:   abyssea_konschtat_n_3
+
+  16838863:
+    template: Mesa_Wivre
+    level:    [78, 88]
+    region:   abyssea_konschtat_n_3
+
+  16838864:
+    template: Mesa_Wivre
+    level:    [78, 88]
+    region:   abyssea_konschtat_n_3
+
+  16838865:
+    template: Mesa_Wivre
+    level:    [78, 88]
+    region:   abyssea_konschtat_n_3
+
+  16838866:
+    template: Mesa_Wivre
+    level:    [78, 88]
+    region:   abyssea_konschtat_n_4
+
+  16838867:
+    template: Mesa_Wivre
+    level:    [78, 88]
+    region:   abyssea_konschtat_n_4
+
+  16838868:
+    template: Mesa_Wivre
+    level:    [78, 88]
+    region:   abyssea_konschtat_n_4
+
+  16838869:
+    template: Mesa_Wivre
+    level:    [78, 88]
+    region:   abyssea_konschtat_n_4
+
+  16838870:
+    template: Ephemeral_Clionid
+    level:    [74, 75]
+    region:   abyssea_konschtat_n
+
+  16838871:
+    template: Keratyrannos
+    at:       [-140.925, 47.472, 411.038, 115]
+    level:    [85, 85]
+
+  16838872:
+    template: Kukulkan
+    at:       [-39.777, 71.308, 558.021, 201]
+    level:    [90, 90]
+
+  16838873:
+    template: Gunge_Slug
+    level:    [79, 80]
+    region:   abyssea_konschtat_nw_2
+
+  16838874:
+    template: Gunge_Slug
+    level:    [79, 80]
+    region:   abyssea_konschtat_nw_2
+
+  16838875:
+    template: Gunge_Slug
+    at:       [-229.636, 40.428, 364.556, 253]
+    level:    [79, 80]
+
+  16838876:
+    template: Gunge_Slug
+    level:    [79, 80]
+    region:   abyssea_konschtat_nw_3
+
+  16838877:
+    template: Gunge_Slug
+    level:    [79, 80]
+    region:   abyssea_konschtat_nw_3
+
+  16838878:
+    template: Gunge_Slug
+    level:    [79, 80]
+    region:   abyssea_konschtat_nw_3
+
+  16838879:
+    template: Gunge_Slug
+    level:    [79, 80]
+    region:   abyssea_konschtat_nw_3
+
+  16838880:
+    template: Gunge_Slug
+    level:    [79, 80]
+    region:   abyssea_konschtat_nw_4
+
+  16838881:
+    template: Gunge_Slug
+    level:    [79, 80]
+    region:   abyssea_konschtat_nw_4
+
+  16838882:
+    template: Gunge_Slug
+    level:    [79, 80]
+    region:   abyssea_konschtat_nw_4
+
+  16838883:
+    template: Gunge_Slug
+    level:    [79, 80]
+    region:   abyssea_konschtat_nw_4
+
+  16838884:
+    template: Ephemeral_Limule
+    level:    [74, 75]
+    region:   abyssea_konschtat_nw_4
+
+  16838885:
+    template: Lentor
+    at:       [-248.000, 47.000, 403.000, 0]
+    level:    [85, 85]
+
+  16838886:
+    template: Gneiss_Leech
+    level:    [79, 80]
+    region:   abyssea_konschtat_nw_5
+
+  16838887:
+    template: Gneiss_Leech
+    level:    [79, 80]
+    region:   abyssea_konschtat_nw_5
+
+  16838888:
+    template: Gneiss_Leech
+    level:    [79, 80]
+    region:   abyssea_konschtat_nw_5
+
+  16838889:
+    template: Gneiss_Leech
+    level:    [79, 80]
+    region:   abyssea_konschtat_nw_5
+
+  16838890:
+    template: Gneiss_Leech
+    level:    [79, 80]
+    region:   abyssea_konschtat_nw_5
+
+  16838891:
+    template: Gneiss_Leech
+    level:    [79, 80]
+    region:   abyssea_konschtat_nw_5
+
+  16838892:
+    template: Gneiss_Leech
+    level:    [79, 80]
+    region:   abyssea_konschtat_nw_5
+
+  16838893:
+    template: Gneiss_Leech
+    level:    [79, 80]
+    region:   abyssea_konschtat_nw_5
+
+  16838894:
+    template: Gneiss_Leech
+    level:    [79, 80]
+    region:   abyssea_konschtat_nw_5
+
+  16838895:
+    template: Gneiss_Leech
+    level:    [79, 80]
+    region:   abyssea_konschtat_nw_5
+
+  16838896:
+    template: Gneiss_Leech
+    level:    [79, 80]
+    region:   abyssea_konschtat_nw_5
+
+  16838897:
+    template: Gneiss_Leech
+    level:    [79, 80]
+    region:   abyssea_konschtat_nw_5
+
+  16838898:
+    template: Ephemeral_Clionid
+    level:    [79, 82]
+    region:   abyssea_konschtat_nw_5
+
+  16838899:
+    template: Bloodguzzler
+    at:       [-196.296, 65.566, 787.040, 100]
+    level:    [85, 85]
+
+  16838900:
+    template: Licorice
+    at:       [-227.859, 72.169, 678.821, 131]
+    level:    [78, 88]
+
+  16838901:
+    template: Licorice
+    at:       [-205.217, 71.941, 641.396, 245]
+    level:    [78, 88]
+
+  16838902:
+    template: Licorice
+    at:       [-232.497, 71.952, 678.459, 254]
+    level:    [78, 88]
+
+  16838903:
+    template: Licorice
+    at:       [-271.555, 59.550, 651.318, 96]
+    level:    [78, 88]
+
+  16838904:
+    template: Licorice
+    at:       [-210.661, 72.247, 667.499, 124]
+    level:    [78, 88]
+
+  16838905:
+    template: Licorice
+    at:       [-182.842, 73.410, 708.713, 60]
+    level:    [78, 88]
+
+  16838906:
+    template: Licorice
+    at:       [-137.789, 74.800, 684.744, 80]
+    level:    [78, 88]
+
+  16838907:
+    template: Licorice
+    at:       [-121.235, 72.474, 711.425, 222]
+    level:    [78, 88]
+
+  16838908:
+    template: Licorice
+    at:       [-131.252, 76.526, 668.204, 130]
+    level:    [78, 88]
+
+  16838909:
+    template: Licorice
+    at:       [-122.980, 79.450, 669.736, 54]
+    level:    [78, 88]
+
+  16838910:
+    template: Licorice
+    at:       [-165.363, 71.763, 686.530, 159]
+    level:    [78, 88]
+
+  16838911:
+    template: Ephemeral_Clionid
+    level:    [74, 75]
+    region:   abyssea_konschtat_nw_8
+
+  16838912:
+    template: Guimauve
+    level:    [85, 85]
+    region:   abyssea_konschtat_nw_8
+
+  16838913:
+    template: Fistule
+    level:    [90, 90]
+    region:   abyssea_konschtat_nw_6
+
+  16838914:
+    template: Pustule
+    level:    [78, 88]
+    region:   abyssea_konschtat_nw_7
+
+  16838915:
+    template: Pustule
+    level:    [78, 88]
+    region:   abyssea_konschtat_nw_7
+
+  16838916:
+    template: Pustule
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [78, 88]
+
+  16838917:
+    template: Pustule
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [78, 88]
+
+  16838918:
+    template: Pustule
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [78, 88]
+
+  16838919:
+    template: Pustule
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [78, 88]
+
+  16838920:
+    template: Pustule
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [78, 88]
+
+  16838921:
+    template: Pustule
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [78, 88]
+
+  16838922:
+    template: Pustule
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [78, 88]
+
+  16838923:
+    template: Pustule
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [78, 88]
+
+  16838924:
+    template: Pustule
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [78, 88]
+
+  16838925:
+    template: Pustule
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [78, 88]
+
+  16838926:
+    template: Pustule
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [78, 88]
+
+  16838927:
+    template: Pustule
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [78, 88]
+
+  16838928:
+    template: Morboling
+    level:    [79, 80]
+    region:   abyssea_konschtat_c_5
+
+  16838929:
+    template: Morboling
+    level:    [79, 80]
+    region:   abyssea_konschtat_c_5
+
+  16838930:
+    template: Morboling
+    level:    [79, 80]
+    region:   abyssea_konschtat_c_5
+
+  16838931:
+    template: Morboling
+    level:    [79, 80]
+    region:   abyssea_konschtat_c_5
+
+  16838932:
+    template: Morboling
+    level:    [79, 80]
+    region:   abyssea_konschtat_c_9
+
+  16838933:
+    template: Morboling
+    level:    [79, 80]
+    region:   abyssea_konschtat_c_9
+
+  16838934:
+    template: Morboling
+    level:    [79, 80]
+    region:   abyssea_konschtat_c_9
+
+  16838935:
+    template: Morboling
+    level:    [79, 80]
+    region:   abyssea_konschtat_c_9
+
+  16838936:
+    template: Morboling
+    level:    [79, 80]
+    region:   abyssea_konschtat_c_9
+
+  16838937:
+    template: Morboling
+    level:    [79, 80]
+    region:   abyssea_konschtat_c_11
+
+  16838938:
+    template: Morboling
+    level:    [79, 80]
+    region:   abyssea_konschtat_c_11
+
+  16838939:
+    template: Morboling
+    level:    [79, 80]
+    region:   abyssea_konschtat_c_11
+
+  16838940:
+    template: Morboling
+    level:    [79, 80]
+    region:   abyssea_konschtat_c_11
+
+  16838941:
+    template: Morboling
+    level:    [79, 80]
+    region:   abyssea_konschtat_c_11
+
+  16838942:
+    template: Morboling
+    level:    [79, 80]
+    region:   abyssea_konschtat_e_2
+
+  16838943:
+    template: Morboling
+    level:    [79, 80]
+    region:   abyssea_konschtat_e_2
+
+  16838944:
+    template: Morboling
+    level:    [79, 80]
+    region:   abyssea_konschtat_e_2
+
+  16838945:
+    template: Ephemeral_Clionid
+    level:    [79, 82]
+    region:   abyssea_konschtat_e_2
+
+  16838946:
+    template: Clingy_Clare
+    at:       [150.000, 17.125, 90.000, 130]
+    level:    [85, 85]
+
+  16838947:
+    template: Highland_Treant
+    level:    [78, 88]
+    region:   abyssea_konschtat_c_10
+
+  16838948:
+    template: Highland_Treant
+    level:    [78, 88]
+    region:   abyssea_konschtat_c_10
+
+  16838949:
+    template: Highland_Treant
+    level:    [78, 88]
+    region:   abyssea_konschtat_c_10
+
+  16838950:
+    template: Highland_Treant
+    level:    [78, 88]
+    region:   abyssea_konschtat_e_4
+
+  16838951:
+    template: Highland_Treant
+    level:    [78, 88]
+    region:   abyssea_konschtat_e_4
+
+  16838952:
+    template: Highland_Treant
+    level:    [78, 88]
+    region:   abyssea_konschtat_e_4
+
+  16838953:
+    template: Highland_Treant
+    level:    [78, 88]
+    region:   abyssea_konschtat_e_4
+
+  16838954:
+    template: Highland_Treant
+    level:    [78, 88]
+    region:   abyssea_konschtat_e_7
+
+  16838955:
+    template: Highland_Treant
+    level:    [78, 88]
+    region:   abyssea_konschtat_e_7
+
+  16838956:
+    template: Highland_Treant
+    level:    [78, 88]
+    region:   abyssea_konschtat_e_7
+
+  16838957:
+    template: Highland_Treant
+    level:    [78, 88]
+    region:   abyssea_konschtat_e_7
+
+  16838958:
+    template: Highland_Treant
+    level:    [78, 88]
+    region:   abyssea_konschtat_e_3
+
+  16838959:
+    template: Highland_Treant
+    level:    [78, 88]
+    region:   abyssea_konschtat_e_3
+
+  16838960:
+    template: Highland_Treant
+    level:    [78, 88]
+    region:   abyssea_konschtat_e_3
+
+  16838961:
+    template: Ephemeral_Limule
+    level:    [79, 83]
+    region:   abyssea_konschtat_e
+
+  16838962:
+    template: Siranpa-kamuy
+    at:       [369.000, 1.000, 10.000, 0]
+    level:    [85, 85]
+
+  16838963:
+    template: Ypotryll
+    level:    [79, 80]
+    region:   abyssea_konschtat_c_6
+
+  16838964:
+    template: Ypotryll
+    level:    [79, 80]
+    region:   abyssea_konschtat_c_6
+
+  16838965:
+    template: Ypotryll
+    level:    [79, 80]
+    region:   abyssea_konschtat_c_6
+
+  16838966:
+    template: Ypotryll
+    level:    [79, 80]
+    region:   abyssea_konschtat_c_6
+
+  16838967:
+    template: Ypotryll
+    level:    [79, 80]
+    region:   abyssea_konschtat_c_7
+
+  16838968:
+    template: Ypotryll
+    level:    [79, 80]
+    region:   abyssea_konschtat_c_7
+
+  16838969:
+    template: Ypotryll
+    level:    [79, 80]
+    region:   abyssea_konschtat_c_7
+
+  16838970:
+    template: Ypotryll
+    level:    [79, 80]
+    region:   abyssea_konschtat_c_7
+
+  16838971:
+    template: Ypotryll
+    level:    [79, 80]
+    region:   abyssea_konschtat_c_7
+
+  16838972:
+    template: Ypotryll
+    level:    [79, 80]
+    region:   abyssea_konschtat_c_7
+
+  16838973:
+    template: Ypotryll
+    level:    [79, 80]
+    region:   abyssea_konschtat_n_5
+
+  16838974:
+    template: Ypotryll
+    level:    [79, 80]
+    region:   abyssea_konschtat_n_5
+
+  16838975:
+    template: Ypotryll
+    level:    [79, 80]
+    region:   abyssea_konschtat_n_5
+
+  16838976:
+    template: Ypotryll
+    level:    [79, 80]
+    region:   abyssea_konschtat_n_5
+
+  16838977:
+    template: Ypotryll
+    level:    [79, 80]
+    region:   abyssea_konschtat_n_5
+
+  16838978:
+    template: Ephemeral_Clionid
+    level:    [74, 75]
+    region:   abyssea_konschtat_n_5
+
+  16838979:
+    template: Alkonost
+    at:       [45.727, 31.097, 414.995, 227]
+    level:    [85, 85]
+
+  16838980:
+    template: Deep_Eye
+    level:    [79, 80]
+    region:   abyssea_konschtat_e_5
+
+  16838981:
+    template: Deep_Eye
+    level:    [79, 80]
+    region:   abyssea_konschtat_e_5
+
+  16838982:
+    template: Deep_Eye
+    level:    [79, 80]
+    region:   abyssea_konschtat_e_5
+
+  16838983:
+    template: Deep_Eye
+    level:    [79, 80]
+    region:   abyssea_konschtat_e_5
+
+  16838984:
+    template: Deep_Eye
+    level:    [79, 80]
+    region:   abyssea_konschtat_e_5
+
+  16838985:
+    template: Deep_Eye
+    level:    [79, 80]
+    region:   abyssea_konschtat_e_8
+
+  16838986:
+    template: Deep_Eye
+    level:    [79, 80]
+    region:   abyssea_konschtat_e_8
+
+  16838987:
+    template: Deep_Eye
+    level:    [79, 80]
+    region:   abyssea_konschtat_e_8
+
+  16838988:
+    template: Deep_Eye
+    level:    [79, 80]
+    region:   abyssea_konschtat_e_8
+
+  16838989:
+    template: Deep_Eye
+    level:    [79, 80]
+    region:   abyssea_konschtat_e_9
+
+  16838990:
+    template: Deep_Eye
+    level:    [79, 80]
+    region:   abyssea_konschtat_e_9
+
+  16838991:
+    template: Deep_Eye
+    level:    [79, 80]
+    region:   abyssea_konschtat_e_9
+
+  16838992:
+    template: Ephemeral_Clionid
+    level:    [74, 75]
+    region:   abyssea_konschtat_e_5
+
+  16838993:
+    template: Arimaspi
+    at:       [439.763, 31.500, 357.652, 243]
+    level:    [85, 85]
+
+  16838994:
+    template: Lesser_Arimaspi
+    at:       [440.992, 31.500, 356.828, 179]
+    level:    [78, 88]
+
+  16838995:
+    template: Lesser_Arimaspi
+    at:       [438.070, 31.500, 358.230, 4]
+    level:    [78, 88]
+
+  16838996:
+    template: Lesser_Arimaspi
+    at:       [442.022, 31.500, 357.704, 134]
+    level:    [78, 88]
+
+  16838997:
+    template: Viridis_Wyvern
+    level:    [82, 83]
+    region:   abyssea_konschtat_e_10
+
+  16838998:
+    template: Viridis_Wyvern
+    level:    [82, 83]
+    region:   abyssea_konschtat_e_10
+
+  16838999:
+    template: Viridis_Wyvern
+    level:    [82, 83]
+    region:   abyssea_konschtat_e_10
+
+  16839000:
+    template: Viridis_Wyvern
+    level:    [82, 83]
+    region:   abyssea_konschtat_e_10
+
+  16839001:
+    template: Viridis_Wyvern
+    level:    [82, 83]
+    region:   abyssea_konschtat_e_11
+
+  16839002:
+    template: Viridis_Wyvern
+    level:    [82, 83]
+    region:   abyssea_konschtat_e_11
+
+  16839003:
+    template: Viridis_Wyvern
+    level:    [82, 83]
+    region:   abyssea_konschtat_e_11
+
+  16839004:
+    template: Viridis_Wyvern
+    level:    [82, 83]
+    region:   abyssea_konschtat_e_11
+
+  16839005:
+    template: Ephemeral_Limule
+    level:    [74, 75]
+    region:   abyssea_konschtat_e_10
+
+  16839006:
+    template: Balaur
+    at:       [597.959, 23.178, 162.849, 105]
+    level:    [85, 85]
+
+  16839007:
+    template: Eccentric_Eve
+    at:       [230.412, 31.779, 280.677, 147]
+    level:    [90, 90]
+
+  16839008:
+    template: Dybbuk
+    level:    [79, 80]
+    region:   abyssea_konschtat_ne
+
+  16839009:
+    template: Dybbuk
+    level:    [79, 80]
+    region:   abyssea_konschtat_ne
+
+  16839010:
+    template: Dybbuk
+    level:    [79, 80]
+    region:   abyssea_konschtat_ne
+
+  16839011:
+    template: Dybbuk
+    level:    [79, 80]
+    region:   abyssea_konschtat_ne
+
+  16839012:
+    template: Dybbuk
+    level:    [79, 80]
+    region:   abyssea_konschtat_ne
+
+  16839013:
+    template: Dybbuk
+    level:    [79, 80]
+    region:   abyssea_konschtat_ne
+
+  16839014:
+    template: Dybbuk
+    level:    [79, 80]
+    region:   abyssea_konschtat_ne
+
+  16839015:
+    template: Dybbuk
+    level:    [79, 80]
+    region:   abyssea_konschtat_ne
+
+  16839016:
+    template: Dybbuk
+    level:    [79, 80]
+    region:   abyssea_konschtat_ne
+
+  16839017:
+    template: Dybbuk
+    level:    [79, 80]
+    region:   abyssea_konschtat_ne
+
+  16839018:
+    template: Dybbuk
+    level:    [79, 80]
+    region:   abyssea_konschtat_ne
+
+  16839019:
+    template: Dybbuk
+    level:    [79, 80]
+    region:   abyssea_konschtat_ne
+
+  16839020:
+    template: Dybbuk
+    level:    [79, 80]
+    region:   abyssea_konschtat_ne
+
+  16839021:
+    template: Ephemeral_Limule
+    level:    [79, 83]
+    region:   abyssea_konschtat_ne
+
+  16839022:
+    template: Qaitu
+    level:    [78, 88]
+    region:   abyssea_konschtat_ne_10
+
+  16839023:
+    template: Qaitu
+    level:    [78, 88]
+    region:   abyssea_konschtat_ne_10
+
+  16839024:
+    template: Qaitu
+    level:    [78, 88]
+    region:   abyssea_konschtat_ne_10
+
+  16839025:
+    template: Qaitu
+    level:    [78, 88]
+    region:   abyssea_konschtat_ne_10
+
+  16839026:
+    template: Qaitu
+    level:    [78, 88]
+    region:   abyssea_konschtat_ne_10
+
+  16839027:
+    template: Qaitu
+    level:    [78, 88]
+    region:   abyssea_konschtat_ne_9
+
+  16839028:
+    template: Qaitu
+    level:    [78, 88]
+    region:   abyssea_konschtat_ne_9
+
+  16839029:
+    template: Qaitu
+    level:    [78, 88]
+    region:   abyssea_konschtat_ne_9
+
+  16839030:
+    template: Qaitu
+    level:    [78, 88]
+    region:   abyssea_konschtat_ne_9
+
+  16839031:
+    template: Qaitu
+    level:    [78, 88]
+    region:   abyssea_konschtat_ne_9
+
+  16839032:
+    template: Ephemeral_Clionid
+    level:    [79, 82]
+    region:   abyssea_konschtat_ne_9
+
+  16839033:
+    template: Fear_Gorta
+    at:       [630.000, 33.000, 409.000, 0]
+    level:    [80, 85]
+
+  16839034:
+    template: Dapifer_Imp
+    level:    [79, 80]
+    region:   abyssea_konschtat_ne_3
+
+  16839035:
+    template: Dapifer_Imp
+    level:    [79, 80]
+    region:   abyssea_konschtat_ne_3
+
+  16839036:
+    template: Dapifer_Imp
+    level:    [79, 80]
+    region:   abyssea_konschtat_ne_3
+
+  16839037:
+    template: Dapifer_Imp
+    level:    [79, 80]
+    region:   abyssea_konschtat_ne_2
+
+  16839038:
+    template: Dapifer_Imp
+    level:    [79, 80]
+    region:   abyssea_konschtat_ne_2
+
+  16839039:
+    template: Dapifer_Imp
+    level:    [79, 80]
+    region:   abyssea_konschtat_ne_2
+
+  16839040:
+    template: Dapifer_Imp
+    level:    [79, 80]
+    region:   abyssea_konschtat_ne_2
+
+  16839041:
+    template: Dapifer_Imp
+    level:    [79, 80]
+    region:   abyssea_konschtat_ne_2
+
+  16839042:
+    template: Dapifer_Imp
+    level:    [79, 80]
+    region:   abyssea_konschtat_ne_2
+
+  16839043:
+    template: Dapifer_Imp
+    level:    [79, 80]
+    region:   abyssea_konschtat_ne_2
+
+  16839044:
+    template: Ephemeral_Limule
+    level:    [74, 75]
+    region:   abyssea_konschtat_ne_2
+
+  16839045:
+    template: Bakka
+    level:    [85, 85]
+    region:   abyssea_konschtat_ne_2
+
+  16839046:
+    template: Tonberry_Bedeviler
+    level:    [81, 82]
+    region:   abyssea_konschtat_ne_5
+
+  16839047:
+    template: Tonberry_Bedeviler
+    level:    [81, 82]
+    region:   abyssea_konschtat_ne_5
+
+  16839048:
+    template: Tonberry_Bedeviler
+    level:    [81, 82]
+    region:   abyssea_konschtat_ne_5
+
+  16839049:
+    template: Tonberry_Bedeviler
+    level:    [81, 82]
+    region:   abyssea_konschtat_ne_7
+
+  16839050:
+    template: Tonberry_Bedeviler
+    level:    [81, 82]
+    region:   abyssea_konschtat_ne_7
+
+  16839051:
+    template: Tonberry_Bedeviler
+    level:    [81, 82]
+    region:   abyssea_konschtat_ne_7
+
+  16839052:
+    template: Tonberry_Bedeviler
+    level:    [81, 82]
+    region:   abyssea_konschtat_ne_7
+
+  16839053:
+    template: Tonberry_Bedeviler
+    level:    [81, 82]
+    region:   abyssea_konschtat_ne_8
+
+  16839054:
+    template: Tonberry_Bedeviler
+    level:    [81, 82]
+    region:   abyssea_konschtat_ne_8
+
+  16839055:
+    template: Tonberry_Bedeviler
+    level:    [81, 82]
+    region:   abyssea_konschtat_ne_8
+
+  16839056:
+    template: Ephemeral_Clionid
+    level:    [74, 75]
+    region:   abyssea_konschtat_ne_5
+
+  16839057:
+    template: Cryptonberry_Occultist
+    at:       [428.506, 34.405, 661.133, 103]
+    level:    [83, 84]
+
+  16839058:
+    template: Cryptonberry_Occultist
+    level:    [83, 84]
+    region:   abyssea_konschtat_ne_6
+
+  16839059:
+    template: Cryptonberry_Occultist
+    level:    [83, 84]
+    region:   abyssea_konschtat_ne_6
+
+  16839060:
+    template: Cryptonberry_Occultist
+    level:    [83, 84]
+    region:   abyssea_konschtat_ne_6
+
+  16839061:
+    template: Cryptonberry_Occultist
+    level:    [83, 84]
+    region:   abyssea_konschtat_ne_6
+
+  16839062:
+    template: Cryptonberry_Occultist
+    level:    [83, 84]
+    region:   abyssea_konschtat_ne_6
+
+  16839063:
+    template: Cryptonberry_Occultist
+    level:    [83, 84]
+    region:   abyssea_konschtat_ne_11
+
+  16839064:
+    template: Cryptonberry_Occultist
+    level:    [83, 84]
+    region:   abyssea_konschtat_ne_11
+
+  16839065:
+    template: Cryptonberry_Occultist
+    level:    [83, 84]
+    region:   abyssea_konschtat_ne_11
+
+  16839066:
+    template: Ephemeral_Limule
+    level:    [79, 83]
+    region:   abyssea_konschtat_ne_6
+
+  16839067:
+    template: Tonberry_Lieje
+    level:    [85, 85]
+    region:   abyssea_konschtat_ne_6
+
+  16839068:
+    template: Bloodeye_Vileberry
+    at:       [539.000, 24.000, 714.000, 0]
+    level:    [90, 90]
+
+  16839069:
+    template: Eccentric_Eve
+    at:       [215.412, 32.241, 280.677, 76]
+    level:    [90, 90]
+
+  16839070:
+    template: Kukulkan
+    at:       [-39.000, 68.000, 574.000, 0]
+    level:    [90, 90]
+
+  16839071:
+    template: Bloodeye_Vileberry
+    at:       [538.000, 24.000, 713.000, 0]
+    level:    [90, 90]
+
+  16839072:
+    template: Eccentric_Eve
+    at:       [245.000, 31.000, 280.000, 0]
+    level:    [90, 90]
+
+  16839073:
+    template: Kukulkan
+    at:       [-25.000, 68.375, 560.000, 82]
+    level:    [90, 90]
+
+  16839074:
+    template: Bloodeye_Vileberry
+    at:       [554.000, 23.000, 698.000, 0]
+    level:    [90, 90]

@@ -1,0 +1,1563 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17580033:
+    template: Pirate_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [20, 22]
+
+  17580034:
+    template: Pirate_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [20, 22]
+
+  17580035:
+    template: Greater_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [25, 27]
+
+  17580036:
+    template: Ooze
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 32]
+
+  17580037:
+    template: Mush
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [35, 37]
+
+  17580038:
+    template: Blind_Moby
+    at:       [211.000, -59.000, -101.000, 127]
+    level:    [25, 26]
+
+  17580039:
+    template: Smothered_Schmidt
+    at:       [202.000, -59.000, -98.000, 127]
+    level:    [36, 38]
+
+  17580040:
+    template: Crushed_Krause
+    at:       [167.000, -39.000, -18.000, 127]
+    level:    [37, 38]
+
+  17580041:
+    template: Pulverized_Pfeffer
+    at:       [-124.000, -59.000, -101.000, 127]
+    level:    [36, 38]
+
+  17580042:
+    template: Burned_Bergmann
+    at:       [128.000, -19.000, 429.000, 127]
+    level:    [36, 38]
+
+  17580043:
+    template: Wounded_Wurfel
+    at:       [41.000, -11.000, 430.000, 127]
+    level:    [36, 38]
+
+  17580044:
+    template: Asphyxiated_Amsel
+    at:       [-85.000, -26.000, 431.000, 127]
+    level:    [36, 38]
+
+  17580045:
+    template: Skeleton_Warrior
+    at:       [15.079, -59.919, -216.982, 131]
+    level:    [15, 17]
+
+  17580046:
+    template: Skeleton_Warrior
+    at:       [20.000, -60.234, -212.000, 68]
+    level:    [15, 17]
+
+  17580047:
+    template: Skeleton_Warrior
+    at:       [19.490, -60.205, -225.113, 78]
+    level:    [15, 17]
+
+  17580048:
+    template: Skeleton_Warrior
+    at:       [13.000, -59.000, -183.000, 18]
+    level:    [15, 17]
+
+  17580049:
+    template: Skeleton_Warrior
+    at:       [18.982, -59.922, -169.474, 127]
+    level:    [15, 17]
+
+  17580050:
+    template: Skeleton_Warrior
+    at:       [19.282, -59.874, -175.445, 127]
+    level:    [15, 17]
+
+  17580051:
+    template: Fly_Agaric
+    at:       [-14.282, -59.900, -177.424, 15]
+    level:    [20, 23]
+
+  17580052:
+    template: Fly_Agaric
+    at:       [-16.713, -59.780, -186.027, 66]
+    level:    [20, 23]
+
+  17580053:
+    template: Fly_Agaric
+    at:       [-28.088, -59.560, -180.088, 127]
+    level:    [20, 23]
+
+  17580054:
+    template: Fly_Agaric
+    at:       [-27.976, -59.560, -180.089, 88]
+    level:    [20, 23]
+
+  17580055:
+    template: Fly_Agaric
+    at:       [62.000, -59.482, -186.000, 127]
+    level:    [20, 23]
+
+  17580056:
+    template: Fly_Agaric
+    at:       [69.590, -59.701, -181.616, 127]
+    level:    [20, 23]
+
+  17580057:
+    template: Fly_Agaric
+    at:       [63.000, -59.672, -176.000, 12]
+    level:    [20, 23]
+
+  17580058:
+    template: Fly_Agaric
+    at:       [56.344, -59.622, -178.876, 127]
+    level:    [20, 23]
+
+  17580059:
+    template: Ghoul
+    level:    [20, 24]
+    region:   gusgen_mines_sw_3
+
+  17580060:
+    template: Ghoul
+    level:    [20, 24]
+    region:   gusgen_mines_sw_3
+
+  17580061:
+    template: Ghoul
+    level:    [20, 24]
+    region:   gusgen_mines_sw_3
+
+  17580062:
+    template: Ghoul
+    level:    [23, 27]
+    region:   gusgen_mines_sw_3
+
+  17580063:
+    template: Bandersnatch
+    level:    [21, 24]
+    region:   gusgen_mines_sw_3
+
+  17580064:
+    template: Bandersnatch
+    level:    [21, 24]
+    region:   gusgen_mines_sw_3
+
+  17580065:
+    template: Bandersnatch
+    level:    [21, 24]
+    region:   gusgen_mines_se_5
+
+  17580066:
+    template: Ore_Eater
+    level:    [23, 26]
+    region:   gusgen_mines_se_5
+
+  17580067:
+    template: Ore_Eater
+    level:    [23, 26]
+    region:   gusgen_mines_se_5
+
+  17580068:
+    template: Ore_Eater
+    level:    [23, 26]
+    region:   gusgen_mines_se_5
+
+  17580069:
+    template: Bandersnatch
+    level:    [22, 24]
+    region:   gusgen_mines_sw
+
+  17580070:
+    template: Ore_Eater
+    level:    [23, 26]
+    region:   gusgen_mines_sw
+
+  17580071:
+    template: Ore_Eater
+    level:    [23, 26]
+    region:   gusgen_mines_sw
+
+  17580072:
+    template: Ore_Eater
+    level:    [23, 26]
+    region:   gusgen_mines_sw
+
+  17580073:
+    template: Ghoul
+    at:       [5.000, -54.000, -92.000, 127]
+    level:    [20, 24]
+
+  17580074:
+    template: Ghoul
+    at:       [15.834, -60.117, -96.727, 67]
+    level:    [20, 24]
+
+  17580075:
+    template: Ghoul
+    at:       [41.000, -54.000, -93.000, 55]
+    level:    [24, 27]
+
+  17580076:
+    template: Ghoul
+    at:       [-56.327, -60.375, -52.251, 55]
+    level:    [20, 24]
+
+  17580077:
+    template: Ghoul
+    level:    [20, 24]
+    region:   gusgen_mines_sw_2
+
+  17580078:
+    template: Ghoul
+    level:    [20, 24]
+    region:   gusgen_mines_sw_2
+
+  17580079:
+    template: Ghoul
+    level:    [24, 27]
+    region:   gusgen_mines_sw_2
+
+  17580080:
+    template: Bandersnatch
+    level:    [21, 24]
+    region:   gusgen_mines_sw_2
+
+  17580081:
+    template: Bandersnatch
+    level:    [21, 24]
+    region:   gusgen_mines_sw_2
+
+  17580082:
+    template: Spunkie
+    level:    [29, 30]
+    region:   gusgen_mines_sw_2
+
+  17580083:
+    template: Spunkie
+    at:       [28.127, -60.100, -15.117, 0]
+    level:    [28, 29]
+
+  17580084:
+    template: Ghoul
+    level:    [20, 24]
+    region:   gusgen_mines_s_2
+
+  17580085:
+    template: Ghoul
+    at:       [46.119, -60.100, -14.976, 87]
+    level:    [20, 24]
+
+  17580086:
+    template: Ghoul
+    level:    [20, 24]
+    region:   gusgen_mines_s_2
+
+  17580087:
+    template: Ghoul
+    at:       [38.126, -60.100, -10.173, 125]
+    level:    [23, 27]
+
+  17580088:
+    template: Ghoul
+    level:    [23, 27]
+    region:   gusgen_mines_s_2
+
+  17580089:
+    template: Bogy
+    at:       [104.604, -59.958, -17.306, 127]
+    level:    [27, 29]
+
+  17580090:
+    template: Bogy
+    level:    [27, 29]
+    region:   gusgen_mines_s_2
+
+  17580091:
+    template: Spunkie
+    level:    [29, 30]
+    region:   gusgen_mines_sw_2
+
+  17580092:
+    template: Ghoul
+    level:    [20, 24]
+    region:   gusgen_mines_se_2
+
+  17580093:
+    template: Ghoul
+    level:    [20, 24]
+    region:   gusgen_mines_se_2
+
+  17580094:
+    template: Ghoul
+    level:    [20, 24]
+    region:   gusgen_mines_se_2
+
+  17580095:
+    template: Ghoul
+    at:       [100.812, -60.376, -157.490, 61]
+    level:    [23, 27]
+
+  17580096:
+    template: Bandersnatch
+    level:    [21, 24]
+    region:   gusgen_mines_se_2
+
+  17580097:
+    template: Bandersnatch
+    level:    [21, 24]
+    region:   gusgen_mines_se_2
+
+  17580098:
+    template: Ghoul
+    at:       [105.125, -59.903, -176.273, 41]
+    level:    [20, 24]
+
+  17580099:
+    template: Ghoul
+    level:    [20, 24]
+    region:   gusgen_mines_se
+
+  17580100:
+    template: Ghoul
+    level:    [20, 24]
+    region:   gusgen_mines_se
+
+  17580101:
+    template: Bandersnatch
+    level:    [22, 24]
+    region:   gusgen_mines_se
+
+  17580102:
+    template: Ghoul
+    at:       [140.000, -59.875, -130.000, 106]
+    level:    [20, 24]
+
+  17580103:
+    template: Ghoul
+    level:    [20, 24]
+    region:   gusgen_mines_se_4
+
+  17580104:
+    template: Bandersnatch
+    level:    [21, 24]
+    region:   gusgen_mines_se_4
+
+  17580105:
+    template: Bandersnatch
+    level:    [21, 24]
+    region:   gusgen_mines_se_4
+
+  17580106:
+    template: Skeleton_Warrior
+    level:    [15, 17]
+    region:   gusgen_mines_s_3
+
+  17580107:
+    template: Skeleton_Warrior
+    level:    [15, 17]
+    region:   gusgen_mines_s_3
+
+  17580108:
+    template: Ghoul
+    at:       [-65.438, -59.875, -102.330, 46]
+    level:    [20, 24]
+
+  17580109:
+    template: Ghoul
+    level:    [20, 24]
+    region:   gusgen_mines_sw_4
+
+  17580110:
+    template: Bandersnatch
+    level:    [21, 24]
+    region:   gusgen_mines_sw_4
+
+  17580111:
+    template: Bandersnatch
+    level:    [21, 24]
+    region:   gusgen_mines_sw_4
+
+  17580112:
+    template: Ghoul
+    level:    [20, 24]
+    region:   gusgen_mines_s_4
+
+  17580113:
+    template: Ghoul
+    level:    [20, 24]
+    region:   gusgen_mines_s_4
+
+  17580114:
+    template: Wendigo
+    level:    [26, 30]
+    region:   gusgen_mines_s
+
+  17580115:
+    template: Sadfly
+    level:    [27, 30]
+    region:   gusgen_mines_s
+
+  17580116:
+    template: Sadfly
+    level:    [27, 30]
+    region:   gusgen_mines_s
+
+  17580117:
+    template: Sadfly
+    level:    [27, 30]
+    region:   gusgen_mines_s
+
+  17580118:
+    template: Jelly
+    level:    [27, 29]
+    region:   gusgen_mines_s
+
+  17580119:
+    template: Wendigo
+    at:       [48.311, -40.080, -55.543, 127]
+    level:    [26, 30]
+
+  17580120:
+    template: Sadfly
+    level:    [27, 30]
+    region:   gusgen_mines_s_5
+
+  17580121:
+    template: Sadfly
+    level:    [27, 30]
+    region:   gusgen_mines_s_5
+
+  17580122:
+    template: Sadfly
+    level:    [27, 30]
+    region:   gusgen_mines_s_5
+
+  17580123:
+    template: Jelly
+    at:       [44.304, -40.007, -39.709, 57]
+    level:    [27, 29]
+
+  17580124:
+    template: Bogy
+    at:       [-3.531, -40.003, -43.794, 183]
+    level:    [27, 29]
+
+  17580125:
+    template: Bogy
+    at:       [18.222, -39.923, 67.602, 127]
+    level:    [27, 29]
+
+  17580126:
+    template: Bogy
+    at:       [18.522, -39.872, 12.086, 127]
+    level:    [27, 29]
+
+  17580127:
+    template: Wendigo
+    level:    [26, 30]
+    region:   gusgen_mines_c_6
+
+  17580128:
+    template: Wendigo
+    level:    [26, 30]
+    region:   gusgen_mines_c_6
+
+  17580129:
+    template: Wendigo
+    level:    [26, 30]
+    region:   gusgen_mines_c_6
+
+  17580130:
+    template: Wight
+    at:       [164.287, -40.007, -23.089, 127]
+    level:    [29, 33]
+
+  17580131:
+    template: Wight
+    level:    [29, 33]
+    region:   gusgen_mines_c_6
+
+  17580132:
+    template: Ore_Eater
+    level:    [23, 26]
+    region:   gusgen_mines_se_3
+
+  17580133:
+    template: Ore_Eater
+    level:    [23, 26]
+    region:   gusgen_mines_se_3
+
+  17580134:
+    template: Ore_Eater
+    level:    [23, 26]
+    region:   gusgen_mines_se_3
+
+  17580135:
+    template: Jelly
+    level:    [27, 29]
+    region:   gusgen_mines_se_3
+
+  17580136:
+    template: Wendigo
+    at:       [16.123, -40.100, 105.745, 185]
+    level:    [26, 30]
+
+  17580137:
+    template: Wendigo
+    at:       [18.865, -40.100, 106.229, 248]
+    level:    [26, 30]
+
+  17580138:
+    template: Wight
+    at:       [19.186, -40.599, 102.541, 57]
+    level:    [29, 33]
+
+  17580139:
+    template: Accursed_Soldier
+    level:    [85, 87]
+    region:   gusgen_mines_e_5
+
+  17580140:
+    template: Accursed_Soldier
+    level:    [85, 87]
+    region:   gusgen_mines_e_5
+
+  17580141:
+    template: Accursed_Sorcerer
+    level:    [85, 87]
+    region:   gusgen_mines_e_5
+
+  17580142:
+    template: Accursed_Sorcerer
+    level:    [85, 87]
+    region:   gusgen_mines_e_5
+
+  17580143:
+    template: Accursed_Soldier
+    level:    [85, 87]
+    region:   gusgen_mines_e_9
+
+  17580144:
+    template: Accursed_Soldier
+    level:    [85, 87]
+    region:   gusgen_mines_e_9
+
+  17580145:
+    template: Accursed_Sorcerer
+    level:    [85, 87]
+    region:   gusgen_mines_e_9
+
+  17580146:
+    template: Accursed_Sorcerer
+    level:    [85, 87]
+    region:   gusgen_mines_e_9
+
+  17580147:
+    template: Accursed_Soldier
+    level:    [85, 87]
+    region:   gusgen_mines_e_8
+
+  17580148:
+    template: Accursed_Soldier
+    level:    [85, 87]
+    region:   gusgen_mines_e_8
+
+  17580149:
+    template: Accursed_Sorcerer
+    level:    [85, 87]
+    region:   gusgen_mines_e_8
+
+  17580150:
+    template: Accursed_Sorcerer
+    level:    [85, 87]
+    region:   gusgen_mines_e_8
+
+  17580151:
+    template: Accursed_Soldier
+    level:    [85, 87]
+    region:   gusgen_mines_e_10
+
+  17580152:
+    template: Accursed_Soldier
+    level:    [85, 87]
+    region:   gusgen_mines_e_10
+
+  17580153:
+    template: Accursed_Sorcerer
+    level:    [85, 87]
+    region:   gusgen_mines_e_10
+
+  17580154:
+    template: Accursed_Sorcerer
+    level:    [85, 87]
+    region:   gusgen_mines_e_10
+
+  17580155:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_e_6
+
+  17580156:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_e_6
+
+  17580157:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_e_6
+
+  17580158:
+    template: Rockmill
+    level:    [85, 86]
+    region:   gusgen_mines_w_5
+
+  17580159:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_e_2
+
+  17580160:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_e_2
+
+  17580161:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_e_2
+
+  17580162:
+    template: Rockmill
+    level:    [85, 86]
+    region:   gusgen_mines_e_2
+
+  17580163:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_e_3
+
+  17580164:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_e_3
+
+  17580165:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_e_3
+
+  17580166:
+    template: Rockmill
+    level:    [85, 86]
+    region:   gusgen_mines_e_3
+
+  17580167:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_e_7
+
+  17580168:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_e_7
+
+  17580169:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_e_7
+
+  17580170:
+    template: Rockmill
+    level:    [85, 86]
+    region:   gusgen_mines_e_7
+
+  17580171:
+    template: Madfly
+    level:    [87, 88]
+    region:   gusgen_mines_e_4
+
+  17580172:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_e_4
+
+  17580173:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_e_4
+
+  17580174:
+    template: Rockmill
+    level:    [85, 86]
+    region:   gusgen_mines_e_4
+
+  17580175:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_c_8
+
+  17580176:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_c_8
+
+  17580177:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_c_8
+
+  17580178:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_c_5
+
+  17580179:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_c_5
+
+  17580180:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_c_5
+
+  17580181:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_w_4
+
+  17580182:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_w_4
+
+  17580183:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_w_4
+
+  17580184:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_w_4
+
+  17580185:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_w_2
+
+  17580186:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_w_2
+
+  17580187:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_w_2
+
+  17580188:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_w_2
+
+  17580189:
+    template: Rockmill
+    level:    [85, 86]
+    region:   gusgen_mines_w_5
+
+  17580190:
+    template: Rockmill
+    level:    [85, 86]
+    region:   gusgen_mines_w_5
+
+  17580191:
+    template: Rockmill
+    level:    [85, 86]
+    region:   gusgen_mines_w_3
+
+  17580192:
+    template: Rockmill
+    level:    [85, 86]
+    region:   gusgen_mines_w_3
+
+  17580193:
+    template: Rockmill
+    level:    [85, 86]
+    region:   gusgen_mines_w_3
+
+  17580194:
+    template: Rockmill
+    level:    [85, 86]
+    region:   gusgen_mines_w_7
+
+  17580195:
+    template: Rockmill
+    level:    [85, 86]
+    region:   gusgen_mines_w_7
+
+  17580196:
+    template: Rockmill
+    level:    [85, 86]
+    region:   gusgen_mines_w_7
+
+  17580197:
+    template: Rockmill
+    level:    [85, 86]
+    region:   gusgen_mines_w_7
+
+  17580198:
+    template: Rockmill
+    level:    [85, 86]
+    region:   gusgen_mines_w_8
+
+  17580199:
+    template: Rockmill
+    level:    [85, 86]
+    region:   gusgen_mines_w_8
+
+  17580200:
+    template: Rockmill
+    level:    [85, 86]
+    region:   gusgen_mines_w_8
+
+  17580201:
+    template: Rockmill
+    level:    [85, 86]
+    region:   gusgen_mines_w_8
+
+  17580202:
+    template: Rockmill
+    level:    [85, 86]
+    region:   gusgen_mines_w_9
+
+  17580203:
+    template: Rockmill
+    level:    [85, 86]
+    region:   gusgen_mines_w_9
+
+  17580204:
+    template: Rockmill
+    level:    [85, 86]
+    region:   gusgen_mines_w_9
+
+  17580205:
+    template: Rockmill
+    level:    [85, 86]
+    region:   gusgen_mines_w_11
+
+  17580206:
+    template: Rockmill
+    level:    [85, 86]
+    region:   gusgen_mines_w_11
+
+  17580207:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_nw_6
+
+  17580208:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_nw_6
+
+  17580209:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_nw_6
+
+  17580210:
+    template: Rockmill
+    level:    [85, 86]
+    region:   gusgen_mines_nw_6
+
+  17580211:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_w_10
+
+  17580212:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_w_10
+
+  17580213:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_w_10
+
+  17580214:
+    template: Rockmill
+    level:    [85, 86]
+    region:   gusgen_mines_w_10
+
+  17580215:
+    template: Madfly
+    level:    [87, 88]
+    region:   gusgen_mines_w_6
+
+  17580216:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_w_6
+
+  17580217:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_w_6
+
+  17580218:
+    template: Rockmill
+    level:    [85, 86]
+    region:   gusgen_mines_w_6
+
+  17580219:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_nw_3
+
+  17580220:
+    template: Madfly
+    level:    [88, 88]
+    region:   gusgen_mines_nw_3
+
+  17580221:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_nw_3
+
+  17580222:
+    template: Rockmill
+    level:    [85, 86]
+    region:   gusgen_mines_nw_3
+
+  17580223:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_nw_5
+
+  17580224:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_nw_5
+
+  17580225:
+    template: Madfly
+    level:    [87, 89]
+    region:   gusgen_mines_nw_5
+
+  17580226:
+    template: Rockmill
+    level:    [85, 86]
+    region:   gusgen_mines_nw_5
+
+  17580227:
+    template: Wendigo
+    at:       [-11.000, -36.000, 90.000, 127]
+    level:    [26, 30]
+
+  17580228:
+    template: Wendigo
+    level:    [26, 30]
+    region:   gusgen_mines_e
+
+  17580229:
+    template: Mauthe_Doog
+    level:    [28, 31]
+    region:   gusgen_mines_e
+
+  17580230:
+    template: Mauthe_Doog
+    level:    [28, 31]
+    region:   gusgen_mines_e
+
+  17580231:
+    template: Wendigo
+    level:    [26, 30]
+    region:   gusgen_mines_c
+
+  17580232:
+    template: Mauthe_Doog
+    at:       [-20.020, -40.375, 3.826, 55]
+    level:    [28, 31]
+
+  17580233:
+    template: Wendigo
+    at:       [-29.757, -40.395, 62.209, 3]
+    level:    [26, 30]
+
+  17580234:
+    template: Mauthe_Doog
+    level:    [28, 31]
+    region:   gusgen_mines_c_2
+
+  17580235:
+    template: Myconid
+    level:    [30, 32]
+    region:   gusgen_mines_w
+
+  17580236:
+    template: Myconid
+    level:    [30, 32]
+    region:   gusgen_mines_w
+
+  17580237:
+    template: Myconid
+    level:    [30, 32]
+    region:   gusgen_mines_w
+
+  17580238:
+    template: Myconid
+    level:    [30, 32]
+    region:   gusgen_mines_w
+
+  17580239:
+    template: Myconid
+    at:       [-128.309, 0.999, 252.445, 111]
+    level:    [30, 32]
+
+  17580240:
+    template: Feu_Follet
+    level:    [35, 38]
+    region:   gusgen_mines_nw_3
+
+  17580241:
+    template: Feu_Follet
+    level:    [35, 38]
+    region:   gusgen_mines_nw_3
+
+  17580242:
+    template: Thunder_Elemental
+    at:       [-126.231, 0.936, 241.004, 93]
+    level:    [33, 36]
+
+  17580243:
+    template: Earth_Elemental
+    level:    [33, 36]
+    region:   gusgen_mines_nw_3
+
+  17580244:
+    template: Myconid
+    level:    [30, 32]
+    region:   gusgen_mines_nw_2
+
+  17580245:
+    template: Myconid
+    level:    [30, 32]
+    region:   gusgen_mines_nw_2
+
+  17580246:
+    template: Thunder_Elemental
+    level:    [33, 36]
+    region:   gusgen_mines_nw
+
+  17580247:
+    template: Earth_Elemental
+    level:    [33, 36]
+    region:   gusgen_mines_nw
+
+  17580248:
+    template: Juggler_Hecatomb
+    at:       [-138.821, 2.603, 337.125, 127]
+    level:    [46, 48]
+
+  17580249:
+    template: Rancid_Ooze
+    at:       [-135.023, 2.282, 344.851, 25]
+    level:    [31, 34]
+
+  17580250:
+    template: Gallinipper
+    at:       [-136.264, 1.118, 366.417, 127]
+    level:    [32, 35]
+
+  17580251:
+    template: Gallinipper
+    level:    [32, 35]
+    region:   gusgen_mines_nw
+
+  17580252:
+    template: Gallinipper
+    level:    [32, 35]
+    region:   gusgen_mines_nw
+
+  17580253:
+    template: Gallinipper
+    level:    [32, 35]
+    region:   gusgen_mines_nw
+
+  17580254:
+    template: Gallinipper
+    level:    [32, 35]
+    region:   gusgen_mines_nw
+
+  17580255:
+    template: Feu_Follet
+    level:    [35, 38]
+    region:   gusgen_mines_nw
+
+  17580256:
+    template: Feu_Follet
+    level:    [35, 38]
+    region:   gusgen_mines_nw
+
+  17580257:
+    template: Gallinipper
+    level:    [32, 35]
+    region:   gusgen_mines_nw
+
+  17580258:
+    template: Gallinipper
+    level:    [32, 35]
+    region:   gusgen_mines_nw
+
+  17580259:
+    template: Gallinipper
+    level:    [32, 35]
+    region:   gusgen_mines_nw
+
+  17580260:
+    template: Gallinipper
+    level:    [32, 35]
+    region:   gusgen_mines_nw
+
+  17580261:
+    template: Gallinipper
+    level:    [32, 35]
+    region:   gusgen_mines_nw
+
+  17580262:
+    template: Feu_Follet
+    level:    [35, 38]
+    region:   gusgen_mines_nw
+
+  17580263:
+    template: Feu_Follet
+    level:    [35, 38]
+    region:   gusgen_mines_nw
+
+  17580264:
+    template: Mauthe_Doog
+    level:    [28, 31]
+    region:   gusgen_mines_c_4
+
+  17580265:
+    template: Amphisbaena
+    level:    [28, 30]
+    region:   gusgen_mines_c_4
+
+  17580266:
+    template: Amphisbaena
+    level:    [28, 30]
+    region:   gusgen_mines_c_4
+
+  17580267:
+    template: Amphisbaena
+    level:    [28, 30]
+    region:   gusgen_mines_c_4
+
+  17580268:
+    template: Amphisbaena
+    level:    [28, 30]
+    region:   gusgen_mines_c_4
+
+  17580269:
+    template: Rancid_Ooze
+    level:    [31, 34]
+    region:   gusgen_mines_c_4
+
+  17580270:
+    template: Mauthe_Doog
+    at:       [27.000, -19.000, 139.000, 12]
+    level:    [28, 31]
+
+  17580271:
+    template: Amphisbaena
+    level:    [28, 30]
+    region:   gusgen_mines_c_7
+
+  17580272:
+    template: Amphisbaena
+    level:    [28, 30]
+    region:   gusgen_mines_c_7
+
+  17580273:
+    template: Amphisbaena
+    level:    [28, 30]
+    region:   gusgen_mines_c_7
+
+  17580274:
+    template: Rancid_Ooze
+    at:       [41.000, -20.500, 121.000, 127]
+    level:    [31, 34]
+
+  17580275:
+    template: Banshee
+    at:       [-6.562, -20.169, 165.154, 127]
+    level:    [31, 34]
+
+  17580276:
+    template: Banshee
+    at:       [19.387, -20.002, 164.075, 127]
+    level:    [31, 34]
+
+  17580277:
+    template: Banshee
+    at:       [43.677, -19.995, 160.065, 127]
+    level:    [31, 34]
+
+  17580278:
+    template: Wight
+    at:       [-62.933, -20.364, 267.300, 127]
+    level:    [31, 34]
+
+  17580279:
+    template: Wight
+    level:    [31, 34]
+    region:   gusgen_mines_nw_10
+
+  17580280:
+    template: Wight
+    level:    [31, 34]
+    region:   gusgen_mines_nw_10
+
+  17580281:
+    template: Ghast
+    level:    [33, 36]
+    region:   gusgen_mines_nw_10
+
+  17580282:
+    template: Mauthe_Doog
+    level:    [28, 31]
+    region:   gusgen_mines_nw_10
+
+  17580283:
+    template: Mauthe_Doog
+    level:    [28, 31]
+    region:   gusgen_mines_nw_10
+
+  17580284:
+    template: Foul_Meat
+    at:       [23.966, -19.575, 303.201, 15]
+    level:    [43, 45]
+
+  17580285:
+    template: Myconid
+    at:       [-57.553, -19.891, 295.650, 1]
+    level:    [30, 32]
+
+  17580286:
+    template: Myconid
+    at:       [-54.845, -19.423, 299.686, 127]
+    level:    [30, 32]
+
+  17580287:
+    template: Myconid
+    at:       [-50.208, -20.267, 305.226, 127]
+    level:    [30, 32]
+
+  17580288:
+    template: Wight
+    level:    [31, 34]
+    region:   gusgen_mines_nw_9
+
+  17580289:
+    template: Wight
+    level:    [31, 34]
+    region:   gusgen_mines_nw_9
+
+  17580290:
+    template: Wight
+    level:    [31, 34]
+    region:   gusgen_mines_nw_9
+
+  17580291:
+    template: Ghast
+    at:       [-67.298, -28.415, 349.174, 220]
+    level:    [33, 36]
+
+  17580292:
+    template: Myconid
+    level:    [31, 32]
+    region:   gusgen_mines_nw_9
+
+  17580293:
+    template: Myconid
+    level:    [30, 32]
+    region:   gusgen_mines_nw_9
+
+  17580294:
+    template: Myconid
+    at:       [-61.751, -28.032, 351.250, 35]
+    level:    [30, 32]
+
+  17580295:
+    template: Wight
+    level:    [31, 34]
+    region:   gusgen_mines_n_2
+
+  17580296:
+    template: Wight
+    at:       [18.667, -19.863, 370.556, 80]
+    level:    [31, 34]
+
+  17580297:
+    template: Ghast
+    at:       [17.872, -21.112, 342.159, 15]
+    level:    [33, 36]
+
+  17580298:
+    template: Gallinipper
+    level:    [32, 35]
+    region:   gusgen_mines_n_2
+
+  17580299:
+    template: Gallinipper
+    level:    [32, 35]
+    region:   gusgen_mines_n_2
+
+  17580300:
+    template: Gallinipper
+    level:    [32, 35]
+    region:   gusgen_mines_n_2
+
+  17580301:
+    template: Wight
+    level:    [31, 34]
+    region:   gusgen_mines_ne_2
+
+  17580302:
+    template: Wight
+    level:    [31, 34]
+    region:   gusgen_mines_ne_2
+
+  17580303:
+    template: Ghast
+    at:       [124.000, -19.000, 377.000, 104]
+    level:    [33, 36]
+
+  17580304:
+    template: Gallinipper
+    level:    [32, 35]
+    region:   gusgen_mines_ne_2
+
+  17580305:
+    template: Gallinipper
+    level:    [32, 35]
+    region:   gusgen_mines_ne_2
+
+  17580306:
+    template: Gallinipper
+    level:    [32, 35]
+    region:   gusgen_mines_ne_2
+
+  17580307:
+    template: Rancid_Ooze
+    at:       [-147.030, -27.782, 335.902, 21]
+    level:    [31, 34]
+
+  17580308:
+    template: Rancid_Ooze
+    at:       [-137.520, -28.069, 347.120, 127]
+    level:    [31, 34]
+
+  17580309:
+    template: Greater_Pugil
+    level:    [29, 31]
+    region:   gusgen_mines_nw_8
+
+  17580310:
+    template: Greater_Pugil
+    level:    [29, 31]
+    region:   gusgen_mines_nw_8
+
+  17580311:
+    template: Greater_Pugil
+    level:    [29, 31]
+    region:   gusgen_mines_nw_8
+
+  17580312:
+    template: Greater_Pugil
+    level:    [29, 31]
+    region:   gusgen_mines_nw_8
+
+  17580313:
+    template: Greater_Pugil
+    level:    [29, 31]
+    region:   gusgen_mines_n_4
+
+  17580314:
+    template: Greater_Pugil
+    level:    [29, 31]
+    region:   gusgen_mines_n_4
+
+  17580315:
+    template: Greater_Pugil
+    level:    [29, 31]
+    region:   gusgen_mines_n_4
+
+  17580316:
+    template: Greater_Pugil
+    level:    [29, 31]
+    region:   gusgen_mines_n_4
+
+  17580317:
+    template: Greater_Pugil
+    level:    [29, 31]
+    region:   gusgen_mines_ne_3
+
+  17580318:
+    template: Greater_Pugil
+    level:    [29, 31]
+    region:   gusgen_mines_ne_3
+
+  17580319:
+    template: Greater_Pugil
+    level:    [29, 31]
+    region:   gusgen_mines_ne_3
+
+  17580320:
+    template: Foul_Meat
+    at:       [141.000, -19.878, 208.000, 9]
+    level:    [43, 45]
+
+  17580321:
+    template: Mauthe_Doog
+    level:    [28, 31]
+    region:   gusgen_mines_n_3
+
+  17580322:
+    template: Mauthe_Doog
+    level:    [28, 31]
+    region:   gusgen_mines_n_3
+
+  17580323:
+    template: Wight
+    level:    [31, 34]
+    region:   gusgen_mines_ne
+
+  17580324:
+    template: Wight
+    level:    [31, 34]
+    region:   gusgen_mines_ne
+
+  17580325:
+    template: Mauthe_Doog
+    level:    [28, 31]
+    region:   gusgen_mines_ne
+
+  17580326:
+    template: Wight
+    level:    [31, 34]
+    region:   gusgen_mines_n_6
+
+  17580327:
+    template: Wight
+    level:    [31, 34]
+    region:   gusgen_mines_n_6
+
+  17580328:
+    template: Ghast
+    level:    [33, 36]
+    region:   gusgen_mines_n_6
+
+  17580329:
+    template: Mauthe_Doog
+    level:    [28, 31]
+    region:   gusgen_mines_n_6
+
+  17580330:
+    template: Banshee
+    level:    [31, 34]
+    region:   gusgen_mines_c_3
+
+  17580331:
+    template: Banshee
+    level:    [31, 34]
+    region:   gusgen_mines_n
+
+  17580332:
+    template: Mauthe_Doog
+    level:    [28, 31]
+    region:   gusgen_mines_nw_7
+
+  17580333:
+    template: Wight
+    level:    [31, 34]
+    region:   gusgen_mines_nw_4
+
+  17580334:
+    template: Wight
+    level:    [31, 34]
+    region:   gusgen_mines_nw_4
+
+  17580335:
+    template: Ghast
+    at:       [-100.749, -27.874, 384.046, 204]
+    level:    [33, 36]
+
+  17580336:
+    template: Banshee
+    level:    [31, 34]
+    region:   gusgen_mines_n_5
+
+  17580337:
+    template: Wandering_Ghost
+    at:       [-168.300, -1.057, 366.674, 13]
+    level:    [45, 45]
+
+  17580338:
+    template: Pudding
+    at:       [21.181, -60.100, -20.081, 63]
+    level:    [34, 34]
+
+  17580339:
+    template: Pudding
+    at:       [21.013, -61.157, -19.505, 63]
+    level:    [34, 34]
+
+  17580340:
+    template: Earth_Elemental
+    at:       [220.001, -41.172, 257.302, 0]
+    level:    [33, 36]
+
+  17580341:
+    template: Aroma_Fly
+    at:       [1.000, 1.000, 1.000, 20]
+    level:    [40, 40]
+
+  17580342:
+    template: Lorbulcrud
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17580343:
+    template: Lorbulcrud
+    at:       [-115.000, -60.452, -100.000, 178]
+    level:    [90, 92]
+
+  17580344:
+    template: Lorbulcrud
+    at:       [160.000, -40.250, -20.000, 121]
+    level:    [90, 92]

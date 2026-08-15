@@ -1,0 +1,2093 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17268737:
+    template: Big_Jaw
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [20, 23]
+
+  17268738:
+    template: Snipper
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [20, 23]
+
+  17268739:
+    template: Greater_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [28, 30]
+
+  17268740:
+    template: Cutter
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [28, 30]
+
+  17268741:
+    template: Kraken
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [38, 40]
+
+  17268742:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_se_3
+
+  17268743:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_se_3
+
+  17268744:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_se_3
+
+  17268745:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_se_3
+
+  17268746:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_se_3
+
+  17268747:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_se_3
+
+  17268748:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   sauromugue_champaign_se_3
+
+  17268749:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_se
+
+  17268750:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_se
+
+  17268751:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_se
+
+  17268752:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_se
+
+  17268753:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_se
+
+  17268754:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_se
+
+  17268755:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   sauromugue_champaign_se
+
+  17268756:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_se_2
+
+  17268757:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_se_2
+
+  17268758:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_se_2
+
+  17268759:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_se_2
+
+  17268760:
+    template: Midnight_Wings
+    level:    [24, 24]
+    region:   sauromugue_champaign_se_2
+
+  17268761:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   sauromugue_champaign_se_2
+
+  17268762:
+    template: Champaign_Coeurl
+    level:    [33, 34]
+    region:   sauromugue_champaign_se_2
+
+  17268763:
+    template: Yagudo_Votary
+    level:    [27, 28]
+    region:   sauromugue_champaign_se_2
+
+  17268764:
+    template: Yagudo_Herald
+    level:    [32, 33]
+    region:   sauromugue_champaign_se_2
+
+  17268765:
+    template: Yagudo_Theologist
+    level:    [27, 28]
+    region:   sauromugue_champaign_se_2
+
+  17268766:
+    template: Yagudo_Drummer
+    level:    [32, 33]
+    region:   sauromugue_champaign_se_2
+
+  17268767:
+    template: Yagudo_Oracle
+    level:    [32, 33]
+    region:   sauromugue_champaign_se_2
+
+  17268768:
+    template: Yagudos_Elemental
+    level:    [23, 28]
+    region:   sauromugue_champaign_se_2
+
+  17268769:
+    template: Yagudo_Priest
+    level:    [27, 28]
+    region:   sauromugue_champaign_se_2
+
+  17268770:
+    template: Yagudo_Interrogator
+    level:    [32, 33]
+    region:   sauromugue_champaign_se_2
+
+  17268771:
+    template: Wight
+    at:       [500.006, 7.342, -234.534, 48]
+    level:    [29, 34]
+
+  17268772:
+    template: Wight
+    at:       [515.358, 15.716, 3.822, 124]
+    level:    [29, 34]
+
+  17268773:
+    template: Ignis_Fatuus
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [34, 36]
+
+  17268774:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_e_5
+
+  17268775:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_e_5
+
+  17268776:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_e_5
+
+  17268777:
+    template: Tabar_Beak
+    level:    [36, 37]
+    region:   sauromugue_champaign_e_5
+
+  17268778:
+    template: Tabar_Beak
+    level:    [36, 37]
+    region:   sauromugue_champaign_e_5
+
+  17268779:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_e_5
+
+  17268780:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_e_5
+
+  17268781:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   sauromugue_champaign_e_5
+
+  17268782:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_e_5
+
+  17268783:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_e_5
+
+  17268784:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_e_5
+
+  17268785:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_e_5
+
+  17268786:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_e_5
+
+  17268787:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   sauromugue_champaign_e_5
+
+  17268788:
+    template: Bashe
+    at:       [537.188, 6.167, -11.067, 127]
+    level:    [54, 55]
+
+  17268789:
+    template: Goblin_Mugger
+    level:    [26, 27]
+    region:   sauromugue_champaign_e_5
+
+  17268790:
+    template: Goblin_Pathfinder
+    at:       [592.680, 23.556, 173.781, 164]
+    level:    [26, 27]
+
+  17268791:
+    template: Goblins_Beetle
+    at:       [593.872, 23.619, 170.829, 167]
+    level:    [23, 27]
+
+  17268792:
+    template: Goblin_Leecher
+    level:    [26, 27]
+    region:   sauromugue_champaign_e_5
+
+  17268793:
+    template: Goblin_Furrier
+    at:       [521.130, 23.538, 196.738, 179]
+    level:    [26, 27]
+
+  17268794:
+    template: Goblin_Gambler
+    level:    [26, 27]
+    region:   sauromugue_champaign_e_5
+
+  17268795:
+    template: Goblin_Smithy
+    level:    [26, 27]
+    region:   sauromugue_champaign_e_5
+
+  17268796:
+    template: Goblin_Shaman
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [26, 27]
+
+  17268797:
+    template: Wight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [26, 28]
+
+  17268798:
+    template: Wight
+    level:    [26, 28]
+    region:   sauromugue_champaign_e_6
+
+  17268799:
+    template: Earth_Elemental
+    level:    [38, 40]
+    region:   sauromugue_champaign_e_5
+
+  17268800:
+    template: Goblin_Pathfinder
+    at:       [535.734, 8.059, -61.829, 39]
+    level:    [31, 32]
+
+  17268801:
+    template: Goblins_Beetle
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [23, 27]
+
+  17268802:
+    template: Goblin_Furrier
+    at:       [533.068, 8.082, -64.292, 96]
+    level:    [31, 32]
+
+  17268803:
+    template: Goblin_Smithy
+    at:       [550.000, 7.000, -93.000, 127]
+    level:    [31, 32]
+
+  17268804:
+    template: Goblin_Shaman
+    at:       [536.934, 7.598, -63.765, 127]
+    level:    [31, 32]
+
+  17268805:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   sauromugue_champaign_se_4
+
+  17268806:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   sauromugue_champaign_se_4
+
+  17268807:
+    template: Sabertooth_Tiger
+    level:    [31, 32]
+    region:   sauromugue_champaign_se_4
+
+  17268808:
+    template: Old_Sabertooth
+    at:       [661.354, -9.812, -332.498, 162]
+    level:    [20, 20]
+
+  17268809:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_e_2
+
+  17268810:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_e_2
+
+  17268811:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_e_2
+
+  17268812:
+    template: Tabar_Beak
+    level:    [36, 37]
+    region:   sauromugue_champaign_e_2
+
+  17268813:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_e_2
+
+  17268814:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_e_2
+
+  17268815:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   sauromugue_champaign_e_2
+
+  17268816:
+    template: Thunderclaw_Thuban
+    level:    [47, 48]
+    region:   sauromugue_champaign_e_2
+
+  17268817:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_e_4
+
+  17268818:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_e_4
+
+  17268819:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_e_4
+
+  17268820:
+    template: Tabar_Beak
+    level:    [36, 37]
+    region:   sauromugue_champaign_e_4
+
+  17268821:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_e_4
+
+  17268822:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_e_4
+
+  17268823:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   sauromugue_champaign_e_4
+
+  17268824:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_e_2
+
+  17268825:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_e_2
+
+  17268826:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_e_2
+
+  17268827:
+    template: Tabar_Beak
+    level:    [36, 37]
+    region:   sauromugue_champaign_e_2
+
+  17268828:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_e_2
+
+  17268829:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_e_2
+
+  17268830:
+    template: Moon_Bat
+    level:    [24, 25]
+    region:   sauromugue_champaign_e_2
+
+  17268831:
+    template: Champaign_Coeurl
+    level:    [33, 34]
+    region:   sauromugue_champaign_e_2
+
+  17268832:
+    template: Yagudo_Votary
+    level:    [27, 28]
+    region:   sauromugue_champaign_e_2
+
+  17268833:
+    template: Yagudo_Herald
+    level:    [32, 32]
+    region:   sauromugue_champaign_e_2
+
+  17268834:
+    template: Yagudo_Theologist
+    level:    [27, 28]
+    region:   sauromugue_champaign_e_2
+
+  17268835:
+    template: Yagudo_Drummer
+    level:    [32, 33]
+    region:   sauromugue_champaign_e_2
+
+  17268836:
+    template: Yagudo_Oracle
+    level:    [32, 33]
+    region:   sauromugue_champaign_e_2
+
+  17268837:
+    template: Yagudos_Elemental
+    level:    [23, 28]
+    region:   sauromugue_champaign_e_2
+
+  17268838:
+    template: Yagudo_Priest
+    level:    [27, 28]
+    region:   sauromugue_champaign_e_2
+
+  17268839:
+    template: Yagudo_Interrogator
+    level:    [32, 33]
+    region:   sauromugue_champaign_e_2
+
+  17268840:
+    template: Wight
+    at:       [367.492, 24.166, -28.067, 173]
+    level:    [29, 34]
+
+  17268841:
+    template: Wight
+    level:    [29, 34]
+    region:   sauromugue_champaign_e_3
+
+  17268842:
+    template: Ignis_Fatuus
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [34, 36]
+
+  17268843:
+    template: Yagudo_Herald
+    at:       [373.645, 36.582, 265.008, 127]
+    level:    [32, 33]
+
+  17268844:
+    template: Yagudo_Drummer
+    at:       [373.360, 36.618, 265.653, 109]
+    level:    [32, 33]
+
+  17268845:
+    template: Yagudo_Oracle
+    at:       [375.798, 36.362, 262.648, 127]
+    level:    [33, 33]
+
+  17268846:
+    template: Yagudos_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [23, 28]
+
+  17268847:
+    template: Yagudo_Interrogator
+    at:       [376.901, 36.714, 266.367, 31]
+    level:    [32, 33]
+
+  17268848:
+    template: Champaign_Coeurl
+    level:    [33, 34]
+    region:   sauromugue_champaign_ne
+
+  17268849:
+    template: Tabar_Beak
+    level:    [36, 37]
+    region:   sauromugue_champaign_ne
+
+  17268850:
+    template: Tabar_Beak
+    level:    [36, 37]
+    region:   sauromugue_champaign_ne
+
+  17268851:
+    template: Deadly_Dodo
+    level:    [39, 40]
+    region:   sauromugue_champaign_ne
+
+  17268852:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_ne
+
+  17268853:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_ne
+
+  17268854:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_ne
+
+  17268855:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   sauromugue_champaign_ne
+
+  17268856:
+    template: Goblin_Mugger
+    level:    [26, 27]
+    region:   sauromugue_champaign_ne
+
+  17268857:
+    template: Goblin_Pathfinder
+    level:    [31, 32]
+    region:   sauromugue_champaign_ne
+
+  17268858:
+    template: Goblins_Beetle
+    level:    [23, 27]
+    region:   sauromugue_champaign_ne
+
+  17268859:
+    template: Goblin_Leecher
+    level:    [26, 27]
+    region:   sauromugue_champaign_ne
+
+  17268860:
+    template: Goblin_Furrier
+    level:    [31, 32]
+    region:   sauromugue_champaign_ne
+
+  17268861:
+    template: Goblin_Gambler
+    level:    [26, 27]
+    region:   sauromugue_champaign_ne
+
+  17268862:
+    template: Goblin_Smithy
+    level:    [31, 32]
+    region:   sauromugue_champaign_ne
+
+  17268863:
+    template: Goblin_Shaman
+    level:    [31, 32]
+    region:   sauromugue_champaign_ne
+
+  17268864:
+    template: Wight
+    level:    [28, 33]
+    region:   sauromugue_champaign_ne_2
+
+  17268865:
+    template: Wight
+    level:    [28, 33]
+    region:   sauromugue_champaign_n_4
+
+  17268866:
+    template: Thunder_Elemental
+    level:    [38, 40]
+    region:   sauromugue_champaign_ne
+
+  17268867:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_c_3
+
+  17268868:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_c_3
+
+  17268869:
+    template: Diving_Beetle
+    level:    [27, 28]
+    region:   sauromugue_champaign_c_3
+
+  17268870:
+    template: Diving_Beetle
+    level:    [27, 28]
+    region:   sauromugue_champaign_c_3
+
+  17268871:
+    template: Diving_Beetle
+    level:    [27, 28]
+    region:   sauromugue_champaign_c_3
+
+  17268872:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_c_3
+
+  17268873:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_c_3
+
+  17268874:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_c_3
+
+  17268875:
+    template: Moon_Bat
+    level:    [24, 25]
+    region:   sauromugue_champaign_c_3
+
+  17268876:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_c_3
+
+  17268877:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_c_3
+
+  17268878:
+    template: Diving_Beetle
+    level:    [27, 28]
+    region:   sauromugue_champaign_c_3
+
+  17268879:
+    template: Diving_Beetle
+    level:    [27, 28]
+    region:   sauromugue_champaign_c_3
+
+  17268880:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_c_3
+
+  17268881:
+    template: Midnight_Wings
+    level:    [24, 24]
+    region:   sauromugue_champaign_c_3
+
+  17268882:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   sauromugue_champaign_c_3
+
+  17268883:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_c_3
+
+  17268884:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_c_3
+
+  17268885:
+    template: Diving_Beetle
+    level:    [27, 28]
+    region:   sauromugue_champaign_c_3
+
+  17268886:
+    template: Diving_Beetle
+    level:    [27, 28]
+    region:   sauromugue_champaign_c_3
+
+  17268887:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_c_3
+
+  17268888:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_c_3
+
+  17268889:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   sauromugue_champaign_c_3
+
+  17268890:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_c_3
+
+  17268891:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_c_3
+
+  17268892:
+    template: Diving_Beetle
+    level:    [27, 28]
+    region:   sauromugue_champaign_c_3
+
+  17268893:
+    template: Diving_Beetle
+    level:    [27, 28]
+    region:   sauromugue_champaign_c_3
+
+  17268894:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_c_3
+
+  17268895:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_c_3
+
+  17268896:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   sauromugue_champaign_c_3
+
+  17268897:
+    template: Champaign_Coeurl
+    level:    [33, 34]
+    region:   sauromugue_champaign_c_3
+
+  17268898:
+    template: Goblin_Mugger
+    level:    [26, 27]
+    region:   sauromugue_champaign_c_3
+
+  17268899:
+    template: Goblin_Pathfinder
+    level:    [31, 32]
+    region:   sauromugue_champaign_c_3
+
+  17268900:
+    template: Goblins_Beetle
+    level:    [23, 27]
+    region:   sauromugue_champaign_c_3
+
+  17268901:
+    template: Goblin_Leecher
+    level:    [26, 27]
+    region:   sauromugue_champaign_c_3
+
+  17268902:
+    template: Goblin_Furrier
+    level:    [31, 32]
+    region:   sauromugue_champaign_c_3
+
+  17268903:
+    template: Goblin_Gambler
+    level:    [26, 27]
+    region:   sauromugue_champaign_c_3
+
+  17268904:
+    template: Goblin_Smithy
+    level:    [31, 32]
+    region:   sauromugue_champaign_c_3
+
+  17268905:
+    template: Goblin_Shaman
+    level:    [31, 32]
+    region:   sauromugue_champaign_c_3
+
+  17268906:
+    template: Wight
+    at:       [217.657, 10.535, -155.797, 127]
+    level:    [28, 33]
+
+  17268907:
+    template: Wight
+    at:       [323.835, 23.633, 125.851, 93]
+    level:    [28, 33]
+
+  17268908:
+    template: Earth_Elemental
+    level:    [38, 40]
+    region:   sauromugue_champaign_c_3
+
+  17268909:
+    template: Goblin_Mugger
+    at:       [298.168, 16.023, -96.778, 127]
+    level:    [26, 27]
+
+  17268910:
+    template: Goblin_Pathfinder
+    at:       [302.279, 16.032, -95.777, 127]
+    level:    [31, 32]
+
+  17268911:
+    template: Goblins_Beetle
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [26, 27]
+
+  17268912:
+    template: Goblin_Gambler
+    at:       [296.545, 15.970, -95.483, 127]
+    level:    [26, 27]
+
+  17268913:
+    template: Goblin_Smithy
+    at:       [299.212, 16.065, -98.340, 100]
+    level:    [31, 32]
+
+  17268914:
+    template: Evil_Weapon
+    level:    [37, 38]
+    region:   sauromugue_champaign_s_3
+
+  17268915:
+    template: Evil_Weapon
+    level:    [37, 38]
+    region:   sauromugue_champaign_s_3
+
+  17268916:
+    template: Evil_Weapon
+    level:    [37, 38]
+    region:   sauromugue_champaign_s_3
+
+  17268917:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_n_2
+
+  17268918:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_n_2
+
+  17268919:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_n_2
+
+  17268920:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_n_2
+
+  17268921:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_n_2
+
+  17268922:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   sauromugue_champaign_n_2
+
+  17268923:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_n_2
+
+  17268924:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_n_2
+
+  17268925:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_n_2
+
+  17268926:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_n_2
+
+  17268927:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_n_2
+
+  17268928:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   sauromugue_champaign_n_2
+
+  17268929:
+    template: Champaign_Coeurl
+    level:    [33, 34]
+    region:   sauromugue_champaign_n_2
+
+  17268930:
+    template: Yagudo_Votary
+    level:    [27, 28]
+    region:   sauromugue_champaign_n_2
+
+  17268931:
+    template: Yagudo_Herald
+    level:    [32, 33]
+    region:   sauromugue_champaign_n_2
+
+  17268932:
+    template: Yagudo_Theologist
+    level:    [27, 28]
+    region:   sauromugue_champaign_n_2
+
+  17268933:
+    template: Yagudo_Drummer
+    level:    [32, 33]
+    region:   sauromugue_champaign_n_2
+
+  17268934:
+    template: Yagudo_Oracle
+    level:    [32, 33]
+    region:   sauromugue_champaign_n_2
+
+  17268935:
+    template: Yagudos_Elemental
+    level:    [23, 28]
+    region:   sauromugue_champaign_n_2
+
+  17268936:
+    template: Yagudo_Priest
+    level:    [27, 28]
+    region:   sauromugue_champaign_n_2
+
+  17268937:
+    template: Yagudo_Interrogator
+    level:    [32, 33]
+    region:   sauromugue_champaign_n_2
+
+  17268938:
+    template: Wight
+    level:    [28, 34]
+    region:   sauromugue_champaign_n_3
+
+  17268939:
+    template: Wight
+    at:       [242.722, 31.516, 244.249, 127]
+    level:    [28, 34]
+
+  17268940:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_c_4
+
+  17268941:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_c_4
+
+  17268942:
+    template: Diving_Beetle
+    level:    [27, 28]
+    region:   sauromugue_champaign_c_4
+
+  17268943:
+    template: Diving_Beetle
+    level:    [27, 28]
+    region:   sauromugue_champaign_c_4
+
+  17268944:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_c_4
+
+  17268945:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_c_4
+
+  17268946:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   sauromugue_champaign_c_4
+
+  17268947:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_n
+
+  17268948:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_n
+
+  17268949:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_n
+
+  17268950:
+    template: Tabar_Beak
+    level:    [36, 37]
+    region:   sauromugue_champaign_n
+
+  17268951:
+    template: Tabar_Beak
+    level:    [36, 37]
+    region:   sauromugue_champaign_n
+
+  17268952:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_n
+
+  17268953:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_n
+
+  17268954:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   sauromugue_champaign_n
+
+  17268955:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_c_2
+
+  17268956:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_c_2
+
+  17268957:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_c_2
+
+  17268958:
+    template: Tabar_Beak
+    level:    [36, 37]
+    region:   sauromugue_champaign_c_2
+
+  17268959:
+    template: Tabar_Beak
+    level:    [36, 37]
+    region:   sauromugue_champaign_c_2
+
+  17268960:
+    template: Midnight_Wings
+    level:    [24, 24]
+    region:   sauromugue_champaign_c_2
+
+  17268961:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_c_2
+
+  17268962:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   sauromugue_champaign_c_2
+
+  17268963:
+    template: Yagudo_Votary
+    level:    [27, 28]
+    region:   sauromugue_champaign_c_2
+
+  17268964:
+    template: Yagudo_Herald
+    level:    [32, 33]
+    region:   sauromugue_champaign_c_2
+
+  17268965:
+    template: Yagudo_Theologist
+    level:    [27, 28]
+    region:   sauromugue_champaign_c_2
+
+  17268966:
+    template: Yagudo_Drummer
+    level:    [32, 33]
+    region:   sauromugue_champaign_c_2
+
+  17268967:
+    template: Yagudo_Oracle
+    level:    [32, 33]
+    region:   sauromugue_champaign_c_2
+
+  17268968:
+    template: Yagudos_Elemental
+    level:    [23, 28]
+    region:   sauromugue_champaign_c_2
+
+  17268969:
+    template: Yagudo_Priest
+    level:    [27, 28]
+    region:   sauromugue_champaign_c_2
+
+  17268970:
+    template: Yagudo_Interrogator
+    level:    [32, 33]
+    region:   sauromugue_champaign_c_2
+
+  17268971:
+    template: Wight
+    level:    [28, 34]
+    region:   sauromugue_champaign_w_3
+
+  17268972:
+    template: Wight
+    level:    [28, 34]
+    region:   sauromugue_champaign_c_5
+
+  17268973:
+    template: Ignis_Fatuus
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [34, 36]
+
+  17268974:
+    template: Yagudo_Theologist
+    at:       [-62.696, 23.951, 178.630, 86]
+    level:    [27, 28]
+
+  17268975:
+    template: Yagudo_Oracle
+    at:       [-85.210, 24.178, 184.528, 126]
+    level:    [32, 33]
+
+  17268976:
+    template: Yagudos_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [23, 28]
+
+  17268977:
+    template: Yagudo_Priest
+    at:       [-59.000, 23.000, 183.000, 127]
+    level:    [27, 28]
+
+  17268978:
+    template: Yagudo_Interrogator
+    at:       [-65.633, 23.781, 180.680, 127]
+    level:    [32, 33]
+
+  17268979:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_nw
+
+  17268980:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_nw
+
+  17268981:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_nw
+
+  17268982:
+    template: Tabar_Beak
+    level:    [36, 37]
+    region:   sauromugue_champaign_nw
+
+  17268983:
+    template: Tabar_Beak
+    level:    [36, 37]
+    region:   sauromugue_champaign_nw
+
+  17268984:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_nw
+
+  17268985:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_nw
+
+  17268986:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_nw
+
+  17268987:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   sauromugue_champaign_nw
+
+  17268988:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_nw_2
+
+  17268989:
+    template: Diving_Beetle
+    level:    [27, 28]
+    region:   sauromugue_champaign_nw_2
+
+  17268990:
+    template: Diving_Beetle
+    level:    [27, 28]
+    region:   sauromugue_champaign_nw_2
+
+  17268991:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_nw_2
+
+  17268992:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_nw_2
+
+  17268993:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   sauromugue_champaign_nw_2
+
+  17268994:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_nw
+
+  17268995:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_nw
+
+  17268996:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_nw
+
+  17268997:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_nw
+
+  17268998:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   sauromugue_champaign_nw
+
+  17268999:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   sauromugue_champaign_nw
+
+  17269000:
+    template: Goblin_Mugger
+    level:    [26, 27]
+    region:   sauromugue_champaign_nw
+
+  17269001:
+    template: Goblin_Pathfinder
+    level:    [31, 32]
+    region:   sauromugue_champaign_nw
+
+  17269002:
+    template: Goblins_Beetle
+    level:    [26, 27]
+    region:   sauromugue_champaign_nw
+
+  17269003:
+    template: Goblin_Leecher
+    level:    [26, 27]
+    region:   sauromugue_champaign_nw
+
+  17269004:
+    template: Goblin_Furrier
+    level:    [31, 32]
+    region:   sauromugue_champaign_nw
+
+  17269005:
+    template: Goblin_Gambler
+    level:    [26, 27]
+    region:   sauromugue_champaign_nw
+
+  17269006:
+    template: Goblin_Smithy
+    level:    [31, 32]
+    region:   sauromugue_champaign_nw
+
+  17269007:
+    template: Goblin_Shaman
+    level:    [31, 32]
+    region:   sauromugue_champaign_nw
+
+  17269008:
+    template: Earth_Elemental
+    level:    [38, 40]
+    region:   sauromugue_champaign_nw
+
+  17269009:
+    template: Evil_Weapon
+    at:       [-192.000, 8.000, 177.000, 78]
+    level:    [37, 38]
+
+  17269010:
+    template: Evil_Weapon
+    level:    [37, 38]
+    region:   sauromugue_champaign_w_4
+
+  17269011:
+    template: Evil_Weapon
+    level:    [37, 38]
+    region:   sauromugue_champaign_w_2
+
+  17269012:
+    template: Evil_Weapon
+    level:    [37, 38]
+    region:   sauromugue_champaign_w_2
+
+  17269013:
+    template: Evil_Weapon
+    level:    [37, 38]
+    region:   sauromugue_champaign_w_2
+
+  17269014:
+    template: Evil_Weapon
+    level:    [37, 38]
+    region:   sauromugue_champaign_w_2
+
+  17269015:
+    template: Evil_Weapon
+    level:    [37, 38]
+    region:   sauromugue_champaign_w_2
+
+  17269016:
+    template: Blighting_Brand
+    level:    [54, 55]
+    region:   sauromugue_champaign_w_2
+
+  17269017:
+    template: Diving_Beetle
+    level:    [27, 28]
+    region:   sauromugue_champaign_w
+
+  17269018:
+    template: Diving_Beetle
+    level:    [27, 28]
+    region:   sauromugue_champaign_w
+
+  17269019:
+    template: Diving_Beetle
+    level:    [27, 28]
+    region:   sauromugue_champaign_w
+
+  17269020:
+    template: Diving_Beetle
+    level:    [27, 28]
+    region:   sauromugue_champaign_w
+
+  17269021:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_s_2
+
+  17269022:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_s_2
+
+  17269023:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_s_2
+
+  17269024:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_s_2
+
+  17269025:
+    template: Midnight_Wings
+    level:    [24, 24]
+    region:   sauromugue_champaign_s_2
+
+  17269026:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   sauromugue_champaign_s_2
+
+  17269027:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_s
+
+  17269028:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_s
+
+  17269029:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_s
+
+  17269030:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_s
+
+  17269031:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_s
+
+  17269032:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_s
+
+  17269033:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_s
+
+  17269034:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   sauromugue_champaign_s
+
+  17269035:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_s
+
+  17269036:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_s
+
+  17269037:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_s
+
+  17269038:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_s
+
+  17269039:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_s
+
+  17269040:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_s
+
+  17269041:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_s
+
+  17269042:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   sauromugue_champaign_s
+
+  17269043:
+    template: Goblin_Mugger
+    level:    [26, 27]
+    region:   sauromugue_champaign_s
+
+  17269044:
+    template: Goblin_Pathfinder
+    level:    [31, 32]
+    region:   sauromugue_champaign_s
+
+  17269045:
+    template: Goblins_Beetle
+    level:    [23, 27]
+    region:   sauromugue_champaign_s
+
+  17269046:
+    template: Goblin_Leecher
+    level:    [26, 27]
+    region:   sauromugue_champaign_s
+
+  17269047:
+    template: Goblin_Furrier
+    at:       [-104.000, -23.000, -361.000, 25]
+    level:    [31, 32]
+
+  17269048:
+    template: Goblin_Gambler
+    level:    [26, 27]
+    region:   sauromugue_champaign_s
+
+  17269049:
+    template: Goblin_Smithy
+    level:    [31, 32]
+    region:   sauromugue_champaign_s
+
+  17269050:
+    template: Goblin_Shaman
+    level:    [31, 32]
+    region:   sauromugue_champaign_s
+
+  17269051:
+    template: Wight
+    at:       [-45.273, -5.414, -184.721, 97]
+    level:    [27, 33]
+
+  17269052:
+    template: Wight
+    at:       [-26.105, -2.011, -172.822, 127]
+    level:    [27, 33]
+
+  17269053:
+    template: Thunder_Elemental
+    level:    [38, 40]
+    region:   sauromugue_champaign_s
+
+  17269054:
+    template: Goblin_Pathfinder
+    at:       [-65.000, -23.000, -337.000, 56]
+    level:    [31, 32]
+
+  17269055:
+    template: Goblins_Beetle
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [23, 27]
+
+  17269056:
+    template: Goblin_Furrier
+    at:       [-100.000, -23.000, -374.000, 89]
+    level:    [31, 32]
+
+  17269057:
+    template: Goblin_Smithy
+    at:       [-60.389, -24.113, -340.051, 127]
+    level:    [31, 32]
+
+  17269058:
+    template: Goblin_Shaman
+    at:       [-60.608, -24.269, -336.429, 127]
+    level:    [31, 32]
+
+  17269059:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_s_4
+
+  17269060:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_s_4
+
+  17269061:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_s_4
+
+  17269062:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_s_4
+
+  17269063:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_s_4
+
+  17269064:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_s_4
+
+  17269065:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_s_4
+
+  17269066:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   sauromugue_champaign_s_4
+
+  17269067:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_s_4
+
+  17269068:
+    template: Sauromugue_Skink
+    level:    [31, 32]
+    region:   sauromugue_champaign_s_4
+
+  17269069:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_s_4
+
+  17269070:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_s_4
+
+  17269071:
+    template: Hill_Lizard
+    level:    [25, 26]
+    region:   sauromugue_champaign_s_4
+
+  17269072:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_s_4
+
+  17269073:
+    template: Midnight_Wings
+    level:    [23, 24]
+    region:   sauromugue_champaign_s_4
+
+  17269074:
+    template: Moon_Bat
+    level:    [25, 26]
+    region:   sauromugue_champaign_s_4
+
+  17269075:
+    template: Goblin_Mugger
+    level:    [26, 27]
+    region:   sauromugue_champaign_s_4
+
+  17269076:
+    template: Goblin_Pathfinder
+    level:    [31, 32]
+    region:   sauromugue_champaign_s_4
+
+  17269077:
+    template: Goblins_Beetle
+    level:    [26, 27]
+    region:   sauromugue_champaign_s_4
+
+  17269078:
+    template: Goblin_Leecher
+    level:    [26, 27]
+    region:   sauromugue_champaign_s_4
+
+  17269079:
+    template: Goblin_Furrier
+    level:    [31, 32]
+    region:   sauromugue_champaign_s_4
+
+  17269080:
+    template: Goblin_Gambler
+    level:    [26, 27]
+    region:   sauromugue_champaign_s_4
+
+  17269081:
+    template: Goblin_Smithy
+    level:    [31, 32]
+    region:   sauromugue_champaign_s_4
+
+  17269082:
+    template: Goblin_Shaman
+    level:    [31, 32]
+    region:   sauromugue_champaign_s_4
+
+  17269083:
+    template: Wight
+    at:       [152.402, -0.844, -237.971, 35]
+    level:    [27, 33]
+
+  17269084:
+    template: Wight
+    at:       [198.559, -0.500, -241.012, 68]
+    level:    [27, 33]
+
+  17269085:
+    template: Thunder_Elemental
+    level:    [38, 40]
+    region:   sauromugue_champaign_s_4
+
+  17269086:
+    template: Evil_Spirit
+    at:       [494.116, 8.056, -188.336, 108]
+    level:    [35, 36]
+
+  17269087:
+    template: Evil_Spirit
+    at:       [581.916, 8.402, -9.893, 4]
+    level:    [35, 36]
+
+  17269088:
+    template: Evil_Spirit
+    at:       [492.169, 24.291, 76.011, 127]
+    level:    [35, 36]
+
+  17269089:
+    template: Evil_Spirit
+    at:       [498.400, 17.975, 141.221, 107]
+    level:    [35, 36]
+
+  17269090:
+    template: Evil_Spirit
+    at:       [494.020, 24.030, 189.699, 53]
+    level:    [35, 36]
+
+  17269091:
+    template: Evil_Spirit
+    at:       [374.740, 32.024, 152.435, 36]
+    level:    [35, 36]
+
+  17269092:
+    template: Evil_Spirit
+    at:       [327.460, 10.613, -112.227, 127]
+    level:    [35, 36]
+
+  17269093:
+    template: Evil_Spirit
+    at:       [373.773, 16.437, -196.929, 10]
+    level:    [35, 36]
+
+  17269094:
+    template: Evil_Spirit
+    at:       [145.819, 24.294, 183.554, 121]
+    level:    [35, 36]
+
+  17269095:
+    template: Evil_Spirit
+    at:       [-78.832, 1.204, 48.468, 127]
+    level:    [35, 36]
+
+  17269096:
+    template: Evil_Spirit
+    at:       [-136.467, 15.156, 220.232, 126]
+    level:    [35, 36]
+
+  17269097:
+    template: Evil_Spirit
+    at:       [-120.432, 9.868, 170.654, 127]
+    level:    [35, 36]
+
+  17269098:
+    template: Evil_Spirit
+    at:       [2.998, -14.381, -203.639, 127]
+    level:    [35, 36]
+
+  17269099:
+    template: Evil_Spirit
+    at:       [47.428, -7.902, -275.740, 127]
+    level:    [35, 36]
+
+  17269100:
+    template: Evil_Spirit
+    at:       [-11.558, -23.906, -332.570, 35]
+    level:    [35, 36]
+
+  17269101:
+    template: Evil_Spirit
+    at:       [170.665, 0.072, -216.500, 108]
+    level:    [35, 36]
+
+  17269102:
+    template: Evil_Spirit
+    at:       [230.089, -0.947, -287.665, 127]
+    level:    [35, 36]
+
+  17269103:
+    template: Evil_Spirit
+    at:       [292.167, 8.070, -208.530, 79]
+    level:    [35, 36]
+
+  17269104:
+    template: Evil_Spirit
+    at:       [339.736, 0.111, -294.982, 59]
+    level:    [35, 36]
+
+  17269105:
+    template: Goblin_Digger
+    level:    [29, 30]
+    region:   sauromugue_champaign_e
+
+  17269106:
+    template: Roc
+    level:    [55, 55]
+    region:   sauromugue_champaign_s_5
+
+  17269107:
+    template: Climbpix_Highrise
+    at:       [481.000, 23.461, 122.486, 0]
+    level:    [55, 55]
+
+  17269108:
+    template: Sprite
+    level:    [61, 63]
+    region:   sauromugue_champaign_c
+
+  17269109:
+    template: Sprite
+    level:    [61, 63]
+    region:   sauromugue_champaign_c
+
+  17269110:
+    template: Sprite
+    level:    [61, 63]
+    region:   sauromugue_champaign_c
+
+  17269111:
+    template: Sprite
+    level:    [61, 63]
+    region:   sauromugue_champaign_c
+
+  17269112:
+    template: Sprite
+    level:    [61, 63]
+    region:   sauromugue_champaign_c
+
+  17269113:
+    template: Balam-Agab
+    at:       [120.000, 15.500, 120.000, 95]
+    level:    [30, 36]
+
+  17269114:
+    template: Dribblix_Greasemaw
+    at:       [203.939, 0.000, -238.811, 0]
+    level:    [30, 36]
+
+  17269115:
+    template: Yilbegan
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [90, 92]
+
+  17269116:
+    template: Verthandi
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [85, 85]
+
+  17269117:
+    template: Urd
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [82, 82]
+
+  17269118:
+    template: Skuld
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [82, 82]
+
+  17269119:
+    template: Aither
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17269120:
+    template: Deorc
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17269121:
+    template: Eorthe
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17269122:
+    template: Puretos
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17269123:
+    template: Pruina
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17269124:
+    template: Beorht
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17269125:
+    template: Thunor
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17269126:
+    template: Lacus
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17269127:
+    template: Goji
+    at:       [-245.000, 7.425, 245.000, 103]
+    level:    [92, 94]
+
+  17269128:
+    template: Goji
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [92, 94]
+
+  17269129:
+    template: Goji
+    at:       [490.825, 7.841, -281.568, 157]
+    level:    [92, 94]
+
+  17269130:
+    template: Arke
+    at:       [241.539, 15.500, -117.949, 161]
+    level:    [0, 0]
+
+  17269131:
+    template: Arke
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17269132:
+    template: Arke
+    at:       [597.349, 23.500, 199.000, 215]
+    level:    [0, 0]
+
+  17269142:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17269143:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17269144:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17269154:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17269155:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17269156:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17269166:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17269167:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17269168:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17269169:
+    template: Tatenashi_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17269170:
+    template: Hizamaru_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17269171:
+    template: Ubuginu_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17269172:
+    template: Hachiryu_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17269173:
+    template: Omodaka_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17269174:
+    template: Goblin_Bounty_Hunter
+    at:       [374.238, 39.410, 446.799, 36]
+    level:    [30, 34]
+
+  17269175:
+    template: Goblin_Bounty_Hunter
+    at:       [322.368, 39.240, 406.795, 226]
+    level:    [30, 34]
+
+  17269176:
+    template: Goblin_Bounty_Hunter
+    at:       [306.908, 42.103, 412.325, 30]
+    level:    [30, 34]
+
+  17269177:
+    template: Goblin_Bounty_Hunter
+    at:       [254.067, 38.460, 428.696, 230]
+    level:    [30, 34]
+
+  17269178:
+    template: Goblin_Bounty_Hunter
+    at:       [241.937, 39.829, 451.606, 255]
+    level:    [30, 34]
+
+  17269179:
+    template: Macro_Test
+    at:       [-462.000, 0.400, 319.119, 156]
+    level:    [1, 1]
+
+  17269180:
+    template: Macro_Test
+    at:       [-459.399, 0.469, 322.200, 156]
+    level:    [1, 1]
+
+  17269181:
+    template: Macro_Test
+    at:       [-456.450, 0.249, 325.459, 156]
+    level:    [1, 1]

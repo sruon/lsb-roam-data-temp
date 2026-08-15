@@ -1,0 +1,2473 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17272833:
+    template: Greater_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [26, 27]
+
+  17272834:
+    template: Clipper
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [25, 28]
+
+  17272835:
+    template: Greater_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [29, 31]
+
+  17272836:
+    template: Bigclaw
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [38, 39]
+
+  17272837:
+    template: Apsaras
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [26, 31]
+
+  17272838:
+    template: Guardian_Treant
+    at:       [642.317, -4.877, -149.643, 114]
+    level:    [20, 20]
+
+  17272839:
+    template: Doomed_Pilgrims
+    at:       [231.000, 0.100, 284.000, 15]
+    level:    [68, 68]
+
+  17272840:
+    template: Goblin_Mugger
+    level:    [25, 29]
+    region:   the_sanctuary_of_zitah_sw
+
+  17272841:
+    template: Goblin_Mugger
+    level:    [25, 29]
+    region:   the_sanctuary_of_zitah_sw
+
+  17272842:
+    template: Goblin_Mugger
+    level:    [25, 29]
+    region:   the_sanctuary_of_zitah_sw
+
+  17272843:
+    template: Goblin_Gambler
+    level:    [25, 29]
+    region:   the_sanctuary_of_zitah_sw
+
+  17272844:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_sw
+
+  17272845:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_sw
+
+  17272846:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_sw
+
+  17272847:
+    template: Goblin_Mugger
+    level:    [25, 29]
+    region:   the_sanctuary_of_zitah_sw_2
+
+  17272848:
+    template: Goblin_Mugger
+    level:    [25, 29]
+    region:   the_sanctuary_of_zitah_sw_2
+
+  17272849:
+    template: Goblin_Mugger
+    level:    [25, 29]
+    region:   the_sanctuary_of_zitah_sw_2
+
+  17272850:
+    template: Goblin_Gambler
+    level:    [25, 29]
+    region:   the_sanctuary_of_zitah_sw_2
+
+  17272851:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_sw_2
+
+  17272852:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_sw_2
+
+  17272853:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_sw_2
+
+  17272854:
+    template: Goblin_Mugger
+    level:    [25, 29]
+    region:   the_sanctuary_of_zitah_s
+
+  17272855:
+    template: Goblin_Mugger
+    level:    [25, 29]
+    region:   the_sanctuary_of_zitah_s
+
+  17272856:
+    template: Goblin_Gambler
+    level:    [25, 29]
+    region:   the_sanctuary_of_zitah_s
+
+  17272857:
+    template: Goblin_Gambler
+    level:    [25, 29]
+    region:   the_sanctuary_of_zitah_s
+
+  17272858:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_s
+
+  17272859:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_s
+
+  17272860:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_s
+
+  17272861:
+    template: Goblin_Mugger
+    level:    [25, 29]
+    region:   the_sanctuary_of_zitah_s_2
+
+  17272862:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_s_2
+
+  17272863:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_s_2
+
+  17272864:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_s_2
+
+  17272865:
+    template: Goblin_Mugger
+    level:    [25, 29]
+    region:   the_sanctuary_of_zitah_s_4
+
+  17272866:
+    template: Goblin_Mugger
+    level:    [25, 29]
+    region:   the_sanctuary_of_zitah_s_4
+
+  17272867:
+    template: Goblin_Gambler
+    level:    [25, 29]
+    region:   the_sanctuary_of_zitah_s_4
+
+  17272868:
+    template: Goblin_Gambler
+    level:    [25, 29]
+    region:   the_sanctuary_of_zitah_s_4
+
+  17272869:
+    template: Goblin_Gambler
+    level:    [25, 29]
+    region:   the_sanctuary_of_zitah_s_4
+
+  17272870:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_s_4
+
+  17272871:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_s_4
+
+  17272872:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_s_4
+
+  17272873:
+    template: Goblin_Leecher
+    level:    [25, 29]
+    region:   the_sanctuary_of_zitah_s_11
+
+  17272874:
+    template: Goblin_Leecher
+    level:    [25, 29]
+    region:   the_sanctuary_of_zitah_s_11
+
+  17272875:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_s_11
+
+  17272876:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_s_11
+
+  17272877:
+    template: Goblin_Leecher
+    level:    [25, 29]
+    region:   the_sanctuary_of_zitah_s_7
+
+  17272878:
+    template: Goblin_Leecher
+    level:    [25, 29]
+    region:   the_sanctuary_of_zitah_s_7
+
+  17272879:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_s_7
+
+  17272880:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_s_7
+
+  17272881:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_s_7
+
+  17272882:
+    template: Goblin_Mugger
+    level:    [25, 29]
+    region:   the_sanctuary_of_zitah_s_13
+
+  17272883:
+    template: Goblin_Gambler
+    level:    [25, 29]
+    region:   the_sanctuary_of_zitah_s_13
+
+  17272884:
+    template: Goblin_Leecher
+    level:    [25, 29]
+    region:   the_sanctuary_of_zitah_s_13
+
+  17272885:
+    template: Goblin_Leecher
+    level:    [25, 29]
+    region:   the_sanctuary_of_zitah_s_13
+
+  17272886:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_s_13
+
+  17272887:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_s_13
+
+  17272888:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_s_13
+
+  17272889:
+    template: Goblin_Leecher
+    level:    [25, 29]
+    region:   the_sanctuary_of_zitah_se
+
+  17272890:
+    template: Goblin_Leecher
+    level:    [25, 29]
+    region:   the_sanctuary_of_zitah_se
+
+  17272891:
+    template: Goblin_Smithy
+    level:    [31, 34]
+    region:   the_sanctuary_of_zitah_se
+
+  17272892:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_se
+
+  17272893:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_se
+
+  17272894:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_se
+
+  17272895:
+    template: Goblin_Leecher
+    level:    [25, 29]
+    region:   the_sanctuary_of_zitah_se_2
+
+  17272896:
+    template: Goblin_Smithy
+    level:    [31, 34]
+    region:   the_sanctuary_of_zitah_se_2
+
+  17272897:
+    template: Goblin_Smithy
+    level:    [31, 34]
+    region:   the_sanctuary_of_zitah_se_2
+
+  17272898:
+    template: Goblin_Smithy
+    level:    [31, 34]
+    region:   the_sanctuary_of_zitah_se_2
+
+  17272899:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_se_2
+
+  17272900:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_se_2
+
+  17272901:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_se_2
+
+  17272902:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_se_2
+
+  17272903:
+    template: Goblin_Smithy
+    level:    [31, 34]
+    region:   the_sanctuary_of_zitah_e_7
+
+  17272904:
+    template: Goblin_Smithy
+    level:    [31, 34]
+    region:   the_sanctuary_of_zitah_e_7
+
+  17272905:
+    template: Goblin_Furrier
+    level:    [31, 33]
+    region:   the_sanctuary_of_zitah_e_7
+
+  17272906:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_e_7
+
+  17272907:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_e_7
+
+  17272908:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_e_7
+
+  17272909:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_e_4
+
+  17272910:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_e_4
+
+  17272911:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_e_4
+
+  17272912:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_e_4
+
+  17272913:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_e_4
+
+  17272914:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_e_4
+
+  17272915:
+    template: Elusive_Edwin
+    level:    [46, 47]
+    region:   the_sanctuary_of_zitah_e_4
+
+  17272916:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_e_9
+
+  17272917:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_e_9
+
+  17272918:
+    template: Goblin_Smithy
+    level:    [31, 34]
+    region:   the_sanctuary_of_zitah_e_10
+
+  17272919:
+    template: Goblin_Furrier
+    level:    [31, 34]
+    region:   the_sanctuary_of_zitah_e_10
+
+  17272920:
+    template: Goblin_Furrier
+    level:    [31, 34]
+    region:   the_sanctuary_of_zitah_e_10
+
+  17272921:
+    template: Goblin_Furrier
+    level:    [31, 34]
+    region:   the_sanctuary_of_zitah_e_10
+
+  17272922:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_e_10
+
+  17272923:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_e_10
+
+  17272924:
+    template: Ancient_Bat
+    level:    [26, 28]
+    region:   the_sanctuary_of_zitah_e_10
+
+  17272925:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_se_12
+
+  17272926:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_se_12
+
+  17272927:
+    template: Goobbue_Gardener
+    level:    [40, 43]
+    region:   the_sanctuary_of_zitah_se_8
+
+  17272928:
+    template: Goobbue_Gardener
+    level:    [40, 43]
+    region:   the_sanctuary_of_zitah_se_8
+
+  17272929:
+    template: Goobbue_Gardener
+    level:    [40, 43]
+    region:   the_sanctuary_of_zitah_se_8
+
+  17272930:
+    template: Goobbue_Gardener
+    level:    [40, 43]
+    region:   the_sanctuary_of_zitah_se_8
+
+  17272931:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_se_8
+
+  17272932:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_se_8
+
+  17272933:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_se_8
+
+  17272934:
+    template: Revenant
+    at:       [478.813, -0.273, -527.363, 36]
+    level:    [46, 47]
+
+  17272935:
+    template: Goobbue_Gardener
+    level:    [40, 43]
+    region:   the_sanctuary_of_zitah_se_6
+
+  17272936:
+    template: Goobbue_Gardener
+    level:    [40, 43]
+    region:   the_sanctuary_of_zitah_se_6
+
+  17272937:
+    template: Goobbue_Gardener
+    level:    [40, 43]
+    region:   the_sanctuary_of_zitah_se_6
+
+  17272938:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_se_6
+
+  17272939:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_se_6
+
+  17272940:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_se_6
+
+  17272941:
+    template: Goobbue_Gardener
+    level:    [40, 43]
+    region:   the_sanctuary_of_zitah_se_3
+
+  17272942:
+    template: Goobbue_Gardener
+    level:    [40, 43]
+    region:   the_sanctuary_of_zitah_se_3
+
+  17272943:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_se_3
+
+  17272944:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_se_3
+
+  17272945:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_se_3
+
+  17272946:
+    template: Goobbue_Parasite
+    at:       [-215.536, 0.920, -379.287, 127]
+    level:    [42, 45]
+
+  17272947:
+    template: Goobbue_Parasite
+    at:       [-216.086, 1.006, -387.509, 127]
+    level:    [42, 45]
+
+  17272948:
+    template: Goobbue_Parasite
+    level:    [42, 45]
+    region:   the_sanctuary_of_zitah_s_9
+
+  17272949:
+    template: Goobbue_Parasite
+    level:    [42, 45]
+    region:   the_sanctuary_of_zitah_s_9
+
+  17272950:
+    template: Goobbue_Parasite
+    at:       [18.397, 3.220, -333.345, 127]
+    level:    [42, 45]
+
+  17272951:
+    template: Goobbue_Parasite
+    at:       [17.721, 3.276, -334.074, 74]
+    level:    [42, 45]
+
+  17272952:
+    template: Goobbue_Parasite
+    at:       [413.362, 0.710, -295.656, 127]
+    level:    [42, 45]
+
+  17272953:
+    template: Goobbue_Parasite
+    at:       [427.008, 0.335, -307.527, 83]
+    level:    [42, 45]
+
+  17272954:
+    template: Goobbue_Parasite
+    level:    [42, 45]
+    region:   the_sanctuary_of_zitah_se_10
+
+  17272955:
+    template: Goobbue_Parasite
+    level:    [42, 45]
+    region:   the_sanctuary_of_zitah_se_10
+
+  17272956:
+    template: Rock_Golem
+    at:       [-179.042, -0.027, -346.532, 127]
+    level:    [49, 50]
+
+  17272957:
+    template: Rock_Golem
+    at:       [23.359, -1.466, -420.430, 127]
+    level:    [49, 50]
+
+  17272958:
+    template: Huwasi
+    at:       [417.000, 0.000, -307.000, 120]
+    level:    [64, 65]
+
+  17272959:
+    template: Rock_Golem
+    at:       [418.716, -0.068, -299.483, 127]
+    level:    [49, 50]
+
+  17272960:
+    template: Rock_Golem
+    at:       [501.088, 0.684, -580.998, 127]
+    level:    [49, 50]
+
+  17272961:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_e_8
+
+  17272962:
+    template: Goobbue_Gardener
+    level:    [40, 43]
+    region:   the_sanctuary_of_zitah_e_6
+
+  17272963:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_e_6
+
+  17272964:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_e_6
+
+  17272965:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_e_6
+
+  17272966:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_e_6
+
+  17272967:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_e_6
+
+  17272968:
+    template: Goobbue_Gardener
+    level:    [40, 43]
+    region:   the_sanctuary_of_zitah_e_3
+
+  17272969:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_e_3
+
+  17272970:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_e_3
+
+  17272971:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_e_3
+
+  17272972:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_e_3
+
+  17272973:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_e_3
+
+  17272974:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_e_3
+
+  17272975:
+    template: Puroboros
+    level:    [47, 49]
+    region:   the_sanctuary_of_zitah_e_3
+
+  17272976:
+    template: Goobbue_Gardener
+    level:    [40, 43]
+    region:   the_sanctuary_of_zitah_ne_2
+
+  17272977:
+    template: Goobbue_Gardener
+    level:    [40, 43]
+    region:   the_sanctuary_of_zitah_ne_2
+
+  17272978:
+    template: Keeper_of_Halidom
+    level:    [56, 58]
+    region:   the_sanctuary_of_zitah_ne_3
+
+  17272979:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_ne_2
+
+  17272980:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_ne_2
+
+  17272981:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_ne_2
+
+  17272982:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_ne_2
+
+  17272983:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_ne_2
+
+  17272984:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_ne_2
+
+  17272985:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_ne_2
+
+  17272986:
+    template: Puroboros
+    level:    [47, 49]
+    region:   the_sanctuary_of_zitah_ne_2
+
+  17272987:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_ne
+
+  17272988:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_ne
+
+  17272989:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_ne
+
+  17272990:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_ne
+
+  17272991:
+    template: Revenant
+    at:       [278.852, -0.482, 281.893, 79]
+    level:    [45, 47]
+
+  17272992:
+    template: Revenant
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [46, 47]
+
+  17272993:
+    template: Rock_Golem
+    at:       [293.559, -1.257, 62.537, 53]
+    level:    [49, 50]
+
+  17272994:
+    template: Rock_Golem
+    at:       [345.633, 0.069, 215.654, 122]
+    level:    [49, 50]
+
+  17272995:
+    template: Goobbue_Parasite
+    at:       [348.214, 0.631, 206.831, 120]
+    level:    [42, 45]
+
+  17272996:
+    template: Goobbue_Parasite
+    at:       [347.584, 1.037, 225.765, 127]
+    level:    [42, 45]
+
+  17272997:
+    template: Goblin_Robber
+    level:    [42, 46]
+    region:   the_sanctuary_of_zitah_c_2
+
+  17272998:
+    template: Goblin_Robber
+    level:    [42, 46]
+    region:   the_sanctuary_of_zitah_c_2
+
+  17272999:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_c_2
+
+  17273000:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_c_2
+
+  17273001:
+    template: Water_Elemental
+    at:       [-96.572, -3.493, -214.771, 47]
+    level:    [48, 49]
+
+  17273002:
+    template: Goblin_Robber
+    level:    [42, 46]
+    region:   the_sanctuary_of_zitah_e
+
+  17273003:
+    template: Goblin_Robber
+    level:    [42, 46]
+    region:   the_sanctuary_of_zitah_e
+
+  17273004:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_e
+
+  17273005:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_e
+
+  17273006:
+    template: Water_Elemental
+    at:       [253.887, -2.847, -174.722, 61]
+    level:    [48, 49]
+
+  17273007:
+    template: Goblin_Trader
+    level:    [42, 46]
+    region:   the_sanctuary_of_zitah_c
+
+  17273008:
+    template: Goblins_Leech
+    level:    [35, 37]
+    region:   the_sanctuary_of_zitah_c
+
+  17273009:
+    template: Goblin_Robber
+    level:    [42, 46]
+    region:   the_sanctuary_of_zitah_c
+
+  17273010:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_c
+
+  17273011:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_c
+
+  17273012:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_c
+
+  17273013:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_c
+
+  17273014:
+    template: Goblin_Trader
+    level:    [42, 46]
+    region:   the_sanctuary_of_zitah_c_8
+
+  17273015:
+    template: Goblins_Leech
+    level:    [35, 37]
+    region:   the_sanctuary_of_zitah_c_8
+
+  17273016:
+    template: Goblin_Robber
+    level:    [42, 46]
+    region:   the_sanctuary_of_zitah_c_8
+
+  17273017:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_c_8
+
+  17273018:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_c_8
+
+  17273019:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_c_8
+
+  17273020:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_c_8
+
+  17273021:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_c_8
+
+  17273022:
+    template: Goblin_Robber
+    level:    [42, 46]
+    region:   the_sanctuary_of_zitah_c_18
+
+  17273023:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_c_18
+
+  17273024:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_c_18
+
+  17273025:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_c_18
+
+  17273026:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_c_18
+
+  17273027:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_c_18
+
+  17273028:
+    template: Thunder_Elemental
+    at:       [115.175, -0.433, -153.442, 127]
+    level:    [48, 49]
+
+  17273029:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_c_20
+
+  17273030:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_c_20
+
+  17273031:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_c_20
+
+  17273032:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_c_20
+
+  17273033:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_c_20
+
+  17273034:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_c_20
+
+  17273035:
+    template: Goblin_Trader
+    level:    [42, 46]
+    region:   the_sanctuary_of_zitah_c_10
+
+  17273036:
+    template: Goblins_Leech
+    level:    [35, 37]
+    region:   the_sanctuary_of_zitah_c_10
+
+  17273037:
+    template: Goblin_Robber
+    level:    [42, 46]
+    region:   the_sanctuary_of_zitah_c_10
+
+  17273038:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_c_10
+
+  17273039:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_c_10
+
+  17273040:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_c_10
+
+  17273041:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_c_10
+
+  17273042:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_c_10
+
+  17273043:
+    template: Goblin_Trader
+    level:    [42, 46]
+    region:   the_sanctuary_of_zitah_c_12
+
+  17273044:
+    template: Goblins_Leech
+    level:    [35, 37]
+    region:   the_sanctuary_of_zitah_c_12
+
+  17273045:
+    template: Goblin_Robber
+    level:    [42, 46]
+    region:   the_sanctuary_of_zitah_c_12
+
+  17273046:
+    template: Goobbue_Parasite
+    level:    [42, 45]
+    region:   the_sanctuary_of_zitah_c_12
+
+  17273047:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_c_12
+
+  17273048:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_c_12
+
+  17273049:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_c_12
+
+  17273050:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_c_12
+
+  17273051:
+    template: Goblin_Trader
+    level:    [42, 46]
+    region:   the_sanctuary_of_zitah_c_7
+
+  17273052:
+    template: Goblins_Leech
+    level:    [35, 37]
+    region:   the_sanctuary_of_zitah_c_7
+
+  17273053:
+    template: Goblin_Robber
+    level:    [42, 46]
+    region:   the_sanctuary_of_zitah_c_7
+
+  17273054:
+    template: Goobbue_Parasite
+    level:    [42, 45]
+    region:   the_sanctuary_of_zitah_c_7
+
+  17273055:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_c_7
+
+  17273056:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_c_7
+
+  17273057:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_c_7
+
+  17273058:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_c_7
+
+  17273059:
+    template: Goblin_Robber
+    level:    [42, 46]
+    region:   the_sanctuary_of_zitah_c_16
+
+  17273060:
+    template: Goobbue_Parasite
+    level:    [42, 45]
+    region:   the_sanctuary_of_zitah_c_16
+
+  17273061:
+    template: Goobbue_Parasite
+    level:    [42, 45]
+    region:   the_sanctuary_of_zitah_c_16
+
+  17273062:
+    template: Goobbue_Parasite
+    level:    [42, 45]
+    region:   the_sanctuary_of_zitah_c_16
+
+  17273063:
+    template: Goobbue_Parasite
+    level:    [42, 45]
+    region:   the_sanctuary_of_zitah_c_16
+
+  17273064:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_c_16
+
+  17273065:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_c_16
+
+  17273066:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_c_16
+
+  17273067:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_c_16
+
+  17273068:
+    template: Goblin_Trader
+    level:    [42, 46]
+    region:   the_sanctuary_of_zitah_c_4
+
+  17273069:
+    template: Goblins_Leech
+    level:    [35, 37]
+    region:   the_sanctuary_of_zitah_c_4
+
+  17273070:
+    template: Goobbue_Parasite
+    level:    [42, 45]
+    region:   the_sanctuary_of_zitah_c_4
+
+  17273071:
+    template: Goobbue_Parasite
+    level:    [42, 45]
+    region:   the_sanctuary_of_zitah_c_4
+
+  17273072:
+    template: Goobbue_Parasite
+    level:    [42, 45]
+    region:   the_sanctuary_of_zitah_c_4
+
+  17273073:
+    template: Goobbue_Parasite
+    level:    [42, 45]
+    region:   the_sanctuary_of_zitah_c_4
+
+  17273074:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_c_4
+
+  17273075:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_c_4
+
+  17273076:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_c_4
+
+  17273077:
+    template: Revenant
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [45, 47]
+
+  17273078:
+    template: Rock_Golem
+    at:       [17.000, 0.463, -145.000, 127]
+    level:    [49, 50]
+
+  17273079:
+    template: Rock_Golem
+    at:       [15.022, -0.534, -21.297, 95]
+    level:    [49, 50]
+
+  17273080:
+    template: Rock_Golem
+    at:       [-22.430, -0.872, 54.846, 26]
+    level:    [49, 50]
+
+  17273081:
+    template: Rock_Golem
+    at:       [44.042, 0.030, 137.711, 127]
+    level:    [49, 50]
+
+  17273082:
+    template: Goobbue_Parasite
+    level:    [42, 45]
+    region:   the_sanctuary_of_zitah_c_9
+
+  17273083:
+    template: Goobbue_Parasite
+    level:    [42, 45]
+    region:   the_sanctuary_of_zitah_c_9
+
+  17273084:
+    template: Goobbue_Parasite
+    level:    [42, 45]
+    region:   the_sanctuary_of_zitah_c_17
+
+  17273085:
+    template: Goobbue_Parasite
+    level:    [42, 45]
+    region:   the_sanctuary_of_zitah_c_17
+
+  17273086:
+    template: Goobbue_Parasite
+    level:    [42, 45]
+    region:   the_sanctuary_of_zitah_c_15
+
+  17273087:
+    template: Goobbue_Parasite
+    level:    [42, 45]
+    region:   the_sanctuary_of_zitah_c_15
+
+  17273088:
+    template: Goobbue_Parasite
+    level:    [42, 45]
+    region:   the_sanctuary_of_zitah_c_3
+
+  17273089:
+    template: Goobbue_Parasite
+    level:    [42, 45]
+    region:   the_sanctuary_of_zitah_c_3
+
+  17273090:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_c_3
+
+  17273091:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_c_3
+
+  17273092:
+    template: Master_Coeurl
+    level:    [44, 47]
+    region:   the_sanctuary_of_zitah_c_3
+
+  17273093:
+    template: Hell_Hound
+    at:       [-44.000, -0.861, 13.000, 22]
+    level:    [46, 50]
+
+  17273094:
+    template: Water_Elemental
+    at:       [-106.204, -3.368, 60.872, 127]
+    level:    [48, 49]
+
+  17273095:
+    template: Goobbue_Parasite
+    at:       [-137.100, 3.254, -91.120, 127]
+    level:    [42, 45]
+
+  17273096:
+    template: Goobbue_Parasite
+    at:       [-137.844, 3.267, -92.781, 54]
+    level:    [42, 45]
+
+  17273097:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_w_17
+
+  17273098:
+    template: Goobbue_Parasite
+    level:    [42, 45]
+    region:   the_sanctuary_of_zitah_w_13
+
+  17273099:
+    template: Goobbue_Parasite
+    level:    [42, 45]
+    region:   the_sanctuary_of_zitah_w_13
+
+  17273100:
+    template: Goobbue_Parasite
+    level:    [42, 45]
+    region:   the_sanctuary_of_zitah_w_13
+
+  17273101:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_w_13
+
+  17273102:
+    template: Lesser_Gaylas
+    level:    [39, 42]
+    region:   the_sanctuary_of_zitah_w_13
+
+  17273103:
+    template: Master_Coeurl
+    level:    [44, 47]
+    region:   the_sanctuary_of_zitah_w_13
+
+  17273104:
+    template: Hell_Hound
+    at:       [-203.724, -1.586, -78.387, 86]
+    level:    [46, 50]
+
+  17273105:
+    template: Thunder_Elemental
+    at:       [-231.601, -1.828, -64.859, 127]
+    level:    [48, 49]
+
+  17273106:
+    template: Goblin_Poacher
+    level:    [42, 46]
+    region:   the_sanctuary_of_zitah_w_18
+
+  17273107:
+    template: Goblin_Poacher
+    level:    [42, 46]
+    region:   the_sanctuary_of_zitah_w_18
+
+  17273108:
+    template: Goobbue_Parasite
+    level:    [42, 45]
+    region:   the_sanctuary_of_zitah_w_18
+
+  17273109:
+    template: Goobbue_Parasite
+    level:    [42, 45]
+    region:   the_sanctuary_of_zitah_w_18
+
+  17273110:
+    template: Goobbue_Parasite
+    level:    [42, 45]
+    region:   the_sanctuary_of_zitah_w_18
+
+  17273111:
+    template: Goblin_Reaper
+    level:    [42, 46]
+    region:   the_sanctuary_of_zitah_w_11
+
+  17273112:
+    template: Goblin_Reaper
+    level:    [42, 46]
+    region:   the_sanctuary_of_zitah_w_11
+
+  17273113:
+    template: Goblin_Poacher
+    level:    [42, 46]
+    region:   the_sanctuary_of_zitah_w_11
+
+  17273114:
+    template: Goobbue_Parasite
+    level:    [42, 45]
+    region:   the_sanctuary_of_zitah_w_11
+
+  17273115:
+    template: Goobbue_Parasite
+    at:       [-277.523, -0.498, 0.013, 127]
+    level:    [42, 45]
+
+  17273116:
+    template: Ogrefly
+    at:       [-268.337, -0.124, 0.064, 127]
+    level:    [41, 44]
+
+  17273117:
+    template: Ogrefly
+    at:       [-301.205, -0.539, -7.389, 24]
+    level:    [41, 44]
+
+  17273118:
+    template: Goblin_Reaper
+    at:       [-272.534, -0.623, 37.512, 0]
+    level:    [42, 46]
+
+  17273119:
+    template: Goblin_Poacher
+    at:       [-221.706, -0.538, 18.922, 36]
+    level:    [42, 46]
+
+  17273120:
+    template: Goblin_Poacher
+    at:       [-219.272, -1.695, 13.643, 19]
+    level:    [42, 46]
+
+  17273121:
+    template: Goobbue_Parasite
+    at:       [-262.537, 0.514, 29.097, 127]
+    level:    [42, 45]
+
+  17273122:
+    template: Ogrefly
+    at:       [-257.696, 0.363, 48.247, 127]
+    level:    [41, 44]
+
+  17273123:
+    template: Ogrefly
+    at:       [-266.464, -0.185, 51.826, 123]
+    level:    [41, 44]
+
+  17273124:
+    template: Thunder_Elemental
+    at:       [-264.102, 0.446, 31.809, 55]
+    level:    [48, 49]
+
+  17273125:
+    template: Goblin_Reaper
+    level:    [42, 46]
+    region:   the_sanctuary_of_zitah_w_14
+
+  17273126:
+    template: Goblin_Poacher
+    level:    [42, 46]
+    region:   the_sanctuary_of_zitah_w_14
+
+  17273127:
+    template: Goblin_Poacher
+    level:    [42, 46]
+    region:   the_sanctuary_of_zitah_w_14
+
+  17273128:
+    template: Goobbue_Parasite
+    level:    [42, 45]
+    region:   the_sanctuary_of_zitah_w_14
+
+  17273129:
+    template: Goobbue_Parasite
+    level:    [42, 45]
+    region:   the_sanctuary_of_zitah_w_14
+
+  17273130:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_w_14
+
+  17273131:
+    template: Ogrefly
+    level:    [41, 44]
+    region:   the_sanctuary_of_zitah_w_14
+
+  17273132:
+    template: Rock_Golem
+    at:       [-269.373, -0.260, 14.087, 101]
+    level:    [49, 50]
+
+  17273133:
+    template: Thunder_Elemental
+    at:       [-311.789, -1.822, -14.682, 112]
+    level:    [48, 49]
+
+  17273134:
+    template: Rock_Golem
+    at:       [-221.449, -0.898, 61.303, 127]
+    level:    [49, 50]
+
+  17273135:
+    template: Master_Coeurl
+    level:    [44, 47]
+    region:   the_sanctuary_of_zitah_w_6
+
+  17273136:
+    template: Master_Coeurl
+    level:    [44, 47]
+    region:   the_sanctuary_of_zitah_w_6
+
+  17273137:
+    template: Master_Coeurl
+    level:    [44, 47]
+    region:   the_sanctuary_of_zitah_w_6
+
+  17273138:
+    template: Master_Coeurl
+    at:       [-360.967, 0.348, 16.978, 127]
+    level:    [44, 47]
+
+  17273139:
+    template: Hell_Hound
+    level:    [46, 50]
+    region:   the_sanctuary_of_zitah_w_6
+
+  17273140:
+    template: Hell_Hound
+    at:       [-343.732, -0.147, 53.275, 127]
+    level:    [46, 50]
+
+  17273141:
+    template: Master_Coeurl
+    level:    [44, 47]
+    region:   the_sanctuary_of_zitah_w_5
+
+  17273142:
+    template: Master_Coeurl
+    level:    [44, 47]
+    region:   the_sanctuary_of_zitah_w_5
+
+  17273143:
+    template: Hell_Hound
+    level:    [46, 50]
+    region:   the_sanctuary_of_zitah_w_5
+
+  17273144:
+    template: Hell_Hound
+    at:       [-413.455, -2.611, 51.224, 127]
+    level:    [46, 50]
+
+  17273145:
+    template: Water_Elemental
+    at:       [-422.385, -1.845, 68.379, 164]
+    level:    [48, 49]
+
+  17273146:
+    template: Master_Coeurl
+    at:       [-436.000, -0.010, -73.000, 127]
+    level:    [44, 47]
+
+  17273147:
+    template: Hell_Hound
+    at:       [-414.472, 2.299, -9.995, 21]
+    level:    [46, 50]
+
+  17273148:
+    template: Rock_Golem
+    at:       [-423.000, -0.510, -63.000, 127]
+    level:    [49, 50]
+
+  17273149:
+    template: Rot_Prowler
+    at:       [-435.460, -0.120, -92.291, 127]
+    level:    [49, 53]
+
+  17273150:
+    template: Rot_Prowler
+    at:       [-396.989, -0.927, -128.103, 89]
+    level:    [49, 53]
+
+  17273151:
+    template: Rot_Prowler
+    at:       [-403.235, 0.309, -139.276, 127]
+    level:    [49, 53]
+
+  17273152:
+    template: Master_Coeurl
+    at:       [-415.883, 0.016, -140.174, 127]
+    level:    [44, 47]
+
+  17273153:
+    template: Master_Coeurl
+    at:       [-397.115, 0.331, -142.430, 63]
+    level:    [44, 47]
+
+  17273154:
+    template: Hell_Hound
+    at:       [-410.084, -0.154, -134.195, 127]
+    level:    [46, 50]
+
+  17273155:
+    template: Puroboros
+    level:    [47, 49]
+    region:   the_sanctuary_of_zitah_w_3
+
+  17273156:
+    template: Rot_Prowler
+    level:    [49, 53]
+    region:   the_sanctuary_of_zitah_w_7
+
+  17273157:
+    template: Rot_Prowler
+    level:    [49, 53]
+    region:   the_sanctuary_of_zitah_w_7
+
+  17273158:
+    template: Lost_Soul
+    level:    [51, 55]
+    region:   the_sanctuary_of_zitah_w_7
+
+  17273159:
+    template: Master_Coeurl
+    level:    [44, 47]
+    region:   the_sanctuary_of_zitah_w_7
+
+  17273160:
+    template: Hell_Hound
+    at:       [-392.726, -0.363, -150.062, 127]
+    level:    [46, 50]
+
+  17273161:
+    template: Puroboros
+    level:    [47, 49]
+    region:   the_sanctuary_of_zitah_w_7
+
+  17273162:
+    template: Rock_Golem
+    at:       [-431.205, -0.340, -113.855, 127]
+    level:    [49, 50]
+
+  17273163:
+    template: Rock_Golem
+    at:       [-360.000, -0.010, -166.000, 60]
+    level:    [49, 50]
+
+  17273164:
+    template: Revenant
+    at:       [-340.190, 3.279, -209.933, 127]
+    level:    [46, 47]
+
+  17273165:
+    template: Master_Coeurl
+    level:    [44, 47]
+    region:   the_sanctuary_of_zitah_w_9
+
+  17273166:
+    template: Hell_Hound
+    at:       [-340.705, 2.354, 121.806, 127]
+    level:    [46, 50]
+
+  17273167:
+    template: Goobbue_Parasite
+    at:       [-348.352, 3.096, 139.467, 127]
+    level:    [42, 45]
+
+  17273168:
+    template: Goobbue_Parasite
+    at:       [-347.916, 3.245, 142.148, 127]
+    level:    [42, 45]
+
+  17273169:
+    template: Master_Coeurl
+    level:    [44, 47]
+    region:   the_sanctuary_of_zitah_w_10
+
+  17273170:
+    template: Hell_Hound
+    at:       [-335.955, -0.073, 187.977, 121]
+    level:    [46, 50]
+
+  17273171:
+    template: Rot_Prowler
+    level:    [49, 53]
+    region:   the_sanctuary_of_zitah_nw_9
+
+  17273172:
+    template: Rot_Prowler
+    level:    [49, 53]
+    region:   the_sanctuary_of_zitah_nw_9
+
+  17273173:
+    template: Master_Coeurl
+    level:    [44, 47]
+    region:   the_sanctuary_of_zitah_nw_9
+
+  17273174:
+    template: Master_Coeurl
+    level:    [44, 47]
+    region:   the_sanctuary_of_zitah_nw_9
+
+  17273175:
+    template: Hell_Hound
+    at:       [-280.672, -0.207, 209.128, 127]
+    level:    [46, 50]
+
+  17273176:
+    template: Master_Coeurl
+    level:    [44, 47]
+    region:   the_sanctuary_of_zitah_nw_11
+
+  17273177:
+    template: Hell_Hound
+    at:       [-306.686, 1.237, 294.161, 79]
+    level:    [46, 50]
+
+  17273178:
+    template: Rot_Prowler
+    level:    [49, 53]
+    region:   the_sanctuary_of_zitah_w_2
+
+  17273179:
+    template: Rot_Prowler
+    level:    [49, 53]
+    region:   the_sanctuary_of_zitah_w_2
+
+  17273180:
+    template: Master_Coeurl
+    level:    [44, 47]
+    region:   the_sanctuary_of_zitah_w_2
+
+  17273181:
+    template: Master_Coeurl
+    level:    [44, 47]
+    region:   the_sanctuary_of_zitah_w_2
+
+  17273182:
+    template: Hell_Hound
+    at:       [-439.847, -0.457, 124.548, 67]
+    level:    [46, 50]
+
+  17273183:
+    template: Rot_Prowler
+    level:    [49, 53]
+    region:   the_sanctuary_of_zitah_nw
+
+  17273184:
+    template: Rot_Prowler
+    level:    [49, 53]
+    region:   the_sanctuary_of_zitah_nw
+
+  17273185:
+    template: Lost_Soul
+    level:    [51, 55]
+    region:   the_sanctuary_of_zitah_nw
+
+  17273186:
+    template: Master_Coeurl
+    level:    [44, 47]
+    region:   the_sanctuary_of_zitah_nw
+
+  17273187:
+    template: Master_Coeurl
+    level:    [44, 47]
+    region:   the_sanctuary_of_zitah_nw
+
+  17273188:
+    template: Hell_Hound
+    at:       [-528.976, -0.481, 237.109, 127]
+    level:    [46, 50]
+
+  17273189:
+    template: Revenant
+    level:    [46, 47]
+    region:   the_sanctuary_of_zitah_nw
+
+  17273190:
+    template: Bastet
+    level:    [62, 62]
+    region:   the_sanctuary_of_zitah_w_3
+
+  17273191:
+    template: Rock_Golem
+    at:       [-504.950, 0.420, 226.486, 127]
+    level:    [49, 50]
+
+  17273192:
+    template: Rot_Prowler
+    level:    [49, 53]
+    region:   the_sanctuary_of_zitah_nw_3
+
+  17273193:
+    template: Rot_Prowler
+    level:    [49, 53]
+    region:   the_sanctuary_of_zitah_nw_3
+
+  17273194:
+    template: Lost_Soul
+    level:    [51, 55]
+    region:   the_sanctuary_of_zitah_nw_3
+
+  17273195:
+    template: Master_Coeurl
+    level:    [44, 47]
+    region:   the_sanctuary_of_zitah_nw_3
+
+  17273196:
+    template: Master_Coeurl
+    at:       [-444.959, -0.207, 272.722, 39]
+    level:    [44, 47]
+
+  17273197:
+    template: Hell_Hound
+    at:       [-481.033, -0.365, 234.551, 114]
+    level:    [46, 50]
+
+  17273198:
+    template: Rot_Prowler
+    at:       [-320.000, -0.219, 375.000, 127]
+    level:    [49, 53]
+
+  17273199:
+    template: Rot_Prowler
+    at:       [-351.167, -0.195, 322.359, 75]
+    level:    [49, 53]
+
+  17273200:
+    template: Lost_Soul
+    at:       [-341.648, 0.345, 329.122, 110]
+    level:    [51, 55]
+
+  17273201:
+    template: Master_Coeurl
+    at:       [-359.077, -0.282, 312.167, 32]
+    level:    [44, 47]
+
+  17273202:
+    template: Master_Coeurl
+    at:       [-340.193, 0.392, 332.681, 127]
+    level:    [44, 47]
+
+  17273203:
+    template: Hell_Hound
+    at:       [-322.545, -0.366, 309.799, 127]
+    level:    [46, 50]
+
+  17273204:
+    template: Rot_Prowler
+    level:    [49, 53]
+    region:   the_sanctuary_of_zitah_nw_5
+
+  17273205:
+    template: Rot_Prowler
+    level:    [49, 53]
+    region:   the_sanctuary_of_zitah_nw_5
+
+  17273206:
+    template: Lost_Soul
+    level:    [51, 55]
+    region:   the_sanctuary_of_zitah_nw_5
+
+  17273207:
+    template: Master_Coeurl
+    level:    [44, 47]
+    region:   the_sanctuary_of_zitah_nw_5
+
+  17273208:
+    template: Master_Coeurl
+    level:    [44, 47]
+    region:   the_sanctuary_of_zitah_nw_5
+
+  17273209:
+    template: Hell_Hound
+    at:       [-335.461, 0.149, 395.376, 127]
+    level:    [46, 50]
+
+  17273210:
+    template: Rot_Prowler
+    level:    [49, 53]
+    region:   the_sanctuary_of_zitah_nw_8
+
+  17273211:
+    template: Lost_Soul
+    level:    [51, 55]
+    region:   the_sanctuary_of_zitah_nw_8
+
+  17273212:
+    template: Lost_Soul
+    level:    [51, 55]
+    region:   the_sanctuary_of_zitah_nw_8
+
+  17273213:
+    template: Master_Coeurl
+    level:    [44, 47]
+    region:   the_sanctuary_of_zitah_nw_8
+
+  17273214:
+    template: Master_Coeurl
+    level:    [44, 47]
+    region:   the_sanctuary_of_zitah_nw_8
+
+  17273215:
+    template: Hell_Hound
+    at:       [-288.132, -0.419, 438.533, 85]
+    level:    [46, 50]
+
+  17273216:
+    template: Revenant
+    level:    [45, 47]
+    region:   the_sanctuary_of_zitah_nw_8
+
+  17273217:
+    template: Rot_Prowler
+    level:    [49, 53]
+    region:   the_sanctuary_of_zitah_nw_12
+
+  17273218:
+    template: Lost_Soul
+    level:    [51, 55]
+    region:   the_sanctuary_of_zitah_nw_12
+
+  17273219:
+    template: Lost_Soul
+    level:    [51, 55]
+    region:   the_sanctuary_of_zitah_nw_12
+
+  17273220:
+    template: Master_Coeurl
+    level:    [44, 47]
+    region:   the_sanctuary_of_zitah_nw_12
+
+  17273221:
+    template: Master_Coeurl
+    level:    [44, 47]
+    region:   the_sanctuary_of_zitah_nw_12
+
+  17273222:
+    template: Hell_Hound
+    at:       [-264.076, -0.694, 576.553, 127]
+    level:    [46, 50]
+
+  17273223:
+    template: Goobbue_Parasite
+    level:    [42, 45]
+    region:   the_sanctuary_of_zitah_nw_6
+
+  17273224:
+    template: Goobbue_Parasite
+    level:    [42, 45]
+    region:   the_sanctuary_of_zitah_nw_6
+
+  17273225:
+    template: Rock_Golem
+    at:       [-335.272, -0.039, 416.147, 120]
+    level:    [49, 50]
+
+  17273226:
+    template: Myxomycete
+    at:       [-249.562, -0.183, -384.941, 218]
+    level:    [41, 46]
+
+  17273227:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_sw_3
+
+  17273228:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_s_3
+
+  17273229:
+    template: Myxomycete
+    at:       [-186.339, -0.835, -271.043, 5]
+    level:    [41, 46]
+
+  17273230:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_s_6
+
+  17273231:
+    template: Myxomycete
+    at:       [-76.248, 0.368, -339.751, 127]
+    level:    [41, 46]
+
+  17273232:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_s_8
+
+  17273233:
+    template: Myxomycete
+    at:       [-17.125, -0.469, -445.730, 36]
+    level:    [41, 46]
+
+  17273234:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_s_5
+
+  17273235:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_s_10
+
+  17273236:
+    template: Myxomycete
+    at:       [95.596, -0.187, -431.412, 101]
+    level:    [41, 46]
+
+  17273237:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_s_12
+
+  17273238:
+    template: Myxomycete
+    at:       [233.122, -0.251, -308.866, 51]
+    level:    [41, 46]
+
+  17273239:
+    template: Myxomycete
+    at:       [282.998, -0.500, -281.740, 118]
+    level:    [41, 46]
+
+  17273240:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_e_5
+
+  17273241:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_e_2
+
+  17273242:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_se_5
+
+  17273243:
+    template: Myxomycete
+    at:       [381.130, 0.443, -281.257, 120]
+    level:    [41, 46]
+
+  17273244:
+    template: Myxomycete
+    at:       [401.059, 0.084, -177.864, 127]
+    level:    [41, 46]
+
+  17273245:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_se_9
+
+  17273246:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_se_14
+
+  17273247:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_se_11
+
+  17273248:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_se_13
+
+  17273249:
+    template: Myxomycete
+    at:       [485.265, -0.436, -556.220, 82]
+    level:    [41, 46]
+
+  17273250:
+    template: Myxomycete
+    at:       [454.942, -0.249, -592.172, 108]
+    level:    [41, 46]
+
+  17273251:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_se_7
+
+  17273252:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_se_7
+
+  17273253:
+    template: Myxomycete
+    at:       [425.758, -0.948, -648.651, 127]
+    level:    [41, 46]
+
+  17273254:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_se_4
+
+  17273255:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_se_3
+
+  17273256:
+    template: Myxomycete
+    at:       [358.776, 0.103, -582.728, 62]
+    level:    [41, 46]
+
+  17273257:
+    template: Myxomycete
+    at:       [-71.457, -0.320, -199.199, 127]
+    level:    [41, 46]
+
+  17273258:
+    template: Myxomycete
+    at:       [-81.027, 0.282, -136.296, 18]
+    level:    [41, 46]
+
+  17273259:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_c_5
+
+  17273260:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_c_11
+
+  17273261:
+    template: Myxomycete
+    at:       [-2.632, 0.053, -52.514, 127]
+    level:    [41, 46]
+
+  17273262:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_c_13
+
+  17273263:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_c_13
+
+  17273264:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_c_6
+
+  17273265:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_c_14
+
+  17273266:
+    template: Myxomycete
+    at:       [51.546, -0.632, -138.388, 127]
+    level:    [41, 46]
+
+  17273267:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_c_19
+
+  17273268:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_w_15
+
+  17273269:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_w_16
+
+  17273270:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_w_16
+
+  17273271:
+    template: Myxomycete
+    at:       [-212.311, -0.020, 80.474, 109]
+    level:    [41, 46]
+
+  17273272:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_w_8
+
+  17273273:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_w_8
+
+  17273274:
+    template: Myxomycete
+    at:       [-371.756, -0.670, 42.498, 75]
+    level:    [41, 46]
+
+  17273275:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_w_4
+
+  17273276:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_w_7
+
+  17273277:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_w_7
+
+  17273278:
+    template: Noble_Mold
+    level:    [49, 50]
+    region:   the_sanctuary_of_zitah_w_7
+
+  17273279:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_w
+
+  17273280:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_w
+
+  17273281:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_nw_2
+
+  17273282:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_nw_13
+
+  17273283:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_nw_10
+
+  17273284:
+    template: Myxomycete
+    level:    [41, 46]
+    region:   the_sanctuary_of_zitah_nw_7
+
+  17273285:
+    template: Isonade
+    at:       [-420.000, -1.000, 47.000, 16]
+    level:    [45, 45]
+
+  17273286:
+    template: Hobgoblin_Warrior
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [40, 43]
+
+  17273287:
+    template: Hobgoblin_White_Mage
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [40, 43]
+
+  17273288:
+    template: Hobgoblin_Black_Mage
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [40, 43]
+
+  17273289:
+    template: Hobgoblin_Red_Mage
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [40, 43]
+
+  17273290:
+    template: Hobgoblin_Thief
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [40, 43]
+
+  17273291:
+    template: Hobgoblin_Dark_Knight
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [40, 43]
+
+  17273292:
+    template: Hobgoblin_Ranger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [40, 43]
+
+  17273293:
+    template: Hobgoblin_Beastmaster
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [40, 43]
+
+  17273294:
+    template: Goblins_Leech
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [38, 40]
+
+  17273295:
+    template: Greenman
+    at:       [-325.406, -0.198, 471.459, 227]
+    level:    [80, 81]
+
+  17273296:
+    template: Goblin_Enchanter
+    at:       [-25.227, 0.142, -137.358, 85]
+    level:    [40, 45]
+
+  17273297:
+    template: Goblin_Enchanter
+    at:       [-37.005, 0.204, -128.116, 95]
+    level:    [40, 45]
+
+  17273298:
+    template: Goblin_Poacher
+    at:       [-29.320, -0.096, -133.107, 75]
+    level:    [40, 45]
+
+  17273299:
+    template: Goblin_Poacher
+    at:       [-41.741, 0.270, -129.432, 80]
+    level:    [40, 45]
+
+  17273300:
+    template: Goblin_Bouncer
+    at:       [-33.353, 0.031, -129.794, 90]
+    level:    [40, 45]
+
+  17273301:
+    template: Goblin_Bouncer
+    at:       [-43.949, 0.306, -130.314, 85]
+    level:    [40, 45]
+
+  17273302:
+    template: Goblin_Reaper
+    at:       [-45.581, 0.799, -137.188, 100]
+    level:    [40, 45]
+
+  17273303:
+    template: Goblin_Reaper
+    at:       [-33.619, 0.109, -123.840, 95]
+    level:    [40, 45]
+
+  17273304:
+    template: Goblin_Doyen
+    at:       [-27.367, 1.433, -106.923, 90]
+    level:    [45, 45]
+
+  17273305:
+    template: Ruebezahl
+    at:       [-195.669, -0.483, 82.434, 19]
+    level:    [1, 1]
+
+  17273306:
+    template: Skeleton_Scuffler
+    level:    [58, 58]
+    region:   the_sanctuary_of_zitah_w_11
+
+  17273307:
+    template: Skeleton_Scuffler
+    level:    [58, 58]
+    region:   the_sanctuary_of_zitah_w_12
+
+  17273308:
+    template: Skeleton_Scuffler
+    level:    [58, 58]
+    region:   the_sanctuary_of_zitah_w_14
+
+  17273309:
+    template: Blest_Bones
+    level:    [59, 59]
+    region:   the_sanctuary_of_zitah_nw_3
+
+  17273310:
+    template: Blest_Bones
+    level:    [59, 59]
+    region:   the_sanctuary_of_zitah_nw_4
+
+  17273311:
+    template: Blest_Bones
+    level:    [59, 59]
+    region:   the_sanctuary_of_zitah_nw_5
+
+  17273312:
+    template: Holey_Horror
+    level:    [60, 60]
+    region:   the_sanctuary_of_zitah_c_12
+
+  17273313:
+    template: Holey_Horror
+    level:    [60, 60]
+    region:   the_sanctuary_of_zitah_c_7
+
+  17273314:
+    template: Holey_Horror
+    level:    [60, 60]
+    region:   the_sanctuary_of_zitah_c_4
+
+  17273315:
+    template: Cath_Palug
+    at:       [-273.766, -0.139, 46.751, 114]
+    level:    [94, 95]
+
+  17273316:
+    template: Grwnan
+    at:       [-275.518, -0.244, 47.935, 217]
+    level:    [90, 91]
+
+  17273317:
+    template: Grwnan
+    at:       [-274.072, -0.146, 48.114, 163]
+    level:    [90, 91]
+
+  17273318:
+    template: Cath_Palug
+    at:       [-89.080, -0.211, -315.308, 45]
+    level:    [94, 95]
+
+  17273319:
+    template: Grwnan
+    at:       [-76.164, -0.518, -313.011, 251]
+    level:    [90, 91]
+
+  17273320:
+    template: Grwnan
+    at:       [-75.599, -0.508, -311.700, 251]
+    level:    [90, 91]
+
+  17273321:
+    template: Cath_Palug
+    at:       [-399.274, 0.012, -133.128, 80]
+    level:    [94, 95]
+
+  17273322:
+    template: Grwnan
+    at:       [-403.909, 0.461, -138.829, 230]
+    level:    [90, 91]
+
+  17273323:
+    template: Grwnan
+    at:       [-398.517, 0.364, -131.825, 82]
+    level:    [90, 91]
+
+  17273324:
+    template: Keeper_of_Heiligtum
+    at:       [432.839, -0.342, -480.489, 82]
+    level:    [0, 0]
+
+  17273325:
+    template: Keeper_of_Heiligtum
+    at:       [443.420, -0.500, -37.279, 221]
+    level:    [0, 0]
+
+  17273326:
+    template: Keeper_of_Heiligtum
+    at:       [399.630, -0.335, -272.720, 0]
+    level:    [0, 0]

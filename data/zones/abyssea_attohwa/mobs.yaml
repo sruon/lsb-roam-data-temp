@@ -1,0 +1,2463 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17657857:
+    template: Crevice_Amoeban
+    level:    [77, 80]
+    region:   abyssea_attohwa_s_3
+
+  17657858:
+    template: Crevice_Amoeban
+    level:    [77, 80]
+    region:   abyssea_attohwa_s_3
+
+  17657859:
+    template: Crevice_Amoeban
+    level:    [77, 80]
+    region:   abyssea_attohwa_s_3
+
+  17657860:
+    template: Crevice_Amoeban
+    level:    [77, 80]
+    region:   abyssea_attohwa_s_3
+
+  17657861:
+    template: Crevice_Amoeban
+    at:       [-139.068, 20.183, -95.397, 250]
+    level:    [77, 80]
+
+  17657862:
+    template: Crevice_Amoeban
+    at:       [-139.363, 20.000, -107.582, 50]
+    level:    [77, 80]
+
+  17657863:
+    template: Crevice_Amoeban
+    at:       [-161.367, 9.907, -138.236, 100]
+    level:    [77, 80]
+
+  17657864:
+    template: Crevice_Amoeban
+    level:    [77, 80]
+    region:   abyssea_attohwa_s
+
+  17657865:
+    template: Crevice_Amoeban
+    level:    [77, 80]
+    region:   abyssea_attohwa_s
+
+  17657866:
+    template: Crevice_Amoeban
+    level:    [77, 80]
+    region:   abyssea_attohwa_s
+
+  17657867:
+    template: Crevice_Amoeban
+    level:    [77, 80]
+    region:   abyssea_attohwa_s
+
+  17657868:
+    template: Crevice_Amoeban
+    level:    [77, 80]
+    region:   abyssea_attohwa_s
+
+  17657869:
+    template: Ephemeral_Amoeban
+    level:    [79, 80]
+    region:   abyssea_attohwa_s_2
+
+  17657870:
+    template: Rock_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_s_5
+
+  17657871:
+    template: Rock_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_s_5
+
+  17657872:
+    template: Rock_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_s_5
+
+  17657873:
+    template: Rock_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_s_5
+
+  17657874:
+    template: Rock_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_s_6
+
+  17657875:
+    template: Rock_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_s_6
+
+  17657876:
+    template: Rock_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_s_6
+
+  17657877:
+    template: Rock_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_s_6
+
+  17657878:
+    template: Rock_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_s_6
+
+  17657879:
+    template: Rock_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_s_4
+
+  17657880:
+    template: Rock_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_s_4
+
+  17657881:
+    template: Rock_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_s_4
+
+  17657882:
+    template: Ephemeral_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_s_4
+
+  17657883:
+    template: Decayed_Flesh
+    level:    [83, 84]
+    region:   abyssea_attohwa_c_4
+
+  17657884:
+    template: Decayed_Flesh
+    level:    [83, 84]
+    region:   abyssea_attohwa_c_4
+
+  17657885:
+    template: Decayed_Flesh
+    level:    [83, 84]
+    region:   abyssea_attohwa_c_4
+
+  17657886:
+    template: Decayed_Flesh
+    at:       [-113.259, 0.021, -2.906, 175]
+    level:    [83, 84]
+
+  17657887:
+    template: Decayed_Flesh
+    at:       [-110.369, -0.247, -2.793, 200]
+    level:    [83, 84]
+
+  17657888:
+    template: Decayed_Flesh
+    at:       [-119.436, 0.001, -5.658, 225]
+    level:    [83, 84]
+
+  17657889:
+    template: Decayed_Flesh
+    level:    [83, 84]
+    region:   abyssea_attohwa_c_3
+
+  17657890:
+    template: Decayed_Flesh
+    level:    [83, 84]
+    region:   abyssea_attohwa_c_3
+
+  17657891:
+    template: Decayed_Flesh
+    level:    [83, 84]
+    region:   abyssea_attohwa_c_3
+
+  17657892:
+    template: Ephemeral_Amoeban
+    level:    [79, 80]
+    region:   abyssea_attohwa_c
+
+  17657893:
+    template: Spuk
+    level:    [82, 83]
+    region:   abyssea_attohwa_nw_11
+
+  17657894:
+    template: Spuk
+    level:    [82, 83]
+    region:   abyssea_attohwa_nw_11
+
+  17657895:
+    template: Spuk
+    level:    [82, 83]
+    region:   abyssea_attohwa_nw_11
+
+  17657896:
+    template: Spuk
+    level:    [82, 83]
+    region:   abyssea_attohwa_n
+
+  17657897:
+    template: Spuk
+    level:    [82, 83]
+    region:   abyssea_attohwa_n
+
+  17657898:
+    template: Spuk
+    level:    [82, 83]
+    region:   abyssea_attohwa_n
+
+  17657899:
+    template: Spuk
+    at:       [-185.176, 0.014, 223.919, 250]
+    level:    [82, 83]
+
+  17657900:
+    template: Spuk
+    level:    [82, 83]
+    region:   abyssea_attohwa_n_2
+
+  17657901:
+    template: Spuk
+    level:    [82, 83]
+    region:   abyssea_attohwa_n_2
+
+  17657902:
+    template: Spuk
+    level:    [82, 83]
+    region:   abyssea_attohwa_n_2
+
+  17657903:
+    template: Spuk
+    level:    [82, 83]
+    region:   abyssea_attohwa_n_2
+
+  17657904:
+    template: Spuk
+    level:    [82, 83]
+    region:   abyssea_attohwa_c_2
+
+  17657905:
+    template: Spuk
+    level:    [82, 83]
+    region:   abyssea_attohwa_c_2
+
+  17657906:
+    template: Spuk
+    level:    [82, 83]
+    region:   abyssea_attohwa_c_2
+
+  17657907:
+    template: Ephemeral_Amoeban
+    level:    [79, 80]
+    region:   abyssea_attohwa_n
+
+  17657908:
+    template: Myriadeyes
+    level:    [82, 83]
+    region:   abyssea_attohwa_c_5
+
+  17657909:
+    template: Myriadeyes
+    level:    [82, 83]
+    region:   abyssea_attohwa_c_5
+
+  17657910:
+    template: Myriadeyes
+    level:    [82, 83]
+    region:   abyssea_attohwa_c_5
+
+  17657911:
+    template: Myriadeyes
+    level:    [82, 83]
+    region:   abyssea_attohwa_c_5
+
+  17657912:
+    template: Myriadeyes
+    level:    [82, 83]
+    region:   abyssea_attohwa_c_5
+
+  17657913:
+    template: Myriadeyes
+    level:    [82, 83]
+    region:   abyssea_attohwa_c_7
+
+  17657914:
+    template: Myriadeyes
+    level:    [82, 83]
+    region:   abyssea_attohwa_c_7
+
+  17657915:
+    template: Myriadeyes
+    at:       [64.165, 20.235, -22.655, 150]
+    level:    [82, 83]
+
+  17657916:
+    template: Myriadeyes
+    level:    [82, 83]
+    region:   abyssea_attohwa_c_7
+
+  17657917:
+    template: Myriadeyes
+    level:    [82, 83]
+    region:   abyssea_attohwa_c_7
+
+  17657918:
+    template: Myriadeyes
+    level:    [82, 83]
+    region:   abyssea_attohwa_c_6
+
+  17657919:
+    template: Myriadeyes
+    level:    [82, 83]
+    region:   abyssea_attohwa_c_6
+
+  17657920:
+    template: Myriadeyes
+    level:    [82, 83]
+    region:   abyssea_attohwa_c_6
+
+  17657921:
+    template: Myriadeyes
+    at:       [15.141, 9.626, -57.255, 60]
+    level:    [82, 83]
+
+  17657922:
+    template: Myriadeyes
+    level:    [82, 83]
+    region:   abyssea_attohwa_c_6
+
+  17657923:
+    template: Myriadeyes
+    level:    [82, 83]
+    region:   abyssea_attohwa_c_5
+
+  17657924:
+    template: Myriadeyes
+    level:    [82, 83]
+    region:   abyssea_attohwa_c_7
+
+  17657925:
+    template: Myriadeyes
+    level:    [82, 83]
+    region:   abyssea_attohwa_c_7
+
+  17657926:
+    template: Ephemeral_Amoeban
+    level:    [79, 80]
+    region:   abyssea_attohwa_c_7
+
+  17657927:
+    template: Treacle_Slug
+    level:    [79, 80]
+    region:   abyssea_attohwa_w_13
+
+  17657928:
+    template: Treacle_Slug
+    level:    [79, 80]
+    region:   abyssea_attohwa_w_13
+
+  17657929:
+    template: Treacle_Slug
+    level:    [79, 80]
+    region:   abyssea_attohwa_w_13
+
+  17657930:
+    template: Treacle_Slug
+    level:    [79, 80]
+    region:   abyssea_attohwa_w_13
+
+  17657931:
+    template: Treacle_Slug
+    level:    [79, 80]
+    region:   abyssea_attohwa_w_14
+
+  17657932:
+    template: Treacle_Slug
+    level:    [79, 80]
+    region:   abyssea_attohwa_w_14
+
+  17657933:
+    template: Treacle_Slug
+    level:    [79, 80]
+    region:   abyssea_attohwa_w_14
+
+  17657934:
+    template: Treacle_Slug
+    level:    [79, 80]
+    region:   abyssea_attohwa_w_14
+
+  17657935:
+    template: Treacle_Slug
+    level:    [79, 80]
+    region:   abyssea_attohwa_w_12
+
+  17657936:
+    template: Treacle_Slug
+    level:    [79, 80]
+    region:   abyssea_attohwa_w_12
+
+  17657937:
+    template: Treacle_Slug
+    level:    [79, 80]
+    region:   abyssea_attohwa_w_12
+
+  17657938:
+    template: Ephemeral_Amoeban
+    level:    [79, 80]
+    region:   abyssea_attohwa_w_13
+
+  17657939:
+    template: Crevice_Amoeban
+    level:    [77, 80]
+    region:   abyssea_attohwa_sw_12
+
+  17657940:
+    template: Crevice_Amoeban
+    level:    [77, 80]
+    region:   abyssea_attohwa_sw_12
+
+  17657941:
+    template: Crevice_Amoeban
+    level:    [77, 80]
+    region:   abyssea_attohwa_sw_12
+
+  17657942:
+    template: Crevice_Amoeban
+    level:    [77, 80]
+    region:   abyssea_attohwa_sw_12
+
+  17657943:
+    template: Crevice_Amoeban
+    level:    [77, 80]
+    region:   abyssea_attohwa_sw_12
+
+  17657944:
+    template: Crevice_Amoeban
+    level:    [77, 80]
+    region:   abyssea_attohwa_sw_12
+
+  17657945:
+    template: Crevice_Amoeban
+    level:    [77, 80]
+    region:   abyssea_attohwa_sw_13
+
+  17657946:
+    template: Crevice_Amoeban
+    level:    [77, 80]
+    region:   abyssea_attohwa_sw_13
+
+  17657947:
+    template: Crevice_Amoeban
+    level:    [77, 80]
+    region:   abyssea_attohwa_sw_13
+
+  17657948:
+    template: Crevice_Amoeban
+    level:    [77, 80]
+    region:   abyssea_attohwa_sw_13
+
+  17657949:
+    template: Crevice_Amoeban
+    level:    [77, 80]
+    region:   abyssea_attohwa_sw_13
+
+  17657950:
+    template: Crevice_Amoeban
+    level:    [77, 80]
+    region:   abyssea_attohwa_sw_13
+
+  17657951:
+    template: Crevice_Amoeban
+    level:    [77, 80]
+    region:   abyssea_attohwa_sw_10
+
+  17657952:
+    template: Crevice_Amoeban
+    level:    [77, 80]
+    region:   abyssea_attohwa_sw_10
+
+  17657953:
+    template: Crevice_Amoeban
+    level:    [77, 80]
+    region:   abyssea_attohwa_sw_10
+
+  17657954:
+    template: Crevice_Amoeban
+    level:    [77, 80]
+    region:   abyssea_attohwa_sw_10
+
+  17657955:
+    template: Crevice_Amoeban
+    level:    [77, 80]
+    region:   abyssea_attohwa_sw_10
+
+  17657956:
+    template: Crevice_Amoeban
+    level:    [77, 80]
+    region:   abyssea_attohwa_sw_10
+
+  17657957:
+    template: Ephemeral_Amoeban
+    level:    [79, 80]
+    region:   abyssea_attohwa_sw_11
+
+  17657958:
+    template: Defile_Scorpion
+    level:    [81, 82]
+    region:   abyssea_attohwa_sw_4
+
+  17657959:
+    template: Defile_Scorpion
+    level:    [81, 82]
+    region:   abyssea_attohwa_sw_4
+
+  17657960:
+    template: Defile_Scorpion
+    level:    [81, 82]
+    region:   abyssea_attohwa_sw_4
+
+  17657961:
+    template: Defile_Scorpion
+    level:    [81, 82]
+    region:   abyssea_attohwa_sw_4
+
+  17657962:
+    template: Defile_Scorpion
+    level:    [81, 82]
+    region:   abyssea_attohwa_sw_4
+
+  17657963:
+    template: Defile_Scorpion
+    level:    [81, 82]
+    region:   abyssea_attohwa_sw_3
+
+  17657964:
+    template: Defile_Scorpion
+    level:    [81, 82]
+    region:   abyssea_attohwa_sw_3
+
+  17657965:
+    template: Defile_Scorpion
+    level:    [81, 82]
+    region:   abyssea_attohwa_sw_3
+
+  17657966:
+    template: Defile_Scorpion
+    level:    [81, 82]
+    region:   abyssea_attohwa_sw_3
+
+  17657967:
+    template: Defile_Scorpion
+    level:    [81, 82]
+    region:   abyssea_attohwa_sw
+
+  17657968:
+    template: Defile_Scorpion
+    level:    [81, 82]
+    region:   abyssea_attohwa_sw
+
+  17657969:
+    template: Defile_Scorpion
+    level:    [81, 82]
+    region:   abyssea_attohwa_sw
+
+  17657970:
+    template: Defile_Scorpion
+    level:    [81, 82]
+    region:   abyssea_attohwa_sw
+
+  17657971:
+    template: Ephemeral_Amoeban
+    level:    [79, 80]
+    region:   abyssea_attohwa_sw_2
+
+  17657972:
+    template: Rift_Dragon
+    level:    [84, 85]
+    region:   abyssea_attohwa_w_4
+
+  17657973:
+    template: Rift_Dragon
+    level:    [84, 85]
+    region:   abyssea_attohwa_w_4
+
+  17657974:
+    template: Rift_Dragon
+    level:    [84, 85]
+    region:   abyssea_attohwa_w_2
+
+  17657975:
+    template: Rift_Dragon
+    level:    [84, 85]
+    region:   abyssea_attohwa_w_2
+
+  17657976:
+    template: Rift_Dragon
+    level:    [84, 85]
+    region:   abyssea_attohwa_w
+
+  17657977:
+    template: Rift_Dragon
+    level:    [84, 85]
+    region:   abyssea_attohwa_w
+
+  17657978:
+    template: Rift_Dragon
+    level:    [84, 85]
+    region:   abyssea_attohwa_w
+
+  17657979:
+    template: Ephemeral_Amoeban
+    level:    [79, 80]
+    region:   abyssea_attohwa_w_3
+
+  17657980:
+    template: Funnel_Antlion
+    at:       [-514.000, -3.000, -13.000, 90]
+    level:    [0, 0]
+
+  17657981:
+    template: Funnel_Antlion
+    at:       [-516.000, -3.000, 19.000, 120]
+    level:    [0, 0]
+
+  17657982:
+    template: Funnel_Antlion
+    at:       [-511.000, -3.000, 39.000, 150]
+    level:    [0, 0]
+
+  17657983:
+    template: Funnel_Antlion
+    at:       [-502.000, -4.000, 31.000, 180]
+    level:    [0, 0]
+
+  17657984:
+    template: Funnel_Antlion
+    at:       [-487.000, -4.000, 31.000, 210]
+    level:    [0, 0]
+
+  17657985:
+    template: Funnel_Antlion
+    at:       [-481.000, -3.000, 54.000, 240]
+    level:    [0, 0]
+
+  17657986:
+    template: Funnel_Antlion
+    at:       [-483.000, -3.000, 58.000, 20]
+    level:    [0, 0]
+
+  17657987:
+    template: Funnel_Antlion
+    at:       [-474.000, -4.000, 95.000, 50]
+    level:    [0, 0]
+
+  17657988:
+    template: Funnel_Antlion
+    at:       [-478.000, -3.000, 97.000, 80]
+    level:    [0, 0]
+
+  17657989:
+    template: Funnel_Antlion
+    level:    [0, 0]
+    region:   abyssea_attohwa_w_7
+
+  17657990:
+    template: Funnel_Antlion
+    at:       [-461.000, -3.000, 78.000, 140]
+    level:    [0, 0]
+
+  17657991:
+    template: Funnel_Antlion
+    at:       [-421.000, -3.000, 80.000, 170]
+    level:    [0, 0]
+
+  17657992:
+    template: Funnel_Antlion
+    at:       [-411.000, -3.000, 82.000, 200]
+    level:    [0, 0]
+
+  17657993:
+    template: Funnel_Antlion
+    at:       [-433.000, -4.000, 110.000, 230]
+    level:    [0, 0]
+
+  17657994:
+    template: Funnel_Antlion
+    at:       [-402.000, -3.000, 65.000, 10]
+    level:    [0, 0]
+
+  17657995:
+    template: Funnel_Antlion
+    level:    [0, 0]
+    region:   abyssea_attohwa_w_6
+
+  17657996:
+    template: Ephemeral_Amoeban
+    level:    [79, 80]
+    region:   abyssea_attohwa_w_5
+
+  17657997:
+    template: Chasm_Gnat
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw
+
+  17657998:
+    template: Chasm_Gnat
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw
+
+  17657999:
+    template: Chasm_Gnat
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw
+
+  17658000:
+    template: Chasm_Gnat
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw
+
+  17658001:
+    template: Chasm_Gnat
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw
+
+  17658002:
+    template: Chasm_Gnat
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_2
+
+  17658003:
+    template: Chasm_Gnat
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_2
+
+  17658004:
+    template: Chasm_Gnat
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_2
+
+  17658005:
+    template: Chasm_Gnat
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_2
+
+  17658006:
+    template: Chasm_Gnat
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_3
+
+  17658007:
+    template: Chasm_Gnat
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_3
+
+  17658008:
+    template: Chasm_Gnat
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_3
+
+  17658009:
+    template: Chasm_Gnat
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_3
+
+  17658010:
+    template: Chasm_Gnat
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_3
+
+  17658011:
+    template: Ephemeral_Amoeban
+    level:    [79, 80]
+    region:   abyssea_attohwa_nw
+
+  17658012:
+    template: Inugami
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_5
+
+  17658013:
+    template: Inugami
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_5
+
+  17658014:
+    template: Inugami
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_5
+
+  17658015:
+    template: Inugami
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_5
+
+  17658016:
+    template: Inugami
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_5
+
+  17658017:
+    template: Inugami
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_7
+
+  17658018:
+    template: Inugami
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_7
+
+  17658019:
+    template: Inugami
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_7
+
+  17658020:
+    template: Inugami
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_7
+
+  17658021:
+    template: Inugami
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_7
+
+  17658022:
+    template: Inugami
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_8
+
+  17658023:
+    template: Inugami
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_8
+
+  17658024:
+    template: Inugami
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_8
+
+  17658025:
+    template: Inugami
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_8
+
+  17658026:
+    template: Inugami
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_8
+
+  17658027:
+    template: Inugami
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_8
+
+  17658028:
+    template: Inugami
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_8
+
+  17658029:
+    template: Ephemeral_Amoeban
+    level:    [79, 80]
+    region:   abyssea_attohwa_nw_4
+
+  17658030:
+    template: Schnitter
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_10
+
+  17658031:
+    template: Schnitter
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_10
+
+  17658032:
+    template: Schnitter
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_10
+
+  17658033:
+    template: Schnitter
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_10
+
+  17658034:
+    template: Schnitter
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_10
+
+  17658035:
+    template: Schnitter
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_6
+
+  17658036:
+    template: Schnitter
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_6
+
+  17658037:
+    template: Schnitter
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_6
+
+  17658038:
+    template: Schnitter
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_6
+
+  17658039:
+    template: Schnitter
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_6
+
+  17658040:
+    template: Schnitter
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_6
+
+  17658041:
+    template: Schnitter
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_6
+
+  17658042:
+    template: Schnitter
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_9
+
+  17658043:
+    template: Schnitter
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_9
+
+  17658044:
+    template: Schnitter
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_9
+
+  17658045:
+    template: Schnitter
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_9
+
+  17658046:
+    template: Schnitter
+    level:    [81, 82]
+    region:   abyssea_attohwa_nw_9
+
+  17658047:
+    template: Ephemeral_Amoeban
+    level:    [79, 80]
+    region:   abyssea_attohwa_nw_9
+
+  17658048:
+    template: Rock_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_s_8
+
+  17658049:
+    template: Rock_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_s_8
+
+  17658050:
+    template: Rock_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_s_8
+
+  17658051:
+    template: Rock_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_s_8
+
+  17658052:
+    template: Rock_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_s_9
+
+  17658053:
+    template: Rock_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_s_9
+
+  17658054:
+    template: Rock_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_s_9
+
+  17658055:
+    template: Rock_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_s_9
+
+  17658056:
+    template: Rock_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_s_10
+
+  17658057:
+    template: Rock_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_s_10
+
+  17658058:
+    template: Rock_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_s_10
+
+  17658059:
+    template: Rock_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_s_10
+
+  17658060:
+    template: Rock_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_s_10
+
+  17658061:
+    template: Ephemeral_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_s_7
+
+  17658062:
+    template: Ignis_Eruca
+    level:    [79, 80]
+    region:   abyssea_attohwa_s_13
+
+  17658063:
+    template: Ignis_Eruca
+    level:    [79, 80]
+    region:   abyssea_attohwa_s_13
+
+  17658064:
+    template: Ignis_Eruca
+    level:    [79, 80]
+    region:   abyssea_attohwa_s_13
+
+  17658065:
+    template: Ignis_Eruca
+    level:    [79, 80]
+    region:   abyssea_attohwa_s_13
+
+  17658066:
+    template: Ignis_Eruca
+    level:    [79, 80]
+    region:   abyssea_attohwa_s_12
+
+  17658067:
+    template: Ignis_Eruca
+    level:    [79, 80]
+    region:   abyssea_attohwa_s_12
+
+  17658068:
+    template: Ignis_Eruca
+    level:    [79, 80]
+    region:   abyssea_attohwa_s_12
+
+  17658069:
+    template: Ignis_Eruca
+    level:    [79, 80]
+    region:   abyssea_attohwa_s_12
+
+  17658070:
+    template: Ignis_Eruca
+    level:    [79, 80]
+    region:   abyssea_attohwa_s_12
+
+  17658071:
+    template: Ignis_Eruca
+    level:    [79, 80]
+    region:   abyssea_attohwa_se
+
+  17658072:
+    template: Ignis_Eruca
+    level:    [79, 80]
+    region:   abyssea_attohwa_se
+
+  17658073:
+    template: Ignis_Eruca
+    level:    [79, 80]
+    region:   abyssea_attohwa_se
+
+  17658074:
+    template: Ignis_Eruca
+    level:    [79, 80]
+    region:   abyssea_attohwa_se
+
+  17658075:
+    template: Ignis_Eruca
+    level:    [79, 80]
+    region:   abyssea_attohwa_se
+
+  17658076:
+    template: Ephemeral_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_s_14
+
+  17658077:
+    template: Chasm_Coeurl
+    level:    [79, 80]
+    region:   abyssea_attohwa_c_11
+
+  17658078:
+    template: Chasm_Coeurl
+    level:    [79, 80]
+    region:   abyssea_attohwa_c_11
+
+  17658079:
+    template: Chasm_Coeurl
+    level:    [79, 80]
+    region:   abyssea_attohwa_c_11
+
+  17658080:
+    template: Chasm_Coeurl
+    level:    [79, 80]
+    region:   abyssea_attohwa_c_11
+
+  17658081:
+    template: Chasm_Coeurl
+    level:    [79, 80]
+    region:   abyssea_attohwa_s_11
+
+  17658082:
+    template: Chasm_Coeurl
+    level:    [79, 80]
+    region:   abyssea_attohwa_s_11
+
+  17658083:
+    template: Chasm_Coeurl
+    level:    [79, 80]
+    region:   abyssea_attohwa_s_11
+
+  17658084:
+    template: Chasm_Coeurl
+    level:    [79, 80]
+    region:   abyssea_attohwa_s_11
+
+  17658085:
+    template: Chasm_Coeurl
+    level:    [79, 80]
+    region:   abyssea_attohwa_c_13
+
+  17658086:
+    template: Chasm_Coeurl
+    level:    [79, 80]
+    region:   abyssea_attohwa_c_13
+
+  17658087:
+    template: Chasm_Coeurl
+    level:    [79, 80]
+    region:   abyssea_attohwa_c_13
+
+  17658088:
+    template: Chasm_Coeurl
+    level:    [79, 80]
+    region:   abyssea_attohwa_se_2
+
+  17658089:
+    template: Chasm_Coeurl
+    level:    [79, 80]
+    region:   abyssea_attohwa_se_2
+
+  17658090:
+    template: Chasm_Coeurl
+    level:    [79, 80]
+    region:   abyssea_attohwa_se_2
+
+  17658091:
+    template: Chasm_Coeurl
+    level:    [79, 80]
+    region:   abyssea_attohwa_se_2
+
+  17658092:
+    template: Chasm_Coeurl
+    level:    [79, 80]
+    region:   abyssea_attohwa_se_2
+
+  17658093:
+    template: Chasm_Coeurl
+    level:    [79, 80]
+    region:   abyssea_attohwa_se_2
+
+  17658094:
+    template: Ephemeral_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_c_10
+
+  17658095:
+    template: Amuckatrice
+    level:    [81, 82]
+    region:   abyssea_attohwa_c_8
+
+  17658096:
+    template: Amuckatrice
+    level:    [81, 82]
+    region:   abyssea_attohwa_c_8
+
+  17658097:
+    template: Amuckatrice
+    level:    [81, 82]
+    region:   abyssea_attohwa_c_8
+
+  17658098:
+    template: Amuckatrice
+    level:    [81, 82]
+    region:   abyssea_attohwa_c_8
+
+  17658099:
+    template: Amuckatrice
+    level:    [81, 82]
+    region:   abyssea_attohwa_c_12
+
+  17658100:
+    template: Amuckatrice
+    level:    [81, 82]
+    region:   abyssea_attohwa_c_12
+
+  17658101:
+    template: Amuckatrice
+    level:    [81, 82]
+    region:   abyssea_attohwa_c_12
+
+  17658102:
+    template: Amuckatrice
+    level:    [81, 82]
+    region:   abyssea_attohwa_c_12
+
+  17658103:
+    template: Amuckatrice
+    level:    [81, 82]
+    region:   abyssea_attohwa_c_14
+
+  17658104:
+    template: Amuckatrice
+    level:    [81, 82]
+    region:   abyssea_attohwa_c_14
+
+  17658105:
+    template: Amuckatrice
+    level:    [81, 82]
+    region:   abyssea_attohwa_c_14
+
+  17658106:
+    template: Amuckatrice
+    level:    [81, 82]
+    region:   abyssea_attohwa_c_14
+
+  17658107:
+    template: Ephemeral_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_c_9
+
+  17658108:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne
+
+  17658109:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne
+
+  17658110:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne
+
+  17658111:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne
+
+  17658112:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne
+
+  17658113:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne
+
+  17658114:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne
+
+  17658115:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne
+
+  17658116:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_3
+
+  17658117:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_3
+
+  17658118:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_3
+
+  17658119:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_3
+
+  17658120:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_3
+
+  17658121:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_3
+
+  17658122:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_3
+
+  17658123:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_3
+
+  17658124:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_2
+
+  17658125:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_2
+
+  17658126:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_2
+
+  17658127:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_2
+
+  17658128:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_2
+
+  17658129:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_2
+
+  17658130:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_2
+
+  17658131:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_2
+
+  17658132:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_4
+
+  17658133:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_4
+
+  17658134:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_4
+
+  17658135:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_4
+
+  17658136:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_4
+
+  17658137:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_4
+
+  17658138:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_4
+
+  17658139:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_4
+
+  17658140:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne
+
+  17658141:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_3
+
+  17658142:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_2
+
+  17658143:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_4
+
+  17658144:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_2
+
+  17658145:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_2
+
+  17658146:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_2
+
+  17658147:
+    template: Entozoon
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_2
+
+  17658148:
+    template: Ephemeral_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_ne_2
+
+  17658149:
+    template: Terminus_Eft
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_5
+
+  17658150:
+    template: Terminus_Eft
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_5
+
+  17658151:
+    template: Terminus_Eft
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_5
+
+  17658152:
+    template: Terminus_Eft
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_5
+
+  17658153:
+    template: Terminus_Eft
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_5
+
+  17658154:
+    template: Terminus_Eft
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_5
+
+  17658155:
+    template: Terminus_Eft
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_5
+
+  17658156:
+    template: Terminus_Eft
+    level:    [81, 82]
+    region:   abyssea_attohwa_e_5
+
+  17658157:
+    template: Terminus_Eft
+    level:    [81, 82]
+    region:   abyssea_attohwa_e_5
+
+  17658158:
+    template: Terminus_Eft
+    level:    [81, 82]
+    region:   abyssea_attohwa_e_5
+
+  17658159:
+    template: Terminus_Eft
+    level:    [81, 82]
+    region:   abyssea_attohwa_e_7
+
+  17658160:
+    template: Terminus_Eft
+    level:    [81, 82]
+    region:   abyssea_attohwa_e_7
+
+  17658161:
+    template: Terminus_Eft
+    level:    [81, 82]
+    region:   abyssea_attohwa_e_7
+
+  17658162:
+    template: Terminus_Eft
+    level:    [81, 82]
+    region:   abyssea_attohwa_e_7
+
+  17658163:
+    template: Terminus_Eft
+    level:    [81, 82]
+    region:   abyssea_attohwa_e_7
+
+  17658164:
+    template: Terminus_Eft
+    level:    [81, 82]
+    region:   abyssea_attohwa_e_7
+
+  17658165:
+    template: Terminus_Eft
+    level:    [81, 82]
+    region:   abyssea_attohwa_e_7
+
+  17658166:
+    template: Terminus_Eft
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_5
+
+  17658167:
+    template: Terminus_Eft
+    level:    [81, 82]
+    region:   abyssea_attohwa_ne_5
+
+  17658168:
+    template: Ephemeral_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_ne_5
+
+  17658169:
+    template: Rift_Treant
+    level:    [83, 84]
+    region:   abyssea_attohwa_e_12
+
+  17658170:
+    template: Rift_Treant
+    level:    [83, 84]
+    region:   abyssea_attohwa_e_12
+
+  17658171:
+    template: Rift_Treant
+    level:    [83, 84]
+    region:   abyssea_attohwa_e_12
+
+  17658172:
+    template: Rift_Treant
+    level:    [83, 84]
+    region:   abyssea_attohwa_e_12
+
+  17658173:
+    template: Rift_Treant
+    level:    [83, 84]
+    region:   abyssea_attohwa_e_11
+
+  17658174:
+    template: Rift_Treant
+    level:    [83, 84]
+    region:   abyssea_attohwa_e_11
+
+  17658175:
+    template: Rift_Treant
+    level:    [83, 84]
+    region:   abyssea_attohwa_e_9
+
+  17658176:
+    template: Rift_Treant
+    level:    [83, 84]
+    region:   abyssea_attohwa_e_9
+
+  17658177:
+    template: Ephemeral_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_e_10
+
+  17658178:
+    template: Murrain_Chigoe
+    level:    [79, 80]
+    region:   abyssea_attohwa_se_8
+
+  17658179:
+    template: Murrain_Chigoe
+    level:    [79, 80]
+    region:   abyssea_attohwa_se_8
+
+  17658180:
+    template: Murrain_Chigoe
+    level:    [79, 80]
+    region:   abyssea_attohwa_se_8
+
+  17658181:
+    template: Murrain_Chigoe
+    level:    [79, 80]
+    region:   abyssea_attohwa_se_8
+
+  17658182:
+    template: Murrain_Chigoe
+    level:    [79, 80]
+    region:   abyssea_attohwa_se_8
+
+  17658183:
+    template: Murrain_Chigoe
+    level:    [79, 80]
+    region:   abyssea_attohwa_se_8
+
+  17658184:
+    template: Murrain_Chigoe
+    level:    [79, 80]
+    region:   abyssea_attohwa_se_8
+
+  17658185:
+    template: Murrain_Chigoe
+    level:    [79, 80]
+    region:   abyssea_attohwa_se_8
+
+  17658186:
+    template: Murrain_Chigoe
+    level:    [79, 80]
+    region:   abyssea_attohwa_se_8
+
+  17658187:
+    template: Murrain_Chigoe
+    level:    [79, 80]
+    region:   abyssea_attohwa_se_8
+
+  17658188:
+    template: Murrain_Chigoe
+    level:    [79, 80]
+    region:   abyssea_attohwa_se_8
+
+  17658189:
+    template: Murrain_Chigoe
+    level:    [79, 80]
+    region:   abyssea_attohwa_se_8
+
+  17658190:
+    template: Murrain_Chigoe
+    level:    [79, 80]
+    region:   abyssea_attohwa_se_8
+
+  17658191:
+    template: Murrain_Chigoe
+    level:    [79, 80]
+    region:   abyssea_attohwa_se_8
+
+  17658192:
+    template: Murrain_Chigoe
+    level:    [79, 80]
+    region:   abyssea_attohwa_se_8
+
+  17658193:
+    template: Murrain_Chigoe
+    level:    [79, 80]
+    region:   abyssea_attohwa_se_8
+
+  17658194:
+    template: Murrain_Chigoe
+    level:    [79, 80]
+    region:   abyssea_attohwa_se_8
+
+  17658195:
+    template: Murrain_Chigoe
+    level:    [79, 80]
+    region:   abyssea_attohwa_se_8
+
+  17658196:
+    template: Murrain_Chigoe
+    level:    [79, 80]
+    region:   abyssea_attohwa_se_8
+
+  17658197:
+    template: Murrain_Chigoe
+    level:    [79, 80]
+    region:   abyssea_attohwa_se_8
+
+  17658198:
+    template: Murrain_Chigoe
+    level:    [79, 80]
+    region:   abyssea_attohwa_se_8
+
+  17658199:
+    template: Murrain_Chigoe
+    level:    [79, 80]
+    region:   abyssea_attohwa_se_8
+
+  17658200:
+    template: Murrain_Chigoe
+    level:    [79, 80]
+    region:   abyssea_attohwa_se_8
+
+  17658201:
+    template: Ephemeral_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_se_8
+
+  17658202:
+    template: Gullycampa
+    level:    [83, 84]
+    region:   abyssea_attohwa_se_4
+
+  17658203:
+    template: Gullycampa
+    level:    [83, 84]
+    region:   abyssea_attohwa_se_4
+
+  17658204:
+    template: Gullycampa
+    level:    [83, 84]
+    region:   abyssea_attohwa_se_4
+
+  17658205:
+    template: Gullycampa
+    level:    [83, 84]
+    region:   abyssea_attohwa_se_5
+
+  17658206:
+    template: Gullycampa
+    level:    [83, 84]
+    region:   abyssea_attohwa_se_5
+
+  17658207:
+    template: Gullycampa
+    level:    [83, 84]
+    region:   abyssea_attohwa_se_5
+
+  17658208:
+    template: Gullycampa
+    level:    [83, 84]
+    region:   abyssea_attohwa_se_7
+
+  17658209:
+    template: Gullycampa
+    level:    [83, 84]
+    region:   abyssea_attohwa_se_7
+
+  17658210:
+    template: Gullycampa
+    level:    [83, 84]
+    region:   abyssea_attohwa_se_7
+
+  17658211:
+    template: Gullycampa
+    level:    [83, 84]
+    region:   abyssea_attohwa_se_7
+
+  17658212:
+    template: Gullycampa
+    level:    [83, 84]
+    region:   abyssea_attohwa_se_7
+
+  17658213:
+    template: Gullycampa
+    level:    [83, 84]
+    region:   abyssea_attohwa_se_6
+
+  17658214:
+    template: Gullycampa
+    level:    [83, 84]
+    region:   abyssea_attohwa_se_6
+
+  17658215:
+    template: Gullycampa
+    level:    [83, 84]
+    region:   abyssea_attohwa_se_6
+
+  17658216:
+    template: Gullycampa
+    level:    [83, 84]
+    region:   abyssea_attohwa_se_6
+
+  17658217:
+    template: Gullycampa
+    level:    [83, 84]
+    region:   abyssea_attohwa_se_6
+
+  17658218:
+    template: Ephemeral_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_se_3
+
+  17658219:
+    template: Hannequet
+    level:    [94, 95]
+    region:   abyssea_attohwa_e_3
+
+  17658220:
+    template: Hannequet
+    level:    [94, 95]
+    region:   abyssea_attohwa_e_3
+
+  17658221:
+    template: Hannequet
+    level:    [94, 95]
+    region:   abyssea_attohwa_e_3
+
+  17658222:
+    template: Hannequet
+    level:    [94, 95]
+    region:   abyssea_attohwa_e_3
+
+  17658223:
+    template: Hannequet
+    level:    [94, 95]
+    region:   abyssea_attohwa_e_3
+
+  17658224:
+    template: Hannequet
+    level:    [82, 83]
+    region:   abyssea_attohwa_e_4
+
+  17658225:
+    template: Hannequet
+    level:    [82, 83]
+    region:   abyssea_attohwa_e_4
+
+  17658226:
+    template: Hannequet
+    level:    [82, 83]
+    region:   abyssea_attohwa_e_4
+
+  17658227:
+    template: Hannequet
+    level:    [82, 83]
+    region:   abyssea_attohwa_e_4
+
+  17658228:
+    template: Hannequet
+    level:    [82, 83]
+    region:   abyssea_attohwa_e_4
+
+  17658229:
+    template: Hannequet
+    level:    [94, 95]
+    region:   abyssea_attohwa_e_8
+
+  17658230:
+    template: Hannequet
+    level:    [94, 95]
+    region:   abyssea_attohwa_e_8
+
+  17658231:
+    template: Hannequet
+    level:    [94, 95]
+    region:   abyssea_attohwa_e_8
+
+  17658232:
+    template: Hannequet
+    level:    [94, 95]
+    region:   abyssea_attohwa_e_8
+
+  17658233:
+    template: Hannequet
+    level:    [82, 83]
+    region:   abyssea_attohwa_e_6
+
+  17658234:
+    template: Hannequet
+    level:    [82, 83]
+    region:   abyssea_attohwa_e_6
+
+  17658235:
+    template: Hannequet
+    level:    [82, 83]
+    region:   abyssea_attohwa_e_6
+
+  17658236:
+    template: Hannequet
+    level:    [82, 83]
+    region:   abyssea_attohwa_e_6
+
+  17658237:
+    template: Hannequet
+    level:    [82, 83]
+    region:   abyssea_attohwa_e_2
+
+  17658238:
+    template: Hannequet
+    level:    [82, 83]
+    region:   abyssea_attohwa_e_2
+
+  17658239:
+    template: Hannequet
+    level:    [82, 83]
+    region:   abyssea_attohwa_e_2
+
+  17658240:
+    template: Hannequet
+    level:    [82, 83]
+    region:   abyssea_attohwa_e_2
+
+  17658241:
+    template: Hannequet
+    level:    [94, 95]
+    region:   abyssea_attohwa_e_3
+
+  17658242:
+    template: Hannequet
+    level:    [94, 95]
+    region:   abyssea_attohwa_e_3
+
+  17658243:
+    template: Hannequet
+    level:    [94, 95]
+    region:   abyssea_attohwa_e_3
+
+  17658244:
+    template: Hannequet
+    level:    [94, 95]
+    region:   abyssea_attohwa_e_3
+
+  17658245:
+    template: Hannequet
+    level:    [94, 95]
+    region:   abyssea_attohwa_e_3
+
+  17658246:
+    template: Hannequet
+    level:    [94, 95]
+    region:   abyssea_attohwa_e_3
+
+  17658247:
+    template: Ephemeral_Murex
+    level:    [79, 88]
+    region:   abyssea_attohwa_e_3
+
+  17658248:
+    template: Tejas
+    at:       [0.000, 0.000, 0.000, 130]
+    level:    [0, 0]
+
+  17658249:
+    template: Tejas
+    at:       [0.000, 0.000, 0.000, 160]
+    level:    [0, 0]
+
+  17658250:
+    template: Tejas
+    at:       [0.000, 0.000, 0.000, 190]
+    level:    [0, 0]
+
+  17658251:
+    template: Tejas
+    at:       [0.000, 0.000, 0.000, 220]
+    level:    [0, 0]
+
+  17658252:
+    template: Tejas
+    at:       [0.000, 0.000, 0.000, 250]
+    level:    [0, 0]
+
+  17658253:
+    template: Lusca
+    at:       [0.000, 0.000, 0.000, 30]
+    level:    [0, 0]
+
+  17658254:
+    template: Eseuvhi
+    at:       [0.000, 0.000, 0.000, 60]
+    level:    [0, 0]
+
+  17658255:
+    template: Ateuvhi
+    at:       [0.000, 0.000, 0.000, 90]
+    level:    [82, 88]
+
+  17658256:
+    template: Ateuvhi
+    at:       [0.000, 0.000, 0.000, 120]
+    level:    [82, 88]
+
+  17658257:
+    template: Ateuvhi
+    at:       [0.000, 0.000, 0.000, 150]
+    level:    [82, 88]
+
+  17658258:
+    template: Ateuvhi
+    at:       [0.000, 0.000, 0.000, 180]
+    level:    [82, 88]
+
+  17658259:
+    template: Ateuvhi
+    at:       [0.000, 0.000, 0.000, 210]
+    level:    [82, 88]
+
+  17658260:
+    template: Ateuvhi
+    at:       [0.000, 0.000, 0.000, 240]
+    level:    [82, 88]
+
+  17658261:
+    template: Granite_Borer
+    at:       [401.000, 20.000, -282.000, 141]
+    level:    [0, 0]
+
+  17658262:
+    template: Blazing_Eruca
+    at:       [233.000, 19.000, -243.000, 50]
+    level:    [0, 0]
+
+  17658263:
+    template: Pallid_Percy
+    at:       [281.063, 20.376, 174.011, 80]
+    level:    [0, 0]
+
+  17658264:
+    template: Gaizkin
+    at:       [-130.000, 0.000, 2.000, 2]
+    level:    [0, 0]
+
+  17658265:
+    template: Kharon
+    at:       [-389.000, -3.000, 245.000, 140]
+    level:    [0, 0]
+
+  17658266:
+    template: Drekavac
+    at:       [-159.000, 0.001, 220.000, 170]
+    level:    [0, 0]
+
+  17658267:
+    template: Svarbhanu
+    at:       [-539.000, -12.000, -75.000, 150]
+    level:    [0, 0]
+
+  17658268:
+    template: Kampe
+    at:       [-404.000, 3.000, -198.000, 230]
+    level:    [0, 0]
+
+  17658269:
+    template: Berstuk
+    at:       [-279.000, -4.000, -38.000, 10]
+    level:    [82, 85]
+
+  17658270:
+    template: Maahes
+    at:       [214.000, 20.000, -94.000, 40]
+    level:    [0, 0]
+
+  17658271:
+    template: Nightshade
+    at:       [411.000, 19.000, 13.000, 70]
+    level:    [0, 0]
+
+  17658272:
+    template: Wherwetrice
+    at:       [206.000, 20.000, 109.000, 123]
+    level:    [0, 0]
+
+  17658273:
+    template: Mielikki
+    at:       [481.000, 20.000, 39.000, 13]
+    level:    [0, 0]
+
+  17658274:
+    template: Smok
+    at:       [-539.000, -12.000, -75.000, 150]
+    level:    [0, 0]
+
+  17658275:
+    template: Titlacauan
+    at:       [-404.436, -4.000, 246.000, 190]
+    level:    [0, 0]
+
+  17658276:
+    template: Ulhuadshi
+    at:       [360.000, 20.000, 199.000, 220]
+    level:    [0, 0]
+
+  17658277:
+    template: Itzpapalotl
+    at:       [436.000, 20.000, -184.000, 250]
+    level:    [90, 93]
+
+  17658278:
+    template: Smok
+    at:       [-547.000, -4.000, -12.000, 30]
+    level:    [0, 0]
+
+  17658279:
+    template: Titlacauan
+    at:       [-396.000, -3.000, 256.000, 190]
+    level:    [0, 0]
+
+  17658280:
+    template: Ulhuadshi
+    at:       [361.193, 20.005, 199.340, 90]
+    level:    [0, 0]
+
+  17658281:
+    template: Itzpapalotl
+    at:       [424.940, 20.220, -194.227, 120]
+    level:    [90, 93]
+
+  17658282:
+    template: Smok
+    at:       [-530.000, -5.000, -39.000, 160]
+    level:    [0, 0]
+
+  17658283:
+    template: Titlacauan
+    at:       [-396.937, -3.000, 259.001, 180]
+    level:    [0, 0]
+
+  17658284:
+    template: Ulhuadshi
+    at:       [340.193, 20.005, 220.340, 210]
+    level:    [0, 0]
+
+  17658285:
+    template: Itzpapalotl
+    at:       [439.940, 21.020, -179.227, 240]
+    level:    [90, 93]
+
+  17658286:
+    template: Tunga
+    level:    [90, 90]
+    region:   abyssea_attohwa_se_8
+
+  17658287:
+    template: Amun
+    level:    [90, 90]
+    region:   abyssea_attohwa_c_6
+
+  17658288:
+    template: Gieremund
+    level:    [90, 90]
+    region:   abyssea_attohwa_nw_4
+
+  17658289:
+    template: Warbler
+    level:    [90, 90]
+    region:   abyssea_attohwa_nw
+
+  17658290:
+    template: Aggressor_Antlion
+    level:    [90, 90]
+    region:   abyssea_attohwa_w_5
+
+  17658291:
+    template: Whiro
+    level:    [90, 90]
+    region:   abyssea_attohwa_ne_5
+
+  17658292:
+    template: Yaanei
+    level:    [95, 95]
+    region:   abyssea_attohwa_e
+
+  17658293:
+    template: Ironclad_Cleaver
+    at:       [-276.000, -4.000, -159.000, 107]
+    level:    [0, 0]
+
+  17658294:
+    template: Sturdy_Pyxis
+    at:       [-116.129, -10.240, 179.051, 10]
+    level:    [0, 0]
+
+  17658295:
+    template: Sturdy_Pyxis
+    at:       [-404.126, -3.631, -142.481, 0]
+    level:    [0, 0]
+
+  17658296:
+    template: Sturdy_Pyxis
+    at:       [-107.353, -0.550, -11.285, 0]
+    level:    [0, 0]
+
+  17658297:
+    template: Sturdy_Pyxis
+    at:       [-531.202, -12.900, -72.591, 0]
+    level:    [0, 0]
+
+  17658298:
+    template: Surveyor
+    level:    [0, 0]
+    region:   abyssea_attohwa_w_8
+
+  17658299:
+    template: Surveyor
+    level:    [0, 0]
+    region:   abyssea_attohwa_w_8
+
+  17658300:
+    template: Scrutinizer
+    level:    [0, 0]
+    region:   abyssea_attohwa_w_8
+
+  17658301:
+    template: Scrutinizer
+    level:    [0, 0]
+    region:   abyssea_attohwa_w_8
+
+  17658302:
+    template: Decontaminator
+    level:    [0, 0]
+    region:   abyssea_attohwa_w_9
+
+  17658303:
+    template: Decontaminator
+    level:    [0, 0]
+    region:   abyssea_attohwa_w_8
+
+  17658304:
+    template: Vigilant_Gears
+    level:    [0, 0]
+    region:   abyssea_attohwa_w_8
+
+  17658305:
+    template: Vigilant_Gears
+    level:    [0, 0]
+    region:   abyssea_attohwa_w_8
+
+  17658306:
+    template: Immobilizer
+    at:       [-362.336, -12.527, 78.540, 252]
+    level:    [0, 0]
+
+  17658307:
+    template: Disassembler
+    at:       [-353.208, -12.332, 79.812, 123]
+    level:    [0, 0]
+
+  17658308:
+    template: Oppressor
+    at:       [-472.246, -4.548, 231.072, 171]
+    level:    [0, 0]
+
+  17658309:
+    template: Edifier
+    at:       [-397.488, -3.508, 141.550, 192]
+    level:    [0, 0]
+
+  17658310:
+    template: Overseer
+    at:       [0.000, 0.000, 0.000, 240]
+    level:    [0, 0]
+
+  17658311:
+    template: Surveyor
+    at:       [-485.595, -4.499, 7.077, 175]
+    level:    [0, 0]
+
+  17658312:
+    template: Surveyor
+    at:       [0.000, 0.000, 0.000, 50]
+    level:    [0, 0]
+
+  17658313:
+    template: Scrutinizer
+    at:       [-510.294, -4.537, 33.776, 11]
+    level:    [0, 0]
+
+  17658314:
+    template: Scrutinizer
+    at:       [-353.961, -12.339, 43.856, 95]
+    level:    [0, 0]
+
+  17658315:
+    template: Vigilant_Gear
+    at:       [-486.763, -4.498, 6.460, 174]
+    level:    [0, 0]
+
+  17658316:
+    template: Vigilant_Gear
+    at:       [-561.594, -4.491, 2.077, 120]
+    level:    [0, 0]
+
+  17658317:
+    template: Earth_Mover
+    at:       [-475.578, -4.422, -5.400, 141]
+    level:    [0, 0]
+
+  17658318:
+    template: Earth_Mover
+    at:       [-346.929, -12.043, 51.236, 98]
+    level:    [0, 0]
+
+  17658319:
+    template: Immobilizer
+    at:       [-486.769, -4.499, 4.042, 171]
+    level:    [0, 0]
+
+  17658320:
+    template: Disassembler
+    at:       [-486.996, -4.500, 2.745, 179]
+    level:    [0, 0]
+
+  17658321:
+    template: Oppressor
+    at:       [-359.371, -12.466, 37.184, 95]
+    level:    [0, 0]
+
+  17658322:
+    template: Edifier
+    at:       [-353.555, -12.267, 42.645, 95]
+    level:    [0, 0]
+
+  17658323:
+    template: Overseer
+    at:       [0.000, 0.000, 0.000, 125]
+    level:    [0, 0]
+
+  17658324:
+    template: Surveyor
+    level:    [0, 0]
+    region:   abyssea_attohwa_sw_5
+
+  17658325:
+    template: Surveyor
+    level:    [0, 0]
+    region:   abyssea_attohwa_sw_6
+
+  17658326:
+    template: Scrutinizer
+    level:    [0, 0]
+    region:   abyssea_attohwa_sw_7
+
+  17658327:
+    template: Scrutinizer
+    at:       [0.000, 0.000, 0.000, 250]
+    level:    [0, 0]
+
+  17658328:
+    template: Custodian
+    level:    [0, 0]
+    region:   abyssea_attohwa_sw_8
+
+  17658329:
+    template: Custodian
+    level:    [0, 0]
+    region:   abyssea_attohwa_sw_8
+
+  17658330:
+    template: Ravager_Chariot
+    level:    [0, 0]
+    region:   abyssea_attohwa_sw_8
+
+  17658331:
+    template: Ravager_Chariot
+    level:    [0, 0]
+    region:   abyssea_attohwa_sw_9
+
+  17658332:
+    template: Immobilizer
+    at:       [-325.969, -12.435, 38.209, 62]
+    level:    [0, 0]
+
+  17658333:
+    template: Disassembler
+    at:       [-338.404, -11.553, 37.283, 86]
+    level:    [0, 0]
+
+  17658334:
+    template: Oppressor
+    level:    [0, 0]
+    region:   abyssea_attohwa_sw_8
+
+  17658335:
+    template: Edifier
+    at:       [-329.579, -4.611, -127.397, 89]
+    level:    [0, 0]
+
+  17658336:
+    template: Overseer
+    at:       [0.000, 0.000, 0.000, 20]
+    level:    [0, 0]
+
+  17658337:
+    template: Bastion_Fighter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17658338:
+    template: Bastion_Fighter
+    level:    [0, 0]
+    region:   abyssea_attohwa_w_11
+
+  17658339:
+    template: Bastion_Fighter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17658340:
+    template: Bastion_Fighter
+    level:    [0, 0]
+    region:   abyssea_attohwa_w_10
+
+  17658341:
+    template: Bastion_Fighter
+    level:    [0, 0]
+    region:   abyssea_attohwa_w_10
+
+  17658342:
+    template: Bastion_Mage
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17658343:
+    template: Bastion_Mage
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17658344:
+    template: Bastion_Mage
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17658345:
+    template: Qiqirn_Trapper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17658346:
+    template: Qiqirn_Trapper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17658347:
+    template: Qiqirn_Bewitcher
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17658348:
+    template: Qiqirn_Bewitcher
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]

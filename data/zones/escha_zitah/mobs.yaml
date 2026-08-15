@@ -1,0 +1,2728 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17956865:
+    template: Eschan_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17956866:
+    template: Eschan_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17956867:
+    template: Eschan_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17956868:
+    template: Eschan_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17956869:
+    template: Eschan_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17956870:
+    template: Emperor_Arthro
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17956871:
+    template: Eschan_Worm
+    level:    [50, 59]
+    region:   escha_zitah_w_5
+
+  17956872:
+    template: Eschan_Worm
+    level:    [50, 59]
+    region:   escha_zitah_w_5
+
+  17956873:
+    template: Eschan_Worm
+    level:    [50, 59]
+    region:   escha_zitah_w_5
+
+  17956874:
+    template: Eschan_Worm
+    level:    [50, 59]
+    region:   escha_zitah_w_5
+
+  17956875:
+    template: Eschan_Worm
+    level:    [50, 59]
+    region:   escha_zitah_w_5
+
+  17956876:
+    template: Eschan_Obdella
+    level:    [50, 59]
+    region:   escha_zitah_w_5
+
+  17956877:
+    template: Eschan_Obdella
+    level:    [50, 59]
+    region:   escha_zitah_w_5
+
+  17956878:
+    template: Eschan_Obdella
+    level:    [50, 59]
+    region:   escha_zitah_w_5
+
+  17956879:
+    template: Eschan_Obdella
+    level:    [50, 59]
+    region:   escha_zitah_w_5
+
+  17956880:
+    template: Eschan_Obdella
+    level:    [50, 59]
+    region:   escha_zitah_w_5
+
+  17956881:
+    template: Eschan_Worm
+    at:       [-443.700, -0.843, -115.870, 183]
+    level:    [50, 59]
+
+  17956882:
+    template: Eschan_Worm
+    level:    [50, 59]
+    region:   escha_zitah_w_3
+
+  17956883:
+    template: Eschan_Worm
+    level:    [50, 59]
+    region:   escha_zitah_w_3
+
+  17956884:
+    template: Eschan_Obdella
+    level:    [50, 59]
+    region:   escha_zitah_w_3
+
+  17956885:
+    template: Eschan_Obdella
+    level:    [50, 59]
+    region:   escha_zitah_w_3
+
+  17956886:
+    template: Eschan_Obdella
+    level:    [50, 59]
+    region:   escha_zitah_w_3
+
+  17956887:
+    template: Eschan_Obdella
+    level:    [50, 59]
+    region:   escha_zitah_w_3
+
+  17956888:
+    template: Eschan_Worm
+    level:    [50, 59]
+    region:   escha_zitah_w_4
+
+  17956889:
+    template: Eschan_Worm
+    level:    [50, 59]
+    region:   escha_zitah_w_4
+
+  17956890:
+    template: Eschan_Worm
+    level:    [50, 59]
+    region:   escha_zitah_w_4
+
+  17956891:
+    template: Eschan_Obdella
+    level:    [50, 59]
+    region:   escha_zitah_w_4
+
+  17956892:
+    template: Eschan_Obdella
+    level:    [50, 59]
+    region:   escha_zitah_w_4
+
+  17956893:
+    template: Eschan_Obdella
+    level:    [50, 59]
+    region:   escha_zitah_w_4
+
+  17956894:
+    template: Eschan_Obdella
+    level:    [50, 59]
+    region:   escha_zitah_w_4
+
+  17956895:
+    template: Eschan_Worm
+    level:    [50, 59]
+    region:   escha_zitah_w_6
+
+  17956896:
+    template: Eschan_Worm
+    level:    [50, 59]
+    region:   escha_zitah_w_6
+
+  17956897:
+    template: Eschan_Worm
+    level:    [50, 59]
+    region:   escha_zitah_w_6
+
+  17956898:
+    template: Eschan_Worm
+    level:    [50, 59]
+    region:   escha_zitah_w_6
+
+  17956899:
+    template: Eschan_Crawler
+    level:    [50, 59]
+    region:   escha_zitah_w_6
+
+  17956900:
+    template: Eschan_Crawler
+    level:    [50, 59]
+    region:   escha_zitah_w_6
+
+  17956901:
+    template: Eschan_Crawler
+    level:    [50, 59]
+    region:   escha_zitah_w_6
+
+  17956902:
+    template: Eschan_Crawler
+    level:    [50, 59]
+    region:   escha_zitah_w_6
+
+  17956903:
+    template: Eschan_Crawler
+    level:    [50, 59]
+    region:   escha_zitah_w_6
+
+  17956904:
+    template: Eschan_Worm
+    level:    [50, 59]
+    region:   escha_zitah_w_7
+
+  17956905:
+    template: Eschan_Worm
+    level:    [50, 59]
+    region:   escha_zitah_w_7
+
+  17956906:
+    template: Eschan_Worm
+    level:    [50, 59]
+    region:   escha_zitah_w_7
+
+  17956907:
+    template: Eschan_Worm
+    level:    [50, 59]
+    region:   escha_zitah_w_7
+
+  17956908:
+    template: Eschan_Worm
+    level:    [50, 59]
+    region:   escha_zitah_w_7
+
+  17956909:
+    template: Eschan_Worm
+    level:    [50, 59]
+    region:   escha_zitah_w_7
+
+  17956910:
+    template: Eschan_Crawler
+    level:    [50, 59]
+    region:   escha_zitah_w_7
+
+  17956911:
+    template: Eschan_Crawler
+    level:    [50, 59]
+    region:   escha_zitah_w_7
+
+  17956912:
+    template: Eschan_Crawler
+    level:    [50, 59]
+    region:   escha_zitah_w_7
+
+  17956913:
+    template: Eschan_Crawler
+    level:    [50, 59]
+    region:   escha_zitah_w_7
+
+  17956914:
+    template: Eschan_Crawler
+    level:    [50, 59]
+    region:   escha_zitah_w_7
+
+  17956915:
+    template: Eschan_Crawler
+    level:    [50, 59]
+    region:   escha_zitah_w_7
+
+  17956916:
+    template: Eschan_Crawler
+    level:    [50, 59]
+    region:   escha_zitah_w_7
+
+  17956917:
+    template: Eschan_Worm
+    level:    [50, 59]
+    region:   escha_zitah_w_8
+
+  17956918:
+    template: Eschan_Worm
+    level:    [50, 59]
+    region:   escha_zitah_w_8
+
+  17956919:
+    template: Eschan_Worm
+    level:    [50, 59]
+    region:   escha_zitah_w_8
+
+  17956920:
+    template: Eschan_Worm
+    level:    [50, 59]
+    region:   escha_zitah_w_8
+
+  17956921:
+    template: Eschan_Worm
+    level:    [50, 59]
+    region:   escha_zitah_w_8
+
+  17956922:
+    template: Eschan_Crawler
+    level:    [50, 59]
+    region:   escha_zitah_w_8
+
+  17956923:
+    template: Eschan_Crawler
+    level:    [50, 59]
+    region:   escha_zitah_w_8
+
+  17956924:
+    template: Eschan_Crawler
+    level:    [50, 59]
+    region:   escha_zitah_w_8
+
+  17956925:
+    template: Eschan_Crawler
+    level:    [50, 59]
+    region:   escha_zitah_w_8
+
+  17956926:
+    template: Eschan_Crawler
+    level:    [50, 59]
+    region:   escha_zitah_w_8
+
+  17956927:
+    template: Eschan_Crawler
+    level:    [50, 59]
+    region:   escha_zitah_w_8
+
+  17956928:
+    template: Eschan_Crawler
+    level:    [50, 59]
+    region:   escha_zitah_w_8
+
+  17956929:
+    template: Eschan_Crawler
+    level:    [50, 59]
+    region:   escha_zitah_w_8
+
+  17956930:
+    template: Eschan_Worm
+    level:    [50, 59]
+    region:   escha_zitah_w_9
+
+  17956931:
+    template: Eschan_Worm
+    level:    [50, 59]
+    region:   escha_zitah_w_9
+
+  17956932:
+    template: Eschan_Worm
+    level:    [50, 59]
+    region:   escha_zitah_w_9
+
+  17956933:
+    template: Eschan_Crawler
+    level:    [50, 59]
+    region:   escha_zitah_w_9
+
+  17956934:
+    template: Eschan_Crawler
+    level:    [50, 59]
+    region:   escha_zitah_w_9
+
+  17956935:
+    template: Eschan_Crawler
+    level:    [50, 59]
+    region:   escha_zitah_w_9
+
+  17956936:
+    template: Eschan_Crawler
+    level:    [50, 59]
+    region:   escha_zitah_w_9
+
+  17956937:
+    template: Eschan_Crawler
+    level:    [50, 59]
+    region:   escha_zitah_w_9
+
+  17956938:
+    template: Eschan_Crawler
+    level:    [50, 59]
+    region:   escha_zitah_w_9
+
+  17956939:
+    template: Eschan_Crawler
+    level:    [50, 59]
+    region:   escha_zitah_w_9
+
+  17956940:
+    template: Eschan_Weapon
+    level:    [60, 69]
+    region:   escha_zitah_w_2
+
+  17956941:
+    template: Eschan_Weapon
+    level:    [60, 69]
+    region:   escha_zitah_w_2
+
+  17956942:
+    template: Eschan_Weapon
+    level:    [60, 69]
+    region:   escha_zitah_w_2
+
+  17956943:
+    template: Eschan_Weapon
+    level:    [60, 69]
+    region:   escha_zitah_w_2
+
+  17956944:
+    template: Eschan_Dhalmel
+    level:    [60, 69]
+    region:   escha_zitah_w_2
+
+  17956945:
+    template: Eschan_Dhalmel
+    level:    [60, 69]
+    region:   escha_zitah_w_2
+
+  17956946:
+    template: Eschan_Dhalmel
+    level:    [60, 69]
+    region:   escha_zitah_w_2
+
+  17956947:
+    template: Eschan_Dhalmel
+    level:    [60, 69]
+    region:   escha_zitah_w_2
+
+  17956948:
+    template: Eschan_Weapon
+    level:    [60, 69]
+    region:   escha_zitah_w
+
+  17956949:
+    template: Eschan_Weapon
+    level:    [60, 69]
+    region:   escha_zitah_w
+
+  17956950:
+    template: Eschan_Weapon
+    level:    [60, 69]
+    region:   escha_zitah_w
+
+  17956951:
+    template: Eschan_Weapon
+    level:    [60, 69]
+    region:   escha_zitah_w
+
+  17956952:
+    template: Eschan_Dhalmel
+    level:    [60, 69]
+    region:   escha_zitah_w
+
+  17956953:
+    template: Eschan_Dhalmel
+    level:    [60, 69]
+    region:   escha_zitah_w
+
+  17956954:
+    template: Eschan_Dhalmel
+    level:    [60, 69]
+    region:   escha_zitah_w
+
+  17956955:
+    template: Eschan_Weapon
+    level:    [60, 69]
+    region:   escha_zitah_nw
+
+  17956956:
+    template: Eschan_Weapon
+    level:    [60, 69]
+    region:   escha_zitah_nw
+
+  17956957:
+    template: Eschan_Weapon
+    level:    [60, 69]
+    region:   escha_zitah_nw
+
+  17956958:
+    template: Eschan_Weapon
+    level:    [60, 69]
+    region:   escha_zitah_nw
+
+  17956959:
+    template: Eschan_Weapon
+    level:    [60, 69]
+    region:   escha_zitah_nw
+
+  17956960:
+    template: Eschan_Dhalmel
+    level:    [60, 69]
+    region:   escha_zitah_nw
+
+  17956961:
+    template: Eschan_Dhalmel
+    level:    [60, 69]
+    region:   escha_zitah_nw
+
+  17956962:
+    template: Eschan_Dhalmel
+    level:    [60, 69]
+    region:   escha_zitah_nw
+
+  17956963:
+    template: Eschan_Dhalmel
+    level:    [60, 69]
+    region:   escha_zitah_nw
+
+  17956964:
+    template: Eschan_Dhalmel
+    level:    [60, 69]
+    region:   escha_zitah_nw
+
+  17956965:
+    template: Eschan_Weapon
+    level:    [60, 69]
+    region:   escha_zitah_nw_2
+
+  17956966:
+    template: Eschan_Weapon
+    level:    [60, 69]
+    region:   escha_zitah_nw_2
+
+  17956967:
+    template: Eschan_Weapon
+    level:    [60, 69]
+    region:   escha_zitah_nw_2
+
+  17956968:
+    template: Eschan_Weapon
+    level:    [60, 69]
+    region:   escha_zitah_nw_2
+
+  17956969:
+    template: Eschan_Weapon
+    level:    [60, 69]
+    region:   escha_zitah_nw_2
+
+  17956970:
+    template: Eschan_Dhalmel
+    level:    [60, 69]
+    region:   escha_zitah_nw_2
+
+  17956971:
+    template: Eschan_Dhalmel
+    level:    [60, 69]
+    region:   escha_zitah_nw_2
+
+  17956972:
+    template: Eschan_Dhalmel
+    level:    [60, 69]
+    region:   escha_zitah_nw_2
+
+  17956973:
+    template: Eschan_Dhalmel
+    level:    [60, 69]
+    region:   escha_zitah_nw_2
+
+  17956974:
+    template: Eschan_Coeurl
+    level:    [60, 69]
+    region:   escha_zitah_nw_5
+
+  17956975:
+    template: Eschan_Coeurl
+    level:    [60, 69]
+    region:   escha_zitah_nw_5
+
+  17956976:
+    template: Eschan_Coeurl
+    level:    [60, 69]
+    region:   escha_zitah_nw_5
+
+  17956977:
+    template: Eschan_Coeurl
+    level:    [60, 69]
+    region:   escha_zitah_nw_5
+
+  17956978:
+    template: Eschan_Coeurl
+    level:    [60, 69]
+    region:   escha_zitah_nw_5
+
+  17956979:
+    template: Eschan_Coeurl
+    level:    [60, 69]
+    region:   escha_zitah_nw_5
+
+  17956980:
+    template: Eschan_Coeurl
+    level:    [60, 69]
+    region:   escha_zitah_nw_5
+
+  17956981:
+    template: Eschan_Coeurl
+    level:    [60, 69]
+    region:   escha_zitah_nw_5
+
+  17956982:
+    template: Eschan_Coeurl
+    level:    [60, 69]
+    region:   escha_zitah_nw_8
+
+  17956983:
+    template: Eschan_Coeurl
+    level:    [60, 69]
+    region:   escha_zitah_nw_8
+
+  17956984:
+    template: Eschan_Coeurl
+    level:    [60, 69]
+    region:   escha_zitah_nw_8
+
+  17956985:
+    template: Eschan_Coeurl
+    level:    [60, 69]
+    region:   escha_zitah_nw_8
+
+  17956986:
+    template: Eschan_Coeurl
+    level:    [60, 69]
+    region:   escha_zitah_nw_8
+
+  17956987:
+    template: Eschan_Vulture
+    level:    [70, 79]
+    region:   escha_zitah_c_4
+
+  17956988:
+    template: Eschan_Vulture
+    level:    [70, 79]
+    region:   escha_zitah_c_4
+
+  17956989:
+    template: Eschan_Vulture
+    level:    [70, 79]
+    region:   escha_zitah_c_4
+
+  17956990:
+    template: Eschan_Vulture
+    level:    [70, 79]
+    region:   escha_zitah_c_4
+
+  17956991:
+    template: Eschan_Vulture
+    level:    [70, 79]
+    region:   escha_zitah_c_4
+
+  17956992:
+    template: Eschan_Warrior
+    level:    [70, 79]
+    region:   escha_zitah_c_3
+
+  17956993:
+    template: Eschan_Warrior
+    level:    [70, 79]
+    region:   escha_zitah_c_3
+
+  17956994:
+    template: Eschan_Warrior
+    level:    [70, 79]
+    region:   escha_zitah_c_3
+
+  17956995:
+    template: Eschan_Warrior
+    level:    [70, 79]
+    region:   escha_zitah_c_3
+
+  17956996:
+    template: Eschan_Warrior
+    level:    [70, 79]
+    region:   escha_zitah_c_3
+
+  17956997:
+    template: Eschan_Corse
+    level:    [70, 79]
+    region:   escha_zitah_c_3
+
+  17956998:
+    template: Eschan_Corse
+    level:    [70, 79]
+    region:   escha_zitah_c_3
+
+  17956999:
+    template: Eschan_Warrior
+    level:    [70, 79]
+    region:   escha_zitah_c_6
+
+  17957000:
+    template: Eschan_Warrior
+    level:    [70, 79]
+    region:   escha_zitah_c_6
+
+  17957001:
+    template: Eschan_Warrior
+    level:    [70, 79]
+    region:   escha_zitah_c_6
+
+  17957002:
+    template: Eschan_Warrior
+    level:    [70, 79]
+    region:   escha_zitah_c_6
+
+  17957003:
+    template: Eschan_Warrior
+    level:    [70, 79]
+    region:   escha_zitah_c_6
+
+  17957004:
+    template: Eschan_Corse
+    level:    [70, 79]
+    region:   escha_zitah_c_6
+
+  17957005:
+    template: Eschan_Corse
+    level:    [70, 79]
+    region:   escha_zitah_c_6
+
+  17957006:
+    template: Eschan_Warrior
+    level:    [70, 79]
+    region:   escha_zitah_c_8
+
+  17957007:
+    template: Eschan_Warrior
+    level:    [70, 79]
+    region:   escha_zitah_c_8
+
+  17957008:
+    template: Eschan_Warrior
+    level:    [70, 79]
+    region:   escha_zitah_c_8
+
+  17957009:
+    template: Eschan_Warrior
+    level:    [70, 79]
+    region:   escha_zitah_c_8
+
+  17957010:
+    template: Eschan_Corse
+    level:    [70, 79]
+    region:   escha_zitah_c_8
+
+  17957011:
+    template: Eschan_Warrior
+    level:    [70, 79]
+    region:   escha_zitah_c_7
+
+  17957012:
+    template: Eschan_Warrior
+    level:    [70, 79]
+    region:   escha_zitah_c_7
+
+  17957013:
+    template: Eschan_Warrior
+    level:    [70, 79]
+    region:   escha_zitah_c_7
+
+  17957014:
+    template: Eschan_Corse
+    level:    [70, 79]
+    region:   escha_zitah_c_7
+
+  17957015:
+    template: Eschan_Vulture
+    level:    [70, 79]
+    region:   escha_zitah_c
+
+  17957016:
+    template: Eschan_Vulture
+    level:    [70, 79]
+    region:   escha_zitah_c
+
+  17957017:
+    template: Eschan_Vulture
+    level:    [70, 79]
+    region:   escha_zitah_c
+
+  17957018:
+    template: Eschan_Vulture
+    level:    [70, 79]
+    region:   escha_zitah_c_5
+
+  17957019:
+    template: Eschan_Sorcerer
+    level:    [70, 79]
+    region:   escha_zitah_c_5
+
+  17957020:
+    template: Eschan_Sorcerer
+    level:    [70, 79]
+    region:   escha_zitah_c_5
+
+  17957021:
+    template: Eschan_Sorcerer
+    level:    [70, 79]
+    region:   escha_zitah_c_5
+
+  17957022:
+    template: Eschan_Corse
+    level:    [70, 79]
+    region:   escha_zitah_c_5
+
+  17957023:
+    template: Eschan_Corse
+    level:    [70, 79]
+    region:   escha_zitah_c_5
+
+  17957024:
+    template: Eschan_Vulture
+    level:    [70, 79]
+    region:   escha_zitah_c_2
+
+  17957025:
+    template: Eschan_Vulture
+    level:    [70, 79]
+    region:   escha_zitah_c_2
+
+  17957026:
+    template: Eschan_Vulture
+    level:    [70, 79]
+    region:   escha_zitah_c_2
+
+  17957027:
+    template: Eschan_Vulture
+    level:    [70, 79]
+    region:   escha_zitah_c_2
+
+  17957028:
+    template: Eschan_Vulture
+    level:    [70, 79]
+    region:   escha_zitah_c_2
+
+  17957029:
+    template: Eschan_Corse
+    level:    [70, 79]
+    region:   escha_zitah_c_2
+
+  17957030:
+    template: Eschan_Corse
+    level:    [70, 79]
+    region:   escha_zitah_c_2
+
+  17957031:
+    template: Eschan_Sorcerer
+    level:    [70, 79]
+    region:   escha_zitah_c
+
+  17957032:
+    template: Eschan_Sorcerer
+    level:    [70, 79]
+    region:   escha_zitah_c
+
+  17957033:
+    template: Eschan_Sorcerer
+    level:    [70, 79]
+    region:   escha_zitah_c
+
+  17957034:
+    template: Eschan_Sorcerer
+    level:    [70, 79]
+    region:   escha_zitah_c
+
+  17957035:
+    template: Eschan_Sorcerer
+    level:    [70, 79]
+    region:   escha_zitah_c
+
+  17957036:
+    template: Eschan_Corse
+    level:    [70, 79]
+    region:   escha_zitah_c
+
+  17957037:
+    template: Eschan_Corse
+    level:    [70, 79]
+    region:   escha_zitah_c
+
+  17957038:
+    template: Eschan_Corse
+    level:    [70, 79]
+    region:   escha_zitah_c
+
+  17957039:
+    template: Eschan_Corse
+    level:    [70, 79]
+    region:   escha_zitah_c
+
+  17957040:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_s
+
+  17957041:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_s
+
+  17957042:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_s
+
+  17957043:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_s
+
+  17957044:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_s
+
+  17957045:
+    template: Eschan_Snapweed
+    level:    [80, 89]
+    region:   escha_zitah_s
+
+  17957046:
+    template: Eschan_Snapweed
+    level:    [80, 89]
+    region:   escha_zitah_s
+
+  17957047:
+    template: Eschan_Snapweed
+    level:    [80, 89]
+    region:   escha_zitah_s
+
+  17957048:
+    template: Eschan_Goobbue
+    level:    [80, 89]
+    region:   escha_zitah_s
+
+  17957049:
+    template: Eschan_Goobbue
+    level:    [80, 89]
+    region:   escha_zitah_s
+
+  17957050:
+    template: Eschan_Goobbue
+    level:    [80, 89]
+    region:   escha_zitah_s
+
+  17957051:
+    template: Eschan_Goobbue
+    level:    [80, 89]
+    region:   escha_zitah_s
+
+  17957052:
+    template: Eschan_Snapweed
+    level:    [80, 89]
+    region:   escha_zitah_sw_5
+
+  17957053:
+    template: Eschan_Snapweed
+    level:    [80, 89]
+    region:   escha_zitah_sw_5
+
+  17957054:
+    template: Eschan_Snapweed
+    level:    [80, 89]
+    region:   escha_zitah_sw_5
+
+  17957055:
+    template: Eschan_Snapweed
+    level:    [80, 89]
+    region:   escha_zitah_sw_5
+
+  17957056:
+    template: Eschan_Snapweed
+    level:    [80, 89]
+    region:   escha_zitah_sw_5
+
+  17957057:
+    template: Eschan_Snapweed
+    level:    [80, 89]
+    region:   escha_zitah_sw_5
+
+  17957058:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_sw_6
+
+  17957059:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_sw_6
+
+  17957060:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_sw_6
+
+  17957061:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_sw_6
+
+  17957062:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_sw_6
+
+  17957063:
+    template: Eschan_Goobbue
+    level:    [80, 89]
+    region:   escha_zitah_sw_6
+
+  17957064:
+    template: Eschan_Goobbue
+    level:    [80, 89]
+    region:   escha_zitah_sw_6
+
+  17957065:
+    template: Eschan_Goobbue
+    level:    [80, 89]
+    region:   escha_zitah_sw_6
+
+  17957066:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_sw_3
+
+  17957067:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_sw_3
+
+  17957068:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_sw_3
+
+  17957069:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_sw_3
+
+  17957070:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_sw_3
+
+  17957071:
+    template: Eschan_Goobbue
+    level:    [80, 89]
+    region:   escha_zitah_sw_3
+
+  17957072:
+    template: Eschan_Goobbue
+    level:    [80, 89]
+    region:   escha_zitah_sw_3
+
+  17957073:
+    template: Eschan_Goobbue
+    level:    [80, 89]
+    region:   escha_zitah_sw_3
+
+  17957074:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_sw_4
+
+  17957075:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_sw_4
+
+  17957076:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_sw_4
+
+  17957077:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_sw_4
+
+  17957078:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_sw_4
+
+  17957079:
+    template: Eschan_Snapweed
+    level:    [80, 89]
+    region:   escha_zitah_sw_4
+
+  17957080:
+    template: Eschan_Snapweed
+    level:    [80, 89]
+    region:   escha_zitah_sw_4
+
+  17957081:
+    template: Eschan_Snapweed
+    level:    [80, 89]
+    region:   escha_zitah_sw_4
+
+  17957082:
+    template: Eschan_Snapweed
+    level:    [80, 89]
+    region:   escha_zitah_sw_4
+
+  17957083:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_sw_2
+
+  17957084:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_sw_2
+
+  17957085:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_sw_2
+
+  17957086:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_sw_2
+
+  17957087:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_sw_2
+
+  17957088:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_sw_2
+
+  17957089:
+    template: Eschan_Goobbue
+    level:    [80, 89]
+    region:   escha_zitah_sw_2
+
+  17957090:
+    template: Eschan_Goobbue
+    level:    [80, 89]
+    region:   escha_zitah_sw_2
+
+  17957091:
+    template: Eschan_Goobbue
+    level:    [80, 89]
+    region:   escha_zitah_sw_2
+
+  17957092:
+    template: Eschan_Goobbue
+    level:    [80, 89]
+    region:   escha_zitah_sw_2
+
+  17957093:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_sw
+
+  17957094:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_sw
+
+  17957095:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_sw
+
+  17957096:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_sw
+
+  17957097:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_sw
+
+  17957098:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_sw
+
+  17957099:
+    template: Eschan_Goobbue
+    level:    [80, 89]
+    region:   escha_zitah_sw
+
+  17957100:
+    template: Eschan_Goobbue
+    level:    [80, 89]
+    region:   escha_zitah_sw
+
+  17957101:
+    template: Eschan_Goobbue
+    level:    [80, 89]
+    region:   escha_zitah_sw
+
+  17957102:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_s_3
+
+  17957103:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_s_3
+
+  17957104:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_s_3
+
+  17957105:
+    template: Eschan_Snapweed
+    level:    [80, 89]
+    region:   escha_zitah_s_3
+
+  17957106:
+    template: Eschan_Snapweed
+    level:    [80, 89]
+    region:   escha_zitah_s_3
+
+  17957107:
+    template: Eschan_Snapweed
+    level:    [80, 89]
+    region:   escha_zitah_s_3
+
+  17957108:
+    template: Eschan_Goobbue
+    level:    [80, 89]
+    region:   escha_zitah_s_3
+
+  17957109:
+    template: Eschan_Goobbue
+    level:    [80, 89]
+    region:   escha_zitah_s_3
+
+  17957110:
+    template: Eschan_Goobbue
+    level:    [80, 89]
+    region:   escha_zitah_s_3
+
+  17957111:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_s_4
+
+  17957112:
+    template: Eschan_Wasp
+    level:    [80, 89]
+    region:   escha_zitah_s_4
+
+  17957113:
+    template: Eschan_Snapweed
+    level:    [80, 89]
+    region:   escha_zitah_s_4
+
+  17957114:
+    template: Eschan_Snapweed
+    level:    [80, 89]
+    region:   escha_zitah_s_4
+
+  17957115:
+    template: Eschan_Snapweed
+    level:    [80, 89]
+    region:   escha_zitah_s_4
+
+  17957116:
+    template: Eschan_Snapweed
+    level:    [80, 89]
+    region:   escha_zitah_s_4
+
+  17957117:
+    template: Eschan_Snapweed
+    level:    [80, 89]
+    region:   escha_zitah_s_6
+
+  17957118:
+    template: Eschan_Snapweed
+    level:    [80, 89]
+    region:   escha_zitah_s_6
+
+  17957119:
+    template: Eschan_Snapweed
+    level:    [80, 89]
+    region:   escha_zitah_s_6
+
+  17957120:
+    template: Eschan_Snapweed
+    level:    [80, 89]
+    region:   escha_zitah_s_6
+
+  17957121:
+    template: Eschan_Puk
+    level:    [107, 109]
+    region:   escha_zitah_nw_4
+
+  17957122:
+    template: Eschan_Puk
+    level:    [107, 109]
+    region:   escha_zitah_nw_4
+
+  17957123:
+    template: Eschan_Puk
+    level:    [107, 109]
+    region:   escha_zitah_nw_4
+
+  17957124:
+    template: Eschan_Puk
+    level:    [107, 109]
+    region:   escha_zitah_nw_4
+
+  17957125:
+    template: Eschan_Puk
+    level:    [107, 109]
+    region:   escha_zitah_nw_4
+
+  17957126:
+    template: Eschan_Shadow_Dragon
+    level:    [107, 110]
+    region:   escha_zitah_nw_3
+
+  17957127:
+    template: Eschan_Shadow_Dragon
+    level:    [107, 110]
+    region:   escha_zitah_nw_3
+
+  17957128:
+    template: Eschan_Puk
+    level:    [107, 109]
+    region:   escha_zitah_nw_3
+
+  17957129:
+    template: Eschan_Puk
+    level:    [107, 109]
+    region:   escha_zitah_nw_3
+
+  17957130:
+    template: Eschan_Puk
+    level:    [107, 109]
+    region:   escha_zitah_nw_3
+
+  17957131:
+    template: Eschan_Puk
+    level:    [107, 109]
+    region:   escha_zitah_nw_3
+
+  17957132:
+    template: Eschan_Puk
+    level:    [107, 109]
+    region:   escha_zitah_nw_3
+
+  17957133:
+    template: Eschan_Shadow_Dragon
+    level:    [107, 110]
+    region:   escha_zitah_nw_6
+
+  17957134:
+    template: Eschan_Shadow_Dragon
+    level:    [107, 110]
+    region:   escha_zitah_nw_6
+
+  17957135:
+    template: Eschan_Shadow_Dragon
+    level:    [107, 110]
+    region:   escha_zitah_nw_6
+
+  17957136:
+    template: Eschan_Shadow_Dragon
+    level:    [107, 110]
+    region:   escha_zitah_nw_6
+
+  17957137:
+    template: Eschan_Puk
+    level:    [107, 109]
+    region:   escha_zitah_nw_6
+
+  17957138:
+    template: Eschan_Puk
+    level:    [107, 109]
+    region:   escha_zitah_nw_6
+
+  17957139:
+    template: Eschan_Puk
+    level:    [107, 109]
+    region:   escha_zitah_nw_6
+
+  17957140:
+    template: Eschan_Puk
+    level:    [107, 109]
+    region:   escha_zitah_nw_6
+
+  17957141:
+    template: Eschan_Puk
+    level:    [107, 109]
+    region:   escha_zitah_nw_6
+
+  17957142:
+    template: Eschan_Shadow_Dragon
+    level:    [107, 110]
+    region:   escha_zitah_nw_4
+
+  17957143:
+    template: Eschan_Shadow_Dragon
+    level:    [107, 110]
+    region:   escha_zitah_nw_4
+
+  17957144:
+    template: Eschan_Shadow_Dragon
+    level:    [107, 110]
+    region:   escha_zitah_nw_4
+
+  17957145:
+    template: Eschan_Puk
+    level:    [107, 109]
+    region:   escha_zitah_nw_4
+
+  17957146:
+    template: Eschan_Puk
+    level:    [107, 109]
+    region:   escha_zitah_nw_4
+
+  17957147:
+    template: Eschan_Puk
+    level:    [107, 109]
+    region:   escha_zitah_nw_4
+
+  17957148:
+    template: Eschan_Puk
+    level:    [107, 109]
+    region:   escha_zitah_nw_4
+
+  17957149:
+    template: Eschan_Puk
+    level:    [107, 109]
+    region:   escha_zitah_nw_4
+
+  17957150:
+    template: Eschan_Shadow_Dragon
+    level:    [107, 110]
+    region:   escha_zitah_nw_9
+
+  17957151:
+    template: Eschan_Shadow_Dragon
+    level:    [107, 110]
+    region:   escha_zitah_nw_9
+
+  17957152:
+    template: Eschan_Puk
+    level:    [107, 109]
+    region:   escha_zitah_nw_9
+
+  17957153:
+    template: Eschan_Puk
+    level:    [107, 109]
+    region:   escha_zitah_nw_9
+
+  17957154:
+    template: Eschan_Puk
+    level:    [107, 109]
+    region:   escha_zitah_nw_9
+
+  17957155:
+    template: Eschan_Puk
+    level:    [107, 109]
+    region:   escha_zitah_nw_9
+
+  17957156:
+    template: Eschan_Shadow_Dragon
+    level:    [107, 110]
+    region:   escha_zitah_nw_10
+
+  17957157:
+    template: Eschan_Shadow_Dragon
+    level:    [107, 110]
+    region:   escha_zitah_nw_10
+
+  17957158:
+    template: Eschan_Shadow_Dragon
+    level:    [107, 110]
+    region:   escha_zitah_nw_10
+
+  17957159:
+    template: Eschan_Puk
+    level:    [107, 109]
+    region:   escha_zitah_nw_10
+
+  17957160:
+    template: Eschan_Puk
+    level:    [107, 109]
+    region:   escha_zitah_nw_10
+
+  17957161:
+    template: Eschan_Puk
+    level:    [107, 109]
+    region:   escha_zitah_nw_10
+
+  17957162:
+    template: Eschan_Puk
+    level:    [107, 109]
+    region:   escha_zitah_nw_10
+
+  17957163:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_c_9
+
+  17957164:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_c_9
+
+  17957165:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_c_9
+
+  17957166:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_e
+
+  17957167:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_e
+
+  17957168:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_e
+
+  17957169:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_e
+
+  17957170:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_e
+
+  17957171:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_e
+
+  17957172:
+    template: Eschan_Bugard
+    level:    [107, 110]
+    region:   escha_zitah_e
+
+  17957173:
+    template: Eschan_Bugard
+    level:    [107, 110]
+    region:   escha_zitah_e
+
+  17957174:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_e_2
+
+  17957175:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_e_2
+
+  17957176:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_e_2
+
+  17957177:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_e_2
+
+  17957178:
+    template: Eschan_Bugard
+    level:    [107, 110]
+    region:   escha_zitah_e_2
+
+  17957179:
+    template: Eschan_Bugard
+    level:    [107, 110]
+    region:   escha_zitah_e_2
+
+  17957180:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_se_7
+
+  17957181:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_se_7
+
+  17957182:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_se_7
+
+  17957183:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_se_7
+
+  17957184:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_se_7
+
+  17957185:
+    template: Eschan_Bugard
+    level:    [107, 110]
+    region:   escha_zitah_se_7
+
+  17957186:
+    template: Eschan_Bugard
+    level:    [107, 110]
+    region:   escha_zitah_se_7
+
+  17957187:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_se_5
+
+  17957188:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_se_5
+
+  17957189:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_se_5
+
+  17957190:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_se_5
+
+  17957191:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_se_5
+
+  17957192:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_se_5
+
+  17957193:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_se_3
+
+  17957194:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_se_3
+
+  17957195:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_se_3
+
+  17957196:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_se_3
+
+  17957197:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_se_3
+
+  17957198:
+    template: Eschan_Bugard
+    level:    [107, 110]
+    region:   escha_zitah_se_3
+
+  17957199:
+    template: Eschan_Bugard
+    level:    [107, 110]
+    region:   escha_zitah_se_3
+
+  17957200:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_se_2
+
+  17957201:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_se_2
+
+  17957202:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_se_2
+
+  17957203:
+    template: Eschan_Bugard
+    level:    [107, 110]
+    region:   escha_zitah_se_2
+
+  17957204:
+    template: Eschan_Bugard
+    level:    [107, 110]
+    region:   escha_zitah_se_2
+
+  17957205:
+    template: Eschan_Bugard
+    level:    [107, 110]
+    region:   escha_zitah_s_9
+
+  17957206:
+    template: Eschan_Bugard
+    level:    [107, 110]
+    region:   escha_zitah_s_9
+
+  17957207:
+    template: Eschan_Bugard
+    level:    [107, 110]
+    region:   escha_zitah_s_9
+
+  17957208:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_s_8
+
+  17957209:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_s_8
+
+  17957210:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_s_8
+
+  17957211:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_s_8
+
+  17957212:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_s_8
+
+  17957213:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_s_7
+
+  17957214:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_s_7
+
+  17957215:
+    template: Eschan_Tarichuk
+    level:    [107, 109]
+    region:   escha_zitah_s_7
+
+  17957216:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_e_4
+
+  17957217:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_e_4
+
+  17957218:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_e_4
+
+  17957219:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_e_4
+
+  17957220:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_e_4
+
+  17957221:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_e_4
+
+  17957222:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_e_4
+
+  17957223:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_e_4
+
+  17957224:
+    template: Eschan_Yztarg
+    level:    [107, 110]
+    region:   escha_zitah_e_4
+
+  17957225:
+    template: Eschan_Yztarg
+    level:    [107, 110]
+    region:   escha_zitah_e_4
+
+  17957226:
+    template: Eschan_Yztarg
+    level:    [107, 110]
+    region:   escha_zitah_e_4
+
+  17957227:
+    template: Eschan_Yztarg
+    level:    [107, 110]
+    region:   escha_zitah_e_4
+
+  17957228:
+    template: Eschan_Yztarg
+    level:    [107, 110]
+    region:   escha_zitah_e_4
+
+  17957229:
+    template: Eschan_Yztarg
+    level:    [107, 110]
+    region:   escha_zitah_e_4
+
+  17957230:
+    template: Eschan_Yztarg
+    level:    [107, 110]
+    region:   escha_zitah_e_4
+
+  17957231:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_se_8
+
+  17957232:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_se_8
+
+  17957233:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_se_8
+
+  17957234:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_se_8
+
+  17957235:
+    template: Eschan_Yztarg
+    level:    [107, 110]
+    region:   escha_zitah_se_8
+
+  17957236:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_se_10
+
+  17957237:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_se_10
+
+  17957238:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_se_10
+
+  17957239:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_se_10
+
+  17957240:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_se_10
+
+  17957241:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_se_10
+
+  17957242:
+    template: Eschan_Yztarg
+    level:    [107, 110]
+    region:   escha_zitah_se_10
+
+  17957243:
+    template: Eschan_Yztarg
+    level:    [107, 110]
+    region:   escha_zitah_se_10
+
+  17957244:
+    template: Eschan_Yztarg
+    level:    [107, 110]
+    region:   escha_zitah_se_10
+
+  17957245:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_se_10
+
+  17957246:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_se_10
+
+  17957247:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_se_10
+
+  17957248:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_se_10
+
+  17957249:
+    template: Eschan_Yztarg
+    level:    [107, 110]
+    region:   escha_zitah_se_10
+
+  17957250:
+    template: Eschan_Yztarg
+    level:    [107, 110]
+    region:   escha_zitah_se_10
+
+  17957251:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_se_6
+
+  17957252:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_se_6
+
+  17957253:
+    template: Eschan_Yztarg
+    level:    [107, 110]
+    region:   escha_zitah_se_6
+
+  17957254:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_se_6
+
+  17957255:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_se_6
+
+  17957256:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_se_6
+
+  17957257:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_se_6
+
+  17957258:
+    template: Eschan_Yztarg
+    level:    [107, 110]
+    region:   escha_zitah_se_6
+
+  17957259:
+    template: Eschan_Yztarg
+    level:    [107, 110]
+    region:   escha_zitah_se_6
+
+  17957260:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_se_6
+
+  17957261:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_se_6
+
+  17957262:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_se_6
+
+  17957263:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_se_6
+
+  17957264:
+    template: Eschan_Yztarg
+    level:    [107, 110]
+    region:   escha_zitah_se_6
+
+  17957265:
+    template: Eschan_Yztarg
+    level:    [107, 110]
+    region:   escha_zitah_se_6
+
+  17957266:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_se_4
+
+  17957267:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_se_4
+
+  17957268:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_se_4
+
+  17957269:
+    template: Eschan_Opo-opo
+    level:    [107, 109]
+    region:   escha_zitah_se_4
+
+  17957270:
+    template: Eschan_Yztarg
+    level:    [107, 110]
+    region:   escha_zitah_se_4
+
+  17957271:
+    template: Eschan_Yztarg
+    level:    [107, 110]
+    region:   escha_zitah_se_4
+
+  17957272:
+    template: Eschan_Mosquito
+    level:    [119, 119]
+    region:   escha_zitah_nw_4
+
+  17957273:
+    template: Eschan_Mosquito
+    level:    [119, 119]
+    region:   escha_zitah_se
+
+  17957274:
+    template: Eschan_Mosquito
+    level:    [119, 119]
+    region:   escha_zitah_se
+
+  17957275:
+    template: Eschan_Mosquito
+    level:    [119, 119]
+    region:   escha_zitah_e_4
+
+  17957276:
+    template: Eschan_Mosquito
+    level:    [119, 119]
+    region:   escha_zitah_se_9
+
+  17957277:
+    template: Hugemaw_Harold
+    at:       [-357.500, 0.238, 14.435, 176]
+    level:    [80, 80]
+
+  17957278:
+    template: Prickly_Pitriv
+    at:       [-129.400, -0.268, 34.275, 4]
+    level:    [75, 75]
+
+  17957279:
+    template: Serpopard_Ninlil
+    at:       [-493.900, 0.180, 231.925, 42]
+    level:    [99, 99]
+
+  17957280:
+    template: Abyssdiver
+    at:       [-19.010, 0.475, 80.188, 45]
+    level:    [119, 119]
+
+  17957281:
+    template: Keeper_of_Heiligtum
+    level:    [122, 122]
+    region:   escha_zitah_s_2
+
+  17957282:
+    template: Muut
+    at:       [-44.051, -0.341, -150.481, 95]
+    level:    [0, 0]
+
+  17957283:
+    template: Muuts_Hound_Warrior
+    at:       [68.281, 0.963, 52.595, 86]
+    level:    [103, 104]
+
+  17957284:
+    template: Muuts_Sacrifice
+    at:       [68.307, 0.959, 52.759, 88]
+    level:    [103, 104]
+
+  17957285:
+    template: Muuts_Hound_Warrior
+    at:       [68.106, 0.959, 52.885, 88]
+    level:    [103, 104]
+
+  17957286:
+    template: Muuts_Sacrifice
+    at:       [67.907, 0.959, 53.024, 87]
+    level:    [103, 104]
+
+  17957287:
+    template: Muuts_Hound_Warrior
+    at:       [-12.000, -0.123, 48.996, 145]
+    level:    [103, 104]
+
+  17957288:
+    template: Muuts_Sacrifice
+    at:       [-12.050, -0.330, 54.473, 27]
+    level:    [103, 104]
+
+  17957289:
+    template: Muuts_Hound_Warrior
+    at:       [-9.482, -0.070, 48.096, 212]
+    level:    [103, 104]
+
+  17957290:
+    template: Muuts_Sacrifice
+    at:       [-10.860, -0.096, 48.427, 105]
+    level:    [103, 104]
+
+  17957291:
+    template: Voso
+    at:       [-340.230, 2.046, 166.833, 52]
+    level:    [0, 0]
+
+  17957292:
+    template: Jester_Malatrix
+    at:       [-517.700, 0.430, 180.716, 192]
+    level:    [119, 119]
+
+  17957293:
+    template: Immanibugard
+    level:    [119, 119]
+    region:   escha_zitah_e_3
+
+  17957294:
+    template: Beist
+    level:    [125, 125]
+    region:   escha_zitah_nw_7
+
+  17957295:
+    template: Eschan_Jewelweed
+    at:       [15.017, 0.201, 81.826, 77]
+    level:    [99, 99]
+
+  17957296:
+    template: Eschan_Jewelweed
+    at:       [-143.200, 0.285, -452.150, 35]
+    level:    [99, 99]
+
+  17957297:
+    template: Eschan_Jewelweed
+    level:    [99, 99]
+    region:   escha_zitah_e_5
+
+  17957298:
+    template: Wepwawet
+    at:       [324.260, -0.386, -126.010, 253]
+    level:    [119, 119]
+
+  17957299:
+    template: Wepwawet
+    at:       [39.548, -0.273, 127.708, 241]
+    level:    [119, 119]
+
+  17957300:
+    template: Wepwawet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  17957301:
+    template: Lustful_Lydia
+    at:       [319.880, -0.456, -124.860, 206]
+    level:    [119, 119]
+
+  17957302:
+    template: Lustful_Lydia
+    at:       [240.270, -0.307, -289.120, 69]
+    level:    [119, 119]
+
+  17957303:
+    template: Lustful_Lydia
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  17957304:
+    template: Aglaophotis
+    at:       [-360.000, -0.500, -440.000, 119]
+    level:    [119, 119]
+
+  17957305:
+    template: Aglaophotis
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  17957306:
+    template: Aglaophotis
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  17957307:
+    template: Tangata_Manu
+    at:       [316.710, -0.500, -118.680, 246]
+    level:    [119, 119]
+
+  17957308:
+    template: Tangata_Manu
+    at:       [-6.698, -0.363, -443.500, 82]
+    level:    [119, 119]
+
+  17957309:
+    template: Tangata_Manu
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  17957310:
+    template: Vidala
+    at:       [321.000, -0.500, -119.900, 202]
+    level:    [119, 119]
+
+  17957311:
+    template: Vidala
+    at:       [463.290, 0.335, -277.760, 224]
+    level:    [119, 119]
+
+  17957312:
+    template: Vidala
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  17957313:
+    template: Gestalt
+    level:    [119, 119]
+    region:   escha_zitah_s_5
+
+  17957314:
+    template: Gestalt
+    at:       [461.000, 0.450, -278.390, 27]
+    level:    [119, 119]
+
+  17957315:
+    template: Gestalt
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  17957316:
+    template: Angrboda
+    at:       [461.000, 0.450, -278.390, 98]
+    level:    [119, 119]
+
+  17957317:
+    template: Angrboda
+    at:       [243.600, 0.240, -295.390, 196]
+    level:    [119, 119]
+
+  17957318:
+    template: Angrboda
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  17957319:
+    template: Cunnast
+    at:       [321.000, -0.500, -119.900, 227]
+    level:    [119, 119]
+
+  17957320:
+    template: Cunnast
+    at:       [35.000, -0.349, 126.000, 158]
+    level:    [119, 119]
+
+  17957321:
+    template: Cunnast
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  17957322:
+    template: Revetaur
+    at:       [309.140, -0.157, -119.780, 105]
+    level:    [119, 119]
+
+  17957323:
+    template: Revetaur
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  17957324:
+    template: Revetaur
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  17957325:
+    template: Ferrodon
+    at:       [321.000, -0.500, -119.900, 93]
+    level:    [119, 119]
+
+  17957326:
+    template: Ferrodon
+    at:       [-6.698, -0.363, -443.500, 202]
+    level:    [119, 119]
+
+  17957327:
+    template: Ferrodon
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  17957328:
+    template: Gulltop
+    at:       [461.000, 0.450, -278.390, 239]
+    level:    [119, 119]
+
+  17957329:
+    template: Gulltop
+    at:       [458.780, 0.439, -278.850, 128]
+    level:    [119, 119]
+
+  17957330:
+    template: Gulltop
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  17957331:
+    template: Vyala
+    at:       [459.660, 0.483, -281.410, 7]
+    level:    [119, 119]
+
+  17957332:
+    template: Vyala
+    at:       [461.000, 0.450, -278.390, 185]
+    level:    [119, 119]
+
+  17957333:
+    template: Vyala
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  17957334:
+    template: Blazewing
+    at:       [243.600, 0.240, -295.390, 196]
+    level:    [135, 135]
+
+  17957335:
+    template: Blazewing
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [135, 135]
+
+  17957336:
+    template: Blazewing
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [135, 135]
+
+  17957337:
+    template: Bucca
+    at:       [238.620, -0.115, -291.690, 164]
+    level:    [135, 135]
+
+  17957338:
+    template: Bucca
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [135, 135]
+
+  17957339:
+    template: Bucca
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [135, 135]
+
+  17957340:
+    template: Puca
+    at:       [-12.416, -0.058, -441.622, 4]
+    level:    [135, 135]
+
+  17957341:
+    template: Puca
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [135, 135]
+
+  17957342:
+    template: Puca
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [135, 135]
+
+  17957343:
+    template: Alpluachra
+    at:       [238.900, -0.112, -291.720, 104]
+    level:    [135, 135]
+
+  17957344:
+    template: Alpluachra
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [135, 135]
+
+  17957345:
+    template: Alpluachra
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [135, 135]
+
+  17957346:
+    template: Pazuzu
+    at:       [463.180, 0.340, -277.680, 233]
+    level:    [135, 135]
+
+  17957347:
+    template: Pazuzu
+    at:       [464.770, 0.222, -277.080, 232]
+    level:    [135, 135]
+
+  17957348:
+    template: Pazuzu
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [135, 135]
+
+  17957349:
+    template: Wrathare
+    at:       [41.645, -0.056, 132.436, 199]
+    level:    [135, 135]
+
+  17957350:
+    template: Wrathare
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [135, 135]
+
+  17957351:
+    template: Wrathare
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [135, 135]
+
+  17957352:
+    template: Ionos
+    at:       [461.720, 0.413, -278.700, 245]
+    level:    [125, 125]
+
+  17957353:
+    template: Ionos
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 125]
+
+  17957354:
+    template: Ionos
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 125]
+
+  17957355:
+    template: Sensual_Sandy
+    at:       [238.260, 0.180, -294.800, 21]
+    level:    [125, 125]
+
+  17957356:
+    template: Sensual_Sandy
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 125]
+
+  17957357:
+    template: Sensual_Sandy
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 125]
+
+  17957358:
+    template: Nosoi
+    at:       [458.770, 0.439, -282.420, 45]
+    level:    [125, 125]
+
+  17957359:
+    template: Nosoi
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 125]
+
+  17957360:
+    template: Nosoi
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 125]
+
+  17957361:
+    template: Brittlis
+    at:       [35.000, -0.349, 126.000, 217]
+    level:    [125, 125]
+
+  17957362:
+    template: Brittlis
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 125]
+
+  17957363:
+    template: Brittlis
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 125]
+
+  17957364:
+    template: Kamohoalii
+    at:       [35.000, -0.349, 126.000, 73]
+    level:    [125, 125]
+
+  17957365:
+    template: Kamohoalii
+    at:       [459.281, 0.468, -271.579, 84]
+    level:    [125, 125]
+
+  17957366:
+    template: Kamohoalii
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 125]
+
+  17957367:
+    template: Umdhlebi
+    at:       [460.760, 0.461, -279.160, 105]
+    level:    [125, 125]
+
+  17957368:
+    template: Umdhlebi
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 125]
+
+  17957369:
+    template: Umdhlebi
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 125]
+
+  17957370:
+    template: Fleetstalker
+    level:    [135, 135]
+    region:   escha_zitah_s_10
+
+  17957371:
+    template: Fleetstalker
+    at:       [243.600, 0.240, -295.399, 234]
+    level:    [135, 135]
+
+  17957372:
+    template: Fleetstalker
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [135, 135]
+
+  17957373:
+    template: Shockmaw
+    at:       [456.270, 0.417, -262.730, 194]
+    level:    [135, 135]
+
+  17957374:
+    template: Shockmaw
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [135, 135]
+
+  17957375:
+    template: Shockmaw
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [135, 135]
+
+  17957376:
+    template: Urmahlullu
+    at:       [35.000, -0.349, 126.000, 18]
+    level:    [135, 135]
+
+  17957377:
+    template: Urmahlullu
+    at:       [462.360, 0.370, -275.040, 73]
+    level:    [135, 135]
+
+  17957378:
+    template: Urmahlullu
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [135, 135]
+
+  17957379:
+    template: Blazewing
+    at:       [461.000, 0.450, -278.390, 119]
+    level:    [135, 135]
+
+  17957380:
+    template: Blazewing
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [135, 135]
+
+  17957381:
+    template: Blazewing
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [135, 135]
+
+  17957382:
+    template: Bucca
+    at:       [461.000, 0.450, -278.399, 98]
+    level:    [135, 135]
+
+  17957383:
+    template: Bucca
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [135, 135]
+
+  17957384:
+    template: Bucca
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [135, 135]
+
+  17957385:
+    template: Puca
+    at:       [464.000, 0.300, -278.399, 98]
+    level:    [135, 135]
+
+  17957386:
+    template: Puca
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [135, 135]
+
+  17957387:
+    template: Puca
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [135, 135]
+
+  17957388:
+    template: Alpluachra
+    at:       [461.000, 0.442, -275.399, 98]
+    level:    [135, 135]
+
+  17957389:
+    template: Alpluachra
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [135, 135]
+
+  17957390:
+    template: Alpluachra
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [135, 135]
+
+  17957391:
+    template: Pazuzu
+    at:       [-365.000, -0.449, 439.000, 193]
+    level:    [135, 135]
+
+  17957392:
+    template: Pazuzu
+    at:       [464.674, 0.159, -270.494, 99]
+    level:    [135, 135]
+
+  17957393:
+    template: Pazuzu
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [135, 135]
+
+  17957394:
+    template: Wrathare
+    at:       [463.534, 2.425, -374.160, 58]
+    level:    [135, 135]
+
+  17957395:
+    template: Wrathare
+    at:       [-358.466, -0.500, -440.145, 63]
+    level:    [135, 135]
+
+  17957396:
+    template: Wrathare
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [135, 135]
+
+  17957397:
+    template: Azi_Dahaka
+    at:       [-2.000, -0.425, 34.500, 192]
+    level:    [119, 119]
+
+  17957398:
+    template: Azi_Dahakas_Dragon
+    at:       [-6.980, 0.086, 29.790, 192]
+    level:    [117, 118]
+
+  17957399:
+    template: Azi_Dahakas_Dragon
+    at:       [-2.765, -0.093, 30.124, 132]
+    level:    [117, 118]
+
+  17957400:
+    template: Azi_Dahakas_Dragon
+    at:       [-5.808, -0.330, 37.524, 39]
+    level:    [117, 118]
+
+  17957401:
+    template: Azi_Dahakas_Dragon
+    at:       [-2.438, -0.101, 33.127, 102]
+    level:    [117, 118]
+
+  17957402:
+    template: Azi_Dahakas_Dragon
+    at:       [-4.644, -0.238, 26.974, 237]
+    level:    [117, 118]
+
+  17957403:
+    template: Azi_Dahakas_Dragon
+    at:       [-5.605, -0.035, 29.940, 206]
+    level:    [117, 118]
+
+  17957404:
+    template: Azi_Dahakas_Dragon
+    at:       [-7.826, -0.017, 36.201, 51]
+    level:    [117, 118]
+
+  17957405:
+    template: Azi_Dahakas_Dragon
+    at:       [-9.286, -0.234, 42.110, 24]
+    level:    [117, 118]
+
+  17957406:
+    template: Azi_Dahakas_Dragon
+    at:       [-9.739, -0.092, 34.623, 228]
+    level:    [117, 118]
+
+  17957407:
+    template: Azi_Dahakas_Dragon
+    at:       [-4.143, -0.090, 34.072, 189]
+    level:    [117, 118]
+
+  17957408:
+    template: Azi_Dahakas_Dragon
+    at:       [-8.680, 0.156, 32.968, 188]
+    level:    [117, 118]
+
+  17957409:
+    template: Mireu
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]

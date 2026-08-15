@@ -1,0 +1,1608 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17559553:
+    template: Land_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [5, 7]
+
+  17559554:
+    template: Land_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [5, 6]
+
+  17559555:
+    template: Coral_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [10, 12]
+
+  17559556:
+    template: Wadi_Leech
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [15, 17]
+
+  17559557:
+    template: Thread_Leech
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [21, 23]
+
+  17559558:
+    template: Geyser_Lizard
+    level:    [28, 30]
+    region:   dangruf_wadi_n_8
+
+  17559559:
+    template: Rock_Lizard
+    level:    [5, 8]
+    region:   dangruf_wadi_e_6
+
+  17559560:
+    template: Rock_Lizard
+    level:    [5, 8]
+    region:   dangruf_wadi_e_6
+
+  17559561:
+    template: Rock_Lizard
+    level:    [5, 8]
+    region:   dangruf_wadi_e_6
+
+  17559562:
+    template: Goblin_Thug
+    level:    [5, 8]
+    region:   dangruf_wadi_se_5
+
+  17559563:
+    template: Goblin_Thug
+    level:    [5, 8]
+    region:   dangruf_wadi_se_5
+
+  17559564:
+    template: Goblin_Weaver
+    at:       [-68.894, 2.743, -70.857, 57]
+    level:    [5, 8]
+
+  17559565:
+    template: Rock_Lizard
+    level:    [5, 8]
+    region:   dangruf_wadi_se_5
+
+  17559566:
+    template: Rock_Lizard
+    level:    [5, 8]
+    region:   dangruf_wadi_se_5
+
+  17559567:
+    template: Rock_Lizard
+    level:    [5, 8]
+    region:   dangruf_wadi_e
+
+  17559568:
+    template: Rock_Lizard
+    level:    [5, 8]
+    region:   dangruf_wadi_e
+
+  17559569:
+    template: Rock_Lizard
+    level:    [5, 8]
+    region:   dangruf_wadi_e
+
+  17559570:
+    template: Goblin_Thug
+    level:    [5, 8]
+    region:   dangruf_wadi_e_3
+
+  17559571:
+    template: Goblin_Weaver
+    at:       [-115.907, 2.991, 106.706, 5]
+    level:    [5, 8]
+
+  17559572:
+    template: Goblin_Thug
+    at:       [-116.673, 2.695, 130.868, 4]
+    level:    [5, 8]
+
+  17559573:
+    template: Goblin_Weaver
+    level:    [5, 8]
+    region:   dangruf_wadi_e_3
+
+  17559574:
+    template: Hoarder_Hare
+    level:    [6, 8]
+    region:   dangruf_wadi_e_3
+
+  17559575:
+    template: Hoarder_Hare
+    level:    [6, 8]
+    region:   dangruf_wadi_e_3
+
+  17559576:
+    template: Hoarder_Hare
+    level:    [6, 8]
+    region:   dangruf_wadi_e_3
+
+  17559577:
+    template: Goblin_Thug
+    level:    [5, 8]
+    region:   dangruf_wadi_c_8
+
+  17559578:
+    template: Goblin_Weaver
+    at:       [-347.000, 3.000, -93.000, 127]
+    level:    [5, 8]
+
+  17559579:
+    template: Goblin_Thug
+    at:       [-389.000, -0.600, -98.000, 127]
+    level:    [5, 8]
+
+  17559580:
+    template: Goblin_Weaver
+    level:    [5, 8]
+    region:   dangruf_wadi_c_8
+
+  17559581:
+    template: Hoarder_Hare
+    level:    [6, 8]
+    region:   dangruf_wadi_c_8
+
+  17559582:
+    template: Hoarder_Hare
+    level:    [6, 8]
+    region:   dangruf_wadi_c_8
+
+  17559583:
+    template: Hoarder_Hare
+    level:    [6, 8]
+    region:   dangruf_wadi_c_8
+
+  17559584:
+    template: Teporingo
+    at:       [-203.000, 4.000, 81.000, 108]
+    level:    [20, 20]
+
+  17559585:
+    template: Goblin_Ambusher
+    level:    [12, 16]
+    region:   dangruf_wadi_c_6
+
+  17559586:
+    template: Goblin_Ambusher
+    level:    [12, 16]
+    region:   dangruf_wadi_c_6
+
+  17559587:
+    template: Goblin_Tinkerer
+    level:    [12, 16]
+    region:   dangruf_wadi_c_6
+
+  17559588:
+    template: Goblin_Butcher
+    level:    [12, 16]
+    region:   dangruf_wadi_c_6
+
+  17559589:
+    template: Wadi_Hare
+    level:    [11, 14]
+    region:   dangruf_wadi_c_6
+
+  17559590:
+    template: Wadi_Hare
+    level:    [11, 14]
+    region:   dangruf_wadi_c_6
+
+  17559591:
+    template: Wadi_Hare
+    level:    [11, 14]
+    region:   dangruf_wadi_c_6
+
+  17559592:
+    template: Steam_Lizard
+    level:    [16, 20]
+    region:   dangruf_wadi_c_6
+
+  17559593:
+    template: Goblin_Ambusher
+    level:    [12, 16]
+    region:   dangruf_wadi_c_4
+
+  17559594:
+    template: Goblin_Ambusher
+    level:    [12, 16]
+    region:   dangruf_wadi_c_4
+
+  17559595:
+    template: Goblin_Tinkerer
+    level:    [12, 16]
+    region:   dangruf_wadi_c_4
+
+  17559596:
+    template: Goblin_Butcher
+    level:    [12, 16]
+    region:   dangruf_wadi_c_4
+
+  17559597:
+    template: Wadi_Hare
+    level:    [11, 14]
+    region:   dangruf_wadi_c_4
+
+  17559598:
+    template: Wadi_Hare
+    level:    [11, 14]
+    region:   dangruf_wadi_c_4
+
+  17559599:
+    template: Wadi_Hare
+    level:    [11, 14]
+    region:   dangruf_wadi_c_4
+
+  17559600:
+    template: Steam_Lizard
+    level:    [16, 20]
+    region:   dangruf_wadi_c_4
+
+  17559601:
+    template: Wadi_Hare
+    level:    [11, 14]
+    region:   dangruf_wadi_s_7
+
+  17559602:
+    template: Wadi_Hare
+    level:    [11, 14]
+    region:   dangruf_wadi_s_7
+
+  17559603:
+    template: Rock_Lizard
+    level:    [5, 8]
+    region:   dangruf_wadi_se_3
+
+  17559604:
+    template: Rock_Lizard
+    level:    [5, 8]
+    region:   dangruf_wadi_se_3
+
+  17559605:
+    template: Rock_Lizard
+    level:    [5, 8]
+    region:   dangruf_wadi_se_7
+
+  17559606:
+    template: Goblin_Thug
+    at:       [-173.365, -1.258, -60.782, 24]
+    level:    [5, 8]
+
+  17559607:
+    template: Goblin_Weaver
+    level:    [5, 8]
+    region:   dangruf_wadi_se_6
+
+  17559608:
+    template: Goblin_Fisher
+    level:    [5, 8]
+    region:   dangruf_wadi_se_6
+
+  17559609:
+    template: Goblin_Thug
+    at:       [-49.791, 3.631, -222.531, 103]
+    level:    [5, 8]
+
+  17559610:
+    template: Goblin_Weaver
+    level:    [5, 8]
+    region:   dangruf_wadi_se_6
+
+  17559611:
+    template: Goblin_Fisher
+    at:       [-28.016, 4.263, -210.032, 15]
+    level:    [5, 8]
+
+  17559612:
+    template: Rock_Lizard
+    level:    [5, 8]
+    region:   dangruf_wadi_se_6
+
+  17559613:
+    template: Stone_Eater
+    level:    [3, 5]
+    region:   dangruf_wadi_se_6
+
+  17559614:
+    template: Stone_Eater
+    level:    [3, 5]
+    region:   dangruf_wadi_se_6
+
+  17559615:
+    template: Stone_Eater
+    level:    [3, 5]
+    region:   dangruf_wadi_se_6
+
+  17559616:
+    template: Goblin_Thug
+    level:    [5, 8]
+    region:   dangruf_wadi_se_4
+
+  17559617:
+    template: Goblin_Weaver
+    at:       [-35.768, 3.158, -213.303, 89]
+    level:    [5, 8]
+
+  17559618:
+    template: Goblin_Fisher
+    level:    [5, 8]
+    region:   dangruf_wadi_se_4
+
+  17559619:
+    template: Goblin_Thug
+    at:       [-51.000, 4.107, -204.000, 127]
+    level:    [5, 8]
+
+  17559620:
+    template: Goblin_Weaver
+    level:    [5, 8]
+    region:   dangruf_wadi_se_4
+
+  17559621:
+    template: Goblin_Fisher
+    at:       [-92.024, 3.039, -243.836, 127]
+    level:    [5, 8]
+
+  17559622:
+    template: Rock_Lizard
+    level:    [5, 8]
+    region:   dangruf_wadi_se_4
+
+  17559623:
+    template: Stone_Eater
+    level:    [3, 5]
+    region:   dangruf_wadi_se_4
+
+  17559624:
+    template: Stone_Eater
+    level:    [3, 5]
+    region:   dangruf_wadi_se_4
+
+  17559625:
+    template: Stone_Eater
+    level:    [3, 5]
+    region:   dangruf_wadi_se_4
+
+  17559626:
+    template: Rock_Lizard
+    level:    [5, 8]
+    region:   dangruf_wadi_se
+
+  17559627:
+    template: Rock_Lizard
+    level:    [5, 8]
+    region:   dangruf_wadi_se
+
+  17559628:
+    template: Rock_Lizard
+    level:    [5, 8]
+    region:   dangruf_wadi_se
+
+  17559629:
+    template: Goblin_Thug
+    at:       [-144.646, -0.927, -219.475, 127]
+    level:    [5, 8]
+
+  17559630:
+    template: Goblin_Weaver
+    level:    [5, 8]
+    region:   dangruf_wadi_se_2
+
+  17559631:
+    template: Goblin_Fisher
+    level:    [5, 8]
+    region:   dangruf_wadi_se_2
+
+  17559632:
+    template: Goblin_Thug
+    at:       [-151.558, 3.024, -108.578, 127]
+    level:    [5, 8]
+
+  17559633:
+    template: Goblin_Weaver
+    level:    [5, 8]
+    region:   dangruf_wadi_se_2
+
+  17559634:
+    template: Goblin_Fisher
+    at:       [-172.085, 2.999, -160.264, 127]
+    level:    [5, 8]
+
+  17559635:
+    template: Rock_Lizard
+    level:    [5, 8]
+    region:   dangruf_wadi_se_2
+
+  17559636:
+    template: Wadi_Crab
+    level:    [7, 9]
+    region:   dangruf_wadi_se_2
+
+  17559637:
+    template: Wadi_Crab
+    level:    [7, 9]
+    region:   dangruf_wadi_se_2
+
+  17559638:
+    template: Wadi_Crab
+    level:    [7, 9]
+    region:   dangruf_wadi_se_2
+
+  17559639:
+    template: Goblin_Thug
+    at:       [-195.335, 3.085, -155.813, 22]
+    level:    [5, 8]
+
+  17559640:
+    template: Goblin_Weaver
+    level:    [5, 8]
+    region:   dangruf_wadi_s_6
+
+  17559641:
+    template: Goblin_Fisher
+    level:    [5, 8]
+    region:   dangruf_wadi_s_6
+
+  17559642:
+    template: Goblin_Thug
+    at:       [-243.000, 3.198, -128.000, 127]
+    level:    [5, 8]
+
+  17559643:
+    template: Goblin_Weaver
+    at:       [-212.515, 3.344, -125.240, 26]
+    level:    [5, 8]
+
+  17559644:
+    template: Goblin_Fisher
+    level:    [5, 8]
+    region:   dangruf_wadi_s_6
+
+  17559645:
+    template: Rock_Lizard
+    level:    [5, 8]
+    region:   dangruf_wadi_s_6
+
+  17559646:
+    template: Wadi_Crab
+    level:    [7, 9]
+    region:   dangruf_wadi_s_6
+
+  17559647:
+    template: Wadi_Crab
+    level:    [7, 9]
+    region:   dangruf_wadi_s_6
+
+  17559648:
+    template: Wadi_Crab
+    level:    [7, 9]
+    region:   dangruf_wadi_s_6
+
+  17559649:
+    template: Rock_Lizard
+    level:    [5, 8]
+    region:   dangruf_wadi_s_5
+
+  17559650:
+    template: Goblin_Thug
+    at:       [-238.334, 4.038, -107.629, 121]
+    level:    [5, 8]
+
+  17559651:
+    template: Goblin_Weaver
+    level:    [5, 8]
+    region:   dangruf_wadi_s_3
+
+  17559652:
+    template: Goblin_Thug
+    level:    [5, 8]
+    region:   dangruf_wadi_s_3
+
+  17559653:
+    template: Goblin_Weaver
+    at:       [-325.448, 3.017, -158.420, 54]
+    level:    [5, 8]
+
+  17559654:
+    template: Rock_Lizard
+    level:    [5, 8]
+    region:   dangruf_wadi_s_3
+
+  17559655:
+    template: Wadi_Crab
+    level:    [7, 9]
+    region:   dangruf_wadi_s_3
+
+  17559656:
+    template: Goblin_Thug
+    at:       [-309.595, 2.930, -153.633, 127]
+    level:    [5, 8]
+
+  17559657:
+    template: Goblin_Weaver
+    level:    [5, 8]
+    region:   dangruf_wadi_s_2
+
+  17559658:
+    template: Goblin_Thug
+    level:    [5, 8]
+    region:   dangruf_wadi_s_2
+
+  17559659:
+    template: Goblin_Weaver
+    at:       [-361.697, 3.500, -152.079, 127]
+    level:    [5, 8]
+
+  17559660:
+    template: Rock_Lizard
+    level:    [5, 8]
+    region:   dangruf_wadi_s_2
+
+  17559661:
+    template: Wadi_Crab
+    level:    [7, 9]
+    region:   dangruf_wadi_s_2
+
+  17559662:
+    template: Goblin_Ambusher
+    level:    [12, 16]
+    region:   dangruf_wadi_s_4
+
+  17559663:
+    template: Goblin_Ambusher
+    level:    [12, 16]
+    region:   dangruf_wadi_s_4
+
+  17559664:
+    template: Goblin_Tinkerer
+    level:    [12, 16]
+    region:   dangruf_wadi_s_4
+
+  17559665:
+    template: Goblin_Butcher
+    level:    [12, 16]
+    region:   dangruf_wadi_s_4
+
+  17559666:
+    template: Wadi_Leech
+    level:    [12, 14]
+    region:   dangruf_wadi_s_4
+
+  17559667:
+    template: Wadi_Leech
+    level:    [11, 14]
+    region:   dangruf_wadi_s_4
+
+  17559668:
+    template: Wadi_Leech
+    level:    [11, 14]
+    region:   dangruf_wadi_s_4
+
+  17559669:
+    template: Steam_Lizard
+    level:    [16, 20]
+    region:   dangruf_wadi_s_4
+
+  17559670:
+    template: Goblin_Ambusher
+    level:    [12, 16]
+    region:   dangruf_wadi_s
+
+  17559671:
+    template: Goblin_Ambusher
+    level:    [12, 16]
+    region:   dangruf_wadi_s
+
+  17559672:
+    template: Goblin_Tinkerer
+    level:    [12, 16]
+    region:   dangruf_wadi_s
+
+  17559673:
+    template: Goblin_Butcher
+    level:    [12, 16]
+    region:   dangruf_wadi_s
+
+  17559674:
+    template: Wadi_Leech
+    level:    [11, 14]
+    region:   dangruf_wadi_s
+
+  17559675:
+    template: Wadi_Leech
+    level:    [11, 14]
+    region:   dangruf_wadi_s
+
+  17559676:
+    template: Wadi_Leech
+    level:    [11, 14]
+    region:   dangruf_wadi_s
+
+  17559677:
+    template: Steam_Lizard
+    level:    [16, 20]
+    region:   dangruf_wadi_s
+
+  17559678:
+    template: Goblin_Brigand
+    level:    [86, 87]
+    region:   dangruf_wadi_c_7
+
+  17559679:
+    template: Goblin_Headsman
+    level:    [86, 87]
+    region:   dangruf_wadi_c_7
+
+  17559680:
+    template: Goblin_Healer
+    level:    [86, 87]
+    region:   dangruf_wadi_c_7
+
+  17559681:
+    template: Goblin_Brigand
+    level:    [86, 87]
+    region:   dangruf_wadi_c_7
+
+  17559682:
+    template: Goblin_Headsman
+    level:    [86, 87]
+    region:   dangruf_wadi_c_7
+
+  17559683:
+    template: Goblin_Healer
+    level:    [86, 87]
+    region:   dangruf_wadi_c_7
+
+  17559684:
+    template: Witchetty_Grub
+    level:    [89, 90]
+    region:   dangruf_wadi_c_7
+
+  17559685:
+    template: Witchetty_Grub
+    level:    [88, 90]
+    region:   dangruf_wadi_c_7
+
+  17559686:
+    template: Goblin_Brigand
+    level:    [86, 87]
+    region:   dangruf_wadi_e_4
+
+  17559687:
+    template: Goblin_Headsman
+    level:    [86, 87]
+    region:   dangruf_wadi_e_4
+
+  17559688:
+    template: Goblin_Healer
+    level:    [86, 87]
+    region:   dangruf_wadi_e_4
+
+  17559689:
+    template: Couloir_Leech
+    level:    [87, 88]
+    region:   dangruf_wadi_e_4
+
+  17559690:
+    template: Couloir_Leech
+    level:    [87, 88]
+    region:   dangruf_wadi_e_4
+
+  17559691:
+    template: Goblin_Brigand
+    level:    [86, 87]
+    region:   dangruf_wadi_e_5
+
+  17559692:
+    template: Goblin_Headsman
+    level:    [86, 87]
+    region:   dangruf_wadi_e_5
+
+  17559693:
+    template: Goblin_Healer
+    level:    [86, 87]
+    region:   dangruf_wadi_e_5
+
+  17559694:
+    template: Couloir_Leech
+    level:    [87, 88]
+    region:   dangruf_wadi_e_5
+
+  17559695:
+    template: Couloir_Leech
+    level:    [87, 88]
+    region:   dangruf_wadi_e_5
+
+  17559696:
+    template: Goblin_Brigand
+    level:    [86, 87]
+    region:   dangruf_wadi_e_7
+
+  17559697:
+    template: Goblin_Headsman
+    level:    [86, 87]
+    region:   dangruf_wadi_e_7
+
+  17559698:
+    template: Goblin_Healer
+    level:    [86, 87]
+    region:   dangruf_wadi_e_7
+
+  17559699:
+    template: Couloir_Leech
+    level:    [87, 88]
+    region:   dangruf_wadi_e_7
+
+  17559700:
+    template: Couloir_Leech
+    level:    [87, 88]
+    region:   dangruf_wadi_e_7
+
+  17559701:
+    template: Goblin_Brigand
+    level:    [86, 87]
+    region:   dangruf_wadi_e_2
+
+  17559702:
+    template: Goblin_Brigand
+    level:    [86, 87]
+    region:   dangruf_wadi_e_2
+
+  17559703:
+    template: Witchetty_Grub
+    level:    [88, 90]
+    region:   dangruf_wadi_e_2
+
+  17559704:
+    template: Witchetty_Grub
+    level:    [88, 90]
+    region:   dangruf_wadi_e_2
+
+  17559705:
+    template: Goblin_Brigand
+    level:    [86, 87]
+    region:   dangruf_wadi_ne_5
+
+  17559706:
+    template: Goblin_Headsman
+    level:    [86, 87]
+    region:   dangruf_wadi_ne_5
+
+  17559707:
+    template: Goblin_Healer
+    level:    [86, 87]
+    region:   dangruf_wadi_ne_5
+
+  17559708:
+    template: Prim_Pika
+    level:    [88, 89]
+    region:   dangruf_wadi_ne_5
+
+  17559709:
+    template: Prim_Pika
+    level:    [88, 89]
+    region:   dangruf_wadi_ne_5
+
+  17559710:
+    template: Prim_Pika
+    level:    [88, 89]
+    region:   dangruf_wadi_ne_5
+
+  17559711:
+    template: Goblin_Brigand
+    level:    [86, 87]
+    region:   dangruf_wadi_ne_3
+
+  17559712:
+    template: Goblin_Headsman
+    level:    [86, 87]
+    region:   dangruf_wadi_ne_3
+
+  17559713:
+    template: Goblin_Healer
+    level:    [86, 87]
+    region:   dangruf_wadi_ne_3
+
+  17559714:
+    template: Prim_Pika
+    level:    [88, 89]
+    region:   dangruf_wadi_ne_3
+
+  17559715:
+    template: Prim_Pika
+    level:    [88, 89]
+    region:   dangruf_wadi_ne_3
+
+  17559716:
+    template: Prim_Pika
+    level:    [88, 89]
+    region:   dangruf_wadi_ne_3
+
+  17559717:
+    template: Goblin_Brigand
+    level:    [86, 87]
+    region:   dangruf_wadi_n_7
+
+  17559718:
+    template: Goblin_Headsman
+    level:    [86, 87]
+    region:   dangruf_wadi_n_7
+
+  17559719:
+    template: Goblin_Healer
+    level:    [86, 87]
+    region:   dangruf_wadi_n_7
+
+  17559720:
+    template: Prim_Pika
+    level:    [88, 89]
+    region:   dangruf_wadi_n_7
+
+  17559721:
+    template: Prim_Pika
+    level:    [88, 89]
+    region:   dangruf_wadi_n_7
+
+  17559722:
+    template: Prim_Pika
+    level:    [88, 89]
+    region:   dangruf_wadi_n_7
+
+  17559723:
+    template: Goblin_Brigand
+    level:    [86, 87]
+    region:   dangruf_wadi_n_3
+
+  17559724:
+    template: Goblin_Headsman
+    level:    [86, 87]
+    region:   dangruf_wadi_n_3
+
+  17559725:
+    template: Goblin_Healer
+    level:    [86, 87]
+    region:   dangruf_wadi_n_3
+
+  17559726:
+    template: Prim_Pika
+    level:    [88, 89]
+    region:   dangruf_wadi_n_3
+
+  17559727:
+    template: Prim_Pika
+    level:    [88, 89]
+    region:   dangruf_wadi_n_3
+
+  17559728:
+    template: Prim_Pika
+    level:    [88, 89]
+    region:   dangruf_wadi_n_3
+
+  17559729:
+    template: Goblin_Headsman
+    level:    [86, 87]
+    region:   dangruf_wadi_ne_2
+
+  17559730:
+    template: Goblin_Headsman
+    level:    [86, 87]
+    region:   dangruf_wadi_ne_2
+
+  17559731:
+    template: Goblin_Headsman
+    level:    [86, 87]
+    region:   dangruf_wadi_ne_2
+
+  17559732:
+    template: Witchetty_Grub
+    level:    [88, 90]
+    region:   dangruf_wadi_ne_2
+
+  17559733:
+    template: Witchetty_Grub
+    level:    [88, 90]
+    region:   dangruf_wadi_ne_2
+
+  17559734:
+    template: Goblin_Healer
+    level:    [86, 87]
+    region:   dangruf_wadi_ne_4
+
+  17559735:
+    template: Goblin_Healer
+    level:    [86, 87]
+    region:   dangruf_wadi_ne_4
+
+  17559736:
+    template: Goblin_Healer
+    level:    [86, 87]
+    region:   dangruf_wadi_ne_4
+
+  17559737:
+    template: Witchetty_Grub
+    level:    [88, 90]
+    region:   dangruf_wadi_ne_4
+
+  17559738:
+    template: Witchetty_Grub
+    level:    [88, 90]
+    region:   dangruf_wadi_ne_4
+
+  17559739:
+    template: Natty_Gibbon
+    level:    [92, 93]
+    region:   dangruf_wadi_ne_7
+
+  17559740:
+    template: Natty_Gibbon
+    level:    [92, 93]
+    region:   dangruf_wadi_ne_7
+
+  17559741:
+    template: Natty_Gibbon
+    level:    [92, 93]
+    region:   dangruf_wadi_ne_7
+
+  17559742:
+    template: Natty_Gibbon
+    level:    [92, 93]
+    region:   dangruf_wadi_ne_7
+
+  17559743:
+    template: Trimmer
+    level:    [90, 92]
+    region:   dangruf_wadi_ne_7
+
+  17559744:
+    template: Trimmer
+    level:    [90, 92]
+    region:   dangruf_wadi_ne_7
+
+  17559745:
+    template: Trimmer
+    level:    [90, 92]
+    region:   dangruf_wadi_ne_7
+
+  17559746:
+    template: Trimmer
+    level:    [90, 91]
+    region:   dangruf_wadi_ne_7
+
+  17559747:
+    template: Witchetty_Grub
+    level:    [88, 90]
+    region:   dangruf_wadi_ne_8
+
+  17559748:
+    template: Witchetty_Grub
+    level:    [88, 90]
+    region:   dangruf_wadi_ne_8
+
+  17559749:
+    template: Witchetty_Grub
+    level:    [88, 90]
+    region:   dangruf_wadi_ne_8
+
+  17559750:
+    template: Witchetty_Grub
+    level:    [88, 89]
+    region:   dangruf_wadi_ne_6
+
+  17559751:
+    template: Witchetty_Grub
+    level:    [89, 90]
+    region:   dangruf_wadi_ne_6
+
+  17559752:
+    template: Witchetty_Grub
+    level:    [88, 90]
+    region:   dangruf_wadi_ne_6
+
+  17559753:
+    template: Natty_Gibbon
+    level:    [92, 93]
+    region:   dangruf_wadi_n_6
+
+  17559754:
+    template: Natty_Gibbon
+    level:    [92, 93]
+    region:   dangruf_wadi_n_6
+
+  17559755:
+    template: Natty_Gibbon
+    level:    [92, 93]
+    region:   dangruf_wadi_n_6
+
+  17559756:
+    template: Trimmer
+    level:    [90, 92]
+    region:   dangruf_wadi_n_6
+
+  17559757:
+    template: Trimmer
+    level:    [90, 92]
+    region:   dangruf_wadi_n_6
+
+  17559758:
+    template: Trimmer
+    level:    [91, 92]
+    region:   dangruf_wadi_n_6
+
+  17559759:
+    template: Natty_Gibbon
+    level:    [92, 93]
+    region:   dangruf_wadi_n_5
+
+  17559760:
+    template: Natty_Gibbon
+    level:    [92, 93]
+    region:   dangruf_wadi_n_5
+
+  17559761:
+    template: Natty_Gibbon
+    level:    [92, 93]
+    region:   dangruf_wadi_n_5
+
+  17559762:
+    template: Trimmer
+    level:    [90, 92]
+    region:   dangruf_wadi_n_5
+
+  17559763:
+    template: Trimmer
+    level:    [90, 92]
+    region:   dangruf_wadi_n_5
+
+  17559764:
+    template: Trimmer
+    level:    [90, 92]
+    region:   dangruf_wadi_n_5
+
+  17559765:
+    template: Natty_Gibbon
+    level:    [92, 93]
+    region:   dangruf_wadi_ne
+
+  17559766:
+    template: Natty_Gibbon
+    level:    [92, 93]
+    region:   dangruf_wadi_ne
+
+  17559767:
+    template: Natty_Gibbon
+    level:    [92, 93]
+    region:   dangruf_wadi_ne
+
+  17559768:
+    template: Trimmer
+    level:    [91, 92]
+    region:   dangruf_wadi_ne
+
+  17559769:
+    template: Trimmer
+    level:    [90, 91]
+    region:   dangruf_wadi_ne
+
+  17559770:
+    template: Trimmer
+    level:    [90, 91]
+    region:   dangruf_wadi_ne
+
+  17559771:
+    template: Natty_Gibbon
+    level:    [92, 93]
+    region:   dangruf_wadi_n_4
+
+  17559772:
+    template: Natty_Gibbon
+    level:    [92, 93]
+    region:   dangruf_wadi_n_4
+
+  17559773:
+    template: Natty_Gibbon
+    level:    [92, 93]
+    region:   dangruf_wadi_n_4
+
+  17559774:
+    template: Fume_Lizard
+    level:    [87, 89]
+    region:   dangruf_wadi_n_4
+
+  17559775:
+    template: Fume_Lizard
+    level:    [87, 89]
+    region:   dangruf_wadi_n_4
+
+  17559776:
+    template: Fume_Lizard
+    level:    [87, 89]
+    region:   dangruf_wadi_n_4
+
+  17559777:
+    template: Natty_Gibbon
+    level:    [92, 93]
+    region:   dangruf_wadi_n_2
+
+  17559778:
+    template: Natty_Gibbon
+    level:    [92, 93]
+    region:   dangruf_wadi_n_2
+
+  17559779:
+    template: Natty_Gibbon
+    level:    [92, 93]
+    region:   dangruf_wadi_n_2
+
+  17559780:
+    template: Fume_Lizard
+    level:    [87, 89]
+    region:   dangruf_wadi_n_2
+
+  17559781:
+    template: Fume_Lizard
+    level:    [87, 89]
+    region:   dangruf_wadi_n_2
+
+  17559782:
+    template: Fume_Lizard
+    level:    [87, 89]
+    region:   dangruf_wadi_n_2
+
+  17559783:
+    template: Natty_Gibbon
+    level:    [92, 93]
+    region:   dangruf_wadi_n
+
+  17559784:
+    template: Natty_Gibbon
+    level:    [92, 93]
+    region:   dangruf_wadi_n
+
+  17559785:
+    template: Natty_Gibbon
+    level:    [92, 93]
+    region:   dangruf_wadi_n
+
+  17559786:
+    template: Fume_Lizard
+    level:    [87, 89]
+    region:   dangruf_wadi_n
+
+  17559787:
+    template: Fume_Lizard
+    level:    [87, 89]
+    region:   dangruf_wadi_n
+
+  17559788:
+    template: Fume_Lizard
+    level:    [87, 89]
+    region:   dangruf_wadi_n
+
+  17559789:
+    template: Fume_Lizard
+    level:    [87, 89]
+    region:   dangruf_wadi_nw_2
+
+  17559790:
+    template: Fume_Lizard
+    level:    [87, 89]
+    region:   dangruf_wadi_nw_2
+
+  17559791:
+    template: Fume_Lizard
+    level:    [87, 89]
+    region:   dangruf_wadi_nw
+
+  17559792:
+    template: Fume_Lizard
+    level:    [87, 89]
+    region:   dangruf_wadi_nw
+
+  17559793:
+    template: Fume_Lizard
+    level:    [87, 89]
+    region:   dangruf_wadi_nw
+
+  17559794:
+    template: Goblin_Conjurer
+    level:    [90, 91]
+    region:   dangruf_wadi_w_3
+
+  17559795:
+    template: Goblin_Conjurer
+    level:    [90, 91]
+    region:   dangruf_wadi_w_3
+
+  17559796:
+    template: Prim_Pika
+    level:    [89, 90]
+    region:   dangruf_wadi_w_3
+
+  17559797:
+    template: Prim_Pika
+    level:    [89, 90]
+    region:   dangruf_wadi_w_3
+
+  17559798:
+    template: Prim_Pika
+    level:    [89, 90]
+    region:   dangruf_wadi_w_3
+
+  17559799:
+    template: Goblin_Conjurer
+    level:    [90, 91]
+    region:   dangruf_wadi_w_2
+
+  17559800:
+    template: Goblin_Conjurer
+    level:    [90, 91]
+    region:   dangruf_wadi_w_2
+
+  17559801:
+    template: Prim_Pika
+    level:    [89, 90]
+    region:   dangruf_wadi_w_2
+
+  17559802:
+    template: Prim_Pika
+    level:    [89, 90]
+    region:   dangruf_wadi_w_2
+
+  17559803:
+    template: Prim_Pika
+    level:    [89, 90]
+    region:   dangruf_wadi_w_2
+
+  17559804:
+    template: Goblin_Conjurer
+    level:    [90, 91]
+    region:   dangruf_wadi_c_2
+
+  17559805:
+    template: Goblin_Conjurer
+    level:    [90, 91]
+    region:   dangruf_wadi_c_2
+
+  17559806:
+    template: Witchetty_Grub
+    level:    [88, 90]
+    region:   dangruf_wadi_c_2
+
+  17559807:
+    template: Witchetty_Grub
+    level:    [88, 90]
+    region:   dangruf_wadi_c_2
+
+  17559808:
+    template: Witchetty_Grub
+    level:    [88, 90]
+    region:   dangruf_wadi_c_2
+
+  17559809:
+    template: Goblin_Bladesmith
+    level:    [90, 91]
+    region:   dangruf_wadi_c_5
+
+  17559810:
+    template: Goblin_Bladesmith
+    level:    [90, 91]
+    region:   dangruf_wadi_c_5
+
+  17559811:
+    template: Witchetty_Grub
+    level:    [88, 90]
+    region:   dangruf_wadi_c_5
+
+  17559812:
+    template: Witchetty_Grub
+    level:    [88, 90]
+    region:   dangruf_wadi_c_5
+
+  17559813:
+    template: Witchetty_Grub
+    level:    [88, 90]
+    region:   dangruf_wadi_c_5
+
+  17559814:
+    template: Goblin_Bladesmith
+    level:    [90, 91]
+    region:   dangruf_wadi_c
+
+  17559815:
+    template: Goblin_Bladesmith
+    level:    [90, 91]
+    region:   dangruf_wadi_c
+
+  17559816:
+    template: Prim_Pika
+    level:    [89, 90]
+    region:   dangruf_wadi_c
+
+  17559817:
+    template: Prim_Pika
+    level:    [89, 90]
+    region:   dangruf_wadi_c
+
+  17559818:
+    template: Prim_Pika
+    level:    [89, 90]
+    region:   dangruf_wadi_c
+
+  17559819:
+    template: Prim_Pika
+    level:    [89, 90]
+    region:   dangruf_wadi_c
+
+  17559820:
+    template: Prim_Pika
+    level:    [89, 90]
+    region:   dangruf_wadi_c
+
+  17559821:
+    template: Prim_Pika
+    level:    [89, 90]
+    region:   dangruf_wadi_c
+
+  17559822:
+    template: Prim_Pika
+    level:    [89, 90]
+    region:   dangruf_wadi_c
+
+  17559823:
+    template: Prim_Pika
+    level:    [89, 90]
+    region:   dangruf_wadi_c
+
+  17559824:
+    template: Goblin_Bushwhacker
+    level:    [90, 91]
+    region:   dangruf_wadi_c_3
+
+  17559825:
+    template: Goblin_Bushwhacker
+    level:    [90, 91]
+    region:   dangruf_wadi_c_3
+
+  17559826:
+    template: Goblin_Bushwhacker
+    level:    [90, 91]
+    region:   dangruf_wadi_c_3
+
+  17559827:
+    template: Witchetty_Grub
+    level:    [88, 90]
+    region:   dangruf_wadi_c_3
+
+  17559828:
+    template: Witchetty_Grub
+    level:    [88, 90]
+    region:   dangruf_wadi_c_3
+
+  17559829:
+    template: Witchetty_Grub
+    level:    [88, 90]
+    region:   dangruf_wadi_c_3
+
+  17559830:
+    template: Witchetty_Grub
+    level:    [88, 90]
+    region:   dangruf_wadi_c_3
+
+  17559831:
+    template: Goblin_Bushwhacker
+    at:       [-360.000, -1.000, 180.000, 62]
+    level:    [90, 91]
+
+  17559832:
+    template: Couloir_Leech
+    at:       [-385.000, 3.000, 107.000, 127]
+    level:    [87, 88]
+
+  17559833:
+    template: Couloir_Leech
+    at:       [-405.000, 3.000, 108.000, 127]
+    level:    [87, 88]
+
+  17559834:
+    template: Couloir_Leech
+    level:    [87, 88]
+    region:   dangruf_wadi_w_6
+
+  17559835:
+    template: Couloir_Leech
+    level:    [87, 88]
+    region:   dangruf_wadi_w_6
+
+  17559836:
+    template: Couloir_Leech
+    level:    [87, 88]
+    region:   dangruf_wadi_w_6
+
+  17559837:
+    template: Couloir_Leech
+    level:    [87, 88]
+    region:   dangruf_wadi_w_6
+
+  17559838:
+    template: Couloir_Leech
+    level:    [87, 88]
+    region:   dangruf_wadi_w_6
+
+  17559839:
+    template: Witchetty_Grub
+    level:    [88, 90]
+    region:   dangruf_wadi_w_4
+
+  17559840:
+    template: Witchetty_Grub
+    level:    [88, 90]
+    region:   dangruf_wadi_w_4
+
+  17559841:
+    template: Goblin_Conjurer
+    level:    [90, 91]
+    region:   dangruf_wadi_w_5
+
+  17559842:
+    template: Goblin_Bladesmith
+    level:    [90, 91]
+    region:   dangruf_wadi_w_5
+
+  17559843:
+    template: Goblin_Bushwhacker
+    level:    [90, 91]
+    region:   dangruf_wadi_w_5
+
+  17559844:
+    template: Couloir_Leech
+    level:    [87, 88]
+    region:   dangruf_wadi_w_5
+
+  17559845:
+    template: Couloir_Leech
+    level:    [87, 88]
+    region:   dangruf_wadi_w_5
+
+  17559846:
+    template: Goblin_Conjurer
+    level:    [90, 91]
+    region:   dangruf_wadi_sw_4
+
+  17559847:
+    template: Goblin_Bladesmith
+    level:    [90, 91]
+    region:   dangruf_wadi_sw_4
+
+  17559848:
+    template: Goblin_Bushwhacker
+    level:    [90, 91]
+    region:   dangruf_wadi_sw_4
+
+  17559849:
+    template: Couloir_Leech
+    level:    [87, 88]
+    region:   dangruf_wadi_sw_4
+
+  17559850:
+    template: Couloir_Leech
+    level:    [87, 88]
+    region:   dangruf_wadi_sw_4
+
+  17559851:
+    template: Couloir_Leech
+    level:    [87, 88]
+    region:   dangruf_wadi_sw_4
+
+  17559852:
+    template: Goblin_Conjurer
+    level:    [90, 91]
+    region:   dangruf_wadi_w
+
+  17559853:
+    template: Goblin_Bladesmith
+    level:    [90, 91]
+    region:   dangruf_wadi_w
+
+  17559854:
+    template: Goblin_Bushwhacker
+    level:    [90, 91]
+    region:   dangruf_wadi_w
+
+  17559855:
+    template: Couloir_Leech
+    level:    [87, 88]
+    region:   dangruf_wadi_w
+
+  17559856:
+    template: Couloir_Leech
+    level:    [87, 88]
+    region:   dangruf_wadi_w
+
+  17559857:
+    template: Couloir_Leech
+    level:    [87, 88]
+    region:   dangruf_wadi_w
+
+  17559858:
+    template: Goblin_Bladesmith
+    level:    [90, 91]
+    region:   dangruf_wadi_sw_3
+
+  17559859:
+    template: Goblin_Bushwhacker
+    at:       [-233.000, 3.000, 295.000, 127]
+    level:    [90, 91]
+
+  17559860:
+    template: Couloir_Leech
+    level:    [87, 88]
+    region:   dangruf_wadi_sw_3
+
+  17559861:
+    template: Couloir_Leech
+    level:    [87, 88]
+    region:   dangruf_wadi_sw_3
+
+  17559862:
+    template: Couloir_Leech
+    level:    [87, 88]
+    region:   dangruf_wadi_sw_3
+
+  17559863:
+    template: Witchetty_Grub
+    level:    [88, 90]
+    region:   dangruf_wadi_sw
+
+  17559864:
+    template: Witchetty_Grub
+    level:    [88, 90]
+    region:   dangruf_wadi_sw
+
+  17559865:
+    template: Witchetty_Grub
+    level:    [89, 90]
+    region:   dangruf_wadi_sw
+
+  17559866:
+    template: Witchetty_Grub
+    level:    [89, 90]
+    region:   dangruf_wadi_sw_2
+
+  17559867:
+    template: Witchetty_Grub
+    level:    [89, 90]
+    region:   dangruf_wadi_sw_2
+
+  17559868:
+    template: Witchetty_Grub
+    level:    [88, 90]
+    region:   dangruf_wadi_sw_2
+
+  17559869:
+    template: Chocoboleech
+    at:       [-430.330, 4.400, 115.100, 191]
+    level:    [24, 25]
+
+  17559870:
+    template: Fire_Elemental
+    at:       [-496.638, -5.045, -100.004, 127]
+    level:    [75, 75]
+
+  17559871:
+    template: Celaeno
+    at:       [-157.000, 3.472, -164.000, 43]
+    level:    [100, 100]
+
+  17559872:
+    template: Celaeno
+    at:       [-107.000, 3.555, 187.000, 32]
+    level:    [100, 100]
+
+  17559873:
+    template: Celaeno
+    at:       [-250.190, 3.510, 505.407, 4]
+    level:    [100, 100]

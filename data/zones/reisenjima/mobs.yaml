@@ -1,0 +1,3648 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17969153:
+    template: Lentic_Toad
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [121, 126]
+
+  17969154:
+    template: Lentic_Toad
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [121, 126]
+
+  17969155:
+    template: Lentic_Toad
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [121, 126]
+
+  17969156:
+    template: Lentic_Toad
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [121, 126]
+
+  17969157:
+    template: Wretched_Poroggo
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [121, 126]
+
+  17969158:
+    template: Ogdoad
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17969159:
+    template: Snaggletoothed_Tiger
+    level:    [121, 126]
+    region:   reisenjima_w_16
+
+  17969160:
+    template: Snaggletoothed_Tiger
+    level:    [121, 126]
+    region:   reisenjima_w_16
+
+  17969161:
+    template: Snaggletoothed_Tiger
+    level:    [121, 126]
+    region:   reisenjima_w_16
+
+  17969162:
+    template: Obstreperous_Panopt
+    level:    [121, 126]
+    region:   reisenjima_w_16
+
+  17969163:
+    template: Obstreperous_Panopt
+    level:    [121, 126]
+    region:   reisenjima_w_16
+
+  17969164:
+    template: Obstreperous_Panopt
+    level:    [121, 126]
+    region:   reisenjima_w_16
+
+  17969165:
+    template: Obstreperous_Panopt
+    level:    [121, 126]
+    region:   reisenjima_w_16
+
+  17969166:
+    template: Snaggletoothed_Tiger
+    level:    [121, 126]
+    region:   reisenjima_w_16
+
+  17969167:
+    template: Snaggletoothed_Tiger
+    level:    [121, 126]
+    region:   reisenjima_w_16
+
+  17969168:
+    template: Obstreperous_Panopt
+    level:    [121, 126]
+    region:   reisenjima_w_16
+
+  17969169:
+    template: Obstreperous_Panopt
+    level:    [121, 126]
+    region:   reisenjima_w_16
+
+  17969170:
+    template: Agitated_Chapuli
+    level:    [121, 126]
+    region:   reisenjima_w_16
+
+  17969171:
+    template: Agitated_Chapuli
+    level:    [121, 126]
+    region:   reisenjima_w_16
+
+  17969172:
+    template: Agitated_Chapuli
+    level:    [121, 126]
+    region:   reisenjima_w_16
+
+  17969173:
+    template: Devouring_Mosquito
+    level:    [121, 126]
+    region:   reisenjima_w_16
+
+  17969174:
+    template: Agitated_Chapuli
+    level:    [121, 126]
+    region:   reisenjima_w_16
+
+  17969175:
+    template: Agitated_Chapuli
+    level:    [121, 126]
+    region:   reisenjima_w_16
+
+  17969176:
+    template: Agitated_Chapuli
+    level:    [121, 126]
+    region:   reisenjima_w_16
+
+  17969177:
+    template: Agitated_Chapuli
+    level:    [121, 126]
+    region:   reisenjima_w_16
+
+  17969178:
+    template: Devouring_Mosquito
+    level:    [121, 126]
+    region:   reisenjima_w_16
+
+  17969179:
+    template: Snaggletoothed_Tiger
+    level:    [121, 126]
+    region:   reisenjima_w_13
+
+  17969180:
+    template: Snaggletoothed_Tiger
+    level:    [121, 126]
+    region:   reisenjima_w_13
+
+  17969181:
+    template: Snaggletoothed_Tiger
+    level:    [121, 126]
+    region:   reisenjima_w_13
+
+  17969182:
+    template: Snaggletoothed_Tiger
+    level:    [121, 126]
+    region:   reisenjima_w_13
+
+  17969183:
+    template: Obstreperous_Panopt
+    level:    [121, 126]
+    region:   reisenjima_w_13
+
+  17969184:
+    template: Obstreperous_Panopt
+    level:    [121, 126]
+    region:   reisenjima_w_13
+
+  17969185:
+    template: Obstreperous_Panopt
+    level:    [121, 126]
+    region:   reisenjima_w_13
+
+  17969186:
+    template: Obstreperous_Panopt
+    level:    [121, 126]
+    region:   reisenjima_w_13
+
+  17969187:
+    template: Snaggletoothed_Tiger
+    level:    [121, 126]
+    region:   reisenjima_w_8
+
+  17969188:
+    template: Snaggletoothed_Tiger
+    level:    [121, 126]
+    region:   reisenjima_w_8
+
+  17969189:
+    template: Snaggletoothed_Tiger
+    level:    [121, 126]
+    region:   reisenjima_w_8
+
+  17969190:
+    template: Obstreperous_Panopt
+    level:    [121, 126]
+    region:   reisenjima_w_8
+
+  17969191:
+    template: Obstreperous_Panopt
+    level:    [121, 126]
+    region:   reisenjima_w_8
+
+  17969192:
+    template: Obstreperous_Panopt
+    level:    [121, 126]
+    region:   reisenjima_w_8
+
+  17969193:
+    template: Obstreperous_Panopt
+    level:    [121, 126]
+    region:   reisenjima_w_8
+
+  17969194:
+    template: Snaggletoothed_Tiger
+    level:    [121, 126]
+    region:   reisenjima_w
+
+  17969195:
+    template: Snaggletoothed_Tiger
+    level:    [121, 126]
+    region:   reisenjima_w
+
+  17969196:
+    template: Snaggletoothed_Tiger
+    level:    [121, 126]
+    region:   reisenjima_w
+
+  17969197:
+    template: Obstreperous_Panopt
+    level:    [121, 126]
+    region:   reisenjima_w
+
+  17969198:
+    template: Obstreperous_Panopt
+    level:    [121, 126]
+    region:   reisenjima_w
+
+  17969199:
+    template: Obstreperous_Panopt
+    level:    [121, 126]
+    region:   reisenjima_w
+
+  17969200:
+    template: Obstreperous_Panopt
+    level:    [121, 126]
+    region:   reisenjima_w
+
+  17969201:
+    template: Obstreperous_Panopt
+    level:    [121, 126]
+    region:   reisenjima_w_11
+
+  17969202:
+    template: Obstreperous_Panopt
+    level:    [121, 126]
+    region:   reisenjima_w_11
+
+  17969203:
+    template: Obstreperous_Panopt
+    level:    [121, 126]
+    region:   reisenjima_w_11
+
+  17969204:
+    template: Obstreperous_Panopt
+    level:    [121, 126]
+    region:   reisenjima_w_4
+
+  17969205:
+    template: Obstreperous_Panopt
+    level:    [121, 126]
+    region:   reisenjima_w_4
+
+  17969206:
+    template: Agitated_Chapuli
+    level:    [121, 126]
+    region:   reisenjima_w_7
+
+  17969207:
+    template: Agitated_Chapuli
+    level:    [121, 126]
+    region:   reisenjima_w_7
+
+  17969208:
+    template: Agitated_Chapuli
+    level:    [121, 126]
+    region:   reisenjima_w_7
+
+  17969209:
+    template: Devouring_Mosquito
+    level:    [121, 126]
+    region:   reisenjima_w_7
+
+  17969210:
+    template: Agitated_Chapuli
+    level:    [121, 126]
+    region:   reisenjima_w_2
+
+  17969211:
+    template: Agitated_Chapuli
+    level:    [121, 126]
+    region:   reisenjima_w_2
+
+  17969212:
+    template: Agitated_Chapuli
+    level:    [121, 126]
+    region:   reisenjima_w_2
+
+  17969213:
+    template: Devouring_Mosquito
+    level:    [121, 126]
+    region:   reisenjima_w_2
+
+  17969214:
+    template: Devouring_Mosquito
+    level:    [121, 126]
+    region:   reisenjima_w_6
+
+  17969215:
+    template: Devouring_Mosquito
+    level:    [121, 126]
+    region:   reisenjima_w_6
+
+  17969216:
+    template: Agitated_Chapuli
+    level:    [121, 126]
+    region:   reisenjima_w_6
+
+  17969217:
+    template: Agitated_Chapuli
+    level:    [121, 126]
+    region:   reisenjima_w_6
+
+  17969218:
+    template: Agitated_Chapuli
+    level:    [121, 126]
+    region:   reisenjima_w_6
+
+  17969219:
+    template: Agitated_Chapuli
+    level:    [121, 126]
+    region:   reisenjima_w_6
+
+  17969220:
+    template: Obstreperous_Panopt
+    level:    [121, 126]
+    region:   reisenjima_w_5
+
+  17969221:
+    template: Obstreperous_Panopt
+    at:       [-616.400, -44.380, -62.305, 25]
+    level:    [121, 126]
+
+  17969222:
+    template: Obstreperous_Panopt
+    at:       [-616.000, -43.980, -65.528, 220]
+    level:    [121, 126]
+
+  17969223:
+    template: Obstreperous_Panopt
+    at:       [-585.300, -44.560, -35.432, 145]
+    level:    [121, 126]
+
+  17969224:
+    template: Obstreperous_Panopt
+    at:       [-581.300, -43.990, -33.894, 197]
+    level:    [121, 126]
+
+  17969225:
+    template: Obstreperous_Panopt
+    at:       [-597.500, -48.030, -10.085, 127]
+    level:    [121, 126]
+
+  17969226:
+    template: Obstreperous_Panopt
+    at:       [-586.500, -45.360, -20.261, 113]
+    level:    [121, 126]
+
+  17969227:
+    template: Indomitable_Faaz
+    at:       [-598.200, -48.100, -11.451, 161]
+    level:    [121, 126]
+
+  17969228:
+    template: Indomitable_Faaz
+    at:       [-598.500, -47.450, -20.423, 109]
+    level:    [121, 126]
+
+  17969229:
+    template: Obstreperous_Panopt
+    level:    [121, 126]
+    region:   reisenjima_w_9
+
+  17969230:
+    template: Obstreperous_Panopt
+    level:    [121, 126]
+    region:   reisenjima_w_9
+
+  17969231:
+    template: Indomitable_Faaz
+    level:    [121, 126]
+    region:   reisenjima_w_9
+
+  17969232:
+    template: Indomitable_Faaz
+    level:    [121, 126]
+    region:   reisenjima_w_9
+
+  17969233:
+    template: Territorial_Mantis
+    level:    [121, 126]
+    region:   reisenjima_w_10
+
+  17969234:
+    template: Territorial_Mantis
+    level:    [121, 126]
+    region:   reisenjima_w_10
+
+  17969235:
+    template: Rampaging_Beetle
+    at:       [-587.600, -45.400, -23.121, 187]
+    level:    [121, 126]
+
+  17969236:
+    template: Territorial_Mantis
+    at:       [-593.700, -46.960, 4.508, 174]
+    level:    [121, 126]
+
+  17969237:
+    template: Rampaging_Beetle
+    at:       [-588.500, -45.480, -5.437, 105]
+    level:    [121, 126]
+
+  17969238:
+    template: Rampaging_Beetle
+    at:       [-580.500, -43.960, 2.236, 8]
+    level:    [121, 126]
+
+  17969239:
+    template: Indomitable_Faaz
+    level:    [121, 126]
+    region:   reisenjima_w_12
+
+  17969240:
+    template: Territorial_Mantis
+    at:       [-548.100, -52.160, 100.249, 186]
+    level:    [121, 126]
+
+  17969241:
+    template: Territorial_Mantis
+    at:       [-553.000, -52.180, 97.087, 50]
+    level:    [121, 126]
+
+  17969242:
+    template: Rampaging_Beetle
+    at:       [-552.800, -52.170, 97.256, 51]
+    level:    [121, 126]
+
+  17969243:
+    template: Rampaging_Beetle
+    at:       [-554.100, -53.190, 107.061, 187]
+    level:    [121, 126]
+
+  17969244:
+    template: Territorial_Mantis
+    level:    [121, 126]
+    region:   reisenjima_nw
+
+  17969245:
+    template: Territorial_Mantis
+    level:    [121, 126]
+    region:   reisenjima_nw
+
+  17969246:
+    template: Rampaging_Beetle
+    level:    [121, 126]
+    region:   reisenjima_nw
+
+  17969247:
+    template: Rampaging_Beetle
+    level:    [121, 126]
+    region:   reisenjima_nw
+
+  17969248:
+    template: Indomitable_Faaz
+    level:    [121, 126]
+    region:   reisenjima_nw_8
+
+  17969249:
+    template: Indomitable_Faaz
+    level:    [121, 126]
+    region:   reisenjima_nw_8
+
+  17969250:
+    template: Indomitable_Faaz
+    level:    [121, 126]
+    region:   reisenjima_nw_9
+
+  17969251:
+    template: Indomitable_Faaz
+    level:    [121, 126]
+    region:   reisenjima_nw_9
+
+  17969252:
+    template: Devouring_Mosquito
+    level:    [121, 126]
+    region:   reisenjima_nw_9
+
+  17969253:
+    template: Devouring_Mosquito
+    level:    [121, 126]
+    region:   reisenjima_nw_9
+
+  17969254:
+    template: Devouring_Mosquito
+    level:    [121, 126]
+    region:   reisenjima_nw_9
+
+  17969255:
+    template: Devouring_Mosquito
+    level:    [121, 126]
+    region:   reisenjima_nw_9
+
+  17969256:
+    template: Devouring_Mosquito
+    level:    [121, 126]
+    region:   reisenjima_nw_9
+
+  17969257:
+    template: Water_Elemental
+    level:    [121, 126]
+    region:   reisenjima_w_18
+
+  17969258:
+    template: Water_Elemental
+    level:    [121, 126]
+    region:   reisenjima_w_18
+
+  17969259:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_w_18
+
+  17969260:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_w_18
+
+  17969261:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_w_18
+
+  17969262:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_w_18
+
+  17969263:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_w_18
+
+  17969264:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_w_18
+
+  17969265:
+    template: Wretched_Poroggo
+    level:    [121, 126]
+    region:   reisenjima_w_18
+
+  17969266:
+    template: Wretched_Poroggo
+    level:    [121, 126]
+    region:   reisenjima_w_18
+
+  17969267:
+    template: Devouring_Mosquito
+    level:    [121, 126]
+    region:   reisenjima_w_18
+
+  17969268:
+    template: Devouring_Mosquito
+    level:    [121, 126]
+    region:   reisenjima_w_18
+
+  17969269:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_w_17
+
+  17969270:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_w_17
+
+  17969271:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_w_17
+
+  17969272:
+    template: Wretched_Poroggo
+    level:    [121, 126]
+    region:   reisenjima_w_17
+
+  17969273:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_nw_13
+
+  17969274:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_nw_13
+
+  17969275:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_nw_13
+
+  17969276:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_nw_13
+
+  17969277:
+    template: Wretched_Poroggo
+    level:    [121, 126]
+    region:   reisenjima_nw_13
+
+  17969278:
+    template: Devouring_Mosquito
+    level:    [121, 126]
+    region:   reisenjima_nw_13
+
+  17969279:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_nw_12
+
+  17969280:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_nw_12
+
+  17969281:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_nw_12
+
+  17969282:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_nw_12
+
+  17969283:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_nw_12
+
+  17969284:
+    template: Wretched_Poroggo
+    at:       [-418.600, -57.840, 198.761, 193]
+    level:    [121, 126]
+
+  17969285:
+    template: Devouring_Mosquito
+    level:    [121, 126]
+    region:   reisenjima_nw_12
+
+  17969286:
+    template: Indomitable_Faaz
+    level:    [121, 126]
+    region:   reisenjima_nw_22
+
+  17969287:
+    template: Indomitable_Faaz
+    level:    [121, 126]
+    region:   reisenjima_nw_22
+
+  17969288:
+    template: Indomitable_Faaz
+    level:    [121, 126]
+    region:   reisenjima_nw_22
+
+  17969289:
+    template: Indomitable_Faaz
+    level:    [121, 126]
+    region:   reisenjima_nw_22
+
+  17969290:
+    template: Indomitable_Faaz
+    level:    [121, 126]
+    region:   reisenjima_nw_32
+
+  17969291:
+    template: Indomitable_Faaz
+    level:    [121, 126]
+    region:   reisenjima_nw_32
+
+  17969292:
+    template: Indomitable_Faaz
+    level:    [121, 126]
+    region:   reisenjima_nw_32
+
+  17969293:
+    template: Territorial_Mantis
+    level:    [121, 126]
+    region:   reisenjima_nw_17
+
+  17969294:
+    template: Territorial_Mantis
+    level:    [121, 126]
+    region:   reisenjima_nw_17
+
+  17969295:
+    template: Territorial_Mantis
+    level:    [121, 126]
+    region:   reisenjima_nw_17
+
+  17969296:
+    template: Territorial_Mantis
+    level:    [121, 126]
+    region:   reisenjima_nw_17
+
+  17969297:
+    template: Rampaging_Beetle
+    level:    [121, 126]
+    region:   reisenjima_nw_17
+
+  17969298:
+    template: Rampaging_Beetle
+    level:    [121, 126]
+    region:   reisenjima_nw_17
+
+  17969299:
+    template: Rampaging_Beetle
+    level:    [121, 126]
+    region:   reisenjima_nw_17
+
+  17969300:
+    template: Rampaging_Beetle
+    level:    [121, 126]
+    region:   reisenjima_nw_17
+
+  17969301:
+    template: Territorial_Mantis
+    level:    [121, 126]
+    region:   reisenjima_nw_28
+
+  17969302:
+    template: Territorial_Mantis
+    level:    [121, 126]
+    region:   reisenjima_nw_28
+
+  17969303:
+    template: Territorial_Mantis
+    level:    [121, 126]
+    region:   reisenjima_nw_28
+
+  17969304:
+    template: Rampaging_Beetle
+    level:    [121, 126]
+    region:   reisenjima_nw_28
+
+  17969305:
+    template: Rampaging_Beetle
+    level:    [121, 126]
+    region:   reisenjima_nw_28
+
+  17969306:
+    template: Rampaging_Beetle
+    level:    [121, 126]
+    region:   reisenjima_nw_28
+
+  17969307:
+    template: Territorial_Mantis
+    level:    [121, 126]
+    region:   reisenjima_n_4
+
+  17969308:
+    template: Territorial_Mantis
+    level:    [121, 126]
+    region:   reisenjima_n_4
+
+  17969309:
+    template: Territorial_Mantis
+    level:    [121, 126]
+    region:   reisenjima_n_4
+
+  17969310:
+    template: Rampaging_Beetle
+    at:       [-307.400, -51.900, 145.240, 232]
+    level:    [121, 126]
+
+  17969311:
+    template: Rampaging_Beetle
+    at:       [-310.600, -52.520, 148.330, 7]
+    level:    [121, 126]
+
+  17969312:
+    template: Rampaging_Beetle
+    at:       [-307.100, -51.900, 145.757, 229]
+    level:    [121, 126]
+
+  17969313:
+    template: Indomitable_Faaz
+    level:    [121, 126]
+    region:   reisenjima_n_6
+
+  17969314:
+    template: Indomitable_Faaz
+    level:    [121, 126]
+    region:   reisenjima_n_6
+
+  17969315:
+    template: Indomitable_Faaz
+    at:       [-316.900, -72.080, 200.470, 123]
+    level:    [121, 126]
+
+  17969316:
+    template: Territorial_Mantis
+    at:       [-301.600, -67.910, 203.932, 160]
+    level:    [121, 126]
+
+  17969317:
+    template: Territorial_Mantis
+    at:       [-309.800, -66.340, 185.348, 173]
+    level:    [121, 126]
+
+  17969318:
+    template: Rampaging_Beetle
+    at:       [-297.000, -66.840, 195.117, 87]
+    level:    [121, 126]
+
+  17969319:
+    template: Rampaging_Beetle
+    at:       [-300.900, -62.670, 184.333, 63]
+    level:    [121, 126]
+
+  17969320:
+    template: Snaggletoothed_Tiger
+    level:    [121, 126]
+    region:   reisenjima_n_8
+
+  17969321:
+    template: Snaggletoothed_Tiger
+    level:    [121, 126]
+    region:   reisenjima_n_8
+
+  17969322:
+    template: Snaggletoothed_Tiger
+    level:    [121, 126]
+    region:   reisenjima_n_8
+
+  17969323:
+    template: Officious_Unseelie
+    level:    [121, 126]
+    region:   reisenjima_n_8
+
+  17969324:
+    template: Officious_Unseelie
+    level:    [121, 126]
+    region:   reisenjima_n_8
+
+  17969325:
+    template: Officious_Unseelie
+    level:    [121, 126]
+    region:   reisenjima_n_2
+
+  17969326:
+    template: Officious_Unseelie
+    level:    [121, 126]
+    region:   reisenjima_n_2
+
+  17969327:
+    template: Officious_Unseelie
+    level:    [121, 126]
+    region:   reisenjima_n_2
+
+  17969328:
+    template: Macabre_Skeleton
+    level:    [121, 126]
+    region:   reisenjima_n_2
+
+  17969329:
+    template: Macabre_Skeleton
+    level:    [121, 126]
+    region:   reisenjima_n_2
+
+  17969330:
+    template: Macabre_Skeleton
+    level:    [121, 126]
+    region:   reisenjima_n_2
+
+  17969331:
+    template: Perfervid_Naraka
+    level:    [121, 126]
+    region:   reisenjima_n_2
+
+  17969332:
+    template: Officious_Unseelie
+    level:    [121, 126]
+    region:   reisenjima_n_3
+
+  17969333:
+    template: Officious_Unseelie
+    level:    [121, 126]
+    region:   reisenjima_n_3
+
+  17969334:
+    template: Officious_Unseelie
+    level:    [121, 126]
+    region:   reisenjima_n_3
+
+  17969335:
+    template: Macabre_Skeleton
+    level:    [121, 126]
+    region:   reisenjima_n_3
+
+  17969336:
+    template: Macabre_Skeleton
+    level:    [121, 126]
+    region:   reisenjima_n_3
+
+  17969337:
+    template: Perfervid_Naraka
+    level:    [121, 126]
+    region:   reisenjima_n_3
+
+  17969338:
+    template: Officious_Unseelie
+    at:       [-320.300, -80.160, 354.239, 231]
+    level:    [121, 126]
+
+  17969339:
+    template: Macabre_Skeleton
+    at:       [-318.900, -80.470, 354.628, 162]
+    level:    [121, 126]
+
+  17969340:
+    template: Macabre_Skeleton
+    at:       [-319.500, -80.400, 354.194, 209]
+    level:    [121, 126]
+
+  17969341:
+    template: Indomitable_Faaz
+    level:    [121, 126]
+    region:   reisenjima_n
+
+  17969342:
+    template: Indomitable_Faaz
+    level:    [121, 126]
+    region:   reisenjima_n
+
+  17969343:
+    template: Indomitable_Faaz
+    level:    [121, 126]
+    region:   reisenjima_nw_18
+
+  17969344:
+    template: Indomitable_Faaz
+    level:    [121, 126]
+    region:   reisenjima_nw_18
+
+  17969345:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_nw_30
+
+  17969346:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_nw_30
+
+  17969347:
+    template: Asphyxiating_Cyhiraeth
+    level:    [121, 126]
+    region:   reisenjima_nw_30
+
+  17969348:
+    template: Arboreal_Chigoe
+    level:    [121, 126]
+    region:   reisenjima_nw_30
+
+  17969349:
+    template: Arboreal_Chigoe
+    level:    [121, 126]
+    region:   reisenjima_nw_30
+
+  17969350:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_nw_23
+
+  17969351:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_nw_23
+
+  17969352:
+    template: Asphyxiating_Cyhiraeth
+    level:    [121, 126]
+    region:   reisenjima_nw_23
+
+  17969353:
+    template: Officious_Unseelie
+    level:    [121, 126]
+    region:   reisenjima_nw_24
+
+  17969354:
+    template: Officious_Unseelie
+    level:    [121, 126]
+    region:   reisenjima_nw_24
+
+  17969355:
+    template: Macabre_Skeleton
+    level:    [121, 126]
+    region:   reisenjima_nw_26
+
+  17969356:
+    template: Macabre_Skeleton
+    level:    [121, 126]
+    region:   reisenjima_nw_26
+
+  17969357:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_nw_25
+
+  17969358:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_nw_25
+
+  17969359:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_nw_25
+
+  17969360:
+    template: Asphyxiating_Cyhiraeth
+    level:    [121, 126]
+    region:   reisenjima_nw_25
+
+  17969361:
+    template: Asphyxiating_Cyhiraeth
+    level:    [121, 126]
+    region:   reisenjima_nw_25
+
+  17969362:
+    template: Arboreal_Chigoe
+    level:    [121, 126]
+    region:   reisenjima_nw_25
+
+  17969363:
+    template: Arboreal_Chigoe
+    level:    [121, 126]
+    region:   reisenjima_nw_25
+
+  17969364:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_nw_26
+
+  17969365:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_nw_26
+
+  17969366:
+    template: Asphyxiating_Cyhiraeth
+    level:    [121, 126]
+    region:   reisenjima_nw_26
+
+  17969367:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_nw_31
+
+  17969368:
+    template: Indomitable_Faaz
+    level:    [121, 126]
+    region:   reisenjima_nw_14
+
+  17969369:
+    template: Indomitable_Faaz
+    level:    [121, 126]
+    region:   reisenjima_nw_14
+
+  17969370:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_nw_14
+
+  17969371:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_nw_14
+
+  17969372:
+    template: Asphyxiating_Cyhiraeth
+    level:    [121, 126]
+    region:   reisenjima_nw_14
+
+  17969373:
+    template: Arboreal_Chigoe
+    level:    [121, 126]
+    region:   reisenjima_nw_14
+
+  17969374:
+    template: Arboreal_Chigoe
+    level:    [121, 126]
+    region:   reisenjima_nw_14
+
+  17969375:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_nw_27
+
+  17969376:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_nw_27
+
+  17969377:
+    template: Asphyxiating_Cyhiraeth
+    level:    [121, 126]
+    region:   reisenjima_nw_27
+
+  17969378:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_nw_15
+
+  17969379:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_nw_15
+
+  17969380:
+    template: Asphyxiating_Cyhiraeth
+    level:    [121, 126]
+    region:   reisenjima_nw_15
+
+  17969381:
+    template: Indomitable_Faaz
+    level:    [121, 126]
+    region:   reisenjima_nw_15
+
+  17969382:
+    template: Indomitable_Faaz
+    level:    [121, 126]
+    region:   reisenjima_nw_15
+
+  17969383:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_nw_15
+
+  17969384:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_nw_15
+
+  17969385:
+    template: Indomitable_Faaz
+    level:    [121, 126]
+    region:   reisenjima_nw_29
+
+  17969386:
+    template: Indomitable_Faaz
+    level:    [121, 126]
+    region:   reisenjima_nw_29
+
+  17969387:
+    template: Indomitable_Faaz
+    level:    [121, 126]
+    region:   reisenjima_nw_29
+
+  17969388:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_nw_29
+
+  17969389:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_nw_29
+
+  17969390:
+    template: Asphyxiating_Cyhiraeth
+    level:    [121, 126]
+    region:   reisenjima_nw_29
+
+  17969391:
+    template: Thunder_Elemental
+    level:    [121, 126]
+    region:   reisenjima_nw_2
+
+  17969392:
+    template: Thunder_Elemental
+    level:    [121, 126]
+    region:   reisenjima_nw_2
+
+  17969393:
+    template: Agitated_Chapuli
+    level:    [121, 126]
+    region:   reisenjima_nw_3
+
+  17969394:
+    template: Agitated_Chapuli
+    level:    [121, 126]
+    region:   reisenjima_nw_3
+
+  17969395:
+    template: Territorial_Mantis
+    level:    [121, 126]
+    region:   reisenjima_nw_3
+
+  17969396:
+    template: Territorial_Mantis
+    level:    [121, 126]
+    region:   reisenjima_nw_3
+
+  17969397:
+    template: Glowering_Ladybug
+    level:    [121, 126]
+    region:   reisenjima_nw_3
+
+  17969398:
+    template: Glowering_Ladybug
+    level:    [121, 126]
+    region:   reisenjima_nw_3
+
+  17969399:
+    template: Lucani
+    level:    [121, 126]
+    region:   reisenjima_nw_3
+
+  17969400:
+    template: Lucani
+    level:    [121, 126]
+    region:   reisenjima_nw_3
+
+  17969401:
+    template: Agitated_Chapuli
+    level:    [121, 126]
+    region:   reisenjima_nw_7
+
+  17969402:
+    template: Agitated_Chapuli
+    level:    [121, 126]
+    region:   reisenjima_nw_7
+
+  17969403:
+    template: Glowering_Ladybug
+    level:    [121, 126]
+    region:   reisenjima_nw_2
+
+  17969404:
+    template: Lucani
+    level:    [121, 126]
+    region:   reisenjima_nw_2
+
+  17969405:
+    template: Lucani
+    level:    [121, 126]
+    region:   reisenjima_nw_2
+
+  17969406:
+    template: Agitated_Chapuli
+    level:    [121, 126]
+    region:   reisenjima_nw_7
+
+  17969407:
+    template: Agitated_Chapuli
+    level:    [121, 126]
+    region:   reisenjima_nw_7
+
+  17969408:
+    template: Territorial_Mantis
+    level:    [121, 126]
+    region:   reisenjima_nw_4
+
+  17969409:
+    template: Territorial_Mantis
+    level:    [121, 126]
+    region:   reisenjima_nw_4
+
+  17969410:
+    template: Glowering_Ladybug
+    level:    [121, 126]
+    region:   reisenjima_nw_4
+
+  17969411:
+    template: Glowering_Ladybug
+    level:    [121, 126]
+    region:   reisenjima_nw_4
+
+  17969412:
+    template: Lucani
+    level:    [121, 126]
+    region:   reisenjima_nw_4
+
+  17969413:
+    template: Lucani
+    level:    [121, 126]
+    region:   reisenjima_nw_4
+
+  17969414:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_nw_19
+
+  17969415:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_nw_19
+
+  17969416:
+    template: Asphyxiating_Cyhiraeth
+    level:    [121, 126]
+    region:   reisenjima_nw_19
+
+  17969417:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_nw_16
+
+  17969418:
+    template: Asphyxiating_Cyhiraeth
+    level:    [121, 126]
+    region:   reisenjima_nw_16
+
+  17969419:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_nw_20
+
+  17969420:
+    template: Jeering_Pixie
+    level:    [121, 126]
+    region:   reisenjima_nw_11
+
+  17969421:
+    template: Jeering_Pixie
+    level:    [121, 126]
+    region:   reisenjima_nw_11
+
+  17969422:
+    template: Jeering_Pixie
+    level:    [121, 126]
+    region:   reisenjima_nw_11
+
+  17969423:
+    template: Jeering_Pixie
+    at:       [-483.600, -56.080, 563.611, 199]
+    level:    [121, 126]
+
+  17969424:
+    template: Jeering_Pixie
+    at:       [-474.100, -53.260, 571.107, 50]
+    level:    [121, 126]
+
+  17969425:
+    template: Indomitable_Faaz
+    level:    [121, 126]
+    region:   reisenjima_nw_6
+
+  17969426:
+    template: Indomitable_Faaz
+    level:    [121, 126]
+    region:   reisenjima_nw_6
+
+  17969427:
+    template: Jeering_Pixie
+    level:    [121, 126]
+    region:   reisenjima_nw_6
+
+  17969428:
+    template: Jeering_Pixie
+    level:    [121, 126]
+    region:   reisenjima_nw_6
+
+  17969429:
+    template: Jeering_Pixie
+    level:    [121, 126]
+    region:   reisenjima_nw_6
+
+  17969430:
+    template: Jeering_Pixie
+    level:    [121, 126]
+    region:   reisenjima_nw_6
+
+  17969431:
+    template: Indomitable_Faaz
+    at:       [-531.500, -54.640, 597.588, 103]
+    level:    [121, 126]
+
+  17969432:
+    template: Indomitable_Faaz
+    level:    [121, 126]
+    region:   reisenjima_nw_5
+
+  17969433:
+    template: Indomitable_Faaz
+    level:    [121, 126]
+    region:   reisenjima_nw_5
+
+  17969434:
+    template: Jeering_Pixie
+    level:    [121, 126]
+    region:   reisenjima_nw_5
+
+  17969435:
+    template: Jeering_Pixie
+    level:    [121, 126]
+    region:   reisenjima_nw_5
+
+  17969436:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_nw_10
+
+  17969437:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_nw_10
+
+  17969438:
+    template: Water_Elemental
+    at:       [-458.800, -49.890, 596.445, 206]
+    level:    [121, 126]
+
+  17969439:
+    template: Thunder_Elemental
+    level:    [121, 126]
+    region:   reisenjima_n_5
+
+  17969440:
+    template: Quarrelsome_Hippogryph
+    level:    [121, 126]
+    region:   reisenjima_n_7
+
+  17969441:
+    template: Quarrelsome_Hippogryph
+    level:    [121, 126]
+    region:   reisenjima_n_5
+
+  17969442:
+    template: Quarrelsome_Hippogryph
+    level:    [121, 126]
+    region:   reisenjima_n_9
+
+  17969443:
+    template: Quarrelsome_Hippogryph
+    level:    [121, 126]
+    region:   reisenjima_n_9
+
+  17969444:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_n_9
+
+  17969445:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_n_9
+
+  17969446:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_n_10
+
+  17969447:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_n_10
+
+  17969448:
+    template: Asphyxiating_Cyhiraeth
+    level:    [121, 126]
+    region:   reisenjima_n_10
+
+  17969449:
+    template: Thunder_Elemental
+    level:    [121, 126]
+    region:   reisenjima_n_12
+
+  17969450:
+    template: Quarrelsome_Hippogryph
+    level:    [121, 126]
+    region:   reisenjima_n_12
+
+  17969451:
+    template: Quarrelsome_Hippogryph
+    level:    [121, 126]
+    region:   reisenjima_n_12
+
+  17969452:
+    template: Quarrelsome_Hippogryph
+    level:    [121, 126]
+    region:   reisenjima_n_12
+
+  17969453:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_n_12
+
+  17969454:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_n_12
+
+  17969455:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_n_12
+
+  17969456:
+    template: Asphyxiating_Cyhiraeth
+    level:    [121, 126]
+    region:   reisenjima_n_12
+
+  17969457:
+    template: Asphyxiating_Cyhiraeth
+    level:    [121, 126]
+    region:   reisenjima_n_12
+
+  17969458:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_n_14
+
+  17969459:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_n_14
+
+  17969460:
+    template: Porxie
+    level:    [121, 126]
+    region:   reisenjima_n_14
+
+  17969461:
+    template: Asphyxiating_Cyhiraeth
+    level:    [121, 126]
+    region:   reisenjima_n_14
+
+  17969462:
+    template: Asphyxiating_Cyhiraeth
+    level:    [121, 126]
+    region:   reisenjima_n_14
+
+  17969463:
+    template: Officious_Unseelie
+    level:    [121, 126]
+    region:   reisenjima_ne_2
+
+  17969464:
+    template: Officious_Unseelie
+    level:    [121, 126]
+    region:   reisenjima_ne_2
+
+  17969465:
+    template: Officious_Unseelie
+    level:    [121, 126]
+    region:   reisenjima_ne_2
+
+  17969466:
+    template: Officious_Unseelie
+    level:    [121, 126]
+    region:   reisenjima_ne
+
+  17969467:
+    template: Officious_Unseelie
+    level:    [121, 126]
+    region:   reisenjima_ne
+
+  17969468:
+    template: Ignoble_Skeleton
+    level:    [121, 126]
+    region:   reisenjima_ne
+
+  17969469:
+    template: Quarrelsome_Hippogryph
+    level:    [121, 126]
+    region:   reisenjima_ne_3
+
+  17969470:
+    template: Quarrelsome_Hippogryph
+    level:    [121, 126]
+    region:   reisenjima_ne_3
+
+  17969471:
+    template: Quarrelsome_Hippogryph
+    level:    [121, 126]
+    region:   reisenjima_ne_3
+
+  17969472:
+    template: Officious_Unseelie
+    level:    [121, 126]
+    region:   reisenjima_ne_3
+
+  17969473:
+    template: Officious_Unseelie
+    level:    [121, 126]
+    region:   reisenjima_ne_3
+
+  17969474:
+    template: Ignoble_Skeleton
+    level:    [121, 126]
+    region:   reisenjima_ne_3
+
+  17969475:
+    template: Ignoble_Skeleton
+    level:    [121, 126]
+    region:   reisenjima_ne_3
+
+  17969476:
+    template: Officious_Unseelie
+    at:       [93.769, -76.110, 586.809, 232]
+    level:    [121, 126]
+
+  17969477:
+    template: Officious_Unseelie
+    level:    [121, 126]
+    region:   reisenjima_ne_7
+
+  17969478:
+    template: Ignoble_Skeleton
+    at:       [73.462, -81.160, 593.395, 108]
+    level:    [121, 126]
+
+  17969479:
+    template: Officious_Unseelie
+    at:       [88.026, -80.490, 552.075, 133]
+    level:    [121, 126]
+
+  17969480:
+    template: Officious_Unseelie
+    at:       [86.404, -78.970, 557.328, 5]
+    level:    [121, 126]
+
+  17969481:
+    template: Ignoble_Skeleton
+    level:    [121, 126]
+    region:   reisenjima_ne_6
+
+  17969482:
+    template: Officious_Unseelie
+    at:       [73.027, -86.110, 531.614, 204]
+    level:    [121, 126]
+
+  17969483:
+    template: Officious_Unseelie
+    at:       [78.746, -88.490, 520.447, 62]
+    level:    [121, 126]
+
+  17969484:
+    template: Ignoble_Skeleton
+    level:    [121, 126]
+    region:   reisenjima_ne_5
+
+  17969485:
+    template: Rampaging_Beetle
+    level:    [121, 126]
+    region:   reisenjima_ne_20
+
+  17969486:
+    template: Rampaging_Beetle
+    level:    [121, 126]
+    region:   reisenjima_ne_20
+
+  17969487:
+    template: Devouring_Mosquito
+    level:    [121, 126]
+    region:   reisenjima_ne_20
+
+  17969488:
+    template: Devouring_Mosquito
+    level:    [121, 126]
+    region:   reisenjima_ne_20
+
+  17969489:
+    template: Devouring_Mosquito
+    level:    [121, 126]
+    region:   reisenjima_ne_20
+
+  17969490:
+    template: Devouring_Mosquito
+    level:    [121, 126]
+    region:   reisenjima_ne_20
+
+  17969491:
+    template: Rampaging_Beetle
+    level:    [121, 126]
+    region:   reisenjima_ne_23
+
+  17969492:
+    template: Rampaging_Beetle
+    level:    [121, 126]
+    region:   reisenjima_ne_23
+
+  17969493:
+    template: Devouring_Mosquito
+    level:    [121, 126]
+    region:   reisenjima_ne_23
+
+  17969494:
+    template: Devouring_Mosquito
+    level:    [121, 126]
+    region:   reisenjima_ne_23
+
+  17969495:
+    template: Devouring_Mosquito
+    level:    [121, 126]
+    region:   reisenjima_ne_23
+
+  17969496:
+    template: Devouring_Mosquito
+    level:    [121, 126]
+    region:   reisenjima_ne_21
+
+  17969497:
+    template: Devouring_Mosquito
+    level:    [121, 126]
+    region:   reisenjima_ne_21
+
+  17969498:
+    template: Devouring_Mosquito
+    level:    [121, 126]
+    region:   reisenjima_ne_30
+
+  17969499:
+    template: Devouring_Mosquito
+    level:    [121, 126]
+    region:   reisenjima_ne_30
+
+  17969500:
+    template: Devouring_Mosquito
+    level:    [121, 126]
+    region:   reisenjima_ne_30
+
+  17969501:
+    template: Rampaging_Beetle
+    level:    [121, 126]
+    region:   reisenjima_ne_33
+
+  17969502:
+    template: Rampaging_Beetle
+    level:    [121, 126]
+    region:   reisenjima_ne_33
+
+  17969503:
+    template: Rampaging_Beetle
+    at:       [184.060, -92.930, 447.244, 238]
+    level:    [121, 126]
+
+  17969504:
+    template: Devouring_Mosquito
+    level:    [121, 126]
+    region:   reisenjima_ne_38
+
+  17969505:
+    template: Devouring_Mosquito
+    level:    [121, 126]
+    region:   reisenjima_ne_38
+
+  17969506:
+    template: Devouring_Mosquito
+    level:    [121, 126]
+    region:   reisenjima_ne_37
+
+  17969507:
+    template: Devouring_Mosquito
+    level:    [121, 126]
+    region:   reisenjima_ne_37
+
+  17969508:
+    template: Rampaging_Beetle
+    level:    [121, 126]
+    region:   reisenjima_ne_36
+
+  17969509:
+    template: Devouring_Mosquito
+    level:    [121, 126]
+    region:   reisenjima_ne_36
+
+  17969510:
+    template: Devouring_Mosquito
+    level:    [121, 126]
+    region:   reisenjima_ne_36
+
+  17969511:
+    template: Arboreal_Chigoe
+    level:    [121, 126]
+    region:   reisenjima_ne_13
+
+  17969512:
+    template: Arboreal_Chigoe
+    level:    [121, 126]
+    region:   reisenjima_ne_13
+
+  17969513:
+    template: Arboreal_Chigoe
+    level:    [121, 126]
+    region:   reisenjima_ne_13
+
+  17969514:
+    template: Arboreal_Chigoe
+    level:    [121, 126]
+    region:   reisenjima_ne_13
+
+  17969515:
+    template: Arboreal_Chigoe
+    level:    [121, 126]
+    region:   reisenjima_ne_13
+
+  17969516:
+    template: Thunder_Elemental
+    level:    [121, 126]
+    region:   reisenjima_ne_16
+
+  17969517:
+    template: Thunder_Elemental
+    level:    [121, 126]
+    region:   reisenjima_ne_14
+
+  17969518:
+    template: Thunder_Elemental
+    level:    [121, 126]
+    region:   reisenjima_ne_22
+
+  17969519:
+    template: Lucani
+    level:    [121, 126]
+    region:   reisenjima_ne_31
+
+  17969520:
+    template: Lucani
+    level:    [121, 126]
+    region:   reisenjima_ne_31
+
+  17969521:
+    template: Lucani
+    level:    [121, 126]
+    region:   reisenjima_ne_31
+
+  17969522:
+    template: Territorial_Mantis
+    level:    [121, 126]
+    region:   reisenjima_ne_26
+
+  17969523:
+    template: Territorial_Mantis
+    level:    [121, 126]
+    region:   reisenjima_ne_26
+
+  17969524:
+    template: Territorial_Mantis
+    level:    [121, 126]
+    region:   reisenjima_ne_26
+
+  17969525:
+    template: Glowering_Ladybug
+    level:    [121, 126]
+    region:   reisenjima_ne_26
+
+  17969526:
+    template: Glowering_Ladybug
+    level:    [121, 126]
+    region:   reisenjima_ne_26
+
+  17969527:
+    template: Lucani
+    level:    [121, 126]
+    region:   reisenjima_ne_26
+
+  17969528:
+    template: Lucani
+    level:    [121, 126]
+    region:   reisenjima_ne_26
+
+  17969529:
+    template: Glowering_Ladybug
+    level:    [121, 126]
+    region:   reisenjima_ne_29
+
+  17969530:
+    template: Glowering_Ladybug
+    level:    [121, 126]
+    region:   reisenjima_ne_29
+
+  17969531:
+    template: Glowering_Ladybug
+    level:    [121, 126]
+    region:   reisenjima_ne_29
+
+  17969532:
+    template: Territorial_Mantis
+    level:    [121, 126]
+    region:   reisenjima_ne_29
+
+  17969533:
+    template: Glowering_Ladybug
+    level:    [121, 126]
+    region:   reisenjima_ne_27
+
+  17969534:
+    template: Glowering_Ladybug
+    level:    [121, 126]
+    region:   reisenjima_ne_27
+
+  17969535:
+    template: Glowering_Ladybug
+    level:    [121, 126]
+    region:   reisenjima_ne_27
+
+  17969536:
+    template: Territorial_Mantis
+    level:    [121, 126]
+    region:   reisenjima_ne_27
+
+  17969537:
+    template: Glowering_Ladybug
+    level:    [121, 126]
+    region:   reisenjima_ne_11
+
+  17969538:
+    template: Glowering_Ladybug
+    level:    [121, 126]
+    region:   reisenjima_ne_11
+
+  17969539:
+    template: Glowering_Ladybug
+    level:    [121, 126]
+    region:   reisenjima_ne_11
+
+  17969540:
+    template: Territorial_Mantis
+    level:    [121, 126]
+    region:   reisenjima_ne_11
+
+  17969541:
+    template: Glowering_Ladybug
+    level:    [121, 126]
+    region:   reisenjima_ne_15
+
+  17969542:
+    template: Glowering_Ladybug
+    level:    [121, 126]
+    region:   reisenjima_ne_15
+
+  17969543:
+    template: Glowering_Ladybug
+    level:    [121, 126]
+    region:   reisenjima_ne_15
+
+  17969544:
+    template: Territorial_Mantis
+    level:    [121, 126]
+    region:   reisenjima_ne_15
+
+  17969545:
+    template: Territorial_Mantis
+    level:    [121, 126]
+    region:   reisenjima_ne_15
+
+  17969546:
+    template: Lucani
+    level:    [121, 126]
+    region:   reisenjima_ne_19
+
+  17969547:
+    template: Lucani
+    level:    [121, 126]
+    region:   reisenjima_ne_19
+
+  17969548:
+    template: Lucani
+    level:    [121, 126]
+    region:   reisenjima_ne_19
+
+  17969549:
+    template: Lucani
+    level:    [121, 126]
+    region:   reisenjima_ne_19
+
+  17969550:
+    template: Lucani
+    level:    [121, 126]
+    region:   reisenjima_ne_24
+
+  17969551:
+    template: Lucani
+    level:    [121, 126]
+    region:   reisenjima_ne_24
+
+  17969552:
+    template: Lucani
+    level:    [121, 126]
+    region:   reisenjima_ne_24
+
+  17969553:
+    template: Lucani
+    level:    [121, 126]
+    region:   reisenjima_ne_32
+
+  17969554:
+    template: Lucani
+    level:    [121, 126]
+    region:   reisenjima_ne_32
+
+  17969555:
+    template: Lucani
+    level:    [121, 126]
+    region:   reisenjima_ne_32
+
+  17969556:
+    template: Lucani
+    level:    [121, 126]
+    region:   reisenjima_ne_34
+
+  17969557:
+    template: Lucani
+    level:    [121, 126]
+    region:   reisenjima_ne_34
+
+  17969558:
+    template: Lucani
+    level:    [121, 126]
+    region:   reisenjima_ne_34
+
+  17969559:
+    template: Lucani
+    level:    [121, 126]
+    region:   reisenjima_ne_34
+
+  17969560:
+    template: Wanton_Danaid
+    level:    [121, 126]
+    region:   reisenjima_ne_41
+
+  17969561:
+    template: Wanton_Danaid
+    level:    [121, 126]
+    region:   reisenjima_ne_41
+
+  17969562:
+    template: Wanton_Danaid
+    level:    [121, 126]
+    region:   reisenjima_ne_41
+
+  17969563:
+    template: Wanton_Danaid
+    level:    [121, 126]
+    region:   reisenjima_ne_41
+
+  17969564:
+    template: Wanton_Danaid
+    level:    [121, 126]
+    region:   reisenjima_ne_41
+
+  17969565:
+    template: Wanton_Danaid
+    level:    [121, 126]
+    region:   reisenjima_ne_42
+
+  17969566:
+    template: Wanton_Danaid
+    level:    [121, 126]
+    region:   reisenjima_ne_42
+
+  17969567:
+    template: Wanton_Danaid
+    level:    [121, 126]
+    region:   reisenjima_ne_42
+
+  17969568:
+    template: Wanton_Danaid
+    level:    [121, 126]
+    region:   reisenjima_ne_42
+
+  17969569:
+    template: Wanton_Danaid
+    level:    [121, 126]
+    region:   reisenjima_ne_42
+
+  17969570:
+    template: Wanton_Danaid
+    level:    [121, 126]
+    region:   reisenjima_ne_40
+
+  17969571:
+    template: Wanton_Danaid
+    level:    [121, 126]
+    region:   reisenjima_ne_40
+
+  17969572:
+    template: Thunder_Elemental
+    level:    [121, 126]
+    region:   reisenjima_ne_40
+
+  17969573:
+    template: Thunder_Elemental
+    level:    [121, 126]
+    region:   reisenjima_ne_40
+
+  17969574:
+    template: Perfervid_Naraka
+    at:       [250.750, -74.620, 199.860, 181]
+    level:    [121, 126]
+
+  17969575:
+    template: Perfervid_Naraka
+    at:       [260.220, -76.720, 191.998, 187]
+    level:    [121, 126]
+
+  17969576:
+    template: Perfervid_Naraka
+    at:       [253.100, -75.130, 199.718, 68]
+    level:    [121, 126]
+
+  17969577:
+    template: Perfervid_Naraka
+    level:    [121, 126]
+    region:   reisenjima_ne_40
+
+  17969578:
+    template: Perfervid_Naraka
+    level:    [121, 126]
+    region:   reisenjima_ne_40
+
+  17969579:
+    template: Perfervid_Naraka
+    level:    [121, 126]
+    region:   reisenjima_ne_40
+
+  17969580:
+    template: Perfervid_Naraka
+    level:    [121, 126]
+    region:   reisenjima_ne_40
+
+  17969581:
+    template: Perfervid_Naraka
+    at:       [258.060, -84.410, 119.161, 244]
+    level:    [121, 126]
+
+  17969582:
+    template: Perfervid_Naraka
+    level:    [121, 126]
+    region:   reisenjima_ne_39
+
+  17969583:
+    template: Perfervid_Naraka
+    level:    [121, 126]
+    region:   reisenjima_ne_39
+
+  17969584:
+    template: Water_Elemental
+    level:    [121, 126]
+    region:   reisenjima_ne_25
+
+  17969585:
+    template: Water_Elemental
+    level:    [121, 126]
+    region:   reisenjima_ne_9
+
+  17969586:
+    template: Water_Elemental
+    level:    [121, 126]
+    region:   reisenjima_ne_9
+
+  17969587:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_ne_8
+
+  17969588:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_ne_8
+
+  17969589:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_ne_8
+
+  17969590:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_ne_8
+
+  17969591:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_ne_12
+
+  17969592:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_ne_12
+
+  17969593:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_ne_12
+
+  17969594:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_ne_12
+
+  17969595:
+    template: Wretched_Poroggo
+    level:    [121, 126]
+    region:   reisenjima_ne_12
+
+  17969596:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_ne_28
+
+  17969597:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_ne_28
+
+  17969598:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_ne_28
+
+  17969599:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_ne_28
+
+  17969600:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_ne_17
+
+  17969601:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_ne_17
+
+  17969602:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_ne_17
+
+  17969603:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_ne_17
+
+  17969604:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_ne_10
+
+  17969605:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_ne_10
+
+  17969606:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_ne_10
+
+  17969607:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_ne_10
+
+  17969608:
+    template: Wretched_Poroggo
+    level:    [121, 126]
+    region:   reisenjima_ne_10
+
+  17969609:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_ne_18
+
+  17969610:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_ne_18
+
+  17969611:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_ne_18
+
+  17969612:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_ne_18
+
+  17969613:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_ne_35
+
+  17969614:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_ne_35
+
+  17969615:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_ne_35
+
+  17969616:
+    template: Lentic_Toad
+    level:    [121, 126]
+    region:   reisenjima_ne_35
+
+  17969617:
+    template: Wretched_Poroggo
+    level:    [121, 126]
+    region:   reisenjima_ne_35
+
+  17969618:
+    template: Thunder_Elemental
+    level:    [121, 126]
+    region:   reisenjima_ne_35
+
+  17969619:
+    template: Ascended_Chapuli
+    level:    [125, 127]
+    region:   reisenjima_w_3
+
+  17969620:
+    template: Ascended_Mosquito
+    level:    [125, 127]
+    region:   reisenjima_w_16
+
+  17969621:
+    template: Ascended_Mantis
+    at:       [-397.000, -54.430, 88.603, 245]
+    level:    [125, 127]
+
+  17969622:
+    template: Ascended_Beetle
+    at:       [-425.200, -52.340, 99.038, 181]
+    level:    [125, 127]
+
+  17969623:
+    template: Ascended_Luckybug
+    at:       [-513.900, -48.430, 406.747, 190]
+    level:    [125, 127]
+
+  17969624:
+    template: Ascended_Lucani
+    at:       [-479.200, -55.550, 431.498, 165]
+    level:    [125, 127]
+
+  17969625:
+    template: Ascended_Porxie
+    level:    [125, 127]
+    region:   reisenjima_nw_21
+
+  17969626:
+    template: Ascended_Cyhiraeth
+    level:    [125, 127]
+    region:   reisenjima_n_11
+
+  17969627:
+    template: Ascended_Tiger
+    level:    [125, 127]
+    region:   reisenjima_w_14
+
+  17969628:
+    template: Ascended_Naraka
+    at:       [248.410, -74.200, 196.466, 170]
+    level:    [125, 127]
+
+  17969629:
+    template: Ascended_Panopt
+    level:    [125, 127]
+    region:   reisenjima_w_15
+
+  17969630:
+    template: Ascended_Poroggo
+    at:       [100.480, -73.900, 524.981, 69]
+    level:    [125, 127]
+
+  17969631:
+    template: Ascended_Chigoe
+    level:    [125, 127]
+    region:   reisenjima_nw_30
+
+  17969632:
+    template: Ascended_Hippogryph
+    level:    [125, 127]
+    region:   reisenjima_n_13
+
+  17969633:
+    template: Ascended_Faaz
+    level:    [125, 127]
+    region:   reisenjima_nw_33
+
+  17969634:
+    template: Ascended_Gefyrst
+    at:       [-460.000, -49.860, 604.241, 80]
+    level:    [125, 127]
+
+  17969635:
+    template: Ascended_Ungeweder
+    at:       [198.900, -65.900, 220.356, 114]
+    level:    [125, 127]
+
+  17969636:
+    template: Heavenly_Veela
+    level:    [125, 127]
+    region:   reisenjima_ne_43
+
+  17969637:
+    template: Crom_Dubh
+    at:       [-612.000, -417.899, -1050.000, 0]
+    level:    [125, 127]
+
+  17969638:
+    template: Crom_Dubh
+    at:       [61.993, -83.830, 569.414, 93]
+    level:    [125, 127]
+
+  17969639:
+    template: Crom_Dubh
+    at:       [-391.100, -67.950, 301.765, 33]
+    level:    [125, 127]
+
+  17969640:
+    template: Golden_Kist
+    at:       [-589.000, -417.800, -1028.000, 0]
+    level:    [125, 127]
+
+  17969641:
+    template: Golden_Kist
+    at:       [-640.000, -39.870, -255.000, 189]
+    level:    [125, 127]
+
+  17969642:
+    template: Golden_Kist
+    at:       [-390.000, -67.750, 302.000, 0]
+    level:    [125, 127]
+
+  17969643:
+    template: Mauve-wristed_Gomberry
+    at:       [-641.000, -40.520, -248.610, 165]
+    level:    [125, 127]
+
+  17969644:
+    template: Mauve-wristed_Gomberry
+    at:       [-635.000, -39.440, -258.890, 173]
+    level:    [125, 127]
+
+  17969645:
+    template: Mauve-wristed_Gomberry
+    at:       [-635.000, -39.580, -256.870, 168]
+    level:    [125, 127]
+
+  17969646:
+    template: Mauve-wristed_Gomberry
+    at:       [-634.900, -39.520, -259.920, 172]
+    level:    [125, 127]
+
+  17969647:
+    template: Mauve-wristed_Gomberry
+    at:       [-598.200, -63.890, 114.392, 95]
+    level:    [125, 127]
+
+  17969648:
+    template: Mauve-wristed_Gomberry
+    at:       [-597.500, -63.810, 114.417, 79]
+    level:    [125, 127]
+
+  17969649:
+    template: Mauve-wristed_Gomberry
+    at:       [-598.500, -64.110, 115.171, 69]
+    level:    [125, 127]
+
+  17969650:
+    template: Mauve-wristed_Gomberry
+    at:       [-597.000, -63.600, 113.802, 90]
+    level:    [125, 127]
+
+  17969651:
+    template: Mauve-wristed_Gomberry
+    at:       [-609.700, -417.800, -1053.400, 60]
+    level:    [125, 127]
+
+  17969652:
+    template: Mauve-wristed_Gomberry
+    at:       [-609.400, -417.800, -1051.000, 35]
+    level:    [125, 127]
+
+  17969653:
+    template: Mauve-wristed_Gomberry
+    at:       [-609.600, -417.800, -1052.000, 22]
+    level:    [125, 127]
+
+  17969654:
+    template: Mauve-wristed_Gomberry
+    at:       [-609.700, -417.800, -1051.900, 29]
+    level:    [125, 127]
+
+  17969655:
+    template: Dazzling_Dolores
+    at:       [-589.000, -417.800, -1028.000, 203]
+    level:    [125, 127]
+
+  17969656:
+    template: Dazzling_Dolores
+    at:       [163.390, -87.970, 333.700, 125]
+    level:    [125, 127]
+
+  17969657:
+    template: Dazzling_Dolores
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969658:
+    template: Taelmoth_the_Diremaw
+    at:       [-283.000, -56.120, 519.000, 147]
+    level:    [125, 127]
+
+  17969659:
+    template: Taelmoth_the_Diremaw
+    at:       [-614.200, -417.800, -1030.000, 40]
+    level:    [125, 127]
+
+  17969660:
+    template: Taelmoth_the_Diremaw
+    at:       [-637.500, -40.060, -248.750, 153]
+    level:    [125, 127]
+
+  17969661:
+    template: Belphegor
+    at:       [60.895, -83.870, 583.875, 213]
+    level:    [125, 127]
+
+  17969662:
+    template: Belphegor
+    at:       [60.500, -83.860, 583.299, 217]
+    level:    [125, 127]
+
+  17969663:
+    template: Belphegor
+    at:       [-489.000, -55.240, 436.204, 99]
+    level:    [125, 127]
+
+  17969664:
+    template: Kabandha
+    at:       [-588.800, -417.800, -1024.100, 187]
+    level:    [125, 127]
+
+  17969665:
+    template: Kabandha
+    at:       [-402.900, -63.630, 581.765, 231]
+    level:    [125, 127]
+
+  17969666:
+    template: Kabandha
+    at:       [60.500, -83.860, 583.299, 68]
+    level:    [125, 127]
+
+  17969667:
+    template: Selkit
+    at:       [-589.000, -417.899, -1028.000, 81]
+    level:    [129, 129]
+
+  17969668:
+    template: Selkit
+    at:       [-409.300, -64.290, 574.268, 247]
+    level:    [129, 129]
+
+  17969669:
+    template: Selkit
+    at:       [58.798, -84.660, 587.624, 165]
+    level:    [129, 129]
+
+  17969670:
+    template: Sang_Buaya
+    at:       [-390.000, -67.750, 302.000, 138]
+    level:    [125, 127]
+
+  17969671:
+    template: Sang_Buaya
+    at:       [-490.000, -54.990, 437.200, 96]
+    level:    [125, 127]
+
+  17969672:
+    template: Sang_Buaya
+    at:       [-610.200, -417.800, -1031.700, 67]
+    level:    [125, 127]
+
+  17969673:
+    template: Sabotender_Royal
+    at:       [-631.800, -39.190, -261.400, 87]
+    level:    [125, 127]
+
+  17969674:
+    template: Sabotender_Royal
+    at:       [-611.400, -417.800, -1050.600, 72]
+    level:    [125, 127]
+
+  17969675:
+    template: Sabotender_Royal
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969676:
+    template: Zduhac
+    at:       [-408.600, -63.520, 582.538, 231]
+    level:    [125, 127]
+
+  17969677:
+    template: Zduhac
+    at:       [-410.000, -63.450, 582.000, 239]
+    level:    [125, 127]
+
+  17969678:
+    template: Zduhac
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969679:
+    template: Oryx
+    at:       [-617.161, -417.899, -1051.411, 0]
+    level:    [0, 0]
+
+  17969680:
+    template: Oryx
+    at:       [-589.000, -417.899, -1028.000, 0]
+    level:    [0, 0]
+
+  17969681:
+    template: Oryx
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17969682:
+    template: Strophadia
+    at:       [-612.400, -417.800, -1050.900, 80]
+    level:    [125, 127]
+
+  17969683:
+    template: Strophadia
+    at:       [-488.800, -55.270, 437.924, 227]
+    level:    [125, 127]
+
+  17969684:
+    template: Strophadia
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969685:
+    template: Gajasimha
+    at:       [-612.000, -417.800, -1050.000, 0]
+    level:    [125, 127]
+
+  17969686:
+    template: Gajasimha
+    at:       [-490.000, -54.990, 437.200, 0]
+    level:    [125, 127]
+
+  17969687:
+    template: Gajasimha
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969688:
+    template: Ironside
+    at:       [-612.500, -417.800, -1050.300, 119]
+    level:    [125, 127]
+
+  17969689:
+    template: Ironside
+    at:       [-614.200, -417.899, -1030.000, 76]
+    level:    [125, 127]
+
+  17969690:
+    template: Ironside
+    at:       [60.500, -83.860, 583.299, 194]
+    level:    [125, 127]
+
+  17969691:
+    template: Sarsaok
+    at:       [-590.300, -417.800, -1030.300, 230]
+    level:    [125, 127]
+
+  17969692:
+    template: Sarsaok
+    at:       [-485.400, -55.850, 433.960, 229]
+    level:    [125, 127]
+
+  17969693:
+    template: Sarsaok
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969694:
+    template: Old_Shuck
+    at:       [-586.600, -417.800, -1028.300, 224]
+    level:    [125, 127]
+
+  17969695:
+    template: Old_Shuck
+    at:       [-608.200, -417.800, -1025.000, 158]
+    level:    [125, 127]
+
+  17969696:
+    template: Old_Shuck
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969697:
+    template: Bashmu
+    at:       [-612.000, -417.899, -1050.000, 212]
+    level:    [125, 127]
+
+  17969698:
+    template: Bashmu
+    at:       [-614.200, -417.800, -1030.000, 0]
+    level:    [125, 127]
+
+  17969699:
+    template: Bashmu
+    at:       [-442.900, -62.550, 571.760, 29]
+    level:    [125, 127]
+
+  17969700:
+    template: Maju
+    at:       [-612.000, -417.899, -1050.000, 5]
+    level:    [0, 0]
+
+  17969701:
+    template: Maju
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17969702:
+    template: Maju
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17969703:
+    template: Yakshi
+    at:       [-612.000, -417.800, -1050.000, 55]
+    level:    [125, 127]
+
+  17969704:
+    template: Yakshi
+    at:       [-272.900, -58.090, 520.138, 15]
+    level:    [125, 127]
+
+  17969705:
+    template: Yakshi
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969706:
+    template: Neak
+    at:       [-589.000, -417.899, -1028.000, 254]
+    level:    [0, 0]
+
+  17969707:
+    template: Neak
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17969708:
+    template: Neak
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17969709:
+    template: Teles
+    at:       [129.690, -75.590, 314.463, 163]
+    level:    [125, 127]
+
+  17969710:
+    template: Teles
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969711:
+    template: Teles
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969712:
+    template: Zerde
+    at:       [-589.500, -60.510, 108.064, 212]
+    level:    [125, 127]
+
+  17969713:
+    template: Zerde
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969714:
+    template: Zerde
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969715:
+    template: Zerdes_Haupia
+    at:       [-577.900, -60.360, 120.003, 62]
+    level:    [123, 124]
+
+  17969716:
+    template: Zerdes_Kacamak
+    at:       [-576.000, -59.780, 118.577, 104]
+    level:    [123, 124]
+
+  17969717:
+    template: Zerdes_Drisheen
+    at:       [-576.900, -60.050, 119.392, 81]
+    level:    [123, 124]
+
+  17969718:
+    template: Zerdes_Haupia
+    at:       [-576.200, -59.830, 118.163, 110]
+    level:    [123, 124]
+
+  17969719:
+    template: Zerdes_Kacamak
+    at:       [-577.800, -60.320, 120.059, 64]
+    level:    [123, 124]
+
+  17969720:
+    template: Zerdes_Drisheen
+    at:       [-580.700, -60.950, 117.598, 2]
+    level:    [123, 124]
+
+  17969721:
+    template: Zerdes_Haupia
+    at:       [-576.100, -59.740, 117.370, 129]
+    level:    [123, 124]
+
+  17969722:
+    template: Zerdes_Kacamak
+    at:       [-576.300, -59.850, 119.183, 93]
+    level:    [123, 124]
+
+  17969723:
+    template: Zerdes_Drisheen
+    at:       [-576.100, -59.760, 117.725, 121]
+    level:    [123, 124]
+
+  17969724:
+    template: Zerdes_Haupia
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969725:
+    template: Zerdes_Kacamak
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969726:
+    template: Zerdes_Drisheen
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969727:
+    template: Zerdes_Haupia
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969728:
+    template: Zerdes_Kacamak
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969729:
+    template: Zerdes_Drisheen
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969730:
+    template: Zerdes_Haupia
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969731:
+    template: Zerdes_Kacamak
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969732:
+    template: Zerdes_Drisheen
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969733:
+    template: Zerdes_Haupia
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969734:
+    template: Zerdes_Kacamak
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969735:
+    template: Zerdes_Drisheen
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969736:
+    template: Zerdes_Haupia
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969737:
+    template: Zerdes_Kacamak
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969738:
+    template: Zerdes_Drisheen
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969739:
+    template: Zerdes_Haupia
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969740:
+    template: Zerdes_Kacamak
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969741:
+    template: Zerdes_Drisheen
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969742:
+    template: Vinipata
+    at:       [128.110, -75.840, 327.760, 32]
+    level:    [125, 127]
+
+  17969743:
+    template: Vinipata
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969744:
+    template: Vinipata
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969745:
+    template: Vinipatas_Naraka
+    at:       [143.550, -83.400, 311.834, 0]
+    level:    [123, 124]
+
+  17969746:
+    template: Vinipatas_Naraka
+    at:       [134.710, -78.900, 310.339, 179]
+    level:    [123, 124]
+
+  17969747:
+    template: Vinipatas_Naraka
+    at:       [141.250, -83.300, 331.144, 212]
+    level:    [123, 124]
+
+  17969748:
+    template: Vinipatas_Naraka
+    at:       [126.180, -75.550, 330.195, 236]
+    level:    [123, 124]
+
+  17969749:
+    template: Vinipatas_Naraka
+    at:       [141.470, -83.460, 331.013, 210]
+    level:    [123, 124]
+
+  17969750:
+    template: Vinipatas_Naraka
+    at:       [126.350, -75.940, 331.458, 247]
+    level:    [123, 124]
+
+  17969751:
+    template: Vinipatas_Naraka
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969752:
+    template: Vinipatas_Naraka
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969753:
+    template: Vinipatas_Naraka
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969754:
+    template: Vinipatas_Naraka
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969755:
+    template: Vinipatas_Naraka
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969756:
+    template: Vinipatas_Naraka
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969757:
+    template: Vinipatas_Naraka
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969758:
+    template: Vinipatas_Naraka
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969759:
+    template: Vinipatas_Naraka
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969760:
+    template: Vinipatas_Naraka
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969761:
+    template: Vinipatas_Naraka
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969762:
+    template: Vinipatas_Naraka
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969763:
+    template: Schah
+    at:       [-582.285, -52.388, 90.850, 144]
+    level:    [0, 0]
+
+  17969764:
+    template: Schah
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17969765:
+    template: Schah
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17969766:
+    template: Schahs_Mantri
+    at:       [-593.837, -65.315, 124.731, 241]
+    level:    [0, 0]
+
+  17969767:
+    template: Schahs_Mantri
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17969768:
+    template: Schahs_Mantri
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17969769:
+    template: Schahs_Ratha
+    at:       [-585.641, -55.521, 95.989, 70]
+    level:    [0, 0]
+
+  17969770:
+    template: Schahs_Ratha
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17969771:
+    template: Schahs_Ratha
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17969772:
+    template: Schahs_Gaja
+    at:       [-586.553, -55.429, 94.771, 90]
+    level:    [0, 0]
+
+  17969773:
+    template: Schahs_Gaja
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17969774:
+    template: Schahs_Gaja
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17969775:
+    template: Schahs_Ashva
+    at:       [-588.350, -56.431, 95.854, 89]
+    level:    [0, 0]
+
+  17969776:
+    template: Schahs_Ashva
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17969777:
+    template: Schahs_Ashva
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17969778:
+    template: Schahs_Bhata
+    at:       [-586.883, -54.964, 93.098, 181]
+    level:    [0, 0]
+
+  17969779:
+    template: Schahs_Bhata
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17969780:
+    template: Schahs_Bhata
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17969781:
+    template: Schahs_Mantri
+    at:       [-491.171, -54.688, 436.153, 223]
+    level:    [0, 0]
+
+  17969782:
+    template: Schahs_Mantri
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17969783:
+    template: Schahs_Mantri
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17969784:
+    template: Albumen
+    at:       [-584.500, -54.370, 94.175, 198]
+    level:    [125, 127]
+
+  17969785:
+    template: Albumen
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969786:
+    template: Albumen
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969787:
+    template: Albumens_Mandragora
+    level:    [123, 124]
+    region:   reisenjima_ne_4
+
+  17969788:
+    template: Albumens_Mandragora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969789:
+    template: Albumens_Mandragora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969790:
+    template: Albumens_Lycopodium
+    level:    [123, 124]
+    region:   reisenjima_ne_4
+
+  17969791:
+    template: Albumens_Lycopodium
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969792:
+    template: Albumens_Lycopodium
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969793:
+    template: Albumens_Korrigan
+    level:    [123, 124]
+    region:   reisenjima_ne_4
+
+  17969794:
+    template: Albumens_Korrigan
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969795:
+    template: Albumens_Korrigan
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969796:
+    template: Albumens_Pachypodium
+    level:    [123, 124]
+    region:   reisenjima_ne_4
+
+  17969797:
+    template: Albumens_Pachypodium
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969798:
+    template: Albumens_Pachypodium
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969799:
+    template: Albumens_Mandragora
+    at:       [-590.000, -61.180, 111.429, 52]
+    level:    [123, 124]
+
+  17969800:
+    template: Albumens_Mandragora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969801:
+    template: Albumens_Mandragora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969802:
+    template: Albumens_Lycopodium
+    at:       [-590.800, -61.180, 111.355, 55]
+    level:    [123, 124]
+
+  17969803:
+    template: Albumens_Lycopodium
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969804:
+    template: Albumens_Lycopodium
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969805:
+    template: Albumens_Korrigan
+    at:       [-591.600, -61.300, 111.135, 54]
+    level:    [123, 124]
+
+  17969806:
+    template: Albumens_Korrigan
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969807:
+    template: Albumens_Korrigan
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969808:
+    template: Albumens_Pachypodium
+    at:       [-591.900, -61.430, 110.763, 56]
+    level:    [123, 124]
+
+  17969809:
+    template: Albumens_Pachypodium
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969810:
+    template: Albumens_Pachypodium
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969811:
+    template: Albumens_Mandragora
+    at:       [-591.800, -61.670, 110.728, 55]
+    level:    [123, 124]
+
+  17969812:
+    template: Albumens_Mandragora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969813:
+    template: Albumens_Mandragora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969814:
+    template: Albumens_Lycopodium
+    at:       [-592.300, -61.880, 109.927, 224]
+    level:    [123, 124]
+
+  17969815:
+    template: Albumens_Lycopodium
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969816:
+    template: Albumens_Lycopodium
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969817:
+    template: Albumens_Korrigan
+    at:       [-592.600, -61.890, 108.815, 224]
+    level:    [123, 124]
+
+  17969818:
+    template: Albumens_Korrigan
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969819:
+    template: Albumens_Korrigan
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969820:
+    template: Albumens_Pachypodium
+    at:       [-592.500, -61.910, 108.727, 225]
+    level:    [123, 124]
+
+  17969821:
+    template: Albumens_Pachypodium
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969822:
+    template: Albumens_Pachypodium
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [123, 124]
+
+  17969823:
+    template: Onychophora
+    at:       [-597.100, -64.080, 115.677, 177]
+    level:    [125, 127]
+
+  17969824:
+    template: Onychophora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969825:
+    template: Onychophora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969826:
+    template: Onycophoras_Sandworm
+    at:       [-572.900, -58.800, 118.085, 227]
+    level:    [125, 127]
+
+  17969827:
+    template: Onycophoras_Sandworm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969828:
+    template: Onycophoras_Sandworm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969829:
+    template: Onycophoras_Sandworm
+    at:       [-573.200, -58.660, 119.454, 250]
+    level:    [125, 127]
+
+  17969830:
+    template: Onycophoras_Sandworm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969831:
+    template: Onycophoras_Sandworm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969832:
+    template: Onycophoras_Sandworm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969833:
+    template: Onycophoras_Sandworm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969834:
+    template: Onycophoras_Sandworm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969835:
+    template: Onycophoras_Sandworm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969836:
+    template: Onycophoras_Sandworm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969837:
+    template: Onycophoras_Sandworm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969838:
+    template: Onycophoras_Sandworm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969839:
+    template: Onycophoras_Sandworm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969840:
+    template: Onycophoras_Sandworm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969841:
+    template: Onycophoras_Sandworm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969842:
+    template: Onycophoras_Sandworm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969843:
+    template: Onycophoras_Sandworm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969844:
+    template: Onycophoras_Sandworm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969845:
+    template: Onycophoras_Sandworm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969846:
+    template: Onycophoras_Sandworm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969847:
+    template: Onycophoras_Sandworm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969848:
+    template: Onycophoras_Sandworm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969849:
+    template: Onycophoras_Sandworm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969850:
+    template: Erinys
+    at:       [-578.400, -60.310, 117.100, 2]
+    level:    [125, 127]
+
+  17969851:
+    template: Erinys
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969852:
+    template: Erinys
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969853:
+    template: Boobrie
+    at:       [-589.500, -60.490, 108.462, 0]
+    level:    [125, 127]
+
+  17969854:
+    template: Boobrie
+    at:       [-587.400, -60.450, 108.190, 0]
+    level:    [125, 127]
+
+  17969855:
+    template: Boobrie
+    at:       [-587.300, -60.030, 109.208, 0]
+    level:    [125, 127]
+
+  17969856:
+    template: Boobrie
+    at:       [-589.000, -60.260, 110.177, 0]
+    level:    [125, 127]
+
+  17969857:
+    template: Boobrie
+    at:       [-587.800, -60.580, 109.212, 0]
+    level:    [125, 127]
+
+  17969858:
+    template: Boobrie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969859:
+    template: Boobrie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969860:
+    template: Boobrie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969861:
+    template: Boobrie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969862:
+    template: Boobrie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969863:
+    template: Boobrie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969864:
+    template: Boobrie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969865:
+    template: Boobrie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969866:
+    template: Boobrie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969867:
+    template: Boobrie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 127]
+
+  17969868:
+    template: Quetzalcoatl
+    at:       [615.200, -372.000, -947.790, 225]
+    level:    [119, 119]
+
+  17969869:
+    template: Quetzalcoatls_Sibilus
+    at:       [615.200, -371.900, -945.790, 225]
+    level:    [117, 117]
+
+  17969870:
+    template: Quetzalcoatls_Sibilus
+    at:       [617.200, -371.900, -945.790, 225]
+    level:    [117, 117]
+
+  17969871:
+    template: Quetzalcoatls_Sibilus
+    at:       [619.200, -372.000, -945.790, 225]
+    level:    [117, 117]
+
+  17969872:
+    template: Quetzalcoatls_Sibilus
+    at:       [616.940, -371.300, -942.620, 120]
+    level:    [117, 117]
+
+  17969873:
+    template: Quetzalcoatls_Sibilus
+    at:       [623.200, -371.900, -945.790, 225]
+    level:    [117, 117]
+
+  17969874:
+    template: Quetzalcoatls_Sibilus
+    at:       [616.920, -371.400, -941.230, 102]
+    level:    [117, 117]
+
+  17969875:
+    template: Quetzalcoatls_Sibilus
+    at:       [613.200, -371.900, -945.790, 225]
+    level:    [117, 117]
+
+  17969876:
+    template: Quetzalcoatls_Sibilus
+    at:       [611.200, -371.900, -945.790, 225]
+    level:    [117, 117]
+
+  17969877:
+    template: Quetzalcoatls_Sibilus
+    at:       [609.200, -371.900, -945.790, 225]
+    level:    [117, 117]
+
+  17969878:
+    template: Quetzalcoatls_Sibilus
+    at:       [612.080, -371.700, -944.010, 238]
+    level:    [117, 117]
+
+  17969879:
+    template: Quetzalcoatls_Sibilus
+    at:       [614.970, -371.800, -946.560, 199]
+    level:    [117, 117]
+
+  17969880:
+    template: Mireu
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17969881:
+    template: Awoken_Stoorworm
+    at:       [-584.500, -417.900, -1051.550, 152]
+    level:    [119, 119]

@@ -1,0 +1,1593 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  16785409:
+    template: Snipper
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [16, 19]
+
+  16785410:
+    template: Triangle_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [15, 19]
+
+  16785411:
+    template: Clipper
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [20, 24]
+
+  16785412:
+    template: Greater_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [29, 31]
+
+  16785413:
+    template: Fishtrap
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [26, 27]
+
+  16785414:
+    template: Beady_Beetle
+    level:    [15, 18]
+    region:   carpenters_landing_nw_3
+
+  16785415:
+    template: Beady_Beetle
+    at:       [-437.388, -6.613, 620.786, 66]
+    level:    [15, 18]
+
+  16785416:
+    template: Poison_Funguar
+    level:    [16, 19]
+    region:   carpenters_landing_nw_3
+
+  16785417:
+    template: Poison_Funguar
+    level:    [16, 19]
+    region:   carpenters_landing_nw_3
+
+  16785418:
+    template: Poison_Funguar
+    level:    [16, 19]
+    region:   carpenters_landing_nw
+
+  16785419:
+    template: Poison_Funguar
+    level:    [16, 19]
+    region:   carpenters_landing_nw
+
+  16785420:
+    template: Poison_Funguar
+    level:    [16, 19]
+    region:   carpenters_landing_nw
+
+  16785421:
+    template: Specter_Bat
+    at:       [-389.435, -6.159, 482.650, 62]
+    level:    [15, 20]
+
+  16785422:
+    template: Specter_Bat
+    level:    [15, 20]
+    region:   carpenters_landing_nw_2
+
+  16785423:
+    template: Bulldog_Bats
+    at:       [-386.536, -6.130, 514.231, 193]
+    level:    [15, 20]
+
+  16785424:
+    template: Bulldog_Bats
+    level:    [15, 20]
+    region:   carpenters_landing_nw_2
+
+  16785425:
+    template: Digger_Wasp
+    level:    [14, 17]
+    region:   carpenters_landing_nw_2
+
+  16785426:
+    template: Digger_Wasp
+    level:    [14, 17]
+    region:   carpenters_landing_nw_2
+
+  16785427:
+    template: Digger_Wasp
+    level:    [14, 17]
+    region:   carpenters_landing_nw_2
+
+  16785428:
+    template: Digger_Wasp
+    level:    [14, 17]
+    region:   carpenters_landing_nw_2
+
+  16785429:
+    template: Digger_Wasp
+    level:    [14, 17]
+    region:   carpenters_landing_nw_2
+
+  16785430:
+    template: Digger_Wasp
+    level:    [14, 17]
+    region:   carpenters_landing_nw_2
+
+  16785431:
+    template: Digger_Wasp
+    level:    [14, 17]
+    region:   carpenters_landing_nw_2
+
+  16785432:
+    template: Glide_Bomb
+    level:    [20, 21]
+    region:   carpenters_landing_nw_2
+
+  16785433:
+    template: Thunder_Elemental
+    level:    [24, 26]
+    region:   carpenters_landing_nw_2
+
+  16785434:
+    template: Beady_Beetle
+    level:    [15, 18]
+    region:   carpenters_landing_nw_8
+
+  16785435:
+    template: Beady_Beetle
+    level:    [15, 18]
+    region:   carpenters_landing_nw_8
+
+  16785436:
+    template: Beady_Beetle
+    level:    [15, 18]
+    region:   carpenters_landing_nw_4
+
+  16785437:
+    template: Beady_Beetle
+    level:    [15, 18]
+    region:   carpenters_landing_nw_4
+
+  16785438:
+    template: Flytrap
+    level:    [18, 22]
+    region:   carpenters_landing_nw_4
+
+  16785439:
+    template: Flytrap
+    level:    [18, 22]
+    region:   carpenters_landing_nw_4
+
+  16785440:
+    template: Orcish_Grunt
+    level:    [16, 20]
+    region:   carpenters_landing_nw_4
+
+  16785441:
+    template: Orcish_Stonechucker
+    at:       [-368.445, -8.333, 556.915, 0]
+    level:    [16, 20]
+
+  16785442:
+    template: Orcish_Neckchopper
+    level:    [16, 20]
+    region:   carpenters_landing_nw_4
+
+  16785443:
+    template: Beady_Beetle
+    level:    [15, 18]
+    region:   carpenters_landing_nw_7
+
+  16785444:
+    template: Flytrap
+    level:    [18, 22]
+    region:   carpenters_landing_nw_7
+
+  16785445:
+    template: Flytrap
+    level:    [18, 22]
+    region:   carpenters_landing_nw_7
+
+  16785446:
+    template: Orcish_Grunt
+    at:       [-325.589, -5.086, 593.002, 95]
+    level:    [16, 20]
+
+  16785447:
+    template: Orcish_Stonechucker
+    level:    [16, 20]
+    region:   carpenters_landing_nw_7
+
+  16785448:
+    template: Orcish_Neckchopper
+    at:       [-316.529, -3.861, 589.973, 144]
+    level:    [16, 20]
+
+  16785449:
+    template: Poison_Funguar
+    level:    [16, 19]
+    region:   carpenters_landing_nw_9
+
+  16785450:
+    template: Poison_Funguar
+    level:    [16, 19]
+    region:   carpenters_landing_nw_9
+
+  16785451:
+    template: Beady_Beetle
+    level:    [15, 18]
+    region:   carpenters_landing_nw_2
+
+  16785452:
+    template: Beady_Beetle
+    level:    [15, 18]
+    region:   carpenters_landing_nw_2
+
+  16785453:
+    template: Beady_Beetle
+    level:    [15, 18]
+    region:   carpenters_landing_nw_2
+
+  16785454:
+    template: Beady_Beetle
+    level:    [15, 18]
+    region:   carpenters_landing_nw_2
+
+  16785455:
+    template: Beady_Beetle
+    level:    [15, 18]
+    region:   carpenters_landing_nw_2
+
+  16785456:
+    template: Beady_Beetle
+    level:    [15, 18]
+    region:   carpenters_landing_nw_2
+
+  16785457:
+    template: Orcish_Grunt
+    level:    [16, 20]
+    region:   carpenters_landing_nw_2
+
+  16785458:
+    template: Orcish_Stonechucker
+    level:    [16, 20]
+    region:   carpenters_landing_nw_2
+
+  16785459:
+    template: Orcish_Neckchopper
+    level:    [16, 20]
+    region:   carpenters_landing_nw_2
+
+  16785460:
+    template: Land_Pugil
+    level:    [17, 19]
+    region:   carpenters_landing_nw_10
+
+  16785461:
+    template: Water_Elemental
+    at:       [-311.574, -2.599, 589.306, 54]
+    level:    [24, 26]
+
+  16785462:
+    template: Land_Pugil
+    level:    [17, 19]
+    region:   carpenters_landing_nw_6
+
+  16785463:
+    template: Water_Elemental
+    at:       [-338.290, -4.719, 589.018, 127]
+    level:    [24, 26]
+
+  16785464:
+    template: Land_Pugil
+    level:    [17, 19]
+    region:   carpenters_landing_nw_5
+
+  16785465:
+    template: Land_Pugil
+    level:    [17, 19]
+    region:   carpenters_landing_nw_5
+
+  16785466:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_c_3
+
+  16785467:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_c_3
+
+  16785468:
+    template: Battrap
+    level:    [23, 27]
+    region:   carpenters_landing_c_3
+
+  16785469:
+    template: Battrap
+    level:    [23, 27]
+    region:   carpenters_landing_c_3
+
+  16785470:
+    template: Battrap
+    level:    [23, 27]
+    region:   carpenters_landing_c_3
+
+  16785471:
+    template: Battrap
+    level:    [23, 26]
+    region:   carpenters_landing_c_3
+
+  16785472:
+    template: Orcish_Fighter
+    level:    [21, 25]
+    region:   carpenters_landing_c_3
+
+  16785473:
+    template: Orcish_Cursemaker
+    at:       [-195.504, -5.824, 115.174, 142]
+    level:    [21, 25]
+
+  16785474:
+    template: Orcish_Serjeant
+    at:       [-216.580, -5.749, 113.216, 173]
+    level:    [21, 25]
+
+  16785475:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_c_6
+
+  16785476:
+    template: Ghoul
+    level:    [21, 27]
+    region:   carpenters_landing_c_6
+
+  16785477:
+    template: Battrap
+    level:    [24, 27]
+    region:   carpenters_landing_c_6
+
+  16785478:
+    template: Battrap
+    level:    [23, 27]
+    region:   carpenters_landing_c_6
+
+  16785479:
+    template: Orcish_Fighter
+    level:    [21, 25]
+    region:   carpenters_landing_c_6
+
+  16785480:
+    template: Orcish_Cursemaker
+    level:    [21, 25]
+    region:   carpenters_landing_c_6
+
+  16785481:
+    template: Orcish_Serjeant
+    at:       [-177.467, -5.621, 45.134, 106]
+    level:    [21, 25]
+
+  16785482:
+    template: Ghoul
+    level:    [21, 27]
+    region:   carpenters_landing_c_6
+
+  16785483:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_c_7
+
+  16785484:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_c_7
+
+  16785485:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_c_7
+
+  16785486:
+    template: Battrap
+    level:    [23, 27]
+    region:   carpenters_landing_c_7
+
+  16785487:
+    template: Battrap
+    level:    [23, 27]
+    region:   carpenters_landing_c_7
+
+  16785488:
+    template: Orcish_Fighter
+    level:    [21, 25]
+    region:   carpenters_landing_c_7
+
+  16785489:
+    template: Orcish_Serjeant
+    at:       [-188.867, -6.357, 12.107, 126]
+    level:    [21, 25]
+
+  16785490:
+    template: Stag_Beetle
+    at:       [-165.504, -5.930, 43.278, 117]
+    level:    [20, 23]
+
+  16785491:
+    template: Battrap
+    level:    [23, 26]
+    region:   carpenters_landing_c_10
+
+  16785492:
+    template: Battrap
+    level:    [23, 26]
+    region:   carpenters_landing_c_10
+
+  16785493:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_c
+
+  16785494:
+    template: Ghoul
+    level:    [21, 27]
+    region:   carpenters_landing_c
+
+  16785495:
+    template: Battrap
+    level:    [23, 27]
+    region:   carpenters_landing_c
+
+  16785496:
+    template: Battrap
+    level:    [23, 27]
+    region:   carpenters_landing_c
+
+  16785497:
+    template: Ghoul
+    level:    [21, 27]
+    region:   carpenters_landing_c
+
+  16785498:
+    template: Thunder_Elemental
+    level:    [29, 31]
+    region:   carpenters_landing_c
+
+  16785499:
+    template: Marsh_Funguar
+    at:       [-237.686, -6.287, -51.755, 111]
+    level:    [21, 24]
+
+  16785500:
+    template: Marsh_Funguar
+    at:       [-240.493, -5.618, -58.453, 139]
+    level:    [21, 24]
+
+  16785501:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_w_8
+
+  16785502:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_w_8
+
+  16785503:
+    template: Ghoul
+    at:       [-209.743, -8.658, 55.607, 250]
+    level:    [21, 27]
+
+  16785504:
+    template: Will-o-the-Wisp
+    level:    [25, 26]
+    region:   carpenters_landing_w_8
+
+  16785505:
+    template: Battrap
+    level:    [23, 26]
+    region:   carpenters_landing_w_8
+
+  16785506:
+    template: Battrap
+    level:    [24, 27]
+    region:   carpenters_landing_w_8
+
+  16785507:
+    template: Orcish_Fighter
+    level:    [21, 25]
+    region:   carpenters_landing_w_8
+
+  16785508:
+    template: Orcish_Cursemaker
+    level:    [21, 25]
+    region:   carpenters_landing_w_8
+
+  16785509:
+    template: Ghoul
+    at:       [-248.942, -6.209, -120.169, 243]
+    level:    [21, 27]
+
+  16785510:
+    template: Forest_Tiger
+    level:    [22, 25]
+    region:   carpenters_landing_w_8
+
+  16785511:
+    template: Forest_Tiger
+    level:    [22, 25]
+    region:   carpenters_landing_w_8
+
+  16785512:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_w_5
+
+  16785513:
+    template: Marsh_Funguar
+    level:    [21, 24]
+    region:   carpenters_landing_w_5
+
+  16785514:
+    template: Marsh_Funguar
+    level:    [21, 24]
+    region:   carpenters_landing_w_5
+
+  16785515:
+    template: Thunder_Elemental
+    level:    [29, 31]
+    region:   carpenters_landing_w_5
+
+  16785516:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_c_4
+
+  16785517:
+    template: Battrap
+    level:    [24, 27]
+    region:   carpenters_landing_c_4
+
+  16785518:
+    template: Battrap
+    level:    [23, 25]
+    region:   carpenters_landing_c_4
+
+  16785519:
+    template: Fosse_Pugil
+    level:    [22, 24]
+    region:   carpenters_landing_c_9
+
+  16785520:
+    template: Fosse_Pugil
+    level:    [22, 24]
+    region:   carpenters_landing_c_9
+
+  16785521:
+    template: Water_Elemental
+    at:       [-186.750, -3.510, 90.604, 71]
+    level:    [29, 31]
+
+  16785522:
+    template: Fosse_Pugil
+    level:    [22, 24]
+    region:   carpenters_landing_c_11
+
+  16785523:
+    template: Water_Elemental
+    at:       [-144.915, -3.140, 14.114, 29]
+    level:    [29, 31]
+
+  16785524:
+    template: Fosse_Pugil
+    level:    [22, 24]
+    region:   carpenters_landing_c_8
+
+  16785525:
+    template: Water_Elemental
+    at:       [-184.813, -2.807, -125.788, 180]
+    level:    [29, 31]
+
+  16785526:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_w_9
+
+  16785527:
+    template: Stag_Beetle
+    at:       [-297.861, -8.017, 50.633, 243]
+    level:    [20, 23]
+
+  16785528:
+    template: Stag_Beetle
+    at:       [-294.944, -8.179, 64.662, 247]
+    level:    [20, 23]
+
+  16785529:
+    template: Spider_Wasp
+    level:    [19, 22]
+    region:   carpenters_landing_w_4
+
+  16785530:
+    template: Spider_Wasp
+    level:    [19, 22]
+    region:   carpenters_landing_w_4
+
+  16785531:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_w_4
+
+  16785532:
+    template: Stag_Beetle
+    at:       [-298.931, -8.625, -182.244, 59]
+    level:    [20, 23]
+
+  16785533:
+    template: Stag_Beetle
+    at:       [-300.936, -8.320, -187.264, 175]
+    level:    [20, 23]
+
+  16785534:
+    template: Stag_Beetle
+    at:       [-298.717, -8.742, -179.193, 183]
+    level:    [20, 23]
+
+  16785535:
+    template: Marsh_Funguar
+    at:       [-369.977, -6.717, -222.354, 92]
+    level:    [21, 24]
+
+  16785536:
+    template: Spider_Wasp
+    level:    [19, 22]
+    region:   carpenters_landing_w_3
+
+  16785537:
+    template: Spider_Wasp
+    level:    [19, 22]
+    region:   carpenters_landing_w_3
+
+  16785538:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_w_3
+
+  16785539:
+    template: Spider_Wasp
+    level:    [19, 22]
+    region:   carpenters_landing_w_6
+
+  16785540:
+    template: Marsh_Funguar
+    level:    [21, 24]
+    region:   carpenters_landing_w_6
+
+  16785541:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_w_2
+
+  16785542:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_w_2
+
+  16785543:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_w_2
+
+  16785544:
+    template: Marsh_Funguar
+    level:    [21, 24]
+    region:   carpenters_landing_w_2
+
+  16785545:
+    template: Marsh_Funguar
+    level:    [21, 24]
+    region:   carpenters_landing_w_2
+
+  16785546:
+    template: Marsh_Funguar
+    level:    [21, 24]
+    region:   carpenters_landing_w_2
+
+  16785547:
+    template: Marsh_Funguar
+    level:    [21, 24]
+    region:   carpenters_landing_w_2
+
+  16785548:
+    template: Marsh_Funguar
+    level:    [21, 24]
+    region:   carpenters_landing_w_2
+
+  16785549:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_w
+
+  16785550:
+    template: Marsh_Funguar
+    level:    [21, 24]
+    region:   carpenters_landing_w
+
+  16785551:
+    template: Marsh_Funguar
+    level:    [21, 24]
+    region:   carpenters_landing_w
+
+  16785552:
+    template: Marsh_Funguar
+    level:    [21, 24]
+    region:   carpenters_landing_w
+
+  16785553:
+    template: Marsh_Funguar
+    level:    [21, 24]
+    region:   carpenters_landing_w
+
+  16785554:
+    template: Marsh_Funguar
+    level:    [21, 24]
+    region:   carpenters_landing_w_7
+
+  16785555:
+    template: Spider_Wasp
+    level:    [19, 22]
+    region:   carpenters_landing_sw_7
+
+  16785556:
+    template: Spider_Wasp
+    level:    [19, 22]
+    region:   carpenters_landing_sw_7
+
+  16785557:
+    template: Spider_Wasp
+    level:    [19, 22]
+    region:   carpenters_landing_sw_7
+
+  16785558:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_sw_7
+
+  16785559:
+    template: Stag_Beetle
+    at:       [-263.165, -9.053, -341.843, 9]
+    level:    [20, 23]
+
+  16785560:
+    template: Spider_Wasp
+    level:    [19, 22]
+    region:   carpenters_landing_sw_5
+
+  16785561:
+    template: Spider_Wasp
+    level:    [19, 22]
+    region:   carpenters_landing_sw_5
+
+  16785562:
+    template: Spider_Wasp
+    level:    [19, 22]
+    region:   carpenters_landing_sw_5
+
+  16785563:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_sw_5
+
+  16785564:
+    template: Marsh_Funguar
+    level:    [21, 24]
+    region:   carpenters_landing_sw_5
+
+  16785565:
+    template: Stag_Beetle
+    at:       [-217.885, -10.538, -423.356, 153]
+    level:    [20, 23]
+
+  16785566:
+    template: Stag_Beetle
+    at:       [-337.561, -6.125, -369.250, 55]
+    level:    [20, 23]
+
+  16785567:
+    template: Spider_Wasp
+    level:    [19, 22]
+    region:   carpenters_landing_sw_4
+
+  16785568:
+    template: Stag_Beetle
+    at:       [-325.335, -6.430, -378.280, 10]
+    level:    [20, 23]
+
+  16785569:
+    template: Marsh_Funguar
+    level:    [21, 24]
+    region:   carpenters_landing_sw_4
+
+  16785570:
+    template: Marsh_Funguar
+    level:    [21, 24]
+    region:   carpenters_landing_sw_6
+
+  16785571:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_sw_3
+
+  16785572:
+    template: Marsh_Funguar
+    level:    [21, 24]
+    region:   carpenters_landing_sw
+
+  16785573:
+    template: Marsh_Funguar
+    level:    [21, 24]
+    region:   carpenters_landing_sw
+
+  16785574:
+    template: Marsh_Funguar
+    level:    [21, 24]
+    region:   carpenters_landing_sw
+
+  16785575:
+    template: Marsh_Funguar
+    level:    [21, 24]
+    region:   carpenters_landing_sw
+
+  16785576:
+    template: Marsh_Funguar
+    at:       [-444.721, -6.774, -339.444, 33]
+    level:    [21, 24]
+
+  16785577:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_sw_2
+
+  16785578:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_sw_2
+
+  16785579:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_sw_2
+
+  16785580:
+    template: Marsh_Funguar
+    level:    [21, 24]
+    region:   carpenters_landing_sw_2
+
+  16785581:
+    template: Marsh_Funguar
+    level:    [21, 24]
+    region:   carpenters_landing_sw_2
+
+  16785582:
+    template: Marsh_Funguar
+    level:    [21, 24]
+    region:   carpenters_landing_sw_2
+
+  16785583:
+    template: Marsh_Funguar
+    level:    [21, 24]
+    region:   carpenters_landing_sw_2
+
+  16785584:
+    template: Marsh_Funguar
+    at:       [-364.457, -0.836, -483.789, 15]
+    level:    [21, 24]
+
+  16785585:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_c_2
+
+  16785586:
+    template: Forest_Tiger
+    level:    [22, 25]
+    region:   carpenters_landing_c_2
+
+  16785587:
+    template: Forest_Tiger
+    level:    [22, 25]
+    region:   carpenters_landing_c_2
+
+  16785588:
+    template: Forest_Tiger
+    at:       [-246.394, -6.667, -273.357, 182]
+    level:    [22, 25]
+
+  16785589:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_c_2
+
+  16785590:
+    template: Forest_Tiger
+    level:    [22, 25]
+    region:   carpenters_landing_c_2
+
+  16785591:
+    template: Forest_Tiger
+    level:    [22, 25]
+    region:   carpenters_landing_c_2
+
+  16785592:
+    template: Forest_Tiger
+    level:    [22, 25]
+    region:   carpenters_landing_c_2
+
+  16785593:
+    template: Tempest_Tigon
+    level:    [42, 43]
+    region:   carpenters_landing_c_2
+
+  16785594:
+    template: Ghoul
+    level:    [21, 27]
+    region:   carpenters_landing_c_2
+
+  16785595:
+    template: Ghoul
+    level:    [21, 27]
+    region:   carpenters_landing_c_2
+
+  16785596:
+    template: Thunder_Elemental
+    level:    [29, 31]
+    region:   carpenters_landing_c_2
+
+  16785597:
+    template: Fosse_Pugil
+    level:    [22, 24]
+    region:   carpenters_landing_c_5
+
+  16785598:
+    template: Fosse_Pugil
+    level:    [22, 24]
+    region:   carpenters_landing_c_5
+
+  16785599:
+    template: Water_Elemental
+    at:       [-225.703, -3.787, -269.768, 74]
+    level:    [29, 31]
+
+  16785600:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_s_3
+
+  16785601:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_s_3
+
+  16785602:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_s_3
+
+  16785603:
+    template: Battrap
+    level:    [24, 27]
+    region:   carpenters_landing_s_3
+
+  16785604:
+    template: Battrap
+    level:    [23, 27]
+    region:   carpenters_landing_s_3
+
+  16785605:
+    template: Battrap
+    level:    [24, 26]
+    region:   carpenters_landing_s_3
+
+  16785606:
+    template: Thunder_Elemental
+    level:    [29, 31]
+    region:   carpenters_landing_s_3
+
+  16785607:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_s
+
+  16785608:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_s
+
+  16785609:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_s
+
+  16785610:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_s
+
+  16785611:
+    template: Ghoul
+    level:    [21, 27]
+    region:   carpenters_landing_s
+
+  16785612:
+    template: Will-o-the-Wisp
+    level:    [25, 26]
+    region:   carpenters_landing_s
+
+  16785613:
+    template: Battrap
+    level:    [24, 27]
+    region:   carpenters_landing_s
+
+  16785614:
+    template: Battrap
+    level:    [25, 26]
+    region:   carpenters_landing_s
+
+  16785615:
+    template: Battrap
+    level:    [25, 26]
+    region:   carpenters_landing_s
+
+  16785616:
+    template: Battrap
+    level:    [23, 27]
+    region:   carpenters_landing_s
+
+  16785617:
+    template: Battrap
+    level:    [23, 26]
+    region:   carpenters_landing_s
+
+  16785618:
+    template: Battrap
+    level:    [24, 27]
+    region:   carpenters_landing_s
+
+  16785619:
+    template: Battrap
+    level:    [23, 26]
+    region:   carpenters_landing_s
+
+  16785620:
+    template: Ghoul
+    level:    [21, 27]
+    region:   carpenters_landing_s
+
+  16785621:
+    template: Forest_Tiger
+    level:    [22, 25]
+    region:   carpenters_landing_s
+
+  16785622:
+    template: Forest_Tiger
+    level:    [22, 25]
+    region:   carpenters_landing_s
+
+  16785623:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_s_4
+
+  16785624:
+    template: Battrap
+    level:    [24, 26]
+    region:   carpenters_landing_s_4
+
+  16785625:
+    template: Battrap
+    level:    [24, 27]
+    region:   carpenters_landing_s_4
+
+  16785626:
+    template: Stag_Beetle
+    level:    [20, 23]
+    region:   carpenters_landing_s_2
+
+  16785627:
+    template: Marsh_Funguar
+    level:    [21, 24]
+    region:   carpenters_landing_s_2
+
+  16785628:
+    template: Marsh_Funguar
+    level:    [21, 24]
+    region:   carpenters_landing_s_2
+
+  16785629:
+    template: Marsh_Funguar
+    level:    [21, 24]
+    region:   carpenters_landing_s_2
+
+  16785630:
+    template: Fosse_Pugil
+    level:    [22, 24]
+    region:   carpenters_landing_s_5
+
+  16785631:
+    template: Fosse_Pugil
+    level:    [22, 24]
+    region:   carpenters_landing_s_5
+
+  16785632:
+    template: Water_Elemental
+    at:       [-108.133, -4.420, -518.954, 154]
+    level:    [29, 31]
+
+  16785633:
+    template: Diving_Beetle
+    level:    [27, 30]
+    region:   carpenters_landing_se_4
+
+  16785634:
+    template: Diving_Beetle
+    level:    [27, 30]
+    region:   carpenters_landing_se_4
+
+  16785635:
+    template: Birdtrap
+    level:    [29, 33]
+    region:   carpenters_landing_se_4
+
+  16785636:
+    template: Birdtrap
+    level:    [29, 33]
+    region:   carpenters_landing_se_4
+
+  16785637:
+    template: Birdtrap
+    level:    [29, 33]
+    region:   carpenters_landing_se_4
+
+  16785638:
+    template: Birdtrap
+    level:    [29, 33]
+    region:   carpenters_landing_se_4
+
+  16785639:
+    template: Sabertooth_Tiger
+    level:    [29, 32]
+    region:   carpenters_landing_se_4
+
+  16785640:
+    template: Diving_Beetle
+    level:    [27, 30]
+    region:   carpenters_landing_se_5
+
+  16785641:
+    template: Birdtrap
+    level:    [29, 33]
+    region:   carpenters_landing_se_5
+
+  16785642:
+    template: Birdtrap
+    level:    [29, 33]
+    region:   carpenters_landing_se_5
+
+  16785643:
+    template: Birdtrap
+    level:    [29, 33]
+    region:   carpenters_landing_se_5
+
+  16785644:
+    template: Sabertooth_Tiger
+    level:    [29, 32]
+    region:   carpenters_landing_se_5
+
+  16785645:
+    template: Diving_Beetle
+    level:    [27, 30]
+    region:   carpenters_landing_se_2
+
+  16785646:
+    template: Diving_Beetle
+    level:    [27, 30]
+    region:   carpenters_landing_se_2
+
+  16785647:
+    template: Diving_Beetle
+    level:    [27, 30]
+    region:   carpenters_landing_se_2
+
+  16785648:
+    template: Wight
+    level:    [29, 33]
+    region:   carpenters_landing_se_8
+
+  16785649:
+    template: Spunkie
+    level:    [32, 33]
+    region:   carpenters_landing_se_2
+
+  16785650:
+    template: Birdtrap
+    level:    [29, 33]
+    region:   carpenters_landing_se_2
+
+  16785651:
+    template: Birdtrap
+    level:    [29, 33]
+    region:   carpenters_landing_se_2
+
+  16785652:
+    template: Birdtrap
+    level:    [29, 33]
+    region:   carpenters_landing_se_2
+
+  16785653:
+    template: Birdtrap
+    level:    [29, 33]
+    region:   carpenters_landing_se_2
+
+  16785654:
+    template: Birdtrap
+    level:    [29, 33]
+    region:   carpenters_landing_se_2
+
+  16785655:
+    template: Wendigo
+    level:    [28, 33]
+    region:   carpenters_landing_se_2
+
+  16785656:
+    template: Sabertooth_Tiger
+    level:    [29, 32]
+    region:   carpenters_landing_se_2
+
+  16785657:
+    template: Sabertooth_Tiger
+    level:    [29, 32]
+    region:   carpenters_landing_se_2
+
+  16785658:
+    template: Shrieker
+    at:       [40.322, -7.926, -568.258, 109]
+    level:    [28, 31]
+
+  16785659:
+    template: Shrieker
+    at:       [40.459, -8.001, -568.359, 124]
+    level:    [28, 31]
+
+  16785660:
+    template: Shrieker
+    at:       [38.225, -9.986, -549.729, 134]
+    level:    [28, 31]
+
+  16785661:
+    template: Diving_Beetle
+    level:    [27, 30]
+    region:   carpenters_landing_se_10
+
+  16785662:
+    template: Diving_Beetle
+    level:    [27, 30]
+    region:   carpenters_landing_se_10
+
+  16785663:
+    template: Birdtrap
+    level:    [29, 33]
+    region:   carpenters_landing_se_10
+
+  16785664:
+    template: Birdtrap
+    level:    [29, 33]
+    region:   carpenters_landing_se_10
+
+  16785665:
+    template: Birdtrap
+    level:    [29, 33]
+    region:   carpenters_landing_se_10
+
+  16785666:
+    template: Birdtrap
+    level:    [29, 33]
+    region:   carpenters_landing_se_10
+
+  16785667:
+    template: Sabertooth_Tiger
+    level:    [29, 32]
+    region:   carpenters_landing_se_10
+
+  16785668:
+    template: Diving_Beetle
+    level:    [27, 30]
+    region:   carpenters_landing_se_11
+
+  16785669:
+    template: Diving_Beetle
+    level:    [27, 30]
+    region:   carpenters_landing_se_11
+
+  16785670:
+    template: Diving_Beetle
+    at:       [167.367, -6.061, -528.687, 130]
+    level:    [27, 30]
+
+  16785671:
+    template: Birdtrap
+    level:    [29, 33]
+    region:   carpenters_landing_se_11
+
+  16785672:
+    template: Birdtrap
+    level:    [29, 33]
+    region:   carpenters_landing_se_11
+
+  16785673:
+    template: Birdtrap
+    level:    [29, 33]
+    region:   carpenters_landing_se_11
+
+  16785674:
+    template: Sabertooth_Tiger
+    level:    [29, 32]
+    region:   carpenters_landing_se_11
+
+  16785675:
+    template: Birdtrap
+    level:    [29, 33]
+    region:   carpenters_landing_se_4
+
+  16785676:
+    template: Orctrap
+    at:       [180.087, -5.484, -532.799, 81]
+    level:    [37, 38]
+
+  16785677:
+    template: Thunder_Elemental
+    level:    [36, 38]
+    region:   carpenters_landing_se_4
+
+  16785678:
+    template: Diving_Beetle
+    level:    [27, 30]
+    region:   carpenters_landing_se_12
+
+  16785679:
+    template: Birdtrap
+    level:    [29, 33]
+    region:   carpenters_landing_se_12
+
+  16785680:
+    template: Birdtrap
+    at:       [216.169, -1.949, -523.801, 225]
+    level:    [29, 33]
+
+  16785681:
+    template: Spinous_Pugil
+    level:    [29, 31]
+    region:   carpenters_landing_se_6
+
+  16785682:
+    template: Spinous_Pugil
+    level:    [29, 31]
+    region:   carpenters_landing_se_6
+
+  16785683:
+    template: Water_Elemental
+    at:       [86.747, -4.381, -430.457, 42]
+    level:    [36, 38]
+
+  16785684:
+    template: Spinous_Pugil
+    level:    [29, 31]
+    region:   carpenters_landing_se_14
+
+  16785685:
+    template: Water_Elemental
+    at:       [213.543, -2.136, -488.857, 75]
+    level:    [36, 38]
+
+  16785686:
+    template: Spinous_Pugil
+    level:    [29, 31]
+    region:   carpenters_landing_se_13
+
+  16785687:
+    template: Water_Elemental
+    at:       [207.822, -5.230, -560.125, 67]
+    level:    [36, 38]
+
+  16785688:
+    template: Diving_Beetle
+    at:       [138.272, -6.706, -647.383, 179]
+    level:    [27, 30]
+
+  16785689:
+    template: Diving_Beetle
+    at:       [138.083, -6.618, -646.728, 80]
+    level:    [27, 30]
+
+  16785690:
+    template: Diving_Beetle
+    level:    [27, 30]
+    region:   carpenters_landing_se_7
+
+  16785691:
+    template: Diving_Beetle
+    level:    [27, 30]
+    region:   carpenters_landing_se_7
+
+  16785692:
+    template: Shrieker
+    level:    [28, 31]
+    region:   carpenters_landing_se_7
+
+  16785693:
+    template: Diving_Beetle
+    level:    [28, 29]
+    region:   carpenters_landing_se
+
+  16785694:
+    template: Diving_Beetle
+    level:    [27, 30]
+    region:   carpenters_landing_se
+
+  16785695:
+    template: Shrieker
+    level:    [28, 31]
+    region:   carpenters_landing_se
+
+  16785696:
+    template: Shrieker
+    level:    [28, 31]
+    region:   carpenters_landing_se
+
+  16785697:
+    template: Shrieker
+    level:    [28, 31]
+    region:   carpenters_landing_se
+
+  16785698:
+    template: Diving_Beetle
+    level:    [27, 30]
+    region:   carpenters_landing_se_9
+
+  16785699:
+    template: Diving_Beetle
+    level:    [27, 30]
+    region:   carpenters_landing_se_9
+
+  16785700:
+    template: Diving_Beetle
+    level:    [27, 30]
+    region:   carpenters_landing_se_9
+
+  16785701:
+    template: Diving_Beetle
+    level:    [27, 30]
+    region:   carpenters_landing_se_3
+
+  16785702:
+    template: Diving_Beetle
+    level:    [27, 30]
+    region:   carpenters_landing_se_3
+
+  16785703:
+    template: Diving_Beetle
+    level:    [27, 30]
+    region:   carpenters_landing_se_3
+
+  16785704:
+    template: Shrieker
+    level:    [28, 31]
+    region:   carpenters_landing_se_3
+
+  16785705:
+    template: Shrieker
+    level:    [28, 31]
+    region:   carpenters_landing_se_3
+
+  16785706:
+    template: Shrieker
+    level:    [28, 31]
+    region:   carpenters_landing_se_3
+
+  16785707:
+    template: Shrieker
+    level:    [28, 31]
+    region:   carpenters_landing_se_3
+
+  16785708:
+    template: Shrieker
+    at:       [92.461, -0.500, -794.489, 252]
+    level:    [28, 31]
+
+  16785709:
+    template: Overgrown_Ivy
+    at:       [-120.000, -6.150, -469.000, 95]
+    level:    [50, 52]
+
+  16785710:
+    template: Cryptonberry_Executor
+    at:       [120.383, -5.733, -390.010, 43]
+    level:    [68, 68]
+
+  16785711:
+    template: Cryptonberry_Assassin
+    at:       [121.649, -6.003, -393.782, 108]
+    level:    [65, 65]
+
+  16785712:
+    template: Cryptonberry_Assassin
+    at:       [118.869, -4.413, -391.326, 35]
+    level:    [65, 65]
+
+  16785713:
+    template: Cryptonberry_Assassin
+    at:       [118.923, -5.683, -394.046, 51]
+    level:    [65, 65]
+
+  16785714:
+    template: Tonberrys_Elemental
+    at:       [125.207, -6.672, -392.863, 160]
+    level:    [60, 64]
+
+  16785715:
+    template: Tonberrys_Avatar
+    at:       [118.650, -3.701, -389.903, 99]
+    level:    [60, 60]
+
+  16785716:
+    template: Para
+    at:       [-415.948, -0.704, -358.041, 76]
+    level:    [50, 51]
+
+  16785717:
+    template: Para
+    at:       [-412.548, -0.500, -361.108, 111]
+    level:    [50, 51]
+
+  16785718:
+    template: Para
+    at:       [-412.864, -0.094, -359.222, 26]
+    level:    [50, 51]
+
+  16785719:
+    template: Para
+    at:       [-413.243, 0.000, -361.204, 254]
+    level:    [50, 51]
+
+  16785720:
+    template: Para
+    at:       [-416.734, -0.465, -365.799, 54]
+    level:    [50, 51]
+
+  16785721:
+    template: Bullheaded_Grosvez
+    at:       [37.861, -8.684, -568.912, 198]
+    level:    [45, 45]
+
+  16785722:
+    template: Mycophile
+    at:       [145.500, -9.483, -699.000, 74]
+    level:    [35, 35]
+
+  16785723:
+    template: Hercules_Beetle
+    at:       [-238.000, -5.950, -93.500, 180]
+    level:    [34, 34]
+
+  16785724:
+    template: Orcfeltrap
+    at:       [118.940, -6.433, -437.238, 14]
+    level:    [0, 0]
+
+  16785725:
+    template: Orcfeltrap
+    at:       [157.141, -6.500, -518.813, 43]
+    level:    [0, 0]
+
+  16785726:
+    template: Orcfeltrap
+    at:       [77.700, -5.888, -585.887, 77]
+    level:    [0, 0]

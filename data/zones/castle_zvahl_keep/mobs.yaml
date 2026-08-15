@@ -1,0 +1,1218 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17440769:
+    template: Demon_Pawn
+    level:    [52, 55]
+    region:   castle_zvahl_keep_e_8
+
+  17440770:
+    template: Evil_Eye
+    level:    [46, 48]
+    region:   castle_zvahl_keep_e_8
+
+  17440771:
+    template: Evil_Eye
+    level:    [46, 48]
+    region:   castle_zvahl_keep_e_7
+
+  17440772:
+    template: Evil_Eye
+    level:    [46, 48]
+    region:   castle_zvahl_keep_e_7
+
+  17440773:
+    template: Demon_Wizard
+    level:    [52, 55]
+    region:   castle_zvahl_keep_e_5
+
+  17440774:
+    template: Evil_Eye
+    level:    [46, 48]
+    region:   castle_zvahl_keep_e_5
+
+  17440775:
+    template: Demon_Knight
+    level:    [52, 55]
+    region:   castle_zvahl_keep_e_6
+
+  17440776:
+    template: Evil_Eye
+    level:    [46, 48]
+    region:   castle_zvahl_keep_e_6
+
+  17440777:
+    template: Demon_Warlock
+    level:    [52, 55]
+    region:   castle_zvahl_keep_e_4
+
+  17440778:
+    template: Demons_Elemental
+    level:    [45, 53]
+    region:   castle_zvahl_keep_e_4
+
+  17440779:
+    template: Evil_Eye
+    level:    [46, 48]
+    region:   castle_zvahl_keep_e_4
+
+  17440780:
+    template: Goblin_Poacher
+    level:    [47, 49]
+    region:   castle_zvahl_keep_ne_5
+
+  17440781:
+    template: Goblin_Trader
+    level:    [47, 49]
+    region:   castle_zvahl_keep_ne_5
+
+  17440782:
+    template: Goblins_Bat
+    level:    [40, 42]
+    region:   castle_zvahl_keep_ne_5
+
+  17440783:
+    template: Goblin_Robber
+    level:    [47, 49]
+    region:   castle_zvahl_keep_ne_5
+
+  17440784:
+    template: Goblin_Reaper
+    level:    [47, 49]
+    region:   castle_zvahl_keep_ne_5
+
+  17440785:
+    template: Goblin_Poacher
+    level:    [47, 49]
+    region:   castle_zvahl_keep_ne_3
+
+  17440786:
+    template: Goblin_Trader
+    level:    [47, 49]
+    region:   castle_zvahl_keep_ne_3
+
+  17440787:
+    template: Goblins_Bat
+    level:    [40, 42]
+    region:   castle_zvahl_keep_ne_3
+
+  17440788:
+    template: Goblin_Robber
+    level:    [47, 49]
+    region:   castle_zvahl_keep_ne_3
+
+  17440789:
+    template: Goblin_Reaper
+    level:    [47, 49]
+    region:   castle_zvahl_keep_ne_3
+
+  17440790:
+    template: Goblin_Poacher
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [47, 49]
+
+  17440791:
+    template: Goblin_Trader
+    at:       [-47.733, 0.474, 72.509, 8]
+    level:    [47, 49]
+
+  17440792:
+    template: Goblins_Bat
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [40, 42]
+
+  17440793:
+    template: Goblin_Robber
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [47, 49]
+
+  17440794:
+    template: Goblin_Reaper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [47, 49]
+
+  17440795:
+    template: Goblin_Poacher
+    level:    [47, 49]
+    region:   castle_zvahl_keep_ne
+
+  17440796:
+    template: Goblin_Trader
+    level:    [47, 49]
+    region:   castle_zvahl_keep_ne
+
+  17440797:
+    template: Goblins_Bat
+    level:    [40, 42]
+    region:   castle_zvahl_keep_ne
+
+  17440798:
+    template: Goblin_Robber
+    level:    [47, 49]
+    region:   castle_zvahl_keep_ne
+
+  17440799:
+    template: Goblin_Reaper
+    level:    [47, 49]
+    region:   castle_zvahl_keep_ne
+
+  17440800:
+    template: Goblin_Hunter
+    level:    [50, 52]
+    region:   castle_zvahl_keep_ne_2
+
+  17440801:
+    template: Goblin_Bouncer
+    level:    [50, 52]
+    region:   castle_zvahl_keep_ne_2
+
+  17440802:
+    template: Goblin_Enchanter
+    level:    [50, 52]
+    region:   castle_zvahl_keep_ne_2
+
+  17440803:
+    template: Goblin_Hunter
+    at:       [-90.124, 0.100, 90.045, 127]
+    level:    [50, 52]
+
+  17440804:
+    template: Goblin_Bouncer
+    at:       [-90.468, 0.100, 94.285, 61]
+    level:    [50, 52]
+
+  17440805:
+    template: Goblin_Enchanter
+    at:       [-88.000, 0.474, 109.000, 127]
+    level:    [50, 52]
+
+  17440806:
+    template: Goblin_Hunter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [50, 52]
+
+  17440807:
+    template: Goblin_Bouncer
+    at:       [-69.460, 0.474, 93.904, 127]
+    level:    [50, 52]
+
+  17440808:
+    template: Goblin_Enchanter
+    at:       [-67.152, 0.473, 91.267, 65]
+    level:    [50, 52]
+
+  17440809:
+    template: Goblin_Hunter
+    level:    [50, 52]
+    region:   castle_zvahl_keep_ne_6
+
+  17440810:
+    template: Goblin_Bouncer
+    level:    [50, 52]
+    region:   castle_zvahl_keep_ne_6
+
+  17440811:
+    template: Goblin_Enchanter
+    level:    [50, 52]
+    region:   castle_zvahl_keep_ne_6
+
+  17440812:
+    template: Goblin_Hunter
+    at:       [-26.389, 0.100, 106.882, 194]
+    level:    [50, 52]
+
+  17440813:
+    template: Goblin_Bouncer
+    at:       [-32.000, 0.474, 113.000, 127]
+    level:    [50, 52]
+
+  17440814:
+    template: Goblin_Enchanter
+    at:       [-28.281, 0.100, 107.295, 93]
+    level:    [50, 52]
+
+  17440815:
+    template: Goblin_Hunter
+    at:       [-30.000, 0.474, 88.000, 51]
+    level:    [50, 52]
+
+  17440816:
+    template: Goblin_Bouncer
+    at:       [-29.016, 0.100, 91.763, 237]
+    level:    [50, 52]
+
+  17440817:
+    template: Goblin_Enchanter
+    at:       [-34.677, 0.100, 89.658, 2]
+    level:    [50, 52]
+
+  17440818:
+    template: Goblin_Hunter
+    at:       [-35.027, 0.100, 91.857, 1]
+    level:    [50, 52]
+
+  17440819:
+    template: Goblin_Bouncer
+    at:       [-51.613, 0.474, 88.752, 127]
+    level:    [50, 52]
+
+  17440820:
+    template: Goblin_Enchanter
+    at:       [-46.000, 0.100, 89.000, 127]
+    level:    [50, 52]
+
+  17440821:
+    template: Goblin_Hunter
+    at:       [-52.323, 0.474, 106.806, 127]
+    level:    [50, 52]
+
+  17440822:
+    template: Goblin_Bouncer
+    at:       [-46.795, 0.100, 110.653, 173]
+    level:    [50, 52]
+
+  17440823:
+    template: Goblin_Enchanter
+    at:       [-69.795, -0.499, 121.537, 228]
+    level:    [50, 52]
+
+  17440824:
+    template: Goblin_Hunter
+    at:       [-71.564, 0.474, 108.222, 127]
+    level:    [50, 52]
+
+  17440825:
+    template: Goblin_Bouncer
+    at:       [-69.720, 0.100, 105.394, 160]
+    level:    [50, 52]
+
+  17440826:
+    template: Goblin_Enchanter
+    at:       [-70.866, 0.100, 110.375, 127]
+    level:    [50, 52]
+
+  17440827:
+    template: Orcish_Bowshooter
+    level:    [47, 49]
+    region:   castle_zvahl_keep_se_8
+
+  17440828:
+    template: Orcish_Footsoldier
+    level:    [47, 49]
+    region:   castle_zvahl_keep_se_8
+
+  17440829:
+    template: Orcish_Gladiator
+    level:    [47, 49]
+    region:   castle_zvahl_keep_se_8
+
+  17440830:
+    template: Orcish_Trooper
+    level:    [47, 49]
+    region:   castle_zvahl_keep_se_8
+
+  17440831:
+    template: Orcish_Bowshooter
+    at:       [-6.000, 0.474, -106.000, 127]
+    level:    [47, 49]
+
+  17440832:
+    template: Orcish_Footsoldier
+    at:       [-13.000, 0.100, -111.000, 115]
+    level:    [47, 49]
+
+  17440833:
+    template: Orcish_Gladiator
+    at:       [-8.400, 0.100, -105.970, 127]
+    level:    [47, 49]
+
+  17440834:
+    template: Orcish_Trooper
+    at:       [-6.000, 0.100, -113.000, 127]
+    level:    [47, 49]
+
+  17440835:
+    template: Orcish_Bowshooter
+    level:    [47, 49]
+    region:   castle_zvahl_keep_se_5
+
+  17440836:
+    template: Orcish_Footsoldier
+    level:    [47, 49]
+    region:   castle_zvahl_keep_se_5
+
+  17440837:
+    template: Orcish_Gladiator
+    level:    [47, 49]
+    region:   castle_zvahl_keep_se_5
+
+  17440838:
+    template: Orcish_Trooper
+    level:    [47, 49]
+    region:   castle_zvahl_keep_se_5
+
+  17440839:
+    template: Orcish_Bowshooter
+    at:       [-51.000, 0.100, -96.000, 119]
+    level:    [47, 49]
+
+  17440840:
+    template: Orcish_Footsoldier
+    at:       [-67.166, 0.100, -106.630, 127]
+    level:    [47, 49]
+
+  17440841:
+    template: Orcish_Gladiator
+    at:       [-49.000, 0.100, -111.000, 59]
+    level:    [47, 49]
+
+  17440842:
+    template: Orcish_Trooper
+    at:       [-67.189, 0.100, -112.422, 17]
+    level:    [47, 49]
+
+  17440843:
+    template: Orcish_Bowshooter
+    level:    [47, 49]
+    region:   castle_zvahl_keep_se_3
+
+  17440844:
+    template: Orcish_Footsoldier
+    level:    [47, 49]
+    region:   castle_zvahl_keep_se_3
+
+  17440845:
+    template: Orcish_Gladiator
+    level:    [47, 49]
+    region:   castle_zvahl_keep_se_3
+
+  17440846:
+    template: Orcish_Trooper
+    level:    [47, 49]
+    region:   castle_zvahl_keep_se_3
+
+  17440847:
+    template: Orcish_Veteran
+    level:    [50, 52]
+    region:   castle_zvahl_keep_se_2
+
+  17440848:
+    template: Orcish_Predator
+    level:    [50, 52]
+    region:   castle_zvahl_keep_se_2
+
+  17440849:
+    template: Orcish_Zerker
+    level:    [50, 52]
+    region:   castle_zvahl_keep_se_2
+
+  17440850:
+    template: Orcish_Warchief
+    level:    [50, 52]
+    region:   castle_zvahl_keep_se_2
+
+  17440851:
+    template: Orcish_Veteran
+    at:       [-108.046, 0.474, -150.849, 247]
+    level:    [50, 52]
+
+  17440852:
+    template: Orcish_Predator
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [50, 52]
+
+  17440853:
+    template: Orcish_Zerker
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [50, 52]
+
+  17440854:
+    template: Orcish_Warchief
+    at:       [-106.776, 0.474, -153.702, 53]
+    level:    [50, 52]
+
+  17440855:
+    template: Orcish_Veteran
+    level:    [50, 52]
+    region:   castle_zvahl_keep_se_7
+
+  17440856:
+    template: Orcish_Predator
+    level:    [50, 52]
+    region:   castle_zvahl_keep_se_7
+
+  17440857:
+    template: Orcish_Zerker
+    level:    [50, 52]
+    region:   castle_zvahl_keep_se_7
+
+  17440858:
+    template: Orcish_Warchief
+    level:    [50, 52]
+    region:   castle_zvahl_keep_se_7
+
+  17440859:
+    template: Orcish_Veteran
+    at:       [-30.284, 0.474, -153.364, 255]
+    level:    [50, 52]
+
+  17440860:
+    template: Orcish_Predator
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [50, 52]
+
+  17440861:
+    template: Orcish_Zerker
+    at:       [-33.150, 0.474, -147.396, 127]
+    level:    [50, 52]
+
+  17440862:
+    template: Orcish_Warchief
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [50, 52]
+
+  17440863:
+    template: Orcish_Veteran
+    level:    [50, 52]
+    region:   castle_zvahl_keep_se_6
+
+  17440864:
+    template: Orcish_Predator
+    level:    [50, 52]
+    region:   castle_zvahl_keep_se_6
+
+  17440865:
+    template: Orcish_Zerker
+    level:    [50, 52]
+    region:   castle_zvahl_keep_se_6
+
+  17440866:
+    template: Orcish_Warchief
+    level:    [50, 52]
+    region:   castle_zvahl_keep_se_6
+
+  17440867:
+    template: Orcish_Veteran
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [50, 52]
+
+  17440868:
+    template: Orcish_Predator
+    at:       [-70.000, 0.474, -131.000, 127]
+    level:    [50, 52]
+
+  17440869:
+    template: Orcish_Zerker
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [50, 52]
+
+  17440870:
+    template: Orcish_Warchief
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [50, 52]
+
+  17440871:
+    template: Orcish_Veteran
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [50, 52]
+
+  17440872:
+    template: Orcish_Predator
+    at:       [-70.000, 0.474, -149.000, 127]
+    level:    [50, 52]
+
+  17440873:
+    template: Orcish_Zerker
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [50, 52]
+
+  17440874:
+    template: Orcish_Warchief
+    at:       [-70.022, 0.100, -150.606, 241]
+    level:    [50, 52]
+
+  17440875:
+    template: Evil_Eye
+    at:       [-69.201, -8.160, 143.251, 25]
+    level:    [46, 48]
+
+  17440876:
+    template: Evil_Eye
+    at:       [-50.262, -8.125, 144.389, 127]
+    level:    [46, 48]
+
+  17440877:
+    template: Evil_Eye
+    at:       [-51.497, -8.125, -182.772, 127]
+    level:    [46, 48]
+
+  17440878:
+    template: Evil_Eye
+    at:       [-59.000, -8.125, -184.000, 127]
+    level:    [46, 48]
+
+  17440879:
+    template: Elder_Quadav
+    at:       [-47.470, -15.899, 107.790, 207]
+    level:    [47, 49]
+
+  17440880:
+    template: Iron_Quadav
+    at:       [-49.907, -15.525, 106.402, 108]
+    level:    [47, 49]
+
+  17440881:
+    template: Spinel_Quadav
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [47, 49]
+
+  17440882:
+    template: Emerald_Quadav
+    at:       [-54.125, -15.557, 113.852, 119]
+    level:    [47, 49]
+
+  17440883:
+    template: Elder_Quadav
+    level:    [47, 49]
+    region:   castle_zvahl_keep_ne_4
+
+  17440884:
+    template: Iron_Quadav
+    level:    [47, 49]
+    region:   castle_zvahl_keep_ne_4
+
+  17440885:
+    template: Spinel_Quadav
+    level:    [47, 49]
+    region:   castle_zvahl_keep_ne_4
+
+  17440886:
+    template: Emerald_Quadav
+    level:    [47, 49]
+    region:   castle_zvahl_keep_ne_4
+
+  17440887:
+    template: Elder_Quadav
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [47, 49]
+
+  17440888:
+    template: Iron_Quadav
+    at:       [-47.638, -15.525, 89.850, 32]
+    level:    [47, 49]
+
+  17440889:
+    template: Spinel_Quadav
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [47, 49]
+
+  17440890:
+    template: Emerald_Quadav
+    at:       [-50.125, -15.525, 88.196, 127]
+    level:    [47, 49]
+
+  17440891:
+    template: Elder_Quadav
+    level:    [47, 49]
+    region:   castle_zvahl_keep_ne_3
+
+  17440892:
+    template: Iron_Quadav
+    level:    [47, 49]
+    region:   castle_zvahl_keep_ne_3
+
+  17440893:
+    template: Spinel_Quadav
+    level:    [47, 49]
+    region:   castle_zvahl_keep_ne_3
+
+  17440894:
+    template: Emerald_Quadav
+    level:    [47, 49]
+    region:   castle_zvahl_keep_ne_3
+
+  17440895:
+    template: Elder_Quadav
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [47, 49]
+
+  17440896:
+    template: Iron_Quadav
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [47, 49]
+
+  17440897:
+    template: Spinel_Quadav
+    at:       [-50.000, -15.525, 68.000, 127]
+    level:    [47, 49]
+
+  17440898:
+    template: Emerald_Quadav
+    at:       [-46.196, -15.899, 73.158, 61]
+    level:    [47, 49]
+
+  17440899:
+    template: Steel_Quadav
+    level:    [50, 52]
+    region:   castle_zvahl_keep_ne
+
+  17440900:
+    template: Mythril_Quadav
+    level:    [50, 52]
+    region:   castle_zvahl_keep_ne
+
+  17440901:
+    template: Gold_Quadav
+    level:    [50, 52]
+    region:   castle_zvahl_keep_ne
+
+  17440902:
+    template: Topaz_Quadav
+    level:    [50, 52]
+    region:   castle_zvahl_keep_ne
+
+  17440903:
+    template: Steel_Quadav
+    at:       [-110.534, -15.525, 73.430, 255]
+    level:    [50, 52]
+
+  17440904:
+    template: Mythril_Quadav
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [50, 52]
+
+  17440905:
+    template: Gold_Quadav
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [50, 52]
+
+  17440906:
+    template: Topaz_Quadav
+    at:       [-109.000, -15.525, 69.000, 107]
+    level:    [50, 52]
+
+  17440907:
+    template: Steel_Quadav
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [50, 52]
+
+  17440908:
+    template: Mythril_Quadav
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [50, 52]
+
+  17440909:
+    template: Gold_Quadav
+    at:       [-91.494, -15.525, 73.478, 213]
+    level:    [50, 52]
+
+  17440910:
+    template: Topaz_Quadav
+    at:       [-92.124, -15.661, 72.617, 127]
+    level:    [50, 52]
+
+  17440911:
+    template: Steel_Quadav
+    level:    [50, 52]
+    region:   castle_zvahl_keep_ne_2
+
+  17440912:
+    template: Mythril_Quadav
+    level:    [50, 52]
+    region:   castle_zvahl_keep_ne_2
+
+  17440913:
+    template: Gold_Quadav
+    level:    [50, 52]
+    region:   castle_zvahl_keep_ne_2
+
+  17440914:
+    template: Topaz_Quadav
+    level:    [50, 52]
+    region:   castle_zvahl_keep_ne_2
+
+  17440915:
+    template: Yagudo_Zealot
+    at:       [-48.290, -15.525, -151.794, 69]
+    level:    [47, 49]
+
+  17440916:
+    template: Yagudo_Conquistador
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [47, 49]
+
+  17440917:
+    template: Yagudo_Lutenist
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [47, 49]
+
+  17440918:
+    template: Yagudo_Prior
+    at:       [-52.559, -15.525, -148.285, 15]
+    level:    [47, 49]
+
+  17440919:
+    template: Yagudo_Zealot
+    level:    [47, 49]
+    region:   castle_zvahl_keep_se_4
+
+  17440920:
+    template: Yagudo_Conquistador
+    level:    [47, 49]
+    region:   castle_zvahl_keep_se_4
+
+  17440921:
+    template: Yagudo_Lutenist
+    level:    [47, 49]
+    region:   castle_zvahl_keep_se_4
+
+  17440922:
+    template: Yagudo_Prior
+    level:    [47, 49]
+    region:   castle_zvahl_keep_se_4
+
+  17440923:
+    template: Yagudo_Zealot
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [47, 49]
+
+  17440924:
+    template: Yagudo_Conquistador
+    at:       [-68.865, -15.525, -149.875, 95]
+    level:    [47, 49]
+
+  17440925:
+    template: Yagudo_Lutenist
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [47, 49]
+
+  17440926:
+    template: Yagudo_Prior
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [47, 49]
+
+  17440927:
+    template: Yagudo_Zealot
+    level:    [47, 49]
+    region:   castle_zvahl_keep_se_5
+
+  17440928:
+    template: Yagudo_Conquistador
+    level:    [47, 49]
+    region:   castle_zvahl_keep_se_5
+
+  17440929:
+    template: Yagudo_Lutenist
+    level:    [47, 49]
+    region:   castle_zvahl_keep_se_5
+
+  17440930:
+    template: Yagudo_Prior
+    level:    [47, 49]
+    region:   castle_zvahl_keep_se_5
+
+  17440931:
+    template: Yagudo_Zealot
+    at:       [-67.272, -15.525, -113.466, 2]
+    level:    [47, 49]
+
+  17440932:
+    template: Yagudo_Conquistador
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [47, 49]
+
+  17440933:
+    template: Yagudo_Lutenist
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [47, 49]
+
+  17440934:
+    template: Yagudo_Prior
+    at:       [-66.412, -15.525, -113.307, 7]
+    level:    [47, 49]
+
+  17440935:
+    template: Yagudo_Sentinel
+    level:    [50, 52]
+    region:   castle_zvahl_keep_se_3
+
+  17440936:
+    template: Yagudo_Chanter
+    level:    [50, 52]
+    region:   castle_zvahl_keep_se_3
+
+  17440937:
+    template: Yagudo_Inquisitor
+    level:    [50, 52]
+    region:   castle_zvahl_keep_se_3
+
+  17440938:
+    template: Yagudo_Abbot
+    level:    [50, 52]
+    region:   castle_zvahl_keep_se_3
+
+  17440939:
+    template: Yagudo_Sentinel
+    at:       [-93.679, -15.525, -113.187, 106]
+    level:    [50, 52]
+
+  17440940:
+    template: Yagudo_Chanter
+    at:       [-86.769, -15.544, -108.947, 61]
+    level:    [50, 52]
+
+  17440941:
+    template: Yagudo_Inquisitor
+    at:       [-87.694, -15.525, -112.331, 152]
+    level:    [50, 52]
+
+  17440942:
+    template: Yagudo_Abbot
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [50, 52]
+
+  17440943:
+    template: Yagudo_Sentinel
+    level:    [50, 52]
+    region:   castle_zvahl_keep_se_2
+
+  17440944:
+    template: Yagudo_Chanter
+    level:    [50, 52]
+    region:   castle_zvahl_keep_se_2
+
+  17440945:
+    template: Yagudo_Inquisitor
+    level:    [50, 52]
+    region:   castle_zvahl_keep_se_2
+
+  17440946:
+    template: Yagudo_Abbot
+    level:    [50, 52]
+    region:   castle_zvahl_keep_se_2
+
+  17440947:
+    template: Evil_Eye
+    level:    [46, 48]
+    region:   castle_zvahl_keep_e_5
+
+  17440948:
+    template: Evil_Eye
+    level:    [46, 48]
+    region:   castle_zvahl_keep_e_5
+
+  17440949:
+    template: Evil_Eye
+    level:    [46, 48]
+    region:   castle_zvahl_keep_e_3
+
+  17440950:
+    template: Evil_Eye
+    level:    [46, 48]
+    region:   castle_zvahl_keep_e_3
+
+  17440951:
+    template: Demon_Pawn
+    level:    [52, 55]
+    region:   castle_zvahl_keep_e_2
+
+  17440952:
+    template: Demon_Pawn
+    level:    [52, 55]
+    region:   castle_zvahl_keep_e
+
+  17440953:
+    template: Demon_Pawn
+    level:    [52, 55]
+    region:   castle_zvahl_keep_c_5
+
+  17440954:
+    template: Morbid_Eye
+    at:       [-274.000, -48.125, -21.000, 1]
+    level:    [52, 53]
+
+  17440955:
+    template: Morbid_Eye
+    at:       [-299.000, -48.184, 4.000, 37]
+    level:    [52, 53]
+
+  17440956:
+    template: Morbid_Eye
+    at:       [-296.896, -48.125, -53.381, 127]
+    level:    [52, 53]
+
+  17440957:
+    template: Morbid_Eye
+    at:       [-322.000, -48.125, -19.000, 101]
+    level:    [52, 53]
+
+  17440958:
+    template: Demon_Pawn
+    level:    [52, 55]
+    region:   castle_zvahl_keep_n
+
+  17440959:
+    template: Demon_Knight
+    level:    [52, 55]
+    region:   castle_zvahl_keep_n_2
+
+  17440960:
+    template: Demon_Warlock
+    level:    [52, 55]
+    region:   castle_zvahl_keep_n_4
+
+  17440961:
+    template: Demons_Elemental
+    level:    [45, 53]
+    region:   castle_zvahl_keep_n_4
+
+  17440962:
+    template: Demon_Wizard
+    level:    [52, 55]
+    region:   castle_zvahl_keep_n_3
+
+  17440963:
+    template: Baron_Vapula
+    at:       [-241.000, -52.000, 84.000, 127]
+    level:    [68, 68]
+
+  17440964:
+    template: Demon_Wizard
+    level:    [52, 55]
+    region:   castle_zvahl_keep_s_5
+
+  17440965:
+    template: Demon_Pawn
+    level:    [52, 55]
+    region:   castle_zvahl_keep_s_6
+
+  17440966:
+    template: Demon_Warlock
+    level:    [52, 55]
+    region:   castle_zvahl_keep_se
+
+  17440967:
+    template: Demons_Elemental
+    level:    [45, 53]
+    region:   castle_zvahl_keep_se
+
+  17440968:
+    template: Demon_Knight
+    level:    [52, 55]
+    region:   castle_zvahl_keep_s_4
+
+  17440969:
+    template: Count_Bifrons
+    at:       [-199.000, -52.000, -99.000, 127]
+    level:    [68, 68]
+
+  17440970:
+    template: Demon_Wizard
+    level:    [52, 55]
+    region:   castle_zvahl_keep_s_3
+
+  17440971:
+    template: Demon_Pawn
+    level:    [52, 55]
+    region:   castle_zvahl_keep_s_2
+
+  17440972:
+    template: Demon_Knight
+    level:    [52, 55]
+    region:   castle_zvahl_keep_sw
+
+  17440973:
+    template: Demon_Warlock
+    level:    [52, 55]
+    region:   castle_zvahl_keep_s
+
+  17440974:
+    template: Demons_Elemental
+    level:    [45, 53]
+    region:   castle_zvahl_keep_s
+
+  17440975:
+    template: Viscount_Morax
+    at:       [-380.000, -52.000, -121.000, 250]
+    level:    [68, 68]
+
+  17440976:
+    template: Demons_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [45, 53]
+
+  17440977:
+    template: Demons_Avatar
+    at:       [-22.521, 20.773, -2.683, 127]
+    level:    [42, 45]
+
+  17440978:
+    template: Demon_Pawn
+    level:    [52, 55]
+    region:   castle_zvahl_keep_c_3
+
+  17440979:
+    template: Demon_Pawn
+    level:    [52, 55]
+    region:   castle_zvahl_keep_c_3
+
+  17440980:
+    template: Demon_Pawn
+    level:    [52, 55]
+    region:   castle_zvahl_keep_c_4
+
+  17440981:
+    template: Demon_Pawn
+    level:    [52, 55]
+    region:   castle_zvahl_keep_c_4
+
+  17440982:
+    template: Demon_Pawn
+    level:    [52, 55]
+    region:   castle_zvahl_keep_c
+
+  17440983:
+    template: Demon_Pawn
+    level:    [52, 55]
+    region:   castle_zvahl_keep_c
+
+  17440984:
+    template: Demon_Pawn
+    level:    [52, 55]
+    region:   castle_zvahl_keep_c_2
+
+  17440985:
+    template: Demon_Pawn
+    level:    [52, 55]
+    region:   castle_zvahl_keep_c_2
+
+  17440986:
+    template: Baronet_Romwe
+    at:       [-340.000, -52.000, 3.000, 127]
+    level:    [68, 68]
+
+  17440987:
+    template: Deadly_Iris
+    level:    [55, 56]
+    region:   castle_zvahl_keep_w_4
+
+  17440988:
+    template: Deadly_Iris
+    level:    [55, 56]
+    region:   castle_zvahl_keep_w_4
+
+  17440989:
+    template: Demon_Pawn
+    level:    [55, 56]
+    region:   castle_zvahl_keep_nw_4
+
+  17440990:
+    template: Demon_Wizard
+    level:    [55, 56]
+    region:   castle_zvahl_keep_nw_4
+
+  17440991:
+    template: Demon_Knight
+    level:    [55, 56]
+    region:   castle_zvahl_keep_nw_4
+
+  17440992:
+    template: Demon_Warlock
+    level:    [55, 56]
+    region:   castle_zvahl_keep_nw_4
+
+  17440993:
+    template: Demons_Elemental
+    level:    [45, 53]
+    region:   castle_zvahl_keep_nw_4
+
+  17440994:
+    template: Demon_Pawn
+    level:    [55, 56]
+    region:   castle_zvahl_keep_w_3
+
+  17440995:
+    template: Demon_Wizard
+    level:    [55, 56]
+    region:   castle_zvahl_keep_w_3
+
+  17440996:
+    template: Demon_Knight
+    level:    [55, 56]
+    region:   castle_zvahl_keep_w_3
+
+  17440997:
+    template: Demon_Warlock
+    level:    [55, 56]
+    region:   castle_zvahl_keep_w_3
+
+  17440998:
+    template: Demons_Elemental
+    level:    [45, 53]
+    region:   castle_zvahl_keep_w_3
+
+  17440999:
+    template: Deadly_Iris
+    level:    [55, 56]
+    region:   castle_zvahl_keep_nw_3
+
+  17441000:
+    template: Deadly_Iris
+    level:    [55, 56]
+    region:   castle_zvahl_keep_nw_3
+
+  17441001:
+    template: Deadly_Iris
+    level:    [55, 56]
+    region:   castle_zvahl_keep_w_2
+
+  17441002:
+    template: Deadly_Iris
+    level:    [55, 56]
+    region:   castle_zvahl_keep_w_2
+
+  17441003:
+    template: Demon_Pawn
+    level:    [55, 56]
+    region:   castle_zvahl_keep_nw
+
+  17441004:
+    template: Demon_Wizard
+    level:    [55, 56]
+    region:   castle_zvahl_keep_nw
+
+  17441005:
+    template: Demon_Warlock
+    at:       [-465.705, -67.375, 68.205, 127]
+    level:    [55, 56]
+
+  17441006:
+    template: Demons_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [45, 53]
+
+  17441007:
+    template: Demon_Knight
+    level:    [55, 56]
+    region:   castle_zvahl_keep_nw_2
+
+  17441008:
+    template: Demon_Warlock
+    level:    [55, 56]
+    region:   castle_zvahl_keep_nw_2
+
+  17441009:
+    template: Demons_Elemental
+    level:    [45, 53]
+    region:   castle_zvahl_keep_nw_2
+
+  17441010:
+    template: Demon_Knight
+    level:    [55, 56]
+    region:   castle_zvahl_keep_w
+
+  17441011:
+    template: Demon_Wizard
+    level:    [55, 56]
+    region:   castle_zvahl_keep_w

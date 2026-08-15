@@ -1,0 +1,2423 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  16998401:
+    template: Wootzshell
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [72, 73]
+
+  16998402:
+    template: Arrapago_Leech
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [73, 74]
+
+  16998403:
+    template: Chimera_Clot
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [75, 76]
+
+  16998404:
+    template: Lahama
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [76, 78]
+
+  16998405:
+    template: Llamhigyn_Y_Dwr
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [76, 78]
+
+  16998406:
+    template: Giant_Orobon
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 81]
+
+  16998407:
+    template: Reserve_Draugar
+    level:    [72, 73]
+    region:   arrapago_reef_e_11
+
+  16998408:
+    template: Reserve_Draugar
+    level:    [72, 73]
+    region:   arrapago_reef_e_12
+
+  16998409:
+    template: Merrow_Chantress
+    at:       [464.402, -7.000, 70.480, 221]
+    level:    [73, 75]
+
+  16998410:
+    template: Arrapago_Apkallu
+    level:    [70, 72]
+    region:   arrapago_reef_e_13
+
+  16998411:
+    template: Arrapago_Apkallu
+    level:    [70, 72]
+    region:   arrapago_reef_e_13
+
+  16998412:
+    template: Arrapago_Apkallu
+    level:    [70, 72]
+    region:   arrapago_reef_e_13
+
+  16998413:
+    template: Arrapago_Apkallu
+    level:    [70, 72]
+    region:   arrapago_reef_e_14
+
+  16998414:
+    template: Arrapago_Apkallu
+    level:    [70, 72]
+    region:   arrapago_reef_e_14
+
+  16998415:
+    template: Arrapago_Apkallu
+    level:    [70, 72]
+    region:   arrapago_reef_e_14
+
+  16998416:
+    template: Arrapago_Apkallu
+    level:    [70, 72]
+    region:   arrapago_reef_e_14
+
+  16998417:
+    template: Arrapago_Apkallu
+    level:    [70, 72]
+    region:   arrapago_reef_e_16
+
+  16998418:
+    template: Arrapago_Apkallu
+    level:    [70, 72]
+    region:   arrapago_reef_e_15
+
+  16998419:
+    template: Arrapago_Apkallu
+    level:    [70, 72]
+    region:   arrapago_reef_e_15
+
+  16998420:
+    template: Arrapago_Apkallu
+    level:    [70, 72]
+    region:   arrapago_reef_e_15
+
+  16998421:
+    template: Lamia_Graverobber
+    at:       [578.524, -11.681, 92.020, 116]
+    level:    [73, 75]
+
+  16998422:
+    template: Reserve_Draugar
+    at:       [570.648, -9.900, 95.594, 140]
+    level:    [72, 73]
+
+  16998423:
+    template: Phasma
+    at:       [548.300, -15.790, 138.810, 17]
+    level:    [73, 74]
+
+  16998424:
+    template: Reserve_Draugar
+    level:    [72, 73]
+    region:   arrapago_reef_e_18
+
+  16998425:
+    template: Reserve_Draugar
+    at:       [578.517, -16.336, 170.692, 44]
+    level:    [72, 73]
+
+  16998426:
+    template: Lamia_Dartist
+    level:    [73, 75]
+    region:   arrapago_reef_e_17
+
+  16998427:
+    template: Lamia_Dancer
+    level:    [73, 75]
+    region:   arrapago_reef_e_17
+
+  16998428:
+    template: Lamias_Elemental
+    level:    [68, 70]
+    region:   arrapago_reef_e_17
+
+  16998429:
+    template: Reserve_Draugar
+    at:       [489.866, -8.295, 216.724, 193]
+    level:    [72, 73]
+
+  16998430:
+    template: Reserve_Draugar
+    at:       [488.244, -8.263, 219.296, 255]
+    level:    [72, 73]
+
+  16998431:
+    template: Arrapago_Apkallu
+    level:    [70, 72]
+    region:   arrapago_reef_e_9
+
+  16998432:
+    template: Arrapago_Apkallu
+    level:    [70, 72]
+    region:   arrapago_reef_e_9
+
+  16998433:
+    template: Arrapago_Apkallu
+    level:    [70, 72]
+    region:   arrapago_reef_e_10
+
+  16998434:
+    template: Arrapago_Apkallu
+    level:    [70, 72]
+    region:   arrapago_reef_e_10
+
+  16998435:
+    template: Arrapago_Apkallu
+    at:       [491.510, -3.652, 173.026, 21]
+    level:    [70, 72]
+
+  16998436:
+    template: Arrapago_Apkallu
+    at:       [483.552, -6.448, 182.237, 129]
+    level:    [70, 72]
+
+  16998437:
+    template: Merrow_Chantress
+    at:       [446.761, -7.025, 114.934, 135]
+    level:    [73, 75]
+
+  16998438:
+    template: Reserve_Draugar
+    at:       [444.331, -7.151, 113.642, 182]
+    level:    [72, 73]
+
+  16998439:
+    template: Reserve_Draugar
+    at:       [452.400, -7.033, 109.170, 129]
+    level:    [72, 73]
+
+  16998440:
+    template: Reserve_Draugar
+    at:       [449.850, -4.022, 146.264, 9]
+    level:    [72, 73]
+
+  16998441:
+    template: Draugars_Wyvern
+    at:       [1.000, 1.000, 1.000, 2]
+    level:    [67, 75]
+
+  16998442:
+    template: Jnun
+    at:       [412.283, -2.050, 142.585, 195]
+    level:    [77, 78]
+
+  16998443:
+    template: Jnun
+    at:       [426.945, -2.164, 151.652, 240]
+    level:    [77, 78]
+
+  16998444:
+    template: Reserve_Draugar
+    at:       [379.898, -3.907, 104.154, 255]
+    level:    [72, 73]
+
+  16998445:
+    template: Draugars_Wyvern
+    at:       [1.000, 1.000, 1.000, 136]
+    level:    [67, 75]
+
+  16998446:
+    template: Nipper
+    at:       [367.553, -7.752, 94.833, 254]
+    level:    [72, 73]
+
+  16998447:
+    template: Nipper
+    at:       [416.041, -4.407, 62.900, 245]
+    level:    [72, 73]
+
+  16998448:
+    template: Nipper
+    at:       [414.431, -6.126, 57.203, 97]
+    level:    [72, 73]
+
+  16998449:
+    template: Reserve_Draugar
+    at:       [416.026, -4.570, 61.856, 240]
+    level:    [72, 73]
+
+  16998450:
+    template: Reserve_Draugar
+    at:       [413.303, -4.829, 60.422, 149]
+    level:    [72, 73]
+
+  16998451:
+    template: Reserve_Draugar
+    at:       [413.749, -7.500, 50.244, 27]
+    level:    [72, 73]
+
+  16998452:
+    template: Nipper
+    at:       [389.595, -6.874, 58.002, 144]
+    level:    [72, 73]
+
+  16998453:
+    template: Nipper
+    at:       [414.330, -7.033, 52.090, 185]
+    level:    [72, 73]
+
+  16998454:
+    template: Reserve_Draugar
+    at:       [335.845, -3.940, 83.942, 31]
+    level:    [72, 73]
+
+  16998455:
+    template: Reserve_Draugar
+    at:       [337.496, -4.007, 83.863, 67]
+    level:    [72, 73]
+
+  16998456:
+    template: Reserve_Draugar
+    at:       [342.927, -8.469, 72.756, 68]
+    level:    [72, 73]
+
+  16998457:
+    template: Draugars_Wyvern
+    at:       [1.000, 1.000, 1.000, 248]
+    level:    [67, 75]
+
+  16998458:
+    template: Reserve_Draugar
+    at:       [340.365, -7.802, 59.806, 85]
+    level:    [72, 73]
+
+  16998459:
+    template: Reserve_Draugar
+    at:       [331.126, -4.645, 68.510, 134]
+    level:    [72, 73]
+
+  16998460:
+    template: Lamia_Graverobber
+    at:       [333.047, -4.693, 66.705, 72]
+    level:    [73, 75]
+
+  16998461:
+    template: Reserve_Draugar
+    level:    [72, 73]
+    region:   arrapago_reef_e_7
+
+  16998462:
+    template: Reserve_Draugar
+    level:    [72, 73]
+    region:   arrapago_reef_e_7
+
+  16998463:
+    template: Lamia_Fatedealer
+    level:    [73, 75]
+    region:   arrapago_reef_e_7
+
+  16998464:
+    template: Reserve_Draugar
+    level:    [72, 73]
+    region:   arrapago_reef_e_8
+
+  16998465:
+    template: Reserve_Draugar
+    level:    [72, 73]
+    region:   arrapago_reef_e_8
+
+  16998466:
+    template: Qutrub
+    at:       [175.354, -4.453, 194.553, 200]
+    level:    [73, 74]
+
+  16998467:
+    template: Qutrub
+    at:       [166.579, -4.275, 183.503, 69]
+    level:    [73, 74]
+
+  16998468:
+    template: Qutrub
+    at:       [180.858, -6.612, 206.617, 9]
+    level:    [73, 74]
+
+  16998469:
+    template: Lamia_Graverobber
+    level:    [73, 75]
+    region:   arrapago_reef_c_15
+
+  16998470:
+    template: Qutrub
+    level:    [73, 74]
+    region:   arrapago_reef_c_15
+
+  16998471:
+    template: Qutrub
+    level:    [73, 74]
+    region:   arrapago_reef_c_15
+
+  16998472:
+    template: Qutrub
+    level:    [73, 74]
+    region:   arrapago_reef_c_14
+
+  16998473:
+    template: Qutrub
+    level:    [73, 74]
+    region:   arrapago_reef_c_14
+
+  16998474:
+    template: Qutrub
+    level:    [73, 74]
+    region:   arrapago_reef_c_14
+
+  16998475:
+    template: Lamia_Dartist
+    level:    [73, 75]
+    region:   arrapago_reef_c_12
+
+  16998476:
+    template: Qutrub
+    level:    [73, 74]
+    region:   arrapago_reef_c_12
+
+  16998477:
+    template: Qutrub
+    level:    [73, 74]
+    region:   arrapago_reef_c_12
+
+  16998478:
+    template: Qutrub
+    level:    [73, 74]
+    region:   arrapago_reef_c_12
+
+  16998479:
+    template: Qutrub
+    at:       [96.077, -5.962, 177.590, 231]
+    level:    [73, 74]
+
+  16998480:
+    template: Qutrub
+    at:       [97.576, -7.186, 172.472, 217]
+    level:    [73, 74]
+
+  16998481:
+    template: Lamie_No8
+    at:       [144.706, -2.687, 136.081, 85]
+    level:    [80, 82]
+
+  16998482:
+    template: Qutrub
+    level:    [73, 74]
+    region:   arrapago_reef_c_11
+
+  16998483:
+    template: Qutrub
+    level:    [73, 74]
+    region:   arrapago_reef_c_11
+
+  16998484:
+    template: Ashakku
+    level:    [73, 74]
+    region:   arrapago_reef_c_9
+
+  16998485:
+    template: Ashakku
+    level:    [73, 74]
+    region:   arrapago_reef_c_9
+
+  16998486:
+    template: Lahama
+    level:    [76, 78]
+    region:   arrapago_reef_c_9
+
+  16998487:
+    template: Ashakku
+    level:    [73, 74]
+    region:   arrapago_reef_c_7
+
+  16998488:
+    template: Ashakku
+    level:    [73, 74]
+    region:   arrapago_reef_c_7
+
+  16998489:
+    template: Ashakku
+    level:    [73, 74]
+    region:   arrapago_reef_c_7
+
+  16998490:
+    template: Lahama
+    level:    [76, 78]
+    region:   arrapago_reef_c_7
+
+  16998491:
+    template: Purgatory_Bat
+    at:       [59.817, -8.229, 120.056, 67]
+    level:    [72, 73]
+
+  16998492:
+    template: Purgatory_Bat
+    at:       [59.365, -8.243, 116.521, 191]
+    level:    [72, 73]
+
+  16998493:
+    template: Qutrub
+    level:    [73, 74]
+    region:   arrapago_reef_c_8
+
+  16998494:
+    template: Qutrub
+    level:    [73, 74]
+    region:   arrapago_reef_c_8
+
+  16998495:
+    template: Purgatory_Bat
+    at:       [-59.732, -15.900, 150.619, 157]
+    level:    [72, 73]
+
+  16998496:
+    template: Purgatory_Bat
+    at:       [-69.916, -16.064, 150.846, 235]
+    level:    [72, 73]
+
+  16998497:
+    template: Lamia_Fatedealer
+    level:    [73, 75]
+    region:   arrapago_reef_c_4
+
+  16998498:
+    template: Lamia_Fatedealer
+    level:    [73, 75]
+    region:   arrapago_reef_c_4
+
+  16998499:
+    template: Qiqirn_Treasure_Hunter
+    level:    [77, 77]
+    region:   arrapago_reef_c_5
+
+  16998500:
+    template: Qiqirn_Mine
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 75]
+
+  16998501:
+    template: Qiqirn_Trailer
+    level:    [77, 77]
+    region:   arrapago_reef_c_5
+
+  16998502:
+    template: Heraldic_Imp
+    level:    [72, 74]
+    region:   arrapago_reef_n_11
+
+  16998503:
+    template: Heraldic_Imp
+    level:    [72, 74]
+    region:   arrapago_reef_n_11
+
+  16998504:
+    template: Heraldic_Imp
+    level:    [72, 74]
+    region:   arrapago_reef_n_11
+
+  16998505:
+    template: Heraldic_Imp
+    level:    [72, 74]
+    region:   arrapago_reef_n_11
+
+  16998506:
+    template: Ashakku
+    level:    [73, 74]
+    region:   arrapago_reef_n_9
+
+  16998507:
+    template: Ashakku
+    level:    [73, 74]
+    region:   arrapago_reef_n_9
+
+  16998508:
+    template: Ashakku
+    level:    [73, 74]
+    region:   arrapago_reef_n_9
+
+  16998509:
+    template: Ashakku
+    level:    [73, 74]
+    region:   arrapago_reef_n_6
+
+  16998510:
+    template: Ashakku
+    level:    [73, 74]
+    region:   arrapago_reef_n_6
+
+  16998511:
+    template: Ashakku
+    level:    [73, 74]
+    region:   arrapago_reef_n_6
+
+  16998512:
+    template: Qutrub
+    level:    [73, 74]
+    region:   arrapago_reef_n_6
+
+  16998513:
+    template: Qutrub
+    level:    [73, 74]
+    region:   arrapago_reef_c_3
+
+  16998514:
+    template: Qutrub
+    level:    [73, 74]
+    region:   arrapago_reef_c_3
+
+  16998515:
+    template: Qutrub
+    level:    [73, 74]
+    region:   arrapago_reef_c
+
+  16998516:
+    template: Qutrub
+    level:    [73, 74]
+    region:   arrapago_reef_c
+
+  16998517:
+    template: Qutrub
+    level:    [73, 74]
+    region:   arrapago_reef_c
+
+  16998518:
+    template: Lamia_Dancer
+    level:    [73, 75]
+    region:   arrapago_reef_c
+
+  16998519:
+    template: Lamias_Elemental
+    level:    [68, 70]
+    region:   arrapago_reef_c
+
+  16998520:
+    template: Lamie_No7
+    at:       [-146.615, -3.912, 186.245, 125]
+    level:    [80, 82]
+
+  16998521:
+    template: Reserve_Draugar
+    at:       [-21.870, -7.000, 301.769, 49]
+    level:    [72, 73]
+
+  16998522:
+    template: Merrow_Chantress
+    at:       [-15.137, -9.758, 315.406, 121]
+    level:    [73, 75]
+
+  16998523:
+    template: Nipper
+    level:    [72, 73]
+    region:   arrapago_reef_ne_6
+
+  16998524:
+    template: Reserve_Draugar
+    at:       [380.910, -6.613, 241.675, 99]
+    level:    [72, 73]
+
+  16998525:
+    template: Nipper
+    level:    [72, 73]
+    region:   arrapago_reef_ne_8
+
+  16998526:
+    template: Reserve_Draugar
+    level:    [72, 73]
+    region:   arrapago_reef_ne_8
+
+  16998527:
+    template: Reserve_Draugar
+    level:    [72, 73]
+    region:   arrapago_reef_ne_10
+
+  16998528:
+    template: Merrow_Shadowdancer
+    level:    [73, 75]
+    region:   arrapago_reef_ne_10
+
+  16998529:
+    template: Merrow_Icedancer
+    level:    [73, 74]
+    region:   arrapago_reef_ne_15
+
+  16998530:
+    template: Reserve_Draugar
+    level:    [72, 73]
+    region:   arrapago_reef_ne_15
+
+  16998531:
+    template: Reserve_Draugar
+    level:    [72, 73]
+    region:   arrapago_reef_ne_19
+
+  16998532:
+    template: Merrow_Shadowdancer
+    at:       [23.431, -4.753, 303.952, 9]
+    level:    [73, 75]
+
+  16998533:
+    template: Merrow_Kabukidancer
+    at:       [48.413, -3.709, 311.738, 149]
+    level:    [73, 75]
+
+  16998534:
+    template: Reserve_Draugar
+    at:       [54.902, -2.338, 295.513, 154]
+    level:    [72, 73]
+
+  16998535:
+    template: Draugars_Wyvern
+    at:       [1.000, 1.000, 1.000, 139]
+    level:    [67, 75]
+
+  16998536:
+    template: Merrow_Kabukidancer
+    at:       [-14.500, -3.220, 341.368, 210]
+    level:    [73, 75]
+
+  16998537:
+    template: Merrow_Icedancer
+    at:       [-64.128, -4.176, 333.745, 39]
+    level:    [73, 75]
+
+  16998538:
+    template: Reserve_Draugar
+    level:    [72, 73]
+    region:   arrapago_reef_n_7
+
+  16998539:
+    template: Reserve_Draugar
+    level:    [72, 73]
+    region:   arrapago_reef_n_7
+
+  16998540:
+    template: Reserve_Draugar
+    level:    [72, 73]
+    region:   arrapago_reef_n_7
+
+  16998541:
+    template: Draugars_Wyvern
+    level:    [67, 75]
+    region:   arrapago_reef_n_7
+
+  16998542:
+    template: Merrow_Icedancer
+    level:    [73, 75]
+    region:   arrapago_reef_n_7
+
+  16998543:
+    template: Reserve_Draugar
+    level:    [72, 73]
+    region:   arrapago_reef_n_2
+
+  16998544:
+    template: Reserve_Draugar
+    level:    [72, 73]
+    region:   arrapago_reef_n_2
+
+  16998545:
+    template: Reserve_Draugar
+    level:    [72, 73]
+    region:   arrapago_reef_n_2
+
+  16998546:
+    template: Reserve_Draugar
+    level:    [72, 73]
+    region:   arrapago_reef_n_4
+
+  16998547:
+    template: Jnun
+    at:       [-135.643, -5.825, 376.026, 43]
+    level:    [77, 78]
+
+  16998548:
+    template: Merrow_Chantress
+    at:       [-156.152, -9.749, 409.965, 177]
+    level:    [73, 75]
+
+  16998549:
+    template: Phasma
+    level:    [73, 74]
+    region:   arrapago_reef_n
+
+  16998550:
+    template: Bhoot
+    at:       [-157.674, -5.093, 364.663, 29]
+    level:    [80, 82]
+
+  16998551:
+    template: Phasma
+    level:    [73, 74]
+    region:   arrapago_reef_n_3
+
+  16998552:
+    template: Merrow_Shadowdancer
+    at:       [-101.676, -4.227, 425.811, 216]
+    level:    [73, 75]
+
+  16998553:
+    template: Reserve_Draugar
+    at:       [-106.043, -3.982, 419.083, 221]
+    level:    [72, 73]
+
+  16998554:
+    template: Jnun
+    at:       [-69.108, -2.019, 458.504, 146]
+    level:    [77, 78]
+
+  16998555:
+    template: Ashakku
+    at:       [-33.804, -4.253, 496.581, 24]
+    level:    [73, 74]
+
+  16998556:
+    template: Ashakku
+    level:    [73, 74]
+    region:   arrapago_reef_n_8
+
+  16998557:
+    template: Ashakku
+    level:    [73, 74]
+    region:   arrapago_reef_n_5
+
+  16998558:
+    template: Ashakku
+    level:    [73, 74]
+    region:   arrapago_reef_n_5
+
+  16998559:
+    template: Phasma
+    level:    [73, 74]
+    region:   arrapago_reef_n_5
+
+  16998560:
+    template: Merrow_No5
+    level:    [80, 82]
+    region:   arrapago_reef_n_5
+
+  16998561:
+    template: Heraldic_Imp
+    level:    [72, 74]
+    region:   arrapago_reef_n_10
+
+  16998562:
+    template: Heraldic_Imp
+    level:    [72, 74]
+    region:   arrapago_reef_n_10
+
+  16998563:
+    template: Heraldic_Imp
+    level:    [72, 74]
+    region:   arrapago_reef_n_10
+
+  16998564:
+    template: Phasma
+    level:    [73, 74]
+    region:   arrapago_reef_w_19
+
+  16998565:
+    template: Jnun
+    at:       [-272.921, -3.784, 153.575, 160]
+    level:    [77, 78]
+
+  16998566:
+    template: Jnun
+    at:       [-264.514, -2.322, 133.911, 32]
+    level:    [77, 78]
+
+  16998567:
+    template: Fallen_Volunteer
+    level:    [72, 74]
+    region:   arrapago_reef_w_18
+
+  16998568:
+    template: Fallen_Imperial_Wizard
+    level:    [72, 74]
+    region:   arrapago_reef_w_18
+
+  16998569:
+    template: Fallen_Imperial_Trooper
+    level:    [72, 74]
+    region:   arrapago_reef_w_18
+
+  16998570:
+    template: Merrow_Chantress
+    at:       [-299.718, -5.885, 41.159, 219]
+    level:    [73, 75]
+
+  16998571:
+    template: Fallen_Imperial_Trooper
+    level:    [72, 74]
+    region:   arrapago_reef_w_17
+
+  16998572:
+    template: Fallen_Volunteer
+    level:    [72, 74]
+    region:   arrapago_reef_w_17
+
+  16998573:
+    template: Fallen_Imperial_Wizard
+    at:       [-298.459, -8.152, 48.920, 200]
+    level:    [72, 74]
+
+  16998574:
+    template: Merrow_Chantress
+    at:       [-339.724, -15.920, -19.294, 168]
+    level:    [73, 75]
+
+  16998575:
+    template: Fallen_Imperial_Trooper
+    level:    [72, 74]
+    region:   arrapago_reef_w_15
+
+  16998576:
+    template: Fallen_Imperial_Trooper
+    at:       [-336.092, -15.543, 13.891, 35]
+    level:    [72, 74]
+
+  16998577:
+    template: Fallen_Volunteer
+    at:       [-338.811, -15.606, 13.444, 0]
+    level:    [72, 74]
+
+  16998578:
+    template: Jnun
+    at:       [-369.107, -5.278, 88.784, 130]
+    level:    [77, 78]
+
+  16998579:
+    template: Merrow_Chantress
+    at:       [-415.250, -7.011, 105.964, 206]
+    level:    [73, 75]
+
+  16998580:
+    template: Fallen_Volunteer
+    at:       [-412.762, -8.312, 111.995, 199]
+    level:    [72, 74]
+
+  16998581:
+    template: Fallen_Imperial_Wizard
+    at:       [-421.265, -6.882, 103.021, 92]
+    level:    [72, 74]
+
+  16998582:
+    template: Merrow_Kabukidancer
+    at:       [-431.939, -7.597, 16.595, 91]
+    level:    [73, 75]
+
+  16998583:
+    template: Fallen_Imperial_Wizard
+    at:       [-422.703, -4.545, 36.309, 216]
+    level:    [72, 74]
+
+  16998584:
+    template: Fallen_Imperial_Trooper
+    at:       [-417.099, -6.852, 39.106, 235]
+    level:    [72, 74]
+
+  16998585:
+    template: Merrow_Shadowdancer
+    level:    [73, 75]
+    region:   arrapago_reef_w_12
+
+  16998586:
+    template: Fallen_Imperial_Trooper
+    level:    [72, 74]
+    region:   arrapago_reef_w_12
+
+  16998587:
+    template: Fallen_Imperial_Wizard
+    level:    [72, 74]
+    region:   arrapago_reef_w_12
+
+  16998588:
+    template: Fallen_Volunteer
+    at:       [-480.056, -6.943, -20.272, 175]
+    level:    [72, 74]
+
+  16998589:
+    template: Fallen_Imperial_Wizard
+    at:       [-478.474, -8.294, -24.249, 127]
+    level:    [72, 74]
+
+  16998590:
+    template: Merrow_Shadowdancer
+    level:    [73, 75]
+    region:   arrapago_reef_w_4
+
+  16998591:
+    template: Fallen_Imperial_Wizard
+    level:    [72, 74]
+    region:   arrapago_reef_w_4
+
+  16998592:
+    template: Fallen_Imperial_Trooper
+    level:    [72, 74]
+    region:   arrapago_reef_w_4
+
+  16998593:
+    template: Fallen_Imperial_Trooper
+    level:    [72, 74]
+    region:   arrapago_reef_w_4
+
+  16998594:
+    template: Jnun
+    at:       [-488.007, -5.158, 85.171, 35]
+    level:    [77, 78]
+
+  16998595:
+    template: Merrow_Icedancer
+    level:    [73, 75]
+    region:   arrapago_reef_w_9
+
+  16998596:
+    template: Fallen_Volunteer
+    level:    [72, 74]
+    region:   arrapago_reef_w_9
+
+  16998597:
+    template: Fallen_Imperial_Wizard
+    level:    [72, 74]
+    region:   arrapago_reef_w_9
+
+  16998598:
+    template: Fallen_Imperial_Trooper
+    level:    [72, 74]
+    region:   arrapago_reef_w_9
+
+  16998599:
+    template: Merrow_Chantress
+    level:    [73, 75]
+    region:   arrapago_reef_w_6
+
+  16998600:
+    template: Merrow_Chantress
+    level:    [73, 75]
+    region:   arrapago_reef_w_5
+
+  16998601:
+    template: Fallen_Volunteer
+    at:       [-587.679, -15.923, 225.450, 149]
+    level:    [72, 74]
+
+  16998602:
+    template: Naraka_Bat
+    level:    [88, 89]
+    region:   arrapago_reef_e_5
+
+  16998603:
+    template: Naraka_Bat
+    level:    [88, 89]
+    region:   arrapago_reef_e_5
+
+  16998604:
+    template: Naraka_Bat
+    level:    [88, 89]
+    region:   arrapago_reef_e_5
+
+  16998605:
+    template: Naraka_Bat
+    level:    [88, 89]
+    region:   arrapago_reef_e_5
+
+  16998606:
+    template: Naraka_Bat
+    level:    [88, 89]
+    region:   arrapago_reef_e_3
+
+  16998607:
+    template: Naraka_Bat
+    level:    [88, 89]
+    region:   arrapago_reef_e_3
+
+  16998608:
+    template: Naraka_Bat
+    level:    [88, 89]
+    region:   arrapago_reef_e_3
+
+  16998609:
+    template: Naraka_Bat
+    level:    [88, 89]
+    region:   arrapago_reef_e_6
+
+  16998610:
+    template: Naraka_Bat
+    level:    [88, 89]
+    region:   arrapago_reef_e_6
+
+  16998611:
+    template: Naraka_Bat
+    level:    [88, 89]
+    region:   arrapago_reef_e_4
+
+  16998612:
+    template: Naraka_Bat
+    level:    [88, 89]
+    region:   arrapago_reef_e_4
+
+  16998613:
+    template: Naraka_Bat
+    level:    [88, 89]
+    region:   arrapago_reef_e_2
+
+  16998614:
+    template: Naraka_Bat
+    level:    [88, 89]
+    region:   arrapago_reef_e_2
+
+  16998615:
+    template: Naraka_Bat
+    level:    [88, 89]
+    region:   arrapago_reef_e
+
+  16998616:
+    template: Naraka_Bat
+    level:    [88, 89]
+    region:   arrapago_reef_e
+
+  16998617:
+    template: Naraka_Bat
+    level:    [88, 89]
+    region:   arrapago_reef_e
+
+  16998618:
+    template: Nirgali
+    level:    [87, 89]
+    region:   arrapago_reef_w
+
+  16998619:
+    template: Nirgali
+    level:    [87, 89]
+    region:   arrapago_reef_w
+
+  16998620:
+    template: Nirgali
+    level:    [87, 89]
+    region:   arrapago_reef_w
+
+  16998621:
+    template: Nirgali
+    level:    [87, 89]
+    region:   arrapago_reef_w_2
+
+  16998622:
+    template: Nirgali
+    level:    [87, 89]
+    region:   arrapago_reef_w_2
+
+  16998623:
+    template: Nirgali
+    level:    [87, 89]
+    region:   arrapago_reef_w_2
+
+  16998624:
+    template: Nirgali
+    level:    [87, 89]
+    region:   arrapago_reef_w_8
+
+  16998625:
+    template: Nirgali
+    level:    [87, 89]
+    region:   arrapago_reef_w_8
+
+  16998626:
+    template: Nirgali
+    level:    [87, 89]
+    region:   arrapago_reef_w_8
+
+  16998627:
+    template: Nirgali
+    level:    [87, 89]
+    region:   arrapago_reef_w_7
+
+  16998628:
+    template: Nirgali
+    level:    [87, 89]
+    region:   arrapago_reef_w_7
+
+  16998629:
+    template: Nirgali
+    level:    [87, 89]
+    region:   arrapago_reef_w_7
+
+  16998630:
+    template: Nirgali
+    level:    [87, 89]
+    region:   arrapago_reef_w_3
+
+  16998631:
+    template: Nirgali
+    level:    [87, 89]
+    region:   arrapago_reef_w_3
+
+  16998632:
+    template: Nirgali
+    level:    [87, 89]
+    region:   arrapago_reef_w_3
+
+  16998633:
+    template: Nirgali
+    level:    [87, 89]
+    region:   arrapago_reef_w_4
+
+  16998634:
+    template: Nirgali
+    level:    [87, 89]
+    region:   arrapago_reef_w_4
+
+  16998635:
+    template: Nirgali
+    level:    [87, 89]
+    region:   arrapago_reef_w_4
+
+  16998636:
+    template: Lamia_Bellydancer
+    at:       [-14.836, -2.132, 426.619, 132]
+    level:    [81, 83]
+
+  16998637:
+    template: Lamias_Elemental
+    at:       [-10.923, -1.673, 421.162, 6]
+    level:    [76, 78]
+
+  16998638:
+    template: Draugar_Servant
+    at:       [-23.721, -2.099, 429.445, 203]
+    level:    [79, 81]
+
+  16998639:
+    template: Soulflayer
+    level:    [82, 83]
+    region:   arrapago_reef_n_12
+
+  16998640:
+    template: Soulflayer
+    level:    [82, 83]
+    region:   arrapago_reef_n_13
+
+  16998641:
+    template: Soulflayer
+    level:    [82, 83]
+    region:   arrapago_reef_n_14
+
+  16998642:
+    template: Soulflayer
+    at:       [99.388, -7.961, 494.575, 59]
+    level:    [82, 83]
+
+  16998643:
+    template: Soulflayer
+    at:       [96.645, -7.979, 495.247, 114]
+    level:    [82, 83]
+
+  16998644:
+    template: Soulflayer
+    level:    [82, 83]
+    region:   arrapago_reef_n_17
+
+  16998645:
+    template: Lahama
+    level:    [79, 80]
+    region:   arrapago_reef_n_16
+
+  16998646:
+    template: Draugar_Servant
+    level:    [79, 81]
+    region:   arrapago_reef_n_16
+
+  16998647:
+    template: Lahama
+    level:    [79, 80]
+    region:   arrapago_reef_n_15
+
+  16998648:
+    template: Draugar_Servant
+    level:    [79, 81]
+    region:   arrapago_reef_n_15
+
+  16998649:
+    template: Draugars_Wyvern
+    level:    [67, 75]
+    region:   arrapago_reef_n_15
+
+  16998650:
+    template: Lahama
+    level:    [79, 80]
+    region:   arrapago_reef_n_19
+
+  16998651:
+    template: Lahama
+    level:    [79, 80]
+    region:   arrapago_reef_n_19
+
+  16998652:
+    template: Lamia_Deathdancer
+    level:    [81, 83]
+    region:   arrapago_reef_n_20
+
+  16998653:
+    template: Draugar_Servant
+    level:    [79, 81]
+    region:   arrapago_reef_n_20
+
+  16998654:
+    template: Draugar_Servant
+    level:    [79, 81]
+    region:   arrapago_reef_n_20
+
+  16998655:
+    template: Bloody_Bones
+    level:    [83, 83]
+    region:   arrapago_reef_n_20
+
+  16998656:
+    template: Bhoot
+    at:       [107.258, -2.060, 258.006, 170]
+    level:    [80, 82]
+
+  16998657:
+    template: Phasma
+    level:    [73, 74]
+    region:   arrapago_reef_n_18
+
+  16998658:
+    template: Phasma
+    level:    [73, 74]
+    region:   arrapago_reef_n_21
+
+  16998659:
+    template: Draugar_Servant
+    at:       [150.777, -6.003, 259.533, 65]
+    level:    [79, 81]
+
+  16998660:
+    template: Draugars_Wyvern
+    at:       [1.000, 1.000, 1.000, 83]
+    level:    [67, 75]
+
+  16998661:
+    template: Merrow_Songstress
+    at:       [185.787, -7.755, 288.889, 158]
+    level:    [81, 83]
+
+  16998662:
+    template: Draugar_Servant
+    at:       [184.278, -7.011, 295.976, 194]
+    level:    [79, 81]
+
+  16998663:
+    template: Merrow_Bladedancer
+    at:       [203.712, -11.008, 280.946, 25]
+    level:    [81, 83]
+
+  16998664:
+    template: Ice_Elemental
+    at:       [279.450, -5.931, 341.207, 221]
+    level:    [80, 80]
+
+  16998665:
+    template: Draugar_Servant
+    at:       [228.061, -2.306, 302.545, 59]
+    level:    [79, 81]
+
+  16998666:
+    template: Lahama
+    level:    [79, 80]
+    region:   arrapago_reef_ne
+
+  16998667:
+    template: Nipper
+    level:    [72, 73]
+    region:   arrapago_reef_ne
+
+  16998668:
+    template: Nipper
+    level:    [72, 73]
+    region:   arrapago_reef_ne
+
+  16998669:
+    template: Nostokulshedra
+    level:    [88, 89]
+    region:   arrapago_reef_ne_2
+
+  16998670:
+    template: Nostokulshedra
+    level:    [88, 89]
+    region:   arrapago_reef_ne_2
+
+  16998671:
+    template: Nostokulshedra
+    level:    [88, 89]
+    region:   arrapago_reef_ne_2
+
+  16998672:
+    template: Nostokulshedra
+    level:    [88, 89]
+    region:   arrapago_reef_ne_2
+
+  16998673:
+    template: Nipper
+    level:    [72, 73]
+    region:   arrapago_reef_ne_3
+
+  16998674:
+    template: Nipper
+    level:    [72, 73]
+    region:   arrapago_reef_ne_3
+
+  16998675:
+    template: Soulflayer
+    level:    [82, 83]
+    region:   arrapago_reef_ne_3
+
+  16998676:
+    template: Nostokulshedra
+    level:    [88, 89]
+    region:   arrapago_reef_ne_4
+
+  16998677:
+    template: Nostokulshedra
+    level:    [88, 89]
+    region:   arrapago_reef_ne_4
+
+  16998678:
+    template: Nostokulshedra
+    level:    [88, 89]
+    region:   arrapago_reef_ne_4
+
+  16998679:
+    template: Nostokulshedra
+    level:    [88, 89]
+    region:   arrapago_reef_ne_4
+
+  16998680:
+    template: Nostokulshedra
+    level:    [88, 89]
+    region:   arrapago_reef_ne_5
+
+  16998681:
+    template: Nostokulshedra
+    level:    [88, 89]
+    region:   arrapago_reef_ne_5
+
+  16998682:
+    template: Nostokulshedra
+    level:    [88, 89]
+    region:   arrapago_reef_ne_5
+
+  16998683:
+    template: Nostokulshedra
+    level:    [88, 89]
+    region:   arrapago_reef_ne_5
+
+  16998684:
+    template: Merrow_Wavedancer
+    at:       [399.311, -9.675, 409.513, 30]
+    level:    [81, 83]
+
+  16998685:
+    template: Merrow_Songstress
+    at:       [388.981, -6.999, 412.720, 124]
+    level:    [81, 83]
+
+  16998686:
+    template: Draugar_Servant
+    at:       [390.568, -7.000, 415.169, 190]
+    level:    [79, 81]
+
+  16998687:
+    template: Jnun
+    level:    [79, 80]
+    region:   arrapago_reef_ne_7
+
+  16998688:
+    template: Jnun
+    level:    [79, 80]
+    region:   arrapago_reef_ne_9
+
+  16998689:
+    template: Lamia_Idolater
+    level:    [80, 82]
+    region:   arrapago_reef_ne_9
+
+  16998690:
+    template: Lamia_Idolater
+    level:    [80, 82]
+    region:   arrapago_reef_ne_9
+
+  16998691:
+    template: Lamia_Necromancer
+    level:    [81, 83]
+    region:   arrapago_reef_ne_11
+
+  16998692:
+    template: Lamia_Idolater
+    level:    [80, 82]
+    region:   arrapago_reef_ne_11
+
+  16998693:
+    template: Lamia_Idolater
+    level:    [80, 82]
+    region:   arrapago_reef_ne_11
+
+  16998694:
+    template: Lamia_Idolater
+    level:    [80, 82]
+    region:   arrapago_reef_ne_12
+
+  16998695:
+    template: Lamia_Idolater
+    level:    [80, 82]
+    region:   arrapago_reef_ne_12
+
+  16998696:
+    template: Euryale
+    level:    [87, 87]
+    region:   arrapago_reef_ne_12
+
+  16998697:
+    template: Lamia_Toxophilite
+    level:    [81, 83]
+    region:   arrapago_reef_ne_13
+
+  16998698:
+    template: Lamia_Idolater
+    level:    [80, 82]
+    region:   arrapago_reef_ne_13
+
+  16998699:
+    template: Lamia_Idolater
+    level:    [80, 82]
+    region:   arrapago_reef_ne_13
+
+  16998700:
+    template: Lamia_Idolater
+    level:    [80, 82]
+    region:   arrapago_reef_ne_17
+
+  16998701:
+    template: Lamia_Idolater
+    level:    [80, 82]
+    region:   arrapago_reef_ne_17
+
+  16998702:
+    template: Lamia_Idolater
+    level:    [80, 82]
+    region:   arrapago_reef_ne_18
+
+  16998703:
+    template: Lamia_Toxophilite
+    at:       [612.876, -7.516, 420.208, 132]
+    level:    [81, 83]
+
+  16998704:
+    template: Seneschal_Imp
+    level:    [77, 78]
+    region:   arrapago_reef_ne_14
+
+  16998705:
+    template: Seneschal_Imp
+    level:    [77, 78]
+    region:   arrapago_reef_ne_14
+
+  16998706:
+    template: Phasma
+    at:       [542.821, -7.383, 500.978, 29]
+    level:    [73, 74]
+
+  16998707:
+    template: Phasma
+    at:       [542.961, -7.376, 499.831, 220]
+    level:    [73, 74]
+
+  16998708:
+    template: Bhoot
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [80, 82]
+
+  16998709:
+    template: Lamia_Idolater
+    level:    [80, 82]
+    region:   arrapago_reef_ne_16
+
+  16998710:
+    template: Merrow_Typhoondancer
+    level:    [81, 83]
+    region:   arrapago_reef_w_11
+
+  16998711:
+    template: Merrow_Songstress
+    level:    [81, 83]
+    region:   arrapago_reef_w_10
+
+  16998712:
+    template: Draugar_Servant
+    at:       [-468.697, -7.000, 213.653, 59]
+    level:    [79, 81]
+
+  16998713:
+    template: Jnun
+    level:    [79, 80]
+    region:   arrapago_reef_nw_11
+
+  16998714:
+    template: Jnun
+    level:    [79, 80]
+    region:   arrapago_reef_nw_11
+
+  16998715:
+    template: Jnun
+    level:    [79, 80]
+    region:   arrapago_reef_nw_10
+
+  16998716:
+    template: Jnun
+    level:    [79, 80]
+    region:   arrapago_reef_nw_9
+
+  16998717:
+    template: Seneschal_Imp
+    level:    [77, 78]
+    region:   arrapago_reef_nw_7
+
+  16998718:
+    template: Seneschal_Imp
+    level:    [77, 78]
+    region:   arrapago_reef_nw_7
+
+  16998719:
+    template: Emperor_Apkallu
+    level:    [81, 83]
+    region:   arrapago_reef_nw_6
+
+  16998720:
+    template: Emperor_Apkallu
+    level:    [81, 83]
+    region:   arrapago_reef_nw_6
+
+  16998721:
+    template: Emperor_Apkallu
+    level:    [81, 83]
+    region:   arrapago_reef_nw_4
+
+  16998722:
+    template: Emperor_Apkallu
+    level:    [81, 83]
+    region:   arrapago_reef_nw_4
+
+  16998723:
+    template: Emperor_Apkallu
+    level:    [81, 83]
+    region:   arrapago_reef_nw_2
+
+  16998724:
+    template: Emperor_Apkallu
+    level:    [81, 83]
+    region:   arrapago_reef_nw_2
+
+  16998725:
+    template: Emperor_Apkallu
+    level:    [81, 83]
+    region:   arrapago_reef_nw_2
+
+  16998726:
+    template: Emperor_Apkallu
+    level:    [81, 83]
+    region:   arrapago_reef_nw
+
+  16998727:
+    template: Emperor_Apkallu
+    level:    [81, 83]
+    region:   arrapago_reef_nw
+
+  16998728:
+    template: Emperor_Apkallu
+    level:    [81, 83]
+    region:   arrapago_reef_nw_3
+
+  16998729:
+    template: Emperor_Apkallu
+    level:    [81, 83]
+    region:   arrapago_reef_nw_3
+
+  16998730:
+    template: Emperor_Apkallu
+    level:    [81, 83]
+    region:   arrapago_reef_nw_5
+
+  16998731:
+    template: Emperor_Apkallu
+    level:    [81, 83]
+    region:   arrapago_reef_nw_5
+
+  16998732:
+    template: Emperor_Apkallu
+    level:    [81, 83]
+    region:   arrapago_reef_nw_5
+
+  16998733:
+    template: Nix_Songstress
+    at:       [-286.216, -10.000, 282.547, 31]
+    level:    [81, 83]
+
+  16998734:
+    template: Nix_Songstress
+    at:       [-284.578, -10.000, 283.936, 83]
+    level:    [81, 83]
+
+  16998735:
+    template: Merrow_Typhoondancer
+    at:       [-295.847, -7.008, 301.477, 167]
+    level:    [81, 83]
+
+  16998736:
+    template: Merrow_Bladedancer
+    at:       [-343.062, -2.162, 338.935, 30]
+    level:    [81, 83]
+
+  16998737:
+    template: Merrow_Wavedancer
+    at:       [-367.927, -6.069, 379.936, 161]
+    level:    [81, 83]
+
+  16998738:
+    template: Merrow_Typhoondancer
+    at:       [-367.189, -4.933, 373.970, 137]
+    level:    [81, 83]
+
+  16998739:
+    template: Merrow_Wavedancer
+    at:       [-334.357, -4.029, 392.697, 1]
+    level:    [81, 83]
+
+  16998740:
+    template: Ice_Elemental
+    at:       [-255.400, -2.105, 383.062, 199]
+    level:    [80, 80]
+
+  16998741:
+    template: Dark_Elemental
+    at:       [-264.843, -2.823, 385.519, 29]
+    level:    [80, 80]
+
+  16998742:
+    template: Lamie_No9
+    at:       [-228.367, -4.690, 342.671, 55]
+    level:    [80, 85]
+
+  16998743:
+    template: Lamias_Avatar
+    at:       [1.000, 1.000, 1.000, 62]
+    level:    [72, 76]
+
+  16998744:
+    template: Dweomershell
+    level:    [88, 89]
+    region:   arrapago_reef_nw_8
+
+  16998745:
+    template: Dweomershell
+    level:    [89, 90]
+    region:   arrapago_reef_nw_8
+
+  16998746:
+    template: Dweomershell
+    level:    [88, 90]
+    region:   arrapago_reef_nw_8
+
+  16998747:
+    template: Dweomershell
+    level:    [88, 90]
+    region:   arrapago_reef_nw_8
+
+  16998748:
+    template: Dweomershell
+    level:    [88, 90]
+    region:   arrapago_reef_w_13
+
+  16998749:
+    template: Dweomershell
+    level:    [88, 90]
+    region:   arrapago_reef_w_13
+
+  16998750:
+    template: Dweomershell
+    level:    [89, 90]
+    region:   arrapago_reef_w_13
+
+  16998751:
+    template: Dweomershell
+    level:    [88, 90]
+    region:   arrapago_reef_w_13
+
+  16998752:
+    template: Dweomershell
+    level:    [88, 90]
+    region:   arrapago_reef_w_14
+
+  16998753:
+    template: Dweomershell
+    level:    [88, 90]
+    region:   arrapago_reef_w_14
+
+  16998754:
+    template: Dweomershell
+    level:    [88, 89]
+    region:   arrapago_reef_w_14
+
+  16998755:
+    template: Dweomershell
+    level:    [88, 90]
+    region:   arrapago_reef_w_14
+
+  16998756:
+    template: Dweomershell
+    level:    [88, 89]
+    region:   arrapago_reef_w_16
+
+  16998757:
+    template: Dweomershell
+    level:    [88, 89]
+    region:   arrapago_reef_w_16
+
+  16998758:
+    template: Dweomershell
+    level:    [88, 89]
+    region:   arrapago_reef_w_16
+
+  16998759:
+    template: Dweomershell
+    level:    [88, 90]
+    region:   arrapago_reef_w_16
+
+  16998760:
+    template: Dweomershell
+    level:    [88, 90]
+    region:   arrapago_reef_nw_12
+
+  16998761:
+    template: Dweomershell
+    level:    [89, 90]
+    region:   arrapago_reef_nw_12
+
+  16998762:
+    template: Dweomershell
+    level:    [88, 89]
+    region:   arrapago_reef_nw_12
+
+  16998763:
+    template: Dweomershell
+    level:    [88, 90]
+    region:   arrapago_reef_nw_12
+
+  16998764:
+    template: Draugar_Servant
+    at:       [101.646, -8.352, 9.579, 229]
+    level:    [79, 81]
+
+  16998765:
+    template: Draugar_Servant
+    level:    [79, 81]
+    region:   arrapago_reef_c_13
+
+  16998766:
+    template: Nix_Wavedancer
+    level:    [81, 83]
+    region:   arrapago_reef_c_10
+
+  16998767:
+    template: Nix_Bladedancer
+    level:    [81, 83]
+    region:   arrapago_reef_c_6
+
+  16998768:
+    template: Draugar_Servant
+    at:       [-66.210, -10.476, -107.233, 110]
+    level:    [79, 81]
+
+  16998769:
+    template: Draugar_Servant
+    at:       [-67.177, -10.645, -106.580, 71]
+    level:    [79, 81]
+
+  16998770:
+    template: Draugars_Wyvern
+    at:       [1.000, 1.000, 1.000, 156]
+    level:    [67, 75]
+
+  16998771:
+    template: Nix_Typhoondancer
+    level:    [81, 83]
+    region:   arrapago_reef_c_2
+
+  16998772:
+    template: Draugar_Servant
+    level:    [79, 81]
+    region:   arrapago_reef_c_2
+
+  16998773:
+    template: Draugar_Servant
+    level:    [79, 81]
+    region:   arrapago_reef_c_2
+
+  16998774:
+    template: Draugar_Servant
+    level:    [79, 81]
+    region:   arrapago_reef_c_2
+
+  16998775:
+    template: Nix_Typhoondancer
+    level:    [81, 83]
+    region:   arrapago_reef_s_4
+
+  16998776:
+    template: Draugar_Servant
+    level:    [79, 81]
+    region:   arrapago_reef_s_4
+
+  16998777:
+    template: Draugar_Servant
+    level:    [79, 81]
+    region:   arrapago_reef_s_4
+
+  16998778:
+    template: Draugar_Servant
+    level:    [79, 81]
+    region:   arrapago_reef_s_4
+
+  16998779:
+    template: Draugar_Servant
+    at:       [-12.875, -5.043, -183.565, 224]
+    level:    [79, 81]
+
+  16998780:
+    template: Draugar_Servant
+    at:       [-8.203, -5.554, -180.136, 114]
+    level:    [79, 81]
+
+  16998781:
+    template: Ice_Elemental
+    at:       [-49.301, -4.160, -205.069, 33]
+    level:    [80, 80]
+
+  16998782:
+    template: Dark_Elemental
+    level:    [80, 80]
+    region:   arrapago_reef_s_5
+
+  16998783:
+    template: Lamia_Idolater
+    at:       [-105.143, -4.337, -286.469, 112]
+    level:    [80, 82]
+
+  16998784:
+    template: Lamia_Idolater
+    at:       [-102.079, -4.372, -277.244, 200]
+    level:    [80, 82]
+
+  16998785:
+    template: Lamie_Necromancer
+    level:    [81, 83]
+    region:   arrapago_reef_s_2
+
+  16998786:
+    template: Lamia_Idolater
+    level:    [80, 82]
+    region:   arrapago_reef_s_2
+
+  16998787:
+    template: Lamia_Idolater
+    level:    [80, 82]
+    region:   arrapago_reef_s_2
+
+  16998788:
+    template: Lamia_Idolater
+    level:    [80, 82]
+    region:   arrapago_reef_s_2
+
+  16998789:
+    template: Lamie_Bellydancer
+    at:       [-145.956, -4.678, -324.576, 106]
+    level:    [81, 83]
+
+  16998790:
+    template: Lamias_Elemental
+    at:       [1.000, 1.000, 1.000, 54]
+    level:    [68, 77]
+
+  16998791:
+    template: Lamia_Idolater
+    at:       [-146.510, -4.729, -342.959, 8]
+    level:    [80, 82]
+
+  16998792:
+    template: Lamia_Idolater
+    at:       [-148.872, -5.138, -328.479, 187]
+    level:    [80, 82]
+
+  16998793:
+    template: Lamie_Deathdancer
+    level:    [81, 83]
+    region:   arrapago_reef_s_3
+
+  16998794:
+    template: Lamia_Idolater
+    at:       [-100.259, -6.200, -398.179, 64]
+    level:    [80, 82]
+
+  16998795:
+    template: Lamia_Idolater
+    at:       [-107.298, -7.215, -380.027, 8]
+    level:    [80, 82]
+
+  16998796:
+    template: Lamia_Idolater
+    at:       [-101.720, -6.343, -391.693, 44]
+    level:    [80, 82]
+
+  16998797:
+    template: Draugar_Servant
+    at:       [-59.434, -4.834, -285.954, 215]
+    level:    [79, 81]
+
+  16998798:
+    template: Draugar_Servant
+    at:       [-62.860, -6.284, -288.629, 141]
+    level:    [79, 81]
+
+  16998799:
+    template: Draugars_Wyvern
+    at:       [1.000, 1.000, 1.000, 133]
+    level:    [67, 75]
+
+  16998800:
+    template: Lamie_Necromancer
+    at:       [-17.540, -4.235, -298.143, 177]
+    level:    [81, 83]
+
+  16998801:
+    template: Draugar_Servant
+    at:       [-19.003, -4.334, -297.752, 250]
+    level:    [79, 81]
+
+  16998802:
+    template: Draugar_Servant
+    at:       [-21.954, -6.585, -309.300, 86]
+    level:    [79, 81]
+
+  16998803:
+    template: Draugar_Servant
+    at:       [-14.346, -3.683, -305.165, 199]
+    level:    [79, 81]
+
+  16998804:
+    template: Draugar_Servant
+    at:       [-33.970, -4.306, -297.894, 132]
+    level:    [79, 81]
+
+  16998805:
+    template: Draugar_Servant
+    at:       [0.760, -8.075, -347.902, 19]
+    level:    [79, 81]
+
+  16998806:
+    template: Draugar_Servant
+    at:       [1.495, -7.701, -346.751, 36]
+    level:    [79, 81]
+
+  16998807:
+    template: Draugar_Servant
+    at:       [3.958, -4.915, -338.886, 228]
+    level:    [79, 81]
+
+  16998808:
+    template: Lamie_Toxophilite
+    at:       [22.856, -5.518, -361.903, 52]
+    level:    [81, 83]
+
+  16998809:
+    template: Draugar_Servant
+    at:       [17.995, -7.450, -361.254, 186]
+    level:    [79, 81]
+
+  16998810:
+    template: Draugar_Servant
+    at:       [24.362, -5.528, -371.546, 51]
+    level:    [79, 81]
+
+  16998811:
+    template: Draugar_Servant
+    at:       [19.123, -6.904, -366.064, 28]
+    level:    [79, 81]
+
+  16998812:
+    template: Lamie_Toxophilite
+    at:       [23.952, -4.992, -398.956, 63]
+    level:    [81, 83]
+
+  16998813:
+    template: Draugar_Servant
+    at:       [17.145, -7.802, -402.501, 86]
+    level:    [79, 81]
+
+  16998814:
+    template: Draugar_Servant
+    at:       [22.604, -6.513, -405.572, 76]
+    level:    [79, 81]
+
+  16998815:
+    template: Draugars_Wyvern
+    at:       [1.000, 1.000, 1.000, 191]
+    level:    [67, 75]
+
+  16998816:
+    template: Lamie_Bellydancer
+    at:       [-98.405, -5.966, -409.375, 76]
+    level:    [81, 83]
+
+  16998817:
+    template: Lamias_Elemental
+    at:       [1.000, 1.000, 1.000, 11]
+    level:    [77, 77]
+
+  16998818:
+    template: Lamia_Idolater
+    at:       [-103.234, -4.023, -415.711, 236]
+    level:    [80, 82]
+
+  16998819:
+    template: Lamia_Idolater
+    at:       [-103.561, -4.833, -408.813, 133]
+    level:    [80, 82]
+
+  16998820:
+    template: Ice_Elemental
+    at:       [-58.725, -5.003, -421.843, 231]
+    level:    [80, 80]
+
+  16998821:
+    template: Dark_Elemental
+    at:       [-58.725, -5.003, -421.843, 231]
+    level:    [80, 80]
+
+  16998822:
+    template: Jnun
+    at:       [-78.375, -4.854, -483.804, 96]
+    level:    [79, 80]
+
+  16998823:
+    template: Jnun
+    at:       [-89.975, -1.096, -496.171, 42]
+    level:    [79, 80]
+
+  16998824:
+    template: Ice_Elemental
+    at:       [-141.900, -6.363, -518.130, 254]
+    level:    [80, 80]
+
+  16998825:
+    template: Dark_Elemental
+    at:       [-137.756, -4.280, -507.863, 167]
+    level:    [80, 80]
+
+  16998826:
+    template: Ephramadian_Shade
+    level:    [68, 70]
+    region:   arrapago_reef_sw_2
+
+  16998827:
+    template: Ephramadian_Shade
+    level:    [68, 70]
+    region:   arrapago_reef_sw_2
+
+  16998828:
+    template: Ephramadian_Shade
+    level:    [68, 70]
+    region:   arrapago_reef_sw_2
+
+  16998829:
+    template: Ephramadian_Shade
+    level:    [68, 70]
+    region:   arrapago_reef_sw_3
+
+  16998830:
+    template: Ephramadian_Shade
+    level:    [68, 70]
+    region:   arrapago_reef_sw_3
+
+  16998831:
+    template: Ephramadian_Shade
+    at:       [-428.033, -4.640, -379.461, 29]
+    level:    [68, 70]
+
+  16998832:
+    template: Ephramadian_Shade
+    level:    [68, 70]
+    region:   arrapago_reef_sw
+
+  16998833:
+    template: Ephramadian_Shade
+    level:    [68, 70]
+    region:   arrapago_reef_sw
+
+  16998834:
+    template: Bukki
+    at:       [311.000, -3.674, 170.124, 0]
+    level:    [72, 72]
+
+  16998835:
+    template: Lamia_No11
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [80, 85]
+
+  16998836:
+    template: Lamia_No24
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [80, 80]
+
+  16998837:
+    template: Lamia_No18
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [80, 85]
+
+  16998838:
+    template: Archaic_Mirror
+    at:       [624.111, -15.790, 139.620, 164]
+    level:    [75, 75]
+
+  16998839:
+    template: Archaic_Mirror
+    at:       [436.132, -7.135, 181.723, 251]
+    level:    [75, 75]
+
+  16998840:
+    template: Archaic_Mirror
+    at:       [133.243, -3.285, 150.255, 27]
+    level:    [75, 75]
+
+  16998841:
+    template: Archaic_Mirror
+    at:       [-139.504, -4.149, 187.627, 132]
+    level:    [75, 75]
+
+  16998842:
+    template: Archaic_Mirror
+    at:       [-371.776, -16.516, 51.963, 164]
+    level:    [75, 75]
+
+  16998843:
+    template: Archaic_Mirror
+    at:       [-502.025, -8.578, -62.024, 232]
+    level:    [75, 75]
+
+  16998844:
+    template: Archaic_Mirror
+    at:       [-574.105, -15.442, 261.351, 12]
+    level:    [75, 75]
+
+  16998845:
+    template: Archaic_Mirror
+    at:       [-150.020, -6.549, -501.904, 96]
+    level:    [75, 75]
+
+  16998846:
+    template: Lamia_Palace_Guard
+    at:       [630.185, -15.481, 139.951, 255]
+    level:    [81, 82]
+
+  16998847:
+    template: Lamia_Palace_Guard
+    at:       [618.654, -15.317, 137.708, 96]
+    level:    [81, 82]
+
+  16998848:
+    template: Lamia_Palace_Guard
+    at:       [435.476, -7.153, 184.263, 28]
+    level:    [81, 82]
+
+  16998849:
+    template: Lamia_Palace_Guard
+    at:       [428.557, -7.860, 191.688, 169]
+    level:    [81, 82]
+
+  16998850:
+    template: Lamia_Palace_Guard
+    at:       [143.400, -2.372, 144.604, 231]
+    level:    [81, 82]
+
+  16998851:
+    template: Lamia_Palace_Guard
+    at:       [147.187, -2.576, 138.588, 189]
+    level:    [81, 82]
+
+  16998852:
+    template: Lamia_Palace_Guard
+    at:       [-146.201, -4.060, 187.705, 253]
+    level:    [81, 82]
+
+  16998853:
+    template: Lamia_Palace_Guard
+    at:       [-143.338, -4.417, 188.159, 6]
+    level:    [81, 82]
+
+  16998854:
+    template: Lamia_Palace_Guard
+    at:       [-374.297, -15.995, 54.175, 29]
+    level:    [81, 82]
+
+  16998855:
+    template: Lamia_Palace_Guard
+    at:       [-381.340, -15.354, 62.192, 5]
+    level:    [81, 82]
+
+  16998856:
+    template: Lamia_Palace_Guard
+    at:       [-520.475, -7.982, -59.101, 131]
+    level:    [81, 82]
+
+  16998857:
+    template: Lamia_Palace_Guard
+    at:       [-514.474, -7.662, -59.672, 135]
+    level:    [81, 82]
+
+  16998858:
+    template: Lamia_Palace_Guard
+    at:       [-590.476, -15.888, 256.825, 112]
+    level:    [81, 82]
+
+  16998859:
+    template: Lamia_Palace_Guard
+    at:       [-577.597, -15.460, 259.740, 244]
+    level:    [81, 82]
+
+  16998860:
+    template: Lamia_Palace_Guard
+    at:       [-149.378, -5.374, -498.903, 158]
+    level:    [81, 82]
+
+  16998861:
+    template: Lamia_Palace_Guard
+    level:    [81, 82]
+    region:   arrapago_reef_s
+
+  16998862:
+    template: Medusa
+    at:       [-460.000, -20.500, 460.000, 32]
+    level:    [85, 85]
+
+  16998863:
+    template: Lamia_Exon
+    at:       [-458.000, -20.500, 458.000, 7]
+    level:    [76, 76]
+
+  16998864:
+    template: Lamia_Exon
+    at:       [-448.500, -18.160, 444.781, 188]
+    level:    [76, 76]
+
+  16998865:
+    template: Lamia_Exon
+    at:       [-446.000, -18.220, 450.000, 114]
+    level:    [76, 76]
+
+  16998866:
+    template: Lamia_Exon
+    at:       [-462.000, -20.500, 458.000, 7]
+    level:    [76, 76]
+
+  16998867:
+    template: Ornery_Orobon
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  16998868:
+    template: Lamia_No19
+    at:       [-138.000, -7.600, 132.000, 161]
+    level:    [78, 78]
+
+  16998869:
+    template: Lamias_Skeleton
+    at:       [-136.700, -7.900, 132.000, 254]
+    level:    [75, 75]
+
+  16998870:
+    template: Lamias_Skeleton
+    at:       [-140.000, -7.600, 131.000, 254]
+    level:    [75, 75]
+
+  16998871:
+    template: Lil_Apkallu
+    at:       [489.740, -2.742, 168.490, 190]
+    level:    [82, 83]
+
+  16998872:
+    template: Velionis
+    at:       [313.170, -4.089, 26.211, 247]
+    level:    [78, 80]
+
+  16998873:
+    template: Zareehkl_the_Jubilant
+    at:       [177.640, -5.159, 181.399, 135]
+    level:    [85, 86]
+
+  16998874:
+    template: Nuhn
+    at:       [-451.000, -7.000, 389.000, 86]
+    level:    [86, 86]
+
+  16998875:
+    template: Dimgruzub
+    at:       [544.490, -7.480, 83.916, 0]
+    level:    [95, 95]
+
+  16998876:
+    template: Assassins_Apprentice
+    at:       [546.440, -7.760, 85.097, 50]
+    level:    [80, 80]
+
+  16998877:
+    template: Assassins_Apprentice
+    at:       [545.090, -7.684, 85.097, 21]
+    level:    [80, 80]
+
+  16998878:
+    template: Dimgruzub
+    at:       [345.970, -3.125, 109.742, 123]
+    level:    [95, 95]
+
+  16998879:
+    template: Assassins_Apprentice
+    at:       [345.480, -2.890, 111.128, 8]
+    level:    [80, 80]
+
+  16998880:
+    template: Assassins_Apprentice
+    at:       [344.740, -3.180, 109.094, 141]
+    level:    [80, 80]
+
+  16998881:
+    template: Dimgruzub
+    at:       [387.494, -2.677, 275.046, 33]
+    level:    [95, 95]
+
+  16998882:
+    template: Assassins_Apprentice
+    at:       [387.661, -2.680, 275.146, 35]
+    level:    [80, 80]
+
+  16998883:
+    template: Assassins_Apprentice
+    at:       [387.492, -2.677, 275.046, 33]
+    level:    [80, 80]
+
+  16998890:
+    template: Awoken_Morbol_Emperor
+    at:       [-391.000, -4.170, 330.000, 171]
+    level:    [119, 119]

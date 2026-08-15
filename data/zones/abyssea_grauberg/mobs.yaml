@@ -1,0 +1,2388 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17817601:
+    template: Vale_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17817602:
+    template: Vale_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17817603:
+    template: Vale_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17817604:
+    template: Spring_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17817605:
+    template: Spring_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17817606:
+    template: Spring_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17817607:
+    template: Frog_Prince
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17817608:
+    template: Frog_Prince
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17817609:
+    template: Frog_Prince
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17817610:
+    template: Frog_Prince
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17817611:
+    template: Stream_Limule
+    level:    [84, 85]
+    region:   abyssea_grauberg_sw
+
+  17817612:
+    template: Stream_Limule
+    level:    [84, 85]
+    region:   abyssea_grauberg_sw
+
+  17817613:
+    template: Stream_Limule
+    level:    [84, 85]
+    region:   abyssea_grauberg_sw
+
+  17817614:
+    template: Stream_Limule
+    level:    [84, 85]
+    region:   abyssea_grauberg_sw
+
+  17817615:
+    template: Stream_Limule
+    level:    [84, 85]
+    region:   abyssea_grauberg_sw
+
+  17817616:
+    template: Stream_Limule
+    level:    [84, 85]
+    region:   abyssea_grauberg_sw
+
+  17817617:
+    template: Stream_Limule
+    level:    [84, 85]
+    region:   abyssea_grauberg_sw_2
+
+  17817618:
+    template: Stream_Limule
+    level:    [84, 85]
+    region:   abyssea_grauberg_sw_2
+
+  17817619:
+    template: Stream_Limule
+    level:    [84, 85]
+    region:   abyssea_grauberg_sw_2
+
+  17817620:
+    template: Stream_Limule
+    level:    [84, 85]
+    region:   abyssea_grauberg_sw_2
+
+  17817621:
+    template: Stream_Limule
+    level:    [84, 85]
+    region:   abyssea_grauberg_sw_2
+
+  17817622:
+    template: Stream_Limule
+    level:    [84, 85]
+    region:   abyssea_grauberg_sw_2
+
+  17817623:
+    template: Stream_Limule
+    level:    [84, 85]
+    region:   abyssea_grauberg_sw_3
+
+  17817624:
+    template: Stream_Limule
+    level:    [84, 85]
+    region:   abyssea_grauberg_sw_3
+
+  17817625:
+    template: Stream_Limule
+    level:    [84, 85]
+    region:   abyssea_grauberg_sw_3
+
+  17817626:
+    template: Stream_Limule
+    level:    [84, 85]
+    region:   abyssea_grauberg_sw_3
+
+  17817627:
+    template: Stream_Limule
+    level:    [84, 85]
+    region:   abyssea_grauberg_sw_3
+
+  17817628:
+    template: Stream_Limule
+    level:    [84, 85]
+    region:   abyssea_grauberg_sw_3
+
+  17817629:
+    template: Stream_Limule
+    level:    [84, 85]
+    region:   abyssea_grauberg_sw_4
+
+  17817630:
+    template: Stream_Limule
+    level:    [84, 85]
+    region:   abyssea_grauberg_sw_4
+
+  17817631:
+    template: Stream_Limule
+    level:    [84, 85]
+    region:   abyssea_grauberg_sw_4
+
+  17817632:
+    template: Stream_Limule
+    level:    [84, 85]
+    region:   abyssea_grauberg_sw_4
+
+  17817633:
+    template: Stream_Limule
+    level:    [84, 85]
+    region:   abyssea_grauberg_sw_4
+
+  17817634:
+    template: Stream_Limule
+    level:    [84, 85]
+    region:   abyssea_grauberg_sw_4
+
+  17817635:
+    template: Pond_Amoeban
+    level:    [83, 85]
+    region:   abyssea_grauberg_sw_6
+
+  17817636:
+    template: Pond_Amoeban
+    level:    [83, 85]
+    region:   abyssea_grauberg_sw_6
+
+  17817637:
+    template: Pond_Amoeban
+    level:    [83, 85]
+    region:   abyssea_grauberg_sw_6
+
+  17817638:
+    template: Pond_Amoeban
+    level:    [83, 85]
+    region:   abyssea_grauberg_sw_6
+
+  17817639:
+    template: Pond_Amoeban
+    level:    [83, 85]
+    region:   abyssea_grauberg_sw_6
+
+  17817640:
+    template: Pond_Amoeban
+    level:    [83, 85]
+    region:   abyssea_grauberg_sw_6
+
+  17817641:
+    template: Pond_Amoeban
+    level:    [83, 85]
+    region:   abyssea_grauberg_sw_6
+
+  17817642:
+    template: Pond_Amoeban
+    level:    [83, 85]
+    region:   abyssea_grauberg_sw_5
+
+  17817643:
+    template: Pond_Amoeban
+    level:    [83, 85]
+    region:   abyssea_grauberg_sw_5
+
+  17817644:
+    template: Pond_Amoeban
+    level:    [83, 85]
+    region:   abyssea_grauberg_sw_5
+
+  17817645:
+    template: Pond_Amoeban
+    level:    [83, 85]
+    region:   abyssea_grauberg_sw_5
+
+  17817646:
+    template: Pond_Amoeban
+    level:    [83, 85]
+    region:   abyssea_grauberg_sw_5
+
+  17817647:
+    template: Pond_Amoeban
+    level:    [83, 85]
+    region:   abyssea_grauberg_sw_5
+
+  17817648:
+    template: Pond_Amoeban
+    level:    [83, 85]
+    region:   abyssea_grauberg_sw_5
+
+  17817649:
+    template: Pond_Amoeban
+    level:    [83, 85]
+    region:   abyssea_grauberg_sw_7
+
+  17817650:
+    template: Pond_Amoeban
+    level:    [83, 85]
+    region:   abyssea_grauberg_sw_7
+
+  17817651:
+    template: Pond_Amoeban
+    level:    [83, 85]
+    region:   abyssea_grauberg_sw_7
+
+  17817652:
+    template: Pond_Amoeban
+    level:    [83, 85]
+    region:   abyssea_grauberg_sw_7
+
+  17817653:
+    template: Pond_Amoeban
+    level:    [83, 85]
+    region:   abyssea_grauberg_sw_8
+
+  17817654:
+    template: Pond_Amoeban
+    level:    [83, 85]
+    region:   abyssea_grauberg_sw_8
+
+  17817655:
+    template: Pond_Amoeban
+    level:    [83, 85]
+    region:   abyssea_grauberg_sw_8
+
+  17817656:
+    template: Hillock_Murex
+    level:    [84, 85]
+    region:   abyssea_grauberg_s_8
+
+  17817657:
+    template: Hillock_Murex
+    level:    [84, 85]
+    region:   abyssea_grauberg_s_8
+
+  17817658:
+    template: Hillock_Murex
+    level:    [84, 85]
+    region:   abyssea_grauberg_s_8
+
+  17817659:
+    template: Hillock_Murex
+    level:    [84, 85]
+    region:   abyssea_grauberg_s_8
+
+  17817660:
+    template: Hillock_Murex
+    level:    [84, 85]
+    region:   abyssea_grauberg_s_8
+
+  17817661:
+    template: Hillock_Murex
+    level:    [84, 85]
+    region:   abyssea_grauberg_s_8
+
+  17817662:
+    template: Hillock_Murex
+    level:    [84, 85]
+    region:   abyssea_grauberg_s_8
+
+  17817663:
+    template: Hillock_Murex
+    level:    [84, 85]
+    region:   abyssea_grauberg_s_11
+
+  17817664:
+    template: Hillock_Murex
+    level:    [84, 85]
+    region:   abyssea_grauberg_s_11
+
+  17817665:
+    template: Hillock_Murex
+    level:    [84, 85]
+    region:   abyssea_grauberg_s_11
+
+  17817666:
+    template: Hillock_Murex
+    level:    [84, 85]
+    region:   abyssea_grauberg_s_11
+
+  17817667:
+    template: Hillock_Murex
+    level:    [84, 85]
+    region:   abyssea_grauberg_s_11
+
+  17817668:
+    template: Hillock_Murex
+    level:    [84, 85]
+    region:   abyssea_grauberg_s_11
+
+  17817669:
+    template: Hillock_Murex
+    level:    [84, 85]
+    region:   abyssea_grauberg_s_11
+
+  17817670:
+    template: Hillock_Murex
+    level:    [84, 85]
+    region:   abyssea_grauberg_s_12
+
+  17817671:
+    template: Hillock_Murex
+    level:    [84, 85]
+    region:   abyssea_grauberg_s_12
+
+  17817672:
+    template: Hillock_Murex
+    level:    [84, 85]
+    region:   abyssea_grauberg_s_12
+
+  17817673:
+    template: Hillock_Murex
+    level:    [84, 85]
+    region:   abyssea_grauberg_s_12
+
+  17817674:
+    template: Hillock_Murex
+    level:    [84, 85]
+    region:   abyssea_grauberg_s_12
+
+  17817675:
+    template: Hillock_Murex
+    level:    [84, 85]
+    region:   abyssea_grauberg_s_12
+
+  17817676:
+    template: Hillock_Murex
+    level:    [84, 85]
+    region:   abyssea_grauberg_s_13
+
+  17817677:
+    template: Hillock_Murex
+    level:    [84, 85]
+    region:   abyssea_grauberg_s_13
+
+  17817678:
+    template: Hillock_Murex
+    level:    [84, 85]
+    region:   abyssea_grauberg_s_13
+
+  17817679:
+    template: Hillock_Murex
+    level:    [84, 85]
+    region:   abyssea_grauberg_s_13
+
+  17817680:
+    template: Hillock_Murex
+    level:    [84, 85]
+    region:   abyssea_grauberg_s_13
+
+  17817681:
+    template: Glen_Crab
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_3
+
+  17817682:
+    template: Glen_Crab
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_3
+
+  17817683:
+    template: Glen_Crab
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_3
+
+  17817684:
+    template: Glen_Crab
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_3
+
+  17817685:
+    template: Glen_Crab
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_3
+
+  17817686:
+    template: Glen_Crab
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_3
+
+  17817687:
+    template: Glen_Crab
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_3
+
+  17817688:
+    template: Glen_Crab
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_5
+
+  17817689:
+    template: Glen_Crab
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_5
+
+  17817690:
+    template: Glen_Crab
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_5
+
+  17817691:
+    template: Glen_Crab
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_5
+
+  17817692:
+    template: Glen_Crab
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_5
+
+  17817693:
+    template: Glen_Crab
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_5
+
+  17817694:
+    template: Glen_Crab
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_2
+
+  17817695:
+    template: Glen_Crab
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_2
+
+  17817696:
+    template: Glen_Crab
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_2
+
+  17817697:
+    template: Glen_Crab
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_2
+
+  17817698:
+    template: Glen_Crab
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_2
+
+  17817699:
+    template: Glen_Crab
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_2
+
+  17817700:
+    template: Glen_Crab
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_2
+
+  17817701:
+    template: Glen_Crab
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_4
+
+  17817702:
+    template: Glen_Crab
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_4
+
+  17817703:
+    template: Glen_Crab
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_4
+
+  17817704:
+    template: Glen_Crab
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_4
+
+  17817705:
+    template: Glen_Crab
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_4
+
+  17817706:
+    template: Glen_Crab
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_4
+
+  17817707:
+    template: Gefyrst
+    level:    [81, 83]
+    region:   abyssea_grauberg_s
+
+  17817708:
+    template: Peak_Pugil
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_6
+
+  17817709:
+    template: Peak_Pugil
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_6
+
+  17817710:
+    template: Peak_Pugil
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_6
+
+  17817711:
+    template: Peak_Pugil
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_6
+
+  17817712:
+    template: Peak_Pugil
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_6
+
+  17817713:
+    template: Peak_Pugil
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_6
+
+  17817714:
+    template: Peak_Pugil
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_6
+
+  17817715:
+    template: Peak_Pugil
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_6
+
+  17817716:
+    template: Peak_Pugil
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_10
+
+  17817717:
+    template: Peak_Pugil
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_10
+
+  17817718:
+    template: Peak_Pugil
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_10
+
+  17817719:
+    template: Peak_Pugil
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_10
+
+  17817720:
+    template: Peak_Pugil
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_10
+
+  17817721:
+    template: Peak_Pugil
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_10
+
+  17817722:
+    template: Peak_Pugil
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_10
+
+  17817723:
+    template: Peak_Pugil
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_10
+
+  17817724:
+    template: Peak_Pugil
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_7
+
+  17817725:
+    template: Peak_Pugil
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_7
+
+  17817726:
+    template: Peak_Pugil
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_7
+
+  17817727:
+    template: Peak_Pugil
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_7
+
+  17817728:
+    template: Peak_Pugil
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_7
+
+  17817729:
+    template: Peak_Pugil
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_7
+
+  17817730:
+    template: Peak_Pugil
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_7
+
+  17817731:
+    template: Peak_Pugil
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_9
+
+  17817732:
+    template: Peak_Pugil
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_9
+
+  17817733:
+    template: Peak_Pugil
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_9
+
+  17817734:
+    template: Peak_Pugil
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_9
+
+  17817735:
+    template: Peak_Pugil
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_9
+
+  17817736:
+    template: Peak_Pugil
+    level:    [81, 82]
+    region:   abyssea_grauberg_s_9
+
+  17817737:
+    template: Gefyrst
+    at:       [154.427, -15.966, -315.317, 17]
+    level:    [81, 83]
+
+  17817738:
+    template: Goblin_Plunderer
+    level:    [81, 82]
+    region:   abyssea_grauberg_se
+
+  17817739:
+    template: Goblin_Plunderer
+    level:    [81, 82]
+    region:   abyssea_grauberg_se
+
+  17817740:
+    template: Goblin_Plunderer
+    level:    [81, 82]
+    region:   abyssea_grauberg_se
+
+  17817741:
+    template: Goblin_Plunderer
+    level:    [81, 82]
+    region:   abyssea_grauberg_se
+
+  17817742:
+    template: Goblin_Plunderer
+    level:    [81, 82]
+    region:   abyssea_grauberg_se
+
+  17817743:
+    template: Goblin_Plunderer
+    level:    [81, 82]
+    region:   abyssea_grauberg_se
+
+  17817744:
+    template: Goblin_Plunderer
+    level:    [81, 82]
+    region:   abyssea_grauberg_se_4
+
+  17817745:
+    template: Goblin_Plunderer
+    level:    [81, 82]
+    region:   abyssea_grauberg_se_4
+
+  17817746:
+    template: Goblin_Plunderer
+    level:    [81, 82]
+    region:   abyssea_grauberg_se_4
+
+  17817747:
+    template: Goblin_Plunderer
+    level:    [81, 82]
+    region:   abyssea_grauberg_se_4
+
+  17817748:
+    template: Goblin_Plunderer
+    level:    [81, 82]
+    region:   abyssea_grauberg_se_4
+
+  17817749:
+    template: Goblin_Plunderer
+    level:    [81, 82]
+    region:   abyssea_grauberg_se_4
+
+  17817750:
+    template: Goblin_Plunderer
+    level:    [81, 82]
+    region:   abyssea_grauberg_se_4
+
+  17817751:
+    template: Goblin_Plunderer
+    level:    [81, 82]
+    region:   abyssea_grauberg_se_3
+
+  17817752:
+    template: Goblin_Plunderer
+    level:    [81, 82]
+    region:   abyssea_grauberg_se_3
+
+  17817753:
+    template: Goblin_Plunderer
+    level:    [81, 82]
+    region:   abyssea_grauberg_se_3
+
+  17817754:
+    template: Goblin_Plunderer
+    level:    [81, 82]
+    region:   abyssea_grauberg_se_3
+
+  17817755:
+    template: Goblin_Plunderer
+    level:    [81, 82]
+    region:   abyssea_grauberg_se_3
+
+  17817756:
+    template: Goblin_Plunderer
+    level:    [81, 82]
+    region:   abyssea_grauberg_se_3
+
+  17817757:
+    template: Goblin_Plunderer
+    level:    [81, 82]
+    region:   abyssea_grauberg_se_3
+
+  17817758:
+    template: Goblin_Plunderer
+    level:    [81, 82]
+    region:   abyssea_grauberg_se_3
+
+  17817759:
+    template: Goblin_Plunderer
+    level:    [81, 82]
+    region:   abyssea_grauberg_se_5
+
+  17817760:
+    template: Goblin_Plunderer
+    level:    [81, 82]
+    region:   abyssea_grauberg_se_5
+
+  17817761:
+    template: Goblin_Plunderer
+    level:    [81, 82]
+    region:   abyssea_grauberg_se_5
+
+  17817762:
+    template: Goblin_Plunderer
+    level:    [81, 82]
+    region:   abyssea_grauberg_se_5
+
+  17817763:
+    template: Goblin_Plunderer
+    level:    [81, 82]
+    region:   abyssea_grauberg_se_5
+
+  17817764:
+    template: Ungeweder
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [85, 90]
+
+  17817765:
+    template: Goblin_Meatgrinder
+    level:    [82, 83]
+    region:   abyssea_grauberg_se_2
+
+  17817766:
+    template: Goblin_Meatgrinder
+    level:    [82, 83]
+    region:   abyssea_grauberg_se_2
+
+  17817767:
+    template: Goblin_Meatgrinder
+    level:    [82, 83]
+    region:   abyssea_grauberg_se_2
+
+  17817768:
+    template: Goblin_Meatgrinder
+    level:    [82, 83]
+    region:   abyssea_grauberg_se_2
+
+  17817769:
+    template: Goblin_Meatgrinder
+    level:    [82, 83]
+    region:   abyssea_grauberg_se_2
+
+  17817770:
+    template: Goblin_Meatgrinder
+    level:    [82, 83]
+    region:   abyssea_grauberg_se_2
+
+  17817771:
+    template: Goblin_Meatgrinder
+    level:    [82, 83]
+    region:   abyssea_grauberg_se_6
+
+  17817772:
+    template: Goblin_Meatgrinder
+    level:    [82, 83]
+    region:   abyssea_grauberg_se_6
+
+  17817773:
+    template: Goblin_Meatgrinder
+    level:    [82, 83]
+    region:   abyssea_grauberg_se_6
+
+  17817774:
+    template: Goblin_Meatgrinder
+    level:    [82, 83]
+    region:   abyssea_grauberg_se_6
+
+  17817775:
+    template: Goblin_Meatgrinder
+    level:    [82, 83]
+    region:   abyssea_grauberg_se_6
+
+  17817776:
+    template: Goblin_Meatgrinder
+    level:    [82, 83]
+    region:   abyssea_grauberg_se_6
+
+  17817777:
+    template: Goblin_Meatgrinder
+    level:    [82, 83]
+    region:   abyssea_grauberg_se_6
+
+  17817778:
+    template: Goblin_Meatgrinder
+    level:    [82, 83]
+    region:   abyssea_grauberg_se_7
+
+  17817779:
+    template: Goblin_Meatgrinder
+    level:    [82, 83]
+    region:   abyssea_grauberg_se_7
+
+  17817780:
+    template: Goblin_Meatgrinder
+    level:    [82, 83]
+    region:   abyssea_grauberg_se_7
+
+  17817781:
+    template: Goblin_Meatgrinder
+    level:    [82, 83]
+    region:   abyssea_grauberg_se_7
+
+  17817782:
+    template: Goblin_Meatgrinder
+    level:    [82, 83]
+    region:   abyssea_grauberg_se_7
+
+  17817783:
+    template: Goblin_Meatgrinder
+    level:    [82, 83]
+    region:   abyssea_grauberg_se_8
+
+  17817784:
+    template: Goblin_Meatgrinder
+    level:    [82, 83]
+    region:   abyssea_grauberg_se_8
+
+  17817785:
+    template: Goblin_Meatgrinder
+    level:    [82, 83]
+    region:   abyssea_grauberg_se_8
+
+  17817786:
+    template: Goblin_Meatgrinder
+    level:    [82, 83]
+    region:   abyssea_grauberg_se_8
+
+  17817787:
+    template: Goblin_Meatgrinder
+    level:    [82, 83]
+    region:   abyssea_grauberg_se_8
+
+  17817788:
+    template: Baelfyr
+    at:       [501.231, 11.915, -268.471, 11]
+    level:    [90, 91]
+
+  17817789:
+    template: Faunus_Wyvern
+    level:    [86, 97]
+    region:   abyssea_grauberg_c_8
+
+  17817790:
+    template: Faunus_Wyvern
+    level:    [86, 97]
+    region:   abyssea_grauberg_c_8
+
+  17817791:
+    template: Faunus_Wyvern
+    level:    [86, 97]
+    region:   abyssea_grauberg_c_8
+
+  17817792:
+    template: Faunus_Wyvern
+    level:    [86, 97]
+    region:   abyssea_grauberg_c_8
+
+  17817793:
+    template: Faunus_Wyvern
+    level:    [86, 97]
+    region:   abyssea_grauberg_c_8
+
+  17817794:
+    template: Faunus_Wyvern
+    level:    [86, 97]
+    region:   abyssea_grauberg_c_5
+
+  17817795:
+    template: Faunus_Wyvern
+    level:    [86, 97]
+    region:   abyssea_grauberg_c_5
+
+  17817796:
+    template: Faunus_Wyvern
+    level:    [86, 97]
+    region:   abyssea_grauberg_c_5
+
+  17817797:
+    template: Faunus_Wyvern
+    level:    [86, 97]
+    region:   abyssea_grauberg_c_5
+
+  17817798:
+    template: Faunus_Wyvern
+    level:    [86, 97]
+    region:   abyssea_grauberg_c_5
+
+  17817799:
+    template: Faunus_Wyvern
+    level:    [86, 97]
+    region:   abyssea_grauberg_e_2
+
+  17817800:
+    template: Faunus_Wyvern
+    level:    [86, 97]
+    region:   abyssea_grauberg_e_2
+
+  17817801:
+    template: Faunus_Wyvern
+    level:    [86, 97]
+    region:   abyssea_grauberg_e_2
+
+  17817802:
+    template: Faunus_Wyvern
+    level:    [86, 97]
+    region:   abyssea_grauberg_c_5
+
+  17817803:
+    template: Ungeweder
+    level:    [85, 90]
+    region:   abyssea_grauberg_c_5
+
+  17817804:
+    template: Putrid_Peapuk
+    level:    [84, 85]
+    region:   abyssea_grauberg_c_6
+
+  17817805:
+    template: Putrid_Peapuk
+    level:    [84, 85]
+    region:   abyssea_grauberg_c_6
+
+  17817806:
+    template: Putrid_Peapuk
+    level:    [84, 85]
+    region:   abyssea_grauberg_c_6
+
+  17817807:
+    template: Putrid_Peapuk
+    level:    [84, 85]
+    region:   abyssea_grauberg_c_6
+
+  17817808:
+    template: Putrid_Peapuk
+    level:    [84, 85]
+    region:   abyssea_grauberg_c_6
+
+  17817809:
+    template: Putrid_Peapuk
+    level:    [84, 85]
+    region:   abyssea_grauberg_c_6
+
+  17817810:
+    template: Putrid_Peapuk
+    level:    [84, 85]
+    region:   abyssea_grauberg_c_3
+
+  17817811:
+    template: Putrid_Peapuk
+    level:    [84, 85]
+    region:   abyssea_grauberg_c_3
+
+  17817812:
+    template: Putrid_Peapuk
+    level:    [84, 85]
+    region:   abyssea_grauberg_c_3
+
+  17817813:
+    template: Putrid_Peapuk
+    level:    [84, 85]
+    region:   abyssea_grauberg_c_3
+
+  17817814:
+    template: Putrid_Peapuk
+    level:    [84, 85]
+    region:   abyssea_grauberg_c_3
+
+  17817815:
+    template: Putrid_Peapuk
+    level:    [84, 85]
+    region:   abyssea_grauberg_c_4
+
+  17817816:
+    template: Putrid_Peapuk
+    level:    [84, 85]
+    region:   abyssea_grauberg_c_4
+
+  17817817:
+    template: Putrid_Peapuk
+    level:    [84, 85]
+    region:   abyssea_grauberg_c_4
+
+  17817818:
+    template: Putrid_Peapuk
+    level:    [84, 85]
+    region:   abyssea_grauberg_c_4
+
+  17817819:
+    template: Putrid_Peapuk
+    level:    [84, 85]
+    region:   abyssea_grauberg_c_4
+
+  17817820:
+    template: Putrid_Peapuk
+    level:    [84, 85]
+    region:   abyssea_grauberg_c_4
+
+  17817821:
+    template: Putrid_Peapuk
+    level:    [84, 85]
+    region:   abyssea_grauberg_c_3
+
+  17817822:
+    template: Ungeweder
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [85, 90]
+
+  17817823:
+    template: Glade_Wivre
+    level:    [85, 86]
+    region:   abyssea_grauberg_c_7
+
+  17817824:
+    template: Glade_Wivre
+    level:    [85, 86]
+    region:   abyssea_grauberg_c_7
+
+  17817825:
+    template: Glade_Wivre
+    level:    [85, 86]
+    region:   abyssea_grauberg_c_7
+
+  17817826:
+    template: Glade_Wivre
+    level:    [85, 86]
+    region:   abyssea_grauberg_c_7
+
+  17817827:
+    template: Glade_Wivre
+    level:    [85, 86]
+    region:   abyssea_grauberg_e
+
+  17817828:
+    template: Glade_Wivre
+    level:    [85, 86]
+    region:   abyssea_grauberg_e
+
+  17817829:
+    template: Glade_Wivre
+    level:    [85, 86]
+    region:   abyssea_grauberg_e
+
+  17817830:
+    template: Glade_Wivre
+    level:    [85, 86]
+    region:   abyssea_grauberg_e
+
+  17817831:
+    template: Glade_Wivre
+    level:    [85, 86]
+    region:   abyssea_grauberg_ne_2
+
+  17817832:
+    template: Glade_Wivre
+    level:    [85, 86]
+    region:   abyssea_grauberg_ne_2
+
+  17817833:
+    template: Glade_Wivre
+    level:    [85, 86]
+    region:   abyssea_grauberg_ne_2
+
+  17817834:
+    template: Glade_Wivre
+    level:    [85, 86]
+    region:   abyssea_grauberg_ne_2
+
+  17817835:
+    template: Glade_Wivre
+    level:    [85, 86]
+    region:   abyssea_grauberg_ne_2
+
+  17817836:
+    template: Glade_Wivre
+    level:    [85, 86]
+    region:   abyssea_grauberg_ne_2
+
+  17817837:
+    template: Glade_Wivre
+    level:    [85, 86]
+    region:   abyssea_grauberg_ne_2
+
+  17817838:
+    template: Ungeweder
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [85, 90]
+
+  17817839:
+    template: Deimobugard
+    level:    [94, 100]
+    region:   abyssea_grauberg_w_7
+
+  17817840:
+    template: Deimobugard
+    level:    [94, 100]
+    region:   abyssea_grauberg_w_7
+
+  17817841:
+    template: Deimobugard
+    level:    [94, 100]
+    region:   abyssea_grauberg_w_7
+
+  17817842:
+    template: Deimobugard
+    level:    [94, 100]
+    region:   abyssea_grauberg_w_7
+
+  17817843:
+    template: Deimobugard
+    level:    [94, 100]
+    region:   abyssea_grauberg_w_8
+
+  17817844:
+    template: Deimobugard
+    level:    [94, 100]
+    region:   abyssea_grauberg_w_8
+
+  17817845:
+    template: Deimobugard
+    level:    [94, 100]
+    region:   abyssea_grauberg_w_8
+
+  17817846:
+    template: Deimobugard
+    level:    [94, 100]
+    region:   abyssea_grauberg_w_8
+
+  17817847:
+    template: Deimobugard
+    level:    [94, 100]
+    region:   abyssea_grauberg_w_8
+
+  17817848:
+    template: Deimobugard
+    level:    [94, 100]
+    region:   abyssea_grauberg_c
+
+  17817849:
+    template: Deimobugard
+    level:    [94, 100]
+    region:   abyssea_grauberg_c
+
+  17817850:
+    template: Deimobugard
+    level:    [94, 100]
+    region:   abyssea_grauberg_w_5
+
+  17817851:
+    template: Deimobugard
+    level:    [94, 100]
+    region:   abyssea_grauberg_w_5
+
+  17817852:
+    template: Deimobugard
+    level:    [94, 100]
+    region:   abyssea_grauberg_w_5
+
+  17817853:
+    template: Byrgen
+    at:       [-138.150, -76.694, -73.826, 100]
+    level:    [81, 83]
+
+  17817854:
+    template: Sensenmann
+    level:    [83, 92]
+    region:   abyssea_grauberg_w
+
+  17817855:
+    template: Sensenmann
+    level:    [83, 92]
+    region:   abyssea_grauberg_w
+
+  17817856:
+    template: Sensenmann
+    level:    [83, 92]
+    region:   abyssea_grauberg_w
+
+  17817857:
+    template: Sensenmann
+    level:    [83, 92]
+    region:   abyssea_grauberg_w
+
+  17817858:
+    template: Sensenmann
+    level:    [83, 92]
+    region:   abyssea_grauberg_w
+
+  17817859:
+    template: Sensenmann
+    level:    [83, 92]
+    region:   abyssea_grauberg_w
+
+  17817860:
+    template: Sensenmann
+    level:    [83, 92]
+    region:   abyssea_grauberg_w
+
+  17817861:
+    template: Sensenmann
+    level:    [83, 92]
+    region:   abyssea_grauberg_w
+
+  17817862:
+    template: Sensenmann
+    level:    [83, 92]
+    region:   abyssea_grauberg_w_2
+
+  17817863:
+    template: Sensenmann
+    level:    [83, 92]
+    region:   abyssea_grauberg_w_2
+
+  17817864:
+    template: Sensenmann
+    level:    [83, 92]
+    region:   abyssea_grauberg_w_2
+
+  17817865:
+    template: Sensenmann
+    level:    [83, 92]
+    region:   abyssea_grauberg_w_2
+
+  17817866:
+    template: Sensenmann
+    level:    [83, 92]
+    region:   abyssea_grauberg_w_2
+
+  17817867:
+    template: Sensenmann
+    level:    [83, 92]
+    region:   abyssea_grauberg_w_2
+
+  17817868:
+    template: Sensenmann
+    level:    [83, 92]
+    region:   abyssea_grauberg_w_2
+
+  17817869:
+    template: Sensenmann
+    level:    [83, 92]
+    region:   abyssea_grauberg_w_2
+
+  17817870:
+    template: Sensenmann
+    level:    [83, 92]
+    region:   abyssea_grauberg_w_3
+
+  17817871:
+    template: Sensenmann
+    level:    [83, 92]
+    region:   abyssea_grauberg_w_3
+
+  17817872:
+    template: Sensenmann
+    level:    [83, 92]
+    region:   abyssea_grauberg_w_3
+
+  17817873:
+    template: Sensenmann
+    level:    [83, 92]
+    region:   abyssea_grauberg_w_3
+
+  17817874:
+    template: Sensenmann
+    level:    [83, 92]
+    region:   abyssea_grauberg_w_3
+
+  17817875:
+    template: Sensenmann
+    level:    [83, 92]
+    region:   abyssea_grauberg_w_3
+
+  17817876:
+    template: Sensenmann
+    level:    [83, 92]
+    region:   abyssea_grauberg_w_3
+
+  17817877:
+    template: Sensenmann
+    level:    [83, 92]
+    region:   abyssea_grauberg_w_4
+
+  17817878:
+    template: Sensenmann
+    level:    [83, 92]
+    region:   abyssea_grauberg_w_4
+
+  17817879:
+    template: Sensenmann
+    level:    [83, 92]
+    region:   abyssea_grauberg_w_4
+
+  17817880:
+    template: Sensenmann
+    level:    [83, 92]
+    region:   abyssea_grauberg_w_4
+
+  17817881:
+    template: Sensenmann
+    level:    [83, 92]
+    region:   abyssea_grauberg_w_4
+
+  17817882:
+    template: Sensenmann
+    level:    [83, 92]
+    region:   abyssea_grauberg_w_4
+
+  17817883:
+    template: Sensenmann
+    level:    [83, 92]
+    region:   abyssea_grauberg_w_4
+
+  17817884:
+    template: Byrgen
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [81, 83]
+
+  17817885:
+    template: Knoll_Clionid
+    level:    [84, 87]
+    region:   abyssea_grauberg_c_2
+
+  17817886:
+    template: Knoll_Clionid
+    level:    [84, 87]
+    region:   abyssea_grauberg_c_2
+
+  17817887:
+    template: Knoll_Clionid
+    level:    [84, 87]
+    region:   abyssea_grauberg_c_2
+
+  17817888:
+    template: Knoll_Clionid
+    level:    [84, 87]
+    region:   abyssea_grauberg_c_2
+
+  17817889:
+    template: Knoll_Clionid
+    level:    [84, 87]
+    region:   abyssea_grauberg_c_2
+
+  17817890:
+    template: Knoll_Clionid
+    level:    [84, 87]
+    region:   abyssea_grauberg_c_2
+
+  17817891:
+    template: Knoll_Clionid
+    level:    [84, 87]
+    region:   abyssea_grauberg_c_2
+
+  17817892:
+    template: Knoll_Clionid
+    level:    [84, 87]
+    region:   abyssea_grauberg_n_4
+
+  17817893:
+    template: Knoll_Clionid
+    level:    [84, 87]
+    region:   abyssea_grauberg_n_4
+
+  17817894:
+    template: Knoll_Clionid
+    level:    [84, 87]
+    region:   abyssea_grauberg_n_4
+
+  17817895:
+    template: Knoll_Clionid
+    level:    [84, 87]
+    region:   abyssea_grauberg_n_4
+
+  17817896:
+    template: Knoll_Clionid
+    level:    [84, 87]
+    region:   abyssea_grauberg_n_4
+
+  17817897:
+    template: Knoll_Clionid
+    level:    [84, 87]
+    region:   abyssea_grauberg_n_4
+
+  17817898:
+    template: Knoll_Clionid
+    level:    [84, 87]
+    region:   abyssea_grauberg_n_4
+
+  17817899:
+    template: Knoll_Clionid
+    level:    [84, 87]
+    region:   abyssea_grauberg_n_6
+
+  17817900:
+    template: Knoll_Clionid
+    level:    [84, 87]
+    region:   abyssea_grauberg_n_6
+
+  17817901:
+    template: Knoll_Clionid
+    level:    [84, 87]
+    region:   abyssea_grauberg_n_6
+
+  17817902:
+    template: Knoll_Clionid
+    level:    [84, 87]
+    region:   abyssea_grauberg_n_6
+
+  17817903:
+    template: Knoll_Clionid
+    level:    [84, 87]
+    region:   abyssea_grauberg_n_6
+
+  17817904:
+    template: Knoll_Clionid
+    level:    [84, 87]
+    region:   abyssea_grauberg_n_6
+
+  17817905:
+    template: Knoll_Clionid
+    level:    [84, 87]
+    region:   abyssea_grauberg_n_6
+
+  17817906:
+    template: Knoll_Clionid
+    level:    [84, 87]
+    region:   abyssea_grauberg_n_5
+
+  17817907:
+    template: Knoll_Clionid
+    level:    [84, 87]
+    region:   abyssea_grauberg_n_5
+
+  17817908:
+    template: Knoll_Clionid
+    level:    [84, 87]
+    region:   abyssea_grauberg_n_5
+
+  17817909:
+    template: Knoll_Clionid
+    level:    [84, 87]
+    region:   abyssea_grauberg_n_5
+
+  17817910:
+    template: Knoll_Clionid
+    level:    [84, 87]
+    region:   abyssea_grauberg_n_5
+
+  17817911:
+    template: Knoll_Clionid
+    level:    [84, 87]
+    region:   abyssea_grauberg_n_5
+
+  17817912:
+    template: Knoll_Clionid
+    level:    [84, 87]
+    region:   abyssea_grauberg_n_5
+
+  17817913:
+    template: Seelie
+    level:    [82, 83]
+    region:   abyssea_grauberg_nw
+
+  17817914:
+    template: Seelie
+    level:    [82, 83]
+    region:   abyssea_grauberg_nw
+
+  17817915:
+    template: Seelie
+    level:    [82, 83]
+    region:   abyssea_grauberg_nw
+
+  17817916:
+    template: Seelie
+    level:    [82, 83]
+    region:   abyssea_grauberg_nw
+
+  17817917:
+    template: Seelie
+    level:    [82, 83]
+    region:   abyssea_grauberg_nw
+
+  17817918:
+    template: Seelie
+    level:    [82, 83]
+    region:   abyssea_grauberg_nw
+
+  17817919:
+    template: Seelie
+    level:    [82, 83]
+    region:   abyssea_grauberg_nw
+
+  17817920:
+    template: Seelie
+    level:    [82, 83]
+    region:   abyssea_grauberg_nw
+
+  17817921:
+    template: Seelie
+    level:    [82, 83]
+    region:   abyssea_grauberg_nw
+
+  17817922:
+    template: Seelie
+    level:    [82, 83]
+    region:   abyssea_grauberg_nw
+
+  17817923:
+    template: Seelie
+    level:    [82, 83]
+    region:   abyssea_grauberg_nw
+
+  17817924:
+    template: Seelie
+    level:    [82, 83]
+    region:   abyssea_grauberg_n
+
+  17817925:
+    template: Seelie
+    level:    [82, 83]
+    region:   abyssea_grauberg_n
+
+  17817926:
+    template: Seelie
+    level:    [82, 83]
+    region:   abyssea_grauberg_n
+
+  17817927:
+    template: Seelie
+    level:    [82, 83]
+    region:   abyssea_grauberg_n_2
+
+  17817928:
+    template: Seelie
+    level:    [82, 83]
+    region:   abyssea_grauberg_n_2
+
+  17817929:
+    template: Seelie
+    level:    [82, 83]
+    region:   abyssea_grauberg_n_2
+
+  17817930:
+    template: Seelie
+    level:    [82, 83]
+    region:   abyssea_grauberg_n_2
+
+  17817931:
+    template: Ungeweder
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [85, 90]
+
+  17817932:
+    template: Unseelie
+    level:    [83, 84]
+    region:   abyssea_grauberg_n_3
+
+  17817933:
+    template: Unseelie
+    level:    [83, 84]
+    region:   abyssea_grauberg_n_3
+
+  17817934:
+    template: Unseelie
+    level:    [83, 84]
+    region:   abyssea_grauberg_n_3
+
+  17817935:
+    template: Unseelie
+    level:    [83, 84]
+    region:   abyssea_grauberg_n_3
+
+  17817936:
+    template: Unseelie
+    level:    [83, 84]
+    region:   abyssea_grauberg_n_3
+
+  17817937:
+    template: Unseelie
+    level:    [83, 84]
+    region:   abyssea_grauberg_n_3
+
+  17817938:
+    template: Unseelie
+    level:    [83, 84]
+    region:   abyssea_grauberg_n_3
+
+  17817939:
+    template: Unseelie
+    level:    [83, 84]
+    region:   abyssea_grauberg_nw
+
+  17817940:
+    template: Unseelie
+    level:    [83, 84]
+    region:   abyssea_grauberg_nw
+
+  17817941:
+    template: Unseelie
+    level:    [83, 84]
+    region:   abyssea_grauberg_nw
+
+  17817942:
+    template: Unseelie
+    level:    [83, 84]
+    region:   abyssea_grauberg_nw
+
+  17817943:
+    template: Unseelie
+    level:    [83, 84]
+    region:   abyssea_grauberg_nw
+
+  17817944:
+    template: Unseelie
+    level:    [83, 84]
+    region:   abyssea_grauberg_n
+
+  17817945:
+    template: Unseelie
+    level:    [83, 84]
+    region:   abyssea_grauberg_n
+
+  17817946:
+    template: Unseelie
+    level:    [83, 84]
+    region:   abyssea_grauberg_n
+
+  17817947:
+    template: Unseelie
+    level:    [83, 84]
+    region:   abyssea_grauberg_n_2
+
+  17817948:
+    template: Unseelie
+    level:    [83, 84]
+    region:   abyssea_grauberg_n_2
+
+  17817949:
+    template: Unseelie
+    level:    [83, 84]
+    region:   abyssea_grauberg_n_2
+
+  17817950:
+    template: Unseelie
+    level:    [83, 84]
+    region:   abyssea_grauberg_n_2
+
+  17817951:
+    template: Ungeweder
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [85, 90]
+
+  17817952:
+    template: Stygian_Djinn
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_6
+
+  17817953:
+    template: Stygian_Djinn
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_6
+
+  17817954:
+    template: Stygian_Djinn
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_6
+
+  17817955:
+    template: Stygian_Djinn
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_6
+
+  17817956:
+    template: Stygian_Djinn
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_6
+
+  17817957:
+    template: Stygian_Djinn
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_7
+
+  17817958:
+    template: Stygian_Djinn
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_7
+
+  17817959:
+    template: Stygian_Djinn
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_7
+
+  17817960:
+    template: Stygian_Djinn
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_7
+
+  17817961:
+    template: Stygian_Djinn
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_7
+
+  17817962:
+    template: Stygian_Djinn
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_7
+
+  17817963:
+    template: Stygian_Djinn
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_7
+
+  17817964:
+    template: Stygian_Djinn
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_9
+
+  17817965:
+    template: Stygian_Djinn
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_9
+
+  17817966:
+    template: Stygian_Djinn
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_9
+
+  17817967:
+    template: Stygian_Djinn
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_9
+
+  17817968:
+    template: Stygian_Djinn
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_9
+
+  17817969:
+    template: Stygian_Djinn
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_9
+
+  17817970:
+    template: Stygian_Djinn
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_8
+
+  17817971:
+    template: Stygian_Djinn
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_8
+
+  17817972:
+    template: Stygian_Djinn
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_8
+
+  17817973:
+    template: Stygian_Djinn
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_8
+
+  17817974:
+    template: Stygian_Djinn
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_8
+
+  17817975:
+    template: Baelfyr
+    at:       [689.649, 21.925, 384.076, 100]
+    level:    [90, 91]
+
+  17817976:
+    template: Monitor
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_14
+
+  17817977:
+    template: Monitor
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_14
+
+  17817978:
+    template: Monitor
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_14
+
+  17817979:
+    template: Monitor
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_14
+
+  17817980:
+    template: Monitor
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_14
+
+  17817981:
+    template: Monitor
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_14
+
+  17817982:
+    template: Monitor
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_14
+
+  17817983:
+    template: Monitor
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_14
+
+  17817984:
+    template: Monitor
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_12
+
+  17817985:
+    template: Monitor
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_12
+
+  17817986:
+    template: Monitor
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_12
+
+  17817987:
+    template: Monitor
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_12
+
+  17817988:
+    template: Monitor
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_12
+
+  17817989:
+    template: Monitor
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_12
+
+  17817990:
+    template: Monitor
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_12
+
+  17817991:
+    template: Monitor
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_13
+
+  17817992:
+    template: Monitor
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_13
+
+  17817993:
+    template: Monitor
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_13
+
+  17817994:
+    template: Monitor
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_13
+
+  17817995:
+    template: Monitor
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_13
+
+  17817996:
+    template: Monitor
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_13
+
+  17817997:
+    template: Monitor
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_13
+
+  17817998:
+    template: Monitor
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_13
+
+  17817999:
+    template: Monitor
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_10
+
+  17818000:
+    template: Monitor
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_10
+
+  17818001:
+    template: Monitor
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_10
+
+  17818002:
+    template: Monitor
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_10
+
+  17818003:
+    template: Monitor
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_10
+
+  17818004:
+    template: Monitor
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_10
+
+  17818005:
+    template: Monitor
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_10
+
+  17818006:
+    template: Monitor
+    level:    [86, 87]
+    region:   abyssea_grauberg_ne_10
+
+  17818007:
+    template: Ungeweder
+    at:       [726.047, 58.168, 665.335, 150]
+    level:    [85, 90]
+
+  17818008:
+    template: Sinister_Seidel
+    level:    [87, 88]
+    region:   abyssea_grauberg_ne_4
+
+  17818009:
+    template: Sinister_Seidel
+    level:    [87, 88]
+    region:   abyssea_grauberg_ne_4
+
+  17818010:
+    template: Sinister_Seidel
+    level:    [87, 88]
+    region:   abyssea_grauberg_ne_4
+
+  17818011:
+    template: Sinister_Seidel
+    level:    [87, 88]
+    region:   abyssea_grauberg_ne_4
+
+  17818012:
+    template: Sinister_Seidel
+    level:    [87, 88]
+    region:   abyssea_grauberg_ne_4
+
+  17818013:
+    template: Sinister_Seidel
+    level:    [87, 88]
+    region:   abyssea_grauberg_ne_4
+
+  17818014:
+    template: Sinister_Seidel
+    level:    [87, 88]
+    region:   abyssea_grauberg_ne_4
+
+  17818015:
+    template: Sinister_Seidel
+    level:    [87, 88]
+    region:   abyssea_grauberg_ne_5
+
+  17818016:
+    template: Sinister_Seidel
+    level:    [87, 88]
+    region:   abyssea_grauberg_ne_5
+
+  17818017:
+    template: Sinister_Seidel
+    level:    [87, 88]
+    region:   abyssea_grauberg_ne_5
+
+  17818018:
+    template: Sinister_Seidel
+    level:    [87, 88]
+    region:   abyssea_grauberg_ne_5
+
+  17818019:
+    template: Sinister_Seidel
+    level:    [87, 88]
+    region:   abyssea_grauberg_ne_5
+
+  17818020:
+    template: Sinister_Seidel
+    level:    [87, 88]
+    region:   abyssea_grauberg_ne_5
+
+  17818021:
+    template: Sinister_Seidel
+    level:    [87, 88]
+    region:   abyssea_grauberg_ne_5
+
+  17818022:
+    template: Sinister_Seidel
+    level:    [87, 88]
+    region:   abyssea_grauberg_ne_3
+
+  17818023:
+    template: Sinister_Seidel
+    level:    [87, 88]
+    region:   abyssea_grauberg_ne_3
+
+  17818024:
+    template: Sinister_Seidel
+    level:    [87, 88]
+    region:   abyssea_grauberg_ne_3
+
+  17818025:
+    template: Sinister_Seidel
+    level:    [87, 88]
+    region:   abyssea_grauberg_ne_3
+
+  17818026:
+    template: Sinister_Seidel
+    level:    [87, 88]
+    region:   abyssea_grauberg_ne_3
+
+  17818027:
+    template: Sinister_Seidel
+    level:    [87, 88]
+    region:   abyssea_grauberg_ne_3
+
+  17818028:
+    template: Sinister_Seidel
+    at:       [445.000, 60.000, 700.000, 209]
+    level:    [87, 88]
+
+  17818029:
+    template: Sinister_Seidel
+    at:       [436.000, 63.000, 747.000, 179]
+    level:    [87, 88]
+
+  17818030:
+    template: Sinister_Seidel
+    at:       [454.000, 64.000, 754.000, 2]
+    level:    [87, 88]
+
+  17818031:
+    template: Sinister_Seidel
+    at:       [473.000, 60.000, 741.000, 26]
+    level:    [87, 88]
+
+  17818032:
+    template: Sinister_Seidel
+    level:    [87, 88]
+    region:   abyssea_grauberg_ne
+
+  17818033:
+    template: Sinister_Seidel
+    level:    [87, 88]
+    region:   abyssea_grauberg_ne
+
+  17818034:
+    template: Sinister_Seidel
+    level:    [87, 88]
+    region:   abyssea_grauberg_ne
+
+  17818035:
+    template: Sinister_Seidel
+    level:    [87, 88]
+    region:   abyssea_grauberg_ne
+
+  17818036:
+    template: Ungeweder
+    at:       [424.556, 50.218, 656.886, 50]
+    level:    [85, 90]
+
+  17818037:
+    template: Sturdy_Pyxis
+    at:       [-181.807, -93.474, -1.799, 0]
+    level:    [0, 0]
+
+  17818038:
+    template: Sturdy_Pyxis
+    at:       [361.980, -22.946, -90.808, 0]
+    level:    [0, 0]
+
+  17818039:
+    template: Sturdy_Pyxis
+    at:       [-192.414, -17.009, 552.335, 0]
+    level:    [0, 0]
+
+  17818040:
+    template: Sturdy_Pyxis
+    at:       [98.041, -12.600, -377.979, 0]
+    level:    [0, 0]
+
+  17818041:
+    template: Ironclad_Sunderer
+    at:       [501.000, 25.000, 503.000, 220]
+    level:    [0, 0]
+
+  17818042:
+    template: Ningishzida
+    at:       [380.000, -31.000, 239.000, 99]
+    level:    [100, 100]
+
+  17818043:
+    template: Teugghia
+    at:       [-68.000, -6.000, 656.000, 71]
+    level:    [0, 0]
+
+  17818044:
+    template: Bomblix_Flamefinger
+    at:       [555.000, 23.000, -317.000, 156]
+    level:    [0, 0]
+
+  17818045:
+    template: Teekesselchen
+    at:       [319.000, 47.000, 643.000, 100]
+    level:    [0, 0]
+
+  17818046:
+    template: Minaruja
+    at:       [340.000, -15.000, -116.000, 14]
+    level:    [100, 100]
+
+  17818047:
+    template: Xibalba
+    at:       [-487.000, -168.000, 211.000, 92]
+    level:    [0, 0]
+
+  17818048:
+    template: Ika-Roa
+    at:       [158.000, -29.000, -215.000, 85]
+    level:    [0, 0]
+
+  17818049:
+    template: Lorelei
+    at:       [-192.000, -31.000, 480.000, 13]
+    level:    [0, 0]
+
+  17818050:
+    template: Burstrox_Powderpate
+    at:       [396.000, 40.000, -436.000, 24]
+    level:    [0, 0]
+
+  17818051:
+    template: Raja
+    at:       [481.000, 56.000, 680.000, 127]
+    level:    [89, 90]
+
+  17818052:
+    template: Alfard
+    at:       [309.000, -32.000, 173.000, 139]
+    level:    [105, 105]
+
+  17818053:
+    template: Azdaja
+    at:       [-568.000, -167.000, 138.000, 52]
+    level:    [100, 100]
+
+  17818054:
+    template: Amphitrite
+    at:       [-147.000, -31.000, -220.000, 243]
+    level:    [0, 0]
+
+  17818055:
+    template: Raja
+    at:       [495.000, 56.000, 679.000, 58]
+    level:    [89, 90]
+
+  17818056:
+    template: Alfard
+    at:       [309.000, -33.000, 158.000, 104]
+    level:    [105, 105]
+
+  17818057:
+    template: Azdaja
+    at:       [-552.000, -169.000, 138.000, 0]
+    level:    [100, 100]
+
+  17818058:
+    template: Amphitrite
+    at:       [-136.000, -31.000, -231.000, 48]
+    level:    [0, 0]
+
+  17818059:
+    template: Raja
+    at:       [465.000, 56.000, 679.000, 254]
+    level:    [89, 90]
+
+  17818060:
+    template: Alfard
+    at:       [309.000, -39.000, 189.000, 65]
+    level:    [105, 105]
+
+  17818061:
+    template: Azdaja
+    at:       [-582.000, -167.000, 138.000, 1]
+    level:    [100, 100]
+
+  17818062:
+    template: Amphitrite
+    at:       [-162.000, -31.000, -220.000, 250]
+    level:    [0, 0]
+
+  17818063:
+    template: Fuath
+    level:    [105, 105]
+    region:   abyssea_grauberg_nw
+
+  17818064:
+    template: Fleshflayer_Killakriq
+    level:    [105, 105]
+    region:   abyssea_grauberg_se_3
+
+  17818065:
+    template: Assailer_Chariot
+    level:    [100, 100]
+    region:   abyssea_grauberg_ne_8
+
+  17818066:
+    template: Deelgeed
+    level:    [0, 0]
+    region:   abyssea_grauberg_w_6
+
+  17818067:
+    template: Melo_Melo
+    level:    [100, 100]
+    region:   abyssea_grauberg_s_3
+
+  17818068:
+    template: Rencounter_Chariot
+    level:    [100, 100]
+    region:   abyssea_grauberg_ne_11
+
+  17818069:
+    template: Jaculus
+    level:    [100, 100]
+    region:   abyssea_grauberg_c_3
+
+  17818070:
+    template: Maere
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17818071:
+    template: Gamayun
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17818072:
+    template: Air_Elemental
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17818073:
+    template: Air_Elemental
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17818074:
+    template: Air_Elemental
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17818075:
+    template: Dark_Elemental
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17818076:
+    template: Dark_Elemental
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17818077:
+    template: Dark_Elemental
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]

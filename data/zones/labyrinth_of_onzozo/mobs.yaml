@@ -1,0 +1,1003 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17649665:
+    template: Goblin_Poacher
+    at:       [-18.780, -10.640, -255.732, 123]
+    level:    [46, 49]
+
+  17649666:
+    template: Goblin_Robber
+    at:       [-23.164, -10.905, -252.212, 127]
+    level:    [46, 49]
+
+  17649667:
+    template: Goblin_Reaper
+    level:    [46, 49]
+    region:   labyrinth_of_onzozo_s
+
+  17649668:
+    template: Labyrinth_Leech
+    level:    [45, 48]
+    region:   labyrinth_of_onzozo_s_2
+
+  17649669:
+    template: Labyrinth_Leech
+    level:    [45, 48]
+    region:   labyrinth_of_onzozo_s_2
+
+  17649670:
+    template: Labyrinth_Leech
+    level:    [45, 48]
+    region:   labyrinth_of_onzozo_s_2
+
+  17649671:
+    template: Air_Elemental
+    level:    [60, 62]
+    region:   labyrinth_of_onzozo_s_2
+
+  17649672:
+    template: Labyrinth_Leech
+    level:    [45, 48]
+    region:   labyrinth_of_onzozo_s_3
+
+  17649673:
+    template: Labyrinth_Leech
+    level:    [45, 48]
+    region:   labyrinth_of_onzozo_s_3
+
+  17649674:
+    template: Cockatrice
+    level:    [50, 53]
+    region:   labyrinth_of_onzozo_s_3
+
+  17649675:
+    template: Cockatrice
+    level:    [50, 53]
+    region:   labyrinth_of_onzozo_s_3
+
+  17649676:
+    template: Goblin_Poacher
+    level:    [46, 49]
+    region:   labyrinth_of_onzozo_s_3
+
+  17649677:
+    template: Goblin_Trader
+    level:    [46, 49]
+    region:   labyrinth_of_onzozo_s_4
+
+  17649678:
+    template: Goblins_Leech
+    level:    [33, 35]
+    region:   labyrinth_of_onzozo_s_4
+
+  17649679:
+    template: Goblin_Robber
+    level:    [46, 49]
+    region:   labyrinth_of_onzozo_s_4
+
+  17649680:
+    template: Goblin_Reaper
+    level:    [46, 49]
+    region:   labyrinth_of_onzozo_s_4
+
+  17649681:
+    template: Cockatrice
+    level:    [50, 53]
+    region:   labyrinth_of_onzozo_s_4
+
+  17649682:
+    template: Cockatrice
+    level:    [50, 53]
+    region:   labyrinth_of_onzozo_s_4
+
+  17649683:
+    template: Mushussu
+    at:       [-10.641, -0.414, -130.287, 115]
+    level:    [51, 54]
+
+  17649684:
+    template: Cockatrice
+    level:    [50, 53]
+    region:   labyrinth_of_onzozo_s_5
+
+  17649685:
+    template: Cockatrice
+    level:    [50, 53]
+    region:   labyrinth_of_onzozo_se
+
+  17649686:
+    template: Cockatrice
+    level:    [50, 53]
+    region:   labyrinth_of_onzozo_se
+
+  17649687:
+    template: Cockatrice
+    level:    [50, 53]
+    region:   labyrinth_of_onzozo_se
+
+  17649688:
+    template: Goblin_Miner
+    at:       [130.570, -0.500, -122.544, 127]
+    level:    [51, 54]
+
+  17649689:
+    template: Goblin_Bouncer
+    level:    [51, 54]
+    region:   labyrinth_of_onzozo_se_2
+
+  17649690:
+    template: Goblin_Hunter
+    level:    [51, 54]
+    region:   labyrinth_of_onzozo_se_2
+
+  17649691:
+    template: Cockatrice
+    level:    [50, 53]
+    region:   labyrinth_of_onzozo_se_2
+
+  17649692:
+    template: Cockatrice
+    level:    [50, 53]
+    region:   labyrinth_of_onzozo_se_2
+
+  17649693:
+    template: Mysticmaker_Profblix
+    level:    [50, 52]
+    region:   labyrinth_of_onzozo_se_2
+
+  17649694:
+    template: Goblin_Enchanter
+    at:       [111.970, -0.342, -87.012, 127]
+    level:    [51, 54]
+
+  17649695:
+    template: Goblin_Hunter
+    level:    [51, 54]
+    region:   labyrinth_of_onzozo_e_3
+
+  17649696:
+    template: Cockatrice
+    level:    [50, 53]
+    region:   labyrinth_of_onzozo_e_3
+
+  17649697:
+    template: Cockatrice
+    level:    [50, 53]
+    region:   labyrinth_of_onzozo_e_3
+
+  17649698:
+    template: Cockatrice
+    level:    [50, 53]
+    region:   labyrinth_of_onzozo_e_3
+
+  17649699:
+    template: Cockatrice
+    level:    [50, 53]
+    region:   labyrinth_of_onzozo_se_3
+
+  17649700:
+    template: Cockatrice
+    at:       [69.726, -1.462, -104.983, 103]
+    level:    [50, 53]
+
+  17649701:
+    template: Mushussu
+    at:       [-73.000, 4.000, -43.000, 103]
+    level:    [52, 55]
+
+  17649702:
+    template: Cockatrice
+    at:       [41.936, -0.390, -67.656, 31]
+    level:    [50, 53]
+
+  17649703:
+    template: Goblin_Miner
+    at:       [50.710, -0.945, -81.306, 127]
+    level:    [51, 54]
+
+  17649704:
+    template: Goblin_Bouncer
+    at:       [46.618, -0.144, -85.193, 127]
+    level:    [51, 54]
+
+  17649705:
+    template: Cockatrice
+    at:       [38.185, -0.004, -77.104, 89]
+    level:    [50, 53]
+
+  17649706:
+    template: Goblin_Enchanter
+    level:    [52, 55]
+    region:   labyrinth_of_onzozo_e_2
+
+  17649707:
+    template: Goblin_Hunter
+    level:    [52, 55]
+    region:   labyrinth_of_onzozo_e_2
+
+  17649708:
+    template: Flying_Manta
+    at:       [60.418, 4.432, -34.907, 127]
+    level:    [55, 59]
+
+  17649709:
+    template: Cockatrice
+    at:       [56.095, 3.947, -40.425, 17]
+    level:    [50, 53]
+
+  17649710:
+    template: Goblin_Enchanter
+    at:       [55.292, 3.376, -29.237, 17]
+    level:    [52, 55]
+
+  17649711:
+    template: Flying_Manta
+    at:       [118.588, 13.677, -20.099, 47]
+    level:    [55, 59]
+
+  17649712:
+    template: Goblin_Miner
+    at:       [109.529, 12.465, -17.995, 127]
+    level:    [52, 55]
+
+  17649713:
+    template: Air_Elemental
+    at:       [104.094, 11.088, -20.411, 21]
+    level:    [60, 62]
+
+  17649714:
+    template: Mushussu
+    level:    [52, 55]
+    region:   labyrinth_of_onzozo_e
+
+  17649715:
+    template: Mushussu
+    level:    [52, 55]
+    region:   labyrinth_of_onzozo_e
+
+  17649716:
+    template: Goblin_Enchanter
+    level:    [53, 56]
+    region:   labyrinth_of_onzozo_e
+
+  17649717:
+    template: Goblin_Hunter
+    level:    [53, 56]
+    region:   labyrinth_of_onzozo_e
+
+  17649718:
+    template: Goblin_Miner
+    at:       [90.256, 9.500, -3.693, 181]
+    level:    [53, 56]
+
+  17649719:
+    template: Goblin_Bouncer
+    level:    [53, 56]
+    region:   labyrinth_of_onzozo_e
+
+  17649720:
+    template: Goblin_Enchanter
+    level:    [53, 56]
+    region:   labyrinth_of_onzozo_c_4
+
+  17649721:
+    template: Goblin_Hunter
+    at:       [139.430, 14.176, 184.465, 127]
+    level:    [53, 56]
+
+  17649722:
+    template: Goblin_Miner
+    level:    [53, 56]
+    region:   labyrinth_of_onzozo_c_4
+
+  17649723:
+    template: Goblin_Bouncer
+    level:    [53, 56]
+    region:   labyrinth_of_onzozo_c_4
+
+  17649724:
+    template: Goblin_Enchanter
+    at:       [37.937, 10.184, 25.490, 99]
+    level:    [53, 56]
+
+  17649725:
+    template: Air_Elemental
+    at:       [20.170, 9.331, -23.996, 127]
+    level:    [60, 62]
+
+  17649726:
+    template: Goblin_Miner
+    at:       [1.546, 9.691, -28.864, 127]
+    level:    [53, 56]
+
+  17649727:
+    template: Goblin_Bouncer
+    at:       [-11.000, 9.892, -51.000, 85]
+    level:    [53, 56]
+
+  17649728:
+    template: Mushussu
+    at:       [-4.768, 9.598, -49.266, 127]
+    level:    [52, 55]
+
+  17649729:
+    template: Goblin_Miner
+    at:       [-30.588, 12.114, -60.534, 97]
+    level:    [53, 56]
+
+  17649730:
+    template: Flying_Manta
+    at:       [-39.356, 14.265, -60.406, 127]
+    level:    [55, 59]
+
+  17649731:
+    template: Lord_of_Onzozo
+    at:       [-44.000, 14.000, -58.000, 73]
+    level:    [74, 77]
+
+  17649732:
+    template: Goblin_Hunter
+    at:       [44.053, 10.022, 34.597, 127]
+    level:    [53, 56]
+
+  17649733:
+    template: Goblin_Bouncer
+    level:    [53, 56]
+    region:   labyrinth_of_onzozo_c_3
+
+  17649734:
+    template: Cockatrice
+    level:    [50, 53]
+    region:   labyrinth_of_onzozo_c
+
+  17649735:
+    template: Mushussu
+    level:    [51, 54]
+    region:   labyrinth_of_onzozo_c
+
+  17649736:
+    template: Cockatrice
+    at:       [-70.538, 4.583, -83.044, 127]
+    level:    [50, 53]
+
+  17649737:
+    template: Mushussu
+    level:    [51, 54]
+    region:   labyrinth_of_onzozo_w_3
+
+  17649738:
+    template: Cockatrice
+    at:       [-58.418, 4.204, -93.767, 12]
+    level:    [50, 53]
+
+  17649739:
+    template: Mushussu
+    level:    [51, 54]
+    region:   labyrinth_of_onzozo_w_3
+
+  17649740:
+    template: Cockatrice
+    level:    [50, 53]
+    region:   labyrinth_of_onzozo_w_3
+
+  17649741:
+    template: Cockatrice
+    level:    [50, 53]
+    region:   labyrinth_of_onzozo_w_3
+
+  17649742:
+    template: Mushussu
+    level:    [51, 54]
+    region:   labyrinth_of_onzozo_w_3
+
+  17649743:
+    template: Mushussu
+    level:    [51, 54]
+    region:   labyrinth_of_onzozo_w_4
+
+  17649744:
+    template: Mushussu
+    level:    [51, 54]
+    region:   labyrinth_of_onzozo_w_4
+
+  17649745:
+    template: Mushussu
+    level:    [51, 54]
+    region:   labyrinth_of_onzozo_w_4
+
+  17649746:
+    template: Mushussu
+    level:    [51, 54]
+    region:   labyrinth_of_onzozo_w_4
+
+  17649747:
+    template: Cockatrice
+    level:    [50, 53]
+    region:   labyrinth_of_onzozo_w_4
+
+  17649748:
+    template: Goblin_Bouncer
+    at:       [-140.886, 5.510, -65.254, 49]
+    level:    [53, 56]
+
+  17649749:
+    template: Air_Elemental
+    at:       [-144.420, 5.812, -59.667, 127]
+    level:    [60, 62]
+
+  17649750:
+    template: Goblin_Miner
+    level:    [53, 56]
+    region:   labyrinth_of_onzozo_w
+
+  17649751:
+    template: Goblin_Hunter
+    level:    [53, 56]
+    region:   labyrinth_of_onzozo_w
+
+  17649752:
+    template: Goblin_Enchanter
+    level:    [53, 56]
+    region:   labyrinth_of_onzozo_w
+
+  17649753:
+    template: Goblin_Bouncer
+    at:       [-179.000, 10.000, -63.000, 127]
+    level:    [53, 56]
+
+  17649754:
+    template: Goblin_Miner
+    at:       [-168.862, 9.809, -97.066, 32]
+    level:    [53, 56]
+
+  17649755:
+    template: Flying_Manta
+    at:       [-100.912, 4.263, -21.983, 87]
+    level:    [55, 59]
+
+  17649756:
+    template: Mushussu
+    level:    [54, 57]
+    region:   labyrinth_of_onzozo_w_2
+
+  17649757:
+    template: Mushussu
+    level:    [54, 57]
+    region:   labyrinth_of_onzozo_w_2
+
+  17649758:
+    template: Flying_Manta
+    level:    [55, 59]
+    region:   labyrinth_of_onzozo_w_2
+
+  17649759:
+    template: Flying_Manta
+    level:    [55, 59]
+    region:   labyrinth_of_onzozo_w_2
+
+  17649760:
+    template: Flying_Manta
+    level:    [55, 59]
+    region:   labyrinth_of_onzozo_w_2
+
+  17649761:
+    template: Peg_Powler
+    at:       [-77.000, 4.000, 58.000, 127]
+    level:    [61, 62]
+
+  17649762:
+    template: Flying_Manta
+    level:    [55, 59]
+    region:   labyrinth_of_onzozo_w_5
+
+  17649763:
+    template: Flying_Manta
+    level:    [55, 59]
+    region:   labyrinth_of_onzozo_w_5
+
+  17649764:
+    template: Goblin_Hunter
+    level:    [55, 58]
+    region:   labyrinth_of_onzozo_w_5
+
+  17649765:
+    template: Goblin_Bouncer
+    level:    [55, 58]
+    region:   labyrinth_of_onzozo_w_5
+
+  17649766:
+    template: Flying_Manta
+    level:    [55, 59]
+    region:   labyrinth_of_onzozo_nw_4
+
+  17649767:
+    template: Goblin_Miner
+    level:    [55, 58]
+    region:   labyrinth_of_onzozo_nw_4
+
+  17649768:
+    template: Goblin_Enchanter
+    level:    [55, 58]
+    region:   labyrinth_of_onzozo_nw_4
+
+  17649769:
+    template: Flying_Manta
+    level:    [55, 59]
+    region:   labyrinth_of_onzozo_c_2
+
+  17649770:
+    template: Flying_Manta
+    level:    [55, 59]
+    region:   labyrinth_of_onzozo_c_2
+
+  17649771:
+    template: Goblin_Miner
+    level:    [55, 58]
+    region:   labyrinth_of_onzozo_c_2
+
+  17649772:
+    template: Goblin_Enchanter
+    level:    [55, 58]
+    region:   labyrinth_of_onzozo_c_2
+
+  17649773:
+    template: Flying_Manta
+    level:    [55, 59]
+    region:   labyrinth_of_onzozo_n_2
+
+  17649774:
+    template: Flying_Manta
+    level:    [55, 59]
+    region:   labyrinth_of_onzozo_n_2
+
+  17649775:
+    template: Goblin_Hunter
+    level:    [55, 58]
+    region:   labyrinth_of_onzozo_n_2
+
+  17649776:
+    template: Goblin_Bouncer
+    level:    [55, 58]
+    region:   labyrinth_of_onzozo_n_2
+
+  17649777:
+    template: Water_Elemental
+    at:       [-47.494, 3.177, 94.569, 127]
+    level:    [60, 62]
+
+  17649778:
+    template: Torama
+    level:    [70, 73]
+    region:   labyrinth_of_onzozo_n
+
+  17649779:
+    template: Torama
+    level:    [70, 73]
+    region:   labyrinth_of_onzozo_n
+
+  17649780:
+    template: Torama
+    level:    [70, 73]
+    region:   labyrinth_of_onzozo_nw_3
+
+  17649781:
+    template: Air_Elemental
+    at:       [-90.324, 2.007, 136.288, 6]
+    level:    [60, 62]
+
+  17649782:
+    template: Torama
+    level:    [70, 73]
+    region:   labyrinth_of_onzozo_nw_2
+
+  17649783:
+    template: Labyrinth_Manticore
+    at:       [-119.897, 0.275, 127.060, 127]
+    level:    [71, 74]
+
+  17649784:
+    template: Narasimha
+    at:       [-123.000, -0.600, 119.000, 127]
+    level:    [75, 77]
+
+  17649785:
+    template: Water_Elemental
+    at:       [-117.092, -0.101, 114.090, 127]
+    level:    [60, 62]
+
+  17649786:
+    template: Torama
+    level:    [70, 73]
+    region:   labyrinth_of_onzozo_nw
+
+  17649787:
+    template: Labyrinth_Manticore
+    level:    [71, 74]
+    region:   labyrinth_of_onzozo_nw
+
+  17649788:
+    template: Air_Elemental
+    at:       [-136.518, -1.299, 138.352, 45]
+    level:    [60, 62]
+
+  17649789:
+    template: Torama
+    at:       [-140.842, -0.873, 150.054, 199]
+    level:    [70, 73]
+
+  17649790:
+    template: Labyrinth_Manticore
+    at:       [-140.000, -0.955, 144.000, 53]
+    level:    [71, 74]
+
+  17649791:
+    template: Goblin_Bouncer
+    at:       [67.252, 11.468, 57.109, 80]
+    level:    [54, 57]
+
+  17649792:
+    template: Goblin_Hunter
+    at:       [63.429, 10.982, 59.969, 122]
+    level:    [56, 58]
+
+  17649793:
+    template: Goblin_Hunter
+    level:    [54, 57]
+    region:   labyrinth_of_onzozo_ne_2
+
+  17649794:
+    template: Goblin_Miner
+    level:    [54, 57]
+    region:   labyrinth_of_onzozo_ne_2
+
+  17649795:
+    template: Hellion
+    at:       [97.454, 14.882, 58.474, 49]
+    level:    [66, 66]
+
+  17649796:
+    template: Flying_Manta
+    at:       [121.000, 14.000, 59.000, 91]
+    level:    [55, 59]
+
+  17649797:
+    template: Tainted_Flesh
+    at:       [136.566, 14.708, 70.077, 127]
+    level:    [60, 63]
+
+  17649798:
+    template: Goblin_Bouncer
+    at:       [106.777, 14.600, 106.716, 168]
+    level:    [55, 58]
+
+  17649799:
+    template: Goblin_Enchanter
+    at:       [-40.033, 4.917, 43.545, 127]
+    level:    [54, 57]
+
+  17649800:
+    template: Goblin_Miner
+    at:       [95.406, 14.698, 98.696, 127]
+    level:    [55, 58]
+
+  17649801:
+    template: Goblin_Miner
+    level:    [55, 58]
+    region:   labyrinth_of_onzozo_ne_3
+
+  17649802:
+    template: Goblin_Enchanter
+    level:    [54, 57]
+    region:   labyrinth_of_onzozo_ne_3
+
+  17649803:
+    template: Goblin_Bouncer
+    at:       [137.750, 12.727, 143.599, 21]
+    level:    [55, 58]
+
+  17649804:
+    template: Goblin_Enchanter
+    at:       [116.743, 14.863, 156.634, 127]
+    level:    [54, 57]
+
+  17649805:
+    template: Goblin_Hunter
+    at:       [90.790, 11.967, 48.486, 34]
+    level:    [54, 57]
+
+  17649806:
+    template: Goblin_Hunter
+    at:       [128.789, 14.306, 146.893, 9]
+    level:    [54, 57]
+
+  17649807:
+    template: Air_Elemental
+    at:       [137.411, 14.599, 197.831, 122]
+    level:    [60, 62]
+
+  17649808:
+    template: Flying_Manta
+    at:       [130.927, 14.478, 208.215, 162]
+    level:    [55, 59]
+
+  17649809:
+    template: Water_Elemental
+    at:       [132.765, 14.227, 205.942, 33]
+    level:    [60, 62]
+
+  17649810:
+    template: Tainted_Flesh
+    at:       [127.523, 14.327, 210.258, 76]
+    level:    [60, 63]
+
+  17649811:
+    template: Torama
+    level:    [70, 73]
+    region:   labyrinth_of_onzozo_ne
+
+  17649812:
+    template: Torama
+    level:    [70, 73]
+    region:   labyrinth_of_onzozo_ne
+
+  17649813:
+    template: Torama
+    level:    [70, 73]
+    region:   labyrinth_of_onzozo_n_3
+
+  17649814:
+    template: Torama
+    level:    [70, 73]
+    region:   labyrinth_of_onzozo_n_3
+
+  17649815:
+    template: Torama
+    level:    [70, 73]
+    region:   labyrinth_of_onzozo_n_6
+
+  17649816:
+    template: Torama
+    level:    [70, 73]
+    region:   labyrinth_of_onzozo_n_6
+
+  17649817:
+    template: Torama
+    at:       [53.826, 4.287, 143.153, 127]
+    level:    [70, 73]
+
+  17649818:
+    template: Soulstealer_Skullnix
+    at:       [38.000, 5.000, 159.000, 127]
+    level:    [69, 72]
+
+  17649819:
+    template: Torama
+    level:    [70, 73]
+    region:   labyrinth_of_onzozo_n_4
+
+  17649820:
+    template: Torama
+    level:    [70, 73]
+    region:   labyrinth_of_onzozo_n_4
+
+  17649821:
+    template: Labyrinth_Manticore
+    level:    [71, 74]
+    region:   labyrinth_of_onzozo_n_4
+
+  17649822:
+    template: Ose
+    at:       [17.000, 4.000, 152.000, 113]
+    level:    [74, 76]
+
+  17649823:
+    template: Torama
+    level:    [70, 73]
+    region:   labyrinth_of_onzozo_n_5
+
+  17649824:
+    template: Torama
+    at:       [9.000, 4.000, 176.000, 127]
+    level:    [70, 73]
+
+  17649825:
+    template: Goblin_Alchemist
+    level:    [66, 69]
+    region:   labyrinth_of_onzozo_n_5
+
+  17649826:
+    template: Labyrinth_Manticore
+    level:    [71, 74]
+    region:   labyrinth_of_onzozo_n_5
+
+  17649827:
+    template: Wyvern
+    at:       [16.000, 5.000, 185.000, 127]
+    level:    [72, 75]
+
+  17649828:
+    template: Water_Elemental
+    at:       [30.421, 5.318, 156.935, 33]
+    level:    [60, 62]
+
+  17649829:
+    template: Goblin_Alchemist
+    at:       [13.729, 4.814, 166.295, 127]
+    level:    [66, 69]
+
+  17649830:
+    template: Water_Elemental
+    at:       [-7.370, 5.106, 170.640, 127]
+    level:    [60, 62]
+
+  17649831:
+    template: Goblin_Bandit
+    at:       [5.096, 3.930, 166.865, 126]
+    level:    [66, 69]
+
+  17649832:
+    template: Goblin_Shepherd
+    at:       [16.965, 4.892, 164.793, 138]
+    level:    [66, 69]
+
+  17649833:
+    template: Goblins_Leech
+    at:       [16.640, 5.467, 163.238, 133]
+    level:    [49, 50]
+
+  17649834:
+    template: Goblin_Mercenary
+    at:       [43.103, 5.677, 181.977, 23]
+    level:    [66, 69]
+
+  17649835:
+    template: Water_Elemental
+    at:       [19.981, 4.995, 167.218, 127]
+    level:    [60, 62]
+
+  17649836:
+    template: Goblin_Alchemist
+    at:       [46.454, 4.606, 179.825, 126]
+    level:    [66, 69]
+
+  17649837:
+    template: Goblin_Bandit
+    at:       [29.024, 3.474, 185.723, 184]
+    level:    [66, 69]
+
+  17649838:
+    template: Goblin_Shepherd
+    at:       [38.347, 5.500, 178.050, 56]
+    level:    [66, 69]
+
+  17649839:
+    template: Goblins_Leech
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [49, 50]
+
+  17649840:
+    template: Goblin_Mercenary
+    at:       [19.549, 4.570, 181.891, 85]
+    level:    [66, 69]
+
+  17649841:
+    template: Water_Elemental
+    at:       [45.618, 4.666, 179.014, 127]
+    level:    [60, 62]
+
+  17649842:
+    template: Goblin_Bandit
+    at:       [42.977, 4.970, 201.956, 39]
+    level:    [66, 69]
+
+  17649843:
+    template: Goblin_Shepherd
+    at:       [41.150, 5.026, 204.483, 36]
+    level:    [66, 69]
+
+  17649844:
+    template: Goblins_Leech
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [49, 50]
+
+  17649845:
+    template: Goblin_Mercenary
+    at:       [51.128, 4.500, 190.142, 40]
+    level:    [66, 69]
+
+  17649846:
+    template: Water_Elemental
+    at:       [42.836, 4.980, 202.594, 127]
+    level:    [60, 62]
+
+  17649847:
+    template: Babaulas
+    at:       [28.000, 5.000, 290.000, 127]
+    level:    [96, 98]
+
+  17649848:
+    template: Babaulas
+    at:       [13.000, 4.000, 292.000, 127]
+    level:    [96, 98]
+
+  17649849:
+    template: Babaulas
+    at:       [2.000, 4.000, 278.000, 127]
+    level:    [96, 98]
+
+  17649850:
+    template: Boribaba
+    at:       [19.000, 5.000, 272.000, 127]
+    level:    [95, 97]
+
+  17649851:
+    template: Boribaba
+    at:       [39.000, 3.000, 280.000, 127]
+    level:    [95, 97]
+
+  17649852:
+    template: Babaulas
+    at:       [23.320, 4.063, 265.671, 77]
+    level:    [96, 98]
+
+  17649853:
+    template: Babaulas
+    at:       [18.000, 5.000, 267.000, 127]
+    level:    [96, 98]
+
+  17649854:
+    template: Babaulas
+    at:       [25.000, 5.000, 271.000, 127]
+    level:    [96, 98]
+
+  17649855:
+    template: Babaulas
+    at:       [10.000, 5.000, 280.000, 127]
+    level:    [96, 98]
+
+  17649856:
+    template: Boribaba
+    at:       [22.000, 6.000, 279.000, 127]
+    level:    [95, 97]
+
+  17649857:
+    template: Boribaba
+    at:       [4.000, 5.000, 287.000, 127]
+    level:    [95, 97]
+
+  17649858:
+    template: Air_Elemental
+    at:       [20.325, 4.091, 233.179, 127]
+    level:    [60, 62]
+
+  17649859:
+    template: Water_Elemental
+    at:       [15.764, 5.079, 268.452, 127]
+    level:    [60, 62]
+
+  17649860:
+    template: Ubume
+    at:       [-180.802, 9.323, -57.534, 25]
+    level:    [54, 54]
+
+  17649861:
+    template: Megapod_Megalops
+    at:       [115.000, 14.680, 164.100, 92]
+    level:    [80, 80]
+
+  17649862:
+    template: Voso
+    at:       [-124.003, -0.189, 126.307, 56]
+    level:    [0, 0]
+
+  17649863:
+    template: Voso
+    at:       [-29.863, 4.967, 55.237, 78]
+    level:    [0, 0]
+
+  17649864:
+    template: Voso
+    at:       [47.854, 4.500, 152.825, 66]
+    level:    [0, 0]

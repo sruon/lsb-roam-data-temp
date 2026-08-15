@@ -1,0 +1,3473 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17141761:
+    template: River_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [62, 64]
+
+  17141762:
+    template: Pug_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [62, 64]
+
+  17141763:
+    template: Hill_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [62, 64]
+
+  17141764:
+    template: Fighting_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [62, 64]
+
+  17141765:
+    template: Gill_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [62, 64]
+
+  17141766:
+    template: Rock_Eater
+    level:    [33, 35]
+    region:   grauberg_s_sw
+
+  17141767:
+    template: Rock_Eater
+    level:    [33, 35]
+    region:   grauberg_s_sw
+
+  17141768:
+    template: Rock_Eater
+    level:    [33, 35]
+    region:   grauberg_s_sw
+
+  17141769:
+    template: Rock_Eater
+    level:    [33, 35]
+    region:   grauberg_s_sw_2
+
+  17141770:
+    template: Rock_Eater
+    level:    [33, 35]
+    region:   grauberg_s_sw_2
+
+  17141771:
+    template: War_Lizard
+    level:    [41, 49]
+    region:   grauberg_s_sw_2
+
+  17141772:
+    template: War_Lizard
+    level:    [41, 49]
+    region:   grauberg_s_sw_2
+
+  17141773:
+    template: Air_Elemental
+    level:    [80, 80]
+    region:   grauberg_s_sw_2
+
+  17141774:
+    template: War_Lizard
+    level:    [41, 49]
+    region:   grauberg_s_sw_3
+
+  17141775:
+    template: War_Lizard
+    level:    [41, 49]
+    region:   grauberg_s_sw_3
+
+  17141776:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_sw_3
+
+  17141777:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_sw_3
+
+  17141778:
+    template: Rock_Eater
+    level:    [33, 35]
+    region:   grauberg_s_sw_4
+
+  17141779:
+    template: Rock_Eater
+    level:    [33, 35]
+    region:   grauberg_s_sw_4
+
+  17141780:
+    template: Rock_Eater
+    level:    [33, 35]
+    region:   grauberg_s_sw_4
+
+  17141781:
+    template: War_Lizard
+    level:    [41, 49]
+    region:   grauberg_s_sw_4
+
+  17141782:
+    template: War_Lizard
+    level:    [41, 49]
+    region:   grauberg_s_sw_4
+
+  17141783:
+    template: Rock_Eater
+    level:    [33, 35]
+    region:   grauberg_s_sw_6
+
+  17141784:
+    template: Rock_Eater
+    level:    [33, 35]
+    region:   grauberg_s_sw_6
+
+  17141785:
+    template: Rock_Eater
+    level:    [33, 35]
+    region:   grauberg_s_sw_6
+
+  17141786:
+    template: War_Lizard
+    level:    [41, 49]
+    region:   grauberg_s_sw_6
+
+  17141787:
+    template: War_Lizard
+    level:    [41, 49]
+    region:   grauberg_s_sw_6
+
+  17141788:
+    template: Rock_Eater
+    level:    [33, 35]
+    region:   grauberg_s_sw_9
+
+  17141789:
+    template: Rock_Eater
+    level:    [33, 35]
+    region:   grauberg_s_sw_9
+
+  17141790:
+    template: War_Lizard
+    level:    [41, 49]
+    region:   grauberg_s_sw_10
+
+  17141791:
+    template: War_Lizard
+    level:    [41, 49]
+    region:   grauberg_s_sw_10
+
+  17141792:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_sw_10
+
+  17141793:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_sw_10
+
+  17141794:
+    template: Black_Wolf
+    level:    [49, 50]
+    region:   grauberg_s_sw_10
+
+  17141795:
+    template: War_Lizard
+    level:    [41, 49]
+    region:   grauberg_s_sw_12
+
+  17141796:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_sw_12
+
+  17141797:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_sw_12
+
+  17141798:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_sw_13
+
+  17141799:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_sw_13
+
+  17141800:
+    template: Rock_Eater
+    level:    [33, 35]
+    region:   grauberg_s_sw_8
+
+  17141801:
+    template: Rock_Eater
+    level:    [33, 35]
+    region:   grauberg_s_sw_8
+
+  17141802:
+    template: War_Lizard
+    level:    [41, 49]
+    region:   grauberg_s_sw_7
+
+  17141803:
+    template: War_Lizard
+    level:    [41, 49]
+    region:   grauberg_s_sw_7
+
+  17141804:
+    template: War_Lizard
+    level:    [41, 49]
+    region:   grauberg_s_s_2
+
+  17141805:
+    template: War_Lizard
+    level:    [41, 49]
+    region:   grauberg_s_s_2
+
+  17141806:
+    template: Wingrats
+    level:    [41, 49]
+    region:   grauberg_s_s_2
+
+  17141807:
+    template: Wingrats
+    level:    [41, 49]
+    region:   grauberg_s_s_2
+
+  17141808:
+    template: War_Lizard
+    level:    [41, 49]
+    region:   grauberg_s_s_6
+
+  17141809:
+    template: War_Lizard
+    level:    [41, 49]
+    region:   grauberg_s_s_6
+
+  17141810:
+    template: Wingrats
+    level:    [41, 49]
+    region:   grauberg_s_s_6
+
+  17141811:
+    template: Wingrats
+    level:    [41, 49]
+    region:   grauberg_s_s_6
+
+  17141812:
+    template: War_Lizard
+    level:    [41, 49]
+    region:   grauberg_s_s_10
+
+  17141813:
+    template: War_Lizard
+    level:    [41, 49]
+    region:   grauberg_s_s_10
+
+  17141814:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_s_10
+
+  17141815:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_s_10
+
+  17141816:
+    template: War_Lizard
+    level:    [41, 49]
+    region:   grauberg_s_s_12
+
+  17141817:
+    template: War_Lizard
+    level:    [41, 49]
+    region:   grauberg_s_s_12
+
+  17141818:
+    template: Wivre
+    at:       [196.881, 23.923, -625.889, 86]
+    level:    [68, 74]
+
+  17141819:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_s_12
+
+  17141820:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_s_12
+
+  17141821:
+    template: War_Lizard
+    level:    [41, 49]
+    region:   grauberg_s_s_13
+
+  17141822:
+    template: War_Lizard
+    level:    [41, 49]
+    region:   grauberg_s_s_13
+
+  17141823:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_s_13
+
+  17141824:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_s_13
+
+  17141825:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_s_7
+
+  17141826:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_s_7
+
+  17141827:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_s_4
+
+  17141828:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_s_4
+
+  17141829:
+    template: Black_Wolf
+    level:    [49, 50]
+    region:   grauberg_s_s_3
+
+  17141830:
+    template: Knotty_Treant
+    level:    [62, 65]
+    region:   grauberg_s_s
+
+  17141831:
+    template: Goblin_Freesword
+    level:    [61, 64]
+    region:   grauberg_s_s
+
+  17141832:
+    template: Goblin_Corpsman
+    level:    [62, 64]
+    region:   grauberg_s_s
+
+  17141833:
+    template: Knotty_Treant
+    level:    [62, 65]
+    region:   grauberg_s_c_2
+
+  17141834:
+    template: Knotty_Treant
+    level:    [62, 65]
+    region:   grauberg_s_c_2
+
+  17141835:
+    template: Black_Wolf
+    level:    [49, 50]
+    region:   grauberg_s_c_2
+
+  17141836:
+    template: Feyweald_Sapling
+    level:    [92, 94]
+    region:   grauberg_s_s_5
+
+  17141837:
+    template: Feyweald_Sapling
+    level:    [92, 94]
+    region:   grauberg_s_s_5
+
+  17141838:
+    template: Feyweald_Sapling
+    level:    [92, 94]
+    region:   grauberg_s_s_5
+
+  17141839:
+    template: Feyweald_Sapling
+    level:    [92, 94]
+    region:   grauberg_s_s_5
+
+  17141840:
+    template: Feyweald_Sapling
+    level:    [92, 94]
+    region:   grauberg_s_s_5
+
+  17141841:
+    template: Feyweald_Sapling
+    level:    [92, 94]
+    region:   grauberg_s_s_5
+
+  17141842:
+    template: Feyweald_Sapling
+    level:    [92, 94]
+    region:   grauberg_s_s_5
+
+  17141843:
+    template: Feyweald_Sapling
+    level:    [92, 94]
+    region:   grauberg_s_c_5
+
+  17141844:
+    template: Feyweald_Sapling
+    level:    [92, 94]
+    region:   grauberg_s_c_5
+
+  17141845:
+    template: Feyweald_Sapling
+    level:    [92, 94]
+    region:   grauberg_s_c_5
+
+  17141846:
+    template: Feyweald_Sapling
+    level:    [92, 94]
+    region:   grauberg_s_c_5
+
+  17141847:
+    template: Feyweald_Sapling
+    level:    [92, 94]
+    region:   grauberg_s_c_5
+
+  17141848:
+    template: Feyweald_Sapling
+    level:    [92, 94]
+    region:   grauberg_s_c_5
+
+  17141849:
+    template: Feyweald_Sapling
+    level:    [92, 94]
+    region:   grauberg_s_c_5
+
+  17141850:
+    template: Feyweald_Sapling
+    level:    [92, 94]
+    region:   grauberg_s_c_6
+
+  17141851:
+    template: Feyweald_Sapling
+    level:    [92, 94]
+    region:   grauberg_s_c_6
+
+  17141852:
+    template: Feyweald_Sapling
+    level:    [92, 94]
+    region:   grauberg_s_c_6
+
+  17141853:
+    template: Feyweald_Sapling
+    level:    [92, 94]
+    region:   grauberg_s_c_6
+
+  17141854:
+    template: Feyweald_Sapling
+    level:    [92, 94]
+    region:   grauberg_s_c_6
+
+  17141855:
+    template: Feyweald_Sapling
+    level:    [92, 94]
+    region:   grauberg_s_c_6
+
+  17141856:
+    template: Knotty_Treant
+    level:    [62, 65]
+    region:   grauberg_s_s_9
+
+  17141857:
+    template: Goblin_Freesword
+    level:    [61, 64]
+    region:   grauberg_s_s_9
+
+  17141858:
+    template: Goblin_Blastmaster
+    level:    [62, 64]
+    region:   grauberg_s_s_9
+
+  17141859:
+    template: Knotty_Treant
+    level:    [62, 65]
+    region:   grauberg_s_s_8
+
+  17141860:
+    template: Knotty_Treant
+    level:    [62, 65]
+    region:   grauberg_s_s_8
+
+  17141861:
+    template: Thunder_Elemental
+    level:    [75, 75]
+    region:   grauberg_s_s_8
+
+  17141862:
+    template: Goblin_Corpsman
+    level:    [62, 64]
+    region:   grauberg_s_s_8
+
+  17141863:
+    template: Goblin_Blastmaster
+    level:    [62, 64]
+    region:   grauberg_s_s_8
+
+  17141864:
+    template: Chigoe
+    at:       [124.682, -36.508, -218.643, 115]
+    level:    [43, 46]
+
+  17141865:
+    template: Chigoe
+    at:       [129.446, -35.922, -217.123, 243]
+    level:    [43, 46]
+
+  17141866:
+    template: Knotty_Treant
+    level:    [62, 65]
+    region:   grauberg_s_c_9
+
+  17141867:
+    template: Knotty_Treant
+    level:    [62, 65]
+    region:   grauberg_s_c_9
+
+  17141868:
+    template: Goblin_Corpsman
+    level:    [62, 64]
+    region:   grauberg_s_c_9
+
+  17141869:
+    template: Goblin_Blastmaster
+    level:    [62, 64]
+    region:   grauberg_s_c_9
+
+  17141870:
+    template: Chigoe
+    at:       [73.527, -16.101, -352.222, 171]
+    level:    [43, 46]
+
+  17141871:
+    template: Chigoe
+    at:       [73.466, -16.113, -352.373, 171]
+    level:    [43, 46]
+
+  17141872:
+    template: Sarcopsylla
+    at:       [129.207, -35.913, -217.684, 241]
+    level:    [72, 72]
+
+  17141873:
+    template: Knotty_Treant
+    level:    [62, 65]
+    region:   grauberg_s_c_11
+
+  17141874:
+    template: Knotty_Treant
+    level:    [62, 65]
+    region:   grauberg_s_c_11
+
+  17141875:
+    template: Chigoe
+    at:       [196.987, -14.406, -293.528, 123]
+    level:    [43, 46]
+
+  17141876:
+    template: Chigoe
+    at:       [199.152, -14.669, -293.616, 253]
+    level:    [43, 46]
+
+  17141877:
+    template: Knotty_Treant
+    level:    [62, 65]
+    region:   grauberg_s_s_11
+
+  17141878:
+    template: Knotty_Treant
+    level:    [62, 65]
+    region:   grauberg_s_s_11
+
+  17141879:
+    template: Chigoe
+    at:       [186.004, -4.317, -356.497, 166]
+    level:    [43, 46]
+
+  17141880:
+    template: Chigoe
+    at:       [183.278, -3.263, -366.674, 63]
+    level:    [43, 46]
+
+  17141881:
+    template: War_Lizard
+    level:    [41, 49]
+    region:   grauberg_s_s_14
+
+  17141882:
+    template: Wivre
+    level:    [68, 74]
+    region:   grauberg_s_s_14
+
+  17141883:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_s_14
+
+  17141884:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_s_14
+
+  17141885:
+    template: Vasiliceratops
+    at:       [276.142, 25.332, -453.541, 48]
+    level:    [88, 89]
+
+  17141886:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_s_15
+
+  17141887:
+    template: Knotty_Treant
+    level:    [62, 65]
+    region:   grauberg_s_s_15
+
+  17141888:
+    template: Knotty_Treant
+    level:    [62, 65]
+    region:   grauberg_s_s_15
+
+  17141889:
+    template: Chigoe
+    at:       [280.896, 6.472, -352.141, 75]
+    level:    [43, 46]
+
+  17141890:
+    template: Chigoe
+    at:       [282.029, 5.473, -348.545, 202]
+    level:    [43, 46]
+
+  17141891:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_se
+
+  17141892:
+    template: Knotty_Treant
+    level:    [62, 65]
+    region:   grauberg_s_se
+
+  17141893:
+    template: Knotty_Treant
+    level:    [62, 65]
+    region:   grauberg_s_se
+
+  17141894:
+    template: Chigoe
+    at:       [372.209, 5.142, -304.243, 251]
+    level:    [43, 46]
+
+  17141895:
+    template: Chigoe
+    at:       [372.207, 5.181, -303.929, 249]
+    level:    [43, 46]
+
+  17141896:
+    template: War_Lizard
+    level:    [41, 49]
+    region:   grauberg_s_se_2
+
+  17141897:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_se_2
+
+  17141898:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_se_2
+
+  17141899:
+    template: War_Lizard
+    level:    [41, 49]
+    region:   grauberg_s_se_4
+
+  17141900:
+    template: War_Lizard
+    level:    [41, 49]
+    region:   grauberg_s_se_4
+
+  17141901:
+    template: Wivre
+    level:    [68, 74]
+    region:   grauberg_s_se_4
+
+  17141902:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_se_4
+
+  17141903:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_se_3
+
+  17141904:
+    template: Knotty_Treant
+    level:    [62, 65]
+    region:   grauberg_s_se_3
+
+  17141905:
+    template: Wivre
+    level:    [68, 74]
+    region:   grauberg_s_se_3
+
+  17141906:
+    template: Chigoe
+    at:       [436.937, 7.899, -285.002, 29]
+    level:    [43, 46]
+
+  17141907:
+    template: Chigoe
+    at:       [436.943, 7.904, -285.361, 29]
+    level:    [43, 46]
+
+  17141908:
+    template: War_Lizard
+    level:    [41, 49]
+    region:   grauberg_s_se_5
+
+  17141909:
+    template: War_Lizard
+    level:    [41, 49]
+    region:   grauberg_s_se_5
+
+  17141910:
+    template: Wivre
+    level:    [68, 74]
+    region:   grauberg_s_se_5
+
+  17141911:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_se_5
+
+  17141912:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_e_5
+
+  17141913:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_e_5
+
+  17141914:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_e_5
+
+  17141915:
+    template: Wivre
+    level:    [68, 74]
+    region:   grauberg_s_e_4
+
+  17141916:
+    template: Wivre
+    level:    [68, 74]
+    region:   grauberg_s_e_4
+
+  17141917:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_e_4
+
+  17141918:
+    template: Chigoe
+    at:       [63.339, -30.333, -271.019, 45]
+    level:    [43, 46]
+
+  17141919:
+    template: Chigoe
+    at:       [64.686, -30.521, -270.861, 65]
+    level:    [43, 46]
+
+  17141920:
+    template: Chigoe
+    at:       [178.088, -17.801, -287.765, 0]
+    level:    [43, 46]
+
+  17141921:
+    template: Chigoe
+    at:       [179.850, -17.580, -286.651, 43]
+    level:    [43, 46]
+
+  17141922:
+    template: Chigoe
+    at:       [77.044, -16.500, -359.779, 32]
+    level:    [43, 46]
+
+  17141923:
+    template: Chigoe
+    at:       [77.613, -16.500, -359.278, 61]
+    level:    [43, 46]
+
+  17141924:
+    template: Chigoe
+    at:       [392.176, 16.991, -339.889, 26]
+    level:    [43, 46]
+
+  17141925:
+    template: Chigoe
+    at:       [393.584, 17.190, -339.341, 50]
+    level:    [43, 46]
+
+  17141926:
+    template: Wivre
+    level:    [68, 74]
+    region:   grauberg_s_c_24
+
+  17141927:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_c_24
+
+  17141928:
+    template: Vampire_Bat
+    level:    [40, 45]
+    region:   grauberg_s_c_24
+
+  17141929:
+    template: Vampire_Bat
+    level:    [40, 45]
+    region:   grauberg_s_c_24
+
+  17141930:
+    template: Wivre
+    level:    [68, 74]
+    region:   grauberg_s_c_14
+
+  17141931:
+    template: Wivre
+    level:    [68, 74]
+    region:   grauberg_s_c_14
+
+  17141932:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_c_14
+
+  17141933:
+    template: Wivre
+    level:    [68, 74]
+    region:   grauberg_s_c_13
+
+  17141934:
+    template: Wivre
+    level:    [68, 74]
+    region:   grauberg_s_c_13
+
+  17141935:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_c_13
+
+  17141936:
+    template: Thunder_Elemental
+    level:    [75, 75]
+    region:   grauberg_s_c_13
+
+  17141937:
+    template: Wivre
+    level:    [68, 74]
+    region:   grauberg_s_c_15
+
+  17141938:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_c_15
+
+  17141939:
+    template: Wandering_Sapling
+    level:    [36, 39]
+    region:   grauberg_s_c_15
+
+  17141940:
+    template: Wivre
+    level:    [68, 74]
+    region:   grauberg_s_c_23
+
+  17141941:
+    template: Wivre
+    level:    [68, 74]
+    region:   grauberg_s_c_12
+
+  17141942:
+    template: Wivre
+    level:    [68, 74]
+    region:   grauberg_s_c_12
+
+  17141943:
+    template: Wivre
+    level:    [68, 74]
+    region:   grauberg_s_e
+
+  17141944:
+    template: Onyx_Quadav
+    level:    [61, 64]
+    region:   grauberg_s_e
+
+  17141945:
+    template: Young_Quadav
+    level:    [61, 63]
+    region:   grauberg_s_e
+
+  17141946:
+    template: Wivre
+    level:    [68, 74]
+    region:   grauberg_s_ne_3
+
+  17141947:
+    template: Copper_Quadav
+    level:    [61, 63]
+    region:   grauberg_s_ne_3
+
+  17141948:
+    template: Amethyst_Quadav
+    level:    [61, 63]
+    region:   grauberg_s_ne_3
+
+  17141949:
+    template: Wivre
+    level:    [68, 74]
+    region:   grauberg_s_c_10
+
+  17141950:
+    template: Wivre
+    level:    [68, 74]
+    region:   grauberg_s_c_10
+
+  17141951:
+    template: Doom_Mage
+    level:    [66, 69]
+    region:   grauberg_s_c_10
+
+  17141952:
+    template: Doom_Soldier
+    level:    [66, 69]
+    region:   grauberg_s_c_10
+
+  17141953:
+    template: Air_Elemental
+    level:    [75, 75]
+    region:   grauberg_s_c_10
+
+  17141954:
+    template: Grauberg_Hippogryph
+    level:    [73, 75]
+    region:   grauberg_s_c_8
+
+  17141955:
+    template: Grauberg_Hippogryph
+    level:    [73, 75]
+    region:   grauberg_s_c_8
+
+  17141956:
+    template: Grauberg_Hippogryph
+    level:    [73, 75]
+    region:   grauberg_s_c_8
+
+  17141957:
+    template: Vampire_Bat
+    level:    [40, 45]
+    region:   grauberg_s_c_8
+
+  17141958:
+    template: Grauberg_Hippogryph
+    level:    [73, 75]
+    region:   grauberg_s_n_7
+
+  17141959:
+    template: Grauberg_Hippogryph
+    level:    [73, 75]
+    region:   grauberg_s_n_7
+
+  17141960:
+    template: Grauberg_Hippogryph
+    level:    [73, 75]
+    region:   grauberg_s_n_7
+
+  17141961:
+    template: Vampire_Bat
+    level:    [40, 45]
+    region:   grauberg_s_n_7
+
+  17141962:
+    template: Kotan-kor_Kamuy
+    at:       [-23.892, -24.139, 327.721, 121]
+    level:    [80, 80]
+
+  17141963:
+    template: Grauberg_Hippogryph
+    level:    [73, 75]
+    region:   grauberg_s_n_8
+
+  17141964:
+    template: Grauberg_Hippogryph
+    level:    [73, 75]
+    region:   grauberg_s_n_8
+
+  17141965:
+    template: Grauberg_Hippogryph
+    level:    [73, 75]
+    region:   grauberg_s_n_6
+
+  17141966:
+    template: Grauberg_Hippogryph
+    level:    [73, 75]
+    region:   grauberg_s_n_6
+
+  17141967:
+    template: Grauberg_Hippogryph
+    level:    [73, 75]
+    region:   grauberg_s_n_6
+
+  17141968:
+    template: Vampire_Bat
+    level:    [40, 45]
+    region:   grauberg_s_n_6
+
+  17141969:
+    template: Grauberg_Hippogryph
+    level:    [73, 75]
+    region:   grauberg_s_c_4
+
+  17141970:
+    template: Grauberg_Hippogryph
+    level:    [73, 75]
+    region:   grauberg_s_c_4
+
+  17141971:
+    template: Grauberg_Hippogryph
+    level:    [73, 75]
+    region:   grauberg_s_c_4
+
+  17141972:
+    template: Vampire_Bat
+    level:    [40, 45]
+    region:   grauberg_s_c_4
+
+  17141973:
+    template: Grauberg_Hippogryph
+    level:    [73, 75]
+    region:   grauberg_s_c_3
+
+  17141974:
+    template: Grauberg_Hippogryph
+    level:    [73, 75]
+    region:   grauberg_s_c_3
+
+  17141975:
+    template: Grauberg_Hippogryph
+    level:    [73, 75]
+    region:   grauberg_s_c_3
+
+  17141976:
+    template: Grauberg_Hippogryph
+    level:    [73, 75]
+    region:   grauberg_s_w_10
+
+  17141977:
+    template: Ajattara
+    level:    [79, 83]
+    region:   grauberg_s_w_10
+
+  17141978:
+    template: Ajattara
+    level:    [79, 83]
+    region:   grauberg_s_w_10
+
+  17141979:
+    template: Scitalis
+    at:       [-140.354, -92.095, 39.459, 29]
+    level:    [83, 83]
+
+  17141980:
+    template: Grauberg_Hippogryph
+    level:    [73, 75]
+    region:   grauberg_s_c
+
+  17141981:
+    template: Ajattara
+    level:    [79, 83]
+    region:   grauberg_s_c
+
+  17141982:
+    template: Ajattara
+    level:    [79, 83]
+    region:   grauberg_s_c
+
+  17141983:
+    template: Doom_Mage
+    level:    [66, 69]
+    region:   grauberg_s_c
+
+  17141984:
+    template: Doom_Soldier
+    level:    [66, 69]
+    region:   grauberg_s_c
+
+  17141985:
+    template: Ajattara
+    level:    [79, 83]
+    region:   grauberg_s_w_9
+
+  17141986:
+    template: Ajattara
+    level:    [79, 83]
+    region:   grauberg_s_w_9
+
+  17141987:
+    template: Ajattara
+    level:    [79, 83]
+    region:   grauberg_s_w_8
+
+  17141988:
+    template: Ajattara
+    level:    [79, 83]
+    region:   grauberg_s_w_7
+
+  17141989:
+    template: Sidhe
+    level:    [75, 77]
+    region:   grauberg_s_nw_2
+
+  17141990:
+    template: Sidhe
+    level:    [75, 77]
+    region:   grauberg_s_nw_2
+
+  17141991:
+    template: Sidhe
+    level:    [75, 77]
+    region:   grauberg_s_nw_3
+
+  17141992:
+    template: Sidhe
+    level:    [75, 77]
+    region:   grauberg_s_nw_3
+
+  17141993:
+    template: Sidhe
+    level:    [75, 77]
+    region:   grauberg_s_n_2
+
+  17141994:
+    template: Sidhe
+    level:    [75, 77]
+    region:   grauberg_s_n_2
+
+  17141995:
+    template: Sidhe
+    level:    [75, 77]
+    region:   grauberg_s_n_2
+
+  17141996:
+    template: Air_Elemental
+    level:    [80, 80]
+    region:   grauberg_s_n_2
+
+  17141997:
+    template: Sidhe
+    level:    [75, 77]
+    region:   grauberg_s_n
+
+  17141998:
+    template: Sidhe
+    level:    [75, 77]
+    region:   grauberg_s_n
+
+  17141999:
+    template: Sidhe
+    level:    [75, 77]
+    region:   grauberg_s_n
+
+  17142000:
+    template: Sidhe
+    level:    [75, 77]
+    region:   grauberg_s_n_3
+
+  17142001:
+    template: Sidhe
+    level:    [75, 77]
+    region:   grauberg_s_n_3
+
+  17142002:
+    template: Sidhe
+    level:    [75, 77]
+    region:   grauberg_s_n_4
+
+  17142003:
+    template: Sidhe
+    level:    [75, 77]
+    region:   grauberg_s_n_4
+
+  17142004:
+    template: Air_Elemental
+    level:    [80, 80]
+    region:   grauberg_s_n_4
+
+  17142005:
+    template: Sidhe
+    level:    [75, 77]
+    region:   grauberg_s_n_5
+
+  17142006:
+    template: Sidhe
+    level:    [75, 77]
+    region:   grauberg_s_n_5
+
+  17142007:
+    template: Ajattara
+    level:    [79, 83]
+    region:   grauberg_s_w_6
+
+  17142008:
+    template: Ajattara
+    level:    [79, 83]
+    region:   grauberg_s_w_6
+
+  17142009:
+    template: Ajattara
+    level:    [79, 83]
+    region:   grauberg_s_w_5
+
+  17142010:
+    template: Ajattara
+    level:    [79, 83]
+    region:   grauberg_s_w_4
+
+  17142011:
+    template: Ajattara
+    level:    [79, 83]
+    region:   grauberg_s_w_4
+
+  17142012:
+    template: Ajattara
+    level:    [79, 83]
+    region:   grauberg_s_nw
+
+  17142013:
+    template: Ajattara
+    level:    [79, 83]
+    region:   grauberg_s_nw
+
+  17142014:
+    template: Ajattara
+    level:    [79, 83]
+    region:   grauberg_s_w_3
+
+  17142015:
+    template: Ajattara
+    level:    [79, 83]
+    region:   grauberg_s_w_3
+
+  17142016:
+    template: Air_Elemental
+    level:    [80, 80]
+    region:   grauberg_s_w_3
+
+  17142017:
+    template: Ajattara
+    level:    [79, 83]
+    region:   grauberg_s_w_2
+
+  17142018:
+    template: Ajattara
+    level:    [79, 83]
+    region:   grauberg_s_w_2
+
+  17142019:
+    template: Ajattara
+    level:    [79, 83]
+    region:   grauberg_s_w
+
+  17142020:
+    template: Ajattara
+    level:    [79, 83]
+    region:   grauberg_s_w
+
+  17142021:
+    template: Brasscap
+    level:    [59, 61]
+    region:   grauberg_s_ne_5
+
+  17142022:
+    template: Brasscap
+    level:    [59, 61]
+    region:   grauberg_s_ne_5
+
+  17142023:
+    template: Brasscap
+    level:    [59, 61]
+    region:   grauberg_s_ne_5
+
+  17142024:
+    template: Thunder_Elemental
+    level:    [75, 75]
+    region:   grauberg_s_ne_5
+
+  17142025:
+    template: Brasscap
+    level:    [59, 61]
+    region:   grauberg_s_ne_9
+
+  17142026:
+    template: Brasscap
+    level:    [59, 61]
+    region:   grauberg_s_ne_9
+
+  17142027:
+    template: Brasscap
+    level:    [59, 61]
+    region:   grauberg_s_ne_9
+
+  17142028:
+    template: Brasscap
+    level:    [59, 61]
+    region:   grauberg_s_ne_15
+
+  17142029:
+    template: Brasscap
+    level:    [59, 61]
+    region:   grauberg_s_ne_15
+
+  17142030:
+    template: Brasscap
+    level:    [59, 61]
+    region:   grauberg_s_ne_15
+
+  17142031:
+    template: Doom_Mage
+    level:    [66, 69]
+    region:   grauberg_s_ne_15
+
+  17142032:
+    template: Brasscap
+    level:    [59, 61]
+    region:   grauberg_s_ne_17
+
+  17142033:
+    template: Brasscap
+    level:    [59, 61]
+    region:   grauberg_s_ne_17
+
+  17142034:
+    template: Brasscap
+    level:    [59, 61]
+    region:   grauberg_s_ne_17
+
+  17142035:
+    template: Doom_Soldier
+    level:    [66, 69]
+    region:   grauberg_s_ne_17
+
+  17142036:
+    template: Brasscap
+    level:    [59, 61]
+    region:   grauberg_s_ne_20
+
+  17142037:
+    template: Brasscap
+    level:    [59, 61]
+    region:   grauberg_s_ne_20
+
+  17142038:
+    template: Brasscap
+    level:    [59, 61]
+    region:   grauberg_s_ne_20
+
+  17142039:
+    template: Doom_Soldier
+    level:    [66, 69]
+    region:   grauberg_s_ne_20
+
+  17142040:
+    template: Brasscap
+    level:    [59, 61]
+    region:   grauberg_s_ne_19
+
+  17142041:
+    template: Brasscap
+    level:    [59, 61]
+    region:   grauberg_s_ne_19
+
+  17142042:
+    template: Brasscap
+    level:    [59, 61]
+    region:   grauberg_s_ne_19
+
+  17142043:
+    template: Doom_Mage
+    level:    [66, 69]
+    region:   grauberg_s_ne_19
+
+  17142044:
+    template: Brasscap
+    level:    [59, 61]
+    region:   grauberg_s_ne_22
+
+  17142045:
+    template: Brasscap
+    level:    [59, 61]
+    region:   grauberg_s_ne_22
+
+  17142046:
+    template: Brasscap
+    level:    [59, 61]
+    region:   grauberg_s_ne_23
+
+  17142047:
+    template: Brasscap
+    level:    [59, 61]
+    region:   grauberg_s_ne_23
+
+  17142048:
+    template: Brasscap
+    level:    [59, 61]
+    region:   grauberg_s_ne_21
+
+  17142049:
+    template: Brasscap
+    level:    [59, 61]
+    region:   grauberg_s_ne_21
+
+  17142050:
+    template: Brasscap
+    level:    [59, 61]
+    region:   grauberg_s_ne_18
+
+  17142051:
+    template: Brasscap
+    level:    [59, 61]
+    region:   grauberg_s_ne_18
+
+  17142052:
+    template: Brasscap
+    level:    [59, 61]
+    region:   grauberg_s_ne_16
+
+  17142053:
+    template: Brasscap
+    level:    [59, 61]
+    region:   grauberg_s_ne_16
+
+  17142054:
+    template: Peiste
+    level:    [66, 70]
+    region:   grauberg_s_ne_14
+
+  17142055:
+    template: Peiste
+    level:    [66, 70]
+    region:   grauberg_s_ne_14
+
+  17142056:
+    template: Sapphirine_Quadav
+    level:    [61, 69]
+    region:   grauberg_s_ne_14
+
+  17142057:
+    template: Heliodor_Quadav
+    level:    [61, 69]
+    region:   grauberg_s_ne_14
+
+  17142058:
+    template: Peiste
+    level:    [66, 70]
+    region:   grauberg_s_ne_10
+
+  17142059:
+    template: Peiste
+    level:    [66, 70]
+    region:   grauberg_s_ne_10
+
+  17142060:
+    template: Bronze_Quadav
+    level:    [61, 69]
+    region:   grauberg_s_ne_10
+
+  17142061:
+    template: Silver_Quadav
+    level:    [61, 69]
+    region:   grauberg_s_ne_10
+
+  17142062:
+    template: Peiste
+    level:    [66, 70]
+    region:   grauberg_s_ne_4
+
+  17142063:
+    template: Peiste
+    level:    [66, 70]
+    region:   grauberg_s_ne_4
+
+  17142064:
+    template: Old_Quadav
+    level:    [61, 69]
+    region:   grauberg_s_ne_4
+
+  17142065:
+    template: Sapphirine_Quadav
+    level:    [61, 69]
+    region:   grauberg_s_ne_4
+
+  17142066:
+    template: Peiste
+    level:    [66, 70]
+    region:   grauberg_s_ne_2
+
+  17142067:
+    template: Peiste
+    level:    [66, 70]
+    region:   grauberg_s_ne_2
+
+  17142068:
+    template: Brass_Quadav
+    level:    [61, 69]
+    region:   grauberg_s_ne_2
+
+  17142069:
+    template: Silver_Quadav
+    level:    [61, 69]
+    region:   grauberg_s_ne_2
+
+  17142070:
+    template: Chigoe
+    at:       [348.815, 47.699, 648.757, 178]
+    level:    [43, 46]
+
+  17142071:
+    template: Chigoe
+    at:       [350.306, 47.556, 648.933, 147]
+    level:    [43, 46]
+
+  17142072:
+    template: Heliodor_Quadav
+    level:    [61, 69]
+    region:   grauberg_s_n_11
+
+  17142073:
+    template: Sapphirine_Quadav
+    level:    [61, 69]
+    region:   grauberg_s_n_11
+
+  17142074:
+    template: Black_Wolf
+    level:    [49, 50]
+    region:   grauberg_s_n_11
+
+  17142075:
+    template: Chigoe
+    at:       [289.579, 39.309, 624.682, 209]
+    level:    [43, 46]
+
+  17142076:
+    template: Chigoe
+    at:       [286.898, 34.915, 618.050, 81]
+    level:    [43, 46]
+
+  17142077:
+    template: Silver_Quadav
+    level:    [61, 69]
+    region:   grauberg_s_n_10
+
+  17142078:
+    template: Brass_Quadav
+    level:    [61, 69]
+    region:   grauberg_s_n_10
+
+  17142079:
+    template: Wingrats
+    level:    [41, 49]
+    region:   grauberg_s_n_10
+
+  17142080:
+    template: Chigoe
+    at:       [191.348, 29.462, 610.516, 9]
+    level:    [43, 46]
+
+  17142081:
+    template: Chigoe
+    at:       [193.936, 30.573, 609.954, 140]
+    level:    [43, 46]
+
+  17142082:
+    template: Old_Quadav
+    level:    [61, 69]
+    region:   grauberg_s_n_9
+
+  17142083:
+    template: Heliodor_Quadav
+    level:    [61, 69]
+    region:   grauberg_s_n_9
+
+  17142084:
+    template: Wingrats
+    level:    [41, 49]
+    region:   grauberg_s_n_9
+
+  17142085:
+    template: Chigoe
+    at:       [205.635, 19.749, 542.745, 2]
+    level:    [43, 46]
+
+  17142086:
+    template: Chigoe
+    at:       [205.533, 19.768, 543.162, 2]
+    level:    [43, 46]
+
+  17142087:
+    template: Peiste
+    level:    [66, 70]
+    region:   grauberg_s_ne_11
+
+  17142088:
+    template: Peiste
+    level:    [66, 70]
+    region:   grauberg_s_ne_11
+
+  17142089:
+    template: Veteran_Quadav
+    at:       [475.726, 8.872, 457.767, 240]
+    level:    [61, 69]
+
+  17142090:
+    template: Copper_Quadav
+    at:       [503.928, 20.969, 492.023, 123]
+    level:    [61, 63]
+
+  17142091:
+    template: Peiste
+    at:       [500.690, 33.640, 555.962, 251]
+    level:    [66, 70]
+
+  17142092:
+    template: Onyx_Quadav
+    level:    [61, 64]
+    region:   grauberg_s_ne_12
+
+  17142093:
+    template: Greater_Quadav
+    level:    [61, 69]
+    region:   grauberg_s_ne_12
+
+  17142094:
+    template: Peiste
+    level:    [66, 70]
+    region:   grauberg_s_ne_8
+
+  17142095:
+    template: Peiste
+    level:    [66, 70]
+    region:   grauberg_s_ne_8
+
+  17142096:
+    template: Greater_Quadav
+    level:    [61, 69]
+    region:   grauberg_s_ne_8
+
+  17142097:
+    template: Young_Quadav
+    level:    [61, 63]
+    region:   grauberg_s_ne_8
+
+  17142098:
+    template: Blood_Soul
+    at:       [-113.082, 9.677, -498.231, 120]
+    level:    [53, 56]
+
+  17142099:
+    template: Blood_Soul
+    at:       [630.024, 25.429, -420.078, 130]
+    level:    [53, 56]
+
+  17142100:
+    template: Blood_Soul
+    at:       [-479.897, -166.826, 102.539, 249]
+    level:    [53, 56]
+
+  17142101:
+    template: Blood_Soul
+    at:       [-471.769, 17.431, -580.365, 138]
+    level:    [53, 56]
+
+  17142102:
+    template: Pixie
+    level:    [51, 56]
+    region:   grauberg_s_c_7
+
+  17142103:
+    template: Pixie
+    level:    [51, 56]
+    region:   grauberg_s_ne_7
+
+  17142104:
+    template: Goblin_Pioneer
+    level:    [62, 64]
+    region:   grauberg_s_sw_5
+
+  17142105:
+    template: Goblin_Mine
+    level:    [59, 59]
+    region:   grauberg_s_sw_11
+
+  17142106:
+    template: Goblin_Pioneer
+    level:    [62, 64]
+    region:   grauberg_s_ne
+
+  17142107:
+    template: Goblin_Mine
+    level:    [59, 59]
+    region:   grauberg_s_ne_6
+
+  17142108:
+    template: Migratory_Hippogryph
+    at:       [-156.244, -8.121, 588.434, 114]
+    level:    [45, 45]
+
+  17142109:
+    template: Quadav_Transporter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17142110:
+    template: Quadav_Guard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17142111:
+    template: Quadav_Guard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17142112:
+    template: Dark_Ixion
+    at:       [344.419, 36.341, -442.948, 202]
+    level:    [85, 85]
+
+  17142113:
+    template: Simorg
+    at:       [-440.000, -160.061, 84.000, 192]
+    level:    [0, 0]
+
+  17142114:
+    template: Hippocentaur
+    at:       [-442.000, -160.635, 80.000, 192]
+    level:    [0, 0]
+
+  17142115:
+    template: Hippocentaur
+    at:       [-442.000, -159.532, 88.000, 192]
+    level:    [0, 0]
+
+  17142116:
+    template: Hippocentaur
+    at:       [-442.000, -158.055, 92.000, 192]
+    level:    [0, 0]
+
+  17142117:
+    template: Hippocentaur
+    at:       [-438.000, -160.642, 80.000, 192]
+    level:    [0, 0]
+
+  17142118:
+    template: Hippocentaur
+    at:       [-438.000, -160.295, 88.000, 192]
+    level:    [0, 0]
+
+  17142119:
+    template: Hippocentaur
+    at:       [-438.000, -158.665, 92.000, 192]
+    level:    [0, 0]
+
+  17142120:
+    template: RuBha_Stonewall
+    at:       [521.737, 23.059, -352.485, 216]
+    level:    [75, 75]
+
+  17142121:
+    template: Sentinel_Wivre
+    at:       [521.388, 23.234, -354.132, 205]
+    level:    [75, 75]
+
+  17142122:
+    template: Sentinel_Wivre
+    at:       [518.049, 22.621, -349.600, 248]
+    level:    [75, 75]
+
+  17142123:
+    template: Sentinel_Wivre
+    at:       [519.314, 23.144, -349.525, 26]
+    level:    [75, 75]
+
+  17142124:
+    template: Sentinel_Wivre
+    at:       [518.130, 22.775, -350.879, 242]
+    level:    [75, 75]
+
+  17142125:
+    template: Bartholomaus
+    at:       [0.000, 0.000, 0.000, 134]
+    level:    [0, 0]
+
+  17142126:
+    template: 1st_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 215]
+    level:    [0, 0]
+
+  17142127:
+    template: 1st_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 2]
+    level:    [0, 0]
+
+  17142128:
+    template: 1st_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 71]
+    level:    [0, 0]
+
+  17142129:
+    template: 1st_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 106]
+    level:    [0, 0]
+
+  17142130:
+    template: 1st_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 221]
+    level:    [0, 0]
+
+  17142131:
+    template: 1st_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17142132:
+    template: 1st_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 75]
+    level:    [0, 0]
+
+  17142133:
+    template: 1st_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 154]
+    level:    [0, 0]
+
+  17142134:
+    template: 1st_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 184]
+    level:    [0, 0]
+
+  17142135:
+    template: Maximilian
+    at:       [0.000, 0.000, 0.000, 121]
+    level:    [1, 1]
+
+  17142136:
+    template: 1st_Legionnaire
+    at:       [0.000, 0.000, 0.000, 121]
+    level:    [0, 0]
+
+  17142137:
+    template: 1st_Legionnaire
+    at:       [0.000, 0.000, 0.000, 100]
+    level:    [0, 0]
+
+  17142138:
+    template: 1st_Legionnaire
+    at:       [0.000, 0.000, 0.000, 124]
+    level:    [0, 0]
+
+  17142139:
+    template: 1st_Legionnaire
+    at:       [0.000, 0.000, 0.000, 218]
+    level:    [0, 0]
+
+  17142140:
+    template: 1st_Legionnaire
+    at:       [0.000, 0.000, 0.000, 253]
+    level:    [0, 0]
+
+  17142141:
+    template: 1st_Legionnaire
+    at:       [0.000, 0.000, 0.000, 140]
+    level:    [0, 0]
+
+  17142142:
+    template: 1st_Legionnaire
+    at:       [0.000, 0.000, 0.000, 120]
+    level:    [0, 0]
+
+  17142143:
+    template: 1st_Legionnaire
+    at:       [0.000, 0.000, 0.000, 20]
+    level:    [0, 0]
+
+  17142144:
+    template: 1st_Legionnaire
+    at:       [0.000, 0.000, 0.000, 91]
+    level:    [0, 0]
+
+  17142145:
+    template: Ludwig
+    level:    [1, 1]
+    region:   grauberg_s_c_16
+
+  17142146:
+    template: 2nd_Legionnaire
+    level:    [0, 0]
+    region:   grauberg_s_c_16
+
+  17142147:
+    template: 2nd_Legionnaire
+    level:    [0, 0]
+    region:   grauberg_s_c_16
+
+  17142148:
+    template: 2nd_Legionnaire
+    level:    [0, 0]
+    region:   grauberg_s_c_16
+
+  17142149:
+    template: 2nd_Legionnaire
+    level:    [0, 0]
+    region:   grauberg_s_c_16
+
+  17142150:
+    template: 2nd_Legionnaire
+    level:    [0, 0]
+    region:   grauberg_s_c_16
+
+  17142151:
+    template: 2nd_Legionnaire
+    level:    [0, 0]
+    region:   grauberg_s_c_16
+
+  17142152:
+    template: 2nd_Legionnaire
+    level:    [0, 0]
+    region:   grauberg_s_c_16
+
+  17142153:
+    template: 2nd_Legionnaire
+    level:    [0, 0]
+    region:   grauberg_s_c_16
+
+  17142154:
+    template: 2nd_Legionnaire
+    level:    [0, 0]
+    region:   grauberg_s_c_16
+
+  17142155:
+    template: Elivira
+    level:    [1, 1]
+    region:   grauberg_s_c_16
+
+  17142156:
+    template: 1st_Gold_Musketeer
+    level:    [0, 0]
+    region:   grauberg_s_c_16
+
+  17142157:
+    template: 1st_Gold_Musketeer
+    level:    [0, 0]
+    region:   grauberg_s_c_16
+
+  17142158:
+    template: 1st_Gold_Musketeer
+    level:    [0, 0]
+    region:   grauberg_s_c_16
+
+  17142159:
+    template: 1st_Gold_Musketeer
+    level:    [0, 0]
+    region:   grauberg_s_c_16
+
+  17142160:
+    template: 1st_Gold_Musketeer
+    level:    [0, 0]
+    region:   grauberg_s_c_16
+
+  17142161:
+    template: 1st_Gold_Musketeer
+    level:    [0, 0]
+    region:   grauberg_s_c_16
+
+  17142162:
+    template: 1st_Gold_Musketeer
+    level:    [0, 0]
+    region:   grauberg_s_c_16
+
+  17142163:
+    template: 1st_Gold_Musketeer
+    level:    [0, 0]
+    region:   grauberg_s_c_16
+
+  17142164:
+    template: 1st_Gold_Musketeer
+    level:    [0, 0]
+    region:   grauberg_s_c_16
+
+  17142165:
+    template: Kurt
+    level:    [0, 0]
+    region:   grauberg_s_c_16
+
+  17142166:
+    template: 8th_Iron_Musketeer
+    level:    [0, 0]
+    region:   grauberg_s_c_16
+
+  17142167:
+    template: 8th_Iron_Musketeer
+    level:    [0, 0]
+    region:   grauberg_s_c_25
+
+  17142168:
+    template: 8th_Iron_Musketeer
+    level:    [0, 0]
+    region:   grauberg_s_c_28
+
+  17142169:
+    template: 8th_Iron_Musketeer
+    level:    [0, 0]
+    region:   grauberg_s_c_16
+
+  17142170:
+    template: 8th_Iron_Musketeer
+    level:    [0, 0]
+    region:   grauberg_s_c_16
+
+  17142171:
+    template: 8th_Iron_Musketeer
+    level:    [0, 0]
+    region:   grauberg_s_c_16
+
+  17142172:
+    template: 8th_Iron_Musketeer
+    level:    [0, 0]
+    region:   grauberg_s_c_16
+
+  17142173:
+    template: 8th_Iron_Musketeer
+    level:    [0, 0]
+    region:   grauberg_s_c_16
+
+  17142174:
+    template: 8th_Iron_Musketeer
+    level:    [0, 0]
+    region:   grauberg_s_c_16
+
+  17142175:
+    template: Adelheid
+    level:    [70, 70]
+    region:   grauberg_s_c_16
+
+  17142176:
+    template: Paralyzing_Tube
+    level:    [70, 70]
+    region:   grauberg_s_c_16
+
+  17142177:
+    template: Silencing_Tube
+    level:    [70, 70]
+    region:   grauberg_s_c_16
+
+  17142178:
+    template: Binding_Tube
+    level:    [70, 70]
+    region:   grauberg_s_c_16
+
+  17142179:
+    template: 2nd_Legion_Scout
+    level:    [70, 70]
+    region:   grauberg_s_c_16
+
+  17142180:
+    template: 2nd_Legion_Scout
+    level:    [70, 70]
+    region:   grauberg_s_c_16
+
+  17142181:
+    template: 2nd_Legion_Scout
+    at:       [355.294, -48.096, 107.259, 4]
+    level:    [70, 70]
+
+  17142182:
+    template: 2nd_Legion_Scout
+    level:    [70, 70]
+    region:   grauberg_s_c_16
+
+  17142183:
+    template: 2nd_Legion_Scout
+    level:    [70, 70]
+    region:   grauberg_s_c_16
+
+  17142184:
+    template: 2nd_Legion_Scout
+    level:    [70, 70]
+    region:   grauberg_s_c_16
+
+  17142185:
+    template: 2nd_Legion_Scout
+    level:    [70, 70]
+    region:   grauberg_s_c_16
+
+  17142186:
+    template: 2nd_Legion_Scout
+    level:    [70, 70]
+    region:   grauberg_s_c_16
+
+  17142187:
+    template: 2nd_Legion_Scout
+    level:    [70, 70]
+    region:   grauberg_s_c_16
+
+  17142188:
+    template: 4th_Legionnaire
+    at:       [0.000, 0.000, 0.000, 206]
+    level:    [0, 0]
+
+  17142189:
+    template: 4th_Legionnaire
+    at:       [0.000, 0.000, 0.000, 164]
+    level:    [0, 0]
+
+  17142190:
+    template: 4th_Legionnaire
+    at:       [0.000, 0.000, 0.000, 175]
+    level:    [0, 0]
+
+  17142191:
+    template: 4th_Legionnaire
+    at:       [0.000, 0.000, 0.000, 212]
+    level:    [0, 0]
+
+  17142192:
+    template: 4th_Legionnaire
+    at:       [0.000, 0.000, 0.000, 155]
+    level:    [0, 0]
+
+  17142193:
+    template: 4th_Legionnaire
+    at:       [0.000, 0.000, 0.000, 123]
+    level:    [0, 0]
+
+  17142194:
+    template: Allied_Mantelet
+    at:       [334.691, -47.830, 80.718, 64]
+    level:    [1, 1]
+
+  17142195:
+    template: Allied_Mantelet
+    at:       [334.121, -48.769, 125.730, 192]
+    level:    [1, 1]
+
+  17142196:
+    template: Allied_Mantelet
+    at:       [299.673, -48.129, 90.757, 128]
+    level:    [1, 1]
+
+  17142197:
+    template: Allied_Mantelet
+    at:       [303.278, -47.994, 112.669, 128]
+    level:    [1, 1]
+
+  17142198:
+    template: Allied_Mantelet
+    at:       [358.688, -48.426, 85.462, 32]
+    level:    [1, 1]
+
+  17142199:
+    template: Allied_Mantelet
+    at:       [358.996, -48.500, 119.033, 224]
+    level:    [1, 1]
+
+  17142200:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142201:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142202:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142203:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142204:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142205:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142206:
+    template: Allied_Belfry
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142207:
+    template: 1st_Legion_Aidman
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17142208:
+    template: 1st_Legion_Aidman
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17142209:
+    template: 1st_Legion_Aidman
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17142210:
+    template: 1st_Legion_Aidman
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17142211:
+    template: 1st_Legion_Aidman
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17142212:
+    template: 1st_Legion_Aidman
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17142213:
+    template: Allied_Armored_Belfry
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17142214:
+    template: 1st_Legion_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17142215:
+    template: 1st_Legion_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17142216:
+    template: 1st_Legion_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17142217:
+    template: 1st_Legion_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17142218:
+    template: 1st_Legion_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17142219:
+    template: 1st_Legion_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17142220:
+    template: Field_Woundpatcher
+    level:    [60, 60]
+    region:   grauberg_s_c_16
+
+  17142221:
+    template: Field_Woundpatcher
+    level:    [60, 60]
+    region:   grauberg_s_c_16
+
+  17142222:
+    template: Field_Woundpatcher
+    level:    [60, 60]
+    region:   grauberg_s_c_16
+
+  17142223:
+    template: Field_Woundpatcher
+    level:    [60, 60]
+    region:   grauberg_s_c_16
+
+  17142224:
+    template: Field_Woundpatcher
+    level:    [60, 60]
+    region:   grauberg_s_c_16
+
+  17142225:
+    template: Field_Woundpatcher
+    level:    [60, 60]
+    region:   grauberg_s_c_16
+
+  17142226:
+    template: Republic_Supplier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142227:
+    template: Republic_Supplier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142228:
+    template: Republic_Supplier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142229:
+    template: DiDha_Adamantfist
+    at:       [325.891, -48.500, 122.986, 58]
+    level:    [75, 80]
+
+  17142230:
+    template: DiDhas_Elite_Guard
+    at:       [0.000, 0.000, 0.000, 114]
+    level:    [0, 0]
+
+  17142231:
+    template: DiDhas_Elite_Guard
+    at:       [0.000, 0.000, 0.000, 55]
+    level:    [0, 0]
+
+  17142232:
+    template: DiDhas_Elite_Guard
+    at:       [0.000, 0.000, 0.000, 62]
+    level:    [0, 0]
+
+  17142233:
+    template: DiDhas_Elite_Guard
+    at:       [0.000, 0.000, 0.000, 58]
+    level:    [0, 0]
+
+  17142234:
+    template: DiDhas_Elite_Guard
+    at:       [0.000, 0.000, 0.000, 95]
+    level:    [0, 0]
+
+  17142235:
+    template: DiDhas_Elite_Guard
+    at:       [0.000, 0.000, 0.000, 59]
+    level:    [0, 0]
+
+  17142236:
+    template: DiDhas_Elite_Guard
+    at:       [0.000, 0.000, 0.000, 16]
+    level:    [0, 0]
+
+  17142237:
+    template: DiDhas_Elite_Guard
+    at:       [0.000, 0.000, 0.000, 117]
+    level:    [0, 0]
+
+  17142238:
+    template: DiDhas_Elite_Guard
+    at:       [0.000, 0.000, 0.000, 96]
+    level:    [0, 0]
+
+  17142239:
+    template: BoDho_Hundredfist
+    at:       [310.847, -48.157, 95.423, 69]
+    level:    [75, 80]
+
+  17142240:
+    template: Waughroon_Heavyshell
+    at:       [0.000, 0.000, 0.000, 151]
+    level:    [60, 60]
+
+  17142241:
+    template: Waughroon_Heavyshell
+    at:       [0.000, 0.000, 0.000, 70]
+    level:    [60, 60]
+
+  17142242:
+    template: Waughroon_Heavyshell
+    at:       [0.000, 0.000, 0.000, 46]
+    level:    [60, 60]
+
+  17142243:
+    template: Waughroon_Heavyshell
+    at:       [0.000, 0.000, 0.000, 68]
+    level:    [60, 60]
+
+  17142244:
+    template: Waughroon_Heavyshell
+    at:       [0.000, 0.000, 0.000, 186]
+    level:    [60, 60]
+
+  17142245:
+    template: Waughroon_Heavyshell
+    at:       [0.000, 0.000, 0.000, 12]
+    level:    [60, 60]
+
+  17142246:
+    template: Waughroon_Heavyshell
+    at:       [0.000, 0.000, 0.000, 51]
+    level:    [60, 60]
+
+  17142247:
+    template: Waughroon_Heavyshell
+    at:       [0.000, 0.000, 0.000, 79]
+    level:    [60, 60]
+
+  17142248:
+    template: Waughroon_Heavyshell
+    at:       [0.000, 0.000, 0.000, 189]
+    level:    [60, 60]
+
+  17142249:
+    template: DeVyu_Headhunter
+    at:       [299.625, -48.281, 103.555, 7]
+    level:    [75, 80]
+
+  17142250:
+    template: Beadeaux_Vanguard
+    at:       [0.000, 0.000, 0.000, 81]
+    level:    [60, 60]
+
+  17142251:
+    template: Beadeaux_Vanguard
+    at:       [0.000, 0.000, 0.000, 76]
+    level:    [60, 60]
+
+  17142252:
+    template: Beadeaux_Vanguard
+    at:       [0.000, 0.000, 0.000, 254]
+    level:    [60, 60]
+
+  17142253:
+    template: Beadeaux_Vanguard
+    at:       [0.000, 0.000, 0.000, 191]
+    level:    [60, 60]
+
+  17142254:
+    template: Beadeaux_Vanguard
+    at:       [0.000, 0.000, 0.000, 153]
+    level:    [60, 60]
+
+  17142255:
+    template: Beadeaux_Vanguard
+    at:       [0.000, 0.000, 0.000, 101]
+    level:    [60, 60]
+
+  17142256:
+    template: Beadeaux_Vanguard
+    at:       [0.000, 0.000, 0.000, 227]
+    level:    [60, 60]
+
+  17142257:
+    template: Beadeaux_Vanguard
+    at:       [0.000, 0.000, 0.000, 117]
+    level:    [60, 60]
+
+  17142258:
+    template: Beadeaux_Vanguard
+    at:       [0.000, 0.000, 0.000, 21]
+    level:    [60, 60]
+
+  17142259:
+    template: BiGho_Headtaker
+    at:       [288.305, -47.730, 103.001, 44]
+    level:    [70, 70]
+
+  17142260:
+    template: Qulun_Heavyshell
+    at:       [313.976, -47.933, 95.687, 212]
+    level:    [70, 70]
+
+  17142261:
+    template: Qulun_Heavyshell
+    at:       [311.842, -48.202, 94.972, 226]
+    level:    [70, 70]
+
+  17142262:
+    template: Qulun_Heavyshell
+    at:       [332.657, -48.408, 87.742, 208]
+    level:    [70, 70]
+
+  17142263:
+    template: Qulun_Heavyshell
+    at:       [330.891, -38.279, 148.432, 89]
+    level:    [70, 70]
+
+  17142264:
+    template: Qulun_Heavyshell
+    at:       [333.674, -48.314, 87.813, 199]
+    level:    [70, 70]
+
+  17142265:
+    template: Qulun_Heavyshell
+    at:       [333.844, -48.302, 87.866, 197]
+    level:    [70, 70]
+
+  17142266:
+    template: Qulun_Heavyshell
+    at:       [355.220, -48.182, 110.032, 45]
+    level:    [70, 70]
+
+  17142267:
+    template: Qulun_Heavyshell
+    at:       [311.456, -47.877, 98.766, 9]
+    level:    [70, 70]
+
+  17142268:
+    template: Qulun_Heavyshell
+    at:       [311.587, -47.784, 99.566, 17]
+    level:    [70, 70]
+
+  17142269:
+    template: GoBhu_Herohunter
+    at:       [296.785, -48.469, 96.600, 154]
+    level:    [75, 80]
+
+  17142270:
+    template: GoBhus_Elite_Raider
+    at:       [0.000, 0.000, 0.000, 237]
+    level:    [0, 0]
+
+  17142271:
+    template: GoBhus_Elite_Raider
+    at:       [0.000, 0.000, 0.000, 212]
+    level:    [0, 0]
+
+  17142272:
+    template: GoBhus_Elite_Raider
+    at:       [0.000, 0.000, 0.000, 149]
+    level:    [0, 0]
+
+  17142273:
+    template: GoBhus_Elite_Raider
+    at:       [0.000, 0.000, 0.000, 105]
+    level:    [0, 0]
+
+  17142274:
+    template: GoBhus_Elite_Raider
+    at:       [0.000, 0.000, 0.000, 6]
+    level:    [0, 0]
+
+  17142275:
+    template: GoBhus_Elite_Raider
+    at:       [0.000, 0.000, 0.000, 81]
+    level:    [0, 0]
+
+  17142276:
+    template: GoBhus_Elite_Raider
+    at:       [0.000, 0.000, 0.000, 69]
+    level:    [0, 0]
+
+  17142277:
+    template: GoBhus_Elite_Raider
+    at:       [0.000, 0.000, 0.000, 60]
+    level:    [0, 0]
+
+  17142278:
+    template: GoBhus_Elite_Raider
+    at:       [0.000, 0.000, 0.000, 72]
+    level:    [0, 0]
+
+  17142279:
+    template: NoMho_Crimsonarmor
+    level:    [70, 70]
+    region:   grauberg_s_ne_13
+
+  17142280:
+    template: NoMhos_Elite_Guard
+    level:    [70, 70]
+    region:   grauberg_s_c_18
+
+  17142281:
+    template: NoMhos_Elite_Guard
+    level:    [70, 70]
+    region:   grauberg_s_e_3
+
+  17142282:
+    template: NoMhos_Elite_Guard
+    level:    [70, 70]
+    region:   grauberg_s_c_27
+
+  17142283:
+    template: NoMhos_Elite_Guard
+    level:    [70, 70]
+    region:   grauberg_s_c_22
+
+  17142284:
+    template: NoMhos_Elite_Guard
+    level:    [70, 70]
+    region:   grauberg_s_c_20
+
+  17142285:
+    template: NoMhos_Elite_Guard
+    level:    [70, 70]
+    region:   grauberg_s_c_17
+
+  17142286:
+    template: NoMhos_Elite_Guard
+    level:    [70, 70]
+    region:   grauberg_s_c_21
+
+  17142287:
+    template: NoMhos_Elite_Guard
+    level:    [70, 70]
+    region:   grauberg_s_e_2
+
+  17142288:
+    template: NoMhos_Elite_Guard
+    level:    [70, 70]
+    region:   grauberg_s_c_19
+
+  17142289:
+    template: BoDhos_Shieldwarrior
+    at:       [347.020, -39.186, 178.251, 94]
+    level:    [65, 65]
+
+  17142290:
+    template: BoDhos_Shieldwarrior
+    at:       [341.521, -37.437, 171.446, 93]
+    level:    [65, 65]
+
+  17142291:
+    template: BoDhos_Shieldwarrior
+    at:       [355.516, -39.518, 204.565, 40]
+    level:    [65, 65]
+
+  17142292:
+    template: BoDhos_Shieldwarrior
+    at:       [344.800, -38.252, 173.358, 94]
+    level:    [65, 65]
+
+  17142293:
+    template: BoDhos_Shieldwarrior
+    at:       [339.675, -37.227, 164.836, 84]
+    level:    [65, 65]
+
+  17142294:
+    template: BoDhos_Shieldwarrior
+    at:       [0.000, 0.000, 0.000, 148]
+    level:    [65, 65]
+
+  17142295:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17142296:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17142297:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17142298:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17142299:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17142300:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17142301:
+    template: Iron_Bomb
+    at:       [334.834, -48.280, 89.809, 180]
+    level:    [50, 50]
+
+  17142302:
+    template: Iron_Bomb
+    at:       [313.273, -47.789, 97.833, 48]
+    level:    [50, 50]
+
+  17142303:
+    template: Iron_Bomb
+    at:       [333.160, -47.989, 115.900, 91]
+    level:    [50, 50]
+
+  17142304:
+    template: Iron_Bomb
+    at:       [313.384, -47.753, 98.075, 49]
+    level:    [50, 50]
+
+  17142305:
+    template: Iron_Bomb
+    at:       [333.095, -47.990, 116.038, 89]
+    level:    [50, 50]
+
+  17142306:
+    template: Iron_Bomb
+    at:       [335.015, -48.317, 90.179, 172]
+    level:    [50, 50]
+
+  17142307:
+    template: Confederate_Belfry
+    at:       [256.419, -47.742, 120.814, 31]
+    level:    [75, 80]
+
+  17142308:
+    template: Khroma_Quadav
+    at:       [286.654, -47.715, 98.353, 225]
+    level:    [60, 60]
+
+  17142309:
+    template: Khroma_Quadav
+    at:       [258.558, -47.765, 118.712, 8]
+    level:    [60, 60]
+
+  17142310:
+    template: Khroma_Quadav
+    at:       [285.364, -48.000, 96.544, 235]
+    level:    [60, 60]
+
+  17142311:
+    template: Khroma_Quadav
+    at:       [295.706, -47.921, 107.574, 10]
+    level:    [60, 60]
+
+  17142312:
+    template: Khroma_Quadav
+    at:       [242.908, -48.289, 130.841, 231]
+    level:    [60, 60]
+
+  17142313:
+    template: Khroma_Quadav
+    at:       [293.459, -48.173, 106.838, 251]
+    level:    [60, 60]
+
+  17142314:
+    template: Quadav_Turret
+    at:       [337.751, -47.600, 79.801, 179]
+    level:    [75, 80]
+
+  17142315:
+    template: War_Ajattara
+    at:       [329.165, -48.445, 86.040, 33]
+    level:    [60, 60]
+
+  17142316:
+    template: War_Ajattara
+    at:       [334.075, -48.090, 85.972, 89]
+    level:    [60, 60]
+
+  17142317:
+    template: War_Ajattara
+    at:       [334.299, -48.068, 85.977, 91]
+    level:    [60, 60]
+
+  17142318:
+    template: War_Ajattara
+    at:       [334.448, -48.089, 86.342, 90]
+    level:    [60, 60]
+
+  17142319:
+    template: War_Ajattara
+    at:       [334.935, -48.022, 86.156, 94]
+    level:    [60, 60]
+
+  17142320:
+    template: War_Ajattara
+    at:       [346.477, -47.947, 83.664, 83]
+    level:    [60, 60]
+
+  17142321:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17142322:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17142323:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17142324:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17142325:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17142326:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17142327:
+    template: Shadowhorn
+    at:       [343.087, -47.654, 117.344, 40]
+    level:    [75, 80]
+
+  17142328:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 6]
+    level:    [60, 60]
+
+  17142329:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 125]
+    level:    [60, 60]
+
+  17142330:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 83]
+    level:    [60, 60]
+
+  17142331:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 70]
+    level:    [60, 60]
+
+  17142332:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 56]
+    level:    [60, 60]
+
+  17142333:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 63]
+    level:    [60, 60]
+
+  17142334:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 113]
+    level:    [60, 60]
+
+  17142335:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 45]
+    level:    [60, 60]
+
+  17142336:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 101]
+    level:    [60, 60]
+
+  17142337:
+    template: Shadowhand
+    at:       [354.679, -48.044, 110.089, 10]
+    level:    [75, 80]
+
+  17142338:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 11]
+    level:    [0, 0]
+
+  17142339:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 171]
+    level:    [0, 0]
+
+  17142340:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 238]
+    level:    [0, 0]
+
+  17142341:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 130]
+    level:    [0, 0]
+
+  17142342:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 54]
+    level:    [0, 0]
+
+  17142343:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 104]
+    level:    [0, 0]
+
+  17142344:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 135]
+    level:    [0, 0]
+
+  17142345:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 122]
+    level:    [0, 0]
+
+  17142346:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 14]
+    level:    [0, 0]
+
+  17142347:
+    template: Shadowfang
+    at:       [305.736, -48.298, 100.552, 193]
+    level:    [75, 80]
+
+  17142348:
+    template: Shadowfang_Void
+    at:       [274.082, -35.856, 16.774, 55]
+    level:    [60, 60]
+
+  17142349:
+    template: Shadowfang_Void
+    at:       [363.657, -48.522, 89.215, 245]
+    level:    [60, 60]
+
+  17142350:
+    template: Shadowfang_Void
+    at:       [358.919, -47.987, 106.872, 132]
+    level:    [60, 60]
+
+  17142351:
+    template: Shadowfang_Void
+    at:       [308.628, -48.339, 112.501, 96]
+    level:    [60, 60]
+
+  17142352:
+    template: Shadowfang_Void
+    at:       [363.440, -48.601, 108.419, 146]
+    level:    [60, 60]
+
+  17142353:
+    template: Shadowfang_Void
+    at:       [302.096, -48.346, 96.965, 153]
+    level:    [60, 60]
+
+  17142354:
+    template: Shadowfang_Void
+    at:       [358.431, -48.364, 113.290, 44]
+    level:    [60, 60]
+
+  17142355:
+    template: Shadowfang_Void
+    at:       [306.758, -48.163, 101.096, 110]
+    level:    [60, 60]
+
+  17142356:
+    template: Shadowfang_Void
+    at:       [304.243, -48.473, 99.718, 107]
+    level:    [60, 60]
+
+  17142357:
+    template: Shadoweye
+    at:       [314.367, -48.277, 109.924, 110]
+    level:    [75, 80]
+
+  17142358:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 255]
+    level:    [60, 60]
+
+  17142359:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 204]
+    level:    [60, 60]
+
+  17142360:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 128]
+    level:    [60, 60]
+
+  17142361:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 27]
+    level:    [60, 60]
+
+  17142362:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 248]
+    level:    [60, 60]
+
+  17142363:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17142364:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 35]
+    level:    [60, 60]
+
+  17142365:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 32]
+    level:    [60, 60]
+
+  17142366:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 230]
+    level:    [60, 60]
+
+  17142367:
+    template: Fortification
+    at:       [334.330, -48.497, 91.538, 0]
+    level:    [50, 50]
+
+  17142368:
+    template: Fortification
+    at:       [315.195, -48.499, 97.906, 0]
+    level:    [50, 50]
+
+  17142369:
+    template: Fortification
+    at:       [341.323, -47.800, 113.255, 0]
+    level:    [50, 50]
+
+  17142370:
+    template: Fortification
+    at:       [331.980, -47.995, 114.458, 0]
+    level:    [50, 50]
+
+  17142371:
+    template: Rikoh_Wahcondalo
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142372:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142373:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142374:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142375:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142376:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142377:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142378:
+    template: Dalzakk
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142379:
+    template: Oggbi
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142380:
+    template: Rainemard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142381:
+    template: Maat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142382:
+    template: Degenhard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142383:
+    template: Azima
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142384:
+    template: Choh_Moui
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142385:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142386:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142387:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142388:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142389:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142390:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142391:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142392:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142393:
+    template: Azo
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142394:
+    template: Vahi
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142395:
+    template: Rongo-Nango
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142396:
+    template: Lerren
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142397:
+    template: Jajaro
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142398:
+    template: Popochu
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142399:
+    template: Papako
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142400:
+    template: Momowa
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142401:
+    template: Ulla
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142402:
+    template: Kilhwch
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142403:
+    template: Alfons
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142404:
+    template: Achtelle
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142405:
+    template: Bravo
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142406:
+    template: Duskraven
+    at:       [0.000, 0.000, 0.000, 227]
+    level:    [1, 1]
+
+  17142407:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 251]
+    level:    [1, 1]
+
+  17142408:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 127]
+    level:    [1, 1]
+
+  17142409:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 135]
+    level:    [1, 1]
+
+  17142410:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 139]
+    level:    [1, 1]
+
+  17142411:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 86]
+    level:    [1, 1]
+
+  17142412:
+    template: Areuhat
+    level:    [1, 1]
+    region:   grauberg_s_c_16
+
+  17142413:
+    template: Odzmanouk
+    level:    [1, 1]
+    region:   grauberg_s_c_26
+
+  17142414:
+    template: Boodlix
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17142415:
+    template: Goblin_Lansquenet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17142416:
+    template: Goblin_Lansquenet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17142417:
+    template: Goblin_Lansquenet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17142418:
+    template: Titania
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142419:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142420:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142421:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142422:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142423:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142424:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142425:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142426:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142427:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142428:
+    template: Babban_Ny_Mheillea
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17142429:
+    template: Abenzio
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142430:
+    template: Bryher
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142431:
+    template: Camlin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142432:
+    template: Darach
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142433:
+    template: Raigegue_R_dOraguille
+    at:       [0.000, 0.000, 0.000, 84]
+    level:    [0, 0]
+
+  17142434:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 64]
+    level:    [0, 0]
+
+  17142435:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 64]
+    level:    [0, 0]
+
+  17142436:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 64]
+    level:    [0, 0]
+
+  17142437:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 64]
+    level:    [0, 0]
+
+  17142438:
+    template: Eurytos
+    at:       [287.402, -47.700, 101.490, 61]
+    level:    [75, 75]
+
+  17142439:
+    template: Gigas_Mercenary
+    at:       [293.474, -47.998, 106.033, 108]
+    level:    [60, 60]
+
+  17142440:
+    template: Gigas_Mercenary
+    at:       [292.940, -48.147, 101.761, 152]
+    level:    [60, 60]
+
+  17142441:
+    template: Poroggo_Prince
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142442:
+    template: Poroggo_Servant
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142443:
+    template: Poroggo_Servant
+    at:       [359.993, -48.196, 106.685, 147]
+    level:    [1, 1]
+
+  17142444:
+    template: Poroggo_Servant
+    at:       [362.678, -48.402, 106.289, 218]
+    level:    [1, 1]
+
+  17142445:
+    template: Kaiser_Behemoth
+    at:       [344.193, -47.001, 73.650, 177]
+    level:    [60, 60]
+
+  17142446:
+    template: Ferreous_Coffin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142447:
+    template: Lewenhart
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142448:
+    template: Auroral_Alicorn
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17142449:
+    template: Ocythoe
+    at:       [-510.000, 31.624, -795.000, 250]
+    level:    [90, 95]
+
+  17142450:
+    template: Ocythoe
+    at:       [-80.000, -7.799, -385.000, 0]
+    level:    [90, 95]
+
+  17142451:
+    template: Ocythoe
+    at:       [72.000, -48.187, 285.000, 7]
+    level:    [90, 95]
+
+  17142452:
+    template: Cetus
+    at:       [-123.725, -7.284, 590.606, 59]
+    level:    [150, 150]
+
+  17142457:
+    template: Time_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17142459:
+    template: Areuhat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]

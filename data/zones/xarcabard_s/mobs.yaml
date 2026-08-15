@@ -1,0 +1,3018 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17338369:
+    template: Cointeach
+    level:    [79, 80]
+    region:   xarcabard_s_se_12
+
+  17338370:
+    template: Cointeach
+    level:    [79, 80]
+    region:   xarcabard_s_se_12
+
+  17338371:
+    template: Dire_Gargouille
+    level:    [78, 82]
+    region:   xarcabard_s_se_12
+
+  17338372:
+    template: Gigas_Lopper
+    level:    [80, 81]
+    region:   xarcabard_s_se_10
+
+  17338373:
+    template: Gigas_Lopper
+    level:    [80, 81]
+    region:   xarcabard_s_se_10
+
+  17338374:
+    template: Gigas_Slugger
+    level:    [80, 81]
+    region:   xarcabard_s_se_10
+
+  17338375:
+    template: Gigas_Slugger
+    level:    [80, 81]
+    region:   xarcabard_s_se_10
+
+  17338376:
+    template: Cointeach
+    level:    [79, 80]
+    region:   xarcabard_s_se_7
+
+  17338377:
+    template: Dire_Gargouille
+    level:    [78, 82]
+    region:   xarcabard_s_se_7
+
+  17338378:
+    template: Gigas_Slugger
+    level:    [80, 81]
+    region:   xarcabard_s_se_7
+
+  17338379:
+    template: Gigas_Lopper
+    level:    [80, 81]
+    region:   xarcabard_s_se_5
+
+  17338380:
+    template: Gigas_Slugger
+    level:    [80, 81]
+    region:   xarcabard_s_se_5
+
+  17338381:
+    template: Gigas_Flogger
+    level:    [80, 81]
+    region:   xarcabard_s_se_5
+
+  17338382:
+    template: Gigass_Tiger
+    level:    [75, 76]
+    region:   xarcabard_s_se_5
+
+  17338383:
+    template: Cointeach
+    level:    [79, 80]
+    region:   xarcabard_s_se_4
+
+  17338384:
+    template: Dire_Gargouille
+    at:       [284.145, -1.269, -268.107, 220]
+    level:    [78, 82]
+
+  17338385:
+    template: Gigas_Hurler
+    level:    [80, 81]
+    region:   xarcabard_s_se_4
+
+  17338386:
+    template: Graoully
+    at:       [284.000, 0.001, -253.000, 90]
+    level:    [90, 90]
+
+  17338387:
+    template: Gigas_Hurler
+    level:    [80, 81]
+    region:   xarcabard_s_se_2
+
+  17338388:
+    template: Gigas_Flogger
+    level:    [80, 81]
+    region:   xarcabard_s_se_2
+
+  17338389:
+    template: Gigass_Tiger
+    level:    [75, 76]
+    region:   xarcabard_s_se_2
+
+  17338390:
+    template: Gigas_Flogger
+    level:    [80, 81]
+    region:   xarcabard_s_se_2
+
+  17338391:
+    template: Gigass_Tiger
+    level:    [75, 76]
+    region:   xarcabard_s_se_2
+
+  17338392:
+    template: Gigas_Lopper
+    level:    [80, 81]
+    region:   xarcabard_s_se_3
+
+  17338393:
+    template: Gigas_Slugger
+    level:    [80, 81]
+    region:   xarcabard_s_se_3
+
+  17338394:
+    template: Gigas_Hurler
+    level:    [80, 81]
+    region:   xarcabard_s_se_3
+
+  17338395:
+    template: Gigas_Hurler
+    level:    [80, 81]
+    region:   xarcabard_s_se
+
+  17338396:
+    template: Gigas_Flogger
+    level:    [80, 81]
+    region:   xarcabard_s_se
+
+  17338397:
+    template: Gigass_Tiger
+    level:    [75, 76]
+    region:   xarcabard_s_se
+
+  17338398:
+    template: Cointeach
+    level:    [79, 80]
+    region:   xarcabard_s_se_11
+
+  17338399:
+    template: Cointeach
+    level:    [79, 80]
+    region:   xarcabard_s_se_11
+
+  17338400:
+    template: Gigas_Hurler
+    level:    [80, 81]
+    region:   xarcabard_s_se_6
+
+  17338401:
+    template: Gigas_Hurler
+    level:    [80, 81]
+    region:   xarcabard_s_se_6
+
+  17338402:
+    template: Gigas_Flogger
+    level:    [80, 81]
+    region:   xarcabard_s_se_6
+
+  17338403:
+    template: Gigass_Tiger
+    level:    [75, 76]
+    region:   xarcabard_s_se_6
+
+  17338404:
+    template: Cointeach
+    level:    [79, 80]
+    region:   xarcabard_s_e_2
+
+  17338405:
+    template: Ice_Elemental
+    level:    [80, 80]
+    region:   xarcabard_s_e_2
+
+  17338406:
+    template: Demon_Warrior
+    level:    [80, 82]
+    region:   xarcabard_s_e_6
+
+  17338407:
+    template: Gigas_Lopper
+    level:    [80, 81]
+    region:   xarcabard_s_e_6
+
+  17338408:
+    template: Gigas_Slugger
+    level:    [80, 81]
+    region:   xarcabard_s_e_6
+
+  17338409:
+    template: Gigas_Hurler
+    level:    [80, 81]
+    region:   xarcabard_s_e_6
+
+  17338410:
+    template: Harum-scarum
+    level:    [80, 83]
+    region:   xarcabard_s_e_7
+
+  17338411:
+    template: Harum-scarum
+    level:    [80, 83]
+    region:   xarcabard_s_e_8
+
+  17338412:
+    template: Harum-scarum
+    level:    [80, 83]
+    region:   xarcabard_s_e_8
+
+  17338413:
+    template: Savage_Ruszor
+    level:    [79, 82]
+    region:   xarcabard_s_e_10
+
+  17338414:
+    template: Savage_Ruszor
+    level:    [79, 82]
+    region:   xarcabard_s_e_10
+
+  17338415:
+    template: Savage_Ruszor
+    level:    [79, 82]
+    region:   xarcabard_s_e_10
+
+  17338416:
+    template: Savage_Ruszor
+    level:    [79, 82]
+    region:   xarcabard_s_e_10
+
+  17338417:
+    template: Savage_Ruszor
+    level:    [79, 82]
+    region:   xarcabard_s_e_10
+
+  17338418:
+    template: Ice_Elemental
+    level:    [80, 80]
+    region:   xarcabard_s_e_10
+
+  17338419:
+    template: Savage_Ruszor
+    level:    [79, 82]
+    region:   xarcabard_s_e_9
+
+  17338420:
+    template: Savage_Ruszor
+    level:    [79, 82]
+    region:   xarcabard_s_e_9
+
+  17338421:
+    template: Savage_Ruszor
+    level:    [79, 82]
+    region:   xarcabard_s_e_9
+
+  17338422:
+    template: Savage_Ruszor
+    level:    [79, 82]
+    region:   xarcabard_s_e_9
+
+  17338423:
+    template: Savage_Ruszor
+    level:    [79, 82]
+    region:   xarcabard_s_e_9
+
+  17338424:
+    template: Ruly_Imp
+    level:    [80, 81]
+    region:   xarcabard_s_s_8
+
+  17338425:
+    template: Ruly_Imp
+    level:    [80, 81]
+    region:   xarcabard_s_s_8
+
+  17338426:
+    template: Gigas_Lopper
+    level:    [80, 81]
+    region:   xarcabard_s_s_10
+
+  17338427:
+    template: Gigas_Flogger
+    level:    [80, 81]
+    region:   xarcabard_s_s_10
+
+  17338428:
+    template: Gigass_Tiger
+    level:    [75, 76]
+    region:   xarcabard_s_s_10
+
+  17338429:
+    template: Ruly_Imp
+    level:    [80, 81]
+    region:   xarcabard_s_s_9
+
+  17338430:
+    template: Ruly_Imp
+    level:    [80, 81]
+    region:   xarcabard_s_s_9
+
+  17338431:
+    template: Ruly_Imp
+    level:    [80, 81]
+    region:   xarcabard_s_s_9
+
+  17338432:
+    template: Ruly_Imp
+    level:    [80, 81]
+    region:   xarcabard_s_s_9
+
+  17338433:
+    template: Berserker_Demon
+    level:    [82, 83]
+    region:   xarcabard_s_s_9
+
+  17338434:
+    template: Demon_Warrior
+    level:    [80, 82]
+    region:   xarcabard_s_s_9
+
+  17338435:
+    template: Demon_Befouler
+    level:    [80, 82]
+    region:   xarcabard_s_s_9
+
+  17338436:
+    template: Ruly_Imp
+    level:    [80, 81]
+    region:   xarcabard_s_c_9
+
+  17338437:
+    template: Ruly_Imp
+    level:    [80, 81]
+    region:   xarcabard_s_c_9
+
+  17338438:
+    template: Demon_Justiciar
+    level:    [80, 82]
+    region:   xarcabard_s_c_9
+
+  17338439:
+    template: Demons_Elemental
+    level:    [75, 78]
+    region:   xarcabard_s_c_9
+
+  17338440:
+    template: Eclipse_Demon
+    level:    [82, 83]
+    region:   xarcabard_s_c_12
+
+  17338441:
+    template: Demon_Befouler
+    level:    [80, 82]
+    region:   xarcabard_s_c_12
+
+  17338442:
+    template: Ruly_Imp
+    level:    [80, 81]
+    region:   xarcabard_s_c_12
+
+  17338443:
+    template: Ruly_Imp
+    level:    [80, 81]
+    region:   xarcabard_s_s_3
+
+  17338444:
+    template: Ruly_Imp
+    level:    [80, 81]
+    region:   xarcabard_s_s_3
+
+  17338445:
+    template: Ruly_Imp
+    level:    [80, 81]
+    region:   xarcabard_s_s_3
+
+  17338446:
+    template: Demon_Warrior
+    level:    [80, 82]
+    region:   xarcabard_s_s_3
+
+  17338447:
+    template: Adjudicator_Demon
+    level:    [82, 83]
+    region:   xarcabard_s_s_4
+
+  17338448:
+    template: Demons_Elemental
+    level:    [75, 78]
+    region:   xarcabard_s_s_4
+
+  17338449:
+    template: Demon_Magus
+    level:    [80, 82]
+    region:   xarcabard_s_s_4
+
+  17338450:
+    template: Ruly_Imp
+    level:    [80, 81]
+    region:   xarcabard_s_c_6
+
+  17338451:
+    template: Ruly_Imp
+    level:    [80, 81]
+    region:   xarcabard_s_c_6
+
+  17338452:
+    template: Inferno_Demon
+    level:    [82, 83]
+    region:   xarcabard_s_c_6
+
+  17338453:
+    template: Demon_Magus
+    level:    [80, 82]
+    region:   xarcabard_s_c_6
+
+  17338454:
+    template: Ruly_Imp
+    level:    [80, 81]
+    region:   xarcabard_s_c_7
+
+  17338455:
+    template: Demon_Justiciar
+    level:    [80, 82]
+    region:   xarcabard_s_c_7
+
+  17338456:
+    template: Demons_Elemental
+    level:    [75, 78]
+    region:   xarcabard_s_c_7
+
+  17338457:
+    template: Gidim
+    level:    [81, 82]
+    region:   xarcabard_s_s_2
+
+  17338458:
+    template: Gidim
+    level:    [81, 82]
+    region:   xarcabard_s_s_2
+
+  17338459:
+    template: Gidim
+    level:    [81, 82]
+    region:   xarcabard_s_s_2
+
+  17338460:
+    template: Demon_Justiciar
+    level:    [80, 82]
+    region:   xarcabard_s_s_2
+
+  17338461:
+    template: Demons_Elemental
+    level:    [75, 78]
+    region:   xarcabard_s_s_2
+
+  17338462:
+    template: Prince_Orobas
+    at:       [15.392, -23.847, -159.152, 13]
+    level:    [87, 87]
+
+  17338463:
+    template: Cointeach
+    level:    [79, 80]
+    region:   xarcabard_s_s_2
+
+  17338464:
+    template: Cointeach
+    level:    [79, 80]
+    region:   xarcabard_s_s_2
+
+  17338465:
+    template: Cointeach
+    level:    [79, 80]
+    region:   xarcabard_s_s_2
+
+  17338466:
+    template: Dire_Gargouille
+    level:    [78, 82]
+    region:   xarcabard_s_w_16
+
+  17338467:
+    template: Dire_Gargouille
+    level:    [78, 82]
+    region:   xarcabard_s_w_16
+
+  17338468:
+    template: Dire_Gargouille
+    level:    [78, 82]
+    region:   xarcabard_s_w_16
+
+  17338469:
+    template: Dire_Gargouille
+    level:    [78, 82]
+    region:   xarcabard_s_w_15
+
+  17338470:
+    template: Dire_Gargouille
+    level:    [78, 82]
+    region:   xarcabard_s_w_15
+
+  17338471:
+    template: Dire_Gargouille
+    level:    [78, 82]
+    region:   xarcabard_s_w_15
+
+  17338472:
+    template: Gorgotaur
+    level:    [80, 82]
+    region:   xarcabard_s_w_14
+
+  17338473:
+    template: Tarbotaur
+    level:    [82, 83]
+    region:   xarcabard_s_w_14
+
+  17338474:
+    template: Demon_Magus
+    level:    [80, 82]
+    region:   xarcabard_s_w_13
+
+  17338475:
+    template: Demon_Befouler
+    level:    [80, 82]
+    region:   xarcabard_s_w_13
+
+  17338476:
+    template: Demon_Warrior
+    level:    [80, 82]
+    region:   xarcabard_s_w_13
+
+  17338477:
+    template: Demon_Warrior
+    level:    [80, 82]
+    region:   xarcabard_s_w_12
+
+  17338478:
+    template: Demon_Magus
+    level:    [80, 82]
+    region:   xarcabard_s_w_12
+
+  17338479:
+    template: Demon_Befouler
+    level:    [80, 82]
+    region:   xarcabard_s_w_12
+
+  17338480:
+    template: Gorgotaur
+    level:    [80, 82]
+    region:   xarcabard_s_w_9
+
+  17338481:
+    template: Gorgotaur
+    level:    [80, 82]
+    region:   xarcabard_s_w_9
+
+  17338482:
+    template: Demon_Magus
+    level:    [80, 82]
+    region:   xarcabard_s_w_8
+
+  17338483:
+    template: Demon_Warrior
+    level:    [80, 82]
+    region:   xarcabard_s_w_8
+
+  17338484:
+    template: Adjudicator_Demon
+    level:    [82, 83]
+    region:   xarcabard_s_w_8
+
+  17338485:
+    template: Demons_Elemental
+    level:    [75, 78]
+    region:   xarcabard_s_w_8
+
+  17338486:
+    template: Gorgotaur
+    level:    [80, 82]
+    region:   xarcabard_s_w_6
+
+  17338487:
+    template: Gorgotaur
+    at:       [-273.502, -20.298, 70.583, 107]
+    level:    [80, 82]
+
+  17338488:
+    template: Gorgotaur
+    level:    [80, 82]
+    region:   xarcabard_s_sw_2
+
+  17338489:
+    template: Gorgotaur
+    level:    [80, 82]
+    region:   xarcabard_s_sw_2
+
+  17338490:
+    template: Gorgotaur
+    level:    [80, 82]
+    region:   xarcabard_s_sw
+
+  17338491:
+    template: Gorgotaur
+    at:       [-233.024, -11.828, -107.908, 231]
+    level:    [80, 82]
+
+  17338492:
+    template: Gorgotaur
+    level:    [80, 82]
+    region:   xarcabard_s_w_4
+
+  17338493:
+    template: Gorgotaur
+    level:    [80, 82]
+    region:   xarcabard_s_w_4
+
+  17338494:
+    template: Berserker_Demon
+    level:    [82, 83]
+    region:   xarcabard_s_w_11
+
+  17338495:
+    template: Demon_Magus
+    level:    [80, 82]
+    region:   xarcabard_s_w_11
+
+  17338496:
+    template: Demon_Justiciar
+    level:    [80, 82]
+    region:   xarcabard_s_w_11
+
+  17338497:
+    template: Demons_Elemental
+    level:    [75, 78]
+    region:   xarcabard_s_w_11
+
+  17338498:
+    template: Inferno_Demon
+    level:    [82, 83]
+    region:   xarcabard_s_w_7
+
+  17338499:
+    template: Demon_Befouler
+    level:    [80, 82]
+    region:   xarcabard_s_w_7
+
+  17338500:
+    template: Demon_Justiciar
+    level:    [80, 82]
+    region:   xarcabard_s_w_7
+
+  17338501:
+    template: Demons_Elemental
+    level:    [75, 78]
+    region:   xarcabard_s_w_7
+
+  17338502:
+    template: Eclipse_Demon
+    level:    [82, 83]
+    region:   xarcabard_s_w_5
+
+  17338503:
+    template: Demon_Befouler
+    level:    [80, 82]
+    region:   xarcabard_s_w_5
+
+  17338504:
+    template: Demon_Justiciar
+    level:    [80, 82]
+    region:   xarcabard_s_w_5
+
+  17338505:
+    template: Demons_Elemental
+    level:    [75, 78]
+    region:   xarcabard_s_w_5
+
+  17338506:
+    template: Tarbotaur
+    level:    [82, 83]
+    region:   xarcabard_s_w_3
+
+  17338507:
+    template: Tarbotaur
+    level:    [82, 83]
+    region:   xarcabard_s_w_3
+
+  17338508:
+    template: Ice_Elemental
+    level:    [80, 80]
+    region:   xarcabard_s_w_3
+
+  17338509:
+    template: Berserker_Demon
+    level:    [82, 83]
+    region:   xarcabard_s_w_2
+
+  17338510:
+    template: Demon_Befouler
+    level:    [80, 82]
+    region:   xarcabard_s_w_2
+
+  17338511:
+    template: Eclipse_Demon
+    level:    [82, 83]
+    region:   xarcabard_s_w
+
+  17338512:
+    template: Demon_Justiciar
+    level:    [80, 82]
+    region:   xarcabard_s_w
+
+  17338513:
+    template: Demons_Elemental
+    level:    [75, 78]
+    region:   xarcabard_s_w
+
+  17338514:
+    template: Savage_Ruszor
+    level:    [79, 82]
+    region:   xarcabard_s_e_4
+
+  17338515:
+    template: Savage_Ruszor
+    level:    [79, 82]
+    region:   xarcabard_s_e_4
+
+  17338516:
+    template: Savage_Ruszor
+    level:    [79, 82]
+    region:   xarcabard_s_e_4
+
+  17338517:
+    template: Savage_Ruszor
+    level:    [79, 82]
+    region:   xarcabard_s_e_5
+
+  17338518:
+    template: Savage_Ruszor
+    level:    [79, 82]
+    region:   xarcabard_s_e_5
+
+  17338519:
+    template: Savage_Ruszor
+    level:    [79, 82]
+    region:   xarcabard_s_e_5
+
+  17338520:
+    template: Savage_Ruszor
+    level:    [79, 82]
+    region:   xarcabard_s_e_5
+
+  17338521:
+    template: Harum-scarum
+    level:    [80, 83]
+    region:   xarcabard_s_e_3
+
+  17338522:
+    template: Harum-scarum
+    level:    [80, 83]
+    region:   xarcabard_s_e_3
+
+  17338523:
+    template: Harum-scarum
+    level:    [80, 83]
+    region:   xarcabard_s_e_3
+
+  17338524:
+    template: Harum-scarum
+    level:    [80, 83]
+    region:   xarcabard_s_e_3
+
+  17338525:
+    template: Snow_Wight
+    level:    [80, 81]
+    region:   xarcabard_s_e_3
+
+  17338526:
+    template: Snow_Wight
+    level:    [80, 81]
+    region:   xarcabard_s_e_3
+
+  17338527:
+    template: Snow_Wight
+    level:    [80, 81]
+    region:   xarcabard_s_c_11
+
+  17338528:
+    template: Snow_Wight
+    level:    [80, 81]
+    region:   xarcabard_s_c_11
+
+  17338529:
+    template: Snow_Wight
+    level:    [80, 81]
+    region:   xarcabard_s_c_11
+
+  17338530:
+    template: Snow_Wight
+    level:    [80, 81]
+    region:   xarcabard_s_c_11
+
+  17338531:
+    template: Snow_Wight
+    level:    [80, 81]
+    region:   xarcabard_s_c_11
+
+  17338532:
+    template: Demon_Magus
+    level:    [80, 82]
+    region:   xarcabard_s_c_11
+
+  17338533:
+    template: Demon_Befouler
+    level:    [80, 82]
+    region:   xarcabard_s_c_11
+
+  17338534:
+    template: Snow_Wight
+    level:    [80, 81]
+    region:   xarcabard_s_c_4
+
+  17338535:
+    template: Snow_Wight
+    level:    [80, 81]
+    region:   xarcabard_s_c_4
+
+  17338536:
+    template: Snow_Wight
+    level:    [80, 81]
+    region:   xarcabard_s_c_4
+
+  17338537:
+    template: Cointeach
+    level:    [79, 80]
+    region:   xarcabard_s_c_4
+
+  17338538:
+    template: Cointeach
+    level:    [79, 80]
+    region:   xarcabard_s_c_4
+
+  17338539:
+    template: Ice_Elemental
+    level:    [80, 80]
+    region:   xarcabard_s_c_4
+
+  17338540:
+    template: Cointeach
+    level:    [79, 80]
+    region:   xarcabard_s_c_2
+
+  17338541:
+    template: Cointeach
+    level:    [79, 80]
+    region:   xarcabard_s_c_2
+
+  17338542:
+    template: Cointeach
+    level:    [79, 80]
+    region:   xarcabard_s_c_2
+
+  17338543:
+    template: Cointeach
+    level:    [79, 80]
+    region:   xarcabard_s_c_2
+
+  17338544:
+    template: Cointeach
+    level:    [79, 80]
+    region:   xarcabard_s_c_2
+
+  17338545:
+    template: Cointeach
+    level:    [79, 80]
+    region:   xarcabard_s_c_2
+
+  17338546:
+    template: Gidim
+    level:    [81, 82]
+    region:   xarcabard_s_s
+
+  17338547:
+    template: Gidim
+    level:    [81, 82]
+    region:   xarcabard_s_s
+
+  17338548:
+    template: Gidim
+    level:    [81, 82]
+    region:   xarcabard_s_s
+
+  17338549:
+    template: Gidim
+    level:    [81, 82]
+    region:   xarcabard_s_s
+
+  17338550:
+    template: Cointeach
+    level:    [79, 80]
+    region:   xarcabard_s_s
+
+  17338551:
+    template: Cointeach
+    level:    [79, 80]
+    region:   xarcabard_s_s
+
+  17338552:
+    template: Cointeach
+    level:    [79, 80]
+    region:   xarcabard_s_s
+
+  17338553:
+    template: Cointeach
+    level:    [79, 80]
+    region:   xarcabard_s_c
+
+  17338554:
+    template: Cointeach
+    level:    [79, 80]
+    region:   xarcabard_s_c
+
+  17338555:
+    template: Cointeach
+    level:    [79, 80]
+    region:   xarcabard_s_c
+
+  17338556:
+    template: Cointeach
+    level:    [79, 80]
+    region:   xarcabard_s_c
+
+  17338557:
+    template: Cointeach
+    level:    [79, 80]
+    region:   xarcabard_s_c
+
+  17338558:
+    template: Cointeach
+    level:    [79, 80]
+    region:   xarcabard_s_c
+
+  17338559:
+    template: Tikbalang
+    level:    [83, 83]
+    region:   xarcabard_s_c
+
+  17338560:
+    template: Fusty_Gnole
+    level:    [80, 82]
+    region:   xarcabard_s_e
+
+  17338561:
+    template: Fusty_Gnole
+    level:    [80, 82]
+    region:   xarcabard_s_e
+
+  17338562:
+    template: Fusty_Gnole
+    level:    [80, 82]
+    region:   xarcabard_s_e
+
+  17338563:
+    template: Fusty_Gnole
+    level:    [80, 82]
+    region:   xarcabard_s_e
+
+  17338564:
+    template: Fusty_Gnole
+    level:    [80, 82]
+    region:   xarcabard_s_e
+
+  17338565:
+    template: Fusty_Gnole
+    level:    [80, 82]
+    region:   xarcabard_s_e
+
+  17338566:
+    template: Ice_Elemental
+    level:    [80, 80]
+    region:   xarcabard_s_e
+
+  17338567:
+    template: Fusty_Gnole
+    level:    [80, 82]
+    region:   xarcabard_s_c_10
+
+  17338568:
+    template: Fusty_Gnole
+    level:    [80, 82]
+    region:   xarcabard_s_c_10
+
+  17338569:
+    template: Fusty_Gnole
+    level:    [80, 82]
+    region:   xarcabard_s_c_10
+
+  17338570:
+    template: Fusty_Gnole
+    level:    [80, 82]
+    region:   xarcabard_s_c_10
+
+  17338571:
+    template: Fusty_Gnole
+    level:    [80, 82]
+    region:   xarcabard_s_c_10
+
+  17338572:
+    template: Fusty_Gnole
+    level:    [80, 82]
+    region:   xarcabard_s_c_10
+
+  17338573:
+    template: Fusty_Gnole
+    level:    [80, 82]
+    region:   xarcabard_s_c_10
+
+  17338574:
+    template: Caracal
+    level:    [80, 82]
+    region:   xarcabard_s_c_5
+
+  17338575:
+    template: Caracal
+    level:    [80, 82]
+    region:   xarcabard_s_c_5
+
+  17338576:
+    template: Caracal
+    level:    [80, 82]
+    region:   xarcabard_s_c_5
+
+  17338577:
+    template: Caracal
+    level:    [80, 82]
+    region:   xarcabard_s_c_5
+
+  17338578:
+    template: Caracal
+    level:    [80, 82]
+    region:   xarcabard_s_c_5
+
+  17338579:
+    template: Caracal
+    level:    [80, 82]
+    region:   xarcabard_s_c_3
+
+  17338580:
+    template: Caracal
+    level:    [80, 82]
+    region:   xarcabard_s_c_3
+
+  17338581:
+    template: Caracal
+    level:    [80, 82]
+    region:   xarcabard_s_c_3
+
+  17338582:
+    template: Caracal
+    level:    [80, 82]
+    region:   xarcabard_s_c_3
+
+  17338583:
+    template: Caracal
+    level:    [80, 82]
+    region:   xarcabard_s_c_3
+
+  17338584:
+    template: Ice_Elemental
+    level:    [80, 80]
+    region:   xarcabard_s_c_3
+
+  17338585:
+    template: Zirnitra
+    level:    [85, 85]
+    region:   xarcabard_s_c_8
+
+  17338586:
+    template: Greater_Amphiptere
+    level:    [83, 85]
+    region:   xarcabard_s_se_8
+
+  17338587:
+    template: Greater_Amphiptere
+    level:    [83, 85]
+    region:   xarcabard_s_s_6
+
+  17338588:
+    template: Greater_Amphiptere
+    level:    [83, 85]
+    region:   xarcabard_s_w_10
+
+  17338589:
+    template: Dark_Elemental
+    level:    [80, 80]
+    region:   xarcabard_s_ne
+
+  17338590:
+    template: Dark_Elemental
+    level:    [80, 80]
+    region:   xarcabard_s_e_11
+
+  17338591:
+    template: Dark_Elemental
+    level:    [80, 80]
+    region:   xarcabard_s_e_12
+
+  17338592:
+    template: Dark_Elemental
+    level:    [80, 80]
+    region:   xarcabard_s_se_9
+
+  17338593:
+    template: Dark_Elemental
+    at:       [21.105, -23.990, -351.585, 251]
+    level:    [80, 80]
+
+  17338594:
+    template: Megalotaur
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338595:
+    template: Torvotaur
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338596:
+    template: Yilbegan
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [90, 92]
+
+  17338597:
+    template: Lord_Ruthven
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [85, 85]
+
+  17338598:
+    template: Feuerunke
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [82, 82]
+
+  17338599:
+    template: Erebus
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [82, 82]
+
+  17338600:
+    template: Gjenganger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17338601:
+    template: Gjenganger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17338602:
+    template: Gjenganger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17338603:
+    template: Gjenganger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17338604:
+    template: Gorehound
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17338605:
+    template: Gorehound
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17338606:
+    template: Gorehound
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17338607:
+    template: Gorehound
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17338608:
+    template: Valaineral_R_Davilles
+    at:       [149.257, -17.658, -114.080, 199]
+    level:    [70, 70]
+
+  17338609:
+    template: Royal_Guard
+    at:       [148.104, -19.447, -99.731, 130]
+    level:    [70, 70]
+
+  17338610:
+    template: Royal_Guard
+    at:       [136.044, -21.815, -126.769, 85]
+    level:    [70, 70]
+
+  17338611:
+    template: Royal_Guard
+    at:       [141.276, -20.142, -105.382, 33]
+    level:    [70, 70]
+
+  17338612:
+    template: Royal_Guard
+    at:       [146.586, -18.784, -102.896, 135]
+    level:    [70, 70]
+
+  17338613:
+    template: Royal_Guard
+    at:       [141.248, -19.947, -104.880, 239]
+    level:    [70, 70]
+
+  17338614:
+    template: Royal_Guard
+    at:       [141.260, -19.937, -104.852, 239]
+    level:    [70, 70]
+
+  17338615:
+    template: Royal_Guard
+    at:       [141.370, -19.937, -104.875, 238]
+    level:    [70, 70]
+
+  17338616:
+    template: Royal_Guard
+    at:       [148.949, -18.076, -106.979, 166]
+    level:    [70, 70]
+
+  17338617:
+    template: Royal_Guard
+    at:       [141.476, -19.940, -104.903, 238]
+    level:    [70, 70]
+
+  17338618:
+    template: Leonoyne
+    at:       [144.779, -20.155, -109.711, 240]
+    level:    [1, 1]
+
+  17338619:
+    template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338620:
+    template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338621:
+    template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338622:
+    template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338623:
+    template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338624:
+    template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338625:
+    template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338626:
+    template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338627:
+    template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338628:
+    template: Bartholomaus
+    at:       [117.645, -23.907, -146.070, 32]
+    level:    [1, 1]
+
+  17338629:
+    template: 1st_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338630:
+    template: 1st_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338631:
+    template: 1st_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338632:
+    template: 1st_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338633:
+    template: 1st_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338634:
+    template: 1st_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338635:
+    template: 1st_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338636:
+    template: 1st_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338637:
+    template: 1st_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338638:
+    template: Maximilian
+    at:       [99.457, -23.527, -116.335, 221]
+    level:    [1, 1]
+
+  17338639:
+    template: 1st_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338640:
+    template: 1st_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338641:
+    template: 1st_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338642:
+    template: 1st_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338643:
+    template: 1st_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338644:
+    template: 1st_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338645:
+    template: 1st_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338646:
+    template: 1st_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338647:
+    template: 1st_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338648:
+    template: Kayeel-Payeel
+    at:       [100.197, -24.187, -143.227, 28]
+    level:    [1, 1]
+
+  17338649:
+    template: Ice_Fiend
+    at:       [99.196, -24.237, -142.227, 30]
+    level:    [1, 1]
+
+  17338650:
+    template: Thunder_Fiend
+    at:       [99.196, -24.071, -144.227, 8]
+    level:    [1, 1]
+
+  17338651:
+    template: Aquarian_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338652:
+    template: Aquarian_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338653:
+    template: Aquarian_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338654:
+    template: Aquarian_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338655:
+    template: Aquarian_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338656:
+    template: Aquarian_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338657:
+    template: Aquarian_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338658:
+    template: Aquarian_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338659:
+    template: Aquarian_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338660:
+    template: Gariri
+    at:       [132.181, -22.477, -122.090, 36]
+    level:    [1, 1]
+
+  17338661:
+    template: Flame_Giant
+    at:       [131.000, -23.125, -125.000, 167]
+    level:    [1, 1]
+
+  17338662:
+    template: Scorpion_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338663:
+    template: Scorpion_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338664:
+    template: Scorpion_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338665:
+    template: Scorpion_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338666:
+    template: Scorpion_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338667:
+    template: Scorpion_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338668:
+    template: Scorpion_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338669:
+    template: Scorpion_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338670:
+    template: Scorpion_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338671:
+    template: Gold_Badger_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338672:
+    template: Gold_Badger_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338673:
+    template: Gold_Badger_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338674:
+    template: Gold_Badger_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338675:
+    template: Gold_Badger_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338676:
+    template: Gold_Badger_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338677:
+    template: 4th_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338678:
+    template: 4th_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338679:
+    template: 4th_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338680:
+    template: 4th_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338681:
+    template: 4th_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338682:
+    template: 4th_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338683:
+    template: Piscean_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338684:
+    template: Piscean_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338685:
+    template: Piscean_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338686:
+    template: Piscean_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338687:
+    template: Piscean_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338688:
+    template: Piscean_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338689:
+    template: Allied_Mantelet
+    at:       [98.000, -25.027, -106.000, 128]
+    level:    [1, 1]
+
+  17338690:
+    template: Allied_Mantelet
+    at:       [138.000, -23.000, -108.000, 0]
+    level:    [1, 1]
+
+  17338691:
+    template: Allied_Mantelet
+    at:       [96.000, -23.700, -118.000, 128]
+    level:    [1, 1]
+
+  17338692:
+    template: Allied_Mantelet
+    at:       [140.000, -21.249, -118.000, 0]
+    level:    [1, 1]
+
+  17338693:
+    template: Allied_Mantelet
+    at:       [98.000, -23.900, -130.000, 128]
+    level:    [1, 1]
+
+  17338694:
+    template: Allied_Mantelet
+    at:       [138.000, -20.625, -128.000, 0]
+    level:    [1, 1]
+
+  17338695:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338696:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338697:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338698:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338699:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338700:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338701:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338702:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338703:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338704:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338705:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338706:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338707:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338708:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338709:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338710:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338711:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338712:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338713:
+    template: Allied_Belfry
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338714:
+    template: Scylla_Brigade_Officer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338715:
+    template: Scylla_Brigade_Officer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338716:
+    template: Scylla_Brigade_Officer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338717:
+    template: Scylla_Brigade_Officer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338718:
+    template: Scylla_Brigade_Officer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338719:
+    template: Scylla_Brigade_Officer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338720:
+    template: Allied_Armored_Belfry
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338721:
+    template: Scylla_Brigade_Elite
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338722:
+    template: Scylla_Brigade_Elite
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338723:
+    template: Scylla_Brigade_Elite
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338724:
+    template: Scylla_Brigade_Elite
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338725:
+    template: Scylla_Brigade_Elite
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338726:
+    template: Scylla_Brigade_Elite
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338727:
+    template: Scylla_Brigade_Healer
+    at:       [131.202, -23.692, -129.318, 53]
+    level:    [0, 0]
+
+  17338728:
+    template: Scylla_Brigade_Healer
+    at:       [134.777, -22.304, -101.873, 58]
+    level:    [0, 0]
+
+  17338729:
+    template: Scylla_Brigade_Healer
+    at:       [136.043, -20.890, -98.593, 66]
+    level:    [0, 0]
+
+  17338730:
+    template: Scylla_Brigade_Healer
+    at:       [141.376, -20.275, -105.410, 35]
+    level:    [0, 0]
+
+  17338731:
+    template: Scylla_Brigade_Healer
+    at:       [129.652, -23.069, -108.853, 139]
+    level:    [0, 0]
+
+  17338732:
+    template: Scylla_Brigade_Healer
+    at:       [131.003, -24.084, -99.233, 2]
+    level:    [0, 0]
+
+  17338733:
+    template: Conqueror_Bakgodek
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338734:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338735:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338736:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338737:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338738:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338739:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338740:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338741:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338742:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338743:
+    template: One-eyed_Gwajboj
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338744:
+    template: Gutrender_Trooper
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338745:
+    template: Gutrender_Trooper
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338746:
+    template: Gutrender_Trooper
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338747:
+    template: Gutrender_Trooper
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338748:
+    template: Gutrender_Trooper
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338749:
+    template: Gutrender_Trooper
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338750:
+    template: Gutrender_Trooper
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338751:
+    template: Gutrender_Trooper
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338752:
+    template: Gutrender_Trooper
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338753:
+    template: DiDha_Adamantfist
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338754:
+    template: DiDhas_Elite_Guard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338755:
+    template: DiDhas_Elite_Guard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338756:
+    template: DiDhas_Elite_Guard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338757:
+    template: DiDhas_Elite_Guard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338758:
+    template: DiDhas_Elite_Guard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338759:
+    template: DiDhas_Elite_Guard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338760:
+    template: DiDhas_Elite_Guard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338761:
+    template: DiDhas_Elite_Guard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338762:
+    template: DiDhas_Elite_Guard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338763:
+    template: BoDho_Hundredfist
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338764:
+    template: Waughroon_Heavyshell
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338765:
+    template: Waughroon_Heavyshell
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338766:
+    template: Waughroon_Heavyshell
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338767:
+    template: Waughroon_Heavyshell
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338768:
+    template: Waughroon_Heavyshell
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338769:
+    template: Waughroon_Heavyshell
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338770:
+    template: Waughroon_Heavyshell
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338771:
+    template: Waughroon_Heavyshell
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338772:
+    template: Waughroon_Heavyshell
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338773:
+    template: Vee_Qiqa_the_Decreer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338774:
+    template: Vee_Qiqas_Elemental
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338775:
+    template: Vee_Qiqas_Elemental
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338776:
+    template: Vee_Qiqas_Elemental
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338777:
+    template: Vee_Qiqas_Elemental
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338778:
+    template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338779:
+    template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338780:
+    template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338781:
+    template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338782:
+    template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338783:
+    template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338784:
+    template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338785:
+    template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338786:
+    template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338787:
+    template: Moo_Ouzi_the_Swiftblade
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338788:
+    template: Divine_Disseminator
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338789:
+    template: Divine_Disseminator
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338790:
+    template: Divine_Disseminator
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338791:
+    template: Divine_Disseminator
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338792:
+    template: Divine_Disseminator
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338793:
+    template: Divine_Disseminator
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338794:
+    template: Divine_Disseminator
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338795:
+    template: Divine_Disseminator
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338796:
+    template: Divine_Disseminator
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338797:
+    template: Shadowhorn
+    at:       [134.434, -21.870, -97.637, 136]
+    level:    [1, 1]
+
+  17338798:
+    template: Shadowhorn_Stormer
+    at:       [141.514, -20.272, -105.723, 198]
+    level:    [1, 1]
+
+  17338799:
+    template: Shadowhorn_Stormer
+    at:       [126.592, -24.207, -160.038, 246]
+    level:    [1, 1]
+
+  17338800:
+    template: Shadowhorn_Stormer
+    at:       [144.273, -19.234, -101.239, 167]
+    level:    [1, 1]
+
+  17338801:
+    template: Shadowhorn_Stormer
+    at:       [136.474, -20.987, -96.322, 158]
+    level:    [1, 1]
+
+  17338802:
+    template: Shadowhorn_Stormer
+    at:       [137.344, -22.534, -114.377, 179]
+    level:    [1, 1]
+
+  17338803:
+    template: Shadowhorn_Stormer
+    at:       [140.439, -21.879, -110.006, 55]
+    level:    [1, 1]
+
+  17338804:
+    template: Shadowhorn_Stormer
+    at:       [105.912, -23.475, -92.464, 78]
+    level:    [1, 1]
+
+  17338805:
+    template: Shadowhorn_Stormer
+    at:       [135.864, -24.145, -138.829, 56]
+    level:    [1, 1]
+
+  17338806:
+    template: Shadowhorn_Stormer
+    at:       [120.159, -24.161, -150.257, 172]
+    level:    [1, 1]
+
+  17338807:
+    template: Shadowhand
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338808:
+    template: Shadowhand_Cuirassier
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338809:
+    template: Shadowhand_Cuirassier
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338810:
+    template: Shadowhand_Cuirassier
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338811:
+    template: Shadowhand_Cuirassier
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338812:
+    template: Shadowhand_Cuirassier
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338813:
+    template: Shadowhand_Cuirassier
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338814:
+    template: Shadowhand_Cuirassier
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338815:
+    template: Shadowhand_Cuirassier
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338816:
+    template: Shadowhand_Cuirassier
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338817:
+    template: Shadowfang
+    level:    [1, 1]
+    region:   xarcabard_s_s_7
+
+  17338818:
+    template: Shadowfang_Void
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338819:
+    template: Shadowfang_Void
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338820:
+    template: Shadowfang_Void
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338821:
+    template: Shadowfang_Void
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338822:
+    template: Shadowfang_Void
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338823:
+    template: Shadowfang_Void
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338824:
+    template: Shadowfang_Void
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338825:
+    template: Shadowfang_Void
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338826:
+    template: Shadowfang_Void
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338827:
+    template: Shadoweye
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338828:
+    template: Shadoweye_Gnat
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338829:
+    template: Shadoweye_Gnat
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338830:
+    template: Shadoweye_Gnat
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338831:
+    template: Shadoweye_Gnat
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338832:
+    template: Shadoweye_Gnat
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338833:
+    template: Shadoweye_Gnat
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338834:
+    template: Shadoweye_Gnat
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338835:
+    template: Shadoweye_Gnat
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338836:
+    template: Shadoweye_Gnat
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338837:
+    template: Shadowsoul
+    level:    [70, 70]
+    region:   xarcabard_s_s_5
+
+  17338838:
+    template: Shadowsoul_Devourer
+    level:    [70, 70]
+    region:   xarcabard_s_s_5
+
+  17338839:
+    template: Shadowsoul_Devourer
+    level:    [70, 70]
+    region:   xarcabard_s_s_5
+
+  17338840:
+    template: Shadowsoul_Devourer
+    level:    [70, 70]
+    region:   xarcabard_s_s_5
+
+  17338841:
+    template: Shadowsoul_Devourer
+    level:    [70, 70]
+    region:   xarcabard_s_s_5
+
+  17338842:
+    template: Shadowsoul_Devourer
+    level:    [70, 70]
+    region:   xarcabard_s_s_5
+
+  17338843:
+    template: Shadowsoul_Devourer
+    level:    [70, 70]
+    region:   xarcabard_s_s_5
+
+  17338844:
+    template: Shadowsoul_Devourer
+    level:    [70, 70]
+    region:   xarcabard_s_s_5
+
+  17338845:
+    template: Shadowsoul_Devourer
+    level:    [70, 70]
+    region:   xarcabard_s_s_5
+
+  17338846:
+    template: Shadowsoul_Devourer
+    level:    [70, 70]
+    region:   xarcabard_s_s_5
+
+  17338847:
+    template: Shadowhind_Machinator
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338848:
+    template: Shadowhind_Machinator
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338849:
+    template: Shadowhind_Machinator
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338850:
+    template: Shadowhind_Machinator
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338851:
+    template: Shadowhind_Machinator
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338852:
+    template: Shadowhind_Machinator
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338853:
+    template: Confederate_Mantelet
+    at:       [98.000, -25.027, -106.000, 128]
+    level:    [1, 1]
+
+  17338854:
+    template: Confederate_Mantelet
+    at:       [138.000, -23.000, -108.000, 0]
+    level:    [1, 1]
+
+  17338855:
+    template: Confederate_Mantelet
+    at:       [96.000, -23.700, -118.000, 128]
+    level:    [1, 1]
+
+  17338856:
+    template: Confederate_Mantelet
+    at:       [140.000, -21.249, -118.000, 0]
+    level:    [1, 1]
+
+  17338857:
+    template: Confederate_Mantelet
+    at:       [98.000, -23.900, -130.000, 128]
+    level:    [1, 1]
+
+  17338858:
+    template: Confederate_Mantelet
+    at:       [138.000, -20.625, -128.000, 0]
+    level:    [1, 1]
+
+  17338859:
+    template: Iron_Bomb
+    at:       [107.440, -24.044, -123.500, 245]
+    level:    [1, 1]
+
+  17338860:
+    template: Iron_Bomb
+    at:       [108.178, -24.108, -123.530, 238]
+    level:    [1, 1]
+
+  17338861:
+    template: Iron_Bomb
+    at:       [108.174, -24.108, -123.432, 241]
+    level:    [1, 1]
+
+  17338862:
+    template: Iron_Bomb
+    at:       [107.410, -24.041, -123.056, 254]
+    level:    [1, 1]
+
+  17338863:
+    template: Iron_Bomb
+    at:       [108.453, -24.122, -122.982, 0]
+    level:    [1, 1]
+
+  17338864:
+    template: Iron_Bomb
+    at:       [108.185, -23.975, -113.317, 244]
+    level:    [1, 1]
+
+  17338865:
+    template: Confederate_Belfry
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338866:
+    template: Allotaur
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338867:
+    template: Allotaur
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338868:
+    template: Allotaur
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338869:
+    template: Allotaur
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338870:
+    template: Allotaur
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338871:
+    template: Allotaur
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338872:
+    template: Siege_Turret
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338873:
+    template: Skeleton_Escort
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338874:
+    template: Skeleton_Escort
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338875:
+    template: Skeleton_Escort
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338876:
+    template: Skeleton_Escort
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338877:
+    template: Skeleton_Escort
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338878:
+    template: Skeleton_Escort
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338879:
+    template: Fiendish_Leechkeeper
+    level:    [60, 60]
+    region:   xarcabard_s_s_5
+
+  17338880:
+    template: Fiendish_Leechkeeper
+    level:    [60, 60]
+    region:   xarcabard_s_s_5
+
+  17338881:
+    template: Fiendish_Leechkeeper
+    level:    [60, 60]
+    region:   xarcabard_s_s_5
+
+  17338882:
+    template: Fiendish_Leechkeeper
+    level:    [60, 60]
+    region:   xarcabard_s_s_5
+
+  17338883:
+    template: Fiendish_Leechkeeper
+    level:    [60, 60]
+    region:   xarcabard_s_s_5
+
+  17338884:
+    template: Fiendish_Leechkeeper
+    level:    [60, 60]
+    region:   xarcabard_s_s_5
+
+  17338885:
+    template: Fortification
+    at:       [109.300, -24.000, -113.000, 0]
+    level:    [1, 1]
+
+  17338886:
+    template: Fortification
+    at:       [109.300, -24.000, -123.000, 0]
+    level:    [1, 1]
+
+  17338887:
+    template: Fortification
+    at:       [125.599, -24.000, -110.000, 0]
+    level:    [1, 1]
+
+  17338888:
+    template: Fortification
+    at:       [125.500, -24.000, -126.000, 0]
+    level:    [1, 1]
+
+  17338889:
+    template: Rikoh_Wahcondalo
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338890:
+    template: Kagetora
+    at:       [135.535, -22.183, -102.809, 181]
+    level:    [1, 1]
+
+  17338891:
+    template: Kagetora
+    at:       [135.535, -22.183, -102.807, 181]
+    level:    [1, 1]
+
+  17338892:
+    template: Kagetora
+    at:       [135.535, -22.183, -102.807, 181]
+    level:    [1, 1]
+
+  17338893:
+    template: Kagetora
+    at:       [135.535, -22.183, -102.807, 181]
+    level:    [1, 1]
+
+  17338894:
+    template: Kagetora
+    at:       [135.535, -22.183, -102.807, 181]
+    level:    [1, 1]
+
+  17338895:
+    template: Kagetora
+    at:       [135.535, -22.183, -102.807, 181]
+    level:    [1, 1]
+
+  17338896:
+    template: Dalzakk
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338897:
+    template: Oggbi
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338898:
+    template: Rainemard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338899:
+    template: Maat
+    at:       [131.143, -24.336, -150.923, 143]
+    level:    [1, 1]
+
+  17338900:
+    template: Degenhard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338901:
+    template: Azima
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338902:
+    template: Choh_Moui
+    at:       [110.996, -24.804, -146.324, 126]
+    level:    [1, 1]
+
+  17338903:
+    template: Chigoe
+    at:       [110.997, -24.804, -146.322, 165]
+    level:    [1, 1]
+
+  17338904:
+    template: Chigoe
+    at:       [110.997, -24.804, -146.322, 165]
+    level:    [1, 1]
+
+  17338905:
+    template: Chigoe
+    at:       [110.997, -24.804, -146.322, 122]
+    level:    [1, 1]
+
+  17338906:
+    template: Chigoe
+    at:       [110.997, -24.804, -146.322, 165]
+    level:    [1, 1]
+
+  17338907:
+    template: Chigoe
+    at:       [110.997, -24.804, -146.322, 165]
+    level:    [1, 1]
+
+  17338908:
+    template: Chigoe
+    at:       [110.997, -24.804, -146.322, 122]
+    level:    [1, 1]
+
+  17338909:
+    template: Chigoe
+    at:       [110.997, -24.804, -146.322, 122]
+    level:    [1, 1]
+
+  17338910:
+    template: Chigoe
+    at:       [110.997, -24.804, -146.322, 165]
+    level:    [1, 1]
+
+  17338911:
+    template: Azo
+    at:       [111.408, -24.592, -145.229, 116]
+    level:    [1, 1]
+
+  17338912:
+    template: Vahi
+    at:       [113.005, -24.132, -145.334, 120]
+    level:    [1, 1]
+
+  17338913:
+    template: Rongo-Nango
+    at:       [141.673, -23.559, -148.535, 158]
+    level:    [1, 1]
+
+  17338914:
+    template: Lerren
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338915:
+    template: Jajaro
+    at:       [141.623, -23.403, -147.886, 68]
+    level:    [1, 1]
+
+  17338916:
+    template: Popochu
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338917:
+    template: Papako
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338918:
+    template: Momowa
+    at:       [141.620, -23.701, -149.329, 71]
+    level:    [1, 1]
+
+  17338919:
+    template: Ulla
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338920:
+    template: Kilhwch
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338921:
+    template: Alfons
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338922:
+    template: Achtelle
+    at:       [140.772, -19.701, -102.684, 144]
+    level:    [1, 1]
+
+  17338923:
+    template: Bravo
+    at:       [140.772, -19.701, -102.682, 144]
+    level:    [1, 1]
+
+  17338924:
+    template: Duskraven
+    at:       [136.011, -23.224, -110.179, 182]
+    level:    [1, 1]
+
+  17338925:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338926:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338927:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338928:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338929:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338930:
+    template: Areuhat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338931:
+    template: Odzmanouk
+    at:       [114.206, -24.154, -146.750, 153]
+    level:    [1, 1]
+
+  17338932:
+    template: Boodlix
+    at:       [132.660, -23.774, -132.612, 250]
+    level:    [1, 1]
+
+  17338933:
+    template: Goblin_Lansquenet
+    at:       [132.634, -23.824, -132.740, 157]
+    level:    [1, 1]
+
+  17338934:
+    template: Goblin_Lansquenet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338935:
+    template: Goblin_Lansquenet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338936:
+    template: Titania
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338937:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338938:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338939:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338940:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338941:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338942:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338943:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338944:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338945:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338946:
+    template: Babban_Ny_Mheillea
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338947:
+    template: Abenzio
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338948:
+    template: Bryher
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338949:
+    template: Camlin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338950:
+    template: Darach
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338951:
+    template: Raigegue_R_dOraguille
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338952:
+    template: Ancient_Royal_Knight
+    at:       [141.122, -20.159, -103.382, 230]
+    level:    [0, 0]
+
+  17338953:
+    template: Ancient_Royal_Knight
+    at:       [140.924, -20.199, -103.452, 231]
+    level:    [0, 0]
+
+  17338954:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338955:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338956:
+    template: Eurytos
+    at:       [101.732, -24.406, -106.609, 44]
+    level:    [1, 1]
+
+  17338957:
+    template: Gigas_Mercenary
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338958:
+    template: Gigas_Mercenary
+    level:    [1, 1]
+    region:   xarcabard_s_s_5
+
+  17338959:
+    template: Poroggo_Prince
+    at:       [135.287, -21.623, -96.934, 44]
+    level:    [65, 65]
+
+  17338960:
+    template: Poroggo_Servant
+    at:       [125.822, -24.375, -88.515, 159]
+    level:    [1, 1]
+
+  17338961:
+    template: Poroggo_Servant
+    at:       [124.598, -23.583, -89.103, 170]
+    level:    [1, 1]
+
+  17338962:
+    template: Poroggo_Servant
+    at:       [124.536, -23.628, -89.216, 171]
+    level:    [1, 1]
+
+  17338963:
+    template: Kaiser_Behemoth
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338964:
+    template: Ferreous_Coffin
+    at:       [130.128, -25.723, -138.848, 56]
+    level:    [1, 1]
+
+  17338965:
+    template: Lewenhart
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338966:
+    template: Auroral_Alicorn
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17338970:
+    template: Frost_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338971:
+    template: Frost_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338972:
+    template: Frost_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338973:
+    template: Frost_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17338975:
+    template: Time_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]

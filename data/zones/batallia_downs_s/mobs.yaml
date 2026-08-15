@@ -1,0 +1,3858 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17121281:
+    template: Snipper
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [33, 38]
+
+  17121282:
+    template: Land_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [33, 38]
+
+  17121283:
+    template: Cutter
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [33, 38]
+
+  17121284:
+    template: Greater_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [33, 38]
+
+  17121285:
+    template: Kraken
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [33, 38]
+
+  17121286:
+    template: Djinn
+    level:    [55, 57]
+    region:   batallia_downs_s_c_9
+
+  17121287:
+    template: Djinn
+    level:    [55, 57]
+    region:   batallia_downs_s_c_9
+
+  17121288:
+    template: Djinn
+    level:    [55, 57]
+    region:   batallia_downs_s_c_15
+
+  17121289:
+    template: Earth_Elemental
+    level:    [75, 75]
+    region:   batallia_downs_s_c_4
+
+  17121290:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_e_6
+
+  17121291:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_c_47
+
+  17121292:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_n_39
+
+  17121293:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_c_45
+
+  17121294:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_c_14
+
+  17121295:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_c_7
+
+  17121296:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_c_6
+
+  17121297:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_c_13
+
+  17121298:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_c_13
+
+  17121299:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_n_3
+
+  17121300:
+    template: Goblin_Freesword
+    level:    [62, 64]
+    region:   batallia_downs_s_e_6
+
+  17121301:
+    template: Goblin_Corpsman
+    level:    [62, 64]
+    region:   batallia_downs_s_e_2
+
+  17121302:
+    template: Goblin_Blastmaster
+    level:    [62, 64]
+    region:   batallia_downs_s_e_2
+
+  17121303:
+    template: Goblin_Freesword
+    level:    [62, 64]
+    region:   batallia_downs_s_c_47
+
+  17121304:
+    template: Goblin_Corpsman
+    level:    [62, 64]
+    region:   batallia_downs_s_e_6
+
+  17121305:
+    template: Goblin_Blastmaster
+    level:    [62, 64]
+    region:   batallia_downs_s_c_46
+
+  17121306:
+    template: Goblin_Pioneer
+    level:    [62, 64]
+    region:   batallia_downs_s_c_37
+
+  17121307:
+    template: Goblin_Mine
+    level:    [58, 58]
+    region:   batallia_downs_s_c_40
+
+  17121308:
+    template: Goblin_Freesword
+    level:    [62, 64]
+    region:   batallia_downs_s_c_44
+
+  17121309:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_e_6
+
+  17121310:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_15
+
+  17121311:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_n_3
+
+  17121312:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_9
+
+  17121313:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_4
+
+  17121314:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_15
+
+  17121315:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_44
+
+  17121316:
+    template: Wight
+    level:    [38, 40]
+    region:   batallia_downs_s_e_2
+
+  17121317:
+    template: Wight
+    level:    [38, 40]
+    region:   batallia_downs_s_c_44
+
+  17121318:
+    template: Goblin_Corpsman
+    level:    [62, 64]
+    region:   batallia_downs_s_c_37
+
+  17121319:
+    template: Goblin_Blastmaster
+    level:    [62, 64]
+    region:   batallia_downs_s_c_36
+
+  17121320:
+    template: Goblin_Freesword
+    level:    [62, 64]
+    region:   batallia_downs_s_c_26
+
+  17121321:
+    template: Goblin_Corpsman
+    level:    [62, 64]
+    region:   batallia_downs_s_c_21
+
+  17121322:
+    template: Goblin_Blastmaster
+    level:    [62, 64]
+    region:   batallia_downs_s_c_22
+
+  17121323:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_26
+
+  17121324:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_21
+
+  17121325:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_22
+
+  17121326:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_n_35
+
+  17121327:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_n_18
+
+  17121328:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_c_37
+
+  17121329:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_c_36
+
+  17121330:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_c_26
+
+  17121331:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_c_21
+
+  17121332:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_c_22
+
+  17121333:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_c_31
+
+  17121334:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_n_35
+
+  17121335:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_n_32
+
+  17121336:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_n_24
+
+  17121337:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_n_18
+
+  17121338:
+    template: Evil_Spirit
+    at:       [341.351, 2.751, 59.661, 143]
+    level:    [41, 41]
+
+  17121339:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_e_57
+
+  17121340:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_e_54
+
+  17121341:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_e_21
+
+  17121342:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_e_5
+
+  17121343:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_e_7
+
+  17121344:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_e_4
+
+  17121345:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_e_53
+
+  17121346:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_e_21
+
+  17121347:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_e_5
+
+  17121348:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_e_7
+
+  17121349:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_e_4
+
+  17121350:
+    template: Ba
+    level:    [33, 37]
+    region:   batallia_downs_s_e_52
+
+  17121351:
+    template: Ba
+    level:    [33, 37]
+    region:   batallia_downs_s_e_18
+
+  17121352:
+    template: Ba
+    level:    [33, 37]
+    region:   batallia_downs_s_e_4
+
+  17121353:
+    template: Ba
+    level:    [33, 37]
+    region:   batallia_downs_s_e_16
+
+  17121354:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_w_22
+
+  17121355:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_nw_33
+
+  17121356:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_nw_29
+
+  17121357:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_w_18
+
+  17121358:
+    template: Smilodon
+    at:       [-375.228, -16.079, 203.034, 205]
+    level:    [46, 48]
+
+  17121359:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_nw_21
+
+  17121360:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_nw_15
+
+  17121361:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_nw_22
+
+  17121362:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_w_22
+
+  17121363:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_nw_33
+
+  17121364:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_nw_29
+
+  17121365:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_w_18
+
+  17121366:
+    template: Sadfly
+    at:       [-375.039, -16.656, 196.470, 181]
+    level:    [29, 31]
+
+  17121367:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_nw_21
+
+  17121368:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_nw_15
+
+  17121369:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_nw_22
+
+  17121370:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_w_12
+
+  17121371:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_w_17
+
+  17121372:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_w_23
+
+  17121373:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_w_13
+
+  17121374:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_w_17
+
+  17121375:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_w_23
+
+  17121376:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_w_19
+
+  17121377:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_w_14
+
+  17121378:
+    template: Djinn
+    level:    [55, 57]
+    region:   batallia_downs_s_n_33
+
+  17121379:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_n_36
+
+  17121380:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_n_38
+
+  17121381:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_n_37
+
+  17121382:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_n_34
+
+  17121383:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_n_33
+
+  17121384:
+    template: Goblin_Pioneer
+    level:    [62, 64]
+    region:   batallia_downs_s_c_10
+
+  17121385:
+    template: Goblin_Mine
+    level:    [58, 58]
+    region:   batallia_downs_s_n_21
+
+  17121386:
+    template: Goblin_Freesword
+    level:    [62, 64]
+    region:   batallia_downs_s_n_38
+
+  17121387:
+    template: Goblin_Corpsman
+    level:    [62, 64]
+    region:   batallia_downs_s_n_37
+
+  17121388:
+    template: Goblin_Blastmaster
+    level:    [62, 64]
+    region:   batallia_downs_s_n_34
+
+  17121389:
+    template: Goblin_Freesword
+    level:    [62, 64]
+    region:   batallia_downs_s_n_33
+
+  17121390:
+    template: Goblin_Corpsman
+    level:    [62, 64]
+    region:   batallia_downs_s_n_30
+
+  17121391:
+    template: Goblin_Blastmaster
+    level:    [62, 64]
+    region:   batallia_downs_s_n_28
+
+  17121392:
+    template: Goblin_Pioneer
+    level:    [62, 64]
+    region:   batallia_downs_s_c_10
+
+  17121393:
+    template: Goblin_Mine
+    level:    [58, 58]
+    region:   batallia_downs_s_c_24
+
+  17121394:
+    template: Goblin_Freesword
+    level:    [62, 64]
+    region:   batallia_downs_s_n_30
+
+  17121395:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_n_31
+
+  17121396:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_n_31
+
+  17121397:
+    template: Goblin_Corpsman
+    level:    [62, 64]
+    region:   batallia_downs_s_n_13
+
+  17121398:
+    template: Goblin_Blastmaster
+    level:    [62, 64]
+    region:   batallia_downs_s_n_23
+
+  17121399:
+    template: Burlibix_Brawnback
+    at:       [-152.000, -9.200, 464.000, 60]
+    level:    [75, 75]
+
+  17121400:
+    template: Goblin_Freesword
+    level:    [62, 64]
+    region:   batallia_downs_s_n_29
+
+  17121401:
+    template: Goblin_Corpsman
+    level:    [62, 64]
+    region:   batallia_downs_s_n_27
+
+  17121402:
+    template: Goblin_Blastmaster
+    level:    [62, 64]
+    region:   batallia_downs_s_n_23
+
+  17121403:
+    template: Goblin_Pioneer
+    level:    [62, 64]
+    region:   batallia_downs_s_n_10
+
+  17121404:
+    template: Goblin_Mine
+    level:    [58, 58]
+    region:   batallia_downs_s_n_14
+
+  17121405:
+    template: Goblin_Freesword
+    level:    [62, 64]
+    region:   batallia_downs_s_n_25
+
+  17121406:
+    template: Goblin_Corpsman
+    level:    [62, 64]
+    region:   batallia_downs_s_n_13
+
+  17121407:
+    template: Goblin_Blastmaster
+    level:    [62, 64]
+    region:   batallia_downs_s_n_11
+
+  17121408:
+    template: Goblin_Freesword
+    level:    [62, 64]
+    region:   batallia_downs_s_n_19
+
+  17121409:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_n_29
+
+  17121410:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_n_27
+
+  17121411:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_n_23
+
+  17121412:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_n_26
+
+  17121413:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_n_25
+
+  17121414:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_n_25
+
+  17121415:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_n_13
+
+  17121416:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_n_11
+
+  17121417:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_n_19
+
+  17121418:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_n_19
+
+  17121419:
+    template: Goblin_Corpsman
+    level:    [62, 64]
+    region:   batallia_downs_s_n_17
+
+  17121420:
+    template: Goblin_Blastmaster
+    level:    [62, 64]
+    region:   batallia_downs_s_n_12
+
+  17121421:
+    template: Goblin_Pioneer
+    level:    [62, 64]
+    region:   batallia_downs_s_n_10
+
+  17121422:
+    template: Goblin_Mine
+    level:    [58, 58]
+    region:   batallia_downs_s_n_15
+
+  17121423:
+    template: Goblin_Freesword
+    level:    [62, 64]
+    region:   batallia_downs_s_n_6
+
+  17121424:
+    template: Goblin_Corpsman
+    level:    [62, 64]
+    region:   batallia_downs_s_n_8
+
+  17121425:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_n_20
+
+  17121426:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_n_12
+
+  17121427:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_n_6
+
+  17121428:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_n_9
+
+  17121429:
+    template: Ba
+    level:    [33, 37]
+    region:   batallia_downs_s_n_22
+
+  17121430:
+    template: Ba
+    level:    [33, 37]
+    region:   batallia_downs_s_n_20
+
+  17121431:
+    template: Ba
+    level:    [33, 37]
+    region:   batallia_downs_s_n_17
+
+  17121432:
+    template: Ba
+    level:    [33, 37]
+    region:   batallia_downs_s_n_16
+
+  17121433:
+    template: Ba
+    level:    [33, 37]
+    region:   batallia_downs_s_n_9
+
+  17121434:
+    template: Ba
+    level:    [33, 37]
+    region:   batallia_downs_s_n_4
+
+  17121435:
+    template: Ba
+    level:    [33, 37]
+    region:   batallia_downs_s_n
+
+  17121436:
+    template: Clipper
+    level:    [32, 35]
+    region:   batallia_downs_s_e_53
+
+  17121437:
+    template: Clipper
+    level:    [32, 35]
+    region:   batallia_downs_s_e_42
+
+  17121438:
+    template: Clipper
+    level:    [32, 35]
+    region:   batallia_downs_s_e_42
+
+  17121439:
+    template: Clipper
+    level:    [32, 35]
+    region:   batallia_downs_s_e_42
+
+  17121440:
+    template: Clipper
+    level:    [32, 35]
+    region:   batallia_downs_s_e_42
+
+  17121441:
+    template: Clipper
+    level:    [32, 35]
+    region:   batallia_downs_s_ne_8
+
+  17121442:
+    template: Clipper
+    level:    [32, 35]
+    region:   batallia_downs_s_ne_8
+
+  17121443:
+    template: Clipper
+    level:    [32, 35]
+    region:   batallia_downs_s_ne_5
+
+  17121444:
+    template: Clipper
+    level:    [32, 35]
+    region:   batallia_downs_s_ne_5
+
+  17121445:
+    template: Clipper
+    level:    [32, 35]
+    region:   batallia_downs_s_ne_6
+
+  17121446:
+    template: Clipper
+    level:    [32, 35]
+    region:   batallia_downs_s_ne_3
+
+  17121447:
+    template: Evil_Spirit
+    level:    [41, 41]
+    region:   batallia_downs_s_ne_3
+
+  17121448:
+    template: Ice_Elemental
+    at:       [165.779, 7.802, 233.998, 114]
+    level:    [75, 75]
+
+  17121449:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_e_17
+
+  17121450:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_ne_7
+
+  17121451:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_ne_4
+
+  17121452:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_ne
+
+  17121453:
+    template: Stalking_Sapling
+    at:       [84.290, 5.726, 217.346, 47]
+    level:    [24, 27]
+
+  17121454:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_n_40
+
+  17121455:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_n_41
+
+  17121456:
+    template: Ba
+    level:    [33, 37]
+    region:   batallia_downs_s_e_31
+
+  17121457:
+    template: Ba
+    level:    [33, 37]
+    region:   batallia_downs_s_ne_7
+
+  17121458:
+    template: Ba
+    level:    [33, 37]
+    region:   batallia_downs_s_ne_2
+
+  17121459:
+    template: Ba
+    at:       [79.068, 4.844, 263.939, 131]
+    level:    [33, 37]
+
+  17121460:
+    template: Djinn
+    level:    [55, 57]
+    region:   batallia_downs_s_nw_26
+
+  17121461:
+    template: Djinn
+    level:    [55, 57]
+    region:   batallia_downs_s_nw_27
+
+  17121462:
+    template: Djinn
+    at:       [-522.773, -32.507, 430.996, 0]
+    level:    [55, 57]
+
+  17121463:
+    template: Djinn
+    at:       [-505.456, -30.528, 423.024, 133]
+    level:    [55, 57]
+
+  17121464:
+    template: Djinn
+    level:    [55, 57]
+    region:   batallia_downs_s_nw_20
+
+  17121465:
+    template: Djinn
+    level:    [55, 57]
+    region:   batallia_downs_s_nw_20
+
+  17121466:
+    template: Djinn
+    at:       [-438.568, -32.061, 465.864, 109]
+    level:    [55, 57]
+
+  17121467:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_nw_17
+
+  17121468:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_nw_26
+
+  17121469:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_nw_28
+
+  17121470:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_nw_19
+
+  17121471:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_nw_17
+
+  17121472:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_nw_16
+
+  17121473:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_nw_23
+
+  17121474:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_nw_26
+
+  17121475:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_nw_28
+
+  17121476:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_nw_27
+
+  17121477:
+    template: Wight
+    level:    [38, 40]
+    region:   batallia_downs_s_nw_28
+
+  17121478:
+    template: Wight
+    level:    [38, 40]
+    region:   batallia_downs_s_nw_16
+
+  17121479:
+    template: Tsetse_Fly
+    level:    [93, 94]
+    region:   batallia_downs_s_nw_14
+
+  17121480:
+    template: Tsetse_Fly
+    level:    [93, 94]
+    region:   batallia_downs_s_nw_14
+
+  17121481:
+    template: Tsetse_Fly
+    level:    [93, 94]
+    region:   batallia_downs_s_nw_14
+
+  17121482:
+    template: Tsetse_Fly
+    level:    [93, 94]
+    region:   batallia_downs_s_nw_18
+
+  17121483:
+    template: Tsetse_Fly
+    level:    [93, 94]
+    region:   batallia_downs_s_nw_18
+
+  17121484:
+    template: Tsetse_Fly
+    level:    [93, 94]
+    region:   batallia_downs_s_nw_18
+
+  17121485:
+    template: Tsetse_Fly
+    level:    [93, 94]
+    region:   batallia_downs_s_nw_25
+
+  17121486:
+    template: Tsetse_Fly
+    level:    [93, 94]
+    region:   batallia_downs_s_nw_13
+
+  17121487:
+    template: Tsetse_Fly
+    level:    [93, 94]
+    region:   batallia_downs_s_nw_13
+
+  17121488:
+    template: Tsetse_Fly
+    level:    [93, 94]
+    region:   batallia_downs_s_nw_11
+
+  17121489:
+    template: Tsetse_Fly
+    level:    [93, 94]
+    region:   batallia_downs_s_nw_11
+
+  17121490:
+    template: Tsetse_Fly
+    level:    [93, 94]
+    region:   batallia_downs_s_nw_12
+
+  17121491:
+    template: Tsetse_Fly
+    level:    [93, 94]
+    region:   batallia_downs_s_nw_12
+
+  17121492:
+    template: Forester_Beetle
+    level:    [47, 50]
+    region:   batallia_downs_s_nw_19
+
+  17121493:
+    template: Forester_Beetle
+    level:    [47, 50]
+    region:   batallia_downs_s_nw_19
+
+  17121494:
+    template: Forester_Beetle
+    level:    [47, 50]
+    region:   batallia_downs_s_nw_17
+
+  17121495:
+    template: Forester_Beetle
+    level:    [47, 50]
+    region:   batallia_downs_s_nw_17
+
+  17121496:
+    template: Forester_Beetle
+    level:    [47, 50]
+    region:   batallia_downs_s_nw_17
+
+  17121497:
+    template: Forester_Beetle
+    level:    [47, 50]
+    region:   batallia_downs_s_nw_16
+
+  17121498:
+    template: Forester_Beetle
+    level:    [47, 50]
+    region:   batallia_downs_s_nw_16
+
+  17121499:
+    template: Forester_Beetle
+    level:    [47, 50]
+    region:   batallia_downs_s_nw_23
+
+  17121500:
+    template: Forester_Beetle
+    level:    [47, 50]
+    region:   batallia_downs_s_nw_23
+
+  17121501:
+    template: Forester_Beetle
+    level:    [47, 50]
+    region:   batallia_downs_s_nw_26
+
+  17121502:
+    template: Forester_Beetle
+    level:    [47, 50]
+    region:   batallia_downs_s_nw_26
+
+  17121503:
+    template: Forester_Beetle
+    level:    [47, 50]
+    region:   batallia_downs_s_nw_28
+
+  17121504:
+    template: Forester_Beetle
+    level:    [47, 50]
+    region:   batallia_downs_s_nw_28
+
+  17121505:
+    template: Tsetse_Fly
+    level:    [93, 94]
+    region:   batallia_downs_s_nw_9
+
+  17121506:
+    template: Tsetse_Fly
+    level:    [93, 94]
+    region:   batallia_downs_s_nw_9
+
+  17121507:
+    template: Tsetse_Fly
+    level:    [93, 94]
+    region:   batallia_downs_s_nw_9
+
+  17121508:
+    template: Tsetse_Fly
+    level:    [93, 94]
+    region:   batallia_downs_s_nw_10
+
+  17121509:
+    template: Tsetse_Fly
+    level:    [93, 94]
+    region:   batallia_downs_s_nw_10
+
+  17121510:
+    template: Tsetse_Fly
+    level:    [93, 94]
+    region:   batallia_downs_s_nw_6
+
+  17121511:
+    template: Tsetse_Fly
+    level:    [93, 94]
+    region:   batallia_downs_s_nw_6
+
+  17121512:
+    template: Tsetse_Fly
+    level:    [93, 94]
+    region:   batallia_downs_s_nw_7
+
+  17121513:
+    template: Tsetse_Fly
+    level:    [93, 94]
+    region:   batallia_downs_s_nw_7
+
+  17121514:
+    template: Tsetse_Fly
+    level:    [93, 94]
+    region:   batallia_downs_s_nw_7
+
+  17121515:
+    template: Tsetse_Fly
+    level:    [93, 94]
+    region:   batallia_downs_s_nw_8
+
+  17121516:
+    template: Tsetse_Fly
+    level:    [93, 94]
+    region:   batallia_downs_s_nw_8
+
+  17121517:
+    template: Tsetse_Fly
+    level:    [93, 94]
+    region:   batallia_downs_s_nw
+
+  17121518:
+    template: Tsetse_Fly
+    level:    [93, 94]
+    region:   batallia_downs_s_nw
+
+  17121519:
+    template: Tsetse_Fly
+    level:    [93, 94]
+    region:   batallia_downs_s_nw_2
+
+  17121520:
+    template: Tsetse_Fly
+    level:    [93, 94]
+    region:   batallia_downs_s_nw_2
+
+  17121521:
+    template: Tsetse_Fly
+    level:    [93, 94]
+    region:   batallia_downs_s_nw_5
+
+  17121522:
+    template: Djinn
+    at:       [-433.470, -23.821, 271.280, 63]
+    level:    [55, 57]
+
+  17121523:
+    template: Djinn
+    at:       [-392.506, -24.793, 311.239, 226]
+    level:    [55, 57]
+
+  17121524:
+    template: Djinn
+    level:    [55, 57]
+    region:   batallia_downs_s_nw_30
+
+  17121525:
+    template: Djinn
+    level:    [55, 57]
+    region:   batallia_downs_s_nw_31
+
+  17121526:
+    template: Djinn
+    level:    [55, 57]
+    region:   batallia_downs_s_nw_34
+
+  17121527:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_nw_32
+
+  17121528:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_n_2
+
+  17121529:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_n_7
+
+  17121530:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_c_32
+
+  17121531:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_c_39
+
+  17121532:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_c_27
+
+  17121533:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_c_19
+
+  17121534:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_c_23
+
+  17121535:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_c_33
+
+  17121536:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_c_42
+
+  17121537:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_c_41
+
+  17121538:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_c_8
+
+  17121539:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_c_17
+
+  17121540:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_c_20
+
+  17121541:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_c_16
+
+  17121542:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_c_38
+
+  17121543:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_c_11
+
+  17121544:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_c_2
+
+  17121545:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_39
+
+  17121546:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_27
+
+  17121547:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_19
+
+  17121548:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_23
+
+  17121549:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_33
+
+  17121550:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_42
+
+  17121551:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_41
+
+  17121552:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_17
+
+  17121553:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_11
+
+  17121554:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_2
+
+  17121555:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_32
+
+  17121556:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_25
+
+  17121557:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_18
+
+  17121558:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_39
+
+  17121559:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_27
+
+  17121560:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_19
+
+  17121561:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_23
+
+  17121562:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_33
+
+  17121563:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_42
+
+  17121564:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_41
+
+  17121565:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_12
+
+  17121566:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_8
+
+  17121567:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_17
+
+  17121568:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_20
+
+  17121569:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_16
+
+  17121570:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_38
+
+  17121571:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_11
+
+  17121572:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_3
+
+  17121573:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c_2
+
+  17121574:
+    template: Wight
+    level:    [38, 40]
+    region:   batallia_downs_s_c_16
+
+  17121575:
+    template: Wight
+    level:    [38, 40]
+    region:   batallia_downs_s_c_12
+
+  17121576:
+    template: La_Velue
+    at:       [-153.108, -10.397, 15.353, 42]
+    level:    [62, 67]
+
+  17121577:
+    template: Clipper
+    level:    [32, 35]
+    region:   batallia_downs_s_se_8
+
+  17121578:
+    template: Clipper
+    level:    [32, 35]
+    region:   batallia_downs_s_se_8
+
+  17121579:
+    template: Clipper
+    level:    [32, 35]
+    region:   batallia_downs_s_se_3
+
+  17121580:
+    template: Clipper
+    level:    [32, 35]
+    region:   batallia_downs_s_se_3
+
+  17121581:
+    template: Clipper
+    level:    [32, 35]
+    region:   batallia_downs_s_se_3
+
+  17121582:
+    template: Clipper
+    level:    [32, 35]
+    region:   batallia_downs_s_s_6
+
+  17121583:
+    template: Clipper
+    level:    [32, 35]
+    region:   batallia_downs_s_s_3
+
+  17121584:
+    template: Clipper
+    level:    [32, 35]
+    region:   batallia_downs_s_s_3
+
+  17121585:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_se_9
+
+  17121586:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_se_7
+
+  17121587:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_se_2
+
+  17121588:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_s_3
+
+  17121589:
+    template: Lycopodium
+    at:       [139.907, -6.483, -380.044, 43]
+    level:    [28, 32]
+
+  17121590:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_se_6
+
+  17121591:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_se_6
+
+  17121592:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_se_10
+
+  17121593:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_se_12
+
+  17121594:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_se_13
+
+  17121595:
+    template: Ice_Elemental
+    at:       [133.241, 6.134, -492.061, 20]
+    level:    [75, 75]
+
+  17121596:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_se_6
+
+  17121597:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_se_10
+
+  17121598:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_se_12
+
+  17121599:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_se_13
+
+  17121600:
+    template: Wight
+    level:    [38, 40]
+    region:   batallia_downs_s_se_8
+
+  17121601:
+    template: Wight
+    level:    [38, 40]
+    region:   batallia_downs_s_se_13
+
+  17121602:
+    template: Ba
+    level:    [33, 37]
+    region:   batallia_downs_s_se_3
+
+  17121603:
+    template: Habergoass
+    at:       [137.000, 8.500, -472.000, 60]
+    level:    [64, 64]
+
+  17121604:
+    template: Ba
+    level:    [33, 37]
+    region:   batallia_downs_s_s_3
+
+  17121605:
+    template: Ba
+    level:    [33, 37]
+    region:   batallia_downs_s_se_9
+
+  17121606:
+    template: Ba
+    level:    [33, 37]
+    region:   batallia_downs_s_s_3
+
+  17121607:
+    template: Ba
+    level:    [33, 37]
+    region:   batallia_downs_s_se_12
+
+  17121608:
+    template: Earth_Elemental
+    level:    [75, 75]
+    region:   batallia_downs_s_s_2
+
+  17121609:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_s_5
+
+  17121610:
+    template: Chaneque
+    level:    [56, 57]
+    region:   batallia_downs_s_s_5
+
+  17121611:
+    template: Lycopodium
+    at:       [65.924, -13.009, -189.477, 200]
+    level:    [28, 32]
+
+  17121612:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_s_2
+
+  17121613:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_se_4
+
+  17121614:
+    template: Lycopodium
+    at:       [80.255, -16.495, -200.355, 41]
+    level:    [28, 32]
+
+  17121615:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_s_5
+
+  17121616:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_s_2
+
+  17121617:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_se_4
+
+  17121618:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_s_5
+
+  17121619:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_s
+
+  17121620:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_s_2
+
+  17121621:
+    template: Sadfly
+    level:    [29, 31]
+    region:   batallia_downs_s_se_4
+
+  17121622:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_se_21
+
+  17121623:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_se_19
+
+  17121624:
+    template: Lycopodium
+    at:       [353.230, 7.066, -243.681, 83]
+    level:    [28, 32]
+
+  17121625:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_se_16
+
+  17121626:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_se_17
+
+  17121627:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_se_14
+
+  17121628:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_se_15
+
+  17121629:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_se_11
+
+  17121630:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_se_5
+
+  17121631:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_s_4
+
+  17121632:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_e_58
+
+  17121633:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_e_56
+
+  17121634:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_se_20
+
+  17121635:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   batallia_downs_s_se_18
+
+  17121636:
+    template: Lycopodium
+    at:       [358.858, 7.796, -148.012, 92]
+    level:    [28, 32]
+
+  17121637:
+    template: Stalking_Sapling
+    at:       [279.474, 0.639, -285.129, 158]
+    level:    [24, 27]
+
+  17121638:
+    template: Stalking_Sapling
+    at:       [200.904, 0.416, -253.681, 86]
+    level:    [24, 27]
+
+  17121639:
+    template: Stalking_Sapling
+    at:       [61.181, 1.033, -266.082, 138]
+    level:    [24, 27]
+
+  17121640:
+    template: Stalking_Sapling
+    at:       [373.752, 7.898, -128.796, 194]
+    level:    [24, 27]
+
+  17121641:
+    template: Stalking_Sapling
+    at:       [357.542, 7.882, -154.830, 113]
+    level:    [24, 27]
+
+  17121642:
+    template: Stalking_Sapling
+    level:    [24, 27]
+    region:   batallia_downs_s_e_55
+
+  17121643:
+    template: Ba
+    level:    [33, 37]
+    region:   batallia_downs_s_se_15
+
+  17121644:
+    template: Ba
+    level:    [33, 37]
+    region:   batallia_downs_s_se_11
+
+  17121645:
+    template: Ba
+    level:    [33, 37]
+    region:   batallia_downs_s_se_5
+
+  17121646:
+    template: Ba
+    level:    [33, 37]
+    region:   batallia_downs_s_se_20
+
+  17121647:
+    template: Ba
+    level:    [33, 37]
+    region:   batallia_downs_s_se_18
+
+  17121648:
+    template: Ba
+    level:    [33, 37]
+    region:   batallia_downs_s_e_55
+
+  17121649:
+    template: Earth_Elemental
+    level:    [75, 75]
+    region:   batallia_downs_s_w_3
+
+  17121650:
+    template: Orcish_Impaler
+    level:    [65, 69]
+    region:   batallia_downs_s_w_6
+
+  17121651:
+    template: Orcish_Chasseur
+    level:    [65, 69]
+    region:   batallia_downs_s_w_6
+
+  17121652:
+    template: Orcish_Brawler
+    level:    [65, 69]
+    region:   batallia_downs_s_w_6
+
+  17121653:
+    template: Orcish_Impaler
+    level:    [65, 69]
+    region:   batallia_downs_s_w_4
+
+  17121654:
+    template: Orcish_Chasseur
+    level:    [65, 69]
+    region:   batallia_downs_s_w_4
+
+  17121655:
+    template: Orcish_Brawler
+    level:    [65, 69]
+    region:   batallia_downs_s_w_4
+
+  17121656:
+    template: Orcish_Impaler
+    level:    [65, 69]
+    region:   batallia_downs_s_nw_4
+
+  17121657:
+    template: Orcish_Trooper
+    level:    [65, 69]
+    region:   batallia_downs_s_nw_4
+
+  17121658:
+    template: Orcish_Impaler
+    level:    [65, 69]
+    region:   batallia_downs_s_nw_4
+
+  17121659:
+    template: Orcish_Chasseur
+    level:    [65, 69]
+    region:   batallia_downs_s_nw_4
+
+  17121660:
+    template: Orcish_Brawler
+    level:    [65, 69]
+    region:   batallia_downs_s_w_3
+
+  17121661:
+    template: Orcish_Chasseur
+    level:    [65, 69]
+    region:   batallia_downs_s_w_3
+
+  17121662:
+    template: Orcish_Trooper
+    level:    [65, 69]
+    region:   batallia_downs_s_w_3
+
+  17121663:
+    template: Orcish_Brawler
+    level:    [65, 69]
+    region:   batallia_downs_s_w
+
+  17121664:
+    template: Orcish_Trooper
+    level:    [65, 69]
+    region:   batallia_downs_s_w
+
+  17121665:
+    template: Wight
+    level:    [38, 40]
+    region:   batallia_downs_s_w_5
+
+  17121666:
+    template: Wight
+    at:       [-632.607, -16.342, 172.710, 169]
+    level:    [38, 40]
+
+  17121667:
+    template: Gnole
+    at:       [-565.646, -16.206, 113.748, 242]
+    level:    [65, 67]
+
+  17121668:
+    template: Gnole
+    at:       [-632.760, -16.341, 173.129, 170]
+    level:    [65, 67]
+
+  17121669:
+    template: Gnole
+    at:       [-625.186, -18.856, 177.683, 242]
+    level:    [65, 67]
+
+  17121670:
+    template: Gnole
+    at:       [-658.093, -18.713, 187.254, 30]
+    level:    [65, 67]
+
+  17121671:
+    template: Gnole
+    at:       [-564.153, -16.497, -120.131, 74]
+    level:    [65, 67]
+
+  17121672:
+    template: Gnole
+    level:    [65, 67]
+    region:   batallia_downs_s_w_5
+
+  17121673:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_w_16
+
+  17121674:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_w_11
+
+  17121675:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_w_8
+
+  17121676:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_c
+
+  17121677:
+    template: Smilodon
+    level:    [46, 48]
+    region:   batallia_downs_s_w_21
+
+  17121678:
+    template: Gnole
+    level:    [65, 67]
+    region:   batallia_downs_s_w_21
+
+  17121679:
+    template: Gnole
+    level:    [65, 67]
+    region:   batallia_downs_s_w_20
+
+  17121680:
+    template: Gnole
+    level:    [65, 67]
+    region:   batallia_downs_s_w_15
+
+  17121681:
+    template: Gnole
+    level:    [65, 67]
+    region:   batallia_downs_s_w_16
+
+  17121682:
+    template: Gnole
+    level:    [65, 67]
+    region:   batallia_downs_s_w_8
+
+  17121683:
+    template: Gnole
+    level:    [65, 67]
+    region:   batallia_downs_s_w_7
+
+  17121684:
+    template: Gnole
+    level:    [65, 67]
+    region:   batallia_downs_s_w_10
+
+  17121685:
+    template: Pixie
+    level:    [57, 58]
+    region:   batallia_downs_s_se
+
+  17121686:
+    template: Pixie
+    level:    [57, 58]
+    region:   batallia_downs_s_e
+
+  17121687:
+    template: Pixie
+    level:    [57, 58]
+    region:   batallia_downs_s_n_5
+
+  17121688:
+    template: Pixie
+    level:    [57, 58]
+    region:   batallia_downs_s_c_5
+
+  17121689:
+    template: Pixie
+    level:    [57, 58]
+    region:   batallia_downs_s_w_9
+
+  17121690:
+    template: Pixie
+    level:    [57, 58]
+    region:   batallia_downs_s_nw_24
+
+  17121691:
+    template: Pixie
+    level:    [57, 58]
+    region:   batallia_downs_s_w_2
+
+  17121692:
+    template: Pixie
+    level:    [57, 58]
+    region:   batallia_downs_s_nw_3
+
+  17121693:
+    template: Sandworm
+    at:       [-185.386, -8.375, 191.105, 81]
+    level:    [85, 85]
+
+  17121694:
+    template: Orcish_Transporter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121695:
+    template: Orcish_Guard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121696:
+    template: Orcish_Guard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121697:
+    template: Dark_Ixion
+    at:       [-83.030, -8.500, 35.260, 94]
+    level:    [85, 85]
+
+  17121698:
+    template: Scythefang_Liger
+    at:       [330.499, 3.737, 71.347, 43]
+    level:    [0, 0]
+
+  17121699:
+    template: Tusked_Tigon
+    at:       [331.731, 4.466, 70.670, 66]
+    level:    [0, 0]
+
+  17121700:
+    template: Tusked_Tigon
+    at:       [331.936, 4.068, 66.292, 148]
+    level:    [0, 0]
+
+  17121701:
+    template: Tusked_Tigon
+    at:       [331.898, 4.200, 69.190, 45]
+    level:    [0, 0]
+
+  17121702:
+    template: Tusked_Tigon
+    at:       [330.072, 3.710, 67.334, 215]
+    level:    [0, 0]
+
+  17121703:
+    template: Tusked_Tigon
+    at:       [329.366, 3.644, 70.714, 9]
+    level:    [0, 0]
+
+  17121704:
+    template: Tusked_Tigon
+    at:       [329.000, 3.657, 69.188, 95]
+    level:    [0, 0]
+
+  17121705:
+    template: Gnashfang_Rahskhas
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17121706:
+    template: Rahskhass_Pet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17121707:
+    template: Rahskhass_Pet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17121708:
+    template: Rahskhass_Pet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17121709:
+    template: Rahskhass_Pet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17121710:
+    template: Rahskhass_Pet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17121711:
+    template: Yilbegan
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [90, 92]
+
+  17121712:
+    template: Verthandi
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [85, 85]
+
+  17121713:
+    template: Urd
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [82, 82]
+
+  17121714:
+    template: Skuld
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [82, 82]
+
+  17121715:
+    template: Aither
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17121716:
+    template: Deorc
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17121717:
+    template: Eorthe
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17121718:
+    template: Puretos
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17121719:
+    template: Pruina
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17121720:
+    template: Beorht
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17121721:
+    template: Thunor
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17121722:
+    template: Lacus
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17121723:
+    template: Valaineral_R_Davilles
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17121724:
+    template: Royal_Guard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121725:
+    template: Royal_Guard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121726:
+    template: Royal_Guard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121727:
+    template: Royal_Guard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121728:
+    template: Royal_Guard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121729:
+    template: Royal_Guard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121730:
+    template: Royal_Guard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121731:
+    template: Royal_Guard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121732:
+    template: Royal_Guard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121733:
+    template: Leonoyne
+    level:    [0, 0]
+    region:   batallia_downs_s_e_19
+
+  17121734:
+    template: Savage_Hound_Condottiere
+    level:    [0, 0]
+    region:   batallia_downs_s_e_19
+
+  17121735:
+    template: Savage_Hound_Condottiere
+    level:    [0, 0]
+    region:   batallia_downs_s_e_19
+
+  17121736:
+    template: Savage_Hound_Condottiere
+    level:    [0, 0]
+    region:   batallia_downs_s_e_19
+
+  17121737:
+    template: Savage_Hound_Condottiere
+    level:    [0, 0]
+    region:   batallia_downs_s_e_19
+
+  17121738:
+    template: Savage_Hound_Condottiere
+    level:    [0, 0]
+    region:   batallia_downs_s_e_19
+
+  17121739:
+    template: Savage_Hound_Condottiere
+    level:    [0, 0]
+    region:   batallia_downs_s_e_19
+
+  17121740:
+    template: Savage_Hound_Condottiere
+    level:    [0, 0]
+    region:   batallia_downs_s_e_19
+
+  17121741:
+    template: Savage_Hound_Condottiere
+    level:    [0, 0]
+    region:   batallia_downs_s_e_19
+
+  17121742:
+    template: Savage_Hound_Condottiere
+    level:    [0, 0]
+    region:   batallia_downs_s_e_19
+
+  17121743:
+    template: Ashmea_B_Greinner
+    at:       [201.451, 7.699, 47.987, 79]
+    level:    [0, 0]
+
+  17121744:
+    template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17121745:
+    template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17121746:
+    template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17121747:
+    template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17121748:
+    template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17121749:
+    template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17121750:
+    template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17121751:
+    template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17121752:
+    template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17121753:
+    template: Feldrautte_I_Rouhent
+    level:    [0, 0]
+    region:   batallia_downs_s_e_19
+
+  17121754:
+    template: Norvallen_Knight
+    level:    [0, 0]
+    region:   batallia_downs_s_e_19
+
+  17121755:
+    template: Norvallen_Knight
+    level:    [0, 0]
+    region:   batallia_downs_s_e_19
+
+  17121756:
+    template: Norvallen_Knight
+    level:    [0, 0]
+    region:   batallia_downs_s_e_19
+
+  17121757:
+    template: Norvallen_Knight
+    level:    [0, 0]
+    region:   batallia_downs_s_e_19
+
+  17121758:
+    template: Norvallen_Knight
+    level:    [0, 0]
+    region:   batallia_downs_s_e_19
+
+  17121759:
+    template: Norvallen_Knight
+    level:    [0, 0]
+    region:   batallia_downs_s_e_19
+
+  17121760:
+    template: Norvallen_Knight
+    level:    [0, 0]
+    region:   batallia_downs_s_e_19
+
+  17121761:
+    template: Norvallen_Knight
+    level:    [0, 0]
+    region:   batallia_downs_s_e_19
+
+  17121762:
+    template: Norvallen_Knight
+    level:    [0, 0]
+    region:   batallia_downs_s_e_19
+
+  17121763:
+    template: Yrvaulair_S_Cousseraux
+    level:    [0, 0]
+    region:   batallia_downs_s_e_50
+
+  17121764:
+    template: Royal_Knight
+    level:    [1, 1]
+    region:   batallia_downs_s_e_40
+
+  17121765:
+    template: Royal_Knight
+    level:    [1, 1]
+    region:   batallia_downs_s_e_43
+
+  17121766:
+    template: Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121767:
+    template: Royal_Knight
+    level:    [1, 1]
+    region:   batallia_downs_s_e_30
+
+  17121768:
+    template: Royal_Knight
+    level:    [1, 1]
+    region:   batallia_downs_s_e_40
+
+  17121769:
+    template: Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121770:
+    template: Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121771:
+    template: Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121772:
+    template: Royal_Knight
+    level:    [1, 1]
+    region:   batallia_downs_s_e_40
+
+  17121773:
+    template: Mieuseloir_B_Enchelles
+    level:    [0, 0]
+    region:   batallia_downs_s_e_19
+
+  17121774:
+    template: Crimson_Wolf_Esquire
+    level:    [0, 0]
+    region:   batallia_downs_s_e_19
+
+  17121775:
+    template: Crimson_Wolf_Esquire
+    level:    [0, 0]
+    region:   batallia_downs_s_e_19
+
+  17121776:
+    template: Crimson_Wolf_Esquire
+    level:    [0, 0]
+    region:   batallia_downs_s_e_19
+
+  17121777:
+    template: Crimson_Wolf_Esquire
+    level:    [0, 0]
+    region:   batallia_downs_s_e_19
+
+  17121778:
+    template: Crimson_Wolf_Esquire
+    level:    [0, 0]
+    region:   batallia_downs_s_e_19
+
+  17121779:
+    template: Crimson_Wolf_Esquire
+    level:    [0, 0]
+    region:   batallia_downs_s_e_19
+
+  17121780:
+    template: Crimson_Wolf_Esquire
+    level:    [0, 0]
+    region:   batallia_downs_s_e_19
+
+  17121781:
+    template: Crimson_Wolf_Esquire
+    level:    [0, 0]
+    region:   batallia_downs_s_e_19
+
+  17121782:
+    template: Crimson_Wolf_Esquire
+    level:    [0, 0]
+    region:   batallia_downs_s_e_19
+
+  17121783:
+    template: Gold_Badger_Esquire
+    level:    [0, 0]
+    region:   batallia_downs_s_sw
+
+  17121784:
+    template: Gold_Badger_Esquire
+    level:    [0, 0]
+    region:   batallia_downs_s_e_3
+
+  17121785:
+    template: Gold_Badger_Esquire
+    level:    [0, 0]
+    region:   batallia_downs_s_e_14
+
+  17121786:
+    template: Gold_Badger_Esquire
+    level:    [0, 0]
+    region:   batallia_downs_s_sw_2
+
+  17121787:
+    template: Gold_Badger_Esquire
+    level:    [0, 0]
+    region:   batallia_downs_s_sw_3
+
+  17121788:
+    template: Gold_Badger_Esquire
+    level:    [0, 0]
+    region:   batallia_downs_s_e_15
+
+  17121789:
+    template: Allied_Mantelet
+    at:       [238.776, 7.952, 51.623, 192]
+    level:    [1, 1]
+
+  17121790:
+    template: Allied_Mantelet
+    at:       [210.794, 7.575, 51.744, 192]
+    level:    [1, 1]
+
+  17121791:
+    template: Allied_Mantelet
+    at:       [197.583, 7.768, 23.674, 128]
+    level:    [1, 1]
+
+  17121792:
+    template: Allied_Mantelet
+    at:       [202.828, 7.500, 0.151, 96]
+    level:    [1, 1]
+
+  17121793:
+    template: Allied_Mantelet
+    at:       [250.093, 7.761, -1.587, 32]
+    level:    [1, 1]
+
+  17121794:
+    template: Allied_Mantelet
+    at:       [252.119, 8.785, 24.687, 0]
+    level:    [1, 1]
+
+  17121795:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121796:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121797:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121798:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121799:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121800:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121801:
+    template: Allied_Belfry
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121802:
+    template: Royal_Banneret
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121803:
+    template: Royal_Banneret
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121804:
+    template: Royal_Banneret
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121805:
+    template: Royal_Banneret
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121806:
+    template: Royal_Banneret
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121807:
+    template: Royal_Banneret
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121808:
+    template: Allied_Armored_Belfry
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17121809:
+    template: Royal_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121810:
+    template: Royal_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121811:
+    template: Royal_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121812:
+    template: Royal_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121813:
+    template: Royal_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121814:
+    template: Royal_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121815:
+    template: Royal_Palliator
+    level:    [60, 60]
+    region:   batallia_downs_s_e_19
+
+  17121816:
+    template: Royal_Palliator
+    level:    [60, 60]
+    region:   batallia_downs_s_e_19
+
+  17121817:
+    template: Royal_Palliator
+    level:    [60, 60]
+    region:   batallia_downs_s_e_19
+
+  17121818:
+    template: Royal_Palliator
+    level:    [60, 60]
+    region:   batallia_downs_s_e_19
+
+  17121819:
+    template: Royal_Palliator
+    level:    [60, 60]
+    region:   batallia_downs_s_e_19
+
+  17121820:
+    template: Royal_Palliator
+    level:    [60, 60]
+    region:   batallia_downs_s_e_19
+
+  17121821:
+    template: Royal_Provisioner
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121822:
+    template: Royal_Provisioner
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121823:
+    template: Royal_Provisioner
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121824:
+    template: Conqueror_Bakgodek
+    level:    [75, 80]
+    region:   batallia_downs_s_e_44
+
+  17121825:
+    template: Steelhide_Protector
+    level:    [60, 60]
+    region:   batallia_downs_s_e_28
+
+  17121826:
+    template: Steelhide_Protector
+    level:    [60, 60]
+    region:   batallia_downs_s_e_27
+
+  17121827:
+    template: Steelhide_Protector
+    level:    [60, 60]
+    region:   batallia_downs_s_e_49
+
+  17121828:
+    template: Steelhide_Protector
+    level:    [60, 60]
+    region:   batallia_downs_s_c_48
+
+  17121829:
+    template: Steelhide_Protector
+    level:    [60, 60]
+    region:   batallia_downs_s_e_29
+
+  17121830:
+    template: Steelhide_Protector
+    level:    [60, 60]
+    region:   batallia_downs_s_e_33
+
+  17121831:
+    template: Steelhide_Protector
+    level:    [60, 60]
+    region:   batallia_downs_s_e_45
+
+  17121832:
+    template: Steelhide_Protector
+    level:    [60, 60]
+    region:   batallia_downs_s_e_41
+
+  17121833:
+    template: Steelhide_Protector
+    level:    [60, 60]
+    region:   batallia_downs_s_e_38
+
+  17121834:
+    template: One-eyed_Gwajboj
+    level:    [75, 80]
+    region:   batallia_downs_s_e_39
+
+  17121835:
+    template: Gutrender_Trooper
+    level:    [60, 60]
+    region:   batallia_downs_s_ne_9
+
+  17121836:
+    template: Gutrender_Trooper
+    level:    [60, 60]
+    region:   batallia_downs_s_e_35
+
+  17121837:
+    template: Gutrender_Trooper
+    level:    [60, 60]
+    region:   batallia_downs_s_e_24
+
+  17121838:
+    template: Gutrender_Trooper
+    level:    [60, 60]
+    region:   batallia_downs_s_e_20
+
+  17121839:
+    template: Gutrender_Trooper
+    level:    [60, 60]
+    region:   batallia_downs_s_e_46
+
+  17121840:
+    template: Gutrender_Trooper
+    level:    [60, 60]
+    region:   batallia_downs_s_e_37
+
+  17121841:
+    template: Gutrender_Trooper
+    level:    [60, 60]
+    region:   batallia_downs_s_e_22
+
+  17121842:
+    template: Gutrender_Trooper
+    level:    [60, 60]
+    region:   batallia_downs_s_e_26
+
+  17121843:
+    template: Gutrender_Trooper
+    level:    [60, 60]
+    region:   batallia_downs_s_e_10
+
+  17121844:
+    template: Deathlord_Rojgnoj
+    at:       [186.231, 6.183, 17.059, 209]
+    level:    [75, 80]
+
+  17121845:
+    template: Spinebeak_Neckchopper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121846:
+    template: Spinebeak_Neckchopper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121847:
+    template: Spinebeak_Neckchopper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121848:
+    template: Spinebeak_Neckchopper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121849:
+    template: Spinebeak_Neckchopper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121850:
+    template: Spinebeak_Neckchopper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121851:
+    template: Spinebeak_Neckchopper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121852:
+    template: Spinebeak_Neckchopper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121853:
+    template: Spinebeak_Neckchopper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121854:
+    template: Jagidbods_Warmachine
+    level:    [75, 80]
+    region:   batallia_downs_s_c_34
+
+  17121855:
+    template: Jagidbod_of_Clan_Reaper
+    at:       [217.547, 9.361, 71.208, 102]
+    level:    [0, 0]
+
+  17121856:
+    template: Clan_Reaper_Grunt
+    level:    [0, 0]
+    region:   batallia_downs_s_e_11
+
+  17121857:
+    template: Clan_Reaper_Grunt
+    level:    [0, 0]
+    region:   batallia_downs_s_e_9
+
+  17121858:
+    template: Clan_Reaper_Grunt
+    level:    [0, 0]
+    region:   batallia_downs_s_e_8
+
+  17121859:
+    template: Clan_Reaper_Grunt
+    level:    [0, 0]
+    region:   batallia_downs_s_e_12
+
+  17121860:
+    template: Clan_Reaper_Grunt
+    level:    [0, 0]
+    region:   batallia_downs_s_c_30
+
+  17121861:
+    template: Clan_Reaper_Grunt
+    level:    [0, 0]
+    region:   batallia_downs_s_c_43
+
+  17121862:
+    template: Clan_Reaper_Grunt
+    level:    [0, 0]
+    region:   batallia_downs_s_c_49
+
+  17121863:
+    template: Clan_Reaper_Grunt
+    level:    [0, 0]
+    region:   batallia_downs_s_c_50
+
+  17121864:
+    template: Clan_Reaper_Grunt
+    level:    [0, 0]
+    region:   batallia_downs_s_c_29
+
+  17121865:
+    template: Alpha_Gnole_Anders
+    level:    [0, 0]
+    region:   batallia_downs_s_ne_10
+
+  17121866:
+    template: Anderss_Guard
+    level:    [60, 64]
+    region:   batallia_downs_s_ne_11
+
+  17121867:
+    template: Anderss_Guard
+    level:    [60, 64]
+    region:   batallia_downs_s_ne_11
+
+  17121868:
+    template: Moonfang_Warrior
+    level:    [60, 60]
+    region:   batallia_downs_s_e_51
+
+  17121869:
+    template: Moonfang_Warrior
+    level:    [60, 60]
+    region:   batallia_downs_s_ne_11
+
+  17121870:
+    template: Moonfang_Warrior
+    level:    [60, 60]
+    region:   batallia_downs_s_e_36
+
+  17121871:
+    template: Moonfang_Warrior
+    level:    [60, 60]
+    region:   batallia_downs_s_ne_12
+
+  17121872:
+    template: Moonfang_Warrior
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121873:
+    template: Moonfang_Warrior
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121874:
+    template: Moonfang_Warrior
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121875:
+    template: Moonfang_Warrior
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121876:
+    template: Moonfang_Warrior
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121877:
+    template: Dirtyhanded_Gochakzuk
+    at:       [180.102, 6.744, 14.099, 25]
+    level:    [70, 70]
+
+  17121878:
+    template: Gravemaker_Mesmerizer
+    at:       [211.576, 7.876, 48.854, 34]
+    level:    [70, 70]
+
+  17121879:
+    template: Gravemaker_Mesmerizer
+    at:       [221.095, 7.990, 57.018, 239]
+    level:    [70, 70]
+
+  17121880:
+    template: Gravemaker_Mesmerizer
+    at:       [182.540, 6.801, 14.159, 38]
+    level:    [70, 70]
+
+  17121881:
+    template: Gravemaker_Mesmerizer
+    level:    [70, 70]
+    region:   batallia_downs_s_e_34
+
+  17121882:
+    template: Gravemaker_Mesmerizer
+    level:    [70, 70]
+    region:   batallia_downs_s_e_23
+
+  17121883:
+    template: Gravemaker_Mesmerizer
+    level:    [70, 70]
+    region:   batallia_downs_s_c_35
+
+  17121884:
+    template: Gravemaker_Mesmerizer
+    level:    [70, 70]
+    region:   batallia_downs_s_e_25
+
+  17121885:
+    template: Gravemaker_Mesmerizer
+    level:    [70, 70]
+    region:   batallia_downs_s_e_47
+
+  17121886:
+    template: Gravemaker_Mesmerizer
+    level:    [70, 70]
+    region:   batallia_downs_s_e_32
+
+  17121887:
+    template: Clan_Bear_Fighter
+    level:    [0, 0]
+    region:   batallia_downs_s_e_48
+
+  17121888:
+    template: Clan_Bear_Fighter
+    level:    [0, 0]
+    region:   batallia_downs_s_ne_13
+
+  17121889:
+    template: Clan_Bear_Fighter
+    level:    [0, 0]
+    region:   batallia_downs_s_c_28
+
+  17121890:
+    template: Clan_Bear_Fighter
+    level:    [0, 0]
+    region:   batallia_downs_s_e_13
+
+  17121891:
+    template: Clan_Bear_Fighter
+    level:    [0, 0]
+    region:   batallia_downs_s_e_48
+
+  17121892:
+    template: Clan_Bear_Fighter
+    level:    [0, 0]
+    region:   batallia_downs_s_ne_14
+
+  17121893:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17121894:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17121895:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17121896:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17121897:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17121898:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17121899:
+    template: Iron_Bomb
+    at:       [240.076, 7.770, 30.510, 145]
+    level:    [75, 75]
+
+  17121900:
+    template: Iron_Bomb
+    at:       [226.412, 7.845, 6.922, 157]
+    level:    [75, 75]
+
+  17121901:
+    template: Iron_Bomb
+    at:       [228.229, 7.888, 39.497, 73]
+    level:    [75, 75]
+
+  17121902:
+    template: Iron_Bomb
+    at:       [225.048, 7.937, 8.098, 152]
+    level:    [75, 75]
+
+  17121903:
+    template: Iron_Bomb
+    at:       [228.268, 7.886, 41.119, 66]
+    level:    [75, 75]
+
+  17121904:
+    template: Iron_Bomb
+    at:       [226.664, 7.793, 7.065, 151]
+    level:    [75, 75]
+
+  17121905:
+    template: Confederate_Belfry
+    at:       [165.794, -0.275, 38.058, 15]
+    level:    [75, 80]
+
+  17121906:
+    template: Orcish_Strongarm
+    at:       [195.529, 7.699, 11.121, 97]
+    level:    [60, 60]
+
+  17121907:
+    template: Orcish_Strongarm
+    at:       [195.521, 7.699, 10.977, 99]
+    level:    [60, 60]
+
+  17121908:
+    template: Orcish_Strongarm
+    at:       [195.561, 7.699, 10.896, 102]
+    level:    [60, 60]
+
+  17121909:
+    template: Orcish_Strongarm
+    at:       [195.834, 7.699, 11.282, 99]
+    level:    [60, 60]
+
+  17121910:
+    template: Orcish_Strongarm
+    at:       [203.127, 7.840, 50.801, 175]
+    level:    [60, 60]
+
+  17121911:
+    template: Orcish_Strongarm
+    at:       [210.569, 7.828, 43.947, 176]
+    level:    [60, 60]
+
+  17121912:
+    template: Orcish_Turret
+    at:       [231.927, 7.696, -3.525, 174]
+    level:    [75, 80]
+
+  17121913:
+    template: War_Smilodon
+    at:       [228.788, 7.830, 4.302, 46]
+    level:    [60, 60]
+
+  17121914:
+    template: War_Smilodon
+    at:       [226.038, 7.927, 6.665, 40]
+    level:    [60, 60]
+
+  17121915:
+    template: War_Smilodon
+    at:       [226.830, 7.879, 5.964, 68]
+    level:    [60, 60]
+
+  17121916:
+    template: War_Smilodon
+    at:       [230.889, 7.755, 0.840, 63]
+    level:    [60, 60]
+
+  17121917:
+    template: War_Smilodon
+    at:       [231.725, 7.713, 0.562, 150]
+    level:    [60, 60]
+
+  17121918:
+    template: War_Smilodon
+    at:       [226.915, 7.786, 6.764, 119]
+    level:    [60, 60]
+
+  17121919:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17121920:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17121921:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17121922:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17121923:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17121924:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17121925:
+    template: Shadowhorn
+    at:       [228.662, 7.629, 6.370, 125]
+    level:    [75, 80]
+
+  17121926:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121927:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121928:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121929:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121930:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121931:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121932:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121933:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121934:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121935:
+    template: Shadowhand
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17121936:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17121937:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17121938:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17121939:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17121940:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17121941:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17121942:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17121943:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17121944:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17121945:
+    template: Shadowfang
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17121946:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121947:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121948:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121949:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121950:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121951:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121952:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121953:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121954:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121955:
+    template: Shadoweye
+    at:       [224.820, 8.217, 3.074, 228]
+    level:    [75, 80]
+
+  17121956:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121957:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121958:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121959:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121960:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121961:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121962:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121963:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121964:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17121965:
+    template: Fortification
+    at:       [209.714, 8.062, 23.838, 0]
+    level:    [50, 50]
+
+  17121966:
+    template: Fortification
+    at:       [228.176, 7.902, 39.276, 0]
+    level:    [50, 50]
+
+  17121967:
+    template: Fortification
+    at:       [240.030, 7.751, 30.532, 0]
+    level:    [50, 50]
+
+  17121968:
+    template: Fortification
+    at:       [225.048, 7.641, 8.099, 0]
+    level:    [50, 50]
+
+  17121969:
+    template: Rikoh_Wahcondalo
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121970:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121971:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121972:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121973:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121974:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121975:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121976:
+    template: Dalzakk
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121977:
+    template: Oggbi
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121978:
+    template: Rainemard
+    level:    [1, 1]
+    region:   batallia_downs_s_e_19
+
+  17121979:
+    template: Maat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121980:
+    template: Degenhard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121981:
+    template: Azima
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121982:
+    template: Choh_Moui
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121983:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121984:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121985:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121986:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121987:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121988:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121989:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121990:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121991:
+    template: Azo
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121992:
+    template: Vahi
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121993:
+    template: Rongo-Nango
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17121994:
+    template: Lerren
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121995:
+    template: Jajaro
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121996:
+    template: Popochu
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121997:
+    template: Papako
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121998:
+    template: Momowa
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17121999:
+    template: Ulla
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122000:
+    template: Kilhwch
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122001:
+    template: Alfons
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122002:
+    template: Achtelle
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122003:
+    template: Bravo
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122004:
+    template: Duskraven
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122005:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122006:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122007:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122008:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122009:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122010:
+    template: Areuhat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122011:
+    template: Odzmanouk
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122012:
+    template: Boodlix
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17122013:
+    template: Goblin_Lansquenet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17122014:
+    template: Goblin_Lansquenet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17122015:
+    template: Goblin_Lansquenet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17122016:
+    template: Titania
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122017:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122018:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122019:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122020:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122021:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122022:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122023:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122024:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122025:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122026:
+    template: Babban_Ny_Mheillea
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17122027:
+    template: Abenzio
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122028:
+    template: Bryher
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122029:
+    template: Camlin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122030:
+    template: Darach
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122031:
+    template: Raigegue_R_dOraguille
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17122032:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17122033:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17122034:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17122035:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17122036:
+    template: Eurytos
+    at:       [250.209, 7.394, 29.623, 183]
+    level:    [75, 75]
+
+  17122037:
+    template: Gigas_Mercenary
+    at:       [195.934, 7.274, 22.521, 204]
+    level:    [60, 60]
+
+  17122038:
+    template: Gigas_Mercenary
+    at:       [248.194, 7.524, 40.323, 173]
+    level:    [60, 60]
+
+  17122039:
+    template: Poroggo_Prince
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122040:
+    template: Poroggo_Servant
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122041:
+    template: Poroggo_Servant
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122042:
+    template: Poroggo_Servant
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122043:
+    template: Kaiser_Behemoth
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17122044:
+    template: Ferreous_Coffin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122045:
+    template: Lewenhart
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122046:
+    template: Auroral_Alicorn
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17122047:
+    template: Menechme
+    at:       [-69.244, -1.952, 441.760, 28]
+    level:    [150, 150]
+
+  17122048:
+    template: Excenmille
+    at:       [-71.997, -0.550, 438.734, 222]
+    level:    [0, 0]
+
+  17122049:
+    template: Taweret
+    at:       [79.544, 7.844, -290.895, 70]
+    level:    [93, 94]
+
+  17122050:
+    template: Taweret
+    at:       [270.294, 8.100, -391.839, 212]
+    level:    [93, 94]
+
+  17122051:
+    template: Taweret
+    at:       [-320.000, -16.500, -42.000, 226]
+    level:    [93, 94]

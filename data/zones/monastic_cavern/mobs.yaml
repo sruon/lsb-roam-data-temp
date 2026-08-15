@@ -1,0 +1,983 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17391617:
+    template: Orcish_Bowshooter
+    level:    [42, 46]
+    region:   monastic_cavern_sw_3
+
+  17391618:
+    template: Orcish_Footsoldier
+    at:       [-9.621, -6.207, -380.968, 231]
+    level:    [43, 47]
+
+  17391619:
+    template: Orcish_Gladiator
+    at:       [-0.031, -8.594, -380.755, 8]
+    level:    [44, 48]
+
+  17391620:
+    template: Orcish_Trooper
+    at:       [0.974, -8.523, -380.188, 227]
+    level:    [45, 49]
+
+  17391621:
+    template: Orcish_Bowshooter
+    level:    [42, 46]
+    region:   monastic_cavern_sw_3
+
+  17391622:
+    template: Orcish_Footsoldier
+    at:       [-16.358, -4.915, -383.090, 250]
+    level:    [43, 47]
+
+  17391623:
+    template: Orcish_Gladiator
+    at:       [3.740, -9.302, -378.126, 37]
+    level:    [44, 48]
+
+  17391624:
+    template: Orcish_Trooper
+    at:       [-17.486, -4.650, -382.491, 63]
+    level:    [45, 49]
+
+  17391625:
+    template: Orcish_Bowshooter
+    level:    [42, 46]
+    region:   monastic_cavern_sw_2
+
+  17391626:
+    template: Orcish_Footsoldier
+    level:    [44, 47]
+    region:   monastic_cavern_sw_2
+
+  17391627:
+    template: Orcish_Gladiator
+    level:    [47, 48]
+    region:   monastic_cavern_sw_2
+
+  17391628:
+    template: Orcish_Trooper
+    level:    [45, 49]
+    region:   monastic_cavern_sw_2
+
+  17391629:
+    template: Orcish_Veteran
+    at:       [-48.146, -1.183, -328.368, 171]
+    level:    [52, 56]
+
+  17391630:
+    template: Orcish_Predator
+    at:       [-52.804, -1.177, -326.603, 167]
+    level:    [53, 57]
+
+  17391631:
+    template: Orcish_Zerker
+    at:       [-51.736, -1.499, -311.369, 27]
+    level:    [54, 58]
+
+  17391632:
+    template: Orcish_Warchief
+    level:    [55, 59]
+    region:   monastic_cavern_sw_2
+
+  17391633:
+    template: Orcish_Bowshooter
+    level:    [42, 46]
+    region:   monastic_cavern_sw_4
+
+  17391634:
+    template: Orcish_Footsoldier
+    level:    [44, 47]
+    region:   monastic_cavern_sw_4
+
+  17391635:
+    template: Orcish_Gladiator
+    level:    [44, 48]
+    region:   monastic_cavern_sw_4
+
+  17391636:
+    template: Orcish_Trooper
+    level:    [45, 49]
+    region:   monastic_cavern_sw_4
+
+  17391637:
+    template: Orcish_Veteran
+    at:       [-5.670, -0.998, -299.000, 213]
+    level:    [52, 56]
+
+  17391638:
+    template: Orcish_Predator
+    level:    [53, 57]
+    region:   monastic_cavern_sw_4
+
+  17391639:
+    template: Orcish_Zerker
+    at:       [-11.548, -1.140, -327.863, 44]
+    level:    [54, 58]
+
+  17391640:
+    template: Orcish_Warchief
+    at:       [9.901, -0.997, -303.030, 218]
+    level:    [55, 59]
+
+  17391641:
+    template: Orcish_Veteran
+    level:    [52, 56]
+    region:   monastic_cavern_sw_5
+
+  17391642:
+    template: Orcish_Predator
+    at:       [-4.859, -0.981, -291.185, 226]
+    level:    [53, 57]
+
+  17391643:
+    template: Orcish_Zerker
+    level:    [54, 58]
+    region:   monastic_cavern_sw_5
+
+  17391644:
+    template: Orcish_Warchief
+    at:       [14.339, -0.676, -288.125, 4]
+    level:    [55, 59]
+
+  17391645:
+    template: Orcish_Veteran
+    level:    [52, 56]
+    region:   monastic_cavern_sw_5
+
+  17391646:
+    template: Orcish_Predator
+    at:       [-9.166, -0.871, -285.930, 173]
+    level:    [53, 57]
+
+  17391647:
+    template: Orcish_Zerker
+    at:       [4.553, -0.679, -271.649, 125]
+    level:    [54, 58]
+
+  17391648:
+    template: Orcish_Warchief
+    level:    [55, 59]
+    region:   monastic_cavern_sw_5
+
+  17391649:
+    template: Orcish_Veteran
+    at:       [36.085, -1.113, -294.562, 0]
+    level:    [52, 56]
+
+  17391650:
+    template: Orcish_Predator
+    level:    [53, 57]
+    region:   monastic_cavern_sw_6
+
+  17391651:
+    template: Orcish_Zerker
+    at:       [32.904, -1.238, -265.126, 213]
+    level:    [54, 58]
+
+  17391652:
+    template: Orcish_Warchief
+    level:    [55, 59]
+    region:   monastic_cavern_sw_6
+
+  17391653:
+    template: Orcish_Veteran
+    level:    [52, 56]
+    region:   monastic_cavern_sw_6
+
+  17391654:
+    template: Orcish_Predator
+    level:    [53, 57]
+    region:   monastic_cavern_sw_6
+
+  17391655:
+    template: Orcish_Zerker
+    at:       [57.982, -0.888, -257.542, 216]
+    level:    [54, 58]
+
+  17391656:
+    template: Orcish_Warchief
+    level:    [55, 59]
+    region:   monastic_cavern_sw_6
+
+  17391657:
+    template: Orcish_Veteran
+    level:    [52, 56]
+    region:   monastic_cavern_sw
+
+  17391658:
+    template: Orcish_Predator
+    at:       [-56.997, -0.828, -260.277, 55]
+    level:    [53, 57]
+
+  17391659:
+    template: Orcish_Zerker
+    at:       [-60.712, -1.143, -251.345, 40]
+    level:    [54, 58]
+
+  17391660:
+    template: Orcish_Warchief
+    at:       [-62.421, -0.881, -230.157, 38]
+    level:    [55, 59]
+
+  17391661:
+    template: Orcish_Veteran
+    level:    [52, 56]
+    region:   monastic_cavern_sw
+
+  17391662:
+    template: Orcish_Predator
+    at:       [-29.850, -0.875, -260.396, 143]
+    level:    [53, 57]
+
+  17391663:
+    template: Orcish_Zerker
+    at:       [-56.155, -1.372, -265.347, 192]
+    level:    [54, 58]
+
+  17391664:
+    template: Orcish_Warchief
+    at:       [-50.513, -1.062, -259.709, 2]
+    level:    [55, 59]
+
+  17391665:
+    template: Orcish_Veteran
+    at:       [-66.191, -0.785, -186.070, 52]
+    level:    [52, 56]
+
+  17391666:
+    template: Orcish_Predator
+    level:    [53, 57]
+    region:   monastic_cavern_w
+
+  17391667:
+    template: Orcish_Zerker
+    at:       [-55.278, -0.756, -213.246, 203]
+    level:    [54, 58]
+
+  17391668:
+    template: Orcish_Warchief
+    level:    [55, 59]
+    region:   monastic_cavern_w
+
+  17391669:
+    template: Orcish_Farkiller
+    at:       [-59.070, -0.906, -214.914, 30]
+    level:    [62, 66]
+
+  17391670:
+    template: Orcish_Dreadnought
+    at:       [-64.822, -0.783, -182.614, 195]
+    level:    [63, 66]
+
+  17391671:
+    template: Orcish_Veteran
+    at:       [-64.071, -0.844, -146.011, 26]
+    level:    [52, 56]
+
+  17391672:
+    template: Orcish_Predator
+    level:    [53, 57]
+    region:   monastic_cavern_w_2
+
+  17391673:
+    template: Orcish_Zerker
+    at:       [-60.792, -0.814, -144.996, 73]
+    level:    [54, 58]
+
+  17391674:
+    template: Orcish_Warchief
+    at:       [-60.997, -0.937, -149.868, 178]
+    level:    [55, 59]
+
+  17391675:
+    template: Orcish_Veteran
+    at:       [-59.372, -0.868, -153.613, 69]
+    level:    [52, 56]
+
+  17391676:
+    template: Orcish_Predator
+    at:       [-61.658, -0.628, -147.422, 197]
+    level:    [53, 57]
+
+  17391677:
+    template: Orcish_Zerker
+    level:    [54, 58]
+    region:   monastic_cavern_w_2
+
+  17391678:
+    template: Orcish_Warchief
+    at:       [-62.902, -0.962, -145.750, 15]
+    level:    [55, 59]
+
+  17391679:
+    template: Orcish_Veteran
+    level:    [52, 56]
+    region:   monastic_cavern_c
+
+  17391680:
+    template: Orcish_Predator
+    level:    [53, 57]
+    region:   monastic_cavern_c
+
+  17391681:
+    template: Orcish_Zerker
+    at:       [55.817, -1.033, -215.745, 78]
+    level:    [54, 58]
+
+  17391682:
+    template: Orcish_Warchief
+    level:    [55, 59]
+    region:   monastic_cavern_c
+
+  17391683:
+    template: Orcish_Veteran
+    level:    [52, 56]
+    region:   monastic_cavern_c
+
+  17391684:
+    template: Orcish_Predator
+    at:       [56.514, -0.905, -217.245, 141]
+    level:    [53, 57]
+
+  17391685:
+    template: Orcish_Zerker
+    level:    [54, 58]
+    region:   monastic_cavern_c
+
+  17391686:
+    template: Orcish_Warchief
+    level:    [55, 59]
+    region:   monastic_cavern_c
+
+  17391687:
+    template: Orcish_Veteran
+    level:    [52, 56]
+    region:   monastic_cavern_w_4
+
+  17391688:
+    template: Orcish_Predator
+    at:       [5.598, -0.619, -215.800, 76]
+    level:    [53, 57]
+
+  17391689:
+    template: Orcish_Zerker
+    at:       [8.335, -1.405, -220.501, 19]
+    level:    [54, 58]
+
+  17391690:
+    template: Orcish_Warchief
+    level:    [55, 59]
+    region:   monastic_cavern_w_4
+
+  17391691:
+    template: Orcish_Farkiller
+    at:       [13.304, -0.759, -216.004, 6]
+    level:    [62, 66]
+
+  17391692:
+    template: Orcish_Dreadnought
+    at:       [-3.527, -0.794, -219.610, 168]
+    level:    [63, 66]
+
+  17391693:
+    template: Orcish_Veteran
+    level:    [52, 56]
+    region:   monastic_cavern_w_3
+
+  17391694:
+    template: Orcish_Predator
+    level:    [53, 57]
+    region:   monastic_cavern_w_3
+
+  17391695:
+    template: Orcish_Zerker
+    at:       [-19.838, -0.708, -200.073, 244]
+    level:    [54, 58]
+
+  17391696:
+    template: Orcish_Warchief
+    level:    [55, 59]
+    region:   monastic_cavern_w_3
+
+  17391697:
+    template: Orcish_Veteran
+    at:       [-22.196, -0.876, -211.783, 158]
+    level:    [52, 56]
+
+  17391698:
+    template: Orcish_Predator
+    at:       [-21.437, -0.772, -162.004, 66]
+    level:    [53, 57]
+
+  17391699:
+    template: Orcish_Zerker
+    level:    [54, 58]
+    region:   monastic_cavern_w_3
+
+  17391700:
+    template: Orcish_Warchief
+    level:    [55, 59]
+    region:   monastic_cavern_w_3
+
+  17391701:
+    template: Orcish_Veteran
+    at:       [-22.708, -0.826, -139.089, 226]
+    level:    [52, 56]
+
+  17391702:
+    template: Orcish_Predator
+    at:       [-22.232, -0.834, -141.535, 224]
+    level:    [53, 57]
+
+  17391703:
+    template: Orcish_Zerker
+    at:       [-22.398, -0.743, -152.166, 220]
+    level:    [54, 58]
+
+  17391704:
+    template: Orcish_Warchief
+    at:       [-25.082, -1.197, -141.735, 194]
+    level:    [55, 59]
+
+  17391705:
+    template: Orcish_Champion
+    at:       [-15.354, -0.884, -136.778, 224]
+    level:    [64, 68]
+
+  17391706:
+    template: Orcish_Veteran
+    level:    [52, 56]
+    region:   monastic_cavern_w_5
+
+  17391707:
+    template: Orcish_Predator
+    level:    [53, 57]
+    region:   monastic_cavern_w_5
+
+  17391708:
+    template: Orcish_Zerker
+    level:    [54, 58]
+    region:   monastic_cavern_w_5
+
+  17391709:
+    template: Orcish_Warchief
+    level:    [55, 59]
+    region:   monastic_cavern_w_5
+
+  17391710:
+    template: Orcish_Veteran
+    level:    [52, 56]
+    region:   monastic_cavern_w_5
+
+  17391711:
+    template: Orcish_Predator
+    level:    [53, 57]
+    region:   monastic_cavern_w_5
+
+  17391712:
+    template: Orcish_Zerker
+    level:    [54, 58]
+    region:   monastic_cavern_w_5
+
+  17391713:
+    template: Orcish_Warchief
+    at:       [18.624, -1.037, -132.274, 25]
+    level:    [55, 59]
+
+  17391714:
+    template: Orcish_Farkiller
+    at:       [24.604, -2.700, -101.246, 103]
+    level:    [62, 66]
+
+  17391715:
+    template: Orcish_Dreadnought
+    at:       [22.502, -1.988, -101.444, 184]
+    level:    [63, 66]
+
+  17391716:
+    template: Orcish_Champion
+    at:       [24.596, -2.181, -98.579, 153]
+    level:    [64, 68]
+
+  17391717:
+    template: Orcish_Dragoon
+    at:       [21.559, -1.860, -99.633, 135]
+    level:    [65, 69]
+
+  17391718:
+    template: Orcish_Farkiller
+    at:       [55.384, -1.069, -144.357, 251]
+    level:    [62, 66]
+
+  17391719:
+    template: Orcish_Dreadnought
+    level:    [63, 66]
+    region:   monastic_cavern_c_2
+
+  17391720:
+    template: Orcish_Champion
+    level:    [64, 68]
+    region:   monastic_cavern_c_2
+
+  17391721:
+    template: Orcish_Dragoon
+    level:    [65, 69]
+    region:   monastic_cavern_c_2
+
+  17391722:
+    template: Orcish_Farkiller
+    level:    [62, 72]
+    region:   monastic_cavern_c_2
+
+  17391723:
+    template: Orcish_Dreadnought
+    level:    [63, 66]
+    region:   monastic_cavern_c_2
+
+  17391724:
+    template: Orcish_Champion
+    level:    [64, 68]
+    region:   monastic_cavern_c_2
+
+  17391725:
+    template: Orcish_Dragoon
+    level:    [65, 69]
+    region:   monastic_cavern_c_2
+
+  17391726:
+    template: Orcish_Dreadnought
+    at:       [99.713, -2.887, -147.105, 60]
+    level:    [63, 66]
+
+  17391727:
+    template: Orcish_Warlord
+    at:       [98.262, -1.442, -136.775, 171]
+    level:    [72, 74]
+
+  17391728:
+    template: Orcish_Farkiller
+    at:       [81.612, -0.871, -95.945, 198]
+    level:    [62, 66]
+
+  17391729:
+    template: Orcish_Dreadnought
+    at:       [80.109, -0.729, -96.661, 6]
+    level:    [63, 66]
+
+  17391730:
+    template: Orcish_Champion
+    level:    [64, 72]
+    region:   monastic_cavern_c_3
+
+  17391731:
+    template: Orcish_Dragoon
+    level:    [66, 69]
+    region:   monastic_cavern_c_3
+
+  17391732:
+    template: Orcish_Farkiller
+    at:       [92.288, -0.902, -104.923, 6]
+    level:    [62, 66]
+
+  17391733:
+    template: Orcish_Dreadnought
+    level:    [63, 66]
+    region:   monastic_cavern_c_3
+
+  17391734:
+    template: Orcish_Champion
+    level:    [64, 68]
+    region:   monastic_cavern_c_3
+
+  17391735:
+    template: Orcish_Dragoon
+    at:       [92.876, -0.875, -101.838, 41]
+    level:    [66, 69]
+
+  17391736:
+    template: Orcish_Farkiller
+    at:       [43.769, -9.097, -180.992, 130]
+    level:    [62, 66]
+
+  17391737:
+    template: Orcish_Dreadnought
+    at:       [34.779, -7.472, -180.575, 157]
+    level:    [63, 66]
+
+  17391738:
+    template: Orcish_Champion
+    level:    [64, 68]
+    region:   monastic_cavern_w_6
+
+  17391739:
+    template: Orcish_Dragoon
+    level:    [66, 69]
+    region:   monastic_cavern_w_6
+
+  17391740:
+    template: Orcish_Farkiller
+    level:    [62, 66]
+    region:   monastic_cavern_w_6
+
+  17391741:
+    template: Orcish_Dreadnought
+    at:       [25.838, -5.137, -182.017, 142]
+    level:    [63, 66]
+
+  17391742:
+    template: Orcish_Champion
+    at:       [22.331, -4.146, -177.930, 166]
+    level:    [64, 68]
+
+  17391743:
+    template: Orcish_Dragoon
+    at:       [20.194, -3.432, -173.901, 165]
+    level:    [66, 69]
+
+  17391744:
+    template: Orcish_Farkiller
+    at:       [220.928, -0.848, -197.194, 148]
+    level:    [69, 71]
+
+  17391745:
+    template: Orcish_Dreadnought
+    level:    [63, 72]
+    region:   monastic_cavern_e_5
+
+  17391746:
+    template: Orcish_Champion
+    at:       [218.908, -1.422, -205.988, 62]
+    level:    [69, 71]
+
+  17391747:
+    template: Orcish_Dragoon
+    at:       [224.811, -5.600, -224.852, 74]
+    level:    [65, 72]
+
+  17391748:
+    template: Orcish_Farkiller
+    at:       [222.677, -6.877, -231.554, 141]
+    level:    [62, 72]
+
+  17391749:
+    template: Orcish_Dreadnought
+    at:       [221.210, -0.683, -200.278, 211]
+    level:    [69, 71]
+
+  17391750:
+    template: Orcish_Champion
+    at:       [221.348, -1.186, -203.037, 84]
+    level:    [69, 71]
+
+  17391751:
+    template: Orcish_Dragoon
+    level:    [69, 71]
+    region:   monastic_cavern_e_5
+
+  17391752:
+    template: Orcish_Farkiller
+    level:    [69, 71]
+    region:   monastic_cavern_e_4
+
+  17391753:
+    template: Orcish_Dreadnought
+    at:       [213.123, -1.009, -177.874, 84]
+    level:    [69, 71]
+
+  17391754:
+    template: Orcish_Champion
+    at:       [232.275, -1.189, -173.161, 223]
+    level:    [69, 71]
+
+  17391755:
+    template: Orcish_Dragoon
+    at:       [225.830, -1.198, -178.593, 60]
+    level:    [69, 71]
+
+  17391756:
+    template: Orcish_Farkiller
+    level:    [69, 71]
+    region:   monastic_cavern_e_4
+
+  17391757:
+    template: Orcish_Dreadnought
+    at:       [219.006, -0.924, -167.484, 9]
+    level:    [69, 71]
+
+  17391758:
+    template: Orcish_Champion
+    at:       [222.655, -0.905, -203.161, 100]
+    level:    [69, 71]
+
+  17391759:
+    template: Orcish_Dragoon
+    level:    [69, 71]
+    region:   monastic_cavern_e_4
+
+  17391760:
+    template: Orcish_Protector
+    level:    [70, 72]
+    region:   monastic_cavern_e_2
+
+  17391761:
+    template: Orcish_Farkiller
+    at:       [241.359, -0.677, -132.041, 77]
+    level:    [69, 71]
+
+  17391762:
+    template: Orcish_Dreadnought
+    level:    [71, 72]
+    region:   monastic_cavern_e_2
+
+  17391763:
+    template: Orcish_Champion
+    at:       [208.955, -0.824, -128.572, 149]
+    level:    [64, 72]
+
+  17391764:
+    template: Orcish_Dragoon
+    at:       [217.739, -1.166, -123.409, 233]
+    level:    [69, 71]
+
+  17391765:
+    template: Orcish_Hexspinner
+    level:    [71, 73]
+    region:   monastic_cavern_e_3
+
+  17391766:
+    template: Orcish_Warlord
+    level:    [72, 74]
+    region:   monastic_cavern_e_3
+
+  17391767:
+    template: Orcish_Protector
+    level:    [70, 72]
+    region:   monastic_cavern_e_6
+
+  17391768:
+    template: Orcish_Farkiller
+    at:       [235.825, -0.745, -117.973, 129]
+    level:    [71, 72]
+
+  17391769:
+    template: Orcish_Dreadnought
+    level:    [63, 72]
+    region:   monastic_cavern_e_6
+
+  17391770:
+    template: Orcish_Champion
+    at:       [249.886, -0.778, -124.493, 131]
+    level:    [70, 72]
+
+  17391771:
+    template: Orcish_Dragoon
+    level:    [71, 72]
+    region:   monastic_cavern_e_6
+
+  17391772:
+    template: Orcish_Protector
+    level:    [70, 72]
+    region:   monastic_cavern_e
+
+  17391773:
+    template: Orcish_Farkiller
+    at:       [199.618, -0.749, -64.813, 80]
+    level:    [71, 72]
+
+  17391774:
+    template: Orcish_Dreadnought
+    at:       [194.198, -1.003, -108.366, 180]
+    level:    [71, 72]
+
+  17391775:
+    template: Orcish_Champion
+    level:    [70, 72]
+    region:   monastic_cavern_e
+
+  17391776:
+    template: Orcish_Dragoon
+    level:    [71, 72]
+    region:   monastic_cavern_e
+
+  17391777:
+    template: Orcish_Protector
+    level:    [70, 72]
+    region:   monastic_cavern_ne_3
+
+  17391778:
+    template: Orcish_Farkiller
+    at:       [242.406, -0.629, -79.450, 15]
+    level:    [71, 72]
+
+  17391779:
+    template: Orcish_Dreadnought
+    at:       [240.298, -0.744, -84.671, 61]
+    level:    [71, 72]
+
+  17391780:
+    template: Orcish_Champion
+    at:       [222.989, -0.610, -77.507, 223]
+    level:    [70, 72]
+
+  17391781:
+    template: Orcish_Dragoon
+    level:    [71, 72]
+    region:   monastic_cavern_ne_3
+
+  17391782:
+    template: Orcish_Veteran
+    level:    [52, 56]
+    region:   monastic_cavern_ne
+
+  17391783:
+    template: Orcish_Warchief
+    level:    [55, 59]
+    region:   monastic_cavern_ne
+
+  17391784:
+    template: Orcish_Bowshooter
+    level:    [42, 46]
+    region:   monastic_cavern_ne_2
+
+  17391785:
+    template: Orcish_Footsoldier
+    at:       [215.919, 2.843, 36.822, 127]
+    level:    [44, 44]
+
+  17391786:
+    template: Orcish_Gladiator
+    at:       [187.672, 3.178, 42.389, 31]
+    level:    [44, 48]
+
+  17391787:
+    template: Orcish_Trooper
+    at:       [205.474, 2.743, 53.839, 9]
+    level:    [45, 49]
+
+  17391788:
+    template: Orcish_Bowshooter
+    at:       [211.466, 2.336, 30.112, 127]
+    level:    [42, 46]
+
+  17391789:
+    template: Orcish_Footsoldier
+    level:    [43, 47]
+    region:   monastic_cavern_ne_2
+
+  17391790:
+    template: Orcish_Gladiator
+    at:       [223.121, 3.171, 59.435, 244]
+    level:    [44, 48]
+
+  17391791:
+    template: Orcish_Trooper
+    level:    [45, 49]
+    region:   monastic_cavern_ne_2
+
+  17391792:
+    template: Orcish_Predator
+    level:    [53, 57]
+    region:   monastic_cavern_ne_2
+
+  17391793:
+    template: Orcish_Zerker
+    at:       [209.725, 2.913, 49.915, 237]
+    level:    [54, 58]
+
+  17391794:
+    template: Orcish_Bowshooter
+    at:       [237.257, 3.250, 58.883, 234]
+    level:    [42, 46]
+
+  17391795:
+    template: Orcish_Footsoldier
+    at:       [258.173, -4.649, 41.105, 62]
+    level:    [43, 47]
+
+  17391796:
+    template: Orcish_Gladiator
+    at:       [233.083, 3.300, 60.691, 226]
+    level:    [47, 48]
+
+  17391797:
+    template: Orcish_Trooper
+    level:    [45, 49]
+    region:   monastic_cavern_ne_4
+
+  17391798:
+    template: Orcish_Bowshooter
+    at:       [229.114, 3.067, 59.170, 184]
+    level:    [42, 46]
+
+  17391799:
+    template: Orcish_Footsoldier
+    at:       [247.386, 2.219, 62.000, 3]
+    level:    [43, 47]
+
+  17391800:
+    template: Orcish_Gladiator
+    level:    [44, 48]
+    region:   monastic_cavern_ne_4
+
+  17391801:
+    template: Orcish_Trooper
+    at:       [245.068, 2.735, 60.426, 238]
+    level:    [45, 49]
+
+  17391802:
+    template: Orcish_Overlord
+    at:       [218.046, -3.017, -101.239, 58]
+    level:    [75, 75]
+
+  17391803:
+    template: Overlord_Bakgodek
+    at:       [225.168, -2.974, -110.339, 29]
+    level:    [85, 85]
+
+  17391804:
+    template: Bugaboo
+    at:       [107.583, -2.060, -144.100, 162]
+    level:    [63, 63]
+
+  17391805:
+    template: Mimic
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [60, 60]
+
+  17391806:
+    template: Orcish_Overlord
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 75]
+
+  17391807:
+    template: Chillgaze_Foddrud
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [69, 75]
+
+  17391808:
+    template: Rictusgrin_Prakpok
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [69, 75]
+
+  17391809:
+    template: Siegebreaker_Wujroj
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [69, 75]
+
+  17391810:
+    template: Shatterskull_Mippdapp
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [69, 75]
+
+  17391811:
+    template: Grimbolt_Onkzok
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [69, 75]
+
+  17391812:
+    template: Sevenskewer_Krugglug
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [69, 75]

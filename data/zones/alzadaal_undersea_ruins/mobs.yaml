@@ -1,0 +1,728 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17072129:
+    template: Nepionic_Soulflayer
+    at:       [-527.222, -0.050, 648.291, 183]
+    level:    [66, 66]
+
+  17072130:
+    template: Qiqirn_Poulterer
+    level:    [76, 78]
+    region:   alzadaal_undersea_ruins_c_10
+
+  17072131:
+    template: Qiqirn_Goldsmith
+    level:    [76, 78]
+    region:   alzadaal_undersea_ruins_c_10
+
+  17072132:
+    template: Qiqirn_Mine
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 75]
+
+  17072133:
+    template: Boompadu
+    level:    [82, 82]
+    region:   alzadaal_undersea_ruins_c_10
+
+  17072134:
+    template: Qiqirn_Poulterer
+    level:    [76, 78]
+    region:   alzadaal_undersea_ruins_c_8
+
+  17072135:
+    template: Qiqirn_Poulterer
+    level:    [76, 78]
+    region:   alzadaal_undersea_ruins_c_8
+
+  17072136:
+    template: Qiqirn_Goldsmith
+    level:    [76, 78]
+    region:   alzadaal_undersea_ruins_c_8
+
+  17072137:
+    template: Qiqirn_Mine
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 75]
+
+  17072138:
+    template: Qiqirn_Goldsmith
+    level:    [76, 78]
+    region:   alzadaal_undersea_ruins_c_5
+
+  17072139:
+    template: Qiqirn_Mine
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 75]
+
+  17072140:
+    template: Qiqirn_Goldsmith
+    level:    [76, 78]
+    region:   alzadaal_undersea_ruins_c_5
+
+  17072141:
+    template: Qiqirn_Mine
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 75]
+
+  17072142:
+    template: Qiqirn_Goldsmith
+    level:    [76, 78]
+    region:   alzadaal_undersea_ruins_c_3
+
+  17072143:
+    template: Qiqirn_Mine
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 75]
+
+  17072144:
+    template: Qiqirn_Goldsmith
+    level:    [76, 78]
+    region:   alzadaal_undersea_ruins_c_3
+
+  17072145:
+    template: Qiqirn_Mine
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 75]
+
+  17072146:
+    template: Qiqirn_Poulterer
+    level:    [76, 78]
+    region:   alzadaal_undersea_ruins_c_3
+
+  17072147:
+    template: Qiqirn_Poulterer
+    level:    [76, 78]
+    region:   alzadaal_undersea_ruins_c
+
+  17072148:
+    template: Qiqirn_Goldsmith
+    at:       [-171.052, -8.343, 59.996, 222]
+    level:    [76, 78]
+
+  17072149:
+    template: Qiqirn_Mine
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 75]
+
+  17072150:
+    template: Cookieduster_Lipiroon
+    at:       [-105.000, -8.000, 94.000, 60]
+    level:    [80, 82]
+
+  17072151:
+    template: Qiqirn_Poulterer
+    level:    [76, 78]
+    region:   alzadaal_undersea_ruins_c_2
+
+  17072152:
+    template: Qiqirn_Goldsmith
+    level:    [76, 78]
+    region:   alzadaal_undersea_ruins_c_2
+
+  17072153:
+    template: Qiqirn_Mine
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 75]
+
+  17072154:
+    template: Qiqirn_Goldsmith
+    level:    [76, 78]
+    region:   alzadaal_undersea_ruins_c_4
+
+  17072155:
+    template: Qiqirn_Mine
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 75]
+
+  17072156:
+    template: Qiqirn_Goldsmith
+    level:    [76, 78]
+    region:   alzadaal_undersea_ruins_c_4
+
+  17072157:
+    template: Qiqirn_Mine
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 75]
+
+  17072158:
+    template: Qiqirn_Poulterer
+    level:    [76, 78]
+    region:   alzadaal_undersea_ruins_c_4
+
+  17072159:
+    template: Qiqirn_Goldsmith
+    level:    [76, 78]
+    region:   alzadaal_undersea_ruins_c_6
+
+  17072160:
+    template: Qiqirn_Mine
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 75]
+
+  17072161:
+    template: Qiqirn_Goldsmith
+    level:    [76, 78]
+    region:   alzadaal_undersea_ruins_c_6
+
+  17072162:
+    template: Qiqirn_Mine
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 75]
+
+  17072163:
+    template: Qiqirn_Goldsmith
+    level:    [76, 78]
+    region:   alzadaal_undersea_ruins_c_7
+
+  17072164:
+    template: Qiqirn_Mine
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 75]
+
+  17072165:
+    template: Qiqirn_Poulterer
+    level:    [76, 78]
+    region:   alzadaal_undersea_ruins_c_7
+
+  17072166:
+    template: Qiqirn_Poulterer
+    level:    [76, 78]
+    region:   alzadaal_undersea_ruins_c_7
+
+  17072167:
+    template: Qiqirn_Poulterer
+    level:    [76, 78]
+    region:   alzadaal_undersea_ruins_c_9
+
+  17072168:
+    template: Qiqirn_Goldsmith
+    level:    [76, 78]
+    region:   alzadaal_undersea_ruins_c_9
+
+  17072169:
+    template: Qiqirn_Mine
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 75]
+
+  17072170:
+    template: Oupire
+    level:    [85, 85]
+    region:   alzadaal_undersea_ruins_c_9
+
+  17072171:
+    template: Ob
+    at:       [552.914, -0.112, -135.001, 50]
+    level:    [78, 80]
+
+  17072172:
+    template: Cheese_Hoarder_Gigiroon
+    at:       [-184.112, -8.105, 24.555, 26]
+    level:    [80, 82]
+
+  17072173:
+    template: Qiqirn_Mine
+    at:       [-99.441, -8.499, 30.888, 217]
+    level:    [75, 75]
+
+  17072174:
+    template: Qiqirn_Mine
+    at:       [-100.259, -9.000, 25.517, 191]
+    level:    [75, 75]
+
+  17072175:
+    template: Qiqirn_Mine
+    at:       [-144.175, -8.450, 63.390, 224]
+    level:    [75, 75]
+
+  17072176:
+    template: Qiqirn_Mine
+    at:       [-174.429, -8.500, 67.694, 13]
+    level:    [75, 75]
+
+  17072177:
+    template: Qiqirn_Mine
+    at:       [-176.807, -8.449, 73.492, 65]
+    level:    [75, 75]
+
+  17072178:
+    template: Armed_Gears
+    at:       [-19.957, -4.000, -182.656, 188]
+    level:    [86, 88]
+
+  17072179:
+    template: Wulgaru
+    at:       [-22.265, -4.449, 204.588, 114]
+    level:    [80, 82]
+
+  17072180:
+    template: Vidmapire
+    at:       [-96.282, -8.449, 110.278, 122]
+    level:    [99, 99]
+
+  17072181:
+    template: Vidmapire
+    at:       [-113.000, -8.500, -73.000, 176]
+    level:    [99, 99]
+
+  17072182:
+    template: Vidmapire
+    at:       [73.000, -4.500, -73.000, 121]
+    level:    [99, 99]
+
+  17072187:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_ne
+
+  17072188:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_ne
+
+  17072189:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_ne
+
+  17072190:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_ne
+
+  17072191:
+    template: Apex_Archaic_Cogs
+    level:    [145, 147]
+    region:   alzadaal_undersea_ruins_ne
+
+  17072192:
+    template: Apex_Archaic_Cogs
+    level:    [145, 147]
+    region:   alzadaal_undersea_ruins_ne
+
+  17072193:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_ne_2
+
+  17072194:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_ne_2
+
+  17072195:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_ne_2
+
+  17072196:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_ne_2
+
+  17072197:
+    template: Apex_Archaic_Cogs
+    level:    [145, 147]
+    region:   alzadaal_undersea_ruins_ne_2
+
+  17072198:
+    template: Apex_Archaic_Cogs
+    level:    [145, 147]
+    region:   alzadaal_undersea_ruins_ne_2
+
+  17072199:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_ne_3
+
+  17072200:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_ne_3
+
+  17072201:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_ne_3
+
+  17072202:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_ne_3
+
+  17072203:
+    template: Apex_Archaic_Cogs
+    level:    [145, 147]
+    region:   alzadaal_undersea_ruins_ne_3
+
+  17072204:
+    template: Apex_Archaic_Cogs
+    level:    [145, 147]
+    region:   alzadaal_undersea_ruins_ne_3
+
+  17072205:
+    template: Apex_Archaic_Cog
+    at:       [-314.605, -0.499, 431.665, 95]
+    level:    [143, 145]
+
+  17072206:
+    template: Apex_Archaic_Cog
+    at:       [-312.236, -0.500, 430.446, 10]
+    level:    [143, 145]
+
+  17072207:
+    template: Apex_Archaic_Cog
+    at:       [-326.004, -0.498, 447.047, 164]
+    level:    [143, 145]
+
+  17072208:
+    template: Apex_Archaic_Cog
+    at:       [-317.756, -0.499, 447.952, 254]
+    level:    [143, 145]
+
+  17072209:
+    template: Apex_Archaic_Cogs
+    at:       [-326.465, -0.498, 440.917, 168]
+    level:    [145, 147]
+
+  17072210:
+    template: Apex_Archaic_Cogs
+    at:       [-314.631, -0.463, 433.902, 161]
+    level:    [145, 147]
+
+  17072211:
+    template: Apex_Archaic_Cog
+    at:       [-331.641, -0.500, 205.144, 180]
+    level:    [143, 145]
+
+  17072212:
+    template: Apex_Archaic_Cog
+    at:       [-322.911, -0.499, 194.130, 248]
+    level:    [143, 145]
+
+  17072213:
+    template: Apex_Archaic_Cog
+    at:       [-313.393, -0.499, 193.689, 140]
+    level:    [143, 145]
+
+  17072214:
+    template: Apex_Archaic_Cog
+    at:       [-321.926, -0.500, 193.051, 229]
+    level:    [143, 145]
+
+  17072215:
+    template: Apex_Archaic_Cogs
+    at:       [-313.735, -0.500, 199.578, 215]
+    level:    [145, 147]
+
+  17072216:
+    template: Apex_Archaic_Cogs
+    at:       [-322.283, -0.500, 188.495, 14]
+    level:    [145, 147]
+
+  17072217:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_sw_5
+
+  17072218:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_sw_5
+
+  17072219:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_sw_5
+
+  17072220:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_sw_5
+
+  17072221:
+    template: Apex_Archaic_Cogs
+    level:    [145, 147]
+    region:   alzadaal_undersea_ruins_sw_5
+
+  17072222:
+    template: Apex_Archaic_Cogs
+    level:    [145, 147]
+    region:   alzadaal_undersea_ruins_sw_5
+
+  17072223:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_sw_2
+
+  17072224:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_sw_2
+
+  17072225:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_sw_2
+
+  17072226:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_sw_2
+
+  17072227:
+    template: Apex_Archaic_Cogs
+    level:    [145, 147]
+    region:   alzadaal_undersea_ruins_sw_2
+
+  17072228:
+    template: Apex_Archaic_Cogs
+    level:    [145, 147]
+    region:   alzadaal_undersea_ruins_sw_2
+
+  17072229:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_sw_4
+
+  17072230:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_sw_4
+
+  17072231:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_sw_4
+
+  17072232:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_sw_4
+
+  17072233:
+    template: Apex_Archaic_Cogs
+    level:    [145, 147]
+    region:   alzadaal_undersea_ruins_sw_4
+
+  17072234:
+    template: Apex_Archaic_Cogs
+    level:    [145, 147]
+    region:   alzadaal_undersea_ruins_sw_4
+
+  17072235:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_sw_6
+
+  17072236:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_sw_6
+
+  17072237:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_sw_6
+
+  17072238:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_sw_6
+
+  17072239:
+    template: Apex_Archaic_Cogs
+    level:    [145, 147]
+    region:   alzadaal_undersea_ruins_sw_6
+
+  17072240:
+    template: Apex_Archaic_Cogs
+    level:    [145, 147]
+    region:   alzadaal_undersea_ruins_sw_6
+
+  17072241:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_sw_3
+
+  17072242:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_sw_3
+
+  17072243:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_sw_3
+
+  17072244:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_sw_3
+
+  17072245:
+    template: Apex_Archaic_Cogs
+    level:    [145, 147]
+    region:   alzadaal_undersea_ruins_sw_3
+
+  17072246:
+    template: Apex_Archaic_Cogs
+    level:    [145, 147]
+    region:   alzadaal_undersea_ruins_sw_3
+
+  17072247:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_sw
+
+  17072248:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_sw
+
+  17072249:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_sw
+
+  17072250:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_sw
+
+  17072251:
+    template: Apex_Archaic_Cogs
+    level:    [145, 147]
+    region:   alzadaal_undersea_ruins_sw
+
+  17072252:
+    template: Apex_Archaic_Cogs
+    level:    [145, 147]
+    region:   alzadaal_undersea_ruins_sw
+
+  17072253:
+    template: Apex_Archaic_Cog
+    at:       [-197.591, -0.492, -603.293, 89]
+    level:    [143, 145]
+
+  17072254:
+    template: Apex_Archaic_Cog
+    at:       [-202.397, -0.495, -598.595, 134]
+    level:    [143, 145]
+
+  17072255:
+    template: Apex_Archaic_Cog
+    at:       [-200.350, -0.482, -604.649, 249]
+    level:    [143, 145]
+
+  17072256:
+    template: Apex_Archaic_Cog
+    at:       [-188.669, -0.500, -602.439, 45]
+    level:    [143, 145]
+
+  17072257:
+    template: Apex_Archaic_Cogs
+    at:       [-191.177, -0.499, -592.292, 141]
+    level:    [145, 147]
+
+  17072258:
+    template: Apex_Archaic_Cogs
+    at:       [-208.435, -0.490, -604.011, 139]
+    level:    [145, 147]
+
+  17072259:
+    template: Apex_Archaic_Cog
+    at:       [171.770, -0.499, -560.478, 198]
+    level:    [144, 144]
+
+  17072260:
+    template: Apex_Archaic_Cog
+    at:       [160.076, -0.499, -556.274, 217]
+    level:    [143, 143]
+
+  17072261:
+    template: Apex_Archaic_Cog
+    at:       [171.329, -0.499, -567.148, 234]
+    level:    [145, 145]
+
+  17072262:
+    template: Apex_Archaic_Cog
+    at:       [162.644, -0.500, -548.256, 131]
+    level:    [143, 143]
+
+  17072263:
+    template: Apex_Archaic_Cogs
+    at:       [164.895, -0.461, -555.243, 234]
+    level:    [147, 147]
+
+  17072264:
+    template: Apex_Archaic_Cogs
+    at:       [165.510, -0.483, -561.770, 204]
+    level:    [147, 147]
+
+  17072265:
+    template: Apex_Archaic_Cog
+    at:       [447.313, -0.499, -590.178, 137]
+    level:    [143, 145]
+
+  17072266:
+    template: Apex_Archaic_Cog
+    at:       [449.800, -0.497, -598.477, 198]
+    level:    [143, 145]
+
+  17072267:
+    template: Apex_Archaic_Cog
+    at:       [429.488, -0.491, -606.614, 88]
+    level:    [143, 145]
+
+  17072268:
+    template: Apex_Archaic_Cog
+    at:       [432.792, -0.457, -607.170, 44]
+    level:    [143, 145]
+
+  17072269:
+    template: Apex_Archaic_Cogs
+    at:       [445.369, -0.466, -599.921, 225]
+    level:    [145, 147]
+
+  17072270:
+    template: Apex_Archaic_Cogs
+    at:       [448.738, -0.499, -601.692, 34]
+    level:    [145, 147]
+
+  17072271:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_se
+
+  17072272:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_se
+
+  17072273:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_se
+
+  17072274:
+    template: Apex_Archaic_Cog
+    level:    [143, 145]
+    region:   alzadaal_undersea_ruins_se
+
+  17072275:
+    template: Apex_Archaic_Cogs
+    level:    [145, 147]
+    region:   alzadaal_undersea_ruins_se
+
+  17072276:
+    template: Apex_Archaic_Cogs
+    level:    [145, 147]
+    region:   alzadaal_undersea_ruins_se
+
+  17072277:
+    template: Alexander
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]

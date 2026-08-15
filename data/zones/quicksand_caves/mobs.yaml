@@ -1,0 +1,2368 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17629185:
+    template: Valor
+    at:       [572.037, 22.212, -940.621, 117]
+    level:    [70, 70]
+
+  17629186:
+    template: Honor
+    at:       [576.066, 22.890, -935.485, 117]
+    level:    [70, 70]
+
+  17629187:
+    template: Centurio_IV-VII
+    at:       [-468.000, 0.001, 625.000, 27]
+    level:    [70, 70]
+
+  17629188:
+    template: Triarius_IV-XIV
+    at:       [-468.000, 0.001, 617.000, 240]
+    level:    [70, 70]
+
+  17629189:
+    template: Princeps_IV-XLV
+    at:       [-468.000, 0.001, 620.000, 27]
+    level:    [70, 70]
+
+  17629190:
+    template: Mimic
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [55, 55]
+
+  17629191:
+    template: Sand_Spider
+    at:       [939.385, -8.785, -302.224, 127]
+    level:    [51, 55]
+
+  17629192:
+    template: Sand_Spider
+    level:    [51, 55]
+    region:   quicksand_caves_e_2
+
+  17629193:
+    template: Sand_Spider
+    level:    [51, 55]
+    region:   quicksand_caves_e_2
+
+  17629194:
+    template: Helm_Beetle
+    level:    [51, 54]
+    region:   quicksand_caves_e_2
+
+  17629195:
+    template: Helm_Beetle
+    level:    [51, 54]
+    region:   quicksand_caves_e_2
+
+  17629196:
+    template: Sand_Spider
+    at:       [858.844, -8.244, -355.697, 127]
+    level:    [51, 55]
+
+  17629197:
+    template: Sand_Spider
+    level:    [51, 55]
+    region:   quicksand_caves_se_28
+
+  17629198:
+    template: Sand_Spider
+    level:    [51, 55]
+    region:   quicksand_caves_se_28
+
+  17629199:
+    template: Helm_Beetle
+    level:    [51, 54]
+    region:   quicksand_caves_se_28
+
+  17629200:
+    template: Helm_Beetle
+    level:    [51, 54]
+    region:   quicksand_caves_se_28
+
+  17629201:
+    template: Sand_Spider
+    level:    [51, 55]
+    region:   quicksand_caves_se_27
+
+  17629202:
+    template: Helm_Beetle
+    level:    [51, 54]
+    region:   quicksand_caves_se_27
+
+  17629203:
+    template: Antican_Hastatus
+    level:    [52, 55]
+    region:   quicksand_caves_se_27
+
+  17629204:
+    template: Antican_Princeps
+    level:    [52, 55]
+    region:   quicksand_caves_se_27
+
+  17629205:
+    template: Antican_Signifer
+    level:    [52, 55]
+    region:   quicksand_caves_se_27
+
+  17629206:
+    template: Sand_Eater
+    at:       [828.146, -5.599, -458.059, 123]
+    level:    [51, 54]
+
+  17629207:
+    template: Sand_Eater
+    level:    [51, 54]
+    region:   quicksand_caves_se_19
+
+  17629208:
+    template: Sand_Eater
+    level:    [51, 54]
+    region:   quicksand_caves_se_19
+
+  17629209:
+    template: Antican_Hastatus
+    level:    [52, 55]
+    region:   quicksand_caves_se_19
+
+  17629210:
+    template: Antican_Princeps
+    level:    [52, 55]
+    region:   quicksand_caves_se_19
+
+  17629211:
+    template: Antican_Signifer
+    level:    [52, 55]
+    region:   quicksand_caves_se_19
+
+  17629212:
+    template: Antican_Hastatus
+    level:    [52, 55]
+    region:   quicksand_caves_se_15
+
+  17629213:
+    template: Antican_Princeps
+    level:    [52, 55]
+    region:   quicksand_caves_se_15
+
+  17629214:
+    template: Antican_Signifer
+    level:    [52, 55]
+    region:   quicksand_caves_se_15
+
+  17629215:
+    template: Helm_Beetle
+    level:    [51, 54]
+    region:   quicksand_caves_se_15
+
+  17629216:
+    template: Helm_Beetle
+    level:    [51, 54]
+    region:   quicksand_caves_se_15
+
+  17629217:
+    template: Helm_Beetle
+    at:       [768.221, -0.677, -419.689, 0]
+    level:    [51, 54]
+
+  17629218:
+    template: Antican_Princeps
+    at:       [701.360, -0.474, -442.031, 127]
+    level:    [52, 55]
+
+  17629219:
+    template: Helm_Beetle
+    at:       [635.025, -0.803, -419.127, 127]
+    level:    [51, 54]
+
+  17629220:
+    template: Helm_Beetle
+    level:    [51, 54]
+    region:   quicksand_caves_se_13
+
+  17629221:
+    template: Helm_Beetle
+    level:    [51, 54]
+    region:   quicksand_caves_se_13
+
+  17629222:
+    template: Sand_Spider
+    level:    [51, 55]
+    region:   quicksand_caves_se_26
+
+  17629223:
+    template: Sand_Eater
+    level:    [51, 54]
+    region:   quicksand_caves_se_26
+
+  17629224:
+    template: Sand_Eater
+    level:    [51, 54]
+    region:   quicksand_caves_se_26
+
+  17629225:
+    template: Antican_Hastatus
+    level:    [52, 55]
+    region:   quicksand_caves_se_26
+
+  17629226:
+    template: Antican_Princeps
+    level:    [52, 55]
+    region:   quicksand_caves_se_26
+
+  17629227:
+    template: Antican_Signifer
+    level:    [52, 55]
+    region:   quicksand_caves_se_26
+
+  17629228:
+    template: Sand_Spider
+    level:    [51, 55]
+    region:   quicksand_caves_se_23
+
+  17629229:
+    template: Sand_Eater
+    level:    [52, 55]
+    region:   quicksand_caves_se_23
+
+  17629230:
+    template: Antican_Hastatus
+    level:    [52, 55]
+    region:   quicksand_caves_se_23
+
+  17629231:
+    template: Antican_Princeps
+    level:    [52, 55]
+    region:   quicksand_caves_se_23
+
+  17629232:
+    template: Antican_Signifer
+    at:       [802.116, 1.553, -561.101, 119]
+    level:    [52, 55]
+
+  17629233:
+    template: Sand_Spider
+    level:    [51, 55]
+    region:   quicksand_caves_se_18
+
+  17629234:
+    template: Sand_Eater
+    level:    [52, 55]
+    region:   quicksand_caves_se_18
+
+  17629235:
+    template: Antican_Hastatus
+    level:    [52, 55]
+    region:   quicksand_caves_se_18
+
+  17629236:
+    template: Antican_Princeps
+    level:    [52, 55]
+    region:   quicksand_caves_se_18
+
+  17629237:
+    template: Antican_Signifer
+    at:       [773.581, 1.576, -568.904, 61]
+    level:    [52, 55]
+
+  17629238:
+    template: Centurio_X-I
+    level:    [56, 58]
+    region:   quicksand_caves_se_18
+
+  17629239:
+    template: Sand_Spider
+    at:       [726.073, 0.260, -542.381, 75]
+    level:    [51, 55]
+
+  17629240:
+    template: Antican_Hastatus
+    level:    [52, 55]
+    region:   quicksand_caves_se_16
+
+  17629241:
+    template: Antican_Princeps
+    level:    [52, 55]
+    region:   quicksand_caves_se_16
+
+  17629242:
+    template: Antican_Signifer
+    level:    [52, 55]
+    region:   quicksand_caves_se_16
+
+  17629243:
+    template: Antican_Hastatus
+    level:    [52, 55]
+    region:   quicksand_caves_se_16
+
+  17629244:
+    template: Antican_Princeps
+    level:    [52, 55]
+    region:   quicksand_caves_se_16
+
+  17629245:
+    template: Sand_Spider
+    level:    [51, 55]
+    region:   quicksand_caves_se_16
+
+  17629246:
+    template: Sand_Eater
+    at:       [674.982, 2.683, -577.115, 127]
+    level:    [52, 55]
+
+  17629247:
+    template: Sand_Spider
+    level:    [51, 55]
+    region:   quicksand_caves_se_9
+
+  17629248:
+    template: Sand_Spider
+    level:    [51, 55]
+    region:   quicksand_caves_se_9
+
+  17629249:
+    template: Sand_Spider
+    level:    [51, 55]
+    region:   quicksand_caves_se_9
+
+  17629250:
+    template: Sand_Eater
+    level:    [52, 55]
+    region:   quicksand_caves_se_9
+
+  17629251:
+    template: Sand_Eater
+    level:    [52, 55]
+    region:   quicksand_caves_se_9
+
+  17629252:
+    template: Antican_Hastatus
+    level:    [52, 55]
+    region:   quicksand_caves_se_12
+
+  17629253:
+    template: Antican_Princeps
+    level:    [52, 55]
+    region:   quicksand_caves_se_12
+
+  17629254:
+    template: Antican_Signifer
+    level:    [52, 55]
+    region:   quicksand_caves_se_12
+
+  17629255:
+    template: Sabotender_Bailaor
+    level:    [52, 55]
+    region:   quicksand_caves_se_12
+
+  17629256:
+    template: Sabotender_Bailaor
+    level:    [52, 55]
+    region:   quicksand_caves_se_12
+
+  17629257:
+    template: Sand_Eater
+    level:    [52, 55]
+    region:   quicksand_caves_se_12
+
+  17629258:
+    template: Antican_Hastatus
+    level:    [52, 55]
+    region:   quicksand_caves_se_10
+
+  17629259:
+    template: Antican_Princeps
+    level:    [52, 55]
+    region:   quicksand_caves_se_10
+
+  17629260:
+    template: Antican_Signifer
+    level:    [52, 55]
+    region:   quicksand_caves_se_10
+
+  17629261:
+    template: Sabotender_Bailaor
+    level:    [52, 55]
+    region:   quicksand_caves_se_10
+
+  17629262:
+    template: Sabotender_Bailaor
+    level:    [52, 55]
+    region:   quicksand_caves_se_10
+
+  17629263:
+    template: Sand_Eater
+    level:    [52, 55]
+    region:   quicksand_caves_se_10
+
+  17629264:
+    template: Sabotender_Bailarin
+    at:       [595.735, -6.420, -680.738, 100]
+    level:    [59, 61]
+
+  17629265:
+    template: Sabotender_Bailaor
+    level:    [52, 55]
+    region:   quicksand_caves_se_8
+
+  17629266:
+    template: Sabotender_Bailaor
+    level:    [52, 55]
+    region:   quicksand_caves_se_8
+
+  17629267:
+    template: Sand_Eater
+    level:    [52, 55]
+    region:   quicksand_caves_se_8
+
+  17629268:
+    template: Sand_Eater
+    level:    [52, 55]
+    region:   quicksand_caves_se_22
+
+  17629269:
+    template: Sand_Eater
+    level:    [52, 55]
+    region:   quicksand_caves_se_22
+
+  17629270:
+    template: Antican_Hastatus
+    level:    [52, 55]
+    region:   quicksand_caves_se_25
+
+  17629271:
+    template: Antican_Princeps
+    level:    [52, 55]
+    region:   quicksand_caves_se_25
+
+  17629272:
+    template: Antican_Signifer
+    level:    [52, 55]
+    region:   quicksand_caves_se_25
+
+  17629273:
+    template: Antican_Princeps
+    level:    [52, 55]
+    region:   quicksand_caves_se_25
+
+  17629274:
+    template: Antican_Signifer
+    level:    [52, 55]
+    region:   quicksand_caves_se_25
+
+  17629275:
+    template: Sand_Spider
+    at:       [820.871, -1.196, -595.130, 127]
+    level:    [51, 55]
+
+  17629276:
+    template: Antican_Hastatus
+    level:    [52, 55]
+    region:   quicksand_caves_se_31
+
+  17629277:
+    template: Antican_Signifer
+    level:    [52, 55]
+    region:   quicksand_caves_se_31
+
+  17629278:
+    template: Sand_Eater
+    level:    [52, 55]
+    region:   quicksand_caves_se_31
+
+  17629279:
+    template: Antican_Hastatus
+    level:    [52, 55]
+    region:   quicksand_caves_se_30
+
+  17629280:
+    template: Antican_Princeps
+    level:    [52, 55]
+    region:   quicksand_caves_se_30
+
+  17629281:
+    template: Antican_Praefectus
+    at:       [869.240, 1.045, -655.214, 102]
+    level:    [65, 65]
+
+  17629282:
+    template: Sand_Eater
+    level:    [52, 55]
+    region:   quicksand_caves_se_30
+
+  17629283:
+    template: Antican_Hastatus
+    level:    [52, 55]
+    region:   quicksand_caves_se_29
+
+  17629284:
+    template: Antican_Princeps
+    level:    [52, 55]
+    region:   quicksand_caves_se_29
+
+  17629285:
+    template: Antican_Signifer
+    level:    [52, 55]
+    region:   quicksand_caves_se_29
+
+  17629286:
+    template: Sand_Eater
+    level:    [52, 55]
+    region:   quicksand_caves_se_29
+
+  17629287:
+    template: Antican_Hastatus
+    level:    [52, 55]
+    region:   quicksand_caves_se_21
+
+  17629288:
+    template: Antican_Signifer
+    level:    [52, 55]
+    region:   quicksand_caves_se_21
+
+  17629289:
+    template: Sand_Eater
+    level:    [52, 55]
+    region:   quicksand_caves_se_21
+
+  17629290:
+    template: Antican_Hastatus
+    level:    [52, 55]
+    region:   quicksand_caves_se_20
+
+  17629291:
+    template: Antican_Princeps
+    level:    [52, 55]
+    region:   quicksand_caves_se_20
+
+  17629292:
+    template: Sand_Eater
+    level:    [52, 55]
+    region:   quicksand_caves_se_20
+
+  17629293:
+    template: Sand_Eater
+    at:       [815.635, 2.774, -729.980, 127]
+    level:    [52, 55]
+
+  17629294:
+    template: Helm_Beetle
+    level:    [51, 54]
+    region:   quicksand_caves_se_17
+
+  17629295:
+    template: Antican_Hastatus
+    level:    [52, 55]
+    region:   quicksand_caves_se_11
+
+  17629296:
+    template: Antican_Princeps
+    level:    [52, 55]
+    region:   quicksand_caves_se_11
+
+  17629297:
+    template: Antican_Signifer
+    level:    [52, 55]
+    region:   quicksand_caves_se_11
+
+  17629298:
+    template: Antican_Hastatus
+    level:    [52, 55]
+    region:   quicksand_caves_se_11
+
+  17629299:
+    template: Antican_Signifer
+    level:    [52, 55]
+    region:   quicksand_caves_se_11
+
+  17629300:
+    template: Helm_Beetle
+    level:    [51, 54]
+    region:   quicksand_caves_se_11
+
+  17629301:
+    template: Sagittarius_X-XIII
+    at:       [624.000, -16.500, -775.000, 127]
+    level:    [55, 57]
+
+  17629302:
+    template: Helm_Beetle
+    at:       [659.372, -16.582, -798.875, 127]
+    level:    [51, 54]
+
+  17629303:
+    template: Antican_Hastatus
+    level:    [52, 55]
+    region:   quicksand_caves_se_14
+
+  17629304:
+    template: Antican_Princeps
+    level:    [52, 55]
+    region:   quicksand_caves_se_14
+
+  17629305:
+    template: Antican_Signifer
+    level:    [52, 55]
+    region:   quicksand_caves_se_14
+
+  17629306:
+    template: Antican_Hastatus
+    level:    [52, 55]
+    region:   quicksand_caves_se_14
+
+  17629307:
+    template: Antican_Princeps
+    level:    [52, 55]
+    region:   quicksand_caves_se_14
+
+  17629308:
+    template: Antican_Signifer
+    level:    [52, 55]
+    region:   quicksand_caves_se_14
+
+  17629309:
+    template: Helm_Beetle
+    level:    [51, 54]
+    region:   quicksand_caves_se_14
+
+  17629310:
+    template: Antican_Signifer
+    at:       [638.697, -16.774, -820.689, 0]
+    level:    [52, 55]
+
+  17629311:
+    template: Antican_Princeps
+    at:       [741.730, -17.135, -793.624, 127]
+    level:    [52, 55]
+
+  17629312:
+    template: Sabotender_Bailaor
+    at:       [782.926, -15.885, -800.008, 240]
+    level:    [52, 55]
+
+  17629313:
+    template: Sabotender_Bailaor
+    at:       [779.953, -15.741, -801.030, 167]
+    level:    [52, 55]
+
+  17629314:
+    template: Sabotender_Bailaor
+    level:    [52, 55]
+    region:   quicksand_caves_se_24
+
+  17629315:
+    template: Antican_Hastatus
+    level:    [52, 55]
+    region:   quicksand_caves_se_24
+
+  17629316:
+    template: Antican_Princeps
+    level:    [52, 55]
+    region:   quicksand_caves_se_24
+
+  17629317:
+    template: Antican_Signifer
+    level:    [52, 55]
+    region:   quicksand_caves_se_24
+
+  17629318:
+    template: Antican_Hastatus
+    level:    [52, 55]
+    region:   quicksand_caves_se_24
+
+  17629319:
+    template: Antican_Princeps
+    level:    [52, 55]
+    region:   quicksand_caves_se_24
+
+  17629320:
+    template: Helm_Beetle
+    at:       [599.440, -17.030, -738.592, 126]
+    level:    [51, 54]
+
+  17629321:
+    template: Antican_Hastatus
+    level:    [52, 55]
+    region:   quicksand_caves_se_3
+
+  17629322:
+    template: Antican_Princeps
+    level:    [52, 55]
+    region:   quicksand_caves_se_3
+
+  17629323:
+    template: Antican_Signifer
+    level:    [52, 55]
+    region:   quicksand_caves_se_3
+
+  17629324:
+    template: Antican_Hastatus
+    level:    [52, 55]
+    region:   quicksand_caves_se_3
+
+  17629325:
+    template: Antican_Princeps
+    level:    [52, 55]
+    region:   quicksand_caves_se_3
+
+  17629326:
+    template: Antican_Signifer
+    level:    [52, 55]
+    region:   quicksand_caves_se_3
+
+  17629327:
+    template: Helm_Beetle
+    level:    [51, 54]
+    region:   quicksand_caves_se_3
+
+  17629328:
+    template: Antican_Signifer
+    at:       [538.443, -16.794, -763.156, 127]
+    level:    [52, 55]
+
+  17629329:
+    template: Antican_Princeps
+    at:       [434.647, -17.071, -740.283, 0]
+    level:    [52, 55]
+
+  17629330:
+    template: Helm_Beetle
+    at:       [458.348, -15.786, -759.040, 127]
+    level:    [51, 54]
+
+  17629331:
+    template: Helm_Beetle
+    level:    [51, 54]
+    region:   quicksand_caves_se_4
+
+  17629332:
+    template: Antican_Hastatus
+    level:    [52, 55]
+    region:   quicksand_caves_se_4
+
+  17629333:
+    template: Antican_Princeps
+    level:    [52, 55]
+    region:   quicksand_caves_se_4
+
+  17629334:
+    template: Antican_Signifer
+    level:    [52, 55]
+    region:   quicksand_caves_se_4
+
+  17629335:
+    template: Antican_Hastatus
+    level:    [52, 55]
+    region:   quicksand_caves_se_4
+
+  17629336:
+    template: Antican_Signifer
+    level:    [52, 55]
+    region:   quicksand_caves_se_4
+
+  17629337:
+    template: Antican_Hastatus
+    level:    [52, 55]
+    region:   quicksand_caves_se_5
+
+  17629338:
+    template: Antican_Princeps
+    level:    [52, 55]
+    region:   quicksand_caves_se_5
+
+  17629339:
+    template: Antican_Signifer
+    level:    [52, 55]
+    region:   quicksand_caves_se_5
+
+  17629340:
+    template: Sabotender_Bailaor
+    level:    [52, 55]
+    region:   quicksand_caves_se_5
+
+  17629341:
+    template: Sabotender_Bailaor
+    level:    [52, 55]
+    region:   quicksand_caves_se_5
+
+  17629342:
+    template: Sand_Eater
+    level:    [52, 55]
+    region:   quicksand_caves_se_5
+
+  17629343:
+    template: Sabotender_Bailaor
+    level:    [52, 55]
+    region:   quicksand_caves_se
+
+  17629344:
+    template: Sand_Eater
+    level:    [52, 55]
+    region:   quicksand_caves_se
+
+  17629345:
+    template: Sabotender_Bailaor
+    level:    [52, 55]
+    region:   quicksand_caves_se_2
+
+  17629346:
+    template: Sand_Eater
+    level:    [52, 55]
+    region:   quicksand_caves_se_2
+
+  17629347:
+    template: Sabotender_Bailaor
+    level:    [52, 55]
+    region:   quicksand_caves_se_6
+
+  17629348:
+    template: Sabotender_Bailaor
+    level:    [52, 55]
+    region:   quicksand_caves_se_6
+
+  17629349:
+    template: Sand_Eater
+    level:    [52, 55]
+    region:   quicksand_caves_se_6
+
+  17629350:
+    template: Antican_Hastatus
+    level:    [52, 55]
+    region:   quicksand_caves_se_7
+
+  17629351:
+    template: Antican_Princeps
+    level:    [52, 55]
+    region:   quicksand_caves_se_7
+
+  17629352:
+    template: Antican_Signifer
+    level:    [52, 55]
+    region:   quicksand_caves_se_7
+
+  17629353:
+    template: Sabotender_Bailaor
+    level:    [52, 55]
+    region:   quicksand_caves_se_7
+
+  17629354:
+    template: Sabotender_Bailaor
+    level:    [52, 55]
+    region:   quicksand_caves_se_7
+
+  17629355:
+    template: Sand_Eater
+    level:    [52, 55]
+    region:   quicksand_caves_se_7
+
+  17629356:
+    template: Helm_Beetle
+    level:    [55, 58]
+    region:   quicksand_caves_c_17
+
+  17629357:
+    template: Helm_Beetle
+    level:    [55, 58]
+    region:   quicksand_caves_c_16
+
+  17629358:
+    template: Helm_Beetle
+    level:    [55, 58]
+    region:   quicksand_caves_c_16
+
+  17629359:
+    template: Antican_Hastatus
+    level:    [56, 59]
+    region:   quicksand_caves_c_14
+
+  17629360:
+    template: Antican_Princeps
+    level:    [56, 59]
+    region:   quicksand_caves_c_14
+
+  17629361:
+    template: Antican_Signifer
+    level:    [56, 59]
+    region:   quicksand_caves_c_14
+
+  17629362:
+    template: Antican_Hastatus
+    level:    [56, 59]
+    region:   quicksand_caves_c_14
+
+  17629363:
+    template: Antican_Princeps
+    level:    [56, 59]
+    region:   quicksand_caves_c_14
+
+  17629364:
+    template: Antican_Signifer
+    level:    [56, 59]
+    region:   quicksand_caves_c_14
+
+  17629365:
+    template: Helm_Beetle
+    level:    [55, 58]
+    region:   quicksand_caves_c_14
+
+  17629366:
+    template: Antican_Hastatus
+    level:    [57, 59]
+    region:   quicksand_caves_c_12
+
+  17629367:
+    template: Antican_Princeps
+    level:    [56, 57]
+    region:   quicksand_caves_c_12
+
+  17629368:
+    template: Antican_Signifer
+    level:    [56, 59]
+    region:   quicksand_caves_c_12
+
+  17629369:
+    template: Antican_Hastatus
+    level:    [56, 59]
+    region:   quicksand_caves_c_12
+
+  17629370:
+    template: Antican_Princeps
+    level:    [56, 59]
+    region:   quicksand_caves_c_12
+
+  17629371:
+    template: Antican_Signifer
+    level:    [56, 59]
+    region:   quicksand_caves_c_12
+
+  17629372:
+    template: Helm_Beetle
+    level:    [55, 58]
+    region:   quicksand_caves_c_12
+
+  17629373:
+    template: Sand_Lizard
+    level:    [56, 59]
+    region:   quicksand_caves_c_12
+
+  17629374:
+    template: Antican_Hastatus
+    level:    [56, 59]
+    region:   quicksand_caves_c_13
+
+  17629375:
+    template: Antican_Princeps
+    level:    [56, 59]
+    region:   quicksand_caves_c_13
+
+  17629376:
+    template: Antican_Signifer
+    level:    [56, 59]
+    region:   quicksand_caves_c_13
+
+  17629377:
+    template: Antican_Princeps
+    level:    [56, 59]
+    region:   quicksand_caves_c_13
+
+  17629378:
+    template: Antican_Signifer
+    level:    [56, 59]
+    region:   quicksand_caves_c_13
+
+  17629379:
+    template: Helm_Beetle
+    level:    [55, 58]
+    region:   quicksand_caves_c_13
+
+  17629380:
+    template: Sand_Lizard
+    level:    [56, 59]
+    region:   quicksand_caves_c_13
+
+  17629381:
+    template: Antican_Hastatus
+    level:    [56, 59]
+    region:   quicksand_caves_c_11
+
+  17629382:
+    template: Antican_Princeps
+    level:    [56, 59]
+    region:   quicksand_caves_c_11
+
+  17629383:
+    template: Antican_Signifer
+    level:    [56, 59]
+    region:   quicksand_caves_c_11
+
+  17629384:
+    template: Antican_Princeps
+    level:    [56, 59]
+    region:   quicksand_caves_c_11
+
+  17629385:
+    template: Antican_Signifer
+    level:    [56, 59]
+    region:   quicksand_caves_c_11
+
+  17629386:
+    template: Sabotender_Bailaor
+    level:    [56, 59]
+    region:   quicksand_caves_c_11
+
+  17629387:
+    template: Sand_Lizard
+    at:       [34.189, -0.670, -18.746, 127]
+    level:    [56, 59]
+
+  17629388:
+    template: Antican_Hastatus
+    level:    [56, 59]
+    region:   quicksand_caves_c_15
+
+  17629389:
+    template: Antican_Princeps
+    level:    [56, 59]
+    region:   quicksand_caves_c_15
+
+  17629390:
+    template: Antican_Signifer
+    level:    [56, 59]
+    region:   quicksand_caves_c_15
+
+  17629391:
+    template: Antican_Hastatus
+    level:    [56, 59]
+    region:   quicksand_caves_c_15
+
+  17629392:
+    template: Antican_Princeps
+    level:    [56, 59]
+    region:   quicksand_caves_c_15
+
+  17629393:
+    template: Antican_Signifer
+    level:    [56, 59]
+    region:   quicksand_caves_c_15
+
+  17629394:
+    template: Sand_Lizard
+    level:    [56, 59]
+    region:   quicksand_caves_c_15
+
+  17629395:
+    template: Sand_Lizard
+    level:    [56, 59]
+    region:   quicksand_caves_c_18
+
+  17629396:
+    template: Sand_Lizard
+    level:    [56, 59]
+    region:   quicksand_caves_c_19
+
+  17629397:
+    template: Sand_Lizard
+    level:    [56, 59]
+    region:   quicksand_caves_c_19
+
+  17629398:
+    template: Antican_Hastatus
+    level:    [56, 59]
+    region:   quicksand_caves_c_19
+
+  17629399:
+    template: Antican_Princeps
+    level:    [56, 59]
+    region:   quicksand_caves_c_19
+
+  17629400:
+    template: Antican_Signifer
+    level:    [56, 59]
+    region:   quicksand_caves_c_19
+
+  17629401:
+    template: Antican_Hastatus
+    level:    [56, 59]
+    region:   quicksand_caves_c_19
+
+  17629402:
+    template: Antican_Signifer
+    level:    [56, 59]
+    region:   quicksand_caves_c_19
+
+  17629403:
+    template: Nussknacker
+    at:       [195.000, 1.000, 5.000, 127]
+    level:    [60, 61]
+
+  17629404:
+    template: Sand_Eater
+    level:    [56, 59]
+    region:   quicksand_caves_e
+
+  17629405:
+    template: Sand_Eater
+    level:    [56, 59]
+    region:   quicksand_caves_e
+
+  17629406:
+    template: Sabotender_Bailaor
+    level:    [56, 59]
+    region:   quicksand_caves_e
+
+  17629407:
+    template: Sabotender_Bailaor
+    level:    [56, 59]
+    region:   quicksand_caves_e
+
+  17629408:
+    template: Sand_Lizard
+    at:       [-36.531, -0.409, -60.063, 126]
+    level:    [56, 59]
+
+  17629409:
+    template: Antican_Hastatus
+    at:       [-90.010, -0.567, -29.424, 127]
+    level:    [56, 59]
+
+  17629410:
+    template: Antican_Princeps
+    at:       [-73.523, -0.500, -41.681, 127]
+    level:    [56, 59]
+
+  17629411:
+    template: Antican_Signifer
+    at:       [-84.865, -0.428, -43.475, 127]
+    level:    [56, 59]
+
+  17629412:
+    template: Antican_Magister
+    at:       [-77.000, -0.500, -56.000, 127]
+    level:    [65, 66]
+
+  17629413:
+    template: Sand_Lizard
+    at:       [-89.033, -0.574, -49.804, 120]
+    level:    [56, 59]
+
+  17629414:
+    template: Sand_Lizard
+    at:       [-76.697, -0.407, -28.568, 127]
+    level:    [56, 59]
+
+  17629415:
+    template: Sand_Lizard
+    at:       [-73.936, -0.444, -27.393, 73]
+    level:    [56, 59]
+
+  17629416:
+    template: Antican_Princeps
+    at:       [-43.556, -0.926, -138.569, 0]
+    level:    [56, 59]
+
+  17629417:
+    template: Helm_Beetle
+    at:       [36.273, -0.240, -178.437, 127]
+    level:    [55, 58]
+
+  17629418:
+    template: Antican_Hastatus
+    at:       [84.296, -0.295, -209.098, 87]
+    level:    [56, 59]
+
+  17629419:
+    template: Antican_Princeps
+    at:       [73.919, -0.240, -201.451, 38]
+    level:    [56, 59]
+
+  17629420:
+    template: Antican_Signifer
+    at:       [89.575, -0.299, -196.206, 127]
+    level:    [56, 59]
+
+  17629421:
+    template: Antican_Proconsul
+    at:       [76.000, -0.600, -194.000, 127]
+    level:    [65, 65]
+
+  17629422:
+    template: Helm_Beetle
+    at:       [66.932, -0.252, -197.068, 127]
+    level:    [55, 58]
+
+  17629423:
+    template: Helm_Beetle
+    at:       [90.213, -0.297, -197.465, 127]
+    level:    [55, 58]
+
+  17629424:
+    template: Helm_Beetle
+    at:       [74.090, -0.241, -210.722, 53]
+    level:    [55, 58]
+
+  17629425:
+    template: Antican_Hastatus
+    level:    [56, 59]
+    region:   quicksand_caves_c_6
+
+  17629426:
+    template: Antican_Princeps
+    level:    [56, 59]
+    region:   quicksand_caves_c_6
+
+  17629427:
+    template: Antican_Signifer
+    level:    [56, 59]
+    region:   quicksand_caves_c_6
+
+  17629428:
+    template: Antican_Princeps
+    level:    [56, 59]
+    region:   quicksand_caves_c_6
+
+  17629429:
+    template: Antican_Signifer
+    level:    [56, 59]
+    region:   quicksand_caves_c_6
+
+  17629430:
+    template: Diamond_Daig
+    at:       [-81.000, -0.500, -217.000, 127]
+    level:    [70, 70]
+
+  17629431:
+    template: Antican_Hastatus
+    level:    [56, 59]
+    region:   quicksand_caves_c_9
+
+  17629432:
+    template: Antican_Signifer
+    level:    [56, 59]
+    region:   quicksand_caves_c_9
+
+  17629433:
+    template: Helm_Beetle
+    at:       [-64.478, 1.344, -179.473, 106]
+    level:    [55, 58]
+
+  17629434:
+    template: Antican_Princeps
+    level:    [56, 59]
+    region:   quicksand_caves_c_10
+
+  17629435:
+    template: Antican_Signifer
+    level:    [56, 59]
+    region:   quicksand_caves_c_10
+
+  17629436:
+    template: Helm_Beetle
+    at:       [-69.158, -0.286, -223.889, 127]
+    level:    [55, 58]
+
+  17629437:
+    template: Antican_Hastatus
+    level:    [56, 59]
+    region:   quicksand_caves_c_7
+
+  17629438:
+    template: Antican_Princeps
+    level:    [56, 59]
+    region:   quicksand_caves_c_7
+
+  17629439:
+    template: Helm_Beetle
+    at:       [-95.632, -0.500, -214.732, 51]
+    level:    [55, 58]
+
+  17629440:
+    template: Antican_Hastatus
+    level:    [56, 59]
+    region:   quicksand_caves_c_8
+
+  17629441:
+    template: Antican_Signifer
+    level:    [56, 59]
+    region:   quicksand_caves_c_8
+
+  17629442:
+    template: Helm_Beetle
+    level:    [55, 58]
+    region:   quicksand_caves_c_8
+
+  17629443:
+    template: Antican_Princeps
+    at:       [-138.574, 0.161, -200.910, 62]
+    level:    [56, 59]
+
+  17629444:
+    template: Antican_Princeps
+    level:    [56, 59]
+    region:   quicksand_caves_c_5
+
+  17629445:
+    template: Antican_Princeps
+    level:    [56, 59]
+    region:   quicksand_caves_c_5
+
+  17629446:
+    template: Helm_Beetle
+    at:       [-143.262, 1.433, -265.917, 90]
+    level:    [55, 58]
+
+  17629447:
+    template: Helm_Beetle
+    at:       [-163.159, -0.681, -218.455, 1]
+    level:    [55, 58]
+
+  17629448:
+    template: Antican_Hastatus
+    level:    [56, 59]
+    region:   quicksand_caves_c_4
+
+  17629449:
+    template: Antican_Princeps
+    level:    [56, 59]
+    region:   quicksand_caves_c_4
+
+  17629450:
+    template: Sand_Eater
+    level:    [56, 59]
+    region:   quicksand_caves_c_4
+
+  17629451:
+    template: Sabotender_Bailaor
+    level:    [56, 59]
+    region:   quicksand_caves_c_4
+
+  17629452:
+    template: Antican_Hastatus
+    level:    [56, 59]
+    region:   quicksand_caves_c_3
+
+  17629453:
+    template: Antican_Princeps
+    at:       [-203.542, 9.694, -128.228, 127]
+    level:    [56, 59]
+
+  17629454:
+    template: Antican_Signifer
+    at:       [-195.642, 9.477, -109.776, 82]
+    level:    [56, 59]
+
+  17629455:
+    template: Sand_Eater
+    at:       [-191.667, 8.301, -133.642, 74]
+    level:    [56, 59]
+
+  17629456:
+    template: Sabotender_Bailaor
+    level:    [56, 59]
+    region:   quicksand_caves_c_3
+
+  17629457:
+    template: Sabotender_Bailaor
+    level:    [56, 59]
+    region:   quicksand_caves_c_3
+
+  17629458:
+    template: Sand_Eater
+    level:    [56, 59]
+    region:   quicksand_caves_c_2
+
+  17629459:
+    template: Sabotender_Bailaor
+    level:    [56, 59]
+    region:   quicksand_caves_c_2
+
+  17629460:
+    template: Sabotender_Bailaor
+    level:    [56, 59]
+    region:   quicksand_caves_c_2
+
+  17629461:
+    template: Sand_Eater
+    level:    [56, 59]
+    region:   quicksand_caves_c
+
+  17629462:
+    template: Sand_Lizard
+    level:    [56, 59]
+    region:   quicksand_caves_sw_6
+
+  17629463:
+    template: Sand_Lizard
+    level:    [56, 59]
+    region:   quicksand_caves_sw_4
+
+  17629464:
+    template: Sand_Lizard
+    level:    [56, 59]
+    region:   quicksand_caves_sw_4
+
+  17629465:
+    template: Antican_Triarius
+    level:    [62, 65]
+    region:   quicksand_caves_sw_5
+
+  17629466:
+    template: Antican_Antesignanus
+    level:    [62, 65]
+    region:   quicksand_caves_sw_5
+
+  17629467:
+    template: Antican_Quaestor
+    level:    [62, 65]
+    region:   quicksand_caves_sw_5
+
+  17629468:
+    template: Sand_Lizard
+    level:    [56, 59]
+    region:   quicksand_caves_sw_5
+
+  17629469:
+    template: Antican_Triarius
+    level:    [62, 65]
+    region:   quicksand_caves_sw_9
+
+  17629470:
+    template: Antican_Aedilis
+    level:    [62, 65]
+    region:   quicksand_caves_sw_9
+
+  17629471:
+    template: Antican_Quaestor
+    level:    [62, 65]
+    region:   quicksand_caves_sw_9
+
+  17629472:
+    template: Sand_Lizard
+    level:    [56, 59]
+    region:   quicksand_caves_sw_9
+
+  17629473:
+    template: Antican_Triarius
+    level:    [62, 65]
+    region:   quicksand_caves_sw_10
+
+  17629474:
+    template: Antican_Antesignanus
+    level:    [62, 65]
+    region:   quicksand_caves_sw_10
+
+  17629475:
+    template: Antican_Aedilis
+    level:    [62, 65]
+    region:   quicksand_caves_sw_10
+
+  17629476:
+    template: Antican_Quaestor
+    at:       [-701.186, -0.715, -382.428, 121]
+    level:    [62, 65]
+
+  17629477:
+    template: Sand_Lizard
+    at:       [-701.676, -0.739, -421.499, 100]
+    level:    [56, 59]
+
+  17629478:
+    template: Sand_Lizard
+    at:       [-678.511, -0.239, -418.562, 127]
+    level:    [56, 59]
+
+  17629479:
+    template: Antican_Triarius
+    at:       [-579.159, -0.319, -394.261, 127]
+    level:    [62, 65]
+
+  17629480:
+    template: Antican_Aedilis
+    at:       [-606.985, -0.686, -380.910, 92]
+    level:    [62, 65]
+
+  17629481:
+    template: Antican_Antesignanus
+    at:       [-652.994, -0.517, -379.169, 127]
+    level:    [62, 65]
+
+  17629482:
+    template: Antican_Quaestor
+    at:       [-599.336, -0.304, -462.077, 119]
+    level:    [62, 65]
+
+  17629483:
+    template: Antican_Tribunus
+    at:       [-582.000, -0.500, -412.000, 127]
+    level:    [65, 65]
+
+  17629484:
+    template: Girtab
+    at:       [-578.666, -0.427, -438.065, 8]
+    level:    [62, 65]
+
+  17629485:
+    template: Girtab
+    at:       [-602.709, -0.284, -461.465, 32]
+    level:    [62, 65]
+
+  17629486:
+    template: Girtab
+    level:    [62, 65]
+    region:   quicksand_caves_sw_11
+
+  17629487:
+    template: Antican_Triarius
+    level:    [62, 65]
+    region:   quicksand_caves_sw_13
+
+  17629488:
+    template: Antican_Aedilis
+    level:    [62, 65]
+    region:   quicksand_caves_sw_13
+
+  17629489:
+    template: Antican_Triarius
+    level:    [62, 65]
+    region:   quicksand_caves_sw_13
+
+  17629490:
+    template: Sand_Lizard
+    level:    [56, 59]
+    region:   quicksand_caves_sw_13
+
+  17629491:
+    template: Antican_Antesignanus
+    level:    [62, 65]
+    region:   quicksand_caves_sw_12
+
+  17629492:
+    template: Antican_Antesignanus
+    level:    [62, 65]
+    region:   quicksand_caves_sw_12
+
+  17629493:
+    template: Antican_Quaestor
+    level:    [62, 65]
+    region:   quicksand_caves_sw_12
+
+  17629494:
+    template: Sand_Lizard
+    level:    [56, 59]
+    region:   quicksand_caves_sw_12
+
+  17629495:
+    template: Antican_Quaestor
+    level:    [62, 65]
+    region:   quicksand_caves_sw_15
+
+  17629496:
+    template: Antican_Antesignanus
+    level:    [62, 65]
+    region:   quicksand_caves_sw_15
+
+  17629497:
+    template: Antican_Quaestor
+    level:    [62, 65]
+    region:   quicksand_caves_sw_15
+
+  17629498:
+    template: Sand_Lizard
+    level:    [56, 59]
+    region:   quicksand_caves_sw_15
+
+  17629499:
+    template: Antican_Triarius
+    level:    [62, 65]
+    region:   quicksand_caves_sw_14
+
+  17629500:
+    template: Antican_Aedilis
+    level:    [62, 65]
+    region:   quicksand_caves_sw_14
+
+  17629501:
+    template: Antican_Aedilis
+    level:    [62, 65]
+    region:   quicksand_caves_sw_14
+
+  17629502:
+    template: Sand_Lizard
+    level:    [56, 59]
+    region:   quicksand_caves_sw_14
+
+  17629503:
+    template: Sand_Lizard
+    at:       [-563.592, -0.596, -420.432, 127]
+    level:    [56, 59]
+
+  17629504:
+    template: Antican_Antesignanus
+    level:    [62, 65]
+    region:   quicksand_caves_sw_16
+
+  17629505:
+    template: Antican_Quaestor
+    level:    [62, 65]
+    region:   quicksand_caves_sw_16
+
+  17629506:
+    template: Sand_Lizard
+    level:    [56, 59]
+    region:   quicksand_caves_sw_16
+
+  17629507:
+    template: Sand_Digger
+    at:       [-497.415, 16.580, -396.780, 65]
+    level:    [62, 65]
+
+  17629508:
+    template: Antican_Antesignanus
+    at:       [-467.229, 17.244, -352.626, 92]
+    level:    [62, 65]
+
+  17629509:
+    template: Antican_Triarius
+    at:       [-471.247, 16.933, -371.805, 127]
+    level:    [62, 65]
+
+  17629510:
+    template: Girtab
+    at:       [-488.860, 17.687, -351.446, 127]
+    level:    [62, 65]
+
+  17629511:
+    template: Girtab
+    at:       [-492.000, 17.630, -365.000, 5]
+    level:    [62, 65]
+
+  17629512:
+    template: Girtab
+    at:       [-480.959, 17.615, -353.208, 3]
+    level:    [62, 65]
+
+  17629513:
+    template: Girtab
+    at:       [-466.866, 17.369, -360.635, 127]
+    level:    [62, 65]
+
+  17629514:
+    template: Sand_Digger
+    at:       [-477.478, 17.186, -372.616, 43]
+    level:    [62, 65]
+
+  17629515:
+    template: Sand_Digger
+    at:       [-423.965, 11.524, -336.588, 127]
+    level:    [62, 65]
+
+  17629516:
+    template: Sand_Digger
+    level:    [62, 65]
+    region:   quicksand_caves_w_4
+
+  17629517:
+    template: Sand_Lizard
+    at:       [-781.469, -0.540, -435.966, 127]
+    level:    [56, 59]
+
+  17629518:
+    template: Sand_Lizard
+    at:       [-721.292, -0.385, -379.210, 0]
+    level:    [56, 59]
+
+  17629519:
+    template: Girtab
+    level:    [62, 65]
+    region:   quicksand_caves_sw_2
+
+  17629520:
+    template: Girtab
+    level:    [62, 65]
+    region:   quicksand_caves_sw_2
+
+  17629521:
+    template: Girtab
+    level:    [62, 65]
+    region:   quicksand_caves_sw_2
+
+  17629522:
+    template: Girtab
+    level:    [62, 65]
+    region:   quicksand_caves_sw_2
+
+  17629523:
+    template: Girtab
+    level:    [62, 65]
+    region:   quicksand_caves_sw_2
+
+  17629524:
+    template: Triarius_X-XV
+    at:       [-815.000, -0.500, -340.000, 127]
+    level:    [72, 74]
+
+  17629525:
+    template: Antican_Triarius
+    level:    [62, 72]
+    region:   quicksand_caves_sw_7
+
+  17629526:
+    template: Antican_Quaestor
+    level:    [62, 65]
+    region:   quicksand_caves_sw_7
+
+  17629527:
+    template: Antican_Antesignanus
+    level:    [62, 65]
+    region:   quicksand_caves_sw_7
+
+  17629528:
+    template: Antican_Aedilis
+    level:    [62, 65]
+    region:   quicksand_caves_sw_7
+
+  17629529:
+    template: Antican_Triarius
+    level:    [62, 65]
+    region:   quicksand_caves_sw_8
+
+  17629530:
+    template: Antican_Quaestor
+    level:    [62, 65]
+    region:   quicksand_caves_sw_8
+
+  17629531:
+    template: Antican_Antesignanus
+    level:    [62, 65]
+    region:   quicksand_caves_sw_8
+
+  17629532:
+    template: Antican_Aedilis
+    level:    [62, 65]
+    region:   quicksand_caves_sw_8
+
+  17629533:
+    template: Antican_Triarius
+    at:       [-786.730, -0.500, -343.963, 127]
+    level:    [62, 65]
+
+  17629534:
+    template: Antican_Quaestor
+    level:    [62, 65]
+    region:   quicksand_caves_sw_3
+
+  17629535:
+    template: Antican_Antesignanus
+    level:    [62, 65]
+    region:   quicksand_caves_sw_3
+
+  17629536:
+    template: Antican_Aedilis
+    at:       [-818.000, -0.219, -375.000, 127]
+    level:    [62, 65]
+
+  17629537:
+    template: Antican_Triarius
+    at:       [-817.089, -0.500, -386.251, 37]
+    level:    [62, 72]
+
+  17629538:
+    template: Antican_Quaestor
+    at:       [-819.465, -0.315, -395.562, 127]
+    level:    [62, 65]
+
+  17629539:
+    template: Antican_Antesignanus
+    at:       [-815.695, -0.259, -392.322, 127]
+    level:    [62, 65]
+
+  17629540:
+    template: Antican_Aedilis
+    at:       [-806.177, -0.540, -420.397, 74]
+    level:    [62, 65]
+
+  17629541:
+    template: Sand_Lizard
+    at:       [-838.801, -0.203, -378.739, 0]
+    level:    [57, 59]
+
+  17629542:
+    template: Girtab
+    at:       [-873.525, -0.247, -379.137, 127]
+    level:    [62, 65]
+
+  17629543:
+    template: Antican_Triarius
+    at:       [-860.000, -0.150, -385.000, 127]
+    level:    [62, 65]
+
+  17629544:
+    template: Antican_Quaestor
+    at:       [-870.568, -0.896, -388.963, 1]
+    level:    [62, 65]
+
+  17629545:
+    template: Spelunking_Sabotender
+    at:       [-899.706, 16.298, -408.929, 127]
+    level:    [62, 65]
+
+  17629546:
+    template: Girtab
+    level:    [62, 65]
+    region:   quicksand_caves_sw
+
+  17629547:
+    template: Girtab
+    level:    [62, 65]
+    region:   quicksand_caves_sw
+
+  17629548:
+    template: Spelunking_Sabotender
+    level:    [62, 65]
+    region:   quicksand_caves_sw
+
+  17629549:
+    template: Spelunking_Sabotender
+    level:    [62, 65]
+    region:   quicksand_caves_w
+
+  17629550:
+    template: Spelunking_Sabotender
+    level:    [62, 65]
+    region:   quicksand_caves_w_2
+
+  17629551:
+    template: Spelunking_Sabotender
+    level:    [62, 65]
+    region:   quicksand_caves_w_3
+
+  17629552:
+    template: Sand_Tarantula
+    level:    [65, 68]
+    region:   quicksand_caves_n_2
+
+  17629553:
+    template: Antican_Triarius
+    level:    [66, 69]
+    region:   quicksand_caves_n_4
+
+  17629554:
+    template: Antican_Quaestor
+    level:    [66, 69]
+    region:   quicksand_caves_n_4
+
+  17629555:
+    template: Antican_Antesignanus
+    level:    [66, 69]
+    region:   quicksand_caves_n_4
+
+  17629556:
+    template: Antican_Aedilis
+    level:    [66, 69]
+    region:   quicksand_caves_n_4
+
+  17629557:
+    template: Antican_Triarius
+    level:    [66, 69]
+    region:   quicksand_caves_n
+
+  17629558:
+    template: Antican_Quaestor
+    level:    [66, 69]
+    region:   quicksand_caves_n
+
+  17629559:
+    template: Antican_Antesignanus
+    level:    [66, 69]
+    region:   quicksand_caves_n
+
+  17629560:
+    template: Antican_Aedilis
+    level:    [66, 69]
+    region:   quicksand_caves_n
+
+  17629561:
+    template: Hastatus_XI-XII
+    at:       [-336.000, -0.500, 739.000, 127]
+    level:    [65, 68]
+
+  17629562:
+    template: Antican_Triarius
+    level:    [66, 69]
+    region:   quicksand_caves_nw_4
+
+  17629563:
+    template: Antican_Quaestor
+    level:    [66, 69]
+    region:   quicksand_caves_nw_4
+
+  17629564:
+    template: Antican_Antesignanus
+    level:    [66, 69]
+    region:   quicksand_caves_nw_4
+
+  17629565:
+    template: Antican_Aedilis
+    level:    [66, 69]
+    region:   quicksand_caves_nw_4
+
+  17629566:
+    template: Antican_Triarius
+    level:    [66, 69]
+    region:   quicksand_caves_n_5
+
+  17629567:
+    template: Antican_Quaestor
+    level:    [66, 69]
+    region:   quicksand_caves_n_5
+
+  17629568:
+    template: Antican_Antesignanus
+    level:    [66, 69]
+    region:   quicksand_caves_n_5
+
+  17629569:
+    template: Antican_Aedilis
+    level:    [66, 69]
+    region:   quicksand_caves_n_5
+
+  17629570:
+    template: Antican_Triarius
+    level:    [66, 69]
+    region:   quicksand_caves_n_3
+
+  17629571:
+    template: Antican_Quaestor
+    level:    [66, 69]
+    region:   quicksand_caves_n_3
+
+  17629572:
+    template: Antican_Antesignanus
+    level:    [66, 69]
+    region:   quicksand_caves_n_3
+
+  17629573:
+    template: Antican_Aedilis
+    level:    [66, 69]
+    region:   quicksand_caves_n_3
+
+  17629574:
+    template: Sand_Tarantula
+    level:    [65, 68]
+    region:   quicksand_caves_nw_7
+
+  17629575:
+    template: Antican_Triarius
+    level:    [66, 69]
+    region:   quicksand_caves_nw_5
+
+  17629576:
+    template: Antican_Antesignanus
+    level:    [66, 69]
+    region:   quicksand_caves_nw_5
+
+  17629577:
+    template: Antican_Quaestor
+    level:    [66, 69]
+    region:   quicksand_caves_nw_5
+
+  17629578:
+    template: Antican_Aedilis
+    level:    [66, 69]
+    region:   quicksand_caves_nw_5
+
+  17629579:
+    template: Girtab
+    level:    [62, 65]
+    region:   quicksand_caves_nw_5
+
+  17629580:
+    template: Sand_Tarantula
+    level:    [65, 68]
+    region:   quicksand_caves_nw_2
+
+  17629581:
+    template: Spelunking_Sabotender
+    level:    [65, 68]
+    region:   quicksand_caves_nw_2
+
+  17629582:
+    template: Spelunking_Sabotender
+    at:       [-456.949, -0.456, 780.811, 127]
+    level:    [65, 68]
+
+  17629583:
+    template: Sand_Tarantula
+    level:    [65, 68]
+    region:   quicksand_caves_nw
+
+  17629584:
+    template: Antican_Antesignanus
+    level:    [66, 69]
+    region:   quicksand_caves_nw
+
+  17629585:
+    template: Antican_Quaestor
+    at:       [-506.540, -0.219, 775.617, 127]
+    level:    [66, 69]
+
+  17629586:
+    template: Spelunking_Sabotender
+    at:       [-523.227, 0.475, 778.691, 127]
+    level:    [65, 68]
+
+  17629587:
+    template: Sabotender_Bailarina
+    at:       [-502.576, -0.219, 778.166, 106]
+    level:    [80, 81]
+
+  17629588:
+    template: Sand_Tarantula
+    at:       [-553.761, 0.338, 736.461, 78]
+    level:    [65, 68]
+
+  17629589:
+    template: Spelunking_Sabotender
+    at:       [-536.109, 0.481, 780.740, 127]
+    level:    [65, 68]
+
+  17629590:
+    template: Spelunking_Sabotender
+    at:       [-541.972, 0.586, 757.460, 127]
+    level:    [65, 68]
+
+  17629591:
+    template: Sand_Tarantula
+    at:       [-264.000, -0.213, 767.000, 127]
+    level:    [65, 68]
+
+  17629592:
+    template: Antican_Triarius
+    at:       [-271.943, -0.348, 811.516, 127]
+    level:    [66, 69]
+
+  17629593:
+    template: Antican_Antesignanus
+    at:       [-285.000, -0.348, 789.736, 127]
+    level:    [66, 69]
+
+  17629594:
+    template: Antican_Quaestor
+    at:       [-274.000, -0.352, 794.000, 64]
+    level:    [66, 69]
+
+  17629595:
+    template: Antican_Aedilis
+    at:       [-290.621, -0.348, 809.656, 127]
+    level:    [66, 69]
+
+  17629596:
+    template: Girtab
+    level:    [62, 65]
+    region:   quicksand_caves_n_9
+
+  17629597:
+    template: Sand_Tarantula
+    at:       [-420.850, -0.237, 720.530, 127]
+    level:    [65, 68]
+
+  17629598:
+    template: Sand_Tarantula
+    level:    [66, 69]
+    region:   quicksand_caves_nw_6
+
+  17629599:
+    template: Antican_Triarius
+    level:    [66, 69]
+    region:   quicksand_caves_nw_6
+
+  17629600:
+    template: Antican_Antesignanus
+    level:    [66, 69]
+    region:   quicksand_caves_nw_6
+
+  17629601:
+    template: Antican_Quaestor
+    level:    [66, 69]
+    region:   quicksand_caves_nw_6
+
+  17629602:
+    template: Antican_Aedilis
+    level:    [66, 69]
+    region:   quicksand_caves_nw_6
+
+  17629603:
+    template: Girtab
+    level:    [62, 65]
+    region:   quicksand_caves_nw_6
+
+  17629604:
+    template: Sand_Tarantula
+    level:    [66, 69]
+    region:   quicksand_caves_nw_3
+
+  17629605:
+    template: Sand_Tarantula
+    level:    [66, 69]
+    region:   quicksand_caves_nw_3
+
+  17629606:
+    template: Antican_Triarius
+    at:       [-464.501, -0.127, 620.732, 127]
+    level:    [66, 69]
+
+  17629607:
+    template: Antican_Quaestor
+    at:       [-459.715, -0.127, 616.667, 62]
+    level:    [66, 69]
+
+  17629608:
+    template: Antican_Aedilis
+    at:       [-463.927, -0.127, 614.274, 78]
+    level:    [66, 69]
+
+  17629609:
+    template: Sand_Tarantula
+    at:       [-321.438, -0.196, 659.428, 108]
+    level:    [65, 68]
+
+  17629610:
+    template: Sand_Tarantula
+    level:    [65, 68]
+    region:   quicksand_caves_n_6
+
+  17629611:
+    template: Antican_Triarius
+    level:    [66, 69]
+    region:   quicksand_caves_n_6
+
+  17629612:
+    template: Antican_Antesignanus
+    level:    [66, 69]
+    region:   quicksand_caves_n_6
+
+  17629613:
+    template: Antican_Quaestor
+    level:    [66, 69]
+    region:   quicksand_caves_n_6
+
+  17629614:
+    template: Antican_Aedilis
+    level:    [66, 69]
+    region:   quicksand_caves_n_6
+
+  17629615:
+    template: Girtab
+    level:    [62, 65]
+    region:   quicksand_caves_n_6
+
+  17629616:
+    template: Antican_Antesignanus
+    level:    [69, 71]
+    region:   quicksand_caves_n_15
+
+  17629617:
+    template: Antican_Aedilis
+    level:    [69, 71]
+    region:   quicksand_caves_n_15
+
+  17629618:
+    template: Antican_Triarius
+    level:    [69, 71]
+    region:   quicksand_caves_n_14
+
+  17629619:
+    template: Antican_Quaestor
+    level:    [69, 71]
+    region:   quicksand_caves_n_14
+
+  17629620:
+    template: Antican_Antesignanus
+    level:    [69, 71]
+    region:   quicksand_caves_n_11
+
+  17629621:
+    template: Antican_Praetor
+    level:    [72, 74]
+    region:   quicksand_caves_n_11
+
+  17629622:
+    template: Antican_Triarius
+    level:    [69, 71]
+    region:   quicksand_caves_n_12
+
+  17629623:
+    template: Antican_Antesignanus
+    level:    [69, 71]
+    region:   quicksand_caves_n_12
+
+  17629624:
+    template: Antican_Aedilis
+    level:    [69, 71]
+    region:   quicksand_caves_n_12
+
+  17629625:
+    template: Antican_Quaestor
+    level:    [69, 71]
+    region:   quicksand_caves_n_12
+
+  17629626:
+    template: Spelunking_Sabotender
+    at:       [-179.558, 0.612, 350.955, 66]
+    level:    [65, 68]
+
+  17629627:
+    template: Antican_Triarius
+    level:    [69, 71]
+    region:   quicksand_caves_n_13
+
+  17629628:
+    template: Antican_Antesignanus
+    level:    [69, 71]
+    region:   quicksand_caves_n_13
+
+  17629629:
+    template: Antican_Aedilis
+    level:    [69, 71]
+    region:   quicksand_caves_n_13
+
+  17629630:
+    template: Antican_Quaestor
+    level:    [69, 72]
+    region:   quicksand_caves_n_13
+
+  17629631:
+    template: Antican_Triarius
+    level:    [69, 72]
+    region:   quicksand_caves_n_10
+
+  17629632:
+    template: Antican_Quaestor
+    level:    [69, 72]
+    region:   quicksand_caves_n_10
+
+  17629633:
+    template: Antican_Antesignanus
+    level:    [69, 72]
+    region:   quicksand_caves_n_8
+
+  17629634:
+    template: Antican_Quaestor
+    level:    [69, 72]
+    region:   quicksand_caves_n_8
+
+  17629635:
+    template: Antican_Aedilis
+    level:    [69, 72]
+    region:   quicksand_caves_n_8
+
+  17629636:
+    template: Antican_Triarius
+    level:    [69, 72]
+    region:   quicksand_caves_n_7
+
+  17629637:
+    template: Antican_Antesignanus
+    level:    [69, 72]
+    region:   quicksand_caves_n_7
+
+  17629638:
+    template: Antican_Aedilis
+    level:    [69, 72]
+    region:   quicksand_caves_n_7
+
+  17629639:
+    template: Antican_Praetor
+    at:       [-298.904, -2.441, 377.605, 127]
+    level:    [72, 74]
+
+  17629640:
+    template: Antican_Legatus
+    at:       [-297.699, -2.414, 384.209, 47]
+    level:    [72, 74]
+
+  17629641:
+    template: Antican_Consul
+    at:       [-304.720, -2.634, 380.664, 127]
+    level:    [75, 75]
+
+  17629642:
+    template: Ancient_Vessel
+    at:       [-500.000, 19.000, -422.000, 185]
+    level:    [72, 72]
+
+  17629643:
+    template: Tribunus_VII-I
+    at:       [-47.410, -0.312, -139.298, 127]
+    level:    [60, 62]
+
+  17629644:
+    template: Proconsul_XII
+    level:    [70, 72]
+    region:   quicksand_caves_n_6
+
+  17629645:
+    template: Girtablulu
+    at:       [-141.600, -2.000, 450.480, 99]
+    level:    [80, 80]
+
+  17629646:
+    template: Malleator_Maurok
+    at:       [-83.623, -0.031, -39.748, 69]
+    level:    [99, 99]
+
+  17629647:
+    template: Peon_Pounder
+    at:       [-85.923, -0.108, -40.829, 20]
+    level:    [99, 99]
+
+  17629648:
+    template: Peon_Pounder
+    at:       [-85.225, -0.094, -39.755, 41]
+    level:    [99, 99]
+
+  17629649:
+    template: Malleator_Maurok
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [99, 99]
+
+  17629650:
+    template: Peon_Pounder
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [99, 99]
+
+  17629651:
+    template: Peon_Pounder
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [99, 99]
+
+  17629652:
+    template: Malleator_Maurok
+    at:       [41.024, -0.500, -130.467, 45]
+    level:    [99, 99]
+
+  17629653:
+    template: Peon_Pounder
+    at:       [42.756, -0.500, -129.786, 79]
+    level:    [99, 99]
+
+  17629654:
+    template: Peon_Pounder
+    at:       [41.967, -0.500, -128.705, 65]
+    level:    [99, 99]
+
+  17629655:
+    template: Centurio_XX-I
+    at:       [810.733, 1.389, -566.859, 0]
+    level:    [99, 99]
+
+  17629656:
+    template: Centurio_XX-I
+    at:       [778.500, 1.527, -657.380, 0]
+    level:    [99, 99]
+
+  17629657:
+    template: Centurio_XX-I
+    at:       [822.080, -8.500, -382.989, 251]
+    level:    [99, 99]

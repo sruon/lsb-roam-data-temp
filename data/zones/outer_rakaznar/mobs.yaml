@@ -1,0 +1,1698 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17899521:
+    template: Legionless_Draugar
+    level:    [113, 116]
+    region:   outer_rakaznar_c_2
+
+  17899522:
+    template: Legionless_Draugar
+    level:    [113, 116]
+    region:   outer_rakaznar_c_2
+
+  17899523:
+    template: Legionless_Draugar
+    level:    [113, 116]
+    region:   outer_rakaznar_c_2
+
+  17899524:
+    template: Legionless_Draugar
+    level:    [113, 116]
+    region:   outer_rakaznar_c_2
+
+  17899525:
+    template: Dreadhound
+    level:    [113, 116]
+    region:   outer_rakaznar_c_2
+
+  17899526:
+    template: Dreadhound
+    level:    [113, 116]
+    region:   outer_rakaznar_c_2
+
+  17899527:
+    template: Legionless_Draugar
+    level:    [113, 116]
+    region:   outer_rakaznar_c
+
+  17899528:
+    template: Legionless_Draugar
+    level:    [113, 116]
+    region:   outer_rakaznar_c
+
+  17899529:
+    template: Dreadhound
+    level:    [113, 116]
+    region:   outer_rakaznar_c
+
+  17899530:
+    template: Legionless_Draugar
+    level:    [113, 116]
+    region:   outer_rakaznar_w_11
+
+  17899531:
+    template: Legionless_Draugar
+    level:    [113, 116]
+    region:   outer_rakaznar_w_11
+
+  17899532:
+    template: Legionless_Draugar
+    level:    [113, 116]
+    region:   outer_rakaznar_w_11
+
+  17899533:
+    template: Dreadhound
+    level:    [113, 116]
+    region:   outer_rakaznar_w_11
+
+  17899534:
+    template: Restless_Twitherym
+    level:    [113, 116]
+    region:   outer_rakaznar_w_9
+
+  17899535:
+    template: Restless_Twitherym
+    level:    [113, 116]
+    region:   outer_rakaznar_w_9
+
+  17899536:
+    template: Shunned_Deeparrow
+    level:    [113, 116]
+    region:   outer_rakaznar_w_9
+
+  17899537:
+    template: Shunned_Deeparrow
+    level:    [113, 116]
+    region:   outer_rakaznar_w_9
+
+  17899538:
+    template: Shunned_Nightstalker
+    level:    [113, 116]
+    region:   outer_rakaznar_w_9
+
+  17899539:
+    template: Shunned_Hexer
+    level:    [113, 116]
+    region:   outer_rakaznar_w_10
+
+  17899540:
+    template: Shunned_Hexer
+    level:    [113, 116]
+    region:   outer_rakaznar_w_10
+
+  17899541:
+    template: Shunned_Nightstalker
+    level:    [113, 116]
+    region:   outer_rakaznar_w_10
+
+  17899542:
+    template: Debauched_Unseelie
+    level:    [113, 116]
+    region:   outer_rakaznar_nw_5
+
+  17899543:
+    template: Debauched_Unseelie
+    level:    [113, 116]
+    region:   outer_rakaznar_nw_5
+
+  17899544:
+    template: Phlegmatic_Byrgen
+    level:    [113, 116]
+    region:   outer_rakaznar_nw_5
+
+  17899545:
+    template: Phlegmatic_Byrgen
+    level:    [113, 116]
+    region:   outer_rakaznar_nw_5
+
+  17899546:
+    template: Debauched_Unseelie
+    level:    [113, 116]
+    region:   outer_rakaznar_nw_7
+
+  17899547:
+    template: Debauched_Unseelie
+    level:    [113, 116]
+    region:   outer_rakaznar_nw_7
+
+  17899548:
+    template: Phlegmatic_Byrgen
+    level:    [113, 116]
+    region:   outer_rakaznar_nw_7
+
+  17899549:
+    template: Phlegmatic_Byrgen
+    level:    [113, 116]
+    region:   outer_rakaznar_nw_7
+
+  17899550:
+    template: Debauched_Unseelie
+    level:    [113, 116]
+    region:   outer_rakaznar_nw_6
+
+  17899551:
+    template: Debauched_Unseelie
+    level:    [113, 116]
+    region:   outer_rakaznar_nw_6
+
+  17899552:
+    template: Phlegmatic_Byrgen
+    level:    [113, 116]
+    region:   outer_rakaznar_nw_6
+
+  17899553:
+    template: Phlegmatic_Byrgen
+    level:    [113, 116]
+    region:   outer_rakaznar_nw_6
+
+  17899554:
+    template: Phlegmatic_Byrgen
+    level:    [113, 116]
+    region:   outer_rakaznar_nw_8
+
+  17899555:
+    template: Phlegmatic_Byrgen
+    level:    [113, 116]
+    region:   outer_rakaznar_nw_4
+
+  17899556:
+    template: Undulating_Umbril
+    level:    [113, 116]
+    region:   outer_rakaznar_nw_2
+
+  17899557:
+    template: Undulating_Umbril
+    level:    [113, 116]
+    region:   outer_rakaznar_nw_2
+
+  17899558:
+    template: Undulating_Umbril
+    level:    [113, 116]
+    region:   outer_rakaznar_nw_2
+
+  17899559:
+    template: Undulating_Umbril
+    level:    [113, 116]
+    region:   outer_rakaznar_nw_2
+
+  17899560:
+    template: Phlegmatic_Byrgen
+    level:    [113, 116]
+    region:   outer_rakaznar_nw_2
+
+  17899561:
+    template: Undulating_Umbril
+    level:    [113, 116]
+    region:   outer_rakaznar_nw_3
+
+  17899562:
+    template: Undulating_Umbril
+    level:    [113, 116]
+    region:   outer_rakaznar_nw_3
+
+  17899563:
+    template: Phlegmatic_Byrgen
+    level:    [113, 116]
+    region:   outer_rakaznar_nw_3
+
+  17899564:
+    template: Undulating_Umbril
+    level:    [113, 116]
+    region:   outer_rakaznar_nw
+
+  17899565:
+    template: Undulating_Umbril
+    level:    [113, 116]
+    region:   outer_rakaznar_nw
+
+  17899566:
+    template: Undulating_Umbril
+    level:    [113, 116]
+    region:   outer_rakaznar_nw
+
+  17899567:
+    template: Phlegmatic_Byrgen
+    level:    [113, 116]
+    region:   outer_rakaznar_nw
+
+  17899568:
+    template: Fluturini
+    level:    [113, 116]
+    region:   outer_rakaznar_nw_9
+
+  17899569:
+    template: Fluturini
+    level:    [113, 116]
+    region:   outer_rakaznar_nw_9
+
+  17899570:
+    template: Restless_Twitherym
+    level:    [113, 116]
+    region:   outer_rakaznar_nw_9
+
+  17899571:
+    template: Restless_Twitherym
+    level:    [113, 116]
+    region:   outer_rakaznar_nw_9
+
+  17899572:
+    template: Restless_Twitherym
+    level:    [113, 116]
+    region:   outer_rakaznar_nw_9
+
+  17899573:
+    template: Restless_Twitherym
+    level:    [113, 116]
+    region:   outer_rakaznar_nw_9
+
+  17899574:
+    template: Restless_Twitherym
+    level:    [113, 116]
+    region:   outer_rakaznar_nw_9
+
+  17899575:
+    template: Restless_Twitherym
+    level:    [113, 116]
+    region:   outer_rakaznar_nw_9
+
+  17899576:
+    template: Astringent_Acuex
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_8
+
+  17899577:
+    template: Astringent_Acuex
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_8
+
+  17899578:
+    template: Obfuscous_Obdella
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_8
+
+  17899579:
+    template: Obfuscous_Obdella
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_8
+
+  17899580:
+    template: Astringent_Acuex
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_6
+
+  17899581:
+    template: Astringent_Acuex
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_6
+
+  17899582:
+    template: Astringent_Acuex
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_6
+
+  17899583:
+    template: Obfuscous_Obdella
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_6
+
+  17899584:
+    template: Astringent_Acuex
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_7
+
+  17899585:
+    template: Astringent_Acuex
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_7
+
+  17899586:
+    template: Obfuscous_Obdella
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_7
+
+  17899587:
+    template: Obfuscous_Obdella
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_7
+
+  17899588:
+    template: Obfuscous_Obdella
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_9
+
+  17899589:
+    template: Obfuscous_Obdella
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_9
+
+  17899590:
+    template: Obfuscous_Obdella
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_5
+
+  17899591:
+    template: Legionless_Draugar
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_11
+
+  17899592:
+    template: Legionless_Draugar
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_11
+
+  17899593:
+    template: Legionless_Draugar
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_11
+
+  17899594:
+    template: Obfuscous_Obdella
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_11
+
+  17899595:
+    template: Legionless_Draugar
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_12
+
+  17899596:
+    template: Legionless_Draugar
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_12
+
+  17899597:
+    template: Obfuscous_Obdella
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_12
+
+  17899598:
+    template: Legionless_Draugar
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_10
+
+  17899599:
+    template: Legionless_Draugar
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_10
+
+  17899600:
+    template: Legionless_Draugar
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_10
+
+  17899601:
+    template: Obfuscous_Obdella
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_10
+
+  17899602:
+    template: Fluturini
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_2
+
+  17899603:
+    template: Fluturini
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_2
+
+  17899604:
+    template: Restless_Twitherym
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_4
+
+  17899605:
+    template: Restless_Twitherym
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_4
+
+  17899606:
+    template: Restless_Twitherym
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_4
+
+  17899607:
+    template: Restless_Twitherym
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_3
+
+  17899608:
+    template: Restless_Twitherym
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_3
+
+  17899609:
+    template: Restless_Twitherym
+    level:    [113, 116]
+    region:   outer_rakaznar_sw_3
+
+  17899610:
+    template: Dullahan
+    level:    [114, 118]
+    region:   outer_rakaznar_w
+
+  17899611:
+    template: Dullahan
+    level:    [114, 118]
+    region:   outer_rakaznar_w
+
+  17899612:
+    template: Horrific_Bhoot
+    level:    [114, 118]
+    region:   outer_rakaznar_w
+
+  17899613:
+    template: Dullahan
+    level:    [114, 118]
+    region:   outer_rakaznar_w_2
+
+  17899614:
+    template: Dullahan
+    level:    [114, 118]
+    region:   outer_rakaznar_w_2
+
+  17899615:
+    template: Horrific_Bhoot
+    level:    [114, 118]
+    region:   outer_rakaznar_w_2
+
+  17899616:
+    template: Dullahan
+    level:    [114, 118]
+    region:   outer_rakaznar_w_3
+
+  17899617:
+    template: Horrific_Bhoot
+    level:    [114, 118]
+    region:   outer_rakaznar_w_3
+
+  17899618:
+    template: Legionless_Draugar
+    level:    [113, 116]
+    region:   outer_rakaznar_w_4
+
+  17899619:
+    template: Legionless_Draugar
+    level:    [113, 116]
+    region:   outer_rakaznar_w_4
+
+  17899620:
+    template: Legionless_Draugar
+    level:    [113, 116]
+    region:   outer_rakaznar_w_4
+
+  17899621:
+    template: Legionless_Draugar
+    level:    [113, 116]
+    region:   outer_rakaznar_w_4
+
+  17899622:
+    template: Dreadhound
+    level:    [113, 116]
+    region:   outer_rakaznar_w_4
+
+  17899623:
+    template: Dreadhound
+    level:    [113, 116]
+    region:   outer_rakaznar_w_4
+
+  17899624:
+    template: Legionless_Draugar
+    level:    [113, 116]
+    region:   outer_rakaznar_w_5
+
+  17899625:
+    template: Legionless_Draugar
+    level:    [113, 116]
+    region:   outer_rakaznar_w_5
+
+  17899626:
+    template: Dreadhound
+    level:    [113, 116]
+    region:   outer_rakaznar_w_5
+
+  17899627:
+    template: Legionless_Draugar
+    level:    [113, 116]
+    region:   outer_rakaznar_w_8
+
+  17899628:
+    template: Legionless_Draugar
+    level:    [113, 116]
+    region:   outer_rakaznar_w_8
+
+  17899629:
+    template: Legionless_Draugar
+    level:    [113, 116]
+    region:   outer_rakaznar_w_8
+
+  17899630:
+    template: Dreadhound
+    level:    [113, 116]
+    region:   outer_rakaznar_w_8
+
+  17899631:
+    template: Fluturini
+    level:    [113, 116]
+    region:   outer_rakaznar_w_6
+
+  17899632:
+    template: Fluturini
+    level:    [113, 116]
+    region:   outer_rakaznar_w_6
+
+  17899633:
+    template: Restless_Twitherym
+    level:    [113, 116]
+    region:   outer_rakaznar_w_6
+
+  17899634:
+    template: Restless_Twitherym
+    level:    [113, 116]
+    region:   outer_rakaznar_w_6
+
+  17899635:
+    template: Restless_Twitherym
+    level:    [113, 116]
+    region:   outer_rakaznar_w_6
+
+  17899636:
+    template: Restless_Twitherym
+    level:    [113, 116]
+    region:   outer_rakaznar_w_7
+
+  17899637:
+    template: Restless_Twitherym
+    level:    [113, 116]
+    region:   outer_rakaznar_w_7
+
+  17899638:
+    template: Restless_Twitherym
+    level:    [113, 116]
+    region:   outer_rakaznar_w_7
+
+  17899639:
+    template: Suspended_Sculpture
+    at:       [-93.480, -170.500, 94.338, 27]
+    level:    [1, 1]
+
+  17899640:
+    template: Suspended_Sculpture
+    at:       [-151.000, -160.500, -220.300, 117]
+    level:    [1, 1]
+
+  17899641:
+    template: Suspended_Sculpture
+    at:       [-331.300, -170.500, -378.420, 99]
+    level:    [1, 1]
+
+  17899642:
+    template: Suspended_Sculpture
+    at:       [-574.700, -160.500, -345.290, 83]
+    level:    [1, 1]
+
+  17899643:
+    template: Suspended_Sculpture
+    at:       [-258.625, -150.750, 221.275, 30]
+    level:    [1, 1]
+
+  17899644:
+    template: Suspended_Sculpture
+    at:       [-663.900, -170.500, 336.397, 73]
+    level:    [1, 1]
+
+  17899645:
+    template: Suspended_Sculpture
+    at:       [-781.300, -160.700, 181.343, 125]
+    level:    [1, 1]
+
+  17899646:
+    template: Suspended_Sculpture
+    at:       [-820.400, -170.500, -229.900, 16]
+    level:    [1, 1]
+
+  17899647:
+    template: Undulating_Umbril
+    at:       [-174.200, -160.500, 184.760, 231]
+    level:    [113, 116]
+
+  17899648:
+    template: Undulating_Umbril
+    at:       [-177.900, -160.600, 177.322, 188]
+    level:    [113, 116]
+
+  17899649:
+    template: Undulating_Umbril
+    at:       [-214.200, -150.500, -212.220, 16]
+    level:    [113, 116]
+
+  17899650:
+    template: Undulating_Umbril
+    at:       [-214.700, -150.500, -224.520, 7]
+    level:    [113, 116]
+
+  17899651:
+    template: Undulating_Umbril
+    at:       [-262.200, -170.500, -386.210, 146]
+    level:    [113, 116]
+
+  17899652:
+    template: Undulating_Umbril
+    at:       [-257.600, -170.500, -369.670, 160]
+    level:    [113, 116]
+
+  17899653:
+    template: Undulating_Umbril
+    at:       [-576.600, -150.500, -265.820, 89]
+    level:    [113, 116]
+
+  17899654:
+    template: Undulating_Umbril
+    level:    [113, 116]
+    region:   outer_rakaznar_sw
+
+  17899655:
+    template: Undulating_Umbril
+    at:       [-260.834, -160.673, 299.919, 215]
+    level:    [113, 116]
+
+  17899656:
+    template: Undulating_Umbril
+    at:       [-262.093, -160.676, 303.018, 20]
+    level:    [113, 116]
+
+  17899657:
+    template: Undulating_Umbril
+    at:       [-654.900, -160.500, 258.148, 56]
+    level:    [113, 116]
+
+  17899658:
+    template: Undulating_Umbril
+    at:       [-668.200, -160.500, 258.180, 161]
+    level:    [113, 116]
+
+  17899659:
+    template: Undulating_Umbril
+    at:       [-706.300, -150.500, 178.046, 232]
+    level:    [113, 116]
+
+  17899660:
+    template: Undulating_Umbril
+    at:       [-700.100, -150.600, 181.580, 37]
+    level:    [113, 116]
+
+  17899661:
+    template: Undulating_Umbril
+    at:       [-739.500, -160.600, -217.370, 103]
+    level:    [113, 116]
+
+  17899662:
+    template: Undulating_Umbril
+    at:       [-748.600, -160.500, -223.170, 49]
+    level:    [113, 116]
+
+  17899663:
+    template: Debauched_Unseelie
+    level:    [113, 116]
+    region:   outer_rakaznar_ne_6
+
+  17899664:
+    template: Phlegmatic_Byrgen
+    level:    [113, 116]
+    region:   outer_rakaznar_ne_6
+
+  17899665:
+    template: Phlegmatic_Byrgen
+    level:    [113, 116]
+    region:   outer_rakaznar_ne_6
+
+  17899666:
+    template: Debauched_Unseelie
+    level:    [113, 116]
+    region:   outer_rakaznar_ne_4
+
+  17899667:
+    template: Debauched_Unseelie
+    level:    [113, 116]
+    region:   outer_rakaznar_ne_4
+
+  17899668:
+    template: Debauched_Unseelie
+    level:    [113, 116]
+    region:   outer_rakaznar_ne_4
+
+  17899669:
+    template: Debauched_Unseelie
+    level:    [113, 116]
+    region:   outer_rakaznar_ne_3
+
+  17899670:
+    template: Phlegmatic_Byrgen
+    level:    [113, 116]
+    region:   outer_rakaznar_ne_3
+
+  17899671:
+    template: Phlegmatic_Byrgen
+    level:    [113, 116]
+    region:   outer_rakaznar_ne_3
+
+  17899672:
+    template: Astringent_Acuex
+    level:    [113, 116]
+    region:   outer_rakaznar_se_6
+
+  17899673:
+    template: Obfuscous_Obdella
+    level:    [113, 116]
+    region:   outer_rakaznar_se_6
+
+  17899674:
+    template: Obfuscous_Obdella
+    level:    [113, 116]
+    region:   outer_rakaznar_se_6
+
+  17899675:
+    template: Astringent_Acuex
+    level:    [113, 116]
+    region:   outer_rakaznar_se_4
+
+  17899676:
+    template: Astringent_Acuex
+    level:    [113, 116]
+    region:   outer_rakaznar_se_4
+
+  17899677:
+    template: Astringent_Acuex
+    level:    [113, 116]
+    region:   outer_rakaznar_se_4
+
+  17899678:
+    template: Astringent_Acuex
+    level:    [113, 116]
+    region:   outer_rakaznar_se_2
+
+  17899679:
+    template: Obfuscous_Obdella
+    level:    [113, 116]
+    region:   outer_rakaznar_se_2
+
+  17899680:
+    template: Obfuscous_Obdella
+    level:    [113, 116]
+    region:   outer_rakaznar_se_2
+
+  17899681:
+    template: Dullahan
+    level:    [114, 118]
+    region:   outer_rakaznar_c_4
+
+  17899682:
+    template: Enshrouded_Cyhiraeth
+    level:    [113, 116]
+    region:   outer_rakaznar_c_4
+
+  17899683:
+    template: Enshrouded_Cyhiraeth
+    level:    [113, 116]
+    region:   outer_rakaznar_c_4
+
+  17899684:
+    template: Dullahan
+    level:    [114, 118]
+    region:   outer_rakaznar_c_5
+
+  17899685:
+    template: Dullahan
+    level:    [114, 118]
+    region:   outer_rakaznar_c_5
+
+  17899686:
+    template: Dullahan
+    level:    [114, 118]
+    region:   outer_rakaznar_c_5
+
+  17899687:
+    template: Dullahan
+    level:    [114, 118]
+    region:   outer_rakaznar_c_3
+
+  17899688:
+    template: Enshrouded_Cyhiraeth
+    level:    [113, 116]
+    region:   outer_rakaznar_c_3
+
+  17899689:
+    template: Enshrouded_Cyhiraeth
+    level:    [113, 116]
+    region:   outer_rakaznar_c_3
+
+  17899690:
+    template: Shunned_Saboteur
+    level:    [113, 116]
+    region:   outer_rakaznar_e_7
+
+  17899691:
+    template: Shunned_Saboteur
+    level:    [113, 116]
+    region:   outer_rakaznar_e_7
+
+  17899692:
+    template: Shunned_Saboteur
+    level:    [113, 116]
+    region:   outer_rakaznar_e_6
+
+  17899693:
+    template: Shunned_Fluteslinger
+    level:    [113, 116]
+    region:   outer_rakaznar_e_6
+
+  17899694:
+    template: Shunned_Fluteslinger
+    at:       [740.140, 109.500, -16.711, 102]
+    level:    [113, 116]
+
+  17899695:
+    template: Shunned_Fluteslinger
+    at:       [735.150, 109.500, -9.080, 246]
+    level:    [113, 116]
+
+  17899696:
+    template: Shunned_Nightstalker
+    level:    [113, 116]
+    region:   outer_rakaznar_ne_5
+
+  17899697:
+    template: Shunned_Nightstalker
+    level:    [113, 116]
+    region:   outer_rakaznar_ne_5
+
+  17899698:
+    template: Shunned_Nightstalker
+    level:    [113, 116]
+    region:   outer_rakaznar_ne_2
+
+  17899699:
+    template: Shunned_Deeparrow
+    level:    [113, 116]
+    region:   outer_rakaznar_ne_2
+
+  17899700:
+    template: Shunned_Deeparrow
+    at:       [581.230, 109.500, 148.835, 138]
+    level:    [113, 116]
+
+  17899701:
+    template: Shunned_Deeparrow
+    at:       [569.580, 109.500, 139.498, 100]
+    level:    [113, 116]
+
+  17899702:
+    template: Shunned_Hexer
+    level:    [113, 116]
+    region:   outer_rakaznar_se_5
+
+  17899703:
+    template: Shunned_Hexer
+    level:    [113, 116]
+    region:   outer_rakaznar_se_5
+
+  17899704:
+    template: Shunned_Hexer
+    level:    [113, 116]
+    region:   outer_rakaznar_se_3
+
+  17899705:
+    template: Shunned_Elementalist
+    level:    [113, 116]
+    region:   outer_rakaznar_se_3
+
+  17899706:
+    template: Shunned_Elementalist
+    at:       [571.360, 109.500, -173.110, 164]
+    level:    [113, 116]
+
+  17899707:
+    template: Shunned_Elementalist
+    at:       [572.920, 109.500, -192.760, 117]
+    level:    [113, 116]
+
+  17899708:
+    template: Shunned_Engraver
+    level:    [113, 116]
+    region:   outer_rakaznar_e_2
+
+  17899709:
+    template: Shunned_Engraver
+    level:    [113, 116]
+    region:   outer_rakaznar_e_2
+
+  17899710:
+    template: Shunned_Engraver
+    level:    [113, 116]
+    region:   outer_rakaznar_e
+
+  17899711:
+    template: Shunned_Valiant
+    level:    [113, 116]
+    region:   outer_rakaznar_e
+
+  17899712:
+    template: Shunned_Valiant
+    at:       [425.430, 109.500, -17.028, 92]
+    level:    [113, 116]
+
+  17899713:
+    template: Shunned_Valiant
+    at:       [413.890, 109.500, -30.468, 117]
+    level:    [113, 116]
+
+  17899714:
+    template: Bristlehair_Bat
+    level:    [113, 116]
+    region:   outer_rakaznar_ne_8
+
+  17899715:
+    template: Bristlehair_Bat
+    level:    [113, 116]
+    region:   outer_rakaznar_ne_8
+
+  17899716:
+    template: Bristlehair_Bat
+    level:    [113, 116]
+    region:   outer_rakaznar_ne_8
+
+  17899717:
+    template: Bristlehair_Bat
+    level:    [113, 116]
+    region:   outer_rakaznar_ne_7
+
+  17899718:
+    template: Bristlehair_Bat
+    level:    [113, 116]
+    region:   outer_rakaznar_ne_7
+
+  17899719:
+    template: Bristlehair_Bat
+    level:    [113, 116]
+    region:   outer_rakaznar_ne_7
+
+  17899720:
+    template: Bristlehair_Bat
+    level:    [113, 116]
+    region:   outer_rakaznar_se_7
+
+  17899721:
+    template: Bristlehair_Bat
+    level:    [113, 116]
+    region:   outer_rakaznar_se_7
+
+  17899722:
+    template: Bristlehair_Bat
+    level:    [113, 116]
+    region:   outer_rakaznar_se_7
+
+  17899723:
+    template: Bristlehair_Bat
+    level:    [113, 116]
+    region:   outer_rakaznar_e_5
+
+  17899724:
+    template: Bristlehair_Bat
+    level:    [113, 116]
+    region:   outer_rakaznar_e_5
+
+  17899725:
+    template: Bristlehair_Bat
+    level:    [113, 116]
+    region:   outer_rakaznar_e_5
+
+  17899726:
+    template: Bristlehair_Bat
+    level:    [113, 116]
+    region:   outer_rakaznar_e_4
+
+  17899727:
+    template: Bristlehair_Bat
+    level:    [113, 116]
+    region:   outer_rakaznar_e_4
+
+  17899728:
+    template: Bristlehair_Bat
+    level:    [113, 116]
+    region:   outer_rakaznar_e_4
+
+  17899729:
+    template: Bristlehair_Bat
+    level:    [113, 116]
+    region:   outer_rakaznar_se
+
+  17899730:
+    template: Bristlehair_Bat
+    level:    [113, 116]
+    region:   outer_rakaznar_se
+
+  17899731:
+    template: Bristlehair_Bat
+    level:    [113, 116]
+    region:   outer_rakaznar_se
+
+  17899732:
+    template: Bristlehair_Bat
+    level:    [113, 116]
+    region:   outer_rakaznar_e_3
+
+  17899733:
+    template: Bristlehair_Bat
+    level:    [113, 116]
+    region:   outer_rakaznar_e_3
+
+  17899734:
+    template: Bristlehair_Bat
+    level:    [113, 116]
+    region:   outer_rakaznar_e_3
+
+  17899735:
+    template: Bristlehair_Bat
+    level:    [113, 116]
+    region:   outer_rakaznar_ne
+
+  17899736:
+    template: Bristlehair_Bat
+    level:    [113, 116]
+    region:   outer_rakaznar_ne
+
+  17899737:
+    template: Bristlehair_Bat
+    level:    [113, 116]
+    region:   outer_rakaznar_ne
+
+  17899738:
+    template: Ironclad
+    at:       [895.630, 69.250, 286.510, 105]
+    level:    [120, 120]
+
+  17899739:
+    template: Ironclad
+    at:       [895.410, 69.250, 273.539, 31]
+    level:    [120, 120]
+
+  17899740:
+    template: Restless_Twitherym
+    level:    [113, 116]
+    region:   outer_rakaznar_ne_10
+
+  17899741:
+    template: Restless_Twitherym
+    level:    [113, 116]
+    region:   outer_rakaznar_ne_10
+
+  17899742:
+    template: Ironclad
+    at:       [862.010, 69.250, 261.036, 75]
+    level:    [120, 120]
+
+  17899743:
+    template: Ironclad
+    at:       [868.750, 69.250, 266.407, 175]
+    level:    [120, 120]
+
+  17899744:
+    template: Restless_Twitherym
+    level:    [113, 116]
+    region:   outer_rakaznar_ne_9
+
+  17899745:
+    template: Restless_Twitherym
+    level:    [113, 116]
+    region:   outer_rakaznar_ne_9
+
+  17899746:
+    template: Ironclad
+    at:       [869.400, 69.500, 278.147, 179]
+    level:    [120, 120]
+
+  17899747:
+    template: Ironclad
+    at:       [901.260, 69.500, -349.500, 244]
+    level:    [120, 120]
+
+  17899748:
+    template: Ironclad
+    at:       [860.260, 69.500, -348.310, 48]
+    level:    [120, 120]
+
+  17899749:
+    template: Restless_Twitherym
+    level:    [113, 116]
+    region:   outer_rakaznar_se_8
+
+  17899750:
+    template: Restless_Twitherym
+    level:    [113, 116]
+    region:   outer_rakaznar_se_8
+
+  17899751:
+    template: Ironclad
+    at:       [900.950, 69.400, -300.210, 160]
+    level:    [120, 120]
+
+  17899752:
+    template: Ironclad
+    level:    [120, 120]
+    region:   outer_rakaznar_se_10
+
+  17899753:
+    template: Restless_Twitherym
+    level:    [113, 116]
+    region:   outer_rakaznar_se_9
+
+  17899754:
+    template: Restless_Twitherym
+    level:    [113, 116]
+    region:   outer_rakaznar_se_9
+
+  17899755:
+    template: Ironclad
+    at:       [877.810, 69.500, -309.390, 211]
+    level:    [120, 120]
+
+  17899756:
+    template: Suspended_Sculpture
+    at:       [867.570, 89.500, 104.665, 2]
+    level:    [1, 1]
+
+  17899757:
+    template: Suspended_Sculpture
+    at:       [780.800, 89.500, 229.751, 24]
+    level:    [1, 1]
+
+  17899758:
+    template: Suspended_Sculpture
+    at:       [906.260, 79.500, -226.220, 27]
+    level:    [1, 1]
+
+  17899759:
+    template: Suspended_Sculpture
+    at:       [700.750, 79.250, -380.720, 72]
+    level:    [1, 1]
+
+  17899760:
+    template: Suspended_Sculpture
+    at:       [370.230, 79.500, 339.291, 19]
+    level:    [1, 1]
+
+  17899761:
+    template: Suspended_Sculpture
+    at:       [338.684, 89.500, 168.223, 65]
+    level:    [1, 1]
+
+  17899762:
+    template: Suspended_Sculpture
+    at:       [448.910, 79.500, -340.360, 110]
+    level:    [1, 1]
+
+  17899763:
+    template: Suspended_Sculpture
+    at:       [215.880, 79.500, -216.330, 54]
+    level:    [1, 1]
+
+  17899764:
+    template: Undulating_Umbril
+    at:       [940.550, 79.472, 183.417, 134]
+    level:    [113, 116]
+
+  17899765:
+    template: Undulating_Umbril
+    at:       [942.970, 79.457, 183.014, 229]
+    level:    [113, 116]
+
+  17899766:
+    template: Undulating_Umbril
+    at:       [702.990, 89.498, 224.016, 249]
+    level:    [113, 116]
+
+  17899767:
+    template: Undulating_Umbril
+    at:       [705.780, 89.499, 222.121, 26]
+    level:    [113, 116]
+
+  17899768:
+    template: Undulating_Umbril
+    at:       [825.550, 89.499, -225.640, 56]
+    level:    [113, 116]
+
+  17899769:
+    template: Undulating_Umbril
+    at:       [816.350, 89.487, -214.710, 107]
+    level:    [113, 116]
+
+  17899770:
+    template: Undulating_Umbril
+    at:       [776.830, 79.497, -388.010, 131]
+    level:    [113, 116]
+
+  17899771:
+    template: Undulating_Umbril
+    at:       [781.720, 79.432, -388.160, 187]
+    level:    [113, 116]
+
+  17899772:
+    template: Undulating_Umbril
+    at:       [466.570, 79.499, 343.261, 134]
+    level:    [113, 116]
+
+  17899773:
+    template: Undulating_Umbril
+    at:       [463.410, 79.337, 340.592, 103]
+    level:    [113, 116]
+
+  17899774:
+    template: Undulating_Umbril
+    at:       [258.200, 79.499, 91.987, 143]
+    level:    [113, 116]
+
+  17899775:
+    template: Undulating_Umbril
+    at:       [254.560, 79.490, 103.660, 211]
+    level:    [113, 116]
+
+  17899776:
+    template: Undulating_Umbril
+    at:       [452.150, 79.499, -341.090, 155]
+    level:    [113, 116]
+
+  17899777:
+    template: Undulating_Umbril
+    at:       [455.980, 79.490, -335.980, 185]
+    level:    [113, 116]
+
+  17899778:
+    template: Undulating_Umbril
+    at:       [221.190, 79.335, -142.070, 106]
+    level:    [113, 116]
+
+  17899779:
+    template: Undulating_Umbril
+    at:       [212.630, 79.472, -139.010, 126]
+    level:    [113, 116]
+
+  17899780:
+    template: Dimensional_Tether
+    at:       [-380.000, -150.700, 60.000, 0]
+    level:    [113, 116]
+
+  17899781:
+    template: Procrustean_Draugar
+    at:       [-372.000, -150.500, 65.602, 175]
+    level:    [113, 116]
+
+  17899782:
+    template: Procrustean_Draugar
+    at:       [-374.400, -150.500, 57.727, 43]
+    level:    [113, 116]
+
+  17899783:
+    template: Festering_Umbril
+    at:       [-371.700, -150.500, 63.689, 28]
+    level:    [113, 116]
+
+  17899784:
+    template: Dimensional_Tether
+    at:       [-380.000, -150.700, -100.000, 0]
+    level:    [113, 116]
+
+  17899785:
+    template: Procrustean_Draugar
+    at:       [-379.100, -150.600, -95.967, 86]
+    level:    [113, 116]
+
+  17899786:
+    template: Procrustean_Draugar
+    at:       [-378.500, -150.600, -96.793, 8]
+    level:    [113, 116]
+
+  17899787:
+    template: Festering_Umbril
+    at:       [-379.900, -150.600, -96.186, 83]
+    level:    [113, 116]
+
+  17899788:
+    template: Dimensional_Tether
+    at:       [-540.000, -150.700, -100.000, 0]
+    level:    [113, 116]
+
+  17899789:
+    template: Procrustean_Draugar
+    at:       [-543.600, -150.600, -97.693, 20]
+    level:    [113, 116]
+
+  17899790:
+    template: Procrustean_Draugar
+    at:       [-537.700, -150.500, -93.308, 251]
+    level:    [113, 116]
+
+  17899791:
+    template: Festering_Umbril
+    at:       [-543.100, -150.500, -94.357, 135]
+    level:    [113, 116]
+
+  17899792:
+    template: Dimensional_Tether
+    at:       [-540.000, -150.700, 60.000, 0]
+    level:    [113, 116]
+
+  17899793:
+    template: Procrustean_Draugar
+    at:       [-541.700, -150.500, 50.840, 59]
+    level:    [113, 116]
+
+  17899794:
+    template: Procrustean_Draugar
+    at:       [-545.600, -150.500, 64.923, 133]
+    level:    [113, 116]
+
+  17899795:
+    template: Festering_Umbril
+    at:       [-539.200, -150.600, 58.583, 132]
+    level:    [113, 116]
+
+  17899796:
+    template: Amaranth_Barrier
+    at:       [740.000, 100.000, 122.550, 0]
+    level:    [113, 116]
+
+  17899797:
+    template: Amaranth_Barrier
+    at:       [740.000, 100.000, 120.000, 0]
+    level:    [113, 116]
+
+  17899798:
+    template: Amaranth_Barrier
+    at:       [740.000, 100.000, 117.449, 0]
+    level:    [113, 116]
+
+  17899799:
+    template: Vengeful_Shunned
+    at:       [751.230, 99.484, 111.402, 118]
+    level:    [113, 116]
+
+  17899800:
+    template: Vengeful_Shunned
+    at:       [750.180, 99.497, 112.870, 73]
+    level:    [113, 116]
+
+  17899801:
+    template: Vengeful_Shunned
+    at:       [724.450, 99.499, 114.186, 136]
+    level:    [113, 116]
+
+  17899802:
+    template: Vengeful_Shunned
+    at:       [724.850, 99.499, 122.106, 144]
+    level:    [113, 116]
+
+  17899803:
+    template: Amaranth_Barrier
+    at:       [722.540, 100.000, -180.000, 64]
+    level:    [113, 116]
+
+  17899804:
+    template: Amaranth_Barrier
+    at:       [720.000, 100.000, -180.000, 64]
+    level:    [113, 116]
+
+  17899805:
+    template: Amaranth_Barrier
+    at:       [717.450, 100.000, -180.000, 64]
+    level:    [113, 116]
+
+  17899806:
+    template: Vengeful_Shunned
+    at:       [719.480, 99.500, -197.200, 122]
+    level:    [113, 116]
+
+  17899807:
+    template: Vengeful_Shunned
+    at:       [727.020, 99.500, -195.970, 121]
+    level:    [113, 116]
+
+  17899808:
+    template: Vengeful_Shunned
+    at:       [715.400, 99.500, -169.840, 122]
+    level:    [113, 116]
+
+  17899809:
+    template: Vengeful_Shunned
+    at:       [719.410, 99.746, -175.200, 90]
+    level:    [113, 116]
+
+  17899810:
+    template: Amaranth_Barrier
+    at:       [420.000, 100.000, -157.440, 0]
+    level:    [113, 116]
+
+  17899811:
+    template: Amaranth_Barrier
+    at:       [420.000, 100.000, -160.000, 0]
+    level:    [113, 116]
+
+  17899812:
+    template: Amaranth_Barrier
+    at:       [420.000, 100.000, -162.550, 0]
+    level:    [113, 116]
+
+  17899813:
+    template: Vengeful_Shunned
+    at:       [431.800, 99.499, -164.590, 80]
+    level:    [113, 116]
+
+  17899814:
+    template: Vengeful_Shunned
+    at:       [435.670, 99.499, -148.130, 224]
+    level:    [113, 116]
+
+  17899815:
+    template: Vengeful_Shunned
+    at:       [403.870, 99.430, -152.780, 71]
+    level:    [113, 116]
+
+  17899816:
+    template: Vengeful_Shunned
+    at:       [407.920, 99.483, -160.070, 222]
+    level:    [113, 116]
+
+  17899817:
+    template: Amaranth_Barrier
+    at:       [442.540, 100.000, 140.000, 64]
+    level:    [113, 116]
+
+  17899818:
+    template: Amaranth_Barrier
+    at:       [440.000, 100.000, 140.000, 64]
+    level:    [113, 116]
+
+  17899819:
+    template: Amaranth_Barrier
+    at:       [437.450, 100.000, 140.000, 64]
+    level:    [113, 116]
+
+  17899820:
+    template: Vengeful_Shunned
+    at:       [432.090, 99.500, 129.356, 182]
+    level:    [113, 116]
+
+  17899821:
+    template: Vengeful_Shunned
+    at:       [444.310, 99.476, 125.253, 90]
+    level:    [113, 116]
+
+  17899822:
+    template: Vengeful_Shunned
+    at:       [443.860, 99.499, 150.703, 5]
+    level:    [113, 116]
+
+  17899823:
+    template: Vengeful_Shunned
+    at:       [427.620, 99.309, 155.354, 158]
+    level:    [113, 116]
+
+  17899824:
+    template: Apex_Twitherym
+    level:    [134, 136]
+    region:   outer_rakaznar_s
+
+  17899825:
+    template: Apex_Twitherym
+    level:    [134, 136]
+    region:   outer_rakaznar_s
+
+  17899826:
+    template: Apex_Twitherym
+    level:    [134, 136]
+    region:   outer_rakaznar_s
+
+  17899827:
+    template: Apex_Twitherym
+    level:    [134, 136]
+    region:   outer_rakaznar_s
+
+  17899828:
+    template: Apex_Twitherym
+    level:    [134, 136]
+    region:   outer_rakaznar_s
+
+  17899829:
+    template: Apex_Twitherym
+    level:    [134, 136]
+    region:   outer_rakaznar_s
+
+  17899830:
+    template: Apex_Ironclad
+    at:       [259.320, 69.500, -332.180, 166]
+    level:    [134, 136]
+
+  17899831:
+    template: Apex_Twitherym
+    level:    [134, 136]
+    region:   outer_rakaznar_s_3
+
+  17899832:
+    template: Apex_Twitherym
+    level:    [134, 136]
+    region:   outer_rakaznar_s_3
+
+  17899833:
+    template: Apex_Twitherym
+    level:    [134, 136]
+    region:   outer_rakaznar_s_3
+
+  17899834:
+    template: Apex_Twitherym
+    level:    [134, 136]
+    region:   outer_rakaznar_s_3
+
+  17899835:
+    template: Apex_Twitherym
+    level:    [134, 136]
+    region:   outer_rakaznar_s_3
+
+  17899836:
+    template: Apex_Twitherym
+    level:    [134, 136]
+    region:   outer_rakaznar_s_3
+
+  17899837:
+    template: Apex_Ironclad
+    level:    [134, 136]
+    region:   outer_rakaznar_s_4
+
+  17899838:
+    template: Apex_Twitherym
+    level:    [134, 136]
+    region:   outer_rakaznar_s_2
+
+  17899839:
+    template: Apex_Twitherym
+    level:    [134, 136]
+    region:   outer_rakaznar_s_2
+
+  17899840:
+    template: Apex_Twitherym
+    level:    [134, 136]
+    region:   outer_rakaznar_s_2
+
+  17899841:
+    template: Apex_Twitherym
+    level:    [134, 136]
+    region:   outer_rakaznar_s_2
+
+  17899842:
+    template: Apex_Bat
+    level:    [134, 136]
+    region:   outer_rakaznar_n
+
+  17899843:
+    template: Apex_Bat
+    level:    [134, 136]
+    region:   outer_rakaznar_n
+
+  17899844:
+    template: Apex_Bat
+    level:    [134, 136]
+    region:   outer_rakaznar_n
+
+  17899845:
+    template: Apex_Bat
+    level:    [134, 136]
+    region:   outer_rakaznar_n
+
+  17899846:
+    template: Apex_Bat
+    level:    [134, 136]
+    region:   outer_rakaznar_n
+
+  17899847:
+    template: Apex_Bat
+    level:    [134, 136]
+    region:   outer_rakaznar_n
+
+  17899848:
+    template: Apex_Ironclad
+    at:       [289.970, 69.250, 287.933, 48]
+    level:    [134, 136]
+
+  17899849:
+    template: Apex_Bat
+    level:    [134, 136]
+    region:   outer_rakaznar_n_2
+
+  17899850:
+    template: Apex_Bat
+    level:    [134, 136]
+    region:   outer_rakaznar_n_2
+
+  17899851:
+    template: Apex_Bat
+    level:    [134, 136]
+    region:   outer_rakaznar_n_2
+
+  17899852:
+    template: Apex_Bat
+    level:    [134, 136]
+    region:   outer_rakaznar_n_2
+
+  17899853:
+    template: Apex_Bat
+    level:    [134, 136]
+    region:   outer_rakaznar_n_2
+
+  17899854:
+    template: Apex_Bat
+    level:    [134, 136]
+    region:   outer_rakaznar_n_2
+
+  17899855:
+    template: Apex_Ironclad
+    at:       [292.170, 69.250, 272.269, 182]
+    level:    [134, 136]
+
+  17899856:
+    template: Apex_Bat
+    level:    [134, 136]
+    region:   outer_rakaznar_n_3
+
+  17899857:
+    template: Apex_Bat
+    level:    [134, 136]
+    region:   outer_rakaznar_n_3
+
+  17899858:
+    template: Apex_Bat
+    level:    [134, 136]
+    region:   outer_rakaznar_n_3
+
+  17899859:
+    template: Apex_Bat
+    level:    [134, 136]
+    region:   outer_rakaznar_n_3

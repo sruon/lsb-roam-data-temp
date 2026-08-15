@@ -1,0 +1,958 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  16891905:
+    template: Gazer
+    level:    [48, 50]
+    region:   sacrarium_w
+
+  16891906:
+    template: Gazer
+    level:    [48, 50]
+    region:   sacrarium_w
+
+  16891907:
+    template: Greater_Gaylas
+    level:    [46, 48]
+    region:   sacrarium_w
+
+  16891908:
+    template: Stegotaur
+    level:    [47, 49]
+    region:   sacrarium_w
+
+  16891909:
+    template: Gazer
+    level:    [48, 50]
+    region:   sacrarium_nw
+
+  16891910:
+    template: Stegotaur
+    at:       [-179.476, -8.532, 28.622, 35]
+    level:    [47, 49]
+
+  16891911:
+    template: Stegotaur
+    level:    [47, 49]
+    region:   sacrarium_nw_2
+
+  16891912:
+    template: Greater_Gaylas
+    level:    [46, 48]
+    region:   sacrarium_nw_2
+
+  16891913:
+    template: Mummy
+    at:       [-114.735, -0.600, 28.141, 69]
+    level:    [54, 56]
+
+  16891914:
+    template: Mummy
+    at:       [-115.217, -0.600, 28.080, 65]
+    level:    [54, 56]
+
+  16891915:
+    template: Lich
+    at:       [-107.424, -0.599, 25.998, 253]
+    level:    [54, 56]
+
+  16891916:
+    template: Mummy
+    level:    [54, 56]
+    region:   sacrarium_w_3
+
+  16891917:
+    template: Lich
+    level:    [54, 56]
+    region:   sacrarium_w_3
+
+  16891918:
+    template: Mummy
+    level:    [54, 56]
+    region:   sacrarium_w_2
+
+  16891919:
+    template: Lich
+    level:    [54, 56]
+    region:   sacrarium_w_2
+
+  16891920:
+    template: Mummy
+    at:       [-86.657, -0.500, -33.218, 195]
+    level:    [54, 56]
+
+  16891921:
+    template: Lich
+    at:       [-88.555, -0.599, -35.281, 0]
+    level:    [54, 56]
+
+  16891922:
+    template: Lich
+    at:       [-95.769, -0.599, -31.763, 180]
+    level:    [54, 56]
+
+  16891923:
+    template: Mummy
+    at:       [-66.121, -0.600, 12.150, 189]
+    level:    [54, 56]
+
+  16891924:
+    template: Lich
+    at:       [-75.203, -0.599, 7.772, 180]
+    level:    [54, 56]
+
+  16891925:
+    template: Blubber_Eyes
+    at:       [-73.763, -0.580, 4.092, 125]
+    level:    [57, 59]
+
+  16891926:
+    template: Mummy
+    level:    [54, 56]
+    region:   sacrarium_w_5
+
+  16891927:
+    template: Blubber_Eyes
+    level:    [57, 59]
+    region:   sacrarium_w_5
+
+  16891928:
+    template: Mummy
+    level:    [54, 56]
+    region:   sacrarium_w_4
+
+  16891929:
+    template: Lich
+    at:       [-75.346, -0.599, -23.966, 45]
+    level:    [54, 56]
+
+  16891930:
+    template: Blubber_Eyes
+    level:    [57, 59]
+    region:   sacrarium_w_4
+
+  16891931:
+    template: Mummy
+    at:       [-50.657, -0.500, -6.315, 133]
+    level:    [54, 56]
+
+  16891932:
+    template: Lich
+    at:       [-47.806, -0.599, -6.104, 131]
+    level:    [54, 56]
+
+  16891933:
+    template: Blubber_Eyes
+    at:       [-53.992, -0.564, -22.007, 189]
+    level:    [57, 59]
+
+  16891934:
+    template: Mummy
+    level:    [54, 56]
+    region:   sacrarium_c_3
+
+  16891935:
+    template: Lich
+    level:    [54, 56]
+    region:   sacrarium_c_3
+
+  16891936:
+    template: Mummy
+    at:       [-7.401, -0.600, 14.979, 127]
+    level:    [54, 56]
+
+  16891937:
+    template: Mummy
+    at:       [-7.693, -0.600, 14.770, 141]
+    level:    [54, 56]
+
+  16891938:
+    template: Lich
+    level:    [54, 56]
+    region:   sacrarium_c_2
+
+  16891939:
+    template: Lich
+    level:    [54, 56]
+    region:   sacrarium_c_2
+
+  16891940:
+    template: Mummy
+    at:       [-12.080, -0.600, -24.003, 130]
+    level:    [54, 56]
+
+  16891941:
+    template: Lich
+    at:       [-4.394, -0.569, -27.598, 192]
+    level:    [54, 56]
+
+  16891942:
+    template: Utukku
+    at:       [-96.111, -0.600, 16.924, 0]
+    level:    [55, 55]
+
+  16891943:
+    template: Utukku
+    at:       [-62.752, -0.600, 26.318, 132]
+    level:    [55, 55]
+
+  16891944:
+    template: Utukku
+    level:    [55, 55]
+    region:   sacrarium_c
+
+  16891945:
+    template: Utukku
+    at:       [-114.945, -0.500, -10.143, 75]
+    level:    [55, 55]
+
+  16891946:
+    template: Utukku
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [55, 55]
+
+  16891947:
+    template: Utukku
+    level:    [55, 55]
+    region:   sacrarium_w_6
+
+  16891948:
+    template: Elel
+    level:    [60, 60]
+    region:   sacrarium_c_4
+
+  16891949:
+    template: Stegotaur
+    at:       [-60.798, -0.606, 46.926, 188]
+    level:    [47, 49]
+
+  16891950:
+    template: Stegotaur
+    at:       [-60.765, -0.347, -53.644, 187]
+    level:    [47, 49]
+
+  16891951:
+    template: Fomor_Ranger
+    level:    [54, 56]
+    region:   sacrarium_n
+
+  16891952:
+    template: Fomor_Ninja
+    level:    [54, 56]
+    region:   sacrarium_n
+
+  16891953:
+    template: Fomor_Bard
+    level:    [54, 56]
+    region:   sacrarium_n
+
+  16891954:
+    template: Fomor_Dragoon
+    at:       [49.031, -0.624, 67.719, 184]
+    level:    [54, 56]
+
+  16891955:
+    template: Fomors_Wyvern
+    at:       [1.000, 1.000, 1.000, 254]
+    level:    [49, 52]
+
+  16891956:
+    template: Fomor_Ranger
+    at:       [49.294, -0.608, 65.212, 61]
+    level:    [54, 56]
+
+  16891957:
+    template: Fomor_Black_Mage
+    level:    [54, 56]
+    region:   sacrarium_n_4
+
+  16891958:
+    template: Fomor_Bard
+    level:    [54, 56]
+    region:   sacrarium_n_4
+
+  16891959:
+    template: Fomor_Beastmaster
+    level:    [54, 56]
+    region:   sacrarium_n_4
+
+  16891960:
+    template: Fomors_Bats
+    level:    [49, 51]
+    region:   sacrarium_n_4
+
+  16891961:
+    template: Fomor_Monk
+    level:    [54, 56]
+    region:   sacrarium_s
+
+  16891962:
+    template: Fomor_Red_Mage
+    level:    [54, 56]
+    region:   sacrarium_s
+
+  16891963:
+    template: Fomor_Samurai
+    level:    [54, 56]
+    region:   sacrarium_s
+
+  16891964:
+    template: Fomor_Dark_Knight
+    at:       [57.013, -0.596, -70.723, 129]
+    level:    [54, 56]
+
+  16891965:
+    template: Fomor_Summoner
+    at:       [57.116, -0.596, -70.561, 128]
+    level:    [54, 56]
+
+  16891966:
+    template: Fomors_Elemental
+    at:       [1.000, 1.000, 1.000, 120]
+    level:    [49, 51]
+
+  16891967:
+    template: Fomor_Warrior
+    level:    [54, 56]
+    region:   sacrarium_s_4
+
+  16891968:
+    template: Fomor_Thief
+    level:    [54, 56]
+    region:   sacrarium_s_4
+
+  16891969:
+    template: Fomor_Paladin
+    level:    [54, 56]
+    region:   sacrarium_s_4
+
+  16891970:
+    template: Old_Professor_Mariselle
+    at:       [57.135, -2.023, -123.622, 190]
+    level:    [55, 55]
+
+  16891971:
+    template: Mariselles_Pupil
+    at:       [57.959, -2.500, -123.480, 166]
+    level:    [47, 48]
+
+  16891972:
+    template: Mariselles_Pupil
+    at:       [58.636, -2.500, -122.869, 142]
+    level:    [47, 48]
+
+  16891973:
+    template: Fomor_Ranger
+    level:    [55, 56]
+    region:   sacrarium_n_2
+
+  16891974:
+    template: Fomor_Samurai
+    level:    [55, 56]
+    region:   sacrarium_n_2
+
+  16891975:
+    template: Fomor_Dragoon
+    level:    [55, 56]
+    region:   sacrarium_n_2
+
+  16891976:
+    template: Fomors_Wyvern
+    level:    [49, 52]
+    region:   sacrarium_n_2
+
+  16891977:
+    template: Fomor_Ranger
+    level:    [55, 56]
+    region:   sacrarium_n_2
+
+  16891978:
+    template: Fomor_Samurai
+    level:    [55, 56]
+    region:   sacrarium_n_2
+
+  16891979:
+    template: Fomor_Dragoon
+    level:    [55, 56]
+    region:   sacrarium_n_2
+
+  16891980:
+    template: Fomors_Wyvern
+    level:    [49, 52]
+    region:   sacrarium_n_2
+
+  16891981:
+    template: Greater_Gaylas
+    level:    [46, 48]
+    region:   sacrarium_n_2
+
+  16891982:
+    template: Fomor_Warrior
+    level:    [55, 56]
+    region:   sacrarium_n_3
+
+  16891983:
+    template: Fomor_Thief
+    level:    [55, 56]
+    region:   sacrarium_n_3
+
+  16891984:
+    template: Fomor_Ranger
+    level:    [55, 56]
+    region:   sacrarium_n_3
+
+  16891985:
+    template: Fomor_Warrior
+    level:    [55, 56]
+    region:   sacrarium_n_3
+
+  16891986:
+    template: Fomor_Thief
+    level:    [55, 56]
+    region:   sacrarium_n_3
+
+  16891987:
+    template: Fomor_Ranger
+    level:    [55, 56]
+    region:   sacrarium_n_3
+
+  16891988:
+    template: Greater_Gaylas
+    level:    [46, 48]
+    region:   sacrarium_n_3
+
+  16891989:
+    template: Fomor_Monk
+    level:    [55, 56]
+    region:   sacrarium_n_5
+
+  16891990:
+    template: Fomor_Black_Mage
+    level:    [55, 56]
+    region:   sacrarium_n_5
+
+  16891991:
+    template: Fomor_Summoner
+    level:    [55, 56]
+    region:   sacrarium_n_5
+
+  16891992:
+    template: Fomors_Elemental
+    level:    [49, 51]
+    region:   sacrarium_n_5
+
+  16891993:
+    template: Fomor_Monk
+    level:    [55, 56]
+    region:   sacrarium_n_5
+
+  16891994:
+    template: Fomor_Black_Mage
+    level:    [55, 56]
+    region:   sacrarium_n_5
+
+  16891995:
+    template: Fomor_Summoner
+    level:    [55, 56]
+    region:   sacrarium_n_5
+
+  16891996:
+    template: Fomors_Elemental
+    level:    [49, 51]
+    region:   sacrarium_n_5
+
+  16891997:
+    template: Greater_Gaylas
+    level:    [46, 48]
+    region:   sacrarium_n_5
+
+  16891998:
+    template: Fomor_Red_Mage
+    level:    [55, 56]
+    region:   sacrarium_s_2
+
+  16891999:
+    template: Fomor_Dark_Knight
+    level:    [55, 56]
+    region:   sacrarium_s_2
+
+  16892000:
+    template: Fomor_Ninja
+    level:    [55, 56]
+    region:   sacrarium_s_2
+
+  16892001:
+    template: Fomor_Red_Mage
+    level:    [55, 56]
+    region:   sacrarium_s_2
+
+  16892002:
+    template: Fomor_Dark_Knight
+    level:    [55, 56]
+    region:   sacrarium_s_2
+
+  16892003:
+    template: Fomor_Ninja
+    level:    [55, 56]
+    region:   sacrarium_s_2
+
+  16892004:
+    template: Greater_Gaylas
+    level:    [46, 48]
+    region:   sacrarium_s_2
+
+  16892005:
+    template: Fomor_Paladin
+    level:    [55, 56]
+    region:   sacrarium_s_3
+
+  16892006:
+    template: Fomor_Beastmaster
+    level:    [55, 56]
+    region:   sacrarium_s_3
+
+  16892007:
+    template: Fomors_Bats
+    level:    [49, 51]
+    region:   sacrarium_s_3
+
+  16892008:
+    template: Fomor_Bard
+    level:    [55, 56]
+    region:   sacrarium_s_3
+
+  16892009:
+    template: Fomor_Paladin
+    level:    [55, 56]
+    region:   sacrarium_s_3
+
+  16892010:
+    template: Fomor_Beastmaster
+    level:    [55, 56]
+    region:   sacrarium_s_3
+
+  16892011:
+    template: Fomors_Bats
+    level:    [49, 51]
+    region:   sacrarium_s_3
+
+  16892012:
+    template: Fomor_Bard
+    level:    [55, 56]
+    region:   sacrarium_s_3
+
+  16892013:
+    template: Greater_Gaylas
+    level:    [46, 48]
+    region:   sacrarium_s_3
+
+  16892014:
+    template: Fomor_Bard
+    at:       [100.000, -3.229, -129.000, 192]
+    level:    [55, 56]
+
+  16892015:
+    template: Fomor_Monk
+    at:       [94.000, -2.500, -116.000, 64]
+    level:    [56, 57]
+
+  16892016:
+    template: Fomor_Samurai
+    at:       [92.000, -2.500, -110.000, 64]
+    level:    [55, 56]
+
+  16892017:
+    template: Fomor_Ninja
+    at:       [96.000, -2.500, -110.000, 64]
+    level:    [55, 56]
+
+  16892018:
+    template: Fomor_Black_Mage
+    at:       [106.000, -2.500, -116.000, 64]
+    level:    [56, 57]
+
+  16892019:
+    template: Fomor_Ranger
+    at:       [104.000, -2.500, -110.000, 64]
+    level:    [55, 56]
+
+  16892020:
+    template: Fomor_Red_Mage
+    at:       [108.000, -2.500, -110.000, 64]
+    level:    [55, 56]
+
+  16892021:
+    template: Greater_Gaylas
+    level:    [46, 48]
+    region:   sacrarium_s_5
+
+  16892022:
+    template: Fomor_Thief
+    level:    [57, 58]
+    region:   sacrarium_c_7
+
+  16892023:
+    template: Fomor_Samurai
+    level:    [56, 57]
+    region:   sacrarium_c_7
+
+  16892024:
+    template: Blubber_Eyes
+    level:    [57, 59]
+    region:   sacrarium_c_7
+
+  16892025:
+    template: Fomor_Summoner
+    level:    [54, 55]
+    region:   sacrarium_c_7
+
+  16892026:
+    template: Fomors_Elemental
+    level:    [49, 51]
+    region:   sacrarium_c_7
+
+  16892027:
+    template: Fomor_Monk
+    level:    [57, 58]
+    region:   sacrarium_c_5
+
+  16892028:
+    template: Fomor_Warrior
+    level:    [56, 57]
+    region:   sacrarium_c_5
+
+  16892029:
+    template: Teratotaur
+    level:    [57, 58]
+    region:   sacrarium_c_6
+
+  16892030:
+    template: Teratotaur
+    level:    [57, 58]
+    region:   sacrarium_c_6
+
+  16892031:
+    template: Teratotaur
+    level:    [57, 58]
+    region:   sacrarium_c_6
+
+  16892032:
+    template: Teratotaur
+    level:    [57, 58]
+    region:   sacrarium_c_6
+
+  16892033:
+    template: Teratotaur
+    at:       [136.889, -0.600, 60.078, 0]
+    level:    [57, 58]
+
+  16892034:
+    template: Fomor_Warrior
+    level:    [57, 58]
+    region:   sacrarium_e
+
+  16892035:
+    template: Fomor_Dragoon
+    level:    [56, 57]
+    region:   sacrarium_e
+
+  16892036:
+    template: Fomors_Wyvern
+    level:    [49, 52]
+    region:   sacrarium_e
+
+  16892037:
+    template: Fomor_Bard
+    level:    [56, 57]
+    region:   sacrarium_e
+
+  16892038:
+    template: Fomor_Dark_Knight
+    level:    [56, 57]
+    region:   sacrarium_e
+
+  16892039:
+    template: Fomor_Black_Mage
+    level:    [56, 57]
+    region:   sacrarium_e
+
+  16892040:
+    template: Blubber_Eyes
+    level:    [57, 59]
+    region:   sacrarium_e
+
+  16892041:
+    template: Blubber_Eyes
+    level:    [57, 59]
+    region:   sacrarium_e
+
+  16892042:
+    template: Teratotaur
+    at:       [138.962, -0.599, -59.506, 252]
+    level:    [57, 58]
+
+  16892043:
+    template: Teratotaur
+    level:    [58, 59]
+    region:   sacrarium_e_2
+
+  16892044:
+    template: Teratotaur
+    level:    [58, 59]
+    region:   sacrarium_e_2
+
+  16892045:
+    template: Greater_Gaylas
+    level:    [46, 48]
+    region:   sacrarium_e_2
+
+  16892046:
+    template: Greater_Gaylas
+    level:    [46, 48]
+    region:   sacrarium_e_2
+
+  16892047:
+    template: Greater_Gaylas
+    level:    [46, 48]
+    region:   sacrarium_e_2
+
+  16892048:
+    template: Greater_Gaylas
+    level:    [46, 48]
+    region:   sacrarium_e_2
+
+  16892049:
+    template: Keremet
+    at:       [261.000, -0.500, 0.000, 128]
+    level:    [56, 57]
+
+  16892050:
+    template: Azren_Kuguza
+    at:       [169.000, -0.500, 17.000, 192]
+    level:    [42, 43]
+
+  16892051:
+    template: Azren_Kuba
+    at:       [169.000, -0.500, 23.000, 64]
+    level:    [42, 43]
+
+  16892052:
+    template: Azren_Kuguza
+    at:       [180.000, -0.500, 17.000, 192]
+    level:    [42, 43]
+
+  16892053:
+    template: Azren_Kuba
+    at:       [180.000, -0.500, 23.000, 64]
+    level:    [42, 43]
+
+  16892054:
+    template: Azren_Kuguza
+    at:       [191.000, -0.500, 17.000, 192]
+    level:    [42, 43]
+
+  16892055:
+    template: Azren_Kuba
+    at:       [191.000, -0.500, 23.000, 64]
+    level:    [42, 43]
+
+  16892056:
+    template: Azren_Kuguza
+    at:       [169.000, -0.500, -17.000, 64]
+    level:    [42, 43]
+
+  16892057:
+    template: Azren_Kuba
+    at:       [169.000, -0.500, -23.000, 192]
+    level:    [42, 43]
+
+  16892058:
+    template: Azren_Kuguza
+    at:       [180.000, -0.500, -17.000, 64]
+    level:    [42, 43]
+
+  16892059:
+    template: Azren_Kuba
+    at:       [180.000, -0.500, -23.000, 192]
+    level:    [42, 43]
+
+  16892060:
+    template: Azren_Kuguza
+    at:       [191.000, -0.500, -17.000, 64]
+    level:    [42, 43]
+
+  16892061:
+    template: Azren_Kuba
+    at:       [191.000, -0.500, -23.000, 192]
+    level:    [42, 43]
+
+  16892062:
+    template: Air_Elemental
+    level:    [60, 60]
+    region:   sacrarium_ne
+
+  16892063:
+    template: Thunder_Elemental
+    level:    [60, 60]
+    region:   sacrarium_ne
+
+  16892064:
+    template: Dark_Elemental
+    at:       [153.218, 5.472, 100.007, 127]
+    level:    [60, 60]
+
+  16892065:
+    template: Air_Elemental
+    level:    [60, 60]
+    region:   sacrarium_se
+
+  16892066:
+    template: Thunder_Elemental
+    level:    [60, 60]
+    region:   sacrarium_se
+
+  16892067:
+    template: Dark_Elemental
+    level:    [60, 60]
+    region:   sacrarium_se
+
+  16892068:
+    template: Balor
+    at:       [32.129, -2.500, 117.292, 196]
+    level:    [57, 58]
+
+  16892069:
+    template: Luaith
+    at:       [69.000, -2.500, 116.000, 65]
+    level:    [57, 58]
+
+  16892070:
+    template: Lobais
+    at:       [109.000, -2.500, 116.000, 103]
+    level:    [57, 58]
+
+  16892071:
+    template: Fomors_Elemental_Lobais
+    at:       [1.000, 1.000, 1.000, 102]
+    level:    [53, 53]
+
+  16892072:
+    template: Fomors_Avatar
+    at:       [102.910, -2.500, 90.210, 131]
+    level:    [49, 51]
+
+  16892073:
+    template: Caithleann
+    at:       [11.000, -2.500, -115.000, 2]
+    level:    [57, 58]
+
+  16892074:
+    template: Indich
+    at:       [50.000, -2.250, -115.000, 238]
+    level:    [57, 58]
+
+  16892075:
+    template: Aqueduct_Spider
+    at:       [-172.143, -7.947, -18.455, 18]
+    level:    [84, 86]
+
+  16892076:
+    template: Aqueduct_Spider
+    at:       [-176.226, -8.599, -20.349, 218]
+    level:    [84, 86]
+
+  16892077:
+    template: Aqueduct_Spider
+    at:       [-185.510, -8.599, -20.465, 164]
+    level:    [84, 86]
+
+  16892078:
+    template: Aqueduct_Spider
+    at:       [-181.463, -8.599, -24.307, 48]
+    level:    [84, 86]
+
+  16892079:
+    template: Aqueduct_Spider
+    at:       [-180.419, -8.585, -14.921, 171]
+    level:    [84, 86]
+
+  16892080:
+    template: Aqueduct_Spider
+    at:       [-166.700, -7.600, -19.257, 72]
+    level:    [84, 86]
+
+  16892081:
+    template: Aqueduct_Spider
+    at:       [-159.137, -7.600, -16.144, 255]
+    level:    [84, 86]
+
+  16892082:
+    template: Aqueduct_Spider
+    at:       [158.470, -0.837, 59.464, 127]
+    level:    [84, 86]
+
+  16892083:
+    template: Aqueduct_Spider
+    at:       [158.531, -0.821, 59.227, 127]
+    level:    [84, 86]
+
+  16892084:
+    template: Aqueduct_Spider
+    at:       [139.119, -0.368, 80.249, 63]
+    level:    [84, 86]
+
+  16892085:
+    template: Aqueduct_Spider
+    at:       [139.297, 0.879, 86.147, 64]
+    level:    [84, 86]
+
+  16892086:
+    template: Aqueduct_Spider
+    level:    [84, 86]
+    region:   sacrarium_ne
+
+  16892087:
+    template: Aqueduct_Spider
+    level:    [84, 86]
+    region:   sacrarium_ne
+
+  16892088:
+    template: Aqueduct_Spider
+    level:    [84, 86]
+    region:   sacrarium_ne
+
+  16892089:
+    template: Aqueduct_Spider
+    at:       [140.228, -0.560, -81.596, 64]
+    level:    [84, 86]
+
+  16892090:
+    template: Aqueduct_Spider
+    at:       [140.477, -0.529, -80.427, 64]
+    level:    [84, 86]
+
+  16892091:
+    template: Aqueduct_Spider
+    at:       [168.678, -2.474, -61.076, 255]
+    level:    [84, 86]
+
+  16892092:
+    template: Aqueduct_Spider
+    at:       [172.191, -3.305, -60.903, 255]
+    level:    [84, 86]
+
+  16892093:
+    template: Aqueduct_Spider
+    level:    [84, 86]
+    region:   sacrarium_se
+
+  16892094:
+    template: Aqueduct_Spider
+    level:    [84, 86]
+    region:   sacrarium_se
+
+  16892095:
+    template: Aqueduct_Spider
+    level:    [84, 86]
+    region:   sacrarium_se

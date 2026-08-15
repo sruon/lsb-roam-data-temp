@@ -1,0 +1,3663 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17182721:
+    template: Odontotyrannus
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [52, 52]
+
+  17182722:
+    template: Yagudo_Sentinel
+    level:    [76, 79]
+    region:   castle_oztroja_s_w_4
+
+  17182723:
+    template: Yagudo_Knight_Templar
+    level:    [76, 79]
+    region:   castle_oztroja_s_w_4
+
+  17182724:
+    template: Bastion_Bats
+    level:    [70, 72]
+    region:   castle_oztroja_s_w_4
+
+  17182725:
+    template: Bastion_Bats
+    level:    [70, 72]
+    region:   castle_oztroja_s_w_4
+
+  17182726:
+    template: Yagudo_Eradicator
+    level:    [76, 79]
+    region:   castle_oztroja_s_nw_12
+
+  17182727:
+    template: Yagudo_Sentinel
+    level:    [76, 79]
+    region:   castle_oztroja_s_nw_12
+
+  17182728:
+    template: Yagudo_High_Priest
+    level:    [76, 79]
+    region:   castle_oztroja_s_w_3
+
+  17182729:
+    template: Yagudo_Prelate
+    level:    [76, 79]
+    region:   castle_oztroja_s_w_3
+
+  17182730:
+    template: Bastion_Bats
+    level:    [70, 72]
+    region:   castle_oztroja_s_w_3
+
+  17182731:
+    template: Bastion_Bats
+    level:    [70, 72]
+    region:   castle_oztroja_s_w_3
+
+  17182732:
+    template: Yagudo_Chanter
+    level:    [76, 79]
+    region:   castle_oztroja_s_sw
+
+  17182733:
+    template: Yagudo_Prioress
+    level:    [76, 79]
+    region:   castle_oztroja_s_sw
+
+  17182734:
+    template: Yagudos_Elemental
+    level:    [70, 79]
+    region:   castle_oztroja_s_sw
+
+  17182735:
+    template: Yagudo_High_Priest
+    level:    [76, 79]
+    region:   castle_oztroja_s_c_3
+
+  17182736:
+    template: Yagudo_Prelate
+    level:    [76, 79]
+    region:   castle_oztroja_s_c_3
+
+  17182737:
+    template: Yagudo_Chanter
+    level:    [76, 79]
+    region:   castle_oztroja_s_c_3
+
+  17182738:
+    template: Yagudo_Knight_Templar
+    level:    [76, 79]
+    region:   castle_oztroja_s_c_6
+
+  17182739:
+    template: Yagudo_Eradicator
+    level:    [76, 79]
+    region:   castle_oztroja_s_c_6
+
+  17182740:
+    template: Yagudo_Sentinel
+    level:    [76, 79]
+    region:   castle_oztroja_s_c_6
+
+  17182741:
+    template: Yagudo_Eradicator
+    level:    [76, 79]
+    region:   castle_oztroja_s_c_11
+
+  17182742:
+    template: Yagudo_Sentinel
+    level:    [76, 79]
+    region:   castle_oztroja_s_c_11
+
+  17182743:
+    template: Yagudo_High_Priest
+    level:    [76, 79]
+    region:   castle_oztroja_s_c_11
+
+  17182744:
+    template: Yagudo_Knight_Templar
+    level:    [76, 79]
+    region:   castle_oztroja_s_c_9
+
+  17182745:
+    template: Yagudo_Prelate
+    level:    [76, 79]
+    region:   castle_oztroja_s_c_11
+
+  17182746:
+    template: Yagudo_Chanter
+    level:    [76, 79]
+    region:   castle_oztroja_s_c_9
+
+  17182747:
+    template: Yagudo_Prioress
+    level:    [76, 79]
+    region:   castle_oztroja_s_c_3
+
+  17182748:
+    template: Yagudos_Elemental
+    level:    [70, 79]
+    region:   castle_oztroja_s_c_3
+
+  17182749:
+    template: Bastion_Bats
+    level:    [70, 72]
+    region:   castle_oztroja_s_c_4
+
+  17182750:
+    template: Bastion_Bats
+    level:    [70, 72]
+    region:   castle_oztroja_s_c_4
+
+  17182751:
+    template: Bastion_Bats
+    level:    [70, 72]
+    region:   castle_oztroja_s_c_4
+
+  17182752:
+    template: Yagudo_Knight_Templar
+    level:    [76, 79]
+    region:   castle_oztroja_s_n_4
+
+  17182753:
+    template: Yagudo_Eradicator
+    level:    [76, 79]
+    region:   castle_oztroja_s_n_4
+
+  17182754:
+    template: Yagudo_Chanter
+    level:    [76, 79]
+    region:   castle_oztroja_s_n_4
+
+  17182755:
+    template: Bastion_Bats
+    level:    [70, 72]
+    region:   castle_oztroja_s_n_4
+
+  17182756:
+    template: Yagudo_Knight_Templar
+    level:    [76, 79]
+    region:   castle_oztroja_s_n_2
+
+  17182757:
+    template: Yagudo_Knight_Templar
+    level:    [76, 79]
+    region:   castle_oztroja_s_n_2
+
+  17182758:
+    template: Yagudo_Eradicator
+    level:    [76, 79]
+    region:   castle_oztroja_s_n_2
+
+  17182759:
+    template: Yagudo_Chanter
+    level:    [76, 79]
+    region:   castle_oztroja_s_n_2
+
+  17182760:
+    template: Bastion_Bats
+    level:    [70, 72]
+    region:   castle_oztroja_s_n_2
+
+  17182761:
+    template: Yagudo_Knight_Templar
+    level:    [76, 79]
+    region:   castle_oztroja_s_nw_10
+
+  17182762:
+    template: Yagudo_Chanter
+    level:    [76, 79]
+    region:   castle_oztroja_s_nw_10
+
+  17182763:
+    template: Blooming_Rafflesia
+    level:    [71, 73]
+    region:   castle_oztroja_s_nw_10
+
+  17182764:
+    template: Blooming_Rafflesia
+    level:    [71, 73]
+    region:   castle_oztroja_s_nw_10
+
+  17182765:
+    template: Yagudo_Knight_Templar
+    level:    [76, 79]
+    region:   castle_oztroja_s_nw
+
+  17182766:
+    template: Yagudo_Chanter
+    level:    [76, 79]
+    region:   castle_oztroja_s_nw
+
+  17182767:
+    template: Blooming_Rafflesia
+    level:    [71, 73]
+    region:   castle_oztroja_s_nw
+
+  17182768:
+    template: Blooming_Rafflesia
+    level:    [71, 73]
+    region:   castle_oztroja_s_nw
+
+  17182769:
+    template: Yagudo_Eradicator
+    level:    [76, 79]
+    region:   castle_oztroja_s_nw_9
+
+  17182770:
+    template: Yagudo_Chanter
+    level:    [76, 79]
+    region:   castle_oztroja_s_nw_9
+
+  17182771:
+    template: Blooming_Rafflesia
+    level:    [71, 73]
+    region:   castle_oztroja_s_nw_9
+
+  17182772:
+    template: Blooming_Rafflesia
+    level:    [71, 73]
+    region:   castle_oztroja_s_nw_9
+
+  17182773:
+    template: Yagudo_Eradicator
+    level:    [76, 79]
+    region:   castle_oztroja_s_nw_5
+
+  17182774:
+    template: Yagudo_Chanter
+    level:    [76, 79]
+    region:   castle_oztroja_s_nw_5
+
+  17182775:
+    template: Blooming_Rafflesia
+    level:    [71, 73]
+    region:   castle_oztroja_s_nw_5
+
+  17182776:
+    template: Blooming_Rafflesia
+    level:    [71, 73]
+    region:   castle_oztroja_s_nw_5
+
+  17182777:
+    template: Yagudo_Chanter
+    at:       [-208.926, -1.160, 142.801, 192]
+    level:    [76, 79]
+
+  17182778:
+    template: Yagudo_Eradicator
+    at:       [-214.923, -1.188, 149.607, 6]
+    level:    [76, 79]
+
+  17182779:
+    template: Antlion_Fly
+    level:    [63, 64]
+    region:   castle_oztroja_s_nw_7
+
+  17182780:
+    template: Antlion_Fly
+    level:    [63, 64]
+    region:   castle_oztroja_s_nw_7
+
+  17182781:
+    template: Antlion_Fly
+    level:    [63, 64]
+    region:   castle_oztroja_s_nw_6
+
+  17182782:
+    template: Antlion_Fly
+    level:    [63, 64]
+    region:   castle_oztroja_s_nw_6
+
+  17182783:
+    template: Yagudo_Knight_Templar
+    level:    [76, 79]
+    region:   castle_oztroja_s_nw_2
+
+  17182784:
+    template: Yagudo_Eradicator
+    level:    [76, 79]
+    region:   castle_oztroja_s_nw_2
+
+  17182785:
+    template: Antlion_Fly
+    level:    [63, 64]
+    region:   castle_oztroja_s_nw_2
+
+  17182786:
+    template: Antlion_Fly
+    level:    [63, 64]
+    region:   castle_oztroja_s_nw_2
+
+  17182787:
+    template: Antlion_Fly
+    level:    [63, 64]
+    region:   castle_oztroja_s_nw_2
+
+  17182788:
+    template: Earth_Elemental
+    level:    [80, 80]
+    region:   castle_oztroja_s_nw_5
+
+  17182789:
+    template: Fire_Elemental
+    level:    [80, 80]
+    region:   castle_oztroja_s_nw_4
+
+  17182790:
+    template: Duu_Masa_the_Onecut
+    at:       [-182.571, -0.689, 137.769, 93]
+    level:    [80, 80]
+
+  17182791:
+    template: Yagudo_Sentinel
+    level:    [76, 79]
+    region:   castle_oztroja_s_c_13
+
+  17182792:
+    template: Yagudo_High_Priest
+    level:    [76, 79]
+    region:   castle_oztroja_s_c_13
+
+  17182793:
+    template: Yagudo_Sentinel
+    level:    [76, 79]
+    region:   castle_oztroja_s_e
+
+  17182794:
+    template: Yagudo_Prelate
+    level:    [76, 79]
+    region:   castle_oztroja_s_e
+
+  17182795:
+    template: Yagudo_Prioress
+    level:    [76, 79]
+    region:   castle_oztroja_s_e
+
+  17182796:
+    template: Yagudos_Elemental
+    level:    [70, 79]
+    region:   castle_oztroja_s_e
+
+  17182797:
+    template: Bastion_Bats
+    level:    [70, 72]
+    region:   castle_oztroja_s_e
+
+  17182798:
+    template: Yagudo_Prelate
+    level:    [76, 79]
+    region:   castle_oztroja_s_c_14
+
+  17182799:
+    template: Yagudo_Prioress
+    level:    [76, 79]
+    region:   castle_oztroja_s_c_14
+
+  17182800:
+    template: Yagudos_Elemental
+    level:    [70, 79]
+    region:   castle_oztroja_s_c_14
+
+  17182801:
+    template: Bastion_Bats
+    level:    [70, 72]
+    region:   castle_oztroja_s_c_14
+
+  17182802:
+    template: Yagudo_High_Priest
+    level:    [76, 79]
+    region:   castle_oztroja_s_c_10
+
+  17182803:
+    template: Yagudo_Prelate
+    level:    [76, 79]
+    region:   castle_oztroja_s_c_10
+
+  17182804:
+    template: Yagudo_Sentinel
+    level:    [76, 79]
+    region:   castle_oztroja_s_s_3
+
+  17182805:
+    template: Yagudo_Sentinel
+    level:    [76, 79]
+    region:   castle_oztroja_s_s_3
+
+  17182806:
+    template: Yagudo_High_Priest
+    level:    [76, 79]
+    region:   castle_oztroja_s_s_3
+
+  17182807:
+    template: Yagudo_Prelate
+    level:    [76, 79]
+    region:   castle_oztroja_s_s_3
+
+  17182808:
+    template: Yagudo_Sentinel
+    level:    [76, 79]
+    region:   castle_oztroja_s_s_3
+
+  17182809:
+    template: Yagudo_Sentinel
+    level:    [76, 79]
+    region:   castle_oztroja_s_s_3
+
+  17182810:
+    template: Yagudo_High_Priest
+    level:    [76, 79]
+    region:   castle_oztroja_s_s_3
+
+  17182811:
+    template: Yagudo_Prelate
+    level:    [76, 79]
+    region:   castle_oztroja_s_s_3
+
+  17182812:
+    template: Yagudo_Sentinel
+    level:    [76, 79]
+    region:   castle_oztroja_s_s_3
+
+  17182813:
+    template: Zhuu_Buxu_the_Silent
+    at:       [-103.220, -0.246, -159.507, 86]
+    level:    [80, 84]
+
+  17182814:
+    template: Yagudo_Sentinel
+    level:    [76, 79]
+    region:   castle_oztroja_s_se_3
+
+  17182815:
+    template: Yagudo_High_Priest
+    level:    [76, 79]
+    region:   castle_oztroja_s_se_3
+
+  17182816:
+    template: Yagudo_Prelate
+    level:    [76, 79]
+    region:   castle_oztroja_s_se_3
+
+  17182817:
+    template: War_Lynx
+    level:    [71, 73]
+    region:   castle_oztroja_s_se_3
+
+  17182818:
+    template: War_Lynx
+    level:    [71, 73]
+    region:   castle_oztroja_s_se_3
+
+  17182819:
+    template: Yagudo_Prioress
+    level:    [76, 79]
+    region:   castle_oztroja_s_se_4
+
+  17182820:
+    template: Yagudos_Elemental
+    level:    [70, 79]
+    region:   castle_oztroja_s_se_4
+
+  17182821:
+    template: War_Lynx
+    at:       [79.584, -0.455, -181.475, 18]
+    level:    [71, 73]
+
+  17182822:
+    template: War_Lynx
+    at:       [75.107, -0.045, -184.289, 111]
+    level:    [71, 73]
+
+  17182823:
+    template: Yagudo_High_Priest
+    level:    [76, 79]
+    region:   castle_oztroja_s_se_5
+
+  17182824:
+    template: Yagudo_Prelate
+    level:    [76, 79]
+    region:   castle_oztroja_s_se_5
+
+  17182825:
+    template: War_Lynx
+    level:    [71, 73]
+    region:   castle_oztroja_s_se_5
+
+  17182826:
+    template: War_Lynx
+    level:    [71, 73]
+    region:   castle_oztroja_s_se_5
+
+  17182827:
+    template: Yagudo_Sentinel
+    level:    [76, 79]
+    region:   castle_oztroja_s_se_13
+
+  17182828:
+    template: Yagudo_High_Priest
+    level:    [76, 79]
+    region:   castle_oztroja_s_se_13
+
+  17182829:
+    template: War_Lynx
+    level:    [71, 73]
+    region:   castle_oztroja_s_se_13
+
+  17182830:
+    template: War_Lynx
+    level:    [71, 73]
+    region:   castle_oztroja_s_se_13
+
+  17182831:
+    template: Yagudo_High_Priest
+    at:       [58.625, -1.187, -150.909, 9]
+    level:    [76, 79]
+
+  17182832:
+    template: Yagudo_Prelate
+    at:       [69.826, -1.187, -143.834, 208]
+    level:    [76, 79]
+
+  17182833:
+    template: Immolatory_Pugil
+    level:    [64, 64]
+    region:   castle_oztroja_s_se_11
+
+  17182834:
+    template: Immolatory_Pugil
+    level:    [64, 64]
+    region:   castle_oztroja_s_se_11
+
+  17182835:
+    template: Immolatory_Pugil
+    level:    [64, 64]
+    region:   castle_oztroja_s_se_10
+
+  17182836:
+    template: Immolatory_Pugil
+    level:    [64, 64]
+    region:   castle_oztroja_s_se_10
+
+  17182837:
+    template: Immolatory_Pugil
+    level:    [64, 64]
+    region:   castle_oztroja_s_se_10
+
+  17182838:
+    template: Yagudo_Sentinel
+    level:    [76, 79]
+    region:   castle_oztroja_s_se_4
+
+  17182839:
+    template: Yagudo_Prioress
+    level:    [76, 79]
+    region:   castle_oztroja_s_se_4
+
+  17182840:
+    template: Yagudos_Elemental
+    level:    [70, 79]
+    region:   castle_oztroja_s_se_4
+
+  17182841:
+    template: Earth_Elemental
+    level:    [80, 80]
+    region:   castle_oztroja_s_se_8
+
+  17182842:
+    template: Fire_Elemental
+    level:    [80, 80]
+    region:   castle_oztroja_s_se_5
+
+  17182843:
+    template: Aa_Xalmo_the_Savage
+    at:       [50.000, -0.700, -148.000, 46]
+    level:    [80, 84]
+
+  17182844:
+    template: Yagudo_High_Priest
+    level:    [76, 79]
+    region:   castle_oztroja_s_e_4
+
+  17182845:
+    template: Yagudo_Prelate
+    level:    [76, 79]
+    region:   castle_oztroja_s_e_4
+
+  17182846:
+    template: Bastion_Bats
+    level:    [70, 72]
+    region:   castle_oztroja_s_se_7
+
+  17182847:
+    template: Bastion_Bats
+    level:    [70, 72]
+    region:   castle_oztroja_s_se_7
+
+  17182848:
+    template: Bastion_Bats
+    at:       [21.677, 19.345, -139.868, 6]
+    level:    [70, 72]
+
+  17182849:
+    template: Seneschal_Imp
+    level:    [77, 79]
+    region:   castle_oztroja_s_se_7
+
+  17182850:
+    template: Bastion_Bats
+    level:    [70, 72]
+    region:   castle_oztroja_s_se_6
+
+  17182851:
+    template: Bastion_Bats
+    level:    [70, 72]
+    region:   castle_oztroja_s_se_6
+
+  17182852:
+    template: Bastion_Bats
+    at:       [20.546, 16.193, -165.624, 203]
+    level:    [70, 72]
+
+  17182853:
+    template: Seneschal_Imp
+    level:    [77, 79]
+    region:   castle_oztroja_s_se_6
+
+  17182854:
+    template: Bastion_Bats
+    level:    [70, 72]
+    region:   castle_oztroja_s_se_9
+
+  17182855:
+    template: Yagudo_Sentinel
+    at:       [100.624, -16.250, -19.068, 120]
+    level:    [76, 79]
+
+  17182856:
+    template: Yagudo_Knight_Templar
+    level:    [76, 79]
+    region:   castle_oztroja_s_e_3
+
+  17182857:
+    template: Yagudo_Prelate
+    level:    [76, 79]
+    region:   castle_oztroja_s_e_3
+
+  17182858:
+    template: Yagudo_Chanter
+    level:    [76, 79]
+    region:   castle_oztroja_s_e_3
+
+  17182859:
+    template: Yagudo_Eradicator
+    level:    [76, 79]
+    region:   castle_oztroja_s_e_2
+
+  17182860:
+    template: Yagudo_High_Priest
+    level:    [76, 79]
+    region:   castle_oztroja_s_e_2
+
+  17182861:
+    template: Yagudo_Chanter
+    level:    [76, 79]
+    region:   castle_oztroja_s_e_2
+
+  17182862:
+    template: Yagudo_Prioress
+    level:    [76, 79]
+    region:   castle_oztroja_s_e_2
+
+  17182863:
+    template: Yagudos_Elemental
+    at:       [39.374, -16.250, -18.051, 238]
+    level:    [70, 79]
+
+  17182864:
+    template: Yagudo_Knight_Templar
+    level:    [76, 79]
+    region:   castle_oztroja_s_c_14
+
+  17182865:
+    template: Yagudo_Eradicator
+    level:    [76, 79]
+    region:   castle_oztroja_s_c_14
+
+  17182866:
+    template: Yagudo_High_Priest
+    level:    [76, 79]
+    region:   castle_oztroja_s_c_14
+
+  17182867:
+    template: Yagudo_Sentinel
+    at:       [-17.960, -16.250, -19.767, 97]
+    level:    [76, 79]
+
+  17182868:
+    template: Yagudo_Prelate
+    level:    [76, 79]
+    region:   castle_oztroja_s_s_6
+
+  17182869:
+    template: Yagudo_Chanter
+    level:    [76, 79]
+    region:   castle_oztroja_s_s_6
+
+  17182870:
+    template: Yagudo_Prioress
+    level:    [76, 79]
+    region:   castle_oztroja_s_s_6
+
+  17182871:
+    template: Yagudos_Elemental
+    level:    [70, 79]
+    region:   castle_oztroja_s_s_6
+
+  17182872:
+    template: Yagudo_Yojimbo
+    level:    [81, 83]
+    region:   castle_oztroja_s_se_2
+
+  17182873:
+    template: Yagudo_Nokizaru
+    level:    [79, 82]
+    region:   castle_oztroja_s_se_2
+
+  17182874:
+    template: Yagudo_Flagellant
+    level:    [81, 83]
+    region:   castle_oztroja_s_se
+
+  17182875:
+    template: Yagudo_Yojimbo
+    level:    [81, 83]
+    region:   castle_oztroja_s_se
+
+  17182876:
+    template: Yagudo_Nokizaru
+    level:    [79, 82]
+    region:   castle_oztroja_s_se_14
+
+  17182877:
+    template: Yagudo_Flagellant
+    level:    [81, 83]
+    region:   castle_oztroja_s_se_14
+
+  17182878:
+    template: Yagudo_Flagellant
+    at:       [8.218, -16.538, -85.519, 33]
+    level:    [81, 83]
+
+  17182879:
+    template: Yagudo_Flagellant
+    at:       [12.795, -16.796, -79.480, 167]
+    level:    [81, 83]
+
+  17182880:
+    template: Yagudo_Yojimbo
+    at:       [7.314, -16.499, -191.353, 125]
+    level:    [81, 83]
+
+  17182881:
+    template: Yagudo_Yojimbo
+    at:       [12.401, -16.499, -185.853, 118]
+    level:    [81, 83]
+
+  17182882:
+    template: Yagudo_Nokizaru
+    at:       [114.125, -16.500, -95.230, 249]
+    level:    [79, 82]
+
+  17182883:
+    template: Yagudo_Nokizaru
+    at:       [115.899, -16.503, -89.748, 49]
+    level:    [79, 82]
+
+  17182884:
+    template: Yagudo_Yojimbo
+    level:    [81, 83]
+    region:   castle_oztroja_s_se_12
+
+  17182885:
+    template: Yagudo_Nokizaru
+    level:    [79, 82]
+    region:   castle_oztroja_s_se_12
+
+  17182886:
+    template: Seneschal_Imp
+    at:       [130.287, -16.250, -141.007, 64]
+    level:    [77, 79]
+
+  17182887:
+    template: Seneschal_Imp
+    at:       [133.720, -16.250, -138.201, 8]
+    level:    [77, 79]
+
+  17182888:
+    template: Yagudo_Sentinel
+    at:       [-18.589, -16.211, -139.101, 3]
+    level:    [76, 79]
+
+  17182889:
+    template: Yagudo_Sentinel
+    at:       [-81.769, -16.249, -142.392, 119]
+    level:    [76, 79]
+
+  17182890:
+    template: Yagudo_Knight_Templar
+    at:       [-62.877, -16.244, -136.108, 125]
+    level:    [76, 79]
+
+  17182891:
+    template: Yagudo_Knight_Templar
+    at:       [-54.164, -16.239, -136.026, 119]
+    level:    [76, 79]
+
+  17182892:
+    template: Yagudo_Eradicator
+    at:       [-80.842, -16.249, -138.786, 112]
+    level:    [76, 79]
+
+  17182893:
+    template: Bulwark_Bat
+    at:       [-65.873, -16.245, -137.707, 186]
+    level:    [70, 72]
+
+  17182894:
+    template: Yagudo_Knight_Templar
+    at:       [-101.524, -16.222, -101.896, 205]
+    level:    [76, 79]
+
+  17182895:
+    template: Yagudo_Eradicator
+    at:       [-103.032, -16.239, -135.337, 226]
+    level:    [76, 79]
+
+  17182896:
+    template: Yagudo_Eradicator
+    at:       [-100.603, -16.227, -133.497, 222]
+    level:    [76, 79]
+
+  17182897:
+    template: Bulwark_Bat
+    at:       [-100.559, -16.215, -99.725, 78]
+    level:    [70, 72]
+
+  17182898:
+    template: Yagudo_Sentinel
+    at:       [23.538, -16.249, 41.145, 52]
+    level:    [76, 79]
+
+  17182899:
+    template: Yagudo_Prelate
+    at:       [18.033, -16.249, 34.860, 83]
+    level:    [76, 79]
+
+  17182900:
+    template: Yagudo_Chanter
+    at:       [16.233, -16.249, 40.017, 150]
+    level:    [76, 79]
+
+  17182901:
+    template: Yagudo_Knight_Templar
+    at:       [-13.053, -16.233, 62.834, 109]
+    level:    [76, 79]
+
+  17182902:
+    template: Yagudo_Eradicator
+    level:    [76, 79]
+    region:   castle_oztroja_s_n_5
+
+  17182903:
+    template: Yagudo_High_Priest
+    level:    [76, 79]
+    region:   castle_oztroja_s_n_5
+
+  17182904:
+    template: Yagudo_High_Priest
+    level:    [76, 79]
+    region:   castle_oztroja_s_n_5
+
+  17182905:
+    template: Yagudo_Prelate
+    level:    [76, 79]
+    region:   castle_oztroja_s_n_5
+
+  17182906:
+    template: Yagudo_Chanter
+    level:    [76, 79]
+    region:   castle_oztroja_s_n_5
+
+  17182907:
+    template: Yagudo_Prioress
+    level:    [76, 79]
+    region:   castle_oztroja_s_n_6
+
+  17182908:
+    template: Yagudos_Elemental
+    level:    [70, 79]
+    region:   castle_oztroja_s_n_6
+
+  17182909:
+    template: Yagudo_Prioress
+    level:    [76, 79]
+    region:   castle_oztroja_s_n_6
+
+  17182910:
+    template: Yagudos_Elemental
+    level:    [70, 79]
+    region:   castle_oztroja_s_n_6
+
+  17182911:
+    template: Earth_Elemental
+    level:    [80, 80]
+    region:   castle_oztroja_s_n_6
+
+  17182912:
+    template: Fire_Elemental
+    level:    [80, 80]
+    region:   castle_oztroja_s_n_6
+
+  17182913:
+    template: Yagudo_Prioress
+    level:    [76, 79]
+    region:   castle_oztroja_s_n_3
+
+  17182914:
+    template: Yagudos_Elemental
+    level:    [70, 79]
+    region:   castle_oztroja_s_n_3
+
+  17182915:
+    template: Yagudo_Prioress
+    level:    [76, 79]
+    region:   castle_oztroja_s_n_3
+
+  17182916:
+    template: Yagudos_Elemental
+    level:    [70, 79]
+    region:   castle_oztroja_s_n_3
+
+  17182917:
+    template: Yagudo_Abbot
+    level:    [81, 83]
+    region:   castle_oztroja_s_c
+
+  17182918:
+    template: Yagudo_Hierogrammat
+    level:    [81, 83]
+    region:   castle_oztroja_s_c
+
+  17182919:
+    template: Yagudo_Conductor
+    level:    [81, 83]
+    region:   castle_oztroja_s_c
+
+  17182920:
+    template: Gnat
+    level:    [79, 83]
+    region:   castle_oztroja_s_c
+
+  17182921:
+    template: Yagudo_High_Priest
+    level:    [76, 79]
+    region:   castle_oztroja_s_w_4
+
+  17182922:
+    template: Yagudo_Prelate
+    level:    [76, 79]
+    region:   castle_oztroja_s_w_4
+
+  17182923:
+    template: Yagudo_Chanter
+    level:    [76, 79]
+    region:   castle_oztroja_s_w_4
+
+  17182924:
+    template: Yagudo_High_Priest
+    level:    [76, 79]
+    region:   castle_oztroja_s_nw_12
+
+  17182925:
+    template: Yagudo_High_Priest
+    level:    [76, 79]
+    region:   castle_oztroja_s_nw_12
+
+  17182926:
+    template: Bulwark_Bat
+    level:    [70, 72]
+    region:   castle_oztroja_s_nw_12
+
+  17182927:
+    template: Yagudo_Prelate
+    level:    [76, 79]
+    region:   castle_oztroja_s_n
+
+  17182928:
+    template: Yagudo_Prelate
+    level:    [76, 79]
+    region:   castle_oztroja_s_n
+
+  17182929:
+    template: Yagudo_Chanter
+    level:    [76, 79]
+    region:   castle_oztroja_s_n
+
+  17182930:
+    template: Bulwark_Bat
+    level:    [70, 72]
+    region:   castle_oztroja_s_n
+
+  17182931:
+    template: Yagudo_Abbot
+    level:    [81, 83]
+    region:   castle_oztroja_s_nw_11
+
+  17182932:
+    template: Yagudo_Superior
+    level:    [81, 83]
+    region:   castle_oztroja_s_nw_11
+
+  17182933:
+    template: Yagudos_Elemental
+    level:    [70, 79]
+    region:   castle_oztroja_s_nw_11
+
+  17182934:
+    template: Yagudo_Hierogrammat
+    level:    [81, 83]
+    region:   castle_oztroja_s_nw_8
+
+  17182935:
+    template: Yagudo_Superior
+    level:    [81, 83]
+    region:   castle_oztroja_s_nw_8
+
+  17182936:
+    template: Yagudos_Elemental
+    level:    [70, 79]
+    region:   castle_oztroja_s_nw_8
+
+  17182937:
+    template: Yagudo_Conductor
+    level:    [81, 83]
+    region:   castle_oztroja_s_nw_3
+
+  17182938:
+    template: Yagudo_Superior
+    level:    [81, 83]
+    region:   castle_oztroja_s_nw_3
+
+  17182939:
+    template: Yagudos_Elemental
+    level:    [70, 79]
+    region:   castle_oztroja_s_nw_3
+
+  17182940:
+    template: Yagudo_Abbot
+    at:       [-168.523, -16.706, 81.726, 73]
+    level:    [81, 83]
+
+  17182941:
+    template: Yagudo_Abbot
+    at:       [-176.614, -16.500, 88.379, 90]
+    level:    [81, 83]
+
+  17182942:
+    template: Yagudo_Hierogrammat
+    at:       [-167.786, -16.500, 183.746, 53]
+    level:    [81, 83]
+
+  17182943:
+    template: Yagudo_Hierogrammat
+    at:       [-162.434, -16.773, 194.572, 78]
+    level:    [81, 83]
+
+  17182944:
+    template: Yagudo_Conductor
+    at:       [-261.578, -16.498, 192.068, 128]
+    level:    [81, 83]
+
+  17182945:
+    template: Yagudo_Conductor
+    at:       [-263.801, -16.500, 194.369, 169]
+    level:    [81, 83]
+
+  17182946:
+    template: Yagudo_Hierogrammat
+    at:       [-211.039, -19.999, 150.217, 31]
+    level:    [81, 83]
+
+  17182947:
+    template: Yagudo_Abbot
+    at:       [-207.419, -19.982, 146.421, 186]
+    level:    [81, 83]
+
+  17182948:
+    template: Seneschal_Imp
+    at:       [-302.039, -16.250, 140.864, 0]
+    level:    [77, 79]
+
+  17182949:
+    template: Seneschal_Imp
+    at:       [-301.884, -16.250, 141.024, 0]
+    level:    [77, 79]
+
+  17182950:
+    template: Yagudo_Flagellant
+    at:       [-106.702, -16.054, -66.192, 3]
+    level:    [81, 83]
+
+  17182951:
+    template: Yagudo_Nokizaru
+    at:       [-146.077, -16.055, -60.770, 172]
+    level:    [79, 82]
+
+  17182952:
+    template: Yagudo_Conductor
+    level:    [81, 83]
+    region:   castle_oztroja_s_c_2
+
+  17182953:
+    template: Gnat
+    level:    [79, 83]
+    region:   castle_oztroja_s_c_2
+
+  17182954:
+    template: Bulwark_Bat
+    at:       [-56.693, -16.250, -59.938, 172]
+    level:    [70, 72]
+
+  17182955:
+    template: Bulwark_Bat
+    at:       [-63.144, -16.250, -59.668, 32]
+    level:    [70, 72]
+
+  17182956:
+    template: Seneschal_Imp
+    at:       [-61.446, -16.250, -64.773, 126]
+    level:    [77, 79]
+
+  17182957:
+    template: Yagudo_Yojimbo
+    level:    [81, 83]
+    region:   castle_oztroja_s_c_7
+
+  17182958:
+    template: Yagudo_Abbot
+    level:    [81, 83]
+    region:   castle_oztroja_s_c_7
+
+  17182959:
+    template: Yagudo_Hierogrammat
+    level:    [81, 83]
+    region:   castle_oztroja_s_c_7
+
+  17182960:
+    template: Gnat
+    level:    [79, 83]
+    region:   castle_oztroja_s_c_7
+
+  17182961:
+    template: Yagudo_Yojimbo
+    level:    [81, 83]
+    region:   castle_oztroja_s_c_12
+
+  17182962:
+    template: Yagudo_Superior
+    level:    [81, 83]
+    region:   castle_oztroja_s_c_12
+
+  17182963:
+    template: Yagudos_Elemental
+    level:    [70, 79]
+    region:   castle_oztroja_s_c_12
+
+  17182964:
+    template: Yagudo_Flagellant
+    at:       [-148.933, -16.425, -20.523, 8]
+    level:    [81, 83]
+
+  17182965:
+    template: Yagudo_Conductor
+    at:       [-149.837, -16.350, -18.183, 127]
+    level:    [81, 83]
+
+  17182966:
+    template: Yagudo_Nokizaru
+    at:       [-169.047, -15.805, -24.627, 111]
+    level:    [79, 82]
+
+  17182967:
+    template: Yagudo_Conductor
+    at:       [-175.218, -15.798, -22.806, 29]
+    level:    [81, 83]
+
+  17182968:
+    template: Yagudo_Flagellant
+    level:    [81, 83]
+    region:   castle_oztroja_s_w_2
+
+  17182969:
+    template: Yagudo_Abbot
+    level:    [81, 83]
+    region:   castle_oztroja_s_w_2
+
+  17182970:
+    template: Yagudo_Hierogrammat
+    level:    [81, 83]
+    region:   castle_oztroja_s_w_2
+
+  17182971:
+    template: Yagudo_Yojimbo
+    at:       [-260.015, -16.250, -24.505, 228]
+    level:    [81, 83]
+
+  17182972:
+    template: Yagudo_Superior
+    at:       [-254.698, -16.250, -22.389, 24]
+    level:    [81, 83]
+
+  17182973:
+    template: Yagudos_Elemental
+    at:       [-256.640, -16.250, -22.583, 1]
+    level:    [70, 79]
+
+  17182974:
+    template: Yagudo_Nokizaru
+    level:    [79, 82]
+    region:   castle_oztroja_s_w
+
+  17182975:
+    template: Yagudo_Abbot
+    level:    [81, 83]
+    region:   castle_oztroja_s_w
+
+  17182976:
+    template: Yagudo_Hierogrammat
+    level:    [81, 83]
+    region:   castle_oztroja_s_w
+
+  17182977:
+    template: Yagudo_Abbot
+    level:    [81, 83]
+    region:   castle_oztroja_s_c_5
+
+  17182978:
+    template: Yagudo_Conductor
+    level:    [81, 83]
+    region:   castle_oztroja_s_c_5
+
+  17182979:
+    template: Yagudo_Yojimbo
+    level:    [81, 83]
+    region:   castle_oztroja_s_c_5
+
+  17182980:
+    template: Yagudo_Flagellant
+    level:    [81, 83]
+    region:   castle_oztroja_s_c_8
+
+  17182981:
+    template: Yagudo_Hierogrammat
+    level:    [81, 83]
+    region:   castle_oztroja_s_c_8
+
+  17182982:
+    template: Yagudo_Nokizaru
+    level:    [79, 82]
+    region:   castle_oztroja_s_c_8
+
+  17182983:
+    template: Yagudo_Flagellant
+    level:    [81, 83]
+    region:   castle_oztroja_s_c_10
+
+  17182984:
+    template: Yagudo_Abbot
+    level:    [81, 83]
+    region:   castle_oztroja_s_c_10
+
+  17182985:
+    template: Yagudo_Hierogrammat
+    level:    [81, 83]
+    region:   castle_oztroja_s_c_10
+
+  17182986:
+    template: Yagudo_Conductor
+    level:    [81, 83]
+    region:   castle_oztroja_s_c_10
+
+  17182987:
+    template: Yagudo_Yojimbo
+    level:    [81, 83]
+    region:   castle_oztroja_s_c_10
+
+  17182988:
+    template: Yagudo_Nokizaru
+    level:    [79, 82]
+    region:   castle_oztroja_s_c_10
+
+  17182989:
+    template: Yagudo_Superior
+    level:    [81, 83]
+    region:   castle_oztroja_s_c_10
+
+  17182990:
+    template: Yagudos_Elemental
+    level:    [70, 79]
+    region:   castle_oztroja_s_c_10
+
+  17182991:
+    template: Yagudo_Parasite
+    at:       [-80.278, -40.402, -75.464, 110]
+    level:    [45, 47]
+
+  17182992:
+    template: Yagudo_Parasite
+    at:       [-80.512, -40.390, -83.621, 156]
+    level:    [45, 47]
+
+  17182993:
+    template: Yagudo_Parasite
+    at:       [-77.683, -40.343, -80.491, 164]
+    level:    [45, 47]
+
+  17182994:
+    template: Yagudo_Parasite
+    at:       [-80.281, -40.283, -77.598, 167]
+    level:    [45, 47]
+
+  17182995:
+    template: Yagudo_Abbot
+    at:       [-49.755, -40.249, -136.494, 138]
+    level:    [81, 83]
+
+  17182996:
+    template: Yagudo_Conductor
+    at:       [-39.759, -40.249, -137.109, 149]
+    level:    [81, 83]
+
+  17182997:
+    template: Gnat
+    at:       [-62.585, -40.209, -141.083, 143]
+    level:    [79, 83]
+
+  17182998:
+    template: Yagudo_Flagellant
+    at:       [-18.107, -40.240, -149.673, 200]
+    level:    [81, 83]
+
+  17182999:
+    template: Yagudo_Nokizaru
+    at:       [-18.227, -40.248, -161.858, 112]
+    level:    [79, 82]
+
+  17183000:
+    template: Yagudo_Hierogrammat
+    at:       [-17.440, -40.249, -165.372, 75]
+    level:    [81, 83]
+
+  17183001:
+    template: Yagudo_Yojimbo
+    at:       [-61.007, -50.856, -211.566, 50]
+    level:    [81, 83]
+
+  17183002:
+    template: Yagudo_Hierogrammat
+    level:    [81, 83]
+    region:   castle_oztroja_s_s_7
+
+  17183003:
+    template: Yagudo_Conductor
+    at:       [-59.280, -47.965, -199.248, 65]
+    level:    [81, 83]
+
+  17183004:
+    template: Gnat
+    level:    [79, 83]
+    region:   castle_oztroja_s_s_7
+
+  17183005:
+    template: Yagudo_Nokizaru
+    level:    [79, 82]
+    region:   castle_oztroja_s_s_4
+
+  17183006:
+    template: Yagudo_Abbot
+    level:    [81, 83]
+    region:   castle_oztroja_s_s_4
+
+  17183007:
+    template: Yagudo_Conductor
+    level:    [81, 83]
+    region:   castle_oztroja_s_s_4
+
+  17183008:
+    template: Yagudo_Superior
+    level:    [81, 83]
+    region:   castle_oztroja_s_s_4
+
+  17183009:
+    template: Yagudos_Elemental
+    level:    [70, 79]
+    region:   castle_oztroja_s_s_4
+
+  17183010:
+    template: Gnat
+    level:    [79, 83]
+    region:   castle_oztroja_s_s_4
+
+  17183011:
+    template: Yagudo_Flagellant
+    level:    [81, 83]
+    region:   castle_oztroja_s_s_3
+
+  17183012:
+    template: Yagudo_Abbot
+    level:    [81, 83]
+    region:   castle_oztroja_s_s_3
+
+  17183013:
+    template: Yagudo_Nokizaru
+    level:    [79, 82]
+    region:   castle_oztroja_s_c_10
+
+  17183014:
+    template: Yagudo_Hierogrammat
+    level:    [81, 83]
+    region:   castle_oztroja_s_c_10
+
+  17183015:
+    template: Yagudo_Conductor
+    level:    [81, 83]
+    region:   castle_oztroja_s_c_10
+
+  17183016:
+    template: Yagudo_Yojimbo
+    level:    [81, 83]
+    region:   castle_oztroja_s_c_10
+
+  17183017:
+    template: Yagudo_Nokizaru
+    level:    [79, 82]
+    region:   castle_oztroja_s_s_2
+
+  17183018:
+    template: Yagudo_Abbot
+    level:    [81, 83]
+    region:   castle_oztroja_s_s_2
+
+  17183019:
+    template: Yagudo_Superior
+    level:    [81, 83]
+    region:   castle_oztroja_s_s_5
+
+  17183020:
+    template: Yagudos_Elemental
+    level:    [70, 79]
+    region:   castle_oztroja_s_s_5
+
+  17183021:
+    template: Yagudo_Superior
+    level:    [81, 83]
+    region:   castle_oztroja_s_s
+
+  17183022:
+    template: Yagudos_Elemental
+    level:    [70, 79]
+    region:   castle_oztroja_s_s
+
+  17183023:
+    template: Yagudo_Flagellant
+    at:       [-57.425, -72.368, -132.995, 42]
+    level:    [81, 83]
+
+  17183024:
+    template: Yagudo_Flagellant
+    at:       [-60.493, -73.974, -136.192, 221]
+    level:    [81, 83]
+
+  17183025:
+    template: Yagudo_Yojimbo
+    at:       [-58.767, -72.264, -55.009, 131]
+    level:    [81, 83]
+
+  17183026:
+    template: Yagudo_Yojimbo
+    at:       [-66.214, -72.264, -58.485, 190]
+    level:    [81, 83]
+
+  17183027:
+    template: Yagudo_Abbot
+    at:       [-146.300, -72.368, -138.949, 191]
+    level:    [81, 83]
+
+  17183028:
+    template: Yagudo_Abbot
+    at:       [-145.493, -72.324, -136.904, 86]
+    level:    [81, 83]
+
+  17183029:
+    template: Yagudo_Hierogrammat
+    at:       [-145.456, -72.250, -57.796, 100]
+    level:    [81, 83]
+
+  17183030:
+    template: Yagudo_Hierogrammat
+    at:       [-143.538, -72.252, -66.849, 38]
+    level:    [81, 83]
+
+  17183031:
+    template: Dee_Zelko_the_Esoteric
+    level:    [83, 83]
+    region:   castle_oztroja_s_c_10
+
+  17183032:
+    template: Marquis_Forneus
+    at:       [-343.345, -16.984, 141.193, 214]
+    level:    [80, 85]
+
+  17183033:
+    template: Loo_Kutto_the_Pensive
+    at:       [7.990, -16.500, -187.812, 238]
+    level:    [83, 83]
+
+  17183034:
+    template: Fleshgnasher
+    at:       [174.370, -16.539, -141.226, 181]
+    level:    [80, 85]
+
+  17183036:
+    template: Maa_Illmu_the_Bestower
+    at:       [-17.176, -16.250, -16.468, 188]
+    level:    [83, 83]
+
+  17183037:
+    template: Asterion
+    at:       [-18.050, -16.926, 18.064, 83]
+    level:    [80, 85]
+
+  17183038:
+    template: Suu_Xicu_the_Cantabile
+    level:    [83, 83]
+    region:   castle_oztroja_s_nw_2
+
+  17183043:
+    template: Duu_Nazo_the_Spryfooted
+    at:       [-237.721, -0.240, -19.271, 117]
+    level:    [83, 83]
+
+  17183044:
+    template: Duu_Nazo_the_Spryfooted
+    at:       [-240.320, -0.031, -20.150, 124]
+    level:    [83, 83]
+
+  17183045:
+    template: Duu_Nazo_the_Spryfooted
+    at:       [-237.288, 0.080, -20.998, 116]
+    level:    [83, 83]
+
+  17183046:
+    template: Duu_Nazo_the_Spryfooted
+    at:       [-238.542, 0.025, -20.431, 104]
+    level:    [83, 83]
+
+  17183047:
+    template: Soo_Luma_the_Ascended
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [85, 90]
+
+  17183049:
+    template: Roo_Beju_the_Eulogizer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183050:
+    template: Zjaa_Bao_the_Wrathherald
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183051:
+    template: Jii_Xai_the_Rimebladed
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183052:
+    template: Soo_Luma_the_Ascended
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [85, 90]
+
+  17183054:
+    template: Roo_Beju_the_Eulogizer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183055:
+    template: Zjaa_Bao_the_Wrathherald
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183056:
+    template: Jii_Xai_the_Rimebladed
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183057:
+    template: Soo_Luma_the_Ascended
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [85, 90]
+
+  17183059:
+    template: Roo_Beju_the_Eulogizer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183060:
+    template: Zjaa_Bao_the_Wrathherald
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183061:
+    template: Jii_Xai_the_Rimebladed
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183062:
+    template: Tzee_Xicu_the_Manifest
+    at:       [-288.397, -136.569, 447.669, 148]
+    level:    [0, 0]
+
+  17183063:
+    template: Tzee_Xicus_Elemental
+    at:       [-281.392, -136.583, 431.660, 179]
+    level:    [0, 0]
+
+  17183064:
+    template: Tzee_Xicus_Elemental
+    at:       [-288.376, -136.583, 446.479, 178]
+    level:    [0, 0]
+
+  17183065:
+    template: Tzee_Xicus_Elemental
+    at:       [-285.290, -136.522, 454.716, 200]
+    level:    [0, 0]
+
+  17183066:
+    template: Tzee_Xicus_Elemental
+    at:       [-235.575, -142.359, 459.035, 127]
+    level:    [0, 0]
+
+  17183068:
+    template: Tzee_Xicu_the_Manifest
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183069:
+    template: Tzee_Xicus_Elemental
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183070:
+    template: Tzee_Xicus_Elemental
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183071:
+    template: Tzee_Xicus_Elemental
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183072:
+    template: Tzee_Xicus_Elemental
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183074:
+    template: Tzee_Xicu_the_Manifest
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183075:
+    template: Tzee_Xicus_Elemental
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183076:
+    template: Tzee_Xicus_Elemental
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183077:
+    template: Tzee_Xicus_Elemental
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183078:
+    template: Tzee_Xicus_Elemental
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183080:
+    template: Kayeel-Payeel
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183081:
+    template: Ice_Fiend
+    at:       [70.830, -1.188, -144.475, 248]
+    level:    [1, 1]
+
+  17183082:
+    template: Thunder_Fiend
+    at:       [70.830, -1.188, -146.475, 228]
+    level:    [1, 1]
+
+  17183083:
+    template: Aquarian_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183084:
+    template: Aquarian_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183085:
+    template: Aquarian_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183086:
+    template: Aquarian_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183087:
+    template: Aquarian_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183088:
+    template: Aquarian_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183089:
+    template: Aquarian_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183090:
+    template: Aquarian_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183091:
+    template: Aquarian_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183092:
+    template: Gariri
+    at:       [44.417, 0.264, -136.942, 1]
+    level:    [1, 1]
+
+  17183093:
+    template: Flame_Giant
+    at:       [50.242, -1.188, -133.621, 121]
+    level:    [1, 1]
+
+  17183094:
+    template: Scorpion_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183095:
+    template: Scorpion_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183096:
+    template: Scorpion_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183097:
+    template: Scorpion_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183098:
+    template: Scorpion_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183099:
+    template: Scorpion_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183100:
+    template: Scorpion_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183101:
+    template: Scorpion_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183102:
+    template: Scorpion_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183103:
+    template: Zolku-Azolku
+    at:       [43.363, 0.500, -153.923, 108]
+    level:    [1, 1]
+
+  17183104:
+    template: Libran_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183105:
+    template: Libran_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183106:
+    template: Libran_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183107:
+    template: Libran_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183108:
+    template: Libran_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183109:
+    template: Libran_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183110:
+    template: Libran_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183111:
+    template: Libran_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183112:
+    template: Libran_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183113:
+    template: Lhu_Mhakaracca
+    at:       [52.066, -1.186, -131.647, 75]
+    level:    [1, 1]
+
+  17183114:
+    template: Pya
+    at:       [53.066, -1.175, -130.647, 139]
+    level:    [1, 1]
+
+  17183115:
+    template: Kyo
+    at:       [51.066, -1.188, -132.647, 60]
+    level:    [1, 1]
+
+  17183116:
+    template: Python_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183117:
+    template: Python_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183118:
+    template: Python_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183119:
+    template: Python_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183120:
+    template: Python_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183121:
+    template: Python_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183122:
+    template: Python_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183123:
+    template: Python_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183124:
+    template: Python_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183125:
+    template: Haja_Zhwan
+    at:       [52.120, 0.500, -158.107, 151]
+    level:    [1, 1]
+
+  17183126:
+    template: Wildcat_Volunteer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183127:
+    template: Wildcat_Volunteer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183128:
+    template: Wildcat_Volunteer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183129:
+    template: Wildcat_Volunteer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183130:
+    template: Wildcat_Volunteer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183131:
+    template: Wildcat_Volunteer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183132:
+    template: Wildcat_Volunteer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183133:
+    template: Wildcat_Volunteer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183134:
+    template: Wildcat_Volunteer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183135:
+    template: Piscean_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183136:
+    template: Piscean_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183137:
+    template: Piscean_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183138:
+    template: Piscean_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183139:
+    template: Piscean_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183140:
+    template: Piscean_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183141:
+    template: Allied_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183142:
+    template: Allied_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183143:
+    template: Allied_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183144:
+    template: Allied_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183145:
+    template: Allied_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183146:
+    template: Allied_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183147:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183148:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183149:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183150:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183151:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183152:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183153:
+    template: Allied_Belfry
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183154:
+    template: Wildcat_Vanguard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183155:
+    template: Wildcat_Vanguard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183156:
+    template: Wildcat_Vanguard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183157:
+    template: Wildcat_Vanguard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183158:
+    template: Wildcat_Vanguard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183159:
+    template: Wildcat_Vanguard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183160:
+    template: Allied_Armored_Belfry
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183161:
+    template: Cardian_Prototype
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183162:
+    template: Cardian_Prototype
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183163:
+    template: Cardian_Prototype
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183164:
+    template: Cardian_Prototype
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183165:
+    template: Cardian_Prototype
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183166:
+    template: Cardian_Prototype
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183167:
+    template: Combat_Salvemixer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183168:
+    template: Combat_Salvemixer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183169:
+    template: Combat_Salvemixer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183170:
+    template: Combat_Salvemixer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183171:
+    template: Combat_Salvemixer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183172:
+    template: Combat_Salvemixer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183173:
+    template: Vee_Qiqa_the_Decreer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183174:
+    template: Vee_Qiqas_Elemental
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183175:
+    template: Vee_Qiqas_Elemental
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183176:
+    template: Vee_Qiqas_Elemental
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183177:
+    template: Vee_Qiqas_Elemental
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183178:
+    template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183179:
+    template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183180:
+    template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183181:
+    template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183182:
+    template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183183:
+    template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183184:
+    template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183185:
+    template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183186:
+    template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183187:
+    template: Moo_Ouzi_the_Swiftblade
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183188:
+    template: Divine_Disseminator
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183189:
+    template: Divine_Disseminator
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183190:
+    template: Divine_Disseminator
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183191:
+    template: Divine_Disseminator
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183192:
+    template: Divine_Disseminator
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183193:
+    template: Divine_Disseminator
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183194:
+    template: Divine_Disseminator
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183195:
+    template: Divine_Disseminator
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183196:
+    template: Divine_Disseminator
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183197:
+    template: Muu_Buxu_the_Elusive
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183198:
+    template: Divine_Assassin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183199:
+    template: Divine_Assassin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183200:
+    template: Divine_Assassin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183201:
+    template: Divine_Assassin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183202:
+    template: Divine_Assassin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183203:
+    template: Divine_Assassin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183204:
+    template: Divine_Assassin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183205:
+    template: Divine_Assassin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183206:
+    template: Divine_Assassin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183207:
+    template: Dee_Xalmo_the_Grim
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183208:
+    template: Divine_Ascetic
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183209:
+    template: Divine_Ascetic
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183210:
+    template: Divine_Ascetic
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183211:
+    template: Divine_Ascetic
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183212:
+    template: Divine_Ascetic
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183213:
+    template: Divine_Ascetic
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183214:
+    template: Divine_Ascetic
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183215:
+    template: Divine_Ascetic
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183216:
+    template: Divine_Ascetic
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183217:
+    template: Kazan_the_Peerless
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183218:
+    template: Plenilune_Ronin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183219:
+    template: Plenilune_Ronin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183220:
+    template: Plenilune_Ronin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183221:
+    template: Plenilune_Ronin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183222:
+    template: Plenilune_Ronin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183223:
+    template: Plenilune_Ronin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183224:
+    template: Plenilune_Ronin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183225:
+    template: Plenilune_Ronin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183226:
+    template: Plenilune_Ronin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183227:
+    template: Vuu_Puqu_the_Beguiler
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183228:
+    template: Divine_Inspirer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183229:
+    template: Divine_Inspirer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183230:
+    template: Divine_Inspirer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183231:
+    template: Divine_Inspirer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183232:
+    template: Divine_Inspirer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183233:
+    template: Divine_Inspirer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183234:
+    template: Divine_Inspirer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183235:
+    template: Divine_Inspirer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183236:
+    template: Divine_Inspirer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183237:
+    template: Yuu_Mjuu_the_Awakened
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183238:
+    template: Yuu_Mjuus_Elemental
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183239:
+    template: Yuu_Mjuus_Elemental
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183240:
+    template: Divine_Sentinel
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183241:
+    template: Divine_Sentinel
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183242:
+    template: Divine_Sentinel
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183243:
+    template: Divine_Sentinel
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183244:
+    template: Divine_Sentinel
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183245:
+    template: Divine_Sentinel
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183246:
+    template: Divine_Sentinel
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183247:
+    template: Divine_Sentinel
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183248:
+    template: Divine_Sentinel
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183249:
+    template: Vaa_Oozu_the_Redolent
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183250:
+    template: Vaa_Oozus_Scolopendrid
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183251:
+    template: Vaa_Oozus_Scolopendrid
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183252:
+    template: Divine_Inciter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183253:
+    template: Divine_Inciter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183254:
+    template: Divine_Inciter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183255:
+    template: Divine_Inciter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183256:
+    template: Divine_Inciter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183257:
+    template: Divine_Inciter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183258:
+    template: Divine_Inciter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183259:
+    template: Divine_Inciter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183260:
+    template: Divine_Inciter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183261:
+    template: Yaa_Haqa_the_Pious
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183262:
+    template: Divine_Liturgist
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183263:
+    template: Divine_Liturgist
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183264:
+    template: Divine_Liturgist
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183265:
+    template: Divine_Liturgist
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183266:
+    template: Divine_Liturgist
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183267:
+    template: Divine_Liturgist
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183268:
+    template: Divine_Liturgist
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183269:
+    template: Divine_Liturgist
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183270:
+    template: Divine_Liturgist
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183271:
+    template: Vee_Seju_the_Consumed
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183272:
+    template: Vee_Sejus_Elemental
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183273:
+    template: Vee_Sejus_Elemental
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183274:
+    template: Divine_Martyr
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183275:
+    template: Divine_Martyr
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183276:
+    template: Divine_Martyr
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183277:
+    template: Divine_Martyr
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183278:
+    template: Divine_Martyr
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183279:
+    template: Divine_Martyr
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183280:
+    template: Divine_Martyr
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183281:
+    template: Divine_Martyr
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183282:
+    template: Divine_Martyr
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183283:
+    template: Divine_Pilgrim
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183284:
+    template: Divine_Pilgrim
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183285:
+    template: Divine_Pilgrim
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183286:
+    template: Divine_Pilgrim
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183287:
+    template: Divine_Pilgrim
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183288:
+    template: Divine_Pilgrim
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183289:
+    template: Confederate_Mantelet
+    at:       [60.130, 0.500, -120.222, 192]
+    level:    [75, 80]
+
+  17183290:
+    template: Confederate_Mantelet
+    at:       [42.494, 0.500, -124.894, 160]
+    level:    [75, 80]
+
+  17183291:
+    template: Confederate_Mantelet
+    at:       [45.495, 0.500, -155.781, 96]
+    level:    [75, 80]
+
+  17183292:
+    template: Confederate_Mantelet
+    at:       [59.993, 0.500, -159.352, 64]
+    level:    [75, 80]
+
+  17183293:
+    template: Confederate_Mantelet
+    at:       [75.379, 0.481, -154.438, 32]
+    level:    [75, 80]
+
+  17183294:
+    template: Confederate_Mantelet
+    at:       [74.804, 0.500, -123.905, 222]
+    level:    [75, 80]
+
+  17183295:
+    template: Iron_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 75]
+
+  17183296:
+    template: Iron_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 75]
+
+  17183297:
+    template: Iron_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 75]
+
+  17183298:
+    template: Iron_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 75]
+
+  17183299:
+    template: Iron_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 75]
+
+  17183300:
+    template: Iron_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 75]
+
+  17183301:
+    template: Confederate_Belfry
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17183302:
+    template: Yagudo_Genja
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183303:
+    template: Yagudo_Genja
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183304:
+    template: Yagudo_Genja
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183305:
+    template: Yagudo_Genja
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183306:
+    template: Yagudo_Genja
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183307:
+    template: Yagudo_Genja
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183308:
+    template: Yagudo_Turret
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17183309:
+    template: War_Lynx
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [71, 73]
+
+  17183310:
+    template: War_Lynx
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [71, 73]
+
+  17183311:
+    template: War_Lynx
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [71, 73]
+
+  17183312:
+    template: War_Lynx
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [71, 73]
+
+  17183313:
+    template: War_Lynx
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [71, 73]
+
+  17183314:
+    template: War_Lynx
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [71, 73]
+
+  17183315:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17183316:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17183317:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17183318:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17183319:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17183320:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17183321:
+    template: Shadowhorn
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17183322:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183323:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183324:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183325:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183326:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183327:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183328:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183329:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183330:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183331:
+    template: Shadowhand
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17183332:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183333:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183334:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183335:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183336:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183337:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183338:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183339:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183340:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183341:
+    template: Shadowfang
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17183342:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183343:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183344:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183345:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183346:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183347:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183348:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183349:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183350:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183351:
+    template: Shadoweye
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17183352:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183353:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183354:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183355:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183356:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183357:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183358:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183359:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183360:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183361:
+    template: Fortification
+    at:       [52.436, -1.687, -135.617, 0]
+    level:    [50, 50]
+
+  17183362:
+    template: Fortification
+    at:       [66.948, -1.687, -134.627, 0]
+    level:    [50, 50]
+
+  17183363:
+    template: Fortification
+    at:       [66.741, -1.687, -145.739, 0]
+    level:    [50, 50]
+
+  17183364:
+    template: Fortification
+    at:       [54.977, -1.687, -147.178, 0]
+    level:    [50, 50]
+
+  17183365:
+    template: Rikoh_Wahcondalo
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183366:
+    template: Kagetora
+    at:       [44.829, 0.049, -136.488, 178]
+    level:    [1, 1]
+
+  17183367:
+    template: Kagetora
+    at:       [43.248, 0.500, -146.824, 170]
+    level:    [1, 1]
+
+  17183368:
+    template: Kagetora
+    at:       [43.060, 0.491, -144.279, 70]
+    level:    [1, 1]
+
+  17183369:
+    template: Kagetora
+    at:       [44.830, 0.049, -136.486, 191]
+    level:    [1, 1]
+
+  17183370:
+    template: Kagetora
+    at:       [42.854, 0.476, -146.661, 98]
+    level:    [1, 1]
+
+  17183371:
+    template: Kagetora
+    at:       [42.957, 0.500, -146.839, 180]
+    level:    [1, 1]
+
+  17183372:
+    template: Dalzakk
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183373:
+    template: Oggbi
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183374:
+    template: Rainemard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183375:
+    template: Maat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183376:
+    template: Degenhard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183377:
+    template: Azima
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183378:
+    template: Choh_Moui
+    at:       [38.644, 0.500, -153.978, 209]
+    level:    [1, 1]
+
+  17183379:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183380:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183381:
+    template: Chigoe
+    at:       [42.744, 0.488, -147.342, 75]
+    level:    [1, 1]
+
+  17183382:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183383:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183384:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183385:
+    template: Chigoe
+    at:       [40.164, 0.500, -151.957, 3]
+    level:    [1, 1]
+
+  17183386:
+    template: Chigoe
+    at:       [44.563, 0.485, -145.389, 95]
+    level:    [1, 1]
+
+  17183387:
+    template: Azo
+    at:       [31.366, -0.500, -160.241, 133]
+    level:    [1, 1]
+
+  17183388:
+    template: Vahi
+    at:       [36.677, 0.500, -156.060, 169]
+    level:    [1, 1]
+
+  17183389:
+    template: Rongo-Nango
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183390:
+    template: Lerren
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183391:
+    template: Jajaro
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183392:
+    template: Popochu
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183393:
+    template: Papako
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183394:
+    template: Momowa
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183395:
+    template: Ulla
+    at:       [30.672, -0.500, -160.248, 205]
+    level:    [1, 1]
+
+  17183396:
+    template: Kilhwch
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183397:
+    template: Alfons
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183398:
+    template: Achtelle
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183399:
+    template: Bravo
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183400:
+    template: Duskraven
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183401:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183402:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183403:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183404:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183405:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183406:
+    template: Areuhat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183407:
+    template: Odzmanouk
+    at:       [39.289, 0.500, -152.537, 230]
+    level:    [1, 1]
+
+  17183408:
+    template: Boodlix
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17183409:
+    template: Goblin_Lansquenet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183410:
+    template: Goblin_Lansquenet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183411:
+    template: Goblin_Lansquenet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183412:
+    template: Titania
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183413:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183414:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183415:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183416:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183417:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183418:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183419:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183420:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183421:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183422:
+    template: Babban_Ny_Mheillea
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183423:
+    template: Abenzio
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183424:
+    template: Bryher
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183425:
+    template: Camlin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183426:
+    template: Darach
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183427:
+    template: Raigegue_R_dOraguille
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183428:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183429:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183430:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183431:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183432:
+    template: Eurytos
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 75]
+
+  17183433:
+    template: Gigas_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183434:
+    template: Gigas_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183435:
+    template: Poroggo_Prince
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183436:
+    template: Poroggo_Servant
+    at:       [25.651, -18.159, -139.223, 126]
+    level:    [1, 1]
+
+  17183437:
+    template: Poroggo_Servant
+    at:       [30.004, -19.285, -139.650, 1]
+    level:    [1, 1]
+
+  17183438:
+    template: Poroggo_Servant
+    at:       [28.815, -19.120, -139.789, 255]
+    level:    [1, 1]
+
+  17183439:
+    template: Kaiser_Behemoth
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17183440:
+    template: Ferreous_Coffin
+    at:       [65.221, -0.511, -154.071, 16]
+    level:    [1, 1]
+
+  17183441:
+    template: Lewenhart
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183442:
+    template: Auroral_Alicorn
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17183443:
+    template: Tzee_Xicu_the_Manifest
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183444:
+    template: Tzee_Xicus_Elemental
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183445:
+    template: Tzee_Xicus_Elemental
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183446:
+    template: Tzee_Xicu_the_Manifest
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183447:
+    template: Tzee_Xicus_Elemental
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183448:
+    template: Tzee_Xicus_Elemental
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183449:
+    template: Tzee_Xicu_the_Manifest
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183450:
+    template: Tzee_Xicus_Elemental
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183451:
+    template: Tzee_Xicus_Elemental
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183452:
+    template: Fenrir
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183453:
+    template: Karaha-Baruha
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183454:
+    template: Robel-Akbel
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183455:
+    template: Lehko_Habhoka
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183456:
+    template: Fenrir
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183457:
+    template: Karaha-Baruha
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183458:
+    template: Robel-Akbel
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183459:
+    template: Lehko_Habhoka
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183460:
+    template: Fenrir
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183461:
+    template: Karaha-Baruha
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183462:
+    template: Robel-Akbel
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17183463:
+    template: Lehko_Habhoka
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]

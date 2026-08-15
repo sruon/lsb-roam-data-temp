@@ -1,0 +1,1398 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17235969:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_se_3
+
+  17235970:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_se_3
+
+  17235971:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_se_3
+
+  17235972:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_se_3
+
+  17235973:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_se
+
+  17235974:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_se
+
+  17235975:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_se
+
+  17235976:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_se
+
+  17235977:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_se
+
+  17235978:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_se
+
+  17235979:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_se
+
+  17235980:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_se
+
+  17235981:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_se
+
+  17235982:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_se
+
+  17235983:
+    template: Etemmu
+    level:    [43, 46]
+    region:   xarcabard_se
+
+  17235984:
+    template: Etemmu
+    level:    [43, 46]
+    region:   xarcabard_se
+
+  17235985:
+    template: Evil_Eye
+    level:    [45, 46]
+    region:   xarcabard_se
+
+  17235986:
+    template: Evil_Eye
+    level:    [45, 46]
+    region:   xarcabard_se
+
+  17235987:
+    template: Shadow_Dragon
+    level:    [52, 53]
+    region:   xarcabard_se
+
+  17235988:
+    template: Biast
+    at:       [180.000, -19.000, -147.000, 127]
+    level:    [67, 67]
+
+  17235989:
+    template: Ice_Elemental
+    level:    [48, 50]
+    region:   xarcabard_se
+
+  17235990:
+    template: Cursed_Weapon
+    level:    [43, 45]
+    region:   xarcabard_e_3
+
+  17235991:
+    template: Cursed_Weapon
+    level:    [43, 45]
+    region:   xarcabard_e_3
+
+  17235992:
+    template: Cursed_Weapon
+    at:       [298.000, -5.000, -124.000, 95]
+    level:    [43, 45]
+
+  17235993:
+    template: Cursed_Weapon
+    at:       [290.000, -6.000, -131.000, 1]
+    level:    [43, 45]
+
+  17235994:
+    template: Etemmu
+    level:    [43, 46]
+    region:   xarcabard_se_2
+
+  17235995:
+    template: Etemmu
+    level:    [43, 46]
+    region:   xarcabard_se_2
+
+  17235996:
+    template: Dark_Elemental
+    level:    [48, 50]
+    region:   xarcabard_se_2
+
+  17235997:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_e
+
+  17235998:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_e
+
+  17235999:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_e
+
+  17236000:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_e
+
+  17236001:
+    template: Evil_Eye
+    level:    [45, 46]
+    region:   xarcabard_e
+
+  17236002:
+    template: Evil_Eye
+    level:    [45, 46]
+    region:   xarcabard_e
+
+  17236003:
+    template: Ice_Elemental
+    level:    [48, 50]
+    region:   xarcabard_e
+
+  17236004:
+    template: Cursed_Weapon
+    at:       [246.000, -13.000, -105.000, 67]
+    level:    [43, 45]
+
+  17236005:
+    template: Cursed_Weapon
+    at:       [237.177, -15.117, -105.774, 148]
+    level:    [43, 45]
+
+  17236006:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_c_6
+
+  17236007:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_c_6
+
+  17236008:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_c_6
+
+  17236009:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_c_6
+
+  17236010:
+    template: Etemmu
+    level:    [43, 46]
+    region:   xarcabard_c_6
+
+  17236011:
+    template: Etemmu
+    level:    [43, 46]
+    region:   xarcabard_c_6
+
+  17236012:
+    template: Evil_Eye
+    level:    [45, 46]
+    region:   xarcabard_c_6
+
+  17236013:
+    template: Evil_Eye
+    level:    [45, 46]
+    region:   xarcabard_c_6
+
+  17236014:
+    template: Ice_Elemental
+    level:    [48, 50]
+    region:   xarcabard_c_6
+
+  17236015:
+    template: Demon_Pawn
+    at:       [234.942, -20.900, -166.407, 81]
+    level:    [48, 50]
+
+  17236016:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_c_4
+
+  17236017:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_c_4
+
+  17236018:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_c_4
+
+  17236019:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_c_4
+
+  17236020:
+    template: Etemmu
+    level:    [43, 46]
+    region:   xarcabard_c_4
+
+  17236021:
+    template: Etemmu
+    level:    [43, 46]
+    region:   xarcabard_c_4
+
+  17236022:
+    template: Evil_Eye
+    level:    [45, 46]
+    region:   xarcabard_c_4
+
+  17236023:
+    template: Evil_Eye
+    level:    [45, 46]
+    region:   xarcabard_c_4
+
+  17236024:
+    template: Ice_Elemental
+    level:    [48, 50]
+    region:   xarcabard_c_4
+
+  17236025:
+    template: Cursed_Weapon
+    at:       [66.983, -19.594, -16.816, 127]
+    level:    [43, 45]
+
+  17236026:
+    template: Cursed_Weapon
+    level:    [43, 45]
+    region:   xarcabard_c_5
+
+  17236027:
+    template: Barbaric_Weapon
+    level:    [73, 74]
+    region:   xarcabard_c_5
+
+  17236028:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_c_3
+
+  17236029:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_c_3
+
+  17236030:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_c_3
+
+  17236031:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_c_3
+
+  17236032:
+    template: Etemmu
+    level:    [43, 46]
+    region:   xarcabard_c_3
+
+  17236033:
+    template: Etemmu
+    level:    [43, 46]
+    region:   xarcabard_c_3
+
+  17236034:
+    template: Evil_Eye
+    level:    [45, 46]
+    region:   xarcabard_c_3
+
+  17236035:
+    template: Evil_Eye
+    level:    [45, 46]
+    region:   xarcabard_c_3
+
+  17236036:
+    template: Ice_Elemental
+    level:    [48, 50]
+    region:   xarcabard_c_3
+
+  17236037:
+    template: Demon_Pawn
+    at:       [118.887, -29.056, -112.005, 72]
+    level:    [48, 50]
+
+  17236038:
+    template: Demon_Pawn
+    at:       [39.646, -28.883, -138.735, 71]
+    level:    [48, 50]
+
+  17236039:
+    template: Demon_Pawn
+    at:       [60.258, -28.549, -196.303, 127]
+    level:    [48, 50]
+
+  17236040:
+    template: Demon_Pawn
+    at:       [-6.399, -28.425, -98.901, 121]
+    level:    [48, 50]
+
+  17236041:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_s_3
+
+  17236042:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_s_3
+
+  17236043:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_s_3
+
+  17236044:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_s_3
+
+  17236045:
+    template: Timeworn_Warrior
+    at:       [47.210, -24.020, -367.510, 60]
+    level:    [57, 58]
+
+  17236046:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_s_2
+
+  17236047:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_s_2
+
+  17236048:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_s_2
+
+  17236049:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_s_2
+
+  17236050:
+    template: Etemmu
+    level:    [43, 46]
+    region:   xarcabard_s_2
+
+  17236051:
+    template: Etemmu
+    level:    [43, 46]
+    region:   xarcabard_s_2
+
+  17236052:
+    template: Etemmu
+    level:    [43, 46]
+    region:   xarcabard_s_2
+
+  17236053:
+    template: Dark_Elemental
+    level:    [48, 50]
+    region:   xarcabard_s_2
+
+  17236054:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_c
+
+  17236055:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_c
+
+  17236056:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_c
+
+  17236057:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_c
+
+  17236058:
+    template: Etemmu
+    level:    [43, 46]
+    region:   xarcabard_c
+
+  17236059:
+    template: Ereshkigal
+    at:       [-137.143, -19.278, -19.996, 0]
+    level:    [48, 50]
+
+  17236060:
+    template: Evil_Eye
+    level:    [45, 46]
+    region:   xarcabard_c
+
+  17236061:
+    template: Evil_Eye
+    level:    [45, 46]
+    region:   xarcabard_c
+
+  17236062:
+    template: Ice_Elemental
+    level:    [48, 50]
+    region:   xarcabard_c
+
+  17236063:
+    template: Blizzard_Gigas
+    level:    [45, 48]
+    region:   xarcabard_e_2
+
+  17236064:
+    template: Graupel_Gigas
+    level:    [45, 48]
+    region:   xarcabard_e_2
+
+  17236065:
+    template: Frost_Gigas
+    level:    [45, 48]
+    region:   xarcabard_e_2
+
+  17236066:
+    template: Gigass_Tiger
+    level:    [38, 40]
+    region:   xarcabard_e_2
+
+  17236067:
+    template: Hail_Gigas
+    level:    [45, 48]
+    region:   xarcabard_e_2
+
+  17236068:
+    template: Blizzard_Gigas
+    level:    [45, 48]
+    region:   xarcabard_e_2
+
+  17236069:
+    template: Graupel_Gigas
+    at:       [429.613, -1.549, 31.720, 127]
+    level:    [45, 48]
+
+  17236070:
+    template: Frost_Gigas
+    level:    [45, 48]
+    region:   xarcabard_e_2
+
+  17236071:
+    template: Gigass_Tiger
+    level:    [38, 40]
+    region:   xarcabard_e_2
+
+  17236072:
+    template: Hail_Gigas
+    at:       [366.142, -8.469, 0.203, 127]
+    level:    [45, 48]
+
+  17236073:
+    template: Evil_Eye
+    level:    [45, 46]
+    region:   xarcabard_e_2
+
+  17236074:
+    template: Evil_Eye
+    level:    [45, 46]
+    region:   xarcabard_e_2
+
+  17236075:
+    template: Ice_Elemental
+    level:    [48, 50]
+    region:   xarcabard_e_2
+
+  17236076:
+    template: Blizzard_Gigas
+    level:    [45, 48]
+    region:   xarcabard_e_4
+
+  17236077:
+    template: Graupel_Gigas
+    level:    [45, 48]
+    region:   xarcabard_e_4
+
+  17236078:
+    template: Frost_Gigas
+    level:    [45, 48]
+    region:   xarcabard_e_4
+
+  17236079:
+    template: Gigass_Tiger
+    level:    [38, 40]
+    region:   xarcabard_e_4
+
+  17236080:
+    template: Hail_Gigas
+    level:    [45, 48]
+    region:   xarcabard_e_4
+
+  17236081:
+    template: Blizzard_Gigas
+    at:       [358.000, -8.545, 118.000, 127]
+    level:    [45, 48]
+
+  17236082:
+    template: Graupel_Gigas
+    at:       [393.550, -8.622, 36.518, 42]
+    level:    [45, 48]
+
+  17236083:
+    template: Frost_Gigas
+    level:    [45, 48]
+    region:   xarcabard_e_4
+
+  17236084:
+    template: Gigass_Tiger
+    level:    [38, 40]
+    region:   xarcabard_e_4
+
+  17236085:
+    template: Hail_Gigas
+    level:    [45, 48]
+    region:   xarcabard_e_4
+
+  17236086:
+    template: Evil_Eye
+    level:    [45, 46]
+    region:   xarcabard_e_4
+
+  17236087:
+    template: Evil_Eye
+    level:    [45, 46]
+    region:   xarcabard_e_4
+
+  17236088:
+    template: Ice_Elemental
+    level:    [48, 49]
+    region:   xarcabard_e_4
+
+  17236089:
+    template: Blizzard_Gigas
+    at:       [521.065, -0.428, 15.732, 127]
+    level:    [45, 48]
+
+  17236090:
+    template: Graupel_Gigas
+    level:    [45, 48]
+    region:   xarcabard_e_5
+
+  17236091:
+    template: Frost_Gigas
+    at:       [490.627, -0.690, 28.100, 127]
+    level:    [45, 48]
+
+  17236092:
+    template: Gigass_Tiger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [39, 40]
+
+  17236093:
+    template: Hail_Gigas
+    level:    [45, 48]
+    region:   xarcabard_e_5
+
+  17236094:
+    template: Dark_Elemental
+    level:    [48, 50]
+    region:   xarcabard_e_5
+
+  17236095:
+    template: Blizzard_Gigas
+    at:       [527.207, -8.455, 216.028, 9]
+    level:    [45, 48]
+
+  17236096:
+    template: Graupel_Gigas
+    level:    [45, 48]
+    region:   xarcabard_ne_5
+
+  17236097:
+    template: Frost_Gigas
+    at:       [545.021, -9.697, 220.422, 96]
+    level:    [45, 48]
+
+  17236098:
+    template: Gigass_Tiger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [39, 40]
+
+  17236099:
+    template: Hail_Gigas
+    level:    [45, 48]
+    region:   xarcabard_ne_5
+
+  17236100:
+    template: Blizzard_Gigas
+    at:       [537.354, -8.529, 220.852, 127]
+    level:    [45, 48]
+
+  17236101:
+    template: Graupel_Gigas
+    at:       [499.691, -9.731, 172.810, 63]
+    level:    [45, 48]
+
+  17236102:
+    template: Frost_Gigas
+    at:       [503.498, -8.689, 183.349, 86]
+    level:    [45, 48]
+
+  17236103:
+    template: Gigass_Tiger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [38, 40]
+
+  17236104:
+    template: Hail_Gigas
+    level:    [45, 48]
+    region:   xarcabard_ne_5
+
+  17236105:
+    template: Dark_Elemental
+    level:    [48, 50]
+    region:   xarcabard_ne_5
+
+  17236106:
+    template: Blizzard_Gigas
+    level:    [45, 48]
+    region:   xarcabard_ne_2
+
+  17236107:
+    template: Graupel_Gigas
+    level:    [45, 48]
+    region:   xarcabard_ne_2
+
+  17236108:
+    template: Frost_Gigas
+    level:    [45, 48]
+    region:   xarcabard_ne_2
+
+  17236109:
+    template: Gigass_Tiger
+    level:    [38, 40]
+    region:   xarcabard_ne_2
+
+  17236110:
+    template: Hail_Gigas
+    level:    [45, 48]
+    region:   xarcabard_ne_2
+
+  17236111:
+    template: Evil_Eye
+    level:    [45, 46]
+    region:   xarcabard_ne_2
+
+  17236112:
+    template: Evil_Eye
+    level:    [45, 46]
+    region:   xarcabard_ne_2
+
+  17236113:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_c_7
+
+  17236114:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_c_7
+
+  17236115:
+    template: Evil_Eye
+    level:    [45, 46]
+    region:   xarcabard_c_7
+
+  17236116:
+    template: Demon_Pawn
+    level:    [49, 50]
+    region:   xarcabard_ne
+
+  17236117:
+    template: Demon_Wizard
+    level:    [48, 50]
+    region:   xarcabard_ne
+
+  17236118:
+    template: Demon_Knight
+    level:    [48, 50]
+    region:   xarcabard_ne
+
+  17236119:
+    template: Demon_Pawn
+    level:    [48, 50]
+    region:   xarcabard_ne
+
+  17236120:
+    template: Demon_Wizard
+    level:    [49, 50]
+    region:   xarcabard_ne
+
+  17236121:
+    template: Demon_Knight
+    at:       [217.376, -19.896, 119.688, 64]
+    level:    [48, 50]
+
+  17236122:
+    template: Evil_Eye
+    level:    [47, 48]
+    region:   xarcabard_ne
+
+  17236123:
+    template: Evil_Eye
+    level:    [47, 48]
+    region:   xarcabard_ne
+
+  17236124:
+    template: Ice_Elemental
+    level:    [48, 50]
+    region:   xarcabard_ne
+
+  17236125:
+    template: Demon_Pawn
+    level:    [48, 50]
+    region:   xarcabard_ne_3
+
+  17236126:
+    template: Demon_Wizard
+    level:    [48, 50]
+    region:   xarcabard_ne_3
+
+  17236127:
+    template: Demon_Knight
+    level:    [48, 50]
+    region:   xarcabard_ne_3
+
+  17236128:
+    template: Dark_Elemental
+    level:    [48, 50]
+    region:   xarcabard_ne_3
+
+  17236129:
+    template: Demon_Pawn
+    level:    [48, 50]
+    region:   xarcabard_n_2
+
+  17236130:
+    template: Demon_Wizard
+    level:    [48, 50]
+    region:   xarcabard_n_2
+
+  17236131:
+    template: Demon_Knight
+    level:    [48, 50]
+    region:   xarcabard_n_2
+
+  17236132:
+    template: Demon_Pawn
+    level:    [48, 50]
+    region:   xarcabard_n_2
+
+  17236133:
+    template: Demon_Wizard
+    level:    [48, 50]
+    region:   xarcabard_n_2
+
+  17236134:
+    template: Demon_Knight
+    level:    [48, 50]
+    region:   xarcabard_n_2
+
+  17236135:
+    template: Evil_Eye
+    level:    [47, 48]
+    region:   xarcabard_n_2
+
+  17236136:
+    template: Evil_Eye
+    level:    [47, 48]
+    region:   xarcabard_n_2
+
+  17236137:
+    template: Ice_Elemental
+    level:    [49, 50]
+    region:   xarcabard_n_2
+
+  17236138:
+    template: Demon_Pawn
+    level:    [48, 50]
+    region:   xarcabard_n
+
+  17236139:
+    template: Demon_Wizard
+    level:    [48, 50]
+    region:   xarcabard_n
+
+  17236140:
+    template: Demon_Knight
+    level:    [48, 50]
+    region:   xarcabard_n
+
+  17236141:
+    template: Demon_Pawn
+    level:    [48, 50]
+    region:   xarcabard_n
+
+  17236142:
+    template: Demon_Wizard
+    at:       [-3.380, -36.416, 125.926, 127]
+    level:    [48, 50]
+
+  17236143:
+    template: Demon_Knight
+    level:    [48, 50]
+    region:   xarcabard_n
+
+  17236144:
+    template: Evil_Eye
+    level:    [47, 48]
+    region:   xarcabard_n
+
+  17236145:
+    template: Evil_Eye
+    level:    [47, 48]
+    region:   xarcabard_n
+
+  17236146:
+    template: Duke_Focalor
+    level:    [51, 52]
+    region:   xarcabard_n
+
+  17236147:
+    template: Demon_Pawn
+    level:    [50, 52]
+    region:   xarcabard_c_2
+
+  17236148:
+    template: Demon_Pawn
+    level:    [50, 52]
+    region:   xarcabard_c_2
+
+  17236149:
+    template: Evil_Eye
+    level:    [47, 48]
+    region:   xarcabard_c_2
+
+  17236150:
+    template: Demon_Pawn
+    at:       [-105.421, -40.059, 40.246, 127]
+    level:    [50, 52]
+
+  17236151:
+    template: Demon_Knight
+    at:       [-110.155, -39.986, 38.252, 105]
+    level:    [50, 52]
+
+  17236152:
+    template: Demon_Pawn
+    level:    [50, 52]
+    region:   xarcabard_w_10
+
+  17236153:
+    template: Demon_Wizard
+    level:    [50, 52]
+    region:   xarcabard_w_10
+
+  17236154:
+    template: Demon_Knight
+    level:    [50, 52]
+    region:   xarcabard_w_10
+
+  17236155:
+    template: Demon_Warlock
+    at:       [-118.558, -35.772, 62.275, 127]
+    level:    [50, 52]
+
+  17236156:
+    template: Demons_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [43, 45]
+
+  17236157:
+    template: Demon_Wizard
+    level:    [50, 52]
+    region:   xarcabard_nw_2
+
+  17236158:
+    template: Demon_Knight
+    level:    [50, 52]
+    region:   xarcabard_nw_2
+
+  17236159:
+    template: Demon_Warlock
+    level:    [50, 52]
+    region:   xarcabard_nw_2
+
+  17236160:
+    template: Demons_Elemental
+    level:    [43, 45]
+    region:   xarcabard_nw_2
+
+  17236161:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_w_9
+
+  17236162:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_w_9
+
+  17236163:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_w_9
+
+  17236164:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_w_9
+
+  17236165:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_w_9
+
+  17236166:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_w_9
+
+  17236167:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_w_8
+
+  17236168:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_w_8
+
+  17236169:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_w_8
+
+  17236170:
+    template: Lost_Soul
+    level:    [42, 45]
+    region:   xarcabard_w_8
+
+  17236171:
+    template: Etemmu
+    level:    [43, 46]
+    region:   xarcabard_w_8
+
+  17236172:
+    template: Etemmu
+    level:    [43, 46]
+    region:   xarcabard_w_8
+
+  17236173:
+    template: Etemmu
+    level:    [43, 46]
+    region:   xarcabard_w_8
+
+  17236174:
+    template: Evil_Eye
+    level:    [45, 46]
+    region:   xarcabard_w_7
+
+  17236175:
+    template: Evil_Eye
+    level:    [45, 46]
+    region:   xarcabard_w_7
+
+  17236176:
+    template: Evil_Eye
+    level:    [45, 46]
+    region:   xarcabard_w_7
+
+  17236177:
+    template: Evil_Eye
+    level:    [45, 46]
+    region:   xarcabard_w_7
+
+  17236178:
+    template: Evil_Eye
+    level:    [45, 46]
+    region:   xarcabard_w_7
+
+  17236179:
+    template: Evil_Eye
+    level:    [45, 46]
+    region:   xarcabard_w_7
+
+  17236180:
+    template: Shadow_Eye
+    at:       [-236.734, -11.177, -23.543, 127]
+    level:    [48, 49]
+
+  17236181:
+    template: Demon_Pawn
+    level:    [48, 50]
+    region:   xarcabard_w_6
+
+  17236182:
+    template: Demon_Pawn
+    level:    [48, 50]
+    region:   xarcabard_w_6
+
+  17236183:
+    template: Demon_Wizard
+    level:    [48, 50]
+    region:   xarcabard_w_6
+
+  17236184:
+    template: Demon_Pawn
+    level:    [48, 50]
+    region:   xarcabard_w_5
+
+  17236185:
+    template: Demon_Knight
+    level:    [50, 52]
+    region:   xarcabard_w_5
+
+  17236186:
+    template: Demon_Pawn
+    level:    [48, 50]
+    region:   xarcabard_nw
+
+  17236187:
+    template: Demon_Pawn
+    level:    [48, 50]
+    region:   xarcabard_nw
+
+  17236188:
+    template: Demon_Pawn
+    level:    [48, 50]
+    region:   xarcabard_nw
+
+  17236189:
+    template: Demon_Wizard
+    level:    [48, 50]
+    region:   xarcabard_nw
+
+  17236190:
+    template: Demon_Pawn
+    level:    [48, 50]
+    region:   xarcabard_w_4
+
+  17236191:
+    template: Demon_Pawn
+    level:    [48, 50]
+    region:   xarcabard_w_4
+
+  17236192:
+    template: Demon_Knight
+    level:    [48, 50]
+    region:   xarcabard_w_4
+
+  17236193:
+    template: Demon_Pawn
+    level:    [48, 50]
+    region:   xarcabard_w_3
+
+  17236194:
+    template: Demon_Wizard
+    level:    [48, 50]
+    region:   xarcabard_w_3
+
+  17236195:
+    template: Demon_Knight
+    level:    [48, 50]
+    region:   xarcabard_w_3
+
+  17236196:
+    template: Evil_Eye
+    at:       [-376.085, -39.112, 21.464, 126]
+    level:    [47, 48]
+
+  17236197:
+    template: Demon_Wizard
+    level:    [48, 50]
+    region:   xarcabard_w_2
+
+  17236198:
+    template: Demon_Knight
+    level:    [48, 50]
+    region:   xarcabard_w_2
+
+  17236199:
+    template: Demon_Wizard
+    level:    [48, 50]
+    region:   xarcabard_w
+
+  17236200:
+    template: Demon_Knight
+    level:    [48, 50]
+    region:   xarcabard_w
+
+  17236201:
+    template: Chaos_Elemental
+    at:       [-331.000, -29.000, -49.000, 3]
+    level:    [42, 42]
+
+  17236202:
+    template: Boreal_Hound
+    level:    [53, 53]
+    region:   xarcabard_s
+
+  17236203:
+    template: Boreal_Coeurl
+    level:    [53, 53]
+    region:   xarcabard_ne_6
+
+  17236204:
+    template: Boreal_Tiger
+    level:    [53, 53]
+    region:   xarcabard_ne_4
+
+  17236205:
+    template: Koenigstiger
+    at:       [-296.000, -25.054, 151.250, 194]
+    level:    [63, 63]
+
+  17236206:
+    template: Hobgoblin_Warrior
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [50, 53]
+
+  17236207:
+    template: Hobgoblin_White_Mage
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [50, 53]
+
+  17236208:
+    template: Hobgoblin_Black_Mage
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [50, 53]
+
+  17236209:
+    template: Hobgoblin_Red_Mage
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [50, 53]
+
+  17236210:
+    template: Hobgoblin_Thief
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [50, 53]
+
+  17236211:
+    template: Hobgoblin_Dark_Knight
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [50, 53]
+
+  17236212:
+    template: Hobgoblin_Ranger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [50, 53]
+
+  17236213:
+    template: Hobgoblin_Beastmaster
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [50, 53]
+
+  17236214:
+    template: Goblins_Tiger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [48, 50]
+
+  17236215:
+    template: Gigas_Warrior
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [50, 53]
+
+  17236216:
+    template: Gigas_Monk
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [50, 53]
+
+  17236217:
+    template: Gigas_Beastmaster
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [50, 53]
+
+  17236218:
+    template: Gigas_Ranger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [50, 53]
+
+  17236219:
+    template: Gigass_Tiger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [48, 50]
+
+  17236220:
+    template: Demon_Wizard
+    at:       [219.774, -20.312, -194.792, 80]
+    level:    [50, 55]
+
+  17236221:
+    template: Demon_Wizard
+    at:       [224.706, -19.215, -198.858, 75]
+    level:    [50, 55]
+
+  17236222:
+    template: Demon_Knight
+    at:       [223.537, -19.732, -204.459, 65]
+    level:    [50, 55]
+
+  17236223:
+    template: Demon_Knight
+    at:       [217.510, -18.440, -217.884, 70]
+    level:    [50, 55]
+
+  17236224:
+    template: Demon_Wizard
+    at:       [212.448, -19.253, -220.718, 60]
+    level:    [50, 55]
+
+  17236225:
+    template: Demon_Wizard
+    at:       [206.226, -19.887, -219.857, 65]
+    level:    [50, 55]
+
+  17236226:
+    template: Demon_Knight
+    at:       [207.030, -21.532, -212.956, 75]
+    level:    [50, 55]
+
+  17236227:
+    template: Demon_Knight
+    at:       [210.307, -19.586, -219.722, 70]
+    level:    [50, 55]
+
+  17236228:
+    template: Demon_Aristocrat
+    at:       [247.114, -15.394, -200.155, 55]
+    level:    [55, 55]
+
+  17236229:
+    template: Kulili
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17236230:
+    template: Yilbegan
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [90, 92]
+
+  17236231:
+    template: Lord_Ruthven
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [85, 85]
+
+  17236232:
+    template: Feuerunke
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [82, 82]
+
+  17236233:
+    template: Erebus
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [82, 82]
+
+  17236234:
+    template: Gjenganger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17236235:
+    template: Gjenganger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17236236:
+    template: Gjenganger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17236237:
+    template: Gjenganger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17236238:
+    template: Gorehound
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17236239:
+    template: Gorehound
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17236240:
+    template: Gorehound
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17236241:
+    template: Gorehound
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17236242:
+    template: Beist
+    at:       [394.604, -0.482, -245.037, 38]
+    level:    [0, 0]
+
+  17236243:
+    template: Beist
+    at:       [353.100, -8.296, -67.059, 200]
+    level:    [0, 0]
+
+  17236244:
+    template: Beist
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17236245:
+    template: Awoken_Hrani
+    at:       [-421.500, -44.560, -13.010, 238]
+    level:    [119, 119]
+
+  17236246:
+    template: Awoken_Hjorvarth
+    at:       [-420.220, -44.360, -15.980, 190]
+    level:    [119, 119]
+
+  17236247:
+    template: Awoken_Angantyr
+    at:       [-423.350, -44.660, -13.040, 65]
+    level:    [119, 119]

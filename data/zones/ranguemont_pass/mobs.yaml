@@ -1,0 +1,798 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17457153:
+    template: Wind_Bats
+    level:    [3, 5]
+    region:   ranguemont_pass_sw_6
+
+  17457154:
+    template: Wind_Bats
+    level:    [3, 5]
+    region:   ranguemont_pass_sw_6
+
+  17457155:
+    template: Blade_Bat
+    level:    [4, 7]
+    region:   ranguemont_pass_sw_6
+
+  17457156:
+    template: Blade_Bat
+    at:       [-151.331, 4.137, -256.681, 127]
+    level:    [4, 7]
+
+  17457157:
+    template: Oil_Slick
+    level:    [7, 9]
+    region:   ranguemont_pass_sw_6
+
+  17457158:
+    template: Oil_Slick
+    level:    [7, 9]
+    region:   ranguemont_pass_sw_6
+
+  17457159:
+    template: Goblin_Thug
+    level:    [4, 6]
+    region:   ranguemont_pass_sw_9
+
+  17457160:
+    template: Goblin_Weaver
+    level:    [4, 6]
+    region:   ranguemont_pass_sw_9
+
+  17457161:
+    template: Wind_Bats
+    level:    [3, 5]
+    region:   ranguemont_pass_sw_9
+
+  17457162:
+    template: Wind_Bats
+    level:    [3, 5]
+    region:   ranguemont_pass_sw_9
+
+  17457163:
+    template: Wind_Bats
+    level:    [3, 5]
+    region:   ranguemont_pass_sw_9
+
+  17457164:
+    template: Blade_Bat
+    level:    [4, 7]
+    region:   ranguemont_pass_sw_9
+
+  17457165:
+    template: Blade_Bat
+    level:    [4, 7]
+    region:   ranguemont_pass_sw_9
+
+  17457166:
+    template: Goblin_Thug
+    level:    [6, 8]
+    region:   ranguemont_pass_sw_8
+
+  17457167:
+    template: Goblin_Weaver
+    level:    [6, 8]
+    region:   ranguemont_pass_sw_8
+
+  17457168:
+    template: Goblin_Weaver
+    level:    [6, 8]
+    region:   ranguemont_pass_sw_8
+
+  17457169:
+    template: Blade_Bat
+    level:    [4, 7]
+    region:   ranguemont_pass_sw_8
+
+  17457170:
+    template: Blade_Bat
+    level:    [4, 7]
+    region:   ranguemont_pass_sw_8
+
+  17457171:
+    template: Goblin_Mugger
+    at:       [-209.311, 2.998, -149.195, 5]
+    level:    [26, 30]
+
+  17457172:
+    template: Goblin_Leecher
+    level:    [26, 30]
+    region:   ranguemont_pass_sw_7
+
+  17457173:
+    template: Goblin_Gambler
+    level:    [26, 30]
+    region:   ranguemont_pass_sw_7
+
+  17457174:
+    template: Goblin_Mugger
+    at:       [-197.619, 4.469, -143.783, 192]
+    level:    [26, 30]
+
+  17457175:
+    template: Goblin_Leecher
+    level:    [26, 30]
+    region:   ranguemont_pass_sw_7
+
+  17457176:
+    template: Goblin_Gambler
+    at:       [-187.556, 3.383, -148.428, 127]
+    level:    [26, 30]
+
+  17457177:
+    template: Seeker_Bats
+    level:    [25, 28]
+    region:   ranguemont_pass_sw_7
+
+  17457178:
+    template: Seeker_Bats
+    level:    [25, 28]
+    region:   ranguemont_pass_sw_7
+
+  17457179:
+    template: Seeker_Bats
+    level:    [25, 28]
+    region:   ranguemont_pass_sw_2
+
+  17457180:
+    template: Seeker_Bats
+    level:    [25, 28]
+    region:   ranguemont_pass_sw_2
+
+  17457181:
+    template: Seeker_Bats
+    level:    [25, 28]
+    region:   ranguemont_pass_sw_2
+
+  17457182:
+    template: Ooze
+    level:    [28, 30]
+    region:   ranguemont_pass_sw_2
+
+  17457183:
+    template: Goblin_Mugger
+    at:       [-290.751, 2.285, -158.577, 18]
+    level:    [26, 30]
+
+  17457184:
+    template: Goblin_Leecher
+    level:    [26, 30]
+    region:   ranguemont_pass_sw
+
+  17457185:
+    template: Goblin_Gambler
+    level:    [26, 30]
+    region:   ranguemont_pass_sw
+
+  17457186:
+    template: Goblin_Mugger
+    at:       [-290.390, 3.454, -175.201, 154]
+    level:    [26, 30]
+
+  17457187:
+    template: Goblin_Leecher
+    at:       [-301.000, 5.000, -162.000, 127]
+    level:    [26, 30]
+
+  17457188:
+    template: Goblin_Gambler
+    level:    [26, 30]
+    region:   ranguemont_pass_sw
+
+  17457189:
+    template: Seeker_Bats
+    level:    [25, 28]
+    region:   ranguemont_pass_sw
+
+  17457190:
+    template: Seeker_Bats
+    level:    [25, 28]
+    region:   ranguemont_pass_sw
+
+  17457191:
+    template: Goblin_Mugger
+    level:    [26, 30]
+    region:   ranguemont_pass_sw_3
+
+  17457192:
+    template: Goblin_Mugger
+    level:    [26, 30]
+    region:   ranguemont_pass_sw_3
+
+  17457193:
+    template: Goblin_Leecher
+    level:    [26, 30]
+    region:   ranguemont_pass_sw_3
+
+  17457194:
+    template: Cave_Scorpion
+    level:    [30, 33]
+    region:   ranguemont_pass_sw_4
+
+  17457195:
+    template: Seeker_Bats
+    level:    [25, 28]
+    region:   ranguemont_pass_sw_4
+
+  17457196:
+    template: Seeker_Bats
+    level:    [25, 28]
+    region:   ranguemont_pass_sw_4
+
+  17457197:
+    template: Seeker_Bats
+    level:    [25, 28]
+    region:   ranguemont_pass_sw_4
+
+  17457198:
+    template: Seeker_Bats
+    level:    [25, 28]
+    region:   ranguemont_pass_sw_5
+
+  17457199:
+    template: Seeker_Bats
+    level:    [25, 28]
+    region:   ranguemont_pass_sw_5
+
+  17457200:
+    template: Seeker_Bats
+    at:       [-152.136, -5.216, -89.814, 112]
+    level:    [25, 28]
+
+  17457201:
+    template: Seeker_Bats
+    level:    [25, 28]
+    region:   ranguemont_pass_w_2
+
+  17457202:
+    template: Seeker_Bats
+    level:    [25, 28]
+    region:   ranguemont_pass_w_2
+
+  17457203:
+    template: Stirge
+    level:    [30, 33]
+    region:   ranguemont_pass_w_2
+
+  17457204:
+    template: Gloom_Eye
+    level:    [73, 74]
+    region:   ranguemont_pass_w_2
+
+  17457205:
+    template: Ooze
+    level:    [28, 30]
+    region:   ranguemont_pass_w_3
+
+  17457206:
+    template: Ooze
+    level:    [28, 30]
+    region:   ranguemont_pass_w_3
+
+  17457207:
+    template: Cave_Scorpion
+    level:    [30, 33]
+    region:   ranguemont_pass_c
+
+  17457208:
+    template: Seeker_Bats
+    level:    [25, 28]
+    region:   ranguemont_pass_c
+
+  17457209:
+    template: Seeker_Bats
+    at:       [-58.367, -6.498, -56.828, 127]
+    level:    [25, 28]
+
+  17457210:
+    template: Stirge
+    at:       [-52.518, -6.636, -93.312, 127]
+    level:    [31, 33]
+
+  17457211:
+    template: Stirge
+    at:       [-88.000, -6.000, -60.000, 66]
+    level:    [31, 33]
+
+  17457212:
+    template: Stirge
+    level:    [30, 32]
+    region:   ranguemont_pass_s
+
+  17457213:
+    template: Taisai
+    level:    [35, 38]
+    region:   ranguemont_pass_s
+
+  17457214:
+    template: Taisai
+    level:    [35, 38]
+    region:   ranguemont_pass_s
+
+  17457215:
+    template: Taisai
+    level:    [35, 38]
+    region:   ranguemont_pass_s
+
+  17457216:
+    template: Taisaijin
+    at:       [-15.000, 7.000, -131.000, 127]
+    level:    [60, 60]
+
+  17457217:
+    template: Goblin_Mugger
+    level:    [26, 30]
+    region:   ranguemont_pass_s_2
+
+  17457218:
+    template: Goblin_Leecher
+    level:    [26, 30]
+    region:   ranguemont_pass_s_2
+
+  17457219:
+    template: Goblin_Gambler
+    level:    [26, 30]
+    region:   ranguemont_pass_s_2
+
+  17457220:
+    template: Goblin_Mugger
+    at:       [46.000, 15.000, -139.000, 127]
+    level:    [26, 30]
+
+  17457221:
+    template: Goblin_Leecher
+    at:       [59.122, 14.343, -131.304, 94]
+    level:    [26, 30]
+
+  17457222:
+    template: Goblin_Gambler
+    level:    [26, 30]
+    region:   ranguemont_pass_s_2
+
+  17457223:
+    template: Stirge
+    level:    [31, 33]
+    region:   ranguemont_pass_s_2
+
+  17457224:
+    template: Stirge
+    level:    [31, 33]
+    region:   ranguemont_pass_s_2
+
+  17457225:
+    template: Giant_Scorpion
+    at:       [100.539, 4.808, -84.262, 5]
+    level:    [38, 40]
+
+  17457226:
+    template: Bat_Eye
+    at:       [163.997, 3.603, -54.476, 127]
+    level:    [42, 44]
+
+  17457227:
+    template: Seeker_Bats
+    level:    [25, 28]
+    region:   ranguemont_pass_e
+
+  17457228:
+    template: Seeker_Bats
+    level:    [25, 28]
+    region:   ranguemont_pass_e
+
+  17457229:
+    template: Hecteyes
+    level:    [31, 34]
+    region:   ranguemont_pass_e_2
+
+  17457230:
+    template: Hecteyes
+    level:    [31, 34]
+    region:   ranguemont_pass_e_2
+
+  17457231:
+    template: Hecteyes
+    level:    [31, 34]
+    region:   ranguemont_pass_e_2
+
+  17457232:
+    template: Hecteyes
+    level:    [31, 34]
+    region:   ranguemont_pass_e_2
+
+  17457233:
+    template: Hecteyes
+    level:    [31, 34]
+    region:   ranguemont_pass_e_2
+
+  17457234:
+    template: Stirge
+    level:    [32, 32]
+    region:   ranguemont_pass_e_2
+
+  17457235:
+    template: Stirge
+    level:    [31, 31]
+    region:   ranguemont_pass_e_2
+
+  17457236:
+    template: Hyakume
+    at:       [144.098, 2.525, -63.542, 3]
+    level:    [43, 43]
+
+  17457237:
+    template: Seeker_Bats
+    level:    [25, 28]
+    region:   ranguemont_pass_s_3
+
+  17457238:
+    template: Seeker_Bats
+    level:    [25, 28]
+    region:   ranguemont_pass_s_3
+
+  17457239:
+    template: Seeker_Bats
+    level:    [25, 28]
+    region:   ranguemont_pass_se
+
+  17457240:
+    template: Seeker_Bats
+    level:    [25, 28]
+    region:   ranguemont_pass_se
+
+  17457241:
+    template: Stirge
+    level:    [31, 31]
+    region:   ranguemont_pass_se
+
+  17457242:
+    template: Stirge
+    level:    [32, 32]
+    region:   ranguemont_pass_se
+
+  17457243:
+    template: Ooze
+    level:    [28, 30]
+    region:   ranguemont_pass_se_2
+
+  17457244:
+    template: Ooze
+    level:    [28, 30]
+    region:   ranguemont_pass_se_2
+
+  17457245:
+    template: Mucoid_Mass
+    level:    [45, 48]
+    region:   ranguemont_pass_se_2
+
+  17457246:
+    template: Seeker_Bats
+    level:    [25, 28]
+    region:   ranguemont_pass_c_2
+
+  17457247:
+    template: Seeker_Bats
+    level:    [25, 28]
+    region:   ranguemont_pass_c_2
+
+  17457248:
+    template: Hovering_Oculus
+    level:    [90, 92]
+    region:   ranguemont_pass_c_3
+
+  17457249:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_c_3
+
+  17457250:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_c_3
+
+  17457251:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_c_4
+
+  17457252:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_c_4
+
+  17457253:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_c_4
+
+  17457254:
+    template: Goblin_Hoodoo
+    level:    [88, 90]
+    region:   ranguemont_pass_n_3
+
+  17457255:
+    template: Goblin_Artificer
+    level:    [88, 90]
+    region:   ranguemont_pass_n_3
+
+  17457256:
+    template: Goblin_Tanner
+    level:    [88, 90]
+    region:   ranguemont_pass_n_3
+
+  17457257:
+    template: Goblin_Chaser
+    level:    [88, 90]
+    region:   ranguemont_pass_n_3
+
+  17457258:
+    template: Goblins_Bats
+    level:    [83, 84]
+    region:   ranguemont_pass_n_3
+
+  17457259:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_w
+
+  17457260:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_w
+
+  17457261:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_w
+
+  17457262:
+    template: Goblin_Hoodoo
+    level:    [88, 90]
+    region:   ranguemont_pass_nw_2
+
+  17457263:
+    template: Goblin_Artificer
+    level:    [88, 90]
+    region:   ranguemont_pass_nw_2
+
+  17457264:
+    template: Goblin_Tanner
+    level:    [88, 90]
+    region:   ranguemont_pass_nw_2
+
+  17457265:
+    template: Goblin_Chaser
+    level:    [88, 90]
+    region:   ranguemont_pass_nw_2
+
+  17457266:
+    template: Goblins_Bats
+    level:    [83, 84]
+    region:   ranguemont_pass_nw_2
+
+  17457267:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_nw_2
+
+  17457268:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_nw_2
+
+  17457269:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_nw_2
+
+  17457270:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_nw
+
+  17457271:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_nw
+
+  17457272:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_nw
+
+  17457273:
+    template: Evil_Weapon
+    at:       [-271.000, -46.000, 194.000, 131]
+    level:    [35, 37]
+
+  17457274:
+    template: Evil_Weapon
+    at:       [-275.000, -45.000, 207.000, 30]
+    level:    [35, 37]
+
+  17457275:
+    template: Evil_Weapon
+    at:       [-269.000, -46.000, 206.000, 100]
+    level:    [35, 37]
+
+  17457276:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_nw_3
+
+  17457277:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_nw_3
+
+  17457278:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_nw_3
+
+  17457279:
+    template: Hovering_Oculus
+    level:    [90, 92]
+    region:   ranguemont_pass_n
+
+  17457280:
+    template: Hovering_Oculus
+    level:    [90, 92]
+    region:   ranguemont_pass_n
+
+  17457281:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_n
+
+  17457282:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_n
+
+  17457283:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_n
+
+  17457284:
+    template: Hovering_Oculus
+    level:    [90, 92]
+    region:   ranguemont_pass_n_2
+
+  17457285:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_n_2
+
+  17457286:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_n_2
+
+  17457287:
+    template: Goblin_Hoodoo
+    at:       [6.000, -35.000, 160.000, 127]
+    level:    [88, 90]
+
+  17457288:
+    template: Goblin_Artificer
+    at:       [3.000, -36.000, 152.000, 127]
+    level:    [88, 90]
+
+  17457289:
+    template: Goblin_Tanner
+    at:       [-5.000, -36.000, 167.000, 12]
+    level:    [88, 90]
+
+  17457290:
+    template: Goblin_Chaser
+    at:       [-9.390, -36.264, 160.853, 127]
+    level:    [88, 90]
+
+  17457291:
+    template: Goblins_Bats
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [83, 84]
+
+  17457292:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_n_4
+
+  17457293:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_n_4
+
+  17457294:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_n_4
+
+  17457295:
+    template: Hovering_Oculus
+    level:    [90, 92]
+    region:   ranguemont_pass_ne
+
+  17457296:
+    template: Hovering_Oculus
+    level:    [90, 92]
+    region:   ranguemont_pass_ne
+
+  17457297:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_ne
+
+  17457298:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_ne
+
+  17457299:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_ne_2
+
+  17457300:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_ne_2
+
+  17457301:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_ne_2
+
+  17457302:
+    template: Hovering_Oculus
+    level:    [90, 92]
+    region:   ranguemont_pass_ne_3
+
+  17457303:
+    template: Hovering_Oculus
+    level:    [90, 92]
+    region:   ranguemont_pass_ne_3
+
+  17457304:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_ne_3
+
+  17457305:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_ne_3
+
+  17457306:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_ne_3
+
+  17457307:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_ne_4
+
+  17457308:
+    template: Bilesucker
+    level:    [87, 89]
+    region:   ranguemont_pass_ne_4
+
+  17457309:
+    template: Tros
+    at:       [-289.000, -45.000, 212.000, 23]
+    level:    [44, 44]
+
+  17457310:
+    template: Metallic_Slime
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [29, 33]
+
+  17457311:
+    template: Arcus_Blades
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]

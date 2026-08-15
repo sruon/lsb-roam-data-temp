@@ -1,0 +1,1493 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17436673:
+    template: Evil_Eye
+    level:    [46, 48]
+    region:   castle_zvahl_baileys_e_6
+
+  17436674:
+    template: Evil_Eye
+    level:    [46, 48]
+    region:   castle_zvahl_baileys_e_6
+
+  17436675:
+    template: Demon_Pawn
+    level:    [48, 50]
+    region:   castle_zvahl_baileys_e_5
+
+  17436676:
+    template: Evil_Eye
+    level:    [46, 48]
+    region:   castle_zvahl_baileys_e_5
+
+  17436677:
+    template: Evil_Eye
+    level:    [46, 48]
+    region:   castle_zvahl_baileys_e_5
+
+  17436678:
+    template: Dark_Elemental
+    at:       [299.000, -16.000, -20.000, 127]
+    level:    [48, 49]
+
+  17436679:
+    template: Ice_Elemental
+    level:    [48, 49]
+    region:   castle_zvahl_baileys_e_5
+
+  17436680:
+    template: Demon_Pawn
+    level:    [48, 50]
+    region:   castle_zvahl_baileys_e_4
+
+  17436681:
+    template: Demon_Pawn
+    level:    [48, 50]
+    region:   castle_zvahl_baileys_e_4
+
+  17436682:
+    template: Evil_Eye
+    level:    [46, 48]
+    region:   castle_zvahl_baileys_e_4
+
+  17436683:
+    template: Dark_Elemental
+    at:       [292.259, -20.517, 61.493, 5]
+    level:    [48, 49]
+
+  17436684:
+    template: Ice_Elemental
+    level:    [48, 49]
+    region:   castle_zvahl_baileys_e_4
+
+  17436685:
+    template: Demon_Pawn
+    level:    [48, 50]
+    region:   castle_zvahl_baileys_e_3
+
+  17436686:
+    template: Demon_Pawn
+    level:    [48, 50]
+    region:   castle_zvahl_baileys_e_3
+
+  17436687:
+    template: Evil_Eye
+    level:    [46, 48]
+    region:   castle_zvahl_baileys_e_3
+
+  17436688:
+    template: Dark_Elemental
+    at:       [186.604, -24.507, 22.337, 35]
+    level:    [48, 49]
+
+  17436689:
+    template: Ice_Elemental
+    level:    [48, 49]
+    region:   castle_zvahl_baileys_e_3
+
+  17436690:
+    template: Evil_Eye
+    at:       [180.880, -24.539, 22.258, 127]
+    level:    [46, 48]
+
+  17436691:
+    template: Demon_Pawn
+    level:    [50, 52]
+    region:   castle_zvahl_baileys_c_10
+
+  17436692:
+    template: Demon_Knight
+    level:    [50, 52]
+    region:   castle_zvahl_baileys_c_10
+
+  17436693:
+    template: Demon_Pawn
+    level:    [50, 52]
+    region:   castle_zvahl_baileys_c_5
+
+  17436694:
+    template: Demon_Knight
+    level:    [50, 52]
+    region:   castle_zvahl_baileys_c_5
+
+  17436695:
+    template: Demon_Pawn
+    level:    [50, 52]
+    region:   castle_zvahl_baileys_c_9
+
+  17436696:
+    template: Demon_Knight
+    level:    [50, 52]
+    region:   castle_zvahl_baileys_c_9
+
+  17436697:
+    template: Demon_Pawn
+    level:    [50, 52]
+    region:   castle_zvahl_baileys_c_8
+
+  17436698:
+    template: Demon_Knight
+    level:    [50, 52]
+    region:   castle_zvahl_baileys_c_8
+
+  17436699:
+    template: Evil_Eye
+    at:       [99.589, -24.550, 20.144, 34]
+    level:    [46, 48]
+
+  17436700:
+    template: Demon_Pawn
+    level:    [50, 52]
+    region:   castle_zvahl_baileys_e_2
+
+  17436701:
+    template: Demon_Pawn
+    level:    [50, 52]
+    region:   castle_zvahl_baileys_e
+
+  17436702:
+    template: Demon_Pawn
+    at:       [180.358, -24.539, 95.951, 47]
+    level:    [50, 52]
+
+  17436703:
+    template: Demon_Wizard
+    at:       [147.000, -24.562, 100.000, 16]
+    level:    [50, 52]
+
+  17436704:
+    template: Demon_Pawn
+    at:       [183.383, -24.578, -53.639, 127]
+    level:    [50, 52]
+
+  17436705:
+    template: Demon_Wizard
+    at:       [136.000, -24.547, -59.000, 97]
+    level:    [50, 52]
+
+  17436706:
+    template: Demon_Pawn
+    level:    [50, 52]
+    region:   castle_zvahl_baileys_n_10
+
+  17436707:
+    template: Dark_Elemental
+    level:    [48, 49]
+    region:   castle_zvahl_baileys_n_10
+
+  17436708:
+    template: Ice_Elemental
+    level:    [48, 49]
+    region:   castle_zvahl_baileys_n_10
+
+  17436709:
+    template: Demon_Pawn
+    level:    [50, 52]
+    region:   castle_zvahl_baileys_s_9
+
+  17436710:
+    template: Dark_Elemental
+    level:    [48, 49]
+    region:   castle_zvahl_baileys_s_9
+
+  17436711:
+    template: Ice_Elemental
+    level:    [48, 49]
+    region:   castle_zvahl_baileys_s_9
+
+  17436712:
+    template: Evil_Eye
+    at:       [135.484, -24.538, 64.949, 127]
+    level:    [46, 48]
+
+  17436713:
+    template: Evil_Eye
+    at:       [134.806, -24.522, 56.228, 43]
+    level:    [46, 48]
+
+  17436714:
+    template: Likho
+    at:       [141.130, -24.030, 60.870, 60]
+    level:    [67, 68]
+
+  17436715:
+    template: Evil_Eye
+    at:       [141.048, -24.503, -18.064, 127]
+    level:    [46, 48]
+
+  17436716:
+    template: Evil_Eye
+    at:       [141.449, -24.503, -16.373, 59]
+    level:    [46, 48]
+
+  17436717:
+    template: Demon_Pawn
+    level:    [50, 52]
+    region:   castle_zvahl_baileys_c_7
+
+  17436718:
+    template: Demon_Pawn
+    level:    [50, 52]
+    region:   castle_zvahl_baileys_c_7
+
+  17436719:
+    template: Demon_Wizard
+    level:    [50, 52]
+    region:   castle_zvahl_baileys_c_7
+
+  17436720:
+    template: Demon_Knight
+    level:    [50, 52]
+    region:   castle_zvahl_baileys_c_7
+
+  17436721:
+    template: Demon_Pawn
+    level:    [50, 52]
+    region:   castle_zvahl_baileys_c_6
+
+  17436722:
+    template: Demon_Pawn
+    level:    [50, 52]
+    region:   castle_zvahl_baileys_c_6
+
+  17436723:
+    template: Demon_Wizard
+    level:    [50, 52]
+    region:   castle_zvahl_baileys_c_6
+
+  17436724:
+    template: Demon_Knight
+    level:    [50, 52]
+    region:   castle_zvahl_baileys_c_6
+
+  17436725:
+    template: Goblin_Poacher
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_n_3
+
+  17436726:
+    template: Goblin_Trader
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_n_3
+
+  17436727:
+    template: Goblins_Bats
+    level:    [40, 42]
+    region:   castle_zvahl_baileys_n_3
+
+  17436728:
+    template: Goblin_Robber
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_n_3
+
+  17436729:
+    template: Goblin_Reaper
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_n_3
+
+  17436730:
+    template: Orcish_Bowshooter
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_s_3
+
+  17436731:
+    template: Orcish_Footsoldier
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_s_3
+
+  17436732:
+    template: Orcish_Gladiator
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_s_3
+
+  17436733:
+    template: Orcish_Trooper
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_s_3
+
+  17436734:
+    template: Goblin_Poacher
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_n_2
+
+  17436735:
+    template: Goblin_Trader
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_n_2
+
+  17436736:
+    template: Goblins_Bats
+    level:    [40, 42]
+    region:   castle_zvahl_baileys_n_2
+
+  17436737:
+    template: Goblin_Robber
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_n_2
+
+  17436738:
+    template: Goblin_Reaper
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_n_2
+
+  17436739:
+    template: Orcish_Bowshooter
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_s_2
+
+  17436740:
+    template: Orcish_Footsoldier
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_s_2
+
+  17436741:
+    template: Orcish_Gladiator
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_s_2
+
+  17436742:
+    template: Orcish_Trooper
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_s_2
+
+  17436743:
+    template: Demon_Wizard
+    at:       [-18.911, -20.500, 72.422, 127]
+    level:    [50, 52]
+
+  17436744:
+    template: Demon_Knight
+    at:       [-24.100, -20.510, 72.867, 87]
+    level:    [50, 52]
+
+  17436745:
+    template: Demon_Warlock
+    at:       [-24.251, -20.500, 77.300, 100]
+    level:    [50, 52]
+
+  17436746:
+    template: Demons_Elemental
+    at:       [1.000, 1.000, 1.000, 127]
+    level:    [43, 45]
+
+  17436747:
+    template: Demon_Wizard
+    at:       [-25.130, -20.502, -31.135, 127]
+    level:    [50, 52]
+
+  17436748:
+    template: Demon_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [50, 52]
+
+  17436749:
+    template: Demon_Warlock
+    at:       [-16.532, -20.500, -35.249, 8]
+    level:    [50, 52]
+
+  17436750:
+    template: Demons_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [43, 45]
+
+  17436751:
+    template: Goblin_Poacher
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_n_4
+
+  17436752:
+    template: Goblin_Trader
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_n_4
+
+  17436753:
+    template: Goblins_Bats
+    level:    [40, 42]
+    region:   castle_zvahl_baileys_n_4
+
+  17436754:
+    template: Goblin_Robber
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_n_4
+
+  17436755:
+    template: Goblin_Reaper
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_n_4
+
+  17436756:
+    template: Orcish_Bowshooter
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_s_4
+
+  17436757:
+    template: Orcish_Footsoldier
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_s_4
+
+  17436758:
+    template: Orcish_Gladiator
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_s_4
+
+  17436759:
+    template: Orcish_Trooper
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_s_4
+
+  17436760:
+    template: Goblin_Poacher
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_n_6
+
+  17436761:
+    template: Goblin_Trader
+    at:       [20.000, -24.576, 120.000, 75]
+    level:    [47, 49]
+
+  17436762:
+    template: Goblins_Bats
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [40, 42]
+
+  17436763:
+    template: Goblin_Robber
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_n_6
+
+  17436764:
+    template: Goblin_Reaper
+    at:       [22.996, -24.549, 90.607, 127]
+    level:    [47, 49]
+
+  17436765:
+    template: Orcish_Bowshooter
+    at:       [29.000, -20.000, -74.000, 125]
+    level:    [47, 49]
+
+  17436766:
+    template: Orcish_Footsoldier
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_s_5
+
+  17436767:
+    template: Orcish_Gladiator
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_s_5
+
+  17436768:
+    template: Orcish_Trooper
+    at:       [18.655, -24.505, -36.065, 127]
+    level:    [47, 49]
+
+  17436769:
+    template: Demon_Knight
+    level:    [50, 52]
+    region:   castle_zvahl_baileys_c_4
+
+  17436770:
+    template: Demon_Knight
+    level:    [50, 52]
+    region:   castle_zvahl_baileys_c_4
+
+  17436771:
+    template: Evil_Eye
+    level:    [46, 48]
+    region:   castle_zvahl_baileys_c
+
+  17436772:
+    template: Evil_Eye
+    level:    [46, 48]
+    region:   castle_zvahl_baileys_c
+
+  17436773:
+    template: Evil_Eye
+    at:       [48.573, -24.500, 21.315, 127]
+    level:    [46, 48]
+
+  17436774:
+    template: Goblin_Poacher
+    at:       [-51.349, -24.564, 99.758, 100]
+    level:    [47, 49]
+
+  17436775:
+    template: Goblin_Trader
+    at:       [-30.000, -24.504, 100.000, 127]
+    level:    [47, 49]
+
+  17436776:
+    template: Goblins_Bats
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [40, 42]
+
+  17436777:
+    template: Goblin_Robber
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_nw_10
+
+  17436778:
+    template: Goblin_Reaper
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_nw_10
+
+  17436779:
+    template: Orcish_Bowshooter
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_sw_11
+
+  17436780:
+    template: Orcish_Footsoldier
+    at:       [-32.000, -25.162, -59.000, 123]
+    level:    [47, 49]
+
+  17436781:
+    template: Orcish_Gladiator
+    at:       [-51.806, -24.613, -56.724, 127]
+    level:    [47, 49]
+
+  17436782:
+    template: Orcish_Trooper
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_sw_11
+
+  17436783:
+    template: Elder_Quadav
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_nw_8
+
+  17436784:
+    template: Iron_Quadav
+    at:       [-91.838, -24.539, 98.611, 127]
+    level:    [47, 49]
+
+  17436785:
+    template: Spinel_Quadav
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_nw_8
+
+  17436786:
+    template: Emerald_Quadav
+    at:       [-91.767, -24.556, 98.553, 125]
+    level:    [47, 49]
+
+  17436787:
+    template: Yagudo_Zealot
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_sw_9
+
+  17436788:
+    template: Yagudo_Conquistador
+    at:       [-68.412, -24.604, -58.422, 188]
+    level:    [47, 49]
+
+  17436789:
+    template: Yagudo_Lutenist
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_sw_9
+
+  17436790:
+    template: Yagudo_Prior
+    at:       [-86.896, -24.522, -60.364, 105]
+    level:    [47, 49]
+
+  17436791:
+    template: Elder_Quadav
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_nw_5
+
+  17436792:
+    template: Iron_Quadav
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_nw_5
+
+  17436793:
+    template: Spinel_Quadav
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_nw_5
+
+  17436794:
+    template: Emerald_Quadav
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_nw_5
+
+  17436795:
+    template: Yagudo_Zealot
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_sw_5
+
+  17436796:
+    template: Yagudo_Conquistador
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_sw_5
+
+  17436797:
+    template: Yagudo_Lutenist
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_sw_5
+
+  17436798:
+    template: Yagudo_Prior
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_sw_5
+
+  17436799:
+    template: Elder_Quadav
+    at:       [-140.000, -24.000, 85.000, 127]
+    level:    [47, 49]
+
+  17436800:
+    template: Iron_Quadav
+    at:       [-140.268, -40.401, 46.002, 127]
+    level:    [47, 49]
+
+  17436801:
+    template: Spinel_Quadav
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_w_3
+
+  17436802:
+    template: Emerald_Quadav
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_w_3
+
+  17436803:
+    template: Yagudo_Zealot
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_w_2
+
+  17436804:
+    template: Yagudo_Conquistador
+    at:       [-137.761, -40.390, -5.777, 89]
+    level:    [47, 49]
+
+  17436805:
+    template: Yagudo_Lutenist
+    at:       [-140.000, -24.000, -40.000, 127]
+    level:    [47, 49]
+
+  17436806:
+    template: Yagudo_Prior
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_w_2
+
+  17436807:
+    template: Morbid_Eye
+    at:       [-139.645, -42.569, 31.512, 127]
+    level:    [52, 53]
+
+  17436808:
+    template: Morbid_Eye
+    at:       [-142.132, -42.505, 4.812, 38]
+    level:    [52, 53]
+
+  17436809:
+    template: Elder_Quadav
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_nw_4
+
+  17436810:
+    template: Iron_Quadav
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_nw_4
+
+  17436811:
+    template: Spinel_Quadav
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_nw_4
+
+  17436812:
+    template: Emerald_Quadav
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_nw_4
+
+  17436813:
+    template: Yagudo_Zealot
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_sw_4
+
+  17436814:
+    template: Yagudo_Conquistador
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_sw_4
+
+  17436815:
+    template: Yagudo_Lutenist
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_sw_4
+
+  17436816:
+    template: Yagudo_Prior
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_sw_4
+
+  17436817:
+    template: Demon_Pawn
+    level:    [50, 52]
+    region:   castle_zvahl_baileys_w
+
+  17436818:
+    template: Demon_Pawn
+    level:    [50, 52]
+    region:   castle_zvahl_baileys_w
+
+  17436819:
+    template: Demon_Wizard
+    level:    [50, 52]
+    region:   castle_zvahl_baileys_w
+
+  17436820:
+    template: Elder_Quadav
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_nw_6
+
+  17436821:
+    template: Iron_Quadav
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_nw_6
+
+  17436822:
+    template: Spinel_Quadav
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_nw_6
+
+  17436823:
+    template: Emerald_Quadav
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_nw_6
+
+  17436824:
+    template: Yagudo_Zealot
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_sw_6
+
+  17436825:
+    template: Yagudo_Conquistador
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_sw_6
+
+  17436826:
+    template: Yagudo_Lutenist
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_sw_6
+
+  17436827:
+    template: Yagudo_Prior
+    level:    [47, 49]
+    region:   castle_zvahl_baileys_sw_6
+
+  17436828:
+    template: Demon_Pawn
+    level:    [50, 52]
+    region:   castle_zvahl_baileys_w_5
+
+  17436829:
+    template: Demon_Pawn
+    level:    [50, 52]
+    region:   castle_zvahl_baileys_w_5
+
+  17436830:
+    template: Demon_Wizard
+    level:    [50, 52]
+    region:   castle_zvahl_baileys_w_5
+
+  17436831:
+    template: Morbid_Eye
+    level:    [52, 53]
+    region:   castle_zvahl_baileys_w_9
+
+  17436832:
+    template: Morbid_Eye
+    level:    [52, 53]
+    region:   castle_zvahl_baileys_w_9
+
+  17436833:
+    template: Morbid_Eye
+    level:    [52, 53]
+    region:   castle_zvahl_baileys_w_9
+
+  17436834:
+    template: Demon_Wizard
+    at:       [-75.814, -24.526, 32.408, 127]
+    level:    [50, 52]
+
+  17436835:
+    template: Demon_Knight
+    at:       [-83.000, -24.500, 20.000, 34]
+    level:    [50, 52]
+
+  17436836:
+    template: Demon_Wizard
+    at:       [-82.330, -24.616, -3.131, 127]
+    level:    [50, 52]
+
+  17436837:
+    template: Demon_Warlock
+    at:       [-74.742, -24.639, 9.747, 127]
+    level:    [50, 52]
+
+  17436838:
+    template: Demons_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [43, 45]
+
+  17436839:
+    template: Morbid_Eye
+    at:       [-75.280, -24.542, 20.772, 127]
+    level:    [52, 53]
+
+  17436840:
+    template: Morbid_Eye
+    level:    [54, 55]
+    region:   castle_zvahl_baileys_nw_9
+
+  17436841:
+    template: Morbid_Eye
+    level:    [54, 55]
+    region:   castle_zvahl_baileys_nw_9
+
+  17436842:
+    template: Morbid_Eye
+    level:    [54, 55]
+    region:   castle_zvahl_baileys_sw_10
+
+  17436843:
+    template: Morbid_Eye
+    level:    [54, 55]
+    region:   castle_zvahl_baileys_sw_10
+
+  17436844:
+    template: Demon_Commander
+    level:    [57, 59]
+    region:   castle_zvahl_baileys_n
+
+  17436845:
+    template: Demon_General
+    level:    [57, 59]
+    region:   castle_zvahl_baileys_s
+
+  17436846:
+    template: Demon_Chancellor
+    level:    [57, 59]
+    region:   castle_zvahl_baileys_nw_7
+
+  17436847:
+    template: Demon_Magistrate
+    level:    [57, 59]
+    region:   castle_zvahl_baileys_sw_7
+
+  17436848:
+    template: Demons_Elemental
+    level:    [49, 54]
+    region:   castle_zvahl_baileys_sw_7
+
+  17436849:
+    template: Demon_Commander
+    at:       [0.660, 3.499, 124.338, 7]
+    level:    [57, 59]
+
+  17436850:
+    template: Demon_General
+    at:       [-6.266, 3.499, 125.143, 42]
+    level:    [57, 59]
+
+  17436851:
+    template: Demon_Chancellor
+    at:       [-5.661, 3.499, 121.638, 127]
+    level:    [57, 59]
+
+  17436852:
+    template: Demon_Magistrate
+    at:       [-8.098, 3.499, 112.239, 99]
+    level:    [57, 59]
+
+  17436853:
+    template: Demons_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [49, 54]
+
+  17436854:
+    template: Demon_Commander
+    at:       [9.023, 3.499, -79.536, 43]
+    level:    [57, 59]
+
+  17436855:
+    template: Demon_General
+    at:       [-1.000, 4.000, -76.000, 127]
+    level:    [57, 59]
+
+  17436856:
+    template: Demon_Chancellor
+    at:       [5.968, 3.499, -89.748, 127]
+    level:    [57, 59]
+
+  17436857:
+    template: Demon_Magistrate
+    at:       [-0.300, 3.499, -90.580, 57]
+    level:    [57, 59]
+
+  17436858:
+    template: Demons_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [49, 54]
+
+  17436859:
+    template: Demon_Commander
+    at:       [-126.356, 3.499, 125.843, 127]
+    level:    [57, 59]
+
+  17436860:
+    template: Demon_General
+    at:       [-124.360, 3.499, 121.628, 127]
+    level:    [57, 59]
+
+  17436861:
+    template: Demon_Chancellor
+    at:       [-122.968, 3.499, 115.177, 62]
+    level:    [57, 59]
+
+  17436862:
+    template: Demon_Magistrate
+    at:       [-113.000, 3.499, 124.000, 121]
+    level:    [57, 59]
+
+  17436863:
+    template: Demons_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [49, 54]
+
+  17436864:
+    template: Demon_Commander
+    at:       [-126.723, 3.499, -86.485, 58]
+    level:    [57, 59]
+
+  17436865:
+    template: Demon_General
+    at:       [-120.000, 3.499, -86.000, 86]
+    level:    [57, 59]
+
+  17436866:
+    template: Demon_Chancellor
+    at:       [-117.616, 3.499, -70.317, 127]
+    level:    [57, 59]
+
+  17436867:
+    template: Demon_Magistrate
+    at:       [-113.756, 3.499, -73.765, 83]
+    level:    [57, 59]
+
+  17436868:
+    template: Demons_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [49, 54]
+
+  17436869:
+    template: Blood_Demon
+    level:    [64, 66]
+    region:   castle_zvahl_baileys_n_8
+
+  17436870:
+    template: Doom_Demon
+    at:       [68.535, -8.500, 163.574, 127]
+    level:    [64, 66]
+
+  17436871:
+    template: Arch_Demon
+    level:    [64, 66]
+    region:   castle_zvahl_baileys_n_8
+
+  17436872:
+    template: Blood_Demon
+    at:       [85.764, -8.500, 148.307, 127]
+    level:    [64, 66]
+
+  17436873:
+    template: Doom_Demon
+    at:       [99.354, -8.500, 142.056, 35]
+    level:    [64, 66]
+
+  17436874:
+    template: Abyssal_Demon
+    level:    [64, 66]
+    region:   castle_zvahl_baileys_n_9
+
+  17436875:
+    template: Demons_Elemental
+    level:    [49, 54]
+    region:   castle_zvahl_baileys_n_9
+
+  17436876:
+    template: Marquis_Naberius
+    level:    [63, 64]
+    region:   castle_zvahl_baileys_n_9
+
+  17436877:
+    template: Blood_Demon
+    level:    [64, 66]
+    region:   castle_zvahl_baileys_s_7
+
+  17436878:
+    template: Doom_Demon
+    level:    [64, 66]
+    region:   castle_zvahl_baileys_s_7
+
+  17436879:
+    template: Abyssal_Demon
+    at:       [59.559, -8.500, -131.169, 127]
+    level:    [64, 66]
+
+  17436880:
+    template: Demons_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [49, 54]
+
+  17436881:
+    template: Marquis_Sabnock
+    at:       [70.800, -8.000, -119.500, 60]
+    level:    [73, 75]
+
+  17436882:
+    template: Doom_Demon
+    level:    [64, 66]
+    region:   castle_zvahl_baileys_s_8
+
+  17436883:
+    template: Arch_Demon
+    level:    [64, 66]
+    region:   castle_zvahl_baileys_s_8
+
+  17436884:
+    template: Abyssal_Demon
+    at:       [90.912, -8.500, -101.020, 127]
+    level:    [64, 66]
+
+  17436885:
+    template: Demons_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [49, 54]
+
+  17436886:
+    template: Blood_Demon
+    level:    [64, 66]
+    region:   castle_zvahl_baileys_nw_2
+
+  17436887:
+    template: Arch_Demon
+    at:       [-195.849, -8.500, 139.320, 115]
+    level:    [64, 66]
+
+  17436888:
+    template: Abyssal_Demon
+    level:    [64, 66]
+    region:   castle_zvahl_baileys_nw_2
+
+  17436889:
+    template: Demons_Elemental
+    level:    [49, 54]
+    region:   castle_zvahl_baileys_nw_2
+
+  17436890:
+    template: Blood_Demon
+    level:    [64, 66]
+    region:   castle_zvahl_baileys_nw
+
+  17436891:
+    template: Doom_Demon
+    level:    [64, 66]
+    region:   castle_zvahl_baileys_nw
+
+  17436892:
+    template: Arch_Demon
+    at:       [-212.282, -8.500, 178.590, 127]
+    level:    [64, 66]
+
+  17436893:
+    template: Doom_Demon
+    level:    [64, 66]
+    region:   castle_zvahl_baileys_sw_2
+
+  17436894:
+    template: Arch_Demon
+    at:       [-193.323, -8.500, -133.551, 127]
+    level:    [64, 66]
+
+  17436895:
+    template: Abyssal_Demon
+    level:    [64, 66]
+    region:   castle_zvahl_baileys_sw_2
+
+  17436896:
+    template: Demons_Elemental
+    level:    [49, 54]
+    region:   castle_zvahl_baileys_sw_2
+
+  17436897:
+    template: Blood_Demon
+    level:    [64, 66]
+    region:   castle_zvahl_baileys_sw
+
+  17436898:
+    template: Arch_Demon
+    at:       [-217.434, -8.500, -129.826, 247]
+    level:    [64, 66]
+
+  17436899:
+    template: Abyssal_Demon
+    level:    [64, 66]
+    region:   castle_zvahl_baileys_sw
+
+  17436900:
+    template: Demons_Elemental
+    level:    [49, 54]
+    region:   castle_zvahl_baileys_sw
+
+  17436901:
+    template: Ahriman
+    level:    [63, 65]
+    region:   castle_zvahl_baileys_n_7
+
+  17436902:
+    template: Ahriman
+    level:    [63, 65]
+    region:   castle_zvahl_baileys_s_6
+
+  17436903:
+    template: Ahriman
+    level:    [63, 65]
+    region:   castle_zvahl_baileys_nw_3
+
+  17436904:
+    template: Ahriman
+    level:    [63, 65]
+    region:   castle_zvahl_baileys_sw_3
+
+  17436905:
+    template: Ahriman
+    level:    [63, 65]
+    region:   castle_zvahl_baileys_n_5
+
+  17436906:
+    template: Ahriman
+    level:    [63, 65]
+    region:   castle_zvahl_baileys_c_2
+
+  17436907:
+    template: Ahriman
+    level:    [63, 65]
+    region:   castle_zvahl_baileys_w_3
+
+  17436908:
+    template: Ahriman
+    level:    [63, 65]
+    region:   castle_zvahl_baileys_sw_8
+
+  17436909:
+    template: Dread_Demon
+    level:    [71, 73]
+    region:   castle_zvahl_baileys_w_14
+
+  17436910:
+    template: Judicator_Demon
+    level:    [71, 73]
+    region:   castle_zvahl_baileys_w_14
+
+  17436911:
+    template: Stygian_Demon
+    level:    [71, 73]
+    region:   castle_zvahl_baileys_w_14
+
+  17436912:
+    template: Demons_Elemental
+    level:    [60, 64]
+    region:   castle_zvahl_baileys_w_14
+
+  17436913:
+    template: Marquis_Allocen
+    level:    [76, 76]
+    region:   castle_zvahl_baileys_w_14
+
+  17436914:
+    template: Gore_Demon
+    at:       [-25.385, -4.500, -15.515, 127]
+    level:    [71, 73]
+
+  17436915:
+    template: Judicator_Demon
+    at:       [-38.739, -4.500, -10.996, 27]
+    level:    [71, 73]
+
+  17436916:
+    template: Stygian_Demon
+    at:       [-27.689, -4.500, -3.916, 119]
+    level:    [71, 73]
+
+  17436917:
+    template: Demons_Elemental
+    level:    [60, 64]
+    region:   castle_zvahl_baileys_w_12
+
+  17436918:
+    template: Marquis_Amon
+    at:       [-30.715, -4.500, -20.455, 29]
+    level:    [76, 76]
+
+  17436919:
+    template: Gore_Demon
+    level:    [71, 73]
+    region:   castle_zvahl_baileys_w_8
+
+  17436920:
+    template: Dread_Demon
+    level:    [71, 73]
+    region:   castle_zvahl_baileys_w_8
+
+  17436921:
+    template: Stygian_Demon
+    level:    [71, 73]
+    region:   castle_zvahl_baileys_w_8
+
+  17436922:
+    template: Demons_Elemental
+    level:    [60, 64]
+    region:   castle_zvahl_baileys_w_8
+
+  17436923:
+    template: Duke_Haborym
+    level:    [76, 76]
+    region:   castle_zvahl_baileys_w_8
+
+  17436924:
+    template: Gore_Demon
+    at:       [-93.000, -4.500, -15.000, 99]
+    level:    [71, 73]
+
+  17436925:
+    template: Dread_Demon
+    at:       [-97.000, -4.500, -0.600, 102]
+    level:    [71, 73]
+
+  17436926:
+    template: Judicator_Demon
+    at:       [-81.908, -4.498, -4.230, 99]
+    level:    [71, 73]
+
+  17436927:
+    template: Grand_Duke_Batym
+    at:       [-78.000, -4.000, -15.000, 127]
+    level:    [76, 76]
+
+  17436928:
+    template: Demons_Elemental
+    level:    [60, 64]
+    region:   castle_zvahl_baileys_w_6
+
+  17436929:
+    template: Demons_Avatar
+    at:       [1.000, 1.000, 1.000, 127]
+    level:    [52, 54]
+
+  17436930:
+    template: Ahriman
+    level:    [63, 65]
+    region:   castle_zvahl_baileys_w_11
+
+  17436931:
+    template: Ahriman
+    level:    [63, 65]
+    region:   castle_zvahl_baileys_w_11
+
+  17436932:
+    template: Ahriman
+    level:    [63, 65]
+    region:   castle_zvahl_baileys_w_10
+
+  17436933:
+    template: Ahriman
+    level:    [63, 65]
+    region:   castle_zvahl_baileys_w_10
+
+  17436934:
+    template: Ahriman
+    level:    [63, 65]
+    region:   castle_zvahl_baileys_w_13
+
+  17436935:
+    template: Ahriman
+    level:    [63, 65]
+    region:   castle_zvahl_baileys_w_13
+
+  17436936:
+    template: Ahriman
+    level:    [63, 65]
+    region:   castle_zvahl_baileys_w_7
+
+  17436937:
+    template: Ahriman
+    level:    [63, 65]
+    region:   castle_zvahl_baileys_w_7
+
+  17436938:
+    template: Ahriman
+    level:    [63, 65]
+    region:   castle_zvahl_baileys_nw_8
+
+  17436939:
+    template: Ahriman
+    level:    [63, 65]
+    region:   castle_zvahl_baileys_sw_11
+
+  17436940:
+    template: Ahriman
+    level:    [63, 65]
+    region:   castle_zvahl_baileys_c_3
+
+  17436941:
+    template: Ahriman
+    level:    [63, 65]
+    region:   castle_zvahl_baileys_c_3
+
+  17436942:
+    template: Ahriman
+    level:    [63, 65]
+    region:   castle_zvahl_baileys_w_4
+
+  17436943:
+    template: Ahriman
+    level:    [63, 65]
+    region:   castle_zvahl_baileys_w_4
+
+  17436944:
+    template: Dread_Demon
+    level:    [71, 73]
+    region:   castle_zvahl_baileys_w_14
+
+  17436945:
+    template: Judicator_Demon
+    level:    [71, 73]
+    region:   castle_zvahl_baileys_w_14
+
+  17436946:
+    template: Stygian_Demon
+    level:    [71, 73]
+    region:   castle_zvahl_baileys_w_14
+
+  17436947:
+    template: Demons_Elemental
+    level:    [49, 54]
+    region:   castle_zvahl_baileys_w_14
+
+  17436948:
+    template: Gore_Demon
+    level:    [71, 73]
+    region:   castle_zvahl_baileys_w_11
+
+  17436949:
+    template: Gore_Demon
+    level:    [71, 73]
+    region:   castle_zvahl_baileys_w_12
+
+  17436950:
+    template: Judicator_Demon
+    level:    [71, 73]
+    region:   castle_zvahl_baileys_w_12
+
+  17436951:
+    template: Stygian_Demon
+    level:    [71, 73]
+    region:   castle_zvahl_baileys_w_12
+
+  17436952:
+    template: Demons_Elemental
+    level:    [49, 54]
+    region:   castle_zvahl_baileys_w_12
+
+  17436953:
+    template: Dread_Demon
+    level:    [71, 73]
+    region:   castle_zvahl_baileys_w_13
+
+  17436954:
+    template: Gore_Demon
+    level:    [71, 73]
+    region:   castle_zvahl_baileys_w_8
+
+  17436955:
+    template: Dread_Demon
+    level:    [71, 73]
+    region:   castle_zvahl_baileys_w_8
+
+  17436956:
+    template: Stygian_Demon
+    level:    [71, 73]
+    region:   castle_zvahl_baileys_w_8
+
+  17436957:
+    template: Demons_Elemental
+    level:    [49, 54]
+    region:   castle_zvahl_baileys_w_8
+
+  17436958:
+    template: Judicator_Demon
+    level:    [71, 73]
+    region:   castle_zvahl_baileys_w_7
+
+  17436959:
+    template: Gore_Demon
+    level:    [71, 73]
+    region:   castle_zvahl_baileys_w_6
+
+  17436960:
+    template: Dread_Demon
+    level:    [71, 73]
+    region:   castle_zvahl_baileys_w_6
+
+  17436961:
+    template: Judicator_Demon
+    level:    [71, 73]
+    region:   castle_zvahl_baileys_w_6
+
+  17436962:
+    template: Stygian_Demon
+    level:    [71, 73]
+    region:   castle_zvahl_baileys_w_10
+
+  17436963:
+    template: Demons_Elemental
+    level:    [49, 54]
+    region:   castle_zvahl_baileys_w_10
+
+  17436964:
+    template: Dark_Spark
+    at:       [62.000, -24.000, 19.000, 10]
+    level:    [55, 55]
+
+  17436965:
+    template: Mimic
+    at:       [189.783, 20.290, 20.761, 77]
+    level:    [60, 60]
+
+  17436966:
+    template: Marquis_Andrealphus
+    at:       [-13.818, -24.539, 20.325, 245]
+    level:    [76, 76]
+
+  17436967:
+    template: Demon_Banneret
+    at:       [20.000, -24.620, 25.000, 64]
+    level:    [61, 61]
+
+  17436968:
+    template: Demon_Secretary
+    at:       [20.000, -24.527, 30.000, 64]
+    level:    [61, 61]
+
+  17436969:
+    template: Demon_Banneret
+    at:       [20.000, -24.575, 14.500, 192]
+    level:    [61, 61]
+
+  17436970:
+    template: Demon_Secretary
+    at:       [20.000, -24.528, 9.500, 192]
+    level:    [61, 61]

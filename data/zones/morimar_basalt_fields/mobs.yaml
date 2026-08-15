@@ -1,0 +1,3208 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17862657:
+    template: Steamed_Jagil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17862658:
+    template: Steamed_Jagil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17862659:
+    template: Steamed_Jagil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17862660:
+    template: Steamed_Jagil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17862661:
+    template: Minacious_Matamata
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17862662:
+    template: Frosty_Twitherym
+    at:       [442.600, -16.500, -477.420, 123]
+    level:    [102, 105]
+
+  17862663:
+    template: Frosty_Twitherym
+    at:       [442.890, -16.500, -483.190, 59]
+    level:    [102, 105]
+
+  17862664:
+    template: Frosty_Twitherym
+    at:       [435.130, -16.480, -473.650, 161]
+    level:    [102, 105]
+
+  17862665:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e_3
+
+  17862666:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e_3
+
+  17862667:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e_3
+
+  17862668:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e_3
+
+  17862669:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e_3
+
+  17862670:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e_3
+
+  17862671:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_se_4
+
+  17862672:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_se_4
+
+  17862673:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_se_4
+
+  17862674:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_se_4
+
+  17862675:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_se_4
+
+  17862676:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_se_4
+
+  17862677:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_se_4
+
+  17862678:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_se_4
+
+  17862679:
+    template: Maca_Maca
+    level:    [102, 105]
+    region:   morimar_basalt_fields_se_5
+
+  17862680:
+    template: Maca_Maca
+    level:    [102, 105]
+    region:   morimar_basalt_fields_se_5
+
+  17862681:
+    template: Maca_Maca
+    level:    [102, 105]
+    region:   morimar_basalt_fields_se_5
+
+  17862682:
+    template: Maca_Maca
+    level:    [102, 105]
+    region:   morimar_basalt_fields_se_5
+
+  17862683:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_se_5
+
+  17862684:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_se_5
+
+  17862685:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_se_5
+
+  17862686:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_se_5
+
+  17862687:
+    template: Maca_Maca
+    level:    [102, 105]
+    region:   morimar_basalt_fields_se_6
+
+  17862688:
+    template: Maca_Maca
+    level:    [102, 105]
+    region:   morimar_basalt_fields_se_6
+
+  17862689:
+    template: Maca_Maca
+    level:    [102, 105]
+    region:   morimar_basalt_fields_se_6
+
+  17862690:
+    template: Maca_Maca
+    level:    [102, 105]
+    region:   morimar_basalt_fields_se_6
+
+  17862691:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_se_6
+
+  17862692:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_se_6
+
+  17862693:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_se_6
+
+  17862694:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_se_6
+
+  17862695:
+    template: Maca_Maca
+    level:    [102, 105]
+    region:   morimar_basalt_fields_se_7
+
+  17862696:
+    template: Maca_Maca
+    level:    [102, 105]
+    region:   morimar_basalt_fields_se_7
+
+  17862697:
+    template: Maca_Maca
+    level:    [102, 105]
+    region:   morimar_basalt_fields_se_7
+
+  17862698:
+    template: Maca_Maca
+    level:    [102, 105]
+    region:   morimar_basalt_fields_se_7
+
+  17862699:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_se_7
+
+  17862700:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_se_7
+
+  17862701:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_se_7
+
+  17862702:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_se_7
+
+  17862703:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_se_8
+
+  17862704:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_se_8
+
+  17862705:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_se_8
+
+  17862706:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_se_8
+
+  17862707:
+    template: Snowcap_Umbril
+    level:    [103, 106]
+    region:   morimar_basalt_fields_se_8
+
+  17862708:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e_9
+
+  17862709:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e_9
+
+  17862710:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e_9
+
+  17862711:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e_9
+
+  17862712:
+    template: Snowcap_Umbril
+    level:    [103, 106]
+    region:   morimar_basalt_fields_e_9
+
+  17862713:
+    template: Qohanyk
+    at:       [482.300, -16.490, 83.033, 200]
+    level:    [102, 104]
+
+  17862714:
+    template: Qohanyk
+    at:       [518.450, -16.490, 73.710, 75]
+    level:    [102, 104]
+
+  17862715:
+    template: Snowcap_Umbril
+    level:    [103, 106]
+    region:   morimar_basalt_fields_e_10
+
+  17862716:
+    template: Snowcap_Umbril
+    level:    [103, 106]
+    region:   morimar_basalt_fields_e_10
+
+  17862717:
+    template: Snowcap_Umbril
+    level:    [103, 106]
+    region:   morimar_basalt_fields_e_11
+
+  17862718:
+    template: Snowcap_Umbril
+    level:    [103, 106]
+    region:   morimar_basalt_fields_e_11
+
+  17862719:
+    template: Maca_Maca
+    level:    [102, 105]
+    region:   morimar_basalt_fields_ne_9
+
+  17862720:
+    template: Maca_Maca
+    level:    [102, 105]
+    region:   morimar_basalt_fields_ne_9
+
+  17862721:
+    template: Maca_Maca
+    level:    [102, 105]
+    region:   morimar_basalt_fields_ne_9
+
+  17862722:
+    template: Maca_Maca
+    level:    [102, 105]
+    region:   morimar_basalt_fields_ne_7
+
+  17862723:
+    template: Maca_Maca
+    level:    [102, 105]
+    region:   morimar_basalt_fields_ne_7
+
+  17862724:
+    template: Maca_Maca
+    level:    [102, 105]
+    region:   morimar_basalt_fields_ne_7
+
+  17862725:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_ne_7
+
+  17862726:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_ne_7
+
+  17862727:
+    template: Maca_Maca
+    level:    [102, 105]
+    region:   morimar_basalt_fields_ne_6
+
+  17862728:
+    template: Maca_Maca
+    level:    [102, 105]
+    region:   morimar_basalt_fields_ne_6
+
+  17862729:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_ne_6
+
+  17862730:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_ne_6
+
+  17862731:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_ne_10
+
+  17862732:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_ne_10
+
+  17862733:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_ne_10
+
+  17862734:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_ne_10
+
+  17862735:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_e_8
+
+  17862736:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_e_8
+
+  17862737:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e_8
+
+  17862738:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e_8
+
+  17862739:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e_5
+
+  17862740:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e_5
+
+  17862741:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e_5
+
+  17862742:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e_4
+
+  17862743:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e_4
+
+  17862744:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e_4
+
+  17862745:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e_4
+
+  17862746:
+    template: Qohanyk
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e_4
+
+  17862747:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_e_7
+
+  17862748:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_e_7
+
+  17862749:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e_7
+
+  17862750:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e_7
+
+  17862751:
+    template: Qohanyk
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e_7
+
+  17862752:
+    template: Qohanyk
+    level:    [102, 104]
+    region:   morimar_basalt_fields_ne_8
+
+  17862753:
+    template: Qohanyk
+    level:    [102, 104]
+    region:   morimar_basalt_fields_ne_8
+
+  17862754:
+    template: Qohanyk
+    level:    [102, 104]
+    region:   morimar_basalt_fields_ne_8
+
+  17862755:
+    template: Snowcap_Umbril
+    level:    [103, 106]
+    region:   morimar_basalt_fields_ne_8
+
+  17862756:
+    template: Qohanyk
+    level:    [102, 104]
+    region:   morimar_basalt_fields_ne_5
+
+  17862757:
+    template: Qohanyk
+    level:    [102, 104]
+    region:   morimar_basalt_fields_ne_5
+
+  17862758:
+    template: Qohanyk
+    level:    [102, 104]
+    region:   morimar_basalt_fields_ne_5
+
+  17862759:
+    template: Snowcap_Umbril
+    level:    [103, 106]
+    region:   morimar_basalt_fields_ne_5
+
+  17862760:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_ne_3
+
+  17862761:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_ne_3
+
+  17862762:
+    template: Qohanyk
+    level:    [102, 104]
+    region:   morimar_basalt_fields_ne_3
+
+  17862763:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_n_13
+
+  17862764:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_n_13
+
+  17862765:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_n_13
+
+  17862766:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_n_13
+
+  17862767:
+    template: Snowcap_Umbril
+    level:    [103, 106]
+    region:   morimar_basalt_fields_n_13
+
+  17862768:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_e_2
+
+  17862769:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_e_2
+
+  17862770:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_e_2
+
+  17862771:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_e_2
+
+  17862772:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e_2
+
+  17862773:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e_2
+
+  17862774:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e_2
+
+  17862775:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_e_6
+
+  17862776:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_e_6
+
+  17862777:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_e_6
+
+  17862778:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_e_6
+
+  17862779:
+    template: Snowcap_Umbril
+    level:    [103, 106]
+    region:   morimar_basalt_fields_e_6
+
+  17862780:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_12
+
+  17862781:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_12
+
+  17862782:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_12
+
+  17862783:
+    template: Qohanyk
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_12
+
+  17862784:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e
+
+  17862785:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e
+
+  17862786:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e
+
+  17862787:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e
+
+  17862788:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e
+
+  17862789:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e
+
+  17862790:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e
+
+  17862791:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e
+
+  17862792:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_e
+
+  17862793:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_n_10
+
+  17862794:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_n_10
+
+  17862795:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_n_6
+
+  17862796:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_n_6
+
+  17862797:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_n_6
+
+  17862798:
+    template: Hoarfrost_Gefyrst
+    level:    [102, 104]
+    region:   morimar_basalt_fields_n_6
+
+  17862799:
+    template: Steam_Spout
+    at:       [-5.723, -0.365, 191.488, 88]
+    level:    [1, 1]
+
+  17862800:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_c_2
+
+  17862801:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_c_2
+
+  17862802:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_c_2
+
+  17862803:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_c_2
+
+  17862804:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_c_2
+
+  17862805:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_c_2
+
+  17862806:
+    template: Snowcap_Umbril
+    level:    [103, 106]
+    region:   morimar_basalt_fields_c_2
+
+  17862807:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_3
+
+  17862808:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_3
+
+  17862809:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_3
+
+  17862810:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_3
+
+  17862811:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_c_3
+
+  17862812:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_c_3
+
+  17862813:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_5
+
+  17862814:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_5
+
+  17862815:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_5
+
+  17862816:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_5
+
+  17862817:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_c_5
+
+  17862818:
+    template: Frosty_Twitherym
+    level:    [102, 105]
+    region:   morimar_basalt_fields_c_5
+
+  17862819:
+    template: Hoarfrost_Gefyrst
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_5
+
+  17862820:
+    template: Steam_Spout
+    at:       [-110.500, -0.228, -76.052, 82]
+    level:    [1, 1]
+
+  17862821:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_7
+
+  17862822:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_7
+
+  17862823:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_7
+
+  17862824:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_7
+
+  17862825:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_7
+
+  17862826:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_7
+
+  17862827:
+    template: Steam_Spout
+    at:       [-46.580, 0.286, -20.872, 66]
+    level:    [1, 1]
+
+  17862828:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_11
+
+  17862829:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_11
+
+  17862830:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_11
+
+  17862831:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_11
+
+  17862832:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_11
+
+  17862833:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_11
+
+  17862834:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_10
+
+  17862835:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_10
+
+  17862836:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_10
+
+  17862837:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_10
+
+  17862838:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_10
+
+  17862839:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_10
+
+  17862840:
+    template: Snowcap_Umbril
+    level:    [103, 106]
+    region:   morimar_basalt_fields_c_10
+
+  17862841:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_9
+
+  17862842:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_9
+
+  17862843:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_9
+
+  17862844:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_9
+
+  17862845:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_9
+
+  17862846:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c_9
+
+  17862847:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_4
+
+  17862848:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_4
+
+  17862849:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_4
+
+  17862850:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_4
+
+  17862851:
+    template: Volcanic_Wivre
+    level:    [102, 105]
+    region:   morimar_basalt_fields_s_4
+
+  17862852:
+    template: Volcanic_Wivre
+    level:    [102, 105]
+    region:   morimar_basalt_fields_s_4
+
+  17862853:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_8
+
+  17862854:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_8
+
+  17862855:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_8
+
+  17862856:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_8
+
+  17862857:
+    template: Volcanic_Wivre
+    level:    [102, 105]
+    region:   morimar_basalt_fields_s_8
+
+  17862858:
+    template: Volcanic_Wivre
+    level:    [102, 105]
+    region:   morimar_basalt_fields_s_8
+
+  17862859:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_6
+
+  17862860:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_6
+
+  17862861:
+    template: Volcanic_Wivre
+    level:    [102, 105]
+    region:   morimar_basalt_fields_s_6
+
+  17862862:
+    template: Volcanic_Wivre
+    level:    [102, 105]
+    region:   morimar_basalt_fields_s_6
+
+  17862863:
+    template: Volcanic_Wivre
+    level:    [102, 105]
+    region:   morimar_basalt_fields_s_6
+
+  17862864:
+    template: Volcanic_Wivre
+    level:    [102, 105]
+    region:   morimar_basalt_fields_s_6
+
+  17862865:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_7
+
+  17862866:
+    template: Tephra_Lizard
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_7
+
+  17862867:
+    template: Tundra_Eft
+    at:       [90.540, -16.440, -312.160, 228]
+    level:    [102, 104]
+
+  17862868:
+    template: Tundra_Eft
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_7
+
+  17862869:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_7
+
+  17862870:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_7
+
+  17862871:
+    template: Hoarfrost_Gefyrst
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_7
+
+  17862872:
+    template: Steam_Spout
+    at:       [56.089, -15.690, -283.490, 1]
+    level:    [1, 1]
+
+  17862873:
+    template: Tundra_Eft
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_9
+
+  17862874:
+    template: Tundra_Eft
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_9
+
+  17862875:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_9
+
+  17862876:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_9
+
+  17862877:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_9
+
+  17862878:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_9
+
+  17862879:
+    template: Tundra_Eft
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_10
+
+  17862880:
+    template: Tundra_Eft
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_10
+
+  17862881:
+    template: Tundra_Eft
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_10
+
+  17862882:
+    template: Volcanic_Wivre
+    level:    [102, 105]
+    region:   morimar_basalt_fields_s_10
+
+  17862883:
+    template: Volcanic_Wivre
+    level:    [102, 105]
+    region:   morimar_basalt_fields_s_10
+
+  17862884:
+    template: Volcanic_Wivre
+    level:    [102, 105]
+    region:   morimar_basalt_fields_s_10
+
+  17862885:
+    template: Tundra_Eft
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_5
+
+  17862886:
+    template: Tundra_Eft
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_5
+
+  17862887:
+    template: Tundra_Eft
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_5
+
+  17862888:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_5
+
+  17862889:
+    template: Sinewy_Matamata
+    at:       [55.437, -15.860, -392.970, 237]
+    level:    [102, 104]
+
+  17862890:
+    template: Sinewy_Matamata
+    at:       [45.099, -15.900, -372.170, 205]
+    level:    [102, 104]
+
+  17862891:
+    template: Tephra_Lizard
+    at:       [21.545, -15.730, -480.440, 97]
+    level:    [102, 104]
+
+  17862892:
+    template: Tephra_Lizard
+    at:       [-2.999, -16.050, -463.610, 9]
+    level:    [102, 104]
+
+  17862893:
+    template: Tephra_Lizard
+    at:       [42.796, -16.160, -449.590, 201]
+    level:    [102, 104]
+
+  17862894:
+    template: Volcanic_Wivre
+    at:       [7.234, -16.480, -460.220, 78]
+    level:    [102, 105]
+
+  17862895:
+    template: Volcanic_Wivre
+    at:       [-8.291, -16.190, -469.980, 103]
+    level:    [102, 105]
+
+  17862896:
+    template: Volcanic_Wivre
+    at:       [41.801, -16.110, -468.250, 52]
+    level:    [102, 105]
+
+  17862897:
+    template: Volcanic_Wivre
+    at:       [-32.180, -16.040, -416.350, 51]
+    level:    [102, 105]
+
+  17862898:
+    template: Volcanic_Wivre
+    level:    [102, 105]
+    region:   morimar_basalt_fields_s_3
+
+  17862899:
+    template: Volcanic_Wivre
+    level:    [102, 105]
+    region:   morimar_basalt_fields_s_3
+
+  17862900:
+    template: Mountain_Peiste
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c
+
+  17862901:
+    template: Mountain_Peiste
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c
+
+  17862902:
+    template: Mountain_Peiste
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c
+
+  17862903:
+    template: Felsic_Eruca
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c
+
+  17862904:
+    template: Felsic_Eruca
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c
+
+  17862905:
+    template: Felsic_Eruca
+    level:    [102, 104]
+    region:   morimar_basalt_fields_c
+
+  17862906:
+    template: Mountain_Peiste
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_2
+
+  17862907:
+    template: Mountain_Peiste
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_2
+
+  17862908:
+    template: Mountain_Peiste
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_2
+
+  17862909:
+    template: Felsic_Eruca
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_2
+
+  17862910:
+    template: Felsic_Eruca
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_2
+
+  17862911:
+    template: Felsic_Eruca
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s_2
+
+  17862912:
+    template: Mountain_Peiste
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw
+
+  17862913:
+    template: Mountain_Peiste
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw
+
+  17862914:
+    template: Mafic_Spider
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw
+
+  17862915:
+    template: Mafic_Spider
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw
+
+  17862916:
+    template: Qohanyk
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw
+
+  17862917:
+    template: Mountain_Peiste
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw_4
+
+  17862918:
+    template: Mountain_Peiste
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw_4
+
+  17862919:
+    template: Mafic_Spider
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw_4
+
+  17862920:
+    template: Mafic_Spider
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw_4
+
+  17862921:
+    template: Qohanyk
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw_4
+
+  17862922:
+    template: Mountain_Peiste
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw_6
+
+  17862923:
+    template: Mountain_Peiste
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw_6
+
+  17862924:
+    template: Mountain_Peiste
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw_6
+
+  17862925:
+    template: Mafic_Spider
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw_6
+
+  17862926:
+    template: Mafic_Spider
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw_6
+
+  17862927:
+    template: Felsic_Eruca
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw_8
+
+  17862928:
+    template: Felsic_Eruca
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw_8
+
+  17862929:
+    template: Mafic_Spider
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw_8
+
+  17862930:
+    template: Mafic_Spider
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw_8
+
+  17862931:
+    template: Felsic_Eruca
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw_7
+
+  17862932:
+    template: Felsic_Eruca
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw_7
+
+  17862933:
+    template: Mountain_Peiste
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw_7
+
+  17862934:
+    template: Mountain_Peiste
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw_7
+
+  17862935:
+    template: Hoarfrost_Gefyrst
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw_7
+
+  17862936:
+    template: Steam_Spout
+    at:       [-286.500, -31.900, -293.700, 11]
+    level:    [1, 1]
+
+  17862937:
+    template: Felsic_Eruca
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw_8
+
+  17862938:
+    template: Felsic_Eruca
+    at:       [-270.200, -32.360, -405.040, 46]
+    level:    [102, 104]
+
+  17862939:
+    template: Mountain_Peiste
+    at:       [-254.000, -32.470, -393.830, 2]
+    level:    [102, 104]
+
+  17862940:
+    template: Mountain_Peiste
+    at:       [-270.800, -32.390, -388.650, 33]
+    level:    [102, 104]
+
+  17862941:
+    template: Felsic_Eruca
+    at:       [-228.300, -32.270, -399.200, 169]
+    level:    [102, 104]
+
+  17862942:
+    template: Felsic_Eruca
+    at:       [-211.600, -32.360, -409.810, 138]
+    level:    [102, 104]
+
+  17862943:
+    template: Felsic_Eruca
+    at:       [-225.800, -32.220, -405.490, 104]
+    level:    [102, 104]
+
+  17862944:
+    template: Felsic_Eruca
+    at:       [-205.400, -32.340, -397.580, 216]
+    level:    [102, 104]
+
+  17862945:
+    template: Mountain_Peiste
+    at:       [-225.500, -32.030, -394.720, 145]
+    level:    [102, 104]
+
+  17862946:
+    template: Mountain_Peiste
+    at:       [-226.700, -32.440, -409.600, 168]
+    level:    [102, 104]
+
+  17862947:
+    template: Felsic_Eruca
+    at:       [-240.400, -32.430, -482.270, 119]
+    level:    [102, 104]
+
+  17862948:
+    template: Felsic_Eruca
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw_9
+
+  17862949:
+    template: Felsic_Eruca
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw_9
+
+  17862950:
+    template: Felsic_Eruca
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw_9
+
+  17862951:
+    template: Felsic_Eruca
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw_9
+
+  17862952:
+    template: Felsic_Eruca
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw_9
+
+  17862953:
+    template: Mafic_Spider
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw_2
+
+  17862954:
+    template: Mafic_Spider
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw_2
+
+  17862955:
+    template: Mafic_Spider
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw_5
+
+  17862956:
+    template: Mafic_Spider
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw_5
+
+  17862957:
+    template: Mafic_Spider
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw_5
+
+  17862958:
+    template: Mafic_Spider
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw_3
+
+  17862959:
+    template: Mafic_Spider
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw_3
+
+  17862960:
+    template: Mafic_Spider
+    level:    [102, 104]
+    region:   morimar_basalt_fields_sw_3
+
+  17862961:
+    template: Felsic_Eruca
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s
+
+  17862962:
+    template: Felsic_Eruca
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s
+
+  17862963:
+    template: Felsic_Eruca
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s
+
+  17862964:
+    template: Tundra_Eft
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s
+
+  17862965:
+    template: Tundra_Eft
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s
+
+  17862966:
+    template: Tundra_Eft
+    level:    [102, 104]
+    region:   morimar_basalt_fields_s
+
+  17862967:
+    template: Felsic_Eruca
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_11
+
+  17862968:
+    template: Felsic_Eruca
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_11
+
+  17862969:
+    template: Felsic_Eruca
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_11
+
+  17862970:
+    template: Felsic_Eruca
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_11
+
+  17862971:
+    template: Acerbic_Jagil
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_8
+
+  17862972:
+    template: Acerbic_Jagil
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_8
+
+  17862973:
+    template: Acerbic_Jagil
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_8
+
+  17862974:
+    template: Acerbic_Jagil
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_8
+
+  17862975:
+    template: Mountain_Peiste
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_8
+
+  17862976:
+    template: Mountain_Peiste
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_8
+
+  17862977:
+    template: Hoarfrost_Gefyrst
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_8
+
+  17862978:
+    template: Steam_Spout
+    at:       [-291.800, -32.490, -64.813, 110]
+    level:    [1, 1]
+
+  17862979:
+    template: Tundra_Eft
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_3
+
+  17862980:
+    template: Tundra_Eft
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_3
+
+  17862981:
+    template: Tundra_Eft
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_3
+
+  17862982:
+    template: Mountain_Peiste
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_3
+
+  17862983:
+    template: Mountain_Peiste
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_3
+
+  17862984:
+    template: Mountain_Peiste
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_3
+
+  17862985:
+    template: Tundra_Eft
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_9
+
+  17862986:
+    template: Tundra_Eft
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_9
+
+  17862987:
+    template: Acerbic_Jagil
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_9
+
+  17862988:
+    template: Acerbic_Jagil
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_9
+
+  17862989:
+    template: Acerbic_Jagil
+    at:       [-270.600, -32.020, -112.930, 138]
+    level:    [102, 104]
+
+  17862990:
+    template: Acerbic_Jagil
+    at:       [-281.800, -32.290, -113.700, 241]
+    level:    [102, 104]
+
+  17862991:
+    template: Felsic_Eruca
+    at:       [-480.001, -47.840, -63.946, 201]
+    level:    [102, 104]
+
+  17862992:
+    template: Felsic_Eruca
+    at:       [-482.100, -48.440, -75.650, 228]
+    level:    [102, 104]
+
+  17862993:
+    template: Felsic_Eruca
+    at:       [-518.952, -48.264, -84.648, 43]
+    level:    [102, 104]
+
+  17862994:
+    template: Felsic_Eruca
+    at:       [-516.150, -48.214, -71.179, 36]
+    level:    [102, 104]
+
+  17862995:
+    template: Felsic_Eruca
+    at:       [-500.200, -47.460, -85.681, 89]
+    level:    [102, 104]
+
+  17862996:
+    template: Felsic_Eruca
+    at:       [-498.844, -48.195, -48.341, 251]
+    level:    [102, 104]
+
+  17862997:
+    template: Snowcap_Umbril
+    at:       [-503.647, -47.582, -85.985, 50]
+    level:    [103, 106]
+
+  17862998:
+    template: Felsic_Eruca
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w
+
+  17862999:
+    template: Felsic_Eruca
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w
+
+  17863000:
+    template: Felsic_Eruca
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w
+
+  17863001:
+    template: Felsic_Eruca
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w
+
+  17863002:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w
+
+  17863003:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w
+
+  17863004:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_6
+
+  17863005:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_6
+
+  17863006:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_6
+
+  17863007:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_6
+
+  17863008:
+    template: Acerbic_Jagil
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_7
+
+  17863009:
+    template: Acerbic_Jagil
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_7
+
+  17863010:
+    template: Acerbic_Jagil
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_7
+
+  17863011:
+    template: Acerbic_Jagil
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_7
+
+  17863012:
+    template: Mountain_Peiste
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_7
+
+  17863013:
+    template: Mountain_Peiste
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_7
+
+  17863014:
+    template: Hoarfrost_Gefyrst
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_7
+
+  17863015:
+    template: Acerbic_Jagil
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_4
+
+  17863016:
+    template: Acerbic_Jagil
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_4
+
+  17863017:
+    template: Acerbic_Jagil
+    level:    [102, 104]
+    region:   morimar_basalt_fields_w_4
+
+  17863018:
+    template: Acerbic_Jagil
+    at:       [-378.000, -47.710, 115.533, 129]
+    level:    [102, 104]
+
+  17863019:
+    template: Sinewy_Matamata
+    at:       [-392.100, -48.240, 78.503, 19]
+    level:    [102, 104]
+
+  17863020:
+    template: Sinewy_Matamata
+    at:       [-384.900, -48.110, 88.184, 200]
+    level:    [102, 104]
+
+  17863021:
+    template: Steam_Spout
+    at:       [-384.700, -48.300, 73.778, 16]
+    level:    [1, 1]
+
+  17863022:
+    template: Acerbic_Jagil
+    at:       [-305.400, -48.190, 145.921, 51]
+    level:    [102, 104]
+
+  17863023:
+    template: Acerbic_Jagil
+    at:       [-354.800, -48.170, 132.341, 80]
+    level:    [102, 104]
+
+  17863024:
+    template: Acerbic_Jagil
+    at:       [-296.700, -47.770, 142.483, 168]
+    level:    [102, 104]
+
+  17863025:
+    template: Sinewy_Matamata
+    at:       [-347.800, -48.250, 136.065, 231]
+    level:    [102, 104]
+
+  17863026:
+    template: Sinewy_Matamata
+    at:       [-350.000, -48.040, 139.479, 123]
+    level:    [102, 104]
+
+  17863027:
+    template: Sinewy_Matamata
+    at:       [-414.700, -48.160, 203.490, 242]
+    level:    [102, 104]
+
+  17863028:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_nw_4
+
+  17863029:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_nw_4
+
+  17863030:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_nw_4
+
+  17863031:
+    template: Acerbic_Jagil
+    level:    [102, 104]
+    region:   morimar_basalt_fields_nw_2
+
+  17863032:
+    template: Acerbic_Jagil
+    level:    [102, 104]
+    region:   morimar_basalt_fields_nw_2
+
+  17863033:
+    template: Acerbic_Jagil
+    level:    [102, 104]
+    region:   morimar_basalt_fields_nw_2
+
+  17863034:
+    template: Acerbic_Jagil
+    level:    [102, 104]
+    region:   morimar_basalt_fields_nw_2
+
+  17863035:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_nw_2
+
+  17863036:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_nw_2
+
+  17863037:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_nw_2
+
+  17863038:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_nw_2
+
+  17863039:
+    template: Steam_Spout
+    at:       [-487.800, -48.220, 247.643, 23]
+    level:    [1, 1]
+
+  17863040:
+    template: Acerbic_Jagil
+    level:    [102, 104]
+    region:   morimar_basalt_fields_nw
+
+  17863041:
+    template: Acerbic_Jagil
+    level:    [102, 104]
+    region:   morimar_basalt_fields_nw
+
+  17863042:
+    template: Acerbic_Jagil
+    level:    [102, 104]
+    region:   morimar_basalt_fields_nw
+
+  17863043:
+    template: Tundra_Eft
+    level:    [102, 104]
+    region:   morimar_basalt_fields_nw_7
+
+  17863044:
+    template: Tundra_Eft
+    level:    [102, 104]
+    region:   morimar_basalt_fields_nw_7
+
+  17863045:
+    template: Tundra_Eft
+    level:    [102, 104]
+    region:   morimar_basalt_fields_nw_7
+
+  17863046:
+    template: Tundra_Eft
+    level:    [102, 104]
+    region:   morimar_basalt_fields_nw_7
+
+  17863047:
+    template: Mountain_Peiste
+    level:    [102, 104]
+    region:   morimar_basalt_fields_nw_7
+
+  17863048:
+    template: Mountain_Peiste
+    level:    [102, 104]
+    region:   morimar_basalt_fields_nw_7
+
+  17863049:
+    template: Snowcap_Umbril
+    at:       [-337.400, -47.660, 282.744, 138]
+    level:    [103, 106]
+
+  17863050:
+    template: Acerbic_Jagil
+    at:       [-255.100, -47.820, 472.399, 152]
+    level:    [102, 104]
+
+  17863051:
+    template: Acerbic_Jagil
+    at:       [-230.300, -48.100, 474.687, 140]
+    level:    [102, 104]
+
+  17863052:
+    template: Acerbic_Jagil
+    at:       [-211.300, -47.870, 457.871, 206]
+    level:    [102, 104]
+
+  17863053:
+    template: Acerbic_Jagil
+    at:       [-253.600, -47.950, 470.071, 148]
+    level:    [102, 104]
+
+  17863054:
+    template: Sinewy_Matamata
+    at:       [-211.400, -47.850, 457.283, 202]
+    level:    [102, 104]
+
+  17863055:
+    template: Sinewy_Matamata
+    at:       [-217.700, -48.150, 449.455, 92]
+    level:    [102, 104]
+
+  17863056:
+    template: Acerbic_Jagil
+    at:       [-168.800, -47.790, 419.125, 194]
+    level:    [102, 104]
+
+  17863057:
+    template: Acerbic_Jagil
+    at:       [-165.900, -48.410, 396.093, 22]
+    level:    [102, 104]
+
+  17863058:
+    template: Acerbic_Jagil
+    level:    [102, 104]
+    region:   morimar_basalt_fields_n
+
+  17863059:
+    template: Hoarfrost_Gefyrst
+    level:    [102, 104]
+    region:   morimar_basalt_fields_n
+
+  17863060:
+    template: Steam_Spout
+    at:       [-174.400, -48.140, 390.835, 69]
+    level:    [1, 1]
+
+  17863061:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_n
+
+  17863062:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_n
+
+  17863063:
+    template: Hoarfrost_Gefyrst
+    level:    [102, 104]
+    region:   morimar_basalt_fields_n
+
+  17863064:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_n_3
+
+  17863065:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_n_3
+
+  17863066:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_n_3
+
+  17863067:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_n_3
+
+  17863068:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_n_3
+
+  17863069:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_n_3
+
+  17863070:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_n_4
+
+  17863071:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_n_4
+
+  17863072:
+    template: Animosiraptor
+    level:    [102, 104]
+    region:   morimar_basalt_fields_n_4
+
+  17863073:
+    template: Tundra_Eft
+    level:    [102, 104]
+    region:   morimar_basalt_fields_n_4
+
+  17863074:
+    template: Tundra_Eft
+    level:    [102, 104]
+    region:   morimar_basalt_fields_n_4
+
+  17863075:
+    template: Tundra_Eft
+    level:    [102, 104]
+    region:   morimar_basalt_fields_n_4
+
+  17863076:
+    template: Mountain_Peiste
+    level:    [102, 104]
+    region:   morimar_basalt_fields_n_8
+
+  17863077:
+    template: Mountain_Peiste
+    level:    [102, 104]
+    region:   morimar_basalt_fields_n_8
+
+  17863078:
+    template: Mountain_Peiste
+    level:    [102, 104]
+    region:   morimar_basalt_fields_n_8
+
+  17863079:
+    template: Mountain_Peiste
+    at:       [11.722, -48.270, 439.540, 102]
+    level:    [102, 104]
+
+  17863080:
+    template: Mountain_Peiste
+    at:       [31.450, -48.430, 441.378, 52]
+    level:    [102, 104]
+
+  17863081:
+    template: Tundra_Eft
+    at:       [-4.192, -48.340, 479.873, 179]
+    level:    [102, 104]
+
+  17863082:
+    template: Tundra_Eft
+    at:       [-33.160, -48.350, 477.427, 157]
+    level:    [102, 104]
+
+  17863083:
+    template: Mountain_Peiste
+    at:       [-22.980, -48.100, 471.986, 28]
+    level:    [102, 104]
+
+  17863084:
+    template: Mountain_Peiste
+    at:       [2.263, -48.040, 471.350, 206]
+    level:    [102, 104]
+
+  17863085:
+    template: Mountain_Peiste
+    at:       [-33.560, -48.240, 478.998, 125]
+    level:    [102, 104]
+
+  17863086:
+    template: Animosiraptor
+    at:       [-326.100, -64.200, 432.559, 143]
+    level:    [102, 104]
+
+  17863087:
+    template: Animosiraptor
+    at:       [-317.700, -63.790, 453.476, 252]
+    level:    [102, 104]
+
+  17863088:
+    template: Mountain_Peiste
+    level:    [102, 104]
+    region:   morimar_basalt_fields_nw_8
+
+  17863089:
+    template: Mountain_Peiste
+    level:    [102, 104]
+    region:   morimar_basalt_fields_nw_8
+
+  17863090:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_nw_5
+
+  17863091:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_nw_5
+
+  17863092:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_nw_5
+
+  17863093:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_nw_5
+
+  17863094:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_nw_5
+
+  17863095:
+    template: Sinewy_Matamata
+    level:    [102, 104]
+    region:   morimar_basalt_fields_nw_5
+
+  17863096:
+    template: Anthousai
+    level:    [105, 110]
+    region:   morimar_basalt_fields_n_11
+
+  17863097:
+    template: Anthousai
+    level:    [105, 110]
+    region:   morimar_basalt_fields_n_11
+
+  17863098:
+    template: Anthousai
+    level:    [105, 110]
+    region:   morimar_basalt_fields_n_9
+
+  17863099:
+    template: Anthousai
+    level:    [105, 110]
+    region:   morimar_basalt_fields_n_9
+
+  17863100:
+    template: Lavawalker_Raptor
+    level:    [105, 110]
+    region:   morimar_basalt_fields_n_9
+
+  17863101:
+    template: Lavawalker_Raptor
+    level:    [105, 110]
+    region:   morimar_basalt_fields_n_9
+
+  17863102:
+    template: Lavawalker_Raptor
+    level:    [105, 110]
+    region:   morimar_basalt_fields_n_7
+
+  17863103:
+    template: Lavawalker_Raptor
+    level:    [105, 110]
+    region:   morimar_basalt_fields_n_7
+
+  17863104:
+    template: Lavawalker_Raptor
+    level:    [105, 110]
+    region:   morimar_basalt_fields_n_7
+
+  17863105:
+    template: Lavawalker_Raptor
+    level:    [105, 110]
+    region:   morimar_basalt_fields_n_7
+
+  17863106:
+    template: Lavawalker_Raptor
+    level:    [105, 110]
+    region:   morimar_basalt_fields_n_7
+
+  17863107:
+    template: Lavawalker_Raptor
+    level:    [105, 110]
+    region:   morimar_basalt_fields_n_5
+
+  17863108:
+    template: Lavawalker_Raptor
+    level:    [105, 110]
+    region:   morimar_basalt_fields_n_5
+
+  17863109:
+    template: Lavawalker_Raptor
+    at:       [-48.520, -32.120, 297.910, 217]
+    level:    [105, 110]
+
+  17863110:
+    template: Befuddled_Twitherym
+    at:       [-50.520, -31.930, 276.548, 1]
+    level:    [105, 110]
+
+  17863111:
+    template: Befuddled_Twitherym
+    at:       [-68.510, -32.080, 287.640, 156]
+    level:    [105, 110]
+
+  17863112:
+    template: Befuddled_Twitherym
+    at:       [-116.900, -32.530, 253.561, 24]
+    level:    [105, 110]
+
+  17863113:
+    template: Befuddled_Twitherym
+    at:       [-121.400, -32.130, 259.510, 97]
+    level:    [105, 110]
+
+  17863114:
+    template: Befuddled_Twitherym
+    at:       [-117.600, -32.210, 260.130, 222]
+    level:    [105, 110]
+
+  17863115:
+    template: Befuddled_Twitherym
+    at:       [-145.500, -31.920, 266.188, 65]
+    level:    [105, 110]
+
+  17863116:
+    template: Befuddled_Twitherym
+    at:       [-159.700, -32.360, 255.188, 41]
+    level:    [105, 110]
+
+  17863117:
+    template: Befuddled_Twitherym
+    level:    [105, 110]
+    region:   morimar_basalt_fields_n_2
+
+  17863118:
+    template: Befuddled_Twitherym
+    level:    [105, 110]
+    region:   morimar_basalt_fields_nw_9
+
+  17863119:
+    template: Befuddled_Twitherym
+    level:    [105, 110]
+    region:   morimar_basalt_fields_nw_9
+
+  17863120:
+    template: Befuddled_Twitherym
+    level:    [105, 110]
+    region:   morimar_basalt_fields_nw_9
+
+  17863121:
+    template: Befuddled_Twitherym
+    level:    [105, 110]
+    region:   morimar_basalt_fields_nw_9
+
+  17863122:
+    template: Befuddled_Twitherym
+    level:    [105, 110]
+    region:   morimar_basalt_fields_nw_9
+
+  17863123:
+    template: Befuddled_Twitherym
+    level:    [105, 110]
+    region:   morimar_basalt_fields_w_10
+
+  17863124:
+    template: Befuddled_Twitherym
+    level:    [105, 110]
+    region:   morimar_basalt_fields_w_10
+
+  17863125:
+    template: Petrous_Lizard
+    level:    [105, 110]
+    region:   morimar_basalt_fields_w_10
+
+  17863126:
+    template: Petrous_Lizard
+    level:    [105, 110]
+    region:   morimar_basalt_fields_w_10
+
+  17863127:
+    template: Petrous_Lizard
+    level:    [105, 110]
+    region:   morimar_basalt_fields_w_10
+
+  17863128:
+    template: Petrous_Lizard
+    level:    [105, 110]
+    region:   morimar_basalt_fields_w_12
+
+  17863129:
+    template: Petrous_Lizard
+    level:    [105, 110]
+    region:   morimar_basalt_fields_w_12
+
+  17863130:
+    template: Petrous_Lizard
+    level:    [105, 110]
+    region:   morimar_basalt_fields_w_12
+
+  17863131:
+    template: Petrous_Lizard
+    level:    [105, 110]
+    region:   morimar_basalt_fields_w_12
+
+  17863132:
+    template: Petrous_Lizard
+    level:    [105, 110]
+    region:   morimar_basalt_fields_w_12
+
+  17863133:
+    template: Anthousai
+    level:    [105, 110]
+    region:   morimar_basalt_fields_ne_2
+
+  17863134:
+    template: Anthousai
+    level:    [105, 110]
+    region:   morimar_basalt_fields_ne_2
+
+  17863135:
+    template: Anthousai
+    level:    [105, 110]
+    region:   morimar_basalt_fields_ne_2
+
+  17863136:
+    template: Anthousai
+    level:    [105, 110]
+    region:   morimar_basalt_fields_n_12
+
+  17863137:
+    template: Anthousai
+    level:    [105, 110]
+    region:   morimar_basalt_fields_n_12
+
+  17863138:
+    template: Lavawalker_Raptor
+    at:       [-95.190, -15.370, 198.610, 75]
+    level:    [105, 110]
+
+  17863139:
+    template: Lavawalker_Raptor
+    at:       [-106.100, -16.250, 198.035, 99]
+    level:    [105, 110]
+
+  17863140:
+    template: Lavawalker_Raptor
+    at:       [-107.600, -15.950, 196.514, 3]
+    level:    [105, 110]
+
+  17863141:
+    template: Lavawalker_Raptor
+    at:       [-100.600, -15.560, 201.218, 44]
+    level:    [105, 110]
+
+  17863142:
+    template: Petrous_Lizard
+    at:       [-172.000, -16.240, 167.175, 138]
+    level:    [105, 110]
+
+  17863143:
+    template: Petrous_Lizard
+    at:       [-167.900, -16.430, 161.151, 50]
+    level:    [105, 110]
+
+  17863144:
+    template: Petrous_Lizard
+    at:       [-176.400, -16.190, 166.662, 152]
+    level:    [105, 110]
+
+  17863145:
+    template: Lavawalker_Raptor
+    at:       [-192.200, -16.430, 161.104, 76]
+    level:    [105, 110]
+
+  17863146:
+    template: Lavawalker_Raptor
+    at:       [-172.800, -16.420, 157.977, 14]
+    level:    [105, 110]
+
+  17863147:
+    template: Petrous_Lizard
+    level:    [105, 110]
+    region:   morimar_basalt_fields_w_14
+
+  17863148:
+    template: Petrous_Lizard
+    level:    [105, 110]
+    region:   morimar_basalt_fields_w_14
+
+  17863149:
+    template: Lavawalker_Raptor
+    level:    [105, 110]
+    region:   morimar_basalt_fields_w_14
+
+  17863150:
+    template: Lavawalker_Raptor
+    level:    [105, 110]
+    region:   morimar_basalt_fields_w_14
+
+  17863151:
+    template: Lavawalker_Raptor
+    level:    [105, 110]
+    region:   morimar_basalt_fields_w_14
+
+  17863152:
+    template: Emberflash_Matamata
+    level:    [107, 109]
+    region:   morimar_basalt_fields_w_13
+
+  17863153:
+    template: Emberflash_Matamata
+    level:    [107, 109]
+    region:   morimar_basalt_fields_w_13
+
+  17863154:
+    template: Emberflash_Matamata
+    level:    [107, 109]
+    region:   morimar_basalt_fields_w_13
+
+  17863155:
+    template: Befuddled_Twitherym
+    level:    [105, 110]
+    region:   morimar_basalt_fields_se_2
+
+  17863156:
+    template: Befuddled_Twitherym
+    level:    [105, 110]
+    region:   morimar_basalt_fields_se_2
+
+  17863157:
+    template: Befuddled_Twitherym
+    level:    [105, 110]
+    region:   morimar_basalt_fields_se_2
+
+  17863158:
+    template: Petrous_Lizard
+    level:    [105, 110]
+    region:   morimar_basalt_fields_se_2
+
+  17863159:
+    template: Petrous_Lizard
+    level:    [105, 110]
+    region:   morimar_basalt_fields_se_2
+
+  17863160:
+    template: Petrous_Lizard
+    level:    [105, 110]
+    region:   morimar_basalt_fields_se_2
+
+  17863161:
+    template: Befuddled_Twitherym
+    level:    [105, 110]
+    region:   morimar_basalt_fields_se
+
+  17863162:
+    template: Befuddled_Twitherym
+    level:    [105, 110]
+    region:   morimar_basalt_fields_se
+
+  17863163:
+    template: Befuddled_Twitherym
+    level:    [105, 110]
+    region:   morimar_basalt_fields_se
+
+  17863164:
+    template: Petrous_Lizard
+    level:    [105, 110]
+    region:   morimar_basalt_fields_se
+
+  17863165:
+    template: Petrous_Lizard
+    level:    [105, 110]
+    region:   morimar_basalt_fields_se
+
+  17863166:
+    template: Petrous_Lizard
+    level:    [105, 110]
+    region:   morimar_basalt_fields_se
+
+  17863167:
+    template: Befuddled_Twitherym
+    level:    [105, 110]
+    region:   morimar_basalt_fields_se_3
+
+  17863168:
+    template: Befuddled_Twitherym
+    level:    [105, 110]
+    region:   morimar_basalt_fields_se_3
+
+  17863169:
+    template: Befuddled_Twitherym
+    level:    [105, 110]
+    region:   morimar_basalt_fields_se_3
+
+  17863170:
+    template: Lavawalker_Raptor
+    level:    [105, 110]
+    region:   morimar_basalt_fields_se_3
+
+  17863171:
+    template: Lavawalker_Raptor
+    level:    [105, 110]
+    region:   morimar_basalt_fields_se_3
+
+  17863172:
+    template: Lavawalker_Raptor
+    level:    [105, 110]
+    region:   morimar_basalt_fields_se_3
+
+  17863173:
+    template: Bumbling_Leafkin
+    level:    [103, 104]
+    region:   morimar_basalt_fields_w_5
+
+  17863174:
+    template: Twirling_Heartwing
+    level:    [103, 106]
+    region:   morimar_basalt_fields_ne
+
+  17863175:
+    template: Mountain_Peiste
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [102, 104]
+
+  17863176:
+    template: Volcanic_Wivre
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [102, 105]
+
+  17863177:
+    template: Volcanic_Wivre
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [102, 105]
+
+  17863178:
+    template: Volcanic_Wivre
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [102, 105]
+
+  17863179:
+    template: Grimy_Boulders
+    at:       [200.000, -15.500, 220.000, 63]
+    level:    [103, 103]
+
+  17863180:
+    template: Matamata
+    level:    [103, 103]
+    region:   morimar_basalt_fields_ne_4
+
+  17863181:
+    template: Matamata
+    level:    [103, 103]
+    region:   morimar_basalt_fields_ne_4
+
+  17863182:
+    template: Matamata
+    level:    [103, 103]
+    region:   morimar_basalt_fields_ne_4
+
+  17863183:
+    template: Basalt_Lizard
+    level:    [103, 103]
+    region:   morimar_basalt_fields_ne_4
+
+  17863184:
+    template: Basalt_Lizard
+    level:    [103, 103]
+    region:   morimar_basalt_fields_ne_4
+
+  17863185:
+    template: Basalt_Lizard
+    level:    [103, 103]
+    region:   morimar_basalt_fields_ne_4
+
+  17863186:
+    template: Grimy_Boulders
+    at:       [-100.000, -1.677, 140.000, 127]
+    level:    [103, 103]
+
+  17863187:
+    template: Matamata
+    level:    [103, 103]
+    region:   morimar_basalt_fields_c_4
+
+  17863188:
+    template: Matamata
+    level:    [103, 103]
+    region:   morimar_basalt_fields_c_4
+
+  17863189:
+    template: Matamata
+    at:       [-102.600, -0.546, 146.009, 89]
+    level:    [103, 103]
+
+  17863190:
+    template: Alpine_Eft
+    at:       [-104.200, -1.156, 135.339, 82]
+    level:    [102, 103]
+
+  17863191:
+    template: Alpine_Eft
+    at:       [-103.600, 0.007, 124.371, 28]
+    level:    [102, 103]
+
+  17863192:
+    template: Alpine_Eft
+    at:       [-87.940, -0.050, 135.470, 234]
+    level:    [102, 103]
+
+  17863193:
+    template: Grimy_Boulders
+    at:       [-70.000, -16.516, -140.000, 125]
+    level:    [103, 103]
+
+  17863194:
+    template: Matamata
+    at:       [-62.126, -15.700, -145.319, 102]
+    level:    [103, 103]
+
+  17863195:
+    template: Matamata
+    at:       [-69.523, -15.537, -140.710, 150]
+    level:    [103, 103]
+
+  17863196:
+    template: Matamata
+    at:       [-67.329, -15.720, -135.685, 107]
+    level:    [103, 103]
+
+  17863197:
+    template: Wivre_Cragdweller
+    level:    [103, 103]
+    region:   morimar_basalt_fields_c_6
+
+  17863198:
+    template: Wivre_Cragdweller
+    level:    [103, 103]
+    region:   morimar_basalt_fields_c_6
+
+  17863199:
+    template: Wivre_Cragdweller
+    level:    [103, 103]
+    region:   morimar_basalt_fields_c_6
+
+  17863200:
+    template: Grimy_Boulders
+    at:       [-460.000, -32.160, -140.000, 46]
+    level:    [103, 103]
+
+  17863201:
+    template: Matamata
+    level:    [103, 103]
+    region:   morimar_basalt_fields_w_2
+
+  17863202:
+    template: Matamata
+    level:    [103, 103]
+    region:   morimar_basalt_fields_w_2
+
+  17863203:
+    template: Matamata
+    level:    [103, 103]
+    region:   morimar_basalt_fields_w_2
+
+  17863204:
+    template: Outlands_Peiste
+    level:    [103, 103]
+    region:   morimar_basalt_fields_w_2
+
+  17863205:
+    template: Outlands_Peiste
+    level:    [103, 103]
+    region:   morimar_basalt_fields_w_2
+
+  17863206:
+    template: Outlands_Peiste
+    level:    [103, 103]
+    region:   morimar_basalt_fields_w_2
+
+  17863207:
+    template: Grimy_Boulders
+    at:       [-340.000, -49.670, 340.000, 41]
+    level:    [103, 103]
+
+  17863208:
+    template: Matamata
+    level:    [103, 103]
+    region:   morimar_basalt_fields_nw_6
+
+  17863209:
+    template: Matamata
+    level:    [103, 103]
+    region:   morimar_basalt_fields_nw_6
+
+  17863210:
+    template: Matamata
+    level:    [103, 103]
+    region:   morimar_basalt_fields_nw_6
+
+  17863211:
+    template: Snaggletooth_Raptor
+    level:    [103, 103]
+    region:   morimar_basalt_fields_nw_6
+
+  17863212:
+    template: Snaggletooth_Raptor
+    level:    [103, 103]
+    region:   morimar_basalt_fields_nw_6
+
+  17863213:
+    template: Snaggletooth_Raptor
+    level:    [103, 103]
+    region:   morimar_basalt_fields_nw_6
+
+  17863214:
+    template: Bedrock_Crag
+    at:       [116.500, -1.000, -60.000, 110]
+    level:    [103, 103]
+
+  17863215:
+    template: Bedrock_Crag
+    at:       [120.000, -1.000, -60.000, 35]
+    level:    [103, 103]
+
+  17863216:
+    template: Bedrock_Crag
+    at:       [123.500, -1.000, -60.000, 39]
+    level:    [103, 103]
+
+  17863217:
+    template: Matamata
+    at:       [117.140, -0.149, -50.051, 18]
+    level:    [103, 103]
+
+  17863218:
+    template: Matamata
+    at:       [114.630, -0.321, -45.493, 104]
+    level:    [103, 103]
+
+  17863219:
+    template: Matamata
+    at:       [114.770, -0.111, -50.099, 94]
+    level:    [103, 103]
+
+  17863220:
+    template: Snaggletooth_Raptor
+    at:       [109.230, -0.206, -42.152, 131]
+    level:    [103, 103]
+
+  17863221:
+    template: Snaggletooth_Raptor
+    at:       [123.750, 0.179, -50.707, 28]
+    level:    [103, 103]
+
+  17863222:
+    template: Snaggletooth_Raptor
+    at:       [123.400, -0.286, -46.153, 23]
+    level:    [103, 103]
+
+  17863223:
+    template: Bedrock_Crag
+    at:       [-3.500, -1.000, 60.000, 64]
+    level:    [103, 103]
+
+  17863224:
+    template: Bedrock_Crag
+    at:       [0.001, -1.000, 60.000, 60]
+    level:    [103, 103]
+
+  17863225:
+    template: Bedrock_Crag
+    at:       [3.500, -1.000, 60.000, 109]
+    level:    [103, 103]
+
+  17863226:
+    template: Matamata
+    level:    [103, 103]
+    region:   morimar_basalt_fields_c_8
+
+  17863227:
+    template: Matamata
+    level:    [103, 103]
+    region:   morimar_basalt_fields_c_8
+
+  17863228:
+    template: Matamata
+    level:    [103, 103]
+    region:   morimar_basalt_fields_c_8
+
+  17863229:
+    template: Snaggletooth_Raptor
+    at:       [0.153, -0.079, 69.183, 65]
+    level:    [103, 103]
+
+  17863230:
+    template: Snaggletooth_Raptor
+    at:       [8.713, 0.819, 68.132, 255]
+    level:    [103, 103]
+
+  17863231:
+    template: Snaggletooth_Raptor
+    at:       [-6.809, -0.086, 69.737, 250]
+    level:    [103, 103]
+
+  17863232:
+    template: Bedrock_Crag
+    at:       [-60.000, -17.000, -276.500, 37]
+    level:    [103, 103]
+
+  17863233:
+    template: Bedrock_Crag
+    at:       [-60.000, -17.000, -280.000, 123]
+    level:    [103, 103]
+
+  17863234:
+    template: Bedrock_Crag
+    at:       [-60.000, -17.000, -283.500, 36]
+    level:    [103, 103]
+
+  17863235:
+    template: Matamata
+    at:       [-46.930, -16.290, -281.830, 187]
+    level:    [103, 103]
+
+  17863236:
+    template: Matamata
+    at:       [-51.380, -15.560, -287.680, 177]
+    level:    [103, 103]
+
+  17863237:
+    template: Matamata
+    at:       [-46.730, -15.970, -289.300, 79]
+    level:    [103, 103]
+
+  17863238:
+    template: Basalt_Lizard
+    at:       [-43.290, -16.290, -288.050, 206]
+    level:    [103, 103]
+
+  17863239:
+    template: Basalt_Lizard
+    at:       [-45.480, -15.990, -290.860, 112]
+    level:    [103, 103]
+
+  17863240:
+    template: Basalt_Lizard
+    at:       [-43.780, -16.390, -276.630, 246]
+    level:    [103, 103]
+
+  17863241:
+    template: Bedrock_Crag
+    at:       [-123.500, -17.000, -420.000, 89]
+    level:    [103, 103]
+
+  17863242:
+    template: Bedrock_Crag
+    at:       [-120.000, -17.000, -420.000, 99]
+    level:    [103, 103]
+
+  17863243:
+    template: Bedrock_Crag
+    at:       [-116.500, -17.000, -420.000, 98]
+    level:    [103, 103]
+
+  17863244:
+    template: Matamata
+    at:       [-118.200, -16.430, -438.120, 73]
+    level:    [103, 103]
+
+  17863245:
+    template: Matamata
+    at:       [-111.900, -16.250, -434.860, 136]
+    level:    [103, 103]
+
+  17863246:
+    template: Matamata
+    at:       [-108.800, -16.410, -430.740, 224]
+    level:    [103, 103]
+
+  17863247:
+    template: Basalt_Lizard
+    at:       [-122.400, -16.200, -433.430, 117]
+    level:    [103, 103]
+
+  17863248:
+    template: Basalt_Lizard
+    at:       [-117.400, -16.220, -432.980, 7]
+    level:    [103, 103]
+
+  17863249:
+    template: Basalt_Lizard
+    at:       [-123.900, -16.350, -436.490, 74]
+    level:    [103, 103]
+
+  17863250:
+    template: Bedrock_Crag
+    at:       [-243.500, -33.000, -220.000, 62]
+    level:    [103, 103]
+
+  17863251:
+    template: Bedrock_Crag
+    at:       [-240.000, -33.000, -220.000, 93]
+    level:    [103, 103]
+
+  17863252:
+    template: Bedrock_Crag
+    at:       [-236.500, -33.000, -220.000, 109]
+    level:    [103, 103]
+
+  17863253:
+    template: Matamata
+    at:       [-240.700, -32.790, -220.710, 90]
+    level:    [103, 103]
+
+  17863254:
+    template: Matamata
+    at:       [-238.800, -32.530, -225.400, 131]
+    level:    [103, 103]
+
+  17863255:
+    template: Matamata
+    at:       [-229.200, -32.570, -228.000, 92]
+    level:    [103, 103]
+
+  17863256:
+    template: Basalt_Lizard
+    at:       [-240.900, -32.100, -223.230, 103]
+    level:    [103, 103]
+
+  17863257:
+    template: Basalt_Lizard
+    at:       [-239.800, -32.360, -226.090, 139]
+    level:    [103, 103]
+
+  17863258:
+    template: Basalt_Lizard
+    at:       [-242.300, -32.750, -223.480, 90]
+    level:    [103, 103]
+
+  17863259:
+    template: Bedrock_Crag
+    at:       [-363.500, -33.000, -140.000, 34]
+    level:    [103, 103]
+
+  17863260:
+    template: Bedrock_Crag
+    at:       [-360.000, -33.000, -140.000, 83]
+    level:    [103, 103]
+
+  17863261:
+    template: Bedrock_Crag
+    at:       [-356.500, -33.000, -140.000, 114]
+    level:    [103, 103]
+
+  17863262:
+    template: Matamata
+    at:       [-350.300, -31.880, -150.850, 255]
+    level:    [103, 103]
+
+  17863263:
+    template: Matamata
+    at:       [-355.000, -32.240, -154.120, 23]
+    level:    [103, 103]
+
+  17863264:
+    template: Matamata
+    at:       [-367.900, -31.870, -154.150, 113]
+    level:    [103, 103]
+
+  17863265:
+    template: Basalt_Lizard
+    at:       [-365.600, -31.620, -150.250, 241]
+    level:    [103, 103]
+
+  17863266:
+    template: Basalt_Lizard
+    at:       [-354.800, -32.320, -155.220, 233]
+    level:    [103, 103]
+
+  17863267:
+    template: Basalt_Lizard
+    at:       [-358.000, -32.360, -155.340, 179]
+    level:    [103, 103]
+
+  17863268:
+    template: Bedrock_Crag
+    at:       [-243.500, -49.000, 340.000, 52]
+    level:    [103, 103]
+
+  17863269:
+    template: Bedrock_Crag
+    at:       [-240.000, -49.000, 340.000, 13]
+    level:    [103, 103]
+
+  17863270:
+    template: Bedrock_Crag
+    at:       [-236.500, -49.000, 340.000, 0]
+    level:    [103, 103]
+
+  17863271:
+    template: Matamata
+    at:       [-242.600, -48.230, 327.334, 1]
+    level:    [103, 103]
+
+  17863272:
+    template: Matamata
+    at:       [-250.500, -47.820, 327.790, 105]
+    level:    [103, 103]
+
+  17863273:
+    template: Matamata
+    at:       [-251.600, -47.580, 328.246, 79]
+    level:    [103, 103]
+
+  17863274:
+    template: Snaggletooth_Raptor
+    at:       [-245.200, -48.420, 321.591, 127]
+    level:    [103, 103]
+
+  17863275:
+    template: Snaggletooth_Raptor
+    at:       [-241.900, -48.350, 324.821, 201]
+    level:    [103, 103]
+
+  17863276:
+    template: Snaggletooth_Raptor
+    at:       [-248.600, -48.130, 325.294, 241]
+    level:    [103, 103]
+
+  17863277:
+    template: Achuka
+    at:       [-469.000, -63.000, 503.000, 32]
+    level:    [115, 117]
+
+  17863278:
+    template: Outlands_Peiste
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [103, 103]
+
+  17863279:
+    template: Outlands_Peiste
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [103, 103]
+
+  17863280:
+    template: Matamata
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [103, 103]
+
+  17863281:
+    template: Matamata
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [103, 103]
+
+  17863282:
+    template: Matamata
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [103, 103]
+
+  17863283:
+    template: Matamata
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [103, 103]
+
+  17863284:
+    template: Snaggletooth_Raptor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [103, 103]
+
+  17863285:
+    template: Snaggletooth_Raptor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [103, 103]
+
+  17863286:
+    template: Snaggletooth_Raptor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [103, 103]
+
+  17863287:
+    template: Snaggletooth_Raptor
+    level:    [103, 103]
+    region:   morimar_basalt_fields_nw_3
+
+  17863288:
+    template: Snaggletooth_Raptor
+    level:    [103, 103]
+    region:   morimar_basalt_fields_nw_3
+
+  17863289:
+    template: Snaggletooth_Raptor
+    level:    [103, 103]
+    region:   morimar_basalt_fields_nw_3
+
+  17863290:
+    template: Volatile_Matamata
+    at:       [393.410, -16.500, -39.127, 147]
+    level:    [110, 112]
+
+  17863291:
+    template: Perdurable_Raptor
+    at:       [-7.209, -16.080, -492.370, 37]
+    level:    [115, 115]
+
+  17863292:
+    template: Shimmering_Tarichuk
+    at:       [362.000, -16.500, -490.000, 164]
+    level:    [0, 0]
+
+  17863293:
+    template: Tutewehiwehi
+    at:       [-449.000, -48.249, 83.000, 114]
+    level:    [0, 0]
+
+  17863294:
+    template: Kurma
+    at:       [-364.000, -32.500, -321.000, 69]
+    level:    [0, 0]
+
+  17863295:
+    template: Burgeoning_Flames
+    at:       [484.657, -17.086, 270.256, 147]
+    level:    [0, 0]
+
+  17863296:
+    template: Burgeoning_Flames
+    at:       [429.885, -16.964, 323.899, 0]
+    level:    [0, 0]
+
+  17863297:
+    template: Deranged_Ameretat
+    at:       [318.539, -0.542, 395.143, 237]
+    level:    [109, 109]

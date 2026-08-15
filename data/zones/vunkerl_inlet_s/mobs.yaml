@@ -1,0 +1,3548 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17117185:
+    template: Submarine_Nipper
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [63, 67]
+
+  17117186:
+    template: Thalassic_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [61, 67]
+
+  17117187:
+    template: Abyssal_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [61, 67]
+
+  17117188:
+    template: Bloodsucker
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [60, 65]
+
+  17117189:
+    template: Bloodsucker
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [60, 65]
+
+  17117190:
+    template: Duriumshell
+    level:    [92, 94]
+    region:   vunkerl_inlet_s_n_3
+
+  17117191:
+    template: Duriumshell
+    level:    [92, 94]
+    region:   vunkerl_inlet_s_n_3
+
+  17117192:
+    template: Duriumshell
+    level:    [92, 94]
+    region:   vunkerl_inlet_s_n_3
+
+  17117193:
+    template: Duriumshell
+    level:    [92, 94]
+    region:   vunkerl_inlet_s_n_4
+
+  17117194:
+    template: Duriumshell
+    level:    [92, 94]
+    region:   vunkerl_inlet_s_n_4
+
+  17117195:
+    template: Duriumshell
+    level:    [92, 94]
+    region:   vunkerl_inlet_s_n_4
+
+  17117196:
+    template: Duriumshell
+    level:    [92, 94]
+    region:   vunkerl_inlet_s_n_4
+
+  17117197:
+    template: Duriumshell
+    at:       [-23.240, -31.487, 243.874, 252]
+    level:    [92, 94]
+
+  17117198:
+    template: Duriumshell
+    at:       [-38.159, -32.381, 243.540, 38]
+    level:    [92, 94]
+
+  17117199:
+    template: Duriumshell
+    at:       [-22.753, -31.344, 244.878, 33]
+    level:    [92, 94]
+
+  17117200:
+    template: Duriumshell
+    level:    [92, 94]
+    region:   vunkerl_inlet_s_n_5
+
+  17117201:
+    template: Duriumshell
+    level:    [92, 94]
+    region:   vunkerl_inlet_s_n_5
+
+  17117202:
+    template: Duriumshell
+    level:    [92, 94]
+    region:   vunkerl_inlet_s_n_5
+
+  17117203:
+    template: Duriumshell
+    level:    [92, 94]
+    region:   vunkerl_inlet_s_n_5
+
+  17117204:
+    template: Duriumshell
+    level:    [92, 94]
+    region:   vunkerl_inlet_s_n_6
+
+  17117205:
+    template: Duriumshell
+    level:    [92, 94]
+    region:   vunkerl_inlet_s_n_6
+
+  17117206:
+    template: Duriumshell
+    level:    [92, 94]
+    region:   vunkerl_inlet_s_n_6
+
+  17117207:
+    template: Duriumshell
+    level:    [92, 94]
+    region:   vunkerl_inlet_s_n_6
+
+  17117208:
+    template: Duriumshell
+    level:    [92, 94]
+    region:   vunkerl_inlet_s_n_7
+
+  17117209:
+    template: Duriumshell
+    level:    [92, 94]
+    region:   vunkerl_inlet_s_n_7
+
+  17117210:
+    template: Fierce_Smilodon
+    level:    [67, 70]
+    region:   vunkerl_inlet_s_ne_2
+
+  17117211:
+    template: Fierce_Smilodon
+    level:    [67, 70]
+    region:   vunkerl_inlet_s_ne_2
+
+  17117212:
+    template: Fierce_Smilodon
+    at:       [171.724, -31.923, 240.550, 97]
+    level:    [67, 70]
+
+  17117213:
+    template: Carrion_Marabou
+    level:    [36, 38]
+    region:   vunkerl_inlet_s_ne
+
+  17117214:
+    template: Carrion_Marabou
+    at:       [199.565, -31.650, 263.165, 58]
+    level:    [36, 38]
+
+  17117215:
+    template: Carrion_Marabou
+    at:       [184.794, -31.613, 248.691, 92]
+    level:    [36, 38]
+
+  17117216:
+    template: Carrion_Marabou
+    level:    [36, 38]
+    region:   vunkerl_inlet_s_ne_3
+
+  17117217:
+    template: Carrion_Marabou
+    at:       [162.679, -31.685, 230.834, 191]
+    level:    [36, 38]
+
+  17117218:
+    template: Carrion_Marabou
+    at:       [130.303, -32.112, 201.666, 80]
+    level:    [36, 38]
+
+  17117219:
+    template: Air_Elemental
+    at:       [169.432, -32.011, 252.051, 219]
+    level:    [45, 45]
+
+  17117220:
+    template: Fierce_Smilodon
+    level:    [67, 70]
+    region:   vunkerl_inlet_s_c_27
+
+  17117221:
+    template: Fierce_Smilodon
+    level:    [67, 70]
+    region:   vunkerl_inlet_s_c_23
+
+  17117222:
+    template: Fierce_Smilodon
+    level:    [67, 70]
+    region:   vunkerl_inlet_s_c_25
+
+  17117223:
+    template: Carrion_Marabou
+    at:       [159.705, -32.547, 116.881, 255]
+    level:    [36, 38]
+
+  17117224:
+    template: Carrion_Marabou
+    level:    [36, 38]
+    region:   vunkerl_inlet_s_e
+
+  17117225:
+    template: Carrion_Marabou
+    level:    [36, 38]
+    region:   vunkerl_inlet_s_c_28
+
+  17117226:
+    template: Carrion_Marabou
+    at:       [83.112, -39.919, 49.283, 60]
+    level:    [36, 38]
+
+  17117227:
+    template: Carrion_Marabou
+    level:    [36, 38]
+    region:   vunkerl_inlet_s_c_25
+
+  17117228:
+    template: Carrion_Marabou
+    at:       [19.197, -40.348, 28.410, 106]
+    level:    [36, 38]
+
+  17117229:
+    template: Air_Elemental
+    at:       [5.513, -32.452, 279.510, 186]
+    level:    [45, 45]
+
+  17117230:
+    template: Ignis_Djinn
+    at:       [327.028, -40.616, 434.442, 3]
+    level:    [70, 72]
+
+  17117231:
+    template: Ignis_Djinn
+    at:       [322.280, -40.537, 397.992, 9]
+    level:    [70, 72]
+
+  17117232:
+    template: Ignis_Djinn
+    level:    [70, 72]
+    region:   vunkerl_inlet_s_ne_9
+
+  17117233:
+    template: Ignis_Djinn
+    level:    [70, 72]
+    region:   vunkerl_inlet_s_ne_9
+
+  17117234:
+    template: Ignis_Djinn
+    at:       [367.850, -31.859, 385.341, 71]
+    level:    [70, 72]
+
+  17117235:
+    template: Ignis_Djinn
+    at:       [386.354, -31.494, 391.855, 72]
+    level:    [70, 72]
+
+  17117236:
+    template: Ignis_Djinn
+    at:       [380.778, -31.862, 416.192, 104]
+    level:    [70, 72]
+
+  17117237:
+    template: Ignis_Djinn
+    level:    [70, 72]
+    region:   vunkerl_inlet_s_ne_6
+
+  17117238:
+    template: Gigas_Marine
+    level:    [78, 82]
+    region:   vunkerl_inlet_s_ne_5
+
+  17117239:
+    template: Gigas_Deckhand
+    at:       [353.804, -32.565, 424.440, 215]
+    level:    [78, 82]
+
+  17117240:
+    template: Gigas_Jack
+    level:    [78, 82]
+    region:   vunkerl_inlet_s_ne_8
+
+  17117241:
+    template: Gigas_Helmsman
+    at:       [406.266, -31.721, 422.772, 74]
+    level:    [78, 82]
+
+  17117242:
+    template: Gigass_Tiger
+    at:       [403.113, -31.915, 426.662, 42]
+    level:    [73, 75]
+
+  17117243:
+    template: Gigas_Marine
+    at:       [335.407, -32.472, 369.451, 255]
+    level:    [78, 82]
+
+  17117244:
+    template: Gigas_Deckhand
+    level:    [78, 82]
+    region:   vunkerl_inlet_s_ne_7
+
+  17117245:
+    template: Gigas_Jack
+    at:       [383.947, -31.906, 365.172, 183]
+    level:    [78, 82]
+
+  17117246:
+    template: Gigas_Helmsman
+    level:    [78, 82]
+    region:   vunkerl_inlet_s_ne_4
+
+  17117247:
+    template: Gigass_Tiger
+    at:       [300.016, -46.413, 318.661, 54]
+    level:    [73, 75]
+
+  17117248:
+    template: Gigas_Deckhand
+    at:       [314.555, -38.184, 276.644, 168]
+    level:    [78, 82]
+
+  17117249:
+    template: Gigas_Jack
+    at:       [324.916, -38.278, 284.818, 189]
+    level:    [78, 82]
+
+  17117250:
+    template: Pallas
+    at:       [366.790, -31.435, 419.763, 68]
+    level:    [83, 83]
+
+  17117251:
+    template: Pallass_Tiger
+    at:       [366.820, -31.710, 422.734, 66]
+    level:    [78, 78]
+
+  17117252:
+    template: Pallass_Tiger
+    at:       [365.605, -31.663, 423.213, 57]
+    level:    [78, 78]
+
+  17117253:
+    template: Pallass_Tiger
+    at:       [368.134, -31.644, 422.583, 75]
+    level:    [78, 78]
+
+  17117254:
+    template: Goblin_Flagman
+    level:    [66, 69]
+    region:   vunkerl_inlet_s_c_18
+
+  17117255:
+    template: Goblin_Grenadier
+    level:    [66, 69]
+    region:   vunkerl_inlet_s_c_16
+
+  17117256:
+    template: Goblin_Guerrilla
+    level:    [66, 69]
+    region:   vunkerl_inlet_s_c_10
+
+  17117257:
+    template: Goblins_Bat
+    level:    [61, 64]
+    region:   vunkerl_inlet_s_c_10
+
+  17117258:
+    template: Goblin_Flagman
+    at:       [-167.118, -39.965, 36.154, 91]
+    level:    [66, 69]
+
+  17117259:
+    template: Goblin_Grenadier
+    level:    [66, 69]
+    region:   vunkerl_inlet_s_c_17
+
+  17117260:
+    template: Goblin_Toxophilite
+    level:    [66, 69]
+    region:   vunkerl_inlet_s_c_8
+
+  17117261:
+    template: Goblin_Mine
+    level:    [63, 63]
+    region:   vunkerl_inlet_s_c_8
+
+  17117262:
+    template: Goblin_Flagman
+    at:       [-166.635, -32.065, 100.039, 116]
+    level:    [66, 69]
+
+  17117263:
+    template: Goblin_Grenadier
+    level:    [66, 69]
+    region:   vunkerl_inlet_s_c_15
+
+  17117264:
+    template: Goblin_Guerrilla
+    level:    [66, 69]
+    region:   vunkerl_inlet_s_c_15
+
+  17117265:
+    template: Goblins_Bat
+    level:    [61, 64]
+    region:   vunkerl_inlet_s_c_15
+
+  17117266:
+    template: Goblin_Flagman
+    level:    [66, 69]
+    region:   vunkerl_inlet_s_c_13
+
+  17117267:
+    template: Goblin_Grenadier
+    level:    [66, 69]
+    region:   vunkerl_inlet_s_c_9
+
+  17117268:
+    template: Goblin_Toxophilite
+    level:    [66, 69]
+    region:   vunkerl_inlet_s_c_12
+
+  17117269:
+    template: Goblin_Mine
+    level:    [63, 63]
+    region:   vunkerl_inlet_s_c_12
+
+  17117270:
+    template: Goblin_Guerrilla
+    level:    [66, 69]
+    region:   vunkerl_inlet_s_c_7
+
+  17117271:
+    template: Goblins_Bat
+    level:    [61, 64]
+    region:   vunkerl_inlet_s_c_7
+
+  17117272:
+    template: Doom_Soldier
+    at:       [-167.698, -39.389, 11.509, 135]
+    level:    [69, 71]
+
+  17117273:
+    template: Doom_Mage
+    at:       [-197.072, -40.539, -43.000, 252]
+    level:    [69, 71]
+
+  17117274:
+    template: Doom_Soldier
+    at:       [-174.953, -31.897, 78.903, 159]
+    level:    [69, 71]
+
+  17117275:
+    template: Doom_Mage
+    level:    [69, 71]
+    region:   vunkerl_inlet_s_c_15
+
+  17117276:
+    template: Doom_Soldier
+    at:       [-182.664, -32.676, 60.370, 199]
+    level:    [69, 71]
+
+  17117277:
+    template: Doom_Mage
+    level:    [69, 71]
+    region:   vunkerl_inlet_s_c_9
+
+  17117278:
+    template: Doom_Soldier
+    at:       [-240.939, -32.471, 1.255, 183]
+    level:    [69, 71]
+
+  17117279:
+    template: Doom_Mage
+    at:       [-241.952, -32.412, -35.639, 92]
+    level:    [69, 71]
+
+  17117280:
+    template: Ignis_Djinn
+    level:    [70, 72]
+    region:   vunkerl_inlet_s_c_26
+
+  17117281:
+    template: Ignis_Djinn
+    level:    [70, 72]
+    region:   vunkerl_inlet_s_c_26
+
+  17117282:
+    template: Ignis_Djinn
+    level:    [70, 72]
+    region:   vunkerl_inlet_s_c_26
+
+  17117283:
+    template: Ignis_Djinn
+    at:       [62.455, -39.714, -107.523, 66]
+    level:    [70, 72]
+
+  17117284:
+    template: Ignis_Djinn
+    at:       [32.308, -39.787, -102.594, 212]
+    level:    [70, 72]
+
+  17117285:
+    template: Gigas_Marine
+    at:       [106.731, -40.429, -39.068, 69]
+    level:    [78, 82]
+
+  17117286:
+    template: Gigas_Deckhand
+    level:    [78, 82]
+    region:   vunkerl_inlet_s_c_29
+
+  17117287:
+    template: Gigas_Jack
+    at:       [70.754, -40.297, -86.507, 96]
+    level:    [78, 82]
+
+  17117288:
+    template: Gigas_Helmsman
+    at:       [25.437, -39.989, -106.261, 134]
+    level:    [78, 82]
+
+  17117289:
+    template: Gigass_Tiger
+    at:       [26.075, -39.942, -105.549, 109]
+    level:    [73, 75]
+
+  17117290:
+    template: Gigas_Marine
+    level:    [78, 82]
+    region:   vunkerl_inlet_s_c_29
+
+  17117291:
+    template: Gigas_Deckhand
+    level:    [78, 82]
+    region:   vunkerl_inlet_s_c_29
+
+  17117292:
+    template: Gigas_Jack
+    at:       [166.221, -38.244, -159.805, 210]
+    level:    [78, 82]
+
+  17117293:
+    template: Gigas_Deckhand
+    at:       [166.502, -38.263, -158.711, 54]
+    level:    [78, 82]
+
+  17117294:
+    template: Bugard
+    at:       [33.849, -40.493, -116.289, 196]
+    level:    [66, 68]
+
+  17117295:
+    template: Warabouc
+    at:       [75.930, -40.153, -108.196, 196]
+    level:    [72, 73]
+
+  17117296:
+    template: Bugard
+    at:       [-8.999, -39.988, -128.027, 36]
+    level:    [66, 68]
+
+  17117297:
+    template: Bugard
+    level:    [66, 68]
+    region:   vunkerl_inlet_s_c_24
+
+  17117298:
+    template: Bugard
+    level:    [66, 68]
+    region:   vunkerl_inlet_s_c_24
+
+  17117299:
+    template: Robber_Crab
+    level:    [62, 64]
+    region:   vunkerl_inlet_s_c_3
+
+  17117300:
+    template: Robber_Crab
+    level:    [62, 64]
+    region:   vunkerl_inlet_s_c_6
+
+  17117301:
+    template: Robber_Crab
+    level:    [62, 64]
+    region:   vunkerl_inlet_s_c_6
+
+  17117302:
+    template: Robber_Crab
+    level:    [62, 64]
+    region:   vunkerl_inlet_s_c_14
+
+  17117303:
+    template: Robber_Crab
+    level:    [62, 64]
+    region:   vunkerl_inlet_s_c_14
+
+  17117304:
+    template: Robber_Crab
+    level:    [62, 64]
+    region:   vunkerl_inlet_s_c_19
+
+  17117305:
+    template: Robber_Crab
+    level:    [62, 64]
+    region:   vunkerl_inlet_s_s_18
+
+  17117306:
+    template: Robber_Crab
+    level:    [62, 64]
+    region:   vunkerl_inlet_s_s_12
+
+  17117307:
+    template: Robber_Crab
+    level:    [62, 64]
+    region:   vunkerl_inlet_s_s_12
+
+  17117308:
+    template: Robber_Crab
+    level:    [62, 64]
+    region:   vunkerl_inlet_s_c_2
+
+  17117309:
+    template: Robber_Crab
+    level:    [62, 64]
+    region:   vunkerl_inlet_s_w_4
+
+  17117310:
+    template: Robber_Crab
+    level:    [62, 64]
+    region:   vunkerl_inlet_s_w_4
+
+  17117311:
+    template: Robber_Crab
+    level:    [62, 64]
+    region:   vunkerl_inlet_s_s
+
+  17117312:
+    template: Robber_Crab
+    level:    [62, 64]
+    region:   vunkerl_inlet_s_s
+
+  17117313:
+    template: Robber_Crab
+    at:       [-310.055, -39.777, -288.291, 9]
+    level:    [62, 64]
+
+  17117314:
+    template: Robber_Crab
+    at:       [-307.376, -39.883, -281.554, 135]
+    level:    [62, 64]
+
+  17117315:
+    template: Robber_Crab
+    at:       [-322.254, -40.434, -323.157, 157]
+    level:    [62, 64]
+
+  17117316:
+    template: Robber_Crab
+    level:    [62, 64]
+    region:   vunkerl_inlet_s_sw_25
+
+  17117317:
+    template: Robber_Crab
+    level:    [62, 64]
+    region:   vunkerl_inlet_s_sw_25
+
+  17117318:
+    template: Stygian_Pugil
+    level:    [64, 66]
+    region:   vunkerl_inlet_s_c_6
+
+  17117319:
+    template: Stygian_Pugil
+    level:    [64, 66]
+    region:   vunkerl_inlet_s_c_19
+
+  17117320:
+    template: Stygian_Pugil
+    at:       [-134.291, -38.867, -265.342, 154]
+    level:    [64, 66]
+
+  17117321:
+    template: Stygian_Pugil
+    level:    [64, 66]
+    region:   vunkerl_inlet_s_s_18
+
+  17117322:
+    template: Stygian_Pugil
+    level:    [64, 66]
+    region:   vunkerl_inlet_s_s_12
+
+  17117323:
+    template: Stygian_Pugil
+    level:    [64, 66]
+    region:   vunkerl_inlet_s_c_2
+
+  17117324:
+    template: Stygian_Pugil
+    level:    [64, 66]
+    region:   vunkerl_inlet_s_s
+
+  17117325:
+    template: Stygian_Pugil
+    at:       [-316.223, -39.574, -339.820, 14]
+    level:    [64, 66]
+
+  17117326:
+    template: Stygian_Pugil
+    at:       [-315.376, -39.605, -338.916, 36]
+    level:    [64, 66]
+
+  17117327:
+    template: Stygian_Pugil
+    level:    [64, 66]
+    region:   vunkerl_inlet_s_sw_25
+
+  17117328:
+    template: Wandering_Sapling
+    level:    [35, 36]
+    region:   vunkerl_inlet_s_c_4
+
+  17117329:
+    template: Wandering_Sapling
+    level:    [35, 36]
+    region:   vunkerl_inlet_s_c_5
+
+  17117330:
+    template: Wandering_Sapling
+    level:    [35, 36]
+    region:   vunkerl_inlet_s_c_6
+
+  17117331:
+    template: Wandering_Sapling
+    level:    [35, 36]
+    region:   vunkerl_inlet_s_c_20
+
+  17117332:
+    template: Wandering_Sapling
+    level:    [35, 36]
+    region:   vunkerl_inlet_s_s_24
+
+  17117333:
+    template: Wandering_Sapling
+    level:    [35, 36]
+    region:   vunkerl_inlet_s_s_18
+
+  17117334:
+    template: Wandering_Sapling
+    level:    [35, 36]
+    region:   vunkerl_inlet_s_c_2
+
+  17117335:
+    template: Wandering_Sapling
+    level:    [35, 36]
+    region:   vunkerl_inlet_s_w_4
+
+  17117336:
+    template: Wandering_Sapling
+    level:    [35, 36]
+    region:   vunkerl_inlet_s_w_4
+
+  17117337:
+    template: Wandering_Sapling
+    at:       [-314.596, -39.814, -268.920, 185]
+    level:    [35, 36]
+
+  17117338:
+    template: Wandering_Sapling
+    at:       [-308.273, -40.000, -323.043, 91]
+    level:    [35, 36]
+
+  17117339:
+    template: Wandering_Sapling
+    level:    [35, 36]
+    region:   vunkerl_inlet_s_sw_25
+
+  17117340:
+    template: Wandering_Sapling
+    at:       [-307.554, -39.770, -353.329, 164]
+    level:    [35, 36]
+
+  17117341:
+    template: Haunt
+    level:    [65, 69]
+    region:   vunkerl_inlet_s_c_19
+
+  17117342:
+    template: Haunt
+    level:    [65, 69]
+    region:   vunkerl_inlet_s_s
+
+  17117343:
+    template: Thunder_Elemental
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_c_5
+
+  17117344:
+    template: Thunder_Elemental
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_s_18
+
+  17117345:
+    template: Ignis_Djinn
+    at:       [-413.757, -47.789, -357.833, 213]
+    level:    [70, 72]
+
+  17117346:
+    template: Ignis_Djinn
+    at:       [-427.362, -47.977, -356.292, 235]
+    level:    [70, 72]
+
+  17117347:
+    template: Ignis_Djinn
+    level:    [70, 72]
+    region:   vunkerl_inlet_s_sw_12
+
+  17117348:
+    template: Ignis_Djinn
+    level:    [70, 72]
+    region:   vunkerl_inlet_s_sw_12
+
+  17117349:
+    template: Big_Bang
+    at:       [-442.500, -48.000, -314.300, 60]
+    level:    [75, 75]
+
+  17117350:
+    template: Ignis_Djinn
+    at:       [-409.901, -48.171, -355.021, 175]
+    level:    [70, 72]
+
+  17117351:
+    template: Ignis_Djinn
+    at:       [-431.702, -47.981, -364.278, 56]
+    level:    [70, 72]
+
+  17117352:
+    template: Treant
+    level:    [73, 76]
+    region:   vunkerl_inlet_s_sw_14
+
+  17117353:
+    template: Treant
+    at:       [-440.813, -47.693, -301.884, 65]
+    level:    [73, 76]
+
+  17117354:
+    template: Treant
+    at:       [-467.112, -41.166, -351.075, 33]
+    level:    [73, 76]
+
+  17117355:
+    template: Treant
+    level:    [73, 76]
+    region:   vunkerl_inlet_s_sw_10
+
+  17117356:
+    template: Orcish_Gladiator
+    level:    [71, 74]
+    region:   vunkerl_inlet_s_sw_14
+
+  17117357:
+    template: Orcish_Hexspinner
+    level:    [71, 74]
+    region:   vunkerl_inlet_s_sw_14
+
+  17117358:
+    template: Orcish_Zerker
+    level:    [71, 74]
+    region:   vunkerl_inlet_s_sw_14
+
+  17117359:
+    template: Orcish_Footsoldier
+    level:    [71, 74]
+    region:   vunkerl_inlet_s_sw_12
+
+  17117360:
+    template: Orcish_Gladiator
+    level:    [71, 74]
+    region:   vunkerl_inlet_s_sw_12
+
+  17117361:
+    template: Orcish_Zerker
+    level:    [71, 74]
+    region:   vunkerl_inlet_s_sw_12
+
+  17117362:
+    template: Orcish_Hexspinner
+    level:    [71, 74]
+    region:   vunkerl_inlet_s_sw_10
+
+  17117363:
+    template: Orcish_Footsoldier
+    level:    [71, 74]
+    region:   vunkerl_inlet_s_sw_10
+
+  17117364:
+    template: Orcish_Zerker
+    level:    [71, 74]
+    region:   vunkerl_inlet_s_sw_10
+
+  17117365:
+    template: Orcish_Footsoldier
+    level:    [71, 74]
+    region:   vunkerl_inlet_s_sw_9
+
+  17117366:
+    template: Orcish_Gladiator
+    level:    [71, 74]
+    region:   vunkerl_inlet_s_sw_9
+
+  17117367:
+    template: Orcish_Hexspinner
+    level:    [71, 74]
+    region:   vunkerl_inlet_s_sw_9
+
+  17117368:
+    template: Doom_Soldier
+    at:       [-438.123, -48.453, -356.801, 54]
+    level:    [69, 71]
+
+  17117369:
+    template: Doom_Mage
+    at:       [-469.884, -40.762, -344.419, 206]
+    level:    [69, 71]
+
+  17117370:
+    template: Treant
+    level:    [73, 76]
+    region:   vunkerl_inlet_s_sw_16
+
+  17117371:
+    template: Treant
+    level:    [73, 76]
+    region:   vunkerl_inlet_s_sw_13
+
+  17117372:
+    template: Ignis_Djinn
+    at:       [-422.680, -47.815, -448.159, 42]
+    level:    [70, 72]
+
+  17117373:
+    template: Ignis_Djinn
+    at:       [-427.357, -47.922, -449.903, 80]
+    level:    [70, 72]
+
+  17117374:
+    template: Ignis_Djinn
+    at:       [-621.901, -49.122, -451.880, 58]
+    level:    [70, 72]
+
+  17117375:
+    template: Ignis_Djinn
+    at:       [-624.513, -48.423, -443.529, 127]
+    level:    [70, 72]
+
+  17117376:
+    template: Ignis_Djinn
+    at:       [-640.198, -47.670, -462.381, 127]
+    level:    [70, 72]
+
+  17117377:
+    template: Ignis_Djinn
+    at:       [-632.276, -48.309, -474.281, 132]
+    level:    [70, 72]
+
+  17117378:
+    template: Ignis_Djinn
+    at:       [-632.915, -48.358, -474.309, 131]
+    level:    [70, 72]
+
+  17117379:
+    template: Ignis_Djinn
+    at:       [-629.102, -47.955, -433.838, 2]
+    level:    [70, 72]
+
+  17117380:
+    template: Ignis_Djinn
+    at:       [-637.183, -47.636, -420.981, 182]
+    level:    [70, 72]
+
+  17117381:
+    template: Orcish_Zerker
+    level:    [71, 74]
+    region:   vunkerl_inlet_s_sw_11
+
+  17117382:
+    template: Orcish_Footsoldier
+    level:    [71, 74]
+    region:   vunkerl_inlet_s_sw_11
+
+  17117383:
+    template: Orcish_Hexspinner
+    level:    [71, 74]
+    region:   vunkerl_inlet_s_sw_11
+
+  17117384:
+    template: Orcish_Gladiator
+    level:    [71, 74]
+    region:   vunkerl_inlet_s_sw_6
+
+  17117385:
+    template: Orcish_Hexspinner
+    level:    [71, 74]
+    region:   vunkerl_inlet_s_sw_6
+
+  17117386:
+    template: Orcish_Zerker
+    level:    [71, 74]
+    region:   vunkerl_inlet_s_sw_6
+
+  17117387:
+    template: Orcish_Footsoldier
+    level:    [71, 74]
+    region:   vunkerl_inlet_s_sw_4
+
+  17117388:
+    template: Orcish_Gladiator
+    level:    [71, 74]
+    region:   vunkerl_inlet_s_sw_4
+
+  17117389:
+    template: Orcish_Hexspinner
+    level:    [71, 74]
+    region:   vunkerl_inlet_s_sw_4
+
+  17117390:
+    template: Orcish_Gladiator
+    at:       [-588.655, -47.201, -453.299, 36]
+    level:    [71, 74]
+
+  17117391:
+    template: Orcish_Footsoldier
+    at:       [-580.467, -45.916, -453.622, 2]
+    level:    [71, 74]
+
+  17117392:
+    template: Orcish_Zerker
+    at:       [-586.403, -47.630, -446.366, 164]
+    level:    [71, 74]
+
+  17117393:
+    template: Gigas_Marine
+    level:    [78, 82]
+    region:   vunkerl_inlet_s_sw_3
+
+  17117394:
+    template: Gigas_Jack
+    level:    [78, 82]
+    region:   vunkerl_inlet_s_sw_3
+
+  17117395:
+    template: Gigas_Helmsman
+    level:    [78, 82]
+    region:   vunkerl_inlet_s_sw_3
+
+  17117396:
+    template: Gigass_Tiger
+    level:    [73, 75]
+    region:   vunkerl_inlet_s_sw_3
+
+  17117397:
+    template: Gigas_Marine
+    at:       [-574.007, -48.135, -569.379, 168]
+    level:    [78, 82]
+
+  17117398:
+    template: Gigas_Deckhand
+    at:       [-566.220, -48.424, -568.611, 167]
+    level:    [78, 82]
+
+  17117399:
+    template: Gigas_Jack
+    at:       [-573.250, -48.068, -567.084, 121]
+    level:    [78, 82]
+
+  17117400:
+    template: Gigas_Helmsman
+    at:       [-515.525, -48.514, -597.940, 195]
+    level:    [78, 82]
+
+  17117401:
+    template: Gigass_Tiger
+    at:       [-517.192, -48.588, -598.908, 43]
+    level:    [73, 75]
+
+  17117402:
+    template: Gigas_Deckhand
+    at:       [-559.258, -48.502, -598.878, 23]
+    level:    [78, 82]
+
+  17117403:
+    template: Gigas_Jack
+    at:       [-552.461, -48.465, -592.062, 192]
+    level:    [78, 82]
+
+  17117404:
+    template: Demonic_Rose
+    level:    [74, 78]
+    region:   vunkerl_inlet_s_sw_7
+
+  17117405:
+    template: Demonic_Rose
+    level:    [74, 78]
+    region:   vunkerl_inlet_s_sw_8
+
+  17117406:
+    template: Demonic_Rose
+    at:       [-506.383, -40.087, -445.004, 154]
+    level:    [74, 78]
+
+  17117407:
+    template: Demonic_Rose
+    level:    [74, 78]
+    region:   vunkerl_inlet_s_sw_5
+
+  17117408:
+    template: Demonic_Rose
+    level:    [74, 78]
+    region:   vunkerl_inlet_s_sw_2
+
+  17117409:
+    template: Demonic_Rose
+    at:       [-568.796, -48.826, -584.379, 154]
+    level:    [74, 78]
+
+  17117410:
+    template: Doom_Soldier
+    level:    [69, 71]
+    region:   vunkerl_inlet_s_sw_5
+
+  17117411:
+    template: Doom_Mage
+    level:    [69, 71]
+    region:   vunkerl_inlet_s_sw_8
+
+  17117412:
+    template: Doom_Soldier
+    level:    [69, 71]
+    region:   vunkerl_inlet_s_sw_3
+
+  17117413:
+    template: Doom_Mage
+    at:       [-570.572, -49.003, -574.953, 72]
+    level:    [69, 71]
+
+  17117414:
+    template: Gigas_Deckhand
+    at:       [-635.984, -53.878, -540.681, 0]
+    level:    [78, 82]
+
+  17117415:
+    template: Gigas_Helmsman
+    at:       [-669.754, -46.635, -549.131, 227]
+    level:    [78, 82]
+
+  17117416:
+    template: Gigass_Tiger
+    at:       [-672.755, -46.452, -552.205, 93]
+    level:    [73, 75]
+
+  17117417:
+    template: Gigas_Marine
+    at:       [-675.859, -46.212, -565.384, 131]
+    level:    [78, 82]
+
+  17117418:
+    template: Gigas_Deckhand
+    at:       [-674.824, -46.180, -561.360, 201]
+    level:    [78, 82]
+
+  17117419:
+    template: Demonic_Rose
+    level:    [74, 78]
+    region:   vunkerl_inlet_s_s_2
+
+  17117420:
+    template: Demonic_Rose
+    level:    [74, 78]
+    region:   vunkerl_inlet_s_sw_19
+
+  17117421:
+    template: Demonic_Rose
+    level:    [74, 78]
+    region:   vunkerl_inlet_s_s_4
+
+  17117422:
+    template: Judgmental_Julika
+    level:    [82, 82]
+    region:   vunkerl_inlet_s_s_4
+
+  17117423:
+    template: Demonic_Rose
+    level:    [74, 78]
+    region:   vunkerl_inlet_s_s_3
+
+  17117424:
+    template: Royal_Leech
+    level:    [35, 37]
+    region:   vunkerl_inlet_s_sw_23
+
+  17117425:
+    template: Royal_Leech
+    level:    [35, 37]
+    region:   vunkerl_inlet_s_sw_26
+
+  17117426:
+    template: Royal_Leech
+    level:    [35, 37]
+    region:   vunkerl_inlet_s_sw_20
+
+  17117427:
+    template: Royal_Leech
+    level:    [35, 37]
+    region:   vunkerl_inlet_s_s_6
+
+  17117428:
+    template: Royal_Leech
+    level:    [35, 37]
+    region:   vunkerl_inlet_s_sw_24
+
+  17117429:
+    template: Royal_Leech
+    at:       [-262.819, -39.676, -715.430, 232]
+    level:    [35, 37]
+
+  17117430:
+    template: Royal_Leech
+    level:    [35, 37]
+    region:   vunkerl_inlet_s_s_5
+
+  17117431:
+    template: Treant
+    level:    [73, 76]
+    region:   vunkerl_inlet_s_s_10
+
+  17117432:
+    template: Treant
+    level:    [73, 76]
+    region:   vunkerl_inlet_s_s_9
+
+  17117433:
+    template: Wandering_Sapling
+    at:       [-215.138, -48.400, -589.659, 165]
+    level:    [35, 36]
+
+  17117434:
+    template: Wandering_Sapling
+    level:    [35, 36]
+    region:   vunkerl_inlet_s_s_9
+
+  17117435:
+    template: Wandering_Sapling
+    at:       [-213.171, -47.993, -640.982, 27]
+    level:    [35, 36]
+
+  17117436:
+    template: Haunt
+    level:    [65, 69]
+    region:   vunkerl_inlet_s_s_5
+
+  17117437:
+    template: Thunder_Elemental
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_c_6
+
+  17117438:
+    template: Thunder_Elemental
+    at:       [-128.372, -39.141, -261.112, 182]
+    level:    [60, 60]
+
+  17117439:
+    template: Treant
+    level:    [73, 76]
+    region:   vunkerl_inlet_s_s_27
+
+  17117440:
+    template: Treant
+    level:    [73, 76]
+    region:   vunkerl_inlet_s_s_26
+
+  17117441:
+    template: Treant
+    level:    [73, 76]
+    region:   vunkerl_inlet_s_s_25
+
+  17117442:
+    template: Treant
+    level:    [73, 76]
+    region:   vunkerl_inlet_s_s_23
+
+  17117443:
+    template: Wandering_Sapling
+    level:    [35, 36]
+    region:   vunkerl_inlet_s_s_27
+
+  17117444:
+    template: Wandering_Sapling
+    level:    [35, 36]
+    region:   vunkerl_inlet_s_s_27
+
+  17117445:
+    template: Wandering_Sapling
+    level:    [35, 36]
+    region:   vunkerl_inlet_s_s_26
+
+  17117446:
+    template: Wandering_Sapling
+    level:    [35, 36]
+    region:   vunkerl_inlet_s_s_26
+
+  17117447:
+    template: Wandering_Sapling
+    level:    [35, 36]
+    region:   vunkerl_inlet_s_s_25
+
+  17117448:
+    template: Wandering_Sapling
+    level:    [35, 36]
+    region:   vunkerl_inlet_s_s_25
+
+  17117449:
+    template: Ignis_Djinn
+    at:       [-70.044, -39.823, -448.018, 230]
+    level:    [70, 72]
+
+  17117450:
+    template: Ignis_Djinn
+    at:       [-89.435, -40.042, -455.523, 126]
+    level:    [70, 72]
+
+  17117451:
+    template: Orcish_Hexspinner
+    at:       [81.719, -48.694, -450.380, 249]
+    level:    [71, 74]
+
+  17117452:
+    template: Orcish_Footsoldier
+    at:       [71.678, -48.160, -469.352, 37]
+    level:    [71, 74]
+
+  17117453:
+    template: Orcish_Gladiator
+    at:       [75.819, -48.046, -467.925, 68]
+    level:    [71, 74]
+
+  17117454:
+    template: Orcish_Hexspinner
+    at:       [85.743, -47.954, -428.071, 163]
+    level:    [71, 74]
+
+  17117455:
+    template: Orcish_Gladiator
+    at:       [80.068, -47.891, -427.083, 129]
+    level:    [71, 74]
+
+  17117456:
+    template: Orcish_Footsoldier
+    level:    [71, 74]
+    region:   vunkerl_inlet_s_s_28
+
+  17117457:
+    template: Orcish_Zerker
+    level:    [71, 74]
+    region:   vunkerl_inlet_s_s_28
+
+  17117458:
+    template: Orcish_Zerker
+    at:       [112.906, -47.789, -428.747, 92]
+    level:    [71, 74]
+
+  17117459:
+    template: Orcish_Footsoldier
+    at:       [102.599, -47.548, -433.386, 95]
+    level:    [71, 74]
+
+  17117460:
+    template: Orcish_Gladiator
+    at:       [121.999, -48.256, -431.548, 158]
+    level:    [71, 74]
+
+  17117461:
+    template: Dragonfly
+    at:       [129.627, -41.078, -466.652, 244]
+    level:    [58, 60]
+
+  17117462:
+    template: Dragonfly
+    at:       [117.129, -40.467, -486.463, 23]
+    level:    [58, 60]
+
+  17117463:
+    template: Dragonfly
+    level:    [58, 60]
+    region:   vunkerl_inlet_s_se
+
+  17117464:
+    template: Dragonfly
+    at:       [134.364, -39.976, -530.795, 97]
+    level:    [58, 60]
+
+  17117465:
+    template: Dragonfly
+    at:       [146.716, -39.911, -520.925, 73]
+    level:    [58, 60]
+
+  17117466:
+    template: Dragonfly
+    level:    [58, 60]
+    region:   vunkerl_inlet_s_se_2
+
+  17117467:
+    template: Chigoe
+    at:       [121.865, -40.601, -467.953, 173]
+    level:    [75, 78]
+
+  17117468:
+    template: Chigoe
+    at:       [131.029, -40.707, -475.421, 79]
+    level:    [75, 78]
+
+  17117469:
+    template: Chigoe
+    level:    [75, 78]
+    region:   vunkerl_inlet_s_se
+
+  17117470:
+    template: Chigoe
+    level:    [75, 78]
+    region:   vunkerl_inlet_s_se
+
+  17117471:
+    template: Chigoe
+    level:    [75, 78]
+    region:   vunkerl_inlet_s_se
+
+  17117472:
+    template: Chigoe
+    at:       [120.681, -40.519, -560.878, 168]
+    level:    [75, 78]
+
+  17117473:
+    template: Chigoe
+    at:       [118.517, -40.713, -564.351, 3]
+    level:    [75, 78]
+
+  17117474:
+    template: Chigoe
+    level:    [75, 78]
+    region:   vunkerl_inlet_s_se_2
+
+  17117475:
+    template: Chigoe
+    level:    [75, 78]
+    region:   vunkerl_inlet_s_se_2
+
+  17117476:
+    template: Chigoe
+    at:       [105.590, -40.875, -481.535, 141]
+    level:    [75, 78]
+
+  17117477:
+    template: Chigoe
+    at:       [132.824, -39.926, -523.902, 88]
+    level:    [75, 78]
+
+  17117478:
+    template: Chigoe
+    at:       [149.618, -40.136, -511.065, 51]
+    level:    [75, 78]
+
+  17117479:
+    template: Goliath_Beetle
+    at:       [-365.195, -32.656, -79.459, 59]
+    level:    [34, 36]
+
+  17117480:
+    template: Goliath_Beetle
+    at:       [-379.094, -31.697, -44.799, 191]
+    level:    [34, 36]
+
+  17117481:
+    template: Goliath_Beetle
+    at:       [-370.310, -31.917, -54.585, 5]
+    level:    [34, 36]
+
+  17117482:
+    template: Goliath_Beetle
+    at:       [-385.196, -30.916, -27.453, 244]
+    level:    [34, 36]
+
+  17117483:
+    template: Goliath_Beetle
+    at:       [-411.658, -29.190, -32.997, 88]
+    level:    [34, 36]
+
+  17117484:
+    template: Goliath_Beetle
+    at:       [-430.671, -32.175, 41.244, 52]
+    level:    [34, 36]
+
+  17117485:
+    template: Goliath_Beetle
+    at:       [-445.285, -32.006, 37.259, 34]
+    level:    [34, 36]
+
+  17117486:
+    template: Goliath_Beetle
+    level:    [34, 36]
+    region:   vunkerl_inlet_s_w_3
+
+  17117487:
+    template: Goliath_Beetle
+    level:    [34, 36]
+    region:   vunkerl_inlet_s_w_3
+
+  17117488:
+    template: Goliath_Beetle
+    level:    [34, 36]
+    region:   vunkerl_inlet_s_w_2
+
+  17117489:
+    template: Goliath_Beetle
+    level:    [34, 36]
+    region:   vunkerl_inlet_s_w_2
+
+  17117490:
+    template: Carrion_Marabou
+    at:       [-356.610, -32.460, -43.694, 201]
+    level:    [36, 38]
+
+  17117491:
+    template: Carrion_Marabou
+    at:       [-378.372, -31.089, -29.371, 17]
+    level:    [36, 38]
+
+  17117492:
+    template: Carrion_Marabou
+    at:       [-417.721, -31.437, 29.799, 225]
+    level:    [36, 38]
+
+  17117493:
+    template: Carrion_Marabou
+    level:    [36, 38]
+    region:   vunkerl_inlet_s_w_3
+
+  17117494:
+    template: Carrion_Marabou
+    level:    [36, 38]
+    region:   vunkerl_inlet_s_w_2
+
+  17117495:
+    template: Goliath_Beetle
+    at:       [-364.967, -29.530, 272.044, 128]
+    level:    [34, 36]
+
+  17117496:
+    template: Goliath_Beetle
+    at:       [-341.033, -31.696, 282.909, 126]
+    level:    [34, 36]
+
+  17117497:
+    template: Goliath_Beetle
+    at:       [-320.943, -32.587, 283.201, 129]
+    level:    [34, 36]
+
+  17117498:
+    template: Goliath_Beetle
+    at:       [-281.680, -32.395, 277.489, 2]
+    level:    [34, 36]
+
+  17117499:
+    template: Goliath_Beetle
+    at:       [-365.619, -31.076, 342.433, 150]
+    level:    [34, 36]
+
+  17117500:
+    template: Goliath_Beetle
+    at:       [-375.274, -32.052, 361.822, 151]
+    level:    [34, 36]
+
+  17117501:
+    template: Goliath_Beetle
+    at:       [-389.687, -30.914, 350.881, 98]
+    level:    [34, 36]
+
+  17117502:
+    template: Goliath_Beetle
+    at:       [-410.295, -29.942, 365.563, 209]
+    level:    [34, 36]
+
+  17117503:
+    template: Goliath_Beetle
+    at:       [-395.382, -31.937, 358.505, 73]
+    level:    [34, 36]
+
+  17117504:
+    template: Carrion_Marabou
+    at:       [-366.706, -29.546, 273.530, 127]
+    level:    [36, 38]
+
+  17117505:
+    template: Carrion_Marabou
+    at:       [-343.884, -31.693, 283.190, 80]
+    level:    [36, 38]
+
+  17117506:
+    template: Carrion_Marabou
+    at:       [-364.534, -31.664, 294.235, 173]
+    level:    [36, 38]
+
+  17117507:
+    template: Carrion_Marabou
+    at:       [-373.560, -29.392, 324.408, 60]
+    level:    [36, 38]
+
+  17117508:
+    template: Carrion_Marabou
+    at:       [-385.678, -31.341, 353.388, 198]
+    level:    [36, 38]
+
+  17117509:
+    template: Goliath_Beetle
+    level:    [34, 36]
+    region:   vunkerl_inlet_s_nw_2
+
+  17117510:
+    template: Goliath_Beetle
+    level:    [34, 36]
+    region:   vunkerl_inlet_s_nw_3
+
+  17117511:
+    template: Goliath_Beetle
+    at:       [-481.736, -31.620, 217.727, 5]
+    level:    [34, 36]
+
+  17117512:
+    template: Goliath_Beetle
+    at:       [-470.562, -31.864, 223.763, 162]
+    level:    [34, 36]
+
+  17117513:
+    template: Goliath_Beetle
+    at:       [-442.289, -31.954, 228.658, 244]
+    level:    [34, 36]
+
+  17117514:
+    template: Goliath_Beetle
+    at:       [-451.211, -32.259, 244.746, 176]
+    level:    [34, 36]
+
+  17117515:
+    template: Goliath_Beetle
+    at:       [-432.022, -31.493, 261.056, 0]
+    level:    [34, 36]
+
+  17117516:
+    template: Goliath_Beetle
+    at:       [-435.769, -29.689, 289.748, 124]
+    level:    [34, 36]
+
+  17117517:
+    template: Gnole
+    at:       [-520.211, -40.193, 169.788, 155]
+    level:    [66, 68]
+
+  17117518:
+    template: Gnole
+    level:    [66, 68]
+    region:   vunkerl_inlet_s_w
+
+  17117519:
+    template: Gnole
+    at:       [-403.772, -32.467, 197.865, 159]
+    level:    [66, 68]
+
+  17117520:
+    template: Gnole
+    at:       [-499.778, -46.758, 128.808, 70]
+    level:    [66, 68]
+
+  17117521:
+    template: Gnole
+    at:       [-477.938, -32.472, 237.775, 38]
+    level:    [66, 68]
+
+  17117522:
+    template: Gnole
+    at:       [-437.568, -31.741, 250.200, 67]
+    level:    [66, 68]
+
+  17117523:
+    template: Air_Elemental
+    at:       [-456.564, -31.658, 226.708, 241]
+    level:    [45, 45]
+
+  17117524:
+    template: Dire_Bat
+    level:    [61, 63]
+    region:   vunkerl_inlet_s_nw_5
+
+  17117525:
+    template: Dire_Bat
+    level:    [61, 63]
+    region:   vunkerl_inlet_s_n_2
+
+  17117526:
+    template: Dire_Bat
+    at:       [254.634, -49.772, 378.882, 249]
+    level:    [61, 63]
+
+  17117527:
+    template: Dire_Bat
+    at:       [-443.518, -56.574, -660.974, 121]
+    level:    [61, 63]
+
+  17117528:
+    template: Dire_Bat
+    at:       [-97.497, -57.061, -750.199, 57]
+    level:    [61, 63]
+
+  17117529:
+    template: Dire_Bat
+    at:       [-298.578, -56.505, -439.519, 62]
+    level:    [61, 63]
+
+  17117530:
+    template: Dire_Bat
+    at:       [-302.223, -58.359, -459.204, 95]
+    level:    [61, 63]
+
+  17117531:
+    template: Royal_Leech
+    level:    [35, 37]
+    region:   vunkerl_inlet_s_nw_4
+
+  17117532:
+    template: Royal_Leech
+    level:    [35, 37]
+    region:   vunkerl_inlet_s_sw_17
+
+  17117533:
+    template: Royal_Leech
+    level:    [35, 37]
+    region:   vunkerl_inlet_s_sw_15
+
+  17117534:
+    template: Wandering_Sapling
+    level:    [35, 36]
+    region:   vunkerl_inlet_s_sw_22
+
+  17117535:
+    template: Wandering_Sapling
+    level:    [35, 36]
+    region:   vunkerl_inlet_s_sw_21
+
+  17117536:
+    template: Wandering_Sapling
+    level:    [35, 36]
+    region:   vunkerl_inlet_s_s_22
+
+  17117537:
+    template: Wandering_Sapling
+    level:    [35, 36]
+    region:   vunkerl_inlet_s_s_17
+
+  17117538:
+    template: Wandering_Sapling
+    level:    [35, 36]
+    region:   vunkerl_inlet_s_s_16
+
+  17117539:
+    template: Wandering_Sapling
+    at:       [19.015, -54.952, -464.727, 51]
+    level:    [35, 36]
+
+  17117540:
+    template: Wandering_Sapling
+    level:    [35, 36]
+    region:   vunkerl_inlet_s_sw_18
+
+  17117541:
+    template: Wandering_Sapling
+    at:       [-299.951, -46.154, -101.316, 11]
+    level:    [35, 36]
+
+  17117542:
+    template: Wandering_Sapling
+    at:       [-261.667, -46.757, -86.306, 192]
+    level:    [35, 36]
+
+  17117543:
+    template: Wandering_Sapling
+    level:    [35, 36]
+    region:   vunkerl_inlet_s_c_22
+
+  17117544:
+    template: Sprite
+    level:    [66, 68]
+    region:   vunkerl_inlet_s_n
+
+  17117545:
+    template: Sprite
+    level:    [66, 68]
+    region:   vunkerl_inlet_s_c_11
+
+  17117546:
+    template: Sprite
+    level:    [66, 68]
+    region:   vunkerl_inlet_s_c
+
+  17117547:
+    template: Sprite
+    level:    [66, 68]
+    region:   vunkerl_inlet_s_nw
+
+  17117548:
+    template: Sprite
+    level:    [66, 68]
+    region:   vunkerl_inlet_s_sw
+
+  17117549:
+    template: Sprite
+    level:    [66, 68]
+    region:   vunkerl_inlet_s_s_7
+
+  17117550:
+    template: Orcish_Transporter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17117551:
+    template: Orcish_Guard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17117552:
+    template: Orcish_Guard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17117553:
+    template: Procrustes
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117554:
+    template: Jotunn_Ruffian
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117555:
+    template: Jotunn_Ruffian
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117556:
+    template: Jotunn_Ruffian
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117557:
+    template: Jotunn_Ruffian
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117558:
+    template: Jotunn_Ruffian
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117559:
+    template: Jotunn_Ruffian
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117560:
+    template: Madthrasher_Zradbodd
+    at:       [-326.091, -39.638, -700.062, 107]
+    level:    [70, 75]
+
+  17117561:
+    template: Almops
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17117562:
+    template: Edonus
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17117563:
+    template: Glacial_Wisp
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 75]
+
+  17117564:
+    template: Glacial_Wisp
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 75]
+
+  17117565:
+    template: Glacial_Wisp
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 75]
+
+  17117566:
+    template: Glacial_Wisp
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 75]
+
+  17117567:
+    template: Valaineral_R_Davilles
+    at:       [0.000, 0.000, 0.000, 4]
+    level:    [0, 0]
+
+  17117568:
+    template: Royal_Guard
+    level:    [1, 1]
+    region:   vunkerl_inlet_s_s_8
+
+  17117569:
+    template: Royal_Guard
+    level:    [1, 1]
+    region:   vunkerl_inlet_s_s_8
+
+  17117570:
+    template: Royal_Guard
+    level:    [1, 1]
+    region:   vunkerl_inlet_s_s_8
+
+  17117571:
+    template: Royal_Guard
+    level:    [1, 1]
+    region:   vunkerl_inlet_s_s_8
+
+  17117572:
+    template: Royal_Guard
+    level:    [1, 1]
+    region:   vunkerl_inlet_s_s_8
+
+  17117573:
+    template: Royal_Guard
+    level:    [1, 1]
+    region:   vunkerl_inlet_s_s_8
+
+  17117574:
+    template: Royal_Guard
+    level:    [1, 1]
+    region:   vunkerl_inlet_s_s_8
+
+  17117575:
+    template: Royal_Guard
+    level:    [1, 1]
+    region:   vunkerl_inlet_s_s_8
+
+  17117576:
+    template: Royal_Guard
+    level:    [1, 1]
+    region:   vunkerl_inlet_s_s_8
+
+  17117577:
+    template: Leonoyne
+    at:       [-188.150, -40.500, -275.757, 64]
+    level:    [1, 1]
+
+  17117578:
+    template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 178]
+    level:    [0, 0]
+
+  17117579:
+    template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 234]
+    level:    [0, 0]
+
+  17117580:
+    template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 104]
+    level:    [0, 0]
+
+  17117581:
+    template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 118]
+    level:    [0, 0]
+
+  17117582:
+    template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17117583:
+    template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 90]
+    level:    [0, 0]
+
+  17117584:
+    template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 125]
+    level:    [0, 0]
+
+  17117585:
+    template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 69]
+    level:    [0, 0]
+
+  17117586:
+    template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 23]
+    level:    [0, 0]
+
+  17117587:
+    template: Ashmea_B_Greinner
+    at:       [-165.440, -41.880, -279.434, 11]
+    level:    [0, 0]
+
+  17117588:
+    template: Scarlet_Boar_Esquire
+    level:    [0, 0]
+    region:   vunkerl_inlet_s_s_8
+
+  17117589:
+    template: Scarlet_Boar_Esquire
+    level:    [0, 0]
+    region:   vunkerl_inlet_s_s_8
+
+  17117590:
+    template: Scarlet_Boar_Esquire
+    level:    [0, 0]
+    region:   vunkerl_inlet_s_s_8
+
+  17117591:
+    template: Scarlet_Boar_Esquire
+    level:    [0, 0]
+    region:   vunkerl_inlet_s_s_8
+
+  17117592:
+    template: Scarlet_Boar_Esquire
+    level:    [0, 0]
+    region:   vunkerl_inlet_s_s_8
+
+  17117593:
+    template: Scarlet_Boar_Esquire
+    level:    [0, 0]
+    region:   vunkerl_inlet_s_s_8
+
+  17117594:
+    template: Scarlet_Boar_Esquire
+    level:    [0, 0]
+    region:   vunkerl_inlet_s_s_8
+
+  17117595:
+    template: Scarlet_Boar_Esquire
+    level:    [0, 0]
+    region:   vunkerl_inlet_s_s_8
+
+  17117596:
+    template: Scarlet_Boar_Esquire
+    level:    [0, 0]
+    region:   vunkerl_inlet_s_s_8
+
+  17117597:
+    template: Feldrautte_I_Rouhent
+    level:    [70, 70]
+    region:   vunkerl_inlet_s_s_8
+
+  17117598:
+    template: Norvallen_Knight
+    level:    [70, 70]
+    region:   vunkerl_inlet_s_s_8
+
+  17117599:
+    template: Norvallen_Knight
+    level:    [70, 70]
+    region:   vunkerl_inlet_s_s_8
+
+  17117600:
+    template: Norvallen_Knight
+    level:    [70, 70]
+    region:   vunkerl_inlet_s_s_8
+
+  17117601:
+    template: Norvallen_Knight
+    level:    [70, 70]
+    region:   vunkerl_inlet_s_s_8
+
+  17117602:
+    template: Norvallen_Knight
+    level:    [70, 70]
+    region:   vunkerl_inlet_s_s_8
+
+  17117603:
+    template: Norvallen_Knight
+    level:    [70, 70]
+    region:   vunkerl_inlet_s_s_8
+
+  17117604:
+    template: Norvallen_Knight
+    level:    [70, 70]
+    region:   vunkerl_inlet_s_s_8
+
+  17117605:
+    template: Norvallen_Knight
+    level:    [70, 70]
+    region:   vunkerl_inlet_s_s_8
+
+  17117606:
+    template: Norvallen_Knight
+    level:    [70, 70]
+    region:   vunkerl_inlet_s_s_8
+
+  17117607:
+    template: Yrvaulair_S_Cousseraux
+    at:       [0.000, 0.000, 0.000, 134]
+    level:    [0, 0]
+
+  17117608:
+    template: Royal_Knight
+    at:       [0.000, 0.000, 0.000, 139]
+    level:    [1, 1]
+
+  17117609:
+    template: Royal_Knight
+    at:       [0.000, 0.000, 0.000, 242]
+    level:    [1, 1]
+
+  17117610:
+    template: Royal_Knight
+    at:       [0.000, 0.000, 0.000, 173]
+    level:    [1, 1]
+
+  17117611:
+    template: Royal_Knight
+    at:       [0.000, 0.000, 0.000, 119]
+    level:    [1, 1]
+
+  17117612:
+    template: Royal_Knight
+    at:       [0.000, 0.000, 0.000, 5]
+    level:    [1, 1]
+
+  17117613:
+    template: Royal_Knight
+    at:       [0.000, 0.000, 0.000, 5]
+    level:    [1, 1]
+
+  17117614:
+    template: Royal_Knight
+    at:       [0.000, 0.000, 0.000, 218]
+    level:    [1, 1]
+
+  17117615:
+    template: Royal_Knight
+    at:       [0.000, 0.000, 0.000, 221]
+    level:    [1, 1]
+
+  17117616:
+    template: Royal_Knight
+    at:       [0.000, 0.000, 0.000, 229]
+    level:    [1, 1]
+
+  17117617:
+    template: Noillurie
+    level:    [1, 1]
+    region:   vunkerl_inlet_s_s_8
+
+  17117618:
+    template: Red_Rose_Condottiere
+    level:    [0, 0]
+    region:   vunkerl_inlet_s_s_8
+
+  17117619:
+    template: Red_Rose_Condottiere
+    level:    [0, 0]
+    region:   vunkerl_inlet_s_s_8
+
+  17117620:
+    template: Red_Rose_Condottiere
+    level:    [0, 0]
+    region:   vunkerl_inlet_s_s_8
+
+  17117621:
+    template: Red_Rose_Condottiere
+    level:    [0, 0]
+    region:   vunkerl_inlet_s_s_8
+
+  17117622:
+    template: Red_Rose_Condottiere
+    level:    [0, 0]
+    region:   vunkerl_inlet_s_s_8
+
+  17117623:
+    template: Red_Rose_Condottiere
+    level:    [0, 0]
+    region:   vunkerl_inlet_s_s_8
+
+  17117624:
+    template: Red_Rose_Condottiere
+    level:    [0, 0]
+    region:   vunkerl_inlet_s_s_8
+
+  17117625:
+    template: Red_Rose_Condottiere
+    level:    [0, 0]
+    region:   vunkerl_inlet_s_s_8
+
+  17117626:
+    template: Red_Rose_Condottiere
+    level:    [0, 0]
+    region:   vunkerl_inlet_s_s_8
+
+  17117627:
+    template: Gold_Badger_Esquire
+    at:       [-368.820, -31.963, -54.120, 19]
+    level:    [65, 65]
+
+  17117628:
+    template: Gold_Badger_Esquire
+    at:       [141.198, -32.866, 183.912, 64]
+    level:    [65, 65]
+
+  17117629:
+    template: Gold_Badger_Esquire
+    at:       [-299.121, -46.269, -102.016, 11]
+    level:    [65, 65]
+
+  17117630:
+    template: Gold_Badger_Esquire
+    at:       [148.102, -31.856, 262.074, 30]
+    level:    [65, 65]
+
+  17117631:
+    template: Gold_Badger_Esquire
+    at:       [0.000, 0.000, 0.000, 152]
+    level:    [65, 65]
+
+  17117632:
+    template: Gold_Badger_Esquire
+    at:       [161.060, -32.106, 235.180, 30]
+    level:    [65, 65]
+
+  17117633:
+    template: Allied_Mantelet
+    at:       [-117.089, -40.693, -273.565, 0]
+    level:    [50, 50]
+
+  17117634:
+    template: Allied_Mantelet
+    at:       [-116.374, -40.456, -284.861, 0]
+    level:    [50, 50]
+
+  17117635:
+    template: Allied_Mantelet
+    at:       [-194.123, -40.475, -267.802, 224]
+    level:    [50, 50]
+
+  17117636:
+    template: Allied_Mantelet
+    at:       [-215.880, -40.015, -269.506, 160]
+    level:    [50, 50]
+
+  17117637:
+    template: Allied_Mantelet
+    at:       [-215.496, -40.051, -291.299, 96]
+    level:    [50, 50]
+
+  17117638:
+    template: Allied_Mantelet
+    at:       [-194.123, -40.500, -291.311, 32]
+    level:    [50, 50]
+
+  17117639:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117640:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117641:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117642:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117643:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117644:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117645:
+    template: Allied_Belfry
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117646:
+    template: Royal_Banneret
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117647:
+    template: Royal_Banneret
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117648:
+    template: Royal_Banneret
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117649:
+    template: Royal_Banneret
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117650:
+    template: Royal_Banneret
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117651:
+    template: Royal_Banneret
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117652:
+    template: Allied_Armored_Belfry
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17117653:
+    template: Royal_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117654:
+    template: Royal_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117655:
+    template: Royal_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117656:
+    template: Royal_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117657:
+    template: Royal_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117658:
+    template: Royal_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117659:
+    template: Royal_Palliator
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_s_8
+
+  17117660:
+    template: Royal_Palliator
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_s_8
+
+  17117661:
+    template: Royal_Palliator
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_s_8
+
+  17117662:
+    template: Royal_Palliator
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_s_8
+
+  17117663:
+    template: Royal_Palliator
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_s_8
+
+  17117664:
+    template: Royal_Palliator
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_s_8
+
+  17117665:
+    template: Royal_Provisioner
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17117666:
+    template: Royal_Provisioner
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17117667:
+    template: Royal_Provisioner
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17117668:
+    template: Conqueror_Bakgodek
+    at:       [-211.935, -40.500, -288.544, 247]
+    level:    [60, 60]
+
+  17117669:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 67]
+    level:    [60, 60]
+
+  17117670:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 157]
+    level:    [60, 60]
+
+  17117671:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 237]
+    level:    [60, 60]
+
+  17117672:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 61]
+    level:    [60, 60]
+
+  17117673:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 173]
+    level:    [60, 60]
+
+  17117674:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 162]
+    level:    [60, 60]
+
+  17117675:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 29]
+    level:    [60, 60]
+
+  17117676:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 51]
+    level:    [60, 60]
+
+  17117677:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 253]
+    level:    [60, 60]
+
+  17117678:
+    template: One-eyed_Gwajboj
+    at:       [0.000, 0.000, 0.000, 158]
+    level:    [60, 60]
+
+  17117679:
+    template: Gutrender_Trooper
+    at:       [0.000, 0.000, 0.000, 133]
+    level:    [60, 60]
+
+  17117680:
+    template: Gutrender_Trooper
+    at:       [0.000, 0.000, 0.000, 211]
+    level:    [60, 60]
+
+  17117681:
+    template: Gutrender_Trooper
+    at:       [0.000, 0.000, 0.000, 109]
+    level:    [60, 60]
+
+  17117682:
+    template: Gutrender_Trooper
+    at:       [0.000, 0.000, 0.000, 140]
+    level:    [60, 60]
+
+  17117683:
+    template: Gutrender_Trooper
+    at:       [0.000, 0.000, 0.000, 142]
+    level:    [60, 60]
+
+  17117684:
+    template: Gutrender_Trooper
+    at:       [0.000, 0.000, 0.000, 144]
+    level:    [60, 60]
+
+  17117685:
+    template: Gutrender_Trooper
+    at:       [0.000, 0.000, 0.000, 146]
+    level:    [60, 60]
+
+  17117686:
+    template: Gutrender_Trooper
+    at:       [0.000, 0.000, 0.000, 150]
+    level:    [60, 60]
+
+  17117687:
+    template: Gutrender_Trooper
+    at:       [0.000, 0.000, 0.000, 173]
+    level:    [60, 60]
+
+  17117688:
+    template: Deathlord_Rojgnoj
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_s_13
+
+  17117689:
+    template: Spinebeak_Neckchopper
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_s_20
+
+  17117690:
+    template: Spinebeak_Neckchopper
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_s_8
+
+  17117691:
+    template: Spinebeak_Neckchopper
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_s_8
+
+  17117692:
+    template: Spinebeak_Neckchopper
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_s_15
+
+  17117693:
+    template: Spinebeak_Neckchopper
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_s_8
+
+  17117694:
+    template: Spinebeak_Neckchopper
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_c_21
+
+  17117695:
+    template: Spinebeak_Neckchopper
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_s_8
+
+  17117696:
+    template: Spinebeak_Neckchopper
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_s_14
+
+  17117697:
+    template: Spinebeak_Neckchopper
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_s_11
+
+  17117698:
+    template: Jagidbods_Warmachine
+    at:       [-192.309, -40.500, -274.897, 62]
+    level:    [60, 60]
+
+  17117699:
+    template: Jagidbod_of_Clan_Reaper
+    at:       [-192.452, -40.500, -274.093, 64]
+    level:    [0, 0]
+
+  17117700:
+    template: Clan_Reaper_Grunt
+    at:       [0.000, 0.000, 0.000, 111]
+    level:    [0, 0]
+
+  17117701:
+    template: Clan_Reaper_Grunt
+    at:       [0.000, 0.000, 0.000, 247]
+    level:    [0, 0]
+
+  17117702:
+    template: Clan_Reaper_Grunt
+    at:       [0.000, 0.000, 0.000, 169]
+    level:    [0, 0]
+
+  17117703:
+    template: Clan_Reaper_Grunt
+    at:       [0.000, 0.000, 0.000, 66]
+    level:    [0, 0]
+
+  17117704:
+    template: Clan_Reaper_Grunt
+    at:       [0.000, 0.000, 0.000, 168]
+    level:    [0, 0]
+
+  17117705:
+    template: Clan_Reaper_Grunt
+    at:       [0.000, 0.000, 0.000, 122]
+    level:    [0, 0]
+
+  17117706:
+    template: Clan_Reaper_Grunt
+    at:       [0.000, 0.000, 0.000, 137]
+    level:    [0, 0]
+
+  17117707:
+    template: Clan_Reaper_Grunt
+    at:       [0.000, 0.000, 0.000, 151]
+    level:    [0, 0]
+
+  17117708:
+    template: Clan_Reaper_Grunt
+    at:       [0.000, 0.000, 0.000, 164]
+    level:    [0, 0]
+
+  17117709:
+    template: Alpha_Gnole_Anders
+    level:    [0, 0]
+    region:   vunkerl_inlet_s_s_8
+
+  17117710:
+    template: Anderss_Guard
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_s_8
+
+  17117711:
+    template: Anderss_Guard
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_s_8
+
+  17117712:
+    template: Moonfang_Warrior
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_s_8
+
+  17117713:
+    template: Moonfang_Warrior
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_s_8
+
+  17117714:
+    template: Moonfang_Warrior
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_s_8
+
+  17117715:
+    template: Moonfang_Warrior
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_s_8
+
+  17117716:
+    template: Moonfang_Warrior
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_s_8
+
+  17117717:
+    template: Moonfang_Warrior
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_s_21
+
+  17117718:
+    template: Moonfang_Warrior
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_s_8
+
+  17117719:
+    template: Moonfang_Warrior
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_s_8
+
+  17117720:
+    template: Moonfang_Warrior
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_s_8
+
+  17117721:
+    template: Three-eyed_Prozpuz
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_s_8
+
+  17117722:
+    template: Throatripper_Predator
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_s_8
+
+  17117723:
+    template: Throatripper_Predator
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_s_8
+
+  17117724:
+    template: Throatripper_Predator
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_s_8
+
+  17117725:
+    template: Throatripper_Predator
+    level:    [60, 60]
+    region:   vunkerl_inlet_s_s_19
+
+  17117726:
+    template: Throatripper_Predator
+    at:       [0.000, 0.000, 0.000, 152]
+    level:    [60, 60]
+
+  17117727:
+    template: Throatripper_Predator
+    at:       [0.000, 0.000, 0.000, 220]
+    level:    [60, 60]
+
+  17117728:
+    template: Throatripper_Predator
+    at:       [0.000, 0.000, 0.000, 136]
+    level:    [60, 60]
+
+  17117729:
+    template: Throatripper_Predator
+    at:       [0.000, 0.000, 0.000, 143]
+    level:    [60, 60]
+
+  17117730:
+    template: Throatripper_Predator
+    at:       [0.000, 0.000, 0.000, 112]
+    level:    [60, 60]
+
+  17117731:
+    template: Clan_Bear_Fighter
+    at:       [-449.323, -48.608, -466.189, 225]
+    level:    [65, 65]
+
+  17117732:
+    template: Clan_Bear_Fighter
+    at:       [-447.718, -48.844, -464.263, 225]
+    level:    [65, 65]
+
+  17117733:
+    template: Clan_Bear_Fighter
+    at:       [-143.561, -53.154, -583.265, 218]
+    level:    [65, 65]
+
+  17117734:
+    template: Clan_Bear_Fighter
+    at:       [0.000, 0.000, 0.000, 91]
+    level:    [65, 65]
+
+  17117735:
+    template: Clan_Bear_Fighter
+    at:       [-100.473, -54.618, -519.696, 196]
+    level:    [65, 65]
+
+  17117736:
+    template: Clan_Bear_Fighter
+    at:       [-118.924, -54.698, -538.663, 255]
+    level:    [65, 65]
+
+  17117737:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17117738:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17117739:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17117740:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17117741:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17117742:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17117743:
+    template: Iron_Bomb
+    at:       [-205.490, -40.500, -288.558, 169]
+    level:    [60, 60]
+
+  17117744:
+    template: Iron_Bomb
+    at:       [-214.447, -40.194, -279.087, 22]
+    level:    [60, 60]
+
+  17117745:
+    template: Iron_Bomb
+    at:       [-214.608, -40.173, -279.023, 21]
+    level:    [60, 60]
+
+  17117746:
+    template: Iron_Bomb
+    at:       [-197.893, -40.500, -273.069, 125]
+    level:    [60, 60]
+
+  17117747:
+    template: Iron_Bomb
+    at:       [-205.498, -40.500, -288.548, 169]
+    level:    [60, 60]
+
+  17117748:
+    template: Iron_Bomb
+    at:       [-205.498, -40.500, -288.548, 173]
+    level:    [60, 60]
+
+  17117749:
+    template: Confederate_Belfry
+    at:       [-132.921, -39.990, -319.858, 198]
+    level:    [75, 80]
+
+  17117750:
+    template: Orcish_Strongarm
+    at:       [-195.621, -40.500, -275.301, 10]
+    level:    [75, 80]
+
+  17117751:
+    template: Orcish_Strongarm
+    at:       [-195.750, -40.500, -275.279, 9]
+    level:    [75, 80]
+
+  17117752:
+    template: Orcish_Strongarm
+    at:       [-196.313, -40.500, -275.081, 10]
+    level:    [75, 80]
+
+  17117753:
+    template: Orcish_Strongarm
+    at:       [-196.097, -40.500, -275.076, 11]
+    level:    [75, 80]
+
+  17117754:
+    template: Orcish_Strongarm
+    at:       [-128.001, -39.434, -290.577, 207]
+    level:    [75, 80]
+
+  17117755:
+    template: Orcish_Strongarm
+    at:       [-195.267, -40.500, -274.626, 21]
+    level:    [75, 80]
+
+  17117756:
+    template: Orcish_Turret
+    at:       [-201.001, -39.918, -300.533, 174]
+    level:    [60, 60]
+
+  17117757:
+    template: War_Smilodon
+    at:       [-215.915, -40.009, -288.357, 119]
+    level:    [60, 60]
+
+  17117758:
+    template: War_Smilodon
+    at:       [-185.252, -40.156, -287.435, 253]
+    level:    [60, 60]
+
+  17117759:
+    template: War_Smilodon
+    at:       [-202.975, -40.357, -293.142, 124]
+    level:    [60, 60]
+
+  17117760:
+    template: War_Smilodon
+    at:       [-211.667, -38.646, -304.842, 250]
+    level:    [60, 60]
+
+  17117761:
+    template: War_Smilodon
+    at:       [-196.805, -40.000, -298.189, 54]
+    level:    [60, 60]
+
+  17117762:
+    template: War_Smilodon
+    at:       [-221.670, -38.665, -293.432, 86]
+    level:    [60, 60]
+
+  17117763:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17117764:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17117765:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17117766:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17117767:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17117768:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17117769:
+    template: Shadowhorn
+    at:       [-209.478, -40.500, -290.031, 145]
+    level:    [60, 60]
+
+  17117770:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 98]
+    level:    [60, 60]
+
+  17117771:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 22]
+    level:    [60, 60]
+
+  17117772:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 21]
+    level:    [60, 60]
+
+  17117773:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 15]
+    level:    [60, 60]
+
+  17117774:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 131]
+    level:    [60, 60]
+
+  17117775:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 132]
+    level:    [60, 60]
+
+  17117776:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 99]
+    level:    [60, 60]
+
+  17117777:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 207]
+    level:    [60, 60]
+
+  17117778:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 218]
+    level:    [60, 60]
+
+  17117779:
+    template: Shadowhand
+    at:       [-171.753, -41.880, -279.385, 109]
+    level:    [60, 60]
+
+  17117780:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 68]
+    level:    [60, 60]
+
+  17117781:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 134]
+    level:    [60, 60]
+
+  17117782:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 237]
+    level:    [60, 60]
+
+  17117783:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 179]
+    level:    [60, 60]
+
+  17117784:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 106]
+    level:    [60, 60]
+
+  17117785:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 141]
+    level:    [60, 60]
+
+  17117786:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 240]
+    level:    [60, 60]
+
+  17117787:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 143]
+    level:    [60, 60]
+
+  17117788:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 94]
+    level:    [60, 60]
+
+  17117789:
+    template: Shadowfang
+    at:       [-204.152, -40.401, -292.789, 254]
+    level:    [60, 60]
+
+  17117790:
+    template: Shadowfang_Void
+    at:       [-187.250, -40.413, -280.136, 1]
+    level:    [60, 60]
+
+  17117791:
+    template: Shadowfang_Void
+    at:       [-213.572, -40.303, -269.903, 239]
+    level:    [60, 60]
+
+  17117792:
+    template: Shadowfang_Void
+    at:       [-192.616, -40.500, -287.920, 241]
+    level:    [60, 60]
+
+  17117793:
+    template: Shadowfang_Void
+    at:       [-189.960, -40.500, -287.136, 252]
+    level:    [60, 60]
+
+  17117794:
+    template: Shadowfang_Void
+    at:       [-208.870, -40.500, -269.921, 203]
+    level:    [60, 60]
+
+  17117795:
+    template: Shadowfang_Void
+    at:       [-78.991, -48.511, -282.041, 119]
+    level:    [60, 60]
+
+  17117796:
+    template: Shadowfang_Void
+    at:       [-177.739, -39.778, -273.360, 166]
+    level:    [60, 60]
+
+  17117797:
+    template: Shadowfang_Void
+    at:       [-186.489, -40.311, -284.824, 15]
+    level:    [60, 60]
+
+  17117798:
+    template: Shadowfang_Void
+    at:       [-194.594, -40.500, -288.029, 210]
+    level:    [60, 60]
+
+  17117799:
+    template: Shadoweye
+    at:       [-159.234, -41.880, -279.372, 131]
+    level:    [1, 1]
+
+  17117800:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 131]
+    level:    [1, 1]
+
+  17117801:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 223]
+    level:    [1, 1]
+
+  17117802:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 228]
+    level:    [1, 1]
+
+  17117803:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 187]
+    level:    [1, 1]
+
+  17117804:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 23]
+    level:    [1, 1]
+
+  17117805:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 111]
+    level:    [1, 1]
+
+  17117806:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 1]
+    level:    [1, 1]
+
+  17117807:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 21]
+    level:    [1, 1]
+
+  17117808:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 11]
+    level:    [1, 1]
+
+  17117809:
+    template: Fortification
+    at:       [-205.498, -40.500, -288.548, 0]
+    level:    [1, 1]
+
+  17117810:
+    template: Fortification
+    at:       [-209.195, -40.500, -271.150, 0]
+    level:    [1, 1]
+
+  17117811:
+    template: Fortification
+    at:       [-199.335, -40.500, -273.166, 0]
+    level:    [1, 1]
+
+  17117812:
+    template: Fortification
+    at:       [-213.982, -40.352, -279.379, 0]
+    level:    [1, 1]
+
+  17117813:
+    template: Rikoh_Wahcondalo
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117814:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117815:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117816:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117817:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117818:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117819:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117820:
+    template: Dalzakk
+    at:       [0.000, 0.000, 0.000, 166]
+    level:    [1, 1]
+
+  17117821:
+    template: Oggbi
+    at:       [0.000, 0.000, 0.000, 253]
+    level:    [1, 1]
+
+  17117822:
+    template: Rainemard
+    at:       [0.000, 0.000, 0.000, 117]
+    level:    [1, 1]
+
+  17117823:
+    template: Maat
+    at:       [0.000, 0.000, 0.000, 241]
+    level:    [1, 1]
+
+  17117824:
+    template: Degenhard
+    at:       [-149.744, -41.880, -279.996, 232]
+    level:    [1, 1]
+
+  17117825:
+    template: Azima
+    at:       [-198.932, -40.482, -292.136, 6]
+    level:    [1, 1]
+
+  17117826:
+    template: Choh_Moui
+    at:       [0.000, 0.000, 0.000, 13]
+    level:    [1, 1]
+
+  17117827:
+    template: Chigoe
+    at:       [-123.352, -40.387, -281.911, 82]
+    level:    [75, 78]
+
+  17117828:
+    template: Chigoe
+    at:       [-123.352, -40.387, -281.911, 82]
+    level:    [75, 78]
+
+  17117829:
+    template: Chigoe
+    at:       [-123.352, -40.387, -281.911, 34]
+    level:    [75, 78]
+
+  17117830:
+    template: Chigoe
+    at:       [-123.352, -40.387, -281.911, 82]
+    level:    [75, 78]
+
+  17117831:
+    template: Chigoe
+    at:       [-123.352, -40.387, -281.911, 34]
+    level:    [75, 78]
+
+  17117832:
+    template: Chigoe
+    at:       [-123.352, -40.387, -281.911, 19]
+    level:    [75, 78]
+
+  17117833:
+    template: Chigoe
+    at:       [-123.352, -40.387, -281.911, 82]
+    level:    [75, 78]
+
+  17117834:
+    template: Chigoe
+    at:       [-123.352, -40.387, -281.911, 82]
+    level:    [75, 78]
+
+  17117835:
+    template: Azo
+    at:       [0.000, 0.000, 0.000, 90]
+    level:    [1, 1]
+
+  17117836:
+    template: Vahi
+    at:       [0.000, 0.000, 0.000, 203]
+    level:    [1, 1]
+
+  17117837:
+    template: Rongo-Nango
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117838:
+    template: Lerren
+    at:       [-189.782, -40.431, -285.330, 250]
+    level:    [1, 1]
+
+  17117839:
+    template: Jajaro
+    at:       [-198.419, -40.378, -266.654, 53]
+    level:    [1, 1]
+
+  17117840:
+    template: Popochu
+    at:       [-156.773, -41.543, -278.404, 2]
+    level:    [1, 1]
+
+  17117841:
+    template: Papako
+    at:       [-197.640, -40.499, -269.535, 169]
+    level:    [1, 1]
+
+  17117842:
+    template: Momowa
+    at:       [-183.181, -39.959, -285.729, 162]
+    level:    [75, 80]
+
+  17117843:
+    template: Ulla
+    at:       [0.000, 0.000, 0.000, 117]
+    level:    [60, 60]
+
+  17117844:
+    template: Kilhwch
+    at:       [0.000, 0.000, 0.000, 117]
+    level:    [60, 60]
+
+  17117845:
+    template: Alfons
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17117846:
+    template: Achtelle
+    at:       [0.000, 0.000, 0.000, 128]
+    level:    [1, 1]
+
+  17117847:
+    template: Bravo
+    at:       [-153.131, -41.543, -280.561, 128]
+    level:    [1, 1]
+
+  17117848:
+    template: Duskraven
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117849:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117850:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117851:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117852:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117853:
+    template: Dusk_Raider
+    at:       [-208.668, -40.470, -292.233, 17]
+    level:    [1, 1]
+
+  17117854:
+    template: Areuhat
+    at:       [0.000, 0.000, 0.000, 92]
+    level:    [1, 1]
+
+  17117855:
+    template: Odzmanouk
+    at:       [0.000, 0.000, 0.000, 5]
+    level:    [1, 1]
+
+  17117856:
+    template: Boodlix
+    at:       [-209.402, -40.500, -291.581, 21]
+    level:    [1, 1]
+
+  17117857:
+    template: Goblin_Lansquenet
+    at:       [-201.095, -39.833, -301.637, 136]
+    level:    [1, 1]
+
+  17117858:
+    template: Goblin_Lansquenet
+    at:       [-137.113, -39.200, -247.022, 63]
+    level:    [1, 1]
+
+  17117859:
+    template: Goblin_Lansquenet
+    at:       [-137.134, -39.401, -243.878, 192]
+    level:    [1, 1]
+
+  17117860:
+    template: Titania
+    at:       [-189.831, -40.500, -281.214, 240]
+    level:    [1, 1]
+
+  17117861:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 109]
+    level:    [77, 80]
+
+  17117862:
+    template: Faerie
+    at:       [-187.457, -40.432, -283.973, 208]
+    level:    [77, 80]
+
+  17117863:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 115]
+    level:    [77, 80]
+
+  17117864:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 114]
+    level:    [77, 80]
+
+  17117865:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 226]
+    level:    [77, 80]
+
+  17117866:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 108]
+    level:    [77, 80]
+
+  17117867:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 108]
+    level:    [77, 80]
+
+  17117868:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [77, 80]
+
+  17117869:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [77, 80]
+
+  17117870:
+    template: Babban_Ny_Mheillea
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17117871:
+    template: Abenzio
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117872:
+    template: Bryher
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117873:
+    template: Camlin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17117874:
+    template: Darach
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117875:
+    template: Raigegue_R_dOraguille
+    at:       [0.000, 0.000, 0.000, 222]
+    level:    [0, 0]
+
+  17117876:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 255]
+    level:    [0, 0]
+
+  17117877:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 255]
+    level:    [0, 0]
+
+  17117878:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17117879:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17117880:
+    template: Eurytos
+    at:       [-166.409, -41.880, -279.314, 247]
+    level:    [1, 1]
+
+  17117881:
+    template: Gigas_Mercenary
+    at:       [-211.660, -40.500, -291.427, 141]
+    level:    [1, 1]
+
+  17117882:
+    template: Gigas_Mercenary
+    at:       [-186.426, -40.303, -280.664, 168]
+    level:    [1, 1]
+
+  17117883:
+    template: Poroggo_Prince
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117884:
+    template: Poroggo_Servant
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117885:
+    template: Poroggo_Servant
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117886:
+    template: Poroggo_Servant
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117887:
+    template: Kaiser_Behemoth
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117888:
+    template: Ferreous_Coffin
+    at:       [0.000, 0.000, 0.000, 165]
+    level:    [1, 1]
+
+  17117889:
+    template: Lewenhart
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17117890:
+    template: Auroral_Alicorn
+    at:       [0.000, 0.000, 0.000, 117]
+    level:    [1, 1]
+
+  17117891:
+    template: Gaunab
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [98, 99]
+
+  17117892:
+    template: Gaunab
+    at:       [-154.184, -32.672, 118.197, 206]
+    level:    [98, 99]
+
+  17117893:
+    template: Gaunab
+    at:       [-400.183, -32.500, 520.674, 181]
+    level:    [98, 99]

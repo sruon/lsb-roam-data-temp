@@ -1,0 +1,2573 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17522689:
+    template: Caldera_Crab
+    at:       [-532.000, -0.500, 524.000, 192]
+    level:    [90, 92]
+
+  17522690:
+    template: Caldera_Crab
+    at:       [-520.000, -0.500, 524.000, 192]
+    level:    [90, 92]
+
+  17522691:
+    template: Caldera_Crab
+    at:       [-508.000, -0.500, 524.000, 192]
+    level:    [90, 92]
+
+  17522692:
+    template: Cyanic_Crab
+    at:       [-524.000, 17.500, 700.000, 0]
+    level:    [90, 92]
+
+  17522693:
+    template: Cyanic_Crab
+    at:       [-600.000, -0.500, 604.000, 64]
+    level:    [90, 92]
+
+  17522694:
+    template: Cyanic_Crab
+    at:       [-600.000, -0.500, 596.000, 192]
+    level:    [90, 92]
+
+  17522695:
+    template: Cyanic_Crab
+    at:       [-578.000, -0.500, 572.000, 176]
+    level:    [90, 92]
+
+  17522696:
+    template: Cyanic_Crab
+    at:       [-582.000, -0.500, 572.000, 208]
+    level:    [90, 92]
+
+  17522697:
+    template: Cyanic_Crab
+    at:       [-601.000, -0.500, 564.000, 0]
+    level:    [90, 92]
+
+  17522698:
+    template: Cyanic_Crab
+    at:       [-582.000, 1.250, 646.000, 64]
+    level:    [90, 92]
+
+  17522699:
+    template: Cyanic_Crab
+    at:       [-578.000, 2.750, 649.000, 64]
+    level:    [90, 92]
+
+  17522700:
+    template: Cyanic_Crab
+    at:       [-580.000, 5.250, 654.000, 64]
+    level:    [90, 92]
+
+  17522701:
+    template: Damask_Crab
+    at:       [-596.000, -0.500, 600.000, 128]
+    level:    [90, 92]
+
+  17522702:
+    template: Damask_Crab
+    at:       [-604.000, -0.500, 600.000, 0]
+    level:    [90, 92]
+
+  17522703:
+    template: Damask_Crab
+    at:       [-596.500, -0.500, 607.228, 227]
+    level:    [90, 92]
+
+  17522704:
+    template: Damask_Crab
+    at:       [-587.800, -0.500, 614.445, 222]
+    level:    [90, 92]
+
+  17522705:
+    template: Damask_Crab
+    at:       [-632.000, -0.500, 576.000, 128]
+    level:    [90, 92]
+
+  17522706:
+    template: Damask_Crab
+    at:       [-580.000, -0.500, 576.500, 64]
+    level:    [90, 92]
+
+  17522707:
+    template: Damask_Crab
+    at:       [-593.000, -0.500, 570.976, 220]
+    level:    [90, 92]
+
+  17522708:
+    template: Damask_Crab
+    at:       [-580.000, -0.500, 642.000, 192]
+    level:    [90, 92]
+
+  17522709:
+    template: Damask_Crab
+    at:       [-597.100, -0.500, 559.794, 199]
+    level:    [90, 92]
+
+  17522710:
+    template: Morbid_Molasses
+    at:       [-260.000, -0.500, 548.000, 192]
+    level:    [90, 92]
+
+  17522711:
+    template: Morbid_Molasses
+    at:       [-292.000, -0.500, 580.000, 0]
+    level:    [90, 92]
+
+  17522712:
+    template: Morbid_Molasses
+    at:       [-320.000, -0.500, 520.000, 160]
+    level:    [90, 92]
+
+  17522713:
+    template: Morbid_Molasses
+    at:       [-280.000, 17.500, 720.000, 32]
+    level:    [90, 92]
+
+  17522714:
+    template: Grenade_Syrup
+    at:       [-264.000, -0.500, 552.000, 32]
+    level:    [90, 92]
+
+  17522715:
+    template: Grenade_Syrup
+    at:       [-256.000, -0.500, 552.000, 96]
+    level:    [90, 92]
+
+  17522716:
+    template: Grenade_Syrup
+    at:       [-256.000, -0.500, 544.000, 160]
+    level:    [90, 92]
+
+  17522717:
+    template: Grenade_Syrup
+    at:       [-264.000, -0.500, 544.000, 224]
+    level:    [90, 92]
+
+  17522718:
+    template: Grenade_Syrup
+    at:       [-288.000, -0.500, 584.500, 128]
+    level:    [90, 92]
+
+  17522719:
+    template: Grenade_Syrup
+    at:       [-288.000, -0.500, 581.500, 128]
+    level:    [90, 92]
+
+  17522720:
+    template: Grenade_Syrup
+    at:       [-288.000, -0.500, 578.500, 128]
+    level:    [90, 92]
+
+  17522721:
+    template: Grenade_Syrup
+    at:       [-288.000, -0.500, 575.500, 128]
+    level:    [90, 92]
+
+  17522722:
+    template: Grenade_Syrup
+    at:       [-322.000, -0.500, 526.500, 128]
+    level:    [90, 92]
+
+  17522723:
+    template: Grenade_Syrup
+    at:       [-322.000, -0.500, 524.000, 128]
+    level:    [90, 92]
+
+  17522724:
+    template: Grenade_Syrup
+    at:       [-324.000, -0.500, 522.000, 192]
+    level:    [90, 92]
+
+  17522725:
+    template: Grenade_Syrup
+    at:       [-326.000, -0.500, 522.000, 192]
+    level:    [90, 92]
+
+  17522726:
+    template: Grenade_Syrup
+    at:       [-280.000, 17.500, 728.000, 32]
+    level:    [90, 92]
+
+  17522727:
+    template: Grenade_Syrup
+    at:       [-272.000, 17.500, 720.000, 32]
+    level:    [90, 92]
+
+  17522728:
+    template: Grenade_Syrup
+    at:       [-280.000, 17.500, 712.000, 32]
+    level:    [90, 92]
+
+  17522729:
+    template: Grenade_Syrup
+    at:       [-288.000, 17.500, 720.000, 32]
+    level:    [90, 92]
+
+  17522730:
+    template: Berry_Syrup
+    at:       [-261.000, -0.500, 548.500, 67]
+    level:    [90, 92]
+
+  17522731:
+    template: Berry_Syrup
+    at:       [-291.100, -0.500, 581.000, 67]
+    level:    [90, 92]
+
+  17522732:
+    template: Berry_Syrup
+    at:       [-319.200, -0.500, 519.700, 67]
+    level:    [90, 92]
+
+  17522733:
+    template: Berry_Syrup
+    at:       [-277.119, 17.500, 714.572, 67]
+    level:    [90, 92]
+
+  17522734:
+    template: Myrmeleontide
+    level:    [90, 92]
+    region:   walk_of_echoes_ne
+
+  17522735:
+    template: Myrmeleontide
+    level:    [90, 92]
+    region:   walk_of_echoes_ne
+
+  17522736:
+    template: Myrmeleontide
+    level:    [90, 92]
+    region:   walk_of_echoes_ne
+
+  17522737:
+    template: Anthracite_Antlion
+    level:    [90, 92]
+    region:   walk_of_echoes_ne
+
+  17522738:
+    template: Anthracite_Antlion
+    level:    [90, 92]
+    region:   walk_of_echoes_ne
+
+  17522739:
+    template: Anthracite_Antlion
+    level:    [90, 92]
+    region:   walk_of_echoes_ne
+
+  17522740:
+    template: Anthracite_Antlion
+    level:    [90, 92]
+    region:   walk_of_echoes_ne
+
+  17522741:
+    template: Anthracite_Antlion
+    level:    [90, 92]
+    region:   walk_of_echoes_ne
+
+  17522742:
+    template: Anthracite_Antlion
+    level:    [90, 92]
+    region:   walk_of_echoes_ne
+
+  17522743:
+    template: Anthracite_Antlion
+    level:    [90, 92]
+    region:   walk_of_echoes_ne
+
+  17522744:
+    template: Anthracite_Antlion
+    level:    [90, 92]
+    region:   walk_of_echoes_ne
+
+  17522745:
+    template: Albino_Antlion
+    level:    [90, 92]
+    region:   walk_of_echoes_ne
+
+  17522746:
+    template: Albino_Antlion
+    level:    [90, 92]
+    region:   walk_of_echoes_ne
+
+  17522747:
+    template: Albino_Antlion
+    level:    [90, 92]
+    region:   walk_of_echoes_ne
+
+  17522748:
+    template: Albino_Antlion
+    level:    [90, 92]
+    region:   walk_of_echoes_ne
+
+  17522749:
+    template: Albino_Antlion
+    level:    [90, 92]
+    region:   walk_of_echoes_ne
+
+  17522750:
+    template: Albino_Antlion
+    level:    [90, 92]
+    region:   walk_of_echoes_ne
+
+  17522751:
+    template: Albino_Antlion
+    level:    [90, 92]
+    region:   walk_of_echoes_ne
+
+  17522752:
+    template: Albino_Antlion
+    level:    [90, 92]
+    region:   walk_of_echoes_ne
+
+  17522753:
+    template: Harpimaira
+    at:       [567.680, -0.500, 522.351, 124]
+    level:    [90, 92]
+
+  17522754:
+    template: Harpimaira
+    at:       [720.000, 35.500, 728.000, 64]
+    level:    [90, 92]
+
+  17522755:
+    template: Harpimaira
+    at:       [668.000, 17.500, 572.000, 64]
+    level:    [90, 92]
+
+  17522756:
+    template: Harpimaira
+    at:       [695.160, 17.500, 575.080, 111]
+    level:    [90, 92]
+
+  17522757:
+    template: Harpimaira
+    at:       [707.650, 17.500, 606.596, 70]
+    level:    [90, 92]
+
+  17522758:
+    template: Natrix
+    at:       [-660.800, 17.500, 259.503, 217]
+    level:    [90, 92]
+
+  17522759:
+    template: Saltopus
+    level:    [90, 92]
+    region:   walk_of_echoes_w
+
+  17522760:
+    template: Saltopus
+    level:    [90, 92]
+    region:   walk_of_echoes_w
+
+  17522761:
+    template: Saltopus
+    level:    [90, 92]
+    region:   walk_of_echoes_w
+
+  17522762:
+    template: Saltopus
+    level:    [90, 92]
+    region:   walk_of_echoes_w
+
+  17522763:
+    template: Saltopus
+    level:    [90, 92]
+    region:   walk_of_echoes_w
+
+  17522764:
+    template: Saltopus
+    level:    [90, 92]
+    region:   walk_of_echoes_w
+
+  17522765:
+    template: Saltopus
+    level:    [90, 92]
+    region:   walk_of_echoes_w
+
+  17522766:
+    template: Saltopus
+    level:    [90, 92]
+    region:   walk_of_echoes_w
+
+  17522767:
+    template: Jebutoise
+    at:       [-332.000, 23.500, 148.000, 224]
+    level:    [90, 92]
+
+  17522768:
+    template: Jebutoise
+    at:       [-219.300, 5.506, 261.308, 219]
+    level:    [90, 92]
+
+  17522769:
+    template: Begrimed_Bale
+    at:       [-324.000, 23.500, 172.000, 0]
+    level:    [90, 92]
+
+  17522770:
+    template: Begrimed_Bale
+    at:       [-308.000, 23.500, 156.000, 192]
+    level:    [90, 92]
+
+  17522771:
+    template: Begrimed_Bale
+    at:       [-200.000, 23.500, 172.000, 128]
+    level:    [90, 92]
+
+  17522772:
+    template: Begrimed_Bale
+    at:       [-220.400, 23.500, 180.326, 187]
+    level:    [90, 92]
+
+  17522773:
+    template: Begrimed_Bale
+    at:       [-214.400, 5.425, 273.657, 56]
+    level:    [90, 92]
+
+  17522774:
+    template: Begrimed_Bale
+    at:       [-320.000, 5.500, 268.000, 192]
+    level:    [90, 92]
+
+  17522775:
+    template: Begrimed_Bale
+    at:       [-189.000, 5.818, 296.365, 180]
+    level:    [90, 92]
+
+  17522776:
+    template: Begrimed_Bale
+    at:       [-200.000, 5.218, 268.000, 192]
+    level:    [90, 92]
+
+  17522777:
+    template: Bedraggled_Bale
+    at:       [-213.100, 5.412, 275.417, 56]
+    level:    [90, 92]
+
+  17522778:
+    template: Bedraggled_Bale
+    at:       [-299.200, 5.500, 240.091, 64]
+    level:    [90, 92]
+
+  17522779:
+    template: Bedraggled_Bale
+    at:       [-188.000, 5.500, 280.000, 128]
+    level:    [90, 92]
+
+  17522780:
+    template: Bedraggled_Bale
+    at:       [-212.000, 5.500, 280.000, 0]
+    level:    [90, 92]
+
+  17522781:
+    template: Bedraggled_Bale
+    at:       [-292.800, -0.500, 329.856, 171]
+    level:    [90, 92]
+
+  17522782:
+    template: Bedraggled_Bale
+    at:       [-284.000, -0.500, 304.000, 160]
+    level:    [90, 92]
+
+  17522783:
+    template: Bedraggled_Bale
+    at:       [-224.000, -0.500, 316.000, 96]
+    level:    [90, 92]
+
+  17522784:
+    template: Bedraggled_Bale
+    at:       [-236.000, -0.500, 304.000, 224]
+    level:    [90, 92]
+
+  17522785:
+    template: Canis_Dirus
+    at:       [152.000, 59.500, 168.000, 64]
+    level:    [90, 92]
+
+  17522786:
+    template: Canis_Dirus
+    at:       [328.000, -0.500, 312.000, 64]
+    level:    [90, 92]
+
+  17522787:
+    template: Pardus
+    level:    [90, 92]
+    region:   walk_of_echoes_c_7
+
+  17522788:
+    template: Pardus
+    level:    [90, 92]
+    region:   walk_of_echoes_c_7
+
+  17522789:
+    template: Pardus
+    level:    [90, 92]
+    region:   walk_of_echoes_c_7
+
+  17522790:
+    template: Pardus
+    level:    [90, 92]
+    region:   walk_of_echoes_c_7
+
+  17522791:
+    template: Pardus
+    level:    [90, 92]
+    region:   walk_of_echoes_c_7
+
+  17522792:
+    template: Pardus
+    level:    [90, 92]
+    region:   walk_of_echoes_n_2
+
+  17522793:
+    template: Pardus
+    level:    [90, 92]
+    region:   walk_of_echoes_c_7
+
+  17522794:
+    template: Pardus
+    level:    [90, 92]
+    region:   walk_of_echoes_c_7
+
+  17522795:
+    template: Pardus
+    level:    [90, 92]
+    region:   walk_of_echoes_c_7
+
+  17522796:
+    template: Anguis
+    at:       [32.000, 594.000, -0.500, 226]
+    level:    [90, 92]
+
+  17522797:
+    template: Varanus
+    at:       [592.430, -0.500, 323.756, 244]
+    level:    [90, 92]
+
+  17522798:
+    template: Varanus
+    at:       [649.790, 3.250, 300.035, 251]
+    level:    [90, 92]
+
+  17522799:
+    template: Varanus
+    at:       [730.860, 17.500, 278.648, 39]
+    level:    [90, 92]
+
+  17522800:
+    template: Anhanguera
+    at:       [-204.000, -0.500, -196.000, 224]
+    level:    [90, 92]
+
+  17522801:
+    template: Pteranodon
+    level:    [90, 92]
+    region:   walk_of_echoes_c
+
+  17522802:
+    template: Pteranodon
+    level:    [90, 92]
+    region:   walk_of_echoes_c_2
+
+  17522803:
+    template: Pteranodon
+    level:    [90, 92]
+    region:   walk_of_echoes_c_3
+
+  17522804:
+    template: Pteranodon
+    at:       [-75.790, 11.500, -211.980, 22]
+    level:    [90, 92]
+
+  17522805:
+    template: Pteranodon
+    level:    [90, 92]
+    region:   walk_of_echoes_c_4
+
+  17522806:
+    template: Annihilative_Adenium
+    level:    [90, 92]
+    region:   walk_of_echoes_se
+
+  17522807:
+    template: Annihilative_Adenium
+    level:    [90, 92]
+    region:   walk_of_echoes_se
+
+  17522808:
+    template: Annihilative_Adenium
+    level:    [90, 92]
+    region:   walk_of_echoes_se
+
+  17522809:
+    template: Pernicious_Pachypodium
+    level:    [90, 92]
+    region:   walk_of_echoes_se
+
+  17522810:
+    template: Pernicious_Pachypodium
+    level:    [90, 92]
+    region:   walk_of_echoes_se
+
+  17522811:
+    template: Pernicious_Pachypodium
+    level:    [90, 92]
+    region:   walk_of_echoes_se
+
+  17522812:
+    template: Pernicious_Pachypodium
+    level:    [90, 92]
+    region:   walk_of_echoes_se
+
+  17522813:
+    template: Pernicious_Pachypodium
+    level:    [90, 92]
+    region:   walk_of_echoes_se
+
+  17522814:
+    template: Pernicious_Pachypodium
+    level:    [90, 92]
+    region:   walk_of_echoes_se
+
+  17522815:
+    template: Lunatic_Lycopodium
+    level:    [90, 92]
+    region:   walk_of_echoes_se
+
+  17522816:
+    template: Lunatic_Lycopodium
+    level:    [90, 92]
+    region:   walk_of_echoes_se
+
+  17522817:
+    template: Lunatic_Lycopodium
+    level:    [90, 92]
+    region:   walk_of_echoes_se
+
+  17522818:
+    template: Lunatic_Lycopodium
+    level:    [90, 92]
+    region:   walk_of_echoes_se
+
+  17522819:
+    template: Lunatic_Lycopodium
+    level:    [90, 92]
+    region:   walk_of_echoes_se
+
+  17522820:
+    template: Lunatic_Lycopodium
+    level:    [90, 92]
+    region:   walk_of_echoes_se
+
+  17522821:
+    template: Killer_Korrigan
+    level:    [90, 92]
+    region:   walk_of_echoes_se
+
+  17522822:
+    template: Killer_Korrigan
+    level:    [90, 92]
+    region:   walk_of_echoes_se
+
+  17522823:
+    template: Killer_Korrigan
+    level:    [90, 92]
+    region:   walk_of_echoes_se
+
+  17522824:
+    template: Killer_Korrigan
+    level:    [90, 92]
+    region:   walk_of_echoes_se
+
+  17522825:
+    template: Killer_Korrigan
+    level:    [90, 92]
+    region:   walk_of_echoes_se
+
+  17522826:
+    template: Killer_Korrigan
+    level:    [90, 92]
+    region:   walk_of_echoes_se
+
+  17522827:
+    template: Murderous_Mandragora
+    level:    [90, 92]
+    region:   walk_of_echoes_se
+
+  17522828:
+    template: Murderous_Mandragora
+    level:    [90, 92]
+    region:   walk_of_echoes_se
+
+  17522829:
+    template: Murderous_Mandragora
+    level:    [90, 92]
+    region:   walk_of_echoes_se
+
+  17522830:
+    template: Murderous_Mandragora
+    level:    [90, 92]
+    region:   walk_of_echoes_se
+
+  17522831:
+    template: Murderous_Mandragora
+    level:    [90, 92]
+    region:   walk_of_echoes_se
+
+  17522832:
+    template: Murderous_Mandragora
+    level:    [90, 92]
+    region:   walk_of_echoes_se
+
+  17522833:
+    template: Tapana
+    at:       [657.170, 35.499, -172.940, 224]
+    level:    [90, 92]
+
+  17522834:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_5
+
+  17522835:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_5
+
+  17522836:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_5
+
+  17522837:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_5
+
+  17522838:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_5
+
+  17522839:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_6
+
+  17522840:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_6
+
+  17522841:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_6
+
+  17522842:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_6
+
+  17522843:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_6
+
+  17522844:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_7
+
+  17522845:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_7
+
+  17522846:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_7
+
+  17522847:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_8
+
+  17522848:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_8
+
+  17522849:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_8
+
+  17522850:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_8
+
+  17522851:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_9
+
+  17522852:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_9
+
+  17522853:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_9
+
+  17522854:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_9
+
+  17522855:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_se_6
+
+  17522856:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_se_6
+
+  17522857:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_se_6
+
+  17522858:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_se_6
+
+  17522859:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_10
+
+  17522860:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_10
+
+  17522861:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_10
+
+  17522862:
+    template: Ironclad_Harbinger
+    level:    [90, 92]
+    region:   walk_of_echoes_sw_6
+
+  17522863:
+    template: Ironclad_Vaporizer
+    level:    [90, 92]
+    region:   walk_of_echoes_sw_6
+
+  17522864:
+    template: Iron_Cranium
+    level:    [90, 92]
+    region:   walk_of_echoes_sw_8
+
+  17522865:
+    template: Iron_Cranium
+    level:    [90, 92]
+    region:   walk_of_echoes_sw_2
+
+  17522866:
+    template: Iron_Cranium
+    level:    [90, 92]
+    region:   walk_of_echoes_sw_4
+
+  17522867:
+    template: Iron_Cranium
+    at:       [-560.000, 5.499, -700.000, 96]
+    level:    [90, 92]
+
+  17522868:
+    template: Iron_Cranium
+    level:    [90, 92]
+    region:   walk_of_echoes_sw_5
+
+  17522869:
+    template: Iron_Cranium
+    at:       [-540.000, 2.499, -660.000, 0]
+    level:    [90, 92]
+
+  17522870:
+    template: Iron_Cranium
+    at:       [-530.000, -0.500, -630.000, 32]
+    level:    [90, 92]
+
+  17522871:
+    template: Iron_Cranium
+    level:    [90, 92]
+    region:   walk_of_echoes_sw_7
+
+  17522872:
+    template: Iron_Cranium
+    at:       [-622.500, 5.965, -644.170, 200]
+    level:    [90, 92]
+
+  17522873:
+    template: Iron_Cranium
+    at:       [-620.100, 5.791, -644.970, 163]
+    level:    [90, 92]
+
+  17522874:
+    template: Iron_Cranium
+    at:       [-560.000, 5.499, -660.000, 96]
+    level:    [90, 92]
+
+  17522875:
+    template: Iron_Cranium
+    at:       [-600.000, 5.499, -700.000, 64]
+    level:    [90, 92]
+
+  17522876:
+    template: Iron_Cranium
+    at:       [-550.000, 5.499, -690.000, 96]
+    level:    [90, 92]
+
+  17522877:
+    template: Iron_Cranium
+    at:       [-530.000, -0.500, -650.000, 160]
+    level:    [90, 92]
+
+  17522878:
+    template: Iron_Cranium
+    at:       [-620.300, 5.761, -644.780, 127]
+    level:    [90, 92]
+
+  17522879:
+    template: Iron_Cranium
+    level:    [90, 92]
+    region:   walk_of_echoes_sw
+
+  17522880:
+    template: Ligeia
+    level:    [90, 92]
+    region:   walk_of_echoes_s
+
+  17522881:
+    template: Leucosia
+    level:    [90, 92]
+    region:   walk_of_echoes_s
+
+  17522882:
+    template: Raidne
+    level:    [90, 92]
+    region:   walk_of_echoes_s
+
+  17522883:
+    template: Sanguine_Sapsucker
+    level:    [90, 92]
+    region:   walk_of_echoes_sw_10
+
+  17522884:
+    template: Sanguine_Sapsucker
+    level:    [90, 92]
+    region:   walk_of_echoes_sw_10
+
+  17522885:
+    template: Sanguine_Sapsucker
+    at:       [-107.100, -0.500, -476.850, 198]
+    level:    [90, 92]
+
+  17522886:
+    template: Sanguine_Sapsucker
+    at:       [-114.500, -0.500, -484.380, 173]
+    level:    [90, 92]
+
+  17522887:
+    template: Sanguine_Sapsucker
+    at:       [-118.100, -0.500, -562.570, 244]
+    level:    [90, 92]
+
+  17522888:
+    template: Sanguine_Sapsucker
+    at:       [-113.900, -0.500, -553.370, 99]
+    level:    [90, 92]
+
+  17522889:
+    template: Sanguine_Sapsucker
+    level:    [90, 92]
+    region:   walk_of_echoes_s_3
+
+  17522890:
+    template: Sanguine_Sapsucker
+    level:    [90, 92]
+    region:   walk_of_echoes_s_3
+
+  17522891:
+    template: Malicious_Magpie
+    level:    [90, 92]
+    region:   walk_of_echoes_s_4
+
+  17522892:
+    template: Malicious_Magpie
+    level:    [90, 92]
+    region:   walk_of_echoes_s_4
+
+  17522893:
+    template: Malicious_Magpie
+    level:    [90, 92]
+    region:   walk_of_echoes_s_2
+
+  17522894:
+    template: Malicious_Magpie
+    level:    [90, 92]
+    region:   walk_of_echoes_s_2
+
+  17522895:
+    template: Malicious_Magpie
+    level:    [90, 92]
+    region:   walk_of_echoes_sw_9
+
+  17522896:
+    template: Malicious_Magpie
+    level:    [90, 92]
+    region:   walk_of_echoes_sw_9
+
+  17522897:
+    template: Malicious_Magpie
+    at:       [-131.300, -0.500, -638.650, 154]
+    level:    [90, 92]
+
+  17522898:
+    template: Malicious_Magpie
+    at:       [-127.600, -0.500, -629.030, 129]
+    level:    [90, 92]
+
+  17522899:
+    template: Barra_Edinazu
+    at:       [592.000, -0.500, -552.000, 32]
+    level:    [90, 92]
+
+  17522900:
+    template: Barra_Edinazu
+    at:       [762.965, 71.500, -556.027, 66]
+    level:    [90, 92]
+
+  17522901:
+    template: Coeurl_Mystic
+    level:    [90, 92]
+    region:   walk_of_echoes_se_9
+
+  17522902:
+    template: Coeurl_Mystic
+    level:    [90, 92]
+    region:   walk_of_echoes_se_12
+
+  17522903:
+    template: Coeurl_Mystic
+    level:    [90, 92]
+    region:   walk_of_echoes_se_10
+
+  17522904:
+    template: Coeurl_Mystic
+    level:    [90, 92]
+    region:   walk_of_echoes_se_14
+
+  17522905:
+    template: Coeurl_Prentice
+    level:    [90, 92]
+    region:   walk_of_echoes_se_11
+
+  17522906:
+    template: Coeurl_Prentice
+    level:    [90, 92]
+    region:   walk_of_echoes_se_9
+
+  17522907:
+    template: Coeurl_Prentice
+    level:    [90, 92]
+    region:   walk_of_echoes_se_10
+
+  17522908:
+    template: Coeurl_Prentice
+    level:    [90, 92]
+    region:   walk_of_echoes_se_8
+
+  17522909:
+    template: Coeurl_Prentice
+    level:    [90, 92]
+    region:   walk_of_echoes_se_8
+
+  17522910:
+    template: Coeurl_Prentice
+    level:    [90, 92]
+    region:   walk_of_echoes_se_7
+
+  17522911:
+    template: Coeurl_Tiro
+    level:    [90, 92]
+    region:   walk_of_echoes_se_13
+
+  17522912:
+    template: Coeurl_Tiro
+    level:    [90, 92]
+    region:   walk_of_echoes_se_12
+
+  17522913:
+    template: Coeurl_Tiro
+    level:    [90, 92]
+    region:   walk_of_echoes_se_14
+
+  17522914:
+    template: Coeurl_Tiro
+    level:    [90, 92]
+    region:   walk_of_echoes_se_15
+
+  17522915:
+    template: Coeurl_Tiro
+    level:    [90, 92]
+    region:   walk_of_echoes_se_15
+
+  17522916:
+    template: Coeurl_Tiro
+    at:       [742.239, 71.500, -580.594, 61]
+    level:    [90, 92]
+
+  17522917:
+    template: Mingyi
+    at:       [416.000, 17.500, -640.000, 128]
+    level:    [90, 92]
+
+  17522918:
+    template: Sitke
+    at:       [312.000, -0.500, -660.000, 128]
+    level:    [90, 92]
+
+  17522919:
+    template: Sin
+    at:       [280.000, -0.500, -616.000, 64]
+    level:    [90, 92]
+
+  17522920:
+    template: Myin
+    at:       [296.000, 0.500, -600.000, 0]
+    level:    [90, 92]
+
+  17522921:
+    template: Yahhta
+    at:       [262.930, -0.500, -584.680, 192]
+    level:    [90, 92]
+
+  17522922:
+    template: Ne
+    at:       [280.000, -0.500, -584.000, 192]
+    level:    [90, 92]
+
+  17522923:
+    template: Scorched_Yanthu
+    level:    [90, 92]
+    region:   walk_of_echoes_se_3
+
+  17522924:
+    template: Scorched_Yanthu
+    level:    [90, 92]
+    region:   walk_of_echoes_se_3
+
+  17522925:
+    template: Scorched_Yanthu
+    level:    [90, 92]
+    region:   walk_of_echoes_se_3
+
+  17522926:
+    template: Glaciated_Yanthu
+    level:    [90, 92]
+    region:   walk_of_echoes_s_7
+
+  17522927:
+    template: Glaciated_Yanthu
+    level:    [90, 92]
+    region:   walk_of_echoes_s_7
+
+  17522928:
+    template: Glaciated_Yanthu
+    at:       [233.950, -0.500, -587.980, 0]
+    level:    [90, 92]
+
+  17522929:
+    template: Electrified_Yanthu
+    at:       [272.250, -0.500, -546.720, 242]
+    level:    [90, 92]
+
+  17522930:
+    template: Electrified_Yanthu
+    level:    [90, 92]
+    region:   walk_of_echoes_se_4
+
+  17522931:
+    template: Electrified_Yanthu
+    level:    [90, 92]
+    region:   walk_of_echoes_se_4
+
+  17522932:
+    template: Entombed_Yanthu
+    level:    [90, 92]
+    region:   walk_of_echoes_se_2
+
+  17522933:
+    template: Entombed_Yanthu
+    level:    [90, 92]
+    region:   walk_of_echoes_se_2
+
+  17522934:
+    template: Entombed_Yanthu
+    at:       [267.980, -0.500, -628.020, 159]
+    level:    [90, 92]
+
+  17522935:
+    template: Caldera_Crab
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522936:
+    template: Caldera_Crab
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522937:
+    template: Caldera_Crab
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522938:
+    template: Cyanic_Crab
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522939:
+    template: Cyanic_Crab
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522940:
+    template: Cyanic_Crab
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522941:
+    template: Cyanic_Crab
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522942:
+    template: Cyanic_Crab
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522943:
+    template: Cyanic_Crab
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522944:
+    template: Cyanic_Crab
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522945:
+    template: Cyanic_Crab
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522946:
+    template: Cyanic_Crab
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522947:
+    template: Damask_Crab
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522948:
+    template: Damask_Crab
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522949:
+    template: Damask_Crab
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522950:
+    template: Damask_Crab
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522951:
+    template: Damask_Crab
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522952:
+    template: Damask_Crab
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522953:
+    template: Damask_Crab
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522954:
+    template: Damask_Crab
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522955:
+    template: Damask_Crab
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522956:
+    template: Morbid_Molasses
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522957:
+    template: Morbid_Molasses
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522958:
+    template: Morbid_Molasses
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522959:
+    template: Morbid_Molasses
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522960:
+    template: Grenade_Syrup
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522961:
+    template: Grenade_Syrup
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522962:
+    template: Grenade_Syrup
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522963:
+    template: Grenade_Syrup
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522964:
+    template: Grenade_Syrup
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522965:
+    template: Grenade_Syrup
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522966:
+    template: Grenade_Syrup
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522967:
+    template: Grenade_Syrup
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522968:
+    template: Grenade_Syrup
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522969:
+    template: Grenade_Syrup
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522970:
+    template: Grenade_Syrup
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522971:
+    template: Grenade_Syrup
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522972:
+    template: Grenade_Syrup
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522973:
+    template: Grenade_Syrup
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522974:
+    template: Grenade_Syrup
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522975:
+    template: Grenade_Syrup
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522976:
+    template: Berry_Syrup
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522977:
+    template: Berry_Syrup
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522978:
+    template: Berry_Syrup
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522979:
+    template: Berry_Syrup
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17522980:
+    template: Myrmeleontide
+    level:    [90, 92]
+    region:   walk_of_echoes_ne_4
+
+  17522981:
+    template: Myrmeleontide
+    level:    [90, 92]
+    region:   walk_of_echoes_ne_16
+
+  17522982:
+    template: Myrmeleontide
+    level:    [90, 92]
+    region:   walk_of_echoes_ne_6
+
+  17522983:
+    template: Anthracite_Antlion
+    level:    [90, 92]
+    region:   walk_of_echoes_n
+
+  17522984:
+    template: Anthracite_Antlion
+    level:    [90, 92]
+    region:   walk_of_echoes_ne_5
+
+  17522985:
+    template: Anthracite_Antlion
+    level:    [90, 92]
+    region:   walk_of_echoes_n_4
+
+  17522986:
+    template: Anthracite_Antlion
+    level:    [90, 92]
+    region:   walk_of_echoes_ne_14
+
+  17522987:
+    template: Anthracite_Antlion
+    level:    [90, 92]
+    region:   walk_of_echoes_ne_10
+
+  17522988:
+    template: Anthracite_Antlion
+    level:    [90, 92]
+    region:   walk_of_echoes_ne_11
+
+  17522989:
+    template: Anthracite_Antlion
+    level:    [90, 92]
+    region:   walk_of_echoes_ne_12
+
+  17522990:
+    template: Anthracite_Antlion
+    level:    [90, 92]
+    region:   walk_of_echoes_ne_2
+
+  17522991:
+    template: Albino_Antlion
+    level:    [90, 92]
+    region:   walk_of_echoes_n_5
+
+  17522992:
+    template: Albino_Antlion
+    level:    [90, 92]
+    region:   walk_of_echoes_ne_3
+
+  17522993:
+    template: Albino_Antlion
+    level:    [90, 92]
+    region:   walk_of_echoes_ne_15
+
+  17522994:
+    template: Albino_Antlion
+    level:    [90, 92]
+    region:   walk_of_echoes_ne_7
+
+  17522995:
+    template: Albino_Antlion
+    level:    [90, 92]
+    region:   walk_of_echoes_n_3
+
+  17522996:
+    template: Albino_Antlion
+    level:    [90, 92]
+    region:   walk_of_echoes_ne_9
+
+  17522997:
+    template: Albino_Antlion
+    level:    [90, 92]
+    region:   walk_of_echoes_ne_8
+
+  17522998:
+    template: Albino_Antlion
+    level:    [90, 92]
+    region:   walk_of_echoes_ne_13
+
+  17522999:
+    template: Harpimaira
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523000:
+    template: Harpimaira
+    level:    [90, 92]
+    region:   walk_of_echoes_ne_19
+
+  17523001:
+    template: Harpimaira
+    level:    [90, 92]
+    region:   walk_of_echoes_ne_17
+
+  17523002:
+    template: Harpimaira
+    level:    [90, 92]
+    region:   walk_of_echoes_ne_18
+
+  17523003:
+    template: Harpimaira
+    level:    [90, 92]
+    region:   walk_of_echoes_ne_20
+
+  17523004:
+    template: Natrix
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523005:
+    template: Saltopus
+    level:    [90, 92]
+    region:   walk_of_echoes_w_4
+
+  17523006:
+    template: Saltopus
+    level:    [90, 92]
+    region:   walk_of_echoes_w_3
+
+  17523007:
+    template: Saltopus
+    level:    [90, 92]
+    region:   walk_of_echoes_w
+
+  17523008:
+    template: Saltopus
+    level:    [90, 92]
+    region:   walk_of_echoes_w_2
+
+  17523009:
+    template: Saltopus
+    level:    [90, 92]
+    region:   walk_of_echoes_w_5
+
+  17523010:
+    template: Saltopus
+    level:    [90, 92]
+    region:   walk_of_echoes_w
+
+  17523011:
+    template: Saltopus
+    level:    [90, 92]
+    region:   walk_of_echoes_w
+
+  17523012:
+    template: Saltopus
+    level:    [90, 92]
+    region:   walk_of_echoes_w
+
+  17523013:
+    template: Jebutoise
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523014:
+    template: Jebutoise
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523015:
+    template: Begrimed_Bale
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523016:
+    template: Begrimed_Bale
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523017:
+    template: Begrimed_Bale
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523018:
+    template: Begrimed_Bale
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523019:
+    template: Begrimed_Bale
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523020:
+    template: Begrimed_Bale
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523021:
+    template: Begrimed_Bale
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523022:
+    template: Begrimed_Bale
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523023:
+    template: Bedraggled_Bale
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523024:
+    template: Bedraggled_Bale
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523025:
+    template: Bedraggled_Bale
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523026:
+    template: Bedraggled_Bale
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523027:
+    template: Bedraggled_Bale
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523028:
+    template: Bedraggled_Bale
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523029:
+    template: Bedraggled_Bale
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523030:
+    template: Bedraggled_Bale
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523031:
+    template: Canis_Dirus
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523032:
+    template: Canis_Dirus
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523033:
+    template: Pardus
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523034:
+    template: Pardus
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523035:
+    template: Pardus
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523036:
+    template: Pardus
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523037:
+    template: Pardus
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523038:
+    template: Pardus
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523039:
+    template: Pardus
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523040:
+    template: Pardus
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523041:
+    template: Pardus
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523042:
+    template: Anguis
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523043:
+    template: Varanus
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523044:
+    template: Varanus
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523045:
+    template: Varanus
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17523046:
+    template: Anhanguera
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523047:
+    template: Pteranodon
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523048:
+    template: Pteranodon
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523049:
+    template: Pteranodon
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523050:
+    template: Pteranodon
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523051:
+    template: Pteranodon
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523052:
+    template: Annihilative_Adenium
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523053:
+    template: Annihilative_Adenium
+    level:    [90, 92]
+    region:   walk_of_echoes_se_5
+
+  17523054:
+    template: Annihilative_Adenium
+    level:    [90, 92]
+    region:   walk_of_echoes_c_6
+
+  17523055:
+    template: Pernicious_Pachypodium
+    level:    [90, 92]
+    region:   walk_of_echoes_c_10
+
+  17523056:
+    template: Pernicious_Pachypodium
+    level:    [90, 92]
+    region:   walk_of_echoes_c_17
+
+  17523057:
+    template: Pernicious_Pachypodium
+    level:    [90, 92]
+    region:   walk_of_echoes_s_6
+
+  17523058:
+    template: Pernicious_Pachypodium
+    level:    [90, 92]
+    region:   walk_of_echoes_c_9
+
+  17523059:
+    template: Pernicious_Pachypodium
+    level:    [90, 92]
+    region:   walk_of_echoes_e
+
+  17523060:
+    template: Pernicious_Pachypodium
+    level:    [90, 92]
+    region:   walk_of_echoes_c_11
+
+  17523061:
+    template: Lunatic_Lycopodium
+    level:    [90, 92]
+    region:   walk_of_echoes_c_9
+
+  17523062:
+    template: Lunatic_Lycopodium
+    level:    [90, 92]
+    region:   walk_of_echoes_c_12
+
+  17523063:
+    template: Lunatic_Lycopodium
+    level:    [90, 92]
+    region:   walk_of_echoes_c_18
+
+  17523064:
+    template: Lunatic_Lycopodium
+    level:    [90, 92]
+    region:   walk_of_echoes_c_19
+
+  17523065:
+    template: Lunatic_Lycopodium
+    level:    [90, 92]
+    region:   walk_of_echoes_e_4
+
+  17523066:
+    template: Lunatic_Lycopodium
+    level:    [90, 92]
+    region:   walk_of_echoes_c_13
+
+  17523067:
+    template: Killer_Korrigan
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523068:
+    template: Killer_Korrigan
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523069:
+    template: Killer_Korrigan
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523070:
+    template: Killer_Korrigan
+    level:    [90, 92]
+    region:   walk_of_echoes_c_20
+
+  17523071:
+    template: Killer_Korrigan
+    level:    [90, 92]
+    region:   walk_of_echoes_c_14
+
+  17523072:
+    template: Killer_Korrigan
+    level:    [90, 92]
+    region:   walk_of_echoes_c_5
+
+  17523073:
+    template: Murderous_Mandragora
+    level:    [90, 92]
+    region:   walk_of_echoes_s_8
+
+  17523074:
+    template: Murderous_Mandragora
+    level:    [90, 92]
+    region:   walk_of_echoes_e_2
+
+  17523075:
+    template: Murderous_Mandragora
+    level:    [90, 92]
+    region:   walk_of_echoes_c_15
+
+  17523076:
+    template: Murderous_Mandragora
+    level:    [90, 92]
+    region:   walk_of_echoes_c_16
+
+  17523077:
+    template: Murderous_Mandragora
+    level:    [90, 92]
+    region:   walk_of_echoes_e_3
+
+  17523078:
+    template: Murderous_Mandragora
+    level:    [90, 92]
+    region:   walk_of_echoes_c_8
+
+  17523079:
+    template: Tapana
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523080:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_5
+
+  17523081:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_5
+
+  17523082:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_5
+
+  17523083:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_5
+
+  17523084:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_5
+
+  17523085:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_6
+
+  17523086:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_6
+
+  17523087:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_6
+
+  17523088:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_6
+
+  17523089:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_6
+
+  17523090:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_7
+
+  17523091:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_7
+
+  17523092:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_7
+
+  17523093:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_8
+
+  17523094:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_8
+
+  17523095:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_8
+
+  17523096:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_8
+
+  17523097:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_9
+
+  17523098:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_9
+
+  17523099:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_9
+
+  17523100:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_9
+
+  17523101:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_se_6
+
+  17523102:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_se_6
+
+  17523103:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_se_6
+
+  17523104:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_se_6
+
+  17523105:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_10
+
+  17523106:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_10
+
+  17523107:
+    template: Tapanas_Minion
+    level:    [90, 92]
+    region:   walk_of_echoes_e_10
+
+  17523108:
+    template: Ironclad_Harbinger
+    level:    [90, 92]
+    region:   walk_of_echoes_sw_3
+
+  17523109:
+    template: Ironclad_Vaporizer
+    level:    [90, 92]
+    region:   walk_of_echoes_sw_6
+
+  17523110:
+    template: Iron_Cranium
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523111:
+    template: Iron_Cranium
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523112:
+    template: Iron_Cranium
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523113:
+    template: Iron_Cranium
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523114:
+    template: Iron_Cranium
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523115:
+    template: Iron_Cranium
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523116:
+    template: Iron_Cranium
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523117:
+    template: Iron_Cranium
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523118:
+    template: Iron_Cranium
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523119:
+    template: Iron_Cranium
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523120:
+    template: Iron_Cranium
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523121:
+    template: Iron_Cranium
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523122:
+    template: Iron_Cranium
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523123:
+    template: Iron_Cranium
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523124:
+    template: Iron_Cranium
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523125:
+    template: Iron_Cranium
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523126:
+    template: Ligeia
+    level:    [90, 92]
+    region:   walk_of_echoes_s
+
+  17523127:
+    template: Leucosia
+    level:    [90, 92]
+    region:   walk_of_echoes_s
+
+  17523128:
+    template: Raidne
+    level:    [90, 92]
+    region:   walk_of_echoes_s
+
+  17523129:
+    template: Sanguine_Sapsucker
+    level:    [90, 92]
+    region:   walk_of_echoes_sw_10
+
+  17523130:
+    template: Sanguine_Sapsucker
+    level:    [90, 92]
+    region:   walk_of_echoes_sw_10
+
+  17523131:
+    template: Sanguine_Sapsucker
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523132:
+    template: Sanguine_Sapsucker
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523133:
+    template: Sanguine_Sapsucker
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523134:
+    template: Sanguine_Sapsucker
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523135:
+    template: Sanguine_Sapsucker
+    level:    [90, 92]
+    region:   walk_of_echoes_s_3
+
+  17523136:
+    template: Sanguine_Sapsucker
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523137:
+    template: Malicious_Magpie
+    level:    [90, 92]
+    region:   walk_of_echoes_s_4
+
+  17523138:
+    template: Malicious_Magpie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523139:
+    template: Malicious_Magpie
+    level:    [90, 92]
+    region:   walk_of_echoes_s_2
+
+  17523140:
+    template: Malicious_Magpie
+    level:    [90, 92]
+    region:   walk_of_echoes_s_2
+
+  17523141:
+    template: Malicious_Magpie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523142:
+    template: Malicious_Magpie
+    level:    [90, 92]
+    region:   walk_of_echoes_sw_9
+
+  17523143:
+    template: Malicious_Magpie
+    level:    [90, 92]
+    region:   walk_of_echoes_s_5
+
+  17523144:
+    template: Malicious_Magpie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523145:
+    template: Barra_Edinazu
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523146:
+    template: Barra_Edinazu
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523147:
+    template: Coeurl_Mystic
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523148:
+    template: Coeurl_Mystic
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523149:
+    template: Coeurl_Mystic
+    level:    [90, 92]
+    region:   walk_of_echoes_se_10
+
+  17523150:
+    template: Coeurl_Mystic
+    level:    [90, 92]
+    region:   walk_of_echoes_se_14
+
+  17523151:
+    template: Coeurl_Prentice
+    level:    [90, 92]
+    region:   walk_of_echoes_se_11
+
+  17523152:
+    template: Coeurl_Prentice
+    level:    [90, 92]
+    region:   walk_of_echoes_se_9
+
+  17523153:
+    template: Coeurl_Prentice
+    level:    [90, 92]
+    region:   walk_of_echoes_se_10
+
+  17523154:
+    template: Coeurl_Prentice
+    level:    [90, 92]
+    region:   walk_of_echoes_se_8
+
+  17523155:
+    template: Coeurl_Prentice
+    level:    [90, 92]
+    region:   walk_of_echoes_se_8
+
+  17523156:
+    template: Coeurl_Prentice
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523157:
+    template: Coeurl_Tiro
+    level:    [90, 92]
+    region:   walk_of_echoes_se_13
+
+  17523158:
+    template: Coeurl_Tiro
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523159:
+    template: Coeurl_Tiro
+    level:    [90, 92]
+    region:   walk_of_echoes_se_14
+
+  17523160:
+    template: Coeurl_Tiro
+    level:    [90, 92]
+    region:   walk_of_echoes_se_15
+
+  17523161:
+    template: Coeurl_Tiro
+    level:    [90, 92]
+    region:   walk_of_echoes_se_15
+
+  17523162:
+    template: Coeurl_Tiro
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523163:
+    template: Mingyi
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523164:
+    template: Sitke
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523165:
+    template: Sin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523166:
+    template: Myin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523167:
+    template: Yahhta
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523168:
+    template: Ne
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523169:
+    template: Scorched_Yanthu
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523170:
+    template: Scorched_Yanthu
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523171:
+    template: Scorched_Yanthu
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523172:
+    template: Glaciated_Yanthu
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523173:
+    template: Glaciated_Yanthu
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523174:
+    template: Glaciated_Yanthu
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523175:
+    template: Electrified_Yanthu
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523176:
+    template: Electrified_Yanthu
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523177:
+    template: Electrified_Yanthu
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523178:
+    template: Entombed_Yanthu
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523179:
+    template: Entombed_Yanthu
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523180:
+    template: Entombed_Yanthu
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523181:
+    template: Ragelise
+    at:       [-705.667, -13.270, -152.907, 13]
+    level:    [84, 84]
+
+  17523182:
+    template: Portia
+    at:       [-705.000, -13.270, -135.000, 64]
+    level:    [84, 84]
+
+  17523183:
+    template: Larzos
+    at:       [-701.587, -13.270, -151.453, 71]
+    level:    [84, 84]
+
+  17523184:
+    template: Fourth_Spitewarden
+    at:       [-702.963, -12.889, -151.103, 56]
+    level:    [83, 83]
+
+  17523185:
+    template: Lady_Lilith
+    at:       [-700.000, -13.270, -140.000, 64]
+    level:    [81, 82]
+
+  17523186:
+    template: Lilith_Ascendant
+    at:       [-700.000, -13.270, -140.000, 64]
+    level:    [83, 84]
+
+  17523187:
+    template: Elemental_Gyves
+    at:       [-694.078, -13.270, -152.671, 0]
+    level:    [80, 80]
+
+  17523188:
+    template: Elemental_Gyves
+    at:       [-664.609, -17.783, -139.998, 0]
+    level:    [80, 80]
+
+  17523189:
+    template: Elemental_Gyves
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [80, 80]
+
+  17523190:
+    template: Elemental_Gyves
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [80, 80]
+
+  17523191:
+    template: Elemental_Gyves
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [80, 80]
+
+  17523192:
+    template: Elemental_Gyves
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [80, 80]
+
+  17523193:
+    template: Elemental_Gyves
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [80, 80]
+
+  17523194:
+    template: Elemental_Gyves
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [80, 80]
+
+  17523195:
+    template: Elemental_Gyves
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [80, 80]
+
+  17523196:
+    template: Elemental_Gyves
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [80, 80]
+
+  17523197:
+    template: Cait_Sith
+    at:       [-699.937, -18.100, -332.006, 56]
+    level:    [75, 75]
+
+  17523198:
+    template: Lilisette
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523199:
+    template: Lilisette
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523200:
+    template: Lilisette
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [90, 92]
+
+  17523201:
+    template: Gloomtalon
+    at:       [-707.000, -12.000, -134.000, 65]
+    level:    [125, 125]
+
+  17523202:
+    template: Gloomscale
+    at:       [-692.000, -12.000, -134.000, 69]
+    level:    [125, 125]

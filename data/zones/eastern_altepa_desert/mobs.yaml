@@ -1,0 +1,1963 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17244161:
+    template: Greater_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17244162:
+    template: Cutter
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17244163:
+    template: Ironshell
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [36, 39]
+
+  17244164:
+    template: Makara
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [29, 30]
+
+  17244165:
+    template: Bigclaw
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [48, 51]
+
+  17244166:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_e_6
+
+  17244167:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_e_6
+
+  17244168:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_e_6
+
+  17244169:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_e_6
+
+  17244170:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_e_5
+
+  17244171:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_e_5
+
+  17244172:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_e_5
+
+  17244173:
+    template: Desert_Dhalmel
+    at:       [431.126, -8.257, 43.523, 127]
+    level:    [39, 44]
+
+  17244174:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_e_7
+
+  17244175:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_e_7
+
+  17244176:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_e_7
+
+  17244177:
+    template: Antican_Auxiliarius
+    level:    [35, 38]
+    region:   eastern_altepa_desert_e_7
+
+  17244178:
+    template: Antican_Auxiliarius
+    level:    [35, 38]
+    region:   eastern_altepa_desert_e_7
+
+  17244179:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_ne_2
+
+  17244180:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_ne_2
+
+  17244181:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_ne_2
+
+  17244182:
+    template: Antican_Auxiliarius
+    level:    [35, 38]
+    region:   eastern_altepa_desert_ne_2
+
+  17244183:
+    template: Antican_Auxiliarius
+    level:    [35, 38]
+    region:   eastern_altepa_desert_ne_2
+
+  17244184:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_ne
+
+  17244185:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_ne
+
+  17244186:
+    template: Antican_Auxiliarius
+    level:    [36, 39]
+    region:   eastern_altepa_desert_ne
+
+  17244187:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_ne_3
+
+  17244188:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_ne_3
+
+  17244189:
+    template: Antican_Auxiliarius
+    level:    [35, 38]
+    region:   eastern_altepa_desert_ne_3
+
+  17244190:
+    template: Diatryma
+    at:       [489.420, -8.135, 211.566, 83]
+    level:    [47, 50]
+
+  17244191:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_e_8
+
+  17244192:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_e_8
+
+  17244193:
+    template: Antican_Auxiliarius
+    level:    [37, 38]
+    region:   eastern_altepa_desert_e_8
+
+  17244194:
+    template: Antican_Auxiliarius
+    level:    [36, 39]
+    region:   eastern_altepa_desert_e_8
+
+  17244195:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_e_2
+
+  17244196:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_e_2
+
+  17244197:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_e_2
+
+  17244198:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_e_2
+
+  17244199:
+    template: Fire_Elemental
+    at:       [278.699, -10.467, 173.905, 8]
+    level:    [47, 49]
+
+  17244200:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_e
+
+  17244201:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_e
+
+  17244202:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_e
+
+  17244203:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_e
+
+  17244204:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_e
+
+  17244205:
+    template: Fire_Elemental
+    level:    [47, 49]
+    region:   eastern_altepa_desert_e_3
+
+  17244206:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_se_3
+
+  17244207:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_se_3
+
+  17244208:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_se_3
+
+  17244209:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_se_3
+
+  17244210:
+    template: Fire_Elemental
+    at:       [372.205, -3.309, -113.198, 123]
+    level:    [47, 49]
+
+  17244211:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_se_2
+
+  17244212:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_se_2
+
+  17244213:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_se_2
+
+  17244214:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_se_2
+
+  17244215:
+    template: Fire_Elemental
+    at:       [306.207, 2.790, -188.849, 127]
+    level:    [47, 49]
+
+  17244216:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_se
+
+  17244217:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_se
+
+  17244218:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_se
+
+  17244219:
+    template: Diatryma
+    at:       [231.360, 6.563, -355.726, 127]
+    level:    [47, 50]
+
+  17244220:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_n_12
+
+  17244221:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_n_12
+
+  17244222:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_n_12
+
+  17244223:
+    template: Fire_Elemental
+    level:    [47, 49]
+    region:   eastern_altepa_desert_n_13
+
+  17244224:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_c_10
+
+  17244225:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_c_10
+
+  17244226:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_c_10
+
+  17244227:
+    template: Antican_Funditor
+    level:    [36, 39]
+    region:   eastern_altepa_desert_c_10
+
+  17244228:
+    template: Flesh_Eater
+    level:    [37, 42]
+    region:   eastern_altepa_desert_c_10
+
+  17244229:
+    template: Flesh_Eater
+    level:    [37, 42]
+    region:   eastern_altepa_desert_c_10
+
+  17244230:
+    template: Sabotender
+    level:    [42, 46]
+    region:   eastern_altepa_desert_c_10
+
+  17244231:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_s_7
+
+  17244232:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_s_7
+
+  17244233:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_s_7
+
+  17244234:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_s_7
+
+  17244235:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_s_7
+
+  17244236:
+    template: Sabotender
+    at:       [164.121, -8.397, -79.793, 127]
+    level:    [42, 46]
+
+  17244237:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_s_8
+
+  17244238:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_s_8
+
+  17244239:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_s_8
+
+  17244240:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_s_8
+
+  17244241:
+    template: Sabotender
+    level:    [42, 46]
+    region:   eastern_altepa_desert_s_8
+
+  17244242:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_s_9
+
+  17244243:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_s_9
+
+  17244244:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_s_9
+
+  17244245:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_s_9
+
+  17244246:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_n_9
+
+  17244247:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_n_9
+
+  17244248:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_n_9
+
+  17244249:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_n_9
+
+  17244250:
+    template: Fire_Elemental
+    at:       [126.004, -9.943, 233.344, 30]
+    level:    [47, 49]
+
+  17244251:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_n_11
+
+  17244252:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_n_11
+
+  17244253:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_n_11
+
+  17244254:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_n_11
+
+  17244255:
+    template: Earth_Elemental
+    level:    [47, 49]
+    region:   eastern_altepa_desert_n_11
+
+  17244256:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_n_10
+
+  17244257:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_n_10
+
+  17244258:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_n_10
+
+  17244259:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_n_10
+
+  17244260:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_n_10
+
+  17244261:
+    template: Earth_Elemental
+    level:    [47, 49]
+    region:   eastern_altepa_desert_n_10
+
+  17244262:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_n_14
+
+  17244263:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_n_14
+
+  17244264:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_n_14
+
+  17244265:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_n_14
+
+  17244266:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_n_14
+
+  17244267:
+    template: Earth_Elemental
+    level:    [47, 49]
+    region:   eastern_altepa_desert_n_14
+
+  17244268:
+    template: Donnergugi
+    at:       [217.000, -8.200, 376.000, 60]
+    level:    [60, 60]
+
+  17244269:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_n_6
+
+  17244270:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_n_6
+
+  17244271:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_n_6
+
+  17244272:
+    template: Antican_Faber
+    level:    [35, 38]
+    region:   eastern_altepa_desert_n_6
+
+  17244273:
+    template: Antican_Faber
+    level:    [35, 38]
+    region:   eastern_altepa_desert_n_6
+
+  17244274:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_n_6
+
+  17244275:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_n_7
+
+  17244276:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_n_7
+
+  17244277:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_n_7
+
+  17244278:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_n_7
+
+  17244279:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_n_7
+
+  17244280:
+    template: Earth_Elemental
+    level:    [47, 49]
+    region:   eastern_altepa_desert_n_7
+
+  17244281:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_n_4
+
+  17244282:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_n_4
+
+  17244283:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_n_4
+
+  17244284:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_n_4
+
+  17244285:
+    template: Antican_Decurio
+    level:    [44, 49]
+    region:   eastern_altepa_desert_n_4
+
+  17244286:
+    template: Flesh_Eater
+    level:    [37, 42]
+    region:   eastern_altepa_desert_n_4
+
+  17244287:
+    template: Sabotender
+    level:    [42, 46]
+    region:   eastern_altepa_desert_n_4
+
+  17244288:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_n
+
+  17244289:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_n
+
+  17244290:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_n
+
+  17244291:
+    template: Antican_Funditor
+    level:    [35, 38]
+    region:   eastern_altepa_desert_n
+
+  17244292:
+    template: Antican_Decurio
+    level:    [44, 49]
+    region:   eastern_altepa_desert_n
+
+  17244293:
+    template: Antican_Decurio
+    level:    [44, 49]
+    region:   eastern_altepa_desert_n
+
+  17244294:
+    template: Flesh_Eater
+    level:    [37, 42]
+    region:   eastern_altepa_desert_n
+
+  17244295:
+    template: Antican_Faber
+    level:    [35, 38]
+    region:   eastern_altepa_desert_n_3
+
+  17244296:
+    template: Antican_Funditor
+    at:       [74.751, -8.401, -81.522, 127]
+    level:    [35, 38]
+
+  17244297:
+    template: Antican_Decurio
+    at:       [54.910, -19.563, 93.139, 57]
+    level:    [44, 49]
+
+  17244298:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_c_7
+
+  17244299:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_c_7
+
+  17244300:
+    template: Antican_Decurio
+    level:    [44, 49]
+    region:   eastern_altepa_desert_c_7
+
+  17244301:
+    template: Antican_Decurio
+    level:    [44, 49]
+    region:   eastern_altepa_desert_c_7
+
+  17244302:
+    template: Flesh_Eater
+    level:    [37, 42]
+    region:   eastern_altepa_desert_c_7
+
+  17244303:
+    template: Flesh_Eater
+    level:    [37, 42]
+    region:   eastern_altepa_desert_c_7
+
+  17244304:
+    template: Sabotender
+    at:       [73.024, -16.841, 73.549, 127]
+    level:    [42, 46]
+
+  17244305:
+    template: Earth_Elemental
+    level:    [47, 49]
+    region:   eastern_altepa_desert_c_7
+
+  17244306:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_c_8
+
+  17244307:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_c_8
+
+  17244308:
+    template: Antican_Faber
+    level:    [35, 38]
+    region:   eastern_altepa_desert_c_8
+
+  17244309:
+    template: Antican_Funditor
+    level:    [35, 38]
+    region:   eastern_altepa_desert_c_8
+
+  17244310:
+    template: Antican_Decurio
+    level:    [44, 49]
+    region:   eastern_altepa_desert_c_8
+
+  17244311:
+    template: Flesh_Eater
+    level:    [37, 42]
+    region:   eastern_altepa_desert_c_8
+
+  17244312:
+    template: Sabotender
+    level:    [42, 46]
+    region:   eastern_altepa_desert_c_8
+
+  17244313:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_c_4
+
+  17244314:
+    template: Antican_Faber
+    level:    [35, 38]
+    region:   eastern_altepa_desert_c_4
+
+  17244315:
+    template: Antican_Decurio
+    level:    [44, 49]
+    region:   eastern_altepa_desert_c_4
+
+  17244316:
+    template: Antican_Decurio
+    level:    [44, 49]
+    region:   eastern_altepa_desert_c_4
+
+  17244317:
+    template: Flesh_Eater
+    level:    [37, 42]
+    region:   eastern_altepa_desert_c_4
+
+  17244318:
+    template: Antican_Veles
+    level:    [50, 52]
+    region:   eastern_altepa_desert_c_6
+
+  17244319:
+    template: Antican_Veles
+    level:    [50, 52]
+    region:   eastern_altepa_desert_c_6
+
+  17244320:
+    template: Antican_Veles
+    level:    [50, 52]
+    region:   eastern_altepa_desert_c_6
+
+  17244321:
+    template: Antican_Centurio
+    level:    [50, 52]
+    region:   eastern_altepa_desert_c_6
+
+  17244322:
+    template: Antican_Centurio
+    level:    [50, 52]
+    region:   eastern_altepa_desert_c_6
+
+  17244323:
+    template: Sand_Beetle
+    at:       [56.019, -11.632, -119.283, 127]
+    level:    [36, 40]
+
+  17244324:
+    template: Antican_Centurio
+    at:       [48.550, 3.497, -86.337, 91]
+    level:    [50, 52]
+
+  17244325:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_c_5
+
+  17244326:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_c_5
+
+  17244327:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_c_5
+
+  17244328:
+    template: Antican_Funditor
+    level:    [36, 39]
+    region:   eastern_altepa_desert_c_5
+
+  17244329:
+    template: Flesh_Eater
+    level:    [37, 42]
+    region:   eastern_altepa_desert_c_5
+
+  17244330:
+    template: Lost_Soul
+    level:    [44, 48]
+    region:   eastern_altepa_desert_c_5
+
+  17244331:
+    template: Lost_Soul
+    level:    [45, 47]
+    region:   eastern_altepa_desert_c_5
+
+  17244332:
+    template: Sabotender
+    level:    [42, 46]
+    region:   eastern_altepa_desert_c_5
+
+  17244333:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_s_4
+
+  17244334:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_s_4
+
+  17244335:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_s_4
+
+  17244336:
+    template: Antican_Sagittarius
+    level:    [44, 49]
+    region:   eastern_altepa_desert_s_4
+
+  17244337:
+    template: Flesh_Eater
+    level:    [37, 42]
+    region:   eastern_altepa_desert_s_4
+
+  17244338:
+    template: Lost_Soul
+    level:    [44, 48]
+    region:   eastern_altepa_desert_s_4
+
+  17244339:
+    template: Lost_Soul
+    level:    [45, 47]
+    region:   eastern_altepa_desert_s_4
+
+  17244340:
+    template: Sabotender
+    level:    [42, 46]
+    region:   eastern_altepa_desert_s_4
+
+  17244341:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_s_6
+
+  17244342:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_s_6
+
+  17244343:
+    template: Antican_Speculator
+    level:    [44, 49]
+    region:   eastern_altepa_desert_s_6
+
+  17244344:
+    template: Antican_Decurio
+    level:    [44, 49]
+    region:   eastern_altepa_desert_s_6
+
+  17244345:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_s_6
+
+  17244346:
+    template: Flesh_Eater
+    level:    [37, 42]
+    region:   eastern_altepa_desert_s_6
+
+  17244347:
+    template: Lost_Soul
+    level:    [45, 47]
+    region:   eastern_altepa_desert_s_6
+
+  17244348:
+    template: Lost_Soul
+    level:    [45, 48]
+    region:   eastern_altepa_desert_s_6
+
+  17244349:
+    template: Sabotender
+    level:    [42, 46]
+    region:   eastern_altepa_desert_s_6
+
+  17244350:
+    template: Sabotender_Corrido
+    level:    [72, 73]
+    region:   eastern_altepa_desert_s_6
+
+  17244351:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_s_5
+
+  17244352:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_s_5
+
+  17244353:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_s_5
+
+  17244354:
+    template: Flesh_Eater
+    level:    [37, 42]
+    region:   eastern_altepa_desert_s_5
+
+  17244355:
+    template: Lost_Soul
+    level:    [45, 47]
+    region:   eastern_altepa_desert_s_5
+
+  17244356:
+    template: Lost_Soul
+    level:    [44, 48]
+    region:   eastern_altepa_desert_s_5
+
+  17244357:
+    template: Diatryma
+    level:    [47, 50]
+    region:   eastern_altepa_desert_s_5
+
+  17244358:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_s
+
+  17244359:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_s
+
+  17244360:
+    template: Antican_Sagittarius
+    level:    [44, 49]
+    region:   eastern_altepa_desert_s
+
+  17244361:
+    template: Antican_Sagittarius
+    level:    [44, 49]
+    region:   eastern_altepa_desert_s
+
+  17244362:
+    template: Goblin_Robber
+    level:    [45, 49]
+    region:   eastern_altepa_desert_s
+
+  17244363:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_s
+
+  17244364:
+    template: Flesh_Eater
+    level:    [37, 42]
+    region:   eastern_altepa_desert_s
+
+  17244365:
+    template: Lost_Soul
+    level:    [45, 47]
+    region:   eastern_altepa_desert_s
+
+  17244366:
+    template: Lost_Soul
+    level:    [44, 48]
+    region:   eastern_altepa_desert_s
+
+  17244367:
+    template: Diatryma
+    level:    [47, 50]
+    region:   eastern_altepa_desert_s
+
+  17244368:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_s_2
+
+  17244369:
+    template: Antican_Speculator
+    level:    [44, 49]
+    region:   eastern_altepa_desert_s_2
+
+  17244370:
+    template: Antican_Speculator
+    level:    [44, 49]
+    region:   eastern_altepa_desert_s_2
+
+  17244371:
+    template: Antican_Sagittarius
+    level:    [44, 49]
+    region:   eastern_altepa_desert_s_2
+
+  17244372:
+    template: Centurio_XII-I
+    level:    [56, 57]
+    region:   eastern_altepa_desert_s_2
+
+  17244373:
+    template: Antican_Decurio
+    level:    [44, 49]
+    region:   eastern_altepa_desert_s_2
+
+  17244374:
+    template: Antican_Speculator
+    level:    [44, 49]
+    region:   eastern_altepa_desert_s_2
+
+  17244375:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_s_3
+
+  17244376:
+    template: Antican_Speculator
+    level:    [44, 49]
+    region:   eastern_altepa_desert_s_3
+
+  17244377:
+    template: Antican_Speculator
+    level:    [44, 49]
+    region:   eastern_altepa_desert_s_3
+
+  17244378:
+    template: Antican_Sagittarius
+    level:    [44, 49]
+    region:   eastern_altepa_desert_s_3
+
+  17244379:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_sw_6
+
+  17244380:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_sw_6
+
+  17244381:
+    template: Antican_Speculator
+    level:    [44, 49]
+    region:   eastern_altepa_desert_sw_6
+
+  17244382:
+    template: Antican_Sagittarius
+    level:    [44, 49]
+    region:   eastern_altepa_desert_sw_6
+
+  17244383:
+    template: Goblin_Robber
+    level:    [45, 49]
+    region:   eastern_altepa_desert_sw_6
+
+  17244384:
+    template: Goblin_Poacher
+    level:    [45, 49]
+    region:   eastern_altepa_desert_sw_6
+
+  17244385:
+    template: Lost_Soul
+    level:    [44, 48]
+    region:   eastern_altepa_desert_sw_6
+
+  17244386:
+    template: Lost_Soul
+    level:    [45, 47]
+    region:   eastern_altepa_desert_sw_6
+
+  17244387:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_c
+
+  17244388:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_c
+
+  17244389:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_c
+
+  17244390:
+    template: Antican_Funditor
+    level:    [35, 38]
+    region:   eastern_altepa_desert_c
+
+  17244391:
+    template: Flesh_Eater
+    level:    [37, 42]
+    region:   eastern_altepa_desert_c
+
+  17244392:
+    template: Lost_Soul
+    level:    [44, 48]
+    region:   eastern_altepa_desert_c
+
+  17244393:
+    template: Lost_Soul
+    level:    [45, 47]
+    region:   eastern_altepa_desert_c
+
+  17244394:
+    template: Sabotender
+    level:    [42, 46]
+    region:   eastern_altepa_desert_c
+
+  17244395:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_w_9
+
+  17244396:
+    template: Dune_Widow
+    at:       [-124.890, -8.576, 32.533, 64]
+    level:    [45, 47]
+
+  17244397:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_w_9
+
+  17244398:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_w_9
+
+  17244399:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_w_9
+
+  17244400:
+    template: Flesh_Eater
+    level:    [37, 42]
+    region:   eastern_altepa_desert_w_9
+
+  17244401:
+    template: Flesh_Eater
+    level:    [37, 42]
+    region:   eastern_altepa_desert_w_9
+
+  17244402:
+    template: Lost_Soul
+    level:    [44, 48]
+    region:   eastern_altepa_desert_w_9
+
+  17244403:
+    template: Lost_Soul
+    level:    [45, 47]
+    region:   eastern_altepa_desert_w_9
+
+  17244404:
+    template: Sabotender
+    level:    [42, 46]
+    region:   eastern_altepa_desert_w_9
+
+  17244405:
+    template: Earth_Elemental
+    level:    [47, 49]
+    region:   eastern_altepa_desert_w_9
+
+  17244406:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_c_2
+
+  17244407:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_c_2
+
+  17244408:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_c_2
+
+  17244409:
+    template: Flesh_Eater
+    level:    [37, 42]
+    region:   eastern_altepa_desert_c_2
+
+  17244410:
+    template: Flesh_Eater
+    level:    [37, 42]
+    region:   eastern_altepa_desert_c_2
+
+  17244411:
+    template: Sabotender
+    level:    [42, 46]
+    region:   eastern_altepa_desert_c_2
+
+  17244412:
+    template: Earth_Elemental
+    level:    [47, 49]
+    region:   eastern_altepa_desert_c_2
+
+  17244413:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_n_2
+
+  17244414:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_n_2
+
+  17244415:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_n_2
+
+  17244416:
+    template: Antican_Decurio
+    level:    [44, 49]
+    region:   eastern_altepa_desert_n_2
+
+  17244417:
+    template: Antican_Decurio
+    level:    [44, 49]
+    region:   eastern_altepa_desert_n_2
+
+  17244418:
+    template: Flesh_Eater
+    level:    [37, 42]
+    region:   eastern_altepa_desert_n_2
+
+  17244419:
+    template: Sabotender
+    level:    [42, 46]
+    region:   eastern_altepa_desert_n_2
+
+  17244420:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_nw_4
+
+  17244421:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_nw_4
+
+  17244422:
+    template: Antican_Decurio
+    level:    [44, 49]
+    region:   eastern_altepa_desert_nw_4
+
+  17244423:
+    template: Antican_Decurio
+    level:    [44, 49]
+    region:   eastern_altepa_desert_nw_4
+
+  17244424:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_nw_4
+
+  17244425:
+    template: Flesh_Eater
+    level:    [37, 42]
+    region:   eastern_altepa_desert_nw_4
+
+  17244426:
+    template: Flesh_Eater
+    level:    [37, 42]
+    region:   eastern_altepa_desert_nw_4
+
+  17244427:
+    template: Diatryma
+    at:       [-39.000, -8.000, 326.000, 75]
+    level:    [47, 50]
+
+  17244428:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_nw_2
+
+  17244429:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_nw_2
+
+  17244430:
+    template: Antican_Decurio
+    level:    [44, 49]
+    region:   eastern_altepa_desert_nw_2
+
+  17244431:
+    template: Antican_Decurio
+    level:    [44, 49]
+    region:   eastern_altepa_desert_nw_2
+
+  17244432:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_nw_2
+
+  17244433:
+    template: Flesh_Eater
+    level:    [37, 42]
+    region:   eastern_altepa_desert_nw_2
+
+  17244434:
+    template: Flesh_Eater
+    level:    [37, 42]
+    region:   eastern_altepa_desert_nw_2
+
+  17244435:
+    template: Diatryma
+    level:    [47, 50]
+    region:   eastern_altepa_desert_nw_2
+
+  17244436:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_nw_3
+
+  17244437:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_nw_3
+
+  17244438:
+    template: Antican_Funditor
+    level:    [36, 39]
+    region:   eastern_altepa_desert_nw_3
+
+  17244439:
+    template: Antican_Decurio
+    level:    [44, 49]
+    region:   eastern_altepa_desert_nw_3
+
+  17244440:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_nw_3
+
+  17244441:
+    template: Flesh_Eater
+    level:    [37, 42]
+    region:   eastern_altepa_desert_nw_3
+
+  17244442:
+    template: Sabotender
+    level:    [42, 46]
+    region:   eastern_altepa_desert_nw_3
+
+  17244443:
+    template: Giant_Spider
+    level:    [30, 34]
+    region:   eastern_altepa_desert_nw
+
+  17244444:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_nw
+
+  17244445:
+    template: Sand_Beetle
+    level:    [36, 40]
+    region:   eastern_altepa_desert_nw
+
+  17244446:
+    template: Antican_Decurio
+    level:    [44, 49]
+    region:   eastern_altepa_desert_nw
+
+  17244447:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_nw
+
+  17244448:
+    template: Flesh_Eater
+    level:    [37, 42]
+    region:   eastern_altepa_desert_nw
+
+  17244449:
+    template: Goblin_Reaper
+    level:    [45, 49]
+    region:   eastern_altepa_desert_w_5
+
+  17244450:
+    template: Goblin_Trader
+    level:    [45, 49]
+    region:   eastern_altepa_desert_w_5
+
+  17244451:
+    template: Goblins_Spider
+    level:    [38, 40]
+    region:   eastern_altepa_desert_w_5
+
+  17244452:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_w_5
+
+  17244453:
+    template: Lesser_Manticore
+    level:    [47, 49]
+    region:   eastern_altepa_desert_w_5
+
+  17244454:
+    template: Lesser_Manticore
+    level:    [47, 49]
+    region:   eastern_altepa_desert_w_5
+
+  17244455:
+    template: Goblin_Trader
+    level:    [45, 49]
+    region:   eastern_altepa_desert_w_8
+
+  17244456:
+    template: Goblins_Spider
+    level:    [38, 40]
+    region:   eastern_altepa_desert_w_8
+
+  17244457:
+    template: Goblin_Trader
+    level:    [45, 49]
+    region:   eastern_altepa_desert_w_8
+
+  17244458:
+    template: Goblins_Spider
+    level:    [38, 40]
+    region:   eastern_altepa_desert_w_8
+
+  17244459:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_w_8
+
+  17244460:
+    template: Lost_Soul
+    level:    [44, 48]
+    region:   eastern_altepa_desert_w_8
+
+  17244461:
+    template: Sabotender
+    level:    [42, 46]
+    region:   eastern_altepa_desert_w_8
+
+  17244462:
+    template: Lesser_Manticore
+    level:    [47, 49]
+    region:   eastern_altepa_desert_w_8
+
+  17244463:
+    template: Lesser_Manticore
+    level:    [47, 49]
+    region:   eastern_altepa_desert_w_8
+
+  17244464:
+    template: Goblin_Reaper
+    level:    [45, 49]
+    region:   eastern_altepa_desert_w
+
+  17244465:
+    template: Goblin_Trader
+    level:    [45, 49]
+    region:   eastern_altepa_desert_w
+
+  17244466:
+    template: Goblins_Spider
+    level:    [38, 40]
+    region:   eastern_altepa_desert_w
+
+  17244467:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_w
+
+  17244468:
+    template: Lost_Soul
+    level:    [44, 48]
+    region:   eastern_altepa_desert_w
+
+  17244469:
+    template: Lesser_Manticore
+    level:    [47, 49]
+    region:   eastern_altepa_desert_w
+
+  17244470:
+    template: Lesser_Manticore
+    level:    [47, 49]
+    region:   eastern_altepa_desert_w
+
+  17244471:
+    template: Nandi
+    level:    [48, 49]
+    region:   eastern_altepa_desert_w
+
+  17244472:
+    template: Goblin_Reaper
+    level:    [45, 49]
+    region:   eastern_altepa_desert_w_4
+
+  17244473:
+    template: Goblin_Reaper
+    level:    [45, 49]
+    region:   eastern_altepa_desert_w_4
+
+  17244474:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_w_4
+
+  17244475:
+    template: Lost_Soul
+    level:    [44, 48]
+    region:   eastern_altepa_desert_w_4
+
+  17244476:
+    template: Lost_Soul
+    level:    [45, 47]
+    region:   eastern_altepa_desert_w_4
+
+  17244477:
+    template: Lost_Soul
+    level:    [44, 48]
+    region:   eastern_altepa_desert_w_4
+
+  17244478:
+    template: Lesser_Manticore
+    level:    [47, 49]
+    region:   eastern_altepa_desert_w_4
+
+  17244479:
+    template: Lesser_Manticore
+    level:    [47, 49]
+    region:   eastern_altepa_desert_w_4
+
+  17244480:
+    template: Goblin_Robber
+    level:    [45, 49]
+    region:   eastern_altepa_desert_w_7
+
+  17244481:
+    template: Goblin_Robber
+    level:    [45, 49]
+    region:   eastern_altepa_desert_w_7
+
+  17244482:
+    template: Goblin_Trader
+    level:    [45, 49]
+    region:   eastern_altepa_desert_w_7
+
+  17244483:
+    template: Goblins_Spider
+    level:    [38, 40]
+    region:   eastern_altepa_desert_w_7
+
+  17244484:
+    template: Goblin_Poacher
+    level:    [45, 49]
+    region:   eastern_altepa_desert_w_7
+
+  17244485:
+    template: Lost_Soul
+    level:    [45, 47]
+    region:   eastern_altepa_desert_w_7
+
+  17244486:
+    template: Lost_Soul
+    level:    [44, 48]
+    region:   eastern_altepa_desert_w_7
+
+  17244487:
+    template: Sabotender
+    at:       [-212.677, 9.197, -180.840, 99]
+    level:    [42, 46]
+
+  17244488:
+    template: Goblin_Robber
+    level:    [45, 49]
+    region:   eastern_altepa_desert_sw_3
+
+  17244489:
+    template: Goblin_Poacher
+    level:    [45, 49]
+    region:   eastern_altepa_desert_sw_3
+
+  17244490:
+    template: Goblin_Poacher
+    level:    [45, 49]
+    region:   eastern_altepa_desert_sw_3
+
+  17244491:
+    template: Goblin_Robber
+    level:    [45, 49]
+    region:   eastern_altepa_desert_sw_4
+
+  17244492:
+    template: Goblin_Robber
+    level:    [45, 49]
+    region:   eastern_altepa_desert_sw_4
+
+  17244493:
+    template: Goblin_Poacher
+    level:    [45, 49]
+    region:   eastern_altepa_desert_sw_4
+
+  17244494:
+    template: Goblin_Reaper
+    level:    [45, 49]
+    region:   eastern_altepa_desert_sw_4
+
+  17244495:
+    template: Goblin_Robber
+    level:    [45, 49]
+    region:   eastern_altepa_desert_sw_5
+
+  17244496:
+    template: Goblin_Poacher
+    level:    [45, 49]
+    region:   eastern_altepa_desert_sw_5
+
+  17244497:
+    template: Goblin_Poacher
+    at:       [-195.000, 8.000, -166.000, 127]
+    level:    [45, 49]
+
+  17244498:
+    template: Goblin_Trader
+    level:    [45, 49]
+    region:   eastern_altepa_desert_w_3
+
+  17244499:
+    template: Goblins_Spider
+    level:    [38, 40]
+    region:   eastern_altepa_desert_w_3
+
+  17244500:
+    template: Goblin_Robber
+    level:    [45, 49]
+    region:   eastern_altepa_desert_w_3
+
+  17244501:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_w_3
+
+  17244502:
+    template: Lost_Soul
+    level:    [44, 48]
+    region:   eastern_altepa_desert_w_3
+
+  17244503:
+    template: Lesser_Manticore
+    at:       [-174.000, -0.030, 237.000, 75]
+    level:    [47, 49]
+
+  17244504:
+    template: Lesser_Manticore
+    level:    [47, 49]
+    region:   eastern_altepa_desert_w_3
+
+  17244505:
+    template: Goblin_Poacher
+    level:    [45, 49]
+    region:   eastern_altepa_desert_sw
+
+  17244506:
+    template: Goblin_Reaper
+    level:    [45, 49]
+    region:   eastern_altepa_desert_sw
+
+  17244507:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_sw
+
+  17244508:
+    template: Lost_Soul
+    level:    [47, 47]
+    region:   eastern_altepa_desert_sw
+
+  17244509:
+    template: Goblin_Robber
+    level:    [45, 49]
+    region:   eastern_altepa_desert_sw_2
+
+  17244510:
+    template: Goblin_Poacher
+    level:    [45, 49]
+    region:   eastern_altepa_desert_sw_2
+
+  17244511:
+    template: Desert_Dhalmel
+    level:    [39, 44]
+    region:   eastern_altepa_desert_sw_2
+
+  17244512:
+    template: Lost_Soul
+    level:    [45, 47]
+    region:   eastern_altepa_desert_sw_2
+
+  17244513:
+    template: Diatryma
+    at:       [-229.462, 5.956, -281.930, 105]
+    level:    [47, 50]
+
+  17244514:
+    template: Doom_Scorpion
+    level:    [44, 47]
+    region:   eastern_altepa_desert_e_4
+
+  17244515:
+    template: Flesh_Eater
+    level:    [37, 42]
+    region:   eastern_altepa_desert_n_8
+
+  17244516:
+    template: Doom_Scorpion
+    level:    [44, 47]
+    region:   eastern_altepa_desert_n_8
+
+  17244517:
+    template: Flesh_Eater
+    level:    [37, 42]
+    region:   eastern_altepa_desert_n_5
+
+  17244518:
+    template: Doom_Scorpion
+    level:    [44, 47]
+    region:   eastern_altepa_desert_n_5
+
+  17244519:
+    template: Flesh_Eater
+    level:    [37, 42]
+    region:   eastern_altepa_desert_c_3
+
+  17244520:
+    template: Doom_Scorpion
+    level:    [44, 47]
+    region:   eastern_altepa_desert_c_3
+
+  17244521:
+    template: Doom_Scorpion
+    level:    [44, 47]
+    region:   eastern_altepa_desert_w_6
+
+  17244522:
+    template: Goblin_Digger
+    level:    [45, 49]
+    region:   eastern_altepa_desert_w_2
+
+  17244523:
+    template: Decurio_I-III
+    at:       [112.012, -8.553, -72.767, 173]
+    level:    [47, 47]
+
+  17244524:
+    template: Tsuchigumo
+    at:       [45.000, -8.000, 404.000, 33]
+    level:    [42, 42]
+
+  17244525:
+    template: Tsuchigumo
+    at:       [46.000, -8.000, 404.000, 33]
+    level:    [42, 42]
+
+  17244526:
+    template: Hobgoblin_Warrior
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [50, 53]
+
+  17244527:
+    template: Hobgoblin_White_Mage
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [50, 53]
+
+  17244528:
+    template: Hobgoblin_Black_Mage
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [50, 53]
+
+  17244529:
+    template: Hobgoblin_Red_Mage
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [50, 53]
+
+  17244530:
+    template: Hobgoblin_Thief
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [50, 53]
+
+  17244531:
+    template: Hobgoblin_Dark_Knight
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [50, 53]
+
+  17244532:
+    template: Hobgoblin_Ranger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [50, 53]
+
+  17244533:
+    template: Hobgoblin_Beastmaster
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [50, 53]
+
+  17244534:
+    template: Goblins_Spider
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [48, 50]
+
+  17244535:
+    template: Contantican_Warrior
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [50, 53]
+
+  17244536:
+    template: Contantican_Black_Mage
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [50, 53]
+
+  17244537:
+    template: Contantican_Paladin
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [50, 53]
+
+  17244538:
+    template: Contantican_Ranger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [50, 53]
+
+  17244539:
+    template: Cactrot_Rapido
+    level:    [80, 81]
+    region:   eastern_altepa_desert_c_9
+
+  17244540:
+    template: Hastatus_XIII-LXXV
+    at:       [-251.792, 8.111, -256.624, 188]
+    level:    [50, 55]
+
+  17244541:
+    template: Hastatus_XIII-XCVI
+    at:       [-252.320, 8.101, -256.123, 195]
+    level:    [50, 55]
+
+  17244542:
+    template: Sagittarius_XIII-XXVI
+    at:       [-250.295, 8.901, -257.493, 114]
+    level:    [50, 55]
+
+  17244543:
+    template: Princeps_XIII-LXXXIX
+    at:       [-256.141, 8.146, -266.030, 204]
+    level:    [50, 55]
+
+  17244544:
+    template: Hastatus_XIII-XXV
+    at:       [-245.455, 8.005, -247.022, 190]
+    level:    [50, 55]
+
+  17244545:
+    template: Hastatus_XIII-CXXVIII
+    at:       [-237.656, 8.123, -239.454, 200]
+    level:    [50, 55]
+
+  17244546:
+    template: Triarius_XIII-LIX
+    at:       [-243.545, 8.000, -240.102, 205]
+    level:    [50, 55]
+
+  17244547:
+    template: Decurio_XIII-LV
+    at:       [-234.979, 8.771, -271.316, 190]
+    level:    [50, 55]
+
+  17244548:
+    template: Centurio_XIII-V
+    at:       [-219.272, 8.962, -242.247, 185]
+    level:    [55, 55]
+
+  17244549:
+    template: Satyral
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17244582:
+    template: Cactrot_Veloz
+    at:       [-70.510, 7.270, -327.510, 0]
+    level:    [0, 0]
+
+  17244583:
+    template: Cactrot_Veloz
+    at:       [250.103, -9.695, 407.995, 162]
+    level:    [0, 0]
+
+  17244584:
+    template: Cactrot_Veloz
+    at:       [344.500, 0.500, -211.229, 182]
+    level:    [0, 0]

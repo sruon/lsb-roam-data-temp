@@ -1,0 +1,2448 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  16912385:
+    template: Ulaern
+    level:    [70, 73]
+    region:   altaieu_s_3
+
+  16912386:
+    template: Ulaern
+    level:    [70, 73]
+    region:   altaieu_s_4
+
+  16912387:
+    template: Ulaern
+    level:    [70, 73]
+    region:   altaieu_s_3
+
+  16912388:
+    template: Ulaern
+    level:    [70, 73]
+    region:   altaieu_s_3
+
+  16912389:
+    template: Ulaern
+    level:    [70, 73]
+    region:   altaieu_s_3
+
+  16912390:
+    template: Ulaern
+    level:    [70, 73]
+    region:   altaieu_s_3
+
+  16912391:
+    template: Ulaern
+    level:    [70, 73]
+    region:   altaieu_s_3
+
+  16912392:
+    template: Ulaern
+    level:    [70, 73]
+    region:   altaieu_s_9
+
+  16912393:
+    template: Ulaern
+    level:    [70, 73]
+    region:   altaieu_s_3
+
+  16912394:
+    template: Ulxzomit
+    level:    [68, 71]
+    region:   altaieu_s_3
+
+  16912395:
+    template: Ulxzomit
+    level:    [68, 71]
+    region:   altaieu_s_3
+
+  16912396:
+    template: Ulxzomit
+    level:    [70, 71]
+    region:   altaieu_s_3
+
+  16912397:
+    template: Ulhpemde
+    level:    [68, 72]
+    region:   altaieu_s_3
+
+  16912398:
+    template: Ulhpemde
+    level:    [68, 72]
+    region:   altaieu_s_3
+
+  16912399:
+    template: Ulhpemde
+    level:    [69, 72]
+    region:   altaieu_s_3
+
+  16912400:
+    template: Ulhpemde
+    level:    [68, 72]
+    region:   altaieu_s_3
+
+  16912401:
+    template: Ulphuabo
+    level:    [75, 77]
+    region:   altaieu_s_5
+
+  16912402:
+    template: Ulphuabo
+    level:    [75, 77]
+    region:   altaieu_s_8
+
+  16912403:
+    template: Ulaern
+    level:    [70, 73]
+    region:   altaieu_s_2
+
+  16912404:
+    template: Ulaern
+    level:    [70, 73]
+    region:   altaieu_s_2
+
+  16912405:
+    template: Ulaern
+    level:    [70, 73]
+    region:   altaieu_s_2
+
+  16912406:
+    template: Ulaern
+    level:    [70, 73]
+    region:   altaieu_s_2
+
+  16912407:
+    template: Aerns_Wynav
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [65, 69]
+
+  16912408:
+    template: Aerns_Xzomit
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [65, 69]
+
+  16912409:
+    template: Ulxzomit
+    level:    [68, 71]
+    region:   altaieu_s_2
+
+  16912410:
+    template: Ulxzomit
+    level:    [68, 71]
+    region:   altaieu_s_2
+
+  16912411:
+    template: Ulxzomit
+    level:    [70, 71]
+    region:   altaieu_s_2
+
+  16912412:
+    template: Ulhpemde
+    level:    [68, 72]
+    region:   altaieu_s_2
+
+  16912413:
+    template: Ulhpemde
+    level:    [68, 72]
+    region:   altaieu_s_2
+
+  16912414:
+    template: Ulphuabo
+    level:    [75, 77]
+    region:   altaieu_s_2
+
+  16912415:
+    template: Ulaern
+    level:    [70, 73]
+    region:   altaieu_s_6
+
+  16912416:
+    template: Ulaern
+    level:    [70, 73]
+    region:   altaieu_s_6
+
+  16912417:
+    template: Ulaern
+    level:    [70, 73]
+    region:   altaieu_s_6
+
+  16912418:
+    template: Ulaern
+    level:    [70, 73]
+    region:   altaieu_s_6
+
+  16912419:
+    template: Ulhpemde
+    level:    [68, 72]
+    region:   altaieu_s_6
+
+  16912420:
+    template: Ulhpemde
+    level:    [69, 72]
+    region:   altaieu_s_6
+
+  16912421:
+    template: Aerns_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [65, 69]
+
+  16912422:
+    template: Ulxzomit
+    level:    [68, 71]
+    region:   altaieu_s_6
+
+  16912423:
+    template: Ulxzomit
+    level:    [68, 71]
+    region:   altaieu_s_6
+
+  16912424:
+    template: Ulxzomit
+    level:    [70, 71]
+    region:   altaieu_s_6
+
+  16912425:
+    template: Ulphuabo
+    level:    [75, 77]
+    region:   altaieu_s_7
+
+  16912426:
+    template: Ulxzomit
+    level:    [68, 71]
+    region:   altaieu_s_10
+
+  16912427:
+    template: Ulxzomit
+    level:    [68, 71]
+    region:   altaieu_s_10
+
+  16912428:
+    template: Ulxzomit
+    level:    [68, 71]
+    region:   altaieu_s_10
+
+  16912429:
+    template: Ulxzomit
+    level:    [68, 71]
+    region:   altaieu_s_10
+
+  16912430:
+    template: Ulxzomit
+    level:    [68, 71]
+    region:   altaieu_s_10
+
+  16912431:
+    template: Ulxzomit
+    level:    [68, 71]
+    region:   altaieu_s_10
+
+  16912432:
+    template: Ulxzomit
+    level:    [68, 71]
+    region:   altaieu_s_10
+
+  16912433:
+    template: Ulxzomit
+    level:    [68, 71]
+    region:   altaieu_s_10
+
+  16912434:
+    template: Ulxzomit
+    level:    [70, 71]
+    region:   altaieu_s_10
+
+  16912435:
+    template: Ulxzomit
+    level:    [70, 71]
+    region:   altaieu_s_10
+
+  16912436:
+    template: Ulxzomit
+    level:    [70, 71]
+    region:   altaieu_s_10
+
+  16912437:
+    template: Ulxzomit
+    level:    [70, 71]
+    region:   altaieu_s_10
+
+  16912438:
+    template: Ulhpemde
+    level:    [68, 72]
+    region:   altaieu_s_10
+
+  16912439:
+    template: Ulhpemde
+    level:    [68, 72]
+    region:   altaieu_s_10
+
+  16912440:
+    template: Ulhpemde
+    level:    [68, 72]
+    region:   altaieu_s_10
+
+  16912441:
+    template: Ulphuabo
+    level:    [75, 77]
+    region:   altaieu_s_10
+
+  16912442:
+    template: Ulhpemde
+    level:    [68, 72]
+    region:   altaieu_s_13
+
+  16912443:
+    template: Ulxzomit
+    level:    [68, 71]
+    region:   altaieu_s_13
+
+  16912444:
+    template: Ulxzomit
+    level:    [68, 71]
+    region:   altaieu_s_13
+
+  16912445:
+    template: Ulxzomit
+    level:    [68, 71]
+    region:   altaieu_s_13
+
+  16912446:
+    template: Ulxzomit
+    level:    [68, 71]
+    region:   altaieu_s_13
+
+  16912447:
+    template: Ulxzomit
+    level:    [70, 71]
+    region:   altaieu_s_13
+
+  16912448:
+    template: Ulxzomit
+    level:    [70, 71]
+    region:   altaieu_s_13
+
+  16912449:
+    template: Ulxzomit
+    level:    [68, 71]
+    region:   altaieu_se_2
+
+  16912450:
+    template: Ulxzomit
+    level:    [68, 71]
+    region:   altaieu_se_2
+
+  16912451:
+    template: Ulxzomit
+    level:    [68, 71]
+    region:   altaieu_se_2
+
+  16912452:
+    template: Ulxzomit
+    level:    [68, 71]
+    region:   altaieu_se_2
+
+  16912453:
+    template: Ulxzomit
+    level:    [68, 71]
+    region:   altaieu_se_2
+
+  16912454:
+    template: Ulxzomit
+    level:    [68, 71]
+    region:   altaieu_se_2
+
+  16912455:
+    template: Ulxzomit
+    level:    [70, 71]
+    region:   altaieu_se_2
+
+  16912456:
+    template: Ulxzomit
+    level:    [70, 71]
+    region:   altaieu_se_2
+
+  16912457:
+    template: Ulxzomit
+    level:    [70, 71]
+    region:   altaieu_se_2
+
+  16912458:
+    template: Ulhpemde
+    level:    [68, 72]
+    region:   altaieu_se_2
+
+  16912459:
+    template: Ulhpemde
+    level:    [69, 72]
+    region:   altaieu_se_2
+
+  16912460:
+    template: Ulphuabo
+    level:    [75, 77]
+    region:   altaieu_se_3
+
+  16912461:
+    template: Ulphuabo
+    level:    [75, 77]
+    region:   altaieu_s_12
+
+  16912462:
+    template: Ulhpemde
+    level:    [68, 72]
+    region:   altaieu_se
+
+  16912463:
+    template: Ulhpemde
+    level:    [68, 72]
+    region:   altaieu_se
+
+  16912464:
+    template: Ulhpemde
+    level:    [68, 72]
+    region:   altaieu_se
+
+  16912465:
+    template: Ulhpemde
+    level:    [68, 72]
+    region:   altaieu_se
+
+  16912466:
+    template: Ulhpemde
+    level:    [68, 72]
+    region:   altaieu_se
+
+  16912467:
+    template: Ulhpemde
+    level:    [68, 72]
+    region:   altaieu_se
+
+  16912468:
+    template: Ulxzomit
+    level:    [68, 71]
+    region:   altaieu_se
+
+  16912469:
+    template: Ulxzomit
+    level:    [68, 71]
+    region:   altaieu_se
+
+  16912470:
+    template: Ulxzomit
+    level:    [70, 71]
+    region:   altaieu_se
+
+  16912471:
+    template: Ulphuabo
+    level:    [75, 77]
+    region:   altaieu_se_4
+
+  16912472:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_se_7
+
+  16912473:
+    template: Omaern_BST
+    level:    [75, 78]
+    region:   altaieu_se_7
+
+  16912474:
+    template: Omaern_DRG
+    level:    [75, 78]
+    region:   altaieu_se_7
+
+  16912475:
+    template: Omaern_SMN
+    at:       [485.983, -0.500, -391.483, 38]
+    level:    [75, 78]
+
+  16912476:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_se_7
+
+  16912477:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_se_7
+
+  16912478:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_se_7
+
+  16912479:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_se_7
+
+  16912480:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_se_7
+
+  16912481:
+    template: Aerns_Wynav
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [65, 69]
+
+  16912482:
+    template: Aerns_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [65, 69]
+
+  16912483:
+    template: Aerns_Xzomit
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [65, 69]
+
+  16912484:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_se_7
+
+  16912485:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_se_7
+
+  16912486:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_se_7
+
+  16912487:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_se_5
+
+  16912488:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_se_5
+
+  16912489:
+    template: Omaern
+    at:       [522.335, -0.189, -445.636, 242]
+    level:    [75, 78]
+
+  16912490:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_se_5
+
+  16912491:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_se_5
+
+  16912492:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_se_5
+
+  16912493:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_se_5
+
+  16912494:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_se_5
+
+  16912495:
+    template: Omaern
+    at:       [492.151, -0.864, -427.770, 239]
+    level:    [75, 78]
+
+  16912496:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_se_5
+
+  16912497:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_se_5
+
+  16912498:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_se_5
+
+  16912499:
+    template: Omaern
+    at:       [455.566, -1.217, -597.924, 251]
+    level:    [75, 78]
+
+  16912500:
+    template: Omaern
+    at:       [561.407, -1.533, -527.602, 66]
+    level:    [75, 78]
+
+  16912501:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_se_6
+
+  16912502:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_se_6
+
+  16912503:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_se_6
+
+  16912504:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_se_8
+
+  16912505:
+    template: Omxzomit
+    level:    [73, 75]
+    region:   altaieu_se_8
+
+  16912506:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_se_8
+
+  16912507:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_se_8
+
+  16912508:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_se_8
+
+  16912509:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_se_8
+
+  16912510:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_se_8
+
+  16912511:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_se_8
+
+  16912512:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_se_8
+
+  16912513:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_se_8
+
+  16912514:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_se_8
+
+  16912515:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_se_9
+
+  16912516:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_e_12
+
+  16912517:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_e_10
+
+  16912518:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_e_10
+
+  16912519:
+    template: Omaern_DRG
+    at:       [679.939, -0.500, -186.798, 177]
+    level:    [75, 78]
+
+  16912520:
+    template: Aerns_Wynav
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [65, 69]
+
+  16912521:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_e_10
+
+  16912522:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_e_10
+
+  16912523:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_e_10
+
+  16912524:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_e_10
+
+  16912525:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_e_10
+
+  16912526:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_e_10
+
+  16912527:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_e_14
+
+  16912528:
+    template: Omaern_BST
+    level:    [75, 78]
+    region:   altaieu_e_14
+
+  16912529:
+    template: Omaern_SMN
+    at:       [653.033, -0.492, -182.964, 120]
+    level:    [75, 78]
+
+  16912530:
+    template: Aerns_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [65, 69]
+
+  16912531:
+    template: Aerns_Xzomit
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [65, 69]
+
+  16912532:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_e_10
+
+  16912533:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_e_10
+
+  16912534:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_e_13
+
+  16912535:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_e_13
+
+  16912536:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_e_10
+
+  16912537:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_e_10
+
+  16912538:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_e_8
+
+  16912539:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_e_8
+
+  16912540:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_e_8
+
+  16912541:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_e_8
+
+  16912542:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_e_9
+
+  16912543:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_e_11
+
+  16912544:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_e_11
+
+  16912545:
+    template: Ulxzomit
+    level:    [68, 71]
+    region:   altaieu_s
+
+  16912546:
+    template: Ulxzomit
+    level:    [68, 71]
+    region:   altaieu_s
+
+  16912547:
+    template: Ulxzomit
+    level:    [70, 71]
+    region:   altaieu_s
+
+  16912548:
+    template: Ulxzomit
+    level:    [68, 71]
+    region:   altaieu_sw_4
+
+  16912549:
+    template: Ulxzomit
+    level:    [68, 71]
+    region:   altaieu_sw_4
+
+  16912550:
+    template: Ulxzomit
+    level:    [70, 71]
+    region:   altaieu_sw_4
+
+  16912551:
+    template: Ulhpemde
+    level:    [69, 72]
+    region:   altaieu_s
+
+  16912552:
+    template: Ulhpemde
+    level:    [68, 72]
+    region:   altaieu_s
+
+  16912553:
+    template: Ulhpemde
+    level:    [68, 72]
+    region:   altaieu_s
+
+  16912554:
+    template: Ulhpemde
+    level:    [68, 72]
+    region:   altaieu_s
+
+  16912555:
+    template: Ulhpemde
+    level:    [68, 72]
+    region:   altaieu_s
+
+  16912556:
+    template: Ulhpemde
+    level:    [69, 72]
+    region:   altaieu_sw_4
+
+  16912557:
+    template: Ulhpemde
+    level:    [68, 72]
+    region:   altaieu_sw_4
+
+  16912558:
+    template: Ulhpemde
+    level:    [68, 72]
+    region:   altaieu_sw_4
+
+  16912559:
+    template: Ulhpemde
+    at:       [-382.736, -0.500, -527.523, 173]
+    level:    [68, 72]
+
+  16912560:
+    template: Ulphuabo
+    level:    [75, 77]
+    region:   altaieu_s
+
+  16912561:
+    template: Ulphuabo
+    level:    [75, 77]
+    region:   altaieu_sw_5
+
+  16912562:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_sw
+
+  16912563:
+    template: Omaern
+    at:       [-565.841, -0.313, -387.083, 232]
+    level:    [75, 78]
+
+  16912564:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_sw
+
+  16912565:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_sw
+
+  16912566:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_sw
+
+  16912567:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_sw
+
+  16912568:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_sw
+
+  16912569:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_sw
+
+  16912570:
+    template: Omaern
+    at:       [-504.233, -0.500, -441.207, 10]
+    level:    [75, 78]
+
+  16912571:
+    template: Omaern_DRG
+    level:    [75, 78]
+    region:   altaieu_sw
+
+  16912572:
+    template: Omaern_DRG
+    level:    [75, 78]
+    region:   altaieu_sw
+
+  16912573:
+    template: Aerns_Wynav
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [65, 69]
+
+  16912574:
+    template: Aerns_Wynav
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [65, 69]
+
+  16912575:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_sw
+
+  16912576:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_sw
+
+  16912577:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_sw_2
+
+  16912578:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_sw_3
+
+  16912579:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_sw_3
+
+  16912580:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_sw_3
+
+  16912581:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_sw_6
+
+  16912582:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_sw_7
+
+  16912583:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_sw_7
+
+  16912584:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_w_10
+
+  16912585:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_w_10
+
+  16912586:
+    template: Omaern
+    at:       [-485.739, -0.500, -113.174, 132]
+    level:    [75, 78]
+
+  16912587:
+    template: Omaern
+    at:       [-516.898, -0.573, -225.663, 11]
+    level:    [75, 78]
+
+  16912588:
+    template: Omaern_SMN
+    level:    [75, 78]
+    region:   altaieu_w_10
+
+  16912589:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_w_10
+
+  16912590:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_w_10
+
+  16912591:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_w_10
+
+  16912592:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_w_10
+
+  16912593:
+    template: Aerns_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [65, 69]
+
+  16912594:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_w_10
+
+  16912595:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_w_10
+
+  16912596:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_w_11
+
+  16912597:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_w_11
+
+  16912598:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_w_11
+
+  16912599:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_w_6
+
+  16912600:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_w_6
+
+  16912601:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_w
+
+  16912602:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_w
+
+  16912603:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_w_3
+
+  16912604:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_w_3
+
+  16912605:
+    template: Omaern
+    at:       [-588.123, -0.500, -133.283, 174]
+    level:    [75, 78]
+
+  16912606:
+    template: Omaern
+    at:       [-651.434, -0.499, -120.670, 242]
+    level:    [75, 78]
+
+  16912607:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_w_4
+
+  16912608:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_w_4
+
+  16912609:
+    template: Omaern_BST
+    at:       [-653.310, -0.500, -127.648, 115]
+    level:    [75, 78]
+
+  16912610:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_w_4
+
+  16912611:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_w_4
+
+  16912612:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_w_4
+
+  16912613:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_w_4
+
+  16912614:
+    template: Aerns_Xzomit
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [65, 69]
+
+  16912615:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_w_4
+
+  16912616:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_w_4
+
+  16912617:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_w_7
+
+  16912618:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_w_13
+
+  16912619:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_w_13
+
+  16912620:
+    template: Omyovra
+    level:    [84, 85]
+    region:   altaieu_sw
+
+  16912621:
+    template: Omyovra
+    level:    [84, 85]
+    region:   altaieu_w_4
+
+  16912622:
+    template: Omyovra
+    level:    [84, 85]
+    region:   altaieu_e_10
+
+  16912623:
+    template: Omyovra
+    level:    [84, 85]
+    region:   altaieu_se_7
+
+  16912624:
+    template: Ulyovra
+    level:    [79, 80]
+    region:   altaieu_s_11
+
+  16912625:
+    template: Ulyovra
+    level:    [79, 80]
+    region:   altaieu_s
+
+  16912626:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_n_7
+
+  16912627:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_n_7
+
+  16912628:
+    template: Omxzomit
+    level:    [72, 75]
+    region:   altaieu_n_7
+
+  16912629:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_n_7
+
+  16912630:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_n_7
+
+  16912631:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_n_4
+
+  16912632:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_n_4
+
+  16912633:
+    template: Omxzomit
+    level:    [72, 74]
+    region:   altaieu_n_4
+
+  16912634:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_n_4
+
+  16912635:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_n_6
+
+  16912636:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_n_10
+
+  16912637:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_n_10
+
+  16912638:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_n_10
+
+  16912639:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_n_10
+
+  16912640:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_n_11
+
+  16912641:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_n_11
+
+  16912642:
+    template: Omxzomit
+    level:    [74, 76]
+    region:   altaieu_ne
+
+  16912643:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_ne
+
+  16912644:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_ne
+
+  16912645:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_ne
+
+  16912646:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_ne
+
+  16912647:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_ne_2
+
+  16912648:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_n_12
+
+  16912649:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_n_12
+
+  16912650:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_n_12
+
+  16912651:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_n_12
+
+  16912652:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_n_12
+
+  16912653:
+    template: Omphuabo
+    at:       [236.198, -0.500, 714.801, 140]
+    level:    [79, 81]
+
+  16912654:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_ne_3
+
+  16912655:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_n_8
+
+  16912656:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_n_8
+
+  16912657:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_n_8
+
+  16912658:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_n_8
+
+  16912659:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_n_9
+
+  16912660:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_nw_13
+
+  16912661:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_nw_13
+
+  16912662:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_nw_13
+
+  16912663:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_nw_13
+
+  16912664:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_n_2
+
+  16912665:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_nw_13
+
+  16912666:
+    template: Omaern_BST
+    level:    [75, 78]
+    region:   altaieu_nw_13
+
+  16912667:
+    template: Aerns_Xzomit
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [65, 69]
+
+  16912668:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_nw_13
+
+  16912669:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_nw_13
+
+  16912670:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_nw_15
+
+  16912671:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_n
+
+  16912672:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_n
+
+  16912673:
+    template: Omaern_DRG
+    level:    [75, 78]
+    region:   altaieu_n
+
+  16912674:
+    template: Aerns_Wynav
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [65, 69]
+
+  16912675:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_n
+
+  16912676:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_n
+
+  16912677:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_n_3
+
+  16912678:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_n_5
+
+  16912679:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_n_5
+
+  16912680:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_n_5
+
+  16912681:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_n_5
+
+  16912682:
+    template: Omxzomit
+    level:    [72, 75]
+    region:   altaieu_w_2
+
+  16912683:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_w_2
+
+  16912684:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_w_2
+
+  16912685:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_w_2
+
+  16912686:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_w_5
+
+  16912687:
+    template: Omxzomit
+    level:    [72, 75]
+    region:   altaieu_w_8
+
+  16912688:
+    template: Omxzomit
+    level:    [72, 75]
+    region:   altaieu_w_8
+
+  16912689:
+    template: Omxzomit
+    level:    [72, 75]
+    region:   altaieu_w_8
+
+  16912690:
+    template: Omxzomit
+    level:    [73, 73]
+    region:   altaieu_w_8
+
+  16912691:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_w_8
+
+  16912692:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_w_8
+
+  16912693:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_w_12
+
+  16912694:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_w_14
+
+  16912695:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_w_14
+
+  16912696:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_w_14
+
+  16912697:
+    template: Omxzomit
+    level:    [73, 74]
+    region:   altaieu_w_14
+
+  16912698:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_w_14
+
+  16912699:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_w_14
+
+  16912700:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_w_14
+
+  16912701:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_w_14
+
+  16912702:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_w_14
+
+  16912703:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_w_14
+
+  16912704:
+    template: Omphuabo
+    at:       [-479.044, -0.500, 202.431, 161]
+    level:    [79, 81]
+
+  16912705:
+    template: Omphuabo
+    at:       [-405.071, -0.500, 200.139, 18]
+    level:    [79, 81]
+
+  16912706:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_w_9
+
+  16912707:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_w_9
+
+  16912708:
+    template: Omxzomit
+    level:    [74, 75]
+    region:   altaieu_w_9
+
+  16912709:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_nw_7
+
+  16912710:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_nw_7
+
+  16912711:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_nw_7
+
+  16912712:
+    template: Omaern_SMN
+    level:    [75, 78]
+    region:   altaieu_nw_7
+
+  16912713:
+    template: Aerns_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [65, 69]
+
+  16912714:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_nw_10
+
+  16912715:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_nw
+
+  16912716:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_nw
+
+  16912717:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_nw
+
+  16912718:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_nw
+
+  16912719:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_nw
+
+  16912720:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_nw_2
+
+  16912721:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_nw_2
+
+  16912722:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_nw_11
+
+  16912723:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_nw_11
+
+  16912724:
+    template: Omaern_BST
+    level:    [75, 78]
+    region:   altaieu_nw_11
+
+  16912725:
+    template: Aerns_Xzomit
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [65, 69]
+
+  16912726:
+    template: Omaern_DRG
+    level:    [75, 78]
+    region:   altaieu_nw_11
+
+  16912727:
+    template: Aerns_Wynav
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [65, 69]
+
+  16912728:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_nw_11
+
+  16912729:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_nw_11
+
+  16912730:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_nw_12
+
+  16912731:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_nw_14
+
+  16912732:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_nw_3
+
+  16912733:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_nw_3
+
+  16912734:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_nw_4
+
+  16912735:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_nw_5
+
+  16912736:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_nw_6
+
+  16912737:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_nw_6
+
+  16912738:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_nw_6
+
+  16912739:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_nw_8
+
+  16912740:
+    template: Omphuabo
+    at:       [-415.159, -0.500, 548.450, 28]
+    level:    [79, 81]
+
+  16912741:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_nw_9
+
+  16912742:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_e_6
+
+  16912743:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_e_6
+
+  16912744:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_e_7
+
+  16912745:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_e_4
+
+  16912746:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_e_4
+
+  16912747:
+    template: Omaern_DRG
+    level:    [75, 78]
+    region:   altaieu_e_4
+
+  16912748:
+    template: Aerns_Wynav
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [65, 69]
+
+  16912749:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_e_4
+
+  16912750:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_e_4
+
+  16912751:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_e_4
+
+  16912752:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_e_4
+
+  16912753:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_e_3
+
+  16912754:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_e_3
+
+  16912755:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_e_3
+
+  16912756:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_e_3
+
+  16912757:
+    template: Omphuabo
+    at:       [489.171, -0.499, 93.929, 217]
+    level:    [79, 81]
+
+  16912758:
+    template: Omphuabo
+    at:       [436.408, -0.499, -5.134, 114]
+    level:    [79, 81]
+
+  16912759:
+    template: Omphuabo
+    at:       [484.868, -0.499, -43.088, 27]
+    level:    [79, 81]
+
+  16912760:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_e
+
+  16912761:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_e
+
+  16912762:
+    template: Omaern_SMN
+    level:    [75, 78]
+    region:   altaieu_e
+
+  16912763:
+    template: Aerns_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [65, 69]
+
+  16912764:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_e
+
+  16912765:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_e_2
+
+  16912766:
+    template: Omaern
+    level:    [75, 78]
+    region:   altaieu_e_2
+
+  16912767:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_e_2
+
+  16912768:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_ne_5
+
+  16912769:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_ne_5
+
+  16912770:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_ne_5
+
+  16912771:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_ne_5
+
+  16912772:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_ne_5
+
+  16912773:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_ne_5
+
+  16912774:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_ne_7
+
+  16912775:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_ne_6
+
+  16912776:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_ne_6
+
+  16912777:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_ne_6
+
+  16912778:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_ne_6
+
+  16912779:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_ne_9
+
+  16912780:
+    template: Omxzomit
+    level:    [72, 75]
+    region:   altaieu_ne_11
+
+  16912781:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_ne_11
+
+  16912782:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_ne_11
+
+  16912783:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_ne_11
+
+  16912784:
+    template: Omphuabo
+    at:       [483.854, -0.499, 371.323, 78]
+    level:    [79, 81]
+
+  16912785:
+    template: Omxzomit
+    level:    [72, 75]
+    region:   altaieu_ne_13
+
+  16912786:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_ne_13
+
+  16912787:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_ne_13
+
+  16912788:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_ne_13
+
+  16912789:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_ne_13
+
+  16912790:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_ne_13
+
+  16912791:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_ne_15
+
+  16912792:
+    template: Omxzomit
+    level:    [72, 75]
+    region:   altaieu_ne_12
+
+  16912793:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_ne_12
+
+  16912794:
+    template: Omxzomit
+    level:    [72, 75]
+    region:   altaieu_ne_12
+
+  16912795:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_ne_12
+
+  16912796:
+    template: Omxzomit
+    level:    [72, 75]
+    region:   altaieu_ne_12
+
+  16912797:
+    template: Omxzomit
+    level:    [72, 75]
+    region:   altaieu_ne_12
+
+  16912798:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_ne_14
+
+  16912799:
+    template: Omphuabo
+    at:       [567.458, -0.238, 438.554, 150]
+    level:    [79, 81]
+
+  16912800:
+    template: Omxzomit
+    level:    [72, 75]
+    region:   altaieu_ne_4
+
+  16912801:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_ne_4
+
+  16912802:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_ne_4
+
+  16912803:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_ne_4
+
+  16912804:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_ne_4
+
+  16912805:
+    template: Omxzomit
+    level:    [73, 76]
+    region:   altaieu_ne_8
+
+  16912806:
+    template: Omxzomit
+    level:    [72, 75]
+    region:   altaieu_ne_8
+
+  16912807:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_ne_8
+
+  16912808:
+    template: Omhpemde
+    level:    [73, 77]
+    region:   altaieu_ne_8
+
+  16912809:
+    template: Omphuabo
+    at:       [402.174, -0.493, 571.392, 103]
+    level:    [79, 81]
+
+  16912810:
+    template: Omphuabo
+    level:    [79, 81]
+    region:   altaieu_ne_10
+
+  16912811:
+    template: Aweuvhi
+    at:       [300.008, -0.500, 440.956, 235]
+    level:    [78, 80]
+
+  16912812:
+    template: Omyovra
+    level:    [84, 85]
+    region:   altaieu_n_12
+
+  16912813:
+    template: Aweuvhi
+    at:       [-131.443, -1.613, 587.186, 227]
+    level:    [78, 80]
+
+  16912814:
+    template: Omyovra
+    level:    [84, 85]
+    region:   altaieu_nw_13
+
+  16912815:
+    template: Aweuvhi
+    at:       [133.624, -0.500, 718.888, 96]
+    level:    [78, 80]
+
+  16912816:
+    template: Omyovra
+    level:    [84, 85]
+    region:   altaieu_n_8
+
+  16912817:
+    template: Aweuvhi
+    at:       [-328.663, -0.500, 438.076, 6]
+    level:    [78, 80]
+
+  16912818:
+    template: Omyovra
+    level:    [84, 85]
+    region:   altaieu_nw_11
+
+  16912819:
+    template: Aweuvhi
+    at:       [-604.573, -1.416, 340.526, 160]
+    level:    [78, 80]
+
+  16912820:
+    template: Omyovra
+    level:    [84, 85]
+    region:   altaieu_nw
+
+  16912821:
+    template: Aweuvhi
+    at:       [-360.523, -0.500, 221.878, 138]
+    level:    [78, 80]
+
+  16912822:
+    template: Omyovra
+    level:    [84, 85]
+    region:   altaieu_w_14
+
+  16912823:
+    template: Aweuvhi
+    at:       [392.709, -0.500, 415.565, 24]
+    level:    [78, 80]
+
+  16912824:
+    template: Omyovra
+    level:    [84, 85]
+    region:   altaieu_ne_5
+
+  16912825:
+    template: Aweuvhi
+    at:       [474.343, -0.500, 68.152, 237]
+    level:    [78, 80]
+
+  16912826:
+    template: Omyovra
+    level:    [84, 85]
+    region:   altaieu_e_5
+
+  16912827:
+    template: Aweuvhi
+    at:       [451.779, -0.500, -245.322, 145]
+    level:    [78, 80]
+
+  16912828:
+    template: Omyovra
+    level:    [84, 85]
+    region:   altaieu_e
+
+  16912838:
+    template: Jailer_of_Hope
+    at:       [-681.683, -0.500, -77.066, 157]
+    level:    [85, 85]
+
+  16912839:
+    template: Jailer_of_Justice
+    at:       [-279.194, -0.500, -465.362, 246]
+    level:    [85, 85]
+
+  16912840:
+    template: Qnxzomit
+    at:       [-286.000, -0.500, -465.000, 0]
+    level:    [80, 80]
+
+  16912841:
+    template: Qnxzomit
+    at:       [-295.663, -0.060, -448.272, 149]
+    level:    [80, 80]
+
+  16912842:
+    template: Qnxzomit
+    at:       [-287.525, -0.500, -464.500, 69]
+    level:    [80, 80]
+
+  16912843:
+    template: Qnxzomit
+    at:       [-284.194, -0.500, -470.361, 246]
+    level:    [80, 80]
+
+  16912844:
+    template: Qnxzomit
+    at:       [-295.663, -0.060, -448.272, 149]
+    level:    [80, 80]
+
+  16912845:
+    template: Qnxzomit
+    at:       [-287.525, -0.500, -464.500, 69]
+    level:    [80, 80]
+
+  16912846:
+    template: Jailer_of_Prudence
+    at:       [706.114, -1.021, 24.110, 85]
+    level:    [85, 85]
+
+  16912847:
+    template: Jailer_of_Prudence
+    at:       [709.324, -1.289, 22.126, 85]
+    level:    [85, 85]
+
+  16912848:
+    template: Jailer_of_Love
+    at:       [437.760, -1.643, -598.571, 4]
+    level:    [90, 90]
+
+  16912849:
+    template: Ruphuabo
+    at:       [477.480, -1.111, -565.864, 39]
+    level:    [80, 80]
+
+  16912850:
+    template: Ruphuabo
+    at:       [477.550, -1.114, -566.001, 38]
+    level:    [80, 80]
+
+  16912851:
+    template: Ruphuabo
+    at:       [477.622, -1.110, -566.194, 37]
+    level:    [80, 80]
+
+  16912852:
+    template: Ruphuabo
+    at:       [480.104, -1.506, -561.952, 252]
+    level:    [80, 80]
+
+  16912853:
+    template: Ruphuabo
+    at:       [480.242, -1.498, -561.964, 252]
+    level:    [80, 80]
+
+  16912854:
+    template: Ruphuabo
+    at:       [480.110, -1.466, -562.257, 248]
+    level:    [80, 80]
+
+  16912855:
+    template: Ruphuabo
+    at:       [476.961, -1.279, -560.968, 247]
+    level:    [80, 80]
+
+  16912856:
+    template: Ruphuabo
+    at:       [477.169, -1.295, -560.921, 247]
+    level:    [80, 80]
+
+  16912857:
+    template: Ruphuabo
+    at:       [477.550, -1.328, -561.215, 242]
+    level:    [80, 80]
+
+  16912858:
+    template: Qnxzomit
+    at:       [482.157, -1.504, -561.017, 92]
+    level:    [80, 80]
+
+  16912859:
+    template: Qnxzomit
+    at:       [478.351, -1.358, -561.169, 31]
+    level:    [80, 80]
+
+  16912860:
+    template: Qnxzomit
+    at:       [479.613, -1.395, -561.400, 46]
+    level:    [80, 80]
+
+  16912861:
+    template: Qnxzomit
+    at:       [480.343, -1.461, -562.054, 250]
+    level:    [80, 80]
+
+  16912862:
+    template: Qnxzomit
+    at:       [480.538, -1.380, -561.452, 4]
+    level:    [80, 80]
+
+  16912863:
+    template: Qnxzomit
+    at:       [480.093, -1.473, -561.951, 252]
+    level:    [80, 80]
+
+  16912864:
+    template: Qnxzomit
+    at:       [479.049, -1.470, -560.512, 248]
+    level:    [80, 80]
+
+  16912865:
+    template: Qnxzomit
+    at:       [478.548, -1.473, -560.292, 40]
+    level:    [80, 80]
+
+  16912866:
+    template: Qnxzomit
+    at:       [477.643, -1.564, -561.005, 26]
+    level:    [80, 80]
+
+  16912867:
+    template: Qnhpemde
+    at:       [480.014, -1.804, -560.765, 13]
+    level:    [80, 80]
+
+  16912868:
+    template: Qnhpemde
+    at:       [479.857, -1.848, -560.908, 10]
+    level:    [80, 80]
+
+  16912869:
+    template: Qnhpemde
+    at:       [479.691, -1.850, -560.698, 41]
+    level:    [80, 80]
+
+  16912870:
+    template: Qnhpemde
+    at:       [480.161, -1.889, -560.058, 59]
+    level:    [80, 80]
+
+  16912871:
+    template: Qnhpemde
+    at:       [479.138, -1.738, -560.684, 119]
+    level:    [80, 80]
+
+  16912872:
+    template: Qnhpemde
+    at:       [481.643, -1.676, -560.652, 83]
+    level:    [80, 80]
+
+  16912873:
+    template: Qnhpemde
+    at:       [479.042, -1.840, -559.745, 28]
+    level:    [80, 80]
+
+  16912874:
+    template: Qnhpemde
+    at:       [478.761, -1.550, -559.849, 25]
+    level:    [80, 80]
+
+  16912875:
+    template: Qnhpemde
+    at:       [479.025, -1.534, -559.847, 27]
+    level:    [80, 80]
+
+  16912876:
+    template: Absolute_Virtue
+    at:       [461.266, -1.643, -580.192, 4]
+    level:    [92, 92]
+
+  16912877:
+    template: Aerns_Wynav
+    at:       [463.115, -1.346, -571.896, 181]
+    level:    [65, 69]
+
+  16912878:
+    template: Aerns_Wynav
+    at:       [463.214, -1.336, -573.022, 202]
+    level:    [65, 69]
+
+  16912879:
+    template: Aerns_Wynav
+    at:       [463.557, -1.360, -574.178, 193]
+    level:    [65, 69]
+
+  16912880:
+    template: Aerns_Wynav
+    at:       [463.115, -1.346, -571.896, 181]
+    level:    [65, 69]
+
+  16912881:
+    template: Aerns_Wynav
+    at:       [463.214, -1.336, -573.022, 202]
+    level:    [65, 69]
+
+  16912882:
+    template: Aerns_Wynav
+    at:       [463.557, -1.360, -574.178, 193]
+    level:    [65, 69]

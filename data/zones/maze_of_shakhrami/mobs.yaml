@@ -1,0 +1,2428 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17588225:
+    template: Ichorous_Ire
+    at:       [-93.000, 16.000, -101.000, 0]
+    level:    [35, 36]
+
+  17588226:
+    template: Goblin_Ambusher
+    at:       [-254.735, -0.500, -93.358, 127]
+    level:    [16, 18]
+
+  17588227:
+    template: Goblin_Tinkerer
+    level:    [16, 18]
+    region:   maze_of_shakhrami_sw
+
+  17588228:
+    template: Goblin_Butcher
+    at:       [-276.632, -0.643, -123.594, 37]
+    level:    [16, 18]
+
+  17588229:
+    template: Goblin_Ambusher
+    level:    [16, 18]
+    region:   maze_of_shakhrami_sw
+
+  17588230:
+    template: Goblin_Tinkerer
+    level:    [16, 18]
+    region:   maze_of_shakhrami_sw
+
+  17588231:
+    template: Goblin_Butcher
+    level:    [16, 18]
+    region:   maze_of_shakhrami_sw
+
+  17588232:
+    template: Maze_Maker
+    level:    [18, 21]
+    region:   maze_of_shakhrami_sw
+
+  17588233:
+    template: Maze_Maker
+    level:    [18, 21]
+    region:   maze_of_shakhrami_sw
+
+  17588234:
+    template: Maze_Maker
+    level:    [18, 21]
+    region:   maze_of_shakhrami_sw
+
+  17588235:
+    template: Maze_Maker
+    level:    [18, 21]
+    region:   maze_of_shakhrami_sw
+
+  17588236:
+    template: Stink_Bats
+    level:    [15, 18]
+    region:   maze_of_shakhrami_sw
+
+  17588237:
+    template: Stink_Bats
+    level:    [15, 18]
+    region:   maze_of_shakhrami_sw
+
+  17588238:
+    template: Stink_Bats
+    level:    [15, 18]
+    region:   maze_of_shakhrami_sw
+
+  17588239:
+    template: Stink_Bats
+    level:    [15, 18]
+    region:   maze_of_shakhrami_sw
+
+  17588240:
+    template: Combat
+    level:    [20, 23]
+    region:   maze_of_shakhrami_w
+
+  17588241:
+    template: Goblin_Ambusher
+    at:       [-149.000, -0.199, -5.000, 121]
+    level:    [16, 18]
+
+  17588242:
+    template: Goblin_Tinkerer
+    level:    [16, 18]
+    region:   maze_of_shakhrami_w_3
+
+  17588243:
+    template: Goblin_Butcher
+    level:    [16, 18]
+    region:   maze_of_shakhrami_w_3
+
+  17588244:
+    template: Goblin_Ambusher
+    at:       [-161.915, -0.493, 4.992, 127]
+    level:    [16, 18]
+
+  17588245:
+    template: Goblin_Tinkerer
+    level:    [16, 18]
+    region:   maze_of_shakhrami_w_3
+
+  17588246:
+    template: Goblin_Butcher
+    at:       [-195.733, -0.187, 3.539, 127]
+    level:    [16, 18]
+
+  17588247:
+    template: Maze_Maker
+    level:    [18, 21]
+    region:   maze_of_shakhrami_w_3
+
+  17588248:
+    template: Maze_Maker
+    level:    [18, 21]
+    region:   maze_of_shakhrami_w_3
+
+  17588249:
+    template: Maze_Maker
+    level:    [18, 21]
+    region:   maze_of_shakhrami_w_3
+
+  17588250:
+    template: Maze_Maker
+    level:    [18, 21]
+    region:   maze_of_shakhrami_w_3
+
+  17588251:
+    template: Stink_Bats
+    level:    [15, 18]
+    region:   maze_of_shakhrami_w_3
+
+  17588252:
+    template: Stink_Bats
+    level:    [15, 18]
+    region:   maze_of_shakhrami_w_3
+
+  17588253:
+    template: Stink_Bats
+    level:    [15, 18]
+    region:   maze_of_shakhrami_w_3
+
+  17588254:
+    template: Combat
+    level:    [20, 23]
+    region:   maze_of_shakhrami_w_3
+
+  17588255:
+    template: Combat
+    level:    [20, 23]
+    region:   maze_of_shakhrami_w_3
+
+  17588256:
+    template: Carnivorous_Crawler
+    level:    [22, 25]
+    region:   maze_of_shakhrami_w_6
+
+  17588257:
+    template: Stink_Bats
+    level:    [15, 18]
+    region:   maze_of_shakhrami_w_5
+
+  17588258:
+    template: Stink_Bats
+    level:    [15, 18]
+    region:   maze_of_shakhrami_w_5
+
+  17588259:
+    template: Combat
+    level:    [20, 23]
+    region:   maze_of_shakhrami_w_5
+
+  17588260:
+    template: Combat
+    level:    [20, 23]
+    region:   maze_of_shakhrami_w_5
+
+  17588261:
+    template: Carnivorous_Crawler
+    level:    [22, 25]
+    region:   maze_of_shakhrami_w_5
+
+  17588262:
+    template: Carnivorous_Crawler
+    level:    [22, 25]
+    region:   maze_of_shakhrami_w_5
+
+  17588263:
+    template: Goblin_Ambusher
+    level:    [16, 18]
+    region:   maze_of_shakhrami_w_7
+
+  17588264:
+    template: Goblin_Tinkerer
+    at:       [-125.000, -0.602, 7.000, 127]
+    level:    [16, 18]
+
+  17588265:
+    template: Goblin_Butcher
+    at:       [-99.687, -0.507, -69.124, 95]
+    level:    [16, 18]
+
+  17588266:
+    template: Goblin_Ambusher
+    level:    [16, 18]
+    region:   maze_of_shakhrami_w_7
+
+  17588267:
+    template: Goblin_Tinkerer
+    at:       [-146.000, 0.003, -2.000, 119]
+    level:    [16, 18]
+
+  17588268:
+    template: Goblin_Butcher
+    at:       [-131.153, -0.530, -20.266, 24]
+    level:    [16, 18]
+
+  17588269:
+    template: Maze_Maker
+    level:    [18, 21]
+    region:   maze_of_shakhrami_w_7
+
+  17588270:
+    template: Maze_Maker
+    level:    [18, 21]
+    region:   maze_of_shakhrami_w_7
+
+  17588271:
+    template: Maze_Maker
+    level:    [18, 21]
+    region:   maze_of_shakhrami_w_7
+
+  17588272:
+    template: Stink_Bats
+    at:       [-109.324, -0.487, -51.377, 68]
+    level:    [15, 18]
+
+  17588273:
+    template: Stink_Bats
+    level:    [15, 18]
+    region:   maze_of_shakhrami_w_7
+
+  17588274:
+    template: Combat
+    level:    [20, 23]
+    region:   maze_of_shakhrami_w_7
+
+  17588275:
+    template: Combat
+    level:    [20, 23]
+    region:   maze_of_shakhrami_w_7
+
+  17588276:
+    template: Maze_Maker
+    at:       [-108.589, 0.074, -102.373, 127]
+    level:    [18, 21]
+
+  17588277:
+    template: Maze_Maker
+    at:       [-99.858, -0.230, -96.884, 9]
+    level:    [18, 21]
+
+  17588278:
+    template: Trembler_Tabitha
+    at:       [-103.800, 0.300, -96.700, 60]
+    level:    [55, 55]
+
+  17588279:
+    template: Goblin_Ambusher
+    level:    [16, 18]
+    region:   maze_of_shakhrami_w_9
+
+  17588280:
+    template: Goblin_Tinkerer
+    at:       [-90.926, -0.771, 3.966, 104]
+    level:    [16, 18]
+
+  17588281:
+    template: Goblin_Butcher
+    at:       [-20.339, -0.178, -11.621, 127]
+    level:    [16, 18]
+
+  17588282:
+    template: Goblin_Ambusher
+    level:    [16, 18]
+    region:   maze_of_shakhrami_w_9
+
+  17588283:
+    template: Goblin_Tinkerer
+    at:       [-28.000, 0.999, -2.000, 41]
+    level:    [16, 18]
+
+  17588284:
+    template: Goblin_Butcher
+    level:    [16, 18]
+    region:   maze_of_shakhrami_w_9
+
+  17588285:
+    template: Stink_Bats
+    level:    [15, 18]
+    region:   maze_of_shakhrami_w_9
+
+  17588286:
+    template: Stink_Bats
+    level:    [15, 18]
+    region:   maze_of_shakhrami_w_9
+
+  17588287:
+    template: Stink_Bats
+    level:    [15, 18]
+    region:   maze_of_shakhrami_w_9
+
+  17588288:
+    template: Combat
+    at:       [-68.000, 0.999, -7.000, 127]
+    level:    [20, 23]
+
+  17588289:
+    template: Combat
+    level:    [20, 23]
+    region:   maze_of_shakhrami_w_9
+
+  17588290:
+    template: Carnivorous_Crawler
+    level:    [22, 25]
+    region:   maze_of_shakhrami_w_9
+
+  17588291:
+    template: Carnivorous_Crawler
+    level:    [22, 25]
+    region:   maze_of_shakhrami_w_9
+
+  17588292:
+    template: Carnivorous_Crawler
+    level:    [22, 25]
+    region:   maze_of_shakhrami_w_9
+
+  17588293:
+    template: Stink_Bats
+    level:    [15, 18]
+    region:   maze_of_shakhrami_c_2
+
+  17588294:
+    template: Stink_Bats
+    level:    [15, 18]
+    region:   maze_of_shakhrami_c_2
+
+  17588295:
+    template: Stink_Bats
+    level:    [15, 18]
+    region:   maze_of_shakhrami_c_2
+
+  17588296:
+    template: Maze_Scorpion
+    level:    [25, 27]
+    region:   maze_of_shakhrami_c_2
+
+  17588297:
+    template: Goblin_Ambusher
+    level:    [16, 18]
+    region:   maze_of_shakhrami_c_3
+
+  17588298:
+    template: Goblin_Tinkerer
+    at:       [-27.000, -0.495, 53.000, 127]
+    level:    [16, 18]
+
+  17588299:
+    template: Goblin_Butcher
+    at:       [-38.928, -0.500, 39.845, 127]
+    level:    [16, 18]
+
+  17588300:
+    template: Goblin_Ambusher
+    level:    [16, 18]
+    region:   maze_of_shakhrami_c_3
+
+  17588301:
+    template: Goblin_Tinkerer
+    level:    [16, 18]
+    region:   maze_of_shakhrami_c_3
+
+  17588302:
+    template: Goblin_Butcher
+    at:       [-50.000, -0.463, 51.000, 127]
+    level:    [16, 18]
+
+  17588303:
+    template: Combat
+    level:    [20, 23]
+    region:   maze_of_shakhrami_nw
+
+  17588304:
+    template: Combat
+    level:    [20, 23]
+    region:   maze_of_shakhrami_nw
+
+  17588305:
+    template: Carnivorous_Crawler
+    level:    [22, 25]
+    region:   maze_of_shakhrami_nw
+
+  17588306:
+    template: Carnivorous_Crawler
+    level:    [22, 25]
+    region:   maze_of_shakhrami_nw
+
+  17588307:
+    template: Goblin_Mugger
+    at:       [-152.437, -9.614, 139.240, 127]
+    level:    [22, 26]
+
+  17588308:
+    template: Goblin_Leecher
+    at:       [-143.200, -10.723, 142.939, 40]
+    level:    [22, 26]
+
+  17588309:
+    template: Goblin_Gambler
+    at:       [-151.251, -11.381, 146.374, 127]
+    level:    [22, 26]
+
+  17588310:
+    template: Goblin_Mugger
+    at:       [-143.027, -9.638, 136.212, 69]
+    level:    [22, 26]
+
+  17588311:
+    template: Goblin_Leecher
+    at:       [-136.275, -10.435, 134.343, 223]
+    level:    [22, 26]
+
+  17588312:
+    template: Goblin_Gambler
+    at:       [-151.384, -10.993, 132.841, 127]
+    level:    [22, 26]
+
+  17588313:
+    template: Combat
+    level:    [20, 23]
+    region:   maze_of_shakhrami_nw_2
+
+  17588314:
+    template: Combat
+    level:    [20, 23]
+    region:   maze_of_shakhrami_nw_2
+
+  17588315:
+    template: Carnivorous_Crawler
+    level:    [22, 25]
+    region:   maze_of_shakhrami_nw_2
+
+  17588316:
+    template: Carnivorous_Crawler
+    level:    [22, 25]
+    region:   maze_of_shakhrami_nw_2
+
+  17588317:
+    template: Ghoul
+    level:    [22, 26]
+    region:   maze_of_shakhrami_n
+
+  17588318:
+    template: Ghoul
+    level:    [22, 26]
+    region:   maze_of_shakhrami_n
+
+  17588319:
+    template: Wendigo
+    at:       [-28.270, -10.939, 182.654, 123]
+    level:    [24, 28]
+
+  17588320:
+    template: Combat
+    level:    [20, 23]
+    region:   maze_of_shakhrami_n
+
+  17588321:
+    template: Combat
+    level:    [20, 23]
+    region:   maze_of_shakhrami_n
+
+  17588322:
+    template: Carnivorous_Crawler
+    level:    [22, 25]
+    region:   maze_of_shakhrami_n
+
+  17588323:
+    template: Ghoul
+    at:       [-187.317, -1.029, -11.248, 127]
+    level:    [22, 26]
+
+  17588324:
+    template: Ghoul
+    at:       [-58.784, -1.294, -21.340, 32]
+    level:    [22, 26]
+
+  17588325:
+    template: Ghoul
+    at:       [-98.372, -1.042, -102.696, 127]
+    level:    [22, 26]
+
+  17588326:
+    template: Ghoul
+    at:       [231.000, 18.000, -199.000, 127]
+    level:    [22, 26]
+
+  17588327:
+    template: Ghoul
+    at:       [276.000, 18.000, -248.000, 127]
+    level:    [22, 26]
+
+  17588328:
+    template: Wendigo
+    at:       [-70.828, -10.798, 156.023, 12]
+    level:    [24, 28]
+
+  17588329:
+    template: Combat
+    level:    [20, 23]
+    region:   maze_of_shakhrami_n_2
+
+  17588330:
+    template: Combat
+    level:    [20, 23]
+    region:   maze_of_shakhrami_n_2
+
+  17588331:
+    template: Carnivorous_Crawler
+    level:    [22, 25]
+    region:   maze_of_shakhrami_n_2
+
+  17588332:
+    template: Carnivorous_Crawler
+    level:    [22, 25]
+    region:   maze_of_shakhrami_n_2
+
+  17588333:
+    template: Carnivorous_Crawler
+    level:    [22, 25]
+    region:   maze_of_shakhrami_n_3
+
+  17588334:
+    template: Carnivorous_Crawler
+    level:    [22, 25]
+    region:   maze_of_shakhrami_n_3
+
+  17588335:
+    template: Carnivorous_Crawler
+    level:    [22, 25]
+    region:   maze_of_shakhrami_n_3
+
+  17588336:
+    template: Carnivorous_Crawler
+    level:    [22, 25]
+    region:   maze_of_shakhrami_n_3
+
+  17588337:
+    template: Carnivorous_Crawler
+    level:    [22, 25]
+    region:   maze_of_shakhrami_n_3
+
+  17588338:
+    template: Carnivorous_Crawler
+    level:    [22, 25]
+    region:   maze_of_shakhrami_n_3
+
+  17588339:
+    template: Carnivorous_Crawler
+    level:    [22, 25]
+    region:   maze_of_shakhrami_n_3
+
+  17588340:
+    template: Carnivorous_Crawler
+    level:    [22, 25]
+    region:   maze_of_shakhrami_n_3
+
+  17588341:
+    template: Maze_Scorpion
+    level:    [25, 27]
+    region:   maze_of_shakhrami_n_3
+
+  17588342:
+    template: Maze_Scorpion
+    level:    [25, 27]
+    region:   maze_of_shakhrami_n_3
+
+  17588343:
+    template: Maze_Scorpion
+    at:       [13.293, 20.448, 163.033, 96]
+    level:    [25, 27]
+
+  17588344:
+    template: Carnivorous_Crawler
+    level:    [22, 25]
+    region:   maze_of_shakhrami_n_5
+
+  17588345:
+    template: Carnivorous_Crawler
+    level:    [22, 25]
+    region:   maze_of_shakhrami_n_5
+
+  17588346:
+    template: Jelly
+    level:    [26, 28]
+    region:   maze_of_shakhrami_n_8
+
+  17588347:
+    template: Jelly
+    at:       [89.533, 9.481, 142.650, 183]
+    level:    [26, 28]
+
+  17588348:
+    template: Poison_Leech
+    level:    [24, 28]
+    region:   maze_of_shakhrami_n_4
+
+  17588349:
+    template: Poison_Leech
+    level:    [24, 28]
+    region:   maze_of_shakhrami_n_4
+
+  17588350:
+    template: Bleeder_Leech
+    level:    [83, 85]
+    region:   maze_of_shakhrami_n_6
+
+  17588351:
+    template: Bleeder_Leech
+    level:    [83, 85]
+    region:   maze_of_shakhrami_n_6
+
+  17588352:
+    template: Bleeder_Leech
+    level:    [83, 85]
+    region:   maze_of_shakhrami_n_6
+
+  17588353:
+    template: Bleeder_Leech
+    level:    [83, 85]
+    region:   maze_of_shakhrami_n_6
+
+  17588354:
+    template: Bleeder_Leech
+    level:    [83, 85]
+    region:   maze_of_shakhrami_n_6
+
+  17588355:
+    template: Air_Elemental
+    level:    [33, 36]
+    region:   maze_of_shakhrami_n_6
+
+  17588356:
+    template: Earth_Elemental
+    level:    [33, 36]
+    region:   maze_of_shakhrami_n_6
+
+  17588357:
+    template: Bleeder_Leech
+    level:    [83, 85]
+    region:   maze_of_shakhrami_c_12
+
+  17588358:
+    template: Bleeder_Leech
+    level:    [83, 85]
+    region:   maze_of_shakhrami_c_12
+
+  17588359:
+    template: Bleeder_Leech
+    level:    [83, 85]
+    region:   maze_of_shakhrami_c_12
+
+  17588360:
+    template: Bleeder_Leech
+    level:    [83, 85]
+    region:   maze_of_shakhrami_c_12
+
+  17588361:
+    template: Chaser_Bats
+    level:    [84, 85]
+    region:   maze_of_shakhrami_c_12
+
+  17588362:
+    template: Chaser_Bats
+    at:       [123.294, -0.799, 86.650, 24]
+    level:    [84, 85]
+
+  17588363:
+    template: Air_Elemental
+    level:    [33, 36]
+    region:   maze_of_shakhrami_c_12
+
+  17588364:
+    template: Earth_Elemental
+    at:       [123.619, -0.557, 79.274, 127]
+    level:    [33, 36]
+
+  17588365:
+    template: Bleeder_Leech
+    level:    [83, 85]
+    region:   maze_of_shakhrami_n_7
+
+  17588366:
+    template: Bleeder_Leech
+    level:    [83, 85]
+    region:   maze_of_shakhrami_n_7
+
+  17588367:
+    template: Bleeder_Leech
+    level:    [83, 85]
+    region:   maze_of_shakhrami_n_7
+
+  17588368:
+    template: Bleeder_Leech
+    level:    [83, 85]
+    region:   maze_of_shakhrami_n_7
+
+  17588369:
+    template: Bleeder_Leech
+    level:    [83, 85]
+    region:   maze_of_shakhrami_n_7
+
+  17588370:
+    template: Crypterpillar
+    at:       [141.811, -0.808, 22.382, 1]
+    level:    [87, 88]
+
+  17588371:
+    template: Air_Elemental
+    level:    [33, 36]
+    region:   maze_of_shakhrami_n_7
+
+  17588372:
+    template: Earth_Elemental
+    at:       [156.495, -0.472, 5.078, 33]
+    level:    [33, 36]
+
+  17588373:
+    template: Bleeder_Leech
+    level:    [83, 85]
+    region:   maze_of_shakhrami_n_9
+
+  17588374:
+    template: Bleeder_Leech
+    level:    [83, 85]
+    region:   maze_of_shakhrami_n_9
+
+  17588375:
+    template: Bleeder_Leech
+    level:    [83, 85]
+    region:   maze_of_shakhrami_n_9
+
+  17588376:
+    template: Bleeder_Leech
+    level:    [83, 85]
+    region:   maze_of_shakhrami_n_9
+
+  17588377:
+    template: Bleeder_Leech
+    level:    [83, 85]
+    region:   maze_of_shakhrami_n_9
+
+  17588378:
+    template: Air_Elemental
+    level:    [33, 36]
+    region:   maze_of_shakhrami_n_9
+
+  17588379:
+    template: Earth_Elemental
+    at:       [166.515, 0.266, -52.960, 118]
+    level:    [33, 36]
+
+  17588380:
+    template: Bleeder_Leech
+    level:    [83, 85]
+    region:   maze_of_shakhrami_c_12
+
+  17588381:
+    template: Chaser_Bats
+    level:    [84, 85]
+    region:   maze_of_shakhrami_c_15
+
+  17588382:
+    template: Chaser_Bats
+    level:    [84, 85]
+    region:   maze_of_shakhrami_c_15
+
+  17588383:
+    template: Chaser_Bats
+    level:    [84, 85]
+    region:   maze_of_shakhrami_c_15
+
+  17588384:
+    template: Chaser_Bats
+    level:    [84, 85]
+    region:   maze_of_shakhrami_c_15
+
+  17588385:
+    template: Chaser_Bats
+    level:    [84, 85]
+    region:   maze_of_shakhrami_c_14
+
+  17588386:
+    template: Chaser_Bats
+    level:    [84, 85]
+    region:   maze_of_shakhrami_c_14
+
+  17588387:
+    template: Chaser_Bats
+    level:    [84, 85]
+    region:   maze_of_shakhrami_c_14
+
+  17588388:
+    template: Chaser_Bats
+    level:    [84, 85]
+    region:   maze_of_shakhrami_c_14
+
+  17588389:
+    template: Chaser_Bats
+    level:    [84, 85]
+    region:   maze_of_shakhrami_c_14
+
+  17588390:
+    template: Bleeder_Leech
+    level:    [83, 85]
+    region:   maze_of_shakhrami_c_16
+
+  17588391:
+    template: Chaser_Bats
+    level:    [84, 85]
+    region:   maze_of_shakhrami_c_16
+
+  17588392:
+    template: Chaser_Bats
+    level:    [84, 85]
+    region:   maze_of_shakhrami_c_16
+
+  17588393:
+    template: Chaser_Bats
+    level:    [84, 85]
+    region:   maze_of_shakhrami_c_16
+
+  17588394:
+    template: Chaser_Bats
+    level:    [84, 85]
+    region:   maze_of_shakhrami_c_16
+
+  17588395:
+    template: Chaser_Bats
+    at:       [266.752, -1.626, -146.686, 127]
+    level:    [84, 85]
+
+  17588396:
+    template: Bleeder_Leech
+    level:    [83, 85]
+    region:   maze_of_shakhrami_c_16
+
+  17588397:
+    template: Chaser_Bats
+    level:    [84, 85]
+    region:   maze_of_shakhrami_c_13
+
+  17588398:
+    template: Chaser_Bats
+    level:    [84, 85]
+    region:   maze_of_shakhrami_c_13
+
+  17588399:
+    template: Chaser_Bats
+    level:    [84, 85]
+    region:   maze_of_shakhrami_c_13
+
+  17588400:
+    template: Chaser_Bats
+    level:    [84, 85]
+    region:   maze_of_shakhrami_c_13
+
+  17588401:
+    template: Crypterpillar
+    at:       [224.580, -0.513, -146.274, 127]
+    level:    [87, 88]
+
+  17588402:
+    template: Chaser_Bats
+    at:       [240.309, -0.461, -115.896, 107]
+    level:    [84, 85]
+
+  17588403:
+    template: Crypterpillar
+    level:    [87, 88]
+    region:   maze_of_shakhrami_c_19
+
+  17588404:
+    template: Crypterpillar
+    level:    [87, 88]
+    region:   maze_of_shakhrami_c_19
+
+  17588405:
+    template: Crypterpillar
+    level:    [87, 88]
+    region:   maze_of_shakhrami_c_19
+
+  17588406:
+    template: Crypterpillar
+    level:    [87, 88]
+    region:   maze_of_shakhrami_c_19
+
+  17588407:
+    template: Crypterpillar
+    level:    [87, 88]
+    region:   maze_of_shakhrami_c_19
+
+  17588408:
+    template: Chaser_Bats
+    level:    [84, 85]
+    region:   maze_of_shakhrami_c_18
+
+  17588409:
+    template: Crypterpillar
+    at:       [190.000, -1.000, -106.000, 127]
+    level:    [87, 88]
+
+  17588410:
+    template: Crypterpillar
+    level:    [87, 88]
+    region:   maze_of_shakhrami_c_18
+
+  17588411:
+    template: Crypterpillar
+    level:    [87, 88]
+    region:   maze_of_shakhrami_c_18
+
+  17588412:
+    template: Crypterpillar
+    level:    [87, 88]
+    region:   maze_of_shakhrami_c_18
+
+  17588413:
+    template: Crypterpillar
+    level:    [87, 88]
+    region:   maze_of_shakhrami_c_18
+
+  17588414:
+    template: Crypterpillar
+    level:    [87, 88]
+    region:   maze_of_shakhrami_c_17
+
+  17588415:
+    template: Crypterpillar
+    level:    [87, 88]
+    region:   maze_of_shakhrami_c_17
+
+  17588416:
+    template: Warren_Bat
+    level:    [86, 88]
+    region:   maze_of_shakhrami_c_17
+
+  17588417:
+    template: Warren_Bat
+    level:    [86, 88]
+    region:   maze_of_shakhrami_c_17
+
+  17588418:
+    template: Warren_Bat
+    level:    [86, 88]
+    region:   maze_of_shakhrami_c_17
+
+  17588419:
+    template: Crypterpillar
+    level:    [87, 88]
+    region:   maze_of_shakhrami_e
+
+  17588420:
+    template: Crypterpillar
+    level:    [87, 88]
+    region:   maze_of_shakhrami_e
+
+  17588421:
+    template: Warren_Bat
+    level:    [86, 88]
+    region:   maze_of_shakhrami_e
+
+  17588422:
+    template: Warren_Bat
+    level:    [86, 88]
+    region:   maze_of_shakhrami_e
+
+  17588423:
+    template: Warren_Bat
+    level:    [86, 88]
+    region:   maze_of_shakhrami_e
+
+  17588424:
+    template: Crypterpillar
+    level:    [87, 88]
+    region:   maze_of_shakhrami_se
+
+  17588425:
+    template: Crypterpillar
+    level:    [87, 88]
+    region:   maze_of_shakhrami_se
+
+  17588426:
+    template: Warren_Bat
+    level:    [86, 88]
+    region:   maze_of_shakhrami_se
+
+  17588427:
+    template: Warren_Bat
+    level:    [86, 88]
+    region:   maze_of_shakhrami_se
+
+  17588428:
+    template: Warren_Bat
+    level:    [86, 88]
+    region:   maze_of_shakhrami_se
+
+  17588429:
+    template: Crypterpillar
+    level:    [87, 88]
+    region:   maze_of_shakhrami_se_2
+
+  17588430:
+    template: Crypterpillar
+    level:    [87, 88]
+    region:   maze_of_shakhrami_se_2
+
+  17588431:
+    template: Warren_Bat
+    level:    [86, 88]
+    region:   maze_of_shakhrami_se_2
+
+  17588432:
+    template: Warren_Bat
+    level:    [86, 88]
+    region:   maze_of_shakhrami_se_2
+
+  17588433:
+    template: Warren_Bat
+    level:    [86, 88]
+    region:   maze_of_shakhrami_se_2
+
+  17588434:
+    template: Crypterpillar
+    level:    [87, 88]
+    region:   maze_of_shakhrami_se_3
+
+  17588435:
+    template: Warren_Bat
+    level:    [86, 88]
+    region:   maze_of_shakhrami_se_3
+
+  17588436:
+    template: Warren_Bat
+    level:    [86, 88]
+    region:   maze_of_shakhrami_se_3
+
+  17588437:
+    template: Warren_Bat
+    level:    [86, 88]
+    region:   maze_of_shakhrami_se_3
+
+  17588438:
+    template: Warren_Bat
+    level:    [86, 88]
+    region:   maze_of_shakhrami_se_3
+
+  17588439:
+    template: Crypterpillar
+    level:    [87, 88]
+    region:   maze_of_shakhrami_se_5
+
+  17588440:
+    template: Warren_Bat
+    level:    [86, 88]
+    region:   maze_of_shakhrami_se_5
+
+  17588441:
+    template: Warren_Bat
+    level:    [86, 88]
+    region:   maze_of_shakhrami_se_5
+
+  17588442:
+    template: Warren_Bat
+    level:    [86, 88]
+    region:   maze_of_shakhrami_se_5
+
+  17588443:
+    template: Warren_Bat
+    level:    [86, 88]
+    region:   maze_of_shakhrami_se_5
+
+  17588444:
+    template: Ancient_Bat
+    level:    [26, 29]
+    region:   maze_of_shakhrami_s_7
+
+  17588445:
+    template: Ancient_Bat
+    level:    [26, 29]
+    region:   maze_of_shakhrami_s_7
+
+  17588446:
+    template: Seeker_Bats
+    level:    [23, 26]
+    region:   maze_of_shakhrami_s_7
+
+  17588447:
+    template: Seeker_Bats
+    level:    [23, 26]
+    region:   maze_of_shakhrami_s_7
+
+  17588448:
+    template: Poison_Leech
+    level:    [24, 28]
+    region:   maze_of_shakhrami_s_7
+
+  17588449:
+    template: Poison_Leech
+    level:    [24, 28]
+    region:   maze_of_shakhrami_s_7
+
+  17588450:
+    template: Ghoul
+    at:       [-179.574, 9.567, -67.017, 62]
+    level:    [22, 26]
+
+  17588451:
+    template: Wendigo
+    at:       [-179.191, 9.316, -118.260, 127]
+    level:    [24, 28]
+
+  17588452:
+    template: Ancient_Bat
+    level:    [26, 29]
+    region:   maze_of_shakhrami_ne
+
+  17588453:
+    template: Ancient_Bat
+    level:    [26, 29]
+    region:   maze_of_shakhrami_ne
+
+  17588454:
+    template: Ancient_Bat
+    level:    [26, 29]
+    region:   maze_of_shakhrami_ne
+
+  17588455:
+    template: Seeker_Bats
+    level:    [23, 26]
+    region:   maze_of_shakhrami_ne
+
+  17588456:
+    template: Seeker_Bats
+    level:    [23, 26]
+    region:   maze_of_shakhrami_ne
+
+  17588457:
+    template: Jelly
+    level:    [26, 28]
+    region:   maze_of_shakhrami_ne
+
+  17588458:
+    template: Jelly
+    level:    [26, 28]
+    region:   maze_of_shakhrami_ne
+
+  17588459:
+    template: Ghoul
+    level:    [22, 26]
+    region:   maze_of_shakhrami_e_3
+
+  17588460:
+    template: Ghoul
+    level:    [22, 26]
+    region:   maze_of_shakhrami_e_3
+
+  17588461:
+    template: Ghoul
+    level:    [22, 26]
+    region:   maze_of_shakhrami_e_3
+
+  17588462:
+    template: Ghoul
+    level:    [22, 26]
+    region:   maze_of_shakhrami_e_3
+
+  17588463:
+    template: Wendigo
+    level:    [24, 28]
+    region:   maze_of_shakhrami_e_3
+
+  17588464:
+    template: Wendigo
+    level:    [24, 28]
+    region:   maze_of_shakhrami_e_3
+
+  17588465:
+    template: Ancient_Bat
+    level:    [26, 29]
+    region:   maze_of_shakhrami_e_3
+
+  17588466:
+    template: Ancient_Bat
+    level:    [26, 29]
+    region:   maze_of_shakhrami_e_3
+
+  17588467:
+    template: Seeker_Bats
+    level:    [23, 26]
+    region:   maze_of_shakhrami_e_3
+
+  17588468:
+    template: Seeker_Bats
+    level:    [23, 26]
+    region:   maze_of_shakhrami_e_3
+
+  17588469:
+    template: Gloombound_Lurker
+    level:    [47, 48]
+    region:   maze_of_shakhrami_e_3
+
+  17588470:
+    template: Ghoul
+    at:       [-197.695, 19.500, 1.674, 31]
+    level:    [22, 26]
+
+  17588471:
+    template: Wendigo
+    at:       [258.790, -1.150, 62.367, 216]
+    level:    [24, 28]
+
+  17588472:
+    template: Ghoul
+    at:       [190.748, 2.905, 15.168, 86]
+    level:    [22, 26]
+
+  17588473:
+    template: Wendigo
+    at:       [164.111, 17.934, -20.229, 3]
+    level:    [24, 28]
+
+  17588474:
+    template: Goblin_Ambusher
+    level:    [16, 18]
+    region:   maze_of_shakhrami_s
+
+  17588475:
+    template: Goblin_Tinkerer
+    level:    [16, 18]
+    region:   maze_of_shakhrami_c_8
+
+  17588476:
+    template: Goblin_Butcher
+    level:    [16, 18]
+    region:   maze_of_shakhrami_s
+
+  17588477:
+    template: Goblin_Ambusher
+    at:       [123.440, 19.888, 6.572, 23]
+    level:    [16, 18]
+
+  17588478:
+    template: Goblin_Tinkerer
+    level:    [16, 18]
+    region:   maze_of_shakhrami_s
+
+  17588479:
+    template: Goblin_Butcher
+    at:       [56.249, 18.985, 36.442, 81]
+    level:    [16, 18]
+
+  17588480:
+    template: Maze_Maker
+    level:    [18, 21]
+    region:   maze_of_shakhrami_s
+
+  17588481:
+    template: Maze_Maker
+    level:    [18, 21]
+    region:   maze_of_shakhrami_s
+
+  17588482:
+    template: Maze_Maker
+    level:    [18, 21]
+    region:   maze_of_shakhrami_s
+
+  17588483:
+    template: Stink_Bats
+    level:    [15, 18]
+    region:   maze_of_shakhrami_s
+
+  17588484:
+    template: Stink_Bats
+    level:    [15, 18]
+    region:   maze_of_shakhrami_s
+
+  17588485:
+    template: Combat
+    level:    [20, 23]
+    region:   maze_of_shakhrami_s
+
+  17588486:
+    template: Combat
+    level:    [20, 23]
+    region:   maze_of_shakhrami_s
+
+  17588487:
+    template: Ghoul
+    at:       [59.467, 19.499, -4.648, 127]
+    level:    [22, 26]
+
+  17588488:
+    template: Ghoul
+    at:       [-18.157, 19.625, -6.461, 127]
+    level:    [22, 26]
+
+  17588489:
+    template: Jelly
+    at:       [-94.052, -0.378, -148.637, 227]
+    level:    [26, 28]
+
+  17588490:
+    template: Jelly
+    at:       [-98.728, -0.605, -148.046, 170]
+    level:    [26, 28]
+
+  17588491:
+    template: Maze_Maker
+    level:    [18, 21]
+    region:   maze_of_shakhrami_sw_2
+
+  17588492:
+    template: Maze_Maker
+    level:    [18, 21]
+    region:   maze_of_shakhrami_sw_2
+
+  17588493:
+    template: Stink_Bats
+    level:    [15, 18]
+    region:   maze_of_shakhrami_sw_2
+
+  17588494:
+    template: Stink_Bats
+    level:    [15, 18]
+    region:   maze_of_shakhrami_sw_2
+
+  17588495:
+    template: Combat
+    level:    [20, 23]
+    region:   maze_of_shakhrami_sw_2
+
+  17588496:
+    template: Maze_Maker
+    level:    [18, 21]
+    region:   maze_of_shakhrami_w_4
+
+  17588497:
+    template: Maze_Maker
+    level:    [18, 21]
+    region:   maze_of_shakhrami_w_4
+
+  17588498:
+    template: Stink_Bats
+    level:    [15, 18]
+    region:   maze_of_shakhrami_w_4
+
+  17588499:
+    template: Stink_Bats
+    level:    [15, 18]
+    region:   maze_of_shakhrami_w_4
+
+  17588500:
+    template: Combat
+    level:    [20, 23]
+    region:   maze_of_shakhrami_w_4
+
+  17588501:
+    template: Goblin_Ambusher
+    level:    [16, 18]
+    region:   maze_of_shakhrami_w_2
+
+  17588502:
+    template: Goblin_Tinkerer
+    at:       [-45.635, 19.472, -89.965, 36]
+    level:    [16, 18]
+
+  17588503:
+    template: Goblin_Butcher
+    at:       [-74.357, 19.485, -40.783, 127]
+    level:    [16, 18]
+
+  17588504:
+    template: Goblin_Ambusher
+    level:    [16, 18]
+    region:   maze_of_shakhrami_w_2
+
+  17588505:
+    template: Goblin_Tinkerer
+    at:       [-44.005, 19.468, -48.241, 127]
+    level:    [16, 18]
+
+  17588506:
+    template: Goblin_Butcher
+    at:       [-57.979, 19.313, -49.139, 127]
+    level:    [16, 18]
+
+  17588507:
+    template: Stink_Bats
+    level:    [15, 18]
+    region:   maze_of_shakhrami_w_2
+
+  17588508:
+    template: Stink_Bats
+    level:    [15, 18]
+    region:   maze_of_shakhrami_w_2
+
+  17588509:
+    template: Combat
+    level:    [20, 23]
+    region:   maze_of_shakhrami_w_2
+
+  17588510:
+    template: Goblin_Mugger
+    at:       [-47.848, 19.576, -47.172, 127]
+    level:    [22, 26]
+
+  17588511:
+    template: Goblin_Leecher
+    at:       [-45.615, 19.990, -63.870, 127]
+    level:    [22, 26]
+
+  17588512:
+    template: Goblin_Gambler
+    at:       [-125.000, 19.000, -34.000, 93]
+    level:    [22, 26]
+
+  17588513:
+    template: Abyss_Worm
+    level:    [27, 30]
+    region:   maze_of_shakhrami_c_20
+
+  17588514:
+    template: Seeker_Bats
+    level:    [23, 26]
+    region:   maze_of_shakhrami_c_20
+
+  17588515:
+    template: Seeker_Bats
+    level:    [23, 26]
+    region:   maze_of_shakhrami_c_20
+
+  17588516:
+    template: Ancient_Bat
+    level:    [26, 29]
+    region:   maze_of_shakhrami_c_20
+
+  17588517:
+    template: Abyss_Worm
+    at:       [-118.473, 19.851, -29.671, 127]
+    level:    [27, 30]
+
+  17588518:
+    template: Abyss_Worm
+    at:       [-89.712, 19.555, -51.849, 127]
+    level:    [27, 30]
+
+  17588519:
+    template: Abyss_Worm
+    at:       [-113.607, 19.466, -44.403, 127]
+    level:    [27, 30]
+
+  17588520:
+    template: Wight
+    level:    [32, 35]
+    region:   maze_of_shakhrami_c_11
+
+  17588521:
+    template: Abyss_Worm
+    at:       [-100.098, 20.044, -44.894, 47]
+    level:    [27, 30]
+
+  17588522:
+    template: Abyss_Worm
+    at:       [-81.224, 19.302, -34.271, 127]
+    level:    [27, 30]
+
+  17588523:
+    template: Abyss_Worm
+    level:    [27, 30]
+    region:   maze_of_shakhrami_c_11
+
+  17588524:
+    template: Seeker_Bats
+    level:    [23, 26]
+    region:   maze_of_shakhrami_c_11
+
+  17588525:
+    template: Wight
+    at:       [-105.838, 17.690, -96.894, 64]
+    level:    [32, 35]
+
+  17588526:
+    template: Wight
+    at:       [57.599, 19.048, 46.960, 176]
+    level:    [32, 35]
+
+  17588527:
+    template: Wight
+    at:       [-23.429, 20.218, 10.213, 59]
+    level:    [32, 35]
+
+  17588528:
+    template: Wight
+    at:       [-49.120, 18.633, -13.697, 31]
+    level:    [32, 35]
+
+  17588529:
+    template: Wight
+    level:    [32, 35]
+    region:   maze_of_shakhrami_c_9
+
+  17588530:
+    template: Wight
+    level:    [32, 35]
+    region:   maze_of_shakhrami_c_6
+
+  17588531:
+    template: Wight
+    level:    [32, 35]
+    region:   maze_of_shakhrami_c_7
+
+  17588532:
+    template: Wight
+    level:    [32, 35]
+    region:   maze_of_shakhrami_c_5
+
+  17588533:
+    template: Abyss_Worm
+    level:    [27, 30]
+    region:   maze_of_shakhrami_c_9
+
+  17588534:
+    template: Abyss_Worm
+    level:    [27, 30]
+    region:   maze_of_shakhrami_c_6
+
+  17588535:
+    template: Abyss_Worm
+    level:    [27, 30]
+    region:   maze_of_shakhrami_c_7
+
+  17588536:
+    template: Abyss_Worm
+    level:    [27, 30]
+    region:   maze_of_shakhrami_c_5
+
+  17588537:
+    template: Ancient_Bat
+    level:    [26, 29]
+    region:   maze_of_shakhrami_c_5
+
+  17588538:
+    template: Ancient_Bat
+    level:    [26, 29]
+    region:   maze_of_shakhrami_c_5
+
+  17588539:
+    template: Labyrinth_Scorpion
+    level:    [30, 33]
+    region:   maze_of_shakhrami_c_5
+
+  17588540:
+    template: Labyrinth_Scorpion
+    level:    [30, 33]
+    region:   maze_of_shakhrami_c_5
+
+  17588541:
+    template: Air_Elemental
+    level:    [33, 36]
+    region:   maze_of_shakhrami_c_5
+
+  17588542:
+    template: Earth_Elemental
+    level:    [33, 36]
+    region:   maze_of_shakhrami_c_7
+
+  17588543:
+    template: Wight
+    level:    [32, 35]
+    region:   maze_of_shakhrami_w_11
+
+  17588544:
+    template: Wight
+    level:    [32, 35]
+    region:   maze_of_shakhrami_w_10
+
+  17588545:
+    template: Wight
+    level:    [32, 35]
+    region:   maze_of_shakhrami_c_4
+
+  17588546:
+    template: Wight
+    level:    [32, 35]
+    region:   maze_of_shakhrami_s
+
+  17588547:
+    template: Abyss_Worm
+    level:    [27, 30]
+    region:   maze_of_shakhrami_w_11
+
+  17588548:
+    template: Abyss_Worm
+    level:    [27, 30]
+    region:   maze_of_shakhrami_w_10
+
+  17588549:
+    template: Abyss_Worm
+    level:    [27, 30]
+    region:   maze_of_shakhrami_c_4
+
+  17588550:
+    template: Abyss_Worm
+    level:    [27, 30]
+    region:   maze_of_shakhrami_s
+
+  17588551:
+    template: Ancient_Bat
+    level:    [26, 29]
+    region:   maze_of_shakhrami_c
+
+  17588552:
+    template: Ancient_Bat
+    level:    [26, 29]
+    region:   maze_of_shakhrami_c
+
+  17588553:
+    template: Labyrinth_Scorpion
+    level:    [30, 33]
+    region:   maze_of_shakhrami_c
+
+  17588554:
+    template: Labyrinth_Scorpion
+    at:       [104.821, 19.395, -110.147, 65]
+    level:    [30, 33]
+
+  17588555:
+    template: Wight
+    level:    [32, 35]
+    region:   maze_of_shakhrami_w_7
+
+  17588556:
+    template: Wight
+    level:    [32, 35]
+    region:   maze_of_shakhrami_w_7
+
+  17588557:
+    template: Wight
+    level:    [32, 35]
+    region:   maze_of_shakhrami_w_8
+
+  17588558:
+    template: Abyss_Worm
+    level:    [27, 30]
+    region:   maze_of_shakhrami_w_7
+
+  17588559:
+    template: Abyss_Worm
+    level:    [27, 30]
+    region:   maze_of_shakhrami_w_7
+
+  17588560:
+    template: Abyss_Worm
+    level:    [27, 30]
+    region:   maze_of_shakhrami_w_8
+
+  17588561:
+    template: Ancient_Bat
+    level:    [26, 29]
+    region:   maze_of_shakhrami_w_7
+
+  17588562:
+    template: Ancient_Bat
+    level:    [26, 29]
+    region:   maze_of_shakhrami_w_7
+
+  17588563:
+    template: Labyrinth_Scorpion
+    level:    [30, 33]
+    region:   maze_of_shakhrami_w_7
+
+  17588564:
+    template: Labyrinth_Scorpion
+    at:       [125.572, 19.732, -120.216, 127]
+    level:    [30, 33]
+
+  17588565:
+    template: Air_Elemental
+    level:    [33, 36]
+    region:   maze_of_shakhrami_w_7
+
+  17588566:
+    template: Earth_Elemental
+    level:    [33, 36]
+    region:   maze_of_shakhrami_w_7
+
+  17588567:
+    template: Labyrinth_Scorpion
+    level:    [30, 33]
+    region:   maze_of_shakhrami_sw_3
+
+  17588568:
+    template: Labyrinth_Scorpion
+    level:    [30, 33]
+    region:   maze_of_shakhrami_sw_3
+
+  17588569:
+    template: Protozoan
+    level:    [29, 31]
+    region:   maze_of_shakhrami_sw_3
+
+  17588570:
+    template: Wight
+    at:       [-36.483, 19.319, 5.305, 190]
+    level:    [32, 35]
+
+  17588571:
+    template: Wight
+    at:       [99.726, 12.857, -185.486, 41]
+    level:    [32, 35]
+
+  17588572:
+    template: Wight
+    at:       [102.059, 19.287, -164.017, 62]
+    level:    [32, 35]
+
+  17588573:
+    template: Wight
+    at:       [111.173, 19.993, -144.990, 127]
+    level:    [32, 35]
+
+  17588574:
+    template: Wight
+    at:       [141.000, 9.000, -224.000, 127]
+    level:    [32, 35]
+
+  17588575:
+    template: Wight
+    at:       [-29.728, 20.210, -57.849, 139]
+    level:    [32, 35]
+
+  17588576:
+    template: Wight
+    at:       [-70.412, 19.282, -48.405, 138]
+    level:    [32, 35]
+
+  17588577:
+    template: Wight
+    at:       [-60.305, 18.844, -57.265, 219]
+    level:    [32, 35]
+
+  17588578:
+    template: Wight
+    at:       [141.000, 10.000, -201.000, 118]
+    level:    [32, 35]
+
+  17588579:
+    template: Wight
+    at:       [150.059, 3.787, -184.561, 113]
+    level:    [32, 35]
+
+  17588580:
+    template: Wight
+    at:       [-101.755, 19.197, -30.609, 65]
+    level:    [32, 35]
+
+  17588581:
+    template: Wight
+    at:       [-101.440, 19.941, -31.902, 52]
+    level:    [32, 35]
+
+  17588582:
+    template: Wight
+    at:       [-123.752, 19.222, -46.740, 90]
+    level:    [32, 35]
+
+  17588583:
+    template: Wight
+    at:       [-110.937, 19.526, -48.500, 52]
+    level:    [32, 35]
+
+  17588584:
+    template: Ancient_Bat
+    level:    [26, 29]
+    region:   maze_of_shakhrami_s_2
+
+  17588585:
+    template: Ancient_Bat
+    level:    [26, 29]
+    region:   maze_of_shakhrami_s_2
+
+  17588586:
+    template: Labyrinth_Scorpion
+    level:    [30, 33]
+    region:   maze_of_shakhrami_s_3
+
+  17588587:
+    template: Protozoan
+    level:    [29, 31]
+    region:   maze_of_shakhrami_s_3
+
+  17588588:
+    template: Protozoan
+    level:    [29, 31]
+    region:   maze_of_shakhrami_s_3
+
+  17588589:
+    template: Lesath
+    level:    [43, 44]
+    region:   maze_of_shakhrami_s_3
+
+  17588590:
+    template: Goblin_Mugger
+    level:    [22, 26]
+    region:   maze_of_shakhrami_c_10
+
+  17588591:
+    template: Goblin_Leecher
+    at:       [393.000, -0.532, -66.000, 127]
+    level:    [22, 26]
+
+  17588592:
+    template: Goblin_Gambler
+    level:    [22, 26]
+    region:   maze_of_shakhrami_c_10
+
+  17588593:
+    template: Goblin_Mugger
+    level:    [22, 26]
+    region:   maze_of_shakhrami_c_10
+
+  17588594:
+    template: Goblin_Leecher
+    level:    [22, 26]
+    region:   maze_of_shakhrami_c_10
+
+  17588595:
+    template: Goblin_Gambler
+    level:    [22, 26]
+    region:   maze_of_shakhrami_c_10
+
+  17588596:
+    template: Goblin_Mugger
+    level:    [22, 26]
+    region:   maze_of_shakhrami_s_4
+
+  17588597:
+    template: Goblin_Leecher
+    level:    [22, 26]
+    region:   maze_of_shakhrami_s_4
+
+  17588598:
+    template: Goblin_Gambler
+    level:    [22, 26]
+    region:   maze_of_shakhrami_s_4
+
+  17588599:
+    template: Goblin_Mugger
+    level:    [22, 26]
+    region:   maze_of_shakhrami_s_4
+
+  17588600:
+    template: Goblin_Leecher
+    level:    [22, 26]
+    region:   maze_of_shakhrami_s_4
+
+  17588601:
+    template: Goblin_Gambler
+    level:    [22, 26]
+    region:   maze_of_shakhrami_s_4
+
+  17588602:
+    template: Carnivorous_Crawler
+    level:    [22, 25]
+    region:   maze_of_shakhrami_s_4
+
+  17588603:
+    template: Carnivorous_Crawler
+    level:    [22, 25]
+    region:   maze_of_shakhrami_s_4
+
+  17588604:
+    template: Carnivorous_Crawler
+    level:    [22, 25]
+    region:   maze_of_shakhrami_s_4
+
+  17588605:
+    template: Carnivorous_Crawler
+    level:    [22, 25]
+    region:   maze_of_shakhrami_s_4
+
+  17588606:
+    template: Carnivorous_Crawler
+    level:    [22, 25]
+    region:   maze_of_shakhrami_s_4
+
+  17588607:
+    template: Maze_Scorpion
+    level:    [25, 27]
+    region:   maze_of_shakhrami_s_4
+
+  17588608:
+    template: Maze_Scorpion
+    level:    [25, 27]
+    region:   maze_of_shakhrami_s_4
+
+  17588609:
+    template: Ghoul
+    at:       [86.860, 18.883, -126.675, 199]
+    level:    [22, 26]
+
+  17588610:
+    template: Wendigo
+    at:       [322.000, 19.517, -140.000, 64]
+    level:    [24, 28]
+
+  17588611:
+    template: Ghoul
+    at:       [101.074, 18.418, -99.322, 31]
+    level:    [22, 26]
+
+  17588612:
+    template: Wendigo
+    at:       [292.198, 20.132, -138.770, 127]
+    level:    [24, 28]
+
+  17588613:
+    template: Ghoul
+    at:       [114.680, 19.239, -74.301, 162]
+    level:    [22, 26]
+
+  17588614:
+    template: Wendigo
+    at:       [300.796, 19.791, -132.434, 127]
+    level:    [24, 28]
+
+  17588615:
+    template: Carnivorous_Crawler
+    level:    [22, 25]
+    region:   maze_of_shakhrami_s_5
+
+  17588616:
+    template: Carnivorous_Crawler
+    level:    [22, 25]
+    region:   maze_of_shakhrami_s_5
+
+  17588617:
+    template: Carnivorous_Crawler
+    level:    [22, 25]
+    region:   maze_of_shakhrami_s_5
+
+  17588618:
+    template: Ghoul
+    at:       [133.869, 9.782, -216.282, 21]
+    level:    [22, 26]
+
+  17588619:
+    template: Wendigo
+    at:       [229.046, 19.457, -86.832, 76]
+    level:    [24, 28]
+
+  17588620:
+    template: Ghoul
+    at:       [140.650, 9.262, -222.604, 182]
+    level:    [22, 26]
+
+  17588621:
+    template: Wendigo
+    at:       [262.238, 18.940, -85.907, 127]
+    level:    [24, 28]
+
+  17588622:
+    template: Poison_Leech
+    level:    [26, 27]
+    region:   maze_of_shakhrami_s_6
+
+  17588623:
+    template: Poison_Leech
+    level:    [26, 27]
+    region:   maze_of_shakhrami_s_6
+
+  17588624:
+    template: Ancient_Bat
+    level:    [26, 29]
+    region:   maze_of_shakhrami_e_4
+
+  17588625:
+    template: Ancient_Bat
+    level:    [26, 29]
+    region:   maze_of_shakhrami_e_4
+
+  17588626:
+    template: Caterchipillar
+    level:    [29, 31]
+    region:   maze_of_shakhrami_e_4
+
+  17588627:
+    template: Caterchipillar
+    level:    [29, 31]
+    region:   maze_of_shakhrami_e_4
+
+  17588628:
+    template: Goblin_Pathfinder
+    level:    [31, 34]
+    region:   maze_of_shakhrami_e_5
+
+  17588629:
+    template: Goblins_Bat
+    level:    [24, 26]
+    region:   maze_of_shakhrami_e_5
+
+  17588630:
+    template: Goblin_Furrier
+    at:       [231.000, 20.000, -79.000, 56]
+    level:    [31, 34]
+
+  17588631:
+    template: Goblin_Smithy
+    level:    [31, 34]
+    region:   maze_of_shakhrami_e_5
+
+  17588632:
+    template: Goblin_Shaman
+    at:       [297.000, 20.000, -140.000, 127]
+    level:    [31, 34]
+
+  17588633:
+    template: Goblin_Pathfinder
+    at:       [297.000, 20.000, -135.000, 127]
+    level:    [31, 34]
+
+  17588634:
+    template: Goblins_Bat
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [24, 26]
+
+  17588635:
+    template: Goblin_Furrier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [31, 34]
+
+  17588636:
+    template: Goblin_Smithy
+    level:    [31, 34]
+    region:   maze_of_shakhrami_e_5
+
+  17588637:
+    template: Goblin_Shaman
+    level:    [31, 34]
+    region:   maze_of_shakhrami_e_5
+
+  17588638:
+    template: Ancient_Bat
+    level:    [26, 29]
+    region:   maze_of_shakhrami_e_5
+
+  17588639:
+    template: Ancient_Bat
+    level:    [26, 29]
+    region:   maze_of_shakhrami_e_5
+
+  17588640:
+    template: Ancient_Bat
+    level:    [26, 29]
+    region:   maze_of_shakhrami_e_5
+
+  17588641:
+    template: Caterchipillar
+    level:    [29, 31]
+    region:   maze_of_shakhrami_e_5
+
+  17588642:
+    template: Caterchipillar
+    level:    [29, 31]
+    region:   maze_of_shakhrami_e_5
+
+  17588643:
+    template: Caterchipillar
+    level:    [29, 31]
+    region:   maze_of_shakhrami_e_5
+
+  17588644:
+    template: Ancient_Bat
+    level:    [26, 29]
+    region:   maze_of_shakhrami_se_8
+
+  17588645:
+    template: Ancient_Bat
+    level:    [26, 29]
+    region:   maze_of_shakhrami_se_8
+
+  17588646:
+    template: Caterchipillar
+    level:    [29, 31]
+    region:   maze_of_shakhrami_se_8
+
+  17588647:
+    template: Ancient_Bat
+    level:    [26, 29]
+    region:   maze_of_shakhrami_se_7
+
+  17588648:
+    template: Ancient_Bat
+    level:    [26, 29]
+    region:   maze_of_shakhrami_se_7
+
+  17588649:
+    template: Caterchipillar
+    level:    [29, 31]
+    region:   maze_of_shakhrami_se_7
+
+  17588650:
+    template: Caterchipillar
+    level:    [29, 31]
+    region:   maze_of_shakhrami_se_7
+
+  17588651:
+    template: Goblin_Pathfinder
+    at:       [300.000, 20.000, -147.000, 127]
+    level:    [31, 34]
+
+  17588652:
+    template: Goblins_Bat
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [24, 26]
+
+  17588653:
+    template: Goblin_Furrier
+    at:       [299.124, 19.945, -137.615, 132]
+    level:    [31, 34]
+
+  17588654:
+    template: Goblin_Smithy
+    at:       [294.018, 19.210, -142.780, 218]
+    level:    [31, 34]
+
+  17588655:
+    template: Goblin_Shaman
+    at:       [298.331, 19.529, -142.698, 225]
+    level:    [31, 34]
+
+  17588656:
+    template: Goblin_Pathfinder
+    at:       [292.277, 19.377, -145.472, 129]
+    level:    [31, 34]
+
+  17588657:
+    template: Goblins_Bat
+    at:       [291.572, 19.300, -144.294, 80]
+    level:    [24, 26]
+
+  17588658:
+    template: Goblin_Furrier
+    at:       [289.466, 19.256, -139.866, 74]
+    level:    [31, 34]
+
+  17588659:
+    template: Goblin_Smithy
+    at:       [302.404, 19.510, -136.294, 232]
+    level:    [31, 34]
+
+  17588660:
+    template: Goblin_Shaman
+    at:       [290.508, 19.149, -141.735, 136]
+    level:    [31, 34]
+
+  17588661:
+    template: Goblin_Pathfinder
+    level:    [33, 34]
+    region:   maze_of_shakhrami_e_2
+
+  17588662:
+    template: Goblins_Bat
+    level:    [24, 26]
+    region:   maze_of_shakhrami_e_2
+
+  17588663:
+    template: Goblin_Furrier
+    at:       [257.841, 19.793, -87.862, 254]
+    level:    [31, 34]
+
+  17588664:
+    template: Goblin_Smithy
+    at:       [266.975, 19.933, -90.437, 56]
+    level:    [31, 34]
+
+  17588665:
+    template: Goblin_Shaman
+    at:       [289.242, 19.140, -84.755, 250]
+    level:    [31, 34]
+
+  17588666:
+    template: Goblin_Pathfinder
+    level:    [31, 34]
+    region:   maze_of_shakhrami_e_2
+
+  17588667:
+    template: Goblins_Bat
+    level:    [24, 26]
+    region:   maze_of_shakhrami_e_2
+
+  17588668:
+    template: Goblin_Furrier
+    level:    [31, 34]
+    region:   maze_of_shakhrami_e_2
+
+  17588669:
+    template: Goblin_Smithy
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [31, 34]
+
+  17588670:
+    template: Goblin_Shaman
+    at:       [282.281, 19.526, -78.253, 39]
+    level:    [31, 34]
+
+  17588671:
+    template: Labyrinth_Scorpion
+    level:    [30, 33]
+    region:   maze_of_shakhrami_e_2
+
+  17588672:
+    template: Labyrinth_Scorpion
+    level:    [30, 33]
+    region:   maze_of_shakhrami_e_2
+
+  17588673:
+    template: Protozoan
+    level:    [29, 31]
+    region:   maze_of_shakhrami_e_2
+
+  17588674:
+    template: Argus
+    level:    [36, 37]
+    region:   maze_of_shakhrami_e_2
+
+  17588675:
+    template: Ancient_Bat
+    at:       [229.205, 19.334, -139.939, 179]
+    level:    [26, 29]
+
+  17588676:
+    template: Ancient_Bat
+    at:       [214.263, 19.844, -140.061, 8]
+    level:    [26, 29]
+
+  17588677:
+    template: Poison_Leech
+    level:    [24, 28]
+    region:   maze_of_shakhrami_se_6
+
+  17588678:
+    template: Poison_Leech
+    level:    [24, 28]
+    region:   maze_of_shakhrami_se_6
+
+  17588679:
+    template: Poison_Leech
+    level:    [24, 28]
+    region:   maze_of_shakhrami_se_6
+
+  17588680:
+    template: Poison_Leech
+    level:    [24, 28]
+    region:   maze_of_shakhrami_se_6
+
+  17588681:
+    template: Poison_Leech
+    level:    [24, 28]
+    region:   maze_of_shakhrami_se_6
+
+  17588682:
+    template: Poison_Leech
+    level:    [24, 28]
+    region:   maze_of_shakhrami_se_6
+
+  17588683:
+    template: Poison_Leech
+    level:    [24, 28]
+    region:   maze_of_shakhrami_se_6
+
+  17588684:
+    template: Poison_Leech
+    level:    [24, 28]
+    region:   maze_of_shakhrami_se_6
+
+  17588685:
+    template: Leech_King
+    at:       [270.000, 18.000, -205.000, 127]
+    level:    [35, 36]
+
+  17588686:
+    template: Poison_Leech
+    level:    [24, 28]
+    region:   maze_of_shakhrami_se_4
+
+  17588687:
+    template: Poison_Leech
+    level:    [24, 28]
+    region:   maze_of_shakhrami_se_4
+
+  17588688:
+    template: Poison_Leech
+    level:    [24, 28]
+    region:   maze_of_shakhrami_se_4
+
+  17588689:
+    template: Poison_Leech
+    level:    [24, 28]
+    region:   maze_of_shakhrami_se_4
+
+  17588690:
+    template: Poison_Leech
+    level:    [24, 28]
+    region:   maze_of_shakhrami_se_4
+
+  17588691:
+    template: Poison_Leech
+    level:    [24, 28]
+    region:   maze_of_shakhrami_se_4
+
+  17588692:
+    template: Poison_Leech
+    level:    [24, 28]
+    region:   maze_of_shakhrami_se_4
+
+  17588693:
+    template: Poison_Leech
+    level:    [24, 28]
+    region:   maze_of_shakhrami_se_4
+
+  17588694:
+    template: Protozoan
+    at:       [269.119, 20.226, -229.505, 68]
+    level:    [29, 31]
+
+  17588695:
+    template: Wight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [32, 35]
+
+  17588696:
+    template: Wight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [32, 35]
+
+  17588697:
+    template: Wight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [32, 35]
+
+  17588698:
+    template: Wight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [32, 35]
+
+  17588699:
+    template: Wight
+    at:       [231.621, 19.263, -199.838, 128]
+    level:    [32, 35]
+
+  17588700:
+    template: Wight
+    at:       [237.567, 19.470, -197.699, 242]
+    level:    [32, 35]
+
+  17588701:
+    template: Wyrmfly
+    at:       [143.000, 9.000, -219.000, 198]
+    level:    [30, 30]
+
+  17588702:
+    template: Wyrmfly
+    at:       [143.000, 10.000, -216.000, 198]
+    level:    [30, 30]
+
+  17588703:
+    template: Wyrmfly
+    at:       [138.000, 9.000, -219.000, 198]
+    level:    [30, 30]
+
+  17588704:
+    template: Dark_Elemental
+    at:       [377.464, 18.574, -259.998, 0]
+    level:    [75, 75]
+
+  17588705:
+    template: Aroma_Crawler
+    at:       [1.000, 1.000, 1.000, 20]
+    level:    [40, 40]
+
+  17588706:
+    template: Lost_Soul
+    at:       [245.000, 19.000, -142.000, 125]
+    level:    [45, 45]
+
+  17588707:
+    template: Ogbunabali
+    at:       [134.000, 19.500, -89.000, 0]
+    level:    [94, 95]
+
+  17588708:
+    template: Ogbunabali
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [94, 95]
+
+  17588709:
+    template: Ogbunabali
+    at:       [-285.000, -0.375, -114.000, 105]
+    level:    [94, 95]

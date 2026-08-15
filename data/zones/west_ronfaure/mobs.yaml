@@ -1,0 +1,3013 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17186817:
+    template: Tree_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [3, 4]
+
+  17186818:
+    template: Limicoline_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [2, 4]
+
+  17186819:
+    template: Land_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [5, 6]
+
+  17186820:
+    template: Vermivorous_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [7, 8]
+
+  17186821:
+    template: Passage_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [9, 9]
+
+  17186822:
+    template: Wild_Rabbit
+    level:    [1, 1]
+    region:   west_ronfaure_n_3
+
+  17186823:
+    template: Wild_Rabbit
+    level:    [1, 1]
+    region:   west_ronfaure_n_3
+
+  17186824:
+    template: Wild_Rabbit
+    level:    [1, 1]
+    region:   west_ronfaure_n_3
+
+  17186825:
+    template: Wild_Rabbit
+    level:    [1, 1]
+    region:   west_ronfaure_n_3
+
+  17186826:
+    template: Wild_Rabbit
+    level:    [1, 1]
+    region:   west_ronfaure_n_3
+
+  17186827:
+    template: Wild_Rabbit
+    level:    [1, 1]
+    region:   west_ronfaure_n_3
+
+  17186828:
+    template: Wild_Rabbit
+    level:    [1, 1]
+    region:   west_ronfaure_n_3
+
+  17186829:
+    template: Wild_Rabbit
+    level:    [1, 1]
+    region:   west_ronfaure_n_3
+
+  17186830:
+    template: Wild_Rabbit
+    level:    [1, 1]
+    region:   west_ronfaure_n_3
+
+  17186831:
+    template: Wild_Rabbit
+    level:    [1, 1]
+    region:   west_ronfaure_n_3
+
+  17186832:
+    template: Tunnel_Worm
+    level:    [1, 1]
+    region:   west_ronfaure_n_3
+
+  17186833:
+    template: Tunnel_Worm
+    level:    [1, 1]
+    region:   west_ronfaure_n_3
+
+  17186834:
+    template: Tunnel_Worm
+    level:    [1, 1]
+    region:   west_ronfaure_n_3
+
+  17186835:
+    template: Tunnel_Worm
+    level:    [1, 1]
+    region:   west_ronfaure_n_3
+
+  17186836:
+    template: Tunnel_Worm
+    level:    [1, 1]
+    region:   west_ronfaure_n_3
+
+  17186837:
+    template: Ding_Bats
+    level:    [1, 1]
+    region:   west_ronfaure_n_8
+
+  17186838:
+    template: Ding_Bats
+    level:    [1, 1]
+    region:   west_ronfaure_n_4
+
+  17186839:
+    template: Ding_Bats
+    level:    [1, 1]
+    region:   west_ronfaure_n_5
+
+  17186840:
+    template: Ding_Bats
+    level:    [1, 1]
+    region:   west_ronfaure_n_3
+
+  17186841:
+    template: Ding_Bats
+    level:    [1, 1]
+    region:   west_ronfaure_n_3
+
+  17186842:
+    template: Wild_Rabbit
+    level:    [1, 1]
+    region:   west_ronfaure_n_2
+
+  17186843:
+    template: Wild_Rabbit
+    level:    [1, 1]
+    region:   west_ronfaure_n_2
+
+  17186844:
+    template: Wild_Rabbit
+    level:    [1, 1]
+    region:   west_ronfaure_n_2
+
+  17186845:
+    template: Wild_Rabbit
+    level:    [1, 1]
+    region:   west_ronfaure_n_2
+
+  17186846:
+    template: Wild_Rabbit
+    level:    [1, 1]
+    region:   west_ronfaure_n_2
+
+  17186847:
+    template: Wild_Rabbit
+    level:    [1, 1]
+    region:   west_ronfaure_n_2
+
+  17186848:
+    template: Wild_Rabbit
+    level:    [1, 1]
+    region:   west_ronfaure_n_2
+
+  17186849:
+    template: Wild_Rabbit
+    level:    [1, 1]
+    region:   west_ronfaure_n_2
+
+  17186850:
+    template: Wild_Rabbit
+    level:    [1, 1]
+    region:   west_ronfaure_n_2
+
+  17186851:
+    template: Wild_Rabbit
+    level:    [1, 1]
+    region:   west_ronfaure_n_2
+
+  17186852:
+    template: Tunnel_Worm
+    level:    [1, 1]
+    region:   west_ronfaure_n_2
+
+  17186853:
+    template: Tunnel_Worm
+    level:    [1, 1]
+    region:   west_ronfaure_n_2
+
+  17186854:
+    template: Tunnel_Worm
+    level:    [1, 1]
+    region:   west_ronfaure_n_2
+
+  17186855:
+    template: Tunnel_Worm
+    level:    [1, 1]
+    region:   west_ronfaure_n_2
+
+  17186856:
+    template: Tunnel_Worm
+    level:    [1, 1]
+    region:   west_ronfaure_n_2
+
+  17186857:
+    template: Ding_Bats
+    level:    [1, 1]
+    region:   west_ronfaure_n_7
+
+  17186858:
+    template: Ding_Bats
+    at:       [-372.723, -51.130, 383.975, 127]
+    level:    [1, 1]
+
+  17186859:
+    template: Ding_Bats
+    at:       [-206.750, -61.157, 435.540, 78]
+    level:    [1, 1]
+
+  17186860:
+    template: Ding_Bats
+    level:    [1, 1]
+    region:   west_ronfaure_n_2
+
+  17186861:
+    template: Ding_Bats
+    level:    [1, 1]
+    region:   west_ronfaure_n_2
+
+  17186862:
+    template: Wild_Rabbit
+    level:    [1, 1]
+    region:   west_ronfaure_e_2
+
+  17186863:
+    template: Wild_Rabbit
+    level:    [1, 1]
+    region:   west_ronfaure_e_2
+
+  17186864:
+    template: Wild_Rabbit
+    level:    [1, 1]
+    region:   west_ronfaure_e_2
+
+  17186865:
+    template: Wild_Rabbit
+    level:    [1, 1]
+    region:   west_ronfaure_e_2
+
+  17186866:
+    template: Wild_Rabbit
+    level:    [1, 1]
+    region:   west_ronfaure_e_2
+
+  17186867:
+    template: Wild_Rabbit
+    level:    [1, 1]
+    region:   west_ronfaure_e_2
+
+  17186868:
+    template: Wild_Rabbit
+    level:    [1, 1]
+    region:   west_ronfaure_e_2
+
+  17186869:
+    template: Tunnel_Worm
+    level:    [1, 1]
+    region:   west_ronfaure_e_2
+
+  17186870:
+    template: Tunnel_Worm
+    level:    [1, 1]
+    region:   west_ronfaure_e_2
+
+  17186871:
+    template: Tunnel_Worm
+    level:    [1, 1]
+    region:   west_ronfaure_e_2
+
+  17186872:
+    template: Tunnel_Worm
+    level:    [1, 1]
+    region:   west_ronfaure_e_2
+
+  17186873:
+    template: Ding_Bats
+    at:       [-145.567, -54.988, 206.655, 127]
+    level:    [1, 1]
+
+  17186874:
+    template: Ding_Bats
+    level:    [1, 1]
+    region:   west_ronfaure_e_4
+
+  17186875:
+    template: Ding_Bats
+    level:    [1, 1]
+    region:   west_ronfaure_e_2
+
+  17186876:
+    template: Forest_Hare
+    level:    [2, 3]
+    region:   west_ronfaure_n
+
+  17186877:
+    template: Forest_Hare
+    level:    [2, 3]
+    region:   west_ronfaure_n
+
+  17186878:
+    template: Forest_Hare
+    level:    [2, 3]
+    region:   west_ronfaure_n
+
+  17186879:
+    template: Forest_Hare
+    level:    [2, 3]
+    region:   west_ronfaure_n
+
+  17186880:
+    template: Forest_Hare
+    level:    [2, 3]
+    region:   west_ronfaure_n
+
+  17186881:
+    template: Forest_Hare
+    level:    [2, 3]
+    region:   west_ronfaure_n
+
+  17186882:
+    template: Carrion_Worm
+    level:    [2, 3]
+    region:   west_ronfaure_n
+
+  17186883:
+    template: Carrion_Worm
+    level:    [2, 3]
+    region:   west_ronfaure_n
+
+  17186884:
+    template: Carrion_Worm
+    level:    [2, 3]
+    region:   west_ronfaure_n
+
+  17186885:
+    template: Scarab_Beetle
+    level:    [4, 5]
+    region:   west_ronfaure_n
+
+  17186886:
+    template: Orcish_Fodder
+    level:    [3, 4]
+    region:   west_ronfaure_n
+
+  17186887:
+    template: Orcish_Grappler
+    level:    [3, 4]
+    region:   west_ronfaure_n
+
+  17186888:
+    template: Ding_Bats
+    at:       [-476.246, -50.299, 330.157, 3]
+    level:    [2, 3]
+
+  17186889:
+    template: Ding_Bats
+    level:    [2, 3]
+    region:   west_ronfaure_n
+
+  17186890:
+    template: Mouse_Bat
+    at:       [-488.047, -49.127, 351.711, 127]
+    level:    [3, 4]
+
+  17186891:
+    template: Mouse_Bat
+    level:    [3, 4]
+    region:   west_ronfaure_n
+
+  17186892:
+    template: Forest_Hare
+    level:    [2, 3]
+    region:   west_ronfaure_c_4
+
+  17186893:
+    template: Forest_Hare
+    level:    [2, 3]
+    region:   west_ronfaure_c_4
+
+  17186894:
+    template: Forest_Hare
+    level:    [2, 3]
+    region:   west_ronfaure_c_4
+
+  17186895:
+    template: Forest_Hare
+    level:    [2, 3]
+    region:   west_ronfaure_c_4
+
+  17186896:
+    template: Forest_Hare
+    level:    [2, 3]
+    region:   west_ronfaure_c_4
+
+  17186897:
+    template: Forest_Hare
+    level:    [2, 3]
+    region:   west_ronfaure_c_4
+
+  17186898:
+    template: Carrion_Worm
+    level:    [2, 3]
+    region:   west_ronfaure_c_4
+
+  17186899:
+    template: Carrion_Worm
+    level:    [2, 3]
+    region:   west_ronfaure_c_4
+
+  17186900:
+    template: Carrion_Worm
+    level:    [2, 3]
+    region:   west_ronfaure_c_4
+
+  17186901:
+    template: Forest_Funguar
+    level:    [4, 5]
+    region:   west_ronfaure_c_4
+
+  17186902:
+    template: Scarab_Beetle
+    level:    [4, 5]
+    region:   west_ronfaure_c_4
+
+  17186903:
+    template: Orcish_Fodder
+    level:    [3, 4]
+    region:   west_ronfaure_c_4
+
+  17186904:
+    template: Orcish_Grappler
+    level:    [3, 4]
+    region:   west_ronfaure_c_4
+
+  17186905:
+    template: Ding_Bats
+    at:       [-499.020, -50.749, 240.648, 127]
+    level:    [2, 3]
+
+  17186906:
+    template: Ding_Bats
+    level:    [2, 3]
+    region:   west_ronfaure_c_4
+
+  17186907:
+    template: Mouse_Bat
+    level:    [2, 3]
+    region:   west_ronfaure_n_6
+
+  17186908:
+    template: Mouse_Bat
+    level:    [3, 4]
+    region:   west_ronfaure_c_4
+
+  17186909:
+    template: Orcish_Fodder
+    at:       [-289.602, -39.223, 137.827, 15]
+    level:    [3, 4]
+
+  17186910:
+    template: Forest_Hare
+    level:    [2, 3]
+    region:   west_ronfaure_c_8
+
+  17186911:
+    template: Forest_Hare
+    level:    [2, 3]
+    region:   west_ronfaure_c_8
+
+  17186912:
+    template: Forest_Hare
+    level:    [2, 3]
+    region:   west_ronfaure_c_8
+
+  17186913:
+    template: Forest_Hare
+    level:    [2, 3]
+    region:   west_ronfaure_c_8
+
+  17186914:
+    template: Forest_Hare
+    level:    [2, 3]
+    region:   west_ronfaure_c_8
+
+  17186915:
+    template: Forest_Hare
+    level:    [2, 3]
+    region:   west_ronfaure_c_8
+
+  17186916:
+    template: Carrion_Worm
+    level:    [2, 3]
+    region:   west_ronfaure_c_8
+
+  17186917:
+    template: Carrion_Worm
+    level:    [2, 3]
+    region:   west_ronfaure_c_8
+
+  17186918:
+    template: Carrion_Worm
+    level:    [2, 3]
+    region:   west_ronfaure_c_8
+
+  17186919:
+    template: Forest_Funguar
+    level:    [4, 5]
+    region:   west_ronfaure_c_8
+
+  17186920:
+    template: Scarab_Beetle
+    level:    [4, 5]
+    region:   west_ronfaure_c_8
+
+  17186921:
+    template: Orcish_Fodder
+    level:    [3, 4]
+    region:   west_ronfaure_c_8
+
+  17186922:
+    template: Orcish_Fodder
+    level:    [3, 4]
+    region:   west_ronfaure_c_8
+
+  17186923:
+    template: Ding_Bats
+    at:       [-259.520, -37.641, 59.634, 127]
+    level:    [2, 3]
+
+  17186924:
+    template: Ding_Bats
+    level:    [2, 3]
+    region:   west_ronfaure_c_8
+
+  17186925:
+    template: Mouse_Bat
+    at:       [-326.102, -41.179, 106.263, 127]
+    level:    [3, 4]
+
+  17186926:
+    template: Mouse_Bat
+    level:    [3, 4]
+    region:   west_ronfaure_c_8
+
+  17186927:
+    template: Amanita
+    level:    [5, 6]
+    region:   west_ronfaure_c_8
+
+  17186928:
+    template: Forest_Hare
+    level:    [3, 4]
+    region:   west_ronfaure_nw_4
+
+  17186929:
+    template: Forest_Hare
+    level:    [3, 4]
+    region:   west_ronfaure_nw_4
+
+  17186930:
+    template: Forest_Hare
+    level:    [3, 4]
+    region:   west_ronfaure_nw_4
+
+  17186931:
+    template: Carrion_Worm
+    level:    [3, 4]
+    region:   west_ronfaure_nw_4
+
+  17186932:
+    template: Carrion_Worm
+    level:    [3, 4]
+    region:   west_ronfaure_nw_4
+
+  17186933:
+    template: Orcish_Fodder
+    level:    [4, 5]
+    region:   west_ronfaure_nw_4
+
+  17186934:
+    template: Orcish_Fodder
+    level:    [4, 5]
+    region:   west_ronfaure_nw_4
+
+  17186935:
+    template: Orcish_Mesmerizer
+    at:       [-563.264, -59.769, 485.841, 127]
+    level:    [4, 5]
+
+  17186936:
+    template: Orcish_Mesmerizer
+    level:    [4, 5]
+    region:   west_ronfaure_nw_4
+
+  17186937:
+    template: Orcish_Grappler
+    level:    [4, 5]
+    region:   west_ronfaure_nw_4
+
+  17186938:
+    template: Orcish_Grappler
+    level:    [4, 5]
+    region:   west_ronfaure_nw_4
+
+  17186939:
+    template: Ding_Bats
+    at:       [-541.131, -60.251, 431.693, 97]
+    level:    [3, 4]
+
+  17186940:
+    template: Ding_Bats
+    level:    [3, 4]
+    region:   west_ronfaure_nw_4
+
+  17186941:
+    template: Mouse_Bat
+    at:       [-551.599, -57.721, 492.920, 51]
+    level:    [4, 5]
+
+  17186942:
+    template: Orcish_Fodder
+    at:       [-506.264, -63.156, 499.804, 32]
+    level:    [4, 5]
+
+  17186943:
+    template: Orcish_Mesmerizer
+    at:       [-504.790, -63.089, 497.584, 29]
+    level:    [4, 5]
+
+  17186944:
+    template: Orcish_Grappler
+    at:       [-511.659, -60.909, 495.146, 80]
+    level:    [4, 5]
+
+  17186945:
+    template: Orcish_Fodder
+    at:       [-572.030, -61.785, 465.120, 127]
+    level:    [4, 5]
+
+  17186946:
+    template: Orcish_Mesmerizer
+    at:       [-573.030, -61.661, 464.767, 45]
+    level:    [4, 5]
+
+  17186947:
+    template: Orcish_Grappler
+    at:       [-571.694, -61.140, 470.693, 126]
+    level:    [4, 5]
+
+  17186948:
+    template: Orcish_Fodder
+    level:    [6, 7]
+    region:   west_ronfaure_nw_2
+
+  17186949:
+    template: Orcish_Mesmerizer
+    level:    [6, 7]
+    region:   west_ronfaure_nw_2
+
+  17186950:
+    template: Orcish_Grappler
+    level:    [6, 7]
+    region:   west_ronfaure_nw_2
+
+  17186951:
+    template: Orcish_Fodder
+    level:    [6, 7]
+    region:   west_ronfaure_nw_3
+
+  17186952:
+    template: Orcish_Fodder
+    level:    [6, 7]
+    region:   west_ronfaure_nw
+
+  17186953:
+    template: Mouse_Bat
+    level:    [4, 5]
+    region:   west_ronfaure_nw_2
+
+  17186954:
+    template: Orcish_Fodder
+    at:       [-655.000, -62.000, 544.000, 127]
+    level:    [6, 7]
+
+  17186955:
+    template: Orcish_Mesmerizer
+    at:       [-656.000, -60.000, 549.000, 71]
+    level:    [6, 7]
+
+  17186956:
+    template: Orcish_Grappler
+    at:       [-652.000, -61.000, 546.000, 127]
+    level:    [6, 7]
+
+  17186957:
+    template: Forest_Hare
+    level:    [3, 4]
+    region:   west_ronfaure_nw_5
+
+  17186958:
+    template: Forest_Hare
+    level:    [3, 4]
+    region:   west_ronfaure_nw_5
+
+  17186959:
+    template: Forest_Hare
+    level:    [3, 4]
+    region:   west_ronfaure_nw_5
+
+  17186960:
+    template: Forest_Hare
+    level:    [3, 4]
+    region:   west_ronfaure_nw_5
+
+  17186961:
+    template: Forest_Hare
+    level:    [3, 4]
+    region:   west_ronfaure_nw_5
+
+  17186962:
+    template: Carrion_Worm
+    level:    [3, 4]
+    region:   west_ronfaure_nw_5
+
+  17186963:
+    template: Carrion_Worm
+    level:    [3, 4]
+    region:   west_ronfaure_nw_5
+
+  17186964:
+    template: Scarab_Beetle
+    level:    [4, 5]
+    region:   west_ronfaure_nw_5
+
+  17186965:
+    template: Scarab_Beetle
+    level:    [4, 5]
+    region:   west_ronfaure_nw_5
+
+  17186966:
+    template: Orcish_Mesmerizer
+    level:    [4, 5]
+    region:   west_ronfaure_nw_5
+
+  17186967:
+    template: Orcish_Grappler
+    level:    [4, 5]
+    region:   west_ronfaure_nw_5
+
+  17186968:
+    template: Ding_Bats
+    at:       [-511.680, -52.652, 266.901, 127]
+    level:    [3, 4]
+
+  17186969:
+    template: Ding_Bats
+    level:    [3, 4]
+    region:   west_ronfaure_nw_5
+
+  17186970:
+    template: Mouse_Bat
+    at:       [-512.280, -50.724, 312.462, 15]
+    level:    [4, 5]
+
+  17186971:
+    template: Mouse_Bat
+    level:    [4, 5]
+    region:   west_ronfaure_nw_5
+
+  17186972:
+    template: Forest_Hare
+    level:    [3, 4]
+    region:   west_ronfaure_w_2
+
+  17186973:
+    template: Forest_Hare
+    level:    [3, 4]
+    region:   west_ronfaure_w_2
+
+  17186974:
+    template: Forest_Hare
+    level:    [3, 4]
+    region:   west_ronfaure_w_2
+
+  17186975:
+    template: Forest_Hare
+    level:    [3, 4]
+    region:   west_ronfaure_w_2
+
+  17186976:
+    template: Forest_Hare
+    level:    [3, 4]
+    region:   west_ronfaure_w_2
+
+  17186977:
+    template: Carrion_Worm
+    level:    [3, 4]
+    region:   west_ronfaure_w_2
+
+  17186978:
+    template: Carrion_Worm
+    level:    [3, 4]
+    region:   west_ronfaure_w_2
+
+  17186979:
+    template: Forest_Funguar
+    level:    [4, 5]
+    region:   west_ronfaure_w_2
+
+  17186980:
+    template: Forest_Funguar
+    level:    [4, 5]
+    region:   west_ronfaure_w_2
+
+  17186981:
+    template: Orcish_Fodder
+    level:    [4, 5]
+    region:   west_ronfaure_w_2
+
+  17186982:
+    template: Orcish_Grappler
+    level:    [4, 5]
+    region:   west_ronfaure_w_2
+
+  17186983:
+    template: Ding_Bats
+    at:       [-482.392, -40.019, 133.287, 127]
+    level:    [3, 4]
+
+  17186984:
+    template: Ding_Bats
+    level:    [3, 4]
+    region:   west_ronfaure_w_2
+
+  17186985:
+    template: Mouse_Bat
+    at:       [-582.110, -41.916, 194.012, 21]
+    level:    [4, 5]
+
+  17186986:
+    template: Mouse_Bat
+    level:    [4, 5]
+    region:   west_ronfaure_w_2
+
+  17186987:
+    template: Forest_Hare
+    level:    [3, 4]
+    region:   west_ronfaure_c_3
+
+  17186988:
+    template: Forest_Hare
+    level:    [3, 4]
+    region:   west_ronfaure_c_3
+
+  17186989:
+    template: Forest_Hare
+    level:    [3, 4]
+    region:   west_ronfaure_c_3
+
+  17186990:
+    template: Forest_Hare
+    level:    [3, 4]
+    region:   west_ronfaure_c_3
+
+  17186991:
+    template: Forest_Hare
+    level:    [3, 4]
+    region:   west_ronfaure_c_3
+
+  17186992:
+    template: Carrion_Worm
+    level:    [3, 4]
+    region:   west_ronfaure_c_3
+
+  17186993:
+    template: Carrion_Worm
+    level:    [3, 4]
+    region:   west_ronfaure_c_3
+
+  17186994:
+    template: Scarab_Beetle
+    level:    [4, 5]
+    region:   west_ronfaure_c_3
+
+  17186995:
+    template: Wild_Sheep
+    level:    [5, 6]
+    region:   west_ronfaure_c_3
+
+  17186996:
+    template: Wild_Sheep
+    level:    [5, 6]
+    region:   west_ronfaure_c_3
+
+  17186997:
+    template: Orcish_Mesmerizer
+    level:    [4, 5]
+    region:   west_ronfaure_c_3
+
+  17186998:
+    template: Orcish_Grappler
+    level:    [4, 5]
+    region:   west_ronfaure_c_3
+
+  17186999:
+    template: Ding_Bats
+    at:       [-511.688, -30.809, 74.260, 121]
+    level:    [3, 4]
+
+  17187000:
+    template: Ding_Bats
+    level:    [3, 4]
+    region:   west_ronfaure_c_3
+
+  17187001:
+    template: Mouse_Bat
+    at:       [-393.587, -31.192, 76.965, 30]
+    level:    [4, 5]
+
+  17187002:
+    template: Mouse_Bat
+    level:    [4, 5]
+    region:   west_ronfaure_c_3
+
+  17187003:
+    template: Forest_Hare
+    level:    [3, 4]
+    region:   west_ronfaure_c_9
+
+  17187004:
+    template: Forest_Hare
+    level:    [3, 4]
+    region:   west_ronfaure_c_9
+
+  17187005:
+    template: Forest_Hare
+    level:    [3, 4]
+    region:   west_ronfaure_c_9
+
+  17187006:
+    template: Forest_Hare
+    level:    [3, 4]
+    region:   west_ronfaure_c_9
+
+  17187007:
+    template: Forest_Hare
+    level:    [3, 4]
+    region:   west_ronfaure_c_9
+
+  17187008:
+    template: Carrion_Worm
+    level:    [3, 4]
+    region:   west_ronfaure_c_9
+
+  17187009:
+    template: Carrion_Worm
+    level:    [3, 4]
+    region:   west_ronfaure_c_9
+
+  17187010:
+    template: Wild_Sheep
+    level:    [5, 6]
+    region:   west_ronfaure_c_9
+
+  17187011:
+    template: Wild_Sheep
+    level:    [5, 6]
+    region:   west_ronfaure_c_9
+
+  17187012:
+    template: Wild_Sheep
+    level:    [5, 6]
+    region:   west_ronfaure_c_9
+
+  17187013:
+    template: Orcish_Fodder
+    level:    [4, 5]
+    region:   west_ronfaure_c_9
+
+  17187014:
+    template: Orcish_Mesmerizer
+    level:    [4, 5]
+    region:   west_ronfaure_c_9
+
+  17187015:
+    template: Ding_Bats
+    at:       [-226.481, -34.369, 18.027, 127]
+    level:    [3, 4]
+
+  17187016:
+    template: Ding_Bats
+    level:    [3, 4]
+    region:   west_ronfaure_c_9
+
+  17187017:
+    template: Mouse_Bat
+    at:       [-282.783, -30.562, 30.724, 127]
+    level:    [4, 5]
+
+  17187018:
+    template: Mouse_Bat
+    level:    [4, 5]
+    region:   west_ronfaure_c_9
+
+  17187019:
+    template: Forest_Hare
+    level:    [4, 5]
+    region:   west_ronfaure_c_7
+
+  17187020:
+    template: Forest_Hare
+    level:    [4, 5]
+    region:   west_ronfaure_c_7
+
+  17187021:
+    template: Forest_Hare
+    level:    [4, 5]
+    region:   west_ronfaure_c_7
+
+  17187022:
+    template: Forest_Hare
+    level:    [4, 5]
+    region:   west_ronfaure_c_7
+
+  17187023:
+    template: Carrion_Worm
+    level:    [4, 5]
+    region:   west_ronfaure_c_7
+
+  17187024:
+    template: Carrion_Worm
+    level:    [4, 5]
+    region:   west_ronfaure_c_7
+
+  17187025:
+    template: Scarab_Beetle
+    level:    [5, 6]
+    region:   west_ronfaure_c_7
+
+  17187026:
+    template: Scarab_Beetle
+    level:    [5, 6]
+    region:   west_ronfaure_c_7
+
+  17187027:
+    template: Scarab_Beetle
+    level:    [5, 6]
+    region:   west_ronfaure_c_7
+
+  17187028:
+    template: Wild_Sheep
+    level:    [5, 6]
+    region:   west_ronfaure_c_7
+
+  17187029:
+    template: Wild_Sheep
+    level:    [5, 6]
+    region:   west_ronfaure_c_7
+
+  17187030:
+    template: Wild_Sheep
+    level:    [5, 6]
+    region:   west_ronfaure_c_7
+
+  17187031:
+    template: Goblin_Thug
+    level:    [4, 5]
+    region:   west_ronfaure_c_7
+
+  17187032:
+    template: Goblin_Thug
+    at:       [-319.937, -20.641, -112.556, 127]
+    level:    [4, 5]
+
+  17187033:
+    template: Goblin_Weaver
+    at:       [-257.216, -30.927, -78.628, 91]
+    level:    [4, 5]
+
+  17187034:
+    template: Orcish_Fodder
+    level:    [4, 5]
+    region:   west_ronfaure_c_7
+
+  17187035:
+    template: Orcish_Mesmerizer
+    level:    [4, 5]
+    region:   west_ronfaure_c_7
+
+  17187036:
+    template: Orcish_Grappler
+    level:    [4, 5]
+    region:   west_ronfaure_c_7
+
+  17187037:
+    template: Ding_Bats
+    level:    [4, 5]
+    region:   west_ronfaure_c_7
+
+  17187038:
+    template: Mouse_Bat
+    level:    [5, 6]
+    region:   west_ronfaure_c_7
+
+  17187039:
+    template: Tainted_Hound
+    at:       [-262.154, -46.238, 145.268, 127]
+    level:    [5, 6]
+
+  17187040:
+    template: Enchanted_Bones
+    at:       [-379.400, -23.232, -66.426, 127]
+    level:    [4, 5]
+
+  17187041:
+    template: Forest_Hare
+    level:    [4, 5]
+    region:   west_ronfaure_e_3
+
+  17187042:
+    template: Forest_Hare
+    level:    [4, 5]
+    region:   west_ronfaure_e_3
+
+  17187043:
+    template: Forest_Hare
+    level:    [4, 5]
+    region:   west_ronfaure_e_3
+
+  17187044:
+    template: Carrion_Worm
+    level:    [4, 5]
+    region:   west_ronfaure_e_3
+
+  17187045:
+    template: Carrion_Worm
+    level:    [4, 5]
+    region:   west_ronfaure_e_3
+
+  17187046:
+    template: Scarab_Beetle
+    level:    [5, 6]
+    region:   west_ronfaure_e_3
+
+  17187047:
+    template: Fungus_Beetle
+    level:    [10, 15]
+    region:   west_ronfaure_e_3
+
+  17187048:
+    template: Wild_Sheep
+    level:    [5, 6]
+    region:   west_ronfaure_e_3
+
+  17187049:
+    template: Wild_Sheep
+    level:    [5, 6]
+    region:   west_ronfaure_e_3
+
+  17187050:
+    template: Wild_Sheep
+    level:    [5, 6]
+    region:   west_ronfaure_e_3
+
+  17187051:
+    template: Wild_Sheep
+    level:    [5, 6]
+    region:   west_ronfaure_e_3
+
+  17187052:
+    template: Wild_Sheep
+    level:    [5, 6]
+    region:   west_ronfaure_e_3
+
+  17187053:
+    template: Goblin_Thug
+    level:    [4, 5]
+    region:   west_ronfaure_e_3
+
+  17187054:
+    template: Goblin_Thug
+    level:    [4, 5]
+    region:   west_ronfaure_e_3
+
+  17187055:
+    template: Goblin_Weaver
+    level:    [4, 5]
+    region:   west_ronfaure_e_3
+
+  17187056:
+    template: Orcish_Fodder
+    level:    [4, 5]
+    region:   west_ronfaure_e_3
+
+  17187057:
+    template: Orcish_Mesmerizer
+    level:    [4, 5]
+    region:   west_ronfaure_e_3
+
+  17187058:
+    template: Orcish_Grappler
+    level:    [4, 5]
+    region:   west_ronfaure_e_3
+
+  17187059:
+    template: Tainted_Hound
+    at:       [-195.854, -22.578, -177.986, 127]
+    level:    [5, 6]
+
+  17187060:
+    template: Enchanted_Bones
+    at:       [-247.484, -21.044, -146.460, 127]
+    level:    [4, 5]
+
+  17187061:
+    template: Bomb
+    at:       [-166.845, -20.983, -101.616, 1]
+    level:    [8, 10]
+
+  17187062:
+    template: Forest_Hare
+    level:    [4, 5]
+    region:   west_ronfaure_w
+
+  17187063:
+    template: Forest_Hare
+    level:    [4, 5]
+    region:   west_ronfaure_w
+
+  17187064:
+    template: Forest_Hare
+    level:    [4, 5]
+    region:   west_ronfaure_w
+
+  17187065:
+    template: Forest_Hare
+    level:    [4, 5]
+    region:   west_ronfaure_w
+
+  17187066:
+    template: Forest_Hare
+    level:    [4, 5]
+    region:   west_ronfaure_w
+
+  17187067:
+    template: Carrion_Worm
+    level:    [4, 5]
+    region:   west_ronfaure_w
+
+  17187068:
+    template: Forest_Funguar
+    level:    [5, 6]
+    region:   west_ronfaure_w
+
+  17187069:
+    template: Forest_Funguar
+    level:    [5, 6]
+    region:   west_ronfaure_w
+
+  17187070:
+    template: Forest_Funguar
+    level:    [5, 6]
+    region:   west_ronfaure_w
+
+  17187071:
+    template: Scarab_Beetle
+    level:    [6, 7]
+    region:   west_ronfaure_w
+
+  17187072:
+    template: Scarab_Beetle
+    level:    [6, 7]
+    region:   west_ronfaure_w
+
+  17187073:
+    template: Wild_Sheep
+    level:    [7, 8]
+    region:   west_ronfaure_w
+
+  17187074:
+    template: Wild_Sheep
+    level:    [7, 8]
+    region:   west_ronfaure_w
+
+  17187075:
+    template: Wild_Sheep
+    level:    [7, 8]
+    region:   west_ronfaure_w
+
+  17187076:
+    template: Orcish_Fodder
+    level:    [6, 7]
+    region:   west_ronfaure_w
+
+  17187077:
+    template: Orcish_Mesmerizer
+    level:    [6, 7]
+    region:   west_ronfaure_w
+
+  17187078:
+    template: Orcish_Grappler
+    level:    [6, 7]
+    region:   west_ronfaure_w
+
+  17187079:
+    template: Ding_Bats
+    at:       [-429.676, -31.211, -29.961, 208]
+    level:    [4, 5]
+
+  17187080:
+    template: Ding_Bats
+    level:    [4, 5]
+    region:   west_ronfaure_w
+
+  17187081:
+    template: Mouse_Bat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [5, 6]
+
+  17187082:
+    template: Mouse_Bat
+    level:    [5, 6]
+    region:   west_ronfaure_w
+
+  17187083:
+    template: Tainted_Hound
+    at:       [-561.154, -30.886, 21.836, 152]
+    level:    [5, 6]
+
+  17187084:
+    template: Enchanted_Bones
+    at:       [-597.599, -30.918, -118.268, 58]
+    level:    [6, 7]
+
+  17187085:
+    template: Enchanted_Bones
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [6, 7]
+
+  17187086:
+    template: Bomb
+    at:       [-618.393, -31.276, -3.409, 100]
+    level:    [8, 10]
+
+  17187087:
+    template: Orcish_Fodder
+    at:       [-502.975, -30.850, -25.544, 77]
+    level:    [6, 7]
+
+  17187088:
+    template: Orcish_Mesmerizer
+    at:       [-508.975, -29.926, -23.503, 108]
+    level:    [6, 7]
+
+  17187089:
+    template: Orcish_Grappler
+    at:       [-502.717, -30.829, -24.875, 127]
+    level:    [6, 7]
+
+  17187090:
+    template: Forest_Hare
+    level:    [4, 5]
+    region:   west_ronfaure_c_2
+
+  17187091:
+    template: Forest_Hare
+    level:    [4, 5]
+    region:   west_ronfaure_c_2
+
+  17187092:
+    template: Forest_Hare
+    level:    [4, 5]
+    region:   west_ronfaure_c_2
+
+  17187093:
+    template: Forest_Hare
+    level:    [4, 5]
+    region:   west_ronfaure_c_2
+
+  17187094:
+    template: Carrion_Worm
+    level:    [4, 5]
+    region:   west_ronfaure_c_2
+
+  17187095:
+    template: Carrion_Worm
+    level:    [4, 5]
+    region:   west_ronfaure_c_2
+
+  17187096:
+    template: Wild_Sheep
+    level:    [7, 8]
+    region:   west_ronfaure_c_2
+
+  17187097:
+    template: Wild_Sheep
+    level:    [7, 8]
+    region:   west_ronfaure_c_2
+
+  17187098:
+    template: Wild_Sheep
+    level:    [7, 8]
+    region:   west_ronfaure_c_2
+
+  17187099:
+    template: Wild_Sheep
+    level:    [7, 8]
+    region:   west_ronfaure_c_2
+
+  17187100:
+    template: Wild_Sheep
+    level:    [7, 8]
+    region:   west_ronfaure_c_2
+
+  17187101:
+    template: Goblin_Thug
+    level:    [5, 6]
+    region:   west_ronfaure_c_2
+
+  17187102:
+    template: Goblin_Weaver
+    level:    [5, 6]
+    region:   west_ronfaure_c_2
+
+  17187103:
+    template: Orcish_Fodder
+    level:    [6, 7]
+    region:   west_ronfaure_c_2
+
+  17187104:
+    template: Orcish_Mesmerizer
+    level:    [6, 7]
+    region:   west_ronfaure_c_2
+
+  17187105:
+    template: Orcish_Grappler
+    level:    [6, 7]
+    region:   west_ronfaure_c_2
+
+  17187106:
+    template: Tainted_Hound
+    at:       [-467.511, -21.374, -129.909, 88]
+    level:    [6, 7]
+
+  17187107:
+    template: Enchanted_Bones
+    level:    [5, 6]
+    region:   west_ronfaure_c_2
+
+  17187108:
+    template: Forest_Hare
+    level:    [4, 5]
+    region:   west_ronfaure_s_5
+
+  17187109:
+    template: Forest_Hare
+    level:    [4, 5]
+    region:   west_ronfaure_s_5
+
+  17187110:
+    template: Forest_Hare
+    level:    [4, 5]
+    region:   west_ronfaure_s_5
+
+  17187111:
+    template: Jaggedy-Eared_Jack
+    at:       [-281.000, -19.000, -220.000, 127]
+    level:    [9, 10]
+
+  17187112:
+    template: Carrion_Worm
+    level:    [4, 5]
+    region:   west_ronfaure_s_5
+
+  17187113:
+    template: Forest_Funguar
+    level:    [5, 6]
+    region:   west_ronfaure_s_5
+
+  17187114:
+    template: Scarab_Beetle
+    level:    [5, 6]
+    region:   west_ronfaure_s_5
+
+  17187115:
+    template: Scarab_Beetle
+    level:    [5, 6]
+    region:   west_ronfaure_s_5
+
+  17187116:
+    template: Wild_Sheep
+    level:    [7, 8]
+    region:   west_ronfaure_s_5
+
+  17187117:
+    template: Wild_Sheep
+    level:    [7, 8]
+    region:   west_ronfaure_s_5
+
+  17187118:
+    template: Wild_Sheep
+    level:    [7, 8]
+    region:   west_ronfaure_s_5
+
+  17187119:
+    template: Wild_Sheep
+    level:    [7, 8]
+    region:   west_ronfaure_s_5
+
+  17187120:
+    template: Goblin_Thug
+    level:    [5, 6]
+    region:   west_ronfaure_s_5
+
+  17187121:
+    template: Goblin_Weaver
+    level:    [5, 6]
+    region:   west_ronfaure_s_5
+
+  17187122:
+    template: Orcish_Fodder
+    level:    [6, 7]
+    region:   west_ronfaure_s_5
+
+  17187123:
+    template: Orcish_Mesmerizer
+    level:    [6, 7]
+    region:   west_ronfaure_s_5
+
+  17187124:
+    template: Orcish_Grappler
+    at:       [-408.339, -19.225, -233.759, 127]
+    level:    [6, 7]
+
+  17187125:
+    template: Ding_Bats
+    level:    [4, 5]
+    region:   west_ronfaure_s_6
+
+  17187126:
+    template: Ding_Bats
+    level:    [4, 5]
+    region:   west_ronfaure_s_5
+
+  17187127:
+    template: Mouse_Bat
+    level:    [5, 6]
+    region:   west_ronfaure_s_5
+
+  17187128:
+    template: Tainted_Hound
+    at:       [-252.045, -21.687, -211.079, 49]
+    level:    [6, 7]
+
+  17187129:
+    template: Enchanted_Bones
+    at:       [-294.289, -21.377, -222.991, 127]
+    level:    [6, 7]
+
+  17187130:
+    template: Enchanted_Bones
+    at:       [-279.841, -20.769, -277.004, 31]
+    level:    [6, 7]
+
+  17187131:
+    template: Forest_Hare
+    level:    [4, 5]
+    region:   west_ronfaure_se
+
+  17187132:
+    template: Forest_Hare
+    level:    [4, 5]
+    region:   west_ronfaure_se
+
+  17187133:
+    template: Forest_Hare
+    level:    [4, 5]
+    region:   west_ronfaure_se
+
+  17187134:
+    template: Forest_Hare
+    level:    [4, 5]
+    region:   west_ronfaure_se
+
+  17187135:
+    template: Carrion_Worm
+    level:    [4, 5]
+    region:   west_ronfaure_se
+
+  17187136:
+    template: Carrion_Worm
+    level:    [4, 5]
+    region:   west_ronfaure_se
+
+  17187137:
+    template: Scarab_Beetle
+    level:    [5, 6]
+    region:   west_ronfaure_se
+
+  17187138:
+    template: Scarab_Beetle
+    level:    [5, 6]
+    region:   west_ronfaure_se
+
+  17187139:
+    template: Wild_Sheep
+    level:    [7, 8]
+    region:   west_ronfaure_se
+
+  17187140:
+    template: Wild_Sheep
+    level:    [7, 8]
+    region:   west_ronfaure_se
+
+  17187141:
+    template: Wild_Sheep
+    level:    [7, 8]
+    region:   west_ronfaure_se
+
+  17187142:
+    template: Wild_Sheep
+    level:    [7, 8]
+    region:   west_ronfaure_se
+
+  17187143:
+    template: Goblin_Thug
+    level:    [5, 6]
+    region:   west_ronfaure_se
+
+  17187144:
+    template: Goblin_Thug
+    level:    [5, 6]
+    region:   west_ronfaure_se
+
+  17187145:
+    template: Goblin_Weaver
+    level:    [5, 6]
+    region:   west_ronfaure_se
+
+  17187146:
+    template: Tainted_Hound
+    at:       [-243.312, -22.399, -261.817, 127]
+    level:    [7, 8]
+
+  17187147:
+    template: Enchanted_Bones
+    at:       [-157.270, -20.306, -274.198, 127]
+    level:    [5, 6]
+
+  17187148:
+    template: Goblin_Thug
+    at:       [-220.544, -22.468, -258.674, 48]
+    level:    [5, 6]
+
+  17187149:
+    template: Goblin_Thug
+    at:       [-208.132, -20.237, -268.112, 127]
+    level:    [5, 6]
+
+  17187150:
+    template: Goblin_Weaver
+    at:       [-220.643, -22.487, -258.889, 127]
+    level:    [5, 6]
+
+  17187151:
+    template: Forest_Hare
+    level:    [4, 5]
+    region:   west_ronfaure_s_2
+
+  17187152:
+    template: Forest_Hare
+    level:    [4, 5]
+    region:   west_ronfaure_s_2
+
+  17187153:
+    template: Forest_Hare
+    level:    [4, 5]
+    region:   west_ronfaure_s_2
+
+  17187154:
+    template: Forest_Hare
+    level:    [4, 5]
+    region:   west_ronfaure_s_2
+
+  17187155:
+    template: Carrion_Worm
+    level:    [5, 6]
+    region:   west_ronfaure_s_2
+
+  17187156:
+    template: Forest_Funguar
+    level:    [5, 6]
+    region:   west_ronfaure_s_2
+
+  17187157:
+    template: Forest_Funguar
+    level:    [5, 6]
+    region:   west_ronfaure_s_2
+
+  17187158:
+    template: Scarab_Beetle
+    level:    [6, 7]
+    region:   west_ronfaure_s_2
+
+  17187159:
+    template: Scarab_Beetle
+    level:    [6, 7]
+    region:   west_ronfaure_s_2
+
+  17187160:
+    template: Scarab_Beetle
+    level:    [6, 7]
+    region:   west_ronfaure_s_2
+
+  17187161:
+    template: Wild_Sheep
+    level:    [7, 8]
+    region:   west_ronfaure_s_2
+
+  17187162:
+    template: Wild_Sheep
+    level:    [7, 8]
+    region:   west_ronfaure_s_2
+
+  17187163:
+    template: Wild_Sheep
+    level:    [7, 8]
+    region:   west_ronfaure_s_2
+
+  17187164:
+    template: Goblin_Thug
+    level:    [5, 6]
+    region:   west_ronfaure_s_2
+
+  17187165:
+    template: Goblin_Weaver
+    level:    [5, 6]
+    region:   west_ronfaure_s_2
+
+  17187166:
+    template: Ding_Bats
+    at:       [-422.409, -12.200, -357.227, 127]
+    level:    [4, 5]
+
+  17187167:
+    template: Ding_Bats
+    level:    [4, 5]
+    region:   west_ronfaure_s_2
+
+  17187168:
+    template: Mouse_Bat
+    at:       [-353.007, -9.840, -289.095, 122]
+    level:    [5, 6]
+
+  17187169:
+    template: Mouse_Bat
+    level:    [5, 6]
+    region:   west_ronfaure_s_2
+
+  17187170:
+    template: Tainted_Hound
+    at:       [-274.522, -10.964, -362.660, 127]
+    level:    [7, 8]
+
+  17187171:
+    template: Enchanted_Bones
+    at:       [-266.648, -10.760, -361.773, 127]
+    level:    [5, 6]
+
+  17187172:
+    template: Bomb
+    at:       [-347.524, -11.704, -324.355, 0]
+    level:    [8, 10]
+
+  17187173:
+    template: Forest_Hare
+    level:    [4, 5]
+    region:   west_ronfaure_sw
+
+  17187174:
+    template: Forest_Hare
+    level:    [4, 5]
+    region:   west_ronfaure_sw
+
+  17187175:
+    template: Forest_Hare
+    level:    [4, 5]
+    region:   west_ronfaure_sw
+
+  17187176:
+    template: Forest_Hare
+    level:    [4, 5]
+    region:   west_ronfaure_sw
+
+  17187177:
+    template: Carrion_Worm
+    level:    [5, 6]
+    region:   west_ronfaure_sw
+
+  17187178:
+    template: Forest_Funguar
+    level:    [5, 6]
+    region:   west_ronfaure_sw
+
+  17187179:
+    template: Forest_Funguar
+    level:    [5, 6]
+    region:   west_ronfaure_sw
+
+  17187180:
+    template: Forest_Funguar
+    level:    [5, 6]
+    region:   west_ronfaure_sw
+
+  17187181:
+    template: Scarab_Beetle
+    level:    [6, 7]
+    region:   west_ronfaure_sw
+
+  17187182:
+    template: Scarab_Beetle
+    level:    [6, 7]
+    region:   west_ronfaure_sw
+
+  17187183:
+    template: Scarab_Beetle
+    level:    [6, 7]
+    region:   west_ronfaure_sw
+
+  17187184:
+    template: Wild_Sheep
+    level:    [7, 8]
+    region:   west_ronfaure_sw
+
+  17187185:
+    template: Wild_Sheep
+    level:    [7, 8]
+    region:   west_ronfaure_sw
+
+  17187186:
+    template: Wild_Sheep
+    level:    [7, 8]
+    region:   west_ronfaure_sw
+
+  17187187:
+    template: Goblin_Thug
+    at:       [-571.314, -4.891, -424.566, 127]
+    level:    [6, 7]
+
+  17187188:
+    template: Goblin_Thug
+    at:       [-474.355, -9.646, -354.995, 123]
+    level:    [6, 7]
+
+  17187189:
+    template: Goblin_Weaver
+    level:    [6, 7]
+    region:   west_ronfaure_sw
+
+  17187190:
+    template: Orcish_Mesmerizer
+    at:       [-506.325, -8.905, -380.270, 13]
+    level:    [7, 8]
+
+  17187191:
+    template: Orcish_Grappler
+    level:    [7, 8]
+    region:   west_ronfaure_sw
+
+  17187192:
+    template: Ding_Bats
+    at:       [-494.555, -4.687, -420.227, 19]
+    level:    [4, 5]
+
+  17187193:
+    template: Ding_Bats
+    level:    [4, 5]
+    region:   west_ronfaure_sw
+
+  17187194:
+    template: Mouse_Bat
+    at:       [-509.389, 3.513, -452.541, 69]
+    level:    [5, 6]
+
+  17187195:
+    template: Mouse_Bat
+    level:    [5, 6]
+    region:   west_ronfaure_sw
+
+  17187196:
+    template: Tainted_Hound
+    at:       [-554.837, -9.018, -410.552, 57]
+    level:    [7, 8]
+
+  17187197:
+    template: Enchanted_Bones
+    at:       [-511.874, -10.888, -362.958, 127]
+    level:    [6, 7]
+
+  17187198:
+    template: Enchanted_Bones
+    at:       [-542.330, -13.572, -389.272, 127]
+    level:    [7, 8]
+
+  17187199:
+    template: Goblin_Thug
+    at:       [-457.000, -8.000, -381.000, 127]
+    level:    [6, 7]
+
+  17187200:
+    template: Goblin_Thug
+    at:       [-452.880, -8.914, -382.727, 127]
+    level:    [6, 7]
+
+  17187201:
+    template: Goblin_Weaver
+    at:       [-454.647, -8.725, -386.029, 127]
+    level:    [6, 7]
+
+  17187202:
+    template: Forest_Hare
+    level:    [5, 6]
+    region:   west_ronfaure_s_4
+
+  17187203:
+    template: Forest_Hare
+    level:    [5, 6]
+    region:   west_ronfaure_s_4
+
+  17187204:
+    template: Forest_Hare
+    level:    [5, 6]
+    region:   west_ronfaure_s_4
+
+  17187205:
+    template: Forest_Funguar
+    level:    [5, 6]
+    region:   west_ronfaure_s_4
+
+  17187206:
+    template: Forest_Funguar
+    level:    [5, 6]
+    region:   west_ronfaure_s_4
+
+  17187207:
+    template: Forest_Funguar
+    level:    [5, 6]
+    region:   west_ronfaure_s_4
+
+  17187208:
+    template: Scarab_Beetle
+    level:    [6, 7]
+    region:   west_ronfaure_s_4
+
+  17187209:
+    template: Scarab_Beetle
+    level:    [6, 7]
+    region:   west_ronfaure_s_4
+
+  17187210:
+    template: Goblin_Weaver
+    level:    [6, 7]
+    region:   west_ronfaure_s_4
+
+  17187211:
+    template: Goblin_Fisher
+    level:    [6, 7]
+    region:   west_ronfaure_s_4
+
+  17187212:
+    template: Goblin_Fisher
+    level:    [6, 7]
+    region:   west_ronfaure_s_4
+
+  17187213:
+    template: Goblin_Fisher
+    level:    [6, 7]
+    region:   west_ronfaure_s_4
+
+  17187214:
+    template: Goblin_Fisher
+    level:    [6, 7]
+    region:   west_ronfaure_s_4
+
+  17187215:
+    template: River_Crab
+    level:    [5, 6]
+    region:   west_ronfaure_s_4
+
+  17187216:
+    template: River_Crab
+    level:    [5, 6]
+    region:   west_ronfaure_s_4
+
+  17187217:
+    template: River_Crab
+    level:    [5, 6]
+    region:   west_ronfaure_s_4
+
+  17187218:
+    template: River_Crab
+    level:    [5, 6]
+    region:   west_ronfaure_s_4
+
+  17187219:
+    template: River_Crab
+    level:    [5, 6]
+    region:   west_ronfaure_s_4
+
+  17187220:
+    template: River_Crab
+    at:       [-390.448, -10.042, -433.274, 127]
+    level:    [5, 6]
+
+  17187221:
+    template: River_Crab
+    at:       [-372.494, -9.452, -412.679, 127]
+    level:    [5, 6]
+
+  17187222:
+    template: River_Crab
+    at:       [-388.631, -10.004, -453.983, 49]
+    level:    [5, 6]
+
+  17187223:
+    template: Forest_Hare
+    at:       [-386.211, -1.722, -517.241, 127]
+    level:    [5, 6]
+
+  17187224:
+    template: Forest_Hare
+    at:       [-388.392, -5.133, -503.495, 127]
+    level:    [5, 6]
+
+  17187225:
+    template: Forest_Hare
+    at:       [-461.510, -2.892, -464.823, 127]
+    level:    [5, 6]
+
+  17187226:
+    template: Forest_Hare
+    at:       [-323.028, -2.628, -509.947, 127]
+    level:    [5, 6]
+
+  17187227:
+    template: Carrion_Worm
+    at:       [-438.758, -0.796, -491.137, 127]
+    level:    [5, 6]
+
+  17187228:
+    template: Carrion_Worm
+    level:    [5, 6]
+    region:   west_ronfaure_s_3
+
+  17187229:
+    template: Wild_Sheep
+    level:    [7, 8]
+    region:   west_ronfaure_s_3
+
+  17187230:
+    template: Wild_Sheep
+    level:    [7, 8]
+    region:   west_ronfaure_s_3
+
+  17187231:
+    template: Wild_Sheep
+    level:    [7, 8]
+    region:   west_ronfaure_s_3
+
+  17187232:
+    template: Goblin_Thug
+    level:    [7, 8]
+    region:   west_ronfaure_s_3
+
+  17187233:
+    template: Goblin_Thug
+    level:    [7, 8]
+    region:   west_ronfaure_s_3
+
+  17187234:
+    template: Goblin_Weaver
+    level:    [7, 8]
+    region:   west_ronfaure_s_3
+
+  17187235:
+    template: Ding_Bats
+    level:    [4, 5]
+    region:   west_ronfaure_s_3
+
+  17187236:
+    template: Mouse_Bat
+    level:    [4, 5]
+    region:   west_ronfaure_s_3
+
+  17187237:
+    template: Tainted_Hound
+    at:       [-268.645, -2.602, -567.280, 36]
+    level:    [7, 8]
+
+  17187238:
+    template: Goblin_Thug
+    at:       [-221.000, -0.010, -490.000, 47]
+    level:    [7, 8]
+
+  17187239:
+    template: Goblin_Thug
+    at:       [-213.535, 0.071, -493.327, 127]
+    level:    [7, 8]
+
+  17187240:
+    template: Goblin_Weaver
+    at:       [-213.567, 0.071, -493.319, 47]
+    level:    [7, 8]
+
+  17187241:
+    template: Forest_Hare
+    level:    [5, 6]
+    region:   west_ronfaure_se_2
+
+  17187242:
+    template: Forest_Hare
+    level:    [5, 6]
+    region:   west_ronfaure_se_2
+
+  17187243:
+    template: Forest_Hare
+    level:    [5, 6]
+    region:   west_ronfaure_se_2
+
+  17187244:
+    template: Forest_Hare
+    level:    [5, 6]
+    region:   west_ronfaure_se_2
+
+  17187245:
+    template: Carrion_Worm
+    level:    [5, 6]
+    region:   west_ronfaure_se_2
+
+  17187246:
+    template: Scarab_Beetle
+    level:    [6, 7]
+    region:   west_ronfaure_se_2
+
+  17187247:
+    template: Wild_Sheep
+    level:    [7, 8]
+    region:   west_ronfaure_se_2
+
+  17187248:
+    template: Wild_Sheep
+    level:    [7, 8]
+    region:   west_ronfaure_se_2
+
+  17187249:
+    template: Wild_Sheep
+    level:    [7, 8]
+    region:   west_ronfaure_se_2
+
+  17187250:
+    template: Wild_Sheep
+    level:    [7, 8]
+    region:   west_ronfaure_se_2
+
+  17187251:
+    template: Goblin_Thug
+    level:    [7, 8]
+    region:   west_ronfaure_se_2
+
+  17187252:
+    template: Goblin_Weaver
+    level:    [7, 8]
+    region:   west_ronfaure_se_2
+
+  17187253:
+    template: Tainted_Hound
+    at:       [-154.910, -11.698, -412.007, 13]
+    level:    [7, 8]
+
+  17187254:
+    template: Enchanted_Bones
+    at:       [-179.432, -10.953, -417.258, 127]
+    level:    [7, 8]
+
+  17187255:
+    template: Enchanted_Bones
+    at:       [-138.188, -10.915, -410.870, 62]
+    level:    [7, 8]
+
+  17187256:
+    template: Forest_Hare
+    level:    [5, 6]
+    region:   west_ronfaure_se_3
+
+  17187257:
+    template: Forest_Hare
+    level:    [5, 6]
+    region:   west_ronfaure_se_3
+
+  17187258:
+    template: Forest_Hare
+    level:    [5, 6]
+    region:   west_ronfaure_se_3
+
+  17187259:
+    template: Carrion_Worm
+    level:    [5, 6]
+    region:   west_ronfaure_se_3
+
+  17187260:
+    template: Carrion_Worm
+    level:    [5, 6]
+    region:   west_ronfaure_se_3
+
+  17187261:
+    template: Forest_Funguar
+    level:    [5, 6]
+    region:   west_ronfaure_se_3
+
+  17187262:
+    template: Forest_Funguar
+    level:    [5, 6]
+    region:   west_ronfaure_se_3
+
+  17187263:
+    template: Forest_Funguar
+    level:    [5, 6]
+    region:   west_ronfaure_se_3
+
+  17187264:
+    template: Wild_Sheep
+    level:    [7, 8]
+    region:   west_ronfaure_se_3
+
+  17187265:
+    template: Wild_Sheep
+    level:    [7, 8]
+    region:   west_ronfaure_se_3
+
+  17187266:
+    template: Wild_Sheep
+    level:    [7, 8]
+    region:   west_ronfaure_se_3
+
+  17187267:
+    template: Goblin_Thug
+    level:    [7, 8]
+    region:   west_ronfaure_se_3
+
+  17187268:
+    template: Goblin_Weaver
+    level:    [7, 8]
+    region:   west_ronfaure_se_3
+
+  17187269:
+    template: Ding_Bats
+    level:    [4, 5]
+    region:   west_ronfaure_se_3
+
+  17187270:
+    template: Mouse_Bat
+    level:    [5, 6]
+    region:   west_ronfaure_se_3
+
+  17187271:
+    template: Enchanted_Bones
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [7, 8]
+
+  17187272:
+    template: Goblin_Digger
+    level:    [7, 8]
+    region:   west_ronfaure_c
+
+  17187273:
+    template: Marauder_Dvogzog
+    at:       [-695.249, -39.630, 21.575, 90]
+    level:    [67, 67]
+
+  17187274:
+    template: Orcish_Cursemaker
+    at:       [-429.382, -18.441, -204.904, 86]
+    level:    [20, 25]
+
+  17187275:
+    template: Orcish_Cursemaker
+    at:       [-434.745, -20.208, -215.535, 137]
+    level:    [20, 25]
+
+  17187276:
+    template: Orcish_Serjeant
+    at:       [-435.826, -20.212, -213.961, 81]
+    level:    [20, 25]
+
+  17187277:
+    template: Orcish_Serjeant
+    at:       [-439.416, -20.337, -221.395, 171]
+    level:    [20, 25]
+
+  17187278:
+    template: Orcish_Fighter
+    at:       [-438.286, -20.329, -221.266, 159]
+    level:    [20, 25]
+
+  17187279:
+    template: Orcish_Fighter
+    at:       [-438.063, -20.457, -223.317, 167]
+    level:    [20, 25]
+
+  17187280:
+    template: Orcish_Chasseur
+    at:       [-433.447, -20.013, -216.229, 147]
+    level:    [20, 25]
+
+  17187281:
+    template: Orcish_Chasseur
+    at:       [-436.908, -20.423, -217.221, 84]
+    level:    [20, 25]
+
+  17187282:
+    template: Orcish_Fighterchief
+    at:       [-438.622, -20.418, -222.698, 168]
+    level:    [25, 25]
+
+  17187283:
+    template: Pixie
+    level:    [51, 54]
+    region:   west_ronfaure_e
+
+  17187284:
+    template: Pixie
+    level:    [51, 54]
+    region:   west_ronfaure_c_6
+
+  17187285:
+    template: Pixie
+    level:    [51, 54]
+    region:   west_ronfaure_c_5
+
+  17187286:
+    template: Pixie
+    level:    [51, 54]
+    region:   west_ronfaure_s
+
+  17187287:
+    template: Pixie
+    level:    [51, 54]
+    region:   west_ronfaure_s_7
+
+  17187288:
+    template: Gougetooth_Ganzaga
+    at:       [-76.000, -20.500, -160.000, 71]
+    level:    [1, 1]
+
+  17187289:
+    template: Lancing_Lamorak
+    at:       [-353.130, -52.135, 261.791, 33]
+    level:    [94, 95]
+
+  17187290:
+    template: Lancing_Lamorak
+    at:       [-323.855, -10.500, -359.523, 199]
+    level:    [94, 95]
+
+  17187291:
+    template: Lancing_Lamorak
+    at:       [-340.000, -30.250, -40.000, 238]
+    level:    [94, 95]
+
+  17187301:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187302:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187303:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187313:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187314:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187315:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187325:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187326:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187327:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187328:
+    template: Tatenashi_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187329:
+    template: Hizamaru_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187330:
+    template: Ubuginu_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187331:
+    template: Hachiryu_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187332:
+    template: Omodaka_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187333:
+    template: Bull_[Herd1]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17187334:
+    template: Cow_[Herd1]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17187335:
+    template: Cow_[Herd1]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17187336:
+    template: Cow_[Herd1]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17187337:
+    template: Calf_[Herd1]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17187338:
+    template: Calf_[Herd1]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17187339:
+    template: Calf_[Herd1]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17187340:
+    template: Calf_[Herd1]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17187341:
+    template: Calf_[Herd1]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17187342:
+    template: Calf_[Herd1]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17187343:
+    template: Bull_[Herd2]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17187344:
+    template: Cow_[Herd2]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17187345:
+    template: Cow_[Herd2]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17187346:
+    template: Cow_[Herd2]
+    at:       [-427.340, -17.676, -223.954, 46]
+    level:    [1, 1]
+
+  17187347:
+    template: Calf_[Herd2]
+    at:       [-461.530, -18.333, -262.395, 110]
+    level:    [1, 1]
+
+  17187348:
+    template: Calf_[Herd2]
+    at:       [-477.675, -20.590, -207.093, 48]
+    level:    [1, 1]
+
+  17187349:
+    template: Calf_[Herd2]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17187350:
+    template: Calf_[Herd2]
+    at:       [-456.825, -18.059, -261.481, 227]
+    level:    [1, 1]
+
+  17187351:
+    template: Calf_[Herd2]
+    at:       [-426.701, -17.861, -229.836, 179]
+    level:    [1, 1]
+
+  17187352:
+    template: Calf_[Herd2]
+    at:       [-449.526, -20.517, -178.899, 168]
+    level:    [1, 1]
+
+  17187353:
+    template: Bull_[Herd3]
+    at:       [-328.078, -11.207, -333.487, 149]
+    level:    [1, 1]
+
+  17187354:
+    template: Cow_[Herd3]
+    at:       [-350.473, -8.932, -288.404, 111]
+    level:    [1, 1]
+
+  17187355:
+    template: Cow_[Herd3]
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17187356:
+    template: Cow_[Herd3]
+    at:       [-390.365, -14.252, -303.069, 249]
+    level:    [1, 1]
+
+  17187357:
+    template: Calf_[Herd3]
+    at:       [-357.360, -10.619, -305.244, 102]
+    level:    [1, 1]
+
+  17187358:
+    template: Calf_[Herd3]
+    at:       [-433.362, -12.050, -347.753, 218]
+    level:    [1, 1]
+
+  17187359:
+    template: Calf_[Herd3]
+    at:       [-323.922, -11.140, -345.801, 40]
+    level:    [1, 1]
+
+  17187360:
+    template: Calf_[Herd3]
+    at:       [-267.207, -12.486, -347.204, 0]
+    level:    [1, 1]
+
+  17187361:
+    template: Calf_[Herd3]
+    at:       [-250.539, -11.618, -349.867, 14]
+    level:    [1, 1]
+
+  17187362:
+    template: Calf_[Herd3]
+    at:       [-356.766, -10.954, -300.917, 242]
+    level:    [1, 1]
+
+  17187373:
+    template: Pyracmon
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17187374:
+    template: Wraith_Bat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17187375:
+    template: Wraith_Bat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17187376:
+    template: Wraith_Bat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17187377:
+    template: Wraith_Bat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17187378:
+    template: Wraith_Bat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17187379:
+    template: Wraith_Bat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17187380:
+    template: Wraith_Bat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17187381:
+    template: Wraith_Bat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17187382:
+    template: Wraith_Bat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17187383:
+    template: Wraith_Bat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17187384:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187385:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187386:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187387:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187388:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187389:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187390:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187391:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187392:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187393:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187394:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187395:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187396:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187397:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187398:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187399:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187400:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187401:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187402:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187403:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187404:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187405:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187406:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187407:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187408:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187409:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187410:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187411:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187412:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187413:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187414:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187415:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187416:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187417:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187418:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187419:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187420:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187421:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187422:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187423:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187424:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187425:
+    template: Astral_Box
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187426:
+    template: Spriggan_Sifter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187427:
+    template: Spriggan_Sifter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187428:
+    template: Spriggan_Sifter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187429:
+    template: Spriggan_Sifter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187430:
+    template: Spriggan_Sifter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187431:
+    template: Spriggan_Sifter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187432:
+    template: Spriggan_Sifter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187433:
+    template: Spriggan_Sifter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187434:
+    template: Spriggan_Sifter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187435:
+    template: Spriggan_Sifter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187436:
+    template: Spriggan_Sifter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187437:
+    template: Spriggan_Sifter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187438:
+    template: Spriggan_Sifter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187439:
+    template: Spriggan_Sifter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187440:
+    template: Spriggan_Sifter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187441:
+    template: Spriggan_Crier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187442:
+    template: Spriggan_Crier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187443:
+    template: Spriggan_Crier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187444:
+    template: Spriggan_Crier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187445:
+    template: Spriggan_Crier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187446:
+    template: Spriggan_Crier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187447:
+    template: Spriggan_Crier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187448:
+    template: Spriggan_Crier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187449:
+    template: Spriggan_Graverobber
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187450:
+    template: Spriggan_Graverobber
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187451:
+    template: Spriggan_Graverobber
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187452:
+    template: Spriggan_Graverobber
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187453:
+    template: Spriggan_Graverobber
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187454:
+    template: Spriggan_Graverobber
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17187455:
+    template: Spriggan_Graverobber
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]

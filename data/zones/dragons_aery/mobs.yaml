@@ -1,0 +1,158 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17408001:
+    template: Demonic_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [70, 75]
+
+  17408002:
+    template: Demonic_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [70, 75]
+
+  17408003:
+    template: Demonic_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [70, 75]
+
+  17408004:
+    template: Demonic_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [70, 75]
+
+  17408005:
+    template: Demonic_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [70, 75]
+
+  17408006:
+    template: Bark_Tarantula
+    level:    [77, 80]
+    region:   dragons_aery_sw
+
+  17408007:
+    template: Bark_Tarantula
+    level:    [77, 80]
+    region:   dragons_aery_sw
+
+  17408008:
+    template: Bark_Tarantula
+    at:       [-21.076, -1.445, 19.181, 127]
+    level:    [77, 80]
+
+  17408009:
+    template: Darter
+    at:       [-18.263, -1.482, 17.776, 66]
+    level:    [76, 79]
+
+  17408010:
+    template: Darter
+    at:       [66.000, 6.000, 43.000, 66]
+    level:    [76, 79]
+
+  17408011:
+    template: Darter
+    at:       [-20.941, -1.635, 30.774, 20]
+    level:    [76, 79]
+
+  17408012:
+    template: Darter
+    at:       [-20.982, -2.159, 55.376, 127]
+    level:    [76, 79]
+
+  17408013:
+    template: Darter
+    at:       [-18.520, -2.942, 57.249, 245]
+    level:    [76, 79]
+
+  17408014:
+    template: Demonic_Rose
+    at:       [-25.000, -2.000, 56.000, 47]
+    level:    [77, 79]
+
+  17408015:
+    template: Bark_Tarantula
+    level:    [77, 80]
+    region:   dragons_aery_s
+
+  17408016:
+    template: Bark_Tarantula
+    level:    [77, 80]
+    region:   dragons_aery_s
+
+  17408017:
+    template: Bark_Tarantula
+    level:    [77, 80]
+    region:   dragons_aery_s
+
+  17408018:
+    template: Fafnir
+    at:       [82.325, 6.876, 42.041, 0]
+    level:    [90, 90]
+
+  17408019:
+    template: Nidhogg
+    at:       [82.325, 6.876, 42.041, 0]
+    level:    [90, 90]
+
+  17408020:
+    template: Darter
+    level:    [76, 79]
+    region:   dragons_aery_e
+
+  17408021:
+    template: Darter
+    level:    [76, 79]
+    region:   dragons_aery_e
+
+  17408022:
+    template: Darter
+    level:    [76, 79]
+    region:   dragons_aery_e
+
+  17408023:
+    template: Darter
+    level:    [76, 79]
+    region:   dragons_aery_e
+
+  17408024:
+    template: Darter
+    level:    [76, 79]
+    region:   dragons_aery_e
+
+  17408025:
+    template: Darter
+    level:    [76, 79]
+    region:   dragons_aery_e
+
+  17408026:
+    template: Bark_Tarantula
+    level:    [77, 80]
+    region:   dragons_aery_ne_2
+
+  17408027:
+    template: Bark_Tarantula
+    level:    [77, 80]
+    region:   dragons_aery_ne_2
+
+  17408028:
+    template: Bark_Tarantula
+    level:    [77, 80]
+    region:   dragons_aery_ne_2
+
+  17408029:
+    template: Bark_Tarantula
+    level:    [77, 80]
+    region:   dragons_aery_ne
+
+  17408030:
+    template: Bark_Tarantula
+    level:    [77, 80]
+    region:   dragons_aery_ne
+
+  17408031:
+    template: Bark_Tarantula
+    level:    [77, 80]
+    region:   dragons_aery_ne

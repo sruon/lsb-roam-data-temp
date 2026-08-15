@@ -1,0 +1,3083 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17342465:
+    template: Icefall
+    level:    [79, 82]
+    region:   castle_zvahl_baileys_s_se_5
+
+  17342466:
+    template: Icefall
+    level:    [79, 82]
+    region:   castle_zvahl_baileys_s_se_5
+
+  17342467:
+    template: Demon_Warrior
+    level:    [80, 81]
+    region:   castle_zvahl_baileys_s_se_4
+
+  17342468:
+    template: Icefall
+    level:    [79, 82]
+    region:   castle_zvahl_baileys_s_se_4
+
+  17342469:
+    template: Icefall
+    level:    [79, 82]
+    region:   castle_zvahl_baileys_s_se_4
+
+  17342470:
+    template: Dark_Elemental
+    level:    [79, 82]
+    region:   castle_zvahl_baileys_s_se_4
+
+  17342471:
+    template: Ice_Elemental
+    level:    [79, 82]
+    region:   castle_zvahl_baileys_s_se_4
+
+  17342472:
+    template: Demon_Magus
+    level:    [80, 81]
+    region:   castle_zvahl_baileys_s_se
+
+  17342473:
+    template: Demon_Justiciar
+    level:    [80, 81]
+    region:   castle_zvahl_baileys_s_se
+
+  17342474:
+    template: Demons_Elemental
+    level:    [75, 78]
+    region:   castle_zvahl_baileys_s_se
+
+  17342475:
+    template: Icefall
+    level:    [79, 82]
+    region:   castle_zvahl_baileys_s_se
+
+  17342476:
+    template: Icefall
+    level:    [79, 82]
+    region:   castle_zvahl_baileys_s_se
+
+  17342477:
+    template: Dark_Elemental
+    level:    [79, 82]
+    region:   castle_zvahl_baileys_s_se_3
+
+  17342478:
+    template: Ice_Elemental
+    level:    [79, 82]
+    region:   castle_zvahl_baileys_s_se_2
+
+  17342479:
+    template: Demon_Warrior
+    level:    [80, 81]
+    region:   castle_zvahl_baileys_s_s_14
+
+  17342480:
+    template: Demon_Warrior
+    level:    [80, 81]
+    region:   castle_zvahl_baileys_s_s_14
+
+  17342481:
+    template: Icefall
+    level:    [79, 82]
+    region:   castle_zvahl_baileys_s_s_14
+
+  17342482:
+    template: Dark_Elemental
+    at:       [152.000, -24.000, -60.000, 200]
+    level:    [79, 82]
+
+  17342483:
+    template: Ice_Elemental
+    level:    [79, 82]
+    region:   castle_zvahl_baileys_s_s_14
+
+  17342484:
+    template: Demon_Warrior
+    level:    [80, 81]
+    region:   castle_zvahl_baileys_s_s_11
+
+  17342485:
+    template: Demon_Justiciar
+    at:       [-77.000, -24.000, 34.000, 218]
+    level:    [80, 81]
+
+  17342486:
+    template: Demons_Elemental
+    at:       [-77.000, -24.000, 36.000, 100]
+    level:    [75, 78]
+
+  17342487:
+    template: Demon_Befouler
+    level:    [80, 81]
+    region:   castle_zvahl_baileys_s_s_8
+
+  17342488:
+    template: Demon_Befouler
+    level:    [80, 81]
+    region:   castle_zvahl_baileys_s_s_7
+
+  17342489:
+    template: Demon_Warrior
+    level:    [80, 81]
+    region:   castle_zvahl_baileys_s_s_13
+
+  17342490:
+    template: Demon_Magus
+    level:    [80, 81]
+    region:   castle_zvahl_baileys_s_s_12
+
+  17342491:
+    template: Demon_Warrior
+    at:       [79.000, -24.000, 24.000, 68]
+    level:    [80, 81]
+
+  17342492:
+    template: Demon_Magus
+    at:       [184.000, -24.000, -56.000, 103]
+    level:    [80, 81]
+
+  17342493:
+    template: Demon_Warrior
+    level:    [80, 81]
+    region:   castle_zvahl_baileys_s_c_4
+
+  17342494:
+    template: Dark_Elemental
+    level:    [79, 82]
+    region:   castle_zvahl_baileys_s_c_4
+
+  17342495:
+    template: Ice_Elemental
+    level:    [79, 82]
+    region:   castle_zvahl_baileys_s_c_4
+
+  17342496:
+    template: Demon_Justiciar
+    level:    [80, 81]
+    region:   castle_zvahl_baileys_s_s_10
+
+  17342497:
+    template: Demons_Elemental
+    level:    [75, 78]
+    region:   castle_zvahl_baileys_s_s_10
+
+  17342498:
+    template: Dark_Elemental
+    level:    [79, 82]
+    region:   castle_zvahl_baileys_s_s_10
+
+  17342499:
+    template: Ice_Elemental
+    level:    [79, 82]
+    region:   castle_zvahl_baileys_s_s_10
+
+  17342500:
+    template: Errand_Imp
+    at:       [-3.000, -24.000, 20.000, 30]
+    level:    [79, 80]
+
+  17342501:
+    template: Errand_Imp
+    at:       [-37.000, -24.000, 19.000, 127]
+    level:    [79, 80]
+
+  17342502:
+    template: Errand_Imp
+    at:       [-105.000, -24.000, 19.000, 1]
+    level:    [79, 80]
+
+  17342503:
+    template: Errand_Imp
+    at:       [132.000, -24.000, 24.000, 24]
+    level:    [79, 80]
+
+  17342504:
+    template: Errand_Imp
+    at:       [144.000, -24.000, 55.000, 177]
+    level:    [79, 80]
+
+  17342505:
+    template: Errand_Imp
+    at:       [137.000, -24.000, 65.000, 73]
+    level:    [79, 80]
+
+  17342506:
+    template: Dire_Gargouille
+    level:    [80, 82]
+    region:   castle_zvahl_baileys_s_w_12
+
+  17342507:
+    template: Dire_Gargouille
+    level:    [80, 82]
+    region:   castle_zvahl_baileys_s_w_12
+
+  17342508:
+    template: Dire_Gargouille
+    level:    [80, 82]
+    region:   castle_zvahl_baileys_s_w_12
+
+  17342509:
+    template: Dire_Gargouille
+    level:    [80, 82]
+    region:   castle_zvahl_baileys_s_w_12
+
+  17342510:
+    template: Orcish_Bowshooter
+    level:    [76, 78]
+    region:   castle_zvahl_baileys_s_sw_30
+
+  17342511:
+    template: Orcish_Augur
+    level:    [76, 79]
+    region:   castle_zvahl_baileys_s_sw_30
+
+  17342512:
+    template: Orcish_Champion
+    level:    [76, 79]
+    region:   castle_zvahl_baileys_s_sw_30
+
+  17342513:
+    template: Orcish_Protector
+    level:    [76, 79]
+    region:   castle_zvahl_baileys_s_sw_30
+
+  17342514:
+    template: Dire_Gargouille
+    level:    [80, 82]
+    region:   castle_zvahl_baileys_s_w_11
+
+  17342515:
+    template: Dire_Gargouille
+    level:    [80, 82]
+    region:   castle_zvahl_baileys_s_w_11
+
+  17342516:
+    template: Dire_Gargouille
+    level:    [80, 82]
+    region:   castle_zvahl_baileys_s_w_11
+
+  17342517:
+    template: Dire_Gargouille
+    level:    [80, 82]
+    region:   castle_zvahl_baileys_s_w_11
+
+  17342518:
+    template: Orcish_Augur
+    level:    [76, 79]
+    region:   castle_zvahl_baileys_s_sw_19
+
+  17342519:
+    template: Orcish_Dragonbrander
+    level:    [76, 78]
+    region:   castle_zvahl_baileys_s_sw_19
+
+  17342520:
+    template: Orcish_Champion
+    level:    [76, 79]
+    region:   castle_zvahl_baileys_s_sw_19
+
+  17342521:
+    template: Orcish_Dragonbrander
+    level:    [76, 78]
+    region:   castle_zvahl_baileys_s_sw_19
+
+  17342522:
+    template: Demon_Magus
+    at:       [220.000, -24.000, 63.000, 10]
+    level:    [80, 81]
+
+  17342523:
+    template: Demon_Befouler
+    at:       [10.000, -20.000, -19.000, 189]
+    level:    [80, 81]
+
+  17342524:
+    template: Demon_Justiciar
+    at:       [87.000, -24.000, 15.000, 179]
+    level:    [80, 81]
+
+  17342525:
+    template: Demons_Elemental
+    at:       [87.000, -24.000, 13.000, 100]
+    level:    [75, 78]
+
+  17342526:
+    template: Demon_Magus
+    at:       [264.000, -21.000, 62.000, 39]
+    level:    [80, 81]
+
+  17342527:
+    template: Demon_Befouler
+    at:       [-73.000, -19.000, 50.000, 253]
+    level:    [80, 81]
+
+  17342528:
+    template: Demon_Justiciar
+    at:       [105.000, -24.000, -57.000, 8]
+    level:    [80, 81]
+
+  17342529:
+    template: Demons_Elemental
+    at:       [105.000, -24.000, -58.000, 110]
+    level:    [75, 78]
+
+  17342530:
+    template: Dire_Gargouille
+    level:    [80, 82]
+    region:   castle_zvahl_baileys_s_w_13
+
+  17342531:
+    template: Dire_Gargouille
+    level:    [80, 82]
+    region:   castle_zvahl_baileys_s_w_13
+
+  17342532:
+    template: Dire_Gargouille
+    level:    [80, 82]
+    region:   castle_zvahl_baileys_s_w_13
+
+  17342533:
+    template: Dire_Gargouille
+    level:    [80, 82]
+    region:   castle_zvahl_baileys_s_w_13
+
+  17342534:
+    template: Orcish_Bowshooter
+    level:    [76, 78]
+    region:   castle_zvahl_baileys_s_sw_31
+
+  17342535:
+    template: Orcish_Veteran
+    level:    [76, 78]
+    region:   castle_zvahl_baileys_s_sw_31
+
+  17342536:
+    template: Orcish_Champion
+    level:    [76, 79]
+    region:   castle_zvahl_baileys_s_sw_31
+
+  17342537:
+    template: Orcish_Protector
+    level:    [76, 79]
+    region:   castle_zvahl_baileys_s_sw_31
+
+  17342538:
+    template: Dire_Gargouille
+    level:    [80, 82]
+    region:   castle_zvahl_baileys_s_c
+
+  17342539:
+    template: Dire_Gargouille
+    level:    [80, 82]
+    region:   castle_zvahl_baileys_s_c
+
+  17342540:
+    template: Orcish_Dragonbrander
+    at:       [-54.000, -24.000, -60.000, 194]
+    level:    [76, 78]
+
+  17342541:
+    template: Orcish_Veteran
+    level:    [76, 78]
+    region:   castle_zvahl_baileys_s_sw_32
+
+  17342542:
+    template: Orcish_Warlord
+    at:       [20.000, -24.000, -33.000, 192]
+    level:    [76, 78]
+
+  17342543:
+    template: Orcish_Protector
+    level:    [76, 79]
+    region:   castle_zvahl_baileys_s_sw_32
+
+  17342544:
+    template: Demon_Befouler
+    level:    [80, 81]
+    region:   castle_zvahl_baileys_s_s
+
+  17342545:
+    template: Demon_Befouler
+    level:    [80, 81]
+    region:   castle_zvahl_baileys_s_s
+
+  17342546:
+    template: Errand_Imp
+    level:    [79, 80]
+    region:   castle_zvahl_baileys_s_sw_24
+
+  17342547:
+    template: Errand_Imp
+    level:    [79, 80]
+    region:   castle_zvahl_baileys_s_sw_24
+
+  17342548:
+    template: Dire_Gargouille
+    level:    [80, 82]
+    region:   castle_zvahl_baileys_s_w_9
+
+  17342549:
+    template: Dire_Gargouille
+    level:    [80, 82]
+    region:   castle_zvahl_baileys_s_w_9
+
+  17342550:
+    template: Orcish_Bowshooter
+    level:    [76, 78]
+    region:   castle_zvahl_baileys_s_sw_23
+
+  17342551:
+    template: Orcish_Veteran
+    level:    [76, 78]
+    region:   castle_zvahl_baileys_s_sw_23
+
+  17342552:
+    template: Orcish_Augur
+    at:       [-27.000, -24.000, -60.000, 1]
+    level:    [76, 79]
+
+  17342553:
+    template: Orcish_Warlord
+    at:       [-22.000, -22.000, -101.000, 66]
+    level:    [76, 78]
+
+  17342554:
+    template: Adaman_Quadav
+    level:    [77, 79]
+    region:   castle_zvahl_baileys_s_w_7
+
+  17342555:
+    template: Gold_Quadav
+    at:       [-95.552, -24.127, 103.066, 199]
+    level:    [77, 79]
+
+  17342556:
+    template: Magnes_Quadav
+    level:    [77, 79]
+    region:   castle_zvahl_baileys_s_w_7
+
+  17342557:
+    template: Star_Ruby_Quadav
+    at:       [-66.000, -24.000, 103.000, 82]
+    level:    [77, 79]
+
+  17342558:
+    template: Yagudo_Knight_Templar
+    at:       [-133.000, -24.000, -94.000, 197]
+    level:    [77, 79]
+
+  17342559:
+    template: Yagudo_Eradicator
+    level:    [77, 79]
+    region:   castle_zvahl_baileys_s_sw_17
+
+  17342560:
+    template: Yagudo_Chanter
+    level:    [77, 79]
+    region:   castle_zvahl_baileys_s_sw_17
+
+  17342561:
+    template: Yagudo_Prelate
+    at:       [-137.000, -24.000, -51.000, 179]
+    level:    [77, 79]
+
+  17342562:
+    template: Adaman_Quadav
+    level:    [77, 79]
+    region:   castle_zvahl_baileys_s_w_4
+
+  17342563:
+    template: Iron_Quadav
+    level:    [77, 79]
+    region:   castle_zvahl_baileys_s_w_4
+
+  17342564:
+    template: Gold_Quadav
+    level:    [77, 79]
+    region:   castle_zvahl_baileys_s_w_4
+
+  17342565:
+    template: Vajra_Quadav
+    level:    [77, 79]
+    region:   castle_zvahl_baileys_s_w_4
+
+  17342566:
+    template: Yagudo_Sentinel
+    level:    [77, 79]
+    region:   castle_zvahl_baileys_s_sw_5
+
+  17342567:
+    template: Yagudo_Knight_Templar
+    level:    [77, 79]
+    region:   castle_zvahl_baileys_s_sw_5
+
+  17342568:
+    template: Yagudo_Chanter
+    level:    [77, 79]
+    region:   castle_zvahl_baileys_s_sw_5
+
+  17342569:
+    template: Yagudo_Prelate
+    level:    [77, 79]
+    region:   castle_zvahl_baileys_s_sw_5
+
+  17342570:
+    template: Ancient_Quadav
+    level:    [77, 79]
+    region:   castle_zvahl_baileys_s_sw_7
+
+  17342571:
+    template: Iron_Quadav
+    at:       [-143.000, -27.000, 71.000, 61]
+    level:    [77, 79]
+
+  17342572:
+    template: Adaman_Quadav
+    at:       [-141.000, -35.000, 55.000, 193]
+    level:    [77, 79]
+
+  17342573:
+    template: Vajra_Quadav
+    level:    [77, 79]
+    region:   castle_zvahl_baileys_s_sw_7
+
+  17342574:
+    template: Yagudo_Sentinel
+    level:    [77, 79]
+    region:   castle_zvahl_baileys_s_sw_6
+
+  17342575:
+    template: Yagudo_Eradicator
+    level:    [77, 79]
+    region:   castle_zvahl_baileys_s_sw_6
+
+  17342576:
+    template: Yagudo_Chanter
+    at:       [-77.000, -24.000, -61.000, 131]
+    level:    [77, 79]
+
+  17342577:
+    template: Yagudo_High_Priest
+    at:       [-140.000, -29.000, -27.000, 41]
+    level:    [77, 79]
+
+  17342578:
+    template: Ogler
+    at:       [-141.000, -42.000, 19.000, 145]
+    level:    [81, 82]
+
+  17342579:
+    template: Ogler
+    at:       [-149.000, -38.000, 31.000, 211]
+    level:    [81, 82]
+
+  17342580:
+    template: Ancient_Quadav
+    level:    [77, 79]
+    region:   castle_zvahl_baileys_s_w_3
+
+  17342581:
+    template: Iron_Quadav
+    level:    [77, 79]
+    region:   castle_zvahl_baileys_s_w_3
+
+  17342582:
+    template: Magnes_Quadav
+    level:    [77, 79]
+    region:   castle_zvahl_baileys_s_w_3
+
+  17342583:
+    template: Star_Ruby_Quadav
+    level:    [77, 79]
+    region:   castle_zvahl_baileys_s_w_3
+
+  17342584:
+    template: Yagudo_Sentinel
+    level:    [77, 79]
+    region:   castle_zvahl_baileys_s_sw_3
+
+  17342585:
+    template: Yagudo_Eradicator
+    level:    [77, 79]
+    region:   castle_zvahl_baileys_s_sw_3
+
+  17342586:
+    template: Yagudo_Chanter
+    level:    [77, 79]
+    region:   castle_zvahl_baileys_s_sw_3
+
+  17342587:
+    template: Yagudo_High_Priest
+    level:    [77, 79]
+    region:   castle_zvahl_baileys_s_sw_3
+
+  17342588:
+    template: Demon_Warrior
+    level:    [80, 81]
+    region:   castle_zvahl_baileys_s_sw_4
+
+  17342589:
+    template: Demon_Warrior
+    level:    [80, 81]
+    region:   castle_zvahl_baileys_s_sw_4
+
+  17342590:
+    template: Demon_Magus
+    level:    [80, 81]
+    region:   castle_zvahl_baileys_s_sw_4
+
+  17342591:
+    template: Ancient_Quadav
+    level:    [77, 79]
+    region:   castle_zvahl_baileys_s_w_5
+
+  17342592:
+    template: Iron_Quadav
+    level:    [77, 79]
+    region:   castle_zvahl_baileys_s_w_5
+
+  17342593:
+    template: Magnes_Quadav
+    level:    [77, 79]
+    region:   castle_zvahl_baileys_s_w_5
+
+  17342594:
+    template: Star_Ruby_Quadav
+    level:    [77, 79]
+    region:   castle_zvahl_baileys_s_w_5
+
+  17342595:
+    template: Yagudo_Sentinel
+    level:    [77, 79]
+    region:   castle_zvahl_baileys_s_sw_12
+
+  17342596:
+    template: Yagudo_Eradicator
+    level:    [77, 79]
+    region:   castle_zvahl_baileys_s_sw_12
+
+  17342597:
+    template: Yagudo_High_Priest
+    level:    [77, 79]
+    region:   castle_zvahl_baileys_s_sw_12
+
+  17342598:
+    template: Yagudo_Prelate
+    level:    [77, 79]
+    region:   castle_zvahl_baileys_s_sw_12
+
+  17342599:
+    template: Demon_Warrior
+    level:    [80, 81]
+    region:   castle_zvahl_baileys_s_sw_11
+
+  17342600:
+    template: Demon_Justiciar
+    level:    [80, 81]
+    region:   castle_zvahl_baileys_s_sw_10
+
+  17342601:
+    template: Demons_Elemental
+    level:    [75, 78]
+    region:   castle_zvahl_baileys_s_sw_10
+
+  17342602:
+    template: Demon_Magus
+    level:    [80, 81]
+    region:   castle_zvahl_baileys_s_sw_10
+
+  17342603:
+    template: Ogler
+    level:    [81, 82]
+    region:   castle_zvahl_baileys_s_sw_18
+
+  17342604:
+    template: Ogler
+    level:    [81, 82]
+    region:   castle_zvahl_baileys_s_sw_18
+
+  17342605:
+    template: Ogler
+    level:    [81, 82]
+    region:   castle_zvahl_baileys_s_sw_18
+
+  17342606:
+    template: Demon_Magus
+    at:       [-82.000, -24.000, 43.000, 52]
+    level:    [80, 81]
+
+  17342607:
+    template: Demon_Befouler
+    at:       [97.000, -24.000, -21.000, 214]
+    level:    [80, 81]
+
+  17342608:
+    template: Shadowguard_Demon
+    at:       [-85.184, -24.555, 42.652, 183]
+    level:    [80, 80]
+
+  17342609:
+    template: Demon_Magus
+    at:       [-83.000, -24.000, -5.000, 70]
+    level:    [80, 81]
+
+  17342610:
+    template: Demon_Justiciar
+    at:       [263.000, -21.000, 57.000, 211]
+    level:    [80, 81]
+
+  17342611:
+    template: Demons_Elemental
+    at:       [263.000, -21.000, 55.000, 211]
+    level:    [75, 78]
+
+  17342612:
+    template: Shadowguard_Demon
+    at:       [-83.076, -24.501, 2.127, 146]
+    level:    [80, 80]
+
+  17342613:
+    template: Ogler
+    level:    [81, 82]
+    region:   castle_zvahl_baileys_s_w_8
+
+  17342614:
+    template: Ogler
+    level:    [81, 82]
+    region:   castle_zvahl_baileys_s_w_8
+
+  17342615:
+    template: Ogler
+    level:    [81, 82]
+    region:   castle_zvahl_baileys_s_sw_22
+
+  17342616:
+    template: Ogler
+    level:    [81, 82]
+    region:   castle_zvahl_baileys_s_sw_22
+
+  17342617:
+    template: Demon_Warrior
+    level:    [80, 81]
+    region:   castle_zvahl_baileys_s_w_10
+
+  17342618:
+    template: Demon_Befouler
+    level:    [80, 81]
+    region:   castle_zvahl_baileys_s_sw_25
+
+  17342619:
+    template: Demon_Magus
+    level:    [80, 81]
+    region:   castle_zvahl_baileys_s_w_6
+
+  17342620:
+    template: Demon_Justiciar
+    level:    [80, 81]
+    region:   castle_zvahl_baileys_s_sw_13
+
+  17342621:
+    template: Demons_Elemental
+    level:    [75, 78]
+    region:   castle_zvahl_baileys_s_sw_13
+
+  17342622:
+    template: Deathwreaker_Demon
+    at:       [-35.475, -4.500, 54.841, 88]
+    level:    [85, 87]
+
+  17342623:
+    template: Demon_Corrupter
+    at:       [-3.000, 3.000, 127.000, 48]
+    level:    [82, 83]
+
+  17342624:
+    template: Demon_Entomber
+    at:       [-127.000, 4.000, 121.000, 39]
+    level:    [82, 83]
+
+  17342625:
+    template: Demon_Condemner
+    at:       [4.000, 4.000, 127.000, 21]
+    level:    [82, 83]
+
+  17342626:
+    template: Demons_Elemental
+    at:       [4.000, 4.000, 128.000, 10]
+    level:    [75, 78]
+
+  17342627:
+    template: Soulsearer_Demon
+    at:       [-189.000, -8.000, 173.000, 90]
+    level:    [85, 88]
+
+  17342628:
+    template: Demon_Suppressor
+    at:       [-125.000, 4.000, 111.000, 215]
+    level:    [82, 83]
+
+  17342629:
+    template: Demon_Corrupter
+    at:       [-12.000, 3.000, -76.000, 78]
+    level:    [82, 83]
+
+  17342630:
+    template: Demon_Condemner
+    at:       [-117.000, 3.000, 128.000, 72]
+    level:    [82, 83]
+
+  17342631:
+    template: Demons_Elemental
+    at:       [-117.000, 3.000, 126.000, 10]
+    level:    [75, 78]
+
+  17342632:
+    template: Woebringer_Demon
+    at:       [-25.385, -4.500, -15.515, 127]
+    level:    [85, 88]
+
+  17342633:
+    template: Demon_Suppressor
+    at:       [-110.000, 3.000, -80.000, 105]
+    level:    [82, 83]
+
+  17342634:
+    template: Demon_Entomber
+    at:       [-97.000, 3.000, 180.000, 245]
+    level:    [82, 83]
+
+  17342635:
+    template: Demon_Condemner
+    at:       [-118.000, 3.000, -70.000, 56]
+    level:    [82, 83]
+
+  17342636:
+    template: Demons_Elemental
+    at:       [-118.000, 3.000, -68.000, 55]
+    level:    [75, 78]
+
+  17342637:
+    template: Foredoomer_Demon
+    at:       [-81.000, -4.000, -8.000, 119]
+    level:    [85, 88]
+
+  17342638:
+    template: Demons_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 83]
+
+  17342639:
+    template: Demon_Suppressor
+    at:       [6.000, 4.000, -89.000, 90]
+    level:    [82, 83]
+
+  17342640:
+    template: Demon_Corrupter
+    at:       [-25.000, 4.000, 180.000, 138]
+    level:    [82, 83]
+
+  17342641:
+    template: Demon_Entomber
+    at:       [7.000, 4.000, -74.000, 97]
+    level:    [82, 83]
+
+  17342642:
+    template: Deathwreaker_Demon
+    level:    [85, 87]
+    region:   castle_zvahl_baileys_s_c_3
+
+  17342643:
+    template: Soulsearer_Demon
+    level:    [85, 88]
+    region:   castle_zvahl_baileys_s_c_3
+
+  17342644:
+    template: Woebringer_Demon
+    at:       [-93.493, -4.499, 41.046, 127]
+    level:    [85, 88]
+
+  17342645:
+    template: Deathwreaker_Demon
+    level:    [85, 87]
+    region:   castle_zvahl_baileys_s_c_2
+
+  17342646:
+    template: Soulsearer_Demon
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [85, 88]
+
+  17342647:
+    template: Foredoomer_Demon
+    level:    [85, 88]
+    region:   castle_zvahl_baileys_s_c_2
+
+  17342648:
+    template: Demons_Elemental
+    level:    [80, 83]
+    region:   castle_zvahl_baileys_s_c_2
+
+  17342649:
+    template: Soulsearer_Demon
+    level:    [85, 88]
+    region:   castle_zvahl_baileys_s_s_6
+
+  17342650:
+    template: Woebringer_Demon
+    at:       [-93.000, -4.500, -15.000, 99]
+    level:    [85, 88]
+
+  17342651:
+    template: Foredoomer_Demon
+    level:    [85, 88]
+    region:   castle_zvahl_baileys_s_s_6
+
+  17342652:
+    template: Demons_Elemental
+    level:    [80, 83]
+    region:   castle_zvahl_baileys_s_s_6
+
+  17342653:
+    template: Soulsearer_Demon
+    level:    [85, 88]
+    region:   castle_zvahl_baileys_s_s_4
+
+  17342654:
+    template: Deathwreaker_Demon
+    level:    [85, 87]
+    region:   castle_zvahl_baileys_s_s_4
+
+  17342655:
+    template: Woebringer_Demon
+    at:       [-58.820, 22.414, 48.516, 127]
+    level:    [85, 88]
+
+  17342656:
+    template: Woebringer_Demon
+    level:    [85, 88]
+    region:   castle_zvahl_baileys_s_w_2
+
+  17342657:
+    template: Deathwreaker_Demon
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [85, 87]
+
+  17342658:
+    template: Foredoomer_Demon
+    level:    [85, 88]
+    region:   castle_zvahl_baileys_s_w_2
+
+  17342659:
+    template: Demons_Elemental
+    level:    [80, 83]
+    region:   castle_zvahl_baileys_s_w_2
+
+  17342660:
+    template: Woebringer_Demon
+    level:    [85, 88]
+    region:   castle_zvahl_baileys_s_w
+
+  17342661:
+    template: Soulsearer_Demon
+    at:       [-204.511, -8.500, 164.884, 186]
+    level:    [85, 88]
+
+  17342662:
+    template: Foredoomer_Demon
+    level:    [85, 88]
+    region:   castle_zvahl_baileys_s_w
+
+  17342663:
+    template: Demons_Elemental
+    level:    [75, 78]
+    region:   castle_zvahl_baileys_s_w
+
+  17342664:
+    template: Foredoomer_Demon
+    level:    [85, 88]
+    region:   castle_zvahl_baileys_s_sw_2
+
+  17342665:
+    template: Demons_Elemental
+    level:    [80, 83]
+    region:   castle_zvahl_baileys_s_sw_2
+
+  17342666:
+    template: Deathwreaker_Demon
+    level:    [85, 87]
+    region:   castle_zvahl_baileys_s_sw_2
+
+  17342667:
+    template: Soulsearer_Demon
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [85, 88]
+
+  17342668:
+    template: Foredoomer_Demon
+    level:    [85, 88]
+    region:   castle_zvahl_baileys_s_sw
+
+  17342669:
+    template: Demons_Elemental
+    level:    [75, 78]
+    region:   castle_zvahl_baileys_s_sw
+
+  17342670:
+    template: Deathwreaker_Demon
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [85, 87]
+
+  17342671:
+    template: Woebringer_Demon
+    level:    [85, 88]
+    region:   castle_zvahl_baileys_s_sw
+
+  17342672:
+    template: Doom_Lens
+    at:       [-57.000, 0.001, 35.000, 71]
+    level:    [84, 85]
+
+  17342673:
+    template: Doom_Lens
+    at:       [-61.000, 0.001, 52.000, 55]
+    level:    [84, 85]
+
+  17342674:
+    template: Doom_Lens
+    at:       [-22.000, 0.001, 20.000, 2]
+    level:    [84, 85]
+
+  17342675:
+    template: Doom_Lens
+    at:       [-42.000, 0.001, 21.000, 137]
+    level:    [84, 85]
+
+  17342676:
+    template: Doom_Lens
+    at:       [-57.000, 0.001, 0.001, 92]
+    level:    [84, 85]
+
+  17342677:
+    template: Doom_Lens
+    level:    [84, 85]
+    region:   castle_zvahl_baileys_s_sw_32
+
+  17342678:
+    template: Doom_Lens
+    level:    [84, 85]
+    region:   castle_zvahl_baileys_s_sw_9
+
+  17342679:
+    template: Doom_Lens
+    at:       [-90.000, 0.001, 19.000, 135]
+    level:    [84, 85]
+
+  17342680:
+    template: Deathwreaker_Demon
+    level:    [85, 87]
+    region:   castle_zvahl_baileys_s_sw_28
+
+  17342681:
+    template: Demon_Entomber
+    level:    [82, 83]
+    region:   castle_zvahl_baileys_s_sw_28
+
+  17342682:
+    template: Demon_Condemner
+    level:    [82, 83]
+    region:   castle_zvahl_baileys_s_sw_28
+
+  17342683:
+    template: Demons_Elemental
+    level:    [75, 78]
+    region:   castle_zvahl_baileys_s_sw_28
+
+  17342684:
+    template: Soulsearer_Demon
+    level:    [85, 88]
+    region:   castle_zvahl_baileys_s_sw_29
+
+  17342685:
+    template: Demon_Suppressor
+    level:    [82, 83]
+    region:   castle_zvahl_baileys_s_sw_29
+
+  17342686:
+    template: Demon_Corrupter
+    level:    [82, 83]
+    region:   castle_zvahl_baileys_s_sw_29
+
+  17342687:
+    template: Woebringer_Demon
+    level:    [85, 88]
+    region:   castle_zvahl_baileys_s_sw_15
+
+  17342688:
+    template: Demon_Entomber
+    level:    [82, 83]
+    region:   castle_zvahl_baileys_s_sw_15
+
+  17342689:
+    template: Demon_Condemner
+    level:    [82, 83]
+    region:   castle_zvahl_baileys_s_sw_15
+
+  17342690:
+    template: Demons_Elemental
+    level:    [75, 78]
+    region:   castle_zvahl_baileys_s_sw_15
+
+  17342691:
+    template: Foredoomer_Demon
+    at:       [-77.000, 19.000, 56.000, 15]
+    level:    [85, 88]
+
+  17342692:
+    template: Demons_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 83]
+
+  17342693:
+    template: Demon_Suppressor
+    at:       [-7.000, 3.000, 126.000, 33]
+    level:    [82, 83]
+
+  17342694:
+    template: Demon_Corrupter
+    at:       [-127.000, 3.000, -83.000, 25]
+    level:    [82, 83]
+
+  17342695:
+    template: Doom_Lens
+    at:       [-140.000, 0.001, 14.000, 72]
+    level:    [84, 85]
+
+  17342696:
+    template: Doom_Lens
+    level:    [84, 85]
+    region:   castle_zvahl_baileys_s_sw_21
+
+  17342697:
+    template: Doom_Lens
+    level:    [84, 85]
+    region:   castle_zvahl_baileys_s_sw_20
+
+  17342698:
+    template: Doom_Lens
+    level:    [84, 85]
+    region:   castle_zvahl_baileys_s_sw_20
+
+  17342699:
+    template: Doom_Lens
+    level:    [84, 85]
+    region:   castle_zvahl_baileys_s_sw_26
+
+  17342700:
+    template: Doom_Lens
+    level:    [84, 85]
+    region:   castle_zvahl_baileys_s_sw_26
+
+  17342701:
+    template: Doom_Lens
+    level:    [84, 85]
+    region:   castle_zvahl_baileys_s_sw_14
+
+  17342702:
+    template: Doom_Lens
+    level:    [84, 85]
+    region:   castle_zvahl_baileys_s_sw_14
+
+  17342703:
+    template: Doom_Lens
+    level:    [84, 85]
+    region:   castle_zvahl_baileys_s_w_7
+
+  17342704:
+    template: Doom_Lens
+    level:    [84, 85]
+    region:   castle_zvahl_baileys_s_sw_23
+
+  17342705:
+    template: Doom_Lens
+    level:    [84, 85]
+    region:   castle_zvahl_baileys_s_sw_33
+
+  17342706:
+    template: Doom_Lens
+    level:    [84, 85]
+    region:   castle_zvahl_baileys_s_sw_33
+
+  17342707:
+    template: Doom_Lens
+    level:    [84, 85]
+    region:   castle_zvahl_baileys_s_sw_8
+
+  17342708:
+    template: Doom_Lens
+    level:    [84, 85]
+    region:   castle_zvahl_baileys_s_sw_8
+
+  17342709:
+    template: Deathwreaker_Demon
+    level:    [85, 87]
+    region:   castle_zvahl_baileys_s_sw_28
+
+  17342710:
+    template: Soulsearer_Demon
+    level:    [85, 88]
+    region:   castle_zvahl_baileys_s_sw_28
+
+  17342711:
+    template: Foredoomer_Demon
+    level:    [85, 88]
+    region:   castle_zvahl_baileys_s_sw_27
+
+  17342712:
+    template: Demons_Elemental
+    level:    [80, 83]
+    region:   castle_zvahl_baileys_s_sw_27
+
+  17342713:
+    template: Deathwreaker_Demon
+    level:    [85, 87]
+    region:   castle_zvahl_baileys_s_sw_21
+
+  17342714:
+    template: Soulsearer_Demon
+    level:    [85, 88]
+    region:   castle_zvahl_baileys_s_sw_29
+
+  17342715:
+    template: Deathwreaker_Demon
+    at:       [-34.628, 22.394, 14.811, 123]
+    level:    [85, 87]
+
+  17342716:
+    template: Woebringer_Demon
+    at:       [-46.295, 18.499, 0.429, 158]
+    level:    [85, 88]
+
+  17342717:
+    template: Soulsearer_Demon
+    at:       [-36.342, 22.500, 21.826, 140]
+    level:    [85, 88]
+
+  17342718:
+    template: Woebringer_Demon
+    at:       [-99.603, 18.482, 35.269, 181]
+    level:    [85, 88]
+
+  17342719:
+    template: Soulsearer_Demon
+    at:       [-95.848, 18.499, 40.698, 216]
+    level:    [85, 88]
+
+  17342720:
+    template: Foredoomer_Demon
+    at:       [-28.860, -4.499, 46.750, 68]
+    level:    [85, 88]
+
+  17342721:
+    template: Demons_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 83]
+
+  17342722:
+    template: Woebringer_Demon
+    at:       [-67.258, 22.500, 21.510, 16]
+    level:    [85, 88]
+
+  17342723:
+    template: Foredoomer_Demon
+    at:       [-16.532, -20.500, -35.249, 8]
+    level:    [85, 88]
+
+  17342724:
+    template: Demons_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 83]
+
+  17342725:
+    template: Deathwreaker_Demon
+    at:       [-78.000, 19.000, 36.000, 11]
+    level:    [85, 87]
+
+  17342726:
+    template: Woebringer_Demon
+    level:    [85, 88]
+    region:   castle_zvahl_baileys_s_sw_16
+
+  17342727:
+    template: Foredoomer_Demon
+    level:    [85, 88]
+    region:   castle_zvahl_baileys_s_sw_20
+
+  17342728:
+    template: Demons_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 83]
+
+  17342729:
+    template: Zvahl_Fortalice
+    at:       [100.000, -24.500, 100.000, 0]
+    level:    [0, 0]
+
+  17342730:
+    template: Zvahl_Fortalice
+    at:       [100.000, -24.500, -60.000, 0]
+    level:    [0, 0]
+
+  17342731:
+    template: Zvahl_Fortalice
+    at:       [-60.000, -20.525, 110.000, 64]
+    level:    [0, 0]
+
+  17342732:
+    template: Zvahl_Fortalice
+    at:       [-60.000, -20.525, -70.000, 192]
+    level:    [0, 0]
+
+  17342733:
+    template: Zvahl_Fortalice
+    at:       [-32.000, -4.500, 48.000, 224]
+    level:    [0, 0]
+
+  17342734:
+    template: Zvahl_Fortalice
+    at:       [-88.000, -4.500, -8.000, 96]
+    level:    [0, 0]
+
+  17342735:
+    template: Zvahl_Fortalice
+    at:       [-140.000, -4.519, 60.000, 192]
+    level:    [0, 0]
+
+  17342736:
+    template: Zvahl_Fortalice
+    at:       [-20.000, -0.500, 20.000, 64]
+    level:    [0, 0]
+
+  17342737:
+    template: Ashmea_B_Greinner
+    at:       [146.265, -24.575, 19.707, 10]
+    level:    [0, 0]
+
+  17342738:
+    template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342739:
+    template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342740:
+    template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342741:
+    template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342742:
+    template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342743:
+    template: Feldrautte_I_Rouhent
+    at:       [151.140, -24.609, 18.529, 147]
+    level:    [0, 0]
+
+  17342744:
+    template: Norvallen_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342745:
+    template: Norvallen_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342746:
+    template: Norvallen_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342747:
+    template: Norvallen_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342748:
+    template: Norvallen_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342749:
+    template: Yrvaulair_S_Cousseraux
+    at:       [114.086, -24.516, 19.868, 148]
+    level:    [0, 0]
+
+  17342750:
+    template: Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342751:
+    template: Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342752:
+    template: Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342753:
+    template: Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342754:
+    template: Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342755:
+    template: Ludwig
+    at:       [144.737, -24.562, 20.832, 152]
+    level:    [0, 0]
+
+  17342756:
+    template: 2nd_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342757:
+    template: 2nd_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342758:
+    template: 2nd_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342759:
+    template: 2nd_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342760:
+    template: 2nd_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342761:
+    template: Elivira
+    at:       [149.361, -24.699, 21.471, 118]
+    level:    [0, 0]
+
+  17342762:
+    template: 1st_Gold_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342763:
+    template: 1st_Gold_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342764:
+    template: 1st_Gold_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342765:
+    template: 1st_Gold_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342766:
+    template: 1st_Gold_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342767:
+    template: Kurt
+    at:       [120.975, -24.552, 24.166, 1]
+    level:    [0, 0]
+
+  17342768:
+    template: 8th_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342769:
+    template: 8th_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342770:
+    template: 8th_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342771:
+    template: 8th_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342772:
+    template: 8th_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342773:
+    template: Zolku-Azolku
+    at:       [133.213, -24.533, 18.619, 147]
+    level:    [0, 0]
+
+  17342774:
+    template: Libran_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342775:
+    template: Libran_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342776:
+    template: Libran_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342777:
+    template: Libran_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342778:
+    template: Libran_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342779:
+    template: Lhu_Mhakaracca
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342780:
+    template: Pya
+    at:       [20.577, -24.695, -26.038, 63]
+    level:    [0, 0]
+
+  17342781:
+    template: Kyo
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342782:
+    template: Python_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342783:
+    template: Python_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342784:
+    template: Python_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342785:
+    template: Python_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342786:
+    template: Python_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342787:
+    template: Haja_Zhwan
+    at:       [105.141, -24.500, 24.282, 34]
+    level:    [0, 0]
+
+  17342788:
+    template: Wildcat_Volunteer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342789:
+    template: Wildcat_Volunteer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342790:
+    template: Wildcat_Volunteer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342791:
+    template: Wildcat_Volunteer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342792:
+    template: Wildcat_Volunteer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342793:
+    template: Gold_Badger_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342794:
+    template: Gold_Badger_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342795:
+    template: Gold_Badger_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342796:
+    template: Gold_Badger_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342797:
+    template: Gold_Badger_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342798:
+    template: Gold_Badger_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342799:
+    template: 4th_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342800:
+    template: 4th_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342801:
+    template: 4th_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342802:
+    template: 4th_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342803:
+    template: 4th_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342804:
+    template: 4th_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342805:
+    template: Piscean_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342806:
+    template: Piscean_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342807:
+    template: Piscean_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342808:
+    template: Piscean_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342809:
+    template: Piscean_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342810:
+    template: Piscean_Caster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342811:
+    template: Allied_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342812:
+    template: Allied_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342813:
+    template: Allied_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342814:
+    template: Allied_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342815:
+    template: Allied_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342816:
+    template: Allied_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342817:
+    template: Nail_Bomb
+    at:       [105.477, -24.583, -1.483, 39]
+    level:    [0, 0]
+
+  17342818:
+    template: Nail_Bomb
+    at:       [105.829, -24.500, 42.544, 231]
+    level:    [0, 0]
+
+  17342819:
+    template: Nail_Bomb
+    at:       [77.000, -24.660, 26.500, 153]
+    level:    [0, 0]
+
+  17342820:
+    template: Nail_Bomb
+    at:       [77.825, -24.573, 14.616, 89]
+    level:    [0, 0]
+
+  17342821:
+    template: Nail_Bomb
+    at:       [77.077, -24.637, 26.427, 158]
+    level:    [0, 0]
+
+  17342822:
+    template: Nail_Bomb
+    at:       [106.500, -24.704, -3.000, 32]
+    level:    [0, 0]
+
+  17342823:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342824:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342825:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342826:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342827:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342828:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342829:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342830:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342831:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342832:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342833:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342834:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342835:
+    template: Allied_Belfry
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342836:
+    template: Scylla_Brigade_Officer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342837:
+    template: Scylla_Brigade_Officer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342838:
+    template: Scylla_Brigade_Officer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342839:
+    template: Scylla_Brigade_Officer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342840:
+    template: Scylla_Brigade_Officer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342841:
+    template: Scylla_Brigade_Officer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342842:
+    template: Allied_Armored_Belfry
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342843:
+    template: Scylla_Brigade_Elite
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342844:
+    template: Scylla_Brigade_Elite
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342845:
+    template: Scylla_Brigade_Elite
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342846:
+    template: Scylla_Brigade_Elite
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342847:
+    template: Scylla_Brigade_Elite
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342848:
+    template: Scylla_Brigade_Elite
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342849:
+    template: Scylla_Brigade_Healer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342850:
+    template: Scylla_Brigade_Healer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342851:
+    template: Scylla_Brigade_Healer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342852:
+    template: Scylla_Brigade_Healer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342853:
+    template: Scylla_Brigade_Healer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342854:
+    template: Scylla_Brigade_Healer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342855:
+    template: Deathlord_Rojgnoj
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342856:
+    template: Spinebeak_Neckchopper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342857:
+    template: Spinebeak_Neckchopper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342858:
+    template: Spinebeak_Neckchopper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342859:
+    template: Spinebeak_Neckchopper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342860:
+    template: Spinebeak_Neckchopper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342861:
+    template: Jagidbods_Warmachine
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342862:
+    template: Jagidbod_of_Clan_Reaper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342863:
+    template: Clan_Reaper_Grunt
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342864:
+    template: Clan_Reaper_Grunt
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342865:
+    template: Clan_Reaper_Grunt
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342866:
+    template: Clan_Reaper_Grunt
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342867:
+    template: Clan_Reaper_Grunt
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342868:
+    template: Alpha_Gnole_Anders
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342869:
+    template: Anderss_Guard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342870:
+    template: Anderss_Guard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342871:
+    template: Moonfang_Warrior
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342872:
+    template: Moonfang_Warrior
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342873:
+    template: Moonfang_Warrior
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342874:
+    template: Moonfang_Warrior
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342875:
+    template: Moonfang_Warrior
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342876:
+    template: DeVyu_Headhunter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342877:
+    template: Beadeaux_Vanguard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342878:
+    template: Beadeaux_Vanguard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342879:
+    template: Beadeaux_Vanguard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342880:
+    template: Beadeaux_Vanguard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342881:
+    template: Beadeaux_Vanguard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342882:
+    template: BiGho_Headtaker
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342883:
+    template: Qulun_Heavyshell
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342884:
+    template: Qulun_Heavyshell
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342885:
+    template: Qulun_Heavyshell
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342886:
+    template: Qulun_Heavyshell
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342887:
+    template: Qulun_Heavyshell
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342888:
+    template: GoBhu_Herohunter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342889:
+    template: GoBhus_Elite_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342890:
+    template: GoBhus_Elite_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342891:
+    template: GoBhus_Elite_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342892:
+    template: GoBhus_Elite_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342893:
+    template: GoBhus_Elite_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342894:
+    template: Muu_Buxu_the_Elusive
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342895:
+    template: Divine_Assassin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342896:
+    template: Divine_Assassin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342897:
+    template: Divine_Assassin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342898:
+    template: Divine_Assassin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342899:
+    template: Divine_Assassin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342900:
+    template: Dee_Xalmo_the_Grim
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342901:
+    template: Divine_Ascetic
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342902:
+    template: Divine_Ascetic
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342903:
+    template: Divine_Ascetic
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342904:
+    template: Divine_Ascetic
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342905:
+    template: Divine_Ascetic
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342906:
+    template: Kazan_the_Peerless
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342907:
+    template: Plenilune_Ronin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342908:
+    template: Plenilune_Ronin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342909:
+    template: Plenilune_Ronin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342910:
+    template: Plenilune_Ronin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342911:
+    template: Plenilune_Ronin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342912:
+    template: Shadowhorn
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342913:
+    template: Shadowhorn_Stormer
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342914:
+    template: Shadowhorn_Stormer
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342915:
+    template: Shadowhorn_Stormer
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342916:
+    template: Shadowhorn_Stormer
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342917:
+    template: Shadowhorn_Stormer
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342918:
+    template: Shadowhorn_Stormer
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342919:
+    template: Shadowhorn_Stormer
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342920:
+    template: Shadowhorn_Stormer
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342921:
+    template: Shadowhorn_Stormer
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342922:
+    template: Shadowhand
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342923:
+    template: Shadowhand_Cuirassier
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342924:
+    template: Shadowhand_Cuirassier
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342925:
+    template: Shadowhand_Cuirassier
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342926:
+    template: Shadowhand_Cuirassier
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342927:
+    template: Shadowhand_Cuirassier
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342928:
+    template: Shadowhand_Cuirassier
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342929:
+    template: Shadowhand_Cuirassier
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342930:
+    template: Shadowhand_Cuirassier
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342931:
+    template: Shadowhand_Cuirassier
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342932:
+    template: Shadowfang
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342933:
+    template: Shadowfang_Void
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342934:
+    template: Shadowfang_Void
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342935:
+    template: Shadowfang_Void
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342936:
+    template: Shadowfang_Void
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342937:
+    template: Shadowfang_Void
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342938:
+    template: Shadowfang_Void
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342939:
+    template: Shadowfang_Void
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342940:
+    template: Shadowfang_Void
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342941:
+    template: Shadowfang_Void
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342942:
+    template: Shadoweye
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342943:
+    template: Shadoweye_Gnat
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342944:
+    template: Shadoweye_Gnat
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342945:
+    template: Shadoweye_Gnat
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342946:
+    template: Shadoweye_Gnat
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342947:
+    template: Shadoweye_Gnat
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342948:
+    template: Shadoweye_Gnat
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342949:
+    template: Shadoweye_Gnat
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342950:
+    template: Shadoweye_Gnat
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342951:
+    template: Shadoweye_Gnat
+    level:    [70, 70]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342952:
+    template: Shadowclaw
+    level:    [0, 0]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342953:
+    template: Shadowclaw_Devastator
+    level:    [0, 0]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342954:
+    template: Shadowclaw_Devastator
+    level:    [0, 0]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342955:
+    template: Shadowclaw_Devastator
+    level:    [0, 0]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342956:
+    template: Shadowclaw_Devastator
+    level:    [0, 0]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342957:
+    template: Shadowclaw_Devastator
+    level:    [0, 0]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342958:
+    template: Shadowclaw_Devastator
+    level:    [0, 0]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342959:
+    template: Shadowclaw_Devastator
+    level:    [0, 0]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342960:
+    template: Shadowclaw_Devastator
+    level:    [0, 0]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342961:
+    template: Shadowclaw_Devastator
+    level:    [0, 0]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342962:
+    template: Shadowhind_Machinator
+    level:    [65, 65]
+    region:   castle_zvahl_baileys_s_s_3
+
+  17342963:
+    template: Shadowhind_Machinator
+    level:    [65, 65]
+    region:   castle_zvahl_baileys_s_ne
+
+  17342964:
+    template: Shadowhind_Machinator
+    level:    [65, 65]
+    region:   castle_zvahl_baileys_s_s_3
+
+  17342965:
+    template: Shadowhind_Machinator
+    level:    [65, 65]
+    region:   castle_zvahl_baileys_s_s_2
+
+  17342966:
+    template: Shadowhind_Machinator
+    level:    [65, 65]
+    region:   castle_zvahl_baileys_s_s_9
+
+  17342967:
+    template: Shadowhind_Machinator
+    level:    [65, 65]
+    region:   castle_zvahl_baileys_s_s_3
+
+  17342968:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342969:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342970:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342971:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342972:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342973:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342974:
+    template: Iron_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342975:
+    template: Iron_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342976:
+    template: Iron_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342977:
+    template: Iron_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342978:
+    template: Iron_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342979:
+    template: Iron_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342981:
+    template: Allotaur
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342982:
+    template: Allotaur
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342983:
+    template: Allotaur
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342984:
+    template: Allotaur
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342985:
+    template: Allotaur
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342986:
+    template: Allotaur
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342987:
+    template: Siege_Turret
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342988:
+    template: Skeleton_Escort
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342989:
+    template: Skeleton_Escort
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342990:
+    template: Skeleton_Escort
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342991:
+    template: Skeleton_Escort
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342992:
+    template: Skeleton_Escort
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342993:
+    template: Skeleton_Escort
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17342994:
+    template: Fiendish_Leechkeeper
+    level:    [60, 60]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342995:
+    template: Fiendish_Leechkeeper
+    level:    [60, 60]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342996:
+    template: Fiendish_Leechkeeper
+    level:    [60, 60]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342997:
+    template: Fiendish_Leechkeeper
+    level:    [60, 60]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342998:
+    template: Fiendish_Leechkeeper
+    level:    [60, 60]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17342999:
+    template: Fiendish_Leechkeeper
+    level:    [60, 60]
+    region:   castle_zvahl_baileys_s_s_5
+
+  17343000:
+    template: Fortification
+    at:       [106.500, -25.000, -3.000, 0]
+    level:    [0, 0]
+
+  17343001:
+    template: Fortification
+    at:       [106.500, -25.000, 43.000, 0]
+    level:    [0, 0]
+
+  17343002:
+    template: Fortification
+    at:       [77.000, -25.000, 26.500, 0]
+    level:    [0, 0]
+
+  17343003:
+    template: Fortification
+    at:       [77.000, -25.000, 13.500, 0]
+    level:    [0, 0]
+
+  17343004:
+    template: Rikoh_Wahcondalo
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343005:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343006:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343007:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343008:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343009:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343010:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343011:
+    template: Dalzakk
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343012:
+    template: Oggbi
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343013:
+    template: Rainemard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343014:
+    template: Maat
+    at:       [112.995, -24.531, 22.234, 140]
+    level:    [0, 0]
+
+  17343015:
+    template: Degenhard
+    at:       [105.801, -24.500, 23.027, 242]
+    level:    [0, 0]
+
+  17343016:
+    template: Azima
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343017:
+    template: Choh_Moui
+    at:       [103.742, -24.542, 39.440, 111]
+    level:    [0, 0]
+
+  17343018:
+    template: Chigoe
+    at:       [101.766, -24.531, 37.601, 107]
+    level:    [0, 0]
+
+  17343019:
+    template: Chigoe
+    at:       [101.818, -24.532, 37.692, 98]
+    level:    [0, 0]
+
+  17343020:
+    template: Chigoe
+    at:       [101.740, -24.532, 37.630, 98]
+    level:    [0, 0]
+
+  17343021:
+    template: Chigoe
+    at:       [101.825, -24.533, 37.684, 99]
+    level:    [0, 0]
+
+  17343022:
+    template: Chigoe
+    at:       [101.777, -24.533, 37.590, 100]
+    level:    [0, 0]
+
+  17343023:
+    template: Chigoe
+    at:       [101.886, -24.533, 37.621, 101]
+    level:    [0, 0]
+
+  17343024:
+    template: Chigoe
+    at:       [101.862, -24.533, 37.503, 104]
+    level:    [0, 0]
+
+  17343025:
+    template: Chigoe
+    at:       [101.986, -24.534, 37.523, 106]
+    level:    [0, 0]
+
+  17343026:
+    template: Azo
+    at:       [103.522, -24.536, 39.548, 98]
+    level:    [0, 0]
+
+  17343027:
+    template: Vahi
+    at:       [102.405, -24.509, 39.782, 92]
+    level:    [0, 0]
+
+  17343028:
+    template: Rongo-Nango
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343029:
+    template: Lerren
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343030:
+    template: Jajaro
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343031:
+    template: Popochu
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343032:
+    template: Papako
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343033:
+    template: Momowa
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343034:
+    template: Ulla
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343035:
+    template: Kilhwch
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343036:
+    template: Alfons
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343037:
+    template: Achtelle
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343038:
+    template: Bravo
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343039:
+    template: Duskraven
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343040:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343041:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343042:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343043:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343044:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343045:
+    template: Areuhat
+    at:       [115.143, -24.503, 18.408, 113]
+    level:    [0, 0]
+
+  17343046:
+    template: Odzmanouk
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343047:
+    template: Boodlix
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343048:
+    template: Goblin_Lansquenet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343049:
+    template: Goblin_Lansquenet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343050:
+    template: Goblin_Lansquenet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343051:
+    template: Titania
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343052:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343053:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343054:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343055:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343056:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343057:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343058:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343059:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343060:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343061:
+    template: Babban_Ny_Mheillea
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343062:
+    template: Abenzio
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343063:
+    template: Bryher
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343064:
+    template: Camlin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343065:
+    template: Darach
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343066:
+    template: Raigegue_R_dOraguille
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343067:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343068:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343069:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343070:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343071:
+    template: Eurytos
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343072:
+    template: Gigas_Mercenary
+    level:    [0, 0]
+    region:   castle_zvahl_baileys_s_ne_2
+
+  17343073:
+    template: Gigas_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343074:
+    template: Poroggo_Prince
+    at:       [73.798, -24.540, 22.586, 244]
+    level:    [0, 0]
+
+  17343075:
+    template: Poroggo_Servant
+    at:       [74.503, -24.519, 20.838, 147]
+    level:    [0, 0]
+
+  17343076:
+    template: Poroggo_Servant
+    at:       [79.936, -24.520, 22.840, 134]
+    level:    [0, 0]
+
+  17343077:
+    template: Poroggo_Servant
+    at:       [78.840, -24.564, 23.146, 132]
+    level:    [0, 0]
+
+  17343078:
+    template: Kaiser_Behemoth
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343079:
+    template: Ferreous_Coffin
+    at:       [127.863, -24.506, 24.004, 41]
+    level:    [0, 0]
+
+  17343080:
+    template: Lewenhart
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17343081:
+    template: Auroral_Alicorn
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]

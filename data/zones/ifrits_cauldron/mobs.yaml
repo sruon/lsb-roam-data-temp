@@ -1,0 +1,1408 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17616897:
+    template: Salamander
+    at:       [168.791, 0.900, -19.828, 7]
+    level:    [64, 66]
+
+  17616898:
+    template: Magma
+    at:       [173.160, -0.900, -26.986, 185]
+    level:    [65, 65]
+
+  17616899:
+    template: Volcanic_Gas
+    level:    [62, 65]
+    region:   ifrits_cauldron_s_11
+
+  17616900:
+    template: Old_Opo-opo
+    level:    [61, 64]
+    region:   ifrits_cauldron_s_11
+
+  17616901:
+    template: Old_Opo-opo
+    level:    [61, 64]
+    region:   ifrits_cauldron_s_11
+
+  17616902:
+    template: Old_Opo-opo
+    level:    [61, 64]
+    region:   ifrits_cauldron_s_11
+
+  17616903:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   ifrits_cauldron_s_11
+
+  17616904:
+    template: Volcanic_Gas
+    level:    [62, 65]
+    region:   ifrits_cauldron_s_9
+
+  17616905:
+    template: Old_Opo-opo
+    level:    [61, 64]
+    region:   ifrits_cauldron_s_9
+
+  17616906:
+    template: Old_Opo-opo
+    level:    [61, 64]
+    region:   ifrits_cauldron_s_9
+
+  17616907:
+    template: Old_Opo-opo
+    at:       [7.392, 3.917, -283.708, 127]
+    level:    [61, 64]
+
+  17616908:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   ifrits_cauldron_s_9
+
+  17616909:
+    template: Old_Opo-opo
+    level:    [61, 64]
+    region:   ifrits_cauldron_s_4
+
+  17616910:
+    template: Old_Opo-opo
+    level:    [61, 64]
+    region:   ifrits_cauldron_s_4
+
+  17616911:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   ifrits_cauldron_s_4
+
+  17616912:
+    template: Volcanic_Gas
+    level:    [62, 65]
+    region:   ifrits_cauldron_s_2
+
+  17616913:
+    template: Old_Opo-opo
+    level:    [61, 64]
+    region:   ifrits_cauldron_s_2
+
+  17616914:
+    template: Old_Opo-opo
+    level:    [61, 64]
+    region:   ifrits_cauldron_s_2
+
+  17616915:
+    template: Old_Opo-opo
+    level:    [61, 64]
+    region:   ifrits_cauldron_s_2
+
+  17616916:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   ifrits_cauldron_s_2
+
+  17616917:
+    template: Volcanic_Gas
+    level:    [62, 65]
+    region:   ifrits_cauldron_s_3
+
+  17616918:
+    template: Old_Opo-opo
+    level:    [61, 64]
+    region:   ifrits_cauldron_s_3
+
+  17616919:
+    template: Old_Opo-opo
+    level:    [61, 64]
+    region:   ifrits_cauldron_s_3
+
+  17616920:
+    template: Old_Opo-opo
+    level:    [61, 64]
+    region:   ifrits_cauldron_s_3
+
+  17616921:
+    template: Old_Opo-opo
+    at:       [-90.518, 3.298, -188.687, 127]
+    level:    [61, 64]
+
+  17616922:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   ifrits_cauldron_s_3
+
+  17616923:
+    template: Old_Opo-opo
+    at:       [61.404, -0.003, -240.311, 127]
+    level:    [61, 64]
+
+  17616924:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   ifrits_cauldron_se_2
+
+  17616925:
+    template: Volcanic_Gas
+    level:    [62, 65]
+    region:   ifrits_cauldron_se
+
+  17616926:
+    template: Old_Opo-opo
+    level:    [61, 64]
+    region:   ifrits_cauldron_se
+
+  17616927:
+    template: Old_Opo-opo
+    level:    [61, 64]
+    region:   ifrits_cauldron_se
+
+  17616928:
+    template: Old_Opo-opo
+    level:    [61, 64]
+    region:   ifrits_cauldron_se
+
+  17616929:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   ifrits_cauldron_se
+
+  17616930:
+    template: Volcanic_Gas
+    level:    [63, 66]
+    region:   ifrits_cauldron_s_10
+
+  17616931:
+    template: Volcanic_Gas
+    at:       [19.091, -1.848, -129.556, 191]
+    level:    [63, 66]
+
+  17616932:
+    template: Old_Opo-opo
+    at:       [23.178, -0.452, -159.253, 0]
+    level:    [63, 65]
+
+  17616933:
+    template: Old_Opo-opo
+    level:    [63, 65]
+    region:   ifrits_cauldron_s_10
+
+  17616934:
+    template: Volcanic_Gas
+    level:    [63, 66]
+    region:   ifrits_cauldron_c_12
+
+  17616935:
+    template: Volcanic_Gas
+    level:    [63, 66]
+    region:   ifrits_cauldron_c_12
+
+  17616936:
+    template: Old_Opo-opo
+    level:    [63, 65]
+    region:   ifrits_cauldron_c_12
+
+  17616937:
+    template: Old_Opo-opo
+    level:    [63, 65]
+    region:   ifrits_cauldron_c_12
+
+  17616938:
+    template: Volcanic_Gas
+    level:    [63, 66]
+    region:   ifrits_cauldron_s_5
+
+  17616939:
+    template: Volcanic_Gas
+    level:    [63, 66]
+    region:   ifrits_cauldron_s_5
+
+  17616940:
+    template: Old_Opo-opo
+    at:       [-60.019, -0.901, -121.786, 127]
+    level:    [63, 65]
+
+  17616941:
+    template: Old_Opo-opo
+    level:    [63, 65]
+    region:   ifrits_cauldron_s_5
+
+  17616942:
+    template: Volcanic_Gas
+    at:       [-61.678, 0.211, -107.661, 4]
+    level:    [63, 66]
+
+  17616943:
+    template: Volcanic_Gas
+    at:       [-57.703, -0.553, -109.572, 120]
+    level:    [63, 66]
+
+  17616944:
+    template: Old_Opo-opo
+    at:       [-70.984, -0.890, -100.914, 78]
+    level:    [63, 65]
+
+  17616945:
+    template: Volcanic_Gas
+    level:    [63, 66]
+    region:   ifrits_cauldron_c_8
+
+  17616946:
+    template: Volcanic_Gas
+    at:       [-22.745, -0.617, -94.856, 208]
+    level:    [63, 66]
+
+  17616947:
+    template: Volcano_Wasp
+    level:    [61, 64]
+    region:   ifrits_cauldron_e_10
+
+  17616948:
+    template: Volcano_Wasp
+    level:    [61, 64]
+    region:   ifrits_cauldron_e_10
+
+  17616949:
+    template: Volcano_Wasp
+    level:    [61, 64]
+    region:   ifrits_cauldron_e_9
+
+  17616950:
+    template: Volcano_Wasp
+    level:    [61, 64]
+    region:   ifrits_cauldron_e_9
+
+  17616951:
+    template: Volcanic_Gas
+    at:       [198.525, -0.054, 19.455, 127]
+    level:    [63, 65]
+
+  17616952:
+    template: Volcanic_Gas
+    at:       [259.981, 16.183, -76.597, 127]
+    level:    [62, 64]
+
+  17616953:
+    template: Volcano_Wasp
+    level:    [61, 64]
+    region:   ifrits_cauldron_se_4
+
+  17616954:
+    template: Volcanic_Gas
+    level:    [62, 64]
+    region:   ifrits_cauldron_se_3
+
+  17616955:
+    template: Volcano_Wasp
+    level:    [61, 64]
+    region:   ifrits_cauldron_se_3
+
+  17616956:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   ifrits_cauldron_se_3
+
+  17616957:
+    template: Volcanic_Gas
+    level:    [63, 65]
+    region:   ifrits_cauldron_e_5
+
+  17616958:
+    template: Volcano_Wasp
+    level:    [61, 64]
+    region:   ifrits_cauldron_e_5
+
+  17616959:
+    template: Volcano_Wasp
+    level:    [61, 64]
+    region:   ifrits_cauldron_e_5
+
+  17616960:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   ifrits_cauldron_e_5
+
+  17616961:
+    template: Volcanic_Gas
+    level:    [63, 65]
+    region:   ifrits_cauldron_e_2
+
+  17616962:
+    template: Volcano_Wasp
+    level:    [61, 64]
+    region:   ifrits_cauldron_e_8
+
+  17616963:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   ifrits_cauldron_e_8
+
+  17616964:
+    template: Volcano_Wasp
+    level:    [61, 64]
+    region:   ifrits_cauldron_e_7
+
+  17616965:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   ifrits_cauldron_e_7
+
+  17616966:
+    template: Volcanic_Gas
+    level:    [63, 65]
+    region:   ifrits_cauldron_e_6
+
+  17616967:
+    template: Dire_Bat
+    level:    [60, 63]
+    region:   ifrits_cauldron_e_6
+
+  17616968:
+    template: Volcanic_Gas
+    at:       [142.047, -0.035, -16.502, 34]
+    level:    [63, 65]
+
+  17616969:
+    template: Volcanic_Gas
+    level:    [63, 65]
+    region:   ifrits_cauldron_e
+
+  17616970:
+    template: Volcanic_Gas
+    at:       [39.214, -0.328, 62.740, 127]
+    level:    [64, 66]
+
+  17616971:
+    template: Volcanic_Gas
+    level:    [64, 66]
+    region:   ifrits_cauldron_c_9
+
+  17616972:
+    template: Volcanic_Gas
+    level:    [64, 66]
+    region:   ifrits_cauldron_c_11
+
+  17616973:
+    template: Volcanic_Gas
+    level:    [64, 66]
+    region:   ifrits_cauldron_c_5
+
+  17616974:
+    template: Goblin_Bandit
+    level:    [66, 69]
+    region:   ifrits_cauldron_s_6
+
+  17616975:
+    template: Goblin_Shepherd
+    level:    [66, 69]
+    region:   ifrits_cauldron_s_6
+
+  17616976:
+    template: Goblins_Bats
+    level:    [53, 55]
+    region:   ifrits_cauldron_s_6
+
+  17616977:
+    template: Dodomeki
+    at:       [-20.087, 0.540, -230.648, 115]
+    level:    [63, 66]
+
+  17616978:
+    template: Goblin_Alchemist
+    at:       [-23.175, 0.437, -232.478, 55]
+    level:    [66, 69]
+
+  17616979:
+    template: Goblin_Mercenary
+    level:    [66, 69]
+    region:   ifrits_cauldron_s_7
+
+  17616980:
+    template: Dodomeki
+    level:    [63, 66]
+    region:   ifrits_cauldron_s_7
+
+  17616981:
+    template: Volcanic_Gas
+    level:    [64, 66]
+    region:   ifrits_cauldron_s_7
+
+  17616982:
+    template: Sulfur_Scorpion
+    level:    [70, 73]
+    region:   ifrits_cauldron_s_8
+
+  17616983:
+    template: Dodomeki
+    at:       [-19.494, 20.273, -137.881, 40]
+    level:    [63, 66]
+
+  17616984:
+    template: Volcanic_Gas
+    at:       [0.585, 20.934, -143.555, 127]
+    level:    [64, 66]
+
+  17616985:
+    template: Volcanic_Gas
+    at:       [21.212, 18.626, -137.653, 181]
+    level:    [64, 66]
+
+  17616986:
+    template: Sulfur_Scorpion
+    at:       [21.493, 18.562, -141.862, 64]
+    level:    [70, 73]
+
+  17616987:
+    template: Dodomeki
+    at:       [61.041, 20.668, -124.218, 127]
+    level:    [63, 66]
+
+  17616988:
+    template: Volcanic_Gas
+    at:       [40.053, 21.137, -139.979, 66]
+    level:    [64, 66]
+
+  17616989:
+    template: Dodomeki
+    at:       [59.451, 20.539, -123.274, 127]
+    level:    [63, 66]
+
+  17616990:
+    template: Volcanic_Gas
+    at:       [59.412, 19.477, -78.462, 72]
+    level:    [64, 66]
+
+  17616991:
+    template: Volcanic_Gas
+    at:       [55.819, 19.426, -69.438, 31]
+    level:    [64, 66]
+
+  17616992:
+    template: Volcanic_Gas
+    level:    [64, 66]
+    region:   ifrits_cauldron_c_9
+
+  17616993:
+    template: Volcanic_Gas
+    at:       [0.314, 19.533, -64.091, 127]
+    level:    [64, 66]
+
+  17616994:
+    template: Volcanic_Gas
+    level:    [64, 66]
+    region:   ifrits_cauldron_c_4
+
+  17616995:
+    template: Sulfur_Scorpion
+    at:       [-65.492, 19.028, -58.921, 127]
+    level:    [70, 73]
+
+  17616996:
+    template: Sulfur_Scorpion
+    at:       [-116.064, 19.683, -69.784, 109]
+    level:    [70, 73]
+
+  17616997:
+    template: Volcanic_Gas
+    at:       [-126.497, 19.624, -79.635, 127]
+    level:    [67, 68]
+
+  17616998:
+    template: Volcanic_Gas
+    at:       [-115.071, 19.870, -72.246, 95]
+    level:    [67, 68]
+
+  17616999:
+    template: Tyrannic_Tunnok
+    at:       [-119.790, 19.797, -106.198, 127]
+    level:    [74, 76]
+
+  17617000:
+    template: Sulfur_Scorpion
+    at:       [-128.278, 19.778, -123.413, 243]
+    level:    [70, 73]
+
+  17617001:
+    template: Sulfur_Scorpion
+    at:       [-116.185, 20.097, -114.903, 127]
+    level:    [70, 73]
+
+  17617002:
+    template: Volcanic_Gas
+    at:       [-130.000, 20.000, -121.000, 127]
+    level:    [67, 68]
+
+  17617003:
+    template: Volcanic_Gas
+    at:       [-131.166, 18.952, -115.474, 127]
+    level:    [67, 68]
+
+  17617004:
+    template: Volcanic_Gas
+    level:    [64, 66]
+    region:   ifrits_cauldron_s
+
+  17617005:
+    template: Volcanic_Gas
+    level:    [64, 66]
+    region:   ifrits_cauldron_sw
+
+  17617006:
+    template: Sulfur_Scorpion
+    level:    [70, 73]
+    region:   ifrits_cauldron_sw
+
+  17617007:
+    template: Eotyrannus
+    level:    [70, 73]
+    region:   ifrits_cauldron_sw
+
+  17617008:
+    template: Eotyrannus
+    at:       [-229.694, 3.861, -163.693, 127]
+    level:    [70, 73]
+
+  17617009:
+    template: Volcanic_Gas
+    level:    [67, 68]
+    region:   ifrits_cauldron_sw_2
+
+  17617010:
+    template: Sulfur_Scorpion
+    level:    [70, 73]
+    region:   ifrits_cauldron_sw_2
+
+  17617011:
+    template: Eotyrannus
+    level:    [70, 73]
+    region:   ifrits_cauldron_sw_2
+
+  17617012:
+    template: Eotyrannus
+    level:    [70, 73]
+    region:   ifrits_cauldron_sw_2
+
+  17617013:
+    template: Lindwurm
+    at:       [-271.000, 3.700, -129.000, 127]
+    level:    [74, 76]
+
+  17617014:
+    template: Goblin_Bandit
+    at:       [-254.097, 3.317, -154.747, 2]
+    level:    [66, 69]
+
+  17617015:
+    template: Goblin_Shepherd
+    at:       [-258.793, 3.212, -138.442, 127]
+    level:    [66, 69]
+
+  17617016:
+    template: Goblins_Bats
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [53, 55]
+
+  17617017:
+    template: Goblin_Alchemist
+    at:       [-258.534, 3.193, -138.255, 199]
+    level:    [66, 69]
+
+  17617018:
+    template: Goblin_Mercenary
+    at:       [-239.845, 3.967, -167.249, 97]
+    level:    [66, 69]
+
+  17617019:
+    template: Goblin_Bandit
+    at:       [-256.826, 3.475, -154.644, 11]
+    level:    [66, 69]
+
+  17617020:
+    template: Goblin_Shepherd
+    at:       [-275.477, 3.968, -104.791, 206]
+    level:    [66, 69]
+
+  17617021:
+    template: Goblins_Bats
+    at:       [-277.146, 3.968, -106.612, 218]
+    level:    [53, 55]
+
+  17617022:
+    template: Goblin_Alchemist
+    at:       [-239.297, 3.778, -146.284, 35]
+    level:    [66, 69]
+
+  17617023:
+    template: Goblin_Mercenary
+    at:       [-273.160, 4.036, -114.664, 36]
+    level:    [66, 69]
+
+  17617024:
+    template: Goblin_Bandit
+    at:       [-275.782, 3.605, -107.773, 127]
+    level:    [66, 69]
+
+  17617025:
+    template: Goblin_Shepherd
+    at:       [-269.227, 3.602, -77.686, 127]
+    level:    [66, 69]
+
+  17617026:
+    template: Goblins_Bats
+    at:       [-269.227, 3.602, -77.686, 127]
+    level:    [53, 55]
+
+  17617027:
+    template: Goblin_Alchemist
+    at:       [-273.649, 3.621, -74.608, 45]
+    level:    [66, 69]
+
+  17617028:
+    template: Goblin_Mercenary
+    at:       [-283.845, 3.999, -81.683, 128]
+    level:    [66, 69]
+
+  17617029:
+    template: Volcanic_Gas
+    level:    [64, 66]
+    region:   ifrits_cauldron_w
+
+  17617030:
+    template: Sulfur_Scorpion
+    level:    [70, 73]
+    region:   ifrits_cauldron_w
+
+  17617031:
+    template: Eotyrannus
+    level:    [70, 73]
+    region:   ifrits_cauldron_w
+
+  17617032:
+    template: Eotyrannus
+    at:       [-292.248, 3.984, -118.252, 63]
+    level:    [70, 73]
+
+  17617033:
+    template: Volcanic_Gas
+    level:    [64, 66]
+    region:   ifrits_cauldron_w_2
+
+  17617034:
+    template: Volcanic_Gas
+    at:       [-207.449, -0.230, -54.341, 231]
+    level:    [66, 68]
+
+  17617035:
+    template: Volcanic_Gas
+    level:    [66, 68]
+    region:   ifrits_cauldron_w_4
+
+  17617036:
+    template: Volcanic_Gas
+    at:       [-179.198, 0.047, -76.405, 38]
+    level:    [66, 68]
+
+  17617037:
+    template: Eotyrannus
+    at:       [-140.097, -1.338, -92.539, 127]
+    level:    [70, 73]
+
+  17617038:
+    template: Volcanic_Gas
+    at:       [-155.911, 0.119, -102.697, 127]
+    level:    [66, 68]
+
+  17617039:
+    template: Volcanic_Gas
+    at:       [-58.651, -0.116, -55.687, 37]
+    level:    [66, 68]
+
+  17617040:
+    template: Volcanic_Gas
+    at:       [-65.489, -0.177, -43.694, 127]
+    level:    [66, 68]
+
+  17617041:
+    template: Dodomeki
+    at:       [-93.205, -0.503, 25.236, 127]
+    level:    [66, 68]
+
+  17617042:
+    template: Volcanic_Gas
+    at:       [-101.773, -0.003, 11.983, 127]
+    level:    [66, 68]
+
+  17617043:
+    template: Volcanic_Gas
+    at:       [-107.998, 0.135, 17.356, 49]
+    level:    [66, 68]
+
+  17617044:
+    template: Dodomeki
+    at:       [-120.482, -0.500, 61.259, 112]
+    level:    [66, 68]
+
+  17617045:
+    template: Volcanic_Gas
+    at:       [-124.741, -0.333, 59.693, 127]
+    level:    [64, 66]
+
+  17617046:
+    template: Eotyrannus
+    at:       [-113.463, 3.429, 130.441, 127]
+    level:    [70, 73]
+
+  17617047:
+    template: Eotyrannus
+    at:       [-130.319, 3.125, 131.947, 84]
+    level:    [70, 73]
+
+  17617048:
+    template: Volcanic_Gas
+    level:    [64, 66]
+    region:   ifrits_cauldron_n
+
+  17617049:
+    template: Eotyrannus
+    level:    [70, 73]
+    region:   ifrits_cauldron_n
+
+  17617050:
+    template: Eotyrannus
+    at:       [-116.634, 3.999, 162.210, 127]
+    level:    [70, 73]
+
+  17617051:
+    template: Volcanic_Gas
+    level:    [64, 66]
+    region:   ifrits_cauldron_n_2
+
+  17617052:
+    template: Eotyrannus
+    level:    [70, 73]
+    region:   ifrits_cauldron_n_2
+
+  17617053:
+    template: Goblin_Shepherd
+    at:       [-112.955, 3.877, 139.399, 255]
+    level:    [66, 69]
+
+  17617054:
+    template: Goblins_Bats
+    at:       [-109.376, 3.932, 133.455, 70]
+    level:    [53, 55]
+
+  17617055:
+    template: Goblin_Alchemist
+    at:       [-95.952, 2.005, 182.112, 203]
+    level:    [66, 69]
+
+  17617056:
+    template: Goblin_Alchemist
+    at:       [-107.442, 3.193, 155.843, 114]
+    level:    [66, 69]
+
+  17617057:
+    template: Goblin_Mercenary
+    at:       [-103.344, 3.651, 147.053, 98]
+    level:    [66, 69]
+
+  17617058:
+    template: Goblin_Bandit
+    at:       [-112.344, 3.806, 154.593, 105]
+    level:    [66, 69]
+
+  17617059:
+    template: Goblin_Shepherd
+    at:       [-91.462, 3.201, 168.680, 114]
+    level:    [66, 69]
+
+  17617060:
+    template: Goblins_Bats
+    at:       [1.000, 1.000, 1.000, 125]
+    level:    [53, 55]
+
+  17617061:
+    template: Goblin_Mercenary
+    at:       [-82.324, 3.601, 165.730, 233]
+    level:    [66, 69]
+
+  17617062:
+    template: Foreseer_Oramix
+    at:       [-111.470, 3.764, 141.784, 0]
+    level:    [69, 72]
+
+  17617063:
+    template: Goblin_Bandit
+    at:       [-105.366, 3.108, 172.513, 139]
+    level:    [66, 69]
+
+  17617064:
+    template: Goblin_Shepherd
+    at:       [-75.514, 4.034, 151.962, 108]
+    level:    [66, 69]
+
+  17617065:
+    template: Goblins_Bats
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [53, 55]
+
+  17617066:
+    template: Goblin_Alchemist
+    at:       [-77.756, 3.464, 171.136, 189]
+    level:    [66, 69]
+
+  17617067:
+    template: Goblin_Mercenary
+    at:       [-77.860, 3.454, 171.253, 127]
+    level:    [66, 69]
+
+  17617068:
+    template: Goblin_Bandit
+    at:       [-76.562, 3.989, 155.144, 76]
+    level:    [66, 69]
+
+  17617069:
+    template: Goblin_Alchemist
+    at:       [-75.000, 4.000, 156.000, 127]
+    level:    [66, 69]
+
+  17617070:
+    template: Volcanic_Gas
+    level:    [64, 66]
+    region:   ifrits_cauldron_c_6
+
+  17617071:
+    template: Volcanic_Gas
+    at:       [-60.534, -0.604, 120.002, 127]
+    level:    [64, 66]
+
+  17617072:
+    template: Volcanic_Gas
+    at:       [-102.708, 0.119, 223.874, 115]
+    level:    [64, 66]
+
+  17617073:
+    template: Eotyrannus
+    at:       [-98.707, 0.121, 226.709, 127]
+    level:    [70, 73]
+
+  17617074:
+    template: Volcanic_Gas
+    at:       [-106.075, -0.103, 225.664, 48]
+    level:    [64, 66]
+
+  17617075:
+    template: Volcanic_Bomb
+    level:    [71, 75]
+    region:   ifrits_cauldron_c_3
+
+  17617076:
+    template: Volcanic_Bomb
+    level:    [71, 75]
+    region:   ifrits_cauldron_n_5
+
+  17617077:
+    template: Volcanic_Bomb
+    at:       [33.998, 8.878, 177.265, 127]
+    level:    [71, 75]
+
+  17617078:
+    template: Nightmare_Bats
+    level:    [68, 72]
+    region:   ifrits_cauldron_ne_2
+
+  17617079:
+    template: Volcanic_Bomb
+    level:    [71, 75]
+    region:   ifrits_cauldron_ne_2
+
+  17617080:
+    template: Nightmare_Bats
+    level:    [68, 72]
+    region:   ifrits_cauldron_ne
+
+  17617081:
+    template: Volcanic_Bomb
+    at:       [84.236, 9.808, 132.039, 127]
+    level:    [71, 75]
+
+  17617082:
+    template: Nightmare_Bats
+    level:    [68, 72]
+    region:   ifrits_cauldron_n_11
+
+  17617083:
+    template: Nightmare_Bats
+    level:    [68, 72]
+    region:   ifrits_cauldron_n_10
+
+  17617084:
+    template: Volcanic_Bomb
+    level:    [71, 75]
+    region:   ifrits_cauldron_n_10
+
+  17617085:
+    template: Nightmare_Bats
+    level:    [68, 72]
+    region:   ifrits_cauldron_c_10
+
+  17617086:
+    template: Volcanic_Bomb
+    at:       [-17.279, 16.588, 84.915, 127]
+    level:    [71, 75]
+
+  17617087:
+    template: Volcanic_Bomb
+    level:    [71, 75]
+    region:   ifrits_cauldron_c_5
+
+  17617088:
+    template: Volcanic_Bomb
+    level:    [71, 75]
+    region:   ifrits_cauldron_c_11
+
+  17617089:
+    template: Volcanic_Bomb
+    level:    [71, 75]
+    region:   ifrits_cauldron_e_3
+
+  17617090:
+    template: Volcanic_Bomb
+    at:       [77.900, 19.804, 8.656, 9]
+    level:    [71, 75]
+
+  17617091:
+    template: Nightmare_Bats
+    level:    [68, 72]
+    region:   ifrits_cauldron_e_3
+
+  17617092:
+    template: Nightmare_Bats
+    level:    [68, 72]
+    region:   ifrits_cauldron_e_3
+
+  17617093:
+    template: Nightmare_Bats
+    level:    [68, 72]
+    region:   ifrits_cauldron_e_3
+
+  17617094:
+    template: Volcanic_Bomb
+    at:       [76.326, 19.930, -3.021, 28]
+    level:    [71, 75]
+
+  17617095:
+    template: Nightmare_Bats
+    level:    [68, 72]
+    region:   ifrits_cauldron_e_4
+
+  17617096:
+    template: Volcanic_Bomb
+    at:       [95.855, 18.679, 18.542, 127]
+    level:    [71, 75]
+
+  17617097:
+    template: Nightmare_Bats
+    at:       [96.943, 19.097, 58.864, 136]
+    level:    [68, 72]
+
+  17617098:
+    template: Volcanic_Bomb
+    level:    [71, 75]
+    region:   ifrits_cauldron_ne_5
+
+  17617099:
+    template: Nightmare_Bats
+    level:    [68, 72]
+    region:   ifrits_cauldron_ne_5
+
+  17617100:
+    template: Ash_Lizard
+    level:    [73, 76]
+    region:   ifrits_cauldron_ne_5
+
+  17617101:
+    template: Ash_Lizard
+    level:    [73, 76]
+    region:   ifrits_cauldron_ne_5
+
+  17617102:
+    template: Volcanic_Bomb
+    at:       [119.881, 20.200, 111.591, 127]
+    level:    [71, 75]
+
+  17617103:
+    template: Volcanic_Bomb
+    at:       [118.555, 20.141, 146.449, 127]
+    level:    [71, 75]
+
+  17617104:
+    template: Nightmare_Bats
+    level:    [68, 72]
+    region:   ifrits_cauldron_ne_6
+
+  17617105:
+    template: Ash_Lizard
+    level:    [73, 76]
+    region:   ifrits_cauldron_ne_6
+
+  17617106:
+    template: Ash_Lizard
+    level:    [73, 76]
+    region:   ifrits_cauldron_ne_6
+
+  17617107:
+    template: Volcanic_Bomb
+    at:       [111.820, 19.906, 168.544, 127]
+    level:    [71, 75]
+
+  17617108:
+    template: Nightmare_Bats
+    level:    [68, 72]
+    region:   ifrits_cauldron_ne_3
+
+  17617109:
+    template: Volcanic_Bomb
+    level:    [71, 75]
+    region:   ifrits_cauldron_ne_4
+
+  17617110:
+    template: Nightmare_Bats
+    level:    [68, 72]
+    region:   ifrits_cauldron_ne_4
+
+  17617111:
+    template: Volcanic_Bomb
+    at:       [102.251, 9.723, 233.434, 33]
+    level:    [71, 75]
+
+  17617112:
+    template: Volcanic_Bomb
+    at:       [61.050, 0.325, 254.599, 127]
+    level:    [71, 75]
+
+  17617113:
+    template: Ash_Lizard
+    at:       [29.234, 0.941, 259.918, 24]
+    level:    [73, 76]
+
+  17617114:
+    template: Volcanic_Bomb
+    at:       [55.607, -0.003, 252.734, 127]
+    level:    [71, 75]
+
+  17617115:
+    template: Ash_Lizard
+    level:    [73, 76]
+    region:   ifrits_cauldron_n_8
+
+  17617116:
+    template: Ash_Lizard
+    level:    [73, 76]
+    region:   ifrits_cauldron_n_8
+
+  17617117:
+    template: Hurricane_Wyvern
+    level:    [75, 78]
+    region:   ifrits_cauldron_n_8
+
+  17617118:
+    template: Hurricane_Wyvern
+    at:       [-20.388, 4.000, 239.845, 124]
+    level:    [75, 78]
+
+  17617119:
+    template: Volcanic_Bomb
+    level:    [71, 75]
+    region:   ifrits_cauldron_n_4
+
+  17617120:
+    template: Ash_Lizard
+    level:    [73, 76]
+    region:   ifrits_cauldron_n_4
+
+  17617121:
+    template: Hurricane_Wyvern
+    level:    [75, 78]
+    region:   ifrits_cauldron_n_4
+
+  17617122:
+    template: Hurricane_Wyvern
+    level:    [75, 78]
+    region:   ifrits_cauldron_n_4
+
+  17617123:
+    template: Volcanic_Bomb
+    at:       [-266.000, 40.000, 116.000, 127]
+    level:    [71, 75]
+
+  17617124:
+    template: Ash_Lizard
+    level:    [73, 76]
+    region:   ifrits_cauldron_n_7
+
+  17617125:
+    template: Hurricane_Wyvern
+    level:    [75, 78]
+    region:   ifrits_cauldron_n_7
+
+  17617126:
+    template: Volcanic_Bomb
+    level:    [71, 75]
+    region:   ifrits_cauldron_n_3
+
+  17617127:
+    template: Ash_Lizard
+    level:    [73, 76]
+    region:   ifrits_cauldron_n_3
+
+  17617128:
+    template: Ash_Lizard
+    level:    [73, 76]
+    region:   ifrits_cauldron_n_3
+
+  17617129:
+    template: Hurricane_Wyvern
+    level:    [75, 78]
+    region:   ifrits_cauldron_n_3
+
+  17617130:
+    template: Vouivre
+    at:       [-38.587, 3.815, 259.578, 127]
+    level:    [79, 81]
+
+  17617131:
+    template: Volcanic_Bomb
+    at:       [-35.749, 3.999, 281.747, 36]
+    level:    [71, 75]
+
+  17617132:
+    template: Volcanic_Bomb
+    level:    [71, 75]
+    region:   ifrits_cauldron_n_9
+
+  17617133:
+    template: Volcanic_Bomb
+    at:       [6.606, 3.717, 241.692, 125]
+    level:    [71, 75]
+
+  17617134:
+    template: Volcanic_Bomb
+    at:       [6.082, 2.801, 262.556, 103]
+    level:    [71, 75]
+
+  17617135:
+    template: Volcanic_Bomb
+    level:    [74, 78]
+    region:   ifrits_cauldron_c_6
+
+  17617136:
+    template: Volcanic_Bomb
+    level:    [74, 78]
+    region:   ifrits_cauldron_c_2
+
+  17617137:
+    template: Ash_Lizard
+    level:    [73, 76]
+    region:   ifrits_cauldron_c_2
+
+  17617138:
+    template: Volcanic_Bomb
+    at:       [-136.301, 39.429, 100.458, 127]
+    level:    [74, 78]
+
+  17617139:
+    template: Ash_Lizard
+    level:    [73, 76]
+    region:   ifrits_cauldron_c
+
+  17617140:
+    template: Volcanic_Bomb
+    at:       [-140.916, 40.080, 62.123, 49]
+    level:    [74, 78]
+
+  17617141:
+    template: Hurricane_Wyvern
+    level:    [75, 78]
+    region:   ifrits_cauldron_w_3
+
+  17617142:
+    template: Volcanic_Bomb
+    level:    [74, 78]
+    region:   ifrits_cauldron_w_3
+
+  17617143:
+    template: Volcanic_Bomb
+    level:    [74, 78]
+    region:   ifrits_cauldron_w_3
+
+  17617144:
+    template: Volcanic_Bomb
+    level:    [74, 78]
+    region:   ifrits_cauldron_nw_5
+
+  17617145:
+    template: Ash_Lizard
+    level:    [73, 76]
+    region:   ifrits_cauldron_nw_5
+
+  17617146:
+    template: Ash_Lizard
+    level:    [73, 76]
+    region:   ifrits_cauldron_nw_5
+
+  17617147:
+    template: Ash_Dragon
+    level:    [82, 82]
+    region:   ifrits_cauldron_nw_4
+
+  17617148:
+    template: Volcanic_Bomb
+    level:    [74, 78]
+    region:   ifrits_cauldron_nw_4
+
+  17617149:
+    template: Volcanic_Bomb
+    level:    [74, 78]
+    region:   ifrits_cauldron_nw_4
+
+  17617150:
+    template: Volcanic_Bomb
+    at:       [-276.073, 39.785, 123.248, 21]
+    level:    [74, 78]
+
+  17617151:
+    template: Volcanic_Bomb
+    level:    [74, 78]
+    region:   ifrits_cauldron_nw_3
+
+  17617152:
+    template: Volcanic_Bomb
+    at:       [-339.842, 39.743, 142.112, 127]
+    level:    [74, 78]
+
+  17617153:
+    template: Volcanic_Bomb
+    level:    [74, 78]
+    region:   ifrits_cauldron_nw_2
+
+  17617154:
+    template: Volcanic_Bomb
+    level:    [74, 78]
+    region:   ifrits_cauldron_nw
+
+  17617155:
+    template: Volcanic_Bomb
+    level:    [72, 75]
+    region:   ifrits_cauldron_c_7
+
+  17617156:
+    template: Volcanic_Bomb
+    level:    [72, 75]
+    region:   ifrits_cauldron_n_6
+
+  17617157:
+    template: Mimic
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [60, 60]
+
+  17617158:
+    template: Bomb_Queen
+    at:       [21.128, 19.687, -110.232, 0]
+    level:    [79, 81]
+
+  17617159:
+    template: Bomb_Princess
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [72, 74]
+
+  17617160:
+    template: Bomb_Prince
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [72, 74]
+
+  17617161:
+    template: Bomb_Princess
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [72, 74]
+
+  17617162:
+    template: Bomb_Prince
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [72, 74]
+
+  17617163:
+    template: Bomb_Bastard
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [72, 74]
+
+  17617164:
+    template: Tarasque
+    at:       [118.000, 19.000, 163.000, 250]
+    level:    [72, 74]
+
+  17617165:
+    template: Cailleach_Bheur
+    at:       [117.074, 19.403, 144.834, 218]
+    level:    [82, 82]
+
+  17617166:
+    template: Ildebrann
+    at:       [-269.000, 3.141, -169.000, 0]
+    level:    [98, 99]
+
+  17617167:
+    template: Hraun_Dragon
+    at:       [-271.551, 3.275, -168.513, 136]
+    level:    [95, 96]
+
+  17617168:
+    template: Hraun_Dragon
+    at:       [-271.642, 3.274, -169.118, 129]
+    level:    [95, 96]
+
+  17617169:
+    template: Ildebrann
+    at:       [-135.182, 3.358, 168.949, 10]
+    level:    [98, 99]
+
+  17617170:
+    template: Hraun_Dragon
+    at:       [-114.419, 2.620, 169.613, 191]
+    level:    [95, 96]
+
+  17617171:
+    template: Hraun_Dragon
+    at:       [-112.295, 3.603, 164.095, 113]
+    level:    [95, 96]
+
+  17617172:
+    template: Ildebrann
+    at:       [8.217, 3.526, 293.694, 254]
+    level:    [98, 99]
+
+  17617173:
+    template: Hraun_Dragon
+    at:       [8.217, 3.526, 293.694, 254]
+    level:    [95, 96]
+
+  17617174:
+    template: Hraun_Dragon
+    at:       [8.217, 3.526, 293.694, 254]
+    level:    [95, 96]
+
+  17617175:
+    template: Coca
+    at:       [7.380, 3.462, 232.399, 119]
+    level:    [125, 125]
+
+  17617176:
+    template: Coca
+    at:       [-115.277, 3.450, 114.605, 163]
+    level:    [125, 125]
+
+  17617177:
+    template: Coca
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [125, 125]

@@ -1,0 +1,1953 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  16990209:
+    template: Red_Smoocher
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [71, 72]
+
+  16990210:
+    template: Azoth_Apsaras
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [71, 72]
+
+  16990211:
+    template: Red_Osculator
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [71, 72]
+
+  16990212:
+    template: Kissing_Leech
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [71, 72]
+
+  16990213:
+    template: Mercurial_Makara
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [71, 72]
+
+  16990214:
+    template: Aht_Urhgan_Attercop
+    at:       [380.000, -10.000, 6.000, 127]
+    level:    [64, 65]
+
+  16990215:
+    template: Aht_Urhgan_Attercop
+    at:       [374.000, -9.000, 20.000, 127]
+    level:    [64, 65]
+
+  16990216:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   bhaflau_thickets_e_4
+
+  16990217:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   bhaflau_thickets_e_4
+
+  16990218:
+    template: Aht_Urhgan_Attercop
+    level:    [64, 65]
+    region:   bhaflau_thickets_e_4
+
+  16990219:
+    template: Aht_Urhgan_Attercop
+    level:    [64, 65]
+    region:   bhaflau_thickets_e_4
+
+  16990220:
+    template: Aht_Urhgan_Attercop
+    level:    [64, 65]
+    region:   bhaflau_thickets_e_4
+
+  16990221:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   bhaflau_thickets_e_3
+
+  16990222:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   bhaflau_thickets_e_3
+
+  16990223:
+    template: Fomor_Beastmaster
+    level:    [63, 64]
+    region:   bhaflau_thickets_e_3
+
+  16990224:
+    template: Fomors_Bats
+    level:    [58, 60]
+    region:   bhaflau_thickets_e_3
+
+  16990225:
+    template: Fomor_Bard
+    level:    [63, 64]
+    region:   bhaflau_thickets_e_3
+
+  16990226:
+    template: Aht_Urhgan_Attercop
+    at:       [339.805, -10.444, 83.397, 184]
+    level:    [64, 65]
+
+  16990227:
+    template: Aht_Urhgan_Attercop
+    level:    [64, 65]
+    region:   bhaflau_thickets_e_5
+
+  16990228:
+    template: Haunt
+    level:    [63, 64]
+    region:   bhaflau_thickets_e_5
+
+  16990229:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   bhaflau_thickets_e
+
+  16990230:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   bhaflau_thickets_e
+
+  16990231:
+    template: Fomor_Paladin
+    level:    [63, 64]
+    region:   bhaflau_thickets_e
+
+  16990232:
+    template: Fomor_Beastmaster
+    level:    [63, 64]
+    region:   bhaflau_thickets_e
+
+  16990233:
+    template: Fomors_Bats
+    level:    [58, 60]
+    region:   bhaflau_thickets_e
+
+  16990234:
+    template: Ameretat
+    level:    [65, 66]
+    region:   bhaflau_thickets_e_2
+
+  16990235:
+    template: Ameretat
+    level:    [65, 66]
+    region:   bhaflau_thickets_e_2
+
+  16990236:
+    template: Wajaom_Tiger
+    level:    [67, 68]
+    region:   bhaflau_thickets_e_2
+
+  16990237:
+    template: Wajaom_Tiger
+    level:    [67, 68]
+    region:   bhaflau_thickets_e_2
+
+  16990238:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   bhaflau_thickets_ne_9
+
+  16990239:
+    template: Ameretat
+    level:    [65, 66]
+    region:   bhaflau_thickets_ne_9
+
+  16990240:
+    template: Wajaom_Tiger
+    level:    [67, 68]
+    region:   bhaflau_thickets_ne_6
+
+  16990241:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   bhaflau_thickets_ne_3
+
+  16990242:
+    template: Wajaom_Tiger
+    level:    [67, 68]
+    region:   bhaflau_thickets_ne_3
+
+  16990243:
+    template: Wajaom_Tiger
+    level:    [67, 68]
+    region:   bhaflau_thickets_ne_3
+
+  16990244:
+    template: Lesser_Colibri
+    at:       [279.000, -7.000, 172.000, 127]
+    level:    [63, 65]
+
+  16990245:
+    template: Wajaom_Tiger
+    at:       [206.000, -18.000, 299.000, 127]
+    level:    [67, 68]
+
+  16990246:
+    template: Fomor_Thief
+    at:       [322.000, -10.000, 24.000, 127]
+    level:    [63, 64]
+
+  16990247:
+    template: Fomor_Beastmaster
+    at:       [499.000, -10.000, 212.000, 127]
+    level:    [63, 64]
+
+  16990248:
+    template: Fomors_Bats
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [58, 60]
+
+  16990249:
+    template: Aht_Urhgan_Attercop
+    level:    [64, 65]
+    region:   bhaflau_thickets_e_6
+
+  16990250:
+    template: Aht_Urhgan_Attercop
+    level:    [64, 65]
+    region:   bhaflau_thickets_e_6
+
+  16990251:
+    template: Fomor_Thief
+    level:    [63, 64]
+    region:   bhaflau_thickets_e_6
+
+  16990252:
+    template: Harvestman
+    level:    [72, 73]
+    region:   bhaflau_thickets_e_6
+
+  16990253:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   bhaflau_thickets_e_7
+
+  16990254:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   bhaflau_thickets_e_7
+
+  16990255:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   bhaflau_thickets_ne_10
+
+  16990256:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   bhaflau_thickets_ne_10
+
+  16990257:
+    template: Haunt
+    level:    [63, 64]
+    region:   bhaflau_thickets_ne_10
+
+  16990258:
+    template: Aht_Urhgan_Attercop
+    level:    [64, 65]
+    region:   bhaflau_thickets_ne_13
+
+  16990259:
+    template: Aht_Urhgan_Attercop
+    level:    [64, 65]
+    region:   bhaflau_thickets_ne_13
+
+  16990260:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   bhaflau_thickets_ne_13
+
+  16990261:
+    template: Aht_Urhgan_Attercop
+    level:    [64, 65]
+    region:   bhaflau_thickets_ne_14
+
+  16990262:
+    template: Aht_Urhgan_Attercop
+    level:    [64, 65]
+    region:   bhaflau_thickets_ne_14
+
+  16990263:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   bhaflau_thickets_ne_14
+
+  16990264:
+    template: Lesser_Colibri
+    at:       [452.385, -15.728, 280.919, 206]
+    level:    [63, 65]
+
+  16990265:
+    template: Lesser_Colibri
+    at:       [449.395, -15.724, 294.132, 132]
+    level:    [63, 65]
+
+  16990266:
+    template: Ameretat
+    level:    [65, 66]
+    region:   bhaflau_thickets_ne_12
+
+  16990267:
+    template: Ameretat
+    level:    [65, 66]
+    region:   bhaflau_thickets_ne_12
+
+  16990268:
+    template: Treant_Sapling
+    level:    [66, 68]
+    region:   bhaflau_thickets_ne_12
+
+  16990269:
+    template: Treant_Sapling
+    level:    [66, 68]
+    region:   bhaflau_thickets_ne_12
+
+  16990270:
+    template: Treant_Sapling
+    level:    [66, 68]
+    region:   bhaflau_thickets_ne_12
+
+  16990271:
+    template: Aht_Urhgan_Attercop
+    at:       [457.000, -17.000, 375.000, 127]
+    level:    [64, 65]
+
+  16990272:
+    template: Aht_Urhgan_Attercop
+    at:       [455.000, -20.000, 365.000, 127]
+    level:    [64, 65]
+
+  16990273:
+    template: Aht_Urhgan_Attercop
+    level:    [64, 65]
+    region:   bhaflau_thickets_ne_15
+
+  16990274:
+    template: Aht_Urhgan_Attercop
+    level:    [64, 65]
+    region:   bhaflau_thickets_ne_15
+
+  16990275:
+    template: Aht_Urhgan_Attercop
+    level:    [64, 65]
+    region:   bhaflau_thickets_e_8
+
+  16990276:
+    template: Fomor_Bard
+    level:    [63, 64]
+    region:   bhaflau_thickets_e_8
+
+  16990277:
+    template: Fomor_Paladin
+    level:    [63, 64]
+    region:   bhaflau_thickets_e_8
+
+  16990278:
+    template: Aht_Urhgan_Attercop
+    level:    [64, 65]
+    region:   bhaflau_thickets_e_10
+
+  16990279:
+    template: Aht_Urhgan_Attercop
+    level:    [64, 65]
+    region:   bhaflau_thickets_e_10
+
+  16990280:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   bhaflau_thickets_e_11
+
+  16990281:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   bhaflau_thickets_e_11
+
+  16990282:
+    template: Lesser_Colibri
+    at:       [289.000, -16.000, 252.000, 127]
+    level:    [63, 65]
+
+  16990283:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   bhaflau_thickets_e_9
+
+  16990284:
+    template: Aht_Urhgan_Attercop
+    level:    [64, 65]
+    region:   bhaflau_thickets_e_12
+
+  16990285:
+    template: Aht_Urhgan_Attercop
+    level:    [64, 65]
+    region:   bhaflau_thickets_e_12
+
+  16990286:
+    template: Aht_Urhgan_Attercop
+    level:    [64, 65]
+    region:   bhaflau_thickets_e_12
+
+  16990287:
+    template: Wajaom_Tiger
+    at:       [315.000, -7.000, 214.000, 127]
+    level:    [67, 68]
+
+  16990288:
+    template: Wajaom_Tiger
+    at:       [279.000, -8.000, 208.000, 127]
+    level:    [67, 68]
+
+  16990289:
+    template: Chigoe
+    at:       [141.403, -18.403, 299.224, 69]
+    level:    [72, 73]
+
+  16990290:
+    template: Chigoe
+    at:       [140.637, -18.339, 299.261, 220]
+    level:    [72, 73]
+
+  16990291:
+    template: Chigoe
+    at:       [141.781, -18.189, 298.570, 78]
+    level:    [72, 73]
+
+  16990292:
+    template: Chigoe
+    at:       [159.025, -16.229, 333.930, 177]
+    level:    [71, 73]
+
+  16990293:
+    template: Chigoe
+    at:       [156.374, -15.863, 345.795, 118]
+    level:    [71, 73]
+
+  16990294:
+    template: Grand_Marid
+    at:       [184.000, -18.000, 335.000, 127]
+    level:    [79, 80]
+
+  16990295:
+    template: Grand_Marid
+    at:       [137.000, -18.000, 334.000, 127]
+    level:    [79, 80]
+
+  16990296:
+    template: Marid
+    at:       [215.000, -18.000, 372.000, 127]
+    level:    [77, 78]
+
+  16990297:
+    template: Marid
+    at:       [209.000, -19.000, 341.000, 127]
+    level:    [77, 78]
+
+  16990298:
+    template: Marid
+    at:       [153.000, -15.000, 355.000, 127]
+    level:    [77, 78]
+
+  16990299:
+    template: Marid
+    at:       [149.000, -17.000, 310.000, 127]
+    level:    [77, 78]
+
+  16990300:
+    template: Colibri
+    level:    [71, 73]
+    region:   bhaflau_thickets_n_10
+
+  16990301:
+    template: Colibri
+    level:    [71, 73]
+    region:   bhaflau_thickets_n_10
+
+  16990302:
+    template: Colibri
+    at:       [198.000, -16.000, 352.000, 127]
+    level:    [71, 73]
+
+  16990303:
+    template: Colibri
+    at:       [147.000, -18.000, 322.000, 127]
+    level:    [71, 73]
+
+  16990304:
+    template: Marid
+    at:       [160.000, -15.000, 328.000, 127]
+    level:    [77, 78]
+
+  16990305:
+    template: Marid
+    at:       [163.000, -16.000, 312.000, 127]
+    level:    [77, 78]
+
+  16990306:
+    template: Mahishasura
+    at:       [206.510, -16.320, 357.724, 0]
+    level:    [80, 80]
+
+  16990307:
+    template: Red_Kisser
+    at:       [185.000, -15.000, 363.000, 127]
+    level:    [68, 69]
+
+  16990308:
+    template: Red_Kisser
+    at:       [179.000, -15.000, 363.000, 127]
+    level:    [68, 69]
+
+  16990309:
+    template: Red_Kisser
+    at:       [172.000, -15.000, 366.000, 127]
+    level:    [68, 69]
+
+  16990310:
+    template: Fomor_Paladin
+    at:       [101.938, -20.328, 350.641, 19]
+    level:    [63, 64]
+
+  16990311:
+    template: Fomor_Bard
+    at:       [275.000, -8.000, 153.000, 127]
+    level:    [63, 64]
+
+  16990312:
+    template: Haunt
+    at:       [340.000, -10.000, 288.000, 127]
+    level:    [63, 64]
+
+  16990313:
+    template: Fomor_Thief
+    at:       [102.924, -15.078, 379.794, 105]
+    level:    [63, 64]
+
+  16990314:
+    template: Fomor_Paladin
+    at:       [262.000, -11.000, 153.000, 127]
+    level:    [63, 64]
+
+  16990315:
+    template: Colibri
+    level:    [71, 73]
+    region:   bhaflau_thickets_n_8
+
+  16990316:
+    template: Colibri
+    level:    [71, 73]
+    region:   bhaflau_thickets_n_8
+
+  16990317:
+    template: Colibri
+    at:       [55.000, -17.000, 269.000, 127]
+    level:    [71, 73]
+
+  16990318:
+    template: Colibri
+    at:       [38.000, -19.000, 258.000, 127]
+    level:    [71, 73]
+
+  16990319:
+    template: Troll_Surveillant
+    at:       [17.000, -14.000, 298.000, 127]
+    level:    [72, 73]
+
+  16990320:
+    template: Trolls_Automaton
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [70, 71]
+
+  16990321:
+    template: Troll_Shieldbearer
+    at:       [28.000, -17.000, 298.000, 127]
+    level:    [72, 73]
+
+  16990322:
+    template: Troll_Sabreur
+    at:       [28.000, -17.000, 289.000, 127]
+    level:    [72, 73]
+
+  16990323:
+    template: Troll_Surveillant
+    level:    [72, 73]
+    region:   bhaflau_thickets_n_5
+
+  16990324:
+    template: Trolls_Automaton
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [70, 71]
+
+  16990325:
+    template: Date_Eruca
+    at:       [32.000, -16.000, 282.000, 127]
+    level:    [72, 73]
+
+  16990326:
+    template: Date_Eruca
+    level:    [72, 73]
+    region:   bhaflau_thickets_n_2
+
+  16990327:
+    template: Date_Eruca
+    level:    [72, 73]
+    region:   bhaflau_thickets_n_2
+
+  16990328:
+    template: Date_Eruca
+    level:    [72, 73]
+    region:   bhaflau_thickets_n_2
+
+  16990329:
+    template: Date_Eruca
+    level:    [72, 73]
+    region:   bhaflau_thickets_n_2
+
+  16990330:
+    template: Colibri
+    at:       [179.000, -19.000, 127.000, 127]
+    level:    [71, 73]
+
+  16990331:
+    template: Colibri
+    level:    [71, 73]
+    region:   bhaflau_thickets_c_2
+
+  16990332:
+    template: Colibri
+    level:    [71, 73]
+    region:   bhaflau_thickets_c_2
+
+  16990333:
+    template: Colibri
+    level:    [71, 72]
+    region:   bhaflau_thickets_c
+
+  16990334:
+    template: Colibri
+    level:    [71, 73]
+    region:   bhaflau_thickets_c
+
+  16990335:
+    template: Colibri
+    level:    [71, 73]
+    region:   bhaflau_thickets_c
+
+  16990336:
+    template: Colibri
+    at:       [61.000, -19.000, 283.000, 127]
+    level:    [71, 73]
+
+  16990337:
+    template: Treant_Sapling
+    level:    [66, 68]
+    region:   bhaflau_thickets_ne_11
+
+  16990338:
+    template: Treant_Sapling
+    level:    [66, 68]
+    region:   bhaflau_thickets_ne_11
+
+  16990339:
+    template: Treant_Sapling
+    level:    [66, 68]
+    region:   bhaflau_thickets_ne_11
+
+  16990340:
+    template: Wajaom_Tiger
+    at:       [260.000, -17.000, 385.000, 127]
+    level:    [67, 68]
+
+  16990341:
+    template: Wajaom_Tiger
+    at:       [260.000, -19.000, 406.000, 127]
+    level:    [67, 68]
+
+  16990342:
+    template: Air_Elemental
+    level:    [75, 75]
+    region:   bhaflau_thickets_ne
+
+  16990343:
+    template: Treant_Sapling
+    at:       [45.000, -32.000, 552.000, 127]
+    level:    [66, 68]
+
+  16990344:
+    template: Treant_Sapling
+    at:       [81.000, -32.000, 634.000, 127]
+    level:    [66, 68]
+
+  16990345:
+    template: Treant_Sapling
+    level:    [66, 68]
+    region:   bhaflau_thickets_ne_8
+
+  16990346:
+    template: Olden_Treant
+    level:    [72, 74]
+    region:   bhaflau_thickets_ne_8
+
+  16990347:
+    template: Olden_Treant
+    level:    [72, 74]
+    region:   bhaflau_thickets_ne_7
+
+  16990348:
+    template: Wajaom_Tiger
+    level:    [67, 69]
+    region:   bhaflau_thickets_ne_7
+
+  16990349:
+    template: Wajaom_Tiger
+    level:    [67, 69]
+    region:   bhaflau_thickets_ne_7
+
+  16990350:
+    template: Treant_Sapling
+    level:    [66, 68]
+    region:   bhaflau_thickets_ne_4
+
+  16990351:
+    template: Wajaom_Tiger
+    level:    [67, 69]
+    region:   bhaflau_thickets_ne_4
+
+  16990352:
+    template: Treant_Sapling
+    level:    [66, 68]
+    region:   bhaflau_thickets_ne_5
+
+  16990353:
+    template: Wajaom_Tiger
+    level:    [67, 69]
+    region:   bhaflau_thickets_ne_5
+
+  16990354:
+    template: Olden_Treant
+    level:    [72, 74]
+    region:   bhaflau_thickets_ne_2
+
+  16990355:
+    template: Colorful_Treant
+    at:       [320.000, -17.000, 410.000, 127]
+    level:    [74, 75]
+
+  16990356:
+    template: Olden_Treant
+    level:    [72, 74]
+    region:   bhaflau_thickets_n_11
+
+  16990357:
+    template: Colibri
+    level:    [71, 73]
+    region:   bhaflau_thickets_n_9
+
+  16990358:
+    template: Colibri
+    level:    [71, 73]
+    region:   bhaflau_thickets_n_9
+
+  16990359:
+    template: Colibri
+    at:       [100.000, -34.000, 523.000, 127]
+    level:    [71, 73]
+
+  16990360:
+    template: Olden_Treant
+    level:    [72, 74]
+    region:   bhaflau_thickets_n_3
+
+  16990361:
+    template: Olden_Treant
+    level:    [72, 74]
+    region:   bhaflau_thickets_n_3
+
+  16990362:
+    template: Colorful_Treant
+    at:       [44.000, -32.000, 568.000, 127]
+    level:    [74, 75]
+
+  16990363:
+    template: Colibri
+    level:    [71, 73]
+    region:   bhaflau_thickets_n_6
+
+  16990364:
+    template: Colibri
+    level:    [71, 73]
+    region:   bhaflau_thickets_n_6
+
+  16990365:
+    template: Colibri
+    level:    [71, 73]
+    region:   bhaflau_thickets_n_4
+
+  16990366:
+    template: Colibri
+    level:    [71, 73]
+    region:   bhaflau_thickets_n_4
+
+  16990367:
+    template: Incubus_Bats
+    at:       [-9.000, -33.000, 540.000, 127]
+    level:    [61, 63]
+
+  16990368:
+    template: Incubus_Bats
+    at:       [-23.000, -34.000, 501.000, 127]
+    level:    [61, 63]
+
+  16990369:
+    template: Incubus_Bats
+    at:       [-37.000, -32.000, 476.000, 127]
+    level:    [61, 63]
+
+  16990370:
+    template: Incubus_Bats
+    at:       [-20.000, -35.000, 530.000, 127]
+    level:    [61, 63]
+
+  16990371:
+    template: Treant_Sapling
+    level:    [66, 68]
+    region:   bhaflau_thickets_n_7
+
+  16990372:
+    template: Treant_Sapling
+    level:    [66, 68]
+    region:   bhaflau_thickets_n_7
+
+  16990373:
+    template: Air_Elemental
+    level:    [75, 75]
+    region:   bhaflau_thickets_n_7
+
+  16990374:
+    template: Olden_Treant
+    at:       [86.000, -35.000, 621.000, 127]
+    level:    [72, 74]
+
+  16990375:
+    template: Colorful_Treant
+    at:       [94.000, -34.000, 637.000, 127]
+    level:    [74, 75]
+
+  16990376:
+    template: Emergent_Elm
+    at:       [71.000, -33.000, 627.000, 127]
+    level:    [77, 78]
+
+  16990377:
+    template: Treant_Sapling
+    level:    [66, 68]
+    region:   bhaflau_thickets_n
+
+  16990378:
+    template: Treant_Sapling
+    level:    [66, 68]
+    region:   bhaflau_thickets_n
+
+  16990379:
+    template: Treant_Sapling
+    at:       [-37.000, -34.000, 494.000, 127]
+    level:    [66, 68]
+
+  16990380:
+    template: Treant_Sapling
+    level:    [66, 68]
+    region:   bhaflau_thickets_n
+
+  16990381:
+    template: Olden_Treant
+    at:       [200.000, -31.000, 511.000, 127]
+    level:    [72, 74]
+
+  16990382:
+    template: Colorful_Treant
+    at:       [178.000, -35.000, 526.000, 127]
+    level:    [74, 75]
+
+  16990383:
+    template: Sea_Puk
+    at:       [-135.000, -18.000, -648.000, 127]
+    level:    [77, 78]
+
+  16990384:
+    template: Sea_Puk
+    at:       [-104.000, -18.000, -636.000, 127]
+    level:    [77, 78]
+
+  16990385:
+    template: Sea_Puk
+    level:    [77, 78]
+    region:   bhaflau_thickets_s_4
+
+  16990386:
+    template: Mamool_Ja_Stabler
+    level:    [81, 83]
+    region:   bhaflau_thickets_s_4
+
+  16990387:
+    template: Mamool_Jas_Raptor
+    level:    [76, 78]
+    region:   bhaflau_thickets_s_4
+
+  16990388:
+    template: Mamool_Ja_Infiltrator
+    level:    [81, 83]
+    region:   bhaflau_thickets_s_5
+
+  16990389:
+    template: Mamool_Ja_Mimer
+    level:    [81, 83]
+    region:   bhaflau_thickets_s_5
+
+  16990390:
+    template: Mamool_Ja_Philosopher
+    level:    [82, 83]
+    region:   bhaflau_thickets_s_5
+
+  16990391:
+    template: Sea_Puk
+    level:    [77, 78]
+    region:   bhaflau_thickets_s_5
+
+  16990392:
+    template: Sea_Puk
+    level:    [77, 78]
+    region:   bhaflau_thickets_s_3
+
+  16990393:
+    template: Sea_Puk
+    at:       [-128.000, -15.000, -602.000, 127]
+    level:    [77, 78]
+
+  16990394:
+    template: Sea_Puk
+    at:       [-132.000, -16.000, -612.000, 127]
+    level:    [77, 78]
+
+  16990395:
+    template: Skoffin
+    at:       [-157.000, -18.000, -611.000, 127]
+    level:    [82, 83]
+
+  16990396:
+    template: Mamool_Ja_Pikeman
+    at:       [-96.000, -18.000, -621.000, 127]
+    level:    [81, 83]
+
+  16990397:
+    template: Mamool_Jas_Wyvern
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [76, 78]
+
+  16990398:
+    template: Sea_Puk
+    level:    [77, 78]
+    region:   bhaflau_thickets_s_2
+
+  16990399:
+    template: Skoffin
+    level:    [82, 83]
+    region:   bhaflau_thickets_s_2
+
+  16990400:
+    template: Skoffin
+    level:    [82, 83]
+    region:   bhaflau_thickets_s_2
+
+  16990401:
+    template: Skoffin
+    level:    [82, 83]
+    region:   bhaflau_thickets_s_2
+
+  16990402:
+    template: Air_Elemental
+    level:    [75, 75]
+    region:   bhaflau_thickets_s_2
+
+  16990403:
+    template: Nis_Puk
+    at:       [-155.319, -15.959, -599.366, 0]
+    level:    [77, 77]
+
+  16990404:
+    template: Skoffin
+    level:    [82, 83]
+    region:   bhaflau_thickets_s
+
+  16990405:
+    template: Mamool_Ja_Stabler
+    level:    [81, 83]
+    region:   bhaflau_thickets_s
+
+  16990406:
+    template: Mamool_Jas_Raptor
+    level:    [76, 78]
+    region:   bhaflau_thickets_s
+
+  16990407:
+    template: Mamool_Ja_Lurker
+    at:       [-195.000, -15.000, -563.000, 127]
+    level:    [81, 83]
+
+  16990408:
+    template: Mamool_Ja_Infiltrator
+    at:       [-190.000, -18.000, -547.000, 127]
+    level:    [81, 83]
+
+  16990409:
+    template: Mamool_Ja_Infiltrator
+    at:       [150.000, -18.000, -496.000, 127]
+    level:    [81, 83]
+
+  16990410:
+    template: Mamool_Ja_Pikeman
+    at:       [-181.000, -19.000, -511.000, 127]
+    level:    [81, 83]
+
+  16990411:
+    template: Mamool_Jas_Wyvern
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [76, 77]
+
+  16990412:
+    template: Sea_Puk
+    at:       [-145.000, -16.000, -610.000, 127]
+    level:    [77, 78]
+
+  16990413:
+    template: Mamool_Ja_Blusterer
+    at:       [-167.000, -19.000, -498.000, 127]
+    level:    [82, 83]
+
+  16990414:
+    template: Sea_Puk
+    at:       [-144.000, -18.000, -626.000, 127]
+    level:    [77, 78]
+
+  16990415:
+    template: Mamool_Ja_Blusterer
+    at:       [-187.000, -19.000, -528.000, 127]
+    level:    [82, 83]
+
+  16990416:
+    template: Mamool_Ja_Philosopher
+    at:       [-138.000, -14.000, -500.000, 127]
+    level:    [82, 83]
+
+  16990417:
+    template: Plague_Chigoe
+    at:       [462.241, -14.925, 256.011, 254]
+    level:    [62, 62]
+
+  16990418:
+    template: Berried_Chigoe
+    at:       [178.205, -18.258, 313.662, 90]
+    level:    [60, 60]
+
+  16990419:
+    template: Chigoes_Nit
+    at:       [178.205, -18.913, 313.661, 90]
+    level:    [48, 48]
+
+  16990420:
+    template: Chigoes_Nit
+    at:       [178.088, -18.427, 314.379, 81]
+    level:    [48, 48]
+
+  16990421:
+    template: Chigoes_Nit
+    at:       [178.205, -18.913, 313.661, 90]
+    level:    [48, 48]
+
+  16990422:
+    template: Chigoes_Nit
+    at:       [178.418, -18.190, 313.134, 104]
+    level:    [48, 48]
+
+  16990423:
+    template: Dark_Rider
+    at:       [549.927, -10.000, 171.641, 221]
+    level:    [95, 95]
+
+  16990424:
+    template: Dark_Bugler
+    at:       [59.596, -19.063, 255.521, 96]
+    level:    [76, 76]
+
+  16990425:
+    template: Dark_Bugler
+    at:       [175.097, -18.686, 310.768, 88]
+    level:    [76, 76]
+
+  16990426:
+    template: Dark_Bugler
+    at:       [281.659, -17.688, 248.399, 65]
+    level:    [76, 76]
+
+  16990427:
+    template: Dark_Esquire
+    at:       [330.384, -9.198, 223.755, 246]
+    level:    [76, 76]
+
+  16990428:
+    template: Dark_Esquire
+    at:       [450.198, -16.331, 300.446, 125]
+    level:    [76, 76]
+
+  16990429:
+    template: Dark_Esquire
+    at:       [538.488, -11.782, 166.673, 240]
+    level:    [76, 76]
+
+  16990430:
+    template: Mamool_Ja_Philosopher
+    at:       [-110.000, -16.000, -627.000, 127]
+    level:    [81, 83]
+
+  16990431:
+    template: Mamool_Ja_Blusterer
+    level:    [81, 83]
+    region:   bhaflau_thickets_w_11
+
+  16990432:
+    template: Mamool_Ja_Mimer
+    level:    [81, 83]
+    region:   bhaflau_thickets_w_11
+
+  16990433:
+    template: Mamool_Ja_Blusterer
+    at:       [-401.000, -16.000, -95.000, 127]
+    level:    [81, 83]
+
+  16990434:
+    template: Mamool_Ja_Lurker
+    at:       [-418.000, -14.000, -97.000, 127]
+    level:    [81, 83]
+
+  16990435:
+    template: Mamool_Ja_Stabler
+    at:       [-434.000, -14.000, -98.000, 127]
+    level:    [81, 83]
+
+  16990436:
+    template: Mamool_Jas_Raptor
+    level:    [76, 78]
+    region:   bhaflau_thickets_w_10
+
+  16990437:
+    template: Mamool_Ja_Stabler
+    at:       [-474.000, -22.000, -95.000, 127]
+    level:    [81, 83]
+
+  16990438:
+    template: Mamool_Jas_Raptor
+    level:    [76, 78]
+    region:   bhaflau_thickets_w_10
+
+  16990439:
+    template: Mamool_Ja_Infiltrator
+    level:    [81, 83]
+    region:   bhaflau_thickets_w_9
+
+  16990440:
+    template: Mamool_Ja_Pikeman
+    level:    [81, 83]
+    region:   bhaflau_thickets_w_9
+
+  16990441:
+    template: Mamool_Jas_Wyvern
+    level:    [76, 78]
+    region:   bhaflau_thickets_w_9
+
+  16990442:
+    template: Mamool_Ja_Pikeman
+    level:    [81, 83]
+    region:   bhaflau_thickets_w_9
+
+  16990443:
+    template: Mamool_Jas_Wyvern
+    level:    [76, 78]
+    region:   bhaflau_thickets_w_9
+
+  16990444:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_6
+
+  16990445:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_6
+
+  16990446:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_6
+
+  16990447:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_6
+
+  16990448:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_6
+
+  16990449:
+    template: Locus_Wivre
+    level:    [135, 137]
+    region:   bhaflau_thickets_w_6
+
+  16990450:
+    template: Locus_Wivre
+    level:    [135, 137]
+    region:   bhaflau_thickets_w_6
+
+  16990451:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_8
+
+  16990452:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_8
+
+  16990453:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_8
+
+  16990454:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_8
+
+  16990455:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_8
+
+  16990456:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_7
+
+  16990457:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_7
+
+  16990458:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_7
+
+  16990459:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_7
+
+  16990460:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_7
+
+  16990461:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_5
+
+  16990462:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_5
+
+  16990463:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_5
+
+  16990464:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_5
+
+  16990465:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_5
+
+  16990466:
+    template: Locus_Wivre
+    level:    [135, 137]
+    region:   bhaflau_thickets_w_5
+
+  16990467:
+    template: Locus_Wivre
+    level:    [135, 137]
+    region:   bhaflau_thickets_w_5
+
+  16990468:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_4
+
+  16990469:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_4
+
+  16990470:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_4
+
+  16990471:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_4
+
+  16990472:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_4
+
+  16990473:
+    template: Locus_Wivre
+    at:       [-606.000, -4.000, -39.000, 127]
+    level:    [135, 137]
+
+  16990474:
+    template: Locus_Wivre
+    at:       [-563.000, -15.000, -95.000, 70]
+    level:    [135, 137]
+
+  16990475:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w
+
+  16990476:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w
+
+  16990477:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w
+
+  16990478:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w
+
+  16990479:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w
+
+  16990480:
+    template: Locus_Wivre
+    level:    [135, 137]
+    region:   bhaflau_thickets_w
+
+  16990481:
+    template: Locus_Wivre
+    level:    [135, 137]
+    region:   bhaflau_thickets_w
+
+  16990482:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_3
+
+  16990483:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_3
+
+  16990484:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_3
+
+  16990485:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_3
+
+  16990486:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_3
+
+  16990487:
+    template: Locus_Colibri
+    at:       [-539.000, -11.000, -89.000, 191]
+    level:    [133, 135]
+
+  16990488:
+    template: Locus_Colibri
+    at:       [-602.161, -4.637, -3.299, 127]
+    level:    [133, 135]
+
+  16990489:
+    template: Locus_Colibri
+    at:       [-595.038, -4.813, 3.993, 233]
+    level:    [133, 135]
+
+  16990490:
+    template: Locus_Wivre
+    at:       [-602.114, -4.580, -4.361, 160]
+    level:    [135, 137]
+
+  16990491:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w
+
+  16990492:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w
+
+  16990493:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w
+
+  16990494:
+    template: Locus_Wivre
+    level:    [135, 137]
+    region:   bhaflau_thickets_w
+
+  16990495:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w
+
+  16990496:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w
+
+  16990497:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w
+
+  16990498:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w
+
+  16990499:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w
+
+  16990500:
+    template: Locus_Wivre
+    level:    [135, 137]
+    region:   bhaflau_thickets_w
+
+  16990501:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_2
+
+  16990502:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_2
+
+  16990503:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_2
+
+  16990504:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_2
+
+  16990505:
+    template: Locus_Colibri
+    level:    [133, 135]
+    region:   bhaflau_thickets_w_2
+
+  16990506:
+    template: Lividroot_Amooshah
+    at:       [334.000, -10.000, 184.000, 129]
+    level:    [85, 87]
+
+  16990507:
+    template: Dea
+    at:       [-34.000, -32.000, 481.000, 221]
+    level:    [82, 84]
+
+  16990508:
+    template: Lamia_Immolator
+    at:       [-1.000, 0.000, 0.000, 68]
+    level:    [119, 119]
+
+  16990509:
+    template: Lamia_Jaeger
+    at:       [-1.000, 0.000, 0.000, 68]
+    level:    [119, 119]
+
+  16990510:
+    template: Lamia_Commandress
+    at:       [-1.000, 0.000, 0.000, 68]
+    level:    [119, 119]
+
+  16990511:
+    template: Lamias_Elemental
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16990512:
+    template: Lamias_Avatar
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16990513:
+    template: Lamia_Rover
+    at:       [-1.000, 0.000, 0.000, 41]
+    level:    [119, 119]
+
+  16990514:
+    template: Merrow_Seafarer
+    at:       [-1.000, 0.000, 0.000, 41]
+    level:    [119, 119]
+
+  16990515:
+    template: Merrow_Cantatrice
+    at:       [-1.000, 0.000, 0.000, 41]
+    level:    [119, 119]
+
+  16990516:
+    template: Merrow_Shiranuhi
+    at:       [-1.000, 0.000, 0.000, 40]
+    level:    [119, 119]
+
+  16990517:
+    template: Lamia_Immolator
+    at:       [-1.000, 0.000, 0.000, 41]
+    level:    [119, 119]
+
+  16990518:
+    template: Lamia_Jaeger
+    at:       [-1.000, 0.000, 0.000, 41]
+    level:    [119, 119]
+
+  16990519:
+    template: Lamia_Commandress
+    at:       [-1.000, 0.000, 0.000, 41]
+    level:    [119, 119]
+
+  16990520:
+    template: Lamias_Elemental
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16990521:
+    template: Lamias_Avatar
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16990522:
+    template: Lamia_Rover
+    at:       [-1.000, 0.000, 0.000, 70]
+    level:    [119, 119]
+
+  16990523:
+    template: Merrow_Seafarer
+    at:       [-1.000, 0.000, 0.000, 44]
+    level:    [119, 119]
+
+  16990524:
+    template: Merrow_Cantatrice
+    at:       [-1.000, 0.000, 0.000, 70]
+    level:    [119, 119]
+
+  16990525:
+    template: Merrow_Shiranuhi
+    at:       [-1.000, 0.000, 0.000, 45]
+    level:    [119, 119]
+
+  16990526:
+    template: Lamia_Immolator
+    at:       [-1.000, 0.000, 0.000, 72]
+    level:    [119, 119]
+
+  16990527:
+    template: Lamia_Jaeger
+    at:       [-1.000, 0.000, 0.000, 71]
+    level:    [119, 119]
+
+  16990528:
+    template: Lamia_Commandress
+    at:       [-1.000, 0.000, 0.000, 71]
+    level:    [119, 119]
+
+  16990529:
+    template: Lamias_Elemental
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16990530:
+    template: Lamias_Avatar
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16990531:
+    template: Lamia_Rover
+    at:       [-1.000, 0.000, 0.000, 71]
+    level:    [119, 119]
+
+  16990532:
+    template: Merrow_Seafarer
+    at:       [-1.000, 0.000, 0.000, 72]
+    level:    [119, 119]
+
+  16990533:
+    template: Merrow_Cantatrice
+    at:       [-1.000, 0.000, 0.000, 47]
+    level:    [119, 119]
+
+  16990534:
+    template: Merrow_Shiranuhi
+    at:       [-1.000, 0.000, 0.000, 47]
+    level:    [119, 119]
+
+  16990535:
+    template: Gespenst
+    at:       [-1.000, 0.000, 0.000, 47]
+    level:    [119, 119]
+
+  16990536:
+    template: Gespenst
+    at:       [-1.000, 0.000, 0.000, 69]
+    level:    [119, 119]
+
+  16990537:
+    template: Gespenst
+    at:       [-1.000, 0.000, 0.000, 32]
+    level:    [119, 119]
+
+  16990538:
+    template: Gespenst
+    at:       [-1.000, 0.000, 0.000, 89]
+    level:    [119, 119]
+
+  16990539:
+    template: Assault_Draugar
+    at:       [-1.000, 0.000, 0.000, 69]
+    level:    [119, 119]
+
+  16990540:
+    template: Assault_Draugar
+    at:       [-1.000, 0.000, 0.000, 68]
+    level:    [119, 119]
+
+  16990541:
+    template: Assault_Draugar
+    at:       [-1.000, 0.000, 0.000, 43]
+    level:    [119, 119]
+
+  16990542:
+    template: Assault_Draugar
+    at:       [-1.000, 0.000, 0.000, 42]
+    level:    [119, 119]
+
+  16990543:
+    template: Assault_Draugar
+    at:       [-1.000, 0.000, 0.000, 42]
+    level:    [119, 119]
+
+  16990544:
+    template: Assault_Draugar
+    at:       [-1.000, 0.000, 0.000, 68]
+    level:    [119, 119]
+
+  16990545:
+    template: Assault_Draugar
+    at:       [-1.000, 0.000, 0.000, 67]
+    level:    [119, 119]
+
+  16990546:
+    template: Draugars_Wyvern
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16990547:
+    template: Assault_Draugar
+    at:       [-1.000, 0.000, 0.000, 68]
+    level:    [119, 119]
+
+  16990548:
+    template: Draugars_Wyvern
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16990549:
+    template: Assault_Bhoot
+    at:       [-1.000, 0.000, 0.000, 40]
+    level:    [119, 119]
+
+  16990550:
+    template: Assault_Bhoot
+    at:       [-1.000, 0.000, 0.000, 41]
+    level:    [119, 119]
+
+  16990551:
+    template: Assault_Bhoot
+    at:       [-1.000, 0.000, 0.000, 69]
+    level:    [119, 119]
+
+  16990552:
+    template: Assault_Bhoot
+    at:       [-1.000, 0.000, 0.000, 70]
+    level:    [119, 119]
+
+  16990553:
+    template: Assault_Bhoot
+    at:       [-1.000, 0.000, 0.000, 70]
+    level:    [119, 119]
+
+  16990554:
+    template: Qutrub_Extortionist
+    at:       [-1.000, 0.000, 0.000, 43]
+    level:    [119, 119]
+
+  16990555:
+    template: Qutrub_Extortionist
+    at:       [-1.000, 0.000, 0.000, 71]
+    level:    [119, 119]
+
+  16990556:
+    template: Qutrub_Extortionist
+    at:       [-1.000, 0.000, 0.000, 45]
+    level:    [119, 119]
+
+  16990557:
+    template: Qutrub_Extortionist
+    at:       [-1.000, 0.000, 0.000, 72]
+    level:    [119, 119]
+
+  16990558:
+    template: Qutrub_Wastrel
+    at:       [-1.000, 0.000, 0.000, 46]
+    level:    [119, 119]
+
+  16990559:
+    template: Qutrub_Wastrel
+    at:       [-1.000, 0.000, 0.000, 71]
+    level:    [119, 119]
+
+  16990560:
+    template: Qutrub_Wastrel
+    at:       [-1.000, 0.000, 0.000, 71]
+    level:    [119, 119]
+
+  16990561:
+    template: Qutrub_Wastrel
+    at:       [-1.000, 0.000, 0.000, 46]
+    level:    [119, 119]
+
+  16990562:
+    template: Expunger
+    at:       [-1.000, 0.000, 0.000, 47]
+    level:    [119, 119]
+
+  16990563:
+    template: Expunger
+    at:       [-1.000, 0.000, 0.000, 71]
+    level:    [119, 119]
+
+  16990564:
+    template: Expunger
+    at:       [-1.000, 0.000, 0.000, 47]
+    level:    [119, 119]
+
+  16990565:
+    template: Expunger
+    at:       [-1.000, 0.000, 0.000, 47]
+    level:    [119, 119]
+
+  16990566:
+    template: Expunger
+    at:       [-1.000, 0.000, 0.000, 70]
+    level:    [119, 119]
+
+  16990567:
+    template: Medusa
+    at:       [-1.000, 0.000, 0.000, 71]
+    level:    [119, 119]
+
+  16990568:
+    template: Lamia_No34
+    at:       [-1.000, 0.000, 0.000, 46]
+    level:    [119, 119]
+
+  16990569:
+    template: Lamia_No21
+    at:       [-1.000, 0.000, 0.000, 69]
+    level:    [119, 119]
+
+  16990570:
+    template: Lamia_No15
+    at:       [-1.000, 0.000, 0.000, 69]
+    level:    [119, 119]
+
+  16990571:
+    template: Merrow_No11
+    at:       [-1.000, 0.000, 0.000, 45]
+    level:    [119, 119]
+
+  16990572:
+    template: Lamia_No9
+    at:       [-1.000, 0.000, 0.000, 44]
+    level:    [119, 119]
+
+  16990573:
+    template: Lamias_Elemental
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16990574:
+    template: Lamias_Elemental
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16990575:
+    template: Lamias_Elemental
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16990576:
+    template: Lamias_Avatar
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16990577:
+    template: Lamias_Avatar
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16990578:
+    template: Lamias_Avatar
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16990579:
+    template: Merrow_No12
+    at:       [-1.000, 0.000, 0.000, 41]
+    level:    [119, 119]
+
+  16990580:
+    template: Lamia_No3
+    at:       [-1.000, 0.000, 0.000, 41]
+    level:    [119, 119]
+
+  16990581:
+    template: Lamia_No2
+    at:       [-1.000, 0.000, 0.000, 68]
+    level:    [119, 119]
+
+  16990582:
+    template: Akhty
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16990583:
+    template: Restless_Apkallu
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16990584:
+    template: Restless_Apkallu
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16990585:
+    template: Restless_Apkallu
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16990586:
+    template: Ikatere
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16990587:
+    template: Festering_Orobon
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16990588:
+    template: Festering_Orobon
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16990589:
+    template: Festering_Orobon
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16990590:
+    template: Acrolith
+    at:       [-1.000, 0.000, 0.000, 43]
+    level:    [119, 119]
+
+  16990591:
+    template: Acrolith
+    at:       [-1.000, 0.000, 0.000, 70]
+    level:    [119, 119]
+
+  16990592:
+    template: Acrolith
+    at:       [-1.000, 0.000, 0.000, 45]
+    level:    [119, 119]
+
+  16990593:
+    template: Acrolith
+    at:       [-1.000, 0.000, 0.000, 71]
+    level:    [119, 119]
+
+  16990594:
+    template: Acrolith
+    at:       [-1.000, 0.000, 0.000, 46]
+    level:    [119, 119]
+
+  16990595:
+    template: Acrolith
+    at:       [-1.000, 0.000, 0.000, 46]
+    level:    [119, 119]
+
+  16990596:
+    template: Acrolith
+    at:       [-1.000, 0.000, 0.000, 47]
+    level:    [119, 119]
+
+  16990597:
+    template: Acrolith
+    at:       [-1.000, 0.000, 0.000, 41]
+    level:    [119, 119]
+
+  16990598:
+    template: Acrolith
+    at:       [-1.000, 0.000, 0.000, 42]
+    level:    [119, 119]

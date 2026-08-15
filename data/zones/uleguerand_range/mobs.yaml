@@ -1,0 +1,1998 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  16797697:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_sw
+
+  16797698:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_sw
+
+  16797699:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_sw
+
+  16797700:
+    template: Uleguerand_Tiger
+    level:    [61, 63]
+    region:   uleguerand_range_sw
+
+  16797701:
+    template: Uleguerand_Tiger
+    level:    [61, 63]
+    region:   uleguerand_range_sw
+
+  16797702:
+    template: Uleguerand_Tiger
+    level:    [61, 63]
+    region:   uleguerand_range_sw
+
+  16797703:
+    template: Cwn_Annwn
+    at:       [-220.162, -40.811, -417.565, 183]
+    level:    [59, 64]
+
+  16797704:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_s_2
+
+  16797705:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_s_2
+
+  16797706:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_s_2
+
+  16797707:
+    template: Uleguerand_Tiger
+    level:    [61, 63]
+    region:   uleguerand_range_s_2
+
+  16797708:
+    template: Uleguerand_Tiger
+    level:    [61, 63]
+    region:   uleguerand_range_s_2
+
+  16797709:
+    template: Uleguerand_Tiger
+    level:    [61, 63]
+    region:   uleguerand_range_s_2
+
+  16797710:
+    template: Cwn_Annwn
+    level:    [59, 64]
+    region:   uleguerand_range_s_2
+
+  16797711:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_s_8
+
+  16797712:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_s_8
+
+  16797713:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_s_8
+
+  16797714:
+    template: Uleguerand_Tiger
+    level:    [61, 63]
+    region:   uleguerand_range_s_8
+
+  16797715:
+    template: Uleguerand_Tiger
+    level:    [61, 63]
+    region:   uleguerand_range_s_8
+
+  16797716:
+    template: Uleguerand_Tiger
+    level:    [61, 63]
+    region:   uleguerand_range_s_8
+
+  16797717:
+    template: Cwn_Annwn
+    level:    [59, 64]
+    region:   uleguerand_range_s_10
+
+  16797718:
+    template: Snoll
+    level:    [60, 63]
+    region:   uleguerand_range_s_4
+
+  16797719:
+    template: Snoll
+    at:       [-211.390, -41.004, -473.108, 147]
+    level:    [60, 63]
+
+  16797720:
+    template: Snoll
+    at:       [-245.798, -40.410, -443.927, 28]
+    level:    [60, 63]
+
+  16797721:
+    template: Snoll
+    level:    [60, 63]
+    region:   uleguerand_range_s_9
+
+  16797722:
+    template: Buffalo
+    level:    [62, 65]
+    region:   uleguerand_range_s
+
+  16797723:
+    template: Buffalo
+    level:    [62, 65]
+    region:   uleguerand_range_s
+
+  16797724:
+    template: Buffalo
+    level:    [62, 65]
+    region:   uleguerand_range_s
+
+  16797725:
+    template: Buffalo
+    level:    [62, 65]
+    region:   uleguerand_range_s
+
+  16797726:
+    template: Cwn_Annwn
+    level:    [59, 64]
+    region:   uleguerand_range_s
+
+  16797727:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_s
+
+  16797728:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_s
+
+  16797729:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_s
+
+  16797730:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_s_5
+
+  16797731:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_s_5
+
+  16797732:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_s
+
+  16797733:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_s
+
+  16797734:
+    template: Snoll
+    level:    [60, 63]
+    region:   uleguerand_range_sw_2
+
+  16797735:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_sw_2
+
+  16797736:
+    template: Ice_Elemental
+    level:    [64, 65]
+    region:   uleguerand_range_sw_2
+
+  16797737:
+    template: Snoll
+    level:    [60, 63]
+    region:   uleguerand_range_sw_3
+
+  16797738:
+    template: Frost_Flambeau
+    level:    [72, 74]
+    region:   uleguerand_range_sw_3
+
+  16797739:
+    template: Snoll
+    level:    [60, 63]
+    region:   uleguerand_range_s_3
+
+  16797740:
+    template: Snoll
+    at:       [-192.319, -20.124, -300.897, 254]
+    level:    [60, 63]
+
+  16797741:
+    template: Snoll
+    level:    [60, 63]
+    region:   uleguerand_range_s_7
+
+  16797742:
+    template: Snoll
+    level:    [60, 63]
+    region:   uleguerand_range_sw_4
+
+  16797743:
+    template: Ice_Elemental
+    level:    [64, 65]
+    region:   uleguerand_range_s_11
+
+  16797744:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_s_12
+
+  16797745:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_s_12
+
+  16797746:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_s_6
+
+  16797747:
+    template: Esbat
+    level:    [59, 61]
+    region:   uleguerand_range_s_13
+
+  16797748:
+    template: Glacier_Eater
+    level:    [58, 62]
+    region:   uleguerand_range_s_13
+
+  16797749:
+    template: Glacier_Eater
+    at:       [45.825, -32.860, -382.044, 144]
+    level:    [58, 62]
+
+  16797750:
+    template: Esbat
+    level:    [59, 61]
+    region:   uleguerand_range_s_14
+
+  16797751:
+    template: Glacier_Eater
+    level:    [58, 62]
+    region:   uleguerand_range_s_14
+
+  16797752:
+    template: Glacier_Eater
+    level:    [58, 62]
+    region:   uleguerand_range_s_14
+
+  16797753:
+    template: Nival_Raptor
+    level:    [68, 70]
+    region:   uleguerand_range_se_2
+
+  16797754:
+    template: Nival_Raptor
+    level:    [68, 70]
+    region:   uleguerand_range_se_2
+
+  16797755:
+    template: Polar_Hare
+    level:    [65, 68]
+    region:   uleguerand_range_se_2
+
+  16797756:
+    template: Polar_Hare
+    level:    [65, 68]
+    region:   uleguerand_range_s_15
+
+  16797757:
+    template: Nival_Raptor
+    level:    [68, 70]
+    region:   uleguerand_range_s_15
+
+  16797758:
+    template: Nival_Raptor
+    level:    [68, 70]
+    region:   uleguerand_range_s_15
+
+  16797759:
+    template: Nival_Raptor
+    level:    [68, 70]
+    region:   uleguerand_range_s_15
+
+  16797760:
+    template: Polar_Hare
+    level:    [65, 68]
+    region:   uleguerand_range_se
+
+  16797761:
+    template: Polar_Hare
+    level:    [65, 68]
+    region:   uleguerand_range_se
+
+  16797762:
+    template: Polar_Hare
+    level:    [65, 68]
+    region:   uleguerand_range_se
+
+  16797763:
+    template: Nival_Raptor
+    level:    [68, 70]
+    region:   uleguerand_range_se
+
+  16797764:
+    template: Nival_Raptor
+    level:    [68, 70]
+    region:   uleguerand_range_se
+
+  16797765:
+    template: Nival_Raptor
+    level:    [68, 70]
+    region:   uleguerand_range_se
+
+  16797766:
+    template: Nival_Raptor
+    level:    [68, 70]
+    region:   uleguerand_range_se
+
+  16797767:
+    template: Nival_Raptor
+    level:    [68, 70]
+    region:   uleguerand_range_se
+
+  16797768:
+    template: Polar_Hare
+    level:    [65, 68]
+    region:   uleguerand_range_s_16
+
+  16797769:
+    template: Polar_Hare
+    level:    [65, 68]
+    region:   uleguerand_range_s_16
+
+  16797770:
+    template: Skvader
+    at:       [186.278, 0.072, -278.215, 48]
+    level:    [77, 78]
+
+  16797771:
+    template: Polar_Hare
+    level:    [65, 68]
+    region:   uleguerand_range_se
+
+  16797772:
+    template: Polar_Hare
+    level:    [65, 68]
+    region:   uleguerand_range_se
+
+  16797773:
+    template: Polar_Hare
+    at:       [425.120, -0.287, -414.445, 213]
+    level:    [65, 68]
+
+  16797774:
+    template: Polar_Hare
+    at:       [422.029, -0.171, -422.367, 194]
+    level:    [65, 68]
+
+  16797775:
+    template: Polar_Hare
+    at:       [444.702, -0.594, -399.296, 189]
+    level:    [65, 68]
+
+  16797776:
+    template: Polar_Hare
+    at:       [436.227, -0.460, -400.017, 110]
+    level:    [65, 68]
+
+  16797777:
+    template: Morozko
+    at:       [216.058, -0.333, -337.038, 214]
+    level:    [67, 70]
+
+  16797778:
+    template: Ice_Elemental
+    at:       [305.649, 0.529, -244.317, 37]
+    level:    [71, 72]
+
+  16797779:
+    template: Nival_Raptor
+    at:       [340.820, -0.133, -388.827, 35]
+    level:    [68, 70]
+
+  16797780:
+    template: Nival_Raptor
+    at:       [418.679, 0.341, -407.704, 231]
+    level:    [68, 70]
+
+  16797781:
+    template: Nival_Raptor
+    level:    [68, 70]
+    region:   uleguerand_range_se_5
+
+  16797782:
+    template: Nival_Raptor
+    level:    [68, 70]
+    region:   uleguerand_range_se_5
+
+  16797783:
+    template: Polar_Hare
+    level:    [65, 68]
+    region:   uleguerand_range_se_6
+
+  16797784:
+    template: Polar_Hare
+    level:    [65, 68]
+    region:   uleguerand_range_se_6
+
+  16797785:
+    template: Nival_Raptor
+    level:    [68, 70]
+    region:   uleguerand_range_se_6
+
+  16797786:
+    template: Nival_Raptor
+    level:    [68, 70]
+    region:   uleguerand_range_se_6
+
+  16797787:
+    template: Nival_Raptor
+    level:    [68, 70]
+    region:   uleguerand_range_se_6
+
+  16797788:
+    template: Nival_Raptor
+    level:    [68, 70]
+    region:   uleguerand_range_se_6
+
+  16797789:
+    template: Nival_Raptor
+    level:    [68, 70]
+    region:   uleguerand_range_se_6
+
+  16797790:
+    template: Giant_Buffalo
+    level:    [68, 71]
+    region:   uleguerand_range_se_4
+
+  16797791:
+    template: Giant_Buffalo
+    level:    [68, 71]
+    region:   uleguerand_range_se_4
+
+  16797792:
+    template: Giant_Buffalo
+    level:    [68, 71]
+    region:   uleguerand_range_se_4
+
+  16797793:
+    template: Giant_Buffalo
+    level:    [68, 71]
+    region:   uleguerand_range_se_4
+
+  16797794:
+    template: Giant_Buffalo
+    level:    [68, 71]
+    region:   uleguerand_range_se_4
+
+  16797795:
+    template: Giant_Buffalo
+    level:    [68, 71]
+    region:   uleguerand_range_se_4
+
+  16797796:
+    template: Giant_Buffalo
+    level:    [68, 71]
+    region:   uleguerand_range_se_4
+
+  16797797:
+    template: Nival_Raptor
+    level:    [68, 70]
+    region:   uleguerand_range_se_3
+
+  16797798:
+    template: Nival_Raptor
+    level:    [68, 70]
+    region:   uleguerand_range_se_3
+
+  16797799:
+    template: Brontotaur
+    level:    [68, 71]
+    region:   uleguerand_range_se_3
+
+  16797800:
+    template: Nival_Raptor
+    level:    [68, 70]
+    region:   uleguerand_range_e
+
+  16797801:
+    template: Brontotaur
+    level:    [68, 71]
+    region:   uleguerand_range_e
+
+  16797802:
+    template: Brontotaur
+    level:    [68, 71]
+    region:   uleguerand_range_e
+
+  16797803:
+    template: Nival_Raptor
+    level:    [68, 70]
+    region:   uleguerand_range_se_4
+
+  16797804:
+    template: Brontotaur
+    level:    [68, 71]
+    region:   uleguerand_range_se_4
+
+  16797805:
+    template: Brontotaur
+    level:    [68, 71]
+    region:   uleguerand_range_se_4
+
+  16797806:
+    template: Morozko
+    level:    [67, 70]
+    region:   uleguerand_range_e_4
+
+  16797807:
+    template: Morozko
+    level:    [67, 70]
+    region:   uleguerand_range_e_4
+
+  16797808:
+    template: Morozko
+    at:       [430.517, -17.824, -126.780, 44]
+    level:    [67, 70]
+
+  16797809:
+    template: Snow_Maiden
+    at:       [439.147, -20.270, -88.217, 80]
+    level:    [71, 72]
+
+  16797810:
+    template: Father_Frost
+    level:    [74, 75]
+    region:   uleguerand_range_e_4
+
+  16797811:
+    template: Ice_Elemental
+    level:    [71, 72]
+    region:   uleguerand_range_e_4
+
+  16797812:
+    template: Phasma
+    at:       [380.650, 2.249, -190.384, 96]
+    level:    [67, 72]
+
+  16797813:
+    template: Succubus_Bats
+    level:    [65, 68]
+    region:   uleguerand_range_se_8
+
+  16797814:
+    template: Succubus_Bats
+    level:    [65, 68]
+    region:   uleguerand_range_se_8
+
+  16797815:
+    template: Succubus_Bats
+    level:    [65, 68]
+    region:   uleguerand_range_se_8
+
+  16797816:
+    template: Succubus_Bats
+    level:    [65, 68]
+    region:   uleguerand_range_se_7
+
+  16797817:
+    template: Doom_Soldier
+    level:    [66, 70]
+    region:   uleguerand_range_se_7
+
+  16797818:
+    template: Doom_Soldier
+    level:    [66, 70]
+    region:   uleguerand_range_e_2
+
+  16797819:
+    template: Succubus_Bats
+    level:    [65, 68]
+    region:   uleguerand_range_e_2
+
+  16797820:
+    template: Morozko
+    at:       [357.164, 26.522, -99.772, 227]
+    level:    [67, 70]
+
+  16797821:
+    template: Doom_Soldier
+    level:    [66, 70]
+    region:   uleguerand_range_e_6
+
+  16797822:
+    template: Succubus_Bats
+    level:    [65, 68]
+    region:   uleguerand_range_e_6
+
+  16797823:
+    template: Morozko
+    level:    [67, 70]
+    region:   uleguerand_range_e_6
+
+  16797824:
+    template: Fachan
+    level:    [73, 75]
+    region:   uleguerand_range_e_3
+
+  16797825:
+    template: Fachan
+    level:    [73, 75]
+    region:   uleguerand_range_e_3
+
+  16797826:
+    template: Fachan
+    level:    [73, 75]
+    region:   uleguerand_range_e_3
+
+  16797827:
+    template: Fachan
+    level:    [73, 75]
+    region:   uleguerand_range_e_3
+
+  16797828:
+    template: Fachan
+    level:    [73, 75]
+    region:   uleguerand_range_e_3
+
+  16797829:
+    template: Fachan
+    level:    [73, 75]
+    region:   uleguerand_range_e_3
+
+  16797830:
+    template: Fachan
+    level:    [73, 75]
+    region:   uleguerand_range_e_3
+
+  16797831:
+    template: Dread_Demon
+    at:       [567.955, -36.236, 111.209, 142]
+    level:    [75, 77]
+
+  16797832:
+    template: Judicator_Demon
+    level:    [75, 77]
+    region:   uleguerand_range_e_13
+
+  16797833:
+    template: Tyrannotaur
+    level:    [72, 75]
+    region:   uleguerand_range_e_13
+
+  16797834:
+    template: Tyrannotaur
+    level:    [72, 75]
+    region:   uleguerand_range_e_13
+
+  16797835:
+    template: Gore_Demon
+    level:    [75, 77]
+    region:   uleguerand_range_e_7
+
+  16797836:
+    template: Dread_Demon
+    at:       [523.391, -52.500, 161.432, 132]
+    level:    [75, 77]
+
+  16797837:
+    template: Tyrannotaur
+    level:    [72, 75]
+    region:   uleguerand_range_e_7
+
+  16797838:
+    template: Tyrannotaur
+    level:    [72, 75]
+    region:   uleguerand_range_e_7
+
+  16797839:
+    template: Judicator_Demon
+    at:       [442.217, -59.210, 189.928, 145]
+    level:    [75, 77]
+
+  16797840:
+    template: Stygian_Demon
+    level:    [75, 77]
+    region:   uleguerand_range_e_3
+
+  16797841:
+    template: Demons_Elemental
+    level:    [72, 74]
+    region:   uleguerand_range_e_3
+
+  16797842:
+    template: Tyrannotaur
+    at:       [379.204, -53.733, 164.924, 41]
+    level:    [72, 75]
+
+  16797843:
+    template: Tyrannotaur
+    at:       [408.658, -68.240, 242.247, 14]
+    level:    [72, 75]
+
+  16797844:
+    template: Gore_Demon
+    at:       [454.953, -75.016, 292.500, 211]
+    level:    [75, 77]
+
+  16797845:
+    template: Stygian_Demon
+    at:       [484.014, -61.289, 238.396, 98]
+    level:    [75, 77]
+
+  16797846:
+    template: Demons_Elemental
+    at:       [486.516, -61.529, 236.924, 130]
+    level:    [66, 66]
+
+  16797847:
+    template: Tyrannotaur
+    at:       [474.233, -76.942, 285.134, 249]
+    level:    [72, 75]
+
+  16797848:
+    template: Tyrannotaur
+    level:    [72, 75]
+    region:   uleguerand_range_ne_10
+
+  16797849:
+    template: Akselloak
+    level:    [71, 74]
+    region:   uleguerand_range_e_15
+
+  16797850:
+    template: Ice_Elemental
+    level:    [76, 77]
+    region:   uleguerand_range_e_9
+
+  16797851:
+    template: Akselloak
+    level:    [71, 74]
+    region:   uleguerand_range_e_12
+
+  16797852:
+    template: Akselloak
+    level:    [71, 74]
+    region:   uleguerand_range_e_5
+
+  16797853:
+    template: Akselloak
+    level:    [71, 74]
+    region:   uleguerand_range_ne_8
+
+  16797854:
+    template: Ice_Elemental
+    level:    [76, 77]
+    region:   uleguerand_range_ne_12
+
+  16797855:
+    template: Srei_Ap
+    at:       [548.709, -37.984, 97.508, 52]
+    level:    [71, 76]
+
+  16797856:
+    template: Srei_Ap
+    at:       [455.251, -63.840, 221.782, 185]
+    level:    [71, 76]
+
+  16797857:
+    template: Srei_Ap
+    at:       [500.382, -79.332, 307.710, 217]
+    level:    [71, 76]
+
+  16797858:
+    template: Nightmare_Bats
+    level:    [69, 72]
+    region:   uleguerand_range_e_14
+
+  16797859:
+    template: Doom_Mage
+    level:    [74, 76]
+    region:   uleguerand_range_e_14
+
+  16797860:
+    template: Doom_Mage
+    level:    [74, 76]
+    region:   uleguerand_range_e_10
+
+  16797861:
+    template: Doom_Mage
+    level:    [74, 76]
+    region:   uleguerand_range_e_10
+
+  16797862:
+    template: Doom_Mage
+    level:    [74, 76]
+    region:   uleguerand_range_e_11
+
+  16797863:
+    template: Doom_Mage
+    level:    [74, 76]
+    region:   uleguerand_range_e_11
+
+  16797864:
+    template: Nightmare_Bats
+    level:    [69, 72]
+    region:   uleguerand_range_e_8
+
+  16797865:
+    template: Doom_Mage
+    level:    [74, 76]
+    region:   uleguerand_range_e_8
+
+  16797866:
+    template: Nightmare_Bats
+    level:    [69, 72]
+    region:   uleguerand_range_ne_11
+
+  16797867:
+    template: Doom_Mage
+    level:    [74, 76]
+    region:   uleguerand_range_ne_11
+
+  16797868:
+    template: Nightmare_Bats
+    level:    [69, 72]
+    region:   uleguerand_range_ne_9
+
+  16797869:
+    template: Nightmare_Bats
+    level:    [69, 72]
+    region:   uleguerand_range_ne_7
+
+  16797870:
+    template: Nightmare_Bats
+    level:    [69, 72]
+    region:   uleguerand_range_ne_6
+
+  16797871:
+    template: Smolenkos
+    level:    [80, 82]
+    region:   uleguerand_range_ne
+
+  16797872:
+    template: Smolenkos
+    level:    [80, 82]
+    region:   uleguerand_range_ne
+
+  16797873:
+    template: Kindred_Warrior
+    level:    [81, 84]
+    region:   uleguerand_range_ne
+
+  16797874:
+    template: Kindred_Black_Mage
+    level:    [81, 84]
+    region:   uleguerand_range_ne
+
+  16797875:
+    template: Kindred_Dark_Knight
+    level:    [81, 84]
+    region:   uleguerand_range_ne
+
+  16797876:
+    template: Kindred_Summoner
+    level:    [81, 84]
+    region:   uleguerand_range_ne
+
+  16797877:
+    template: Demons_Elemental
+    level:    [72, 74]
+    region:   uleguerand_range_ne
+
+  16797878:
+    template: Molech
+    level:    [79, 82]
+    region:   uleguerand_range_ne
+
+  16797879:
+    template: Smolenkos
+    level:    [80, 82]
+    region:   uleguerand_range_n_10
+
+  16797880:
+    template: Kindred_Warrior
+    level:    [81, 84]
+    region:   uleguerand_range_n_10
+
+  16797881:
+    template: Kindred_Black_Mage
+    level:    [81, 84]
+    region:   uleguerand_range_n_10
+
+  16797882:
+    template: Kindred_Dark_Knight
+    level:    [81, 84]
+    region:   uleguerand_range_n_10
+
+  16797883:
+    template: Kindred_Summoner
+    level:    [81, 84]
+    region:   uleguerand_range_n_10
+
+  16797884:
+    template: Demons_Elemental
+    level:    [72, 74]
+    region:   uleguerand_range_n_10
+
+  16797885:
+    template: Molech
+    level:    [79, 82]
+    region:   uleguerand_range_n_10
+
+  16797886:
+    template: Molech
+    level:    [79, 82]
+    region:   uleguerand_range_n_10
+
+  16797887:
+    template: Smolenkos
+    level:    [80, 82]
+    region:   uleguerand_range_n_8
+
+  16797888:
+    template: Kindred_Warrior
+    level:    [81, 84]
+    region:   uleguerand_range_n_8
+
+  16797889:
+    template: Kindred_Black_Mage
+    level:    [81, 84]
+    region:   uleguerand_range_n_8
+
+  16797890:
+    template: Kindred_Dark_Knight
+    level:    [81, 84]
+    region:   uleguerand_range_n_5
+
+  16797891:
+    template: Kindred_Summoner
+    level:    [81, 84]
+    region:   uleguerand_range_n_5
+
+  16797892:
+    template: Demons_Elemental
+    level:    [72, 74]
+    region:   uleguerand_range_n_5
+
+  16797893:
+    template: Molech
+    level:    [79, 82]
+    region:   uleguerand_range_n_5
+
+  16797894:
+    template: Agloolik
+    level:    [77, 80]
+    region:   uleguerand_range_n_14
+
+  16797895:
+    template: Ice_Elemental
+    level:    [82, 84]
+    region:   uleguerand_range_n_14
+
+  16797896:
+    template: Agloolik
+    level:    [77, 80]
+    region:   uleguerand_range_n_6
+
+  16797897:
+    template: Ice_Elemental
+    level:    [82, 84]
+    region:   uleguerand_range_n_6
+
+  16797898:
+    template: Nightmare_Bats
+    level:    [69, 72]
+    region:   uleguerand_range_ne_5
+
+  16797899:
+    template: Doom_Mage
+    level:    [74, 76]
+    region:   uleguerand_range_ne_4
+
+  16797900:
+    template: Nightmare_Bats
+    level:    [69, 72]
+    region:   uleguerand_range_ne_4
+
+  16797901:
+    template: Doom_Mage
+    level:    [74, 76]
+    region:   uleguerand_range_ne_3
+
+  16797902:
+    template: Doom_Mage
+    level:    [74, 76]
+    region:   uleguerand_range_n_13
+
+  16797903:
+    template: Nightmare_Bats
+    level:    [69, 72]
+    region:   uleguerand_range_n_13
+
+  16797904:
+    template: Doom_Mage
+    level:    [74, 76]
+    region:   uleguerand_range_ne_2
+
+  16797905:
+    template: Nightmare_Bats
+    level:    [69, 72]
+    region:   uleguerand_range_n_12
+
+  16797906:
+    template: Doom_Mage
+    level:    [74, 76]
+    region:   uleguerand_range_n_12
+
+  16797907:
+    template: Doom_Mage
+    level:    [74, 76]
+    region:   uleguerand_range_n_11
+
+  16797908:
+    template: Doom_Mage
+    level:    [74, 76]
+    region:   uleguerand_range_n_11
+
+  16797909:
+    template: Doom_Mage
+    level:    [74, 76]
+    region:   uleguerand_range_n_9
+
+  16797910:
+    template: Doom_Mage
+    level:    [74, 76]
+    region:   uleguerand_range_n_7
+
+  16797911:
+    template: Doom_Mage
+    level:    [74, 76]
+    region:   uleguerand_range_n_7
+
+  16797912:
+    template: Smolenkos
+    level:    [80, 82]
+    region:   uleguerand_range_nw
+
+  16797913:
+    template: Smolenkos
+    level:    [80, 82]
+    region:   uleguerand_range_nw
+
+  16797914:
+    template: Kindred_Warrior
+    level:    [81, 84]
+    region:   uleguerand_range_nw
+
+  16797915:
+    template: Kindred_Black_Mage
+    level:    [81, 84]
+    region:   uleguerand_range_nw
+
+  16797916:
+    template: Kindred_Dark_Knight
+    level:    [81, 84]
+    region:   uleguerand_range_nw
+
+  16797917:
+    template: Kindred_Summoner
+    level:    [81, 84]
+    region:   uleguerand_range_nw
+
+  16797918:
+    template: Demons_Elemental
+    level:    [72, 74]
+    region:   uleguerand_range_nw
+
+  16797919:
+    template: Molech
+    level:    [79, 82]
+    region:   uleguerand_range_nw
+
+  16797920:
+    template: Ice_Elemental
+    at:       [-361.796, -156.708, 352.810, 35]
+    level:    [82, 84]
+
+  16797921:
+    template: Smolenkos
+    at:       [-274.479, -155.756, 262.187, 187]
+    level:    [80, 82]
+
+  16797922:
+    template: Kindred_Warrior
+    at:       [-279.497, -155.705, 257.889, 126]
+    level:    [81, 84]
+
+  16797923:
+    template: Kindred_Black_Mage
+    at:       [-314.958, -156.455, 326.964, 211]
+    level:    [81, 84]
+
+  16797924:
+    template: Kindred_Dark_Knight
+    at:       [-245.346, -159.834, 259.293, 126]
+    level:    [81, 84]
+
+  16797925:
+    template: Kindred_Summoner
+    at:       [-321.340, -156.555, 318.210, 147]
+    level:    [81, 84]
+
+  16797926:
+    template: Demons_Elemental
+    at:       [-319.014, -156.543, 316.705, 149]
+    level:    [72, 74]
+
+  16797927:
+    template: Molech
+    at:       [-325.891, -156.327, 308.462, 79]
+    level:    [79, 82]
+
+  16797928:
+    template: Agloolik
+    at:       [-274.852, -156.556, 242.671, 34]
+    level:    [77, 80]
+
+  16797929:
+    template: Scowlenkos
+    level:    [86, 87]
+    region:   uleguerand_range_nw_4
+
+  16797930:
+    template: Scowlenkos
+    level:    [86, 87]
+    region:   uleguerand_range_nw_4
+
+  16797931:
+    template: Scowlenkos
+    level:    [86, 87]
+    region:   uleguerand_range_nw_4
+
+  16797932:
+    template: Scowlenkos
+    level:    [86, 87]
+    region:   uleguerand_range_nw_4
+
+  16797933:
+    template: Scowlenkos
+    level:    [86, 87]
+    region:   uleguerand_range_n_4
+
+  16797934:
+    template: Scowlenkos
+    level:    [86, 87]
+    region:   uleguerand_range_n_4
+
+  16797935:
+    template: Scowlenkos
+    level:    [86, 87]
+    region:   uleguerand_range_n_4
+
+  16797936:
+    template: Scowlenkos
+    level:    [86, 87]
+    region:   uleguerand_range_n
+
+  16797937:
+    template: Scowlenkos
+    level:    [86, 87]
+    region:   uleguerand_range_n
+
+  16797938:
+    template: Scowlenkos
+    level:    [86, 87]
+    region:   uleguerand_range_n
+
+  16797939:
+    template: Scowlenkos
+    level:    [86, 87]
+    region:   uleguerand_range_n
+
+  16797940:
+    template: Scowlenkos
+    level:    [86, 87]
+    region:   uleguerand_range_n
+
+  16797941:
+    template: Scowlenkos
+    level:    [86, 87]
+    region:   uleguerand_range_n
+
+  16797942:
+    template: Scowlenkos
+    level:    [86, 87]
+    region:   uleguerand_range_nw_3
+
+  16797943:
+    template: Scowlenkos
+    level:    [86, 87]
+    region:   uleguerand_range_nw_3
+
+  16797944:
+    template: Scowlenkos
+    level:    [86, 87]
+    region:   uleguerand_range_nw_3
+
+  16797945:
+    template: Scowlenkos
+    level:    [86, 87]
+    region:   uleguerand_range_nw_3
+
+  16797946:
+    template: Scowlenkos
+    level:    [86, 87]
+    region:   uleguerand_range_nw_5
+
+  16797947:
+    template: Scowlenkos
+    level:    [86, 87]
+    region:   uleguerand_range_nw_5
+
+  16797948:
+    template: Scowlenkos
+    level:    [86, 87]
+    region:   uleguerand_range_n_2
+
+  16797949:
+    template: Scowlenkos
+    level:    [86, 87]
+    region:   uleguerand_range_n_2
+
+  16797950:
+    template: Scowlenkos
+    level:    [86, 87]
+    region:   uleguerand_range_n_2
+
+  16797951:
+    template: Scowlenkos
+    level:    [86, 87]
+    region:   uleguerand_range_n_2
+
+  16797952:
+    template: Scowlenkos
+    level:    [86, 87]
+    region:   uleguerand_range_n_3
+
+  16797953:
+    template: Scowlenkos
+    level:    [86, 87]
+    region:   uleguerand_range_n_3
+
+  16797954:
+    template: Scowlenkos
+    level:    [86, 87]
+    region:   uleguerand_range_n_3
+
+  16797955:
+    template: Scowlenkos
+    level:    [86, 87]
+    region:   uleguerand_range_n_3
+
+  16797956:
+    template: Kindred_Warrior
+    at:       [-233.757, -183.792, 460.413, 153]
+    level:    [81, 84]
+
+  16797957:
+    template: Kindred_Black_Mage
+    level:    [81, 84]
+    region:   uleguerand_range_nw_2
+
+  16797958:
+    template: Kindred_Dark_Knight
+    at:       [-325.888, -176.594, 438.288, 249]
+    level:    [81, 84]
+
+  16797959:
+    template: Kindred_Summoner
+    level:    [81, 84]
+    region:   uleguerand_range_nw_2
+
+  16797960:
+    template: Demons_Elemental
+    level:    [72, 74]
+    region:   uleguerand_range_nw_2
+
+  16797961:
+    template: Kindred_Warrior
+    level:    [81, 84]
+    region:   uleguerand_range_nw_2
+
+  16797962:
+    template: Kindred_Black_Mage
+    level:    [81, 84]
+    region:   uleguerand_range_nw_2
+
+  16797963:
+    template: Kindred_Dark_Knight
+    level:    [81, 84]
+    region:   uleguerand_range_nw_2
+
+  16797964:
+    template: Kindred_Summoner
+    level:    [81, 84]
+    region:   uleguerand_range_nw_2
+
+  16797965:
+    template: Demons_Elemental
+    level:    [72, 74]
+    region:   uleguerand_range_nw_2
+
+  16797966:
+    template: Molech
+    level:    [79, 82]
+    region:   uleguerand_range_nw_2
+
+  16797967:
+    template: Molech
+    level:    [79, 82]
+    region:   uleguerand_range_nw_2
+
+  16797968:
+    template: Magnotaur
+    at:       [-265.120, -183.817, 435.911, 229]
+    level:    [83, 83]
+
+  16797969:
+    template: Jormungand
+    at:       [-203.667, -176.028, 132.710, 76]
+    level:    [95, 95]
+
+  16797970:
+    template: Agloolik
+    level:    [77, 80]
+    region:   uleguerand_range_w_23
+
+  16797971:
+    template: Agloolik
+    level:    [77, 80]
+    region:   uleguerand_range_w_23
+
+  16797972:
+    template: Agloolik
+    level:    [77, 80]
+    region:   uleguerand_range_w_23
+
+  16797973:
+    template: Agloolik
+    level:    [77, 80]
+    region:   uleguerand_range_w_23
+
+  16797974:
+    template: Agloolik
+    level:    [77, 80]
+    region:   uleguerand_range_w_23
+
+  16797975:
+    template: Ice_Elemental
+    level:    [82, 84]
+    region:   uleguerand_range_w_23
+
+  16797976:
+    template: Ice_Elemental
+    level:    [82, 84]
+    region:   uleguerand_range_w_23
+
+  16797977:
+    template: Ice_Elemental
+    level:    [82, 84]
+    region:   uleguerand_range_w_23
+
+  16797978:
+    template: King_Buffalo
+    level:    [79, 82]
+    region:   uleguerand_range_c_4
+
+  16797979:
+    template: King_Buffalo
+    level:    [79, 82]
+    region:   uleguerand_range_c_4
+
+  16797980:
+    template: King_Buffalo
+    level:    [79, 82]
+    region:   uleguerand_range_c_4
+
+  16797981:
+    template: King_Buffalo
+    level:    [79, 82]
+    region:   uleguerand_range_c_4
+
+  16797982:
+    template: Ice_Elemental
+    level:    [82, 84]
+    region:   uleguerand_range_c_5
+
+  16797983:
+    template: Agloolik
+    level:    [77, 80]
+    region:   uleguerand_range_c_5
+
+  16797984:
+    template: Agloolik
+    level:    [77, 80]
+    region:   uleguerand_range_c_5
+
+  16797985:
+    template: Agloolik
+    level:    [77, 80]
+    region:   uleguerand_range_c_5
+
+  16797986:
+    template: Agloolik
+    level:    [77, 80]
+    region:   uleguerand_range_c_5
+
+  16797987:
+    template: Agloolik
+    level:    [77, 80]
+    region:   uleguerand_range_c_6
+
+  16797988:
+    template: Agloolik
+    level:    [77, 80]
+    region:   uleguerand_range_c_7
+
+  16797989:
+    template: Agloolik
+    at:       [133.934, -193.178, 23.381, 131]
+    level:    [77, 80]
+
+  16797990:
+    template: Agloolik
+    level:    [77, 80]
+    region:   uleguerand_range_w_17
+
+  16797991:
+    template: King_Buffalo
+    level:    [79, 82]
+    region:   uleguerand_range_w_17
+
+  16797992:
+    template: Ice_Elemental
+    level:    [82, 84]
+    region:   uleguerand_range_w_17
+
+  16797993:
+    template: Agloolik
+    level:    [77, 80]
+    region:   uleguerand_range_w_19
+
+  16797994:
+    template: King_Buffalo
+    level:    [79, 82]
+    region:   uleguerand_range_w_19
+
+  16797995:
+    template: Ice_Elemental
+    at:       [-231.856, -176.756, -103.258, 218]
+    level:    [82, 84]
+
+  16797996:
+    template: Agloolik
+    at:       [-326.000, -175.916, -25.200, 103]
+    level:    [77, 80]
+
+  16797997:
+    template: Agloolik
+    at:       [-247.405, -176.119, -129.669, 171]
+    level:    [77, 80]
+
+  16797998:
+    template: Nightmare_Bats
+    level:    [69, 72]
+    region:   uleguerand_range_w_16
+
+  16797999:
+    template: Mountain_Worm
+    level:    [66, 70]
+    region:   uleguerand_range_w_16
+
+  16798000:
+    template: Nightmare_Bats
+    level:    [69, 72]
+    region:   uleguerand_range_w_20
+
+  16798001:
+    template: Mountain_Worm
+    level:    [66, 70]
+    region:   uleguerand_range_w_20
+
+  16798002:
+    template: Mindgazer
+    at:       [-222.247, -81.601, -38.848, 58]
+    level:    [69, 72]
+
+  16798003:
+    template: Mountain_Worm
+    level:    [66, 70]
+    region:   uleguerand_range_w_21
+
+  16798004:
+    template: Mountain_Worm
+    level:    [66, 70]
+    region:   uleguerand_range_w_21
+
+  16798005:
+    template: Mountain_Worm
+    at:       [-301.152, -66.000, -0.166, 53]
+    level:    [66, 70]
+
+  16798006:
+    template: Mountain_Worm
+    level:    [66, 70]
+    region:   uleguerand_range_c_3
+
+  16798007:
+    template: Mountain_Worm
+    level:    [66, 70]
+    region:   uleguerand_range_c_3
+
+  16798008:
+    template: Mindgazer
+    level:    [69, 72]
+    region:   uleguerand_range_c_2
+
+  16798009:
+    template: Mountain_Worm
+    level:    [66, 70]
+    region:   uleguerand_range_c_2
+
+  16798010:
+    template: Mindgazer
+    level:    [69, 72]
+    region:   uleguerand_range_w_24
+
+  16798011:
+    template: Mountain_Worm
+    level:    [66, 70]
+    region:   uleguerand_range_w_24
+
+  16798012:
+    template: Nightmare_Bats
+    level:    [69, 72]
+    region:   uleguerand_range_c
+
+  16798013:
+    template: Mindgazer
+    at:       [-217.945, -82.106, -58.461, 173]
+    level:    [69, 72]
+
+  16798014:
+    template: Nightmare_Bats
+    level:    [69, 72]
+    region:   uleguerand_range_w_13
+
+  16798015:
+    template: Nightmare_Bats
+    level:    [69, 72]
+    region:   uleguerand_range_w_13
+
+  16798016:
+    template: Mountain_Worm
+    at:       [-349.191, -38.122, -61.419, 0]
+    level:    [66, 70]
+
+  16798017:
+    template: Mindgazer
+    at:       [-339.614, -37.803, -62.799, 50]
+    level:    [69, 72]
+
+  16798018:
+    template: Mountain_Worm
+    level:    [66, 70]
+    region:   uleguerand_range_w_14
+
+  16798019:
+    template: Mindgazer
+    level:    [69, 72]
+    region:   uleguerand_range_w_18
+
+  16798020:
+    template: Mountain_Worm
+    at:       [-290.790, -39.171, -21.472, 246]
+    level:    [66, 70]
+
+  16798021:
+    template: Mindgazer
+    at:       [-261.113, -43.822, -31.690, 196]
+    level:    [69, 72]
+
+  16798022:
+    template: Mountain_Worm
+    at:       [-298.121, -53.837, -78.432, 193]
+    level:    [66, 70]
+
+  16798023:
+    template: Mountain_Worm
+    at:       [-298.580, -54.156, -56.231, 144]
+    level:    [66, 70]
+
+  16798024:
+    template: Mindgazer
+    at:       [-259.620, -40.566, -108.202, 192]
+    level:    [69, 72]
+
+  16798025:
+    template: Mountain_Worm
+    at:       [-259.410, -39.323, -114.367, 189]
+    level:    [66, 70]
+
+  16798026:
+    template: Mindgazer
+    at:       [-256.778, -38.169, -138.047, 19]
+    level:    [69, 72]
+
+  16798027:
+    template: Nightmare_Bats
+    at:       [-249.367, -38.190, -138.732, 125]
+    level:    [69, 72]
+
+  16798028:
+    template: Nightmare_Bats
+    level:    [69, 72]
+    region:   uleguerand_range_w_22
+
+  16798029:
+    template: Mountain_Worm
+    level:    [66, 70]
+    region:   uleguerand_range_w_22
+
+  16798030:
+    template: Mountain_Worm
+    at:       [-202.226, -30.116, -179.173, 0]
+    level:    [66, 70]
+
+  16798031:
+    template: Mountain_Worm_NM
+    at:       [-269.816, -79.023, 18.257, 3]
+    level:    [72, 74]
+
+  16798032:
+    template: Mindgazer
+    level:    [69, 72]
+    region:   uleguerand_range_w_12
+
+  16798033:
+    template: Mindgazer
+    level:    [69, 72]
+    region:   uleguerand_range_w_15
+
+  16798034:
+    template: Mindgazer
+    level:    [69, 72]
+    region:   uleguerand_range_w_15
+
+  16798035:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_w_7
+
+  16798036:
+    template: Uleguerand_Tiger
+    level:    [61, 63]
+    region:   uleguerand_range_w_7
+
+  16798037:
+    template: Uleguerand_Tiger
+    level:    [61, 63]
+    region:   uleguerand_range_w_7
+
+  16798038:
+    template: Cwn_Annwn
+    level:    [59, 64]
+    region:   uleguerand_range_w_7
+
+  16798039:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_w_3
+
+  16798040:
+    template: Uleguerand_Tiger
+    level:    [61, 63]
+    region:   uleguerand_range_w_3
+
+  16798041:
+    template: Uleguerand_Tiger
+    level:    [61, 63]
+    region:   uleguerand_range_w_3
+
+  16798042:
+    template: Uleguerand_Tiger
+    level:    [61, 63]
+    region:   uleguerand_range_w_3
+
+  16798043:
+    template: Cwn_Annwn
+    level:    [59, 64]
+    region:   uleguerand_range_w_3
+
+  16798044:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_w_10
+
+  16798045:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_w_10
+
+  16798046:
+    template: Ice_Elemental
+    level:    [66, 68]
+    region:   uleguerand_range_w_10
+
+  16798047:
+    template: Snoll
+    level:    [60, 63]
+    region:   uleguerand_range_w_4
+
+  16798048:
+    template: Snoll
+    level:    [60, 63]
+    region:   uleguerand_range_w_9
+
+  16798049:
+    template: Snoll
+    at:       [-479.198, -20.019, -48.723, 17]
+    level:    [60, 63]
+
+  16798050:
+    template: Buffalo
+    level:    [62, 65]
+    region:   uleguerand_range_w
+
+  16798051:
+    template: Buffalo
+    level:    [62, 65]
+    region:   uleguerand_range_w
+
+  16798052:
+    template: Buffalo
+    level:    [62, 65]
+    region:   uleguerand_range_w
+
+  16798053:
+    template: Buffalo
+    level:    [62, 65]
+    region:   uleguerand_range_w
+
+  16798054:
+    template: Buffalo
+    level:    [62, 65]
+    region:   uleguerand_range_w
+
+  16798055:
+    template: Buffalo
+    level:    [62, 65]
+    region:   uleguerand_range_w_2
+
+  16798056:
+    template: Bonnacon
+    level:    [69, 69]
+    region:   uleguerand_range_w
+
+  16798057:
+    template: Cwn_Annwn
+    level:    [59, 64]
+    region:   uleguerand_range_w
+
+  16798058:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_w
+
+  16798059:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_w
+
+  16798060:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_w
+
+  16798061:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_w
+
+  16798062:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_w
+
+  16798063:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_w
+
+  16798064:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_w
+
+  16798065:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_w
+
+  16798066:
+    template: Ice_Elemental
+    level:    [66, 68]
+    region:   uleguerand_range_w_8
+
+  16798067:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_w_5
+
+  16798068:
+    template: Variable_Hare
+    level:    [58, 61]
+    region:   uleguerand_range_w_5
+
+  16798069:
+    template: Snoll
+    level:    [60, 63]
+    region:   uleguerand_range_w_6
+
+  16798070:
+    template: Snoll
+    at:       [-645.937, -40.211, -24.477, 19]
+    level:    [60, 63]
+
+  16798071:
+    template: Esbat
+    level:    [59, 61]
+    region:   uleguerand_range_w_11
+
+  16798072:
+    template: Glacier_Eater
+    level:    [58, 62]
+    region:   uleguerand_range_w_11
+
+  16798073:
+    template: Esbat
+    at:       [-340.522, -33.567, -159.456, 57]
+    level:    [59, 61]
+
+  16798074:
+    template: Glacier_Eater
+    at:       [-341.360, -32.058, -152.234, 52]
+    level:    [58, 62]
+
+  16798075:
+    template: Esbat
+    at:       [-333.208, -20.924, -219.631, 136]
+    level:    [59, 61]
+
+  16798076:
+    template: Glacier_Eater
+    at:       [-325.973, -19.225, -220.794, 5]
+    level:    [58, 62]
+
+  16798077:
+    template: Glacier_Eater
+    at:       [-378.062, -26.300, -155.582, 190]
+    level:    [58, 62]
+
+  16798078:
+    template: Geush_Urvan
+    at:       [563.638, -35.719, 110.362, 0]
+    level:    [85, 85]
+
+  16798079:
+    template: White_Coney
+    at:       [404.040, -0.588, -445.810, 72]
+    level:    [70, 72]
+
+  16798080:
+    template: Black_Coney
+    at:       [413.462, -0.353, -409.845, 0]
+    level:    [70, 72]
+
+  16798081:
+    template: Isarukitsck
+    at:       [-142.792, -19.796, -325.565, 130]
+    level:    [0, 0]
+
+  16798082:
+    template: Little_Wingman
+    at:       [-143.265, -19.962, -327.323, 216]
+    level:    [0, 0]
+
+  16798083:
+    template: Little_Wingman
+    at:       [-142.296, -19.614, -323.947, 39]
+    level:    [0, 0]
+
+  16798084:
+    template: Little_Wingman
+    at:       [-142.395, -19.936, -327.170, 205]
+    level:    [0, 0]
+
+  16798085:
+    template: Isarukitsck
+    at:       [-219.717, -41.449, -503.476, 122]
+    level:    [0, 0]
+
+  16798086:
+    template: Little_Wingman
+    at:       [-220.300, -41.382, -505.308, 150]
+    level:    [0, 0]
+
+  16798087:
+    template: Little_Wingman
+    at:       [-219.305, -41.355, -502.292, 110]
+    level:    [0, 0]
+
+  16798088:
+    template: Little_Wingman
+    at:       [-219.790, -41.361, -501.490, 100]
+    level:    [0, 0]
+
+  16798089:
+    template: Isarukitsck
+    at:       [299.031, 0.391, -355.400, 25]
+    level:    [0, 0]
+
+  16798090:
+    template: Little_Wingman
+    at:       [298.121, 0.406, -356.362, 249]
+    level:    [0, 0]
+
+  16798091:
+    template: Little_Wingman
+    at:       [298.643, 0.432, -357.384, 249]
+    level:    [0, 0]
+
+  16798092:
+    template: Little_Wingman
+    at:       [299.000, 0.444, -356.628, 13]
+    level:    [0, 0]
+
+  16798093:
+    template: Camahueto
+    at:       [-241.089, -19.631, -302.630, 216]
+    level:    [0, 0]
+
+  16798094:
+    template: Camahueto
+    at:       [-604.659, -48.556, -124.239, 61]
+    level:    [0, 0]
+
+  16798095:
+    template: Camahueto
+    at:       [-637.246, -39.751, -15.480, 22]
+    level:    [0, 0]

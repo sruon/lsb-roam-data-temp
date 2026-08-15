@@ -1,0 +1,1728 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17612801:
+    template: Undead_Bats
+    level:    [38, 40]
+    region:   feiyin_sw_2
+
+  17612802:
+    template: Undead_Bats
+    level:    [38, 40]
+    region:   feiyin_sw_2
+
+  17612803:
+    template: Undead_Bats
+    level:    [38, 40]
+    region:   feiyin_sw_2
+
+  17612804:
+    template: Undead_Bats
+    level:    [38, 40]
+    region:   feiyin_sw_4
+
+  17612805:
+    template: Undead_Bats
+    level:    [38, 40]
+    region:   feiyin_sw_4
+
+  17612806:
+    template: Revenant
+    level:    [40, 42]
+    region:   feiyin_s
+
+  17612807:
+    template: Revenant
+    level:    [40, 42]
+    region:   feiyin_s
+
+  17612808:
+    template: Drone
+    level:    [41, 43]
+    region:   feiyin_s
+
+  17612809:
+    template: Vampire_Bat
+    level:    [40, 42]
+    region:   feiyin_s
+
+  17612810:
+    template: Vampire_Bat
+    level:    [40, 42]
+    region:   feiyin_s
+
+  17612811:
+    template: Sluagh
+    level:    [77, 77]
+    region:   feiyin_s
+
+  17612812:
+    template: Revenant
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [40, 42]
+
+  17612813:
+    template: Revenant
+    level:    [40, 42]
+    region:   feiyin_sw_3
+
+  17612814:
+    template: Drone
+    level:    [41, 43]
+    region:   feiyin_sw_3
+
+  17612815:
+    template: Vampire_Bat
+    level:    [40, 42]
+    region:   feiyin_sw_3
+
+  17612816:
+    template: Vampire_Bat
+    level:    [40, 42]
+    region:   feiyin_sw_3
+
+  17612817:
+    template: Revenant
+    level:    [40, 42]
+    region:   feiyin_sw_5
+
+  17612818:
+    template: Revenant
+    level:    [40, 42]
+    region:   feiyin_sw_5
+
+  17612819:
+    template: Drone
+    level:    [41, 43]
+    region:   feiyin_sw_5
+
+  17612820:
+    template: Vampire_Bat
+    level:    [40, 42]
+    region:   feiyin_sw_5
+
+  17612821:
+    template: Vampire_Bat
+    level:    [40, 42]
+    region:   feiyin_sw_5
+
+  17612822:
+    template: Undead_Bats
+    level:    [38, 40]
+    region:   feiyin_sw
+
+  17612823:
+    template: Undead_Bats
+    level:    [38, 40]
+    region:   feiyin_sw
+
+  17612824:
+    template: Undead_Bats
+    level:    [38, 40]
+    region:   feiyin_sw
+
+  17612825:
+    template: Drone
+    at:       [-192.000, -16.110, -10.340, 62]
+    level:    [41, 43]
+
+  17612826:
+    template: Drone
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [41, 43]
+
+  17612827:
+    template: Undead_Bats
+    level:    [38, 40]
+    region:   feiyin_c_2
+
+  17612828:
+    template: Undead_Bats
+    level:    [38, 40]
+    region:   feiyin_c_2
+
+  17612829:
+    template: Drone
+    at:       [-109.000, -16.110, 11.384, 177]
+    level:    [41, 43]
+
+  17612830:
+    template: Drone
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [41, 43]
+
+  17612831:
+    template: Drone
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [41, 43]
+
+  17612832:
+    template: Drone
+    at:       [-88.090, -16.110, 33.298, 226]
+    level:    [41, 43]
+
+  17612833:
+    template: Revenant
+    level:    [40, 42]
+    region:   feiyin_c_8
+
+  17612834:
+    template: Vampire_Bat
+    level:    [40, 42]
+    region:   feiyin_c_8
+
+  17612835:
+    template: Vampire_Bat
+    level:    [40, 42]
+    region:   feiyin_c_8
+
+  17612836:
+    template: Altedour_I_Tavnazia
+    at:       [-52.500, -16.520, 38.000, 95]
+    level:    [65, 65]
+
+  17612837:
+    template: Revenant
+    level:    [40, 42]
+    region:   feiyin_c_8
+
+  17612838:
+    template: Vampire_Bat
+    level:    [40, 42]
+    region:   feiyin_c_8
+
+  17612839:
+    template: Vampire_Bat
+    level:    [40, 42]
+    region:   feiyin_c_8
+
+  17612840:
+    template: Jenglot
+    level:    [73, 73]
+    region:   feiyin_c_8
+
+  17612841:
+    template: Revenant
+    level:    [40, 42]
+    region:   feiyin_c_6
+
+  17612842:
+    template: Vampire_Bat
+    level:    [40, 42]
+    region:   feiyin_c_6
+
+  17612843:
+    template: Vampire_Bat
+    level:    [40, 42]
+    region:   feiyin_c_6
+
+  17612844:
+    template: Revenant
+    level:    [40, 42]
+    region:   feiyin_c_6
+
+  17612845:
+    template: Vampire_Bat
+    level:    [40, 42]
+    region:   feiyin_c_6
+
+  17612846:
+    template: Vampire_Bat
+    level:    [40, 42]
+    region:   feiyin_c_6
+
+  17612847:
+    template: Clockwork_Pod
+    level:    [41, 43]
+    region:   feiyin_c_9
+
+  17612848:
+    template: Clockwork_Pod
+    level:    [41, 43]
+    region:   feiyin_c_9
+
+  17612849:
+    template: Miser_Murphy
+    at:       [-2.782, -16.430, 48.308, 192]
+    level:    [62, 62]
+
+  17612850:
+    template: Ore_Golem
+    level:    [43, 45]
+    region:   feiyin_c_8
+
+  17612851:
+    template: Ore_Golem
+    level:    [43, 45]
+    region:   feiyin_c_6
+
+  17612852:
+    template: Undead_Bats
+    level:    [38, 40]
+    region:   feiyin_s_3
+
+  17612853:
+    template: Undead_Bats
+    level:    [38, 40]
+    region:   feiyin_s_3
+
+  17612854:
+    template: Drone
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [41, 43]
+
+  17612855:
+    template: Drone
+    at:       [-12.130, -16.110, -30.658, 186]
+    level:    [41, 43]
+
+  17612856:
+    template: Clockwork_Pod
+    level:    [41, 43]
+    region:   feiyin_s_6
+
+  17612857:
+    template: Clockwork_Pod
+    level:    [41, 43]
+    region:   feiyin_s_6
+
+  17612858:
+    template: Clockwork_Pod
+    level:    [41, 43]
+    region:   feiyin_s_6
+
+  17612859:
+    template: Mind_Hoarder
+    at:       [40.000, -15.500, -38.000, 60]
+    level:    [61, 62]
+
+  17612860:
+    template: Drone
+    at:       [-27.316, -16.113, -50.322, 83]
+    level:    [41, 43]
+
+  17612861:
+    template: Drone
+    at:       [-7.513, -16.110, -50.102, 61]
+    level:    [41, 43]
+
+  17612862:
+    template: Ore_Golem
+    at:       [200.600, -23.760, -47.527, 149]
+    level:    [43, 45]
+
+  17612863:
+    template: Ore_Golem
+    at:       [193.250, -23.990, -47.166, 122]
+    level:    [43, 45]
+
+  17612864:
+    template: Drone
+    level:    [41, 43]
+    region:   feiyin_e_6
+
+  17612865:
+    template: Drone
+    level:    [41, 43]
+    region:   feiyin_e_6
+
+  17612866:
+    template: Ore_Golem
+    level:    [43, 45]
+    region:   feiyin_e_5
+
+  17612867:
+    template: Ore_Golem
+    level:    [43, 45]
+    region:   feiyin_e_5
+
+  17612868:
+    template: Undead_Bats
+    level:    [38, 40]
+    region:   feiyin_s_2
+
+  17612869:
+    template: Undead_Bats
+    level:    [38, 40]
+    region:   feiyin_s_2
+
+  17612870:
+    template: Shadow
+    level:    [44, 46]
+    region:   feiyin_s_4
+
+  17612871:
+    template: Shadow
+    level:    [44, 46]
+    region:   feiyin_s_4
+
+  17612872:
+    template: Shadow
+    level:    [44, 46]
+    region:   feiyin_s_4
+
+  17612873:
+    template: Shadow
+    level:    [44, 46]
+    region:   feiyin_s_4
+
+  17612874:
+    template: Shadow
+    level:    [44, 46]
+    region:   feiyin_s_5
+
+  17612875:
+    template: Shadow
+    level:    [44, 46]
+    region:   feiyin_s_5
+
+  17612876:
+    template: Shadow
+    level:    [44, 46]
+    region:   feiyin_s_5
+
+  17612877:
+    template: Shadow
+    at:       [24.289, -16.113, -140.793, 131]
+    level:    [44, 46]
+
+  17612878:
+    template: Shadow
+    level:    [44, 46]
+    region:   feiyin_se
+
+  17612879:
+    template: Shadow
+    level:    [44, 46]
+    region:   feiyin_se
+
+  17612880:
+    template: Shadow
+    level:    [44, 46]
+    region:   feiyin_se
+
+  17612881:
+    template: Shadow
+    level:    [44, 46]
+    region:   feiyin_se
+
+  17612882:
+    template: Wekufe
+    at:       [156.910, -23.720, -86.917, 37]
+    level:    [97, 98]
+
+  17612883:
+    template: Wekufe
+    at:       [155.140, -23.670, -84.502, 164]
+    level:    [97, 99]
+
+  17612884:
+    template: Wekufe
+    at:       [156.720, -24.100, -68.772, 209]
+    level:    [98, 99]
+
+  17612885:
+    template: Wekufe
+    at:       [137.290, -24.620, -61.514, 107]
+    level:    [98, 99]
+
+  17612886:
+    template: Wekufe
+    at:       [126.460, -24.120, -31.284, 165]
+    level:    [97, 99]
+
+  17612887:
+    template: Wekufe
+    at:       [119.990, -23.920, -38.256, 214]
+    level:    [98, 98]
+
+  17612888:
+    template: Wekufe
+    at:       [119.340, -23.560, -41.310, 67]
+    level:    [98, 99]
+
+  17612889:
+    template: Wekufe
+    at:       [116.760, -23.730, -45.855, 220]
+    level:    [97, 99]
+
+  17612890:
+    template: Shadow
+    level:    [44, 46]
+    region:   feiyin_e
+
+  17612891:
+    template: Shadow
+    at:       [85.411, -24.080, 19.200, 122]
+    level:    [44, 46]
+
+  17612892:
+    template: Shadow
+    level:    [44, 46]
+    region:   feiyin_e
+
+  17612893:
+    template: Shadow
+    at:       [99.460, -24.110, -18.889, 167]
+    level:    [44, 46]
+
+  17612894:
+    template: Shadow
+    level:    [44, 46]
+    region:   feiyin_e
+
+  17612895:
+    template: Shadow
+    level:    [44, 46]
+    region:   feiyin_e
+
+  17612896:
+    template: Shadow
+    at:       [63.209, -16.100, 90.033, 177]
+    level:    [44, 46]
+
+  17612897:
+    template: Shadow
+    at:       [55.674, -16.100, 57.453, 120]
+    level:    [44, 46]
+
+  17612898:
+    template: Shadow
+    level:    [44, 46]
+    region:   feiyin_c_15
+
+  17612899:
+    template: Shadow
+    level:    [44, 46]
+    region:   feiyin_c_15
+
+  17612900:
+    template: Shadow
+    level:    [44, 46]
+    region:   feiyin_c_15
+
+  17612901:
+    template: Shadow
+    level:    [44, 46]
+    region:   feiyin_c_15
+
+  17612902:
+    template: Wekufe
+    at:       [155.010, -23.820, 6.555, 95]
+    level:    [97, 99]
+
+  17612903:
+    template: Wekufe
+    at:       [156.800, -23.830, 8.568, 65]
+    level:    [97, 99]
+
+  17612904:
+    template: Wekufe
+    at:       [164.650, -23.650, -2.242, 252]
+    level:    [97, 99]
+
+  17612905:
+    template: Wekufe
+    at:       [155.180, -23.980, -6.105, 246]
+    level:    [97, 97]
+
+  17612906:
+    template: Sentient_Carafe
+    level:    [98, 99]
+    region:   feiyin_e_3
+
+  17612907:
+    template: Sentient_Carafe
+    level:    [98, 99]
+    region:   feiyin_e_3
+
+  17612908:
+    template: Sentient_Carafe
+    level:    [98, 99]
+    region:   feiyin_e_2
+
+  17612909:
+    template: Sentient_Carafe
+    level:    [98, 99]
+    region:   feiyin_e_2
+
+  17612910:
+    template: Sentient_Carafe
+    at:       [130.240, -25.180, 55.396, 140]
+    level:    [98, 99]
+
+  17612911:
+    template: Sentient_Carafe
+    at:       [131.020, -25.160, 59.323, 55]
+    level:    [98, 99]
+
+  17612912:
+    template: Sentient_Carafe
+    level:    [98, 99]
+    region:   feiyin_e_4
+
+  17612913:
+    template: Sentient_Carafe
+    level:    [98, 99]
+    region:   feiyin_e_4
+
+  17612914:
+    template: Wekufe
+    at:       [221.060, -23.720, 24.148, 42]
+    level:    [97, 99]
+
+  17612915:
+    template: Wekufe
+    at:       [198.320, -24.110, 20.162, 95]
+    level:    [97, 99]
+
+  17612916:
+    template: Wekufe
+    at:       [230.120, -24.090, 23.676, 176]
+    level:    [97, 99]
+
+  17612917:
+    template: Wekufe
+    at:       [228.650, -24.020, 13.272, 252]
+    level:    [99, 99]
+
+  17612918:
+    template: Balayang
+    at:       [230.970, -24.100, 96.625, 219]
+    level:    [95, 97]
+
+  17612919:
+    template: Balayang
+    at:       [218.440, -23.710, 90.029, 119]
+    level:    [95, 97]
+
+  17612920:
+    template: Balayang
+    at:       [226.160, -23.910, 92.475, 1]
+    level:    [95, 97]
+
+  17612921:
+    template: Balayang
+    at:       [224.840, -23.740, 98.014, 133]
+    level:    [95, 97]
+
+  17612922:
+    template: Balayang
+    at:       [219.360, -23.770, 106.105, 76]
+    level:    [95, 97]
+
+  17612923:
+    template: Balayang
+    at:       [217.580, -24.090, 109.177, 140]
+    level:    [95, 97]
+
+  17612924:
+    template: Balayang
+    at:       [154.870, -23.850, 113.125, 160]
+    level:    [95, 97]
+
+  17612925:
+    template: Balayang
+    at:       [160.060, -24.050, 108.533, 36]
+    level:    [95, 97]
+
+  17612926:
+    template: Balayang
+    at:       [153.480, -24.080, 119.579, 60]
+    level:    [95, 97]
+
+  17612927:
+    template: Balayang
+    at:       [172.970, -24.130, 122.530, 48]
+    level:    [95, 97]
+
+  17612928:
+    template: Balayang
+    at:       [167.680, -24.110, 129.615, 25]
+    level:    [95, 97]
+
+  17612929:
+    template: Balayang
+    at:       [167.720, -23.750, 122.304, 35]
+    level:    [95, 97]
+
+  17612930:
+    template: Balayang
+    at:       [132.120, -24.110, 155.684, 63]
+    level:    [95, 97]
+
+  17612931:
+    template: Balayang
+    at:       [120.960, -23.550, 157.865, 12]
+    level:    [95, 97]
+
+  17612932:
+    template: Balayang
+    at:       [131.500, -24.480, 159.820, 41]
+    level:    [95, 97]
+
+  17612933:
+    template: Balayang
+    at:       [121.950, -23.700, 166.869, 152]
+    level:    [95, 97]
+
+  17612934:
+    template: Balayang
+    at:       [114.280, -23.710, 162.458, 39]
+    level:    [95, 97]
+
+  17612935:
+    template: Balayang
+    at:       [113.540, -23.730, 161.651, 4]
+    level:    [95, 97]
+
+  17612936:
+    template: Balayang
+    at:       [169.490, -24.020, 196.572, 200]
+    level:    [95, 97]
+
+  17612937:
+    template: Balayang
+    at:       [162.650, -23.580, 197.634, 101]
+    level:    [95, 97]
+
+  17612938:
+    template: Balayang
+    level:    [95, 97]
+    region:   feiyin_ne_3
+
+  17612939:
+    template: Balayang
+    at:       [154.170, -23.660, 201.884, 76]
+    level:    [95, 97]
+
+  17612940:
+    template: Balayang
+    at:       [152.150, -23.750, 200.567, 6]
+    level:    [95, 97]
+
+  17612941:
+    template: Balayang
+    at:       [153.790, -24.510, 211.389, 4]
+    level:    [95, 97]
+
+  17612942:
+    template: Shadow
+    level:    [44, 46]
+    region:   feiyin_ne
+
+  17612943:
+    template: Shadow
+    level:    [44, 46]
+    region:   feiyin_ne
+
+  17612944:
+    template: Shadow
+    at:       [48.909, -18.410, 218.955, 73]
+    level:    [44, 46]
+
+  17612945:
+    template: Shadow
+    level:    [44, 46]
+    region:   feiyin_ne
+
+  17612946:
+    template: Shadow
+    at:       [67.450, -24.100, 181.294, 168]
+    level:    [44, 46]
+
+  17612947:
+    template: Shadow
+    level:    [44, 46]
+    region:   feiyin_ne
+
+  17612948:
+    template: Shadow
+    at:       [17.452, -16.100, 216.813, 91]
+    level:    [44, 46]
+
+  17612949:
+    template: Shadow
+    level:    [44, 46]
+    region:   feiyin_n_7
+
+  17612950:
+    template: Shadow
+    level:    [44, 46]
+    region:   feiyin_n_7
+
+  17612951:
+    template: Shadow
+    at:       [16.816, -16.110, 214.363, 48]
+    level:    [44, 46]
+
+  17612952:
+    template: Shadow
+    level:    [44, 46]
+    region:   feiyin_n_7
+
+  17612953:
+    template: Shadow
+    level:    [44, 46]
+    region:   feiyin_n_7
+
+  17612954:
+    template: Vampire_Bat
+    level:    [40, 42]
+    region:   feiyin_c_14
+
+  17612955:
+    template: Vampire_Bat
+    level:    [40, 42]
+    region:   feiyin_c_14
+
+  17612956:
+    template: Vampire_Bat
+    level:    [40, 42]
+    region:   feiyin_c_14
+
+  17612957:
+    template: Clockwork_Pod
+    level:    [41, 43]
+    region:   feiyin_c_14
+
+  17612958:
+    template: Ore_Golem
+    level:    [43, 45]
+    region:   feiyin_c_14
+
+  17612959:
+    template: Vampire_Bat
+    level:    [40, 42]
+    region:   feiyin_c_14
+
+  17612960:
+    template: Vampire_Bat
+    level:    [40, 42]
+    region:   feiyin_c_14
+
+  17612961:
+    template: Vampire_Bat
+    level:    [40, 42]
+    region:   feiyin_c_14
+
+  17612962:
+    template: Clockwork_Pod
+    level:    [41, 43]
+    region:   feiyin_c_14
+
+  17612963:
+    template: Ore_Golem
+    level:    [43, 45]
+    region:   feiyin_c_14
+
+  17612964:
+    template: Undead_Bats
+    level:    [38, 40]
+    region:   feiyin_c_14
+
+  17612965:
+    template: Undead_Bats
+    level:    [38, 40]
+    region:   feiyin_c_11
+
+  17612966:
+    template: Undead_Bats
+    level:    [38, 40]
+    region:   feiyin_c_11
+
+  17612967:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_c_3
+
+  17612968:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_c_3
+
+  17612969:
+    template: Talos
+    at:       [-71.840, -0.112, 30.037, 129]
+    level:    [53, 55]
+
+  17612970:
+    template: Talos
+    at:       [-62.330, -0.500, 19.027, 10]
+    level:    [53, 55]
+
+  17612971:
+    template: Talos
+    at:       [-51.190, -0.018, 32.207, 251]
+    level:    [53, 55]
+
+  17612972:
+    template: Talos
+    at:       [-49.720, -0.112, 5.450, 104]
+    level:    [53, 55]
+
+  17612973:
+    template: Droma
+    level:    [54, 56]
+    region:   feiyin_c_8
+
+  17612974:
+    template: Droma
+    level:    [54, 56]
+    region:   feiyin_c_8
+
+  17612975:
+    template: Droma
+    level:    [54, 56]
+    region:   feiyin_c_8
+
+  17612976:
+    template: Camazotz
+    level:    [52, 54]
+    region:   feiyin_c_8
+
+  17612977:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_c_10
+
+  17612978:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_c_10
+
+  17612979:
+    template: Camazotz
+    at:       [-29.880, -0.112, 91.417, 180]
+    level:    [52, 54]
+
+  17612980:
+    template: Camazotz
+    at:       [-30.250, -0.104, 91.487, 223]
+    level:    [52, 54]
+
+  17612981:
+    template: Camazotz
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [52, 54]
+
+  17612982:
+    template: Camazotz
+    at:       [-29.810, -0.111, 107.843, 61]
+    level:    [52, 54]
+
+  17612983:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_c_13
+
+  17612984:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_c_13
+
+  17612985:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_c_13
+
+  17612986:
+    template: Utukku
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [55, 57]
+
+  17612987:
+    template: Utukku
+    at:       [33.566, -0.112, 111.750, 34]
+    level:    [55, 57]
+
+  17612988:
+    template: Specter
+    at:       [71.017, 0.027, 124.227, 93]
+    level:    [55, 57]
+
+  17612989:
+    template: Specter
+    level:    [55, 57]
+    region:   feiyin_c_14
+
+  17612990:
+    template: Specter
+    at:       [74.111, 0.125, 117.187, 28]
+    level:    [55, 57]
+
+  17612991:
+    template: Specter
+    level:    [55, 57]
+    region:   feiyin_c_14
+
+  17612992:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_c_12
+
+  17612993:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_c_12
+
+  17612994:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_c_12
+
+  17612995:
+    template: Utukku
+    at:       [30.948, -0.112, 131.809, 150]
+    level:    [55, 57]
+
+  17612996:
+    template: Camazotz
+    level:    [52, 54]
+    region:   feiyin_n_5
+
+  17612997:
+    template: Camazotz
+    level:    [52, 54]
+    region:   feiyin_n_5
+
+  17612998:
+    template: Droma
+    level:    [54, 56]
+    region:   feiyin_n_5
+
+  17612999:
+    template: Droma
+    level:    [54, 56]
+    region:   feiyin_n_5
+
+  17613000:
+    template: Colossus
+    level:    [56, 58]
+    region:   feiyin_n_5
+
+  17613001:
+    template: Camazotz
+    level:    [52, 54]
+    region:   feiyin_n_3
+
+  17613002:
+    template: Camazotz
+    level:    [52, 54]
+    region:   feiyin_n_3
+
+  17613003:
+    template: Utukku
+    level:    [55, 57]
+    region:   feiyin_n_3
+
+  17613004:
+    template: Camazotz
+    level:    [52, 54]
+    region:   feiyin_n_2
+
+  17613005:
+    template: Camazotz
+    level:    [52, 54]
+    region:   feiyin_n_2
+
+  17613006:
+    template: Utukku
+    level:    [55, 57]
+    region:   feiyin_n_2
+
+  17613007:
+    template: Camazotz
+    level:    [52, 54]
+    region:   feiyin_c_4
+
+  17613008:
+    template: Camazotz
+    level:    [52, 54]
+    region:   feiyin_c_4
+
+  17613009:
+    template: Utukku
+    level:    [55, 57]
+    region:   feiyin_c_4
+
+  17613010:
+    template: Colossus
+    level:    [56, 58]
+    region:   feiyin_n
+
+  17613011:
+    template: Ice_Elemental
+    level:    [56, 58]
+    region:   feiyin_n
+
+  17613012:
+    template: Dark_Elemental
+    level:    [56, 58]
+    region:   feiyin_n
+
+  17613013:
+    template: Underworld_Bats
+    at:       [-13.555, -0.096, 256.822, 156]
+    level:    [50, 52]
+
+  17613014:
+    template: Specter
+    at:       [-52.390, -0.108, 275.472, 193]
+    level:    [55, 57]
+
+  17613015:
+    template: Specter
+    level:    [55, 57]
+    region:   feiyin_n_4
+
+  17613016:
+    template: Specter
+    level:    [55, 57]
+    region:   feiyin_n_4
+
+  17613017:
+    template: Specter
+    at:       [-49.900, -0.035, 278.015, 246]
+    level:    [55, 57]
+
+  17613018:
+    template: Underworld_Bats
+    at:       [21.000, -0.112, 143.000, 127]
+    level:    [50, 52]
+
+  17613019:
+    template: Specter
+    at:       [9.573, 0.232, 207.354, 77]
+    level:    [55, 57]
+
+  17613020:
+    template: Specter
+    level:    [55, 57]
+    region:   feiyin_n_6
+
+  17613021:
+    template: Specter
+    at:       [10.067, -0.072, 312.463, 16]
+    level:    [55, 57]
+
+  17613022:
+    template: Specter
+    level:    [55, 57]
+    region:   feiyin_n_6
+
+  17613023:
+    template: Underworld_Bats
+    at:       [21.055, -0.112, 298.605, 110]
+    level:    [50, 52]
+
+  17613024:
+    template: Specter
+    at:       [35.085, -0.024, 289.886, 163]
+    level:    [55, 57]
+
+  17613025:
+    template: Specter
+    at:       [46.199, 0.242, 284.638, 229]
+    level:    [55, 57]
+
+  17613026:
+    template: Specter
+    at:       [-2.000, -0.114, 314.000, 127]
+    level:    [55, 57]
+
+  17613027:
+    template: Specter
+    at:       [38.814, 0.075, 282.233, 59]
+    level:    [55, 57]
+
+  17613028:
+    template: Killing_Weapon
+    level:    [59, 61]
+    region:   feiyin_ne_2
+
+  17613029:
+    template: Killing_Weapon
+    level:    [59, 61]
+    region:   feiyin_ne_2
+
+  17613030:
+    template: Hellish_Weapon
+    level:    [61, 63]
+    region:   feiyin_ne_2
+
+  17613031:
+    template: Hellish_Weapon
+    level:    [61, 63]
+    region:   feiyin_ne_2
+
+  17613032:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_nw_4
+
+  17613033:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_nw_4
+
+  17613034:
+    template: Droma
+    level:    [54, 56]
+    region:   feiyin_nw
+
+  17613035:
+    template: Droma
+    level:    [54, 56]
+    region:   feiyin_nw
+
+  17613036:
+    template: Droma
+    level:    [54, 56]
+    region:   feiyin_nw
+
+  17613037:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_nw_3
+
+  17613038:
+    template: Killing_Weapon
+    at:       [-136.500, 0.286, 183.906, 220]
+    level:    [59, 61]
+
+  17613039:
+    template: Hellish_Weapon
+    at:       [-131.900, 0.154, 180.319, 90]
+    level:    [61, 63]
+
+  17613040:
+    template: Hellish_Weapon
+    at:       [-141.500, 0.191, 181.302, 139]
+    level:    [61, 63]
+
+  17613041:
+    template: Utukku
+    level:    [55, 57]
+    region:   feiyin_w_6
+
+  17613042:
+    template: Utukku
+    level:    [55, 57]
+    region:   feiyin_w_6
+
+  17613043:
+    template: Utukku
+    level:    [55, 57]
+    region:   feiyin_w_6
+
+  17613044:
+    template: Colossus
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [56, 58]
+
+  17613045:
+    template: Goliath
+    at:       [-165.400, -0.098, 189.481, 187]
+    level:    [62, 62]
+
+  17613046:
+    template: Colossus
+    at:       [-194.800, -0.097, 169.233, 132]
+    level:    [56, 58]
+
+  17613047:
+    template: Goliath
+    at:       [-192.400, -0.035, 168.529, 247]
+    level:    [62, 62]
+
+  17613048:
+    template: Colossus
+    at:       [-110.000, -0.092, 112.000, 127]
+    level:    [56, 58]
+
+  17613049:
+    template: Colossus
+    at:       [-188.700, -0.092, 149.289, 172]
+    level:    [56, 58]
+
+  17613050:
+    template: Colossus
+    at:       [-48.000, -0.112, 110.000, 67]
+    level:    [56, 58]
+
+  17613051:
+    template: Goliath
+    at:       [-165.800, -0.112, 148.027, 142]
+    level:    [62, 62]
+
+  17613052:
+    template: Colossus
+    at:       [-189.100, -0.112, 127.990, 242]
+    level:    [56, 58]
+
+  17613053:
+    template: Goliath
+    at:       [-90.000, -0.112, 72.000, 37]
+    level:    [62, 62]
+
+  17613054:
+    template: Colossus
+    at:       [-90.000, -0.112, 72.000, 37]
+    level:    [56, 58]
+
+  17613055:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_w_8
+
+  17613056:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_w_8
+
+  17613057:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_w_8
+
+  17613058:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_w_8
+
+  17613059:
+    template: Talos
+    at:       [-151.900, -0.107, 90.239, 205]
+    level:    [53, 55]
+
+  17613060:
+    template: Talos
+    at:       [-129.795, -0.500, 96.757, 194]
+    level:    [53, 55]
+
+  17613061:
+    template: Talos
+    at:       [-109.895, -0.500, 103.436, 35]
+    level:    [53, 55]
+
+  17613062:
+    template: Talos
+    at:       [-90.480, -0.024, 111.930, 225]
+    level:    [53, 55]
+
+  17613063:
+    template: Talos
+    at:       [-111.600, -0.500, 91.032, 251]
+    level:    [53, 55]
+
+  17613064:
+    template: Talos
+    at:       [-87.730, -0.108, 90.366, 172]
+    level:    [53, 55]
+
+  17613065:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_c
+
+  17613066:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_c
+
+  17613067:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_c
+
+  17613068:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_c
+
+  17613069:
+    template: Camazotz
+    at:       [-48.180, -0.019, 110.095, 135]
+    level:    [52, 54]
+
+  17613070:
+    template: Camazotz
+    at:       [-49.150, -0.020, 109.322, 197]
+    level:    [52, 54]
+
+  17613071:
+    template: Camazotz
+    at:       [-50.792, -0.113, 91.763, 187]
+    level:    [52, 54]
+
+  17613072:
+    template: Camazotz
+    at:       [-45.560, -0.112, 90.378, 35]
+    level:    [52, 54]
+
+  17613073:
+    template: Killing_Weapon
+    at:       [-91.150, -0.500, 68.628, 37]
+    level:    [59, 61]
+
+  17613074:
+    template: Hellish_Weapon
+    at:       [-90.740, -0.025, 70.508, 196]
+    level:    [61, 63]
+
+  17613075:
+    template: Killing_Weapon
+    at:       [-113.100, -0.500, 70.530, 24]
+    level:    [59, 61]
+
+  17613076:
+    template: Hellish_Weapon
+    at:       [-107.900, -0.111, 69.235, 127]
+    level:    [61, 63]
+
+  17613077:
+    template: Killing_Weapon
+    at:       [-130.900, -0.037, 70.234, 219]
+    level:    [59, 61]
+
+  17613078:
+    template: Hellish_Weapon
+    at:       [-130.600, -0.430, 70.556, 221]
+    level:    [61, 63]
+
+  17613079:
+    template: Killing_Weapon
+    at:       [-149.500, -0.107, 68.233, 95]
+    level:    [59, 61]
+
+  17613080:
+    template: Hellish_Weapon
+    at:       [-147.400, -0.500, 73.491, 79]
+    level:    [61, 63]
+
+  17613081:
+    template: Utukku
+    at:       [-130.600, -0.021, 7.524, 253]
+    level:    [55, 57]
+
+  17613082:
+    template: Utukku
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [55, 57]
+
+  17613083:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_w_5
+
+  17613084:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_w_5
+
+  17613085:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_w_5
+
+  17613086:
+    template: Colossus
+    level:    [56, 58]
+    region:   feiyin_w_3
+
+  17613087:
+    template: Colossus
+    level:    [56, 58]
+    region:   feiyin_w_3
+
+  17613088:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_w
+
+  17613089:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_w
+
+  17613090:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_w
+
+  17613091:
+    template: Specter
+    at:       [-190.100, -16.340, 120.144, 5]
+    level:    [56, 58]
+
+  17613092:
+    template: Specter
+    level:    [56, 58]
+    region:   feiyin_w_4
+
+  17613093:
+    template: Specter
+    level:    [56, 58]
+    region:   feiyin_w_4
+
+  17613094:
+    template: Specter
+    at:       [-188.500, -16.520, 123.089, 186]
+    level:    [56, 58]
+
+  17613095:
+    template: Western_Shadow
+    at:       [-206.600, -16.190, 111.260, 202]
+    level:    [63, 63]
+
+  17613096:
+    template: Underworld_Bats
+    at:       [-180.900, -16.110, 138.432, 59]
+    level:    [50, 52]
+
+  17613097:
+    template: Underworld_Bats
+    at:       [-179.100, -16.500, 94.674, 221]
+    level:    [50, 52]
+
+  17613098:
+    template: Specter
+    level:    [56, 58]
+    region:   feiyin_w_9
+
+  17613099:
+    template: Specter
+    at:       [-155.600, -15.950, 158.897, 75]
+    level:    [56, 58]
+
+  17613100:
+    template: Specter
+    level:    [56, 58]
+    region:   feiyin_w_9
+
+  17613101:
+    template: Specter
+    at:       [-160.500, -15.610, 155.837, 1]
+    level:    [56, 58]
+
+  17613102:
+    template: Northern_Shadow
+    at:       [-162.000, -15.000, 154.000, 213]
+    level:    [63, 63]
+
+  17613103:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_nw_2
+
+  17613104:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_nw_2
+
+  17613105:
+    template: Specter
+    at:       [-83.880, -15.880, 167.643, 145]
+    level:    [56, 58]
+
+  17613106:
+    template: Specter
+    level:    [56, 58]
+    region:   feiyin_c_5
+
+  17613107:
+    template: Specter
+    at:       [-89.090, -15.980, 153.927, 76]
+    level:    [56, 58]
+
+  17613108:
+    template: Specter
+    level:    [56, 58]
+    region:   feiyin_c_5
+
+  17613109:
+    template: Eastern_Shadow
+    at:       [-92.120, -16.520, 160.277, 37]
+    level:    [63, 63]
+
+  17613110:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_n_3
+
+  17613111:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_n_3
+
+  17613112:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_n_3
+
+  17613113:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_c_7
+
+  17613114:
+    template: Utukku
+    level:    [55, 57]
+    region:   feiyin_w_10
+
+  17613115:
+    template: Utukku
+    level:    [55, 57]
+    region:   feiyin_w_10
+
+  17613116:
+    template: Specter
+    at:       [-154.900, -15.720, 75.029, 82]
+    level:    [56, 58]
+
+  17613117:
+    template: Specter
+    level:    [56, 58]
+    region:   feiyin_w_7
+
+  17613118:
+    template: Specter
+    at:       [-164.200, -15.670, 79.657, 150]
+    level:    [56, 58]
+
+  17613119:
+    template: Specter
+    level:    [56, 58]
+    region:   feiyin_w_7
+
+  17613120:
+    template: Southern_Shadow
+    at:       [-164.600, -16.010, 77.191, 169]
+    level:    [63, 63]
+
+  17613121:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_w_5
+
+  17613122:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_w_5
+
+  17613123:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_w_5
+
+  17613124:
+    template: Droma
+    at:       [-172.600, -16.090, 8.985, 118]
+    level:    [54, 56]
+
+  17613125:
+    template: Droma
+    at:       [-187.700, -16.110, 7.022, 61]
+    level:    [54, 56]
+
+  17613126:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_w_2
+
+  17613127:
+    template: Underworld_Bats
+    level:    [50, 52]
+    region:   feiyin_w_2
+
+  17613128:
+    template: Dabotzs_Ghost
+    at:       [-169.991, 3.060, 249.480, 31]
+    level:    [53, 53]
+
+  17613129:
+    template: Capricious_Cassie
+    level:    [70, 70]
+    region:   feiyin_n
+
+  17613130:
+    template: Orientalis_Shadow
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [128, 128]
+
+  17613131:
+    template: Borealis_Shadow
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [128, 128]
+
+  17613132:
+    template: Australis_Shadow
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [128, 128]
+
+  17613133:
+    template: Occidentalis_Shadow
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [128, 128]
+
+  17613134:
+    template: Orientalis_Shadow
+    at:       [120.612, -23.924, 59.247, 240]
+    level:    [128, 128]
+
+  17613135:
+    template: Borealis_Shadow
+    at:       [118.072, -23.924, 61.658, 201]
+    level:    [128, 128]
+
+  17613136:
+    template: Australis_Shadow
+    at:       [123.938, -23.924, 59.411, 157]
+    level:    [128, 128]
+
+  17613137:
+    template: Occidentalis_Shadow
+    at:       [116.966, -23.924, 59.323, 75]
+    level:    [128, 128]
+
+  17613138:
+    template: Orientalis_Shadow
+    at:       [-151.574, -16.220, -71.495, 243]
+    level:    [128, 128]
+
+  17613139:
+    template: Borealis_Shadow
+    at:       [-148.439, -16.508, -65.180, 36]
+    level:    [128, 128]
+
+  17613140:
+    template: Australis_Shadow
+    at:       [-145.555, -16.516, -62.809, 21]
+    level:    [128, 128]
+
+  17613141:
+    template: Occidentalis_Shadow
+    at:       [-148.490, -16.356, -69.940, 28]
+    level:    [128, 128]
+
+  17613142:
+    template: Carousing_Celine
+    at:       [50.284, -16.376, 151.450, 178]
+    level:    [128, 128]
+
+  17613143:
+    template: Carousing_Celine
+    at:       [136.968, -24.499, 60.558, 31]
+    level:    [128, 128]
+
+  17613144:
+    template: Carousing_Celine
+    at:       [-148.490, -16.356, -69.940, 0]
+    level:    [128, 128]
+
+  17613145:
+    template: Arcus_Blades
+    at:       [-109.000, -16.100, 221.000, 60]
+    level:    [125, 125]

@@ -1,0 +1,1188 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17534977:
+    template: Overlords_Tombstone
+    at:       [-2.618, -1.838, 36.580, 254]
+    level:    [85, 85]
+
+  17534978:
+    template: Battlechoir_Gitchfotch
+    at:       [-2.858, -2.398, 39.388, 27]
+    level:    [83, 84]
+
+  17534979:
+    template: Soulsender_Fugbrag
+    at:       [3.551, -2.434, 39.609, 96]
+    level:    [83, 84]
+
+  17534980:
+    template: Vanguard_Footsoldier
+    at:       [141.604, -2.420, 108.763, 231]
+    level:    [75, 77]
+
+  17534981:
+    template: Vanguard_Trooper
+    at:       [132.572, -2.509, 108.942, 157]
+    level:    [75, 77]
+
+  17534982:
+    template: Vanguard_Amputator
+    at:       [144.495, -2.500, 106.451, 251]
+    level:    [75, 77]
+
+  17534983:
+    template: Vanguard_Vexer
+    at:       [140.371, -2.500, 111.077, 69]
+    level:    [75, 77]
+
+  17534984:
+    template: Vanguard_Pillager
+    at:       [132.780, -2.280, 109.656, 107]
+    level:    [75, 77]
+
+  17534985:
+    template: Vanguard_Mesmerizer
+    at:       [123.614, -0.500, 97.504, 149]
+    level:    [75, 77]
+
+  17534986:
+    template: Vanguard_Grappler
+    at:       [132.805, -1.204, 100.939, 245]
+    level:    [75, 77]
+
+  17534987:
+    template: Vanguard_Neckchopper
+    at:       [122.448, -0.500, 103.011, 31]
+    level:    [75, 77]
+
+  17534988:
+    template: Vanguard_Mesmerizer
+    at:       [104.586, 0.099, 102.310, 255]
+    level:    [75, 77]
+
+  17534989:
+    template: Vanguard_Bugler
+    at:       [101.608, 0.442, 102.394, 162]
+    level:    [75, 77]
+
+  17534990:
+    template: Vanguard_Gutslasher
+    at:       [103.505, 0.481, 105.077, 160]
+    level:    [75, 77]
+
+  17534991:
+    template: Vanguard_Impaler
+    at:       [107.985, -0.497, 95.026, 250]
+    level:    [75, 77]
+
+  17534992:
+    template: Vanguards_Wyvern
+    at:       [114.751, -0.500, 99.306, 77]
+    level:    [75, 77]
+
+  17534993:
+    template: Vanguard_Backstabber
+    at:       [104.706, 0.500, 115.032, 23]
+    level:    [75, 77]
+
+  17534994:
+    template: Vanguard_Hawker
+    at:       [108.205, 0.800, 112.718, 151]
+    level:    [75, 77]
+
+  17534995:
+    template: Vanguards_Hecteyes
+    at:       [108.263, 0.800, 112.824, 142]
+    level:    [75, 77]
+
+  17534996:
+    template: Vanguard_Dollmaster
+    at:       [134.962, -0.499, 84.884, 128]
+    level:    [75, 77]
+
+  17534997:
+    template: Vanguards_Avatar
+    at:       [131.470, -0.499, 84.582, 248]
+    level:    [75, 77]
+
+  17534998:
+    template: Vanguard_Vexer
+    at:       [134.013, -0.500, 79.005, 112]
+    level:    [75, 77]
+
+  17534999:
+    template: Vanguard_Predator
+    at:       [126.054, -0.499, 76.350, 235]
+    level:    [75, 77]
+
+  17535000:
+    template: Vanguard_Footsoldier
+    at:       [100.815, 2.430, 71.055, 158]
+    level:    [75, 77]
+
+  17535001:
+    template: Vanguard_Grappler
+    at:       [99.013, 1.956, 75.483, 103]
+    level:    [75, 77]
+
+  17535002:
+    template: Vanguard_Predator
+    at:       [100.931, 1.080, 76.829, 174]
+    level:    [75, 77]
+
+  17535003:
+    template: Serjeant_Tombstone
+    at:       [109.249, -0.500, 80.079, 24]
+    level:    [65, 65]
+
+  17535004:
+    template: Serjeant_Tombstone
+    at:       [104.748, 2.457, 67.969, 31]
+    level:    [65, 65]
+
+  17535005:
+    template: Serjeant_Tombstone
+    at:       [107.299, -0.500, 78.311, 63]
+    level:    [65, 65]
+
+  17535006:
+    template: Reapertongue_Gadgquok
+    at:       [109.854, -0.634, 76.595, 215]
+    level:    [83, 84]
+
+  17535007:
+    template: Vanguards_Avatar
+    at:       [110.302, 0.018, 72.994, 192]
+    level:    [75, 77]
+
+  17535008:
+    template: Vanguard_Trooper
+    at:       [105.527, 3.000, 64.529, 196]
+    level:    [75, 77]
+
+  17535009:
+    template: Vanguard_Amputator
+    at:       [98.203, 3.500, 44.071, 17]
+    level:    [75, 77]
+
+  17535010:
+    template: Vanguard_Dollmaster
+    at:       [97.811, 3.500, 46.083, 200]
+    level:    [75, 77]
+
+  17535011:
+    template: Vanguards_Avatar
+    at:       [98.270, 3.499, 46.082, 53]
+    level:    [75, 77]
+
+  17535012:
+    template: Vanguard_Footsoldier
+    at:       [100.056, 3.500, 35.177, 114]
+    level:    [75, 77]
+
+  17535013:
+    template: Vanguard_Backstabber
+    at:       [100.800, 3.500, 35.756, 220]
+    level:    [75, 77]
+
+  17535014:
+    template: Vanguard_Impaler
+    at:       [100.812, 3.500, 35.753, 212]
+    level:    [75, 77]
+
+  17535015:
+    template: Vanguards_Wyvern
+    at:       [95.153, 3.500, 44.888, 240]
+    level:    [75, 77]
+
+  17535016:
+    template: Vanguard_Footsoldier
+    at:       [139.281, -0.500, 61.133, 224]
+    level:    [75, 77]
+
+  17535017:
+    template: Vanguard_Grappler
+    at:       [128.530, -0.499, 79.175, 216]
+    level:    [75, 77]
+
+  17535018:
+    template: Vanguard_Amputator
+    at:       [153.023, -0.500, 37.662, 253]
+    level:    [75, 77]
+
+  17535019:
+    template: Vanguard_Trooper
+    at:       [148.839, -0.500, 44.374, 0]
+    level:    [75, 77]
+
+  17535020:
+    template: Vanguard_Neckchopper
+    at:       [146.926, -0.500, 51.545, 162]
+    level:    [75, 77]
+
+  17535021:
+    template: Vanguard_Pillager
+    at:       [143.339, -0.499, 28.716, 193]
+    level:    [75, 77]
+
+  17535022:
+    template: Vanguard_Bugler
+    at:       [144.062, -0.500, 23.454, 27]
+    level:    [75, 77]
+
+  17535023:
+    template: Vanguard_Predator
+    at:       [139.960, -0.500, 24.655, 140]
+    level:    [75, 77]
+
+  17535024:
+    template: Vanguard_Vexer
+    at:       [156.643, -7.300, 43.381, 64]
+    level:    [75, 77]
+
+  17535025:
+    template: Vanguard_Trooper
+    at:       [156.344, -7.102, 52.107, 32]
+    level:    [75, 77]
+
+  17535026:
+    template: Warchief_Tombstone
+    at:       [156.591, -7.197, 41.199, 64]
+    level:    [65, 65]
+
+  17535027:
+    template: Vanguard_Bugler
+    at:       [80.739, 1.500, -0.574, 137]
+    level:    [75, 77]
+
+  17535028:
+    template: Vanguard_Hawker
+    at:       [85.604, 1.500, -5.807, 86]
+    level:    [75, 77]
+
+  17535029:
+    template: Vanguards_Hecteyes
+    at:       [86.604, 1.500, -4.901, 91]
+    level:    [75, 77]
+
+  17535030:
+    template: Vanguard_Gutslasher
+    at:       [89.141, 1.500, 0.472, 149]
+    level:    [75, 77]
+
+  17535031:
+    template: Vanguard_Backstabber
+    at:       [84.750, 1.500, -1.177, 52]
+    level:    [75, 77]
+
+  17535032:
+    template: Wyrmgnasher_Bjakdek
+    level:    [83, 84]
+    region:   dynamis_san_doria_e
+
+  17535033:
+    template: Vanguards_Wyvern
+    at:       [80.891, -7.900, -20.895, 208]
+    level:    [75, 77]
+
+  17535034:
+    template: Vanguard_Footsoldier
+    level:    [75, 77]
+    region:   dynamis_san_doria_se_2
+
+  17535035:
+    template: Vanguard_Grappler
+    at:       [25.037, 1.500, -22.387, 223]
+    level:    [75, 77]
+
+  17535036:
+    template: Vanguard_Pillager
+    level:    [75, 77]
+    region:   dynamis_san_doria_se_2
+
+  17535037:
+    template: Vanguard_Trooper
+    level:    [75, 77]
+    region:   dynamis_san_doria_se_2
+
+  17535038:
+    template: Vanguard_Neckchopper
+    level:    [75, 77]
+    region:   dynamis_san_doria_se_2
+
+  17535039:
+    template: Vanguard_Predator
+    at:       [-8.353, 1.500, -23.227, 40]
+    level:    [75, 77]
+
+  17535040:
+    template: Vanguard_Gutslasher
+    level:    [75, 77]
+    region:   dynamis_san_doria_c_2
+
+  17535041:
+    template: Vanguard_Backstabber
+    level:    [75, 77]
+    region:   dynamis_san_doria_c_2
+
+  17535042:
+    template: Vanguard_Impaler
+    level:    [75, 77]
+    region:   dynamis_san_doria_c_2
+
+  17535043:
+    template: Vanguards_Wyvern
+    at:       [-24.480, 1.500, -19.308, 152]
+    level:    [75, 77]
+
+  17535044:
+    template: Voidstreaker_Butchnotch
+    level:    [84, 84]
+    region:   dynamis_san_doria_c_2
+
+  17535045:
+    template: Vanguard_Amputator
+    level:    [75, 77]
+    region:   dynamis_san_doria_s_4
+
+  17535046:
+    template: Vanguard_Mesmerizer
+    level:    [75, 77]
+    region:   dynamis_san_doria_s_4
+
+  17535047:
+    template: Vanguard_Vexer
+    level:    [75, 77]
+    region:   dynamis_san_doria_s_4
+
+  17535048:
+    template: Vanguard_Bugler
+    level:    [75, 77]
+    region:   dynamis_san_doria_s_4
+
+  17535049:
+    template: Vanguard_Dollmaster
+    at:       [-16.663, 1.245, -28.637, 58]
+    level:    [75, 77]
+
+  17535050:
+    template: Vanguards_Avatar
+    at:       [-17.562, 1.475, -24.666, 57]
+    level:    [75, 77]
+
+  17535051:
+    template: Vanguard_Mesmerizer
+    at:       [19.551, 1.583, 0.539, 104]
+    level:    [75, 77]
+
+  17535052:
+    template: Vanguard_Bugler
+    at:       [10.946, 1.318, 12.804, 184]
+    level:    [75, 77]
+
+  17535053:
+    template: Vanguard_Neckchopper
+    at:       [-15.743, 1.599, 2.314, 22]
+    level:    [75, 77]
+
+  17535054:
+    template: Vanguard_Pillager
+    at:       [-16.831, 1.594, 5.726, 246]
+    level:    [75, 77]
+
+  17535055:
+    template: Vanguard_Vexer
+    at:       [7.760, -3.500, -32.980, 20]
+    level:    [75, 77]
+
+  17535056:
+    template: Vanguard_Trooper
+    at:       [-9.360, -3.500, -33.706, 124]
+    level:    [75, 77]
+
+  17535057:
+    template: Warchief_Tombstone
+    at:       [0.511, -3.500, -33.541, 192]
+    level:    [65, 65]
+
+  17535058:
+    template: Vanguard_Footsoldier
+    at:       [-263.975, -4.100, 112.274, 122]
+    level:    [90, 92]
+
+  17535059:
+    template: Vanguard_Grappler
+    at:       [-254.724, -3.608, 110.266, 145]
+    level:    [90, 92]
+
+  17535060:
+    template: Vanguard_Amputator
+    at:       [-253.318, -4.099, 113.539, 12]
+    level:    [90, 92]
+
+  17535061:
+    template: Vanguard_Mesmerizer
+    at:       [-262.705, -4.100, 115.849, 252]
+    level:    [90, 92]
+
+  17535062:
+    template: Vanguard_Vexer
+    at:       [-262.952, -4.099, 115.092, 185]
+    level:    [90, 92]
+
+  17535063:
+    template: Vanguard_Pillager
+    at:       [-263.330, -4.100, 111.329, 133]
+    level:    [90, 92]
+
+  17535064:
+    template: Vanguard_Trooper
+    at:       [-258.121, -4.099, 106.776, 63]
+    level:    [90, 92]
+
+  17535065:
+    template: Vanguard_Neckchopper
+    at:       [-263.999, -4.100, 112.443, 29]
+    level:    [90, 92]
+
+  17535066:
+    template: Vanguard_Hawker
+    at:       [-259.547, -4.100, 108.725, 229]
+    level:    [90, 92]
+
+  17535067:
+    template: Vanguards_Hecteyes
+    at:       [-259.674, -4.100, 107.179, 226]
+    level:    [90, 92]
+
+  17535068:
+    template: Vanguard_Bugler
+    at:       [-258.256, -4.100, 87.633, 254]
+    level:    [90, 92]
+
+  17535069:
+    template: Vanguard_Predator
+    at:       [-268.044, -4.100, 78.118, 206]
+    level:    [90, 92]
+
+  17535070:
+    template: Vanguard_Gutslasher
+    at:       [-264.936, -4.100, 83.955, 202]
+    level:    [90, 92]
+
+  17535071:
+    template: Vanguard_Backstabber
+    at:       [-264.336, -4.500, 100.030, 169]
+    level:    [90, 92]
+
+  17535072:
+    template: Vanguard_Impaler
+    at:       [-264.476, -4.100, 81.717, 136]
+    level:    [90, 92]
+
+  17535073:
+    template: Vanguards_Wyvern
+    at:       [-264.596, -3.678, 92.363, 229]
+    level:    [90, 92]
+
+  17535074:
+    template: Vanguard_Dollmaster
+    at:       [-258.912, -3.771, 111.954, 39]
+    level:    [90, 92]
+
+  17535075:
+    template: Vanguards_Avatar
+    at:       [-260.745, -3.900, 112.876, 31]
+    level:    [90, 92]
+
+  17535076:
+    template: Vanguard_Hawker
+    level:    [90, 92]
+    region:   dynamis_san_doria_nw
+
+  17535077:
+    template: Vanguards_Hecteyes
+    level:    [90, 92]
+    region:   dynamis_san_doria_nw
+
+  17535078:
+    template: Vanguard_Bugler
+    level:    [90, 92]
+    region:   dynamis_san_doria_nw
+
+  17535079:
+    template: Vanguard_Grappler
+    at:       [-191.836, -2.500, 83.236, 90]
+    level:    [90, 92]
+
+  17535080:
+    template: Vanguard_Mesmerizer
+    at:       [-199.392, -2.500, 83.510, 157]
+    level:    [90, 92]
+
+  17535081:
+    template: Vanguard_Pillager
+    at:       [-199.176, -2.500, 76.942, 141]
+    level:    [90, 92]
+
+  17535082:
+    template: Vanguard_Gutslasher
+    at:       [-195.048, -1.645, 54.427, 159]
+    level:    [90, 92]
+
+  17535083:
+    template: Vanguard_Backstabber
+    at:       [-191.090, -2.500, 68.603, 36]
+    level:    [90, 92]
+
+  17535084:
+    template: Vanguard_Trooper
+    at:       [-194.942, -2.498, 70.551, 221]
+    level:    [90, 92]
+
+  17535085:
+    template: Vanguard_Footsoldier
+    level:    [90, 92]
+    region:   dynamis_san_doria_w
+
+  17535086:
+    template: Vanguard_Amputator
+    level:    [90, 92]
+    region:   dynamis_san_doria_w
+
+  17535087:
+    template: Vanguard_Neckchopper
+    at:       [-175.571, -1.500, 26.289, 174]
+    level:    [90, 92]
+
+  17535088:
+    template: Vanguard_Bugler
+    level:    [90, 92]
+    region:   dynamis_san_doria_w
+
+  17535089:
+    template: Vanguard_Predator
+    level:    [90, 92]
+    region:   dynamis_san_doria_w
+
+  17535090:
+    template: Vanguard_Backstabber
+    level:    [90, 92]
+    region:   dynamis_san_doria_w
+
+  17535091:
+    template: Vanguard_Grappler
+    level:    [90, 92]
+    region:   dynamis_san_doria_w_2
+
+  17535092:
+    template: Vanguard_Gutslasher
+    level:    [90, 92]
+    region:   dynamis_san_doria_w_2
+
+  17535093:
+    template: Vanguard_Predator
+    at:       [-149.371, -2.500, 20.654, 116]
+    level:    [90, 92]
+
+  17535094:
+    template: Vanguard_Hawker
+    level:    [90, 92]
+    region:   dynamis_san_doria_w_2
+
+  17535095:
+    template: Vanguards_Hecteyes
+    level:    [90, 92]
+    region:   dynamis_san_doria_w_2
+
+  17535096:
+    template: Vanguard_Impaler
+    level:    [90, 92]
+    region:   dynamis_san_doria_w_2
+
+  17535097:
+    template: Vanguards_Wyvern
+    at:       [-159.068, -1.500, 16.968, 11]
+    level:    [90, 92]
+
+  17535098:
+    template: Vanguard_Footsoldier
+    level:    [90, 92]
+    region:   dynamis_san_doria_c
+
+  17535099:
+    template: Vanguard_Amputator
+    at:       [-117.959, -2.500, 25.073, 253]
+    level:    [90, 92]
+
+  17535100:
+    template: Vanguard_Bugler
+    level:    [90, 92]
+    region:   dynamis_san_doria_c
+
+  17535101:
+    template: Vanguard_Predator
+    level:    [90, 92]
+    region:   dynamis_san_doria_c
+
+  17535102:
+    template: Vanguard_Backstabber
+    level:    [90, 92]
+    region:   dynamis_san_doria_c
+
+  17535103:
+    template: Vanguard_Grappler
+    at:       [-106.455, -2.500, 22.810, 74]
+    level:    [90, 92]
+
+  17535104:
+    template: Vanguard_Gutslasher
+    level:    [90, 92]
+    region:   dynamis_san_doria_c
+
+  17535105:
+    template: Vanguard_Trooper
+    at:       [-107.596, -2.500, 26.199, 132]
+    level:    [90, 92]
+
+  17535106:
+    template: Vanguard_Predator
+    at:       [-161.328, -2.500, 66.968, 242]
+    level:    [90, 92]
+
+  17535107:
+    template: Vanguard_Mesmerizer
+    at:       [-158.708, -2.500, 58.594, 43]
+    level:    [90, 92]
+
+  17535108:
+    template: Vanguard_Vexer
+    at:       [-167.804, -2.500, 64.119, 155]
+    level:    [90, 92]
+
+  17535109:
+    template: Vanguard_Neckchopper
+    at:       [-156.529, -2.500, 62.659, 99]
+    level:    [90, 92]
+
+  17535110:
+    template: Vanguard_Dollmaster
+    at:       [-149.342, -2.500, 62.827, 33]
+    level:    [90, 92]
+
+  17535111:
+    template: Vanguards_Avatar
+    at:       [-151.009, -2.500, 65.952, 40]
+    level:    [90, 92]
+
+  17535112:
+    template: Vanguard_Backstabber
+    at:       [-161.299, -2.500, 60.247, 118]
+    level:    [90, 92]
+
+  17535113:
+    template: Serjeant_Tombstone
+    at:       [-159.564, -2.500, 62.312, 23]
+    level:    [80, 80]
+
+  17535114:
+    template: Serjeant_Tombstone
+    at:       [-158.985, -2.500, 61.605, 5]
+    level:    [80, 80]
+
+  17535115:
+    template: Serjeant_Tombstone
+    at:       [-154.256, -2.500, 66.927, 174]
+    level:    [80, 80]
+
+  17535116:
+    template: Vanguard_Footsoldier
+    level:    [90, 92]
+    region:   dynamis_san_doria_nw_3
+
+  17535117:
+    template: Vanguard_Amputator
+    level:    [90, 92]
+    region:   dynamis_san_doria_nw_3
+
+  17535118:
+    template: Vanguard_Bugler
+    level:    [90, 92]
+    region:   dynamis_san_doria_nw_3
+
+  17535119:
+    template: Vanguard_Predator
+    level:    [90, 92]
+    region:   dynamis_san_doria_nw_3
+
+  17535120:
+    template: Vanguard_Predator
+    level:    [90, 92]
+    region:   dynamis_san_doria_n
+
+  17535121:
+    template: Vanguard_Vexer
+    at:       [-88.518, -6.494, 61.069, 166]
+    level:    [90, 92]
+
+  17535122:
+    template: Vanguard_Neckchopper
+    at:       [-91.414, -6.499, 59.515, 72]
+    level:    [90, 92]
+
+  17535123:
+    template: Vanguard_Backstabber
+    level:    [90, 92]
+    region:   dynamis_san_doria_n
+
+  17535124:
+    template: Vanguard_Grappler
+    at:       [-91.068, -6.500, 72.464, 185]
+    level:    [90, 92]
+
+  17535125:
+    template: Vanguard_Trooper
+    level:    [90, 92]
+    region:   dynamis_san_doria_n
+
+  17535126:
+    template: Vanguard_Vexer
+    at:       [-148.474, -9.765, 77.390, 128]
+    level:    [90, 92]
+
+  17535127:
+    template: Vanguard_Trooper
+    level:    [90, 92]
+    region:   dynamis_san_doria_nw_2
+
+  17535128:
+    template: Warchief_Tombstone
+    at:       [-157.228, -9.275, 69.602, 125]
+    level:    [80, 80]
+
+  17535129:
+    template: Vanguard_Vexer
+    at:       [-185.930, -9.300, 29.037, 181]
+    level:    [90, 92]
+
+  17535130:
+    template: Vanguard_Trooper
+    at:       [-186.659, -9.300, 24.944, 220]
+    level:    [90, 92]
+
+  17535131:
+    template: Warchief_Tombstone
+    at:       [-191.374, -9.290, 25.688, 26]
+    level:    [80, 80]
+
+  17535132:
+    template: Vanguard_Vexer
+    at:       [-81.055, 1.500, -10.434, 253]
+    level:    [90, 92]
+
+  17535133:
+    template: Vanguard_Mesmerizer
+    at:       [-77.463, 1.500, -1.404, 182]
+    level:    [90, 92]
+
+  17535134:
+    template: Vanguard_Footsoldier
+    at:       [-82.735, 1.500, -1.439, 5]
+    level:    [90, 92]
+
+  17535135:
+    template: Vanguard_Pillager
+    at:       [-81.414, 1.500, -2.439, 181]
+    level:    [90, 92]
+
+  17535136:
+    template: Vanguard_Predator
+    at:       [-72.585, 1.500, -6.376, 238]
+    level:    [90, 92]
+
+  17535137:
+    template: Vanguard_Vexer
+    at:       [-82.023, -7.900, -17.974, 30]
+    level:    [75, 77]
+
+  17535138:
+    template: Vanguard_Trooper
+    level:    [75, 77]
+    region:   dynamis_san_doria_s_3
+
+  17535139:
+    template: Warchief_Tombstone
+    at:       [-87.273, -6.904, -12.756, 158]
+    level:    [65, 65]
+
+  17535140:
+    template: Vanguard_Footsoldier
+    at:       [-250.700, -4.499, 95.956, 73]
+    level:    [90, 92]
+
+  17535141:
+    template: Vanguard_Amputator
+    at:       [-254.606, -4.500, 92.329, 74]
+    level:    [90, 92]
+
+  17535142:
+    template: Vanguard_Trooper
+    at:       [-254.436, -4.500, 92.420, 91]
+    level:    [90, 92]
+
+  17535143:
+    template: Vanguard_Gutslasher
+    at:       [-268.385, -4.099, 107.758, 190]
+    level:    [90, 92]
+
+  17535144:
+    template: Vanguard_Footsoldier
+    level:    [90, 92]
+    region:   dynamis_san_doria_se_4
+
+  17535145:
+    template: Vanguard_Grappler
+    at:       [115.546, 0.483, -28.087, 6]
+    level:    [90, 92]
+
+  17535146:
+    template: Vanguard_Pillager
+    level:    [90, 92]
+    region:   dynamis_san_doria_se_4
+
+  17535147:
+    template: Vanguard_Trooper
+    level:    [90, 92]
+    region:   dynamis_san_doria_se_4
+
+  17535148:
+    template: Vanguard_Neckchopper
+    level:    [90, 92]
+    region:   dynamis_san_doria_se_4
+
+  17535149:
+    template: Vanguard_Hawker
+    at:       [99.849, 1.456, -23.580, 159]
+    level:    [90, 92]
+
+  17535150:
+    template: Vanguards_Hecteyes
+    at:       [100.921, 1.101, -25.135, 163]
+    level:    [90, 92]
+
+  17535151:
+    template: Vanguard_Predator
+    at:       [106.713, 0.710, -24.594, 132]
+    level:    [90, 92]
+
+  17535152:
+    template: Vanguard_Impaler
+    level:    [90, 92]
+    region:   dynamis_san_doria_se_4
+
+  17535153:
+    template: Vanguards_Wyvern
+    at:       [102.289, 0.500, -42.227, 251]
+    level:    [90, 92]
+
+  17535154:
+    template: Serjeant_Tombstone
+    at:       [96.918, 0.950, -29.808, 33]
+    level:    [80, 80]
+
+  17535155:
+    template: Serjeant_Tombstone
+    at:       [109.912, 0.500, -27.347, 187]
+    level:    [80, 80]
+
+  17535156:
+    template: Vanguard_Footsoldier
+    level:    [90, 92]
+    region:   dynamis_san_doria_se_3
+
+  17535157:
+    template: Vanguard_Grappler
+    level:    [90, 92]
+    region:   dynamis_san_doria_se_3
+
+  17535158:
+    template: Vanguard_Pillager
+    level:    [90, 92]
+    region:   dynamis_san_doria_se_3
+
+  17535159:
+    template: Vanguard_Trooper
+    at:       [82.401, 1.500, -40.154, 79]
+    level:    [90, 92]
+
+  17535160:
+    template: Vanguard_Neckchopper
+    level:    [90, 92]
+    region:   dynamis_san_doria_se_3
+
+  17535161:
+    template: Vanguard_Hawker
+    level:    [90, 92]
+    region:   dynamis_san_doria_se_3
+
+  17535162:
+    template: Vanguards_Hecteyes
+    level:    [90, 92]
+    region:   dynamis_san_doria_se_3
+
+  17535163:
+    template: Vanguard_Predator
+    at:       [89.213, 0.815, -40.036, 250]
+    level:    [90, 92]
+
+  17535164:
+    template: Vanguard_Impaler
+    at:       [78.825, 1.954, -42.778, 176]
+    level:    [90, 92]
+
+  17535165:
+    template: Vanguards_Wyvern
+    at:       [77.498, 1.500, -42.291, 197]
+    level:    [90, 92]
+
+  17535166:
+    template: Serjeant_Tombstone
+    level:    [80, 80]
+    region:   dynamis_san_doria_se_3
+
+  17535167:
+    template: Serjeant_Tombstone
+    at:       [86.179, 0.521, -58.298, 168]
+    level:    [80, 80]
+
+  17535168:
+    template: Vanguard_Gutslasher
+    level:    [90, 92]
+    region:   dynamis_san_doria_se
+
+  17535169:
+    template: Vanguard_Gutslasher
+    level:    [90, 92]
+    region:   dynamis_san_doria_se
+
+  17535170:
+    template: Vanguard_Footsoldier
+    level:    [90, 92]
+    region:   dynamis_san_doria_se
+
+  17535171:
+    template: Vanguard_Pillager
+    level:    [90, 92]
+    region:   dynamis_san_doria_se
+
+  17535172:
+    template: Vanguard_Neckchopper
+    level:    [90, 92]
+    region:   dynamis_san_doria_se
+
+  17535173:
+    template: Vanguard_Hawker
+    level:    [90, 92]
+    region:   dynamis_san_doria_se
+
+  17535174:
+    template: Vanguards_Hecteyes
+    level:    [90, 92]
+    region:   dynamis_san_doria_se
+
+  17535175:
+    template: Vanguard_Backstabber
+    at:       [-29.038, 1.500, -85.065, 72]
+    level:    [90, 92]
+
+  17535176:
+    template: Vanguard_Backstabber
+    at:       [-15.151, 1.500, -70.122, 132]
+    level:    [90, 92]
+
+  17535177:
+    template: Vanguard_Grappler
+    at:       [-16.860, 1.500, -70.267, 244]
+    level:    [90, 92]
+
+  17535178:
+    template: Vanguard_Trooper
+    at:       [-9.296, 1.500, -72.505, 244]
+    level:    [90, 92]
+
+  17535179:
+    template: Vanguard_Impaler
+    at:       [-17.314, 1.500, -85.458, 90]
+    level:    [90, 92]
+
+  17535180:
+    template: Vanguards_Wyvern
+    at:       [-18.843, 1.784, -80.856, 221]
+    level:    [90, 92]
+
+  17535181:
+    template: Vanguard_Dollmaster
+    at:       [-8.899, 1.500, -73.463, 195]
+    level:    [90, 92]
+
+  17535182:
+    template: Vanguards_Avatar
+    at:       [-9.963, 1.500, -76.020, 204]
+    level:    [90, 92]
+
+  17535183:
+    template: Vanguard_Amputator
+    level:    [90, 92]
+    region:   dynamis_san_doria_s_2
+
+  17535184:
+    template: Vanguard_Amputator
+    level:    [90, 92]
+    region:   dynamis_san_doria_s_2
+
+  17535185:
+    template: Vanguard_Mesmerizer
+    at:       [-87.523, 1.173, -39.068, 207]
+    level:    [90, 92]
+
+  17535186:
+    template: Vanguard_Mesmerizer
+    level:    [90, 92]
+    region:   dynamis_san_doria_s_2
+
+  17535187:
+    template: Vanguard_Vexer
+    level:    [90, 92]
+    region:   dynamis_san_doria_s_2
+
+  17535188:
+    template: Vanguard_Vexer
+    at:       [-83.004, 1.500, -43.614, 184]
+    level:    [90, 92]
+
+  17535189:
+    template: Vanguard_Bugler
+    level:    [90, 92]
+    region:   dynamis_san_doria_s_2
+
+  17535190:
+    template: Vanguard_Bugler
+    level:    [90, 92]
+    region:   dynamis_san_doria_s_2
+
+  17535191:
+    template: Vanguard_Dollmaster
+    at:       [-86.627, 0.683, -45.833, 193]
+    level:    [90, 92]
+
+  17535192:
+    template: Vanguards_Avatar
+    at:       [-95.350, 0.499, -49.595, 156]
+    level:    [90, 92]
+
+  17535193:
+    template: Serjeant_Tombstone
+    at:       [-93.373, 0.500, -50.092, 63]
+    level:    [80, 80]
+
+  17535194:
+    template: Serjeant_Tombstone
+    at:       [-84.391, 1.500, -37.608, 169]
+    level:    [80, 80]
+
+  17535195:
+    template: Vanguard_Amputator
+    at:       [-113.225, 0.500, -27.609, 167]
+    level:    [90, 92]
+
+  17535196:
+    template: Vanguard_Amputator
+    at:       [-110.732, 0.500, -31.437, 82]
+    level:    [90, 92]
+
+  17535197:
+    template: Vanguard_Mesmerizer
+    level:    [90, 92]
+    region:   dynamis_san_doria_s
+
+  17535198:
+    template: Vanguard_Mesmerizer
+    level:    [90, 92]
+    region:   dynamis_san_doria_s
+
+  17535199:
+    template: Vanguard_Vexer
+    at:       [-109.608, 0.500, -33.501, 17]
+    level:    [90, 92]
+
+  17535200:
+    template: Vanguard_Vexer
+    level:    [90, 92]
+    region:   dynamis_san_doria_s
+
+  17535201:
+    template: Vanguard_Bugler
+    at:       [-91.813, 1.499, -28.361, 66]
+    level:    [90, 92]
+
+  17535202:
+    template: Vanguard_Bugler
+    at:       [-97.009, 0.500, -35.325, 105]
+    level:    [90, 92]
+
+  17535203:
+    template: Vanguard_Dollmaster
+    level:    [90, 92]
+    region:   dynamis_san_doria_s
+
+  17535204:
+    template: Vanguards_Avatar
+    at:       [-99.430, 1.349, -23.604, 161]
+    level:    [90, 92]
+
+  17535205:
+    template: Serjeant_Tombstone
+    at:       [-107.412, 0.562, -26.158, 171]
+    level:    [80, 80]
+
+  17535206:
+    template: Serjeant_Tombstone
+    at:       [-106.786, 0.500, -32.995, 61]
+    level:    [80, 80]
+
+  17535207:
+    template: Bladeburner_Rokgevok
+    at:       [103.000, 0.500, -47.000, 98]
+    level:    [95, 95]
+
+  17535208:
+    template: Steelshank_Kratzvatz
+    at:       [18.315, 1.700, -94.055, 137]
+    level:    [95, 95]
+
+  17535209:
+    template: Kratzvatzs_Hecteyes
+    at:       [17.474, 1.700, -95.054, 185]
+    level:    [92, 92]
+
+  17535210:
+    template: Bloodfist_Voshgrosh
+    at:       [-103.000, 0.500, -47.000, 224]
+    level:    [95, 95]
+
+  17535211:
+    template: Spellspear_Djokvukk
+    at:       [-274.000, -6.698, 98.000, 24]
+    level:    [95, 95]
+
+  17535212:
+    template: Djokvukks_Wyvern
+    at:       [-274.000, -6.698, 98.000, 24]
+    level:    [92, 92]
+
+  17535213:
+    template: Arch_Overlord_Tombstone
+    at:       [0.000, -2.500, 43.000, 88]
+    level:    [99, 99]

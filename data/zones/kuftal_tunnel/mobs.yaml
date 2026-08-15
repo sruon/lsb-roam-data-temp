@@ -1,0 +1,1653 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17489921:
+    template: Scavenger_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [60, 62]
+
+  17489922:
+    template: Scavenger_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [60, 62]
+
+  17489923:
+    template: Stygian_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [64, 66]
+
+  17489924:
+    template: Stygian_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [64, 66]
+
+  17489925:
+    template: Devil_Manta
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [66, 68]
+
+  17489926:
+    template: Gordovs_Ghost
+    at:       [-27.909, -10.693, -185.259, 205]
+    level:    [68, 68]
+
+  17489927:
+    template: Dervos_Ghost
+    at:       [-25.142, -10.931, -184.100, 158]
+    level:    [68, 68]
+
+  17489928:
+    template: Gizerls_Ghost
+    at:       [-29.320, -10.436, -182.119, 15]
+    level:    [68, 68]
+
+  17489929:
+    template: Sand_Lizard
+    at:       [-25.047, -20.514, -191.365, 127]
+    level:    [61, 64]
+
+  17489930:
+    template: Sand_Lizard
+    level:    [61, 64]
+    region:   kuftal_tunnel_sw
+
+  17489931:
+    template: Sand_Lizard
+    level:    [61, 64]
+    region:   kuftal_tunnel_sw
+
+  17489932:
+    template: Sand_Lizard
+    level:    [61, 64]
+    region:   kuftal_tunnel_sw
+
+  17489933:
+    template: Sand_Lizard
+    level:    [61, 64]
+    region:   kuftal_tunnel_sw_5
+
+  17489934:
+    template: Sand_Lizard
+    level:    [61, 64]
+    region:   kuftal_tunnel_sw_5
+
+  17489935:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_sw_7
+
+  17489936:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_sw_7
+
+  17489937:
+    template: Robber_Crab
+    at:       [24.000, -9.000, -163.000, 115]
+    level:    [60, 63]
+
+  17489938:
+    template: Robber_Crab
+    at:       [16.000, -9.000, -168.000, 59]
+    level:    [60, 63]
+
+  17489939:
+    template: Haunt
+    at:       [19.481, -10.113, -153.281, 80]
+    level:    [63, 66]
+
+  17489940:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_sw_3
+
+  17489941:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_sw_3
+
+  17489942:
+    template: Haunt
+    level:    [63, 66]
+    region:   kuftal_tunnel_sw_3
+
+  17489943:
+    template: Haunt
+    at:       [-21.604, -9.474, -178.783, 82]
+    level:    [63, 66]
+
+  17489944:
+    template: Haunt
+    at:       [-17.000, -9.528, -169.000, 28]
+    level:    [63, 66]
+
+  17489945:
+    template: Haunt
+    at:       [-27.167, -10.924, -167.806, 127]
+    level:    [63, 66]
+
+  17489946:
+    template: Haunt
+    at:       [-25.000, -10.000, -128.000, 127]
+    level:    [63, 66]
+
+  17489947:
+    template: Haunt
+    at:       [-18.769, -9.577, -153.865, 127]
+    level:    [63, 66]
+
+  17489948:
+    template: Robber_Crab
+    at:       [10.000, -9.000, -174.000, 89]
+    level:    [60, 63]
+
+  17489949:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_s
+
+  17489950:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_s
+
+  17489951:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_s
+
+  17489952:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_s_2
+
+  17489953:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_s_2
+
+  17489954:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_s_2
+
+  17489955:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_s_2
+
+  17489956:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_s_2
+
+  17489957:
+    template: Cave_Worm
+    at:       [31.167, -6.652, -98.787, 60]
+    level:    [60, 63]
+
+  17489958:
+    template: Cave_Worm
+    at:       [19.824, -2.248, -93.466, 45]
+    level:    [60, 63]
+
+  17489959:
+    template: Fire_Elemental
+    at:       [18.183, -2.399, -97.071, 58]
+    level:    [67, 68]
+
+  17489960:
+    template: Air_Elemental
+    at:       [26.000, -4.000, -98.000, 15]
+    level:    [68, 70]
+
+  17489961:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_sw_4
+
+  17489962:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_sw_4
+
+  17489963:
+    template: Sabotender_Sediendo
+    level:    [64, 67]
+    region:   kuftal_tunnel_sw_4
+
+  17489964:
+    template: Sabotender_Sediendo
+    level:    [64, 67]
+    region:   kuftal_tunnel_sw_4
+
+  17489965:
+    template: Cave_Worm
+    level:    [60, 63]
+    region:   kuftal_tunnel_sw_2
+
+  17489966:
+    template: Cave_Worm
+    at:       [-18.147, -5.498, -107.681, 127]
+    level:    [60, 63]
+
+  17489967:
+    template: Fire_Elemental
+    at:       [-18.486, -3.969, -103.166, 127]
+    level:    [67, 68]
+
+  17489968:
+    template: Air_Elemental
+    level:    [68, 70]
+    region:   kuftal_tunnel_sw_2
+
+  17489969:
+    template: Haunt
+    at:       [-18.990, -11.364, -131.422, 127]
+    level:    [63, 66]
+
+  17489970:
+    template: Robber_Crab
+    at:       [112.000, -0.010, -14.000, 127]
+    level:    [60, 63]
+
+  17489971:
+    template: Sabotender_Sediendo
+    at:       [-17.217, -0.956, -57.647, 31]
+    level:    [64, 67]
+
+  17489972:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_w_5
+
+  17489973:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_w_5
+
+  17489974:
+    template: Sabotender_Sediendo
+    level:    [64, 67]
+    region:   kuftal_tunnel_w_5
+
+  17489975:
+    template: Sabotender_Sediendo
+    level:    [64, 67]
+    region:   kuftal_tunnel_w_5
+
+  17489976:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_w_2
+
+  17489977:
+    template: Sabotender_Sediendo
+    level:    [65, 67]
+    region:   kuftal_tunnel_w_2
+
+  17489978:
+    template: Sabotender_Sediendo
+    level:    [64, 67]
+    region:   kuftal_tunnel_w_2
+
+  17489979:
+    template: Sabotender_Sediendo
+    level:    [64, 67]
+    region:   kuftal_tunnel_w_2
+
+  17489980:
+    template: Sabotender_Mariachi
+    at:       [-56.081, -1.546, 21.705, 127]
+    level:    [68, 70]
+
+  17489981:
+    template: Sabotender_Sediendo
+    level:    [64, 67]
+    region:   kuftal_tunnel_w
+
+  17489982:
+    template: Sabotender_Sediendo
+    level:    [64, 67]
+    region:   kuftal_tunnel_w
+
+  17489983:
+    template: Sabotender_Sediendo
+    level:    [64, 67]
+    region:   kuftal_tunnel_w_6
+
+  17489984:
+    template: Sabotender_Sediendo
+    level:    [64, 67]
+    region:   kuftal_tunnel_w_6
+
+  17489985:
+    template: Sabotender_Sediendo
+    level:    [64, 67]
+    region:   kuftal_tunnel_w_6
+
+  17489986:
+    template: Sabotender_Sediendo
+    at:       [-34.957, -0.402, 41.675, 214]
+    level:    [64, 67]
+
+  17489987:
+    template: Sabotender_Sediendo
+    at:       [-23.543, -0.396, 59.578, 127]
+    level:    [64, 67]
+
+  17489988:
+    template: Recluse_Spider
+    at:       [-19.870, -0.512, 58.815, 127]
+    level:    [63, 66]
+
+  17489989:
+    template: Cave_Worm
+    level:    [60, 63]
+    region:   kuftal_tunnel_w_11
+
+  17489990:
+    template: Cave_Worm
+    level:    [60, 63]
+    region:   kuftal_tunnel_w_11
+
+  17489991:
+    template: Fire_Elemental
+    level:    [67, 68]
+    region:   kuftal_tunnel_w_11
+
+  17489992:
+    template: Air_Elemental
+    level:    [68, 70]
+    region:   kuftal_tunnel_w_11
+
+  17489993:
+    template: Recluse_Spider
+    level:    [63, 66]
+    region:   kuftal_tunnel_w_10
+
+  17489994:
+    template: Sand_Lizard
+    level:    [61, 64]
+    region:   kuftal_tunnel_w_10
+
+  17489995:
+    template: Sabotender_Sediendo
+    level:    [64, 67]
+    region:   kuftal_tunnel_w_10
+
+  17489996:
+    template: Cave_Worm
+    at:       [59.339, -2.674, 16.713, 53]
+    level:    [60, 63]
+
+  17489997:
+    template: Cave_Worm
+    at:       [63.597, -1.695, 15.773, 127]
+    level:    [60, 63]
+
+  17489998:
+    template: Fire_Elemental
+    at:       [56.034, -4.812, 21.604, 127]
+    level:    [67, 68]
+
+  17489999:
+    template: Air_Elemental
+    at:       [48.851, -6.456, 16.704, 127]
+    level:    [68, 70]
+
+  17490000:
+    template: Sand_Lizard
+    level:    [61, 64]
+    region:   kuftal_tunnel_c_4
+
+  17490001:
+    template: Sand_Lizard
+    level:    [61, 64]
+    region:   kuftal_tunnel_c_4
+
+  17490002:
+    template: Sand_Lizard
+    at:       [89.590, -0.321, -9.390, 36]
+    level:    [61, 64]
+
+  17490003:
+    template: Sand_Lizard
+    level:    [61, 64]
+    region:   kuftal_tunnel_c_8
+
+  17490004:
+    template: Sand_Lizard
+    level:    [61, 64]
+    region:   kuftal_tunnel_c_8
+
+  17490005:
+    template: Sand_Lizard
+    level:    [61, 64]
+    region:   kuftal_tunnel_c_8
+
+  17490006:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_c_8
+
+  17490007:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_c_8
+
+  17490008:
+    template: Sand_Lizard
+    level:    [61, 64]
+    region:   kuftal_tunnel_c_6
+
+  17490009:
+    template: Sand_Lizard
+    level:    [61, 64]
+    region:   kuftal_tunnel_c_6
+
+  17490010:
+    template: Sand_Lizard
+    level:    [61, 64]
+    region:   kuftal_tunnel_c_6
+
+  17490011:
+    template: Sand_Lizard
+    level:    [61, 64]
+    region:   kuftal_tunnel_c_9
+
+  17490012:
+    template: Sand_Lizard
+    level:    [61, 64]
+    region:   kuftal_tunnel_c_9
+
+  17490013:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_c_9
+
+  17490014:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_c_9
+
+  17490015:
+    template: Sand_Lizard
+    at:       [-17.000, -19.000, -203.000, 127]
+    level:    [61, 64]
+
+  17490016:
+    template: Amemet
+    at:       [102.000, -0.191, 3.000, 127]
+    level:    [65, 66]
+
+  17490017:
+    template: Cave_Worm
+    at:       [96.950, -4.752, -61.179, 16]
+    level:    [60, 63]
+
+  17490018:
+    template: Cave_Worm
+    at:       [100.000, -1.000, -54.000, 43]
+    level:    [60, 63]
+
+  17490019:
+    template: Fire_Elemental
+    at:       [97.151, -3.692, -54.967, 127]
+    level:    [67, 68]
+
+  17490020:
+    template: Air_Elemental
+    at:       [87.000, -6.000, -59.000, 69]
+    level:    [68, 70]
+
+  17490021:
+    template: Sand_Lizard
+    at:       [-24.000, -19.000, -208.000, 127]
+    level:    [61, 64]
+
+  17490022:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_s_4
+
+  17490023:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_s_4
+
+  17490024:
+    template: Cave_Worm
+    at:       [142.746, -4.510, -60.750, 25]
+    level:    [60, 63]
+
+  17490025:
+    template: Cave_Worm
+    at:       [140.489, -2.781, -55.044, 127]
+    level:    [60, 63]
+
+  17490026:
+    template: Fire_Elemental
+    at:       [140.524, -3.562, -59.846, 54]
+    level:    [67, 68]
+
+  17490027:
+    template: Air_Elemental
+    at:       [130.918, -0.667, -51.060, 86]
+    level:    [68, 70]
+
+  17490028:
+    template: Haunt
+    at:       [160.520, -9.920, -65.040, 58]
+    level:    [63, 66]
+
+  17490029:
+    template: Recluse_Spider
+    level:    [63, 66]
+    region:   kuftal_tunnel_w_9
+
+  17490030:
+    template: Recluse_Spider
+    level:    [63, 66]
+    region:   kuftal_tunnel_w_9
+
+  17490031:
+    template: Recluse_Spider
+    level:    [63, 66]
+    region:   kuftal_tunnel_w_9
+
+  17490032:
+    template: Recluse_Spider
+    level:    [63, 66]
+    region:   kuftal_tunnel_w_9
+
+  17490033:
+    template: Recluse_Spider
+    level:    [63, 66]
+    region:   kuftal_tunnel_nw
+
+  17490034:
+    template: Recluse_Spider
+    level:    [63, 66]
+    region:   kuftal_tunnel_nw
+
+  17490035:
+    template: Recluse_Spider
+    level:    [63, 66]
+    region:   kuftal_tunnel_nw
+
+  17490036:
+    template: Recluse_Spider
+    at:       [24.719, -0.662, 138.597, 25]
+    level:    [63, 66]
+
+  17490037:
+    template: Recluse_Spider
+    at:       [26.196, -0.422, 148.169, 192]
+    level:    [63, 66]
+
+  17490038:
+    template: Recluse_Spider
+    level:    [63, 66]
+    region:   kuftal_tunnel_n
+
+  17490039:
+    template: Recluse_Spider
+    level:    [63, 66]
+    region:   kuftal_tunnel_n
+
+  17490040:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_n
+
+  17490041:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_n
+
+  17490042:
+    template: Cave_Worm
+    level:    [60, 63]
+    region:   kuftal_tunnel_n_3
+
+  17490043:
+    template: Cave_Worm
+    level:    [60, 63]
+    region:   kuftal_tunnel_n_3
+
+  17490044:
+    template: Cave_Worm
+    level:    [60, 63]
+    region:   kuftal_tunnel_n_3
+
+  17490045:
+    template: Fire_Elemental
+    level:    [67, 68]
+    region:   kuftal_tunnel_n_3
+
+  17490046:
+    template: Air_Elemental
+    level:    [68, 70]
+    region:   kuftal_tunnel_n_3
+
+  17490047:
+    template: Robber_Crab
+    at:       [111.049, -9.693, 136.598, 127]
+    level:    [60, 63]
+
+  17490048:
+    template: Robber_Crab
+    at:       [123.000, -8.000, 138.000, 11]
+    level:    [60, 63]
+
+  17490049:
+    template: Robber_Crab
+    at:       [112.033, -9.633, 142.311, 127]
+    level:    [60, 63]
+
+  17490050:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_n_7
+
+  17490051:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_n_7
+
+  17490052:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_n_7
+
+  17490053:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_n_7
+
+  17490054:
+    template: Robber_Crab
+    at:       [137.089, -10.562, 126.914, 62]
+    level:    [60, 63]
+
+  17490055:
+    template: Robber_Crab
+    at:       [138.766, -10.500, 118.081, 61]
+    level:    [60, 63]
+
+  17490056:
+    template: Haunt
+    at:       [141.261, -10.451, 115.464, 67]
+    level:    [63, 66]
+
+  17490057:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_c_10
+
+  17490058:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_c_10
+
+  17490059:
+    template: Cave_Worm
+    level:    [60, 63]
+    region:   kuftal_tunnel_c_7
+
+  17490060:
+    template: Cave_Worm
+    level:    [60, 63]
+    region:   kuftal_tunnel_c_7
+
+  17490061:
+    template: Cave_Worm
+    level:    [60, 63]
+    region:   kuftal_tunnel_c_7
+
+  17490062:
+    template: Fire_Elemental
+    level:    [67, 68]
+    region:   kuftal_tunnel_c_7
+
+  17490063:
+    template: Air_Elemental
+    level:    [68, 70]
+    region:   kuftal_tunnel_c_7
+
+  17490064:
+    template: Cave_Worm
+    at:       [55.524, -6.611, 190.474, 127]
+    level:    [60, 63]
+
+  17490065:
+    template: Cave_Worm
+    at:       [61.000, -5.000, 185.000, 127]
+    level:    [60, 63]
+
+  17490066:
+    template: Fire_Elemental
+    at:       [60.906, -9.031, 198.387, 127]
+    level:    [67, 68]
+
+  17490067:
+    template: Air_Elemental
+    at:       [59.626, -3.672, 180.909, 22]
+    level:    [68, 70]
+
+  17490068:
+    template: Robber_Crab
+    at:       [57.000, -10.000, 260.000, 19]
+    level:    [60, 63]
+
+  17490069:
+    template: Robber_Crab
+    at:       [69.106, -11.538, 209.402, 127]
+    level:    [60, 63]
+
+  17490070:
+    template: Robber_Crab
+    at:       [79.000, -10.000, 220.000, 39]
+    level:    [60, 63]
+
+  17490071:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_n_6
+
+  17490072:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_n_6
+
+  17490073:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_n_6
+
+  17490074:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_n_6
+
+  17490075:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_n_6
+
+  17490076:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_n_6
+
+  17490077:
+    template: Diplopod
+    at:       [104.058, -9.469, 141.507, 124]
+    level:    [68, 71]
+
+  17490078:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_n_8
+
+  17490079:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_n_5
+
+  17490080:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_n_5
+
+  17490081:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_n_5
+
+  17490082:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_n_5
+
+  17490083:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_n_2
+
+  17490084:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_n_2
+
+  17490085:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_n_2
+
+  17490086:
+    template: Ovinnik
+    level:    [77, 79]
+    region:   kuftal_tunnel_c
+
+  17490087:
+    template: Ovinnik
+    level:    [77, 79]
+    region:   kuftal_tunnel_c
+
+  17490088:
+    template: Ovinnik
+    level:    [77, 79]
+    region:   kuftal_tunnel_c_3
+
+  17490089:
+    template: Ovinnik
+    level:    [77, 79]
+    region:   kuftal_tunnel_c_3
+
+  17490090:
+    template: Ovinnik
+    at:       [102.008, 19.479, -41.346, 196]
+    level:    [77, 79]
+
+  17490091:
+    template: Ovinnik
+    at:       [119.761, 20.749, -57.993, 199]
+    level:    [77, 79]
+
+  17490092:
+    template: Ovinnik
+    at:       [121.730, 20.115, -54.147, 43]
+    level:    [77, 79]
+
+  17490093:
+    template: Greater_Cockatrice
+    at:       [124.485, 20.011, -60.334, 127]
+    level:    [78, 80]
+
+  17490094:
+    template: Greater_Cockatrice
+    at:       [117.399, 21.106, -54.455, 61]
+    level:    [78, 80]
+
+  17490095:
+    template: Ovinnik
+    level:    [77, 79]
+    region:   kuftal_tunnel_c_11
+
+  17490096:
+    template: Ovinnik
+    level:    [77, 79]
+    region:   kuftal_tunnel_e
+
+  17490097:
+    template: Greater_Cockatrice
+    level:    [78, 80]
+    region:   kuftal_tunnel_e_2
+
+  17490098:
+    template: Greater_Cockatrice
+    level:    [78, 80]
+    region:   kuftal_tunnel_e_2
+
+  17490099:
+    template: Ladon
+    level:    [80, 82]
+    region:   kuftal_tunnel_e_2
+
+  17490100:
+    template: Greater_Cockatrice
+    level:    [78, 80]
+    region:   kuftal_tunnel_e_2
+
+  17490101:
+    template: Pelican
+    at:       [180.299, 20.449, -42.575, 58]
+    level:    [80, 81]
+
+  17490102:
+    template: Ovinnik
+    at:       [137.584, 19.997, -73.333, 52]
+    level:    [77, 79]
+
+  17490103:
+    template: Ovinnik
+    at:       [146.888, 19.448, -90.605, 106]
+    level:    [77, 79]
+
+  17490104:
+    template: Ladon
+    at:       [162.141, 20.851, -136.548, 49]
+    level:    [80, 82]
+
+  17490105:
+    template: Greater_Cockatrice
+    level:    [78, 80]
+    region:   kuftal_tunnel_se
+
+  17490106:
+    template: Greater_Cockatrice
+    level:    [78, 80]
+    region:   kuftal_tunnel_se
+
+  17490107:
+    template: Greater_Cockatrice
+    level:    [78, 80]
+    region:   kuftal_tunnel_se
+
+  17490108:
+    template: Ladon
+    level:    [80, 82]
+    region:   kuftal_tunnel_se
+
+  17490109:
+    template: Ovinnik
+    at:       [128.944, 19.299, -141.073, 173]
+    level:    [77, 79]
+
+  17490110:
+    template: Ladon
+    at:       [139.580, 18.879, -142.587, 15]
+    level:    [80, 82]
+
+  17490111:
+    template: Kuftal_Delver
+    at:       [131.082, 20.192, -103.232, 188]
+    level:    [99, 101]
+
+  17490112:
+    template: Kuftal_Delver
+    at:       [72.522, 20.231, -144.640, 40]
+    level:    [99, 101]
+
+  17490113:
+    template: Machairodus
+    at:       [77.917, 20.094, -94.005, 239]
+    level:    [101, 103]
+
+  17490114:
+    template: Machairodus
+    at:       [81.488, 20.706, -99.559, 39]
+    level:    [101, 103]
+
+  17490115:
+    template: Kuftal_Delver
+    at:       [94.412, 19.591, -93.201, 168]
+    level:    [99, 101]
+
+  17490116:
+    template: Kuftal_Delver
+    at:       [77.967, 18.191, -90.812, 235]
+    level:    [99, 101]
+
+  17490117:
+    template: Kuftal_Delver
+    at:       [90.459, 19.290, -105.148, 93]
+    level:    [99, 101]
+
+  17490118:
+    template: Kuftal_Delver
+    at:       [87.371, 19.008, -105.913, 112]
+    level:    [99, 101]
+
+  17490119:
+    template: Machairodus
+    at:       [97.974, 19.454, -118.135, 186]
+    level:    [101, 103]
+
+  17490120:
+    template: Kuftal_Delver
+    at:       [96.896, 20.134, -109.424, 232]
+    level:    [99, 101]
+
+  17490121:
+    template: Machairodus
+    at:       [93.845, 20.176, -141.523, 171]
+    level:    [101, 103]
+
+  17490122:
+    template: Kuftal_Delver
+    at:       [90.035, 19.598, -147.309, 86]
+    level:    [99, 101]
+
+  17490123:
+    template: Machairodus
+    level:    [101, 103]
+    region:   kuftal_tunnel_s_3
+
+  17490124:
+    template: Machairodus
+    at:       [63.756, 19.722, -149.825, 240]
+    level:    [101, 103]
+
+  17490125:
+    template: Kuftal_Delver
+    at:       [78.128, 20.147, -133.810, 127]
+    level:    [99, 101]
+
+  17490126:
+    template: Kuftal_Delver
+    at:       [83.990, 18.590, -149.627, 0]
+    level:    [99, 101]
+
+  17490127:
+    template: Machairodus
+    level:    [101, 103]
+    region:   kuftal_tunnel_s_3
+
+  17490128:
+    template: Machairodus
+    level:    [101, 103]
+    region:   kuftal_tunnel_s_3
+
+  17490129:
+    template: Kuftal_Delver
+    at:       [54.284, 18.594, -138.165, 114]
+    level:    [99, 101]
+
+  17490130:
+    template: Kuftal_Delver
+    at:       [67.591, 19.092, -165.148, 195]
+    level:    [99, 101]
+
+  17490131:
+    template: Machairodus
+    at:       [48.368, 29.231, -187.389, 91]
+    level:    [101, 103]
+
+  17490132:
+    template: Machairodus
+    at:       [48.668, 29.189, -187.343, 91]
+    level:    [101, 103]
+
+  17490133:
+    template: Kuftal_Delver
+    at:       [48.182, 23.188, -176.566, 99]
+    level:    [99, 101]
+
+  17490134:
+    template: Machairodus
+    at:       [40.638, 29.683, -209.156, 226]
+    level:    [101, 103]
+
+  17490135:
+    template: Machairodus
+    at:       [43.355, 29.629, -190.322, 203]
+    level:    [101, 103]
+
+  17490136:
+    template: Machairodus
+    at:       [35.466, 29.818, -197.668, 141]
+    level:    [101, 103]
+
+  17490137:
+    template: Kuftal_Delver
+    at:       [42.354, 29.501, -202.906, 90]
+    level:    [99, 101]
+
+  17490138:
+    template: Kuftal_Delver
+    at:       [51.682, 29.511, -197.874, 36]
+    level:    [99, 101]
+
+  17490139:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_ne
+
+  17490140:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_ne
+
+  17490141:
+    template: Deinonychus
+    at:       [182.311, 9.349, 119.189, 53]
+    level:    [65, 68]
+
+  17490142:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_ne_2
+
+  17490143:
+    template: Robber_Crab
+    level:    [60, 63]
+    region:   kuftal_tunnel_ne_2
+
+  17490144:
+    template: Deinonychus
+    at:       [194.713, 9.784, 104.400, 112]
+    level:    [65, 68]
+
+  17490145:
+    template: Goblin_Mercenary
+    at:       [259.747, 10.569, 37.264, 47]
+    level:    [66, 69]
+
+  17490146:
+    template: Deinonychus
+    level:    [65, 68]
+    region:   kuftal_tunnel_e_4
+
+  17490147:
+    template: Goblin_Alchemist
+    at:       [267.016, 9.867, 39.376, 73]
+    level:    [66, 69]
+
+  17490148:
+    template: Deinonychus
+    level:    [65, 68]
+    region:   kuftal_tunnel_e_5
+
+  17490149:
+    template: Goblin_Alchemist
+    at:       [264.086, 10.299, 34.878, 137]
+    level:    [66, 69]
+
+  17490150:
+    template: Goblin_Bandit
+    level:    [66, 69]
+    region:   kuftal_tunnel_e_5
+
+  17490151:
+    template: Goblin_Tamer
+    at:       [252.889, 9.858, 54.500, 141]
+    level:    [66, 69]
+
+  17490152:
+    template: Goblins_Spider
+    at:       [1.000, 1.000, 1.000, 74]
+    level:    [53, 55]
+
+  17490153:
+    template: Goblin_Mercenary
+    at:       [251.707, 10.151, 57.164, 18]
+    level:    [66, 69]
+
+  17490154:
+    template: Goblin_Alchemist
+    at:       [249.992, 9.348, 52.922, 210]
+    level:    [66, 69]
+
+  17490155:
+    template: Goblin_Bandit
+    at:       [260.281, 10.712, 40.538, 8]
+    level:    [66, 69]
+
+  17490156:
+    template: Goblin_Tamer
+    at:       [262.396, 10.180, 35.069, 155]
+    level:    [66, 69]
+
+  17490157:
+    template: Goblins_Spider
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [53, 55]
+
+  17490158:
+    template: Goblin_Mercenary
+    at:       [256.673, 10.146, 43.678, 242]
+    level:    [66, 69]
+
+  17490159:
+    template: Bloodthirster_Madkix
+    at:       [261.032, 10.414, 35.721, 61]
+    level:    [70, 72]
+
+  17490160:
+    template: Deinonychus
+    at:       [173.475, 9.878, 64.408, 10]
+    level:    [65, 68]
+
+  17490161:
+    template: Deinonychus
+    at:       [205.496, 10.451, 58.452, 22]
+    level:    [65, 68]
+
+  17490162:
+    template: Goblin_Alchemist
+    level:    [66, 69]
+    region:   kuftal_tunnel_e_3
+
+  17490163:
+    template: Goblin_Bandit
+    at:       [168.143, 9.629, 19.702, 114]
+    level:    [66, 69]
+
+  17490164:
+    template: Goblin_Tamer
+    at:       [170.337, 8.462, 53.599, 164]
+    level:    [66, 69]
+
+  17490165:
+    template: Goblins_Spider
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [53, 55]
+
+  17490166:
+    template: Goblin_Mercenary
+    at:       [201.799, 10.516, 58.047, 201]
+    level:    [66, 69]
+
+  17490167:
+    template: Deinonychus
+    at:       [178.121, 10.267, 34.388, 163]
+    level:    [65, 68]
+
+  17490168:
+    template: Deinonychus
+    at:       [174.031, 10.054, 40.243, 179]
+    level:    [65, 68]
+
+  17490169:
+    template: Goblin_Alchemist
+    level:    [66, 69]
+    region:   kuftal_tunnel_c_12
+
+  17490170:
+    template: Goblin_Bandit
+    at:       [117.481, 19.563, 17.709, 149]
+    level:    [66, 69]
+
+  17490171:
+    template: Goblin_Tamer
+    at:       [119.136, 19.475, 20.647, 96]
+    level:    [66, 69]
+
+  17490172:
+    template: Goblins_Spider
+    at:       [1.000, 1.000, 1.000, 127]
+    level:    [53, 55]
+
+  17490173:
+    template: Goblin_Mercenary
+    level:    [66, 69]
+    region:   kuftal_tunnel_c_12
+
+  17490174:
+    template: Deinonychus
+    at:       [102.844, 20.654, 41.945, 142]
+    level:    [65, 68]
+
+  17490175:
+    template: Deinonychus
+    at:       [99.731, 20.033, 33.563, 16]
+    level:    [65, 68]
+
+  17490176:
+    template: Deinonychus
+    level:    [65, 68]
+    region:   kuftal_tunnel_c_5
+
+  17490177:
+    template: Deinonychus
+    level:    [65, 68]
+    region:   kuftal_tunnel_c_5
+
+  17490178:
+    template: Goblin_Alchemist
+    level:    [66, 69]
+    region:   kuftal_tunnel_c_5
+
+  17490179:
+    template: Goblin_Bandit
+    level:    [66, 69]
+    region:   kuftal_tunnel_c_5
+
+  17490180:
+    template: Goblin_Tamer
+    level:    [66, 69]
+    region:   kuftal_tunnel_c_5
+
+  17490181:
+    template: Goblins_Spider
+    level:    [54, 55]
+    region:   kuftal_tunnel_c_5
+
+  17490182:
+    template: Goblin_Mercenary
+    level:    [66, 69]
+    region:   kuftal_tunnel_c_5
+
+  17490183:
+    template: Deinonychus
+    at:       [135.444, 19.171, 71.520, 164]
+    level:    [65, 68]
+
+  17490184:
+    template: Goblin_Mercenary
+    at:       [135.286, 19.102, 68.509, 209]
+    level:    [66, 69]
+
+  17490185:
+    template: Deinonychus
+    at:       [135.296, 19.242, 89.327, 126]
+    level:    [65, 68]
+
+  17490186:
+    template: Deinonychus
+    at:       [31.637, 20.027, 136.962, 46]
+    level:    [65, 68]
+
+  17490187:
+    template: Goblin_Bandit
+    at:       [128.143, 19.329, 94.879, 73]
+    level:    [66, 69]
+
+  17490188:
+    template: Kuftal_Digger
+    at:       [95.000, 29.000, 107.000, 127]
+    level:    [66, 69]
+
+  17490189:
+    template: Kuftal_Digger
+    at:       [99.000, 27.000, 101.000, 127]
+    level:    [66, 69]
+
+  17490190:
+    template: Diplopod
+    at:       [83.151, 29.543, 120.514, 170]
+    level:    [68, 71]
+
+  17490191:
+    template: Diplopod
+    at:       [74.864, 29.569, 114.959, 188]
+    level:    [68, 71]
+
+  17490192:
+    template: Kuftal_Digger
+    level:    [66, 69]
+    region:   kuftal_tunnel_n_4
+
+  17490193:
+    template: Kuftal_Digger
+    level:    [66, 69]
+    region:   kuftal_tunnel_n_4
+
+  17490194:
+    template: Kuftal_Digger
+    at:       [76.925, 29.500, 125.780, 27]
+    level:    [66, 69]
+
+  17490195:
+    template: Kuftal_Digger
+    at:       [84.379, 29.500, 120.528, 63]
+    level:    [66, 69]
+
+  17490196:
+    template: Kuftal_Digger
+    at:       [91.664, 30.602, 128.746, 9]
+    level:    [66, 69]
+
+  17490197:
+    template: Kuftal_Digger
+    at:       [85.111, 30.198, 132.787, 64]
+    level:    [66, 69]
+
+  17490198:
+    template: Kuftal_Digger
+    at:       [58.833, 25.270, 96.515, 198]
+    level:    [66, 69]
+
+  17490199:
+    template: Kuftal_Digger
+    at:       [63.146, 24.481, 91.756, 152]
+    level:    [66, 69]
+
+  17490200:
+    template: Deinonychus
+    level:    [65, 68]
+    region:   kuftal_tunnel_c_2
+
+  17490201:
+    template: Deinonychus
+    level:    [65, 68]
+    region:   kuftal_tunnel_c_2
+
+  17490202:
+    template: Deinonychus
+    level:    [65, 68]
+    region:   kuftal_tunnel_w_12
+
+  17490203:
+    template: Deinonychus
+    at:       [23.071, 20.424, 64.804, 227]
+    level:    [65, 68]
+
+  17490204:
+    template: Yowie
+    at:       [25.841, 20.252, 71.875, 83]
+    level:    [69, 71]
+
+  17490205:
+    template: Deinonychus
+    at:       [17.858, 19.906, 84.521, 43]
+    level:    [65, 68]
+
+  17490206:
+    template: Deinonychus
+    at:       [22.816, 19.385, 118.417, 228]
+    level:    [65, 68]
+
+  17490207:
+    template: Deinonychus
+    at:       [35.732, 20.095, 143.961, 221]
+    level:    [65, 68]
+
+  17490208:
+    template: Kuftal_Digger
+    at:       [54.795, 25.358, 136.196, 139]
+    level:    [66, 69]
+
+  17490209:
+    template: Kuftal_Digger
+    at:       [51.761, 23.807, 140.868, 137]
+    level:    [66, 69]
+
+  17490210:
+    template: Deinonychus
+    at:       [19.931, 19.492, 39.522, 140]
+    level:    [65, 68]
+
+  17490211:
+    template: Recluse_Spider
+    at:       [21.631, 19.612, 36.404, 46]
+    level:    [63, 66]
+
+  17490212:
+    template: Recluse_Spider
+    level:    [63, 66]
+    region:   kuftal_tunnel_w_11
+
+  17490213:
+    template: Deinonychus
+    level:    [65, 68]
+    region:   kuftal_tunnel_w_7
+
+  17490214:
+    template: Recluse_Spider
+    level:    [63, 66]
+    region:   kuftal_tunnel_w_7
+
+  17490215:
+    template: Recluse_Spider
+    level:    [63, 66]
+    region:   kuftal_tunnel_w_7
+
+  17490216:
+    template: Recluse_Spider
+    at:       [6.455, 19.768, 25.623, 227]
+    level:    [63, 66]
+
+  17490217:
+    template: Arachne
+    at:       [-22.423, 20.750, -0.009, 39]
+    level:    [67, 69]
+
+  17490218:
+    template: Deinonychus
+    level:    [65, 68]
+    region:   kuftal_tunnel_w_8
+
+  17490219:
+    template: Recluse_Spider
+    level:    [63, 66]
+    region:   kuftal_tunnel_w_8
+
+  17490220:
+    template: Recluse_Spider
+    at:       [-21.927, 18.974, 24.770, 77]
+    level:    [63, 66]
+
+  17490221:
+    template: Recluse_Spider
+    at:       [-18.252, 20.187, 66.609, 127]
+    level:    [63, 66]
+
+  17490222:
+    template: Recluse_Spider
+    at:       [-16.450, 20.036, 67.012, 244]
+    level:    [63, 66]
+
+  17490223:
+    template: Deinonychus
+    at:       [-24.693, 19.553, 85.571, 205]
+    level:    [65, 68]
+
+  17490224:
+    template: Recluse_Spider
+    at:       [-20.507, 20.207, 74.989, 161]
+    level:    [63, 66]
+
+  17490225:
+    template: Recluse_Spider
+    at:       [-23.792, 20.228, 77.227, 90]
+    level:    [63, 66]
+
+  17490226:
+    template: Recluse_Spider
+    level:    [63, 66]
+    region:   kuftal_tunnel_w_3
+
+  17490227:
+    template: Recluse_Spider
+    level:    [63, 66]
+    region:   kuftal_tunnel_w_3
+
+  17490228:
+    template: Recluse_Spider
+    level:    [63, 66]
+    region:   kuftal_tunnel_w_4
+
+  17490229:
+    template: Recluse_Spider
+    level:    [63, 66]
+    region:   kuftal_tunnel_w_4
+
+  17490230:
+    template: Mimic
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [60, 60]
+
+  17490231:
+    template: Cancer
+    at:       [-21.291, -10.899, -147.523, 35]
+    level:    [65, 65]
+
+  17490232:
+    template: Robber_Crab
+    at:       [-21.291, -10.899, -147.523, 35]
+    level:    [60, 63]
+
+  17490233:
+    template: Phantom_Worm
+    at:       [76.943, 29.916, 118.854, 0]
+    level:    [70, 72]
+
+  17490234:
+    template: Guivre
+    level:    [84, 84]
+    region:   kuftal_tunnel_sw_6
+
+  17490235:
+    template: Kettenkaefer
+    at:       [204.052, 10.250, 96.414, 223]
+    level:    [80, 80]
+
+  17490236:
+    template: Tangaroa
+    at:       [-48.532, 0.001, 39.542, 149]
+    level:    [96, 97]
+
+  17490237:
+    template: Koura
+    at:       [-42.900, -0.026, 44.017, 128]
+    level:    [92, 93]
+
+  17490238:
+    template: Pekapeka
+    at:       [-43.378, -0.072, 45.475, 71]
+    level:    [92, 93]
+
+  17490239:
+    template: Moki
+    at:       [-40.911, -0.100, 45.106, 94]
+    level:    [92, 93]
+
+  17490240:
+    template: Tangaroa
+    at:       [136.000, 19.701, -130.000, 0]
+    level:    [96, 97]
+
+  17490241:
+    template: Koura
+    at:       [137.587, 19.652, -129.559, 146]
+    level:    [92, 93]
+
+  17490242:
+    template: Pekapeka
+    at:       [138.502, 19.883, -129.211, 251]
+    level:    [92, 93]
+
+  17490243:
+    template: Moki
+    at:       [137.389, 19.685, -128.934, 150]
+    level:    [92, 93]
+
+  17490244:
+    template: Tangaroa
+    at:       [127.792, -0.520, 6.798, 215]
+    level:    [96, 97]
+
+  17490245:
+    template: Koura
+    at:       [129.292, -0.017, -14.109, 59]
+    level:    [92, 93]
+
+  17490246:
+    template: Pekapeka
+    at:       [127.949, 0.100, -14.446, 40]
+    level:    [92, 93]
+
+  17490247:
+    template: Moki
+    at:       [128.642, -0.003, -12.849, 54]
+    level:    [92, 93]
+
+  17490248:
+    template: Specter_Worm
+    at:       [-20.620, 20.661, 3.940, 212]
+    level:    [0, 0]
+
+  17490249:
+    template: Specter_Worm
+    at:       [40.009, -0.369, 166.520, 227]
+    level:    [0, 0]
+
+  17490250:
+    template: Specter_Worm
+    at:       [157.839, -8.959, -59.779, 150]
+    level:    [0, 0]

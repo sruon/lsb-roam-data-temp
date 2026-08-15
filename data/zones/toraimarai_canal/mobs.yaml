@@ -1,0 +1,1608 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17469441:
+    template: Bigclaw
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [49, 52]
+
+  17469442:
+    template: Canal_Leech
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [45, 47]
+
+  17469443:
+    template: Rock_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [52, 54]
+
+  17469444:
+    template: Bloodsucker
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [54, 57]
+
+  17469445:
+    template: Mousse
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [63, 65]
+
+  17469446:
+    template: Canal_Bats
+    level:    [45, 47]
+    region:   toraimarai_canal_nw
+
+  17469447:
+    template: Canal_Bats
+    level:    [45, 47]
+    region:   toraimarai_canal_nw
+
+  17469448:
+    template: Canal_Bats
+    level:    [45, 47]
+    region:   toraimarai_canal_nw_3
+
+  17469449:
+    template: Canal_Bats
+    level:    [45, 47]
+    region:   toraimarai_canal_nw_3
+
+  17469450:
+    template: Hell_Bat
+    at:       [-175.900, 15.500, 223.949, 181]
+    level:    [47, 49]
+
+  17469451:
+    template: Hell_Bat
+    level:    [47, 49]
+    region:   toraimarai_canal_nw_3
+
+  17469452:
+    template: Bigclaw
+    at:       [-176.100, 15.500, 187.574, 74]
+    level:    [49, 52]
+
+  17469453:
+    template: Bigclaw
+    level:    [49, 52]
+    region:   toraimarai_canal_nw_3
+
+  17469454:
+    template: Fallen_Knight
+    level:    [52, 55]
+    region:   toraimarai_canal_nw_3
+
+  17469455:
+    template: Canal_Bats
+    at:       [-185.200, 15.498, 181.027, 185]
+    level:    [45, 47]
+
+  17469456:
+    template: Canal_Bats
+    level:    [45, 47]
+    region:   toraimarai_canal_nw_2
+
+  17469457:
+    template: Hell_Bat
+    level:    [47, 49]
+    region:   toraimarai_canal_nw_2
+
+  17469458:
+    template: Hell_Bat
+    level:    [47, 49]
+    region:   toraimarai_canal_nw_2
+
+  17469459:
+    template: Bigclaw
+    level:    [49, 52]
+    region:   toraimarai_canal_nw_2
+
+  17469460:
+    template: Fallen_Knight
+    at:       [-185.200, 15.498, 164.343, 192]
+    level:    [52, 55]
+
+  17469461:
+    template: Canal_Bats
+    at:       [-145.700, 15.498, 134.701, 127]
+    level:    [45, 47]
+
+  17469462:
+    template: Canal_Bats
+    level:    [45, 47]
+    region:   toraimarai_canal_nw_5
+
+  17469463:
+    template: Hell_Bat
+    level:    [47, 49]
+    region:   toraimarai_canal_nw_5
+
+  17469464:
+    template: Hell_Bat
+    level:    [47, 49]
+    region:   toraimarai_canal_nw_5
+
+  17469465:
+    template: Bigclaw
+    at:       [-164.800, 15.500, 135.544, 118]
+    level:    [49, 52]
+
+  17469466:
+    template: Fallen_Knight
+    level:    [52, 55]
+    region:   toraimarai_canal_nw_5
+
+  17469467:
+    template: Canal_Bats
+    level:    [45, 47]
+    region:   toraimarai_canal_n_3
+
+  17469468:
+    template: Canal_Bats
+    level:    [45, 47]
+    region:   toraimarai_canal_n_3
+
+  17469469:
+    template: Hell_Bat
+    level:    [47, 49]
+    region:   toraimarai_canal_n_3
+
+  17469470:
+    template: Hell_Bat
+    level:    [47, 49]
+    region:   toraimarai_canal_n_3
+
+  17469471:
+    template: Bigclaw
+    level:    [49, 52]
+    region:   toraimarai_canal_n_3
+
+  17469472:
+    template: Bigclaw
+    level:    [49, 52]
+    region:   toraimarai_canal_n_3
+
+  17469473:
+    template: Fallen_Knight
+    level:    [52, 55]
+    region:   toraimarai_canal_n_3
+
+  17469474:
+    template: Fallen_Knight
+    level:    [52, 55]
+    region:   toraimarai_canal_n_3
+
+  17469475:
+    template: Lich
+    at:       [-43.652, 15.500, 135.374, 10]
+    level:    [54, 57]
+
+  17469476:
+    template: Lich
+    at:       [-94.759, 15.500, 101.384, 192]
+    level:    [54, 57]
+
+  17469477:
+    template: Canal_Bats
+    at:       [-64.690, 15.522, 42.027, 192]
+    level:    [45, 47]
+
+  17469478:
+    template: Canal_Bats
+    level:    [45, 47]
+    region:   toraimarai_canal_c_2
+
+  17469479:
+    template: Hell_Bat
+    level:    [47, 49]
+    region:   toraimarai_canal_c_2
+
+  17469480:
+    template: Hell_Bat
+    level:    [47, 49]
+    region:   toraimarai_canal_c_2
+
+  17469481:
+    template: Bigclaw
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [49, 52]
+
+  17469482:
+    template: Bigclaw
+    level:    [49, 52]
+    region:   toraimarai_canal_c_2
+
+  17469483:
+    template: Fallen_Knight
+    level:    [52, 55]
+    region:   toraimarai_canal_c_2
+
+  17469484:
+    template: Canal_Bats
+    at:       [-55.360, 15.500, 34.176, 63]
+    level:    [45, 47]
+
+  17469485:
+    template: Canal_Bats
+    level:    [45, 47]
+    region:   toraimarai_canal_c_5
+
+  17469486:
+    template: Hell_Bat
+    level:    [47, 49]
+    region:   toraimarai_canal_c_5
+
+  17469487:
+    template: Hell_Bat
+    level:    [47, 49]
+    region:   toraimarai_canal_c_5
+
+  17469488:
+    template: Bigclaw
+    level:    [49, 52]
+    region:   toraimarai_canal_c_5
+
+  17469489:
+    template: Bigclaw
+    level:    [49, 52]
+    region:   toraimarai_canal_c_5
+
+  17469490:
+    template: Fallen_Knight
+    at:       [-48.090, 15.529, 54.685, 79]
+    level:    [52, 55]
+
+  17469491:
+    template: Canal_Bats
+    at:       [-15.520, 15.505, 122.182, 53]
+    level:    [45, 47]
+
+  17469492:
+    template: Canal_Bats
+    level:    [45, 47]
+    region:   toraimarai_canal_n_4
+
+  17469493:
+    template: Hell_Bat
+    level:    [47, 49]
+    region:   toraimarai_canal_n_4
+
+  17469494:
+    template: Hell_Bat
+    level:    [47, 49]
+    region:   toraimarai_canal_n_4
+
+  17469495:
+    template: Bigclaw
+    at:       [-15.170, 15.508, 121.668, 67]
+    level:    [49, 52]
+
+  17469496:
+    template: Bigclaw
+    level:    [49, 52]
+    region:   toraimarai_canal_n_4
+
+  17469497:
+    template: Fallen_Knight
+    level:    [52, 55]
+    region:   toraimarai_canal_n_4
+
+  17469498:
+    template: Canal_Bats
+    at:       [-64.270, 15.500, 153.089, 190]
+    level:    [45, 47]
+
+  17469499:
+    template: Hell_Bat
+    level:    [47, 49]
+    region:   toraimarai_canal_n_2
+
+  17469500:
+    template: Bigclaw
+    at:       [-65.000, 15.500, 148.781, 199]
+    level:    [49, 52]
+
+  17469501:
+    template: Bigclaw
+    level:    [49, 52]
+    region:   toraimarai_canal_n_2
+
+  17469502:
+    template: Fallen_Knight
+    level:    [52, 55]
+    region:   toraimarai_canal_n_2
+
+  17469503:
+    template: Dark_Aspic
+    at:       [-215.800, 15.498, 212.582, 167]
+    level:    [53, 55]
+
+  17469504:
+    template: Dark_Aspic
+    at:       [-207.057, 15.500, 212.578, 127]
+    level:    [53, 55]
+
+  17469505:
+    template: Dark_Aspic
+    at:       [-137.700, 15.498, 150.932, 134]
+    level:    [53, 55]
+
+  17469506:
+    template: Dark_Aspic
+    at:       [0.000, 0.000, 0.000, 127]
+    level:    [53, 55]
+
+  17469507:
+    template: Dark_Aspic
+    at:       [-95.040, 15.500, -28.836, 156]
+    level:    [53, 55]
+
+  17469508:
+    template: Dark_Aspic
+    at:       [-17.900, 15.498, -1.197, 141]
+    level:    [53, 55]
+
+  17469509:
+    template: Bloodsucker
+    at:       [-23.990, 15.586, -2.165, 165]
+    level:    [54, 57]
+
+  17469510:
+    template: Bloodsucker
+    at:       [-30.600, 15.501, -6.825, 99]
+    level:    [54, 57]
+
+  17469511:
+    template: Fallen_Knight
+    at:       [20.912, 16.499, 55.118, 109]
+    level:    [52, 55]
+
+  17469512:
+    template: Fallen_Knight
+    at:       [28.697, 16.024, 57.175, 224]
+    level:    [52, 55]
+
+  17469513:
+    template: Lich
+    at:       [17.000, 16.500, 65.000, 113]
+    level:    [54, 57]
+
+  17469514:
+    template: Lich
+    at:       [23.000, 16.468, 65.000, 127]
+    level:    [54, 57]
+
+  17469515:
+    template: Girtab
+    at:       [13.946, 16.500, 59.748, 176]
+    level:    [58, 60]
+
+  17469516:
+    template: Magic_Sludge
+    at:       [19.875, 16.500, 53.602, 203]
+    level:    [64, 64]
+
+  17469517:
+    template: Hell_Bat
+    level:    [47, 49]
+    region:   toraimarai_canal_w_11
+
+  17469518:
+    template: Hell_Bat
+    level:    [47, 49]
+    region:   toraimarai_canal_w_11
+
+  17469519:
+    template: Hell_Bat
+    level:    [47, 49]
+    region:   toraimarai_canal_w_9
+
+  17469520:
+    template: Hell_Bat
+    level:    [47, 49]
+    region:   toraimarai_canal_w_9
+
+  17469521:
+    template: Hell_Bat
+    level:    [47, 49]
+    region:   toraimarai_canal_w_9
+
+  17469522:
+    template: Bigclaw
+    level:    [49, 52]
+    region:   toraimarai_canal_w_9
+
+  17469523:
+    template: Bigclaw
+    level:    [49, 52]
+    region:   toraimarai_canal_w_9
+
+  17469524:
+    template: Fallen_Knight
+    level:    [52, 55]
+    region:   toraimarai_canal_w_9
+
+  17469525:
+    template: Hell_Bat
+    level:    [47, 49]
+    region:   toraimarai_canal_w_7
+
+  17469526:
+    template: Hell_Bat
+    level:    [47, 49]
+    region:   toraimarai_canal_w_7
+
+  17469527:
+    template: Hell_Bat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [47, 49]
+
+  17469528:
+    template: Bigclaw
+    level:    [49, 52]
+    region:   toraimarai_canal_w_7
+
+  17469529:
+    template: Bigclaw
+    level:    [49, 52]
+    region:   toraimarai_canal_w_7
+
+  17469530:
+    template: Fallen_Knight
+    at:       [-257.000, 15.500, -15.000, 109]
+    level:    [52, 55]
+
+  17469531:
+    template: Hell_Bat
+    level:    [47, 49]
+    region:   toraimarai_canal_w_6
+
+  17469532:
+    template: Hell_Bat
+    level:    [47, 49]
+    region:   toraimarai_canal_w_6
+
+  17469533:
+    template: Bigclaw
+    level:    [49, 52]
+    region:   toraimarai_canal_w_6
+
+  17469534:
+    template: Fallen_Knight
+    at:       [-233.300, 15.500, -15.079, 109]
+    level:    [52, 55]
+
+  17469535:
+    template: Dark_Aspic
+    at:       [-133.200, 15.500, -72.178, 131]
+    level:    [53, 55]
+
+  17469536:
+    template: Bloodsucker
+    at:       [-128.700, 15.513, -71.991, 254]
+    level:    [54, 57]
+
+  17469537:
+    template: Bloodsucker
+    at:       [-143.500, 15.583, -77.149, 97]
+    level:    [54, 57]
+
+  17469538:
+    template: Hell_Bat
+    level:    [47, 49]
+    region:   toraimarai_canal_w_5
+
+  17469539:
+    template: Hell_Bat
+    level:    [47, 49]
+    region:   toraimarai_canal_w_5
+
+  17469540:
+    template: Girtab
+    level:    [58, 60]
+    region:   toraimarai_canal_w
+
+  17469541:
+    template: Scavenger_Crab
+    level:    [60, 62]
+    region:   toraimarai_canal_w
+
+  17469542:
+    template: Scavenger_Crab
+    level:    [60, 62]
+    region:   toraimarai_canal_w
+
+  17469543:
+    template: Scavenger_Crab
+    level:    [60, 62]
+    region:   toraimarai_canal_w
+
+  17469544:
+    template: Scavenger_Crab
+    level:    [60, 62]
+    region:   toraimarai_canal_w
+
+  17469545:
+    template: Scavenger_Crab
+    level:    [60, 62]
+    region:   toraimarai_canal_w
+
+  17469546:
+    template: Scavenger_Crab
+    level:    [60, 62]
+    region:   toraimarai_canal_w
+
+  17469547:
+    template: Fleshcraver
+    level:    [60, 62]
+    region:   toraimarai_canal_w_3
+
+  17469548:
+    template: Mindcraver
+    level:    [60, 62]
+    region:   toraimarai_canal_w_3
+
+  17469549:
+    template: Fleshcraver
+    at:       [-299.800, 24.395, 53.792, 155]
+    level:    [60, 62]
+
+  17469550:
+    template: Fleshcraver
+    at:       [-299.700, 24.497, 57.545, 124]
+    level:    [60, 62]
+
+  17469551:
+    template: Mindcraver
+    at:       [-297.400, 24.490, 60.532, 90]
+    level:    [60, 62]
+
+  17469552:
+    template: Mindcraver
+    at:       [-300.500, 24.500, 65.093, 181]
+    level:    [60, 62]
+
+  17469553:
+    template: Rotten_Sod
+    at:       [-273.000, 23.878, 62.292, 21]
+    level:    [58, 60]
+
+  17469554:
+    template: Makara
+    level:    [50, 51]
+    region:   toraimarai_canal_nw_4
+
+  17469555:
+    template: Makara
+    level:    [49, 52]
+    region:   toraimarai_canal_nw_4
+
+  17469556:
+    template: Makara
+    level:    [49, 52]
+    region:   toraimarai_canal_nw_4
+
+  17469557:
+    template: Makara
+    level:    [49, 52]
+    region:   toraimarai_canal_nw_4
+
+  17469558:
+    template: Makara
+    level:    [49, 52]
+    region:   toraimarai_canal_n
+
+  17469559:
+    template: Makara
+    level:    [49, 52]
+    region:   toraimarai_canal_n
+
+  17469560:
+    template: Makara
+    level:    [49, 52]
+    region:   toraimarai_canal_n
+
+  17469561:
+    template: Makara
+    level:    [49, 52]
+    region:   toraimarai_canal_n
+
+  17469562:
+    template: Makara
+    level:    [49, 52]
+    region:   toraimarai_canal_c
+
+  17469563:
+    template: Makara
+    level:    [49, 52]
+    region:   toraimarai_canal_c
+
+  17469564:
+    template: Makara
+    level:    [49, 52]
+    region:   toraimarai_canal_c
+
+  17469565:
+    template: Makara
+    level:    [49, 52]
+    region:   toraimarai_canal_c
+
+  17469566:
+    template: Makara
+    level:    [49, 52]
+    region:   toraimarai_canal_c
+
+  17469567:
+    template: Makara
+    level:    [49, 52]
+    region:   toraimarai_canal_w_8
+
+  17469568:
+    template: Makara
+    level:    [49, 52]
+    region:   toraimarai_canal_w_8
+
+  17469569:
+    template: Makara
+    level:    [49, 52]
+    region:   toraimarai_canal_w_8
+
+  17469570:
+    template: Makara
+    level:    [49, 52]
+    region:   toraimarai_canal_w_8
+
+  17469571:
+    template: Makara
+    level:    [49, 52]
+    region:   toraimarai_canal_w_10
+
+  17469572:
+    template: Makara
+    level:    [49, 52]
+    region:   toraimarai_canal_w_10
+
+  17469573:
+    template: Makara
+    level:    [49, 52]
+    region:   toraimarai_canal_w_10
+
+  17469574:
+    template: Makara
+    level:    [49, 52]
+    region:   toraimarai_canal_w_10
+
+  17469575:
+    template: Bouncing_Ball
+    at:       [-134.900, 21.986, 18.316, 84]
+    level:    [64, 67]
+
+  17469576:
+    template: Bouncing_Ball
+    at:       [-148.900, 21.537, 22.907, 185]
+    level:    [64, 67]
+
+  17469577:
+    template: Bouncing_Ball
+    at:       [-133.300, 21.881, 21.310, 101]
+    level:    [64, 67]
+
+  17469578:
+    template: Canal_Moocher
+    at:       [-138.800, 22.500, 24.550, 60]
+    level:    [73, 74]
+
+  17469579:
+    template: Stygian_Pugil
+    at:       [-315.300, 16.000, 19.311, 163]
+    level:    [63, 65]
+
+  17469580:
+    template: Stygian_Pugil
+    at:       [-327.700, 16.000, 7.621, 164]
+    level:    [63, 65]
+
+  17469581:
+    template: Stygian_Pugil
+    at:       [-315.900, 16.000, -45.784, 123]
+    level:    [63, 65]
+
+  17469582:
+    template: Stygian_Pugil
+    at:       [-331.900, 15.998, -47.748, 5]
+    level:    [63, 65]
+
+  17469583:
+    template: Stygian_Pugil
+    level:    [63, 65]
+    region:   toraimarai_canal_w_4
+
+  17469584:
+    template: Stygian_Pugil
+    level:    [63, 65]
+    region:   toraimarai_canal_w_4
+
+  17469585:
+    template: Stygian_Pugil
+    level:    [63, 65]
+    region:   toraimarai_canal_w_2
+
+  17469586:
+    template: Stygian_Pugil
+    level:    [63, 65]
+    region:   toraimarai_canal_w_2
+
+  17469587:
+    template: Oni_Carcass
+    at:       [-378.200, 21.997, -15.414, 16]
+    level:    [68, 70]
+
+  17469588:
+    template: Makara
+    level:    [49, 52]
+    region:   toraimarai_canal_c_4
+
+  17469589:
+    template: Makara
+    level:    [49, 52]
+    region:   toraimarai_canal_c_4
+
+  17469590:
+    template: Makara
+    level:    [49, 52]
+    region:   toraimarai_canal_c_4
+
+  17469591:
+    template: Makara
+    level:    [49, 52]
+    region:   toraimarai_canal_c_4
+
+  17469592:
+    template: Bloodsucker
+    level:    [54, 57]
+    region:   toraimarai_canal_c_3
+
+  17469593:
+    template: Bloodsucker
+    level:    [54, 57]
+    region:   toraimarai_canal_c_3
+
+  17469594:
+    template: Bloodsucker
+    level:    [54, 57]
+    region:   toraimarai_canal_c_3
+
+  17469595:
+    template: Bloodsucker
+    level:    [54, 57]
+    region:   toraimarai_canal_c_3
+
+  17469596:
+    template: Blackwater_Pugil
+    level:    [96, 97]
+    region:   toraimarai_canal_s
+
+  17469597:
+    template: Blackwater_Pugil
+    level:    [96, 97]
+    region:   toraimarai_canal_s
+
+  17469598:
+    template: Blackwater_Pugil
+    level:    [96, 97]
+    region:   toraimarai_canal_s
+
+  17469599:
+    template: Blackwater_Pugil
+    level:    [96, 97]
+    region:   toraimarai_canal_s
+
+  17469600:
+    template: Blackwater_Pugil
+    level:    [96, 97]
+    region:   toraimarai_canal_s_2
+
+  17469601:
+    template: Blackwater_Pugil
+    level:    [96, 97]
+    region:   toraimarai_canal_s_2
+
+  17469602:
+    template: Blackwater_Pugil
+    level:    [96, 97]
+    region:   toraimarai_canal_s_2
+
+  17469603:
+    template: Blackwater_Pugil
+    level:    [96, 97]
+    region:   toraimarai_canal_s_2
+
+  17469604:
+    template: Plunderer_Crab
+    at:       [-176.900, 21.559, -90.912, 230]
+    level:    [95, 97]
+
+  17469605:
+    template: Plunderer_Crab
+    at:       [-177.200, 21.530, -108.540, 5]
+    level:    [95, 97]
+
+  17469606:
+    template: Plunderer_Crab
+    at:       [-182.300, 21.524, -90.630, 128]
+    level:    [95, 97]
+
+  17469607:
+    template: Plunderer_Crab
+    at:       [-184.800, 21.943, -136.680, 25]
+    level:    [95, 97]
+
+  17469608:
+    template: Plunderer_Crab
+    at:       [-180.100, 21.568, -148.140, 51]
+    level:    [95, 97]
+
+  17469609:
+    template: Plunderer_Crab
+    at:       [-188.600, 21.568, -136.870, 148]
+    level:    [95, 97]
+
+  17469610:
+    template: Plunderer_Crab
+    at:       [-69.100, 21.528, -182.140, 67]
+    level:    [95, 97]
+
+  17469611:
+    template: Plunderer_Crab
+    at:       [-55.680, 21.516, -186.970, 229]
+    level:    [95, 97]
+
+  17469612:
+    template: Plunderer_Crab
+    at:       [-57.210, 21.986, -175.360, 153]
+    level:    [95, 97]
+
+  17469613:
+    template: Blackwater_Pugil
+    at:       [30.840, 16.000, -152.110, 135]
+    level:    [96, 97]
+
+  17469614:
+    template: Blackwater_Pugil
+    at:       [55.415, 16.000, -152.580, 188]
+    level:    [96, 97]
+
+  17469615:
+    template: Blackwater_Pugil
+    at:       [31.211, 16.002, -214.960, 61]
+    level:    [96, 97]
+
+  17469616:
+    template: Blackwater_Pugil
+    at:       [59.001, 16.000, -204.340, 229]
+    level:    [96, 97]
+
+  17469617:
+    template: Blackwater_Pugil
+    level:    [96, 97]
+    region:   toraimarai_canal_s_5
+
+  17469618:
+    template: Blackwater_Pugil
+    level:    [96, 97]
+    region:   toraimarai_canal_s_5
+
+  17469619:
+    template: Blackwater_Pugil
+    level:    [96, 97]
+    region:   toraimarai_canal_s_6
+
+  17469620:
+    template: Blackwater_Pugil
+    level:    [96, 97]
+    region:   toraimarai_canal_s_6
+
+  17469621:
+    template: Plunderer_Crab
+    at:       [101.570, 21.680, -188.430, 158]
+    level:    [95, 97]
+
+  17469622:
+    template: Plunderer_Crab
+    at:       [91.172, 21.507, -177.180, 100]
+    level:    [95, 97]
+
+  17469623:
+    template: Plunderer_Crab
+    at:       [95.061, 21.999, -182.640, 48]
+    level:    [95, 97]
+
+  17469624:
+    template: Plunderer_Crab
+    at:       [99.625, 21.502, -189.360, 3]
+    level:    [95, 97]
+
+  17469625:
+    template: Blackwater_Pugil
+    level:    [96, 97]
+    region:   toraimarai_canal_c_9
+
+  17469626:
+    template: Blackwater_Pugil
+    level:    [96, 97]
+    region:   toraimarai_canal_c_9
+
+  17469627:
+    template: Blackwater_Pugil
+    level:    [96, 97]
+    region:   toraimarai_canal_c_9
+
+  17469628:
+    template: Blackwater_Pugil
+    level:    [96, 97]
+    region:   toraimarai_canal_c_9
+
+  17469629:
+    template: Mousse
+    at:       [61.374, 21.875, 132.970, 156]
+    level:    [63, 65]
+
+  17469630:
+    template: Mousse
+    at:       [56.058, 21.989, 142.837, 89]
+    level:    [63, 65]
+
+  17469631:
+    template: Mousse
+    at:       [53.868, 21.570, 135.233, 103]
+    level:    [63, 65]
+
+  17469632:
+    template: Konjac
+    at:       [60.000, 22.500, 135.400, 60]
+    level:    [78, 78]
+
+  17469633:
+    template: Blackwater_Pugil
+    level:    [96, 97]
+    region:   toraimarai_canal_c_6
+
+  17469634:
+    template: Blackwater_Pugil
+    level:    [96, 97]
+    region:   toraimarai_canal_c_6
+
+  17469635:
+    template: Blackwater_Pugil
+    level:    [96, 97]
+    region:   toraimarai_canal_c_6
+
+  17469636:
+    template: Blackwater_Pugil
+    level:    [96, 97]
+    region:   toraimarai_canal_c_6
+
+  17469637:
+    template: Deviling_Bats
+    level:    [95, 97]
+    region:   toraimarai_canal_s_4
+
+  17469638:
+    template: Deviling_Bats
+    level:    [95, 97]
+    region:   toraimarai_canal_s_4
+
+  17469639:
+    template: Sodden_Bones
+    level:    [96, 98]
+    region:   toraimarai_canal_s_4
+
+  17469640:
+    template: Sodden_Bones
+    level:    [96, 98]
+    region:   toraimarai_canal_s_4
+
+  17469641:
+    template: Drowned_Bones
+    level:    [96, 98]
+    region:   toraimarai_canal_s_4
+
+  17469642:
+    template: Drowned_Bones
+    level:    [96, 98]
+    region:   toraimarai_canal_s_4
+
+  17469643:
+    template: Starborer
+    level:    [96, 97]
+    region:   toraimarai_canal_s_3
+
+  17469644:
+    template: Starborer
+    level:    [96, 97]
+    region:   toraimarai_canal_s_3
+
+  17469645:
+    template: Starborer
+    level:    [96, 97]
+    region:   toraimarai_canal_s_3
+
+  17469646:
+    template: Starborer
+    level:    [96, 97]
+    region:   toraimarai_canal_s_3
+
+  17469647:
+    template: Starborer
+    level:    [96, 97]
+    region:   toraimarai_canal_s_3
+
+  17469648:
+    template: Starborer
+    level:    [96, 97]
+    region:   toraimarai_canal_s_3
+
+  17469649:
+    template: Starborer
+    level:    [96, 97]
+    region:   toraimarai_canal_s_3
+
+  17469650:
+    template: Deviling_Bats
+    level:    [95, 97]
+    region:   toraimarai_canal_se
+
+  17469651:
+    template: Deviling_Bats
+    level:    [95, 97]
+    region:   toraimarai_canal_se
+
+  17469652:
+    template: Sodden_Bones
+    level:    [96, 98]
+    region:   toraimarai_canal_se
+
+  17469653:
+    template: Sodden_Bones
+    level:    [96, 98]
+    region:   toraimarai_canal_se
+
+  17469654:
+    template: Drowned_Bones
+    level:    [96, 98]
+    region:   toraimarai_canal_se
+
+  17469655:
+    template: Drowned_Bones
+    level:    [96, 98]
+    region:   toraimarai_canal_se
+
+  17469656:
+    template: Sodden_Bones
+    at:       [102.670, 16.496, -261.040, 195]
+    level:    [96, 98]
+
+  17469657:
+    template: Sodden_Bones
+    at:       [105.610, 16.500, -259.980, 39]
+    level:    [96, 98]
+
+  17469658:
+    template: Drowned_Bones
+    at:       [105.540, 16.011, -253.810, 160]
+    level:    [96, 98]
+
+  17469659:
+    template: Drowned_Bones
+    at:       [100.580, 16.500, -258.100, 167]
+    level:    [96, 98]
+
+  17469660:
+    template: Rapier_Scorpion
+    at:       [104.990, 16.006, -252.950, 35]
+    level:    [96, 98]
+
+  17469661:
+    template: Impish_Bats
+    level:    [58, 60]
+    region:   toraimarai_canal_s_7
+
+  17469662:
+    template: Impish_Bats
+    level:    [58, 60]
+    region:   toraimarai_canal_s_7
+
+  17469663:
+    template: Impish_Bats
+    level:    [58, 60]
+    region:   toraimarai_canal_c_7
+
+  17469664:
+    template: Impish_Bats
+    level:    [58, 60]
+    region:   toraimarai_canal_c_7
+
+  17469665:
+    template: Impish_Bats
+    level:    [58, 60]
+    region:   toraimarai_canal_c_7
+
+  17469666:
+    template: Hinge_Oil
+    level:    [65, 65]
+    region:   toraimarai_canal_c_10
+
+  17469667:
+    template: Hinge_Oil
+    at:       [75.444, 23.000, -52.520, 87]
+    level:    [65, 65]
+
+  17469668:
+    template: Hinge_Oil
+    level:    [65, 65]
+    region:   toraimarai_canal_c_8
+
+  17469669:
+    template: Hinge_Oil
+    level:    [65, 65]
+    region:   toraimarai_canal_c_11
+
+  17469670:
+    template: Deviling_Bats
+    level:    [95, 97]
+    region:   toraimarai_canal_e
+
+  17469671:
+    template: Deviling_Bats
+    level:    [95, 97]
+    region:   toraimarai_canal_e
+
+  17469672:
+    template: Sodden_Bones
+    level:    [96, 98]
+    region:   toraimarai_canal_e
+
+  17469673:
+    template: Sodden_Bones
+    level:    [96, 98]
+    region:   toraimarai_canal_e
+
+  17469674:
+    template: Drowned_Bones
+    level:    [96, 98]
+    region:   toraimarai_canal_e
+
+  17469675:
+    template: Drowned_Bones
+    level:    [96, 98]
+    region:   toraimarai_canal_e
+
+  17469676:
+    template: Sodden_Bones
+    at:       [140.050, 16.499, 23.306, 108]
+    level:    [96, 98]
+
+  17469677:
+    template: Sodden_Bones
+    at:       [137.280, 16.499, 20.171, 140]
+    level:    [96, 98]
+
+  17469678:
+    template: Drowned_Bones
+    at:       [140.380, 16.499, 21.890, 164]
+    level:    [96, 98]
+
+  17469679:
+    template: Drowned_Bones
+    at:       [146.280, 16.000, 14.824, 224]
+    level:    [96, 98]
+
+  17469680:
+    template: Rapier_Scorpion
+    at:       [148.510, 16.031, 22.530, 197]
+    level:    [96, 98]
+
+  17469681:
+    template: Deviling_Bats
+    level:    [95, 97]
+    region:   toraimarai_canal_e_2
+
+  17469682:
+    template: Deviling_Bats
+    level:    [95, 97]
+    region:   toraimarai_canal_e_2
+
+  17469683:
+    template: Deviling_Bats
+    level:    [95, 97]
+    region:   toraimarai_canal_e_2
+
+  17469684:
+    template: Deviling_Bats
+    level:    [95, 97]
+    region:   toraimarai_canal_e_3
+
+  17469685:
+    template: Deviling_Bats
+    level:    [95, 97]
+    region:   toraimarai_canal_e_3
+
+  17469686:
+    template: Sodden_Bones
+    level:    [96, 98]
+    region:   toraimarai_canal_e_3
+
+  17469687:
+    template: Sodden_Bones
+    level:    [96, 98]
+    region:   toraimarai_canal_e_3
+
+  17469688:
+    template: Drowned_Bones
+    level:    [96, 98]
+    region:   toraimarai_canal_e_3
+
+  17469689:
+    template: Drowned_Bones
+    level:    [96, 98]
+    region:   toraimarai_canal_e_3
+
+  17469690:
+    template: Starborer
+    level:    [96, 97]
+    region:   toraimarai_canal_se_11
+
+  17469691:
+    template: Starborer
+    level:    [96, 97]
+    region:   toraimarai_canal_se_11
+
+  17469692:
+    template: Starborer
+    level:    [96, 97]
+    region:   toraimarai_canal_se_11
+
+  17469693:
+    template: Starborer
+    level:    [96, 97]
+    region:   toraimarai_canal_se_11
+
+  17469694:
+    template: Starborer
+    level:    [96, 97]
+    region:   toraimarai_canal_se_11
+
+  17469695:
+    template: Starborer
+    level:    [96, 97]
+    region:   toraimarai_canal_se_11
+
+  17469696:
+    template: Starborer
+    level:    [96, 97]
+    region:   toraimarai_canal_se_11
+
+  17469697:
+    template: Blackwater_Pugil
+    level:    [96, 97]
+    region:   toraimarai_canal_e_4
+
+  17469698:
+    template: Blackwater_Pugil
+    level:    [96, 97]
+    region:   toraimarai_canal_e_4
+
+  17469699:
+    template: Blackwater_Pugil
+    level:    [96, 97]
+    region:   toraimarai_canal_e_4
+
+  17469700:
+    template: Blackwater_Pugil
+    level:    [96, 97]
+    region:   toraimarai_canal_e_4
+
+  17469701:
+    template: Blackwater_Pugil
+    level:    [96, 97]
+    region:   toraimarai_canal_se_13
+
+  17469702:
+    template: Blackwater_Pugil
+    level:    [96, 97]
+    region:   toraimarai_canal_se_13
+
+  17469703:
+    template: Blackwater_Pugil
+    at:       [272.600, 15.998, -72.207, 155]
+    level:    [96, 97]
+
+  17469704:
+    template: Blackwater_Pugil
+    at:       [332.390, 16.000, -67.947, 163]
+    level:    [96, 97]
+
+  17469705:
+    template: Blackwater_Pugil
+    level:    [96, 97]
+    region:   toraimarai_canal_se_12
+
+  17469706:
+    template: Blackwater_Pugil
+    level:    [96, 97]
+    region:   toraimarai_canal_se_12
+
+  17469707:
+    template: Blackwater_Pugil
+    at:       [273.150, 15.998, -83.324, 179]
+    level:    [96, 97]
+
+  17469708:
+    template: Blackwater_Pugil
+    at:       [331.170, 16.000, -91.986, 229]
+    level:    [96, 97]
+
+  17469709:
+    template: Poroggo_Excavator
+    level:    [98, 99]
+    region:   toraimarai_canal_se_10
+
+  17469710:
+    template: Flume_Toad
+    level:    [94, 96]
+    region:   toraimarai_canal_se_10
+
+  17469711:
+    template: Flume_Toad
+    level:    [94, 96]
+    region:   toraimarai_canal_se_10
+
+  17469712:
+    template: Flume_Toad
+    level:    [94, 96]
+    region:   toraimarai_canal_se_10
+
+  17469713:
+    template: Flume_Toad
+    level:    [94, 96]
+    region:   toraimarai_canal_se_10
+
+  17469714:
+    template: Flume_Toad
+    level:    [94, 96]
+    region:   toraimarai_canal_se_10
+
+  17469715:
+    template: Flume_Toad
+    level:    [94, 96]
+    region:   toraimarai_canal_se_9
+
+  17469716:
+    template: Flume_Toad
+    level:    [94, 96]
+    region:   toraimarai_canal_se_9
+
+  17469717:
+    template: Flume_Toad
+    level:    [94, 96]
+    region:   toraimarai_canal_se_9
+
+  17469718:
+    template: Poroggo_Excavator
+    at:       [308.620, 21.531, -177.690, 215]
+    level:    [98, 99]
+
+  17469719:
+    template: Flume_Toad
+    at:       [302.860, 21.989, -176.050, 153]
+    level:    [94, 96]
+
+  17469720:
+    template: Flume_Toad
+    at:       [291.390, 21.556, -182.970, 95]
+    level:    [94, 96]
+
+  17469721:
+    template: Flume_Toad
+    at:       [291.470, 21.555, -180.550, 142]
+    level:    [94, 96]
+
+  17469722:
+    template: Poroggo_Excavator
+    level:    [98, 99]
+    region:   toraimarai_canal_se_4
+
+  17469723:
+    template: Flume_Toad
+    level:    [94, 96]
+    region:   toraimarai_canal_se_4
+
+  17469724:
+    template: Flume_Toad
+    level:    [94, 96]
+    region:   toraimarai_canal_se_4
+
+  17469725:
+    template: Flume_Toad
+    level:    [94, 96]
+    region:   toraimarai_canal_se_4
+
+  17469726:
+    template: Flume_Toad
+    level:    [94, 96]
+    region:   toraimarai_canal_se_4
+
+  17469727:
+    template: Flume_Toad
+    level:    [94, 96]
+    region:   toraimarai_canal_se_4
+
+  17469728:
+    template: Flume_Toad
+    level:    [94, 96]
+    region:   toraimarai_canal_se_4
+
+  17469729:
+    template: Flume_Toad
+    level:    [94, 96]
+    region:   toraimarai_canal_se_4
+
+  17469730:
+    template: Flume_Toad
+    level:    [94, 96]
+    region:   toraimarai_canal_se_4
+
+  17469731:
+    template: Poroggo_Excavator
+    at:       [184.940, 21.517, -252.450, 26]
+    level:    [98, 99]
+
+  17469732:
+    template: Flume_Toad
+    at:       [179.810, 21.899, -252.940, 25]
+    level:    [94, 96]
+
+  17469733:
+    template: Flume_Toad
+    at:       [179.750, 21.908, -252.920, 24]
+    level:    [94, 96]
+
+  17469734:
+    template: Flume_Toad
+    at:       [185.490, 21.981, -256.870, 158]
+    level:    [94, 96]
+
+  17469735:
+    template: Stygian_Pugil
+    level:    [63, 65]
+    region:   toraimarai_canal_se_8
+
+  17469736:
+    template: Stygian_Pugil
+    level:    [63, 65]
+    region:   toraimarai_canal_se_8
+
+  17469737:
+    template: Dire_Bat
+    level:    [62, 64]
+    region:   toraimarai_canal_se_7
+
+  17469738:
+    template: Dire_Bat
+    level:    [62, 64]
+    region:   toraimarai_canal_se_7
+
+  17469739:
+    template: Doom_Mage
+    level:    [65, 67]
+    region:   toraimarai_canal_se_7
+
+  17469740:
+    template: Doom_Mage
+    level:    [65, 67]
+    region:   toraimarai_canal_se_7
+
+  17469741:
+    template: Doom_Soldier
+    level:    [65, 67]
+    region:   toraimarai_canal_se_7
+
+  17469742:
+    template: Doom_Soldier
+    level:    [65, 67]
+    region:   toraimarai_canal_se_7
+
+  17469743:
+    template: Doom_Mage
+    level:    [65, 67]
+    region:   toraimarai_canal_se_5
+
+  17469744:
+    template: Doom_Mage
+    level:    [65, 67]
+    region:   toraimarai_canal_se_5
+
+  17469745:
+    template: Doom_Soldier
+    level:    [65, 67]
+    region:   toraimarai_canal_se_5
+
+  17469746:
+    template: Doom_Soldier
+    level:    [65, 67]
+    region:   toraimarai_canal_se_5
+
+  17469747:
+    template: Brazen_Bones
+    level:    [82, 83]
+    region:   toraimarai_canal_se_5
+
+  17469748:
+    template: Bouncing_Ball
+    at:       [163.940, 11.000, -109.120, 222]
+    level:    [64, 67]
+
+  17469749:
+    template: Bouncing_Ball
+    at:       [157.530, 12.050, -138.810, 125]
+    level:    [64, 67]
+
+  17469750:
+    template: Bouncing_Ball
+    at:       [143.810, 10.000, -116.590, 127]
+    level:    [64, 67]
+
+  17469751:
+    template: Bouncing_Ball
+    at:       [174.040, 12.000, -114.990, 72]
+    level:    [64, 67]
+
+  17469752:
+    template: Dire_Bat
+    level:    [62, 64]
+    region:   toraimarai_canal_se_6
+
+  17469753:
+    template: Dire_Bat
+    level:    [62, 64]
+    region:   toraimarai_canal_se_6
+
+  17469754:
+    template: Dire_Bat
+    level:    [62, 64]
+    region:   toraimarai_canal_se_2
+
+  17469755:
+    template: Dire_Bat
+    level:    [62, 64]
+    region:   toraimarai_canal_se_2
+
+  17469756:
+    template: Starmite
+    level:    [65, 67]
+    region:   toraimarai_canal_se_3
+
+  17469757:
+    template: Starmite
+    level:    [65, 67]
+    region:   toraimarai_canal_se_3
+
+  17469758:
+    template: Starmite
+    level:    [65, 67]
+    region:   toraimarai_canal_se_3
+
+  17469759:
+    template: Starmite
+    level:    [65, 67]
+    region:   toraimarai_canal_se_3
+
+  17469760:
+    template: Starmite
+    level:    [65, 67]
+    region:   toraimarai_canal_se_3
+
+  17469761:
+    template: Mimic
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [60, 60]

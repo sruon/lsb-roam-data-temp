@@ -1,0 +1,2533 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17195009:
+    template: Coral_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [8, 10]
+
+  17195010:
+    template: Pug_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [8, 10]
+
+  17195011:
+    template: Thickshell
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [12, 14]
+
+  17195012:
+    template: Giant_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [14, 16]
+
+  17195013:
+    template: Puffer_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [14, 16]
+
+  17195014:
+    template: Steppe_Hare
+    level:    [8, 9]
+    region:   la_theine_plateau_nw_2
+
+  17195015:
+    template: Steppe_Hare
+    level:    [8, 9]
+    region:   la_theine_plateau_nw_2
+
+  17195016:
+    template: Steppe_Hare
+    level:    [8, 9]
+    region:   la_theine_plateau_nw_2
+
+  17195017:
+    template: Steppe_Hare
+    level:    [8, 9]
+    region:   la_theine_plateau_nw_2
+
+  17195018:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   la_theine_plateau_nw_2
+
+  17195019:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   la_theine_plateau_nw_2
+
+  17195020:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   la_theine_plateau_nw_2
+
+  17195021:
+    template: Akbaba
+    level:    [11, 12]
+    region:   la_theine_plateau_nw_2
+
+  17195022:
+    template: Akbaba
+    level:    [11, 12]
+    region:   la_theine_plateau_nw_2
+
+  17195023:
+    template: Steppe_Hare
+    level:    [8, 9]
+    region:   la_theine_plateau_nw_4
+
+  17195024:
+    template: Steppe_Hare
+    level:    [8, 9]
+    region:   la_theine_plateau_nw_4
+
+  17195025:
+    template: Steppe_Hare
+    level:    [8, 9]
+    region:   la_theine_plateau_nw_4
+
+  17195026:
+    template: Steppe_Hare
+    level:    [8, 9]
+    region:   la_theine_plateau_nw_4
+
+  17195027:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   la_theine_plateau_nw_4
+
+  17195028:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   la_theine_plateau_nw_4
+
+  17195029:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   la_theine_plateau_nw_4
+
+  17195030:
+    template: Akbaba
+    level:    [11, 12]
+    region:   la_theine_plateau_nw_4
+
+  17195031:
+    template: Akbaba
+    level:    [11, 12]
+    region:   la_theine_plateau_nw_4
+
+  17195032:
+    template: Steppe_Hare
+    level:    [8, 9]
+    region:   la_theine_plateau_nw_3
+
+  17195033:
+    template: Steppe_Hare
+    level:    [8, 9]
+    region:   la_theine_plateau_nw_3
+
+  17195034:
+    template: Steppe_Hare
+    level:    [8, 9]
+    region:   la_theine_plateau_nw_3
+
+  17195035:
+    template: Steppe_Hare
+    level:    [8, 9]
+    region:   la_theine_plateau_nw_3
+
+  17195036:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   la_theine_plateau_nw_3
+
+  17195037:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   la_theine_plateau_nw_3
+
+  17195038:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   la_theine_plateau_nw_3
+
+  17195039:
+    template: Akbaba
+    level:    [11, 12]
+    region:   la_theine_plateau_nw_3
+
+  17195040:
+    template: Akbaba
+    level:    [11, 12]
+    region:   la_theine_plateau_nw_3
+
+  17195041:
+    template: Orcish_Fodder
+    level:    [9, 10]
+    region:   la_theine_plateau_nw_2
+
+  17195042:
+    template: Orcish_Fodder
+    level:    [9, 10]
+    region:   la_theine_plateau_nw_2
+
+  17195043:
+    template: Orcish_Mesmerizer
+    level:    [9, 10]
+    region:   la_theine_plateau_nw_2
+
+  17195044:
+    template: Orcish_Mesmerizer
+    level:    [9, 10]
+    region:   la_theine_plateau_nw_2
+
+  17195045:
+    template: Orcish_Grappler
+    level:    [9, 10]
+    region:   la_theine_plateau_nw_2
+
+  17195046:
+    template: Orcish_Grappler
+    level:    [9, 10]
+    region:   la_theine_plateau_nw_2
+
+  17195047:
+    template: Skeleton_Warrior
+    at:       [-447.785, -7.568, 364.309, 25]
+    level:    [10, 12]
+
+  17195048:
+    template: Skeleton_Sorcerer
+    at:       [-542.106, 0.009, 359.761, 118]
+    level:    [11, 13]
+
+  17195049:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_nw
+
+  17195050:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_nw
+
+  17195051:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_nw
+
+  17195052:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_nw
+
+  17195053:
+    template: Mad_Sheep
+    level:    [11, 12]
+    region:   la_theine_plateau_nw
+
+  17195054:
+    template: Mad_Sheep
+    level:    [11, 12]
+    region:   la_theine_plateau_nw
+
+  17195055:
+    template: Mad_Sheep
+    level:    [11, 12]
+    region:   la_theine_plateau_nw
+
+  17195056:
+    template: Huge_Wasp
+    level:    [10, 11]
+    region:   la_theine_plateau_nw
+
+  17195057:
+    template: Huge_Wasp
+    level:    [10, 11]
+    region:   la_theine_plateau_nw
+
+  17195058:
+    template: Huge_Wasp
+    level:    [10, 11]
+    region:   la_theine_plateau_nw
+
+  17195059:
+    template: Goblin_Thug
+    level:    [8, 9]
+    region:   la_theine_plateau_nw
+
+  17195060:
+    template: Goblin_Weaver
+    level:    [8, 9]
+    region:   la_theine_plateau_nw
+
+  17195061:
+    template: Gale_Bats
+    at:       [-641.803, 15.647, 284.085, 81]
+    level:    [8, 9]
+
+  17195062:
+    template: Gale_Bats
+    level:    [8, 9]
+    region:   la_theine_plateau_nw
+
+  17195063:
+    template: Acro_Bat
+    at:       [-770.667, 15.812, 430.172, 127]
+    level:    [8, 9]
+
+  17195064:
+    template: Acro_Bat
+    level:    [8, 9]
+    region:   la_theine_plateau_nw
+
+  17195065:
+    template: Wolf_Zombie
+    at:       [-691.147, 16.296, 511.835, 41]
+    level:    [8, 10]
+
+  17195066:
+    template: Skeleton_Warrior
+    at:       [-637.319, 16.660, 415.225, 127]
+    level:    [10, 12]
+
+  17195067:
+    template: Skeleton_Sorcerer
+    at:       [-706.155, 16.084, 321.659, 2]
+    level:    [11, 13]
+
+  17195068:
+    template: Air_Elemental
+    level:    [18, 20]
+    region:   la_theine_plateau_nw
+
+  17195069:
+    template: Steppe_Hare
+    level:    [8, 9]
+    region:   la_theine_plateau_w
+
+  17195070:
+    template: Steppe_Hare
+    level:    [8, 9]
+    region:   la_theine_plateau_w
+
+  17195071:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   la_theine_plateau_w
+
+  17195072:
+    template: Strolling_Sapling
+    level:    [8, 9]
+    region:   la_theine_plateau_w
+
+  17195073:
+    template: Akbaba
+    level:    [11, 12]
+    region:   la_theine_plateau_w
+
+  17195074:
+    template: Akbaba
+    level:    [11, 12]
+    region:   la_theine_plateau_w
+
+  17195075:
+    template: Akbaba
+    level:    [11, 12]
+    region:   la_theine_plateau_w
+
+  17195076:
+    template: Akbaba
+    level:    [11, 12]
+    region:   la_theine_plateau_w
+
+  17195077:
+    template: Steppe_Hare
+    level:    [9, 10]
+    region:   la_theine_plateau_w
+
+  17195078:
+    template: Steppe_Hare
+    level:    [9, 10]
+    region:   la_theine_plateau_w
+
+  17195079:
+    template: Steppe_Hare
+    level:    [9, 10]
+    region:   la_theine_plateau_w
+
+  17195080:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   la_theine_plateau_w
+
+  17195081:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   la_theine_plateau_w
+
+  17195082:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   la_theine_plateau_w
+
+  17195083:
+    template: Akbaba
+    level:    [11, 12]
+    region:   la_theine_plateau_w
+
+  17195084:
+    template: Akbaba
+    level:    [11, 12]
+    region:   la_theine_plateau_w
+
+  17195085:
+    template: Steppe_Hare
+    level:    [9, 10]
+    region:   la_theine_plateau_w_2
+
+  17195086:
+    template: Steppe_Hare
+    level:    [9, 10]
+    region:   la_theine_plateau_w_2
+
+  17195087:
+    template: Steppe_Hare
+    level:    [9, 10]
+    region:   la_theine_plateau_w_2
+
+  17195088:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   la_theine_plateau_w_2
+
+  17195089:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   la_theine_plateau_w_2
+
+  17195090:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   la_theine_plateau_w_2
+
+  17195091:
+    template: Akbaba
+    level:    [11, 12]
+    region:   la_theine_plateau_w_2
+
+  17195092:
+    template: Akbaba
+    level:    [11, 12]
+    region:   la_theine_plateau_w_2
+
+  17195093:
+    template: Orcish_Grunt
+    level:    [12, 13]
+    region:   la_theine_plateau_w
+
+  17195094:
+    template: Orcish_Stonechucker
+    level:    [12, 13]
+    region:   la_theine_plateau_w
+
+  17195095:
+    template: Orcish_Fodder
+    level:    [9, 10]
+    region:   la_theine_plateau_w
+
+  17195096:
+    template: Orcish_Neckchopper
+    at:       [-687.336, 0.919, 211.439, 89]
+    level:    [12, 13]
+
+  17195097:
+    template: Orcish_Mesmerizer
+    level:    [9, 10]
+    region:   la_theine_plateau_w
+
+  17195098:
+    template: Orcish_Grappler
+    level:    [9, 10]
+    region:   la_theine_plateau_w
+
+  17195099:
+    template: Skeleton_Warrior
+    at:       [-625.411, -8.093, 209.626, 127]
+    level:    [10, 12]
+
+  17195100:
+    template: Skeleton_Sorcerer
+    at:       [-92.850, 24.480, -517.110, 0]
+    level:    [11, 13]
+
+  17195101:
+    template: Grenade
+    level:    [15, 17]
+    region:   la_theine_plateau_w_3
+
+  17195102:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_w_4
+
+  17195103:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_w_4
+
+  17195104:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_w_4
+
+  17195105:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_w_4
+
+  17195106:
+    template: Mad_Sheep
+    level:    [11, 12]
+    region:   la_theine_plateau_w_4
+
+  17195107:
+    template: Mad_Sheep
+    level:    [11, 12]
+    region:   la_theine_plateau_w_4
+
+  17195108:
+    template: Mad_Sheep
+    level:    [11, 12]
+    region:   la_theine_plateau_w_4
+
+  17195109:
+    template: Huge_Wasp
+    level:    [10, 11]
+    region:   la_theine_plateau_w_4
+
+  17195110:
+    template: Huge_Wasp
+    level:    [10, 11]
+    region:   la_theine_plateau_w_4
+
+  17195111:
+    template: Huge_Wasp
+    level:    [10, 11]
+    region:   la_theine_plateau_w_4
+
+  17195112:
+    template: Goblin_Thug
+    level:    [9, 10]
+    region:   la_theine_plateau_w_4
+
+  17195113:
+    template: Goblin_Ambusher
+    level:    [12, 13]
+    region:   la_theine_plateau_w_4
+
+  17195114:
+    template: Goblin_Weaver
+    level:    [9, 10]
+    region:   la_theine_plateau_w_4
+
+  17195115:
+    template: Goblin_Tinkerer
+    level:    [12, 13]
+    region:   la_theine_plateau_w_4
+
+  17195116:
+    template: Goblin_Butcher
+    at:       [-393.850, 0.219, -142.850, 42]
+    level:    [12, 13]
+
+  17195117:
+    template: Gale_Bats
+    at:       [-459.512, 1.765, -230.322, 127]
+    level:    [8, 9]
+
+  17195118:
+    template: Gale_Bats
+    level:    [8, 9]
+    region:   la_theine_plateau_w_4
+
+  17195119:
+    template: Acro_Bat
+    at:       [-359.611, 0.070, -212.330, 66]
+    level:    [8, 9]
+
+  17195120:
+    template: Acro_Bat
+    level:    [8, 9]
+    region:   la_theine_plateau_w_4
+
+  17195121:
+    template: Wolf_Zombie
+    at:       [-544.000, -0.010, -153.000, 127]
+    level:    [8, 10]
+
+  17195122:
+    template: Skeleton_Warrior
+    at:       [-361.000, -0.010, -206.000, 58]
+    level:    [10, 12]
+
+  17195123:
+    template: Skeleton_Sorcerer
+    at:       [-392.862, -0.161, -270.653, 127]
+    level:    [11, 13]
+
+  17195124:
+    template: Air_Elemental
+    level:    [18, 20]
+    region:   la_theine_plateau_w_4
+
+  17195125:
+    template: Steppe_Hare
+    level:    [9, 10]
+    region:   la_theine_plateau_c
+
+  17195126:
+    template: Steppe_Hare
+    level:    [9, 10]
+    region:   la_theine_plateau_c
+
+  17195127:
+    template: Steppe_Hare
+    level:    [9, 10]
+    region:   la_theine_plateau_c
+
+  17195128:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   la_theine_plateau_c
+
+  17195129:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   la_theine_plateau_c
+
+  17195130:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   la_theine_plateau_c
+
+  17195131:
+    template: Akbaba
+    level:    [12, 13]
+    region:   la_theine_plateau_c
+
+  17195132:
+    template: Akbaba
+    level:    [12, 13]
+    region:   la_theine_plateau_c
+
+  17195133:
+    template: Akbaba
+    level:    [12, 13]
+    region:   la_theine_plateau_c
+
+  17195134:
+    template: Steppe_Hare
+    level:    [9, 10]
+    region:   la_theine_plateau_c
+
+  17195135:
+    template: Steppe_Hare
+    level:    [9, 10]
+    region:   la_theine_plateau_c
+
+  17195136:
+    template: Steppe_Hare
+    level:    [9, 10]
+    region:   la_theine_plateau_c
+
+  17195137:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   la_theine_plateau_c
+
+  17195138:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   la_theine_plateau_c
+
+  17195139:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   la_theine_plateau_c
+
+  17195140:
+    template: Akbaba
+    level:    [12, 13]
+    region:   la_theine_plateau_c
+
+  17195141:
+    template: Akbaba
+    level:    [12, 13]
+    region:   la_theine_plateau_c
+
+  17195142:
+    template: Akbaba
+    level:    [12, 13]
+    region:   la_theine_plateau_c
+
+  17195143:
+    template: Battering_Ram
+    level:    [22, 23]
+    region:   la_theine_plateau_c
+
+  17195144:
+    template: Orcish_Grunt
+    level:    [12, 13]
+    region:   la_theine_plateau_c
+
+  17195145:
+    template: Orcish_Stonechucker
+    level:    [12, 13]
+    region:   la_theine_plateau_c
+
+  17195146:
+    template: Orcish_Fodder
+    level:    [8, 9]
+    region:   la_theine_plateau_c
+
+  17195147:
+    template: Orcish_Neckchopper
+    level:    [12, 13]
+    region:   la_theine_plateau_c
+
+  17195148:
+    template: Orcish_Mesmerizer
+    level:    [8, 9]
+    region:   la_theine_plateau_c
+
+  17195149:
+    template: Orcish_Grappler
+    at:       [-247.296, -10.299, -106.122, 127]
+    level:    [8, 9]
+
+  17195150:
+    template: Skeleton_Warrior
+    at:       [167.500, 23.310, -13.920, 0]
+    level:    [10, 12]
+
+  17195151:
+    template: Skeleton_Sorcerer
+    at:       [614.800, 40.440, -445.470, 0]
+    level:    [11, 13]
+
+  17195152:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_n
+
+  17195153:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_n
+
+  17195154:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_n
+
+  17195155:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_n
+
+  17195156:
+    template: Mad_Sheep
+    level:    [11, 12]
+    region:   la_theine_plateau_n
+
+  17195157:
+    template: Mad_Sheep
+    level:    [11, 12]
+    region:   la_theine_plateau_n
+
+  17195158:
+    template: Mad_Sheep
+    level:    [11, 12]
+    region:   la_theine_plateau_n
+
+  17195159:
+    template: Huge_Wasp
+    level:    [10, 11]
+    region:   la_theine_plateau_n
+
+  17195160:
+    template: Huge_Wasp
+    level:    [10, 11]
+    region:   la_theine_plateau_n
+
+  17195161:
+    template: Goblin_Thug
+    level:    [9, 10]
+    region:   la_theine_plateau_n
+
+  17195162:
+    template: Goblin_Ambusher
+    level:    [12, 13]
+    region:   la_theine_plateau_n
+
+  17195163:
+    template: Goblin_Weaver
+    level:    [8, 9]
+    region:   la_theine_plateau_n
+
+  17195164:
+    template: Goblin_Tinkerer
+    level:    [12, 13]
+    region:   la_theine_plateau_n
+
+  17195165:
+    template: Goblin_Butcher
+    level:    [12, 13]
+    region:   la_theine_plateau_n
+
+  17195166:
+    template: Gale_Bats
+    at:       [-259.060, 7.681, 177.466, 80]
+    level:    [8, 9]
+
+  17195167:
+    template: Gale_Bats
+    level:    [8, 9]
+    region:   la_theine_plateau_n
+
+  17195168:
+    template: Acro_Bat
+    level:    [8, 9]
+    region:   la_theine_plateau_n
+
+  17195169:
+    template: Wolf_Zombie
+    at:       [-283.847, 7.903, 125.578, 127]
+    level:    [8, 10]
+
+  17195170:
+    template: Skeleton_Warrior
+    at:       [-271.977, 7.778, 123.114, 3]
+    level:    [10, 12]
+
+  17195171:
+    template: Skeleton_Sorcerer
+    at:       [-237.896, 7.997, 174.070, 58]
+    level:    [11, 13]
+
+  17195172:
+    template: Air_Elemental
+    level:    [18, 20]
+    region:   la_theine_plateau_n
+
+  17195173:
+    template: Poison_Funguar
+    level:    [14, 15]
+    region:   la_theine_plateau_nw_5
+
+  17195174:
+    template: Poison_Funguar
+    level:    [14, 15]
+    region:   la_theine_plateau_nw_5
+
+  17195175:
+    template: Poison_Funguar
+    level:    [14, 15]
+    region:   la_theine_plateau_nw_5
+
+  17195176:
+    template: Huge_Wasp
+    level:    [11, 12]
+    region:   la_theine_plateau_nw_5
+
+  17195177:
+    template: Huge_Wasp
+    level:    [11, 12]
+    region:   la_theine_plateau_nw_5
+
+  17195178:
+    template: Grass_Funguar
+    level:    [12, 13]
+    region:   la_theine_plateau_n_2
+
+  17195179:
+    template: Grass_Funguar
+    level:    [12, 13]
+    region:   la_theine_plateau_n_2
+
+  17195180:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_c_3
+
+  17195181:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_c_3
+
+  17195182:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_c_3
+
+  17195183:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_c_3
+
+  17195184:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   la_theine_plateau_c_3
+
+  17195185:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   la_theine_plateau_c_3
+
+  17195186:
+    template: Gale_Bats
+    level:    [8, 9]
+    region:   la_theine_plateau_c_3
+
+  17195187:
+    template: Gale_Bats
+    level:    [8, 9]
+    region:   la_theine_plateau_c_3
+
+  17195188:
+    template: Acro_Bat
+    level:    [9, 10]
+    region:   la_theine_plateau_c_3
+
+  17195189:
+    template: Wolf_Zombie
+    at:       [-70.273, 13.870, 70.512, 5]
+    level:    [8, 10]
+
+  17195190:
+    template: Ghost
+    level:    [15, 16]
+    region:   la_theine_plateau_n_3
+
+  17195191:
+    template: Ghost
+    level:    [15, 16]
+    region:   la_theine_plateau_n_3
+
+  17195192:
+    template: Ghost
+    level:    [15, 16]
+    region:   la_theine_plateau_n_3
+
+  17195193:
+    template: Ghost
+    level:    [15, 16]
+    region:   la_theine_plateau_n_3
+
+  17195194:
+    template: Thickshell
+    level:    [13, 14]
+    region:   la_theine_plateau_c_5
+
+  17195195:
+    template: Thickshell
+    level:    [13, 14]
+    region:   la_theine_plateau_c_5
+
+  17195196:
+    template: Thickshell
+    level:    [13, 14]
+    region:   la_theine_plateau_c_5
+
+  17195197:
+    template: Thickshell
+    level:    [13, 14]
+    region:   la_theine_plateau_c_5
+
+  17195198:
+    template: Thickshell
+    level:    [13, 14]
+    region:   la_theine_plateau_c_5
+
+  17195199:
+    template: Thickshell
+    level:    [13, 14]
+    region:   la_theine_plateau_c_5
+
+  17195200:
+    template: Goblin_Fisher
+    level:    [9, 10]
+    region:   la_theine_plateau_c_5
+
+  17195201:
+    template: Goblin_Fisher
+    level:    [9, 10]
+    region:   la_theine_plateau_c_5
+
+  17195202:
+    template: Water_Elemental
+    level:    [18, 20]
+    region:   la_theine_plateau_c_5
+
+  17195203:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_n_4
+
+  17195204:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_c_3
+
+  17195205:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   la_theine_plateau_c_3
+
+  17195206:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   la_theine_plateau_c_3
+
+  17195207:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   la_theine_plateau_c_3
+
+  17195208:
+    template: Gale_Bats
+    level:    [9, 10]
+    region:   la_theine_plateau_c_3
+
+  17195209:
+    template: Acro_Bat
+    level:    [9, 10]
+    region:   la_theine_plateau_c_3
+
+  17195210:
+    template: Wolf_Zombie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [8, 10]
+
+  17195211:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_c_6
+
+  17195212:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_c_6
+
+  17195213:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_c_6
+
+  17195214:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_c_6
+
+  17195215:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   la_theine_plateau_c_6
+
+  17195216:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   la_theine_plateau_c_6
+
+  17195217:
+    template: Gale_Bats
+    level:    [9, 10]
+    region:   la_theine_plateau_c_6
+
+  17195218:
+    template: Gale_Bats
+    level:    [9, 10]
+    region:   la_theine_plateau_c_6
+
+  17195219:
+    template: Acro_Bat
+    level:    [9, 10]
+    region:   la_theine_plateau_c_6
+
+  17195220:
+    template: Wolf_Zombie
+    at:       [82.941, 15.672, 131.355, 54]
+    level:    [8, 10]
+
+  17195221:
+    template: Slumbering_Samwell
+    level:    [17, 18]
+    region:   la_theine_plateau_c_6
+
+  17195222:
+    template: Goblin_Thug
+    level:    [9, 10]
+    region:   la_theine_plateau_c_3
+
+  17195223:
+    template: Goblin_Ambusher
+    level:    [12, 13]
+    region:   la_theine_plateau_c_3
+
+  17195224:
+    template: Goblin_Weaver
+    level:    [8, 9]
+    region:   la_theine_plateau_c_3
+
+  17195225:
+    template: Goblin_Tinkerer
+    at:       [-181.523, 7.406, 126.572, 127]
+    level:    [12, 13]
+
+  17195226:
+    template: Goblin_Butcher
+    level:    [12, 13]
+    region:   la_theine_plateau_c_3
+
+  17195227:
+    template: Skeleton_Warrior
+    at:       [44.812, 15.913, 273.886, 127]
+    level:    [10, 12]
+
+  17195228:
+    template: Skeleton_Sorcerer
+    at:       [46.633, 16.646, 153.610, 94]
+    level:    [11, 13]
+
+  17195229:
+    template: Grenade
+    level:    [15, 17]
+    region:   la_theine_plateau_ne
+
+  17195230:
+    template: Goblin_Tinkerer
+    level:    [12, 13]
+    region:   la_theine_plateau_c_9
+
+  17195231:
+    template: Poison_Funguar
+    level:    [14, 15]
+    region:   la_theine_plateau_c_7
+
+  17195232:
+    template: Poison_Funguar
+    level:    [14, 15]
+    region:   la_theine_plateau_c_7
+
+  17195233:
+    template: Huge_Wasp
+    level:    [11, 12]
+    region:   la_theine_plateau_c_7
+
+  17195234:
+    template: Huge_Wasp
+    level:    [11, 12]
+    region:   la_theine_plateau_c_7
+
+  17195235:
+    template: Huge_Wasp
+    level:    [11, 12]
+    region:   la_theine_plateau_c_7
+
+  17195236:
+    template: Plague_Bats
+    level:    [10, 11]
+    region:   la_theine_plateau_n_5
+
+  17195237:
+    template: Plague_Bats
+    level:    [10, 11]
+    region:   la_theine_plateau_n_5
+
+  17195238:
+    template: Poison_Bat
+    level:    [12, 13]
+    region:   la_theine_plateau_n_5
+
+  17195239:
+    template: Poison_Bat
+    level:    [12, 13]
+    region:   la_theine_plateau_n_5
+
+  17195240:
+    template: Plague_Bats
+    level:    [10, 11]
+    region:   la_theine_plateau_ne_2
+
+  17195241:
+    template: Plague_Bats
+    level:    [10, 11]
+    region:   la_theine_plateau_ne_2
+
+  17195242:
+    template: Poison_Bat
+    level:    [12, 13]
+    region:   la_theine_plateau_ne_2
+
+  17195243:
+    template: Poison_Bat
+    level:    [12, 13]
+    region:   la_theine_plateau_ne_2
+
+  17195244:
+    template: Poison_Funguar
+    level:    [14, 15]
+    region:   la_theine_plateau_ne_6
+
+  17195245:
+    template: Poison_Funguar
+    at:       [421.619, 71.030, 356.129, 127]
+    level:    [14, 15]
+
+  17195246:
+    template: Poison_Funguar
+    at:       [416.130, 70.250, 351.413, 127]
+    level:    [14, 15]
+
+  17195247:
+    template: Huge_Wasp
+    at:       [395.316, 70.263, 355.922, 127]
+    level:    [11, 12]
+
+  17195248:
+    template: Huge_Wasp
+    at:       [400.407, 70.249, 360.909, 19]
+    level:    [11, 12]
+
+  17195249:
+    template: Plague_Bats
+    at:       [537.250, 54.139, 383.530, 22]
+    level:    [11, 12]
+
+  17195250:
+    template: Plague_Bats
+    level:    [11, 12]
+    region:   la_theine_plateau_ne_7
+
+  17195251:
+    template: Plague_Bats
+    level:    [11, 12]
+    region:   la_theine_plateau_ne_7
+
+  17195252:
+    template: Plague_Bats
+    level:    [11, 12]
+    region:   la_theine_plateau_ne_7
+
+  17195253:
+    template: Poison_Bat
+    level:    [13, 14]
+    region:   la_theine_plateau_ne_7
+
+  17195254:
+    template: Poison_Bat
+    level:    [13, 14]
+    region:   la_theine_plateau_ne_7
+
+  17195255:
+    template: Poison_Bat
+    level:    [13, 14]
+    region:   la_theine_plateau_ne_7
+
+  17195256:
+    template: Poison_Funguar
+    level:    [14, 15]
+    region:   la_theine_plateau_ne_5
+
+  17195257:
+    template: Poison_Funguar
+    level:    [14, 15]
+    region:   la_theine_plateau_ne_5
+
+  17195258:
+    template: Poison_Funguar
+    level:    [14, 15]
+    region:   la_theine_plateau_ne_5
+
+  17195259:
+    template: Tumbling_Truffle
+    at:       [434.000, 70.000, 241.000, 127]
+    level:    [19, 20]
+
+  17195260:
+    template: Huge_Wasp
+    level:    [11, 12]
+    region:   la_theine_plateau_ne_5
+
+  17195261:
+    template: Huge_Wasp
+    level:    [11, 12]
+    region:   la_theine_plateau_ne_5
+
+  17195262:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_ne_3
+
+  17195263:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_ne_3
+
+  17195264:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   la_theine_plateau_ne_3
+
+  17195265:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   la_theine_plateau_ne_3
+
+  17195266:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   la_theine_plateau_ne_3
+
+  17195267:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   la_theine_plateau_ne_3
+
+  17195268:
+    template: Gale_Bats
+    level:    [8, 9]
+    region:   la_theine_plateau_ne_3
+
+  17195269:
+    template: Gale_Bats
+    level:    [8, 9]
+    region:   la_theine_plateau_ne_3
+
+  17195270:
+    template: Acro_Bat
+    level:    [9, 10]
+    region:   la_theine_plateau_ne_3
+
+  17195271:
+    template: Wolf_Zombie
+    at:       [312.946, 39.309, 346.220, 73]
+    level:    [8, 10]
+
+  17195272:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_ne_3
+
+  17195273:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_ne_3
+
+  17195274:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   la_theine_plateau_ne_3
+
+  17195275:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   la_theine_plateau_ne_3
+
+  17195276:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   la_theine_plateau_ne_3
+
+  17195277:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   la_theine_plateau_ne_3
+
+  17195278:
+    template: Gale_Bats
+    level:    [8, 9]
+    region:   la_theine_plateau_ne_3
+
+  17195279:
+    template: Acro_Bat
+    level:    [9, 10]
+    region:   la_theine_plateau_ne_3
+
+  17195280:
+    template: Wolf_Zombie
+    at:       [529.041, 38.412, 337.009, 50]
+    level:    [8, 10]
+
+  17195281:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_ne_4
+
+  17195282:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_e_5
+
+  17195283:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   la_theine_plateau_ne_4
+
+  17195284:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   la_theine_plateau_ne_4
+
+  17195285:
+    template: Huge_Wasp
+    level:    [11, 12]
+    region:   la_theine_plateau_ne_4
+
+  17195286:
+    template: Huge_Wasp
+    level:    [11, 12]
+    region:   la_theine_plateau_ne_4
+
+  17195287:
+    template: Gale_Bats
+    level:    [8, 9]
+    region:   la_theine_plateau_ne_4
+
+  17195288:
+    template: Wolf_Zombie
+    at:       [434.465, 40.334, 173.772, 56]
+    level:    [8, 10]
+
+  17195289:
+    template: Goblin_Thug
+    level:    [9, 10]
+    region:   la_theine_plateau_ne_3
+
+  17195290:
+    template: Goblin_Ambusher
+    level:    [12, 13]
+    region:   la_theine_plateau_ne_3
+
+  17195291:
+    template: Goblin_Weaver
+    level:    [8, 9]
+    region:   la_theine_plateau_ne_3
+
+  17195292:
+    template: Goblin_Tinkerer
+    level:    [12, 13]
+    region:   la_theine_plateau_ne_3
+
+  17195293:
+    template: Goblin_Butcher
+    level:    [12, 13]
+    region:   la_theine_plateau_ne_3
+
+  17195294:
+    template: Skeleton_Warrior
+    at:       [478.864, 39.551, 470.317, 101]
+    level:    [10, 12]
+
+  17195295:
+    template: Skeleton_Sorcerer
+    at:       [463.564, 39.991, 408.103, 127]
+    level:    [11, 13]
+
+  17195296:
+    template: Air_Elemental
+    at:       [446.414, 40.047, 416.790, 6]
+    level:    [18, 20]
+
+  17195297:
+    template: Steppe_Hare
+    at:       [-146.114, -7.648, -177.114, 127]
+    level:    [9, 10]
+
+  17195298:
+    template: Steppe_Hare
+    at:       [-94.966, 0.383, -226.835, 127]
+    level:    [9, 10]
+
+  17195299:
+    template: Steppe_Hare
+    at:       [-125.777, -0.943, -266.492, 37]
+    level:    [9, 10]
+
+  17195300:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   la_theine_plateau_c_4
+
+  17195301:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   la_theine_plateau_c_4
+
+  17195302:
+    template: Akbaba
+    level:    [12, 13]
+    region:   la_theine_plateau_c_4
+
+  17195303:
+    template: Akbaba
+    level:    [12, 13]
+    region:   la_theine_plateau_c_4
+
+  17195304:
+    template: Steppe_Hare
+    level:    [9, 10]
+    region:   la_theine_plateau_c_4
+
+  17195305:
+    template: Steppe_Hare
+    level:    [9, 10]
+    region:   la_theine_plateau_c_4
+
+  17195306:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   la_theine_plateau_c_4
+
+  17195307:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   la_theine_plateau_c_4
+
+  17195308:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   la_theine_plateau_c_4
+
+  17195309:
+    template: Akbaba
+    level:    [12, 13]
+    region:   la_theine_plateau_c_4
+
+  17195310:
+    template: Akbaba
+    level:    [12, 13]
+    region:   la_theine_plateau_c_4
+
+  17195311:
+    template: Steppe_Hare
+    level:    [9, 10]
+    region:   la_theine_plateau_c_8
+
+  17195312:
+    template: Steppe_Hare
+    level:    [9, 10]
+    region:   la_theine_plateau_c_8
+
+  17195313:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   la_theine_plateau_c_8
+
+  17195314:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   la_theine_plateau_c_8
+
+  17195315:
+    template: Akbaba
+    level:    [12, 13]
+    region:   la_theine_plateau_c_8
+
+  17195316:
+    template: Battering_Ram
+    level:    [22, 23]
+    region:   la_theine_plateau_c_4
+
+  17195317:
+    template: Lumbering_Lambert
+    level:    [27, 28]
+    region:   la_theine_plateau_c_4
+
+  17195318:
+    template: Bloodtear_Baldurf
+    at:       [88.000, 8.000, -239.000, 127]
+    level:    [55, 56]
+
+  17195319:
+    template: Orcish_Grunt
+    level:    [12, 13]
+    region:   la_theine_plateau_c_4
+
+  17195320:
+    template: Orcish_Stonechucker
+    level:    [12, 13]
+    region:   la_theine_plateau_c_4
+
+  17195321:
+    template: Orcish_Fodder
+    level:    [8, 9]
+    region:   la_theine_plateau_c_4
+
+  17195322:
+    template: Orcish_Neckchopper
+    at:       [-97.747, -1.189, -172.382, 127]
+    level:    [12, 13]
+
+  17195323:
+    template: Orcish_Mesmerizer
+    at:       [90.820, 6.981, -259.792, 98]
+    level:    [8, 9]
+
+  17195324:
+    template: Orcish_Grappler
+    at:       [-105.468, 8.533, -327.419, 42]
+    level:    [8, 9]
+
+  17195325:
+    template: Skeleton_Warrior
+    at:       [43.992, 7.516, -200.883, 127]
+    level:    [10, 12]
+
+  17195326:
+    template: Skeleton_Sorcerer
+    at:       [-676.470, -16.610, -20.970, 0]
+    level:    [11, 13]
+
+  17195327:
+    template: Rock_Eater
+    at:       [-162.621, 23.813, -509.297, 127]
+    level:    [10, 11]
+
+  17195328:
+    template: Rock_Eater
+    at:       [-153.415, 23.617, -481.810, 41]
+    level:    [10, 11]
+
+  17195329:
+    template: Rock_Eater
+    at:       [93.000, 24.000, -397.000, 32]
+    level:    [10, 11]
+
+  17195330:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   la_theine_plateau_s
+
+  17195331:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   la_theine_plateau_s
+
+  17195332:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   la_theine_plateau_s
+
+  17195333:
+    template: Gale_Bats
+    level:    [9, 10]
+    region:   la_theine_plateau_s
+
+  17195334:
+    template: Gale_Bats
+    level:    [8, 9]
+    region:   la_theine_plateau_s
+
+  17195335:
+    template: Acro_Bat
+    level:    [9, 10]
+    region:   la_theine_plateau_s
+
+  17195336:
+    template: Wolf_Zombie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [8, 10]
+
+  17195337:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_s
+
+  17195338:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_s
+
+  17195339:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_s
+
+  17195340:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   la_theine_plateau_s
+
+  17195341:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   la_theine_plateau_s
+
+  17195342:
+    template: Mad_Sheep
+    level:    [12, 13]
+    region:   la_theine_plateau_s
+
+  17195343:
+    template: Gale_Bats
+    level:    [9, 10]
+    region:   la_theine_plateau_s
+
+  17195344:
+    template: Gale_Bats
+    level:    [8, 9]
+    region:   la_theine_plateau_s
+
+  17195345:
+    template: Acro_Bat
+    level:    [9, 10]
+    region:   la_theine_plateau_s
+
+  17195346:
+    template: Wolf_Zombie
+    at:       [35.401, 26.198, -576.162, 127]
+    level:    [8, 10]
+
+  17195347:
+    template: Goblin_Thug
+    level:    [9, 10]
+    region:   la_theine_plateau_s
+
+  17195348:
+    template: Goblin_Ambusher
+    level:    [12, 13]
+    region:   la_theine_plateau_s
+
+  17195349:
+    template: Goblin_Weaver
+    level:    [8, 9]
+    region:   la_theine_plateau_s
+
+  17195350:
+    template: Goblin_Tinkerer
+    level:    [12, 13]
+    region:   la_theine_plateau_s
+
+  17195351:
+    template: Goblin_Butcher
+    level:    [12, 13]
+    region:   la_theine_plateau_s
+
+  17195352:
+    template: Skeleton_Warrior
+    at:       [161.380, 7.000, -213.880, 0]
+    level:    [10, 12]
+
+  17195353:
+    template: Skeleton_Sorcerer
+    at:       [-542.730, -0.430, 463.610, 0]
+    level:    [11, 13]
+
+  17195354:
+    template: Air_Elemental
+    level:    [18, 20]
+    region:   la_theine_plateau_s
+
+  17195355:
+    template: Steppe_Hare
+    level:    [9, 10]
+    region:   la_theine_plateau_e
+
+  17195356:
+    template: Steppe_Hare
+    level:    [9, 10]
+    region:   la_theine_plateau_e
+
+  17195357:
+    template: Steppe_Hare
+    level:    [9, 10]
+    region:   la_theine_plateau_e
+
+  17195358:
+    template: Steppe_Hare
+    level:    [9, 10]
+    region:   la_theine_plateau_e
+
+  17195359:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   la_theine_plateau_e
+
+  17195360:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   la_theine_plateau_e
+
+  17195361:
+    template: Akbaba
+    level:    [12, 13]
+    region:   la_theine_plateau_e
+
+  17195362:
+    template: Akbaba
+    level:    [12, 13]
+    region:   la_theine_plateau_e
+
+  17195363:
+    template: Steppe_Hare
+    level:    [9, 10]
+    region:   la_theine_plateau_e
+
+  17195364:
+    template: Steppe_Hare
+    level:    [9, 10]
+    region:   la_theine_plateau_e
+
+  17195365:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   la_theine_plateau_e
+
+  17195366:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   la_theine_plateau_e
+
+  17195367:
+    template: Akbaba
+    level:    [12, 13]
+    region:   la_theine_plateau_e
+
+  17195368:
+    template: Akbaba
+    level:    [12, 13]
+    region:   la_theine_plateau_e
+
+  17195369:
+    template: Akbaba
+    level:    [12, 13]
+    region:   la_theine_plateau_e
+
+  17195370:
+    template: Akbaba
+    level:    [12, 13]
+    region:   la_theine_plateau_e
+
+  17195371:
+    template: Steppe_Hare
+    level:    [9, 10]
+    region:   la_theine_plateau_e_6
+
+  17195372:
+    template: Steppe_Hare
+    level:    [9, 10]
+    region:   la_theine_plateau_e_6
+
+  17195373:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   la_theine_plateau_e_6
+
+  17195374:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   la_theine_plateau_e_6
+
+  17195375:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   la_theine_plateau_e_6
+
+  17195376:
+    template: Akbaba
+    level:    [12, 13]
+    region:   la_theine_plateau_e_6
+
+  17195377:
+    template: Akbaba
+    level:    [12, 13]
+    region:   la_theine_plateau_e_6
+
+  17195378:
+    template: Orcish_Grunt
+    level:    [12, 13]
+    region:   la_theine_plateau_e_6
+
+  17195379:
+    template: Orcish_Stonechucker
+    level:    [12, 13]
+    region:   la_theine_plateau_e
+
+  17195380:
+    template: Orcish_Fodder
+    level:    [9, 10]
+    region:   la_theine_plateau_e
+
+  17195381:
+    template: Orcish_Neckchopper
+    level:    [12, 13]
+    region:   la_theine_plateau_e_6
+
+  17195382:
+    template: Orcish_Mesmerizer
+    level:    [9, 10]
+    region:   la_theine_plateau_e_6
+
+  17195383:
+    template: Orcish_Grappler
+    level:    [9, 10]
+    region:   la_theine_plateau_e_6
+
+  17195384:
+    template: Skeleton_Warrior
+    at:       [661.501, 23.621, 150.391, 68]
+    level:    [10, 12]
+
+  17195385:
+    template: Skeleton_Sorcerer
+    at:       [235.300, 20.812, 90.810, 121]
+    level:    [11, 13]
+
+  17195386:
+    template: Ghost
+    level:    [15, 16]
+    region:   la_theine_plateau_e_2
+
+  17195387:
+    template: Grenade
+    at:       [484.343, 23.432, 78.368, 127]
+    level:    [15, 16]
+
+  17195388:
+    template: Steppe_Hare
+    level:    [9, 10]
+    region:   la_theine_plateau_e_3
+
+  17195389:
+    template: Steppe_Hare
+    level:    [9, 10]
+    region:   la_theine_plateau_e_3
+
+  17195390:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   la_theine_plateau_e_3
+
+  17195391:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   la_theine_plateau_e_3
+
+  17195392:
+    template: Akbaba
+    level:    [12, 13]
+    region:   la_theine_plateau_e_3
+
+  17195393:
+    template: Akbaba
+    level:    [12, 13]
+    region:   la_theine_plateau_e_3
+
+  17195394:
+    template: Akbaba
+    level:    [12, 13]
+    region:   la_theine_plateau_e_3
+
+  17195395:
+    template: Steppe_Hare
+    level:    [9, 10]
+    region:   la_theine_plateau_e_7
+
+  17195396:
+    template: Steppe_Hare
+    level:    [9, 10]
+    region:   la_theine_plateau_e_7
+
+  17195397:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   la_theine_plateau_e_7
+
+  17195398:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   la_theine_plateau_e_7
+
+  17195399:
+    template: Akbaba
+    level:    [12, 13]
+    region:   la_theine_plateau_e_7
+
+  17195400:
+    template: Akbaba
+    level:    [12, 13]
+    region:   la_theine_plateau_e_7
+
+  17195401:
+    template: Orcish_Grunt
+    level:    [12, 13]
+    region:   la_theine_plateau_e_3
+
+  17195402:
+    template: Orcish_Stonechucker
+    level:    [12, 13]
+    region:   la_theine_plateau_e_3
+
+  17195403:
+    template: Orcish_Fodder
+    level:    [9, 10]
+    region:   la_theine_plateau_e_3
+
+  17195404:
+    template: Orcish_Neckchopper
+    level:    [12, 13]
+    region:   la_theine_plateau_e_3
+
+  17195405:
+    template: Orcish_Mesmerizer
+    level:    [9, 10]
+    region:   la_theine_plateau_e_3
+
+  17195406:
+    template: Orcish_Grappler
+    level:    [9, 10]
+    region:   la_theine_plateau_e_3
+
+  17195407:
+    template: Skeleton_Warrior
+    at:       [272.895, 23.595, -82.048, 53]
+    level:    [10, 12]
+
+  17195408:
+    template: Skeleton_Sorcerer
+    at:       [457.756, 23.202, -247.262, 127]
+    level:    [11, 13]
+
+  17195409:
+    template: Ghost
+    level:    [15, 16]
+    region:   la_theine_plateau_e_4
+
+  17195410:
+    template: Grass_Funguar
+    level:    [12, 13]
+    region:   la_theine_plateau_e_8
+
+  17195411:
+    template: Grass_Funguar
+    level:    [12, 13]
+    region:   la_theine_plateau_e_8
+
+  17195412:
+    template: Grass_Funguar
+    level:    [12, 13]
+    region:   la_theine_plateau_e_8
+
+  17195413:
+    template: Grass_Funguar
+    level:    [12, 13]
+    region:   la_theine_plateau_e_8
+
+  17195414:
+    template: Grass_Funguar
+    level:    [12, 13]
+    region:   la_theine_plateau_e_8
+
+  17195415:
+    template: Gale_Bats
+    level:    [9, 10]
+    region:   la_theine_plateau_e_9
+
+  17195416:
+    template: Gale_Bats
+    level:    [9, 10]
+    region:   la_theine_plateau_e_8
+
+  17195417:
+    template: Acro_Bat
+    at:       [640.341, 24.452, 179.353, 66]
+    level:    [10, 11]
+
+  17195418:
+    template: Acro_Bat
+    level:    [10, 11]
+    region:   la_theine_plateau_e_8
+
+  17195419:
+    template: Poltergeist
+    level:    [18, 19]
+    region:   la_theine_plateau_e_10
+
+  17195420:
+    template: Poltergeist
+    level:    [18, 19]
+    region:   la_theine_plateau_e_10
+
+  17195421:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_se_5
+
+  17195422:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_se_5
+
+  17195423:
+    template: Grass_Funguar
+    level:    [12, 13]
+    region:   la_theine_plateau_se_5
+
+  17195424:
+    template: Grass_Funguar
+    level:    [12, 13]
+    region:   la_theine_plateau_se_5
+
+  17195425:
+    template: Grass_Funguar
+    level:    [12, 13]
+    region:   la_theine_plateau_se_5
+
+  17195426:
+    template: Gale_Bats
+    level:    [9, 10]
+    region:   la_theine_plateau_se_5
+
+  17195427:
+    template: Acro_Bat
+    level:    [10, 11]
+    region:   la_theine_plateau_se_5
+
+  17195428:
+    template: Thickshell
+    level:    [13, 14]
+    region:   la_theine_plateau_se_6
+
+  17195429:
+    template: Thickshell
+    level:    [13, 14]
+    region:   la_theine_plateau_se_6
+
+  17195430:
+    template: Goblin_Fisher
+    level:    [9, 10]
+    region:   la_theine_plateau_se_6
+
+  17195431:
+    template: Water_Elemental
+    level:    [18, 20]
+    region:   la_theine_plateau_se_6
+
+  17195432:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_se_3
+
+  17195433:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_se_3
+
+  17195434:
+    template: Grass_Funguar
+    at:       [399.396, 23.450, -431.465, 46]
+    level:    [12, 13]
+
+  17195435:
+    template: Grass_Funguar
+    at:       [381.262, 22.414, -530.608, 127]
+    level:    [12, 13]
+
+  17195436:
+    template: Grass_Funguar
+    at:       [546.536, 23.689, -335.346, 127]
+    level:    [12, 13]
+
+  17195437:
+    template: Grass_Funguar
+    at:       [436.615, 20.714, -568.976, 88]
+    level:    [12, 13]
+
+  17195438:
+    template: Gale_Bats
+    at:       [521.864, 23.679, -350.856, 16]
+    level:    [10, 10]
+
+  17195439:
+    template: Acro_Bat
+    at:       [410.836, 22.641, -441.076, 127]
+    level:    [10, 11]
+
+  17195440:
+    template: Thickshell
+    level:    [13, 14]
+    region:   la_theine_plateau_se_4
+
+  17195441:
+    template: Thickshell
+    level:    [13, 14]
+    region:   la_theine_plateau_se_4
+
+  17195442:
+    template: Goblin_Fisher
+    level:    [9, 10]
+    region:   la_theine_plateau_se_4
+
+  17195443:
+    template: Water_Elemental
+    level:    [18, 20]
+    region:   la_theine_plateau_se_4
+
+  17195444:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_se_2
+
+  17195445:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_se_2
+
+  17195446:
+    template: Grass_Funguar
+    level:    [12, 13]
+    region:   la_theine_plateau_se_2
+
+  17195447:
+    template: Grass_Funguar
+    level:    [12, 13]
+    region:   la_theine_plateau_se_2
+
+  17195448:
+    template: Grass_Funguar
+    level:    [12, 13]
+    region:   la_theine_plateau_se_2
+
+  17195449:
+    template: Grass_Funguar
+    level:    [12, 13]
+    region:   la_theine_plateau_se_2
+
+  17195450:
+    template: Gale_Bats
+    level:    [10, 10]
+    region:   la_theine_plateau_se_2
+
+  17195451:
+    template: Acro_Bat
+    level:    [10, 11]
+    region:   la_theine_plateau_se_2
+
+  17195452:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_s_3
+
+  17195453:
+    template: Rock_Eater
+    level:    [10, 11]
+    region:   la_theine_plateau_s_3
+
+  17195454:
+    template: Grass_Funguar
+    level:    [12, 13]
+    region:   la_theine_plateau_s_3
+
+  17195455:
+    template: Grass_Funguar
+    level:    [12, 13]
+    region:   la_theine_plateau_s_3
+
+  17195456:
+    template: Grass_Funguar
+    level:    [12, 13]
+    region:   la_theine_plateau_s_3
+
+  17195457:
+    template: Grass_Funguar
+    level:    [12, 13]
+    region:   la_theine_plateau_s_3
+
+  17195458:
+    template: Gale_Bats
+    level:    [10, 10]
+    region:   la_theine_plateau_s_3
+
+  17195459:
+    template: Acro_Bat
+    level:    [10, 11]
+    region:   la_theine_plateau_s_3
+
+  17195460:
+    template: Orcish_Grunt
+    level:    [12, 13]
+    region:   la_theine_plateau_se
+
+  17195461:
+    template: Orcish_Stonechucker
+    level:    [12, 13]
+    region:   la_theine_plateau_se
+
+  17195462:
+    template: Orcish_Fodder
+    at:       [402.327, 23.451, -434.056, 127]
+    level:    [8, 9]
+
+  17195463:
+    template: Orcish_Neckchopper
+    at:       [324.000, 24.000, -512.000, 104]
+    level:    [12, 13]
+
+  17195464:
+    template: Orcish_Mesmerizer
+    at:       [290.560, 24.085, -513.395, 127]
+    level:    [9, 10]
+
+  17195465:
+    template: Orcish_Grappler
+    at:       [119.805, 23.656, -486.319, 127]
+    level:    [9, 10]
+
+  17195466:
+    template: Skeleton_Warrior
+    at:       [425.227, 22.794, -505.269, 13]
+    level:    [10, 12]
+
+  17195467:
+    template: Skeleton_Sorcerer
+    at:       [154.112, 31.476, -562.003, 127]
+    level:    [11, 13]
+
+  17195468:
+    template: Grenade
+    at:       [387.628, 23.675, -488.808, 24]
+    level:    [15, 17]
+
+  17195469:
+    template: Poison_Funguar
+    level:    [14, 15]
+    region:   la_theine_plateau_s_2
+
+  17195470:
+    template: Poison_Funguar
+    level:    [14, 15]
+    region:   la_theine_plateau_s_2
+
+  17195471:
+    template: Huge_Wasp
+    level:    [11, 12]
+    region:   la_theine_plateau_s_2
+
+  17195472:
+    template: Huge_Wasp
+    level:    [11, 12]
+    region:   la_theine_plateau_s_2
+
+  17195473:
+    template: Goblin_Digger
+    level:    [11, 12]
+    region:   la_theine_plateau_w_6
+
+  17195474:
+    template: Goblin_Archaeologist
+    at:       [342.811, 23.593, -10.756, 213]
+    level:    [30, 75]
+
+  17195475:
+    template: Nihniknoovi
+    at:       [211.066, 24.147, 257.961, 0]
+    level:    [14, 14]
+
+  17195476:
+    template: Pixie
+    at:       [260.000, 55.000, 263.000, 127]
+    level:    [51, 54]
+
+  17195477:
+    template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [51, 54]
+
+  17195478:
+    template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [51, 54]
+
+  17195479:
+    template: Pixie
+    level:    [51, 54]
+    region:   la_theine_plateau_w_5
+
+  17195480:
+    template: Pixie
+    level:    [51, 54]
+    region:   la_theine_plateau_c_2
+
+  17195481:
+    template: Zagh
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17195482:
+    template: Yilbegan
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [90, 92]
+
+  17195483:
+    template: Dawon
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [85, 85]
+
+  17195484:
+    template: Tammuz
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [82, 82]
+
+  17195485:
+    template: Chesma
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [82, 82]
+
+  17195486:
+    template: Void_Hare
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17195487:
+    template: Void_Hare
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17195488:
+    template: Void_Hare
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17195489:
+    template: Void_Hare
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17195490:
+    template: Prickly_Sheep
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17195491:
+    template: Prickly_Sheep
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17195492:
+    template: Prickly_Sheep
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17195493:
+    template: Prickly_Sheep
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17195494:
+    template: Stachysaurus
+    at:       [640.149, 31.500, 2.163, 213]
+    level:    [96, 97]
+
+  17195495:
+    template: Stachysaurus
+    at:       [-440.000, -8.500, 440.000, 50]
+    level:    [96, 97]
+
+  17195496:
+    template: Stachysaurus
+    at:       [204.408, 31.346, -601.168, 7]
+    level:    [96, 97]
+
+  17195538:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17195539:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17195540:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17195550:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17195551:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17195552:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17195562:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17195563:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17195564:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17195565:
+    template: Tatenashi_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17195566:
+    template: Hizamaru_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17195567:
+    template: Ubuginu_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17195568:
+    template: Hachiryu_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17195569:
+    template: Omodaka_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17195570:
+    template: Ironhorn_Baldurno
+    at:       [-122.879, -8.500, -43.549, 68]
+    level:    [0, 0]
+
+  17195571:
+    template: Ironhorn_Baldurno
+    at:       [-268.679, -16.134, -161.210, 23]
+    level:    [0, 0]
+
+  17195572:
+    template: Ironhorn_Baldurno
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17195573:
+    template: Otherworldly_Rimester
+    at:       [424.227, 23.500, 27.989, 237]
+    level:    [0, 0]

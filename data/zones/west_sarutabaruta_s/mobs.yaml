@@ -1,0 +1,3898 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17166337:
+    template: Savanna_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [12, 15]
+
+  17166338:
+    template: Mugger_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [12, 15]
+
+  17166339:
+    template: Mud_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [12, 15]
+
+  17166340:
+    template: Pug_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [12, 15]
+
+  17166341:
+    template: Fighting_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [12, 15]
+
+  17166342:
+    template: Mad_Fox
+    level:    [48, 49]
+    region:   west_sarutabaruta_s_n_16
+
+  17166343:
+    template: Mad_Fox
+    level:    [48, 49]
+    region:   west_sarutabaruta_s_n_16
+
+  17166344:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_n_16
+
+  17166345:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_n_16
+
+  17166346:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_n_16
+
+  17166347:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_n_16
+
+  17166348:
+    template: Carrion_Crow
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_n_4
+
+  17166349:
+    template: Carrion_Crow
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_n_4
+
+  17166350:
+    template: Carrion_Crow
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_n_4
+
+  17166351:
+    template: Carrion_Crow
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_n_4
+
+  17166352:
+    template: Carrion_Crow
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_n_4
+
+  17166353:
+    template: Savanna_Dhalmel
+    level:    [35, 37]
+    region:   west_sarutabaruta_s_ne_11
+
+  17166354:
+    template: Savanna_Dhalmel
+    level:    [35, 37]
+    region:   west_sarutabaruta_s_ne_11
+
+  17166355:
+    template: Savanna_Dhalmel
+    level:    [35, 37]
+    region:   west_sarutabaruta_s_ne_11
+
+  17166356:
+    template: Savanna_Dhalmel
+    level:    [35, 37]
+    region:   west_sarutabaruta_s_ne_11
+
+  17166357:
+    template: Savanna_Dhalmel
+    level:    [35, 37]
+    region:   west_sarutabaruta_s_ne_11
+
+  17166358:
+    template: Savanna_Dhalmel
+    level:    [35, 37]
+    region:   west_sarutabaruta_s_ne_11
+
+  17166359:
+    template: Savanna_Dhalmel
+    level:    [35, 37]
+    region:   west_sarutabaruta_s_ne_10
+
+  17166360:
+    template: Savanna_Dhalmel
+    level:    [35, 37]
+    region:   west_sarutabaruta_s_ne_10
+
+  17166361:
+    template: Savanna_Dhalmel
+    level:    [35, 37]
+    region:   west_sarutabaruta_s_ne_4
+
+  17166362:
+    template: Savanna_Dhalmel
+    level:    [35, 37]
+    region:   west_sarutabaruta_s_ne_4
+
+  17166363:
+    template: Savanna_Dhalmel
+    level:    [35, 37]
+    region:   west_sarutabaruta_s_ne_4
+
+  17166364:
+    template: Savanna_Dhalmel
+    level:    [35, 37]
+    region:   west_sarutabaruta_s_ne_6
+
+  17166365:
+    template: Savanna_Dhalmel
+    level:    [35, 37]
+    region:   west_sarutabaruta_s_ne_6
+
+  17166366:
+    template: Savanna_Dhalmel
+    level:    [35, 37]
+    region:   west_sarutabaruta_s_ne
+
+  17166367:
+    template: Savanna_Dhalmel
+    level:    [35, 37]
+    region:   west_sarutabaruta_s_ne
+
+  17166368:
+    template: Savanna_Dhalmel
+    level:    [35, 37]
+    region:   west_sarutabaruta_s_ne
+
+  17166369:
+    template: Savanna_Dhalmel
+    level:    [35, 37]
+    region:   west_sarutabaruta_s_ne
+
+  17166370:
+    template: Savanna_Dhalmel
+    level:    [35, 37]
+    region:   west_sarutabaruta_s_ne
+
+  17166371:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_ne_8
+
+  17166372:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_ne_8
+
+  17166373:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_ne_8
+
+  17166374:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_ne_8
+
+  17166375:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_ne_5
+
+  17166376:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_ne_5
+
+  17166377:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_ne_5
+
+  17166378:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_ne_5
+
+  17166379:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_ne_3
+
+  17166380:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_ne_3
+
+  17166381:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_ne_3
+
+  17166382:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_ne_3
+
+  17166383:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_e_5
+
+  17166384:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_e_5
+
+  17166385:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_e_5
+
+  17166386:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_e_5
+
+  17166387:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_e_2
+
+  17166388:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_e
+
+  17166389:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_c_22
+
+  17166390:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_c_22
+
+  17166391:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_c_22
+
+  17166392:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_c_22
+
+  17166393:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_c_22
+
+  17166394:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_c_22
+
+  17166395:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_e
+
+  17166396:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_e
+
+  17166397:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_e
+
+  17166398:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_e
+
+  17166399:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_e_2
+
+  17166400:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_e_2
+
+  17166401:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_c_33
+
+  17166402:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_c_33
+
+  17166403:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_c_33
+
+  17166404:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_c_33
+
+  17166405:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_n_21
+
+  17166406:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_n_21
+
+  17166407:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_n_21
+
+  17166408:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_n_21
+
+  17166409:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_n_20
+
+  17166410:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_n_20
+
+  17166411:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_n_20
+
+  17166412:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_n_20
+
+  17166413:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_n_22
+
+  17166414:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_n_22
+
+  17166415:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_n_22
+
+  17166416:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_n_22
+
+  17166417:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_n_22
+
+  17166418:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_n_22
+
+  17166419:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_n_22
+
+  17166420:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_c_6
+
+  17166421:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_c_6
+
+  17166422:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_c_6
+
+  17166423:
+    template: Carrion_Crow
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_c_7
+
+  17166424:
+    template: Carrion_Crow
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_c_7
+
+  17166425:
+    template: Carrion_Crow
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_c_7
+
+  17166426:
+    template: Carrion_Crow
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_c_7
+
+  17166427:
+    template: Carrion_Crow
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_c_7
+
+  17166428:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_c_5
+
+  17166429:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_c_5
+
+  17166430:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_c_5
+
+  17166431:
+    template: Goblin_Patrolman
+    level:    [56, 59]
+    region:   west_sarutabaruta_s_c_8
+
+  17166432:
+    template: Goblins_Rarab
+    level:    [51, 54]
+    region:   west_sarutabaruta_s_c_8
+
+  17166433:
+    template: Goblin_Draftee
+    level:    [56, 59]
+    region:   west_sarutabaruta_s_c_8
+
+  17166434:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_c_2
+
+  17166435:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_c_2
+
+  17166436:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_c_2
+
+  17166437:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_c_2
+
+  17166438:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_c
+
+  17166439:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_c
+
+  17166440:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_c
+
+  17166441:
+    template: Belladonna
+    level:    [53, 54]
+    region:   west_sarutabaruta_s_c
+
+  17166442:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_c_4
+
+  17166443:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_c_4
+
+  17166444:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_c_4
+
+  17166445:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_c_4
+
+  17166446:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_c_3
+
+  17166447:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_c_3
+
+  17166448:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_c_3
+
+  17166449:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_c_3
+
+  17166450:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_c_3
+
+  17166451:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_s_5
+
+  17166452:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_s_5
+
+  17166453:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_s_5
+
+  17166454:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_s_5
+
+  17166455:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_s_5
+
+  17166456:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_s_5
+
+  17166457:
+    template: Tiny_Lycopodium
+    level:    [10, 12]
+    region:   west_sarutabaruta_s_e_7
+
+  17166458:
+    template: Tiny_Lycopodium
+    level:    [10, 12]
+    region:   west_sarutabaruta_s_e_7
+
+  17166459:
+    template: Tiny_Lycopodium
+    level:    [10, 12]
+    region:   west_sarutabaruta_s_e_7
+
+  17166460:
+    template: Tiny_Lycopodium
+    level:    [10, 12]
+    region:   west_sarutabaruta_s_e_7
+
+  17166461:
+    template: Tiny_Lycopodium
+    level:    [10, 12]
+    region:   west_sarutabaruta_s_e_7
+
+  17166462:
+    template: Tiny_Lycopodium
+    level:    [10, 12]
+    region:   west_sarutabaruta_s_e_7
+
+  17166463:
+    template: Tiny_Lycopodium
+    level:    [10, 12]
+    region:   west_sarutabaruta_s_e_10
+
+  17166464:
+    template: Tiny_Lycopodium
+    level:    [10, 12]
+    region:   west_sarutabaruta_s_e_10
+
+  17166465:
+    template: Tiny_Lycopodium
+    level:    [10, 12]
+    region:   west_sarutabaruta_s_e_10
+
+  17166466:
+    template: Tiny_Lycopodium
+    level:    [10, 12]
+    region:   west_sarutabaruta_s_e_10
+
+  17166467:
+    template: Tiny_Lycopodium
+    level:    [10, 12]
+    region:   west_sarutabaruta_s_e_10
+
+  17166468:
+    template: Carrion_Crow
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_e_11
+
+  17166469:
+    template: Carrion_Crow
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_e_11
+
+  17166470:
+    template: Carrion_Crow
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_e_8
+
+  17166471:
+    template: Carrion_Crow
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_e_8
+
+  17166472:
+    template: Tiny_Lycopodium
+    level:    [10, 12]
+    region:   west_sarutabaruta_s_e_8
+
+  17166473:
+    template: Tiny_Lycopodium
+    level:    [10, 12]
+    region:   west_sarutabaruta_s_e_8
+
+  17166474:
+    template: Tiny_Lycopodium
+    level:    [10, 12]
+    region:   west_sarutabaruta_s_e_8
+
+  17166475:
+    template: Tiny_Lycopodium
+    level:    [10, 12]
+    region:   west_sarutabaruta_s_e_8
+
+  17166476:
+    template: Tiny_Lycopodium
+    level:    [10, 12]
+    region:   west_sarutabaruta_s_e_6
+
+  17166477:
+    template: Tiny_Lycopodium
+    level:    [10, 12]
+    region:   west_sarutabaruta_s_e_6
+
+  17166478:
+    template: Tiny_Lycopodium
+    level:    [10, 12]
+    region:   west_sarutabaruta_s_e_6
+
+  17166479:
+    template: Tiny_Lycopodium
+    level:    [10, 12]
+    region:   west_sarutabaruta_s_e_6
+
+  17166480:
+    template: Tiny_Lycopodium
+    level:    [10, 12]
+    region:   west_sarutabaruta_s_e_6
+
+  17166481:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_e_6
+
+  17166482:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_e_6
+
+  17166483:
+    template: Goblin_Franctireur
+    level:    [56, 59]
+    region:   west_sarutabaruta_s_e_9
+
+  17166484:
+    template: Goblin_Patrolman
+    level:    [56, 59]
+    region:   west_sarutabaruta_s_e_9
+
+  17166485:
+    template: Goblins_Rarab
+    level:    [51, 54]
+    region:   west_sarutabaruta_s_e_9
+
+  17166486:
+    template: Goblin_Franctireur
+    level:    [56, 59]
+    region:   west_sarutabaruta_s_ne_12
+
+  17166487:
+    template: Goblin_Draftee
+    level:    [56, 59]
+    region:   west_sarutabaruta_s_ne_12
+
+  17166488:
+    template: Goblin_Patrolman
+    level:    [56, 59]
+    region:   west_sarutabaruta_s_ne_12
+
+  17166489:
+    template: Goblins_Rarab
+    level:    [51, 54]
+    region:   west_sarutabaruta_s_ne_12
+
+  17166490:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_e_4
+
+  17166491:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_e_4
+
+  17166492:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_e_3
+
+  17166493:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_e_3
+
+  17166494:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_e_3
+
+  17166495:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_e_3
+
+  17166496:
+    template: Tiny_Lycopodium
+    level:    [10, 12]
+    region:   west_sarutabaruta_s_e_3
+
+  17166497:
+    template: Tiny_Lycopodium
+    level:    [10, 12]
+    region:   west_sarutabaruta_s_e_3
+
+  17166498:
+    template: Tiny_Lycopodium
+    level:    [10, 12]
+    region:   west_sarutabaruta_s_e_3
+
+  17166499:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_c_23
+
+  17166500:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_c_23
+
+  17166501:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_c_23
+
+  17166502:
+    template: Carrion_Crow
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_c_23
+
+  17166503:
+    template: Carrion_Crow
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_c_23
+
+  17166504:
+    template: Carrion_Crow
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_c_23
+
+  17166505:
+    template: Carrion_Crow
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_c_23
+
+  17166506:
+    template: Tiny_Lycopodium
+    level:    [10, 12]
+    region:   west_sarutabaruta_s_c_19
+
+  17166507:
+    template: Tiny_Lycopodium
+    level:    [10, 12]
+    region:   west_sarutabaruta_s_c_19
+
+  17166508:
+    template: Tiny_Lycopodium
+    level:    [10, 12]
+    region:   west_sarutabaruta_s_c_19
+
+  17166509:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_c_19
+
+  17166510:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_c_19
+
+  17166511:
+    template: Carrion_Crow
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_c_19
+
+  17166512:
+    template: Carrion_Crow
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_c_19
+
+  17166513:
+    template: Carrion_Crow
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_c_19
+
+  17166514:
+    template: Carrion_Crow
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_c_19
+
+  17166515:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_c_30
+
+  17166516:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_c_30
+
+  17166517:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_c_30
+
+  17166518:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_c_16
+
+  17166519:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_c_16
+
+  17166520:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_c_16
+
+  17166521:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_c_16
+
+  17166522:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_c_24
+
+  17166523:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_c_24
+
+  17166524:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_s_16
+
+  17166525:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_s_16
+
+  17166526:
+    template: Carrion_Crow
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_s_16
+
+  17166527:
+    template: Carrion_Crow
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_s_16
+
+  17166528:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_s_14
+
+  17166529:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_s_14
+
+  17166530:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_s_12
+
+  17166531:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_s_12
+
+  17166532:
+    template: Carrion_Crow
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_s_15
+
+  17166533:
+    template: Carrion_Crow
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_s_15
+
+  17166534:
+    template: Carrion_Crow
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_s_13
+
+  17166535:
+    template: Carrion_Crow
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_s_13
+
+  17166536:
+    template: Tiny_Lycopodium
+    level:    [10, 12]
+    region:   west_sarutabaruta_s_s_19
+
+  17166537:
+    template: Tiny_Lycopodium
+    level:    [10, 12]
+    region:   west_sarutabaruta_s_s_19
+
+  17166538:
+    template: Tiny_Lycopodium
+    level:    [10, 12]
+    region:   west_sarutabaruta_s_s_19
+
+  17166539:
+    template: Tiny_Lycopodium
+    level:    [10, 12]
+    region:   west_sarutabaruta_s_s_19
+
+  17166540:
+    template: Tiny_Lycopodium
+    level:    [10, 12]
+    region:   west_sarutabaruta_s_s_19
+
+  17166541:
+    template: Tiny_Lycopodium
+    level:    [10, 12]
+    region:   west_sarutabaruta_s_s_19
+
+  17166542:
+    template: Tiny_Lycopodium
+    level:    [10, 12]
+    region:   west_sarutabaruta_s_s_19
+
+  17166543:
+    template: Jeduah
+    at:       [114.742, -1.007, -288.349, 20]
+    level:    [17, 18]
+
+  17166544:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_s_13
+
+  17166545:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_s_13
+
+  17166546:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_s_13
+
+  17166547:
+    template: River_Crab
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_s_10
+
+  17166548:
+    template: River_Crab
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_s_10
+
+  17166549:
+    template: River_Crab
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_s_10
+
+  17166550:
+    template: River_Crab
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_s_17
+
+  17166551:
+    template: River_Crab
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_s_17
+
+  17166552:
+    template: River_Crab
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_s_17
+
+  17166553:
+    template: River_Crab
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_s_17
+
+  17166554:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_s_11
+
+  17166555:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_s_11
+
+  17166556:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_s_11
+
+  17166557:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_s_11
+
+  17166558:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_s_8
+
+  17166559:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_s_8
+
+  17166560:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_s_8
+
+  17166561:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_s_8
+
+  17166562:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_s_8
+
+  17166563:
+    template: Hispid_Rarab
+    level:    [92, 93]
+    region:   west_sarutabaruta_s_s_3
+
+  17166564:
+    template: Hispid_Rarab
+    level:    [92, 93]
+    region:   west_sarutabaruta_s_s_3
+
+  17166565:
+    template: Hispid_Rarab
+    level:    [92, 93]
+    region:   west_sarutabaruta_s_s_3
+
+  17166566:
+    template: Hispid_Rarab
+    level:    [92, 93]
+    region:   west_sarutabaruta_s_s_3
+
+  17166567:
+    template: Hispid_Rarab
+    level:    [92, 93]
+    region:   west_sarutabaruta_s_s_3
+
+  17166568:
+    template: Hispid_Rarab
+    level:    [92, 93]
+    region:   west_sarutabaruta_s_s_3
+
+  17166569:
+    template: Hispid_Rarab
+    level:    [92, 93]
+    region:   west_sarutabaruta_s_s_3
+
+  17166570:
+    template: Hispid_Rarab
+    level:    [92, 93]
+    region:   west_sarutabaruta_s_s_3
+
+  17166571:
+    template: Hispid_Rarab
+    level:    [92, 93]
+    region:   west_sarutabaruta_s_s_3
+
+  17166572:
+    template: Hispid_Rarab
+    level:    [92, 93]
+    region:   west_sarutabaruta_s_s_3
+
+  17166573:
+    template: Hispid_Rarab
+    level:    [92, 93]
+    region:   west_sarutabaruta_s_s_3
+
+  17166574:
+    template: Hispid_Rarab
+    level:    [92, 93]
+    region:   west_sarutabaruta_s_s_3
+
+  17166575:
+    template: Hispid_Rarab
+    at:       [-127.324, -4.577, -382.740, 67]
+    level:    [92, 93]
+
+  17166576:
+    template: Hispid_Rarab
+    at:       [-40.242, -4.454, -401.867, 23]
+    level:    [92, 93]
+
+  17166577:
+    template: Hispid_Rarab
+    at:       [-89.135, -4.361, -401.382, 109]
+    level:    [92, 93]
+
+  17166578:
+    template: Goblin_Franctireur
+    level:    [56, 59]
+    region:   west_sarutabaruta_s_s_4
+
+  17166579:
+    template: Goblin_Patrolman
+    level:    [56, 59]
+    region:   west_sarutabaruta_s_s_4
+
+  17166580:
+    template: Goblins_Rarab
+    level:    [51, 54]
+    region:   west_sarutabaruta_s_s_4
+
+  17166581:
+    template: Goblin_Draftee
+    level:    [56, 59]
+    region:   west_sarutabaruta_s_s_4
+
+  17166582:
+    template: Hispid_Rarab
+    level:    [92, 93]
+    region:   west_sarutabaruta_s_sw_10
+
+  17166583:
+    template: Hispid_Rarab
+    level:    [92, 93]
+    region:   west_sarutabaruta_s_sw_10
+
+  17166584:
+    template: Hispid_Rarab
+    level:    [92, 93]
+    region:   west_sarutabaruta_s_sw_10
+
+  17166585:
+    template: Hispid_Rarab
+    level:    [92, 93]
+    region:   west_sarutabaruta_s_sw_10
+
+  17166586:
+    template: Hispid_Rarab
+    level:    [92, 93]
+    region:   west_sarutabaruta_s_sw_10
+
+  17166587:
+    template: Hispid_Rarab
+    level:    [92, 93]
+    region:   west_sarutabaruta_s_sw_10
+
+  17166588:
+    template: Hispid_Rarab
+    level:    [92, 93]
+    region:   west_sarutabaruta_s_sw_10
+
+  17166589:
+    template: Hispid_Rarab
+    level:    [92, 93]
+    region:   west_sarutabaruta_s_sw_10
+
+  17166590:
+    template: Hispid_Rarab
+    level:    [92, 93]
+    region:   west_sarutabaruta_s_sw_10
+
+  17166591:
+    template: Hispid_Rarab
+    level:    [92, 93]
+    region:   west_sarutabaruta_s_sw_10
+
+  17166592:
+    template: Hispid_Rarab
+    level:    [92, 93]
+    region:   west_sarutabaruta_s_sw_9
+
+  17166593:
+    template: Hispid_Rarab
+    level:    [92, 93]
+    region:   west_sarutabaruta_s_sw_9
+
+  17166594:
+    template: Hispid_Rarab
+    level:    [92, 93]
+    region:   west_sarutabaruta_s_sw_9
+
+  17166595:
+    template: Hispid_Rarab
+    level:    [92, 93]
+    region:   west_sarutabaruta_s_sw_9
+
+  17166596:
+    template: Hispid_Rarab
+    level:    [92, 93]
+    region:   west_sarutabaruta_s_sw_9
+
+  17166597:
+    template: River_Crab
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_sw_7
+
+  17166598:
+    template: River_Crab
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_sw_7
+
+  17166599:
+    template: River_Crab
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_sw_7
+
+  17166600:
+    template: River_Crab
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_sw_7
+
+  17166601:
+    template: River_Crab
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_sw_2
+
+  17166602:
+    template: River_Crab
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_sw_2
+
+  17166603:
+    template: River_Crab
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_sw_2
+
+  17166604:
+    template: River_Crab
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_sw_2
+
+  17166605:
+    template: River_Crab
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_sw
+
+  17166606:
+    template: River_Crab
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_sw
+
+  17166607:
+    template: River_Crab
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_sw
+
+  17166608:
+    template: River_Crab
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_sw
+
+  17166609:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_sw_3
+
+  17166610:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_sw_3
+
+  17166611:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_sw_3
+
+  17166612:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_sw_3
+
+  17166613:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_sw_3
+
+  17166614:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_sw_3
+
+  17166615:
+    template: Carrion_Crow
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_sw_8
+
+  17166616:
+    template: Carrion_Crow
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_sw_8
+
+  17166617:
+    template: Carrion_Crow
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_sw_8
+
+  17166618:
+    template: Carrion_Crow
+    level:    [22, 25]
+    region:   west_sarutabaruta_s_sw_8
+
+  17166619:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_sw_8
+
+  17166620:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_sw_8
+
+  17166621:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_sw_8
+
+  17166622:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_sw_8
+
+  17166623:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_s_2
+
+  17166624:
+    template: Crawler
+    level:    [18, 21]
+    region:   west_sarutabaruta_s_s_2
+
+  17166625:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_s_7
+
+  17166626:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_s_7
+
+  17166627:
+    template: Yagudo_Mendicant
+    at:       [-331.699, -20.811, 199.732, 131]
+    level:    [61, 64]
+
+  17166628:
+    template: Yagudos_Elemental
+    at:       [-328.101, -20.756, 196.334, 65]
+    level:    [56, 58]
+
+  17166629:
+    template: Yagudo_Piper
+    at:       [-337.323, -21.259, 200.971, 16]
+    level:    [61, 64]
+
+  17166630:
+    template: Yagudo_Scribe
+    at:       [-337.183, -21.036, 233.544, 151]
+    level:    [61, 64]
+
+  17166631:
+    template: Yagudo_Acolyte
+    at:       [-349.383, -20.636, 238.916, 102]
+    level:    [61, 64]
+
+  17166632:
+    template: Yagudo_Initiate
+    level:    [61, 64]
+    region:   west_sarutabaruta_s_w_2
+
+  17166633:
+    template: Yagudo_Mendicant
+    level:    [61, 64]
+    region:   west_sarutabaruta_s_w_2
+
+  17166634:
+    template: Yagudos_Elemental
+    level:    [56, 58]
+    region:   west_sarutabaruta_s_w_2
+
+  17166635:
+    template: Yagudo_Initiate
+    level:    [61, 64]
+    region:   west_sarutabaruta_s_w
+
+  17166636:
+    template: Yagudo_Piper
+    level:    [61, 64]
+    region:   west_sarutabaruta_s_w
+
+  17166637:
+    template: Yagudo_Scribe
+    at:       [-278.279, -19.480, 331.214, 178]
+    level:    [61, 64]
+
+  17166638:
+    template: Yagudo_Mendicant
+    at:       [-271.674, -19.549, 333.201, 215]
+    level:    [61, 64]
+
+  17166639:
+    template: Yagudos_Elemental
+    at:       [-271.859, -19.873, 331.357, 207]
+    level:    [56, 58]
+
+  17166640:
+    template: Yagudo_Acolyte
+    level:    [61, 64]
+    region:   west_sarutabaruta_s_nw_3
+
+  17166641:
+    template: Yagudo_Piper
+    level:    [61, 64]
+    region:   west_sarutabaruta_s_nw_3
+
+  17166642:
+    template: Yagudo_Initiate
+    at:       [-317.673, -16.595, 368.276, 43]
+    level:    [61, 64]
+
+  17166643:
+    template: Yagudo_Scribe
+    at:       [-316.446, -16.560, 369.515, 64]
+    level:    [61, 64]
+
+  17166644:
+    template: Yagudo_Acolyte
+    level:    [61, 64]
+    region:   west_sarutabaruta_s_nw_4
+
+  17166645:
+    template: Yagudo_Mendicant
+    level:    [61, 64]
+    region:   west_sarutabaruta_s_nw_4
+
+  17166646:
+    template: Yagudos_Elemental
+    level:    [56, 58]
+    region:   west_sarutabaruta_s_nw_4
+
+  17166647:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_nw_8
+
+  17166648:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_nw_8
+
+  17166649:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_nw_8
+
+  17166650:
+    template: Savanna_Rarab
+    level:    [12, 15]
+    region:   west_sarutabaruta_s_nw_8
+
+  17166651:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_nw_8
+
+  17166652:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_nw_8
+
+  17166653:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_nw_8
+
+  17166654:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_nw_8
+
+  17166655:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_nw_6
+
+  17166656:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_nw_6
+
+  17166657:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_nw_6
+
+  17166658:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_nw_2
+
+  17166659:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_nw_2
+
+  17166660:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_nw_2
+
+  17166661:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_nw
+
+  17166662:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_nw
+
+  17166663:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_nw
+
+  17166664:
+    template: Bumblebee
+    at:       [-430.767, -28.385, 320.110, 247]
+    level:    [15, 17]
+
+  17166665:
+    template: Bumblebee
+    at:       [-383.757, -28.021, 378.574, 36]
+    level:    [15, 17]
+
+  17166666:
+    template: Rafflesia
+    at:       [-207.069, -23.472, 533.098, 130]
+    level:    [49, 52]
+
+  17166667:
+    template: Rafflesia
+    at:       [-208.811, -25.623, 521.465, 144]
+    level:    [49, 52]
+
+  17166668:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_nw_9
+
+  17166669:
+    template: Tiffenotte
+    level:    [72, 72]
+    region:   west_sarutabaruta_s_nw_9
+
+  17166670:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_nw_10
+
+  17166671:
+    template: Rafflesia
+    level:    [49, 52]
+    region:   west_sarutabaruta_s_nw_10
+
+  17166672:
+    template: Bumblebee
+    level:    [15, 17]
+    region:   west_sarutabaruta_s_nw_10
+
+  17166673:
+    template: Yagudo_Persecutor
+    level:    [61, 64]
+    region:   west_sarutabaruta_s_ne_11
+
+  17166674:
+    template: Yagudo_Persecutor
+    level:    [61, 64]
+    region:   west_sarutabaruta_s_ne_11
+
+  17166675:
+    template: Yagudo_Condottiere
+    level:    [61, 64]
+    region:   west_sarutabaruta_s_ne_11
+
+  17166676:
+    template: Yagudo_Condottiere
+    level:    [61, 64]
+    region:   west_sarutabaruta_s_ne_11
+
+  17166677:
+    template: Yagudo_Persecutor
+    level:    [61, 64]
+    region:   west_sarutabaruta_s_e_11
+
+  17166678:
+    template: Yagudo_Condottiere
+    level:    [61, 64]
+    region:   west_sarutabaruta_s_e_11
+
+  17166679:
+    template: Yagudo_Persecutor
+    level:    [61, 64]
+    region:   west_sarutabaruta_s_e_11
+
+  17166680:
+    template: Yagudo_Condottiere
+    level:    [61, 64]
+    region:   west_sarutabaruta_s_e_11
+
+  17166681:
+    template: Goblin_Skirmisher
+    level:    [56, 59]
+    region:   west_sarutabaruta_s_ne_2
+
+  17166682:
+    template: Goblin_Mine
+    level:    [52, 53]
+    region:   west_sarutabaruta_s_ne_9
+
+  17166683:
+    template: Goblin_Skirmisher
+    level:    [56, 59]
+    region:   west_sarutabaruta_s_ne_2
+
+  17166684:
+    template: Goblin_Mine
+    level:    [52, 53]
+    region:   west_sarutabaruta_s_ne_7
+
+  17166685:
+    template: Goblin_Skirmisher
+    level:    [56, 59]
+    region:   west_sarutabaruta_s_s
+
+  17166686:
+    template: Goblin_Mine
+    level:    [52, 53]
+    region:   west_sarutabaruta_s_s_9
+
+  17166687:
+    template: Goblin_Skirmisher
+    level:    [56, 59]
+    region:   west_sarutabaruta_s_s
+
+  17166688:
+    template: Goblin_Mine
+    level:    [52, 53]
+    region:   west_sarutabaruta_s_s_6
+
+  17166689:
+    template: Pixie
+    at:       [-62.544, -17.107, 397.047, 140]
+    level:    [51, 54]
+
+  17166690:
+    template: Pixie
+    at:       [313.652, -21.071, 529.968, 63]
+    level:    [51, 54]
+
+  17166691:
+    template: Pixie
+    at:       [63.747, -0.464, -284.961, 161]
+    level:    [51, 54]
+
+  17166692:
+    template: Pixie
+    at:       [-133.266, -3.519, -408.942, 115]
+    level:    [51, 54]
+
+  17166693:
+    template: Pixie
+    at:       [290.865, -21.498, 344.838, 108]
+    level:    [51, 54]
+
+  17166694:
+    template: Pixie
+    at:       [305.174, -18.830, 350.258, 119]
+    level:    [51, 54]
+
+  17166695:
+    template: Pixie
+    at:       [-145.315, -17.015, 375.213, 142]
+    level:    [51, 54]
+
+  17166696:
+    template: Pixie
+    at:       [-153.880, -16.759, 367.834, 255]
+    level:    [51, 54]
+
+  17166697:
+    template: Pixie
+    at:       [-307.059, -29.468, 469.589, 255]
+    level:    [51, 54]
+
+  17166698:
+    template: Pixie
+    level:    [51, 54]
+    region:   west_sarutabaruta_s_nw_5
+
+  17166699:
+    template: Poroggo_Gent
+    level:    [56, 67]
+    region:   west_sarutabaruta_s_s_18
+
+  17166700:
+    template: Poroggo_Gent
+    level:    [56, 67]
+    region:   west_sarutabaruta_s_s_18
+
+  17166701:
+    template: Toad
+    level:    [51, 54]
+    region:   west_sarutabaruta_s_s_18
+
+  17166702:
+    template: Toad
+    level:    [51, 54]
+    region:   west_sarutabaruta_s_s_18
+
+  17166703:
+    template: Toad
+    level:    [51, 54]
+    region:   west_sarutabaruta_s_s_18
+
+  17166704:
+    template: Toad
+    level:    [51, 54]
+    region:   west_sarutabaruta_s_s_18
+
+  17166705:
+    template: Ramponneau
+    at:       [93.736, -1.104, -204.736, 88]
+    level:    [47, 54]
+
+  17166706:
+    template: Poroggo_Gent
+    level:    [56, 67]
+    region:   west_sarutabaruta_s_sw_5
+
+  17166707:
+    template: Poroggo_Gent
+    level:    [56, 67]
+    region:   west_sarutabaruta_s_sw_6
+
+  17166708:
+    template: Toad
+    level:    [51, 54]
+    region:   west_sarutabaruta_s_sw_4
+
+  17166709:
+    template: Toad
+    level:    [51, 54]
+    region:   west_sarutabaruta_s_sw_4
+
+  17166710:
+    template: Toad
+    level:    [51, 54]
+    region:   west_sarutabaruta_s_sw_4
+
+  17166711:
+    template: Toad
+    level:    [51, 54]
+    region:   west_sarutabaruta_s_sw_4
+
+  17166712:
+    template: Toad
+    level:    [51, 54]
+    region:   west_sarutabaruta_s_sw_4
+
+  17166713:
+    template: Poroggo_Gent
+    at:       [-245.903, -16.460, 644.531, 81]
+    level:    [56, 67]
+
+  17166714:
+    template: Poroggo_Gent
+    at:       [-248.989, -16.429, 642.367, 1]
+    level:    [56, 67]
+
+  17166715:
+    template: Toad
+    level:    [51, 54]
+    region:   west_sarutabaruta_s_nw_7
+
+  17166716:
+    template: Toad
+    level:    [51, 54]
+    region:   west_sarutabaruta_s_nw_7
+
+  17166717:
+    template: Toad
+    level:    [51, 54]
+    region:   west_sarutabaruta_s_nw_7
+
+  17166718:
+    template: Toad
+    level:    [51, 54]
+    region:   west_sarutabaruta_s_nw_7
+
+  17166719:
+    template: Toad
+    level:    [51, 54]
+    region:   west_sarutabaruta_s_nw_7
+
+  17166720:
+    template: Sandworm
+    at:       [-219.254, -1.698, -404.194, 253]
+    level:    [85, 85]
+
+  17166721:
+    template: Goblin_Picaroon
+    at:       [199.593, -16.500, 158.780, 193]
+    level:    [57, 62]
+
+  17166722:
+    template: Goblin_Picaroon
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [57, 62]
+
+  17166723:
+    template: Goblin_Picaroon
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [57, 62]
+
+  17166724:
+    template: Goblin_Picaroon
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [57, 62]
+
+  17166725:
+    template: Goblin_Picaroon
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [57, 62]
+
+  17166726:
+    template: Goblin_Picaroon
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [57, 62]
+
+  17166727:
+    template: Yagudo_Transporter
+    level:    [60, 60]
+    region:   west_sarutabaruta_s_n_12
+
+  17166728:
+    template: Yagudo_Guard
+    level:    [60, 60]
+    region:   west_sarutabaruta_s_n_19
+
+  17166729:
+    template: Yagudo_Guard
+    level:    [60, 60]
+    region:   west_sarutabaruta_s_n_19
+
+  17166730:
+    template: Dark_Ixion
+    at:       [231.823, -25.286, 258.575, 61]
+    level:    [85, 85]
+
+  17166731:
+    template: Cosmos_Cocora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17166732:
+    template: Cosmos_Stamen
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17166733:
+    template: Cosmos_Stamen
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17166734:
+    template: Cosmos_Stamen
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17166735:
+    template: Cosmos_Stamen
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17166736:
+    template: Cosmos_Stamen
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17166737:
+    template: Cosmos_Stamen
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17166738:
+    template: Poroggo_Gourmand
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17166739:
+    template: Poroggos_Toady
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17166740:
+    template: Poroggos_Toady
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17166741:
+    template: Poroggos_Toady
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17166742:
+    template: Poroggos_Toady
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17166743:
+    template: Poroggos_Toady
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17166744:
+    template: Poroggos_Toady
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17166745:
+    template: Yagudo_Parivir
+    at:       [318.650, -4.549, -4.908, 54]
+    level:    [0, 0]
+
+  17166746:
+    template: Yagudo_Parivir
+    at:       [319.968, -4.597, -2.346, 140]
+    level:    [0, 0]
+
+  17166747:
+    template: Yagudo_Parivir
+    at:       [321.495, -4.500, -3.095, 112]
+    level:    [0, 0]
+
+  17166748:
+    template: Yagudo_Parivir
+    at:       [315.864, -4.522, -4.218, 10]
+    level:    [0, 0]
+
+  17166749:
+    template: Yagudo_Parivir
+    at:       [318.466, -4.000, -5.912, 187]
+    level:    [0, 0]
+
+  17166750:
+    template: Yagudo_Parivir
+    at:       [319.725, -4.307, -3.626, 160]
+    level:    [0, 0]
+
+  17166751:
+    template: Giganotaur
+    at:       [315.870, -4.508, 1.200, 24]
+    level:    [0, 0]
+
+  17166752:
+    template: Giganotaur
+    at:       [320.557, -4.562, 0.093, 249]
+    level:    [0, 0]
+
+  17166753:
+    template: Giganotaur
+    at:       [321.231, -4.129, -0.789, 181]
+    level:    [0, 0]
+
+  17166754:
+    template: Kindred_Incantor
+    at:       [318.258, -4.709, 7.355, 56]
+    level:    [0, 0]
+
+  17166755:
+    template: Kindred_Incantor
+    at:       [323.371, -4.652, 6.860, 115]
+    level:    [0, 0]
+
+  17166756:
+    template: Kindred_Incantor
+    at:       [319.341, -4.685, 6.967, 51]
+    level:    [0, 0]
+
+  17166757:
+    template: Kindred_Incantor
+    at:       [321.889, -4.568, 5.256, 136]
+    level:    [0, 0]
+
+  17166758:
+    template: Kindred_Incantor
+    at:       [320.758, -4.291, 1.078, 194]
+    level:    [0, 0]
+
+  17166759:
+    template: Kindred_Incantor
+    at:       [323.493, -4.721, 7.265, 112]
+    level:    [0, 0]
+
+  17166760:
+    template: Blurry_Eye
+    at:       [315.129, -5.165, 12.649, 62]
+    level:    [0, 0]
+
+  17166761:
+    template: Blurry_Eye
+    at:       [313.719, -5.331, 12.736, 51]
+    level:    [0, 0]
+
+  17166762:
+    template: Blurry_Eye
+    at:       [315.177, -5.056, 11.266, 102]
+    level:    [0, 0]
+
+  17166763:
+    template: Romaa_Mihgo
+    at:       [315.270, -4.890, 8.791, 190]
+    level:    [0, 0]
+
+  17166764:
+    template: Protective_Ward
+    at:       [312.000, -4.750, -4.000, 192]
+    level:    [0, 0]
+
+  17166765:
+    template: Protective_Ward
+    at:       [320.000, -4.500, -4.000, 192]
+    level:    [0, 0]
+
+  17166766:
+    template: Protective_Ward
+    at:       [328.000, -4.750, -4.000, 192]
+    level:    [0, 0]
+
+  17166767:
+    template: Yilbegan
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [90, 92]
+
+  17166768:
+    template: Orcus
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [85, 85]
+
+  17166769:
+    template: Farruca_Fly
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [82, 82]
+
+  17166770:
+    template: Jyeshtha
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [82, 82]
+
+  17166771:
+    template: Rummager_Beetle
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17166772:
+    template: Rummager_Beetle
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17166773:
+    template: Rummager_Beetle
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17166774:
+    template: Rummager_Beetle
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17166775:
+    template: Raker_Bee
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17166776:
+    template: Raker_Bee
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17166777:
+    template: Raker_Bee
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17166778:
+    template: Raker_Bee
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17166779:
+    template: Kayeel-Payeel
+    at:       [-12.859, -14.000, 301.452, 4]
+    level:    [70, 70]
+
+  17166780:
+    template: Ice_Fiend
+    at:       [-13.859, -14.000, 300.451, 0]
+    level:    [70, 70]
+
+  17166781:
+    template: Thunder_Fiend
+    at:       [-13.859, -13.961, 302.451, 7]
+    level:    [70, 70]
+
+  17166782:
+    template: Aquarian_Caster
+    at:       [-9.486, -13.855, 293.183, 221]
+    level:    [70, 70]
+
+  17166783:
+    template: Aquarian_Caster
+    at:       [-21.003, -12.873, 317.593, 3]
+    level:    [70, 70]
+
+  17166784:
+    template: Aquarian_Caster
+    at:       [-20.100, -13.212, 319.251, 8]
+    level:    [70, 70]
+
+  17166785:
+    template: Aquarian_Caster
+    at:       [-7.856, -12.741, 319.863, 55]
+    level:    [70, 70]
+
+  17166786:
+    template: Aquarian_Caster
+    at:       [-17.990, -13.506, 307.951, 251]
+    level:    [70, 70]
+
+  17166787:
+    template: Aquarian_Caster
+    at:       [-13.047, -13.085, 311.319, 227]
+    level:    [70, 70]
+
+  17166788:
+    template: Aquarian_Caster
+    at:       [-12.814, -13.101, 319.947, 22]
+    level:    [70, 70]
+
+  17166789:
+    template: Aquarian_Caster
+    at:       [-11.969, -13.765, 305.843, 22]
+    level:    [70, 70]
+
+  17166790:
+    template: Aquarian_Caster
+    at:       [-17.537, -13.403, 318.370, 7]
+    level:    [70, 70]
+
+  17166791:
+    template: Gariri
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_29
+
+  17166792:
+    template: Flame_Giant
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_31
+
+  17166793:
+    template: Scorpion_Caster
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_14
+
+  17166794:
+    template: Scorpion_Caster
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_26
+
+  17166795:
+    template: Scorpion_Caster
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_15
+
+  17166796:
+    template: Scorpion_Caster
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_27
+
+  17166797:
+    template: Scorpion_Caster
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_21
+
+  17166798:
+    template: Scorpion_Caster
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_12
+
+  17166799:
+    template: Scorpion_Caster
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_n_5
+
+  17166800:
+    template: Scorpion_Caster
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_25
+
+  17166801:
+    template: Scorpion_Caster
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_28
+
+  17166802:
+    template: Zolku-Azolku
+    at:       [14.088, -14.773, 305.937, 0]
+    level:    [70, 70]
+
+  17166803:
+    template: Libran_Caster
+    at:       [-22.386, -12.905, 293.263, 180]
+    level:    [70, 70]
+
+  17166804:
+    template: Libran_Caster
+    at:       [15.702, -14.616, 290.562, 143]
+    level:    [70, 70]
+
+  17166805:
+    template: Libran_Caster
+    at:       [-9.144, -12.814, 315.974, 85]
+    level:    [70, 70]
+
+  17166806:
+    template: Libran_Caster
+    at:       [-30.170, -12.741, 327.239, 13]
+    level:    [70, 70]
+
+  17166807:
+    template: Libran_Caster
+    at:       [-30.931, -13.713, 301.975, 17]
+    level:    [70, 70]
+
+  17166808:
+    template: Libran_Caster
+    at:       [-12.487, -13.166, 290.910, 255]
+    level:    [70, 70]
+
+  17166809:
+    template: Libran_Caster
+    at:       [12.069, -15.163, 328.877, 126]
+    level:    [70, 70]
+
+  17166810:
+    template: Libran_Caster
+    at:       [16.972, -15.673, 311.857, 52]
+    level:    [70, 70]
+
+  17166811:
+    template: Libran_Caster
+    at:       [-15.815, -13.275, 327.252, 74]
+    level:    [70, 70]
+
+  17166812:
+    template: Lhu_Mhakaracca
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_nw_11
+
+  17166813:
+    template: Pya
+    at:       [8.689, -13.258, 320.000, 117]
+    level:    [70, 70]
+
+  17166814:
+    template: Kyo
+    at:       [9.710, -13.641, 318.984, 125]
+    level:    [70, 70]
+
+  17166815:
+    template: Python_Mercenary
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_13
+
+  17166816:
+    template: Python_Mercenary
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_n_3
+
+  17166817:
+    template: Python_Mercenary
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_n_2
+
+  17166818:
+    template: Python_Mercenary
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_n
+
+  17166819:
+    template: Python_Mercenary
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_10
+
+  17166820:
+    template: Python_Mercenary
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_18
+
+  17166821:
+    template: Python_Mercenary
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_n_11
+
+  17166822:
+    template: Python_Mercenary
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_n_8
+
+  17166823:
+    template: Python_Mercenary
+    at:       [-29.588, -13.032, 310.850, 196]
+    level:    [70, 70]
+
+  17166824:
+    template: Haja_Zhwan
+    at:       [0.000, 0.000, 0.000, 38]
+    level:    [70, 70]
+
+  17166825:
+    template: Wildcat_Volunteer
+    at:       [0.000, 0.000, 0.000, 149]
+    level:    [70, 70]
+
+  17166826:
+    template: Wildcat_Volunteer
+    at:       [0.000, 0.000, 0.000, 153]
+    level:    [70, 70]
+
+  17166827:
+    template: Wildcat_Volunteer
+    at:       [0.000, 0.000, 0.000, 152]
+    level:    [70, 70]
+
+  17166828:
+    template: Wildcat_Volunteer
+    at:       [0.000, 0.000, 0.000, 148]
+    level:    [70, 70]
+
+  17166829:
+    template: Wildcat_Volunteer
+    at:       [0.000, 0.000, 0.000, 168]
+    level:    [70, 70]
+
+  17166830:
+    template: Wildcat_Volunteer
+    at:       [0.000, 0.000, 0.000, 15]
+    level:    [70, 70]
+
+  17166831:
+    template: Wildcat_Volunteer
+    at:       [0.000, 0.000, 0.000, 18]
+    level:    [70, 70]
+
+  17166832:
+    template: Wildcat_Volunteer
+    at:       [0.000, 0.000, 0.000, 173]
+    level:    [70, 70]
+
+  17166833:
+    template: Wildcat_Volunteer
+    at:       [0.000, 0.000, 0.000, 160]
+    level:    [70, 70]
+
+  17166834:
+    template: Zonpa-Zippa
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_n_13
+
+  17166835:
+    template: Ace_of_Cups
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_n_14
+
+  17166836:
+    template: Ace_of_Batons
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_n_14
+
+  17166837:
+    template: Ace_of_Swords
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_n_17
+
+  17166838:
+    template: Ace_of_Coins
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_n_18
+
+  17166839:
+    template: Capricornian_Caster
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_20
+
+  17166840:
+    template: Capricornian_Caster
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_n_15
+
+  17166841:
+    template: Capricornian_Caster
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_34
+
+  17166842:
+    template: Capricornian_Caster
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_32
+
+  17166843:
+    template: Capricornian_Caster
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_11
+
+  17166844:
+    template: Capricornian_Caster
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_n_6
+
+  17166845:
+    template: Capricornian_Caster
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_n_9
+
+  17166846:
+    template: Capricornian_Caster
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_n_10
+
+  17166847:
+    template: Capricornian_Caster
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_n_7
+
+  17166848:
+    template: Piscean_Caster
+    at:       [0.000, 0.000, 0.000, 145]
+    level:    [70, 70]
+
+  17166849:
+    template: Piscean_Caster
+    at:       [0.000, 0.000, 0.000, 129]
+    level:    [70, 70]
+
+  17166850:
+    template: Piscean_Caster
+    at:       [0.000, 0.000, 0.000, 140]
+    level:    [70, 70]
+
+  17166851:
+    template: Piscean_Caster
+    at:       [0.000, 0.000, 0.000, 137]
+    level:    [70, 70]
+
+  17166852:
+    template: Piscean_Caster
+    at:       [0.000, 0.000, 0.000, 244]
+    level:    [70, 70]
+
+  17166853:
+    template: Piscean_Caster
+    at:       [0.000, 0.000, 0.000, 133]
+    level:    [70, 70]
+
+  17166854:
+    template: Allied_Mantelet
+    at:       [-19.551, -13.951, 300.390, 128]
+    level:    [50, 50]
+
+  17166855:
+    template: Allied_Mantelet
+    at:       [-19.024, -13.310, 316.605, 128]
+    level:    [50, 50]
+
+  17166856:
+    template: Allied_Mantelet
+    at:       [19.964, -16.495, 321.790, 0]
+    level:    [50, 50]
+
+  17166857:
+    template: Allied_Mantelet
+    at:       [22.281, -16.381, 300.983, 0]
+    level:    [50, 50]
+
+  17166858:
+    template: Allied_Mantelet
+    at:       [7.850, -13.319, 290.700, 64]
+    level:    [50, 50]
+
+  17166859:
+    template: Allied_Mantelet
+    at:       [-6.723, -12.987, 327.175, 192]
+    level:    [50, 50]
+
+  17166860:
+    template: Nail_Bomb
+    at:       [-8.708, -12.794, 315.796, 241]
+    level:    [70, 70]
+
+  17166861:
+    template: Nail_Bomb
+    at:       [-1.771, -13.697, 299.153, 159]
+    level:    [70, 70]
+
+  17166862:
+    template: Nail_Bomb
+    at:       [5.592, -12.698, 319.467, 110]
+    level:    [70, 70]
+
+  17166863:
+    template: Nail_Bomb
+    at:       [-9.935, -13.241, 308.584, 245]
+    level:    [70, 70]
+
+  17166864:
+    template: Nail_Bomb
+    at:       [-3.875, -13.663, 298.615, 208]
+    level:    [70, 70]
+
+  17166865:
+    template: Nail_Bomb
+    at:       [-8.977, -12.811, 317.040, 13]
+    level:    [70, 70]
+
+  17166866:
+    template: Allied_Belfry
+    at:       [-35.097, -13.351, 337.299, 38]
+    level:    [70, 70]
+
+  17166867:
+    template: Wildcat_Vanguard
+    at:       [-11.009, -12.938, 316.877, 5]
+    level:    [70, 70]
+
+  17166868:
+    template: Wildcat_Vanguard
+    at:       [-9.619, -12.851, 319.753, 38]
+    level:    [70, 70]
+
+  17166869:
+    template: Wildcat_Vanguard
+    at:       [-5.827, -13.566, 297.068, 219]
+    level:    [70, 70]
+
+  17166870:
+    template: Wildcat_Vanguard
+    at:       [-5.366, -13.562, 297.005, 215]
+    level:    [70, 70]
+
+  17166871:
+    template: Wildcat_Vanguard
+    at:       [-12.007, -13.485, 308.114, 246]
+    level:    [70, 70]
+
+  17166872:
+    template: Wildcat_Vanguard
+    at:       [-4.953, -13.550, 296.802, 211]
+    level:    [70, 70]
+
+  17166873:
+    template: Allied_Armored_Belfry
+    at:       [0.000, 0.000, 0.000, 86]
+    level:    [70, 70]
+
+  17166874:
+    template: Cardian_Prototype
+    at:       [0.000, 0.000, 0.000, 147]
+    level:    [70, 70]
+
+  17166875:
+    template: Cardian_Prototype
+    at:       [0.000, 0.000, 0.000, 146]
+    level:    [70, 70]
+
+  17166876:
+    template: Cardian_Prototype
+    at:       [0.000, 0.000, 0.000, 43]
+    level:    [70, 70]
+
+  17166877:
+    template: Cardian_Prototype
+    at:       [0.000, 0.000, 0.000, 29]
+    level:    [70, 70]
+
+  17166878:
+    template: Cardian_Prototype
+    at:       [0.000, 0.000, 0.000, 44]
+    level:    [70, 70]
+
+  17166879:
+    template: Cardian_Prototype
+    at:       [0.000, 0.000, 0.000, 44]
+    level:    [70, 70]
+
+  17166880:
+    template: Combat_Salvemixer
+    at:       [-25.424, -12.000, 325.140, 64]
+    level:    [60, 60]
+
+  17166881:
+    template: Combat_Salvemixer
+    at:       [-25.386, -12.000, 322.122, 78]
+    level:    [60, 60]
+
+  17166882:
+    template: Combat_Salvemixer
+    at:       [-25.567, -12.000, 321.932, 150]
+    level:    [60, 60]
+
+  17166883:
+    template: Combat_Salvemixer
+    at:       [-24.422, -12.151, 322.785, 103]
+    level:    [60, 60]
+
+  17166884:
+    template: Combat_Salvemixer
+    at:       [-26.504, -12.000, 321.655, 201]
+    level:    [60, 60]
+
+  17166885:
+    template: Combat_Salvemixer
+    at:       [-25.338, -12.000, 322.728, 135]
+    level:    [60, 60]
+
+  17166886:
+    template: Federation_Dispenser
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_17
+
+  17166887:
+    template: Federation_Dispenser
+    at:       [-10.279, -12.515, 317.439, 23]
+    level:    [70, 70]
+
+  17166888:
+    template: Federation_Dispenser
+    at:       [19.699, -15.588, 301.158, 55]
+    level:    [70, 70]
+
+  17166889:
+    template: Vee_Qiqa_the_Decreer
+    at:       [3.943, -12.500, 320.021, 146]
+    level:    [70, 70]
+
+  17166890:
+    template: Vee_Qiqas_Elemental
+    at:       [-11.395, -13.389, 308.881, 43]
+    level:    [70, 70]
+
+  17166891:
+    template: Vee_Qiqas_Elemental
+    at:       [-11.470, -13.433, 308.031, 30]
+    level:    [70, 70]
+
+  17166892:
+    template: Vee_Qiqas_Elemental
+    at:       [-11.044, -13.392, 307.901, 38]
+    level:    [70, 70]
+
+  17166893:
+    template: Vee_Qiqas_Elemental
+    at:       [-11.031, -13.378, 308.671, 48]
+    level:    [70, 70]
+
+  17166894:
+    template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 75]
+    level:    [70, 70]
+
+  17166895:
+    template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 39]
+    level:    [70, 70]
+
+  17166896:
+    template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 244]
+    level:    [70, 70]
+
+  17166897:
+    template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 12]
+    level:    [70, 70]
+
+  17166898:
+    template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 197]
+    level:    [70, 70]
+
+  17166899:
+    template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 195]
+    level:    [70, 70]
+
+  17166900:
+    template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 102]
+    level:    [70, 70]
+
+  17166901:
+    template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 75]
+    level:    [70, 70]
+
+  17166902:
+    template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 195]
+    level:    [70, 70]
+
+  17166903:
+    template: Moo_Ouzi_the_Swiftblade
+    at:       [-27.515, -12.321, 306.983, 1]
+    level:    [70, 70]
+
+  17166904:
+    template: Divine_Disseminator
+    at:       [0.000, 0.000, 0.000, 101]
+    level:    [70, 70]
+
+  17166905:
+    template: Divine_Disseminator
+    at:       [0.000, 0.000, 0.000, 106]
+    level:    [70, 70]
+
+  17166906:
+    template: Divine_Disseminator
+    at:       [0.000, 0.000, 0.000, 155]
+    level:    [70, 70]
+
+  17166907:
+    template: Divine_Disseminator
+    at:       [0.000, 0.000, 0.000, 117]
+    level:    [70, 70]
+
+  17166908:
+    template: Divine_Disseminator
+    at:       [0.000, 0.000, 0.000, 117]
+    level:    [70, 70]
+
+  17166909:
+    template: Divine_Disseminator
+    at:       [0.000, 0.000, 0.000, 100]
+    level:    [70, 70]
+
+  17166910:
+    template: Divine_Disseminator
+    at:       [0.000, 0.000, 0.000, 103]
+    level:    [70, 70]
+
+  17166911:
+    template: Divine_Disseminator
+    at:       [0.000, 0.000, 0.000, 124]
+    level:    [70, 70]
+
+  17166912:
+    template: Divine_Disseminator
+    at:       [0.000, 0.000, 0.000, 244]
+    level:    [70, 70]
+
+  17166913:
+    template: Muu_Buxu_the_Elusive
+    at:       [-28.169, -12.084, 322.918, 80]
+    level:    [70, 70]
+
+  17166914:
+    template: Divine_Assassin
+    at:       [0.000, 0.000, 0.000, 131]
+    level:    [70, 70]
+
+  17166915:
+    template: Divine_Assassin
+    at:       [0.000, 0.000, 0.000, 147]
+    level:    [70, 70]
+
+  17166916:
+    template: Divine_Assassin
+    at:       [0.000, 0.000, 0.000, 116]
+    level:    [70, 70]
+
+  17166917:
+    template: Divine_Assassin
+    at:       [0.000, 0.000, 0.000, 103]
+    level:    [70, 70]
+
+  17166918:
+    template: Divine_Assassin
+    at:       [0.000, 0.000, 0.000, 104]
+    level:    [70, 70]
+
+  17166919:
+    template: Divine_Assassin
+    at:       [0.000, 0.000, 0.000, 207]
+    level:    [70, 70]
+
+  17166920:
+    template: Divine_Assassin
+    at:       [0.000, 0.000, 0.000, 211]
+    level:    [70, 70]
+
+  17166921:
+    template: Divine_Assassin
+    at:       [0.000, 0.000, 0.000, 105]
+    level:    [70, 70]
+
+  17166922:
+    template: Divine_Assassin
+    at:       [0.000, 0.000, 0.000, 123]
+    level:    [70, 70]
+
+  17166923:
+    template: Dee_Xalmo_the_Grim
+    at:       [-45.723, -13.024, 329.609, 231]
+    level:    [70, 70]
+
+  17166924:
+    template: Divine_Ascetic
+    at:       [0.000, 0.000, 0.000, 219]
+    level:    [70, 70]
+
+  17166925:
+    template: Divine_Ascetic
+    at:       [0.000, 0.000, 0.000, 96]
+    level:    [70, 70]
+
+  17166926:
+    template: Divine_Ascetic
+    at:       [0.000, 0.000, 0.000, 145]
+    level:    [70, 70]
+
+  17166927:
+    template: Divine_Ascetic
+    at:       [0.000, 0.000, 0.000, 48]
+    level:    [70, 70]
+
+  17166928:
+    template: Divine_Ascetic
+    at:       [0.000, 0.000, 0.000, 195]
+    level:    [70, 70]
+
+  17166929:
+    template: Divine_Ascetic
+    at:       [0.000, 0.000, 0.000, 60]
+    level:    [70, 70]
+
+  17166930:
+    template: Divine_Ascetic
+    at:       [0.000, 0.000, 0.000, 53]
+    level:    [70, 70]
+
+  17166931:
+    template: Divine_Ascetic
+    at:       [0.000, 0.000, 0.000, 121]
+    level:    [70, 70]
+
+  17166932:
+    template: Divine_Ascetic
+    at:       [0.000, 0.000, 0.000, 64]
+    level:    [70, 70]
+
+  17166933:
+    template: Kazan_the_Peerless
+    at:       [-16.610, -13.237, 314.204, 167]
+    level:    [70, 70]
+
+  17166934:
+    template: Plenilune_Ronin
+    at:       [0.000, 0.000, 0.000, 225]
+    level:    [70, 70]
+
+  17166935:
+    template: Plenilune_Ronin
+    at:       [0.000, 0.000, 0.000, 102]
+    level:    [70, 70]
+
+  17166936:
+    template: Plenilune_Ronin
+    at:       [0.000, 0.000, 0.000, 101]
+    level:    [70, 70]
+
+  17166937:
+    template: Plenilune_Ronin
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_9
+
+  17166938:
+    template: Plenilune_Ronin
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_9
+
+  17166939:
+    template: Plenilune_Ronin
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_9
+
+  17166940:
+    template: Plenilune_Ronin
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_9
+
+  17166941:
+    template: Plenilune_Ronin
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_9
+
+  17166942:
+    template: Plenilune_Ronin
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_9
+
+  17166943:
+    template: Vuu_Puqu_the_Beguiler
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_9
+
+  17166944:
+    template: Divine_Inspirer
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_9
+
+  17166945:
+    template: Divine_Inspirer
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_9
+
+  17166946:
+    template: Divine_Inspirer
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_9
+
+  17166947:
+    template: Divine_Inspirer
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_9
+
+  17166948:
+    template: Divine_Inspirer
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_9
+
+  17166949:
+    template: Divine_Inspirer
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_9
+
+  17166950:
+    template: Divine_Inspirer
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_9
+
+  17166951:
+    template: Divine_Inspirer
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_9
+
+  17166952:
+    template: Divine_Inspirer
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_9
+
+  17166953:
+    template: Divine_Pilgrim
+    at:       [0.000, 0.000, 0.000, 36]
+    level:    [70, 70]
+
+  17166954:
+    template: Divine_Pilgrim
+    at:       [0.000, 0.000, 0.000, 34]
+    level:    [70, 70]
+
+  17166955:
+    template: Divine_Pilgrim
+    at:       [0.000, 0.000, 0.000, 246]
+    level:    [70, 70]
+
+  17166956:
+    template: Divine_Pilgrim
+    at:       [0.000, 0.000, 0.000, 254]
+    level:    [70, 70]
+
+  17166957:
+    template: Divine_Pilgrim
+    at:       [0.000, 0.000, 0.000, 36]
+    level:    [70, 70]
+
+  17166958:
+    template: Divine_Pilgrim
+    at:       [0.000, 0.000, 0.000, 163]
+    level:    [70, 70]
+
+  17166959:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17166960:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17166961:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17166962:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17166963:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17166964:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17166965:
+    template: Iron_Bomb
+    at:       [-2.059, -13.706, 299.309, 161]
+    level:    [70, 70]
+
+  17166966:
+    template: Iron_Bomb
+    at:       [-9.831, -13.228, 309.333, 6]
+    level:    [70, 70]
+
+  17166967:
+    template: Iron_Bomb
+    at:       [-8.614, -12.788, 317.385, 24]
+    level:    [70, 70]
+
+  17166968:
+    template: Iron_Bomb
+    at:       [-10.001, -13.250, 309.209, 3]
+    level:    [70, 70]
+
+  17166969:
+    template: Iron_Bomb
+    at:       [-4.519, -13.714, 299.424, 230]
+    level:    [70, 70]
+
+  17166970:
+    template: Iron_Bomb
+    at:       [-3.028, -13.671, 298.743, 190]
+    level:    [70, 70]
+
+  17166971:
+    template: Confederate_Belfry
+    at:       [-35.097, -13.351, 337.299, 38]
+    level:    [70, 70]
+
+  17166972:
+    template: Yagudo_Genja
+    at:       [-17.600, -13.688, 306.447, 93]
+    level:    [70, 70]
+
+  17166973:
+    template: Yagudo_Genja
+    at:       [-33.396, -13.172, 335.720, 16]
+    level:    [70, 70]
+
+  17166974:
+    template: Yagudo_Genja
+    at:       [7.468, -12.974, 288.125, 173]
+    level:    [70, 70]
+
+  17166975:
+    template: Yagudo_Genja
+    at:       [-8.588, -13.069, 326.258, 37]
+    level:    [70, 70]
+
+  17166976:
+    template: Yagudo_Genja
+    at:       [13.259, -14.893, 315.933, 128]
+    level:    [70, 70]
+
+  17166977:
+    template: Yagudo_Genja
+    at:       [-30.515, -13.539, 303.897, 69]
+    level:    [70, 70]
+
+  17166978:
+    template: Yagudo_Turret
+    at:       [0.000, 0.000, 0.000, 177]
+    level:    [70, 70]
+
+  17166979:
+    template: War_Lynx
+    at:       [0.000, 0.000, 0.000, 115]
+    level:    [70, 70]
+
+  17166980:
+    template: War_Lynx
+    at:       [0.000, 0.000, 0.000, 115]
+    level:    [70, 70]
+
+  17166981:
+    template: War_Lynx
+    at:       [0.000, 0.000, 0.000, 115]
+    level:    [70, 70]
+
+  17166982:
+    template: War_Lynx
+    at:       [0.000, 0.000, 0.000, 115]
+    level:    [70, 70]
+
+  17166983:
+    template: War_Lynx
+    at:       [0.000, 0.000, 0.000, 115]
+    level:    [70, 70]
+
+  17166984:
+    template: War_Lynx
+    at:       [0.000, 0.000, 0.000, 115]
+    level:    [70, 70]
+
+  17166985:
+    template: Fiendish_Leechkeeper
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_9
+
+  17166986:
+    template: Fiendish_Leechkeeper
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_9
+
+  17166987:
+    template: Fiendish_Leechkeeper
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_9
+
+  17166988:
+    template: Fiendish_Leechkeeper
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_9
+
+  17166989:
+    template: Fiendish_Leechkeeper
+    level:    [70, 70]
+    region:   west_sarutabaruta_s_c_9
+
+  17166990:
+    template: Fiendish_Leechkeeper
+    at:       [-14.865, -13.500, 307.410, 52]
+    level:    [70, 70]
+
+  17166991:
+    template: Shadowhorn
+    at:       [-14.323, -11.820, 294.420, 124]
+    level:    [70, 70]
+
+  17166992:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 80]
+    level:    [70, 70]
+
+  17166993:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 232]
+    level:    [70, 70]
+
+  17166994:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 128]
+    level:    [70, 70]
+
+  17166995:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 234]
+    level:    [70, 70]
+
+  17166996:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 87]
+    level:    [70, 70]
+
+  17166997:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 227]
+    level:    [70, 70]
+
+  17166998:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 188]
+    level:    [70, 70]
+
+  17166999:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 247]
+    level:    [70, 70]
+
+  17167000:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 232]
+    level:    [70, 70]
+
+  17167001:
+    template: Shadowhand
+    at:       [-8.369, -12.665, 324.056, 47]
+    level:    [70, 70]
+
+  17167002:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 121]
+    level:    [70, 70]
+
+  17167003:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 59]
+    level:    [70, 70]
+
+  17167004:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 20]
+    level:    [70, 70]
+
+  17167005:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 97]
+    level:    [70, 70]
+
+  17167006:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 164]
+    level:    [70, 70]
+
+  17167007:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 44]
+    level:    [70, 70]
+
+  17167008:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 27]
+    level:    [70, 70]
+
+  17167009:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 34]
+    level:    [70, 70]
+
+  17167010:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 173]
+    level:    [70, 70]
+
+  17167011:
+    template: Shadowfang
+    at:       [-20.765, -13.258, 313.295, 139]
+    level:    [70, 70]
+
+  17167012:
+    template: Shadowfang_Void
+    at:       [9.460, -14.797, 340.952, 127]
+    level:    [70, 70]
+
+  17167013:
+    template: Shadowfang_Void
+    at:       [6.029, -12.753, 321.625, 204]
+    level:    [70, 70]
+
+  17167014:
+    template: Shadowfang_Void
+    at:       [2.927, -12.715, 272.550, 139]
+    level:    [70, 70]
+
+  17167015:
+    template: Shadowfang_Void
+    at:       [-36.174, -12.462, 313.285, 78]
+    level:    [70, 70]
+
+  17167016:
+    template: Shadowfang_Void
+    at:       [-27.375, -12.096, 276.960, 123]
+    level:    [70, 70]
+
+  17167017:
+    template: Shadowfang_Void
+    at:       [-25.123, -12.534, 321.988, 45]
+    level:    [70, 70]
+
+  17167018:
+    template: Shadowfang_Void
+    at:       [-14.345, -13.293, 281.575, 209]
+    level:    [70, 70]
+
+  17167019:
+    template: Shadowfang_Void
+    at:       [-6.065, -13.535, 296.575, 99]
+    level:    [70, 70]
+
+  17167020:
+    template: Shadowfang_Void
+    at:       [-40.699, -13.015, 295.932, 3]
+    level:    [70, 70]
+
+  17167021:
+    template: Shadoweye
+    at:       [-18.216, -13.500, 308.780, 46]
+    level:    [70, 70]
+
+  17167022:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 251]
+    level:    [70, 70]
+
+  17167023:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 242]
+    level:    [70, 70]
+
+  17167024:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 95]
+    level:    [70, 70]
+
+  17167025:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 96]
+    level:    [70, 70]
+
+  17167026:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167027:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 162]
+    level:    [70, 70]
+
+  17167028:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 156]
+    level:    [70, 70]
+
+  17167029:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 182]
+    level:    [70, 70]
+
+  17167030:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 73]
+    level:    [70, 70]
+
+  17167031:
+    template: Fortification
+    at:       [-3.101, -13.721, 300.451, 0]
+    level:    [70, 70]
+
+  17167032:
+    template: Fortification
+    at:       [-8.116, -12.999, 309.071, 0]
+    level:    [70, 70]
+
+  17167033:
+    template: Fortification
+    at:       [-7.157, -13.000, 316.390, 0]
+    level:    [70, 70]
+
+  17167034:
+    template: Fortification
+    at:       [3.878, -12.500, 318.677, 0]
+    level:    [70, 70]
+
+  17167035:
+    template: Rikoh_Wahcondalo
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167036:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 182]
+    level:    [70, 70]
+
+  17167037:
+    template: Kagetora
+    at:       [-25.261, -13.000, 300.364, 191]
+    level:    [70, 70]
+
+  17167038:
+    template: Kagetora
+    at:       [-25.261, -13.000, 300.364, 178]
+    level:    [70, 70]
+
+  17167039:
+    template: Kagetora
+    at:       [-25.261, -13.000, 300.364, 178]
+    level:    [70, 70]
+
+  17167040:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 126]
+    level:    [70, 70]
+
+  17167041:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 126]
+    level:    [70, 70]
+
+  17167042:
+    template: Dalzakk
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167043:
+    template: Oggbi
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167044:
+    template: Rainemard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167045:
+    template: Maat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167046:
+    template: Degenhard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167047:
+    template: Azima
+    at:       [0.000, 0.000, 0.000, 219]
+    level:    [70, 70]
+
+  17167048:
+    template: Choh_Moui
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167049:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167050:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167051:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167052:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167053:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167054:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167055:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167056:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167057:
+    template: Azo
+    at:       [-31.997, -13.018, 311.941, 40]
+    level:    [70, 70]
+
+  17167058:
+    template: Vahi
+    at:       [-30.017, -12.935, 313.793, 63]
+    level:    [70, 70]
+
+  17167059:
+    template: Rongo-Nango
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167060:
+    template: Lerren
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167061:
+    template: Jajaro
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167062:
+    template: Popochu
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167063:
+    template: Papako
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167064:
+    template: Momowa
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167065:
+    template: Ulla
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167066:
+    template: Kilhwch
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167067:
+    template: Alfons
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167068:
+    template: Achtelle
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167069:
+    template: Bravo
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167070:
+    template: Duskraven
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167071:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167072:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167073:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167074:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167075:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167076:
+    template: Areuhat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167077:
+    template: Odzmanouk
+    at:       [-32.334, -12.958, 319.343, 81]
+    level:    [70, 70]
+
+  17167078:
+    template: Boodlix
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167079:
+    template: Goblin_Lansquenet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167080:
+    template: Goblin_Lansquenet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167081:
+    template: Goblin_Lansquenet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167082:
+    template: Titania
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167083:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167084:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167085:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167086:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167087:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167088:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167089:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167090:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167091:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167092:
+    template: Babban_Ny_Mheillea
+    at:       [0.000, 0.000, 0.000, 180]
+    level:    [70, 70]
+
+  17167093:
+    template: Abenzio
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167094:
+    template: Bryher
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167095:
+    template: Camlin
+    at:       [0.000, 0.000, 0.000, 179]
+    level:    [70, 70]
+
+  17167096:
+    template: Darach
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167097:
+    template: Raigegue_R_dOraguille
+    at:       [0.000, 0.000, 0.000, 255]
+    level:    [70, 70]
+
+  17167098:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 4]
+    level:    [70, 70]
+
+  17167099:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 5]
+    level:    [70, 70]
+
+  17167100:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167101:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167102:
+    template: Eurytos
+    at:       [0.000, 0.000, 0.000, 242]
+    level:    [70, 70]
+
+  17167103:
+    template: Gigas_Mercenary
+    at:       [0.000, 0.000, 0.000, 6]
+    level:    [70, 70]
+
+  17167104:
+    template: Gigas_Mercenary
+    at:       [0.000, 0.000, 0.000, 4]
+    level:    [70, 70]
+
+  17167105:
+    template: Poroggo_Prince
+    at:       [0.000, 0.000, 0.000, 101]
+    level:    [70, 70]
+
+  17167106:
+    template: Poroggo_Servant
+    at:       [0.337, -12.840, 270.525, 208]
+    level:    [70, 70]
+
+  17167107:
+    template: Poroggo_Servant
+    at:       [0.660, -12.850, 270.585, 205]
+    level:    [70, 70]
+
+  17167108:
+    template: Poroggo_Servant
+    at:       [0.424, -12.847, 270.977, 205]
+    level:    [70, 70]
+
+  17167109:
+    template: Kaiser_Behemoth
+    at:       [13.090, -14.840, 317.003, 174]
+    level:    [70, 70]
+
+  17167110:
+    template: Ferreous_Coffin
+    at:       [18.276, -16.080, 314.459, 3]
+    level:    [70, 70]
+
+  17167111:
+    template: Lewenhart
+    at:       [0.000, 0.000, 0.000, 217]
+    level:    [70, 70]
+
+  17167112:
+    template: Auroral_Alicorn
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17167113:
+    template: Pancimanci
+    at:       [120.000, -3.500, -440.000, 183]
+    level:    [95, 96]
+
+  17167114:
+    template: Pancimanci
+    at:       [-439.419, 3.500, -359.051, 45]
+    level:    [95, 96]
+
+  17167115:
+    template: Pancimanci
+    at:       [2.675, -28.500, 560.355, 150]
+    level:    [95, 96]

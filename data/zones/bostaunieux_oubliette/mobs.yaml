@@ -1,0 +1,1173 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17461249:
+    template: Bloodsucker
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [65, 68]
+
+  17461250:
+    template: Acid_Grease
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [52, 54]
+
+  17461251:
+    template: Bloodsucker
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [57, 58]
+
+  17461252:
+    template: Mousse
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [60, 68]
+
+  17461253:
+    template: Mousse
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [60, 68]
+
+  17461254:
+    template: Funnel_Bats
+    level:    [52, 55]
+    region:   bostaunieux_oubliette_n_9
+
+  17461255:
+    template: Funnel_Bats
+    level:    [52, 55]
+    region:   bostaunieux_oubliette_n_9
+
+  17461256:
+    template: Funnel_Bats
+    level:    [52, 55]
+    region:   bostaunieux_oubliette_n_8
+
+  17461257:
+    template: Funnel_Bats
+    level:    [52, 55]
+    region:   bostaunieux_oubliette_n_8
+
+  17461258:
+    template: Funnel_Bats
+    level:    [52, 55]
+    region:   bostaunieux_oubliette_n_6
+
+  17461259:
+    template: Funnel_Bats
+    level:    [52, 55]
+    region:   bostaunieux_oubliette_n_6
+
+  17461260:
+    template: Funnel_Bats
+    at:       [-125.837, -0.041, -60.966, 16]
+    level:    [52, 55]
+
+  17461261:
+    template: Funnel_Bats
+    at:       [-124.967, -0.099, -59.587, 6]
+    level:    [52, 55]
+
+  17461262:
+    template: Hecatomb_Hound
+    at:       [-99.364, -0.419, -57.642, 142]
+    level:    [56, 59]
+
+  17461263:
+    template: Werebat
+    level:    [55, 59]
+    region:   bostaunieux_oubliette_n_2
+
+  17461264:
+    template: Werebat
+    level:    [55, 59]
+    region:   bostaunieux_oubliette_n_2
+
+  17461265:
+    template: Werebat
+    level:    [55, 59]
+    region:   bostaunieux_oubliette_n_3
+
+  17461266:
+    template: Werebat
+    level:    [55, 59]
+    region:   bostaunieux_oubliette_n_3
+
+  17461267:
+    template: Hecatomb_Hound
+    level:    [56, 59]
+    region:   bostaunieux_oubliette_n
+
+  17461268:
+    template: Hecatomb_Hound
+    level:    [56, 59]
+    region:   bostaunieux_oubliette_n
+
+  17461269:
+    template: Werebat
+    level:    [55, 59]
+    region:   bostaunieux_oubliette_nw_2
+
+  17461270:
+    template: Werebat
+    level:    [55, 59]
+    region:   bostaunieux_oubliette_nw_2
+
+  17461271:
+    template: Hecatomb_Hound
+    level:    [56, 59]
+    region:   bostaunieux_oubliette_nw
+
+  17461272:
+    template: Hecatomb_Hound
+    level:    [56, 59]
+    region:   bostaunieux_oubliette_nw
+
+  17461273:
+    template: Werebat
+    at:       [-221.526, -0.070, -148.718, 123]
+    level:    [55, 59]
+
+  17461274:
+    template: Werebat
+    at:       [-222.209, -0.041, -139.716, 184]
+    level:    [55, 59]
+
+  17461275:
+    template: Haunt
+    at:       [-218.968, 0.000, -171.540, 120]
+    level:    [60, 63]
+
+  17461276:
+    template: Garm
+    level:    [64, 66]
+    region:   bostaunieux_oubliette_w_2
+
+  17461277:
+    template: Garm
+    level:    [64, 66]
+    region:   bostaunieux_oubliette_w_2
+
+  17461278:
+    template: Garm
+    level:    [64, 66]
+    region:   bostaunieux_oubliette_w_2
+
+  17461279:
+    template: Garm
+    level:    [64, 66]
+    region:   bostaunieux_oubliette_w_2
+
+  17461280:
+    template: Haunt
+    at:       [-293.716, -0.078, -180.222, 248]
+    level:    [60, 63]
+
+  17461281:
+    template: Haunt
+    at:       [-286.921, -0.013, -178.149, 197]
+    level:    [60, 63]
+
+  17461282:
+    template: Werebat
+    at:       [-326.619, 0.023, -180.429, 223]
+    level:    [55, 59]
+
+  17461283:
+    template: Werebat
+    at:       [-337.326, 0.024, -187.551, 232]
+    level:    [55, 59]
+
+  17461284:
+    template: Werebat
+    at:       [-334.650, -0.010, -179.296, 127]
+    level:    [55, 59]
+
+  17461285:
+    template: Werebat
+    level:    [55, 59]
+    region:   bostaunieux_oubliette_w
+
+  17461286:
+    template: Werebat
+    level:    [55, 59]
+    region:   bostaunieux_oubliette_w
+
+  17461287:
+    template: Funnel_Bats
+    level:    [52, 55]
+    region:   bostaunieux_oubliette_c_4
+
+  17461288:
+    template: Funnel_Bats
+    level:    [52, 55]
+    region:   bostaunieux_oubliette_c_4
+
+  17461289:
+    template: Dark_Aspic
+    level:    [52, 53]
+    region:   bostaunieux_oubliette_c_4
+
+  17461290:
+    template: Dark_Aspic
+    level:    [52, 54]
+    region:   bostaunieux_oubliette_c_4
+
+  17461291:
+    template: Funnel_Bats
+    level:    [52, 55]
+    region:   bostaunieux_oubliette_c_2
+
+  17461292:
+    template: Funnel_Bats
+    level:    [52, 55]
+    region:   bostaunieux_oubliette_c_2
+
+  17461293:
+    template: Dark_Aspic
+    level:    [52, 54]
+    region:   bostaunieux_oubliette_c_2
+
+  17461294:
+    template: Dark_Aspic
+    level:    [52, 54]
+    region:   bostaunieux_oubliette_c_2
+
+  17461295:
+    template: Haunt
+    level:    [60, 63]
+    region:   bostaunieux_oubliette_c
+
+  17461296:
+    template: Funnel_Bats
+    level:    [52, 55]
+    region:   bostaunieux_oubliette_n_4
+
+  17461297:
+    template: Dark_Aspic
+    level:    [52, 54]
+    region:   bostaunieux_oubliette_n_5
+
+  17461298:
+    template: Funnel_Bats
+    level:    [52, 55]
+    region:   bostaunieux_oubliette_n_7
+
+  17461299:
+    template: Funnel_Bats
+    level:    [52, 55]
+    region:   bostaunieux_oubliette_n_7
+
+  17461300:
+    template: Funnel_Bats
+    level:    [52, 55]
+    region:   bostaunieux_oubliette_n_7
+
+  17461301:
+    template: Mousse
+    level:    [58, 62]
+    region:   bostaunieux_oubliette_n_7
+
+  17461302:
+    template: Mousse
+    level:    [58, 62]
+    region:   bostaunieux_oubliette_n_7
+
+  17461303:
+    template: Mousse
+    level:    [58, 62]
+    region:   bostaunieux_oubliette_n_7
+
+  17461304:
+    template: Mousse
+    level:    [58, 62]
+    region:   bostaunieux_oubliette_c_10
+
+  17461305:
+    template: Mousse
+    level:    [58, 62]
+    region:   bostaunieux_oubliette_c_10
+
+  17461306:
+    template: Mousse
+    level:    [58, 62]
+    region:   bostaunieux_oubliette_c_10
+
+  17461307:
+    template: Sewer_Syrup
+    at:       [-20.321, 0.500, -160.689, 59]
+    level:    [64, 66]
+
+  17461308:
+    template: Garm
+    at:       [-50.732, 0.000, -143.825, 191]
+    level:    [64, 66]
+
+  17461309:
+    template: Garm
+    at:       [-52.776, 0.000, -135.172, 224]
+    level:    [64, 66]
+
+  17461310:
+    template: Garm
+    at:       [-55.079, -0.469, -136.762, 198]
+    level:    [64, 66]
+
+  17461311:
+    template: Garm
+    at:       [-64.503, 0.010, -132.301, 175]
+    level:    [64, 66]
+
+  17461312:
+    template: Garm
+    at:       [-67.164, -0.003, -137.894, 222]
+    level:    [64, 66]
+
+  17461313:
+    template: Garm
+    at:       [-59.881, 0.033, -149.115, 34]
+    level:    [64, 66]
+
+  17461314:
+    template: Garm
+    at:       [-64.340, 0.010, -145.718, 126]
+    level:    [64, 66]
+
+  17461315:
+    template: Shii
+    at:       [-58.681, -0.500, -134.123, 31]
+    level:    [70, 71]
+
+  17461316:
+    template: Funnel_Bats
+    level:    [52, 55]
+    region:   bostaunieux_oubliette_c_3
+
+  17461317:
+    template: Dark_Aspic
+    level:    [52, 54]
+    region:   bostaunieux_oubliette_c_5
+
+  17461318:
+    template: Funnel_Bats
+    level:    [52, 55]
+    region:   bostaunieux_oubliette_c_8
+
+  17461319:
+    template: Funnel_Bats
+    level:    [52, 55]
+    region:   bostaunieux_oubliette_c_8
+
+  17461320:
+    template: Dark_Aspic
+    level:    [52, 54]
+    region:   bostaunieux_oubliette_c_8
+
+  17461321:
+    template: Dark_Aspic
+    level:    [52, 54]
+    region:   bostaunieux_oubliette_c_8
+
+  17461322:
+    template: Werebat
+    at:       [-124.068, 0.010, -262.237, 100]
+    level:    [55, 59]
+
+  17461323:
+    template: Werebat
+    level:    [55, 59]
+    region:   bostaunieux_oubliette_s
+
+  17461324:
+    template: Werebat
+    level:    [55, 59]
+    region:   bostaunieux_oubliette_s
+
+  17461325:
+    template: Dark_Aspic
+    level:    [52, 54]
+    region:   bostaunieux_oubliette_s
+
+  17461326:
+    template: Dark_Aspic
+    level:    [52, 54]
+    region:   bostaunieux_oubliette_s
+
+  17461327:
+    template: Haunt
+    level:    [60, 63]
+    region:   bostaunieux_oubliette_sw_2
+
+  17461328:
+    template: Werebat
+    level:    [55, 59]
+    region:   bostaunieux_oubliette_sw
+
+  17461329:
+    template: Werebat
+    level:    [55, 59]
+    region:   bostaunieux_oubliette_sw
+
+  17461330:
+    template: Werebat
+    level:    [55, 59]
+    region:   bostaunieux_oubliette_sw
+
+  17461331:
+    template: Werebat
+    level:    [55, 59]
+    region:   bostaunieux_oubliette_sw
+
+  17461332:
+    template: Dark_Aspic
+    level:    [52, 53]
+    region:   bostaunieux_oubliette_sw
+
+  17461333:
+    template: Dark_Aspic
+    level:    [52, 53]
+    region:   bostaunieux_oubliette_sw
+
+  17461334:
+    template: Garm
+    level:    [64, 66]
+    region:   bostaunieux_oubliette_s_4
+
+  17461335:
+    template: Garm
+    level:    [64, 66]
+    region:   bostaunieux_oubliette_s_4
+
+  17461336:
+    template: Haunt
+    level:    [60, 63]
+    region:   bostaunieux_oubliette_s_4
+
+  17461337:
+    template: Haunt
+    at:       [-87.234, -0.176, -228.526, 103]
+    level:    [60, 63]
+
+  17461338:
+    template: Drexerion_the_Condemned
+    at:       [-94.484, -0.137, -234.021, 237]
+    level:    [72, 73]
+
+  17461339:
+    template: Garm
+    level:    [64, 66]
+    region:   bostaunieux_oubliette_s_5
+
+  17461340:
+    template: Garm
+    level:    [64, 66]
+    region:   bostaunieux_oubliette_s_5
+
+  17461341:
+    template: Haunt
+    level:    [60, 63]
+    region:   bostaunieux_oubliette_s_5
+
+  17461342:
+    template: Haunt
+    level:    [60, 63]
+    region:   bostaunieux_oubliette_s_5
+
+  17461343:
+    template: Phanduron_the_Condemned
+    at:       [-83.554, -0.500, -221.832, 188]
+    level:    [72, 73]
+
+  17461344:
+    template: Blind_Bat
+    level:    [95, 97]
+    region:   bostaunieux_oubliette_s_7
+
+  17461345:
+    template: Blind_Bat
+    level:    [95, 97]
+    region:   bostaunieux_oubliette_s_7
+
+  17461346:
+    template: Blind_Bat
+    level:    [95, 97]
+    region:   bostaunieux_oubliette_s_9
+
+  17461347:
+    template: Blind_Bat
+    level:    [95, 97]
+    region:   bostaunieux_oubliette_s_9
+
+  17461348:
+    template: Panna_Cotta
+    level:    [95, 96]
+    region:   bostaunieux_oubliette_s_7
+
+  17461349:
+    template: Panna_Cotta
+    level:    [95, 96]
+    region:   bostaunieux_oubliette_s_9
+
+  17461350:
+    template: Blind_Bat
+    level:    [95, 97]
+    region:   bostaunieux_oubliette_s_6
+
+  17461351:
+    template: Blind_Bat
+    level:    [95, 97]
+    region:   bostaunieux_oubliette_s_6
+
+  17461352:
+    template: Blind_Bat
+    level:    [95, 97]
+    region:   bostaunieux_oubliette_s_6
+
+  17461353:
+    template: Panna_Cotta
+    level:    [95, 96]
+    region:   bostaunieux_oubliette_s_6
+
+  17461354:
+    template: Panna_Cotta
+    level:    [95, 96]
+    region:   bostaunieux_oubliette_s_6
+
+  17461355:
+    template: Nachtmahr
+    at:       [-23.817, 0.243, -348.316, 100]
+    level:    [96, 97]
+
+  17461356:
+    template: Nachtmahr
+    at:       [-24.687, -0.018, -330.991, 193]
+    level:    [96, 97]
+
+  17461357:
+    template: Panna_Cotta
+    at:       [-25.787, 0.978, -343.811, 75]
+    level:    [95, 96]
+
+  17461358:
+    template: Panna_Cotta
+    at:       [-23.896, 0.511, -344.890, 215]
+    level:    [95, 96]
+
+  17461359:
+    template: Nachtmahr
+    at:       [-21.182, 0.943, -265.272, 158]
+    level:    [96, 97]
+
+  17461360:
+    template: Blind_Bat
+    level:    [95, 97]
+    region:   bostaunieux_oubliette_c_9
+
+  17461361:
+    template: Blind_Bat
+    level:    [95, 97]
+    region:   bostaunieux_oubliette_c_9
+
+  17461362:
+    template: Panna_Cotta
+    at:       [-19.761, 0.970, -224.729, 47]
+    level:    [95, 96]
+
+  17461363:
+    template: Nachtmahr
+    level:    [96, 97]
+    region:   bostaunieux_oubliette_c_12
+
+  17461364:
+    template: Blind_Bat
+    level:    [95, 97]
+    region:   bostaunieux_oubliette_e_2
+
+  17461365:
+    template: Blind_Bat
+    level:    [95, 97]
+    region:   bostaunieux_oubliette_e_2
+
+  17461366:
+    template: Blind_Bat
+    level:    [95, 97]
+    region:   bostaunieux_oubliette_e_2
+
+  17461367:
+    template: Blind_Bat
+    level:    [95, 97]
+    region:   bostaunieux_oubliette_e_2
+
+  17461368:
+    template: Blind_Bat
+    level:    [95, 97]
+    region:   bostaunieux_oubliette_e_2
+
+  17461369:
+    template: Panna_Cotta
+    level:    [95, 96]
+    region:   bostaunieux_oubliette_e_2
+
+  17461370:
+    template: Panna_Cotta
+    level:    [95, 96]
+    region:   bostaunieux_oubliette_e_2
+
+  17461371:
+    template: Dabilla
+    level:    [94, 96]
+    region:   bostaunieux_oubliette_se_2
+
+  17461372:
+    template: Dabilla
+    level:    [94, 96]
+    region:   bostaunieux_oubliette_se_2
+
+  17461373:
+    template: Dabilla
+    level:    [94, 96]
+    region:   bostaunieux_oubliette_se_2
+
+  17461374:
+    template: Dabilla
+    level:    [94, 96]
+    region:   bostaunieux_oubliette_se_2
+
+  17461375:
+    template: Dabilla
+    level:    [94, 96]
+    region:   bostaunieux_oubliette_se
+
+  17461376:
+    template: Dabilla
+    level:    [94, 96]
+    region:   bostaunieux_oubliette_se
+
+  17461377:
+    template: Dabilla
+    level:    [94, 96]
+    region:   bostaunieux_oubliette_se
+
+  17461378:
+    template: Dabilla
+    level:    [94, 96]
+    region:   bostaunieux_oubliette_se
+
+  17461379:
+    template: Nachtmahr
+    level:    [96, 97]
+    region:   bostaunieux_oubliette_e_3
+
+  17461380:
+    template: Nachtmahr
+    level:    [96, 97]
+    region:   bostaunieux_oubliette_e
+
+  17461381:
+    template: Nachtmahr
+    level:    [96, 97]
+    region:   bostaunieux_oubliette_e
+
+  17461382:
+    template: Panna_Cotta
+    level:    [95, 96]
+    region:   bostaunieux_oubliette_e
+
+  17461383:
+    template: Panna_Cotta
+    level:    [95, 96]
+    region:   bostaunieux_oubliette_e
+
+  17461384:
+    template: Nachtmahr
+    at:       [17.448, 0.000, -145.178, 128]
+    level:    [96, 97]
+
+  17461385:
+    template: Nachtmahr
+    at:       [20.602, 0.000, -140.432, 237]
+    level:    [96, 97]
+
+  17461386:
+    template: Nachtmahr
+    at:       [26.497, 0.000, -136.720, 255]
+    level:    [96, 97]
+
+  17461387:
+    template: Blind_Bat
+    level:    [95, 97]
+    region:   bostaunieux_oubliette_e_4
+
+  17461388:
+    template: Blind_Bat
+    level:    [95, 97]
+    region:   bostaunieux_oubliette_e_4
+
+  17461389:
+    template: Panna_Cotta
+    level:    [95, 96]
+    region:   bostaunieux_oubliette_e_4
+
+  17461390:
+    template: Nachtmahr
+    level:    [96, 97]
+    region:   bostaunieux_oubliette_e_5
+
+  17461391:
+    template: Panna_Cotta
+    level:    [95, 96]
+    region:   bostaunieux_oubliette_e_6
+
+  17461392:
+    template: Blind_Bat
+    level:    [95, 97]
+    region:   bostaunieux_oubliette_ne_3
+
+  17461393:
+    template: Blind_Bat
+    level:    [95, 97]
+    region:   bostaunieux_oubliette_ne_3
+
+  17461394:
+    template: Blind_Bat
+    level:    [95, 97]
+    region:   bostaunieux_oubliette_ne
+
+  17461395:
+    template: Blind_Bat
+    level:    [95, 97]
+    region:   bostaunieux_oubliette_ne
+
+  17461396:
+    template: Panna_Cotta
+    level:    [95, 96]
+    region:   bostaunieux_oubliette_ne_3
+
+  17461397:
+    template: Panna_Cotta
+    level:    [95, 96]
+    region:   bostaunieux_oubliette_ne_3
+
+  17461398:
+    template: Dabilla
+    level:    [94, 96]
+    region:   bostaunieux_oubliette_ne_2
+
+  17461399:
+    template: Dabilla
+    level:    [94, 96]
+    region:   bostaunieux_oubliette_ne_2
+
+  17461400:
+    template: Dabilla
+    level:    [94, 96]
+    region:   bostaunieux_oubliette_ne_2
+
+  17461401:
+    template: Dabilla
+    at:       [64.967, 0.211, -41.785, 221]
+    level:    [94, 96]
+
+  17461402:
+    template: Wurdalak
+    level:    [97, 99]
+    region:   bostaunieux_oubliette_ne_2
+
+  17461403:
+    template: Dabilla
+    level:    [94, 95]
+    region:   bostaunieux_oubliette_ne_4
+
+  17461404:
+    template: Wurdalak
+    level:    [97, 99]
+    region:   bostaunieux_oubliette_ne_4
+
+  17461405:
+    template: Dabilla
+    level:    [95, 96]
+    region:   bostaunieux_oubliette_ne_5
+
+  17461406:
+    template: Dabilla
+    level:    [94, 96]
+    region:   bostaunieux_oubliette_ne_5
+
+  17461407:
+    template: Dabilla
+    level:    [94, 96]
+    region:   bostaunieux_oubliette_ne_5
+
+  17461408:
+    template: Dabilla
+    at:       [141.938, 0.017, -37.426, 19]
+    level:    [94, 96]
+
+  17461409:
+    template: Wurdalak
+    level:    [97, 99]
+    region:   bostaunieux_oubliette_ne_5
+
+  17461410:
+    template: Blind_Bat
+    level:    [95, 97]
+    region:   bostaunieux_oubliette_ne_6
+
+  17461411:
+    template: Blind_Bat
+    level:    [95, 97]
+    region:   bostaunieux_oubliette_ne_6
+
+  17461412:
+    template: Blind_Bat
+    level:    [95, 97]
+    region:   bostaunieux_oubliette_ne_7
+
+  17461413:
+    template: Blind_Bat
+    level:    [95, 97]
+    region:   bostaunieux_oubliette_ne_7
+
+  17461414:
+    template: Blind_Bat
+    level:    [95, 97]
+    region:   bostaunieux_oubliette_ne_7
+
+  17461415:
+    template: Blind_Bat
+    level:    [95, 97]
+    region:   bostaunieux_oubliette_ne_7
+
+  17461416:
+    template: Blind_Bat
+    level:    [95, 97]
+    region:   bostaunieux_oubliette_ne_7
+
+  17461417:
+    template: Wurdalak
+    at:       [198.816, 0.163, -19.536, 42]
+    level:    [97, 99]
+
+  17461418:
+    template: Blind_Bat
+    level:    [95, 97]
+    region:   bostaunieux_oubliette_ne_7
+
+  17461419:
+    template: Blind_Bat
+    level:    [95, 97]
+    region:   bostaunieux_oubliette_ne_7
+
+  17461420:
+    template: Blind_Bat
+    level:    [95, 97]
+    region:   bostaunieux_oubliette_ne_7
+
+  17461421:
+    template: Wurdalak
+    at:       [204.988, 0.176, -57.857, 171]
+    level:    [97, 99]
+
+  17461422:
+    template: Werebat
+    at:       [-189.479, 1.810, -181.536, 29]
+    level:    [55, 59]
+
+  17461423:
+    template: Werebat
+    at:       [-189.411, 1.834, -178.250, 217]
+    level:    [55, 59]
+
+  17461424:
+    template: Werebat
+    at:       [-188.841, 1.976, -181.562, 68]
+    level:    [55, 59]
+
+  17461425:
+    template: Werebat
+    level:    [55, 59]
+    region:   bostaunieux_oubliette_w_3
+
+  17461426:
+    template: Werebat
+    level:    [55, 59]
+    region:   bostaunieux_oubliette_w_3
+
+  17461427:
+    template: Werebat
+    level:    [55, 59]
+    region:   bostaunieux_oubliette_w_3
+
+  17461428:
+    template: Werebat
+    level:    [55, 59]
+    region:   bostaunieux_oubliette_w_3
+
+  17461429:
+    template: Werebat
+    at:       [-181.452, 11.945, -222.868, 76]
+    level:    [55, 59]
+
+  17461430:
+    template: Werebat
+    at:       [-168.643, 13.552, -219.953, 34]
+    level:    [55, 59]
+
+  17461431:
+    template: Werebat
+    at:       [-180.382, 11.224, -216.699, 54]
+    level:    [55, 59]
+
+  17461432:
+    template: Werebat
+    level:    [55, 59]
+    region:   bostaunieux_oubliette_w_3
+
+  17461433:
+    template: Arioch
+    at:       [-172.845, 12.315, -219.144, 206]
+    level:    [56, 62]
+
+  17461434:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_s
+
+  17461435:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_s
+
+  17461436:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_s
+
+  17461437:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_s
+
+  17461438:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_sw_2
+
+  17461439:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_sw_2
+
+  17461440:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_sw_2
+
+  17461441:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_s_2
+
+  17461442:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_s_2
+
+  17461443:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_s_2
+
+  17461444:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_s_3
+
+  17461445:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_s_3
+
+  17461446:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_c_6
+
+  17461447:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_c_6
+
+  17461448:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_c_6
+
+  17461449:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_c_6
+
+  17461450:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_s_8
+
+  17461451:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_s_8
+
+  17461452:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_s_8
+
+  17461453:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_s_10
+
+  17461454:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_s_10
+
+  17461455:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_s_10
+
+  17461456:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_c_9
+
+  17461457:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_c_9
+
+  17461458:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_c_9
+
+  17461459:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_c_9
+
+  17461460:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_c_9
+
+  17461461:
+    template: Bloodsucker
+    at:       [-19.570, 17.000, -203.278, 118]
+    level:    [65, 68]
+
+  17461462:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_c_7
+
+  17461463:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_c_7
+
+  17461464:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_c_7
+
+  17461465:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_c_7
+
+  17461466:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_c_7
+
+  17461467:
+    template: Bloodsucker
+    at:       [-58.895, 16.954, -164.210, 208]
+    level:    [65, 68]
+
+  17461468:
+    template: Bloodsucker
+    at:       [-58.546, 17.000, -159.800, 63]
+    level:    [65, 68]
+
+  17461469:
+    template: Gespenst
+    at:       [-54.623, 16.999, -146.783, 84]
+    level:    [68, 70]
+
+  17461470:
+    template: Gespenst
+    at:       [-40.852, 16.996, -178.257, 39]
+    level:    [68, 70]
+
+  17461471:
+    template: Manes
+    at:       [-60.400, 17.000, -138.000, 60]
+    level:    [72, 73]
+
+  17461472:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_c_11
+
+  17461473:
+    template: Bloodsucker
+    level:    [65, 68]
+    region:   bostaunieux_oubliette_c_11
+
+  17461474:
+    template: Bloodsucker
+    at:       [-6.624, 16.955, -139.502, 204]
+    level:    [65, 68]
+
+  17461475:
+    template: Bloodsucker
+    at:       [-1.737, 16.966, -140.550, 120]
+    level:    [65, 68]
+
+  17461476:
+    template: Gespenst
+    at:       [13.833, 16.557, -137.831, 118]
+    level:    [68, 70]
+
+  17461477:
+    template: Gespenst
+    at:       [18.542, 16.500, -140.040, 115]
+    level:    [68, 70]
+
+  17461478:
+    template: Bloodsucker_NM
+    level:    [70, 73]
+    region:   bostaunieux_oubliette_c_9
+
+  17461479:
+    template: Bodach
+    at:       [19.728, 16.841, -139.080, 130]
+    level:    [80, 80]
+
+  17461480:
+    template: Garbage_Gel
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [122, 122]
+
+  17461481:
+    template: Garbage_Gel
+    at:       [68.449, 0.074, -290.609, 0]
+    level:    [122, 122]
+
+  17461482:
+    template: Garbage_Gel
+    at:       [-222.430, -0.572, -98.601, 32]
+    level:    [122, 122]

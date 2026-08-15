@@ -1,0 +1,973 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  16822273:
+    template: Snipper
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [21, 24]
+
+  16822274:
+    template: Blind_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [21, 24]
+
+  16822275:
+    template: Cutter
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [25, 29]
+
+  16822276:
+    template: Ghost_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 32]
+
+  16822277:
+    template: Amoebic_Nodule
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [34, 36]
+
+  16822278:
+    template: Dark_Bats
+    level:    [31, 33]
+    region:   oldton_movalpolos_nw_3
+
+  16822279:
+    template: Goblin_Craftsman
+    level:    [33, 35]
+    region:   oldton_movalpolos_nw
+
+  16822280:
+    template: Goblin_Gutterman
+    level:    [33, 35]
+    region:   oldton_movalpolos_nw
+
+  16822281:
+    template: Moblin_Pickman
+    level:    [33, 35]
+    region:   oldton_movalpolos_nw
+
+  16822282:
+    template: Goblin_Leadman
+    level:    [33, 35]
+    region:   oldton_movalpolos_nw_2
+
+  16822283:
+    template: Goblins_Bat
+    level:    [28, 30]
+    region:   oldton_movalpolos_nw_2
+
+  16822284:
+    template: Dark_Bats
+    level:    [31, 33]
+    region:   oldton_movalpolos_nw_2
+
+  16822285:
+    template: Moblin_Witchman
+    level:    [33, 35]
+    region:   oldton_movalpolos_nw_2
+
+  16822286:
+    template: Goblin_Hammerman
+    level:    [33, 35]
+    region:   oldton_movalpolos_nw_4
+
+  16822287:
+    template: Moblin_Witchman
+    level:    [33, 35]
+    region:   oldton_movalpolos_nw_4
+
+  16822288:
+    template: Dark_Bats
+    level:    [31, 33]
+    region:   oldton_movalpolos_nw_4
+
+  16822289:
+    template: Goblin_Gutterman
+    level:    [33, 35]
+    region:   oldton_movalpolos_nw_5
+
+  16822290:
+    template: Moblin_Ragman
+    level:    [33, 35]
+    region:   oldton_movalpolos_nw_5
+
+  16822291:
+    template: Moblin_Chapman
+    level:    [33, 35]
+    region:   oldton_movalpolos_w
+
+  16822292:
+    template: Goblin_Craftsman
+    level:    [33, 35]
+    region:   oldton_movalpolos_w
+
+  16822293:
+    template: Moblin_Witchman
+    level:    [33, 35]
+    region:   oldton_movalpolos_w_4
+
+  16822294:
+    template: Moblin_Ragman
+    level:    [33, 35]
+    region:   oldton_movalpolos_w_4
+
+  16822295:
+    template: Moblin_Pickman
+    level:    [33, 35]
+    region:   oldton_movalpolos_nw_6
+
+  16822296:
+    template: Bugbear_Servingman
+    level:    [32, 35]
+    region:   oldton_movalpolos_nw_6
+
+  16822297:
+    template: Bugbear_Servingman
+    at:       [-249.625, -0.511, 174.771, 217]
+    level:    [32, 35]
+
+  16822298:
+    template: Bugbear_Servingman
+    at:       [-249.764, -0.517, 182.454, 186]
+    level:    [32, 35]
+
+  16822299:
+    template: Goblin_Hammerman
+    level:    [33, 35]
+    region:   oldton_movalpolos_nw_5
+
+  16822300:
+    template: Dark_Bats
+    level:    [31, 33]
+    region:   oldton_movalpolos_nw_5
+
+  16822301:
+    template: Moblin_Chapman
+    level:    [33, 35]
+    region:   oldton_movalpolos_n
+
+  16822302:
+    template: Dark_Bats
+    level:    [31, 33]
+    region:   oldton_movalpolos_n
+
+  16822303:
+    template: Goblin_Craftsman
+    level:    [33, 35]
+    region:   oldton_movalpolos_w_3
+
+  16822304:
+    template: Moblin_Witchman
+    level:    [33, 35]
+    region:   oldton_movalpolos_w_3
+
+  16822305:
+    template: Goblin_Leadman
+    level:    [33, 35]
+    region:   oldton_movalpolos_w_3
+
+  16822306:
+    template: Goblins_Bat
+    level:    [28, 30]
+    region:   oldton_movalpolos_w_3
+
+  16822307:
+    template: Moblin_Ragman
+    level:    [33, 35]
+    region:   oldton_movalpolos_w_2
+
+  16822308:
+    template: Bugbear_Servingman
+    at:       [-268.868, 7.253, 21.935, 88]
+    level:    [32, 35]
+
+  16822309:
+    template: Earth_Elemental
+    at:       [-258.816, 7.400, 30.163, 147]
+    level:    [45, 50]
+
+  16822310:
+    template: Goblin_Leadman
+    level:    [33, 35]
+    region:   oldton_movalpolos_w_6
+
+  16822311:
+    template: Goblins_Bat
+    level:    [28, 30]
+    region:   oldton_movalpolos_w_6
+
+  16822312:
+    template: Goblin_Hammerman
+    level:    [33, 35]
+    region:   oldton_movalpolos_w_7
+
+  16822313:
+    template: Bugbear_Servingman
+    level:    [32, 35]
+    region:   oldton_movalpolos_w_7
+
+  16822314:
+    template: Moblin_Chapman
+    level:    [33, 35]
+    region:   oldton_movalpolos_w_7
+
+  16822315:
+    template: Bugbear_Servingman
+    level:    [32, 35]
+    region:   oldton_movalpolos_w_7
+
+  16822316:
+    template: Goblin_Gutterman
+    level:    [33, 35]
+    region:   oldton_movalpolos_w_9
+
+  16822317:
+    template: Goblin_Craftsman
+    level:    [33, 35]
+    region:   oldton_movalpolos_w_5
+
+  16822318:
+    template: Moblin_Ragman
+    level:    [33, 35]
+    region:   oldton_movalpolos_w_8
+
+  16822319:
+    template: Dark_Bats
+    level:    [31, 33]
+    region:   oldton_movalpolos_w_8
+
+  16822320:
+    template: Bugbear_Servingman
+    at:       [-220.755, 7.472, -31.491, 147]
+    level:    [33, 35]
+
+  16822321:
+    template: Bugbear_Servingman
+    at:       [-222.269, 7.947, -32.106, 146]
+    level:    [33, 35]
+
+  16822322:
+    template: Bugbear_Muscleman
+    at:       [-221.275, 7.424, -32.727, 171]
+    level:    [52, 53]
+
+  16822323:
+    template: Moblin_Chapman
+    at:       [-265.640, 7.324, -20.257, 25]
+    level:    [33, 35]
+
+  16822324:
+    template: Goblin_Leadman
+    at:       [-261.952, 7.331, -18.424, 204]
+    level:    [33, 35]
+
+  16822325:
+    template: Goblins_Bat
+    at:       [-262.642, 7.341, -19.385, 165]
+    level:    [28, 30]
+
+  16822326:
+    template: Stirge
+    level:    [33, 35]
+    region:   oldton_movalpolos_sw_3
+
+  16822327:
+    template: Stirge
+    level:    [33, 35]
+    region:   oldton_movalpolos_sw_3
+
+  16822328:
+    template: Dark_Bats
+    level:    [31, 33]
+    region:   oldton_movalpolos_sw_3
+
+  16822329:
+    template: Stirge
+    level:    [33, 35]
+    region:   oldton_movalpolos_w_10
+
+  16822330:
+    template: Moblin_Ragman
+    level:    [33, 35]
+    region:   oldton_movalpolos_w_10
+
+  16822331:
+    template: Ancient_Bomb
+    level:    [40, 40]
+    region:   oldton_movalpolos_c_5
+
+  16822332:
+    template: Moblin_Pickman
+    level:    [33, 35]
+    region:   oldton_movalpolos_c_2
+
+  16822333:
+    template: Goblin_Hammerman
+    level:    [33, 35]
+    region:   oldton_movalpolos_c_2
+
+  16822334:
+    template: Ancient_Bomb
+    at:       [-115.394, 7.625, 59.177, 137]
+    level:    [40, 40]
+
+  16822335:
+    template: Moblin_Witchman
+    level:    [33, 35]
+    region:   oldton_movalpolos_c_3
+
+  16822336:
+    template: Bugbear_Servingman
+    level:    [33, 35]
+    region:   oldton_movalpolos_c_3
+
+  16822337:
+    template: Moblin_Chapman
+    level:    [33, 35]
+    region:   oldton_movalpolos_c_3
+
+  16822338:
+    template: Goblin_Gutterman
+    level:    [33, 35]
+    region:   oldton_movalpolos_c_4
+
+  16822339:
+    template: Goblin_Leadman
+    level:    [33, 35]
+    region:   oldton_movalpolos_c_4
+
+  16822340:
+    template: Goblins_Bat
+    level:    [28, 30]
+    region:   oldton_movalpolos_c_4
+
+  16822341:
+    template: Goblin_Hammerman
+    level:    [33, 35]
+    region:   oldton_movalpolos_c_4
+
+  16822342:
+    template: Goblin_Craftsman
+    level:    [33, 35]
+    region:   oldton_movalpolos_c_5
+
+  16822343:
+    template: Moblin_Pickman
+    level:    [33, 35]
+    region:   oldton_movalpolos_c_5
+
+  16822344:
+    template: Bugbear_Servingman
+    level:    [33, 35]
+    region:   oldton_movalpolos_c_5
+
+  16822345:
+    template: Goblin_Craftsman
+    level:    [34, 36]
+    region:   oldton_movalpolos_c_7
+
+  16822346:
+    template: Moblin_Witchman
+    level:    [34, 36]
+    region:   oldton_movalpolos_c_7
+
+  16822347:
+    template: Dark_Bats
+    level:    [32, 34]
+    region:   oldton_movalpolos_c_8
+
+  16822348:
+    template: Dark_Bats
+    level:    [32, 34]
+    region:   oldton_movalpolos_c_8
+
+  16822349:
+    template: Thunder_Elemental
+    level:    [45, 50]
+    region:   oldton_movalpolos_c_8
+
+  16822350:
+    template: Dark_Bats
+    level:    [32, 34]
+    region:   oldton_movalpolos_c
+
+  16822351:
+    template: Stirge
+    level:    [33, 35]
+    region:   oldton_movalpolos_c
+
+  16822352:
+    template: Earth_Elemental
+    level:    [45, 50]
+    region:   oldton_movalpolos_c
+
+  16822353:
+    template: Stirge
+    level:    [33, 35]
+    region:   oldton_movalpolos_s_3
+
+  16822354:
+    template: Stirge
+    level:    [33, 35]
+    region:   oldton_movalpolos_s_3
+
+  16822355:
+    template: Thunder_Elemental
+    level:    [45, 50]
+    region:   oldton_movalpolos_s_3
+
+  16822356:
+    template: Ancient_Bomb
+    at:       [-108.047, 15.524, -138.336, 122]
+    level:    [40, 40]
+
+  16822357:
+    template: Goblin_Hammerman
+    level:    [34, 36]
+    region:   oldton_movalpolos_s_2
+
+  16822358:
+    template: Moblin_Chapman
+    level:    [34, 36]
+    region:   oldton_movalpolos_s_2
+
+  16822359:
+    template: Bugbear_Servingman
+    level:    [33, 35]
+    region:   oldton_movalpolos_s_6
+
+  16822360:
+    template: Bugbear_Servingman
+    at:       [-141.470, 7.399, -256.686, 205]
+    level:    [33, 35]
+
+  16822361:
+    template: Moblin_Ragman
+    level:    [34, 36]
+    region:   oldton_movalpolos_s
+
+  16822362:
+    template: Moblin_Pickman
+    level:    [34, 36]
+    region:   oldton_movalpolos_s
+
+  16822363:
+    template: Moblin_Chapman
+    level:    [34, 36]
+    region:   oldton_movalpolos_s_7
+
+  16822364:
+    template: Moblin_Witchman
+    level:    [34, 36]
+    region:   oldton_movalpolos_s_7
+
+  16822365:
+    template: Goblin_Craftsman
+    level:    [34, 36]
+    region:   oldton_movalpolos_s_7
+
+  16822366:
+    template: Goblin_Leadman
+    level:    [34, 36]
+    region:   oldton_movalpolos_s_10
+
+  16822367:
+    template: Goblins_Bat
+    level:    [28, 30]
+    region:   oldton_movalpolos_s_10
+
+  16822368:
+    template: Stirge
+    level:    [33, 35]
+    region:   oldton_movalpolos_s_10
+
+  16822369:
+    template: Ancient_Bomb
+    level:    [40, 40]
+    region:   oldton_movalpolos_s_10
+
+  16822370:
+    template: Dark_Bats
+    level:    [31, 33]
+    region:   oldton_movalpolos_sw_4
+
+  16822371:
+    template: Ancient_Bomb
+    level:    [40, 40]
+    region:   oldton_movalpolos_sw_4
+
+  16822372:
+    template: Moblin_Ragman
+    at:       [-213.007, 7.491, -295.843, 36]
+    level:    [34, 36]
+
+  16822373:
+    template: Bugbear_Servingman
+    at:       [-226.146, 11.256, -259.110, 114]
+    level:    [33, 35]
+
+  16822374:
+    template: Moblin_Pickman
+    level:    [34, 36]
+    region:   oldton_movalpolos_sw_2
+
+  16822375:
+    template: Goblin_Gutterman
+    level:    [34, 36]
+    region:   oldton_movalpolos_sw_2
+
+  16822376:
+    template: Stirge
+    level:    [33, 35]
+    region:   oldton_movalpolos_sw
+
+  16822377:
+    template: Moblin_Rodman
+    level:    [41, 43]
+    region:   oldton_movalpolos_s_8
+
+  16822378:
+    template: Moblin_Rodman
+    level:    [41, 43]
+    region:   oldton_movalpolos_s_8
+
+  16822379:
+    template: Moblin_Rodman
+    level:    [41, 43]
+    region:   oldton_movalpolos_s_8
+
+  16822380:
+    template: Moblin_Rodman
+    level:    [41, 43]
+    region:   oldton_movalpolos_s_8
+
+  16822381:
+    template: Goblin_Craftsman
+    at:       [-61.151, 15.399, -45.266, 64]
+    level:    [35, 36]
+
+  16822382:
+    template: Goblin_Hammerman
+    level:    [35, 36]
+    region:   oldton_movalpolos_s_4
+
+  16822383:
+    template: Moblin_Pickman
+    at:       [-83.257, 22.112, -42.972, 74]
+    level:    [35, 36]
+
+  16822384:
+    template: Moblin_Ragman
+    level:    [35, 36]
+    region:   oldton_movalpolos_s_9
+
+  16822385:
+    template: Goblin_Hammerman
+    at:       [-125.262, 15.500, -60.292, 156]
+    level:    [35, 36]
+
+  16822386:
+    template: Goblin_Craftsman
+    level:    [35, 36]
+    region:   oldton_movalpolos_c_6
+
+  16822387:
+    template: Moblin_Chapman
+    level:    [35, 36]
+    region:   oldton_movalpolos_s_5
+
+  16822388:
+    template: Moblin_Witchman
+    at:       [-72.516, 22.170, -116.967, 239]
+    level:    [35, 36]
+
+  16822389:
+    template: Goblin_Gutterman
+    at:       [-99.851, 15.404, -112.667, 79]
+    level:    [35, 36]
+
+  16822390:
+    template: Moblin_Pickman
+    at:       [-79.620, 22.399, -37.251, 244]
+    level:    [35, 36]
+
+  16822391:
+    template: Moblin_Witchman
+    at:       [-68.072, 22.334, -119.000, 198]
+    level:    [35, 36]
+
+  16822392:
+    template: Moblin_Chapman
+    level:    [35, 36]
+    region:   oldton_movalpolos_s_5
+
+  16822393:
+    template: Moblin_Ragman
+    level:    [35, 36]
+    region:   oldton_movalpolos_s_9
+
+  16822394:
+    template: Goblin_Gutterman
+    at:       [-98.972, 15.408, -112.664, 80]
+    level:    [35, 36]
+
+  16822395:
+    template: Dark_Bats
+    level:    [32, 34]
+    region:   oldton_movalpolos_s_11
+
+  16822396:
+    template: Stirge
+    level:    [33, 35]
+    region:   oldton_movalpolos_s_11
+
+  16822397:
+    template: Earth_Elemental
+    level:    [45, 50]
+    region:   oldton_movalpolos_s_11
+
+  16822398:
+    template: Ancient_Bomb
+    level:    [40, 40]
+    region:   oldton_movalpolos_s_11
+
+  16822399:
+    template: Bugbear_Bondman
+    at:       [-38.215, 7.500, 101.636, 126]
+    level:    [43, 45]
+
+  16822400:
+    template: Bugbear_Bondman
+    at:       [-38.805, 7.494, 98.486, 121]
+    level:    [43, 45]
+
+  16822401:
+    template: Goblin_Tollman
+    level:    [42, 43]
+    region:   oldton_movalpolos_c_11
+
+  16822402:
+    template: Goblins_Bat
+    level:    [37, 38]
+    region:   oldton_movalpolos_c_11
+
+  16822403:
+    template: Bugbear_Bondman
+    level:    [42, 44]
+    region:   oldton_movalpolos_c_10
+
+  16822404:
+    template: Moblin_Gasman
+    level:    [42, 43]
+    region:   oldton_movalpolos_c_10
+
+  16822405:
+    template: Moblin_Coalman
+    at:       [-13.112, 11.472, 114.571, 121]
+    level:    [42, 43]
+
+  16822406:
+    template: Moblin_Repairman
+    level:    [42, 43]
+    region:   oldton_movalpolos_c_9
+
+  16822407:
+    template: Goblin_Doorman
+    level:    [42, 43]
+    region:   oldton_movalpolos_c_9
+
+  16822408:
+    template: Goblin_Oilman
+    level:    [42, 43]
+    region:   oldton_movalpolos_c_9
+
+  16822409:
+    template: Moblin_Pikeman
+    level:    [42, 43]
+    region:   oldton_movalpolos_e_4
+
+  16822410:
+    template: Goblin_Doorman
+    level:    [42, 43]
+    region:   oldton_movalpolos_e_4
+
+  16822411:
+    template: Moblin_Pikeman
+    level:    [42, 43]
+    region:   oldton_movalpolos_e_2
+
+  16822412:
+    template: Goblin_Oilman
+    level:    [42, 43]
+    region:   oldton_movalpolos_e_2
+
+  16822413:
+    template: Bugbear_Bondman
+    at:       [14.672, 7.393, 57.058, 162]
+    level:    [42, 44]
+
+  16822414:
+    template: Bugbear_Bondman
+    at:       [14.654, 7.393, 57.062, 163]
+    level:    [42, 44]
+
+  16822415:
+    template: Bugbear_Bondman
+    level:    [42, 44]
+    region:   oldton_movalpolos_e
+
+  16822416:
+    template: Bugbear_Bondman
+    level:    [42, 44]
+    region:   oldton_movalpolos_e
+
+  16822417:
+    template: Dark_Bats
+    level:    [34, 35]
+    region:   oldton_movalpolos_e_3
+
+  16822418:
+    template: Ancient_Bomb
+    level:    [45, 45]
+    region:   oldton_movalpolos_e_3
+
+  16822419:
+    template: Goblin_Doorman
+    at:       [15.600, 7.399, -50.544, 141]
+    level:    [42, 43]
+
+  16822420:
+    template: Moblin_Repairman
+    at:       [10.795, 7.399, -53.417, 102]
+    level:    [42, 43]
+
+  16822421:
+    template: Bugbear_Bondman
+    at:       [-0.920, 11.500, -98.408, 132]
+    level:    [43, 45]
+
+  16822422:
+    template: Bugbear_Bondman
+    at:       [-0.750, 11.500, -101.360, 126]
+    level:    [43, 45]
+
+  16822423:
+    template: Bugbear_Strongman
+    at:       [-0.920, 11.500, -98.408, 22]
+    level:    [50, 50]
+
+  16822424:
+    template: Goblin_Oilman
+    at:       [29.047, 9.399, -118.903, 114]
+    level:    [42, 43]
+
+  16822425:
+    template: Bugbear_Bondman
+    at:       [58.367, 15.500, -123.264, 67]
+    level:    [43, 45]
+
+  16822426:
+    template: Bugbear_Bondman
+    at:       [61.612, 15.500, -122.418, 80]
+    level:    [43, 45]
+
+  16822427:
+    template: Bugbear_Strongman
+    at:       [61.612, 15.500, -122.418, 198]
+    level:    [50, 50]
+
+  16822428:
+    template: Goblin_Shovelman
+    at:       [68.460, 15.387, -109.514, 8]
+    level:    [42, 43]
+
+  16822429:
+    template: Moblin_Repairman
+    at:       [66.254, 15.396, -109.277, 118]
+    level:    [42, 43]
+
+  16822430:
+    template: Goblin_Shovelman
+    level:    [42, 43]
+    region:   oldton_movalpolos_se_3
+
+  16822431:
+    template: Goblin_Tollman
+    level:    [42, 43]
+    region:   oldton_movalpolos_se_3
+
+  16822432:
+    template: Goblins_Bat
+    level:    [37, 38]
+    region:   oldton_movalpolos_se_3
+
+  16822433:
+    template: Goblin_Freelance
+    level:    [46, 47]
+    region:   oldton_movalpolos_se_2
+
+  16822434:
+    template: Moblin_Gasman
+    level:    [43, 44]
+    region:   oldton_movalpolos_se_2
+
+  16822435:
+    template: Moblin_Coalman
+    level:    [43, 44]
+    region:   oldton_movalpolos_se_2
+
+  16822436:
+    template: Moblin_Pikeman
+    at:       [36.001, 13.500, -64.365, 209]
+    level:    [43, 44]
+
+  16822437:
+    template: Goblin_Freelance
+    level:    [46, 47]
+    region:   oldton_movalpolos_se
+
+  16822438:
+    template: Moblin_Gasman
+    level:    [43, 44]
+    region:   oldton_movalpolos_se
+
+  16822439:
+    template: Moblin_Coalman
+    at:       [25.587, 9.394, -85.151, 4]
+    level:    [43, 44]
+
+  16822440:
+    template: Moblin_Pikeman
+    at:       [24.548, 9.440, -84.579, 11]
+    level:    [43, 44]
+
+  16822441:
+    template: Stirge
+    level:    [34, 36]
+    region:   oldton_movalpolos_se_4
+
+  16822442:
+    template: Stirge
+    level:    [34, 36]
+    region:   oldton_movalpolos_se_4
+
+  16822443:
+    template: Ancient_Bomb
+    level:    [45, 45]
+    region:   oldton_movalpolos_c_3
+
+  16822444:
+    template: Moblin_Gasman
+    at:       [158.240, 11.400, -58.642, 147]
+    level:    [43, 44]
+
+  16822445:
+    template: Moblin_Coalman
+    at:       [164.045, 11.399, -58.198, 231]
+    level:    [43, 44]
+
+  16822446:
+    template: Moblin_Pikeman
+    at:       [171.413, 16.994, -76.517, 9]
+    level:    [43, 44]
+
+  16822447:
+    template: Moblin_Repairman
+    at:       [171.493, 16.938, -76.835, 9]
+    level:    [43, 44]
+
+  16822448:
+    template: Goblin_Oilman
+    level:    [43, 44]
+    region:   oldton_movalpolos_se_5
+
+  16822449:
+    template: Goblin_Doorman
+    at:       [163.952, 11.398, -89.082, 180]
+    level:    [43, 44]
+
+  16822450:
+    template: Moblin_Ashman
+    level:    [45, 45]
+    region:   oldton_movalpolos_se_6
+
+  16822451:
+    template: Thunder_Elemental
+    at:       [177.265, 7.375, -28.733, 179]
+    level:    [45, 50]
+
+  16822452:
+    template: Earth_Elemental
+    at:       [180.623, 7.402, -42.921, 136]
+    level:    [45, 50]
+
+  16822453:
+    template: Dark_Bats
+    level:    [34, 35]
+    region:   oldton_movalpolos_se_7
+
+  16822454:
+    template: Thunder_Elemental
+    level:    [45, 50]
+    region:   oldton_movalpolos_se_7
+
+  16822455:
+    template: Earth_Elemental
+    level:    [45, 50]
+    region:   oldton_movalpolos_se_7
+
+  16822456:
+    template: Bugallug
+    at:       [161.970, 13.980, -42.190, 142]
+    level:    [45, 50]
+
+  16822457:
+    template: Moblin_Gurneyman
+    level:    [46, 47]
+    region:   oldton_movalpolos_c_9
+
+  16822458:
+    template: Moblin_Gurneyman
+    level:    [46, 47]
+    region:   oldton_movalpolos_se
+
+  16822459:
+    template: Goblin_Wolfman
+    at:       [-150.910, 7.499, -251.817, 57]
+    level:    [50, 50]
+
+  16822460:
+    template: Goblin_Preceptor
+    at:       [-139.278, 7.500, 151.250, 203]
+    level:    [45, 49]
+
+  16822461:
+    template: Grimoire_Guru_Grimogek
+    at:       [-136.905, 7.500, 154.819, 91]
+    level:    [80, 80]
+
+  16822462:
+    template: Dread_Dealing_Dredodak
+    at:       [-139.853, 7.500, 150.096, 207]
+    level:    [80, 80]
+
+  16822463:
+    template: Bugbear_Porterman
+    at:       [-140.051, 7.688, 154.859, 48]
+    level:    [45, 50]
+
+  16822464:
+    template: Bugbear_Porterman
+    at:       [-139.663, 7.772, 152.956, 34]
+    level:    [45, 50]
+
+  16822465:
+    template: Bugbear_Porterman
+    at:       [-138.266, 7.735, 155.118, 73]
+    level:    [45, 50]
+
+  16822466:
+    template: Bugbear_Porterman
+    at:       [-137.062, 7.992, 153.616, 102]
+    level:    [45, 50]

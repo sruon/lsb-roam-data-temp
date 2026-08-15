@@ -1,0 +1,2298 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17379329:
+    template: Old_Quadav
+    level:    [22, 23]
+    region:   beadeaux_nw
+
+  17379330:
+    template: Copper_Quadav
+    level:    [22, 23]
+    region:   beadeaux_nw
+
+  17379331:
+    template: Copper_Quadav
+    level:    [22, 23]
+    region:   beadeaux_nw
+
+  17379332:
+    template: Copper_Quadav
+    level:    [22, 23]
+    region:   beadeaux_nw
+
+  17379333:
+    template: Land_Pugil
+    level:    [20, 23]
+    region:   beadeaux_nw
+
+  17379334:
+    template: Land_Pugil
+    level:    [20, 23]
+    region:   beadeaux_nw
+
+  17379335:
+    template: Old_Quadav
+    level:    [22, 23]
+    region:   beadeaux_w_9
+
+  17379336:
+    template: Brass_Quadav
+    level:    [22, 23]
+    region:   beadeaux_w_9
+
+  17379337:
+    template: Land_Pugil
+    level:    [20, 23]
+    region:   beadeaux_w_9
+
+  17379338:
+    template: Old_Quadav
+    level:    [22, 23]
+    region:   beadeaux_nw_4
+
+  17379339:
+    template: Copper_Quadav
+    level:    [22, 23]
+    region:   beadeaux_nw_4
+
+  17379340:
+    template: Copper_Quadav
+    level:    [22, 23]
+    region:   beadeaux_nw_4
+
+  17379341:
+    template: Brass_Quadav
+    level:    [22, 23]
+    region:   beadeaux_nw_4
+
+  17379342:
+    template: Land_Pugil
+    level:    [20, 23]
+    region:   beadeaux_nw_4
+
+  17379343:
+    template: Land_Pugil
+    level:    [20, 23]
+    region:   beadeaux_nw_4
+
+  17379344:
+    template: Old_Quadav
+    level:    [22, 23]
+    region:   beadeaux_nw_7
+
+  17379345:
+    template: Copper_Quadav
+    level:    [22, 23]
+    region:   beadeaux_nw_7
+
+  17379346:
+    template: Brass_Quadav
+    level:    [22, 23]
+    region:   beadeaux_nw_7
+
+  17379347:
+    template: Land_Pugil
+    level:    [20, 23]
+    region:   beadeaux_nw_7
+
+  17379348:
+    template: Land_Pugil
+    level:    [20, 23]
+    region:   beadeaux_nw_7
+
+  17379349:
+    template: Old_Quadav
+    level:    [22, 23]
+    region:   beadeaux_nw_8
+
+  17379350:
+    template: Brass_Quadav
+    level:    [22, 23]
+    region:   beadeaux_nw_8
+
+  17379351:
+    template: BiGho_Headtaker
+    at:       [-97.000, 1.000, 78.000, 0]
+    level:    [25, 25]
+
+  17379352:
+    template: Ooze
+    at:       [-100.640, 0.085, 54.555, 127]
+    level:    [28, 30]
+
+  17379353:
+    template: Ooze
+    at:       [-104.888, -0.150, 56.675, 127]
+    level:    [28, 30]
+
+  17379354:
+    template: Old_Quadav
+    level:    [22, 23]
+    region:   beadeaux_nw_9
+
+  17379355:
+    template: Copper_Quadav
+    level:    [22, 23]
+    region:   beadeaux_nw_9
+
+  17379356:
+    template: Brass_Quadav
+    level:    [22, 23]
+    region:   beadeaux_nw_9
+
+  17379357:
+    template: Old_Quadav
+    at:       [-63.782, 0.499, 144.078, 127]
+    level:    [22, 23]
+
+  17379358:
+    template: Copper_Quadav
+    level:    [22, 23]
+    region:   beadeaux_nw_9
+
+  17379359:
+    template: Brass_Quadav
+    at:       [-63.498, 0.522, 144.067, 24]
+    level:    [22, 23]
+
+  17379360:
+    template: Land_Pugil
+    level:    [20, 23]
+    region:   beadeaux_nw_9
+
+  17379361:
+    template: Silver_Quadav
+    at:       [-234.196, 2.961, 41.944, 8]
+    level:    [33, 37]
+
+  17379362:
+    template: Silver_Quadav
+    at:       [-238.942, 2.936, 40.698, 95]
+    level:    [33, 37]
+
+  17379363:
+    template: Garnet_Quadav
+    at:       [-198.767, 2.929, 155.974, 48]
+    level:    [35, 39]
+
+  17379364:
+    template: Garnet_Quadav
+    at:       [-200.093, 2.943, 158.771, 79]
+    level:    [35, 39]
+
+  17379365:
+    template: Zircon_Quadav
+    at:       [-155.256, 2.922, 84.093, 127]
+    level:    [34, 38]
+
+  17379366:
+    template: Zircon_Quadav
+    at:       [-159.283, 2.935, 85.325, 127]
+    level:    [34, 38]
+
+  17379367:
+    template: Bronze_Quadav
+    at:       [-44.268, 2.924, 159.605, 127]
+    level:    [32, 36]
+
+  17379368:
+    template: Bronze_Quadav
+    at:       [-40.048, 2.925, 159.956, 127]
+    level:    [32, 36]
+
+  17379369:
+    template: Old_Quadav
+    at:       [-63.028, 23.534, 65.711, 120]
+    level:    [22, 25]
+
+  17379370:
+    template: Copper_Quadav
+    at:       [-60.431, 23.696, 78.207, 43]
+    level:    [23, 27]
+
+  17379371:
+    template: Brass_Quadav
+    level:    [24, 28]
+    region:   beadeaux_nw_11
+
+  17379372:
+    template: Old_Quadav
+    level:    [22, 25]
+    region:   beadeaux_nw_11
+
+  17379373:
+    template: Copper_Quadav
+    at:       [-63.661, 23.518, 65.573, 111]
+    level:    [23, 27]
+
+  17379374:
+    template: Brass_Quadav
+    at:       [-61.637, 23.383, 73.210, 127]
+    level:    [24, 28]
+
+  17379375:
+    template: Caterpillar
+    at:       [-108.379, 23.626, 105.752, 127]
+    level:    [22, 25]
+
+  17379376:
+    template: Caterpillar
+    at:       [-99.333, 23.752, 95.370, 41]
+    level:    [22, 25]
+
+  17379377:
+    template: Caterpillar
+    at:       [-105.759, 23.547, 93.143, 41]
+    level:    [22, 25]
+
+  17379378:
+    template: Caterpillar
+    at:       [-99.612, 23.728, 92.526, 127]
+    level:    [22, 25]
+
+  17379379:
+    template: Old_Quadav
+    at:       [-101.471, 23.589, 37.050, 39]
+    level:    [22, 25]
+
+  17379380:
+    template: Copper_Quadav
+    at:       [-79.441, 23.702, 18.828, 120]
+    level:    [23, 27]
+
+  17379381:
+    template: Brass_Quadav
+    level:    [24, 28]
+    region:   beadeaux_w_13
+
+  17379382:
+    template: Old_Quadav
+    at:       [-99.255, 23.656, 41.371, 127]
+    level:    [22, 26]
+
+  17379383:
+    template: Copper_Quadav
+    at:       [-83.371, 23.563, 20.921, 127]
+    level:    [23, 27]
+
+  17379384:
+    template: Brass_Quadav
+    level:    [24, 28]
+    region:   beadeaux_w_13
+
+  17379385:
+    template: Caterpillar
+    at:       [-51.304, 23.689, 23.592, 27]
+    level:    [22, 25]
+
+  17379386:
+    template: Caterpillar
+    at:       [-61.095, 23.639, 21.498, 110]
+    level:    [22, 25]
+
+  17379387:
+    template: Caterpillar
+    at:       [-56.621, 23.633, 22.225, 127]
+    level:    [22, 25]
+
+  17379388:
+    template: Caterpillar
+    at:       [-58.014, 23.624, 23.802, 24]
+    level:    [22, 25]
+
+  17379389:
+    template: Copper_Quadav
+    at:       [-136.335, 23.669, 16.170, 94]
+    level:    [23, 27]
+
+  17379390:
+    template: Copper_Quadav
+    at:       [-143.730, 23.561, 20.828, 67]
+    level:    [23, 27]
+
+  17379391:
+    template: Copper_Quadav
+    at:       [-143.348, 23.688, 18.330, 127]
+    level:    [23, 27]
+
+  17379392:
+    template: Old_Quadav
+    level:    [22, 26]
+    region:   beadeaux_nw_3
+
+  17379393:
+    template: Copper_Quadav
+    at:       [-178.021, 23.596, 81.477, 66]
+    level:    [23, 27]
+
+  17379394:
+    template: Brass_Quadav
+    level:    [24, 28]
+    region:   beadeaux_nw_3
+
+  17379395:
+    template: Old_Quadav
+    at:       [-178.332, 23.353, 73.589, 58]
+    level:    [22, 26]
+
+  17379396:
+    template: Copper_Quadav
+    at:       [-177.061, 23.546, 66.197, 36]
+    level:    [23, 27]
+
+  17379397:
+    template: Brass_Quadav
+    level:    [24, 28]
+    region:   beadeaux_nw_3
+
+  17379398:
+    template: Copper_Quadav
+    at:       [-178.811, 23.825, 107.946, 127]
+    level:    [23, 27]
+
+  17379399:
+    template: Copper_Quadav
+    at:       [-185.714, 23.958, 98.119, 35]
+    level:    [23, 27]
+
+  17379400:
+    template: Copper_Quadav
+    at:       [-170.904, 23.725, 102.968, 127]
+    level:    [23, 27]
+
+  17379401:
+    template: Caterpillar
+    at:       [-229.647, 23.753, 105.197, 127]
+    level:    [22, 25]
+
+  17379402:
+    template: Caterpillar
+    at:       [-221.286, 23.620, 96.984, 127]
+    level:    [22, 25]
+
+  17379403:
+    template: Caterpillar
+    at:       [-217.323, 23.613, 105.585, 90]
+    level:    [22, 25]
+
+  17379404:
+    template: Caterpillar
+    at:       [-231.338, 23.598, 102.286, 74]
+    level:    [22, 25]
+
+  17379405:
+    template: Caterpillar
+    at:       [-140.607, 23.533, 95.532, 127]
+    level:    [22, 25]
+
+  17379406:
+    template: Caterpillar
+    at:       [-141.720, 23.515, 92.727, 40]
+    level:    [22, 25]
+
+  17379407:
+    template: Caterpillar
+    at:       [-144.685, 23.450, 92.329, 111]
+    level:    [22, 25]
+
+  17379408:
+    template: Caterpillar
+    at:       [-145.345, 23.634, 95.053, 127]
+    level:    [22, 25]
+
+  17379409:
+    template: Old_Quadav
+    level:    [22, 26]
+    region:   beadeaux_w_4
+
+  17379410:
+    template: Copper_Quadav
+    at:       [-219.450, 0.662, -32.293, 200]
+    level:    [23, 27]
+
+  17379411:
+    template: Brass_Quadav
+    level:    [24, 28]
+    region:   beadeaux_w_4
+
+  17379412:
+    template: Land_Pugil
+    level:    [20, 23]
+    region:   beadeaux_w_4
+
+  17379413:
+    template: Land_Pugil
+    level:    [20, 23]
+    region:   beadeaux_w_4
+
+  17379414:
+    template: Old_Quadav
+    level:    [22, 26]
+    region:   beadeaux_w_3
+
+  17379415:
+    template: Copper_Quadav
+    at:       [-219.208, 0.500, -52.113, 127]
+    level:    [23, 27]
+
+  17379416:
+    template: Brass_Quadav
+    level:    [24, 28]
+    region:   beadeaux_w_3
+
+  17379417:
+    template: Old_Quadav
+    at:       [-189.665, 0.370, -55.775, 156]
+    level:    [22, 26]
+
+  17379418:
+    template: Copper_Quadav
+    at:       [-218.841, 0.500, -53.076, 116]
+    level:    [23, 27]
+
+  17379419:
+    template: Brass_Quadav
+    level:    [24, 28]
+    region:   beadeaux_w_3
+
+  17379420:
+    template: Old_Quadav
+    level:    [22, 26]
+    region:   beadeaux_w_8
+
+  17379421:
+    template: Brass_Quadav
+    level:    [24, 28]
+    region:   beadeaux_w_8
+
+  17379422:
+    template: Old_Quadav
+    level:    [22, 26]
+    region:   beadeaux_w_8
+
+  17379423:
+    template: Brass_Quadav
+    level:    [24, 28]
+    region:   beadeaux_w_8
+
+  17379424:
+    template: Land_Pugil
+    level:    [20, 23]
+    region:   beadeaux_w_8
+
+  17379425:
+    template: Land_Pugil
+    level:    [20, 23]
+    region:   beadeaux_w_8
+
+  17379426:
+    template: Copper_Quadav
+    level:    [23, 27]
+    region:   beadeaux_w_5
+
+  17379427:
+    template: DaDha_Hundredmask
+    at:       [-184.000, 1.000, -136.000, 127]
+    level:    [30, 30]
+
+  17379428:
+    template: Old_Quadav
+    level:    [22, 26]
+    region:   beadeaux_sw_8
+
+  17379429:
+    template: Copper_Quadav
+    level:    [23, 27]
+    region:   beadeaux_sw_8
+
+  17379430:
+    template: Brass_Quadav
+    level:    [24, 28]
+    region:   beadeaux_sw_8
+
+  17379431:
+    template: Old_Quadav
+    level:    [22, 26]
+    region:   beadeaux_sw_8
+
+  17379432:
+    template: Copper_Quadav
+    at:       [-182.830, 0.500, -123.990, 57]
+    level:    [23, 27]
+
+  17379433:
+    template: Brass_Quadav
+    at:       [-187.860, 0.500, -122.900, 119]
+    level:    [24, 28]
+
+  17379434:
+    template: Land_Pugil
+    level:    [20, 23]
+    region:   beadeaux_sw_8
+
+  17379435:
+    template: Land_Pugil
+    level:    [20, 23]
+    region:   beadeaux_sw_8
+
+  17379436:
+    template: Old_Quadav
+    level:    [22, 26]
+    region:   beadeaux_sw_3
+
+  17379437:
+    template: Copper_Quadav
+    level:    [23, 27]
+    region:   beadeaux_sw_3
+
+  17379438:
+    template: Brass_Quadav
+    level:    [24, 28]
+    region:   beadeaux_sw_3
+
+  17379439:
+    template: Old_Quadav
+    level:    [22, 26]
+    region:   beadeaux_sw_3
+
+  17379440:
+    template: Copper_Quadav
+    at:       [-254.600, 0.500, -138.078, 130]
+    level:    [23, 27]
+
+  17379441:
+    template: Brass_Quadav
+    at:       [-263.829, 0.500, -162.745, 127]
+    level:    [24, 28]
+
+  17379442:
+    template: Land_Pugil
+    level:    [20, 23]
+    region:   beadeaux_sw_3
+
+  17379443:
+    template: Land_Pugil
+    level:    [20, 23]
+    region:   beadeaux_sw_3
+
+  17379444:
+    template: Old_Quadav
+    level:    [22, 26]
+    region:   beadeaux_sw_4
+
+  17379445:
+    template: Copper_Quadav
+    level:    [23, 27]
+    region:   beadeaux_sw_4
+
+  17379446:
+    template: Brass_Quadav
+    level:    [24, 28]
+    region:   beadeaux_sw_4
+
+  17379447:
+    template: Old_Quadav
+    level:    [22, 26]
+    region:   beadeaux_sw_4
+
+  17379448:
+    template: Land_Pugil
+    level:    [20, 23]
+    region:   beadeaux_sw_4
+
+  17379449:
+    template: Land_Pugil
+    level:    [20, 23]
+    region:   beadeaux_sw_4
+
+  17379450:
+    template: GeDha_Evileye
+    at:       [-238.000, 1.000, -203.000, 93]
+    level:    [30, 30]
+
+  17379451:
+    template: Old_Quadav
+    level:    [22, 26]
+    region:   beadeaux_sw_6
+
+  17379452:
+    template: Copper_Quadav
+    level:    [23, 27]
+    region:   beadeaux_sw_6
+
+  17379453:
+    template: Brass_Quadav
+    level:    [24, 28]
+    region:   beadeaux_sw_6
+
+  17379454:
+    template: Old_Quadav
+    at:       [-148.246, 0.169, -170.294, 237]
+    level:    [22, 26]
+
+  17379455:
+    template: Copper_Quadav
+    at:       [-184.791, 0.499, -186.476, 12]
+    level:    [23, 27]
+
+  17379456:
+    template: Brass_Quadav
+    level:    [24, 28]
+    region:   beadeaux_sw_6
+
+  17379457:
+    template: Land_Pugil
+    level:    [20, 23]
+    region:   beadeaux_sw_6
+
+  17379458:
+    template: Land_Pugil
+    level:    [20, 23]
+    region:   beadeaux_sw_6
+
+  17379459:
+    template: Bronze_Quadav
+    at:       [-99.020, -0.217, -65.695, 127]
+    level:    [32, 36]
+
+  17379460:
+    template: Silver_Quadav
+    level:    [33, 37]
+    region:   beadeaux_w_12
+
+  17379461:
+    template: Zircon_Quadav
+    level:    [34, 38]
+    region:   beadeaux_w_12
+
+  17379462:
+    template: Garnet_Quadav
+    at:       [-51.550, -4.261, -50.171, 127]
+    level:    [35, 39]
+
+  17379463:
+    template: Charging_Sheep
+    level:    [28, 30]
+    region:   beadeaux_w_12
+
+  17379464:
+    template: Charging_Sheep
+    level:    [28, 30]
+    region:   beadeaux_w_12
+
+  17379465:
+    template: Charging_Sheep
+    level:    [28, 30]
+    region:   beadeaux_w_12
+
+  17379466:
+    template: Charging_Sheep
+    level:    [28, 30]
+    region:   beadeaux_w_12
+
+  17379467:
+    template: Charging_Sheep
+    level:    [28, 30]
+    region:   beadeaux_w_12
+
+  17379468:
+    template: Thunder_Elemental
+    level:    [47, 49]
+    region:   beadeaux_w_12
+
+  17379469:
+    template: Water_Elemental
+    level:    [47, 49]
+    region:   beadeaux_w_12
+
+  17379470:
+    template: Bronze_Quadav
+    level:    [32, 36]
+    region:   beadeaux_s_2
+
+  17379471:
+    template: Silver_Quadav
+    level:    [33, 37]
+    region:   beadeaux_s_2
+
+  17379472:
+    template: Zircon_Quadav
+    at:       [-35.733, 0.688, -126.219, 24]
+    level:    [34, 38]
+
+  17379473:
+    template: Garnet_Quadav
+    at:       [-34.577, -2.410, -140.082, 47]
+    level:    [35, 39]
+
+  17379474:
+    template: Charging_Sheep
+    level:    [28, 30]
+    region:   beadeaux_s_2
+
+  17379475:
+    template: Charging_Sheep
+    level:    [28, 30]
+    region:   beadeaux_s_2
+
+  17379476:
+    template: Charging_Sheep
+    level:    [28, 30]
+    region:   beadeaux_s_2
+
+  17379477:
+    template: Bronze_Quadav
+    level:    [32, 36]
+    region:   beadeaux_sw_10
+
+  17379478:
+    template: Silver_Quadav
+    level:    [33, 37]
+    region:   beadeaux_sw_10
+
+  17379479:
+    template: Zircon_Quadav
+    at:       [-67.076, 0.062, -171.693, 57]
+    level:    [34, 38]
+
+  17379480:
+    template: Garnet_Quadav
+    at:       [-139.179, -3.763, -190.602, 94]
+    level:    [35, 39]
+
+  17379481:
+    template: Charging_Sheep
+    level:    [28, 30]
+    region:   beadeaux_sw_10
+
+  17379482:
+    template: Charging_Sheep
+    level:    [28, 30]
+    region:   beadeaux_sw_10
+
+  17379483:
+    template: Charging_Sheep
+    level:    [28, 30]
+    region:   beadeaux_sw_10
+
+  17379484:
+    template: Charging_Sheep
+    level:    [28, 30]
+    region:   beadeaux_sw_10
+
+  17379485:
+    template: Charging_Sheep
+    level:    [28, 30]
+    region:   beadeaux_sw_10
+
+  17379486:
+    template: Charging_Sheep
+    level:    [28, 30]
+    region:   beadeaux_sw_10
+
+  17379487:
+    template: Thunder_Elemental
+    level:    [47, 49]
+    region:   beadeaux_sw_10
+
+  17379488:
+    template: Water_Elemental
+    level:    [47, 49]
+    region:   beadeaux_sw_10
+
+  17379489:
+    template: Bronze_Quadav
+    at:       [-239.241, 2.944, -82.531, 127]
+    level:    [32, 36]
+
+  17379490:
+    template: Silver_Quadav
+    at:       [-237.269, 2.930, -82.624, 127]
+    level:    [33, 37]
+
+  17379491:
+    template: Silver_Quadav
+    at:       [-38.872, 2.929, -41.764, 40]
+    level:    [33, 37]
+
+  17379492:
+    template: Zircon_Quadav
+    at:       [-39.645, 2.923, -40.320, 127]
+    level:    [34, 38]
+
+  17379493:
+    template: Bronze_Quadav
+    at:       [-4.301, 2.876, -81.055, 127]
+    level:    [32, 36]
+
+  17379494:
+    template: Zircon_Quadav
+    at:       [-4.615, 2.922, -81.103, 127]
+    level:    [34, 38]
+
+  17379495:
+    template: Bronze_Quadav
+    at:       [-40.132, 2.924, -199.266, 40]
+    level:    [32, 36]
+
+  17379496:
+    template: Garnet_Quadav
+    at:       [-39.541, 2.950, -197.550, 127]
+    level:    [35, 39]
+
+  17379497:
+    template: Silver_Quadav
+    at:       [-201.492, 2.964, -234.171, 127]
+    level:    [33, 37]
+
+  17379498:
+    template: Garnet_Quadav
+    at:       [-202.084, 2.972, -233.628, 127]
+    level:    [35, 39]
+
+  17379499:
+    template: Zircon_Quadav
+    at:       [-277.527, 2.922, -236.526, 127]
+    level:    [34, 38]
+
+  17379500:
+    template: Garnet_Quadav
+    at:       [-276.810, 2.936, -236.784, 127]
+    level:    [35, 39]
+
+  17379501:
+    template: Bronze_Quadav
+    level:    [32, 36]
+    region:   beadeaux_sw_2
+
+  17379502:
+    template: Silver_Quadav
+    level:    [33, 37]
+    region:   beadeaux_sw_2
+
+  17379503:
+    template: Zircon_Quadav
+    level:    [34, 38]
+    region:   beadeaux_sw_2
+
+  17379504:
+    template: Garnet_Quadav
+    level:    [35, 39]
+    region:   beadeaux_sw_2
+
+  17379505:
+    template: Bronze_Quadav
+    at:       [-277.362, -3.826, -125.220, 73]
+    level:    [32, 36]
+
+  17379506:
+    template: Silver_Quadav
+    level:    [33, 37]
+    region:   beadeaux_sw_2
+
+  17379507:
+    template: Zircon_Quadav
+    at:       [-295.277, -3.500, -130.490, 2]
+    level:    [34, 38]
+
+  17379508:
+    template: Garnet_Quadav
+    level:    [35, 39]
+    region:   beadeaux_sw_2
+
+  17379509:
+    template: Bronze_Quadav
+    level:    [32, 36]
+    region:   beadeaux_w
+
+  17379510:
+    template: Silver_Quadav
+    level:    [33, 37]
+    region:   beadeaux_w
+
+  17379511:
+    template: Zircon_Quadav
+    level:    [34, 38]
+    region:   beadeaux_w
+
+  17379512:
+    template: Garnet_Quadav
+    level:    [35, 39]
+    region:   beadeaux_w
+
+  17379513:
+    template: Bronze_Quadav
+    level:    [32, 36]
+    region:   beadeaux_w
+
+  17379514:
+    template: Silver_Quadav
+    level:    [33, 37]
+    region:   beadeaux_w
+
+  17379515:
+    template: Zircon_Quadav
+    at:       [-249.678, -3.500, -52.752, 79]
+    level:    [34, 38]
+
+  17379516:
+    template: Garnet_Quadav
+    at:       [-234.075, -3.374, -5.490, 96]
+    level:    [35, 39]
+
+  17379517:
+    template: Bronze_Quadav
+    level:    [32, 36]
+    region:   beadeaux_w_2
+
+  17379518:
+    template: Silver_Quadav
+    level:    [33, 37]
+    region:   beadeaux_w_2
+
+  17379519:
+    template: Zircon_Quadav
+    level:    [34, 38]
+    region:   beadeaux_w_2
+
+  17379520:
+    template: Garnet_Quadav
+    level:    [35, 39]
+    region:   beadeaux_w_2
+
+  17379521:
+    template: Bronze_Quadav
+    level:    [32, 36]
+    region:   beadeaux_w_7
+
+  17379522:
+    template: Silver_Quadav
+    level:    [33, 37]
+    region:   beadeaux_w_7
+
+  17379523:
+    template: Zircon_Quadav
+    level:    [34, 38]
+    region:   beadeaux_w_7
+
+  17379524:
+    template: Garnet_Quadav
+    level:    [35, 39]
+    region:   beadeaux_w_7
+
+  17379525:
+    template: Bronze_Quadav
+    level:    [32, 36]
+    region:   beadeaux_w_7
+
+  17379526:
+    template: Silver_Quadav
+    level:    [33, 37]
+    region:   beadeaux_w_7
+
+  17379527:
+    template: Zircon_Quadav
+    at:       [-149.000, -3.000, 35.000, 127]
+    level:    [34, 38]
+
+  17379528:
+    template: Garnet_Quadav
+    at:       [-117.604, -3.750, 37.079, 112]
+    level:    [35, 39]
+
+  17379529:
+    template: Bronze_Quadav
+    level:    [32, 36]
+    region:   beadeaux_nw_5
+
+  17379530:
+    template: Silver_Quadav
+    level:    [33, 37]
+    region:   beadeaux_nw_5
+
+  17379531:
+    template: Zircon_Quadav
+    level:    [34, 38]
+    region:   beadeaux_nw_5
+
+  17379532:
+    template: Garnet_Quadav
+    level:    [35, 39]
+    region:   beadeaux_nw_5
+
+  17379533:
+    template: Bronze_Quadav
+    level:    [32, 36]
+    region:   beadeaux_nw_10
+
+  17379534:
+    template: Silver_Quadav
+    level:    [33, 37]
+    region:   beadeaux_nw_10
+
+  17379535:
+    template: Zircon_Quadav
+    level:    [34, 38]
+    region:   beadeaux_nw_10
+
+  17379536:
+    template: Garnet_Quadav
+    level:    [35, 39]
+    region:   beadeaux_nw_10
+
+  17379537:
+    template: Ooze
+    level:    [28, 30]
+    region:   beadeaux_nw_10
+
+  17379538:
+    template: Bronze_Quadav
+    level:    [32, 36]
+    region:   beadeaux_n
+
+  17379539:
+    template: Silver_Quadav
+    level:    [33, 37]
+    region:   beadeaux_n
+
+  17379540:
+    template: Zircon_Quadav
+    level:    [34, 38]
+    region:   beadeaux_n
+
+  17379541:
+    template: Garnet_Quadav
+    level:    [35, 39]
+    region:   beadeaux_n
+
+  17379542:
+    template: Ooze
+    level:    [28, 30]
+    region:   beadeaux_n
+
+  17379543:
+    template: Bronze_Quadav
+    level:    [32, 36]
+    region:   beadeaux_nw_6
+
+  17379544:
+    template: Silver_Quadav
+    level:    [33, 37]
+    region:   beadeaux_nw_6
+
+  17379545:
+    template: Zircon_Quadav
+    level:    [34, 38]
+    region:   beadeaux_nw_6
+
+  17379546:
+    template: Garnet_Quadav
+    level:    [35, 39]
+    region:   beadeaux_nw_6
+
+  17379547:
+    template: Bronze_Quadav
+    level:    [32, 36]
+    region:   beadeaux_nw_2
+
+  17379548:
+    template: Silver_Quadav
+    level:    [33, 37]
+    region:   beadeaux_nw_2
+
+  17379549:
+    template: Zircon_Quadav
+    level:    [34, 38]
+    region:   beadeaux_nw_2
+
+  17379550:
+    template: Garnet_Quadav
+    level:    [35, 39]
+    region:   beadeaux_nw_2
+
+  17379551:
+    template: GoBhu_Gascon
+    level:    [41, 42]
+    region:   beadeaux_nw_2
+
+  17379552:
+    template: Bronze_Quadav
+    level:    [32, 36]
+    region:   beadeaux_w_6
+
+  17379553:
+    template: Silver_Quadav
+    level:    [33, 37]
+    region:   beadeaux_w_6
+
+  17379554:
+    template: Zircon_Quadav
+    level:    [34, 38]
+    region:   beadeaux_w_6
+
+  17379555:
+    template: Garnet_Quadav
+    level:    [35, 39]
+    region:   beadeaux_w_6
+
+  17379556:
+    template: Bronze_Quadav
+    level:    [32, 36]
+    region:   beadeaux_w_10
+
+  17379557:
+    template: Silver_Quadav
+    level:    [33, 37]
+    region:   beadeaux_w_10
+
+  17379558:
+    template: Zircon_Quadav
+    level:    [34, 38]
+    region:   beadeaux_w_10
+
+  17379559:
+    template: Garnet_Quadav
+    level:    [35, 39]
+    region:   beadeaux_w_10
+
+  17379560:
+    template: Bronze_Quadav
+    level:    [32, 36]
+    region:   beadeaux_sw
+
+  17379561:
+    template: Silver_Quadav
+    level:    [33, 37]
+    region:   beadeaux_sw
+
+  17379562:
+    template: Zircon_Quadav
+    level:    [34, 38]
+    region:   beadeaux_sw
+
+  17379563:
+    template: Garnet_Quadav
+    level:    [35, 39]
+    region:   beadeaux_sw
+
+  17379564:
+    template: ZoKhu_Blackcloud
+    at:       [-273.000, -3.000, -253.000, 69]
+    level:    [36, 38]
+
+  17379565:
+    template: Bronze_Quadav
+    level:    [32, 36]
+    region:   beadeaux_sw_7
+
+  17379566:
+    template: Silver_Quadav
+    level:    [33, 37]
+    region:   beadeaux_sw_7
+
+  17379567:
+    template: Zircon_Quadav
+    level:    [34, 38]
+    region:   beadeaux_sw_7
+
+  17379568:
+    template: Garnet_Quadav
+    level:    [35, 39]
+    region:   beadeaux_sw_7
+
+  17379569:
+    template: Bronze_Quadav
+    level:    [32, 36]
+    region:   beadeaux_sw_11
+
+  17379570:
+    template: Silver_Quadav
+    level:    [33, 37]
+    region:   beadeaux_sw_11
+
+  17379571:
+    template: Zircon_Quadav
+    level:    [34, 38]
+    region:   beadeaux_sw_11
+
+  17379572:
+    template: Garnet_Quadav
+    level:    [35, 39]
+    region:   beadeaux_sw_11
+
+  17379573:
+    template: Bronze_Quadav
+    at:       [-110.609, -3.048, -192.216, 48]
+    level:    [32, 36]
+
+  17379574:
+    template: Silver_Quadav
+    level:    [33, 37]
+    region:   beadeaux_sw_11
+
+  17379575:
+    template: Zircon_Quadav
+    level:    [34, 38]
+    region:   beadeaux_sw_11
+
+  17379576:
+    template: Garnet_Quadav
+    level:    [35, 39]
+    region:   beadeaux_sw_11
+
+  17379577:
+    template: Bronze_Quadav
+    level:    [32, 36]
+    region:   beadeaux_s
+
+  17379578:
+    template: Silver_Quadav
+    level:    [33, 37]
+    region:   beadeaux_s
+
+  17379579:
+    template: Zircon_Quadav
+    level:    [34, 38]
+    region:   beadeaux_s
+
+  17379580:
+    template: Garnet_Quadav
+    level:    [35, 39]
+    region:   beadeaux_s
+
+  17379581:
+    template: Bronze_Quadav
+    level:    [32, 36]
+    region:   beadeaux_s
+
+  17379582:
+    template: Silver_Quadav
+    level:    [33, 37]
+    region:   beadeaux_s
+
+  17379583:
+    template: Zircon_Quadav
+    at:       [-9.491, -4.414, -91.708, 14]
+    level:    [34, 38]
+
+  17379584:
+    template: Garnet_Quadav
+    at:       [2.186, -3.530, -136.485, 126]
+    level:    [35, 39]
+
+  17379585:
+    template: Bronze_Quadav
+    level:    [32, 36]
+    region:   beadeaux_sw_5
+
+  17379586:
+    template: Silver_Quadav
+    level:    [33, 37]
+    region:   beadeaux_sw_5
+
+  17379587:
+    template: Zircon_Quadav
+    level:    [34, 38]
+    region:   beadeaux_sw_5
+
+  17379588:
+    template: Garnet_Quadav
+    level:    [35, 39]
+    region:   beadeaux_sw_5
+
+  17379589:
+    template: Elder_Quadav
+    level:    [42, 46]
+    region:   beadeaux_sw_12
+
+  17379590:
+    template: Iron_Quadav
+    level:    [43, 47]
+    region:   beadeaux_sw_12
+
+  17379591:
+    template: Spinel_Quadav
+    level:    [44, 48]
+    region:   beadeaux_sw_12
+
+  17379592:
+    template: Emerald_Quadav
+    level:    [45, 49]
+    region:   beadeaux_sw_12
+
+  17379593:
+    template: Elder_Quadav
+    at:       [-166.556, -3.859, -146.648, 106]
+    level:    [42, 46]
+
+  17379594:
+    template: Iron_Quadav
+    level:    [43, 47]
+    region:   beadeaux_sw_9
+
+  17379595:
+    template: Spinel_Quadav
+    level:    [44, 48]
+    region:   beadeaux_w_11
+
+  17379596:
+    template: Emerald_Quadav
+    at:       [-120.390, -3.886, -84.510, 64]
+    level:    [45, 49]
+
+  17379597:
+    template: Bronze_Quadav
+    level:    [32, 36]
+    region:   beadeaux_s_3
+
+  17379598:
+    template: Silver_Quadav
+    level:    [33, 37]
+    region:   beadeaux_s_3
+
+  17379599:
+    template: Zircon_Quadav
+    at:       [24.772, -3.501, -106.135, 113]
+    level:    [34, 38]
+
+  17379600:
+    template: Garnet_Quadav
+    level:    [35, 39]
+    region:   beadeaux_s_3
+
+  17379601:
+    template: DeVyu_Headhunter
+    level:    [45, 45]
+    region:   beadeaux_s_3
+
+  17379602:
+    template: Elder_Quadav
+    at:       [53.297, -3.500, -114.960, 26]
+    level:    [42, 46]
+
+  17379603:
+    template: Iron_Quadav
+    level:    [43, 47]
+    region:   beadeaux_c_2
+
+  17379604:
+    template: Spinel_Quadav
+    level:    [44, 48]
+    region:   beadeaux_c_2
+
+  17379605:
+    template: Emerald_Quadav
+    at:       [58.711, -3.503, -61.423, 127]
+    level:    [45, 49]
+
+  17379606:
+    template: Elder_Quadav
+    level:    [42, 46]
+    region:   beadeaux_c
+
+  17379607:
+    template: Iron_Quadav
+    level:    [43, 47]
+    region:   beadeaux_c
+
+  17379608:
+    template: Spinel_Quadav
+    level:    [44, 48]
+    region:   beadeaux_c
+
+  17379609:
+    template: Emerald_Quadav
+    level:    [45, 49]
+    region:   beadeaux_c
+
+  17379610:
+    template: Elder_Quadav
+    level:    [42, 46]
+    region:   beadeaux_n_2
+
+  17379611:
+    template: Iron_Quadav
+    level:    [43, 47]
+    region:   beadeaux_n_2
+
+  17379612:
+    template: Spinel_Quadav
+    level:    [44, 48]
+    region:   beadeaux_n_2
+
+  17379613:
+    template: Emerald_Quadav
+    level:    [45, 49]
+    region:   beadeaux_n_2
+
+  17379614:
+    template: Broo
+    level:    [39, 41]
+    region:   beadeaux_n_2
+
+  17379615:
+    template: Elder_Quadav
+    level:    [42, 46]
+    region:   beadeaux_n_3
+
+  17379616:
+    template: Iron_Quadav
+    level:    [43, 47]
+    region:   beadeaux_n_3
+
+  17379617:
+    template: Spinel_Quadav
+    level:    [44, 48]
+    region:   beadeaux_n_3
+
+  17379618:
+    template: Emerald_Quadav
+    level:    [45, 49]
+    region:   beadeaux_n_3
+
+  17379619:
+    template: Thunder_Elemental
+    level:    [47, 49]
+    region:   beadeaux_n_3
+
+  17379620:
+    template: Water_Elemental
+    level:    [47, 49]
+    region:   beadeaux_n_3
+
+  17379621:
+    template: Elder_Quadav
+    level:    [42, 46]
+    region:   beadeaux_n_9
+
+  17379622:
+    template: Iron_Quadav
+    level:    [43, 47]
+    region:   beadeaux_n_9
+
+  17379623:
+    template: Spinel_Quadav
+    level:    [44, 48]
+    region:   beadeaux_n_9
+
+  17379624:
+    template: Broo
+    level:    [39, 41]
+    region:   beadeaux_n_9
+
+  17379625:
+    template: Emerald_Quadav
+    level:    [45, 49]
+    region:   beadeaux_n_5
+
+  17379626:
+    template: GaBhu_Unvanquished
+    at:       [178.863, -3.199, 192.895, 24]
+    level:    [47, 48]
+
+  17379627:
+    template: Elder_Quadav
+    level:    [42, 46]
+    region:   beadeaux_n_12
+
+  17379628:
+    template: Iron_Quadav
+    level:    [43, 47]
+    region:   beadeaux_n_12
+
+  17379629:
+    template: Spinel_Quadav
+    level:    [44, 48]
+    region:   beadeaux_n_12
+
+  17379630:
+    template: Emerald_Quadav
+    level:    [45, 49]
+    region:   beadeaux_n_12
+
+  17379631:
+    template: Broo
+    level:    [39, 41]
+    region:   beadeaux_n_12
+
+  17379632:
+    template: Elder_Quadav
+    level:    [42, 46]
+    region:   beadeaux_ne_2
+
+  17379633:
+    template: Iron_Quadav
+    level:    [43, 47]
+    region:   beadeaux_ne_2
+
+  17379634:
+    template: Spinel_Quadav
+    level:    [44, 48]
+    region:   beadeaux_ne_2
+
+  17379635:
+    template: Emerald_Quadav
+    level:    [45, 49]
+    region:   beadeaux_ne_2
+
+  17379636:
+    template: Broo
+    level:    [39, 41]
+    region:   beadeaux_ne_2
+
+  17379637:
+    template: Gloop
+    level:    [38, 40]
+    region:   beadeaux_ne_6
+
+  17379638:
+    template: Gloop
+    level:    [38, 40]
+    region:   beadeaux_ne_6
+
+  17379639:
+    template: Elder_Quadav
+    at:       [241.598, -3.706, 76.135, 124]
+    level:    [42, 46]
+
+  17379640:
+    template: Iron_Quadav
+    level:    [43, 47]
+    region:   beadeaux_ne_5
+
+  17379641:
+    template: Spinel_Quadav
+    level:    [44, 48]
+    region:   beadeaux_ne_5
+
+  17379642:
+    template: Emerald_Quadav
+    level:    [45, 49]
+    region:   beadeaux_ne_5
+
+  17379643:
+    template: Gloop
+    level:    [38, 40]
+    region:   beadeaux_e_7
+
+  17379644:
+    template: Gloop
+    level:    [38, 40]
+    region:   beadeaux_e_7
+
+  17379645:
+    template: Elder_Quadav
+    level:    [42, 46]
+    region:   beadeaux_e_6
+
+  17379646:
+    template: Iron_Quadav
+    level:    [43, 47]
+    region:   beadeaux_e_6
+
+  17379647:
+    template: Spinel_Quadav
+    level:    [44, 48]
+    region:   beadeaux_e_6
+
+  17379648:
+    template: Emerald_Quadav
+    level:    [45, 49]
+    region:   beadeaux_e_6
+
+  17379649:
+    template: Thunder_Elemental
+    level:    [47, 49]
+    region:   beadeaux_e_6
+
+  17379650:
+    template: Water_Elemental
+    level:    [47, 49]
+    region:   beadeaux_e_6
+
+  17379651:
+    template: Elder_Quadav
+    level:    [42, 46]
+    region:   beadeaux_e
+
+  17379652:
+    template: Iron_Quadav
+    level:    [43, 47]
+    region:   beadeaux_e
+
+  17379653:
+    template: Spinel_Quadav
+    level:    [44, 48]
+    region:   beadeaux_e
+
+  17379654:
+    template: Emerald_Quadav
+    level:    [45, 49]
+    region:   beadeaux_e
+
+  17379655:
+    template: Elder_Quadav
+    level:    [42, 46]
+    region:   beadeaux_e_5
+
+  17379656:
+    template: Iron_Quadav
+    level:    [43, 47]
+    region:   beadeaux_e_5
+
+  17379657:
+    template: Spinel_Quadav
+    level:    [44, 48]
+    region:   beadeaux_e_5
+
+  17379658:
+    template: Emerald_Quadav
+    level:    [45, 49]
+    region:   beadeaux_e_5
+
+  17379659:
+    template: Elder_Quadav
+    level:    [42, 46]
+    region:   beadeaux_c_4
+
+  17379660:
+    template: Iron_Quadav
+    level:    [43, 47]
+    region:   beadeaux_c_4
+
+  17379661:
+    template: Spinel_Quadav
+    at:       [132.949, -3.500, -56.212, 78]
+    level:    [44, 48]
+
+  17379662:
+    template: Emerald_Quadav
+    at:       [83.381, -3.457, -34.595, 127]
+    level:    [45, 49]
+
+  17379663:
+    template: Broo
+    at:       [115.160, -3.690, 39.241, 127]
+    level:    [39, 41]
+
+  17379664:
+    template: Broo
+    at:       [116.644, -3.391, 36.309, 94]
+    level:    [39, 41]
+
+  17379665:
+    template: Broo
+    at:       [76.984, -3.418, 64.515, 127]
+    level:    [39, 41]
+
+  17379666:
+    template: Broo
+    at:       [82.786, -2.951, 89.398, 127]
+    level:    [39, 41]
+
+  17379667:
+    template: Elder_Quadav
+    at:       [120.819, -3.222, 33.419, 0]
+    level:    [42, 46]
+
+  17379668:
+    template: Iron_Quadav
+    at:       [71.112, -3.177, 45.696, 127]
+    level:    [43, 47]
+
+  17379669:
+    template: Broo
+    at:       [108.412, -3.764, -2.675, 127]
+    level:    [39, 41]
+
+  17379670:
+    template: Broo
+    level:    [39, 41]
+    region:   beadeaux_c_5
+
+  17379671:
+    template: Broo
+    level:    [39, 41]
+    region:   beadeaux_c_5
+
+  17379672:
+    template: Broo
+    level:    [39, 41]
+    region:   beadeaux_c_5
+
+  17379673:
+    template: Steel_Quadav
+    at:       [142.580, 0.500, 103.501, 166]
+    level:    [52, 56]
+
+  17379674:
+    template: Mythril_Quadav
+    level:    [53, 57]
+    region:   beadeaux_n_10
+
+  17379675:
+    template: Gold_Quadav
+    level:    [54, 58]
+    region:   beadeaux_n_10
+
+  17379676:
+    template: Topaz_Quadav
+    level:    [55, 59]
+    region:   beadeaux_n_10
+
+  17379677:
+    template: Steel_Quadav
+    at:       [113.061, -3.209, 75.265, 127]
+    level:    [52, 56]
+
+  17379678:
+    template: Mythril_Quadav
+    level:    [53, 57]
+    region:   beadeaux_n_10
+
+  17379679:
+    template: Gold_Quadav
+    level:    [54, 58]
+    region:   beadeaux_n_10
+
+  17379680:
+    template: Topaz_Quadav
+    level:    [55, 59]
+    region:   beadeaux_n_10
+
+  17379681:
+    template: Broo
+    level:    [39, 41]
+    region:   beadeaux_e_4
+
+  17379682:
+    template: Broo
+    level:    [39, 41]
+    region:   beadeaux_e_4
+
+  17379683:
+    template: Broo
+    level:    [39, 41]
+    region:   beadeaux_e_4
+
+  17379684:
+    template: Broo
+    level:    [39, 41]
+    region:   beadeaux_e_4
+
+  17379685:
+    template: Broo
+    level:    [39, 41]
+    region:   beadeaux_e_4
+
+  17379686:
+    template: Spinel_Quadav
+    at:       [212.422, -2.538, 66.704, 66]
+    level:    [44, 48]
+
+  17379687:
+    template: Emerald_Quadav
+    level:    [45, 49]
+    region:   beadeaux_e_4
+
+  17379688:
+    template: Steel_Quadav
+    level:    [52, 56]
+    region:   beadeaux_c_3
+
+  17379689:
+    template: Mythril_Quadav
+    level:    [53, 57]
+    region:   beadeaux_c_3
+
+  17379690:
+    template: Big_Jaw
+    level:    [37, 39]
+    region:   beadeaux_c_3
+
+  17379691:
+    template: Big_Jaw
+    level:    [37, 39]
+    region:   beadeaux_c_3
+
+  17379692:
+    template: Gold_Quadav
+    level:    [54, 58]
+    region:   beadeaux_n_4
+
+  17379693:
+    template: Topaz_Quadav
+    level:    [55, 59]
+    region:   beadeaux_n_4
+
+  17379694:
+    template: Big_Jaw
+    level:    [37, 39]
+    region:   beadeaux_n_4
+
+  17379695:
+    template: Big_Jaw
+    level:    [37, 39]
+    region:   beadeaux_n_4
+
+  17379696:
+    template: Steel_Quadav
+    level:    [52, 56]
+    region:   beadeaux_c_6
+
+  17379697:
+    template: Topaz_Quadav
+    level:    [55, 59]
+    region:   beadeaux_c_6
+
+  17379698:
+    template: Big_Jaw
+    level:    [37, 39]
+    region:   beadeaux_c_6
+
+  17379699:
+    template: Big_Jaw
+    level:    [37, 39]
+    region:   beadeaux_c_6
+
+  17379700:
+    template: Mythril_Quadav
+    level:    [53, 57]
+    region:   beadeaux_e_2
+
+  17379701:
+    template: Topaz_Quadav
+    level:    [55, 59]
+    region:   beadeaux_e_2
+
+  17379702:
+    template: Big_Jaw
+    level:    [37, 39]
+    region:   beadeaux_e_2
+
+  17379703:
+    template: Big_Jaw
+    level:    [37, 39]
+    region:   beadeaux_e_2
+
+  17379704:
+    template: Steel_Quadav
+    level:    [52, 56]
+    region:   beadeaux_n_7
+
+  17379705:
+    template: Mythril_Quadav
+    level:    [53, 57]
+    region:   beadeaux_n_7
+
+  17379706:
+    template: Gold_Quadav
+    level:    [54, 58]
+    region:   beadeaux_n_7
+
+  17379707:
+    template: Topaz_Quadav
+    level:    [55, 59]
+    region:   beadeaux_n_7
+
+  17379708:
+    template: Steel_Quadav
+    level:    [52, 56]
+    region:   beadeaux_n_13
+
+  17379709:
+    template: Mythril_Quadav
+    level:    [53, 57]
+    region:   beadeaux_n_13
+
+  17379710:
+    template: Gold_Quadav
+    level:    [54, 58]
+    region:   beadeaux_n_13
+
+  17379711:
+    template: Topaz_Quadav
+    level:    [55, 59]
+    region:   beadeaux_n_13
+
+  17379712:
+    template: Mythril_Quadav
+    level:    [53, 57]
+    region:   beadeaux_e_3
+
+  17379713:
+    template: Gold_Quadav
+    level:    [54, 58]
+    region:   beadeaux_e_3
+
+  17379714:
+    template: Big_Jaw
+    level:    [37, 39]
+    region:   beadeaux_e_3
+
+  17379715:
+    template: Big_Jaw
+    level:    [37, 39]
+    region:   beadeaux_e_3
+
+  17379716:
+    template: Steel_Quadav
+    level:    [52, 56]
+    region:   beadeaux_ne_4
+
+  17379717:
+    template: Gold_Quadav
+    level:    [54, 58]
+    region:   beadeaux_ne_4
+
+  17379718:
+    template: Big_Jaw
+    level:    [37, 39]
+    region:   beadeaux_ne_4
+
+  17379719:
+    template: Big_Jaw
+    level:    [37, 39]
+    region:   beadeaux_ne_4
+
+  17379720:
+    template: Topaz_Quadav
+    level:    [55, 59]
+    region:   beadeaux_n_14
+
+  17379721:
+    template: Ancient_Quadav
+    level:    [62, 66]
+    region:   beadeaux_n_14
+
+  17379722:
+    template: Steel_Quadav
+    level:    [52, 56]
+    region:   beadeaux_n_11
+
+  17379723:
+    template: Mythril_Quadav
+    level:    [53, 57]
+    region:   beadeaux_n_11
+
+  17379724:
+    template: Gold_Quadav
+    level:    [54, 58]
+    region:   beadeaux_n_11
+
+  17379725:
+    template: Topaz_Quadav
+    level:    [55, 59]
+    region:   beadeaux_n_11
+
+  17379726:
+    template: Steel_Quadav
+    level:    [52, 56]
+    region:   beadeaux_n_8
+
+  17379727:
+    template: Big_Jaw
+    level:    [37, 39]
+    region:   beadeaux_n_8
+
+  17379728:
+    template: Big_Jaw
+    level:    [37, 39]
+    region:   beadeaux_n_8
+
+  17379729:
+    template: Steel_Quadav
+    level:    [52, 56]
+    region:   beadeaux_n_6
+
+  17379730:
+    template: Mythril_Quadav
+    level:    [53, 57]
+    region:   beadeaux_n_6
+
+  17379731:
+    template: Gold_Quadav
+    level:    [54, 58]
+    region:   beadeaux_n_6
+
+  17379732:
+    template: Topaz_Quadav
+    level:    [55, 59]
+    region:   beadeaux_n_6
+
+  17379733:
+    template: Big_Jaw
+    at:       [104.646, 0.500, 177.348, 2]
+    level:    [37, 39]
+
+  17379734:
+    template: Big_Jaw
+    at:       [120.856, 0.499, 143.366, 113]
+    level:    [37, 39]
+
+  17379735:
+    template: Ancient_Quadav
+    at:       [139.521, 2.926, -43.003, 127]
+    level:    [62, 66]
+
+  17379736:
+    template: Darksteel_Quadav
+    at:       [139.643, 2.926, -43.054, 127]
+    level:    [63, 67]
+
+  17379737:
+    template: Platinum_Quadav
+    at:       [44.535, 2.923, 118.881, 25]
+    level:    [64, 68]
+
+  17379738:
+    template: Sapphire_Quadav
+    at:       [43.821, 2.922, 114.646, 127]
+    level:    [65, 69]
+
+  17379739:
+    template: Ancient_Quadav
+    at:       [142.714, 2.918, 86.495, 58]
+    level:    [62, 66]
+
+  17379740:
+    template: Sapphire_Quadav
+    at:       [143.088, 2.919, 84.856, 127]
+    level:    [65, 69]
+
+  17379741:
+    template: Darksteel_Quadav
+    at:       [80.293, 2.937, 198.911, 127]
+    level:    [63, 67]
+
+  17379742:
+    template: Sapphire_Quadav
+    at:       [82.374, 2.924, 194.861, 119]
+    level:    [65, 69]
+
+  17379743:
+    template: Ancient_Quadav
+    at:       [158.195, 2.941, 200.038, 127]
+    level:    [62, 66]
+
+  17379744:
+    template: Platinum_Quadav
+    at:       [155.207, 2.955, 197.927, 127]
+    level:    [64, 68]
+
+  17379745:
+    template: Steel_Quadav
+    level:    [52, 56]
+    region:   beadeaux_ne
+
+  17379746:
+    template: Mythril_Quadav
+    level:    [53, 57]
+    region:   beadeaux_ne
+
+  17379747:
+    template: Gold_Quadav
+    level:    [54, 58]
+    region:   beadeaux_ne
+
+  17379748:
+    template: Topaz_Quadav
+    level:    [55, 59]
+    region:   beadeaux_ne
+
+  17379749:
+    template: Larva
+    level:    [35, 38]
+    region:   beadeaux_ne
+
+  17379750:
+    template: Larva
+    level:    [35, 38]
+    region:   beadeaux_ne
+
+  17379751:
+    template: Ancient_Quadav
+    level:    [62, 66]
+    region:   beadeaux_ne_3
+
+  17379752:
+    template: Darksteel_Quadav
+    level:    [63, 67]
+    region:   beadeaux_ne_3
+
+  17379753:
+    template: Platinum_Quadav
+    level:    [64, 68]
+    region:   beadeaux_ne_3
+
+  17379754:
+    template: Sapphire_Quadav
+    at:       [190.643, 40.542, 71.825, 99]
+    level:    [65, 69]
+
+  17379755:
+    template: Ancient_Quadav
+    level:    [62, 66]
+    region:   beadeaux_ne_3
+
+  17379756:
+    template: Darksteel_Quadav
+    at:       [198.356, 40.500, 78.425, 127]
+    level:    [63, 67]
+
+  17379757:
+    template: Platinum_Quadav
+    at:       [203.698, 40.621, 88.538, 127]
+    level:    [64, 68]
+
+  17379758:
+    template: Sapphire_Quadav
+    level:    [65, 69]
+    region:   beadeaux_ne_3
+
+  17379759:
+    template: Larva
+    at:       [178.746, 39.570, 50.449, 127]
+    level:    [35, 38]
+
+  17379760:
+    template: Larva
+    at:       [178.683, 39.684, 43.096, 69]
+    level:    [35, 38]
+
+  17379761:
+    template: Platinum_Quadav
+    at:       [183.157, 39.571, 27.301, 8]
+    level:    [64, 68]
+
+  17379762:
+    template: Platinum_Quadav
+    at:       [181.648, 39.659, 18.053, 26]
+    level:    [64, 68]
+
+  17379763:
+    template: Platinum_Quadav
+    at:       [175.428, 39.671, 12.436, 127]
+    level:    [64, 68]
+
+  17379764:
+    template: Ancient_Quadav
+    at:       [252.786, 39.806, 135.512, 38]
+    level:    [62, 66]
+
+  17379765:
+    template: Platinum_Quadav
+    at:       [265.000, 40.000, 142.000, 92]
+    level:    [64, 68]
+
+  17379766:
+    template: Larva
+    at:       [316.000, 32.000, 141.000, 127]
+    level:    [35, 38]
+
+  17379767:
+    template: Larva
+    at:       [333.634, 29.111, 135.115, 127]
+    level:    [35, 38]
+
+  17379768:
+    template: Larva
+    at:       [295.000, 37.000, 140.000, 127]
+    level:    [35, 38]
+
+  17379769:
+    template: Ancient_Quadav
+    at:       [346.141, 23.665, 93.515, 63]
+    level:    [62, 66]
+
+  17379770:
+    template: Darksteel_Quadav
+    level:    [63, 67]
+    region:   beadeaux_ne_7
+
+  17379771:
+    template: Sapphire_Quadav
+    level:    [65, 69]
+    region:   beadeaux_ne_7
+
+  17379772:
+    template: Ancient_Quadav
+    at:       [382.579, 23.667, 139.752, 99]
+    level:    [62, 66]
+
+  17379773:
+    template: Darksteel_Quadav
+    at:       [388.103, 23.498, 140.245, 127]
+    level:    [63, 67]
+
+  17379774:
+    template: Platinum_Quadav
+    at:       [388.806, 23.437, 134.515, 127]
+    level:    [64, 68]
+
+  17379775:
+    template: Ancient_Quadav
+    at:       [428.016, 23.694, 91.990, 127]
+    level:    [62, 66]
+
+  17379776:
+    template: Platinum_Quadav
+    at:       [425.759, 23.558, 99.757, 127]
+    level:    [64, 68]
+
+  17379777:
+    template: Sapphire_Quadav
+    at:       [420.005, 23.577, 94.821, 127]
+    level:    [65, 69]
+
+  17379778:
+    template: Darksteel_Quadav
+    level:    [63, 67]
+    region:   beadeaux_ne_8
+
+  17379779:
+    template: Platinum_Quadav
+    level:    [64, 68]
+    region:   beadeaux_ne_8
+
+  17379780:
+    template: Sapphire_Quadav
+    level:    [65, 69]
+    region:   beadeaux_ne_8
+
+  17379781:
+    template: Larva
+    at:       [381.904, 24.783, 100.451, 127]
+    level:    [35, 38]
+
+  17379782:
+    template: Larva
+    at:       [378.324, 24.782, 100.575, 127]
+    level:    [35, 38]
+
+  17379783:
+    template: Mimic
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [60, 60]
+
+  17379784:
+    template: Magnes_Quadav_NM
+    at:       [-81.333, -3.519, -125.682, 129]
+    level:    [43, 45]
+
+  17379785:
+    template: Nickel_Quadav_NM
+    at:       [-81.171, -3.183, -129.277, 137]
+    level:    [43, 45]
+
+  17379786:
+    template: Magnes_Quadav_NM
+    at:       [-84.954, -3.807, -120.894, 98]
+    level:    [43, 45]
+
+  17379787:
+    template: Nickel_Quadav_NM
+    at:       [-88.153, -3.937, -118.159, 75]
+    level:    [43, 45]

@@ -1,0 +1,1178 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17547265:
+    template: Goblin_Golem
+    at:       [-0.153, -0.516, -100.577, 63]
+    level:    [85, 85]
+
+  17547266:
+    template: Vanguard_Smithy
+    at:       [39.570, 8.400, -52.820, 228]
+    level:    [75, 77]
+
+  17547267:
+    template: Vanguard_Welldigger
+    at:       [0.659, 8.500, -55.955, 186]
+    level:    [75, 77]
+
+  17547268:
+    template: Vanguard_Pathfinder
+    at:       [38.415, 8.400, -51.157, 201]
+    level:    [75, 77]
+
+  17547269:
+    template: Vanguards_Slime
+    at:       [38.869, 8.400, -49.894, 125]
+    level:    [75, 77]
+
+  17547270:
+    template: Vanguard_Shaman
+    at:       [30.440, 8.401, -53.121, 25]
+    level:    [75, 77]
+
+  17547271:
+    template: Vanguard_Enchanter
+    at:       [14.227, 1.750, -7.314, 208]
+    level:    [75, 77]
+
+  17547272:
+    template: Vanguard_Pathfinder
+    at:       [22.187, 8.400, -52.261, 65]
+    level:    [75, 77]
+
+  17547273:
+    template: Vanguards_Slime
+    at:       [23.992, 8.400, -51.349, 149]
+    level:    [75, 77]
+
+  17547274:
+    template: Vanguard_Tinkerer
+    at:       [13.162, 8.400, -50.063, 3]
+    level:    [75, 77]
+
+  17547275:
+    template: Vanguard_Armorer
+    at:       [2.179, 8.500, -61.613, 30]
+    level:    [75, 77]
+
+  17547276:
+    template: Vanguard_Hitman
+    at:       [-2.148, 4.000, -15.060, 196]
+    level:    [75, 77]
+
+  17547277:
+    template: Gabblox_Magpietongue
+    at:       [-0.250, 8.500, -53.982, 209]
+    level:    [75, 77]
+
+  17547278:
+    template: Vanguard_Pitfighter
+    at:       [3.835, 8.400, -51.100, 0]
+    level:    [75, 77]
+
+  17547279:
+    template: Vanguard_Alchemist
+    at:       [-10.168, 8.972, -48.570, 220]
+    level:    [75, 77]
+
+  17547280:
+    template: Vanguard_Maestro
+    at:       [-1.622, 8.408, -51.594, 126]
+    level:    [75, 77]
+
+  17547281:
+    template: Vanguard_Tinkerer
+    at:       [-1.422, 8.500, -51.684, 25]
+    level:    [75, 77]
+
+  17547282:
+    template: Vanguard_Dragontamer
+    level:    [75, 77]
+    region:   dynamis_jeuno_s_4
+
+  17547283:
+    template: Vanguards_Wyvern
+    at:       [-9.984, 8.964, -46.873, 243]
+    level:    [75, 77]
+
+  17547284:
+    template: Vanguard_Enchanter
+    at:       [-9.088, 8.400, -38.517, 120]
+    level:    [75, 77]
+
+  17547285:
+    template: Vanguard_Ambusher
+    at:       [7.667, 8.400, -41.682, 72]
+    level:    [75, 77]
+
+  17547286:
+    template: Vanguard_Necromancer
+    at:       [7.250, 8.400, -45.459, 62]
+    level:    [75, 77]
+
+  17547287:
+    template: Vanguards_Avatar
+    at:       [7.577, 8.400, -45.212, 65]
+    level:    [75, 77]
+
+  17547288:
+    template: Vanguard_Ronin
+    at:       [15.411, 8.500, -36.876, 120]
+    level:    [75, 77]
+
+  17547289:
+    template: Vanguard_Armorer
+    at:       [15.499, 8.384, -36.562, 114]
+    level:    [75, 77]
+
+  17547290:
+    template: Vanguard_Hitman
+    at:       [18.201, 8.500, -34.451, 7]
+    level:    [75, 77]
+
+  17547291:
+    template: Tufflix_Loglimbs
+    at:       [12.244, 1.999, -4.306, 5]
+    level:    [75, 77]
+
+  17547292:
+    template: Vanguard_Armorer
+    at:       [-17.690, 8.321, -51.944, 66]
+    level:    [75, 77]
+
+  17547293:
+    template: Vanguard_Hitman
+    at:       [22.562, 8.500, -50.935, 0]
+    level:    [75, 77]
+
+  17547294:
+    template: Cloktix_Longnail
+    at:       [3.285, 8.753, -54.795, 57]
+    level:    [75, 77]
+
+  17547295:
+    template: Goblin_Replica
+    at:       [5.371, 8.400, -36.954, 26]
+    level:    [65, 65]
+
+  17547296:
+    template: Goblin_Replica
+    at:       [-6.586, 8.401, -42.966, 83]
+    level:    [65, 65]
+
+  17547297:
+    template: Goblin_Replica
+    at:       [6.932, 8.456, -35.915, 52]
+    level:    [65, 65]
+
+  17547298:
+    template: Smeltix_Thickhide
+    level:    [75, 77]
+    region:   dynamis_jeuno_s_5
+
+  17547299:
+    template: Jabkix_Pigeonpecs
+    at:       [16.211, 8.502, -34.077, 109]
+    level:    [75, 77]
+
+  17547300:
+    template: Wasabix_Callusdigit
+    at:       [19.399, 8.500, -35.754, 233]
+    level:    [73, 73]
+
+  17547301:
+    template: Goblin_Statue
+    at:       [-20.330, 8.458, -48.888, 205]
+    level:    [65, 65]
+
+  17547302:
+    template: Goblin_Statue
+    at:       [23.127, 8.500, -35.830, 119]
+    level:    [65, 65]
+
+  17547303:
+    template: Goblin_Statue
+    at:       [2.647, 8.332, -62.581, 198]
+    level:    [65, 65]
+
+  17547304:
+    template: Vanguard_Smithy
+    level:    [75, 77]
+    region:   dynamis_jeuno_se_6
+
+  17547305:
+    template: Vanguard_Welldigger
+    at:       [48.716, -0.856, -21.995, 26]
+    level:    [75, 77]
+
+  17547306:
+    template: Vanguard_Ambusher
+    at:       [49.599, -0.820, -21.351, 69]
+    level:    [75, 77]
+
+  17547307:
+    template: Vanguard_Armorer
+    level:    [75, 77]
+    region:   dynamis_jeuno_e_4
+
+  17547308:
+    template: Vanguard_Alchemist
+    level:    [75, 77]
+    region:   dynamis_jeuno_e_5
+
+  17547309:
+    template: Vanguard_Welldigger
+    level:    [75, 77]
+    region:   dynamis_jeuno_se_4
+
+  17547310:
+    template: Vanguard_Enchanter
+    level:    [75, 77]
+    region:   dynamis_jeuno_se_4
+
+  17547311:
+    template: Hermitrix_Toothrot
+    at:       [31.785, -0.500, -25.679, 230]
+    level:    [75, 77]
+
+  17547312:
+    template: Wyrmwix_Snakespecs
+    at:       [29.040, -0.535, -21.201, 188]
+    level:    [75, 77]
+
+  17547313:
+    template: Vanguards_Wyvern
+    at:       [28.487, -0.292, -21.805, 181]
+    level:    [75, 77]
+
+  17547314:
+    template: Vanguard_Smithy
+    level:    [75, 77]
+    region:   dynamis_jeuno_e_3
+
+  17547315:
+    template: Vanguard_Pitfighter
+    at:       [9.021, 2.554, -6.874, 20]
+    level:    [75, 77]
+
+  17547316:
+    template: Vanguard_Ronin
+    level:    [75, 77]
+    region:   dynamis_jeuno_e_3
+
+  17547317:
+    template: Vanguard_Necromancer
+    level:    [75, 77]
+    region:   dynamis_jeuno_e_3
+
+  17547318:
+    template: Vanguards_Avatar
+    level:    [75, 77]
+    region:   dynamis_jeuno_e_3
+
+  17547319:
+    template: Vanguard_Alchemist
+    at:       [16.928, 0.988, -6.826, 6]
+    level:    [75, 77]
+
+  17547320:
+    template: Vanguard_Shaman
+    level:    [75, 77]
+    region:   dynamis_jeuno_e_2
+
+  17547321:
+    template: Vanguard_Enchanter
+    level:    [75, 77]
+    region:   dynamis_jeuno_e_2
+
+  17547322:
+    template: Morgmox_Moldnoggin
+    level:    [75, 77]
+    region:   dynamis_jeuno_e_2
+
+  17547323:
+    template: Vanguards_Avatar
+    level:    [75, 77]
+    region:   dynamis_jeuno_e_2
+
+  17547324:
+    template: Sparkspox_Sweatbrow
+    at:       [14.046, 1.874, -7.569, 218]
+    level:    [75, 77]
+
+  17547325:
+    template: Vanguard_Welldigger
+    level:    [75, 77]
+    region:   dynamis_jeuno_c_6
+
+  17547326:
+    template: Vanguard_Maestro
+    at:       [12.683, 2.250, -7.074, 239]
+    level:    [75, 77]
+
+  17547327:
+    template: Vanguard_Necromancer
+    at:       [10.314, 2.400, -4.385, 54]
+    level:    [75, 77]
+
+  17547328:
+    template: Vanguards_Avatar
+    at:       [8.713, 2.399, -3.411, 11]
+    level:    [75, 77]
+
+  17547329:
+    template: Sparkspox_Sweatbrow
+    at:       [-4.832, 2.400, -5.100, 69]
+    level:    [75, 77]
+
+  17547330:
+    template: Vanguard_Ronin
+    level:    [75, 77]
+    region:   dynamis_jeuno_c_2
+
+  17547331:
+    template: Vanguard_Maestro
+    level:    [75, 77]
+    region:   dynamis_jeuno_c_2
+
+  17547332:
+    template: Vanguard_Dragontamer
+    level:    [75, 77]
+    region:   dynamis_jeuno_c_2
+
+  17547333:
+    template: Vanguards_Wyvern
+    level:    [75, 77]
+    region:   dynamis_jeuno_c_3
+
+  17547334:
+    template: Vanguard_Alchemist
+    level:    [75, 77]
+    region:   dynamis_jeuno_c
+
+  17547335:
+    template: Vanguard_Shaman
+    level:    [75, 77]
+    region:   dynamis_jeuno_c
+
+  17547336:
+    template: Vanguard_Enchanter
+    level:    [75, 77]
+    region:   dynamis_jeuno_c
+
+  17547337:
+    template: Morgmox_Moldnoggin
+    at:       [-19.515, 2.988, -6.545, 217]
+    level:    [75, 77]
+
+  17547338:
+    template: Vanguards_Avatar
+    at:       [-17.191, 2.400, -3.679, 6]
+    level:    [75, 77]
+
+  17547339:
+    template: Vanguard_Welldigger
+    level:    [75, 77]
+    region:   dynamis_jeuno_s
+
+  17547340:
+    template: Vanguard_Ambusher
+    level:    [75, 77]
+    region:   dynamis_jeuno_w_3
+
+  17547341:
+    template: Vanguard_Pathfinder
+    level:    [75, 77]
+    region:   dynamis_jeuno_s
+
+  17547342:
+    template: Vanguards_Slime
+    level:    [75, 77]
+    region:   dynamis_jeuno_s
+
+  17547343:
+    template: Vanguard_Pitfighter
+    level:    [75, 77]
+    region:   dynamis_jeuno_s
+
+  17547344:
+    template: Vanguard_Enchanter
+    level:    [75, 77]
+    region:   dynamis_jeuno_s
+
+  17547345:
+    template: Vanguard_Maestro
+    level:    [75, 77]
+    region:   dynamis_jeuno_sw_6
+
+  17547346:
+    template: Vanguard_Ambusher
+    level:    [75, 77]
+    region:   dynamis_jeuno_s
+
+  17547347:
+    template: Vanguard_Ambusher
+    level:    [75, 77]
+    region:   dynamis_jeuno_sw_4
+
+  17547348:
+    template: Vanguard_Dragontamer
+    level:    [75, 77]
+    region:   dynamis_jeuno_s
+
+  17547349:
+    template: Vanguards_Wyvern
+    level:    [75, 77]
+    region:   dynamis_jeuno_s_6
+
+  17547350:
+    template: Vanguard_Pitfighter
+    level:    [75, 77]
+    region:   dynamis_jeuno_s
+
+  17547351:
+    template: Vanguard_Alchemist
+    level:    [75, 77]
+    region:   dynamis_jeuno_s
+
+  17547352:
+    template: Vanguard_Tinkerer
+    at:       [-29.402, -0.598, -57.856, 65]
+    level:    [75, 77]
+
+  17547353:
+    template: Vanguard_Armorer
+    level:    [75, 77]
+    region:   dynamis_jeuno_sw
+
+  17547354:
+    template: Vanguard_Hitman
+    level:    [75, 77]
+    region:   dynamis_jeuno_sw_2
+
+  17547355:
+    template: Elixmix_Hooknose
+    level:    [75, 77]
+    region:   dynamis_jeuno_sw_5
+
+  17547356:
+    template: Bandrix_Rockjaw
+    at:       [-37.337, -0.595, -49.359, 65]
+    level:    [79, 79]
+
+  17547357:
+    template: Vanguard_Smithy
+    level:    [75, 77]
+    region:   dynamis_jeuno_s
+
+  17547358:
+    template: Vanguard_Shaman
+    level:    [75, 77]
+    region:   dynamis_jeuno_s_2
+
+  17547359:
+    template: Vanguard_Maestro
+    at:       [-26.190, -0.593, -62.638, 225]
+    level:    [75, 77]
+
+  17547360:
+    template: Vanguard_Welldigger
+    level:    [75, 77]
+    region:   dynamis_jeuno_s
+
+  17547361:
+    template: Vanguard_Tinkerer
+    level:    [75, 77]
+    region:   dynamis_jeuno_s
+
+  17547362:
+    template: Vanguard_Ambusher
+    level:    [75, 77]
+    region:   dynamis_jeuno_s
+
+  17547363:
+    template: Vanguard_Smithy
+    level:    [75, 77]
+    region:   dynamis_jeuno_s
+
+  17547364:
+    template: Vanguard_Armorer
+    level:    [75, 77]
+    region:   dynamis_jeuno_s
+
+  17547365:
+    template: Vanguard_Pathfinder
+    level:    [75, 77]
+    region:   dynamis_jeuno_s
+
+  17547366:
+    template: Vanguards_Slime
+    level:    [75, 77]
+    region:   dynamis_jeuno_s
+
+  17547367:
+    template: Vanguard_Ronin
+    level:    [75, 77]
+    region:   dynamis_jeuno_se_2
+
+  17547368:
+    template: Vanguard_Hitman
+    at:       [14.563, -0.500, -75.930, 134]
+    level:    [75, 77]
+
+  17547369:
+    template: Vanguard_Pathfinder
+    level:    [75, 77]
+    region:   dynamis_jeuno_se_2
+
+  17547370:
+    template: Vanguards_Slime
+    level:    [75, 77]
+    region:   dynamis_jeuno_se_2
+
+  17547371:
+    template: Vanguard_Armorer
+    level:    [75, 77]
+    region:   dynamis_jeuno_se_3
+
+  17547372:
+    template: Vanguard_Shaman
+    level:    [75, 77]
+    region:   dynamis_jeuno_se_3
+
+  17547373:
+    template: Vanguard_Necromancer
+    at:       [19.471, -0.168, -74.662, 177]
+    level:    [75, 77]
+
+  17547374:
+    template: Vanguards_Avatar
+    at:       [19.849, -0.498, -73.261, 105]
+    level:    [75, 77]
+
+  17547375:
+    template: Vanguard_Pitfighter
+    at:       [32.641, -2.009, -58.566, 229]
+    level:    [75, 77]
+
+  17547376:
+    template: Vanguard_Tinkerer
+    level:    [75, 77]
+    region:   dynamis_jeuno_se_5
+
+  17547377:
+    template: Buffrix_Eargone
+    at:       [29.326, -2.000, -56.153, 53]
+    level:    [75, 77]
+
+  17547378:
+    template: Humnox_Drumbelly
+    at:       [26.200, -1.069, -65.960, 1]
+    level:    [75, 77]
+
+  17547379:
+    template: Vanguard_Smithy
+    level:    [75, 77]
+    region:   dynamis_jeuno_se_4
+
+  17547380:
+    template: Vanguard_Alchemist
+    level:    [75, 77]
+    region:   dynamis_jeuno_se_4
+
+  17547381:
+    template: Buffrix_Eargone
+    at:       [32.774, -1.742, -53.411, 137]
+    level:    [75, 77]
+
+  17547382:
+    template: Humnox_Drumbelly
+    at:       [29.090, -0.498, -46.690, 44]
+    level:    [75, 77]
+
+  17547383:
+    template: Vanguard_Ronin
+    level:    [75, 77]
+    region:   dynamis_jeuno_se_4
+
+  17547384:
+    template: Vanguard_Hitman
+    level:    [75, 77]
+    region:   dynamis_jeuno_se_4
+
+  17547385:
+    template: Vanguard_Alchemist
+    level:    [75, 77]
+    region:   dynamis_jeuno_se_4
+
+  17547386:
+    template: Vanguard_Maestro
+    level:    [75, 77]
+    region:   dynamis_jeuno_se_4
+
+  17547387:
+    template: Buffrix_Eargone
+    level:    [75, 77]
+    region:   dynamis_jeuno_se_4
+
+  17547388:
+    template: Humnox_Drumbelly
+    at:       [29.478, -0.495, -31.992, 200]
+    level:    [75, 77]
+
+  17547389:
+    template: Goblin_Statue
+    level:    [70, 70]
+    region:   dynamis_jeuno_sw_3
+
+  17547390:
+    template: Goblin_Statue
+    level:    [70, 70]
+    region:   dynamis_jeuno_se
+
+  17547391:
+    template: Goblin_Replica
+    level:    [65, 65]
+    region:   dynamis_jeuno_s
+
+  17547392:
+    template: Goblin_Replica
+    at:       [-37.115, -0.595, -55.282, 189]
+    level:    [65, 65]
+
+  17547393:
+    template: Goblin_Replica
+    at:       [28.890, -1.519, -59.533, 221]
+    level:    [65, 65]
+
+  17547394:
+    template: Ticktox_Beadyeyes
+    level:    [79, 79]
+    region:   dynamis_jeuno_s
+
+  17547395:
+    template: Lurklox_Dhalmelneck
+    level:    [75, 77]
+    region:   dynamis_jeuno_s_3
+
+  17547396:
+    template: Trailblix_Goatmug
+    level:    [75, 77]
+    region:   dynamis_jeuno_s
+
+  17547397:
+    template: Vanguards_Slime
+    level:    [75, 77]
+    region:   dynamis_jeuno_s
+
+  17547398:
+    template: Vanguard_Smithy
+    level:    [90, 92]
+    region:   dynamis_jeuno_w_2
+
+  17547399:
+    template: Vanguard_Pitfighter
+    level:    [90, 92]
+    region:   dynamis_jeuno_w_2
+
+  17547400:
+    template: Vanguard_Welldigger
+    at:       [-58.763, 5.400, -0.782, 93]
+    level:    [90, 92]
+
+  17547401:
+    template: Vanguard_Alchemist
+    level:    [90, 92]
+    region:   dynamis_jeuno_w_2
+
+  17547402:
+    template: Kikklix_Longlegs
+    at:       [-73.041, 5.400, 6.496, 133]
+    level:    [90, 92]
+
+  17547403:
+    template: Vanguard_Smithy
+    level:    [90, 92]
+    region:   dynamis_jeuno_w_2
+
+  17547404:
+    template: Vanguard_Pitfighter
+    level:    [90, 92]
+    region:   dynamis_jeuno_w_2
+
+  17547405:
+    template: Vanguard_Welldigger
+    at:       [-67.983, 5.400, -4.665, 31]
+    level:    [90, 92]
+
+  17547406:
+    template: Vanguard_Shaman
+    level:    [90, 92]
+    region:   dynamis_jeuno_w_2
+
+  17547407:
+    template: Kikklix_Longlegs
+    at:       [-55.608, 5.906, -0.608, 42]
+    level:    [90, 92]
+
+  17547408:
+    template: Vanguard_Smithy
+    at:       [-60.177, 5.400, -15.276, 0]
+    level:    [90, 92]
+
+  17547409:
+    template: Vanguard_Pitfighter
+    at:       [-55.643, 5.405, -7.396, 176]
+    level:    [90, 92]
+
+  17547410:
+    template: Vanguard_Welldigger
+    at:       [-67.806, 5.400, -18.190, 8]
+    level:    [90, 92]
+
+  17547411:
+    template: Vanguard_Enchanter
+    at:       [-66.984, 5.400, -17.737, 53]
+    level:    [90, 92]
+
+  17547412:
+    template: Vanguard_Alchemist
+    level:    [90, 92]
+    region:   dynamis_jeuno_w
+
+  17547413:
+    template: Vanguard_Shaman
+    at:       [-65.010, 5.500, -16.206, 202]
+    level:    [90, 92]
+
+  17547414:
+    template: Vanguard_Smithy
+    at:       [-56.118, 11.479, -27.656, 82]
+    level:    [90, 92]
+
+  17547415:
+    template: Vanguard_Pitfighter
+    at:       [-57.349, 11.399, -22.852, 135]
+    level:    [90, 92]
+
+  17547416:
+    template: Vanguard_Alchemist
+    at:       [-59.190, 11.500, -28.240, 239]
+    level:    [90, 92]
+
+  17547417:
+    template: Vanguard_Shaman
+    at:       [-57.058, 11.400, -30.582, 118]
+    level:    [90, 92]
+
+  17547418:
+    template: Vanguard_Enchanter
+    at:       [-54.720, 11.400, -23.187, 225]
+    level:    [90, 92]
+
+  17547419:
+    template: Vanguard_Welldigger
+    at:       [-57.498, 11.377, -33.822, 196]
+    level:    [90, 92]
+
+  17547420:
+    template: Goblin_Statue
+    at:       [-60.326, 11.395, -31.103, 155]
+    level:    [80, 80]
+
+  17547421:
+    template: Goblin_Replica
+    at:       [-53.960, 5.409, -10.837, 162]
+    level:    [80, 80]
+
+  17547422:
+    template: Goblin_Replica
+    at:       [-48.690, 9.718, -22.325, 149]
+    level:    [80, 80]
+
+  17547423:
+    template: Goblin_Replica
+    at:       [-48.401, 9.641, -22.195, 126]
+    level:    [80, 80]
+
+  17547424:
+    template: Karashix_Swollenskull
+    at:       [0.095, 1.500, 44.937, 144]
+    level:    [90, 92]
+
+  17547425:
+    template: Vanguard_Tinkerer
+    level:    [90, 92]
+    region:   dynamis_jeuno_e
+
+  17547426:
+    template: Vanguard_Dragontamer
+    at:       [13.736, 1.400, 46.026, 246]
+    level:    [90, 92]
+
+  17547427:
+    template: Vanguards_Wyvern
+    at:       [10.027, 1.500, 54.662, 67]
+    level:    [90, 92]
+
+  17547428:
+    template: Vanguard_Pathfinder
+    level:    [90, 92]
+    region:   dynamis_jeuno_e
+
+  17547429:
+    template: Vanguards_Slime
+    level:    [90, 92]
+    region:   dynamis_jeuno_e
+
+  17547430:
+    template: Vanguard_Maestro
+    at:       [11.534, 1.400, 53.911, 160]
+    level:    [90, 92]
+
+  17547431:
+    template: Vanguard_Ronin
+    at:       [11.470, 1.400, 54.486, 134]
+    level:    [90, 92]
+
+  17547432:
+    template: Vanguard_Armorer
+    at:       [10.661, 1.500, 61.717, 179]
+    level:    [90, 92]
+
+  17547433:
+    template: Vanguard_Maestro
+    at:       [10.886, 1.400, 59.295, 87]
+    level:    [90, 92]
+
+  17547434:
+    template: Vanguard_Tinkerer
+    at:       [6.577, 1.500, 74.292, 39]
+    level:    [90, 92]
+
+  17547435:
+    template: Vanguard_Ronin
+    at:       [10.761, 1.400, 70.619, 117]
+    level:    [90, 92]
+
+  17547436:
+    template: Vanguard_Necromancer
+    level:    [90, 92]
+    region:   dynamis_jeuno_n_6
+
+  17547437:
+    template: Vanguards_Avatar
+    at:       [8.561, 1.400, 70.903, 53]
+    level:    [90, 92]
+
+  17547438:
+    template: Mortilox_Wartpaws
+    level:    [90, 92]
+    region:   dynamis_jeuno_n_6
+
+  17547439:
+    template: Vanguards_Avatar
+    level:    [90, 92]
+    region:   dynamis_jeuno_n_6
+
+  17547440:
+    template: Karashix_Swollenskull
+    level:    [90, 92]
+    region:   dynamis_jeuno_n_7
+
+  17547441:
+    template: Vanguard_Tinkerer
+    at:       [-13.471, 1.400, 70.353, 100]
+    level:    [90, 92]
+
+  17547442:
+    template: Vanguard_Ronin
+    level:    [90, 92]
+    region:   dynamis_jeuno_n_3
+
+  17547443:
+    template: Vanguard_Necromancer
+    level:    [90, 92]
+    region:   dynamis_jeuno_n_3
+
+  17547444:
+    template: Vanguards_Avatar
+    level:    [90, 92]
+    region:   dynamis_jeuno_n_3
+
+  17547445:
+    template: Vanguard_Maestro
+    level:    [90, 92]
+    region:   dynamis_jeuno_n_7
+
+  17547446:
+    template: Vanguard_Ronin
+    level:    [90, 92]
+    region:   dynamis_jeuno_n_7
+
+  17547447:
+    template: Vanguard_Armorer
+    level:    [90, 92]
+    region:   dynamis_jeuno_n_7
+
+  17547448:
+    template: Vanguard_Maestro
+    level:    [90, 92]
+    region:   dynamis_jeuno_n_7
+
+  17547449:
+    template: Vanguard_Tinkerer
+    level:    [90, 92]
+    region:   dynamis_jeuno_c_4
+
+  17547450:
+    template: Vanguard_Pathfinder
+    level:    [90, 92]
+    region:   dynamis_jeuno_c_4
+
+  17547451:
+    template: Vanguards_Slime
+    level:    [90, 92]
+    region:   dynamis_jeuno_c_4
+
+  17547452:
+    template: Vanguard_Dragontamer
+    at:       [0.144, 1.756, 43.922, 81]
+    level:    [90, 92]
+
+  17547453:
+    template: Vanguards_Wyvern
+    at:       [-10.587, 1.500, 61.318, 75]
+    level:    [90, 92]
+
+  17547454:
+    template: Rutrix_Hamgams
+    level:    [75, 77]
+    region:   dynamis_jeuno_c_4
+
+  17547455:
+    template: Vanguards_Slime
+    at:       [-10.102, -5.500, 65.898, 121]
+    level:    [90, 92]
+
+  17547456:
+    template: Goblin_Replica
+    at:       [-1.741, 2.492, 115.207, 159]
+    level:    [80, 80]
+
+  17547457:
+    template: Goblin_Replica
+    at:       [-0.422, 1.418, 42.069, 71]
+    level:    [80, 80]
+
+  17547458:
+    template: Goblin_Replica
+    level:    [80, 80]
+    region:   dynamis_jeuno_n
+
+  17547459:
+    template: Vanguard_Ambusher
+    level:    [90, 92]
+    region:   dynamis_jeuno_n_5
+
+  17547460:
+    template: Vanguard_Hitman
+    level:    [90, 92]
+    region:   dynamis_jeuno_n_5
+
+  17547461:
+    template: Vanguard_Ambusher
+    level:    [90, 92]
+    region:   dynamis_jeuno_ne
+
+  17547462:
+    template: Vanguard_Hitman
+    level:    [90, 92]
+    region:   dynamis_jeuno_ne
+
+  17547463:
+    template: Vanguard_Ambusher
+    at:       [1.501, -5.787, 39.184, 134]
+    level:    [90, 92]
+
+  17547464:
+    template: Vanguard_Hitman
+    level:    [90, 92]
+    region:   dynamis_jeuno_c_5
+
+  17547465:
+    template: Vanguard_Ambusher
+    level:    [90, 92]
+    region:   dynamis_jeuno_n_2
+
+  17547466:
+    template: Vanguard_Hitman
+    level:    [90, 92]
+    region:   dynamis_jeuno_n_2
+
+  17547467:
+    template: Goblin_Statue
+    level:    [75, 75]
+    region:   dynamis_jeuno_n
+
+  17547468:
+    template: Snypestix_Eaglebeak
+    level:    [90, 92]
+    region:   dynamis_jeuno_n
+
+  17547469:
+    template: Vanguard_Smithy
+    at:       [-2.563, 2.706, 112.752, 201]
+    level:    [90, 92]
+
+  17547470:
+    template: Vanguard_Pitfighter
+    at:       [-2.487, 2.418, 106.984, 76]
+    level:    [90, 92]
+
+  17547471:
+    template: Vanguard_Welldigger
+    at:       [-0.508, 2.499, 112.929, 190]
+    level:    [90, 92]
+
+  17547472:
+    template: Anvilix_Sootwrists
+    at:       [-2.267, 2.402, 105.319, 76]
+    level:    [75, 77]
+
+  17547473:
+    template: Bootrix_Jaggedelbow
+    at:       [-2.432, 2.945, 114.931, 215]
+    level:    [75, 77]
+
+  17547474:
+    template: Mobpix_Mucousmouth
+    at:       [1.255, 2.486, 111.045, 63]
+    level:    [75, 77]
+
+  17547475:
+    template: Vanguard_Alchemist
+    at:       [-2.164, 2.500, 106.255, 209]
+    level:    [90, 92]
+
+  17547476:
+    template: Vanguard_Shaman
+    at:       [1.584, 2.499, 111.664, 131]
+    level:    [90, 92]
+
+  17547477:
+    template: Vanguard_Enchanter
+    at:       [0.371, 2.663, 115.674, 189]
+    level:    [90, 92]
+
+  17547478:
+    template: Distilix_Stickytoes
+    at:       [1.122, 2.500, 105.777, 71]
+    level:    [75, 77]
+
+  17547479:
+    template: Eremix_Snottynostril
+    at:       [-2.084, 2.500, 107.186, 57]
+    level:    [90, 92]
+
+  17547480:
+    template: Jabbrox_Grannyguise
+    at:       [1.115, 2.500, 105.376, 69]
+    level:    [75, 77]
+
+  17547481:
+    template: Vanguard_Armorer
+    at:       [-0.428, 2.599, 117.675, 201]
+    level:    [90, 92]
+
+  17547482:
+    template: Vanguard_Tinkerer
+    at:       [2.257, 2.489, 117.621, 11]
+    level:    [90, 92]
+
+  17547483:
+    template: Vanguard_Pathfinder
+    at:       [-1.698, 2.493, 116.454, 57]
+    level:    [90, 92]
+
+  17547484:
+    template: Vanguards_Slime
+    at:       [1.588, 2.410, 116.397, 88]
+    level:    [90, 92]
+
+  17547485:
+    template: Scruffix_Shaggychest
+    at:       [0.671, 2.599, 115.613, 126]
+    level:    [75, 77]
+
+  17547486:
+    template: Tymexox_Ninefingers
+    at:       [-0.592, 2.599, 116.860, 41]
+    level:    [90, 92]
+
+  17547487:
+    template: Blazox_Boneybod
+    at:       [0.588, 2.350, 120.430, 96]
+    level:    [75, 77]
+
+  17547488:
+    template: Vanguards_Slime
+    at:       [2.456, 2.599, 118.885, 139]
+    level:    [90, 92]
+
+  17547489:
+    template: Vanguard_Ambusher
+    at:       [7.509, 2.500, 118.109, 126]
+    level:    [90, 92]
+
+  17547490:
+    template: Prowlox_Barrelbelly
+    at:       [7.549, 2.599, 118.240, 114]
+    level:    [90, 92]
+
+  17547491:
+    template: Vanguard_Hitman
+    level:    [90, 92]
+    region:   dynamis_jeuno_n_4
+
+  17547492:
+    template: Slystix_Megapeepers
+    at:       [0.320, 2.599, 114.251, 169]
+    level:    [75, 77]
+
+  17547493:
+    template: Quicktrix_Hexhands
+    at:       [0.000, -5.500, 68.000, 56]
+    level:    [95, 95]
+
+  17547494:
+    template: Feralox_Honeylips
+    at:       [-23.000, 1.500, 64.000, 183]
+    level:    [95, 95]
+
+  17547495:
+    template: Feraloxs_Slime
+    at:       [-21.772, 1.500, 64.560, 47]
+    level:    [92, 92]
+
+  17547496:
+    template: Scourquix_Scaleskin
+    at:       [23.000, 1.500, 64.000, 55]
+    level:    [95, 95]
+
+  17547497:
+    template: Scourquixs_Wyvern
+    at:       [22.540, 1.500, 62.816, 143]
+    level:    [92, 92]
+
+  17547498:
+    template: Wilywox_Tenderpalm
+    at:       [-0.140, 1.500, 125.726, 205]
+    level:    [95, 95]
+
+  17547499:
+    template: Arch_Goblin_Golem
+    at:       [0.000, -0.500, -101.000, 190]
+    level:    [99, 99]

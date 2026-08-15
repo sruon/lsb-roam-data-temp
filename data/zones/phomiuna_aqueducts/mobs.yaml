@@ -1,0 +1,1123 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  16887809:
+    template: Sponge
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [25, 29]
+
+  16887810:
+    template: Water_Pumpkin
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [25, 29]
+
+  16887811:
+    template: Freshwater_Trepang
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 34]
+
+  16887812:
+    template: Ogreish_Risotto
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [35, 37]
+
+  16887813:
+    template: Bavarois
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [39, 41]
+
+  16887814:
+    template: Big_Jaw
+    level:    [37, 39]
+    region:   phomiuna_aqueducts_se_5
+
+  16887815:
+    template: Gloop
+    level:    [36, 38]
+    region:   phomiuna_aqueducts_se_5
+
+  16887816:
+    template: Big_Jaw
+    level:    [37, 39]
+    region:   phomiuna_aqueducts_se_4
+
+  16887817:
+    template: Big_Jaw
+    level:    [37, 39]
+    region:   phomiuna_aqueducts_se_4
+
+  16887818:
+    template: Gloop
+    level:    [36, 38]
+    region:   phomiuna_aqueducts_se_4
+
+  16887819:
+    template: Gloop
+    level:    [36, 38]
+    region:   phomiuna_aqueducts_se_4
+
+  16887820:
+    template: Addled_Tumor
+    at:       [125.640, 0.468, -219.381, 127]
+    level:    [36, 38]
+
+  16887821:
+    template: Gloop
+    at:       [179.264, 0.397, -198.526, 64]
+    level:    [36, 38]
+
+  16887822:
+    template: Big_Jaw
+    at:       [139.183, 0.533, -175.706, 192]
+    level:    [37, 39]
+
+  16887823:
+    template: Big_Jaw
+    level:    [37, 39]
+    region:   phomiuna_aqueducts_se_3
+
+  16887824:
+    template: Big_Jaw
+    level:    [37, 39]
+    region:   phomiuna_aqueducts_se_3
+
+  16887825:
+    template: Taurus
+    level:    [37, 38]
+    region:   phomiuna_aqueducts_se
+
+  16887826:
+    template: Taurus
+    level:    [37, 38]
+    region:   phomiuna_aqueducts_se
+
+  16887827:
+    template: Taurus
+    level:    [37, 38]
+    region:   phomiuna_aqueducts_se
+
+  16887828:
+    template: Vampire_Bat
+    level:    [37, 38]
+    region:   phomiuna_aqueducts_se
+
+  16887829:
+    template: Vampire_Bat
+    level:    [36, 38]
+    region:   phomiuna_aqueducts_se
+
+  16887830:
+    template: Vampire_Bat
+    level:    [38, 38]
+    region:   phomiuna_aqueducts_se
+
+  16887831:
+    template: Diremite
+    level:    [42, 44]
+    region:   phomiuna_aqueducts_e_4
+
+  16887832:
+    template: Diremite
+    level:    [42, 44]
+    region:   phomiuna_aqueducts_e_4
+
+  16887833:
+    template: Canal_Bats
+    level:    [41, 43]
+    region:   phomiuna_aqueducts_e_2
+
+  16887834:
+    template: Diremite
+    level:    [42, 44]
+    region:   phomiuna_aqueducts_e_2
+
+  16887835:
+    template: Canal_Bats
+    level:    [41, 43]
+    region:   phomiuna_aqueducts_e
+
+  16887836:
+    template: Diremite
+    level:    [42, 44]
+    region:   phomiuna_aqueducts_e
+
+  16887837:
+    template: Gloop
+    at:       [27.270, -6.589, -17.422, 54]
+    level:    [36, 38]
+
+  16887838:
+    template: Canal_Bats
+    level:    [41, 43]
+    region:   phomiuna_aqueducts_c_11
+
+  16887839:
+    template: Canal_Bats
+    at:       [20.659, -6.516, -56.629, 203]
+    level:    [41, 43]
+
+  16887840:
+    template: Diremite
+    level:    [42, 44]
+    region:   phomiuna_aqueducts_c_8
+
+  16887841:
+    template: Diremite
+    level:    [42, 44]
+    region:   phomiuna_aqueducts_c_8
+
+  16887842:
+    template: Hell_Bat
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_c_7
+
+  16887843:
+    template: Diremite
+    level:    [42, 44]
+    region:   phomiuna_aqueducts_c_7
+
+  16887844:
+    template: Stegotaur
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_e_6
+
+  16887845:
+    template: Stegotaur
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_e_6
+
+  16887846:
+    template: Stegotaur
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_e_6
+
+  16887847:
+    template: Canal_Bats
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_e_6
+
+  16887848:
+    template: Canal_Bats
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_e_6
+
+  16887849:
+    template: Diremite
+    level:    [42, 44]
+    region:   phomiuna_aqueducts_e_3
+
+  16887850:
+    template: Fomor_Beastmaster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [41, 44]
+
+  16887851:
+    template: Fomors_Bat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [36, 43]
+
+  16887852:
+    template: Stegotaur
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_n_9
+
+  16887853:
+    template: Makara
+    level:    [44, 45]
+    region:   phomiuna_aqueducts_n_9
+
+  16887854:
+    template: Makara
+    level:    [44, 45]
+    region:   phomiuna_aqueducts_n_9
+
+  16887855:
+    template: Fomor_Dragoon
+    level:    [41, 44]
+    region:   phomiuna_aqueducts_n_6
+
+  16887856:
+    template: Fomors_Wyvern
+    level:    [36, 43]
+    region:   phomiuna_aqueducts_n_6
+
+  16887857:
+    template: Fomor_Ninja
+    level:    [41, 44]
+    region:   phomiuna_aqueducts_n_6
+
+  16887858:
+    template: Stegotaur
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_n_6
+
+  16887859:
+    template: Stegotaur
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_n_6
+
+  16887860:
+    template: Oil_Spill
+    level:    [44, 47]
+    region:   phomiuna_aqueducts_n_8
+
+  16887861:
+    template: Makara
+    level:    [45, 47]
+    region:   phomiuna_aqueducts_ne_3
+
+  16887862:
+    template: Makara
+    level:    [45, 47]
+    region:   phomiuna_aqueducts_ne_3
+
+  16887863:
+    template: Oil_Spill
+    level:    [44, 47]
+    region:   phomiuna_aqueducts_ne_3
+
+  16887864:
+    template: Fomor_Warrior
+    level:    [44, 47]
+    region:   phomiuna_aqueducts_e_8
+
+  16887865:
+    template: Fomor_Thief
+    level:    [44, 47]
+    region:   phomiuna_aqueducts_e_8
+
+  16887866:
+    template: Fomor_Summoner
+    at:       [140.387, 0.403, 67.391, 65]
+    level:    [44, 47]
+
+  16887867:
+    template: Fomors_Elemental
+    at:       [1.000, 1.000, 1.000, 56]
+    level:    [36, 43]
+
+  16887868:
+    template: Foul_Meat
+    at:       [146.351, 0.396, 59.473, 128]
+    level:    [45, 47]
+
+  16887869:
+    template: Stegotaur
+    at:       [177.662, -0.596, 60.390, 95]
+    level:    [45, 47]
+
+  16887870:
+    template: Diremite
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_n_5
+
+  16887871:
+    template: Hell_Bat
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_n_5
+
+  16887872:
+    template: Diremite
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_n_3
+
+  16887873:
+    template: Diremite
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_n_3
+
+  16887874:
+    template: Diremite
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_n_4
+
+  16887875:
+    template: Canal_Bats
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_n_4
+
+  16887876:
+    template: Hell_Bat
+    at:       [-27.973, -6.612, 180.651, 130]
+    level:    [44, 46]
+
+  16887877:
+    template: Diremite
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_n_7
+
+  16887878:
+    template: Diremite
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_n_7
+
+  16887879:
+    template: Diremite
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_ne_2
+
+  16887880:
+    template: Canal_Bats
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_ne_2
+
+  16887881:
+    template: Stegotaur
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_ne_4
+
+  16887882:
+    template: Stegotaur
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_ne_4
+
+  16887883:
+    template: Fomor_Paladin
+    level:    [44, 47]
+    region:   phomiuna_aqueducts_ne_4
+
+  16887884:
+    template: Fomor_Bard
+    level:    [44, 47]
+    region:   phomiuna_aqueducts_ne_4
+
+  16887885:
+    template: Mahisha
+    at:       [103.731, -0.592, 187.587, 53]
+    level:    [50, 50]
+
+  16887886:
+    template: Makara
+    at:       [100.288, 0.601, 260.316, 127]
+    level:    [45, 47]
+
+  16887887:
+    template: Makara
+    level:    [45, 47]
+    region:   phomiuna_aqueducts_ne
+
+  16887888:
+    template: Makara
+    level:    [45, 47]
+    region:   phomiuna_aqueducts_ne
+
+  16887889:
+    template: Minotaur
+    at:       [60.000, 0.500, 304.000, 64]
+    level:    [46, 48]
+
+  16887890:
+    template: Stegotaur
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_nw_7
+
+  16887891:
+    template: Canal_Bats
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_nw_7
+
+  16887892:
+    template: Makara
+    level:    [45, 47]
+    region:   phomiuna_aqueducts_nw_7
+
+  16887893:
+    template: Stegotaur
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_n
+
+  16887894:
+    template: Canal_Bats
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_n
+
+  16887895:
+    template: Hell_Bat
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_n
+
+  16887896:
+    template: Makara
+    level:    [45, 47]
+    region:   phomiuna_aqueducts_n
+
+  16887897:
+    template: Stegotaur
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_nw_8
+
+  16887898:
+    template: Air_Elemental
+    level:    [45, 45]
+    region:   phomiuna_aqueducts_n
+
+  16887899:
+    template: Thunder_Elemental
+    level:    [45, 45]
+    region:   phomiuna_aqueducts_n
+
+  16887900:
+    template: Dark_Elemental
+    level:    [45, 45]
+    region:   phomiuna_aqueducts_n
+
+  16887901:
+    template: Diremite
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_nw_6
+
+  16887902:
+    template: Fomor_Monk
+    at:       [-139.094, -0.588, 168.309, 77]
+    level:    [44, 45]
+
+  16887903:
+    template: Fomor_Samurai
+    at:       [-160.000, -0.250, 200.000, 64]
+    level:    [44, 45]
+
+  16887904:
+    template: Fomor_Ranger
+    at:       [-166.000, -0.183, 196.000, 64]
+    level:    [44, 46]
+
+  16887905:
+    template: Fomor_Dark_Knight
+    at:       [-164.000, -0.250, 200.000, 64]
+    level:    [44, 45]
+
+  16887906:
+    template: Fomor_Ninja
+    at:       [-156.000, -0.250, 200.000, 64]
+    level:    [44, 46]
+
+  16887907:
+    template: Fomor_Black_Mage
+    at:       [-160.778, -0.337, 213.239, 252]
+    level:    [45, 46]
+
+  16887908:
+    template: Tres_Duendes
+    at:       [-153.577, -0.245, 215.862, 121]
+    level:    [47, 49]
+
+  16887909:
+    template: Duendes_Amoroso
+    at:       [1.000, 1.000, 1.000, 28]
+    level:    [45, 45]
+
+  16887910:
+    template: Fomor_Monk
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_nw_4
+
+  16887911:
+    template: Diremite
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_nw_2
+
+  16887912:
+    template: Fomor_Monk
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_nw_2
+
+  16887913:
+    template: Foul_Meat
+    level:    [45, 47]
+    region:   phomiuna_aqueducts_nw
+
+  16887914:
+    template: Foul_Meat
+    level:    [45, 47]
+    region:   phomiuna_aqueducts_nw
+
+  16887915:
+    template: Foul_Meat
+    level:    [45, 47]
+    region:   phomiuna_aqueducts_nw
+
+  16887916:
+    template: Canal_Bats
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_nw
+
+  16887917:
+    template: Diremite
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_nw_3
+
+  16887918:
+    template: Makara
+    level:    [45, 47]
+    region:   phomiuna_aqueducts_c_6
+
+  16887919:
+    template: Stegotaur
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_w_8
+
+  16887920:
+    template: Fomor_Paladin
+    at:       [-142.000, -0.500, 60.000, 0]
+    level:    [44, 46]
+
+  16887921:
+    template: Fomor_Samurai
+    at:       [-142.000, -0.500, 55.000, 0]
+    level:    [44, 46]
+
+  16887922:
+    template: Fomor_Red_Mage
+    at:       [-142.000, -0.468, 65.000, 0]
+    level:    [44, 46]
+
+  16887923:
+    template: Makara
+    level:    [44, 45]
+    region:   phomiuna_aqueducts_c_4
+
+  16887924:
+    template: Oil_Spill
+    level:    [44, 47]
+    region:   phomiuna_aqueducts_c_4
+
+  16887925:
+    template: Oil_Spill
+    at:       [-36.037, 0.399, 59.308, 127]
+    level:    [44, 47]
+
+  16887926:
+    template: Makara
+    level:    [44, 45]
+    region:   phomiuna_aqueducts_c_5
+
+  16887927:
+    template: Makara
+    level:    [44, 45]
+    region:   phomiuna_aqueducts_c_10
+
+  16887928:
+    template: Oil_Spill
+    level:    [44, 47]
+    region:   phomiuna_aqueducts_c_10
+
+  16887929:
+    template: Foul_Meat
+    at:       [-16.993, 0.480, 101.536, 222]
+    level:    [45, 47]
+
+  16887930:
+    template: Makara
+    level:    [44, 45]
+    region:   phomiuna_aqueducts_c_9
+
+  16887931:
+    template: Oil_Spill
+    level:    [44, 47]
+    region:   phomiuna_aqueducts_c_9
+
+  16887932:
+    template: Makara
+    at:       [24.576, 0.524, 19.405, 254]
+    level:    [44, 45]
+
+  16887933:
+    template: Oil_Spill
+    at:       [39.771, 0.407, 19.594, 255]
+    level:    [44, 47]
+
+  16887934:
+    template: Foul_Meat
+    at:       [57.105, 0.431, 24.170, 146]
+    level:    [45, 47]
+
+  16887935:
+    template: Stegotaur
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_c_2
+
+  16887936:
+    template: Diremite
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_c_2
+
+  16887937:
+    template: Stegotaur
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_c
+
+  16887938:
+    template: Diremite
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_c
+
+  16887939:
+    template: Diremite
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_c
+
+  16887940:
+    template: Stegotaur
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_w_9
+
+  16887941:
+    template: Dark_Elemental
+    level:    [45, 45]
+    region:   phomiuna_aqueducts_c_2
+
+  16887942:
+    template: Diremite
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_w_5
+
+  16887943:
+    template: Diremite
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_w_6
+
+  16887944:
+    template: Fomor_Dragoon
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_w_3
+
+  16887945:
+    template: Fomors_Wyvern
+    level:    [36, 43]
+    region:   phomiuna_aqueducts_w_3
+
+  16887946:
+    template: Fomor_Beastmaster
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_w_3
+
+  16887947:
+    template: Fomors_Bat
+    level:    [36, 43]
+    region:   phomiuna_aqueducts_w_3
+
+  16887948:
+    template: Fomor_Thief
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_w_3
+
+  16887949:
+    template: Fomor_Ranger
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_w_3
+
+  16887950:
+    template: Fomor_Ninja
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_w_3
+
+  16887951:
+    template: Hell_Bat
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_w_3
+
+  16887952:
+    template: Hell_Bat
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_w_3
+
+  16887953:
+    template: Eba
+    at:       [-163.538, -0.344, -76.545, 151]
+    level:    [48, 50]
+
+  16887954:
+    template: Diremite
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_w_4
+
+  16887955:
+    template: Makara
+    level:    [45, 47]
+    region:   phomiuna_aqueducts_w_2
+
+  16887956:
+    template: Makara
+    level:    [45, 47]
+    region:   phomiuna_aqueducts_w_2
+
+  16887957:
+    template: Hell_Bat
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_w_2
+
+  16887958:
+    template: Hell_Bat
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_w_2
+
+  16887959:
+    template: Fomor_Summoner
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_w_2
+
+  16887960:
+    template: Fomors_Elemental
+    level:    [36, 43]
+    region:   phomiuna_aqueducts_w_2
+
+  16887961:
+    template: Fomor_Dark_Knight
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_w_2
+
+  16887962:
+    template: Fomor_Ninja
+    level:    [44, 46]
+    region:   phomiuna_aqueducts_w_2
+
+  16887963:
+    template: Air_Elemental
+    at:       [-250.992, -6.498, 19.139, 0]
+    level:    [50, 50]
+
+  16887964:
+    template: Thunder_Elemental
+    level:    [50, 50]
+    region:   phomiuna_aqueducts_w
+
+  16887965:
+    template: Dark_Elemental
+    at:       [-245.170, -6.411, 19.377, 0]
+    level:    [50, 50]
+
+  16887966:
+    template: Fomor_Black_Mage
+    at:       [-211.500, -7.500, 60.000, 128]
+    level:    [44, 47]
+
+  16887967:
+    template: Fomor_Warrior
+    at:       [-216.000, -6.500, 62.000, 128]
+    level:    [44, 47]
+
+  16887968:
+    template: Fomor_Dark_Knight
+    at:       [-216.000, -6.500, 58.000, 128]
+    level:    [44, 47]
+
+  16887969:
+    template: Diremite
+    at:       [177.842, -24.600, 56.376, 103]
+    level:    [47, 48]
+
+  16887970:
+    template: Stegotaur
+    level:    [46, 48]
+    region:   phomiuna_aqueducts_ne_5
+
+  16887971:
+    template: Stegotaur
+    level:    [46, 48]
+    region:   phomiuna_aqueducts_ne_5
+
+  16887972:
+    template: Fomor_Ranger
+    level:    [47, 48]
+    region:   phomiuna_aqueducts_ne_3
+
+  16887973:
+    template: Fomor_Bard
+    level:    [47, 48]
+    region:   phomiuna_aqueducts_ne_3
+
+  16887974:
+    template: Fomor_Bard
+    level:    [47, 48]
+    region:   phomiuna_aqueducts_ne_3
+
+  16887975:
+    template: Fomor_Ranger
+    level:    [47, 48]
+    region:   phomiuna_aqueducts_ne_3
+
+  16887976:
+    template: Fomor_Ranger
+    level:    [47, 48]
+    region:   phomiuna_aqueducts_e_5
+
+  16887977:
+    template: Fomor_Paladin
+    level:    [47, 48]
+    region:   phomiuna_aqueducts_e_5
+
+  16887978:
+    template: Fomor_Paladin
+    at:       [107.889, -24.600, 9.444, 124]
+    level:    [47, 48]
+
+  16887979:
+    template: Fomor_Ranger
+    at:       [109.713, -24.600, 9.692, 122]
+    level:    [47, 48]
+
+  16887980:
+    template: Stegotaur
+    level:    [46, 48]
+    region:   phomiuna_aqueducts_e_7
+
+  16887981:
+    template: Stegotaur
+    level:    [46, 48]
+    region:   phomiuna_aqueducts_e_7
+
+  16887982:
+    template: Fomor_Red_Mage
+    level:    [47, 48]
+    region:   phomiuna_aqueducts_e_5
+
+  16887983:
+    template: Fomor_Black_Mage
+    level:    [47, 48]
+    region:   phomiuna_aqueducts_e_5
+
+  16887984:
+    template: Fomor_Black_Mage
+    level:    [47, 48]
+    region:   phomiuna_aqueducts_e_5
+
+  16887985:
+    template: Fomor_Red_Mage
+    level:    [47, 48]
+    region:   phomiuna_aqueducts_e_5
+
+  16887986:
+    template: Fomor_Red_Mage
+    at:       [90.237, -24.600, 100.512, 34]
+    level:    [47, 48]
+
+  16887987:
+    template: Fomor_Monk
+    at:       [90.165, -24.599, 101.626, 142]
+    level:    [47, 48]
+
+  16887988:
+    template: Fomor_Monk
+    level:    [47, 48]
+    region:   phomiuna_aqueducts_ne_3
+
+  16887989:
+    template: Fomor_Red_Mage
+    level:    [47, 48]
+    region:   phomiuna_aqueducts_ne_3
+
+  16887990:
+    template: Stegotaur
+    level:    [46, 48]
+    region:   phomiuna_aqueducts_nw_5
+
+  16887991:
+    template: Stegotaur
+    level:    [46, 48]
+    region:   phomiuna_aqueducts_nw_5
+
+  16887992:
+    template: Diremite
+    at:       [-144.395, -24.600, 55.840, 75]
+    level:    [47, 48]
+
+  16887993:
+    template: Fomor_Warrior
+    level:    [47, 48]
+    region:   phomiuna_aqueducts_n_2
+
+  16887994:
+    template: Fomor_Samurai
+    level:    [47, 48]
+    region:   phomiuna_aqueducts_n_2
+
+  16887995:
+    template: Fomor_Samurai
+    level:    [47, 48]
+    region:   phomiuna_aqueducts_n_2
+
+  16887996:
+    template: Fomor_Warrior
+    level:    [47, 48]
+    region:   phomiuna_aqueducts_n_2
+
+  16887997:
+    template: Fomor_Warrior
+    level:    [47, 48]
+    region:   phomiuna_aqueducts_c_3
+
+  16887998:
+    template: Fomor_Ranger
+    level:    [47, 48]
+    region:   phomiuna_aqueducts_c_3
+
+  16887999:
+    template: Fomor_Ranger
+    at:       [-47.641, -24.600, 17.389, 255]
+    level:    [47, 48]
+
+  16888000:
+    template: Fomor_Warrior
+    at:       [-49.475, -24.600, 17.489, 255]
+    level:    [47, 48]
+
+  16888001:
+    template: Stegotaur
+    level:    [46, 48]
+    region:   phomiuna_aqueducts_w_7
+
+  16888002:
+    template: Stegotaur
+    level:    [46, 48]
+    region:   phomiuna_aqueducts_w_7
+
+  16888003:
+    template: Fomor_Bard
+    level:    [47, 48]
+    region:   phomiuna_aqueducts_c_3
+
+  16888004:
+    template: Fomor_Thief
+    level:    [47, 48]
+    region:   phomiuna_aqueducts_c_3
+
+  16888005:
+    template: Fomor_Thief
+    level:    [47, 48]
+    region:   phomiuna_aqueducts_c_3
+
+  16888006:
+    template: Fomor_Bard
+    level:    [47, 48]
+    region:   phomiuna_aqueducts_c_3
+
+  16888007:
+    template: Fomor_Bard
+    at:       [-66.040, -24.500, 102.720, 34]
+    level:    [47, 48]
+
+  16888008:
+    template: Fomor_Thief
+    at:       [-65.063, -24.594, 100.985, 66]
+    level:    [47, 48]
+
+  16888009:
+    template: Fomor_Thief
+    level:    [47, 48]
+    region:   phomiuna_aqueducts_n_2
+
+  16888010:
+    template: Fomor_Bard
+    level:    [47, 48]
+    region:   phomiuna_aqueducts_n_2
+
+  16888011:
+    template: Aqueduct_Spider
+    level:    [84, 85]
+    region:   phomiuna_aqueducts_se_2
+
+  16888012:
+    template: Aqueduct_Spider
+    level:    [84, 85]
+    region:   phomiuna_aqueducts_se_2
+
+  16888013:
+    template: Aqueduct_Spider
+    level:    [84, 85]
+    region:   phomiuna_aqueducts_se_2
+
+  16888014:
+    template: Aqueduct_Spider
+    at:       [179.160, 0.411, -168.540, 63]
+    level:    [84, 85]
+
+  16888015:
+    template: Aqueduct_Spider
+    at:       [179.109, 0.431, -170.382, 64]
+    level:    [84, 85]
+
+  16888016:
+    template: Aqueduct_Spider
+    at:       [-20.997, -6.613, -71.376, 191]
+    level:    [84, 85]
+
+  16888017:
+    template: Aqueduct_Spider
+    at:       [-20.976, -6.630, -76.481, 192]
+    level:    [84, 85]
+
+  16888018:
+    template: Aqueduct_Spider
+    at:       [99.172, 0.467, 155.412, 63]
+    level:    [84, 85]
+
+  16888019:
+    template: Aqueduct_Spider
+    at:       [99.245, 0.418, 158.270, 191]
+    level:    [84, 85]
+
+  16888020:
+    template: Aqueduct_Spider
+    at:       [139.369, 0.410, 48.244, 192]
+    level:    [84, 85]
+
+  16888021:
+    template: Aqueduct_Spider
+    at:       [139.505, 0.407, 48.243, 192]
+    level:    [84, 85]
+
+  16888022:
+    template: Aqueduct_Spider
+    level:    [84, 85]
+    region:   phomiuna_aqueducts_ne_6
+
+  16888023:
+    template: Aqueduct_Spider
+    level:    [84, 85]
+    region:   phomiuna_aqueducts_ne_6
+
+  16888024:
+    template: Aqueduct_Spider
+    level:    [84, 85]
+    region:   phomiuna_aqueducts_ne_6
+
+  16888025:
+    template: Aqueduct_Spider
+    level:    [84, 85]
+    region:   phomiuna_aqueducts_ne_6
+
+  16888026:
+    template: Aqueduct_Spider
+    level:    [84, 85]
+    region:   phomiuna_aqueducts_ne_7
+
+  16888027:
+    template: Aqueduct_Spider
+    level:    [84, 85]
+    region:   phomiuna_aqueducts_ne_7
+
+  16888028:
+    template: Aqueduct_Spider
+    level:    [84, 85]
+    region:   phomiuna_aqueducts_ne_7
+
+  16888029:
+    template: Aqueduct_Spider
+    at:       [180.758, 0.511, 145.677, 63]
+    level:    [84, 85]
+
+  16888030:
+    template: Aqueduct_Spider
+    at:       [180.825, 0.585, 153.502, 192]
+    level:    [84, 85]
+
+  16888031:
+    template: Aqueduct_Spider
+    at:       [187.573, 0.419, 174.619, 2]
+    level:    [84, 85]
+
+  16888032:
+    template: Aqueduct_Spider
+    at:       [176.950, 0.473, 180.522, 121]
+    level:    [84, 85]

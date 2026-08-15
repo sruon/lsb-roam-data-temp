@@ -1,0 +1,1483 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  16879617:
+    template: Clipper
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 34]
+
+  16879618:
+    template: Grindylow
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 34]
+
+  16879619:
+    template: Greater_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [35, 39]
+
+  16879620:
+    template: Greater_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [35, 39]
+
+  16879621:
+    template: Mantrap
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [45, 49]
+
+  16879622:
+    template: Miner_Bee
+    level:    [31, 34]
+    region:   misareaux_coast_se_5
+
+  16879623:
+    template: Miner_Bee
+    level:    [31, 34]
+    region:   misareaux_coast_se_5
+
+  16879624:
+    template: Tavnazian_Sheep
+    level:    [33, 37]
+    region:   misareaux_coast_se_5
+
+  16879625:
+    template: Tavnazian_Sheep
+    level:    [33, 37]
+    region:   misareaux_coast_se_5
+
+  16879626:
+    template: Miner_Bee
+    level:    [31, 34]
+    region:   misareaux_coast_se_6
+
+  16879627:
+    template: Miner_Bee
+    level:    [31, 34]
+    region:   misareaux_coast_se_6
+
+  16879628:
+    template: Bugard
+    level:    [34, 37]
+    region:   misareaux_coast_se_6
+
+  16879629:
+    template: Tavnazian_Sheep
+    level:    [33, 37]
+    region:   misareaux_coast_se_6
+
+  16879630:
+    template: Tavnazian_Sheep
+    level:    [33, 37]
+    region:   misareaux_coast_se_6
+
+  16879631:
+    template: Miner_Bee
+    level:    [31, 34]
+    region:   misareaux_coast_se_2
+
+  16879632:
+    template: Miner_Bee
+    level:    [31, 34]
+    region:   misareaux_coast_se_2
+
+  16879633:
+    template: Bugard
+    level:    [34, 37]
+    region:   misareaux_coast_se_2
+
+  16879634:
+    template: Tavnazian_Sheep
+    level:    [33, 37]
+    region:   misareaux_coast_se_2
+
+  16879635:
+    template: Tavnazian_Sheep
+    level:    [33, 37]
+    region:   misareaux_coast_se_2
+
+  16879636:
+    template: Miner_Bee
+    level:    [31, 34]
+    region:   misareaux_coast_s_5
+
+  16879637:
+    template: Miner_Bee
+    level:    [31, 34]
+    region:   misareaux_coast_s_5
+
+  16879638:
+    template: Bugard
+    at:       [362.566, 15.636, -436.598, 128]
+    level:    [34, 37]
+
+  16879639:
+    template: Tavnazian_Sheep
+    level:    [33, 37]
+    region:   misareaux_coast_s_5
+
+  16879640:
+    template: Miner_Bee
+    level:    [31, 34]
+    region:   misareaux_coast_se_4
+
+  16879641:
+    template: Bugard
+    level:    [34, 37]
+    region:   misareaux_coast_se_4
+
+  16879642:
+    template: Tavnazian_Sheep
+    level:    [33, 37]
+    region:   misareaux_coast_se_4
+
+  16879643:
+    template: Miner_Bee
+    level:    [31, 34]
+    region:   misareaux_coast_se
+
+  16879644:
+    template: Bugard
+    at:       [461.923, 24.238, -361.892, 118]
+    level:    [34, 37]
+
+  16879645:
+    template: Tavnazian_Sheep
+    level:    [33, 37]
+    region:   misareaux_coast_se
+
+  16879646:
+    template: Miner_Bee
+    level:    [31, 34]
+    region:   misareaux_coast_s_6
+
+  16879647:
+    template: Bugard
+    level:    [34, 37]
+    region:   misareaux_coast_s_6
+
+  16879648:
+    template: Tavnazian_Sheep
+    level:    [33, 37]
+    region:   misareaux_coast_s_6
+
+  16879649:
+    template: Miner_Bee
+    at:       [342.353, 24.208, -400.192, 152]
+    level:    [31, 34]
+
+  16879650:
+    template: Miner_Bee
+    level:    [31, 34]
+    region:   misareaux_coast_s_4
+
+  16879651:
+    template: Miner_Bee
+    level:    [31, 34]
+    region:   misareaux_coast_s_4
+
+  16879652:
+    template: Miner_Bee
+    level:    [31, 34]
+    region:   misareaux_coast_s_4
+
+  16879653:
+    template: Bugard
+    level:    [34, 37]
+    region:   misareaux_coast_s_4
+
+  16879654:
+    template: Bugard
+    level:    [34, 37]
+    region:   misareaux_coast_s_4
+
+  16879655:
+    template: Tavnazian_Sheep
+    level:    [33, 37]
+    region:   misareaux_coast_s_4
+
+  16879656:
+    template: Tavnazian_Sheep
+    level:    [33, 37]
+    region:   misareaux_coast_s_4
+
+  16879657:
+    template: Thunder_Elemental
+    level:    [42, 44]
+    region:   misareaux_coast_s_4
+
+  16879658:
+    template: Miner_Bee
+    level:    [31, 34]
+    region:   misareaux_coast_se_7
+
+  16879659:
+    template: Miner_Bee
+    level:    [31, 34]
+    region:   misareaux_coast_se_7
+
+  16879660:
+    template: Bugard
+    level:    [34, 37]
+    region:   misareaux_coast_se_9
+
+  16879661:
+    template: Bugard
+    level:    [34, 37]
+    region:   misareaux_coast_se_9
+
+  16879662:
+    template: Bugard
+    level:    [34, 37]
+    region:   misareaux_coast_se_9
+
+  16879663:
+    template: Tavnazian_Sheep
+    level:    [33, 37]
+    region:   misareaux_coast_se_9
+
+  16879664:
+    template: Tavnazian_Sheep
+    at:       [707.837, 0.082, -449.470, 207]
+    level:    [33, 37]
+
+  16879665:
+    template: Goaftrap
+    level:    [50, 51]
+    region:   misareaux_coast_se_9
+
+  16879666:
+    template: Fomor_Monk
+    at:       [747.299, -7.765, -490.100, 96]
+    level:    [36, 38]
+
+  16879667:
+    template: Fomor_Samurai
+    at:       [747.950, -7.765, -487.049, 160]
+    level:    [35, 37]
+
+  16879668:
+    template: Fomor_Warrior
+    at:       [750.400, -7.765, -490.250, 32]
+    level:    [35, 37]
+
+  16879669:
+    template: Fomor_Thief
+    at:       [750.799, -7.765, -487.299, 224]
+    level:    [35, 37]
+
+  16879670:
+    template: Air_Elemental
+    level:    [49, 51]
+    region:   misareaux_coast_se_8
+
+  16879671:
+    template: Crimson_Knight_Crab
+    level:    [33, 36]
+    region:   misareaux_coast_se_8
+
+  16879672:
+    template: Crimson_Knight_Crab
+    level:    [33, 36]
+    region:   misareaux_coast_se_8
+
+  16879673:
+    template: Crimson_Knight_Crab
+    level:    [33, 36]
+    region:   misareaux_coast_se_8
+
+  16879674:
+    template: Crimson_Knight_Crab
+    level:    [33, 36]
+    region:   misareaux_coast_se_8
+
+  16879675:
+    template: Dark_Elemental
+    level:    [42, 44]
+    region:   misareaux_coast_se_3
+
+  16879676:
+    template: Fomor_Monk
+    at:       [451.611, 24.164, -346.406, 60]
+    level:    [36, 38]
+
+  16879677:
+    template: Fomor_Black_Mage
+    at:       [451.672, 24.248, -345.027, 61]
+    level:    [35, 37]
+
+  16879678:
+    template: Fomor_Ranger
+    level:    [36, 38]
+    region:   misareaux_coast_se_3
+
+  16879679:
+    template: Fomor_Samurai
+    level:    [35, 37]
+    region:   misareaux_coast_se_3
+
+  16879680:
+    template: Fomor_Dark_Knight
+    level:    [36, 38]
+    region:   misareaux_coast_se_3
+
+  16879681:
+    template: Fomor_Ninja
+    level:    [35, 37]
+    region:   misareaux_coast_se_3
+
+  16879682:
+    template: Fomor_Paladin
+    level:    [36, 38]
+    region:   misareaux_coast_se_3
+
+  16879683:
+    template: Fomor_Bard
+    level:    [35, 37]
+    region:   misareaux_coast_se_3
+
+  16879684:
+    template: Miner_Bee
+    at:       [319.170, 23.331, -314.743, 157]
+    level:    [31, 34]
+
+  16879685:
+    template: Miner_Bee
+    level:    [31, 34]
+    region:   misareaux_coast_s_3
+
+  16879686:
+    template: Vampire_Bat
+    level:    [42, 44]
+    region:   misareaux_coast_s_2
+
+  16879687:
+    template: Vampire_Bat
+    level:    [42, 44]
+    region:   misareaux_coast_s_2
+
+  16879688:
+    template: Wingrats
+    level:    [41, 44]
+    region:   misareaux_coast_s_2
+
+  16879689:
+    template: Wingrats
+    at:       [158.349, -0.972, -258.186, 11]
+    level:    [41, 44]
+
+  16879690:
+    template: Gigantobugard
+    level:    [40, 43]
+    region:   misareaux_coast_s
+
+  16879691:
+    template: Seaboard_Vulture
+    level:    [83, 84]
+    region:   misareaux_coast_e
+
+  16879692:
+    template: Seaboard_Vulture
+    level:    [83, 84]
+    region:   misareaux_coast_e
+
+  16879693:
+    template: Seaboard_Vulture
+    level:    [83, 84]
+    region:   misareaux_coast_e
+
+  16879694:
+    template: Seaboard_Vulture
+    level:    [83, 84]
+    region:   misareaux_coast_e
+
+  16879695:
+    template: Seaboard_Vulture
+    level:    [83, 84]
+    region:   misareaux_coast_e
+
+  16879696:
+    template: Seaboard_Vulture
+    level:    [83, 84]
+    region:   misareaux_coast_e_3
+
+  16879697:
+    template: Seaboard_Vulture
+    level:    [83, 84]
+    region:   misareaux_coast_e_3
+
+  16879698:
+    template: Seaboard_Vulture
+    level:    [83, 84]
+    region:   misareaux_coast_e_3
+
+  16879699:
+    template: Seaboard_Vulture
+    level:    [83, 84]
+    region:   misareaux_coast_e_3
+
+  16879700:
+    template: Seaboard_Vulture
+    level:    [83, 84]
+    region:   misareaux_coast_e_3
+
+  16879701:
+    template: Gigantobugard
+    level:    [40, 43]
+    region:   misareaux_coast_e_2
+
+  16879702:
+    template: Gigantobugard
+    level:    [40, 43]
+    region:   misareaux_coast_e_2
+
+  16879703:
+    template: Gigas_Braver
+    at:       [476.913, -16.040, 145.409, 53]
+    level:    [41, 44]
+
+  16879704:
+    template: Gigas_Martialist
+    level:    [41, 44]
+    region:   misareaux_coast_e_2
+
+  16879705:
+    template: Orcish_Stonelauncher
+    level:    [43, 46]
+    region:   misareaux_coast_e_2
+
+  16879706:
+    template: Orcish_Trooper
+    at:       [487.379, -16.131, 187.608, 112]
+    level:    [41, 44]
+
+  16879707:
+    template: Orcish_Bowshooter
+    level:    [41, 44]
+    region:   misareaux_coast_e_2
+
+  16879708:
+    template: Gigantobugard
+    level:    [40, 43]
+    region:   misareaux_coast_e_5
+
+  16879709:
+    template: Seaboard_Vulture
+    level:    [83, 84]
+    region:   misareaux_coast_e_4
+
+  16879710:
+    template: Seaboard_Vulture
+    level:    [83, 84]
+    region:   misareaux_coast_e_4
+
+  16879711:
+    template: Seaboard_Vulture
+    level:    [83, 84]
+    region:   misareaux_coast_e_4
+
+  16879712:
+    template: Seaboard_Vulture
+    level:    [83, 84]
+    region:   misareaux_coast_e_4
+
+  16879713:
+    template: Seaboard_Vulture
+    level:    [83, 84]
+    region:   misareaux_coast_e_4
+
+  16879714:
+    template: Seaboard_Vulture
+    level:    [83, 84]
+    region:   misareaux_coast_e_4
+
+  16879715:
+    template: Seaboard_Vulture
+    level:    [83, 84]
+    region:   misareaux_coast_ne
+
+  16879716:
+    template: Seaboard_Vulture
+    level:    [83, 84]
+    region:   misareaux_coast_ne
+
+  16879717:
+    template: Seaboard_Vulture
+    level:    [83, 84]
+    region:   misareaux_coast_ne
+
+  16879718:
+    template: Seaboard_Vulture
+    level:    [83, 84]
+    region:   misareaux_coast_ne
+
+  16879719:
+    template: Seaboard_Vulture
+    level:    [83, 84]
+    region:   misareaux_coast_ne
+
+  16879720:
+    template: Death_Jacket
+    level:    [37, 40]
+    region:   misareaux_coast_c_6
+
+  16879721:
+    template: Death_Jacket
+    level:    [37, 40]
+    region:   misareaux_coast_c_6
+
+  16879722:
+    template: Atomic_Cluster
+    at:       [240.160, -16.465, 241.124, 121]
+    level:    [44, 46]
+
+  16879723:
+    template: Gigantobugard
+    level:    [40, 43]
+    region:   misareaux_coast_c_5
+
+  16879724:
+    template: Gigantobugard
+    level:    [40, 43]
+    region:   misareaux_coast_c_5
+
+  16879725:
+    template: Gigantobugard
+    level:    [40, 43]
+    region:   misareaux_coast_c_5
+
+  16879726:
+    template: Gigas_Braver
+    level:    [41, 44]
+    region:   misareaux_coast_c_5
+
+  16879727:
+    template: Gigas_Warwolf
+    level:    [41, 44]
+    region:   misareaux_coast_c_5
+
+  16879728:
+    template: Gigas_Catapulter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [41, 44]
+
+  16879729:
+    template: Orcish_Stonelauncher
+    level:    [43, 46]
+    region:   misareaux_coast_c_5
+
+  16879730:
+    template: Orcish_Footsoldier
+    at:       [246.344, -16.183, 148.873, 146]
+    level:    [41, 44]
+
+  16879731:
+    template: Orcish_Trooper
+    level:    [41, 44]
+    region:   misareaux_coast_c_5
+
+  16879732:
+    template: Orcish_Bowshooter
+    level:    [41, 44]
+    region:   misareaux_coast_c_5
+
+  16879733:
+    template: Gigass_Sheep
+    level:    [34, 36]
+    region:   misareaux_coast_c_5
+
+  16879734:
+    template: Gigas_Martialist
+    at:       [259.928, -15.839, 182.999, 34]
+    level:    [41, 44]
+
+  16879735:
+    template: Orcish_Gladiator
+    at:       [267.715, -15.925, 184.125, 198]
+    level:    [41, 44]
+
+  16879736:
+    template: Gigantobugard
+    level:    [40, 43]
+    region:   misareaux_coast_c_4
+
+  16879737:
+    template: Odqan
+    at:       [204.733, -24.365, 316.403, 127]
+    level:    [49, 51]
+
+  16879738:
+    template: Gigantobugard
+    level:    [40, 43]
+    region:   misareaux_coast_n_4
+
+  16879739:
+    template: Gigas_Braver
+    level:    [41, 44]
+    region:   misareaux_coast_n_4
+
+  16879740:
+    template: Gigas_Warwolf
+    level:    [41, 44]
+    region:   misareaux_coast_n_4
+
+  16879741:
+    template: Gigas_Catapulter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [41, 44]
+
+  16879742:
+    template: Orcish_Footsoldier
+    at:       [202.229, -23.891, 304.266, 105]
+    level:    [41, 44]
+
+  16879743:
+    template: Orcish_Trooper
+    level:    [41, 44]
+    region:   misareaux_coast_n_4
+
+  16879744:
+    template: Orcish_Bowshooter
+    at:       [265.679, -23.962, 317.781, 3]
+    level:    [41, 44]
+
+  16879745:
+    template: Gigass_Sheep
+    level:    [34, 36]
+    region:   misareaux_coast_n_4
+
+  16879746:
+    template: Gigantobugard
+    level:    [40, 43]
+    region:   misareaux_coast_n_5
+
+  16879747:
+    template: Death_Jacket
+    level:    [37, 40]
+    region:   misareaux_coast_c_3
+
+  16879748:
+    template: Death_Jacket
+    level:    [37, 40]
+    region:   misareaux_coast_c_3
+
+  16879749:
+    template: Death_Jacket
+    level:    [37, 40]
+    region:   misareaux_coast_n_2
+
+  16879750:
+    template: Death_Jacket
+    level:    [37, 40]
+    region:   misareaux_coast_n_2
+
+  16879751:
+    template: Gigantobugard
+    level:    [40, 43]
+    region:   misareaux_coast_c_2
+
+  16879752:
+    template: Gigantobugard
+    level:    [40, 43]
+    region:   misareaux_coast_c_2
+
+  16879753:
+    template: Gigas_Braver
+    at:       [52.058, -7.685, -104.514, 175]
+    level:    [41, 44]
+
+  16879754:
+    template: Gigas_Catapulter
+    at:       [76.075, -8.400, -83.112, 205]
+    level:    [41, 44]
+
+  16879755:
+    template: Orcish_Footsoldier
+    at:       [55.847, -7.772, -112.059, 165]
+    level:    [41, 44]
+
+  16879756:
+    template: Orcish_Gladiator
+    level:    [41, 44]
+    region:   misareaux_coast_c_2
+
+  16879757:
+    template: Orcish_Bowshooter
+    level:    [41, 44]
+    region:   misareaux_coast_c_2
+
+  16879758:
+    template: Odqan
+    at:       [83.241, -8.259, -41.968, 36]
+    level:    [49, 51]
+
+  16879759:
+    template: Gigantobugard
+    level:    [40, 43]
+    region:   misareaux_coast_c
+
+  16879760:
+    template: Gigantobugard
+    at:       [84.783, -8.099, -47.025, 187]
+    level:    [40, 43]
+
+  16879761:
+    template: Gigas_Martialist
+    level:    [41, 44]
+    region:   misareaux_coast_c
+
+  16879762:
+    template: Gigas_Warwolf
+    at:       [90.785, -7.844, -63.689, 123]
+    level:    [41, 44]
+
+  16879763:
+    template: Orcish_Trooper
+    level:    [41, 44]
+    region:   misareaux_coast_c
+
+  16879764:
+    template: Gigass_Sheep
+    at:       [84.498, -7.833, -61.679, 214]
+    level:    [34, 36]
+
+  16879765:
+    template: Gigantobugard
+    level:    [40, 43]
+    region:   misareaux_coast_w_4
+
+  16879766:
+    template: Gigantobugard
+    level:    [40, 43]
+    region:   misareaux_coast_w_4
+
+  16879767:
+    template: Gigantobugard
+    level:    [40, 43]
+    region:   misareaux_coast_w_4
+
+  16879768:
+    template: Gigas_Braver
+    at:       [12.042, -16.191, -1.918, 217]
+    level:    [41, 44]
+
+  16879769:
+    template: Gigas_Martialist
+    level:    [41, 44]
+    region:   misareaux_coast_w_4
+
+  16879770:
+    template: Gigas_Warwolf
+    level:    [41, 44]
+    region:   misareaux_coast_w_4
+
+  16879771:
+    template: Gigas_Catapulter
+    level:    [41, 44]
+    region:   misareaux_coast_w_4
+
+  16879772:
+    template: Orcish_Footsoldier
+    at:       [-57.380, -15.825, -2.045, 0]
+    level:    [41, 44]
+
+  16879773:
+    template: Orcish_Gladiator
+    level:    [41, 44]
+    region:   misareaux_coast_w_4
+
+  16879774:
+    template: Orcish_Trooper
+    at:       [-57.008, -15.669, 39.833, 135]
+    level:    [41, 44]
+
+  16879775:
+    template: Orcish_Bowshooter
+    at:       [-28.549, -16.156, 31.389, 136]
+    level:    [41, 44]
+
+  16879776:
+    template: Gigass_Sheep
+    level:    [34, 36]
+    region:   misareaux_coast_w_4
+
+  16879777:
+    template: Atomic_Cluster
+    at:       [117.493, -16.061, 94.516, 253]
+    level:    [44, 46]
+
+  16879778:
+    template: Gigantobugard
+    level:    [40, 43]
+    region:   misareaux_coast_w_4
+
+  16879779:
+    template: Gigantobugard
+    level:    [40, 43]
+    region:   misareaux_coast_w_4
+
+  16879780:
+    template: Gigantobugard
+    at:       [47.292, -16.023, 59.083, 189]
+    level:    [40, 43]
+
+  16879781:
+    template: Gigas_Braver
+    level:    [41, 44]
+    region:   misareaux_coast_w_4
+
+  16879782:
+    template: Gigas_Martialist
+    level:    [41, 44]
+    region:   misareaux_coast_w_4
+
+  16879783:
+    template: Gigas_Warwolf
+    at:       [109.398, -16.019, 79.312, 13]
+    level:    [41, 44]
+
+  16879784:
+    template: Gigas_Catapulter
+    level:    [41, 44]
+    region:   misareaux_coast_w_4
+
+  16879785:
+    template: Orcish_Footsoldier
+    at:       [102.105, -15.770, 100.596, 45]
+    level:    [41, 44]
+
+  16879786:
+    template: Orcish_Gladiator
+    at:       [87.010, -16.175, 87.092, 54]
+    level:    [41, 44]
+
+  16879787:
+    template: Orcish_Trooper
+    level:    [41, 44]
+    region:   misareaux_coast_w_4
+
+  16879788:
+    template: Orcish_Bowshooter
+    at:       [53.628, -15.874, 31.147, 96]
+    level:    [41, 44]
+
+  16879789:
+    template: Gigass_Sheep
+    at:       [113.085, -16.176, 75.873, 69]
+    level:    [34, 36]
+
+  16879790:
+    template: Orcish_Stonelauncher
+    level:    [43, 46]
+    region:   misareaux_coast_w_4
+
+  16879791:
+    template: Death_Jacket
+    level:    [37, 40]
+    region:   misareaux_coast_w_3
+
+  16879792:
+    template: Mantrap
+    level:    [45, 49]
+    region:   misareaux_coast_w_2
+
+  16879793:
+    template: Mantrap
+    level:    [45, 49]
+    region:   misareaux_coast_w_2
+
+  16879794:
+    template: Mantrap
+    level:    [45, 49]
+    region:   misareaux_coast_w_2
+
+  16879795:
+    template: Mantrap
+    level:    [45, 49]
+    region:   misareaux_coast_w_2
+
+  16879796:
+    template: Mantrap
+    level:    [45, 49]
+    region:   misareaux_coast_w_2
+
+  16879797:
+    template: Overgrown_Rose
+    level:    [47, 50]
+    region:   misareaux_coast_w_2
+
+  16879798:
+    template: Overgrown_Rose
+    level:    [47, 50]
+    region:   misareaux_coast_w_2
+
+  16879799:
+    template: Thunder_Elemental
+    level:    [54, 56]
+    region:   misareaux_coast_w_2
+
+  16879800:
+    template: Mantrap
+    level:    [45, 49]
+    region:   misareaux_coast_w_2
+
+  16879801:
+    template: Mantrap
+    level:    [45, 49]
+    region:   misareaux_coast_w_2
+
+  16879802:
+    template: Mantrap
+    level:    [45, 49]
+    region:   misareaux_coast_w_2
+
+  16879803:
+    template: Mantrap
+    level:    [45, 49]
+    region:   misareaux_coast_w_2
+
+  16879804:
+    template: Mantrap
+    level:    [45, 49]
+    region:   misareaux_coast_w_2
+
+  16879805:
+    template: Mantrap
+    level:    [45, 49]
+    region:   misareaux_coast_w_2
+
+  16879806:
+    template: Overgrown_Rose
+    level:    [47, 50]
+    region:   misareaux_coast_w_2
+
+  16879807:
+    template: Overgrown_Rose
+    at:       [-238.011, -32.417, 125.226, 78]
+    level:    [47, 50]
+
+  16879808:
+    template: Thunder_Elemental
+    level:    [54, 55]
+    region:   misareaux_coast_w_2
+
+  16879809:
+    template: Dark_Elemental
+    level:    [54, 56]
+    region:   misareaux_coast_w
+
+  16879810:
+    template: Upyri
+    level:    [45, 45]
+    region:   misareaux_coast_w_2
+
+  16879811:
+    template: Fomor_Red_Mage
+    level:    [49, 51]
+    region:   misareaux_coast_w_2
+
+  16879812:
+    template: Fomor_Ranger
+    level:    [48, 50]
+    region:   misareaux_coast_w_2
+
+  16879813:
+    template: Fomor_Paladin
+    at:       [-302.500, -32.145, 175.850, 0]
+    level:    [49, 51]
+
+  16879814:
+    template: Fomor_Dark_Knight
+    at:       [-300.799, -32.248, 173.000, 208]
+    level:    [48, 50]
+
+  16879815:
+    template: Fomor_Thief
+    at:       [-300.399, -32.125, 178.199, 56]
+    level:    [48, 50]
+
+  16879816:
+    template: Fomor_Ranger
+    at:       [-297.600, -32.222, 173.800, 160]
+    level:    [49, 51]
+
+  16879817:
+    template: Fomor_Paladin
+    at:       [-302.500, -32.145, 175.850, 0]
+    level:    [49, 51]
+
+  16879818:
+    template: Fomor_Summoner
+    at:       [-300.399, -32.125, 178.199, 56]
+    level:    [48, 50]
+
+  16879819:
+    template: Fomor_Monk
+    at:       [-300.799, -32.248, 173.000, 208]
+    level:    [49, 51]
+
+  16879820:
+    template: Fomors_Elemental
+    at:       [-300.398, -32.125, 178.199, 56]
+    level:    [42, 43]
+
+  16879821:
+    template: Fomor_Paladin
+    at:       [-302.500, -32.145, 175.850, 0]
+    level:    [49, 51]
+
+  16879822:
+    template: Fomor_Ninja
+    at:       [-300.799, -32.248, 173.000, 208]
+    level:    [48, 50]
+
+  16879823:
+    template: Seaboard_Vulture
+    level:    [83, 84]
+    region:   misareaux_coast_nw_7
+
+  16879824:
+    template: Seaboard_Vulture
+    level:    [83, 84]
+    region:   misareaux_coast_nw_7
+
+  16879825:
+    template: Seaboard_Vulture
+    level:    [83, 84]
+    region:   misareaux_coast_nw_7
+
+  16879826:
+    template: Seaboard_Vulture
+    level:    [83, 84]
+    region:   misareaux_coast_nw_7
+
+  16879827:
+    template: Seaboard_Vulture
+    level:    [83, 84]
+    region:   misareaux_coast_nw_7
+
+  16879828:
+    template: Seaboard_Vulture
+    level:    [83, 84]
+    region:   misareaux_coast_w_5
+
+  16879829:
+    template: Seaboard_Vulture
+    level:    [83, 84]
+    region:   misareaux_coast_w_5
+
+  16879830:
+    template: Seaboard_Vulture
+    level:    [83, 84]
+    region:   misareaux_coast_w_5
+
+  16879831:
+    template: Seaboard_Vulture
+    level:    [83, 84]
+    region:   misareaux_coast_w_5
+
+  16879832:
+    template: Seaboard_Vulture
+    level:    [83, 84]
+    region:   misareaux_coast_w_5
+
+  16879833:
+    template: Atomic_Cluster
+    at:       [26.525, -23.863, 357.311, 154]
+    level:    [44, 46]
+
+  16879834:
+    template: Gigantobugard
+    level:    [40, 43]
+    region:   misareaux_coast_nw_11
+
+  16879835:
+    template: Gigantobugard
+    level:    [40, 43]
+    region:   misareaux_coast_nw_11
+
+  16879836:
+    template: Gigas_Catapulter
+    level:    [41, 44]
+    region:   misareaux_coast_nw_11
+
+  16879837:
+    template: Orcish_Stonelauncher
+    level:    [43, 46]
+    region:   misareaux_coast_nw_11
+
+  16879838:
+    template: Orcish_Bowshooter
+    at:       [27.412, -24.321, 365.838, 209]
+    level:    [41, 44]
+
+  16879839:
+    template: Diatryma
+    level:    [47, 51]
+    region:   misareaux_coast_nw_6
+
+  16879840:
+    template: Diatryma
+    level:    [47, 51]
+    region:   misareaux_coast_nw_6
+
+  16879841:
+    template: Diatryma
+    level:    [47, 51]
+    region:   misareaux_coast_nw_6
+
+  16879842:
+    template: Diatryma
+    level:    [47, 51]
+    region:   misareaux_coast_nw_6
+
+  16879843:
+    template: Mantrap
+    level:    [45, 49]
+    region:   misareaux_coast_nw_6
+
+  16879844:
+    template: Mantrap
+    level:    [45, 49]
+    region:   misareaux_coast_nw_6
+
+  16879845:
+    template: Mantrap
+    level:    [45, 49]
+    region:   misareaux_coast_nw_6
+
+  16879846:
+    template: Mantrap
+    level:    [45, 49]
+    region:   misareaux_coast_nw_5
+
+  16879847:
+    template: Okyupete
+    at:       [-76.467, -24.484, 523.605, 108]
+    level:    [57, 60]
+
+  16879848:
+    template: Air_Elemental
+    level:    [49, 51]
+    region:   misareaux_coast_nw_8
+
+  16879849:
+    template: Diatryma
+    at:       [-47.390, -24.751, 553.286, 99]
+    level:    [47, 51]
+
+  16879850:
+    template: Bigclaw
+    level:    [45, 49]
+    region:   misareaux_coast_n_6
+
+  16879851:
+    template: Bigclaw
+    level:    [45, 49]
+    region:   misareaux_coast_n_6
+
+  16879852:
+    template: Bigclaw
+    level:    [45, 49]
+    region:   misareaux_coast_n_7
+
+  16879853:
+    template: Bigclaw
+    level:    [45, 49]
+    region:   misareaux_coast_n_7
+
+  16879854:
+    template: Makara
+    level:    [46, 49]
+    region:   misareaux_coast_n_7
+
+  16879855:
+    template: Makara
+    level:    [46, 49]
+    region:   misareaux_coast_n_7
+
+  16879856:
+    template: Bigclaw
+    level:    [45, 49]
+    region:   misareaux_coast_n_3
+
+  16879857:
+    template: Bigclaw
+    level:    [45, 49]
+    region:   misareaux_coast_n_3
+
+  16879858:
+    template: Bigclaw
+    level:    [45, 49]
+    region:   misareaux_coast_n_3
+
+  16879859:
+    template: Makara
+    level:    [46, 49]
+    region:   misareaux_coast_n_3
+
+  16879860:
+    template: Makara
+    level:    [46, 49]
+    region:   misareaux_coast_n_3
+
+  16879861:
+    template: Makara
+    level:    [46, 49]
+    region:   misareaux_coast_n_3
+
+  16879862:
+    template: Makara
+    level:    [46, 49]
+    region:   misareaux_coast_n_3
+
+  16879863:
+    template: Bigclaw
+    level:    [45, 49]
+    region:   misareaux_coast_n
+
+  16879864:
+    template: Bigclaw
+    level:    [45, 49]
+    region:   misareaux_coast_n
+
+  16879865:
+    template: Bigclaw
+    level:    [45, 49]
+    region:   misareaux_coast_n
+
+  16879866:
+    template: Makara
+    level:    [46, 49]
+    region:   misareaux_coast_n
+
+  16879867:
+    template: Makara
+    at:       [33.345, -16.107, 555.705, 9]
+    level:    [46, 49]
+
+  16879868:
+    template: Diatryma
+    level:    [47, 51]
+    region:   misareaux_coast_nw_9
+
+  16879869:
+    template: Bigclaw
+    at:       [-30.833, -16.171, 600.278, 66]
+    level:    [45, 49]
+
+  16879870:
+    template: Bigclaw
+    level:    [45, 49]
+    region:   misareaux_coast_nw_9
+
+  16879871:
+    template: Makara
+    level:    [46, 49]
+    region:   misareaux_coast_nw_9
+
+  16879872:
+    template: Mantrap
+    level:    [45, 49]
+    region:   misareaux_coast_nw_9
+
+  16879873:
+    template: Diatryma
+    level:    [47, 51]
+    region:   misareaux_coast_nw_4
+
+  16879874:
+    template: Bigclaw
+    level:    [45, 49]
+    region:   misareaux_coast_nw_4
+
+  16879875:
+    template: Bigclaw
+    level:    [45, 49]
+    region:   misareaux_coast_nw_4
+
+  16879876:
+    template: Makara
+    level:    [46, 49]
+    region:   misareaux_coast_nw_4
+
+  16879877:
+    template: Mantrap
+    level:    [45, 49]
+    region:   misareaux_coast_nw_4
+
+  16879878:
+    template: Bigclaw
+    level:    [45, 49]
+    region:   misareaux_coast_nw_2
+
+  16879879:
+    template: Bigclaw
+    level:    [45, 49]
+    region:   misareaux_coast_nw_2
+
+  16879880:
+    template: Makara
+    level:    [46, 49]
+    region:   misareaux_coast_nw_2
+
+  16879881:
+    template: Diatryma
+    level:    [47, 51]
+    region:   misareaux_coast_nw
+
+  16879882:
+    template: Makara
+    level:    [46, 49]
+    region:   misareaux_coast_nw
+
+  16879883:
+    template: Diatryma
+    level:    [47, 51]
+    region:   misareaux_coast_nw_3
+
+  16879884:
+    template: Mantrap
+    level:    [45, 49]
+    region:   misareaux_coast_nw_3
+
+  16879885:
+    template: Mantrap
+    level:    [45, 49]
+    region:   misareaux_coast_nw_3
+
+  16879886:
+    template: Fomor_Dragoon
+    level:    [49, 51]
+    region:   misareaux_coast_nw_3
+
+  16879887:
+    template: Fomors_Wyvern
+    level:    [42, 44]
+    region:   misareaux_coast_nw_3
+
+  16879888:
+    template: Fomor_Bard
+    level:    [48, 50]
+    region:   misareaux_coast_nw_3
+
+  16879889:
+    template: Fomor_Ranger
+    level:    [49, 51]
+    region:   misareaux_coast_nw_3
+
+  16879890:
+    template: Mantrap
+    level:    [45, 49]
+    region:   misareaux_coast_nw_10
+
+  16879891:
+    template: Diatryma
+    level:    [47, 51]
+    region:   misareaux_coast_nw_12
+
+  16879892:
+    template: Mantrap
+    level:    [45, 49]
+    region:   misareaux_coast_nw_12
+
+  16879893:
+    template: Warder_Aglaia
+    at:       [260.000, 9.292, -438.500, 189]
+    level:    [62, 63]
+
+  16879894:
+    template: Warder_Euphrosyne
+    at:       [259.149, 9.308, -437.845, 206]
+    level:    [62, 63]
+
+  16879895:
+    template: Warder_Thalia
+    at:       [260.834, 9.525, -437.238, 185]
+    level:    [62, 63]
+
+  16879896:
+    template: Bloody_Coffin
+    at:       [638.262, -0.608, -518.056, 84]
+    level:    [50, 52]
+
+  16879897:
+    template: Boggelmann
+    at:       [-310.079, -32.877, 181.822, 163]
+    level:    [70, 70]
+
+  16879898:
+    template: Alsha
+    at:       [-155.804, -16.191, 644.617, 195]
+    level:    [55, 55]
+
+  16879899:
+    template: Gration
+    at:       [111.363, -17.000, 30.344, 141]
+    level:    [85, 85]
+
+  16879900:
+    template: Ziphius
+    at:       [148.401, -16.018, 520.438, 224]
+    level:    [55, 55]
+
+  16879902:
+    template: Bloodswiller_Fly
+    at:       [442.637, -15.658, 126.849, 156]
+    level:    [0, 0]
+
+  16879903:
+    template: Bloodswiller_Fly
+    at:       [443.693, -15.680, 127.950, 131]
+    level:    [0, 0]
+
+  16879904:
+    template: Tsui-Goab
+    at:       [265.364, -15.844, 224.994, 241]
+    level:    [65, 65]
+
+  16879905:
+    template: Bloodswiller_Fly
+    at:       [264.706, -15.413, 226.069, 0]
+    level:    [0, 0]
+
+  16879906:
+    template: Bloodswiller_Fly
+    at:       [265.805, -15.474, 223.385, 221]
+    level:    [0, 0]
+
+  16879907:
+    template: Tsui-Goab
+    at:       [517.888, 15.569, -312.496, 208]
+    level:    [65, 65]
+
+  16879908:
+    template: Bloodswiller_Fly
+    at:       [520.124, 15.639, -311.169, 59]
+    level:    [0, 0]
+
+  16879909:
+    template: Bloodswiller_Fly
+    at:       [518.749, 15.621, -311.517, 32]
+    level:    [0, 0]
+
+  16879911:
+    template: Tiyanak
+    at:       [-223.471, -31.673, 118.848, 166]
+    level:    [0, 0]
+
+  16879912:
+    template: Tiyanak
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16879914:
+    template: Volatile_Cluster
+    at:       [-229.015, -32.239, 115.628, 225]
+    level:    [0, 0]
+
+  16879915:
+    template: Volatile_Cluster
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]

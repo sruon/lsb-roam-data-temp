@@ -1,0 +1,193 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17301505:
+    template: Velociraptor
+    level:    [66, 69]
+    region:   valley_of_sorrows_sw
+
+  17301506:
+    template: Velociraptor
+    level:    [66, 69]
+    region:   valley_of_sorrows_sw
+
+  17301507:
+    template: Peryton
+    level:    [69, 72]
+    region:   valley_of_sorrows_sw
+
+  17301508:
+    template: Velociraptor
+    level:    [66, 69]
+    region:   valley_of_sorrows_sw_2
+
+  17301509:
+    template: Velociraptor
+    level:    [66, 69]
+    region:   valley_of_sorrows_sw_2
+
+  17301510:
+    template: Peryton
+    level:    [69, 72]
+    region:   valley_of_sorrows_sw_2
+
+  17301511:
+    template: Velociraptor
+    level:    [66, 69]
+    region:   valley_of_sorrows_s
+
+  17301512:
+    template: Velociraptor
+    level:    [66, 69]
+    region:   valley_of_sorrows_s
+
+  17301513:
+    template: Peryton
+    level:    [69, 72]
+    region:   valley_of_sorrows_s
+
+  17301514:
+    template: Fire_Elemental
+    at:       [-19.868, -0.534, -29.271, 65]
+    level:    [66, 68]
+
+  17301515:
+    template: Velociraptor
+    level:    [66, 69]
+    region:   valley_of_sorrows_c
+
+  17301516:
+    template: Peryton
+    level:    [69, 72]
+    region:   valley_of_sorrows_c
+
+  17301517:
+    template: Velociraptor
+    level:    [66, 69]
+    region:   valley_of_sorrows_n
+
+  17301518:
+    template: Peryton
+    level:    [69, 72]
+    region:   valley_of_sorrows_n
+
+  17301519:
+    template: Velociraptor
+    level:    [66, 69]
+    region:   valley_of_sorrows_n_2
+
+  17301520:
+    template: Velociraptor
+    level:    [66, 69]
+    region:   valley_of_sorrows_n_2
+
+  17301521:
+    template: Peryton
+    level:    [69, 72]
+    region:   valley_of_sorrows_n_2
+
+  17301522:
+    template: Air_Elemental
+    level:    [66, 68]
+    region:   valley_of_sorrows_n_2
+
+  17301523:
+    template: Velociraptor
+    level:    [66, 69]
+    region:   valley_of_sorrows_e
+
+  17301524:
+    template: Peryton
+    level:    [69, 72]
+    region:   valley_of_sorrows_e
+
+  17301525:
+    template: Fire_Elemental
+    at:       [-25.864, -3.904, -64.997, 62]
+    level:    [66, 68]
+
+  17301526:
+    template: Air_Elemental
+    at:       [-14.432, -4.043, 63.329, 127]
+    level:    [66, 68]
+
+  17301527:
+    template: Velociraptor
+    level:    [66, 69]
+    region:   valley_of_sorrows_se
+
+  17301528:
+    template: Velociraptor
+    level:    [66, 69]
+    region:   valley_of_sorrows_se
+
+  17301529:
+    template: Velociraptor
+    level:    [66, 69]
+    region:   valley_of_sorrows_se
+
+  17301530:
+    template: Velociraptor
+    level:    [66, 69]
+    region:   valley_of_sorrows_se
+
+  17301531:
+    template: Peryton
+    level:    [69, 72]
+    region:   valley_of_sorrows_se
+
+  17301532:
+    template: Valley_Manticore
+    level:    [71, 74]
+    region:   valley_of_sorrows_c_3
+
+  17301533:
+    template: Valley_Manticore
+    level:    [71, 74]
+    region:   valley_of_sorrows_c_3
+
+  17301534:
+    template: Valley_Manticore
+    level:    [71, 74]
+    region:   valley_of_sorrows_c_3
+
+  17301535:
+    template: Velociraptor
+    level:    [66, 69]
+    region:   valley_of_sorrows_c_2
+
+  17301536:
+    template: Peryton
+    level:    [69, 72]
+    region:   valley_of_sorrows_c_2
+
+  17301537:
+    template: Adamantoise
+    at:       [0.894, 0.021, -35.588, 91]
+    level:    [70, 70]
+
+  17301538:
+    template: Aspidochelone
+    at:       [0.894, 0.021, -35.588, 0]
+    level:    [85, 85]
+
+  17301539:
+    template: Skahnowa
+    at:       [44.000, -0.500, 40.000, 160]
+    level:    [1, 1]
+
+  17301540:
+    template: Tolba
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17301541:
+    template: Tolba
+    at:       [-126.849, -0.718, -42.619, 32]
+    level:    [0, 0]
+
+  17301542:
+    template: Tolba
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]

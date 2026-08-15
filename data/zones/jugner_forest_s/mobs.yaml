@@ -1,0 +1,3708 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17113089:
+    template: Stag_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [39, 51]
+
+  17113090:
+    template: Spring_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [39, 52]
+
+  17113091:
+    template: Ferocious_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [39, 52]
+
+  17113092:
+    template: Thread_Leech
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [39, 51]
+
+  17113093:
+    template: Huge_Leech
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [39, 51]
+
+  17113094:
+    template: Jugner_Funguar
+    level:    [42, 44]
+    region:   jugner_forest_s_c_13
+
+  17113095:
+    template: Jugner_Funguar
+    level:    [42, 44]
+    region:   jugner_forest_s_c_3
+
+  17113096:
+    template: Forest_Leech
+    level:    [38, 41]
+    region:   jugner_forest_s_c_15
+
+  17113097:
+    template: Forest_Leech
+    level:    [38, 41]
+    region:   jugner_forest_s_c_10
+
+  17113098:
+    template: Forest_Leech
+    level:    [38, 41]
+    region:   jugner_forest_s_c_3
+
+  17113099:
+    template: Forest_Leech
+    at:       [-133.879, 3.848, 108.843, 234]
+    level:    [38, 41]
+
+  17113100:
+    template: Orcish_Bowshooter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [76, 79]
+
+  17113101:
+    template: Orcish_Bowshooter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [76, 79]
+
+  17113102:
+    template: Orcish_Bowshooter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [76, 79]
+
+  17113103:
+    template: Snipper
+    at:       [154.084, -0.284, 189.670, 56]
+    level:    [38, 41]
+
+  17113104:
+    template: Snipper
+    level:    [38, 41]
+    region:   jugner_forest_s_c_54
+
+  17113105:
+    template: Snipper
+    level:    [38, 41]
+    region:   jugner_forest_s_c_53
+
+  17113106:
+    template: Snipper
+    level:    [38, 41]
+    region:   jugner_forest_s_c_32
+
+  17113107:
+    template: Snipper
+    level:    [38, 41]
+    region:   jugner_forest_s_c_51
+
+  17113108:
+    template: Snipper
+    level:    [38, 41]
+    region:   jugner_forest_s_c_42
+
+  17113109:
+    template: Snipper
+    level:    [38, 41]
+    region:   jugner_forest_s_c_42
+
+  17113110:
+    template: Snipper
+    level:    [38, 41]
+    region:   jugner_forest_s_c_41
+
+  17113111:
+    template: Snipper
+    level:    [38, 41]
+    region:   jugner_forest_s_c_28
+
+  17113112:
+    template: War_Smilodon
+    level:    [59, 60]
+    region:   jugner_forest_s_c_55
+
+  17113113:
+    template: War_Smilodon
+    level:    [59, 60]
+    region:   jugner_forest_s_e_2
+
+  17113114:
+    template: War_Smilodon
+    level:    [59, 60]
+    region:   jugner_forest_s_c_45
+
+  17113115:
+    template: War_Smilodon
+    level:    [59, 60]
+    region:   jugner_forest_s_c_50
+
+  17113116:
+    template: War_Smilodon
+    level:    [59, 60]
+    region:   jugner_forest_s_c_49
+
+  17113117:
+    template: War_Smilodon
+    level:    [59, 60]
+    region:   jugner_forest_s_c_48
+
+  17113118:
+    template: Land_Pugil
+    level:    [38, 41]
+    region:   jugner_forest_s_c_56
+
+  17113119:
+    template: Land_Pugil
+    level:    [38, 41]
+    region:   jugner_forest_s_e_3
+
+  17113120:
+    template: Land_Pugil
+    at:       [196.936, 0.624, -75.312, 136]
+    level:    [38, 41]
+
+  17113121:
+    template: Land_Pugil
+    level:    [38, 41]
+    region:   jugner_forest_s_c_52
+
+  17113122:
+    template: Land_Pugil
+    level:    [38, 41]
+    region:   jugner_forest_s_c_44
+
+  17113123:
+    template: Land_Pugil
+    level:    [38, 41]
+    region:   jugner_forest_s_c_30
+
+  17113124:
+    template: Screamer
+    level:    [40, 42]
+    region:   jugner_forest_s_e
+
+  17113125:
+    template: Screamer
+    level:    [40, 42]
+    region:   jugner_forest_s_e_3
+
+  17113126:
+    template: Screamer
+    level:    [40, 42]
+    region:   jugner_forest_s_c_53
+
+  17113127:
+    template: Stag_Beetle
+    level:    [42, 43]
+    region:   jugner_forest_s_c_40
+
+  17113128:
+    template: Stag_Beetle
+    level:    [42, 43]
+    region:   jugner_forest_s_c_8
+
+  17113129:
+    template: Stag_Beetle
+    level:    [42, 43]
+    region:   jugner_forest_s_c_12
+
+  17113130:
+    template: War_Smilodon
+    level:    [59, 60]
+    region:   jugner_forest_s_c_14
+
+  17113131:
+    template: War_Smilodon
+    level:    [59, 60]
+    region:   jugner_forest_s_c_6
+
+  17113132:
+    template: Wandering_Sapling
+    level:    [38, 41]
+    region:   jugner_forest_s_c_14
+
+  17113133:
+    template: Wandering_Sapling
+    level:    [38, 41]
+    region:   jugner_forest_s_c_4
+
+  17113134:
+    template: Screamer
+    level:    [40, 42]
+    region:   jugner_forest_s_c_43
+
+  17113135:
+    template: Decrepit_Gnole
+    at:       [343.750, -2.912, 8.494, 46]
+    level:    [73, 75]
+
+  17113136:
+    template: Orcish_Bowshooter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [76, 79]
+
+  17113137:
+    template: Stag_Beetle
+    level:    [42, 43]
+    region:   jugner_forest_s_e_5
+
+  17113138:
+    template: War_Smilodon
+    level:    [59, 60]
+    region:   jugner_forest_s_ne_7
+
+  17113139:
+    template: War_Smilodon
+    level:    [59, 60]
+    region:   jugner_forest_s_e_4
+
+  17113140:
+    template: War_Smilodon
+    level:    [59, 60]
+    region:   jugner_forest_s_e_6
+
+  17113141:
+    template: War_Smilodon
+    level:    [59, 60]
+    region:   jugner_forest_s_e_8
+
+  17113142:
+    template: War_Smilodon
+    level:    [59, 60]
+    region:   jugner_forest_s_e_12
+
+  17113143:
+    template: War_Smilodon
+    level:    [59, 60]
+    region:   jugner_forest_s_e_12
+
+  17113144:
+    template: War_Smilodon
+    level:    [59, 60]
+    region:   jugner_forest_s_e_13
+
+  17113145:
+    template: War_Smilodon
+    level:    [59, 60]
+    region:   jugner_forest_s_e_13
+
+  17113146:
+    template: War_Smilodon
+    level:    [59, 60]
+    region:   jugner_forest_s_e_11
+
+  17113147:
+    template: War_Smilodon
+    level:    [59, 60]
+    region:   jugner_forest_s_e_11
+
+  17113148:
+    template: Wandering_Sapling
+    level:    [38, 41]
+    region:   jugner_forest_s_ne_12
+
+  17113149:
+    template: Ghoul
+    level:    [39, 42]
+    region:   jugner_forest_s_e_6
+
+  17113150:
+    template: Ghoul
+    level:    [39, 42]
+    region:   jugner_forest_s_e_13
+
+  17113151:
+    template: Thunder_Elemental
+    at:       [304.421, -0.080, 44.636, 42]
+    level:    [50, 50]
+
+  17113152:
+    template: Jugner_Funguar
+    level:    [42, 44]
+    region:   jugner_forest_s_w_11
+
+  17113153:
+    template: Jugner_Funguar
+    level:    [42, 44]
+    region:   jugner_forest_s_w_17
+
+  17113154:
+    template: Forest_Leech
+    at:       [-303.923, 3.876, 60.833, 148]
+    level:    [38, 41]
+
+  17113155:
+    template: Forest_Leech
+    level:    [38, 41]
+    region:   jugner_forest_s_w_11
+
+  17113156:
+    template: Forest_Leech
+    level:    [38, 41]
+    region:   jugner_forest_s_w_17
+
+  17113157:
+    template: Forest_Leech
+    level:    [38, 41]
+    region:   jugner_forest_s_w_21
+
+  17113158:
+    template: Orcish_Bowshooter
+    at:       [-197.000, -5.000, -146.000, 64]
+    level:    [76, 79]
+
+  17113159:
+    template: Orcish_Bowshooter
+    at:       [263.000, -3.000, 60.000, 194]
+    level:    [76, 79]
+
+  17113160:
+    template: Orcish_Bowshooter
+    at:       [-122.000, -5.000, 83.000, 246]
+    level:    [76, 79]
+
+  17113161:
+    template: Orcish_Bowshooter
+    at:       [133.000, -5.000, -88.000, 103]
+    level:    [76, 79]
+
+  17113162:
+    template: Biddybug
+    level:    [62, 64]
+    region:   jugner_forest_s_n_22
+
+  17113163:
+    template: Biddybug
+    at:       [-160.749, -0.264, 249.259, 156]
+    level:    [62, 64]
+
+  17113164:
+    template: Biddybug
+    level:    [62, 64]
+    region:   jugner_forest_s_n_7
+
+  17113165:
+    template: Biddybug
+    level:    [62, 64]
+    region:   jugner_forest_s_ne_11
+
+  17113166:
+    template: Wandering_Sapling
+    level:    [38, 41]
+    region:   jugner_forest_s_w_19
+
+  17113167:
+    template: Wandering_Sapling
+    level:    [38, 41]
+    region:   jugner_forest_s_w_4
+
+  17113168:
+    template: Brutal_Sheep
+    level:    [39, 41]
+    region:   jugner_forest_s_w_15
+
+  17113169:
+    template: Brutal_Sheep
+    level:    [39, 41]
+    region:   jugner_forest_s_w_16
+
+  17113170:
+    template: Brutal_Sheep
+    level:    [39, 41]
+    region:   jugner_forest_s_w_10
+
+  17113171:
+    template: Thunder_Elemental
+    at:       [-243.536, -0.431, -37.220, 191]
+    level:    [50, 50]
+
+  17113172:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_w_13
+
+  17113173:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_w_18
+
+  17113174:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_w_22
+
+  17113175:
+    template: Voirloup
+    at:       [-197.795, -0.346, -119.842, 224]
+    level:    [89, 89]
+
+  17113176:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_w_9
+
+  17113177:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_w_2
+
+  17113178:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_w_3
+
+  17113179:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_w_12
+
+  17113180:
+    template: Snipper
+    level:    [38, 41]
+    region:   jugner_forest_s_n_14
+
+  17113181:
+    template: Hawkertrap
+    level:    [40, 42]
+    region:   jugner_forest_s_n_15
+
+  17113182:
+    template: Biddybug
+    level:    [62, 64]
+    region:   jugner_forest_s_n_22
+
+  17113183:
+    template: Land_Pugil
+    level:    [38, 41]
+    region:   jugner_forest_s_n_19
+
+  17113184:
+    template: Land_Pugil
+    level:    [38, 41]
+    region:   jugner_forest_s_n_19
+
+  17113185:
+    template: Land_Pugil
+    level:    [38, 41]
+    region:   jugner_forest_s_n_15
+
+  17113186:
+    template: Snipper
+    level:    [38, 41]
+    region:   jugner_forest_s_n_16
+
+  17113187:
+    template: Hawkertrap
+    level:    [40, 42]
+    region:   jugner_forest_s_n_16
+
+  17113188:
+    template: Biddybug
+    level:    [62, 64]
+    region:   jugner_forest_s_n_20
+
+  17113189:
+    template: Biddybug
+    level:    [62, 64]
+    region:   jugner_forest_s_n_16
+
+  17113190:
+    template: Biddybug
+    level:    [62, 64]
+    region:   jugner_forest_s_n_23
+
+  17113191:
+    template: Biddybug
+    level:    [62, 64]
+    region:   jugner_forest_s_n_18
+
+  17113192:
+    template: Land_Pugil
+    level:    [38, 41]
+    region:   jugner_forest_s_n_17
+
+  17113193:
+    template: Land_Pugil
+    level:    [38, 41]
+    region:   jugner_forest_s_n_17
+
+  17113194:
+    template: Stag_Beetle
+    level:    [42, 43]
+    region:   jugner_forest_s_ne_17
+
+  17113195:
+    template: Biddybug
+    level:    [62, 64]
+    region:   jugner_forest_s_ne_17
+
+  17113196:
+    template: Biddybug
+    level:    [62, 64]
+    region:   jugner_forest_s_ne_17
+
+  17113197:
+    template: Biddybug
+    level:    [62, 64]
+    region:   jugner_forest_s_ne_15
+
+  17113198:
+    template: Biddybug
+    level:    [62, 64]
+    region:   jugner_forest_s_ne_15
+
+  17113199:
+    template: Biddybug
+    level:    [62, 64]
+    region:   jugner_forest_s_ne_11
+
+  17113200:
+    template: Stag_Beetle
+    level:    [42, 43]
+    region:   jugner_forest_s_ne_20
+
+  17113201:
+    template: Stag_Beetle
+    level:    [42, 43]
+    region:   jugner_forest_s_ne_20
+
+  17113202:
+    template: Stag_Beetle
+    level:    [42, 43]
+    region:   jugner_forest_s_ne_30
+
+  17113203:
+    template: Stag_Beetle
+    level:    [42, 43]
+    region:   jugner_forest_s_ne_30
+
+  17113204:
+    template: Stag_Beetle
+    level:    [42, 43]
+    region:   jugner_forest_s_ne_30
+
+  17113205:
+    template: Jugner_Funguar
+    level:    [42, 44]
+    region:   jugner_forest_s_ne_18
+
+  17113206:
+    template: Jugner_Funguar
+    level:    [42, 44]
+    region:   jugner_forest_s_ne_6
+
+  17113207:
+    template: Jugner_Funguar
+    level:    [42, 44]
+    region:   jugner_forest_s_e_7
+
+  17113208:
+    template: Forest_Leech
+    level:    [38, 41]
+    region:   jugner_forest_s_ne_18
+
+  17113209:
+    template: Forest_Leech
+    level:    [38, 41]
+    region:   jugner_forest_s_ne_6
+
+  17113210:
+    template: Forest_Leech
+    level:    [38, 41]
+    region:   jugner_forest_s_ne_10
+
+  17113211:
+    template: Forest_Leech
+    level:    [38, 41]
+    region:   jugner_forest_s_e_9
+
+  17113212:
+    template: Snipper
+    level:    [38, 41]
+    region:   jugner_forest_s_n_25
+
+  17113213:
+    template: Snipper
+    level:    [38, 41]
+    region:   jugner_forest_s_n_26
+
+  17113214:
+    template: Snipper
+    level:    [38, 41]
+    region:   jugner_forest_s_n_28
+
+  17113215:
+    template: Snipper
+    level:    [38, 41]
+    region:   jugner_forest_s_n_27
+
+  17113216:
+    template: Hawkertrap
+    level:    [40, 42]
+    region:   jugner_forest_s_n_25
+
+  17113217:
+    template: Hawkertrap
+    level:    [40, 42]
+    region:   jugner_forest_s_n_27
+
+  17113218:
+    template: Land_Pugil
+    level:    [38, 41]
+    region:   jugner_forest_s_n_26
+
+  17113219:
+    template: Land_Pugil
+    level:    [38, 41]
+    region:   jugner_forest_s_n_21
+
+  17113220:
+    template: Water_Elemental
+    level:    [40, 64]
+    region:   jugner_forest_s_n_26
+
+  17113221:
+    template: Stag_Beetle
+    level:    [42, 43]
+    region:   jugner_forest_s_ne_13
+
+  17113222:
+    template: Snipper
+    level:    [38, 41]
+    region:   jugner_forest_s_n_24
+
+  17113223:
+    template: Ignis_Djinn
+    level:    [76, 79]
+    region:   jugner_forest_s_ne_19
+
+  17113224:
+    template: Biddybug
+    level:    [62, 64]
+    region:   jugner_forest_s_ne_13
+
+  17113225:
+    template: Biddybug
+    level:    [62, 64]
+    region:   jugner_forest_s_ne_8
+
+  17113226:
+    template: Biddybug
+    level:    [62, 64]
+    region:   jugner_forest_s_ne_4
+
+  17113227:
+    template: Biddybug
+    level:    [62, 64]
+    region:   jugner_forest_s_ne_2
+
+  17113228:
+    template: War_Smilodon
+    level:    [59, 60]
+    region:   jugner_forest_s_ne_5
+
+  17113229:
+    template: Wandering_Sapling
+    level:    [38, 41]
+    region:   jugner_forest_s_ne_16
+
+  17113230:
+    template: Wandering_Sapling
+    level:    [38, 41]
+    region:   jugner_forest_s_ne_9
+
+  17113231:
+    template: Thunder_Elemental
+    at:       [271.883, -0.517, 360.041, 224]
+    level:    [50, 50]
+
+  17113232:
+    template: Walking_Tree
+    level:    [48, 49]
+    region:   jugner_forest_s_ne_14
+
+  17113233:
+    template: Lobison
+    at:       [-540.571, 2.760, 341.654, 168]
+    level:    [81, 82]
+
+  17113234:
+    template: Walking_Tree
+    level:    [48, 49]
+    region:   jugner_forest_s_nw_19
+
+  17113235:
+    template: Water_Elemental
+    level:    [40, 64]
+    region:   jugner_forest_s_nw_3
+
+  17113236:
+    template: Lobison
+    level:    [81, 82]
+    region:   jugner_forest_s_nw_7
+
+  17113237:
+    template: Lobison
+    level:    [81, 82]
+    region:   jugner_forest_s_nw_8
+
+  17113238:
+    template: Lobison
+    level:    [81, 82]
+    region:   jugner_forest_s_nw_8
+
+  17113239:
+    template: Lobison
+    at:       [-366.966, -0.578, 254.914, 26]
+    level:    [81, 82]
+
+  17113240:
+    template: Lobison
+    level:    [81, 82]
+    region:   jugner_forest_s_nw_6
+
+  17113241:
+    template: Lobison
+    level:    [81, 82]
+    region:   jugner_forest_s_nw_5
+
+  17113242:
+    template: Lobison
+    level:    [81, 82]
+    region:   jugner_forest_s_nw_4
+
+  17113243:
+    template: Lobison
+    level:    [81, 82]
+    region:   jugner_forest_s_nw
+
+  17113244:
+    template: Lobison
+    level:    [81, 82]
+    region:   jugner_forest_s_nw_2
+
+  17113245:
+    template: Snipper
+    level:    [38, 41]
+    region:   jugner_forest_s_n_12
+
+  17113246:
+    template: Snipper
+    level:    [38, 41]
+    region:   jugner_forest_s_n_11
+
+  17113247:
+    template: Snipper
+    level:    [38, 41]
+    region:   jugner_forest_s_n_10
+
+  17113248:
+    template: Snipper
+    level:    [38, 41]
+    region:   jugner_forest_s_n_7
+
+  17113249:
+    template: Snipper
+    level:    [38, 41]
+    region:   jugner_forest_s_n_5
+
+  17113250:
+    template: Snipper
+    level:    [38, 41]
+    region:   jugner_forest_s_n_2
+
+  17113251:
+    template: Snipper
+    level:    [38, 41]
+    region:   jugner_forest_s_nw_21
+
+  17113252:
+    template: Hawkertrap
+    level:    [40, 42]
+    region:   jugner_forest_s_n_12
+
+  17113253:
+    template: Hawkertrap
+    level:    [40, 42]
+    region:   jugner_forest_s_n_10
+
+  17113254:
+    template: Hawkertrap
+    level:    [40, 42]
+    region:   jugner_forest_s_n_6
+
+  17113255:
+    template: Hawkertrap
+    level:    [40, 42]
+    region:   jugner_forest_s_n_3
+
+  17113256:
+    template: Biddybug
+    level:    [62, 64]
+    region:   jugner_forest_s_ne_3
+
+  17113257:
+    template: Biddybug
+    level:    [62, 64]
+    region:   jugner_forest_s_n_29
+
+  17113258:
+    template: Biddybug
+    level:    [62, 64]
+    region:   jugner_forest_s_n_7
+
+  17113259:
+    template: Biddybug
+    level:    [62, 64]
+    region:   jugner_forest_s_n_9
+
+  17113260:
+    template: Land_Pugil
+    level:    [38, 41]
+    region:   jugner_forest_s_n_13
+
+  17113261:
+    template: Land_Pugil
+    level:    [38, 41]
+    region:   jugner_forest_s_n_6
+
+  17113262:
+    template: Land_Pugil
+    level:    [38, 41]
+    region:   jugner_forest_s_n_8
+
+  17113263:
+    template: Land_Pugil
+    level:    [38, 41]
+    region:   jugner_forest_s_n_3
+
+  17113264:
+    template: Land_Pugil
+    level:    [38, 41]
+    region:   jugner_forest_s_n_4
+
+  17113265:
+    template: Water_Elemental
+    level:    [40, 64]
+    region:   jugner_forest_s_n_11
+
+  17113266:
+    template: Water_Elemental
+    level:    [40, 64]
+    region:   jugner_forest_s_nw_21
+
+  17113267:
+    template: Orcish_Bowshooter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [76, 79]
+
+  17113268:
+    template: Biddybug
+    at:       [-153.657, -1.710, 243.582, 199]
+    level:    [62, 64]
+
+  17113269:
+    template: Biddybug
+    level:    [62, 64]
+    region:   jugner_forest_s_n_9
+
+  17113270:
+    template: War_Smilodon
+    level:    [59, 60]
+    region:   jugner_forest_s_nw_20
+
+  17113271:
+    template: Ghoul
+    level:    [39, 42]
+    region:   jugner_forest_s_n_9
+
+  17113272:
+    template: Ghoul
+    level:    [39, 42]
+    region:   jugner_forest_s_nw_20
+
+  17113273:
+    template: Orcish_Champion
+    at:       [-147.279, -1.040, -412.746, 123]
+    level:    [76, 79]
+
+  17113274:
+    template: Orcish_Dragonbrander
+    at:       [-139.425, -1.682, -408.868, 26]
+    level:    [76, 79]
+
+  17113275:
+    template: Orcish_Veteran
+    at:       [-155.722, -0.614, -405.586, 148]
+    level:    [76, 79]
+
+  17113276:
+    template: Orcish_Champion
+    level:    [76, 79]
+    region:   jugner_forest_s_s
+
+  17113277:
+    template: Orcish_Dragonbrander
+    level:    [76, 79]
+    region:   jugner_forest_s_s
+
+  17113278:
+    template: Orcish_Dragonbrander
+    level:    [76, 79]
+    region:   jugner_forest_s_s_2
+
+  17113279:
+    template: Orcish_Veteran
+    level:    [76, 79]
+    region:   jugner_forest_s_s_2
+
+  17113280:
+    template: Orcish_Champion
+    level:    [76, 79]
+    region:   jugner_forest_s_s
+
+  17113281:
+    template: Orcish_Protector
+    at:       [-161.446, -0.557, -444.713, 107]
+    level:    [76, 79]
+
+  17113282:
+    template: Orcish_Veteran
+    at:       [-162.577, -0.569, -445.481, 222]
+    level:    [76, 79]
+
+  17113283:
+    template: Orcish_Champion
+    level:    [76, 79]
+    region:   jugner_forest_s_c_5
+
+  17113284:
+    template: Orcish_Dragonbrander
+    level:    [76, 79]
+    region:   jugner_forest_s_c_5
+
+  17113285:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_c_9
+
+  17113286:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_c_9
+
+  17113287:
+    template: Orcish_Bowshooter
+    at:       [36.015, -1.474, -194.455, 127]
+    level:    [76, 79]
+
+  17113288:
+    template: Orcish_Bowshooter
+    at:       [56.118, -4.048, -240.235, 255]
+    level:    [76, 79]
+
+  17113289:
+    template: Orcish_Bowshooter
+    at:       [-1.539, -5.220, -294.259, 64]
+    level:    [76, 79]
+
+  17113290:
+    template: Orcish_Bowshooter
+    at:       [-86.410, -4.876, -385.219, 93]
+    level:    [76, 79]
+
+  17113291:
+    template: Orcish_Bowshooter
+    at:       [-166.022, -2.743, -425.923, 222]
+    level:    [76, 79]
+
+  17113292:
+    template: Orcish_Champion
+    level:    [76, 79]
+    region:   jugner_forest_s_s_28
+
+  17113293:
+    template: Orcish_Dragonbrander
+    level:    [76, 79]
+    region:   jugner_forest_s_s_28
+
+  17113294:
+    template: Orcish_Veteran
+    level:    [76, 79]
+    region:   jugner_forest_s_c_11
+
+  17113295:
+    template: Orcish_Dragonbrander
+    level:    [76, 79]
+    region:   jugner_forest_s_c_11
+
+  17113296:
+    template: Orcish_Veteran
+    level:    [76, 79]
+    region:   jugner_forest_s_c_11
+
+  17113297:
+    template: Decrepit_Gnole
+    at:       [34.509, 0.302, -297.176, 124]
+    level:    [73, 75]
+
+  17113298:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_s_27
+
+  17113299:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_s_26
+
+  17113300:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_s_22
+
+  17113301:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_s_18
+
+  17113302:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_s_16
+
+  17113303:
+    template: Decrepit_Gnole
+    at:       [-31.647, -2.453, -441.877, 53]
+    level:    [73, 75]
+
+  17113304:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_s_15
+
+  17113305:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_s_14
+
+  17113306:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_s_19
+
+  17113307:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_s_21
+
+  17113308:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_s_23
+
+  17113309:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_s_20
+
+  17113310:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_s_17
+
+  17113311:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_s_9
+
+  17113312:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_s_4
+
+  17113313:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_s_3
+
+  17113314:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_s_6
+
+  17113315:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_s_8
+
+  17113316:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_s_5
+
+  17113317:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_s_24
+
+  17113318:
+    template: Decrepit_Gnole
+    at:       [-8.714, -14.707, -591.332, 203]
+    level:    [73, 75]
+
+  17113319:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_s_25
+
+  17113320:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_s_11
+
+  17113321:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_s_7
+
+  17113322:
+    template: Decrepit_Gnole
+    at:       [-28.292, -13.967, -604.707, 27]
+    level:    [73, 75]
+
+  17113323:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_s_13
+
+  17113324:
+    template: Stag_Beetle
+    level:    [42, 43]
+    region:   jugner_forest_s_se_24
+
+  17113325:
+    template: Stag_Beetle
+    level:    [42, 43]
+    region:   jugner_forest_s_se_26
+
+  17113326:
+    template: Stag_Beetle
+    level:    [42, 43]
+    region:   jugner_forest_s_se_26
+
+  17113327:
+    template: Stag_Beetle
+    level:    [42, 43]
+    region:   jugner_forest_s_se_28
+
+  17113328:
+    template: Stag_Beetle
+    level:    [42, 43]
+    region:   jugner_forest_s_se_29
+
+  17113329:
+    template: Stag_Beetle
+    level:    [42, 43]
+    region:   jugner_forest_s_se_29
+
+  17113330:
+    template: Stag_Beetle
+    level:    [42, 43]
+    region:   jugner_forest_s_e_14
+
+  17113331:
+    template: Stag_Beetle
+    at:       [467.464, -1.622, -174.310, 2]
+    level:    [42, 43]
+
+  17113332:
+    template: Boll_Weevil
+    at:       [444.051, -0.373, -154.413, 138]
+    level:    [56, 57]
+
+  17113333:
+    template: Stag_Beetle
+    at:       [431.832, 6.144, -124.217, 107]
+    level:    [42, 43]
+
+  17113334:
+    template: Stag_Beetle
+    at:       [442.146, 7.482, -119.401, 98]
+    level:    [42, 43]
+
+  17113335:
+    template: Stag_Beetle
+    at:       [430.768, 3.772, -110.876, 210]
+    level:    [42, 43]
+
+  17113336:
+    template: Stag_Beetle
+    at:       [441.707, 5.768, -132.702, 151]
+    level:    [42, 43]
+
+  17113337:
+    template: Ignis_Djinn
+    level:    [76, 79]
+    region:   jugner_forest_s_e_15
+
+  17113338:
+    template: Walking_Tree
+    level:    [48, 49]
+    region:   jugner_forest_s_se_21
+
+  17113339:
+    template: Gnoletrap
+    level:    [92, 93]
+    region:   jugner_forest_s_se_18
+
+  17113340:
+    template: Gnoletrap
+    level:    [92, 93]
+    region:   jugner_forest_s_se_18
+
+  17113341:
+    template: Gnoletrap
+    level:    [92, 93]
+    region:   jugner_forest_s_se_18
+
+  17113342:
+    template: Gnoletrap
+    level:    [92, 93]
+    region:   jugner_forest_s_se_18
+
+  17113343:
+    template: Gnoletrap
+    level:    [92, 93]
+    region:   jugner_forest_s_se_18
+
+  17113344:
+    template: Gnoletrap
+    level:    [92, 93]
+    region:   jugner_forest_s_se_22
+
+  17113345:
+    template: Gnoletrap
+    level:    [92, 93]
+    region:   jugner_forest_s_se_22
+
+  17113346:
+    template: Gnoletrap
+    level:    [92, 93]
+    region:   jugner_forest_s_se_22
+
+  17113347:
+    template: Gnoletrap
+    level:    [92, 93]
+    region:   jugner_forest_s_se_22
+
+  17113348:
+    template: Gnoletrap
+    level:    [92, 93]
+    region:   jugner_forest_s_se_22
+
+  17113349:
+    template: Gnoletrap
+    level:    [92, 93]
+    region:   jugner_forest_s_se_20
+
+  17113350:
+    template: Gnoletrap
+    level:    [92, 93]
+    region:   jugner_forest_s_se_20
+
+  17113351:
+    template: Gnoletrap
+    level:    [92, 93]
+    region:   jugner_forest_s_se_20
+
+  17113352:
+    template: Gnoletrap
+    level:    [92, 93]
+    region:   jugner_forest_s_se_20
+
+  17113353:
+    template: Gnoletrap
+    level:    [92, 93]
+    region:   jugner_forest_s_se_20
+
+  17113354:
+    template: Gnoletrap
+    level:    [92, 93]
+    region:   jugner_forest_s_se_23
+
+  17113355:
+    template: Gnoletrap
+    level:    [92, 93]
+    region:   jugner_forest_s_se_23
+
+  17113356:
+    template: Gnoletrap
+    level:    [92, 93]
+    region:   jugner_forest_s_se_23
+
+  17113357:
+    template: Gnoletrap
+    level:    [92, 93]
+    region:   jugner_forest_s_se_25
+
+  17113358:
+    template: Gnoletrap
+    level:    [92, 93]
+    region:   jugner_forest_s_se_25
+
+  17113359:
+    template: Gnoletrap
+    level:    [92, 93]
+    region:   jugner_forest_s_se_25
+
+  17113360:
+    template: Gnoletrap
+    level:    [92, 93]
+    region:   jugner_forest_s_se_25
+
+  17113361:
+    template: Gnoletrap
+    level:    [92, 93]
+    region:   jugner_forest_s_se_27
+
+  17113362:
+    template: Gnoletrap
+    level:    [92, 93]
+    region:   jugner_forest_s_se_27
+
+  17113363:
+    template: Gnoletrap
+    level:    [92, 93]
+    region:   jugner_forest_s_se_27
+
+  17113364:
+    template: Screamer
+    level:    [40, 42]
+    region:   jugner_forest_s_se_21
+
+  17113365:
+    template: Screamer
+    level:    [40, 42]
+    region:   jugner_forest_s_se_24
+
+  17113366:
+    template: Screamer
+    level:    [40, 42]
+    region:   jugner_forest_s_se_26
+
+  17113367:
+    template: Orcish_Bowshooter
+    at:       [379.825, -15.823, -400.986, 2]
+    level:    [76, 79]
+
+  17113368:
+    template: Orcish_Bowshooter
+    at:       [242.472, -15.468, -499.096, 63]
+    level:    [76, 79]
+
+  17113369:
+    template: Stag_Beetle
+    level:    [42, 43]
+    region:   jugner_forest_s_se_12
+
+  17113370:
+    template: Stag_Beetle
+    at:       [264.129, -4.770, -312.376, 178]
+    level:    [42, 43]
+
+  17113371:
+    template: Stag_Beetle
+    level:    [42, 43]
+    region:   jugner_forest_s_se_14
+
+  17113372:
+    template: Stag_Beetle
+    level:    [42, 43]
+    region:   jugner_forest_s_se_19
+
+  17113373:
+    template: Snipper
+    level:    [38, 41]
+    region:   jugner_forest_s_se_12
+
+  17113374:
+    template: Snipper
+    level:    [38, 41]
+    region:   jugner_forest_s_se_16
+
+  17113375:
+    template: Snipper
+    at:       [292.993, -9.830, -431.921, 76]
+    level:    [38, 41]
+
+  17113376:
+    template: Snipper
+    level:    [38, 41]
+    region:   jugner_forest_s_se_17
+
+  17113377:
+    template: Ignis_Djinn
+    at:       [271.898, -13.796, -560.246, 204]
+    level:    [76, 79]
+
+  17113378:
+    template: Orcish_Champion
+    at:       [233.773, -15.829, -548.145, 104]
+    level:    [76, 79]
+
+  17113379:
+    template: Orcish_Dragonbrander
+    at:       [203.399, 0.388, -335.686, 80]
+    level:    [76, 79]
+
+  17113380:
+    template: Orcish_Veteran
+    at:       [195.578, -0.556, -347.699, 128]
+    level:    [76, 79]
+
+  17113381:
+    template: Drumskull_Zogdregg
+    at:       [204.878, 0.886, -347.779, 20]
+    level:    [83, 85]
+
+  17113382:
+    template: Orcish_Champion
+    at:       [229.804, -16.278, -507.032, 8]
+    level:    [76, 79]
+
+  17113383:
+    template: Orcish_Dragonbrander
+    at:       [234.859, -14.530, -501.872, 37]
+    level:    [76, 79]
+
+  17113384:
+    template: Orcish_Dragonbrander
+    level:    [76, 79]
+    region:   jugner_forest_s_se_8
+
+  17113385:
+    template: Orcish_Protector
+    level:    [76, 79]
+    region:   jugner_forest_s_se_8
+
+  17113386:
+    template: Orcish_Champion
+    at:       [237.881, -16.417, -558.963, 131]
+    level:    [76, 79]
+
+  17113387:
+    template: Orcish_Protector
+    at:       [239.925, -17.090, -560.896, 207]
+    level:    [76, 79]
+
+  17113388:
+    template: Land_Pugil
+    level:    [38, 41]
+    region:   jugner_forest_s_se_3
+
+  17113389:
+    template: Land_Pugil
+    level:    [38, 41]
+    region:   jugner_forest_s_se_7
+
+  17113390:
+    template: Land_Pugil
+    level:    [38, 41]
+    region:   jugner_forest_s_se_10
+
+  17113391:
+    template: Land_Pugil
+    level:    [38, 41]
+    region:   jugner_forest_s_se_9
+
+  17113392:
+    template: Land_Pugil
+    level:    [38, 41]
+    region:   jugner_forest_s_se_15
+
+  17113393:
+    template: Land_Pugil
+    at:       [281.817, -12.096, -498.969, 25]
+    level:    [38, 41]
+
+  17113394:
+    template: Land_Pugil
+    level:    [38, 41]
+    region:   jugner_forest_s_se_14
+
+  17113395:
+    template: Screamer
+    level:    [40, 42]
+    region:   jugner_forest_s_se_7
+
+  17113396:
+    template: Screamer
+    level:    [40, 42]
+    region:   jugner_forest_s_se_13
+
+  17113397:
+    template: Screamer
+    level:    [40, 42]
+    region:   jugner_forest_s_se_15
+
+  17113398:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_s_29
+
+  17113399:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_s_30
+
+  17113400:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_s_31
+
+  17113401:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_s_32
+
+  17113402:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_se_4
+
+  17113403:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_se_2
+
+  17113404:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_se_5
+
+  17113405:
+    template: Decrepit_Gnole
+    level:    [73, 75]
+    region:   jugner_forest_s_se_11
+
+  17113406:
+    template: Jugner_Funguar
+    level:    [42, 44]
+    region:   jugner_forest_s_w_20
+
+  17113407:
+    template: Jugner_Funguar
+    level:    [42, 44]
+    region:   jugner_forest_s_sw_19
+
+  17113408:
+    template: Forest_Leech
+    level:    [38, 41]
+    region:   jugner_forest_s_w_20
+
+  17113409:
+    template: Forest_Leech
+    level:    [38, 41]
+    region:   jugner_forest_s_sw_21
+
+  17113410:
+    template: Forest_Leech
+    level:    [38, 41]
+    region:   jugner_forest_s_sw_16
+
+  17113411:
+    template: Orcish_Bowshooter
+    at:       [200.000, -5.000, -324.000, 240]
+    level:    [76, 79]
+
+  17113412:
+    template: Orcish_Bowshooter
+    at:       [49.000, -5.000, -196.000, 69]
+    level:    [76, 79]
+
+  17113413:
+    template: Orcish_Bowshooter
+    at:       [-162.000, -5.000, -416.000, 173]
+    level:    [76, 79]
+
+  17113414:
+    template: Orcish_Bowshooter
+    at:       [-13.000, -6.000, 79.000, 83]
+    level:    [76, 79]
+
+  17113415:
+    template: Orcish_Bowshooter
+    at:       [-6.000, -6.000, 83.000, 230]
+    level:    [76, 79]
+
+  17113416:
+    template: Goblin_Bombardier
+    level:    [71, 74]
+    region:   jugner_forest_s_sw_20
+
+  17113417:
+    template: Goblin_Field_Doctor
+    level:    [71, 74]
+    region:   jugner_forest_s_sw_18
+
+  17113418:
+    template: Goblin_Paratrooper
+    level:    [71, 74]
+    region:   jugner_forest_s_sw_13
+
+  17113419:
+    template: Goblin_Picket
+    level:    [71, 74]
+    region:   jugner_forest_s_sw_14
+
+  17113420:
+    template: Goblin_Mine
+    level:    [75, 75]
+    region:   jugner_forest_s_sw_14
+
+  17113421:
+    template: Goblin_Bombardier
+    level:    [71, 74]
+    region:   jugner_forest_s_sw_7
+
+  17113422:
+    template: Goblin_Field_Doctor
+    level:    [71, 74]
+    region:   jugner_forest_s_sw_3
+
+  17113423:
+    template: Goblin_Paratrooper
+    level:    [71, 74]
+    region:   jugner_forest_s_sw_23
+
+  17113424:
+    template: Goblin_Picket
+    level:    [71, 74]
+    region:   jugner_forest_s_sw
+
+  17113425:
+    template: Goblin_Mine
+    level:    [75, 75]
+    region:   jugner_forest_s_sw
+
+  17113426:
+    template: Goblin_Bombardier
+    level:    [71, 74]
+    region:   jugner_forest_s_sw_17
+
+  17113427:
+    template: Goblin_Paratrooper
+    level:    [71, 74]
+    region:   jugner_forest_s_sw_11
+
+  17113428:
+    template: Goblin_Picket
+    level:    [71, 74]
+    region:   jugner_forest_s_sw
+
+  17113429:
+    template: Goblin_Mine
+    level:    [75, 75]
+    region:   jugner_forest_s_sw
+
+  17113430:
+    template: Orcish_Bowshooter
+    level:    [76, 79]
+    region:   jugner_forest_s_w_14
+
+  17113431:
+    template: Orcish_Champion
+    level:    [76, 79]
+    region:   jugner_forest_s_w_14
+
+  17113432:
+    template: Orcish_Dragonbrander
+    level:    [76, 79]
+    region:   jugner_forest_s_w_14
+
+  17113433:
+    template: Orcish_Champion
+    level:    [76, 79]
+    region:   jugner_forest_s_c_2
+
+  17113434:
+    template: Orcish_Dragonbrander
+    level:    [76, 79]
+    region:   jugner_forest_s_c_2
+
+  17113435:
+    template: Wandering_Sapling
+    level:    [38, 41]
+    region:   jugner_forest_s_w_5
+
+  17113436:
+    template: Wandering_Sapling
+    level:    [38, 41]
+    region:   jugner_forest_s_sw_12
+
+  17113437:
+    template: Wandering_Sapling
+    level:    [38, 41]
+    region:   jugner_forest_s_sw_6
+
+  17113438:
+    template: Wandering_Sapling
+    level:    [38, 41]
+    region:   jugner_forest_s_sw_22
+
+  17113439:
+    template: Wandering_Sapling
+    level:    [38, 41]
+    region:   jugner_forest_s_sw_10
+
+  17113440:
+    template: Brutal_Sheep
+    at:       [-279.891, -0.113, -106.545, 41]
+    level:    [39, 41]
+
+  17113441:
+    template: Brutal_Sheep
+    level:    [39, 41]
+    region:   jugner_forest_s_w_8
+
+  17113442:
+    template: Brutal_Sheep
+    level:    [39, 41]
+    region:   jugner_forest_s_w_7
+
+  17113443:
+    template: Brutal_Sheep
+    level:    [39, 41]
+    region:   jugner_forest_s_c
+
+  17113444:
+    template: Brutal_Sheep
+    level:    [39, 41]
+    region:   jugner_forest_s_sw_24
+
+  17113445:
+    template: Brutal_Sheep
+    level:    [39, 41]
+    region:   jugner_forest_s_sw_15
+
+  17113446:
+    template: Brutal_Sheep
+    level:    [39, 41]
+    region:   jugner_forest_s_sw_9
+
+  17113447:
+    template: Skeleton_Esquire
+    at:       [-465.958, -1.012, -361.569, 59]
+    level:    [75, 75]
+
+  17113448:
+    template: Skeleton_Esquire
+    level:    [75, 75]
+    region:   jugner_forest_s_sw_10
+
+  17113449:
+    template: Skeleton_Esquire
+    at:       [-569.940, -1.934, -436.309, 21]
+    level:    [75, 75]
+
+  17113450:
+    template: Skeleton_Esquire
+    level:    [75, 75]
+    region:   jugner_forest_s_sw_8
+
+  17113451:
+    template: Thunder_Elemental
+    at:       [-386.007, -0.767, -333.078, 215]
+    level:    [50, 50]
+
+  17113452:
+    template: Walking_Tree
+    level:    [48, 49]
+    region:   jugner_forest_s_w_6
+
+  17113453:
+    template: Walking_Tree
+    level:    [48, 49]
+    region:   jugner_forest_s_sw_11
+
+  17113454:
+    template: Sprite
+    level:    [66, 68]
+    region:   jugner_forest_s_sw_2
+
+  17113455:
+    template: Sprite
+    level:    [66, 68]
+    region:   jugner_forest_s_w
+
+  17113456:
+    template: Sprite
+    level:    [66, 68]
+    region:   jugner_forest_s_c_7
+
+  17113457:
+    template: Sprite
+    level:    [66, 68]
+    region:   jugner_forest_s_n
+
+  17113458:
+    template: Sprite
+    level:    [66, 68]
+    region:   jugner_forest_s_s_10
+
+  17113459:
+    template: Sprite
+    level:    [66, 68]
+    region:   jugner_forest_s_se
+
+  17113460:
+    template: Sprite
+    level:    [66, 68]
+    region:   jugner_forest_s_c_16
+
+  17113461:
+    template: Sprite
+    level:    [66, 68]
+    region:   jugner_forest_s_ne
+
+  17113462:
+    template: Fingerfilcher_Dradzad
+    at:       [63.775, 0.263, 324.493, 7]
+    level:    [62, 65]
+
+  17113463:
+    template: Vulkodlac
+    at:       [10.949, -12.659, -510.149, 99]
+    level:    [74, 78]
+
+  17113464:
+    template: Cobraclaw_Buchzvotch
+    at:       [2.195, -0.066, -293.161, 250]
+    level:    [78, 85]
+
+  17113465:
+    template: Orcish_Transporter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17113466:
+    template: Orcish_Guard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17113467:
+    template: Orcish_Guard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17113468:
+    template: Dark_Ixion
+    at:       [-191.510, -0.280, 91.963, 66]
+    level:    [85, 85]
+
+  17113469:
+    template: Zmag_Ognjeni_Vuk
+    at:       [-563.315, -0.360, -440.764, 215]
+    level:    [0, 0]
+
+  17113470:
+    template: Greater_Gnole
+    at:       [-561.365, -0.308, -440.635, 116]
+    level:    [1, 1]
+
+  17113471:
+    template: Greater_Gnole
+    at:       [-565.272, -0.335, -438.815, 47]
+    level:    [1, 1]
+
+  17113472:
+    template: Greater_Gnole
+    at:       [-562.378, -0.069, -439.777, 96]
+    level:    [1, 1]
+
+  17113473:
+    template: Greater_Gnole
+    at:       [-565.305, -0.129, -440.235, 39]
+    level:    [1, 1]
+
+  17113474:
+    template: Greater_Gnole
+    at:       [-563.844, -0.280, -438.991, 69]
+    level:    [1, 1]
+
+  17113475:
+    template: Greater_Gnole
+    at:       [-560.716, -0.086, -441.452, 166]
+    level:    [1, 1]
+
+  17113476:
+    template: Treefeller_Snogrog
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113477:
+    template: Tainted_Treant
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113478:
+    template: Tainted_Treant
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113479:
+    template: Tainted_Treant
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113480:
+    template: Pixietrap
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113481:
+    template: Pixietrap
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113482:
+    template: Pixietrap
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113483:
+    template: Pixietrap
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113484:
+    template: Sentry_Sapling
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113485:
+    template: Sentry_Sapling
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113486:
+    template: Sentry_Sapling
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113487:
+    template: Sentry_Sapling
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113488:
+    template: Sentry_Sapling
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113489:
+    template: Yilbegan
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [90, 92]
+
+  17113490:
+    template: Krabkatoa
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [85, 85]
+
+  17113491:
+    template: Yacumama
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [82, 82]
+
+  17113492:
+    template: Capricornus
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [82, 82]
+
+  17113493:
+    template: Quagmire_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17113494:
+    template: Quagmire_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17113495:
+    template: Quagmire_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17113496:
+    template: Quagmire_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17113497:
+    template: Sunderclaw
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17113498:
+    template: Sunderclaw
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17113499:
+    template: Sunderclaw
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17113500:
+    template: Sunderclaw
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17113501:
+    template: Valaineral_R_Davilles
+    level:    [0, 0]
+    region:   jugner_forest_s_c_17
+
+  17113502:
+    template: Royal_Guard
+    level:    [0, 0]
+    region:   jugner_forest_s_c_17
+
+  17113503:
+    template: Royal_Guard
+    level:    [0, 0]
+    region:   jugner_forest_s_c_17
+
+  17113504:
+    template: Royal_Guard
+    level:    [0, 0]
+    region:   jugner_forest_s_c_17
+
+  17113505:
+    template: Royal_Guard
+    level:    [0, 0]
+    region:   jugner_forest_s_c_17
+
+  17113506:
+    template: Royal_Guard
+    level:    [0, 0]
+    region:   jugner_forest_s_c_17
+
+  17113507:
+    template: Royal_Guard
+    level:    [0, 0]
+    region:   jugner_forest_s_c_17
+
+  17113508:
+    template: Royal_Guard
+    level:    [0, 0]
+    region:   jugner_forest_s_c_17
+
+  17113509:
+    template: Royal_Guard
+    level:    [0, 0]
+    region:   jugner_forest_s_c_17
+
+  17113510:
+    template: Royal_Guard
+    level:    [0, 0]
+    region:   jugner_forest_s_c_17
+
+  17113511:
+    template: Leonoyne
+    at:       [0.000, 0.000, 0.000, 93]
+    level:    [0, 0]
+
+  17113512:
+    template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 87]
+    level:    [0, 0]
+
+  17113513:
+    template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 183]
+    level:    [0, 0]
+
+  17113514:
+    template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 7]
+    level:    [0, 0]
+
+  17113515:
+    template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 120]
+    level:    [0, 0]
+
+  17113516:
+    template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 40]
+    level:    [0, 0]
+
+  17113517:
+    template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 169]
+    level:    [0, 0]
+
+  17113518:
+    template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 225]
+    level:    [0, 0]
+
+  17113519:
+    template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 193]
+    level:    [0, 0]
+
+  17113520:
+    template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 128]
+    level:    [0, 0]
+
+  17113521:
+    template: Ashmea_B_Greinner
+    at:       [0.000, 0.000, 0.000, 170]
+    level:    [0, 0]
+
+  17113522:
+    template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 77]
+    level:    [0, 0]
+
+  17113523:
+    template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 202]
+    level:    [0, 0]
+
+  17113524:
+    template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 216]
+    level:    [0, 0]
+
+  17113525:
+    template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 108]
+    level:    [0, 0]
+
+  17113526:
+    template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 226]
+    level:    [0, 0]
+
+  17113527:
+    template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 183]
+    level:    [0, 0]
+
+  17113528:
+    template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 77]
+    level:    [0, 0]
+
+  17113529:
+    template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 106]
+    level:    [0, 0]
+
+  17113530:
+    template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 199]
+    level:    [0, 0]
+
+  17113531:
+    template: Feldrautte_I_Rouhent
+    at:       [0.000, 0.000, 0.000, 16]
+    level:    [0, 0]
+
+  17113532:
+    template: Norvallen_Knight
+    at:       [0.000, 0.000, 0.000, 36]
+    level:    [0, 0]
+
+  17113533:
+    template: Norvallen_Knight
+    at:       [0.000, 0.000, 0.000, 8]
+    level:    [0, 0]
+
+  17113534:
+    template: Norvallen_Knight
+    at:       [0.000, 0.000, 0.000, 193]
+    level:    [0, 0]
+
+  17113535:
+    template: Norvallen_Knight
+    at:       [0.000, 0.000, 0.000, 97]
+    level:    [0, 0]
+
+  17113536:
+    template: Norvallen_Knight
+    at:       [0.000, 0.000, 0.000, 244]
+    level:    [0, 0]
+
+  17113537:
+    template: Norvallen_Knight
+    at:       [0.000, 0.000, 0.000, 52]
+    level:    [0, 0]
+
+  17113538:
+    template: Norvallen_Knight
+    at:       [0.000, 0.000, 0.000, 184]
+    level:    [0, 0]
+
+  17113539:
+    template: Norvallen_Knight
+    at:       [0.000, 0.000, 0.000, 21]
+    level:    [0, 0]
+
+  17113540:
+    template: Norvallen_Knight
+    level:    [0, 0]
+    region:   jugner_forest_s_c_17
+
+  17113541:
+    template: Yrvaulair_S_Cousseraux
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17113542:
+    template: Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17113543:
+    template: Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17113544:
+    template: Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17113545:
+    template: Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17113546:
+    template: Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17113547:
+    template: Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17113548:
+    template: Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17113549:
+    template: Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17113550:
+    template: Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17113551:
+    template: Laisavie_X_Berlends
+    level:    [70, 70]
+    region:   jugner_forest_s_c_17
+
+  17113552:
+    template: Silver_Fox_Archer
+    level:    [70, 70]
+    region:   jugner_forest_s_c_17
+
+  17113553:
+    template: Silver_Fox_Archer
+    level:    [70, 70]
+    region:   jugner_forest_s_c_17
+
+  17113554:
+    template: Silver_Fox_Archer
+    level:    [70, 70]
+    region:   jugner_forest_s_c_17
+
+  17113555:
+    template: Silver_Fox_Archer
+    level:    [70, 70]
+    region:   jugner_forest_s_c_17
+
+  17113556:
+    template: Silver_Fox_Archer
+    level:    [70, 70]
+    region:   jugner_forest_s_c_17
+
+  17113557:
+    template: Silver_Fox_Archer
+    level:    [70, 70]
+    region:   jugner_forest_s_c_17
+
+  17113558:
+    template: Silver_Fox_Archer
+    level:    [70, 70]
+    region:   jugner_forest_s_c_17
+
+  17113559:
+    template: Silver_Fox_Archer
+    level:    [70, 70]
+    region:   jugner_forest_s_c_17
+
+  17113560:
+    template: Silver_Fox_Archer
+    level:    [70, 70]
+    region:   jugner_forest_s_c_17
+
+  17113561:
+    template: Gold_Badger_Esquire
+    level:    [0, 0]
+    region:   jugner_forest_s_sw_4
+
+  17113562:
+    template: Gold_Badger_Esquire
+    level:    [0, 0]
+    region:   jugner_forest_s_c_47
+
+  17113563:
+    template: Gold_Badger_Esquire
+    level:    [0, 0]
+    region:   jugner_forest_s_c_34
+
+  17113564:
+    template: Gold_Badger_Esquire
+    level:    [0, 0]
+    region:   jugner_forest_s_c_26
+
+  17113565:
+    template: Gold_Badger_Esquire
+    level:    [0, 0]
+    region:   jugner_forest_s_c_46
+
+  17113566:
+    template: Gold_Badger_Esquire
+    level:    [0, 0]
+    region:   jugner_forest_s_c_46
+
+  17113567:
+    template: Allied_Mantelet
+    at:       [37.432, -0.497, -4.039, 160]
+    level:    [0, 0]
+
+  17113568:
+    template: Allied_Mantelet
+    at:       [83.672, -0.500, -41.409, 32]
+    level:    [0, 0]
+
+  17113569:
+    template: Allied_Mantelet
+    at:       [74.547, -0.336, 2.895, 224]
+    level:    [0, 0]
+
+  17113570:
+    template: Allied_Mantelet
+    at:       [82.676, -0.428, -5.435, 224]
+    level:    [0, 0]
+
+  17113571:
+    template: Allied_Mantelet
+    at:       [45.467, -0.426, -44.605, 96]
+    level:    [0, 0]
+
+  17113572:
+    template: Allied_Mantelet
+    at:       [38.090, -0.494, -35.880, 96]
+    level:    [0, 0]
+
+  17113573:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113574:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113575:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113576:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113577:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113578:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113579:
+    template: Allied_Belfry
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113580:
+    template: Royal_Banneret
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113581:
+    template: Royal_Banneret
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113582:
+    template: Royal_Banneret
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113583:
+    template: Royal_Banneret
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113584:
+    template: Royal_Banneret
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113585:
+    template: Royal_Banneret
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113586:
+    template: Allied_Armored_Belfry
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17113587:
+    template: Royal_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17113588:
+    template: Royal_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17113589:
+    template: Royal_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17113590:
+    template: Royal_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17113591:
+    template: Royal_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17113592:
+    template: Royal_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17113593:
+    template: Royal_Palliator
+    level:    [60, 60]
+    region:   jugner_forest_s_c_17
+
+  17113594:
+    template: Royal_Palliator
+    level:    [60, 60]
+    region:   jugner_forest_s_c_17
+
+  17113595:
+    template: Royal_Palliator
+    level:    [60, 60]
+    region:   jugner_forest_s_c_17
+
+  17113596:
+    template: Royal_Palliator
+    level:    [60, 60]
+    region:   jugner_forest_s_c_17
+
+  17113597:
+    template: Royal_Palliator
+    level:    [60, 60]
+    region:   jugner_forest_s_c_17
+
+  17113598:
+    template: Royal_Palliator
+    level:    [60, 60]
+    region:   jugner_forest_s_c_17
+
+  17113599:
+    template: Royal_Provisioner
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17113600:
+    template: Royal_Provisioner
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17113601:
+    template: Royal_Provisioner
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17113602:
+    template: Conqueror_Bakgodek
+    at:       [50.513, -0.099, -10.197, 209]
+    level:    [75, 80]
+
+  17113603:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 218]
+    level:    [60, 60]
+
+  17113604:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 106]
+    level:    [60, 60]
+
+  17113605:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 15]
+    level:    [60, 60]
+
+  17113606:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 101]
+    level:    [60, 60]
+
+  17113607:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 29]
+    level:    [60, 60]
+
+  17113608:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 255]
+    level:    [60, 60]
+
+  17113609:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 152]
+    level:    [60, 60]
+
+  17113610:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 17]
+    level:    [60, 60]
+
+  17113611:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 163]
+    level:    [60, 60]
+
+  17113612:
+    template: One-eyed_Gwajboj
+    level:    [75, 80]
+    region:   jugner_forest_s_nw_9
+
+  17113613:
+    template: Gutrender_Trooper
+    level:    [75, 80]
+    region:   jugner_forest_s_nw_13
+
+  17113614:
+    template: Gutrender_Trooper
+    level:    [75, 80]
+    region:   jugner_forest_s_nw_10
+
+  17113615:
+    template: Gutrender_Trooper
+    level:    [75, 80]
+    region:   jugner_forest_s_nw_11
+
+  17113616:
+    template: Gutrender_Trooper
+    level:    [75, 80]
+    region:   jugner_forest_s_nw_15
+
+  17113617:
+    template: Gutrender_Trooper
+    level:    [75, 80]
+    region:   jugner_forest_s_nw_10
+
+  17113618:
+    template: Gutrender_Trooper
+    level:    [75, 80]
+    region:   jugner_forest_s_nw_18
+
+  17113619:
+    template: Gutrender_Trooper
+    level:    [75, 80]
+    region:   jugner_forest_s_c_37
+
+  17113620:
+    template: Gutrender_Trooper
+    level:    [75, 80]
+    region:   jugner_forest_s_nw_14
+
+  17113621:
+    template: Gutrender_Trooper
+    level:    [75, 80]
+    region:   jugner_forest_s_nw_12
+
+  17113622:
+    template: Deathlord_Rojgnoj
+    level:    [70, 70]
+    region:   jugner_forest_s_nw_16
+
+  17113623:
+    template: Spinebeak_Neckchopper
+    level:    [70, 70]
+    region:   jugner_forest_s_c_27
+
+  17113624:
+    template: Spinebeak_Neckchopper
+    level:    [70, 70]
+    region:   jugner_forest_s_ne_21
+
+  17113625:
+    template: Spinebeak_Neckchopper
+    level:    [70, 70]
+    region:   jugner_forest_s_ne_22
+
+  17113626:
+    template: Spinebeak_Neckchopper
+    level:    [70, 70]
+    region:   jugner_forest_s_nw_9
+
+  17113627:
+    template: Spinebeak_Neckchopper
+    level:    [70, 70]
+    region:   jugner_forest_s_ne_23
+
+  17113628:
+    template: Spinebeak_Neckchopper
+    level:    [70, 70]
+    region:   jugner_forest_s_nw_9
+
+  17113629:
+    template: Spinebeak_Neckchopper
+    level:    [70, 70]
+    region:   jugner_forest_s_nw_17
+
+  17113630:
+    template: Spinebeak_Neckchopper
+    level:    [70, 70]
+    region:   jugner_forest_s_c_24
+
+  17113631:
+    template: Spinebeak_Neckchopper
+    level:    [70, 70]
+    region:   jugner_forest_s_s_12
+
+  17113632:
+    template: Jagidbods_Warmachine
+    at:       [46.017, -0.362, -35.277, 171]
+    level:    [60, 60]
+
+  17113633:
+    template: Jagidbod_of_Clan_Reaper
+    at:       [46.016, -0.363, -35.277, 181]
+    level:    [0, 0]
+
+  17113634:
+    template: Clan_Reaper_Grunt
+    at:       [0.000, 0.000, 0.000, 27]
+    level:    [0, 0]
+
+  17113635:
+    template: Clan_Reaper_Grunt
+    at:       [0.000, 0.000, 0.000, 252]
+    level:    [0, 0]
+
+  17113636:
+    template: Clan_Reaper_Grunt
+    at:       [0.000, 0.000, 0.000, 155]
+    level:    [0, 0]
+
+  17113637:
+    template: Clan_Reaper_Grunt
+    at:       [0.000, 0.000, 0.000, 113]
+    level:    [0, 0]
+
+  17113638:
+    template: Clan_Reaper_Grunt
+    at:       [0.000, 0.000, 0.000, 117]
+    level:    [0, 0]
+
+  17113639:
+    template: Clan_Reaper_Grunt
+    at:       [0.000, 0.000, 0.000, 113]
+    level:    [0, 0]
+
+  17113640:
+    template: Clan_Reaper_Grunt
+    at:       [0.000, 0.000, 0.000, 5]
+    level:    [0, 0]
+
+  17113641:
+    template: Clan_Reaper_Grunt
+    at:       [0.000, 0.000, 0.000, 113]
+    level:    [0, 0]
+
+  17113642:
+    template: Clan_Reaper_Grunt
+    at:       [0.000, 0.000, 0.000, 243]
+    level:    [0, 0]
+
+  17113643:
+    template: Alpha_Gnole_Anders
+    level:    [0, 0]
+    region:   jugner_forest_s_se_6
+
+  17113644:
+    template: Anderss_Guard
+    level:    [60, 60]
+    region:   jugner_forest_s_ne_24
+
+  17113645:
+    template: Anderss_Guard
+    level:    [60, 60]
+    region:   jugner_forest_s_ne_24
+
+  17113646:
+    template: Moonfang_Warrior
+    level:    [60, 60]
+    region:   jugner_forest_s_c_20
+
+  17113647:
+    template: Moonfang_Warrior
+    level:    [60, 60]
+    region:   jugner_forest_s_s_33
+
+  17113648:
+    template: Moonfang_Warrior
+    level:    [60, 60]
+    region:   jugner_forest_s_c_25
+
+  17113649:
+    template: Moonfang_Warrior
+    level:    [60, 60]
+    region:   jugner_forest_s_c_33
+
+  17113650:
+    template: Moonfang_Warrior
+    level:    [60, 60]
+    region:   jugner_forest_s_c_39
+
+  17113651:
+    template: Moonfang_Warrior
+    level:    [60, 60]
+    region:   jugner_forest_s_ne_25
+
+  17113652:
+    template: Moonfang_Warrior
+    level:    [60, 60]
+    region:   jugner_forest_s_ne_26
+
+  17113653:
+    template: Moonfang_Warrior
+    level:    [60, 60]
+    region:   jugner_forest_s_ne_27
+
+  17113654:
+    template: Moonfang_Warrior
+    level:    [60, 60]
+    region:   jugner_forest_s_c_29
+
+  17113655:
+    template: Steelbiter_Gudrud
+    level:    [70, 70]
+    region:   jugner_forest_s_c_22
+
+  17113656:
+    template: Bloodwing_Impaler
+    level:    [70, 70]
+    region:   jugner_forest_s_c_19
+
+  17113657:
+    template: Bloodwing_Impaler
+    level:    [70, 70]
+    region:   jugner_forest_s_c_31
+
+  17113658:
+    template: Bloodwing_Impaler
+    level:    [70, 70]
+    region:   jugner_forest_s_c_17
+
+  17113659:
+    template: Bloodwing_Impaler
+    level:    [70, 70]
+    region:   jugner_forest_s_c_21
+
+  17113660:
+    template: Bloodwing_Impaler
+    at:       [55.929, 0.292, -38.227, 246]
+    level:    [70, 70]
+
+  17113661:
+    template: Bloodwing_Impaler
+    at:       [49.593, -0.099, -28.916, 201]
+    level:    [70, 70]
+
+  17113662:
+    template: Bloodwing_Impaler
+    at:       [60.281, 0.485, -37.482, 238]
+    level:    [70, 70]
+
+  17113663:
+    template: Bloodwing_Impaler
+    at:       [0.000, 0.000, 0.000, 243]
+    level:    [70, 70]
+
+  17113664:
+    template: Bloodwing_Impaler
+    at:       [49.497, -0.099, -27.730, 206]
+    level:    [70, 70]
+
+  17113665:
+    template: Clan_Bear_Fighter
+    at:       [0.000, 0.000, 0.000, 59]
+    level:    [0, 0]
+
+  17113666:
+    template: Clan_Bear_Fighter
+    at:       [0.000, 0.000, 0.000, 39]
+    level:    [0, 0]
+
+  17113667:
+    template: Clan_Bear_Fighter
+    at:       [0.000, 0.000, 0.000, 33]
+    level:    [0, 0]
+
+  17113668:
+    template: Clan_Bear_Fighter
+    at:       [0.000, 0.000, 0.000, 28]
+    level:    [0, 0]
+
+  17113669:
+    template: Clan_Bear_Fighter
+    level:    [0, 0]
+    region:   jugner_forest_s_ne_28
+
+  17113670:
+    template: Clan_Bear_Fighter
+    level:    [0, 0]
+    region:   jugner_forest_s_ne_29
+
+  17113671:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17113672:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17113673:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17113674:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17113675:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17113676:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17113677:
+    template: Iron_Bomb
+    at:       [50.075, -0.099, -15.906, 235]
+    level:    [75, 80]
+
+  17113678:
+    template: Iron_Bomb
+    at:       [49.925, -0.099, -15.286, 248]
+    level:    [75, 80]
+
+  17113679:
+    template: Iron_Bomb
+    at:       [60.924, 0.072, -9.704, 54]
+    level:    [75, 80]
+
+  17113680:
+    template: Iron_Bomb
+    at:       [60.992, 0.063, -9.824, 55]
+    level:    [75, 80]
+
+  17113681:
+    template: Iron_Bomb
+    at:       [70.763, 0.107, -25.721, 109]
+    level:    [75, 80]
+
+  17113682:
+    template: Iron_Bomb
+    at:       [60.431, 0.073, -9.680, 44]
+    level:    [75, 80]
+
+  17113683:
+    template: Confederate_Belfry
+    at:       [101.988, -2.174, -49.027, 162]
+    level:    [75, 80]
+
+  17113684:
+    template: Orcish_Strongarm
+    level:    [60, 60]
+    region:   jugner_forest_s_c_23
+
+  17113685:
+    template: Orcish_Strongarm
+    level:    [60, 60]
+    region:   jugner_forest_s_c_23
+
+  17113686:
+    template: Orcish_Strongarm
+    at:       [55.036, -0.048, 4.766, 255]
+    level:    [60, 60]
+
+  17113687:
+    template: Orcish_Strongarm
+    level:    [60, 60]
+    region:   jugner_forest_s_c_18
+
+  17113688:
+    template: Orcish_Strongarm
+    at:       [89.666, -0.185, 12.439, 120]
+    level:    [60, 60]
+
+  17113689:
+    template: Orcish_Strongarm
+    at:       [60.176, 0.491, -40.134, 132]
+    level:    [60, 60]
+
+  17113690:
+    template: Orcish_Turret
+    level:    [60, 60]
+    region:   jugner_forest_s_ne_24
+
+  17113691:
+    template: War_Smilodon
+    at:       [46.853, -0.140, -31.656, 124]
+    level:    [59, 60]
+
+  17113692:
+    template: War_Smilodon
+    level:    [59, 60]
+    region:   jugner_forest_s_c_36
+
+  17113693:
+    template: War_Smilodon
+    level:    [59, 60]
+    region:   jugner_forest_s_c_35
+
+  17113694:
+    template: War_Smilodon
+    at:       [75.486, -0.474, -43.297, 243]
+    level:    [59, 60]
+
+  17113695:
+    template: War_Smilodon
+    at:       [78.984, 0.480, -27.130, 133]
+    level:    [59, 60]
+
+  17113696:
+    template: War_Smilodon
+    at:       [74.629, 0.249, -15.779, 242]
+    level:    [59, 60]
+
+  17113697:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17113698:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17113699:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17113700:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17113701:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17113702:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17113703:
+    template: Shadowhorn
+    at:       [53.555, 0.016, -6.683, 17]
+    level:    [75, 80]
+
+  17113704:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 143]
+    level:    [60, 60]
+
+  17113705:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 94]
+    level:    [60, 60]
+
+  17113706:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 235]
+    level:    [60, 60]
+
+  17113707:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 114]
+    level:    [60, 60]
+
+  17113708:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 173]
+    level:    [60, 60]
+
+  17113709:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 63]
+    level:    [60, 60]
+
+  17113710:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17113711:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 222]
+    level:    [60, 60]
+
+  17113712:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 196]
+    level:    [60, 60]
+
+  17113713:
+    template: Shadowhand
+    at:       [0.000, 0.000, 0.000, 60]
+    level:    [75, 80]
+
+  17113714:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 207]
+    level:    [60, 60]
+
+  17113715:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 124]
+    level:    [60, 60]
+
+  17113716:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 166]
+    level:    [60, 60]
+
+  17113717:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 250]
+    level:    [60, 60]
+
+  17113718:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 28]
+    level:    [60, 60]
+
+  17113719:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 184]
+    level:    [60, 60]
+
+  17113720:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 133]
+    level:    [60, 60]
+
+  17113721:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 163]
+    level:    [60, 60]
+
+  17113722:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 28]
+    level:    [60, 60]
+
+  17113723:
+    template: Shadowfang
+    at:       [80.902, -0.500, -0.455, 180]
+    level:    [50, 50]
+
+  17113724:
+    template: Shadowfang_Void
+    at:       [81.286, 0.144, -14.449, 228]
+    level:    [50, 50]
+
+  17113725:
+    template: Shadowfang_Void
+    at:       [84.990, -0.441, 4.793, 65]
+    level:    [50, 50]
+
+  17113726:
+    template: Shadowfang_Void
+    at:       [81.599, 0.353, -17.068, 192]
+    level:    [50, 50]
+
+  17113727:
+    template: Shadowfang_Void
+    at:       [75.141, 0.364, -21.412, 36]
+    level:    [50, 50]
+
+  17113728:
+    template: Shadowfang_Void
+    at:       [77.362, 0.408, -18.176, 240]
+    level:    [50, 50]
+
+  17113729:
+    template: Shadowfang_Void
+    at:       [101.938, -0.939, -9.181, 66]
+    level:    [50, 50]
+
+  17113730:
+    template: Shadowfang_Void
+    at:       [61.476, 0.132, -7.420, 229]
+    level:    [50, 50]
+
+  17113731:
+    template: Shadowfang_Void
+    at:       [95.945, -0.384, -6.447, 108]
+    level:    [50, 50]
+
+  17113732:
+    template: Shadowfang_Void
+    at:       [97.386, -0.482, -6.966, 121]
+    level:    [50, 50]
+
+  17113733:
+    template: Shadoweye
+    at:       [57.721, 0.386, -37.890, 136]
+    level:    [1, 1]
+
+  17113734:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 249]
+    level:    [1, 1]
+
+  17113735:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 122]
+    level:    [1, 1]
+
+  17113736:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 126]
+    level:    [1, 1]
+
+  17113737:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 5]
+    level:    [1, 1]
+
+  17113738:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 181]
+    level:    [1, 1]
+
+  17113739:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 120]
+    level:    [1, 1]
+
+  17113740:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 178]
+    level:    [1, 1]
+
+  17113741:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 222]
+    level:    [1, 1]
+
+  17113742:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 127]
+    level:    [1, 1]
+
+  17113743:
+    template: Fortification
+    at:       [50.633, -0.109, -24.577, 0]
+    level:    [1, 1]
+
+  17113744:
+    template: Fortification
+    at:       [51.815, -0.100, -14.922, 0]
+    level:    [1, 1]
+
+  17113745:
+    template: Fortification
+    at:       [61.311, -0.097, -11.333, 0]
+    level:    [1, 1]
+
+  17113746:
+    template: Fortification
+    at:       [69.133, -0.068, -26.508, 0]
+    level:    [1, 1]
+
+  17113747:
+    template: Rikoh_Wahcondalo
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113748:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113749:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113750:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113751:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113752:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113753:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113754:
+    template: Dalzakk
+    at:       [0.000, 0.000, 0.000, 62]
+    level:    [1, 1]
+
+  17113755:
+    template: Oggbi
+    at:       [44.237, -0.235, -9.296, 140]
+    level:    [1, 1]
+
+  17113756:
+    template: Rainemard
+    at:       [0.000, 0.000, 0.000, 200]
+    level:    [1, 1]
+
+  17113757:
+    template: Maat
+    at:       [0.000, 0.000, 0.000, 73]
+    level:    [1, 1]
+
+  17113758:
+    template: Degenhard
+    at:       [43.458, -0.337, -7.249, 117]
+    level:    [1, 1]
+
+  17113759:
+    template: Azima
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113760:
+    template: Choh_Moui
+    at:       [0.000, 0.000, 0.000, 253]
+    level:    [0, 0]
+
+  17113761:
+    template: Chigoe
+    at:       [42.322, -0.353, -33.259, 247]
+    level:    [1, 1]
+
+  17113762:
+    template: Chigoe
+    at:       [42.321, -0.352, -33.252, 247]
+    level:    [1, 1]
+
+  17113763:
+    template: Chigoe
+    at:       [42.320, -0.351, -33.249, 247]
+    level:    [1, 1]
+
+  17113764:
+    template: Chigoe
+    at:       [42.321, -0.350, -33.252, 247]
+    level:    [1, 1]
+
+  17113765:
+    template: Chigoe
+    at:       [42.323, -0.349, -33.261, 247]
+    level:    [1, 1]
+
+  17113766:
+    template: Chigoe
+    at:       [42.325, -0.348, -33.278, 247]
+    level:    [1, 1]
+
+  17113767:
+    template: Chigoe
+    at:       [42.328, -0.347, -33.301, 247]
+    level:    [1, 1]
+
+  17113768:
+    template: Chigoe
+    at:       [42.330, -0.347, -33.332, 246]
+    level:    [1, 1]
+
+  17113769:
+    template: Azo
+    at:       [0.000, 0.000, 0.000, 189]
+    level:    [1, 1]
+
+  17113770:
+    template: Vahi
+    at:       [0.000, 0.000, 0.000, 134]
+    level:    [75, 80]
+
+  17113771:
+    template: Rongo-Nango
+    at:       [0.000, 0.000, 0.000, 200]
+    level:    [60, 60]
+
+  17113772:
+    template: Lerren
+    at:       [44.607, -0.352, -33.661, 137]
+    level:    [60, 60]
+
+  17113773:
+    template: Jajaro
+    at:       [44.859, -0.330, -33.466, 132]
+    level:    [60, 60]
+
+  17113774:
+    template: Popochu
+    at:       [41.734, 0.160, -25.398, 210]
+    level:    [1, 1]
+
+  17113775:
+    template: Papako
+    at:       [41.973, 0.201, -24.980, 210]
+    level:    [1, 1]
+
+  17113776:
+    template: Momowa
+    at:       [36.376, -0.008, -30.037, 221]
+    level:    [1, 1]
+
+  17113777:
+    template: Ulla
+    level:    [1, 1]
+    region:   jugner_forest_s_sw_5
+
+  17113778:
+    template: Kilhwch
+    level:    [1, 1]
+    region:   jugner_forest_s_c_38
+
+  17113779:
+    template: Alfons
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113780:
+    template: Achtelle
+    at:       [0.000, 0.000, 0.000, 193]
+    level:    [0, 0]
+
+  17113781:
+    template: Bravo
+    at:       [74.878, -0.049, -30.509, 195]
+    level:    [1, 1]
+
+  17113782:
+    template: Duskraven
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17113783:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113784:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113785:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113786:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113787:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113788:
+    template: Areuhat
+    at:       [48.056, -0.068, -17.328, 96]
+    level:    [1, 1]
+
+  17113789:
+    template: Odzmanouk
+    at:       [0.000, 0.000, 0.000, 140]
+    level:    [75, 80]
+
+  17113790:
+    template: Boodlix
+    at:       [74.437, -0.148, -30.051, 35]
+    level:    [60, 60]
+
+  17113791:
+    template: Goblin_Lansquenet
+    at:       [0.000, 0.000, 0.000, 120]
+    level:    [60, 60]
+
+  17113792:
+    template: Goblin_Lansquenet
+    at:       [0.000, 0.000, 0.000, 181]
+    level:    [60, 60]
+
+  17113793:
+    template: Goblin_Lansquenet
+    at:       [102.910, 0.680, 17.329, 195]
+    level:    [60, 60]
+
+  17113794:
+    template: Titania
+    at:       [0.000, 0.000, 0.000, 109]
+    level:    [75, 75]
+
+  17113795:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 107]
+    level:    [60, 60]
+
+  17113796:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 108]
+    level:    [60, 60]
+
+  17113797:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 106]
+    level:    [60, 60]
+
+  17113798:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 157]
+    level:    [60, 60]
+
+  17113799:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 213]
+    level:    [60, 60]
+
+  17113800:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 212]
+    level:    [60, 60]
+
+  17113801:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 212]
+    level:    [60, 60]
+
+  17113802:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 213]
+    level:    [60, 60]
+
+  17113803:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 213]
+    level:    [60, 60]
+
+  17113804:
+    template: Babban_Ny_Mheillea
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17113805:
+    template: Abenzio
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113806:
+    template: Bryher
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113807:
+    template: Camlin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113808:
+    template: Darach
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113809:
+    template: Raigegue_R_dOraguille
+    at:       [85.813, -0.409, 0.935, 109]
+    level:    [0, 0]
+
+  17113810:
+    template: Ancient_Royal_Knight
+    at:       [88.873, -0.425, -10.268, 5]
+    level:    [0, 0]
+
+  17113811:
+    template: Ancient_Royal_Knight
+    at:       [89.250, -0.452, -10.204, 5]
+    level:    [0, 0]
+
+  17113812:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 187]
+    level:    [0, 0]
+
+  17113813:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 205]
+    level:    [0, 0]
+
+  17113814:
+    template: Eurytos
+    at:       [77.987, 0.130, -25.690, 213]
+    level:    [0, 0]
+
+  17113815:
+    template: Gigas_Mercenary
+    at:       [79.488, -0.324, -7.513, 191]
+    level:    [1, 1]
+
+  17113816:
+    template: Gigas_Mercenary
+    at:       [77.827, -0.193, -10.138, 192]
+    level:    [1, 1]
+
+  17113817:
+    template: Poroggo_Prince
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113818:
+    template: Poroggo_Servant
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113819:
+    template: Poroggo_Servant
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113820:
+    template: Poroggo_Servant
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113821:
+    template: Kaiser_Behemoth
+    at:       [51.549, -0.099, -34.442, 144]
+    level:    [1, 1]
+
+  17113822:
+    template: Ferreous_Coffin
+    at:       [0.000, 0.000, 0.000, 206]
+    level:    [1, 1]
+
+  17113823:
+    template: Lewenhart
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17113824:
+    template: Auroral_Alicorn
+    at:       [0.000, 0.000, 0.000, 65]
+    level:    [68, 68]
+
+  17113825:
+    template: Auroral_Alicorn
+    level:    [68, 68]
+    region:   jugner_forest_s_e_10
+
+  17113826:
+    template: Kholomodumo
+    at:       [76.136, -2.075, 115.319, 93]
+    level:    [93, 94]
+
+  17113827:
+    template: Kholomodumo
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [93, 94]
+
+  17113828:
+    template: Kholomodumo
+    at:       [-329.225, -0.540, -142.080, 54]
+    level:    [93, 94]
+
+  17113836:
+    template: Rainemard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]

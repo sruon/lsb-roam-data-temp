@@ -1,0 +1,1773 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17293313:
+    template: Qufim_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [25, 27]
+
+  17293314:
+    template: Greater_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [28, 29]
+
+  17293315:
+    template: Sea_Bishop
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [31, 32]
+
+  17293316:
+    template: Vepar
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [35, 36]
+
+  17293317:
+    template: Kraken
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [39, 40]
+
+  17293318:
+    template: Kraken
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [39, 40]
+
+  17293319:
+    template: Seeker_Bats
+    level:    [26, 27]
+    region:   qufim_island_se
+
+  17293320:
+    template: Seeker_Bats
+    level:    [26, 27]
+    region:   qufim_island_se
+
+  17293321:
+    template: Dancing_Weapon
+    level:    [28, 29]
+    region:   qufim_island_se_2
+
+  17293322:
+    template: Seeker_Bats
+    level:    [26, 27]
+    region:   qufim_island_se_3
+
+  17293323:
+    template: Seeker_Bats
+    level:    [26, 27]
+    region:   qufim_island_se_3
+
+  17293324:
+    template: Dancing_Weapon
+    level:    [28, 29]
+    region:   qufim_island_se_4
+
+  17293325:
+    template: Dancing_Weapon
+    level:    [28, 29]
+    region:   qufim_island_se_4
+
+  17293326:
+    template: Seeker_Bats
+    level:    [26, 27]
+    region:   qufim_island_e_12
+
+  17293327:
+    template: Seeker_Bats
+    level:    [26, 27]
+    region:   qufim_island_e_12
+
+  17293328:
+    template: Dancing_Weapon
+    level:    [28, 29]
+    region:   qufim_island_e_13
+
+  17293329:
+    template: Land_Worm
+    level:    [26, 27]
+    region:   qufim_island_e_11
+
+  17293330:
+    template: Land_Worm
+    level:    [26, 27]
+    region:   qufim_island_e_11
+
+  17293331:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_e_4
+
+  17293332:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_e_4
+
+  17293333:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_e_4
+
+  17293334:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_e_4
+
+  17293335:
+    template: Land_Worm
+    level:    [26, 27]
+    region:   qufim_island_e_4
+
+  17293336:
+    template: Land_Worm
+    level:    [26, 27]
+    region:   qufim_island_e_4
+
+  17293337:
+    template: Land_Worm
+    level:    [26, 27]
+    region:   qufim_island_e_4
+
+  17293338:
+    template: Dark_Bats
+    level:    [26, 27]
+    region:   qufim_island_e_4
+
+  17293339:
+    template: Dark_Bats
+    level:    [26, 27]
+    region:   qufim_island_e_4
+
+  17293340:
+    template: Glow_Bat
+    level:    [28, 29]
+    region:   qufim_island_e_4
+
+  17293341:
+    template: Giant_Ranger
+    at:       [97.597, -19.730, 37.542, 127]
+    level:    [29, 30]
+
+  17293342:
+    template: Giant_Ascetic
+    at:       [111.750, -20.287, 38.986, 117]
+    level:    [29, 30]
+
+  17293343:
+    template: Giant_Trapper
+    level:    [29, 30]
+    region:   qufim_island_e_4
+
+  17293344:
+    template: Gigass_Leech
+    level:    [24, 25]
+    region:   qufim_island_e_4
+
+  17293345:
+    template: Giant_Hunter
+    level:    [29, 30]
+    region:   qufim_island_e_7
+
+  17293346:
+    template: Giant_Ranger
+    level:    [29, 30]
+    region:   qufim_island_e_6
+
+  17293347:
+    template: Giant_Ascetic
+    level:    [29, 30]
+    region:   qufim_island_e_4
+
+  17293348:
+    template: Giant_Trapper
+    level:    [29, 30]
+    region:   qufim_island_e_4
+
+  17293349:
+    template: Gigass_Leech
+    level:    [24, 25]
+    region:   qufim_island_e_4
+
+  17293350:
+    template: Giant_Hunter
+    at:       [115.523, -19.538, 20.287, 83]
+    level:    [29, 30]
+
+  17293351:
+    template: Wight
+    level:    [28, 29]
+    region:   qufim_island_e_4
+
+  17293352:
+    template: Wight
+    level:    [28, 29]
+    region:   qufim_island_e_4
+
+  17293353:
+    template: Light_Elemental
+    at:       [121.291, -20.500, 2.152, 58]
+    level:    [35, 36]
+
+  17293354:
+    template: Dancing_Weapon
+    level:    [28, 29]
+    region:   qufim_island_e_9
+
+  17293355:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_e
+
+  17293356:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_e
+
+  17293357:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_e
+
+  17293358:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_e
+
+  17293359:
+    template: Greater_Pugil
+    level:    [28, 29]
+    region:   qufim_island_e
+
+  17293360:
+    template: Greater_Pugil
+    level:    [28, 29]
+    region:   qufim_island_e
+
+  17293361:
+    template: Greater_Pugil
+    level:    [28, 29]
+    region:   qufim_island_e
+
+  17293362:
+    template: Greater_Pugil
+    level:    [28, 29]
+    region:   qufim_island_e
+
+  17293363:
+    template: Greater_Pugil
+    level:    [28, 29]
+    region:   qufim_island_e
+
+  17293364:
+    template: Greater_Pugil
+    level:    [28, 29]
+    region:   qufim_island_e
+
+  17293365:
+    template: Banshee
+    level:    [31, 32]
+    region:   qufim_island_e
+
+  17293366:
+    template: Thunder_Elemental
+    level:    [35, 36]
+    region:   qufim_island_e
+
+  17293367:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_e_2
+
+  17293368:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_e_2
+
+  17293369:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_e_2
+
+  17293370:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_e_2
+
+  17293371:
+    template: Land_Worm
+    level:    [26, 27]
+    region:   qufim_island_e_2
+
+  17293372:
+    template: Land_Worm
+    level:    [26, 27]
+    region:   qufim_island_e_2
+
+  17293373:
+    template: Dark_Bats
+    level:    [26, 27]
+    region:   qufim_island_e_2
+
+  17293374:
+    template: Dark_Bats
+    level:    [26, 27]
+    region:   qufim_island_e_2
+
+  17293375:
+    template: Glow_Bat
+    level:    [28, 29]
+    region:   qufim_island_e_2
+
+  17293376:
+    template: Giant_Ranger
+    at:       [74.000, -19.000, 7.000, 119]
+    level:    [29, 30]
+
+  17293377:
+    template: Giant_Ascetic
+    at:       [-1.926, -19.806, -14.932, 127]
+    level:    [29, 30]
+
+  17293378:
+    template: Giant_Trapper
+    at:       [77.477, -20.500, 38.876, 127]
+    level:    [29, 30]
+
+  17293379:
+    template: Gigass_Leech
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [24, 25]
+
+  17293380:
+    template: Giant_Hunter
+    at:       [51.665, -20.414, -26.076, 75]
+    level:    [29, 30]
+
+  17293381:
+    template: Giant_Ranger
+    at:       [12.640, -20.527, -13.221, 111]
+    level:    [29, 30]
+
+  17293382:
+    template: Giant_Ascetic
+    level:    [29, 30]
+    region:   qufim_island_e_2
+
+  17293383:
+    template: Giant_Trapper
+    at:       [20.400, -19.578, -0.345, 21]
+    level:    [29, 30]
+
+  17293384:
+    template: Gigass_Leech
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [24, 25]
+
+  17293385:
+    template: Giant_Hunter
+    level:    [29, 30]
+    region:   qufim_island_e_2
+
+  17293386:
+    template: Wight
+    level:    [28, 29]
+    region:   qufim_island_e_2
+
+  17293387:
+    template: Wight
+    level:    [28, 29]
+    region:   qufim_island_e_2
+
+  17293388:
+    template: Light_Elemental
+    at:       [39.310, -20.596, 6.468, 218]
+    level:    [35, 36]
+
+  17293389:
+    template: Slippery_Sucker
+    level:    [41, 42]
+    region:   qufim_island_e_2
+
+  17293390:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_e_10
+
+  17293391:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_e_10
+
+  17293392:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_e_10
+
+  17293393:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_e_10
+
+  17293394:
+    template: Land_Worm
+    level:    [26, 27]
+    region:   qufim_island_e_10
+
+  17293395:
+    template: Land_Worm
+    level:    [26, 27]
+    region:   qufim_island_e_10
+
+  17293396:
+    template: Dark_Bats
+    level:    [26, 27]
+    region:   qufim_island_e_10
+
+  17293397:
+    template: Dark_Bats
+    level:    [26, 27]
+    region:   qufim_island_e_10
+
+  17293398:
+    template: Glow_Bat
+    level:    [28, 29]
+    region:   qufim_island_e_10
+
+  17293399:
+    template: Giant_Ranger
+    at:       [90.540, -20.397, 85.499, 127]
+    level:    [29, 30]
+
+  17293400:
+    template: Giant_Ascetic
+    at:       [138.488, -20.106, 69.028, 127]
+    level:    [29, 30]
+
+  17293401:
+    template: Giant_Trapper
+    at:       [169.804, -20.842, 104.269, 127]
+    level:    [29, 30]
+
+  17293402:
+    template: Gigass_Leech
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [24, 25]
+
+  17293403:
+    template: Giant_Hunter
+    level:    [29, 30]
+    region:   qufim_island_e_10
+
+  17293404:
+    template: Wight
+    level:    [28, 29]
+    region:   qufim_island_e_10
+
+  17293405:
+    template: Wight
+    level:    [28, 29]
+    region:   qufim_island_e_10
+
+  17293406:
+    template: Light_Elemental
+    at:       [139.842, -19.704, 115.860, 127]
+    level:    [35, 36]
+
+  17293407:
+    template: Banshee
+    at:       [203.302, -20.631, 113.160, 28]
+    level:    [31, 32]
+
+  17293408:
+    template: Banshee
+    at:       [204.455, -20.519, 117.017, 127]
+    level:    [31, 32]
+
+  17293409:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_e_8
+
+  17293410:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_e_8
+
+  17293411:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_e_8
+
+  17293412:
+    template: Land_Worm
+    level:    [26, 27]
+    region:   qufim_island_e_8
+
+  17293413:
+    template: Land_Worm
+    level:    [26, 27]
+    region:   qufim_island_e_8
+
+  17293414:
+    template: Dark_Bats
+    level:    [26, 27]
+    region:   qufim_island_e_8
+
+  17293415:
+    template: Glow_Bat
+    level:    [28, 29]
+    region:   qufim_island_e_8
+
+  17293416:
+    template: Glow_Bat
+    level:    [28, 29]
+    region:   qufim_island_e_8
+
+  17293417:
+    template: Giant_Ranger
+    at:       [108.174, -20.348, 166.835, 127]
+    level:    [29, 30]
+
+  17293418:
+    template: Giant_Ascetic
+    level:    [29, 30]
+    region:   qufim_island_e_8
+
+  17293419:
+    template: Giant_Trapper
+    at:       [80.891, -20.286, 168.266, 127]
+    level:    [29, 30]
+
+  17293420:
+    template: Gigass_Leech
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [24, 25]
+
+  17293421:
+    template: Giant_Hunter
+    at:       [161.947, -19.796, 144.966, 19]
+    level:    [29, 30]
+
+  17293422:
+    template: Wight
+    level:    [28, 29]
+    region:   qufim_island_e_8
+
+  17293423:
+    template: Wight
+    level:    [28, 29]
+    region:   qufim_island_e_8
+
+  17293424:
+    template: Light_Elemental
+    at:       [168.190, -20.220, 118.955, 5]
+    level:    [35, 36]
+
+  17293425:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_c_6
+
+  17293426:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_c_6
+
+  17293427:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_c_6
+
+  17293428:
+    template: Wight
+    level:    [28, 29]
+    region:   qufim_island_c_6
+
+  17293429:
+    template: Wight
+    level:    [28, 29]
+    region:   qufim_island_c_6
+
+  17293430:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_c_9
+
+  17293431:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_c_9
+
+  17293432:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_c_9
+
+  17293433:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_c_9
+
+  17293434:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_c_9
+
+  17293435:
+    template: Land_Worm
+    level:    [26, 27]
+    region:   qufim_island_c_9
+
+  17293436:
+    template: Land_Worm
+    level:    [26, 27]
+    region:   qufim_island_c_9
+
+  17293437:
+    template: Land_Worm
+    level:    [26, 27]
+    region:   qufim_island_c_9
+
+  17293438:
+    template: Land_Worm
+    level:    [26, 27]
+    region:   qufim_island_c_9
+
+  17293439:
+    template: Land_Worm
+    level:    [26, 27]
+    region:   qufim_island_c_9
+
+  17293440:
+    template: Banshee
+    level:    [31, 32]
+    region:   qufim_island_c_9
+
+  17293441:
+    template: Banshee
+    level:    [31, 32]
+    region:   qufim_island_c_9
+
+  17293442:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_ne_2
+
+  17293443:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_ne_2
+
+  17293444:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_ne_2
+
+  17293445:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_ne_2
+
+  17293446:
+    template: Land_Worm
+    level:    [26, 27]
+    region:   qufim_island_ne_2
+
+  17293447:
+    template: Land_Worm
+    level:    [26, 27]
+    region:   qufim_island_ne_2
+
+  17293448:
+    template: Dark_Bats
+    level:    [26, 27]
+    region:   qufim_island_ne_2
+
+  17293449:
+    template: Dark_Bats
+    level:    [26, 27]
+    region:   qufim_island_ne_2
+
+  17293450:
+    template: Glow_Bat
+    level:    [28, 29]
+    region:   qufim_island_ne_2
+
+  17293451:
+    template: Giant_Ranger
+    at:       [11.573, -20.561, 224.654, 38]
+    level:    [29, 30]
+
+  17293452:
+    template: Giant_Ascetic
+    level:    [29, 30]
+    region:   qufim_island_ne_2
+
+  17293453:
+    template: Giant_Trapper
+    at:       [67.965, -20.090, 201.971, 127]
+    level:    [29, 30]
+
+  17293454:
+    template: Gigass_Leech
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [24, 25]
+
+  17293455:
+    template: Giant_Hunter
+    at:       [0.510, -20.454, 245.121, 10]
+    level:    [29, 30]
+
+  17293456:
+    template: Wight
+    level:    [28, 29]
+    region:   qufim_island_ne_2
+
+  17293457:
+    template: Wight
+    level:    [28, 29]
+    region:   qufim_island_ne_2
+
+  17293458:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_ne
+
+  17293459:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_ne
+
+  17293460:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_ne
+
+  17293461:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_ne
+
+  17293462:
+    template: Greater_Pugil
+    level:    [28, 29]
+    region:   qufim_island_ne
+
+  17293463:
+    template: Greater_Pugil
+    level:    [28, 29]
+    region:   qufim_island_ne
+
+  17293464:
+    template: Greater_Pugil
+    level:    [28, 29]
+    region:   qufim_island_ne
+
+  17293465:
+    template: Greater_Pugil
+    level:    [28, 29]
+    region:   qufim_island_ne
+
+  17293466:
+    template: Greater_Pugil
+    level:    [28, 29]
+    region:   qufim_island_ne
+
+  17293467:
+    template: Greater_Pugil
+    level:    [28, 29]
+    region:   qufim_island_ne
+
+  17293468:
+    template: Banshee
+    level:    [31, 32]
+    region:   qufim_island_ne
+
+  17293469:
+    template: Thunder_Elemental
+    level:    [35, 36]
+    region:   qufim_island_ne
+
+  17293470:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_c
+
+  17293471:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_c
+
+  17293472:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_c
+
+  17293473:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_c
+
+  17293474:
+    template: Greater_Pugil
+    level:    [28, 29]
+    region:   qufim_island_c
+
+  17293475:
+    template: Greater_Pugil
+    level:    [28, 29]
+    region:   qufim_island_c
+
+  17293476:
+    template: Greater_Pugil
+    level:    [28, 29]
+    region:   qufim_island_c
+
+  17293477:
+    template: Greater_Pugil
+    level:    [28, 29]
+    region:   qufim_island_c
+
+  17293478:
+    template: Acrophies
+    level:    [33, 34]
+    region:   qufim_island_c
+
+  17293479:
+    template: Acrophies
+    level:    [33, 34]
+    region:   qufim_island_c
+
+  17293480:
+    template: Acrophies
+    level:    [33, 34]
+    region:   qufim_island_c
+
+  17293481:
+    template: Acrophies
+    level:    [33, 34]
+    region:   qufim_island_c
+
+  17293482:
+    template: Banshee
+    level:    [31, 32]
+    region:   qufim_island_c
+
+  17293483:
+    template: Banshee
+    level:    [31, 32]
+    region:   qufim_island_c
+
+  17293484:
+    template: Thunder_Elemental
+    level:    [35, 36]
+    region:   qufim_island_c
+
+  17293485:
+    template: Atkorkamuy
+    level:    [73, 74]
+    region:   qufim_island_c
+
+  17293487:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_c_3
+
+  17293488:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_c_3
+
+  17293489:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_c_3
+
+  17293490:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_c_3
+
+  17293491:
+    template: Dark_Bats
+    level:    [26, 27]
+    region:   qufim_island_c_3
+
+  17293492:
+    template: Dark_Bats
+    level:    [26, 27]
+    region:   qufim_island_c_3
+
+  17293493:
+    template: Acrophies
+    level:    [33, 34]
+    region:   qufim_island_c_3
+
+  17293494:
+    template: Acrophies
+    level:    [33, 34]
+    region:   qufim_island_c_3
+
+  17293495:
+    template: Glow_Bat
+    level:    [28, 29]
+    region:   qufim_island_c_3
+
+  17293496:
+    template: Giant_Ranger
+    level:    [29, 30]
+    region:   qufim_island_c_3
+
+  17293497:
+    template: Giant_Ascetic
+    level:    [29, 30]
+    region:   qufim_island_c_3
+
+  17293498:
+    template: Giant_Trapper
+    level:    [29, 30]
+    region:   qufim_island_c_4
+
+  17293499:
+    template: Gigass_Leech
+    level:    [24, 25]
+    region:   qufim_island_c_4
+
+  17293500:
+    template: Giant_Hunter
+    level:    [29, 30]
+    region:   qufim_island_c_3
+
+  17293501:
+    template: Wight
+    level:    [28, 29]
+    region:   qufim_island_c_3
+
+  17293502:
+    template: Wight
+    level:    [28, 29]
+    region:   qufim_island_c_3
+
+  17293503:
+    template: Wight
+    level:    [28, 29]
+    region:   qufim_island_c_3
+
+  17293504:
+    template: Light_Elemental
+    at:       [-174.144, -20.287, 56.401, 127]
+    level:    [35, 36]
+
+  17293505:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_c_7
+
+  17293506:
+    template: Wight
+    level:    [28, 29]
+    region:   qufim_island_c_7
+
+  17293507:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_n
+
+  17293508:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_n
+
+  17293509:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_n
+
+  17293510:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_n
+
+  17293511:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_n
+
+  17293512:
+    template: Dark_Bats
+    level:    [26, 27]
+    region:   qufim_island_n
+
+  17293513:
+    template: Dark_Bats
+    level:    [26, 27]
+    region:   qufim_island_n
+
+  17293514:
+    template: Acrophies
+    level:    [33, 34]
+    region:   qufim_island_n
+
+  17293515:
+    template: Acrophies
+    level:    [33, 34]
+    region:   qufim_island_n
+
+  17293516:
+    template: Acrophies
+    level:    [33, 34]
+    region:   qufim_island_n
+
+  17293517:
+    template: Glow_Bat
+    level:    [28, 29]
+    region:   qufim_island_n
+
+  17293518:
+    template: Glow_Bat
+    level:    [28, 29]
+    region:   qufim_island_n
+
+  17293519:
+    template: Giant_Ranger
+    level:    [29, 30]
+    region:   qufim_island_n
+
+  17293520:
+    template: Giant_Ascetic
+    at:       [-177.398, -20.682, 190.872, 72]
+    level:    [29, 30]
+
+  17293521:
+    template: Giant_Trapper
+    at:       [-202.000, -19.000, 176.000, 23]
+    level:    [29, 30]
+
+  17293522:
+    template: Gigass_Leech
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [24, 25]
+
+  17293523:
+    template: Giant_Hunter
+    level:    [29, 30]
+    region:   qufim_island_n
+
+  17293524:
+    template: Giant_Ranger
+    at:       [-185.000, -19.000, 71.000, 73]
+    level:    [29, 30]
+
+  17293525:
+    template: Giant_Ascetic
+    level:    [29, 30]
+    region:   qufim_island_n
+
+  17293526:
+    template: Giant_Trapper
+    level:    [29, 30]
+    region:   qufim_island_n_8
+
+  17293527:
+    template: Gigass_Leech
+    level:    [24, 25]
+    region:   qufim_island_n_8
+
+  17293528:
+    template: Giant_Hunter
+    at:       [-133.569, -20.469, 224.158, 127]
+    level:    [29, 30]
+
+  17293529:
+    template: Wight
+    level:    [28, 29]
+    region:   qufim_island_n
+
+  17293530:
+    template: Wight
+    level:    [28, 29]
+    region:   qufim_island_n
+
+  17293531:
+    template: Wight
+    level:    [28, 29]
+    region:   qufim_island_n
+
+  17293532:
+    template: Light_Elemental
+    at:       [-258.393, -20.497, 264.160, 127]
+    level:    [35, 36]
+
+  17293533:
+    template: Dancing_Weapon
+    level:    [28, 29]
+    region:   qufim_island_n_6
+
+  17293534:
+    template: Dancing_Weapon
+    level:    [28, 29]
+    region:   qufim_island_n_6
+
+  17293535:
+    template: Dancing_Weapon
+    level:    [28, 29]
+    region:   qufim_island_n_6
+
+  17293536:
+    template: Dancing_Weapon
+    level:    [28, 29]
+    region:   qufim_island_n_6
+
+  17293537:
+    template: Trickster_Kinetix
+    at:       [-159.000, -19.000, 244.000, 127]
+    level:    [35, 36]
+
+  17293538:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_n_3
+
+  17293539:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_n_3
+
+  17293540:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_n_3
+
+  17293541:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_n_3
+
+  17293542:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_n_3
+
+  17293543:
+    template: Dark_Bats
+    level:    [26, 27]
+    region:   qufim_island_n_3
+
+  17293544:
+    template: Dark_Bats
+    level:    [26, 27]
+    region:   qufim_island_n_3
+
+  17293545:
+    template: Dark_Bats
+    level:    [26, 27]
+    region:   qufim_island_n_3
+
+  17293546:
+    template: Acrophies
+    level:    [33, 34]
+    region:   qufim_island_n_3
+
+  17293547:
+    template: Acrophies
+    level:    [33, 34]
+    region:   qufim_island_n_3
+
+  17293548:
+    template: Acrophies
+    level:    [33, 34]
+    region:   qufim_island_n_3
+
+  17293549:
+    template: Glow_Bat
+    level:    [28, 29]
+    region:   qufim_island_n_3
+
+  17293550:
+    template: Giant_Ranger
+    level:    [29, 30]
+    region:   qufim_island_n_3
+
+  17293551:
+    template: Giant_Ascetic
+    at:       [-227.000, -19.000, 240.000, 127]
+    level:    [29, 30]
+
+  17293552:
+    template: Giant_Trapper
+    level:    [29, 30]
+    region:   qufim_island_n_4
+
+  17293553:
+    template: Gigass_Leech
+    level:    [24, 25]
+    region:   qufim_island_n_4
+
+  17293554:
+    template: Giant_Hunter
+    at:       [-126.000, -19.000, 284.000, 53]
+    level:    [29, 30]
+
+  17293555:
+    template: Giant_Ranger
+    at:       [-106.174, -19.917, 276.835, 124]
+    level:    [29, 30]
+
+  17293556:
+    template: Giant_Ascetic
+    level:    [29, 30]
+    region:   qufim_island_n_3
+
+  17293557:
+    template: Giant_Trapper
+    level:    [29, 30]
+    region:   qufim_island_n_5
+
+  17293558:
+    template: Gigass_Leech
+    level:    [24, 25]
+    region:   qufim_island_n_5
+
+  17293559:
+    template: Giant_Hunter
+    level:    [29, 30]
+    region:   qufim_island_n_11
+
+  17293560:
+    template: Wight
+    level:    [28, 29]
+    region:   qufim_island_n_3
+
+  17293561:
+    template: Wight
+    level:    [28, 29]
+    region:   qufim_island_n_3
+
+  17293562:
+    template: Wight
+    level:    [28, 29]
+    region:   qufim_island_n_3
+
+  17293563:
+    template: Light_Elemental
+    at:       [-173.685, -20.224, 311.977, 127]
+    level:    [35, 36]
+
+  17293564:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_n_2
+
+  17293565:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_n_2
+
+  17293566:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_n_2
+
+  17293567:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_n_2
+
+  17293568:
+    template: Dark_Bats
+    level:    [26, 27]
+    region:   qufim_island_n_2
+
+  17293569:
+    template: Dark_Bats
+    level:    [26, 27]
+    region:   qufim_island_n_2
+
+  17293570:
+    template: Acrophies
+    level:    [33, 34]
+    region:   qufim_island_n_2
+
+  17293571:
+    template: Acrophies
+    level:    [33, 34]
+    region:   qufim_island_n_2
+
+  17293572:
+    template: Glow_Bat
+    level:    [28, 29]
+    region:   qufim_island_n_2
+
+  17293573:
+    template: Glow_Bat
+    level:    [28, 29]
+    region:   qufim_island_n_2
+
+  17293574:
+    template: Giant_Ranger
+    level:    [29, 30]
+    region:   qufim_island_n_2
+
+  17293575:
+    template: Giant_Ascetic
+    level:    [29, 30]
+    region:   qufim_island_n_2
+
+  17293576:
+    template: Giant_Trapper
+    level:    [29, 30]
+    region:   qufim_island_n_7
+
+  17293577:
+    template: Gigass_Leech
+    level:    [24, 25]
+    region:   qufim_island_n_7
+
+  17293578:
+    template: Giant_Hunter
+    level:    [29, 30]
+    region:   qufim_island_n_2
+
+  17293579:
+    template: Wight
+    level:    [28, 29]
+    region:   qufim_island_n_2
+
+  17293580:
+    template: Wight
+    level:    [28, 29]
+    region:   qufim_island_n_2
+
+  17293581:
+    template: Light_Elemental
+    at:       [-248.703, -20.264, 397.951, 50]
+    level:    [35, 36]
+
+  17293582:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_n_9
+
+  17293583:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_n_9
+
+  17293584:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_n_9
+
+  17293585:
+    template: Clipper
+    level:    [28, 29]
+    region:   qufim_island_n_9
+
+  17293586:
+    template: Greater_Pugil
+    level:    [28, 29]
+    region:   qufim_island_n_9
+
+  17293587:
+    template: Greater_Pugil
+    level:    [28, 29]
+    region:   qufim_island_n_9
+
+  17293588:
+    template: Greater_Pugil
+    level:    [28, 29]
+    region:   qufim_island_n_9
+
+  17293589:
+    template: Greater_Pugil
+    level:    [28, 29]
+    region:   qufim_island_n_9
+
+  17293590:
+    template: Acrophies
+    level:    [33, 34]
+    region:   qufim_island_n_9
+
+  17293591:
+    template: Acrophies
+    level:    [33, 34]
+    region:   qufim_island_n_9
+
+  17293592:
+    template: Acrophies
+    level:    [33, 34]
+    region:   qufim_island_n_9
+
+  17293593:
+    template: Acrophies
+    level:    [33, 34]
+    region:   qufim_island_n_9
+
+  17293594:
+    template: Banshee
+    level:    [31, 32]
+    region:   qufim_island_n_9
+
+  17293595:
+    template: Banshee
+    level:    [31, 32]
+    region:   qufim_island_n_9
+
+  17293596:
+    template: Thunder_Elemental
+    level:    [35, 36]
+    region:   qufim_island_n_9
+
+  17293597:
+    template: Qoofim
+    level:    [47, 48]
+    region:   qufim_island_n_9
+
+  17293598:
+    template: Seeker_Bats
+    level:    [26, 27]
+    region:   qufim_island_nw_3
+
+  17293599:
+    template: Seeker_Bats
+    level:    [26, 27]
+    region:   qufim_island_nw_3
+
+  17293600:
+    template: Seeker_Bats
+    level:    [26, 27]
+    region:   qufim_island_nw_3
+
+  17293601:
+    template: Ancient_Bat
+    level:    [28, 29]
+    region:   qufim_island_nw_3
+
+  17293602:
+    template: Ancient_Bat
+    level:    [28, 29]
+    region:   qufim_island_nw_3
+
+  17293603:
+    template: Wight
+    at:       [-339.128, -12.994, 533.764, 90]
+    level:    [28, 29]
+
+  17293604:
+    template: Wight
+    at:       [-335.886, -13.522, 532.259, 19]
+    level:    [28, 29]
+
+  17293605:
+    template: Seeker_Bats
+    level:    [26, 27]
+    region:   qufim_island_nw_2
+
+  17293606:
+    template: Seeker_Bats
+    level:    [26, 27]
+    region:   qufim_island_nw_2
+
+  17293607:
+    template: Ancient_Bat
+    level:    [28, 29]
+    region:   qufim_island_nw_2
+
+  17293608:
+    template: Ancient_Bat
+    level:    [28, 29]
+    region:   qufim_island_nw_2
+
+  17293609:
+    template: Wight
+    at:       [-427.571, -12.507, 337.510, 80]
+    level:    [28, 29]
+
+  17293610:
+    template: Wight
+    at:       [-419.158, -11.386, 339.963, 109]
+    level:    [28, 29]
+
+  17293611:
+    template: Seeker_Bats
+    level:    [26, 27]
+    region:   qufim_island_nw
+
+  17293612:
+    template: Seeker_Bats
+    level:    [26, 27]
+    region:   qufim_island_nw
+
+  17293613:
+    template: Ancient_Bat
+    level:    [28, 29]
+    region:   qufim_island_nw
+
+  17293614:
+    template: Ancient_Bat
+    level:    [28, 29]
+    region:   qufim_island_nw
+
+  17293615:
+    template: Dancing_Weapon
+    level:    [28, 29]
+    region:   qufim_island_nw
+
+  17293616:
+    template: Dancing_Weapon
+    level:    [28, 29]
+    region:   qufim_island_nw
+
+  17293617:
+    template: Hobgoblin_Warrior
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17293618:
+    template: Hobgoblin_White_Mage
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17293619:
+    template: Hobgoblin_Black_Mage
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17293620:
+    template: Hobgoblin_Red_Mage
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17293621:
+    template: Hobgoblin_Thief
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17293622:
+    template: Hobgoblin_Dark_Knight
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17293623:
+    template: Hobgoblin_Ranger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17293624:
+    template: Hobgoblin_Beastmaster
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17293625:
+    template: Goblins_Leech
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [28, 30]
+
+  17293626:
+    template: Giant_Warrior
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17293627:
+    template: Giant_Monk
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17293628:
+    template: Giant_Beastmaster
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17293629:
+    template: Giant_High_Ranger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17293630:
+    template: Gigass_Leech
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [28, 30]
+
+  17293631:
+    template: Giant_Ranger
+    at:       [-232.893, -19.857, 307.388, 95]
+    level:    [30, 35]
+
+  17293632:
+    template: Giant_Ranger
+    at:       [-238.704, -19.150, 302.990, 80]
+    level:    [30, 35]
+
+  17293633:
+    template: Giant_Hunter
+    at:       [-254.556, -20.000, 282.447, 85]
+    level:    [30, 35]
+
+  17293634:
+    template: Giant_Hunter
+    at:       [-245.696, -20.005, 281.911, 95]
+    level:    [30, 35]
+
+  17293635:
+    template: Giant_Ranger
+    at:       [-234.981, -19.267, 311.927, 90]
+    level:    [30, 35]
+
+  17293636:
+    template: Giant_Ranger
+    at:       [-246.880, -19.955, 312.185, 80]
+    level:    [30, 35]
+
+  17293637:
+    template: Giant_Hunter
+    at:       [-244.831, -19.840, 311.927, 75]
+    level:    [30, 35]
+
+  17293638:
+    template: Giant_Hunter
+    at:       [-247.139, -19.865, 310.121, 85]
+    level:    [30, 35]
+
+  17293639:
+    template: Hunting_Chief
+    at:       [-204.310, -20.014, 324.066, 90]
+    level:    [35, 35]
+
+  17293640:
+    template: Dosetsu_Tree
+    level:    [35, 35]
+    region:   qufim_island_c_5
+
+  17293641:
+    template: Ingaevon
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [53, 55]
+
+  17293642:
+    template: Malefic_Fencer
+    at:       [-316.000, -12.500, 436.000, 127]
+    level:    [32, 32]
+
+  17293643:
+    template: Seed_Mandragora
+    at:       [-121.065, -20.308, 312.177, 80]
+    level:    [32, 32]
+
+  17293644:
+    template: Seed_Mandragora
+    at:       [-121.120, -20.249, 310.996, 127]
+    level:    [32, 32]
+
+  17293645:
+    template: Seed_Mandragora
+    at:       [-120.317, -20.075, 310.818, 127]
+    level:    [32, 32]
+
+  17293646:
+    template: Seed_Mandragora
+    at:       [-122.605, -20.264, 312.834, 65]
+    level:    [32, 32]
+
+  17293647:
+    template: Seed_Mandragora
+    at:       [-120.968, -20.171, 309.438, 127]
+    level:    [32, 32]
+
+  17293648:
+    template: Kaggen
+    at:       [150.000, -20.500, 150.000, 0]
+    level:    [95, 96]
+
+  17293649:
+    template: Kaggen
+    at:       [-118.972, -19.816, 374.838, 116]
+    level:    [95, 96]
+
+  17293650:
+    template: Kaggen
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [95, 96]
+
+  17293651:
+    template: Goblin_Bounty_Hunter
+    level:    [32, 36]
+    region:   qufim_island_e_5
+
+  17293652:
+    template: Goblin_Bounty_Hunter
+    level:    [32, 36]
+    region:   qufim_island_e_3
+
+  17293653:
+    template: Goblin_Bounty_Hunter
+    level:    [32, 36]
+    region:   qufim_island_c_10
+
+  17293654:
+    template: Goblin_Bounty_Hunter
+    level:    [32, 36]
+    region:   qufim_island_c_8
+
+  17293655:
+    template: Goblin_Bounty_Hunter
+    level:    [32, 36]
+    region:   qufim_island_c_2
+
+  17293656:
+    template: Goblin_Bounty_Hunter
+    level:    [32, 36]
+    region:   qufim_island_w_2
+
+  17293657:
+    template: Goblin_Bounty_Hunter
+    level:    [32, 36]
+    region:   qufim_island_w
+
+  17293658:
+    template: Goblin_Bounty_Hunter
+    level:    [32, 36]
+    region:   qufim_island_n_10
+
+  17293659:
+    template: Goblin_Bounty_Hunter
+    level:    [32, 36]
+    region:   qufim_island_n_12
+
+  17293660:
+    template: Goblin_Bounty_Hunter
+    level:    [32, 36]
+    region:   qufim_island_ne_3
+
+  17293661:
+    template: Goblin_Bounty_Hunter
+    level:    [32, 36]
+    region:   qufim_island_ne_4
+
+  17293662:
+    template: Goblin_Bounty_Hunter
+    level:    [11, 11]
+    region:   qufim_island_c_9
+
+  17293663:
+    template: Jester_Malatrix
+    at:       [136.852, -21.084, 21.419, 220]
+    level:    [0, 0]
+
+  17293664:
+    template: Jester_Malatrix
+    at:       [-159.162, -20.500, 76.575, 154]
+    level:    [0, 0]
+
+  17293665:
+    template: Jester_Malatrix
+    at:       [-125.676, -20.286, 209.942, 223]
+    level:    [0, 0]
+
+  17293666:
+    template: Ophiotaurus
+    at:       [-198.531, -20.027, 75.318, 156]
+    level:    [43, 43]
+
+  17293671:
+    template: Awoken_Tanngrisnir
+    at:       [-189.000, -20.000, 45.000, 185]
+    level:    [119, 119]

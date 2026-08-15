@@ -1,0 +1,2503 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  16986113:
+    template: Red_Smoocher
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [65, 66]
+
+  16986114:
+    template: Azoth_Apsaras
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [68, 70]
+
+  16986115:
+    template: Red_Osculator
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [67, 71]
+
+  16986116:
+    template: Kissing_Leech
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [67, 71]
+
+  16986117:
+    template: Mercurial_Makara
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [68, 70]
+
+  16986118:
+    template: Chigoe
+    at:       [291.141, -24.079, 115.188, 173]
+    level:    [71, 73]
+
+  16986119:
+    template: Chigoe
+    at:       [176.445, -27.911, 88.478, 95]
+    level:    [71, 73]
+
+  16986120:
+    template: Chigoe
+    at:       [196.772, -24.035, 100.669, 2]
+    level:    [71, 73]
+
+  16986121:
+    template: Chigoe
+    at:       [139.364, -26.447, 298.630, 48]
+    level:    [71, 73]
+
+  16986122:
+    template: Chigoe
+    at:       [139.809, -26.213, 301.022, 94]
+    level:    [71, 73]
+
+  16986123:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   wajaom_woodlands_ne_6
+
+  16986124:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   wajaom_woodlands_ne_6
+
+  16986125:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   wajaom_woodlands_ne_5
+
+  16986126:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   wajaom_woodlands_ne_5
+
+  16986127:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   wajaom_woodlands_ne_4
+
+  16986128:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   wajaom_woodlands_ne_4
+
+  16986129:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   wajaom_woodlands_ne_2
+
+  16986130:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   wajaom_woodlands_ne_2
+
+  16986131:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   wajaom_woodlands_ne_2
+
+  16986132:
+    template: Fomor_Thief
+    level:    [63, 65]
+    region:   wajaom_woodlands_ne_2
+
+  16986133:
+    template: Fomor_Beastmaster
+    level:    [63, 65]
+    region:   wajaom_woodlands_ne_2
+
+  16986134:
+    template: Fomors_Bats
+    level:    [58, 60]
+    region:   wajaom_woodlands_ne_2
+
+  16986135:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   wajaom_woodlands_ne
+
+  16986136:
+    template: Fomor_Paladin
+    level:    [63, 65]
+    region:   wajaom_woodlands_ne
+
+  16986137:
+    template: Fomor_Bard
+    level:    [63, 65]
+    region:   wajaom_woodlands_ne
+
+  16986138:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   wajaom_woodlands_ne_3
+
+  16986139:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   wajaom_woodlands_ne_3
+
+  16986140:
+    template: Soldier_Pephredo
+    at:       [169.000, -23.000, 294.000, 127]
+    level:    [64, 65]
+
+  16986141:
+    template: Worker_Pephredo
+    at:       [163.000, -23.000, 304.000, 127]
+    level:    [62, 63]
+
+  16986142:
+    template: Worker_Pephredo
+    at:       [154.000, -23.000, 303.000, 127]
+    level:    [62, 63]
+
+  16986143:
+    template: Worker_Pephredo
+    at:       [152.000, -24.000, 294.000, 127]
+    level:    [62, 63]
+
+  16986144:
+    template: Marid
+    at:       [142.000, -26.000, 284.000, 127]
+    level:    [77, 78]
+
+  16986145:
+    template: Marid
+    at:       [133.000, -26.000, 304.000, 127]
+    level:    [77, 78]
+
+  16986146:
+    template: Red_Kisser
+    at:       [185.000, -23.000, 277.000, 127]
+    level:    [68, 69]
+
+  16986147:
+    template: Red_Kisser
+    at:       [169.000, -23.000, 277.000, 127]
+    level:    [68, 69]
+
+  16986148:
+    template: Red_Kisser
+    at:       [175.000, -23.000, 280.000, 127]
+    level:    [68, 69]
+
+  16986149:
+    template: Grand_Marid
+    at:       [138.000, -26.000, 296.000, 127]
+    level:    [79, 80]
+
+  16986150:
+    template: Marid
+    at:       [203.000, -24.000, 279.000, 127]
+    level:    [77, 78]
+
+  16986151:
+    template: Marid
+    at:       [207.000, -25.000, 294.000, 127]
+    level:    [77, 78]
+
+  16986152:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   wajaom_woodlands_n_9
+
+  16986153:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   wajaom_woodlands_n_9
+
+  16986154:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   wajaom_woodlands_n_10
+
+  16986155:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   wajaom_woodlands_n_10
+
+  16986156:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   wajaom_woodlands_n_11
+
+  16986157:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   wajaom_woodlands_n_11
+
+  16986158:
+    template: Fomor_Thief
+    level:    [63, 65]
+    region:   wajaom_woodlands_n_8
+
+  16986159:
+    template: Fomor_Paladin
+    level:    [63, 65]
+    region:   wajaom_woodlands_n_8
+
+  16986160:
+    template: Fomor_Thief
+    level:    [63, 65]
+    region:   wajaom_woodlands_n_7
+
+  16986161:
+    template: Fomor_Paladin
+    level:    [63, 65]
+    region:   wajaom_woodlands_n_7
+
+  16986162:
+    template: Fomor_Bard
+    level:    [63, 65]
+    region:   wajaom_woodlands_n_7
+
+  16986163:
+    template: Fomor_Bard
+    level:    [63, 65]
+    region:   wajaom_woodlands_n_6
+
+  16986164:
+    template: Fomor_Beastmaster
+    level:    [63, 65]
+    region:   wajaom_woodlands_n_6
+
+  16986165:
+    template: Fomors_Bats
+    level:    [58, 60]
+    region:   wajaom_woodlands_n_6
+
+  16986166:
+    template: Soldier_Pephredo
+    at:       [232.000, -19.000, 96.000, 127]
+    level:    [64, 65]
+
+  16986167:
+    template: Worker_Pephredo
+    at:       [240.000, -19.000, 100.000, 127]
+    level:    [62, 63]
+
+  16986168:
+    template: Worker_Pephredo
+    at:       [248.000, -19.000, 94.000, 127]
+    level:    [62, 63]
+
+  16986169:
+    template: Soldier_Pephredo
+    at:       [250.000, -17.000, 82.000, 127]
+    level:    [64, 65]
+
+  16986170:
+    template: Worker_Pephredo
+    at:       [245.000, -17.000, 70.000, 127]
+    level:    [62, 63]
+
+  16986171:
+    template: Worker_Pephredo
+    at:       [235.000, -16.000, 76.000, 127]
+    level:    [62, 63]
+
+  16986172:
+    template: Marid
+    at:       [286.000, -24.000, 125.000, 127]
+    level:    [77, 78]
+
+  16986173:
+    template: Marid
+    at:       [278.000, -23.000, 113.000, 127]
+    level:    [77, 78]
+
+  16986174:
+    template: Grand_Marid
+    at:       [264.000, -23.000, 105.000, 127]
+    level:    [79, 80]
+
+  16986175:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   wajaom_woodlands_e_2
+
+  16986176:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   wajaom_woodlands_e_2
+
+  16986177:
+    template: Marid
+    at:       [188.000, -24.000, 143.000, 127]
+    level:    [77, 78]
+
+  16986178:
+    template: Marid
+    at:       [157.000, -24.000, 122.000, 127]
+    level:    [77, 78]
+
+  16986179:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   wajaom_woodlands_c_16
+
+  16986180:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   wajaom_woodlands_c_16
+
+  16986181:
+    template: Red_Kisser
+    at:       [250.000, -23.000, 124.000, 127]
+    level:    [68, 69]
+
+  16986182:
+    template: Red_Kisser
+    at:       [258.000, -23.000, 121.000, 127]
+    level:    [68, 69]
+
+  16986183:
+    template: Ameretat
+    level:    [66, 68]
+    region:   wajaom_woodlands_e_3
+
+  16986184:
+    template: Ameretat
+    level:    [66, 68]
+    region:   wajaom_woodlands_e_3
+
+  16986185:
+    template: Ameretat
+    level:    [66, 68]
+    region:   wajaom_woodlands_e_3
+
+  16986186:
+    template: Wajaom_Tiger
+    level:    [67, 68]
+    region:   wajaom_woodlands_e_3
+
+  16986187:
+    template: Wajaom_Tiger
+    level:    [67, 68]
+    region:   wajaom_woodlands_e_3
+
+  16986188:
+    template: Chelicerata
+    level:    [78, 78]
+    region:   wajaom_woodlands_e_3
+
+  16986189:
+    template: Wajaom_Tiger
+    level:    [67, 68]
+    region:   wajaom_woodlands_e_4
+
+  16986190:
+    template: Wajaom_Tiger
+    level:    [67, 68]
+    region:   wajaom_woodlands_e_4
+
+  16986191:
+    template: Lesser_Colibri
+    at:       [181.000, -18.000, -63.000, 127]
+    level:    [63, 65]
+
+  16986192:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   wajaom_woodlands_e
+
+  16986193:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   wajaom_woodlands_e
+
+  16986194:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   wajaom_woodlands_e
+
+  16986195:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   wajaom_woodlands_e
+
+  16986196:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   wajaom_woodlands_e
+
+  16986197:
+    template: Zoraal_Jas_Pkuucha
+    level:    [75, 75]
+    region:   wajaom_woodlands_e
+
+  16986198:
+    template: Percipient_Zoraal_Ja
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [75, 75]
+
+  16986199:
+    template: Aht_Urhgan_Attercop
+    level:    [65, 67]
+    region:   wajaom_woodlands_c_15
+
+  16986200:
+    template: Aht_Urhgan_Attercop
+    level:    [65, 67]
+    region:   wajaom_woodlands_c_15
+
+  16986201:
+    template: Aht_Urhgan_Attercop
+    level:    [65, 67]
+    region:   wajaom_woodlands_c_15
+
+  16986202:
+    template: Aht_Urhgan_Attercop
+    level:    [65, 67]
+    region:   wajaom_woodlands_c_15
+
+  16986203:
+    template: Ameretat
+    level:    [66, 68]
+    region:   wajaom_woodlands_c_14
+
+  16986204:
+    template: Ameretat
+    level:    [66, 68]
+    region:   wajaom_woodlands_c_14
+
+  16986205:
+    template: Aht_Urhgan_Attercop
+    level:    [65, 67]
+    region:   wajaom_woodlands_c_14
+
+  16986206:
+    template: Aht_Urhgan_Attercop
+    level:    [65, 67]
+    region:   wajaom_woodlands_c_14
+
+  16986207:
+    template: Ameretat
+    level:    [66, 68]
+    region:   wajaom_woodlands_c_13
+
+  16986208:
+    template: Aht_Urhgan_Attercop
+    level:    [65, 67]
+    region:   wajaom_woodlands_c_13
+
+  16986209:
+    template: Aht_Urhgan_Attercop
+    level:    [65, 67]
+    region:   wajaom_woodlands_c_13
+
+  16986210:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   wajaom_woodlands_c_10
+
+  16986211:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   wajaom_woodlands_c_10
+
+  16986212:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   wajaom_woodlands_c_10
+
+  16986213:
+    template: Lesser_Colibri
+    level:    [63, 65]
+    region:   wajaom_woodlands_c_10
+
+  16986214:
+    template: Haunt
+    level:    [65, 66]
+    region:   wajaom_woodlands_c_10
+
+  16986215:
+    template: Ameretat
+    level:    [66, 68]
+    region:   wajaom_woodlands_c_9
+
+  16986216:
+    template: Soldier_Pephredo
+    at:       [6.000, -16.000, -290.000, 127]
+    level:    [65, 65]
+
+  16986217:
+    template: Worker_Pephredo
+    at:       [0.500, -15.000, -294.000, 127]
+    level:    [62, 63]
+
+  16986218:
+    template: Worker_Pephredo
+    at:       [2.000, -15.000, -302.000, 127]
+    level:    [62, 63]
+
+  16986219:
+    template: Worker_Pephredo
+    at:       [10.000, -16.000, -300.000, 127]
+    level:    [62, 63]
+
+  16986220:
+    template: Ameretat
+    level:    [66, 68]
+    region:   wajaom_woodlands_c_12
+
+  16986221:
+    template: Aht_Urhgan_Attercop
+    level:    [66, 67]
+    region:   wajaom_woodlands_c_12
+
+  16986222:
+    template: Aht_Urhgan_Attercop
+    level:    [66, 67]
+    region:   wajaom_woodlands_c_11
+
+  16986223:
+    template: Puk
+    level:    [68, 70]
+    region:   wajaom_woodlands_s_11
+
+  16986224:
+    template: Puk
+    level:    [68, 70]
+    region:   wajaom_woodlands_s_11
+
+  16986225:
+    template: Puk
+    level:    [68, 70]
+    region:   wajaom_woodlands_s_10
+
+  16986226:
+    template: Puk
+    level:    [68, 70]
+    region:   wajaom_woodlands_s_10
+
+  16986227:
+    template: Puk
+    level:    [68, 70]
+    region:   wajaom_woodlands_s_10
+
+  16986228:
+    template: Ameretat
+    level:    [66, 68]
+    region:   wajaom_woodlands_s_6
+
+  16986229:
+    template: Aht_Urhgan_Attercop
+    level:    [66, 67]
+    region:   wajaom_woodlands_s_6
+
+  16986230:
+    template: Aht_Urhgan_Attercop
+    level:    [66, 67]
+    region:   wajaom_woodlands_s_6
+
+  16986231:
+    template: Aht_Urhgan_Attercop
+    at:       [-80.000, -8.000, -593.000, 127]
+    level:    [66, 67]
+
+  16986232:
+    template: Aht_Urhgan_Attercop
+    at:       [-71.000, -12.000, -576.000, 127]
+    level:    [66, 67]
+
+  16986233:
+    template: Mamool_Ja_Mimicker
+    level:    [72, 73]
+    region:   wajaom_woodlands_c_8
+
+  16986234:
+    template: Woodland_Runner
+    level:    [71, 72]
+    region:   wajaom_woodlands_c_8
+
+  16986235:
+    template: Aht_Urhgan_Attercop
+    level:    [66, 67]
+    region:   wajaom_woodlands_s_9
+
+  16986236:
+    template: Aht_Urhgan_Attercop
+    level:    [66, 67]
+    region:   wajaom_woodlands_s_9
+
+  16986237:
+    template: Aht_Urhgan_Attercop
+    level:    [66, 67]
+    region:   wajaom_woodlands_s_7
+
+  16986238:
+    template: Aht_Urhgan_Attercop
+    level:    [66, 67]
+    region:   wajaom_woodlands_s_7
+
+  16986239:
+    template: Puk
+    level:    [68, 70]
+    region:   wajaom_woodlands_s_5
+
+  16986240:
+    template: Aht_Urhgan_Attercop
+    level:    [66, 67]
+    region:   wajaom_woodlands_s_5
+
+  16986241:
+    template: Aht_Urhgan_Attercop
+    at:       [-84.000, -16.000, -323.000, 127]
+    level:    [66, 67]
+
+  16986242:
+    template: Aht_Urhgan_Attercop
+    at:       [-581.000, -19.000, 162.000, 127]
+    level:    [66, 67]
+
+  16986243:
+    template: Aht_Urhgan_Attercop
+    at:       [-7.000, -15.000, -77.000, 127]
+    level:    [66, 67]
+
+  16986244:
+    template: Aht_Urhgan_Attercop
+    at:       [-556.000, -16.000, 156.000, 127]
+    level:    [66, 67]
+
+  16986245:
+    template: Puk
+    at:       [-179.000, -17.000, -460.000, 127]
+    level:    [68, 70]
+
+  16986246:
+    template: Puk
+    level:    [68, 70]
+    region:   wajaom_woodlands_s_8
+
+  16986247:
+    template: Haunt
+    level:    [65, 66]
+    region:   wajaom_woodlands_s_8
+
+  16986248:
+    template: Puk
+    at:       [-176.000, -18.000, -504.000, 127]
+    level:    [68, 70]
+
+  16986249:
+    template: Haunt
+    at:       [-64.000, -15.000, -564.000, 127]
+    level:    [65, 66]
+
+  16986250:
+    template: Puk
+    level:    [68, 70]
+    region:   wajaom_woodlands_s_4
+
+  16986251:
+    template: Puk
+    level:    [68, 70]
+    region:   wajaom_woodlands_s_4
+
+  16986252:
+    template: Puk
+    level:    [68, 70]
+    region:   wajaom_woodlands_s_4
+
+  16986253:
+    template: Puk
+    level:    [68, 70]
+    region:   wajaom_woodlands_s_4
+
+  16986254:
+    template: Soldier_Pephredo
+    at:       [-190.000, -17.000, -413.000, 127]
+    level:    [64, 65]
+
+  16986255:
+    template: Worker_Pephredo
+    at:       [-199.000, -17.000, -410.000, 127]
+    level:    [63, 64]
+
+  16986256:
+    template: Worker_Pephredo
+    at:       [-203.000, -18.000, -413.000, 127]
+    level:    [63, 64]
+
+  16986257:
+    template: Worker_Pephredo
+    at:       [-199.000, -19.000, -419.000, 127]
+    level:    [63, 64]
+
+  16986258:
+    template: Puk
+    level:    [68, 70]
+    region:   wajaom_woodlands_s_3
+
+  16986259:
+    template: Puk
+    level:    [68, 70]
+    region:   wajaom_woodlands_s_3
+
+  16986260:
+    template: Red_Kisser
+    level:    [70, 71]
+    region:   wajaom_woodlands_s_2
+
+  16986261:
+    template: Red_Kisser
+    level:    [70, 71]
+    region:   wajaom_woodlands_s_2
+
+  16986262:
+    template: Red_Kisser
+    level:    [70, 71]
+    region:   wajaom_woodlands_s_2
+
+  16986263:
+    template: Red_Kisser
+    level:    [70, 71]
+    region:   wajaom_woodlands_s_2
+
+  16986264:
+    template: Red_Kisser
+    at:       [-84.000, -15.000, -344.000, 127]
+    level:    [70, 71]
+
+  16986265:
+    template: Red_Kisser
+    at:       [-85.000, -15.000, -348.000, 127]
+    level:    [70, 71]
+
+  16986266:
+    template: Soldier_Pephredo
+    at:       [-203.000, -16.000, -395.000, 127]
+    level:    [64, 65]
+
+  16986267:
+    template: Worker_Pephredo
+    at:       [-322.000, -8.000, -512.000, 127]
+    level:    [62, 63]
+
+  16986268:
+    template: Worker_Pephredo
+    at:       [-205.000, -15.000, -403.000, 127]
+    level:    [62, 63]
+
+  16986269:
+    template: Soldier_Pephredo
+    at:       [-325.000, -8.000, -521.000, 127]
+    level:    [64, 65]
+
+  16986270:
+    template: Worker_Pephredo
+    at:       [-320.000, -8.000, -524.000, 127]
+    level:    [62, 63]
+
+  16986271:
+    template: Worker_Pephredo
+    at:       [-315.000, -8.000, -520.000, 127]
+    level:    [62, 63]
+
+  16986272:
+    template: Soldier_Pephredo
+    at:       [-263.000, -23.000, 396.000, 127]
+    level:    [64, 65]
+
+  16986273:
+    template: Worker_Pephredo
+    at:       [-286.000, -25.000, 408.000, 127]
+    level:    [62, 63]
+
+  16986274:
+    template: Worker_Pephredo
+    at:       [-290.000, -25.000, 402.000, 127]
+    level:    [62, 63]
+
+  16986275:
+    template: Defoliate_Treant
+    level:    [71, 73]
+    region:   wajaom_woodlands_n_4
+
+  16986276:
+    template: Treant_Sapling
+    level:    [66, 68]
+    region:   wajaom_woodlands_n_4
+
+  16986277:
+    template: Treant_Sapling
+    level:    [66, 68]
+    region:   wajaom_woodlands_n_4
+
+  16986278:
+    template: Treant_Sapling
+    level:    [66, 68]
+    region:   wajaom_woodlands_n_5
+
+  16986279:
+    template: Defoliate_Treant
+    level:    [71, 73]
+    region:   wajaom_woodlands_n_5
+
+  16986280:
+    template: Defoliate_Treant
+    level:    [71, 73]
+    region:   wajaom_woodlands_n_3
+
+  16986281:
+    template: Defoliate_Treant
+    level:    [71, 73]
+    region:   wajaom_woodlands_n
+
+  16986282:
+    template: Aht_Urhgan_Attercop
+    level:    [66, 67]
+    region:   wajaom_woodlands_n
+
+  16986283:
+    template: Aht_Urhgan_Attercop
+    level:    [66, 67]
+    region:   wajaom_woodlands_n_2
+
+  16986284:
+    template: Aht_Urhgan_Attercop
+    level:    [66, 67]
+    region:   wajaom_woodlands_n_2
+
+  16986285:
+    template: Aht_Urhgan_Attercop
+    level:    [66, 67]
+    region:   wajaom_woodlands_nw_3
+
+  16986286:
+    template: Aht_Urhgan_Attercop
+    level:    [66, 67]
+    region:   wajaom_woodlands_nw_3
+
+  16986287:
+    template: Aht_Urhgan_Attercop
+    level:    [66, 67]
+    region:   wajaom_woodlands_nw_3
+
+  16986288:
+    template: Aht_Urhgan_Attercop
+    level:    [66, 67]
+    region:   wajaom_woodlands_nw_3
+
+  16986289:
+    template: Colorful_Treant
+    at:       [-403.315, -24.995, 284.354, 224]
+    level:    [74, 75]
+
+  16986290:
+    template: Defoliate_Treant
+    level:    [71, 73]
+    region:   wajaom_woodlands_nw_6
+
+  16986291:
+    template: Wajaom_Tiger
+    level:    [67, 68]
+    region:   wajaom_woodlands_nw_6
+
+  16986292:
+    template: Wajaom_Tiger
+    level:    [67, 68]
+    region:   wajaom_woodlands_nw_6
+
+  16986293:
+    template: Defoliate_Treant
+    level:    [71, 73]
+    region:   wajaom_woodlands_nw_4
+
+  16986294:
+    template: Wajaom_Tiger
+    level:    [67, 68]
+    region:   wajaom_woodlands_nw_4
+
+  16986295:
+    template: Defoliate_Treant
+    level:    [71, 73]
+    region:   wajaom_woodlands_nw_5
+
+  16986296:
+    template: Wajaom_Tiger
+    level:    [67, 68]
+    region:   wajaom_woodlands_nw_5
+
+  16986297:
+    template: Wajaom_Tiger
+    level:    [67, 68]
+    region:   wajaom_woodlands_nw_5
+
+  16986298:
+    template: Wajaom_Tiger
+    level:    [67, 68]
+    region:   wajaom_woodlands_w_5
+
+  16986299:
+    template: Wajaom_Tiger
+    level:    [67, 68]
+    region:   wajaom_woodlands_w_5
+
+  16986300:
+    template: Wajaom_Tiger
+    level:    [67, 68]
+    region:   wajaom_woodlands_w_5
+
+  16986301:
+    template: Aht_Urhgan_Attercop
+    level:    [66, 67]
+    region:   wajaom_woodlands_w_5
+
+  16986302:
+    template: Aht_Urhgan_Attercop
+    level:    [66, 67]
+    region:   wajaom_woodlands_w_5
+
+  16986303:
+    template: Wajaom_Tiger
+    level:    [67, 68]
+    region:   wajaom_woodlands_w_10
+
+  16986304:
+    template: Aht_Urhgan_Attercop
+    level:    [66, 67]
+    region:   wajaom_woodlands_w_10
+
+  16986305:
+    template: Carmine_Eruca
+    level:    [70, 70]
+    region:   wajaom_woodlands_nw
+
+  16986306:
+    template: Carmine_Eruca
+    level:    [70, 70]
+    region:   wajaom_woodlands_nw
+
+  16986307:
+    template: Carmine_Eruca
+    level:    [70, 70]
+    region:   wajaom_woodlands_nw_2
+
+  16986308:
+    template: Woodtroll_Warrior
+    level:    [72, 73]
+    region:   wajaom_woodlands_nw_2
+
+  16986309:
+    template: Woodtroll_Monk
+    at:       [-816.000, -25.000, 113.000, 127]
+    level:    [72, 73]
+
+  16986310:
+    template: Woodtroll_Dark_Knight
+    level:    [72, 73]
+    region:   wajaom_woodlands_w
+
+  16986311:
+    template: Woodtroll_Ranger
+    level:    [72, 73]
+    region:   wajaom_woodlands_w
+
+  16986312:
+    template: Treant_Sapling
+    level:    [66, 68]
+    region:   wajaom_woodlands_w_9
+
+  16986313:
+    template: Defoliate_Treant
+    level:    [72, 74]
+    region:   wajaom_woodlands_w_9
+
+  16986314:
+    template: Wajaom_Tiger
+    level:    [67, 68]
+    region:   wajaom_woodlands_w_9
+
+  16986315:
+    template: Wajaom_Tiger
+    level:    [67, 68]
+    region:   wajaom_woodlands_w_9
+
+  16986316:
+    template: Treant_Sapling
+    level:    [66, 68]
+    region:   wajaom_woodlands_w_6
+
+  16986317:
+    template: Treant_Sapling
+    level:    [66, 68]
+    region:   wajaom_woodlands_w_6
+
+  16986318:
+    template: Wajaom_Tiger
+    level:    [67, 68]
+    region:   wajaom_woodlands_w_6
+
+  16986319:
+    template: Wajaom_Tiger
+    level:    [67, 68]
+    region:   wajaom_woodlands_w_6
+
+  16986320:
+    template: Gharial
+    level:    [82, 83]
+    region:   wajaom_woodlands_w_6
+
+  16986321:
+    template: Colorful_Treant
+    at:       [-499.682, -20.055, 151.664, 218]
+    level:    [74, 75]
+
+  16986322:
+    template: Treant_Sapling
+    level:    [66, 68]
+    region:   wajaom_woodlands_w_8
+
+  16986323:
+    template: Treant_Sapling
+    level:    [66, 68]
+    region:   wajaom_woodlands_w_8
+
+  16986324:
+    template: Defoliate_Treant
+    level:    [72, 74]
+    region:   wajaom_woodlands_w_7
+
+  16986325:
+    template: Defoliate_Treant
+    level:    [72, 74]
+    region:   wajaom_woodlands_w_7
+
+  16986326:
+    template: Treant_Sapling
+    level:    [66, 68]
+    region:   wajaom_woodlands_w_7
+
+  16986327:
+    template: Treant_Sapling
+    level:    [66, 68]
+    region:   wajaom_woodlands_w_7
+
+  16986328:
+    template: Treant_Sapling
+    level:    [66, 68]
+    region:   wajaom_woodlands_w_7
+
+  16986329:
+    template: Wajaom_Tiger
+    level:    [67, 68]
+    region:   wajaom_woodlands_w_7
+
+  16986330:
+    template: Wajaom_Tiger
+    level:    [67, 68]
+    region:   wajaom_woodlands_w_7
+
+  16986331:
+    template: Wajaom_Tiger
+    level:    [67, 68]
+    region:   wajaom_woodlands_w_11
+
+  16986332:
+    template: Wajaom_Tiger
+    level:    [67, 68]
+    region:   wajaom_woodlands_w_11
+
+  16986333:
+    template: Lesser_Colibri
+    level:    [64, 65]
+    region:   wajaom_woodlands_w_12
+
+  16986334:
+    template: Lesser_Colibri
+    level:    [64, 65]
+    region:   wajaom_woodlands_w_13
+
+  16986335:
+    template: Lesser_Colibri
+    level:    [64, 65]
+    region:   wajaom_woodlands_w_13
+
+  16986336:
+    template: Lesser_Colibri
+    level:    [64, 65]
+    region:   wajaom_woodlands_w_14
+
+  16986337:
+    template: Defoliate_Treant
+    level:    [72, 74]
+    region:   wajaom_woodlands_w_14
+
+  16986338:
+    template: Defoliate_Treant
+    at:       [-322.000, -16.000, 83.000, 127]
+    level:    [72, 74]
+
+  16986339:
+    template: Lesser_Colibri
+    level:    [64, 65]
+    region:   wajaom_woodlands_c_2
+
+  16986340:
+    template: Lesser_Colibri
+    level:    [64, 65]
+    region:   wajaom_woodlands_c_2
+
+  16986341:
+    template: Lesser_Colibri
+    level:    [64, 65]
+    region:   wajaom_woodlands_c_2
+
+  16986342:
+    template: Lesser_Colibri
+    level:    [64, 65]
+    region:   wajaom_woodlands_c_4
+
+  16986343:
+    template: Lesser_Colibri
+    level:    [64, 65]
+    region:   wajaom_woodlands_c_4
+
+  16986344:
+    template: Lesser_Colibri
+    level:    [64, 65]
+    region:   wajaom_woodlands_c_3
+
+  16986345:
+    template: Lesser_Colibri
+    level:    [64, 65]
+    region:   wajaom_woodlands_c_3
+
+  16986346:
+    template: Lesser_Colibri
+    level:    [64, 65]
+    region:   wajaom_woodlands_c_5
+
+  16986347:
+    template: Lesser_Colibri
+    level:    [64, 65]
+    region:   wajaom_woodlands_c_5
+
+  16986348:
+    template: Lesser_Colibri
+    level:    [64, 65]
+    region:   wajaom_woodlands_c_6
+
+  16986349:
+    template: Lesser_Colibri
+    level:    [64, 65]
+    region:   wajaom_woodlands_c_6
+
+  16986350:
+    template: Lesser_Colibri
+    level:    [64, 65]
+    region:   wajaom_woodlands_c_6
+
+  16986351:
+    template: Lesser_Colibri
+    level:    [64, 65]
+    region:   wajaom_woodlands_c_7
+
+  16986352:
+    template: Lesser_Colibri
+    level:    [64, 65]
+    region:   wajaom_woodlands_c_7
+
+  16986353:
+    template: Air_Elemental
+    level:    [75, 75]
+    region:   wajaom_woodlands_c
+
+  16986354:
+    template: Air_Elemental
+    level:    [75, 75]
+    region:   wajaom_woodlands_c
+
+  16986355:
+    template: Hydra
+    at:       [-282.000, -24.000, -1.000, 127]
+    level:    [80, 80]
+
+  16986356:
+    template: Soldier_Pephredo
+    at:       [-671.000, -8.000, -162.000, 127]
+    level:    [64, 66]
+
+  16986357:
+    template: Worker_Pephredo
+    at:       [-682.000, -8.000, -160.000, 127]
+    level:    [63, 64]
+
+  16986358:
+    template: Worker_Pephredo
+    at:       [-678.000, -7.000, -155.000, 127]
+    level:    [63, 64]
+
+  16986359:
+    template: Soldier_Pephredo
+    at:       [-688.000, -7.000, -156.000, 127]
+    level:    [64, 66]
+
+  16986360:
+    template: Worker_Pephredo
+    at:       [-683.000, -7.000, -147.000, 127]
+    level:    [63, 64]
+
+  16986361:
+    template: Worker_Pephredo
+    at:       [-694.000, -7.000, -148.000, 127]
+    level:    [63, 64]
+
+  16986362:
+    template: Mamool_Ja_Sophist
+    at:       [-677.000, -12.000, -493.000, 127]
+    level:    [72, 73]
+
+  16986363:
+    template: Mamool_Ja_Bounder
+    at:       [-714.000, -12.000, -494.000, 127]
+    level:    [72, 73]
+
+  16986364:
+    template: Mamool_Ja_Mimicker
+    at:       [-743.000, -11.000, -511.000, 127]
+    level:    [72, 73]
+
+  16986365:
+    template: Mamool_Ja_Savant
+    at:       [-742.000, -7.000, -538.000, 127]
+    level:    [72, 73]
+
+  16986366:
+    template: Great_Ameretat
+    level:    [73, 74]
+    region:   wajaom_woodlands_w_2
+
+  16986367:
+    template: Puk
+    level:    [68, 70]
+    region:   wajaom_woodlands_w_2
+
+  16986368:
+    template: Puk
+    level:    [68, 70]
+    region:   wajaom_woodlands_w_3
+
+  16986369:
+    template: Air_Elemental
+    level:    [75, 75]
+    region:   wajaom_woodlands_w_3
+
+  16986370:
+    template: Great_Ameretat
+    level:    [73, 74]
+    region:   wajaom_woodlands_w_4
+
+  16986371:
+    template: Puk
+    at:       [-618.000, -14.000, -139.000, 127]
+    level:    [68, 70]
+
+  16986372:
+    template: Puk
+    level:    [68, 70]
+    region:   wajaom_woodlands_sw_4
+
+  16986373:
+    template: Puk
+    level:    [68, 70]
+    region:   wajaom_woodlands_sw_4
+
+  16986374:
+    template: Puk
+    level:    [68, 70]
+    region:   wajaom_woodlands_sw_6
+
+  16986375:
+    template: Great_Ameretat
+    level:    [73, 74]
+    region:   wajaom_woodlands_sw_6
+
+  16986376:
+    template: Great_Ameretat
+    level:    [73, 74]
+    region:   wajaom_woodlands_sw_7
+
+  16986377:
+    template: Great_Ameretat
+    level:    [73, 74]
+    region:   wajaom_woodlands_sw_7
+
+  16986378:
+    template: Jaded_Jody
+    at:       [-572.000, -8.500, -335.000, 127]
+    level:    [80, 80]
+
+  16986379:
+    template: Puk
+    level:    [68, 70]
+    region:   wajaom_woodlands_sw_5
+
+  16986380:
+    template: Great_Ameretat
+    level:    [73, 74]
+    region:   wajaom_woodlands_sw_5
+
+  16986381:
+    template: Great_Ameretat
+    level:    [73, 74]
+    region:   wajaom_woodlands_sw_3
+
+  16986382:
+    template: Woodland_Runner
+    level:    [71, 72]
+    region:   wajaom_woodlands_sw_3
+
+  16986383:
+    template: Woodland_Runner
+    level:    [71, 72]
+    region:   wajaom_woodlands_sw_3
+
+  16986384:
+    template: Mamool_Ja_Zenist
+    level:    [72, 73]
+    region:   wajaom_woodlands_sw_2
+
+  16986385:
+    template: Mamool_Ja_Savant
+    level:    [72, 73]
+    region:   wajaom_woodlands_sw_2
+
+  16986386:
+    template: Woodland_Runner
+    at:       [-499.000, -11.000, -476.000, 127]
+    level:    [71, 72]
+
+  16986387:
+    template: Mamool_Ja_Sophist
+    level:    [72, 73]
+    region:   wajaom_woodlands_sw
+
+  16986388:
+    template: Mamool_Ja_Bounder
+    level:    [72, 73]
+    region:   wajaom_woodlands_sw
+
+  16986389:
+    template: Puk
+    level:    [68, 70]
+    region:   wajaom_woodlands_sw_9
+
+  16986390:
+    template: Great_Ameretat
+    level:    [73, 74]
+    region:   wajaom_woodlands_sw_8
+
+  16986391:
+    template: Wajaom_Tiger
+    level:    [68, 69]
+    region:   wajaom_woodlands_sw_8
+
+  16986392:
+    template: Wajaom_Tiger
+    level:    [68, 69]
+    region:   wajaom_woodlands_sw_8
+
+  16986393:
+    template: Wajaom_Tiger
+    level:    [68, 69]
+    region:   wajaom_woodlands_sw_8
+
+  16986394:
+    template: Puk
+    level:    [68, 70]
+    region:   wajaom_woodlands_sw_8
+
+  16986395:
+    template: Puk
+    level:    [68, 70]
+    region:   wajaom_woodlands_sw_12
+
+  16986396:
+    template: Puk
+    level:    [68, 70]
+    region:   wajaom_woodlands_sw_12
+
+  16986397:
+    template: Air_Elemental
+    level:    [75, 75]
+    region:   wajaom_woodlands_sw_14
+
+  16986398:
+    template: Soldier_Pephredo
+    at:       [-286.000, -25.000, 389.000, 127]
+    level:    [64, 66]
+
+  16986399:
+    template: Worker_Pephredo
+    at:       [-278.000, -24.000, 395.000, 127]
+    level:    [63, 64]
+
+  16986400:
+    template: Worker_Pephredo
+    at:       [-276.000, -24.000, 403.000, 127]
+    level:    [63, 64]
+
+  16986401:
+    template: Worker_Pephredo
+    at:       [-270.000, -24.000, 407.000, 127]
+    level:    [63, 64]
+
+  16986402:
+    template: Puk
+    level:    [68, 70]
+    region:   wajaom_woodlands_s
+
+  16986403:
+    template: Puk
+    level:    [68, 70]
+    region:   wajaom_woodlands_s
+
+  16986404:
+    template: Puk
+    level:    [68, 70]
+    region:   wajaom_woodlands_s
+
+  16986405:
+    template: Puk
+    level:    [68, 70]
+    region:   wajaom_woodlands_sw_15
+
+  16986406:
+    template: Puk
+    level:    [68, 70]
+    region:   wajaom_woodlands_sw_13
+
+  16986407:
+    template: Puk
+    level:    [68, 70]
+    region:   wajaom_woodlands_sw_13
+
+  16986408:
+    template: Mamool_Ja_Sophist
+    at:       [-645.000, -10.000, -102.000, 127]
+    level:    [72, 73]
+
+  16986409:
+    template: Woodland_Runner
+    at:       [-646.000, -7.000, -512.000, 127]
+    level:    [71, 72]
+
+  16986410:
+    template: Woodland_Runner
+    at:       [-641.000, -8.000, -482.000, 127]
+    level:    [71, 72]
+
+  16986411:
+    template: Mamool_Ja_Bounder
+    at:       [-509.861, -28.517, -777.520, 88]
+    level:    [72, 73]
+
+  16986412:
+    template: Mamool_Ja_Mimicker
+    at:       [-515.215, -28.680, -781.639, 100]
+    level:    [72, 73]
+
+  16986413:
+    template: Air_Elemental
+    level:    [75, 75]
+    region:   wajaom_woodlands_sw_10
+
+  16986414:
+    template: Air_Elemental
+    level:    [75, 75]
+    region:   wajaom_woodlands_sw_11
+
+  16986415:
+    template: Mamool_Ja_Mimicker
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [72, 73]
+
+  16986416:
+    template: Berried_Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  16986417:
+    template: Chigoes_Nit
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [48, 48]
+
+  16986418:
+    template: Chigoes_Nit
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [48, 48]
+
+  16986419:
+    template: Chigoes_Nit
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [48, 48]
+
+  16986420:
+    template: Chigoes_Nit
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [48, 48]
+
+  16986421:
+    template: Dark_Rider
+    at:       [-640.692, -10.500, -133.755, 237]
+    level:    [95, 95]
+
+  16986422:
+    template: Dark_Bugler
+    at:       [-268.690, -26.506, 417.501, 115]
+    level:    [76, 76]
+
+  16986423:
+    template: Dark_Bugler
+    at:       [-436.900, -26.500, 385.237, 7]
+    level:    [76, 76]
+
+  16986424:
+    template: Dark_Bugler
+    at:       [-400.835, -23.982, 269.010, 188]
+    level:    [76, 76]
+
+  16986425:
+    template: Dark_Esquire
+    at:       [-550.088, -16.134, 156.571, 192]
+    level:    [76, 76]
+
+  16986426:
+    template: Dark_Esquire
+    at:       [-497.361, -12.494, 40.091, 121]
+    level:    [76, 76]
+
+  16986427:
+    template: Dark_Esquire
+    at:       [-532.651, -10.402, -77.226, 179]
+    level:    [76, 76]
+
+  16986428:
+    template: Vulpangue
+    at:       [-697.000, -7.000, -123.000, 20]
+    level:    [78, 80]
+
+  16986429:
+    template: Iriz_Ima
+    at:       [253.000, -23.000, 116.000, 245]
+    level:    [87, 88]
+
+  16986430:
+    template: Gotoh_Zha_the_Redolent
+    at:       [-337.000, -31.000, 676.000, 162]
+    level:    [83, 85]
+
+  16986431:
+    template: Tinnin
+    at:       [278.000, 0.100, -703.000, 176]
+    level:    [88, 89]
+
+  16986432:
+    template: Mamool_Ja_Sapper
+    at:       [-1.000, 0.000, 0.000, 228]
+    level:    [119, 119]
+
+  16986433:
+    template: Mamool_Ja_Hospitaler
+    at:       [-1.000, 0.000, 0.000, 206]
+    level:    [119, 119]
+
+  16986434:
+    template: Mamool_Ja_Fetial
+    at:       [-1.000, 0.000, 0.000, 205]
+    level:    [119, 119]
+
+  16986435:
+    template: Mamool_Ja_Spotter
+    at:       [-1.000, 0.000, 0.000, 251]
+    level:    [119, 119]
+
+  16986436:
+    template: Mamool_Ja_Handler
+    at:       [-1.000, 0.000, 0.000, 205]
+    level:    [119, 119]
+
+  16986437:
+    template: Mamool_Jas_Lizard
+    at:       [-1.000, 0.000, 0.000, 212]
+    level:    [119, 119]
+
+  16986438:
+    template: Mamool_Ja_Cataphract
+    at:       [-1.000, 0.000, 0.000, 208]
+    level:    [119, 119]
+
+  16986439:
+    template: Mamool_Jas_Wyvern
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16986440:
+    template: Mamool_Ja_Entrancer
+    at:       [-1.000, 0.000, 0.000, 207]
+    level:    [119, 119]
+
+  16986441:
+    template: Mamool_Ja_Sapper
+    at:       [-1.000, 0.000, 0.000, 228]
+    level:    [119, 119]
+
+  16986442:
+    template: Mamool_Ja_Hospitaler
+    at:       [-1.000, 0.000, 0.000, 208]
+    level:    [119, 119]
+
+  16986443:
+    template: Mamool_Ja_Fetial
+    at:       [-1.000, 0.000, 0.000, 228]
+    level:    [119, 119]
+
+  16986444:
+    template: Mamool_Ja_Spotter
+    at:       [-1.000, 0.000, 0.000, 251]
+    level:    [119, 119]
+
+  16986445:
+    template: Mamool_Ja_Handler
+    at:       [-1.000, 0.000, 0.000, 252]
+    level:    [119, 119]
+
+  16986446:
+    template: Mamool_Jas_Lizard
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16986447:
+    template: Mamool_Ja_Cataphract
+    at:       [-1.000, 0.000, 0.000, 205]
+    level:    [119, 119]
+
+  16986448:
+    template: Mamool_Jas_Wyvern
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16986449:
+    template: Mamool_Ja_Entrancer
+    at:       [-1.000, 0.000, 0.000, 228]
+    level:    [119, 119]
+
+  16986450:
+    template: Mamool_Ja_Sapper
+    at:       [-1.000, 0.000, 0.000, 205]
+    level:    [119, 119]
+
+  16986451:
+    template: Mamool_Ja_Hospitaler
+    at:       [-1.000, 0.000, 0.000, 229]
+    level:    [119, 119]
+
+  16986452:
+    template: Mamool_Ja_Fetial
+    at:       [-1.000, 0.000, 0.000, 229]
+    level:    [119, 119]
+
+  16986453:
+    template: Mamool_Ja_Spotter
+    at:       [-1.000, 0.000, 0.000, 208]
+    level:    [119, 119]
+
+  16986454:
+    template: Mamool_Ja_Handler
+    at:       [-1.000, 0.000, 0.000, 207]
+    level:    [119, 119]
+
+  16986455:
+    template: Mamool_Jas_Lizard
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16986456:
+    template: Mamool_Ja_Cataphract
+    at:       [-1.000, 0.000, 0.000, 229]
+    level:    [119, 119]
+
+  16986457:
+    template: Mamool_Jas_Wyvern
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16986458:
+    template: Mamool_Ja_Entrancer
+    at:       [-1.000, 0.000, 0.000, 251]
+    level:    [119, 119]
+
+  16986459:
+    template: Scout_Puk
+    at:       [-1.000, 0.000, 0.000, 228]
+    level:    [119, 119]
+
+  16986460:
+    template: Scout_Puk
+    at:       [-1.000, 0.000, 0.000, 199]
+    level:    [119, 119]
+
+  16986461:
+    template: Scout_Puk
+    at:       [-1.000, 0.000, 0.000, 100]
+    level:    [119, 119]
+
+  16986462:
+    template: Scout_Puk
+    at:       [-1.000, 0.000, 0.000, 80]
+    level:    [119, 119]
+
+  16986463:
+    template: Scout_Puk
+    at:       [-1.000, 0.000, 0.000, 228]
+    level:    [119, 119]
+
+  16986464:
+    template: Raid_Raptor
+    at:       [-1.000, 0.000, 0.000, 126]
+    level:    [119, 119]
+
+  16986465:
+    template: Raid_Raptor
+    at:       [-1.000, 0.000, 0.000, 224]
+    level:    [119, 119]
+
+  16986466:
+    template: Raid_Raptor
+    at:       [-1.000, 0.000, 0.000, 69]
+    level:    [119, 119]
+
+  16986467:
+    template: Raid_Raptor
+    at:       [-1.000, 0.000, 0.000, 126]
+    level:    [119, 119]
+
+  16986468:
+    template: Raid_Raptor
+    at:       [-1.000, 0.000, 0.000, 208]
+    level:    [119, 119]
+
+  16986469:
+    template: Attack_Ziz
+    at:       [-1.000, 0.000, 0.000, 206]
+    level:    [119, 119]
+
+  16986470:
+    template: Attack_Ziz
+    at:       [-1.000, 0.000, 0.000, 251]
+    level:    [119, 119]
+
+  16986471:
+    template: Attack_Ziz
+    at:       [-1.000, 0.000, 0.000, 250]
+    level:    [119, 119]
+
+  16986472:
+    template: Attack_Ziz
+    at:       [-1.000, 0.000, 0.000, 251]
+    level:    [119, 119]
+
+  16986473:
+    template: Attack_Ziz
+    at:       [-1.000, 0.000, 0.000, 208]
+    level:    [119, 119]
+
+  16986474:
+    template: Battering_Bugard
+    at:       [-1.000, 0.000, 0.000, 212]
+    level:    [119, 119]
+
+  16986475:
+    template: Battering_Bugard
+    at:       [-1.000, 0.000, 0.000, 252]
+    level:    [119, 119]
+
+  16986476:
+    template: Battering_Bugard
+    at:       [-1.000, 0.000, 0.000, 252]
+    level:    [119, 119]
+
+  16986477:
+    template: Battering_Bugard
+    at:       [-1.000, 0.000, 0.000, 122]
+    level:    [119, 119]
+
+  16986478:
+    template: Battering_Bugard
+    at:       [-1.000, 0.000, 0.000, 122]
+    level:    [119, 119]
+
+  16986479:
+    template: War_Wyvern
+    at:       [-1.000, 0.000, 0.000, 66]
+    level:    [119, 119]
+
+  16986480:
+    template: War_Wyvern
+    at:       [-1.000, 0.000, 0.000, 57]
+    level:    [119, 119]
+
+  16986481:
+    template: War_Wyvern
+    at:       [-1.000, 0.000, 0.000, 211]
+    level:    [119, 119]
+
+  16986482:
+    template: War_Wyvern
+    at:       [-1.000, 0.000, 0.000, 69]
+    level:    [119, 119]
+
+  16986483:
+    template: War_Wyvern
+    at:       [-1.000, 0.000, 0.000, 127]
+    level:    [119, 119]
+
+  16986484:
+    template: Poroggo_Charmer
+    at:       [-1.000, 0.000, 0.000, 251]
+    level:    [119, 119]
+
+  16986485:
+    template: Poroggo_Charmer
+    at:       [-1.000, 0.000, 0.000, 182]
+    level:    [119, 119]
+
+  16986486:
+    template: Poroggo_Charmer
+    at:       [-1.000, 0.000, 0.000, 251]
+    level:    [119, 119]
+
+  16986487:
+    template: Poroggo_Charmer
+    at:       [-1.000, 0.000, 0.000, 206]
+    level:    [119, 119]
+
+  16986488:
+    template: Poroggo_Charmer
+    at:       [-1.000, 0.000, 0.000, 227]
+    level:    [119, 119]
+
+  16986489:
+    template: Gulool_Ja_Ja
+    at:       [-1.000, 0.000, 0.000, 250]
+    level:    [119, 119]
+
+  16986490:
+    template: Decimator_Mabel_Ja
+    at:       [-1.000, 0.000, 0.000, 204]
+    level:    [119, 119]
+
+  16986491:
+    template: Thunderclap_Sareel_Ja
+    at:       [-1.000, 0.000, 0.000, 252]
+    level:    [119, 119]
+
+  16986492:
+    template: Thunderbolt_Piraal_Ja
+    at:       [-1.000, 0.000, 0.000, 250]
+    level:    [119, 119]
+
+  16986493:
+    template: Panurgic_Ryubool_Ja
+    at:       [-1.000, 0.000, 0.000, 250]
+    level:    [119, 119]
+
+  16986494:
+    template: Sagelord_Molaal_Ja
+    at:       [-1.000, 0.000, 0.000, 250]
+    level:    [119, 119]
+
+  16986495:
+    template: Strifelord_Bakool_Ja
+    at:       [-1.000, 0.000, 0.000, 228]
+    level:    [119, 119]
+
+  16986496:
+    template: Mamool_Jas_Wyvern
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16986497:
+    template: Mamool_Jas_Wyvern
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16986498:
+    template: Mamool_Jas_Wyvern
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16986499:
+    template: Eidolic_Qufeel_Ja
+    at:       [-1.000, 0.000, 0.000, 229]
+    level:    [119, 119]
+
+  16986500:
+    template: Searing_Vogaal_Ja
+    at:       [-1.000, 0.000, 0.000, 211]
+    level:    [119, 119]
+
+  16986501:
+    template: Scalding_Fafool_Ja
+    at:       [-1.000, 0.000, 0.000, 205]
+    level:    [119, 119]
+
+  16986502:
+    template: Gandaberunda
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16986503:
+    template: Ravenous_Colibri
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16986504:
+    template: Ravenous_Colibri
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16986505:
+    template: Ravenous_Colibri
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16986506:
+    template: Devoted_Darla
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16986507:
+    template: Anguished_Ameretat
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16986508:
+    template: Anguished_Ameretat
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16986509:
+    template: Anguished_Ameretat
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16986510:
+    template: Mamool_Ja_Hussar
+    at:       [-1.000, 0.000, 0.000, 211]
+    level:    [119, 119]
+
+  16986511:
+    template: Mamool_Ja_Hussar
+    at:       [-1.000, 0.000, 0.000, 250]
+    level:    [119, 119]
+
+  16986512:
+    template: Mamool_Ja_Hussar
+    at:       [-1.000, 0.000, 0.000, 229]
+    level:    [119, 119]
+
+  16986513:
+    template: Mamool_Ja_Hussar
+    at:       [-1.000, 0.000, 0.000, 250]
+    level:    [119, 119]
+
+  16986514:
+    template: Mamool_Ja_Hussar
+    at:       [-1.000, 0.000, 0.000, 250]
+    level:    [119, 119]
+
+  16986515:
+    template: Mamool_Ja_Hussar
+    at:       [-1.000, 0.000, 0.000, 211]
+    level:    [119, 119]
+
+  16986516:
+    template: Mamool_Ja_Hussar
+    at:       [-1.000, 0.000, 0.000, 250]
+    level:    [119, 119]
+
+  16986517:
+    template: Mamool_Ja_Hussar
+    at:       [-1.000, 0.000, 0.000, 229]
+    level:    [119, 119]
+
+  16986518:
+    template: Mamool_Ja_Hussar
+    at:       [-1.000, 0.000, 0.000, 211]
+    level:    [119, 119]
+
+  16986519:
+    template: Troll_Paviser
+    at:       [-1.000, 0.000, 0.000, 250]
+    level:    [119, 119]
+
+  16986520:
+    template: Troll_Stormer
+    at:       [-1.000, 0.000, 0.000, 250]
+    level:    [119, 119]
+
+  16986521:
+    template: Troll_Hoplite
+    at:       [-1.000, 0.000, 0.000, 229]
+    level:    [119, 119]
+
+  16986522:
+    template: Troll_Pezhetairoi
+    at:       [-1.000, 0.000, 0.000, 250]
+    level:    [119, 119]
+
+  16986523:
+    template: Troll_Cannoneer
+    at:       [-1.000, 0.000, 0.000, 250]
+    level:    [119, 119]
+
+  16986524:
+    template: Troll_Velites
+    at:       [-1.000, 0.000, 0.000, 250]
+    level:    [119, 119]
+
+  16986525:
+    template: Troll_Speculator
+    at:       [-1.000, 0.000, 0.000, 229]
+    level:    [119, 119]
+
+  16986526:
+    template: Trolls_Automaton
+    at:       [-1.000, 0.000, 0.000, 3]
+    level:    [119, 119]
+
+  16986527:
+    template: Troll_Paviser
+    at:       [-1.000, 0.000, 0.000, 227]
+    level:    [119, 119]
+
+  16986528:
+    template: Troll_Stormer
+    at:       [-1.000, 0.000, 0.000, 252]
+    level:    [119, 119]
+
+  16986529:
+    template: Troll_Hoplite
+    at:       [-1.000, 0.000, 0.000, 252]
+    level:    [119, 119]
+
+  16986530:
+    template: Troll_Pezhetairoi
+    at:       [-1.000, 0.000, 0.000, 252]
+    level:    [119, 119]
+
+  16986531:
+    template: Troll_Cannoneer
+    at:       [-1.000, 0.000, 0.000, 204]
+    level:    [119, 119]
+
+  16986532:
+    template: Troll_Velites
+    at:       [-1.000, 0.000, 0.000, 252]
+    level:    [119, 119]
+
+  16986533:
+    template: Troll_Speculator
+    at:       [-1.000, 0.000, 0.000, 252]
+    level:    [119, 119]
+
+  16986534:
+    template: Trolls_Automaton
+    at:       [-1.000, 0.000, 0.000, 3]
+    level:    [119, 119]
+
+  16986535:
+    template: Troll_Paviser
+    at:       [-1.000, 0.000, 0.000, 227]
+    level:    [119, 119]
+
+  16986536:
+    template: Troll_Stormer
+    at:       [-1.000, 0.000, 0.000, 227]
+    level:    [119, 119]
+
+  16986537:
+    template: Troll_Hoplite
+    at:       [-1.000, 0.000, 0.000, 204]
+    level:    [119, 119]
+
+  16986538:
+    template: Troll_Pezhetairoi
+    at:       [-1.000, 0.000, 0.000, 250]
+    level:    [119, 119]
+
+  16986539:
+    template: Troll_Cannoneer
+    at:       [-1.000, 0.000, 0.000, 250]
+    level:    [119, 119]
+
+  16986540:
+    template: Troll_Velites
+    at:       [-1.000, 0.000, 0.000, 250]
+    level:    [119, 119]
+
+  16986541:
+    template: Troll_Speculator
+    at:       [-1.000, 0.000, 0.000, 210]
+    level:    [119, 119]
+
+  16986542:
+    template: Trolls_Automaton
+    at:       [-1.000, 0.000, 0.000, 250]
+    level:    [119, 119]
+
+  16986543:
+    template: Flame_Eruca
+    at:       [-1.000, 0.000, 0.000, 250]
+    level:    [119, 119]
+
+  16986544:
+    template: Flame_Eruca
+    at:       [-1.000, 0.000, 0.000, 228]
+    level:    [119, 119]
+
+  16986545:
+    template: Flame_Eruca
+    at:       [-1.000, 0.000, 0.000, 208]
+    level:    [119, 119]
+
+  16986546:
+    template: Flame_Eruca
+    at:       [-1.000, 0.000, 0.000, 251]
+    level:    [119, 119]
+
+  16986547:
+    template: Flame_Eruca
+    at:       [-1.000, 0.000, 0.000, 250]
+    level:    [119, 119]
+
+  16986548:
+    template: War_Wamouracampa
+    at:       [-1.000, 0.000, 0.000, 212]
+    level:    [119, 119]
+
+  16986549:
+    template: War_Wamouracampa
+    at:       [-1.000, 0.000, 0.000, 250]
+    level:    [119, 119]
+
+  16986550:
+    template: War_Wamouracampa
+    at:       [-1.000, 0.000, 0.000, 229]
+    level:    [119, 119]
+
+  16986551:
+    template: War_Wamouracampa
+    at:       [-1.000, 0.000, 0.000, 250]
+    level:    [119, 119]
+
+  16986552:
+    template: War_Wamouracampa
+    at:       [-1.000, 0.000, 0.000, 229]
+    level:    [119, 119]
+
+  16986553:
+    template: Incendiary_Bombs
+    at:       [-1.000, 0.000, 0.000, 206]
+    level:    [119, 119]
+
+  16986554:
+    template: Incendiary_Bombs
+    at:       [-1.000, 0.000, 0.000, 205]
+    level:    [119, 119]
+
+  16986555:
+    template: Incendiary_Bombs
+    at:       [-1.000, 0.000, 0.000, 227]
+    level:    [119, 119]
+
+  16986556:
+    template: Incendiary_Bombs
+    at:       [-1.000, 0.000, 0.000, 252]
+    level:    [119, 119]
+
+  16986557:
+    template: Incendiary_Bombs
+    at:       [-1.000, 0.000, 0.000, 208]
+    level:    [119, 119]
+
+  16986558:
+    template: Fighting_Flan
+    at:       [-1.000, 0.000, 0.000, 252]
+    level:    [119, 119]
+
+  16986559:
+    template: Fighting_Flan
+    at:       [-1.000, 0.000, 0.000, 250]
+    level:    [119, 119]
+
+  16986560:
+    template: Fighting_Flan
+    at:       [-1.000, 0.000, 0.000, 204]
+    level:    [119, 119]
+
+  16986561:
+    template: Fighting_Flan
+    at:       [-1.000, 0.000, 0.000, 252]
+    level:    [119, 119]
+
+  16986562:
+    template: Fighting_Flan
+    at:       [-1.000, 0.000, 0.000, 252]
+    level:    [119, 119]
+
+  16986563:
+    template: Siege_Scorpion
+    at:       [-1.000, 0.000, 0.000, 227]
+    level:    [119, 119]
+
+  16986564:
+    template: Siege_Scorpion
+    at:       [-1.000, 0.000, 0.000, 227]
+    level:    [119, 119]
+
+  16986565:
+    template: Siege_Scorpion
+    at:       [-1.000, 0.000, 0.000, 251]
+    level:    [119, 119]
+
+  16986566:
+    template: Siege_Scorpion
+    at:       [-1.000, 0.000, 0.000, 251]
+    level:    [119, 119]
+
+  16986567:
+    template: Siege_Scorpion
+    at:       [-1.000, 0.000, 0.000, 227]
+    level:    [119, 119]
+
+  16986568:
+    template: War_Wamoura
+    at:       [-1.000, 0.000, 0.000, 207]
+    level:    [119, 119]
+
+  16986569:
+    template: War_Wamoura
+    at:       [-1.000, 0.000, 0.000, 251]
+    level:    [119, 119]
+
+  16986570:
+    template: War_Wamoura
+    at:       [-1.000, 0.000, 0.000, 251]
+    level:    [119, 119]
+
+  16986571:
+    template: War_Wamoura
+    at:       [-1.000, 0.000, 0.000, 205]
+    level:    [119, 119]
+
+  16986572:
+    template: War_Wamoura
+    at:       [-1.000, 0.000, 0.000, 252]
+    level:    [119, 119]
+
+  16986573:
+    template: Gurfurlur_the_Menacing
+    at:       [-1.000, 0.000, 0.000, 211]
+    level:    [119, 119]
+
+  16986574:
+    template: Girzorhor_the_Imprudent
+    at:       [-1.000, 0.000, 0.000, 229]
+    level:    [119, 119]
+
+  16986575:
+    template: Surmerdar_the_Unbridled
+    at:       [-1.000, 0.000, 0.000, 229]
+    level:    [119, 119]
+
+  16986576:
+    template: Dartorgor_the_Austere
+    at:       [-1.000, 0.000, 0.000, 251]
+    level:    [119, 119]
+
+  16986577:
+    template: Vorporlor_the_Barbaric
+    at:       [-1.000, 0.000, 0.000, 208]
+    level:    [119, 119]
+
+  16986578:
+    template: Vorjirzur_the_Valiant
+    at:       [-1.000, 0.000, 0.000, 210]
+    level:    [119, 119]
+
+  16986579:
+    template: Wordorbor_the_Artificer
+    at:       [-1.000, 0.000, 0.000, 228]
+    level:    [119, 119]
+
+  16986580:
+    template: Cobalt_Sentinel
+    at:       [-1.000, 0.000, 0.000, 219]
+    level:    [119, 119]
+
+  16986581:
+    template: White_Sentinel
+    at:       [-1.000, 0.000, 0.000, 228]
+    level:    [119, 119]
+
+  16986582:
+    template: Hazel_Sentinel
+    at:       [-1.000, 0.000, 0.000, 228]
+    level:    [119, 119]
+
+  16986583:
+    template: Carmine_Sentinel
+    at:       [-1.000, 0.000, 0.000, 230]
+    level:    [119, 119]
+
+  16986584:
+    template: Xarhorkur_the_Claviger
+    at:       [-1.000, 0.000, 0.000, 229]
+    level:    [119, 119]
+
+  16986585:
+    template: Zurmurwur_the_Ruthless
+    at:       [-1.000, 0.000, 0.000, 229]
+    level:    [119, 119]
+
+  16986586:
+    template: Garma
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16986587:
+    template: Wicked_Dahak
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16986588:
+    template: Wicked_Dahak
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16986589:
+    template: Wicked_Dahak
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16986590:
+    template: Erawan
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16986591:
+    template: Boisterous_Marid
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16986592:
+    template: Boisterous_Marid
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16986593:
+    template: Boisterous_Marid
+    at:       [-1.000, 0.000, 0.000, 0]
+    level:    [119, 119]
+
+  16986594:
+    template: Troll_Destroyer
+    at:       [-1.000, 0.000, 0.000, 205]
+    level:    [119, 119]
+
+  16986595:
+    template: Troll_Destroyer
+    at:       [-1.000, 0.000, 0.000, 251]
+    level:    [119, 119]
+
+  16986596:
+    template: Troll_Destroyer
+    at:       [-1.000, 0.000, 0.000, 206]
+    level:    [119, 119]
+
+  16986597:
+    template: Troll_Destroyer
+    at:       [-1.000, 0.000, 0.000, 252]
+    level:    [119, 119]
+
+  16986598:
+    template: Troll_Destroyer
+    at:       [-1.000, 0.000, 0.000, 205]
+    level:    [119, 119]
+
+  16986599:
+    template: Troll_Destroyer
+    at:       [-1.000, 0.000, 0.000, 205]
+    level:    [119, 119]
+
+  16986600:
+    template: Troll_Destroyer
+    at:       [-1.000, 0.000, 0.000, 205]
+    level:    [119, 119]
+
+  16986601:
+    template: Troll_Destroyer
+    at:       [-1.000, 0.000, 0.000, 227]
+    level:    [119, 119]
+
+  16986602:
+    template: Troll_Destroyer
+    at:       [-1.000, 0.000, 0.000, 227]
+    level:    [119, 119]
+
+  16986603:
+    template: Kubool_Jas_Mhuufya
+    at:       [358.827, -16.241, -52.142, 219]
+    level:    [99, 99]
+
+  16986604:
+    template: Kubool_Jas_Mhuufya
+    at:       [184.674, -20.000, -94.958, 107]
+    level:    [99, 99]
+
+  16986605:
+    template: Kubool_Jas_Mhuufya
+    at:       [104.620, -20.750, 47.619, 230]
+    level:    [99, 99]
+
+  16986606:
+    template: Vigilant_Kubool_Ja
+    at:       [354.559, -16.430, -50.519, 165]
+    level:    [99, 99]
+
+  16986607:
+    template: Vigilant_Kubool_Ja
+    at:       [183.552, -20.083, -94.946, 116]
+    level:    [99, 99]
+
+  16986608:
+    template: Vigilant_Kubool_Ja
+    at:       [104.497, -20.750, 48.806, 1]
+    level:    [99, 99]
+
+  16986609:
+    template: Thuban
+    at:       [360.700, -16.238, -52.180, 0]
+    level:    [99, 99]
+
+  16986610:
+    template: Thuban
+    at:       [186.959, -20.059, -97.688, 32]
+    level:    [99, 99]
+
+  16986611:
+    template: Thuban
+    at:       [104.807, -20.750, 47.689, 72]
+    level:    [99, 99]
+
+  16986612:
+    template: Awoken_Hildesvini
+    at:       [-80.690, -8.500, -638.190, 228]
+    level:    [119, 119]

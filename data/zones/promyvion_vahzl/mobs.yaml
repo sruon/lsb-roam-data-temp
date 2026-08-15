@@ -1,0 +1,1803 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  16867329:
+    template: Ponderer
+    at:       [-335.161, -0.500, 139.852, 127]
+    level:    [56, 58]
+
+  16867330:
+    template: Propagator
+    at:       [184.591, -0.500, -59.242, 109]
+    level:    [56, 58]
+
+  16867331:
+    template: Offspring
+    at:       [187.640, -0.500, -60.467, 43]
+    level:    [47, 48]
+
+  16867332:
+    template: Offspring
+    at:       [185.495, -0.340, -64.338, 123]
+    level:    [47, 48]
+
+  16867333:
+    template: Solicitor
+    at:       [414.951, -0.500, 141.545, 133]
+    level:    [56, 58]
+
+  16867335:
+    template: Wanderer
+    at:       [24.665, -0.500, -99.413, 72]
+    level:    [46, 48]
+
+  16867336:
+    template: Weeper
+    at:       [44.135, -0.500, -81.517, 73]
+    level:    [48, 50]
+
+  16867337:
+    template: Wanderer
+    level:    [46, 48]
+    region:   promyvion_vahzl_c_7
+
+  16867338:
+    template: Wanderer
+    level:    [46, 48]
+    region:   promyvion_vahzl_c_7
+
+  16867339:
+    template: Wanderer
+    level:    [46, 48]
+    region:   promyvion_vahzl_s_5
+
+  16867340:
+    template: Wanderer
+    level:    [46, 48]
+    region:   promyvion_vahzl_s_5
+
+  16867341:
+    template: Wanderer
+    at:       [28.961, -0.405, -199.263, 114]
+    level:    [46, 48]
+
+  16867342:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_s_7
+
+  16867343:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_s_7
+
+  16867344:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_s_7
+
+  16867345:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_s_7
+
+  16867346:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_s_7
+
+  16867347:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_s_8
+
+  16867348:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_s_8
+
+  16867349:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_s_8
+
+  16867350:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_s_8
+
+  16867351:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_s_8
+
+  16867352:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_s_10
+
+  16867353:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_s_10
+
+  16867354:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_s_10
+
+  16867355:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_s_10
+
+  16867356:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_s_10
+
+  16867357:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_s_9
+
+  16867358:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_s_9
+
+  16867359:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_s_9
+
+  16867360:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_s_9
+
+  16867361:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_s_9
+
+  16867362:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_s_6
+
+  16867363:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_s_6
+
+  16867364:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_s_6
+
+  16867365:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_s_6
+
+  16867366:
+    template: Wanderer
+    at:       [37.765, -0.499, -278.473, 188]
+    level:    [46, 48]
+
+  16867367:
+    template: Weeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [48, 50]
+
+  16867368:
+    template: Wanderer
+    at:       [31.037, -0.500, -293.068, 113]
+    level:    [46, 48]
+
+  16867369:
+    template: Weeper
+    at:       [36.911, -0.500, -296.417, 10]
+    level:    [48, 50]
+
+  16867370:
+    template: Wanderer
+    at:       [40.747, -0.610, -302.846, 181]
+    level:    [46, 48]
+
+  16867371:
+    template: Weeper
+    at:       [0.783, -0.500, -243.832, 88]
+    level:    [48, 50]
+
+  16867372:
+    template: Wanderer
+    level:    [46, 48]
+    region:   promyvion_vahzl_s_2
+
+  16867373:
+    template: Weeper
+    level:    [48, 50]
+    region:   promyvion_vahzl_s_2
+
+  16867374:
+    template: Wanderer
+    level:    [46, 48]
+    region:   promyvion_vahzl_s_4
+
+  16867375:
+    template: Wanderer
+    level:    [46, 48]
+    region:   promyvion_vahzl_s_4
+
+  16867376:
+    template: Weeper
+    at:       [-15.654, -0.500, -292.320, 211]
+    level:    [48, 50]
+
+  16867377:
+    template: Wanderer
+    level:    [46, 48]
+    region:   promyvion_vahzl_s
+
+  16867378:
+    template: Weeper
+    level:    [48, 50]
+    region:   promyvion_vahzl_s
+
+  16867379:
+    template: Wanderer
+    at:       [8.140, -0.500, -292.312, 198]
+    level:    [46, 48]
+
+  16867380:
+    template: Thinker
+    level:    [54, 56]
+    region:   promyvion_vahzl_s_3
+
+  16867381:
+    template: Gorger
+    at:       [126.125, -0.458, -235.921, 153]
+    level:    [52, 54]
+
+  16867382:
+    template: Craver
+    at:       [57.042, -1.655, -307.012, 4]
+    level:    [52, 54]
+
+  16867383:
+    template: Thinker
+    at:       [59.921, -0.495, -70.863, 17]
+    level:    [54, 56]
+
+  16867384:
+    template: Gorger
+    level:    [52, 54]
+    region:   promyvion_vahzl_c_6
+
+  16867385:
+    template: Craver
+    at:       [52.241, 0.001, -208.681, 112]
+    level:    [52, 54]
+
+  16867387:
+    template: Memory_Receptacle
+    at:       [-40.000, -1.000, -360.000, 0]
+    level:    [50, 50]
+
+  16867388:
+    template: Stray
+    at:       [-40.000, -1.000, -360.000, 0]
+    level:    [39, 40]
+
+  16867389:
+    template: Stray
+    at:       [-40.000, -1.000, -360.000, 0]
+    level:    [39, 40]
+
+  16867390:
+    template: Stray
+    at:       [-40.000, -1.000, -360.000, 0]
+    level:    [39, 40]
+
+  16867392:
+    template: Memory_Receptacle
+    at:       [80.000, -1.000, -40.000, 0]
+    level:    [50, 50]
+
+  16867393:
+    template: Stray
+    at:       [80.000, -1.000, -40.000, 0]
+    level:    [39, 40]
+
+  16867394:
+    template: Stray
+    at:       [80.000, -1.000, -40.000, 0]
+    level:    [39, 40]
+
+  16867395:
+    template: Stray
+    at:       [80.000, -1.000, -40.000, 0]
+    level:    [39, 40]
+
+  16867397:
+    template: Wanderer
+    level:    [46, 48]
+    region:   promyvion_vahzl_n_8
+
+  16867398:
+    template: Weeper
+    at:       [111.492, -0.500, 196.457, 146]
+    level:    [48, 50]
+
+  16867399:
+    template: Weeper
+    level:    [48, 50]
+    region:   promyvion_vahzl_n_7
+
+  16867400:
+    template: Wanderer
+    at:       [57.061, -0.500, 195.246, 38]
+    level:    [46, 48]
+
+  16867401:
+    template: Wanderer
+    at:       [47.774, -0.500, 203.668, 17]
+    level:    [46, 48]
+
+  16867402:
+    template: Seether
+    at:       [43.233, -0.500, 243.410, 6]
+    level:    [50, 52]
+
+  16867403:
+    template: Wanderer
+    level:    [46, 48]
+    region:   promyvion_vahzl_n_4
+
+  16867404:
+    template: Wanderer
+    level:    [46, 48]
+    region:   promyvion_vahzl_n_4
+
+  16867405:
+    template: Weeper
+    level:    [48, 50]
+    region:   promyvion_vahzl_n_4
+
+  16867406:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_n_6
+
+  16867407:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_n_6
+
+  16867408:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_n_6
+
+  16867409:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_n_6
+
+  16867410:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_n_6
+
+  16867411:
+    template: Apex_Livid_Rager
+    level:    [139, 142]
+    region:   promyvion_vahzl_n_6
+
+  16867412:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_n_5
+
+  16867413:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_n_5
+
+  16867414:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_n_5
+
+  16867415:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_n_5
+
+  16867416:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_n_5
+
+  16867417:
+    template: Apex_Livid_Rager
+    level:    [139, 142]
+    region:   promyvion_vahzl_n_5
+
+  16867418:
+    template: Wanderer
+    at:       [18.526, -0.500, 194.983, 239]
+    level:    [46, 48]
+
+  16867419:
+    template: Weeper
+    at:       [7.868, -0.500, 208.729, 193]
+    level:    [48, 50]
+
+  16867420:
+    template: Weeper
+    at:       [-5.616, -0.500, 195.939, 8]
+    level:    [48, 50]
+
+  16867421:
+    template: Weeper
+    at:       [-38.007, -0.500, 164.700, 242]
+    level:    [48, 50]
+
+  16867422:
+    template: Weeper
+    at:       [-28.494, -0.500, 155.243, 59]
+    level:    [48, 50]
+
+  16867423:
+    template: Weeper
+    at:       [-93.117, -0.529, 167.409, 199]
+    level:    [48, 50]
+
+  16867424:
+    template: Weeper
+    at:       [-79.489, -0.500, 155.811, 165]
+    level:    [48, 50]
+
+  16867425:
+    template: Weeper
+    at:       [-116.712, -0.500, 171.883, 248]
+    level:    [48, 50]
+
+  16867426:
+    template: Weeper
+    at:       [-119.872, -0.500, 150.287, 230]
+    level:    [48, 50]
+
+  16867427:
+    template: Wanderer
+    at:       [-140.412, -0.500, 138.600, 212]
+    level:    [46, 48]
+
+  16867428:
+    template: Wanderer
+    at:       [-132.975, -0.500, 166.912, 75]
+    level:    [46, 48]
+
+  16867429:
+    template: Seether
+    at:       [-155.455, -0.500, 145.139, 175]
+    level:    [50, 52]
+
+  16867430:
+    template: Seether
+    at:       [-157.554, -0.500, 170.506, 139]
+    level:    [50, 52]
+
+  16867431:
+    template: Thinker
+    level:    [54, 56]
+    region:   promyvion_vahzl_n_3
+
+  16867432:
+    template: Gorger
+    at:       [45.404, -0.500, 182.134, 254]
+    level:    [52, 54]
+
+  16867433:
+    template: Craver
+    at:       [18.320, -0.500, 181.901, 201]
+    level:    [52, 54]
+
+  16867434:
+    template: Thinker
+    level:    [54, 56]
+    region:   promyvion_vahzl_n
+
+  16867435:
+    template: Gorger
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [52, 54]
+
+  16867436:
+    template: Craver
+    at:       [-86.821, -0.499, 168.645, 35]
+    level:    [52, 54]
+
+  16867437:
+    template: Seether
+    level:    [50, 52]
+    region:   promyvion_vahzl_n_2
+
+  16867439:
+    template: Memory_Receptacle
+    at:       [-160.000, -1.000, 200.000, 0]
+    level:    [50, 50]
+
+  16867440:
+    template: Stray
+    at:       [-160.000, -1.000, 200.000, 0]
+    level:    [41, 42]
+
+  16867441:
+    template: Stray
+    at:       [-160.000, -1.000, 200.000, 0]
+    level:    [41, 42]
+
+  16867442:
+    template: Stray
+    at:       [-160.000, -1.000, 200.000, 0]
+    level:    [41, 42]
+
+  16867443:
+    template: Stray
+    at:       [-160.000, -1.000, 200.000, 0]
+    level:    [41, 42]
+
+  16867444:
+    template: Stray
+    at:       [-160.000, -1.000, 200.000, 0]
+    level:    [41, 42]
+
+  16867446:
+    template: Memory_Receptacle
+    at:       [-160.000, -1.000, 120.000, 0]
+    level:    [50, 50]
+
+  16867447:
+    template: Stray
+    at:       [-160.000, -1.000, 120.000, 0]
+    level:    [41, 42]
+
+  16867448:
+    template: Stray
+    at:       [-160.000, -1.000, 120.000, 0]
+    level:    [41, 42]
+
+  16867449:
+    template: Stray
+    at:       [-160.000, -1.000, 120.000, 0]
+    level:    [41, 42]
+
+  16867450:
+    template: Stray
+    at:       [-160.000, -1.000, 120.000, 0]
+    level:    [41, 42]
+
+  16867451:
+    template: Stray
+    at:       [-160.000, -1.000, 120.000, 0]
+    level:    [41, 42]
+
+  16867453:
+    template: Weeper
+    level:    [52, 54]
+    region:   promyvion_vahzl_se_8
+
+  16867454:
+    template: Seether
+    at:       [380.411, -0.508, -168.530, 208]
+    level:    [54, 56]
+
+  16867455:
+    template: Wanderer
+    level:    [50, 52]
+    region:   promyvion_vahzl_se_7
+
+  16867456:
+    template: Wanderer
+    level:    [50, 52]
+    region:   promyvion_vahzl_se_7
+
+  16867457:
+    template: Weeper
+    level:    [52, 54]
+    region:   promyvion_vahzl_se_7
+
+  16867458:
+    template: Seether
+    at:       [343.670, -0.500, -222.870, 171]
+    level:    [54, 56]
+
+  16867459:
+    template: Weeper
+    level:    [52, 54]
+    region:   promyvion_vahzl_se_6
+
+  16867460:
+    template: Weeper
+    level:    [52, 54]
+    region:   promyvion_vahzl_se_6
+
+  16867461:
+    template: Seether
+    at:       [286.875, -0.500, -222.135, 174]
+    level:    [54, 56]
+
+  16867462:
+    template: Wanderer
+    at:       [261.076, -0.500, -243.017, 157]
+    level:    [50, 52]
+
+  16867463:
+    template: Wanderer
+    at:       [225.356, -0.469, -232.537, 199]
+    level:    [50, 52]
+
+  16867464:
+    template: Wanderer
+    at:       [319.676, -0.500, -215.638, 63]
+    level:    [50, 52]
+
+  16867465:
+    template: Deviator
+    at:       [302.756, -2.244, -179.892, 13]
+    level:    [58, 60]
+
+  16867466:
+    template: Wanderer
+    level:    [50, 52]
+    region:   promyvion_vahzl_se_3
+
+  16867467:
+    template: Wanderer
+    at:       [338.346, -0.500, -189.659, 186]
+    level:    [50, 52]
+
+  16867468:
+    template: Weeper
+    at:       [263.712, -0.500, -201.890, 45]
+    level:    [52, 54]
+
+  16867469:
+    template: Weeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [52, 54]
+
+  16867470:
+    template: Seether
+    at:       [338.760, -1.380, -139.719, 249]
+    level:    [54, 56]
+
+  16867471:
+    template: Weeper
+    level:    [52, 54]
+    region:   promyvion_vahzl_se_5
+
+  16867472:
+    template: Weeper
+    level:    [52, 54]
+    region:   promyvion_vahzl_se_5
+
+  16867473:
+    template: Weeper
+    at:       [320.829, -0.996, -134.882, 10]
+    level:    [52, 54]
+
+  16867474:
+    template: Seether
+    at:       [305.799, -0.500, -93.314, 92]
+    level:    [54, 56]
+
+  16867475:
+    template: Wanderer
+    level:    [50, 52]
+    region:   promyvion_vahzl_e_6
+
+  16867476:
+    template: Weeper
+    level:    [52, 54]
+    region:   promyvion_vahzl_e_6
+
+  16867477:
+    template: Weeper
+    level:    [52, 54]
+    region:   promyvion_vahzl_e_6
+
+  16867478:
+    template: Wanderer
+    at:       [274.177, -0.500, -78.604, 212]
+    level:    [50, 52]
+
+  16867479:
+    template: Seether
+    at:       [252.124, -0.500, -115.340, 139]
+    level:    [54, 56]
+
+  16867480:
+    template: Weeper
+    level:    [52, 54]
+    region:   promyvion_vahzl_e_5
+
+  16867481:
+    template: Weeper
+    at:       [266.801, -0.500, -122.333, 194]
+    level:    [52, 54]
+
+  16867482:
+    template: Wanderer
+    at:       [256.331, -0.500, -129.847, 196]
+    level:    [50, 52]
+
+  16867483:
+    template: Wanderer
+    at:       [241.432, -0.500, -135.734, 24]
+    level:    [50, 52]
+
+  16867484:
+    template: Wanderer
+    at:       [243.042, -0.498, -138.134, 248]
+    level:    [50, 52]
+
+  16867485:
+    template: Seether
+    at:       [189.691, -0.500, -144.958, 135]
+    level:    [54, 56]
+
+  16867486:
+    template: Wanderer
+    at:       [203.515, -0.500, -148.052, 237]
+    level:    [50, 52]
+
+  16867487:
+    template: Weeper
+    at:       [208.969, -0.500, -146.161, 8]
+    level:    [52, 54]
+
+  16867488:
+    template: Weeper
+    at:       [208.478, -0.500, -161.869, 166]
+    level:    [52, 54]
+
+  16867489:
+    template: Weeper
+    at:       [215.024, -0.500, -122.775, 251]
+    level:    [52, 54]
+
+  16867490:
+    template: Weeper
+    at:       [157.248, -0.500, -119.105, 51]
+    level:    [52, 54]
+
+  16867491:
+    template: Seether
+    at:       [233.993, -0.500, -62.984, 251]
+    level:    [54, 56]
+
+  16867492:
+    template: Seether
+    level:    [54, 56]
+    region:   promyvion_vahzl_e_3
+
+  16867493:
+    template: Weeper
+    at:       [212.800, -0.500, -65.911, 13]
+    level:    [52, 54]
+
+  16867494:
+    template: Thinker
+    level:    [56, 58]
+    region:   promyvion_vahzl_e_2
+
+  16867495:
+    template: Gorger
+    at:       [201.589, -0.500, -126.820, 26]
+    level:    [56, 58]
+
+  16867496:
+    template: Craver
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [56, 58]
+
+  16867497:
+    template: Thinker
+    level:    [56, 58]
+    region:   promyvion_vahzl_se_2
+
+  16867498:
+    template: Gorger
+    level:    [56, 58]
+    region:   promyvion_vahzl_se_2
+
+  16867499:
+    template: Craver
+    level:    [56, 58]
+    region:   promyvion_vahzl_se_2
+
+  16867500:
+    template: Thinker
+    level:    [56, 58]
+    region:   promyvion_vahzl_se_4
+
+  16867501:
+    template: Gorger
+    level:    [56, 58]
+    region:   promyvion_vahzl_se_4
+
+  16867502:
+    template: Craver
+    level:    [56, 58]
+    region:   promyvion_vahzl_se_4
+
+  16867504:
+    template: Memory_Receptacle
+    at:       [160.000, -1.000, -160.000, 0]
+    level:    [50, 50]
+
+  16867505:
+    template: Stray
+    at:       [160.000, -1.000, -160.000, 0]
+    level:    [43, 44]
+
+  16867506:
+    template: Stray
+    at:       [160.000, -1.000, -160.000, 0]
+    level:    [43, 44]
+
+  16867507:
+    template: Stray
+    at:       [160.000, -1.000, -160.000, 0]
+    level:    [43, 44]
+
+  16867508:
+    template: Stray
+    at:       [160.000, -1.000, -160.000, 0]
+    level:    [43, 44]
+
+  16867509:
+    template: Stray_Weeper
+    at:       [160.000, -1.000, -160.000, 0]
+    level:    [43, 44]
+
+  16867511:
+    template: Memory_Receptacle
+    at:       [240.000, -1.000, -40.000, 0]
+    level:    [50, 50]
+
+  16867512:
+    template: Stray
+    at:       [240.000, -1.000, -40.000, 0]
+    level:    [43, 44]
+
+  16867513:
+    template: Stray
+    at:       [240.000, -1.000, -40.000, 0]
+    level:    [43, 44]
+
+  16867514:
+    template: Stray
+    at:       [240.000, -1.000, -40.000, 0]
+    level:    [43, 44]
+
+  16867515:
+    template: Stray
+    at:       [240.000, -1.000, -40.000, 0]
+    level:    [43, 44]
+
+  16867516:
+    template: Stray_Weeper
+    at:       [240.000, -1.000, -40.000, 0]
+    level:    [43, 44]
+
+  16867518:
+    template: Memory_Receptacle
+    at:       [240.000, -1.000, -240.000, 0]
+    level:    [50, 50]
+
+  16867519:
+    template: Stray
+    level:    [43, 44]
+    region:   promyvion_vahzl_se
+
+  16867520:
+    template: Stray
+    level:    [43, 44]
+    region:   promyvion_vahzl_se
+
+  16867521:
+    template: Stray
+    level:    [43, 44]
+    region:   promyvion_vahzl_se
+
+  16867522:
+    template: Stray
+    level:    [43, 44]
+    region:   promyvion_vahzl_se
+
+  16867523:
+    template: Stray_Weeper
+    level:    [43, 44]
+    region:   promyvion_vahzl_se
+
+  16867525:
+    template: Memory_Receptacle
+    at:       [360.000, -1.000, -80.000, 0]
+    level:    [50, 50]
+
+  16867526:
+    template: Stray
+    at:       [360.000, -1.000, -80.000, 0]
+    level:    [43, 44]
+
+  16867527:
+    template: Stray
+    at:       [360.000, -1.000, -80.000, 0]
+    level:    [43, 44]
+
+  16867528:
+    template: Stray
+    at:       [360.000, -1.000, -80.000, 0]
+    level:    [43, 44]
+
+  16867529:
+    template: Stray
+    at:       [360.000, -1.000, -80.000, 0]
+    level:    [43, 44]
+
+  16867530:
+    template: Stray_Weeper
+    at:       [360.000, -1.000, -80.000, 0]
+    level:    [43, 44]
+
+  16867532:
+    template: Weeper
+    level:    [52, 54]
+    region:   promyvion_vahzl_ne_7
+
+  16867533:
+    template: Weeper
+    at:       [301.310, -0.500, 141.955, 112]
+    level:    [52, 54]
+
+  16867534:
+    template: Wanderer
+    level:    [50, 52]
+    region:   promyvion_vahzl_e_4
+
+  16867535:
+    template: Weeper
+    level:    [52, 54]
+    region:   promyvion_vahzl_e_4
+
+  16867536:
+    template: Weeper
+    level:    [52, 54]
+    region:   promyvion_vahzl_e_4
+
+  16867537:
+    template: Seether
+    at:       [232.748, -0.399, 76.777, 80]
+    level:    [54, 56]
+
+  16867538:
+    template: Wanderer
+    at:       [209.964, -0.391, 169.044, 178]
+    level:    [50, 52]
+
+  16867539:
+    template: Wanderer
+    level:    [50, 52]
+    region:   promyvion_vahzl_ne
+
+  16867540:
+    template: Weeper
+    level:    [52, 54]
+    region:   promyvion_vahzl_ne
+
+  16867541:
+    template: Weeper
+    at:       [200.268, -0.458, 81.422, 128]
+    level:    [52, 54]
+
+  16867542:
+    template: Weeper
+    at:       [191.939, -0.474, 80.315, 184]
+    level:    [52, 54]
+
+  16867543:
+    template: Seether
+    at:       [181.314, -0.500, 79.898, 80]
+    level:    [54, 56]
+
+  16867544:
+    template: Weeper
+    level:    [52, 54]
+    region:   promyvion_vahzl_e
+
+  16867545:
+    template: Seether
+    at:       [122.846, -0.500, 77.833, 221]
+    level:    [54, 56]
+
+  16867546:
+    template: Wanderer
+    at:       [278.527, -0.330, 77.405, 183]
+    level:    [50, 52]
+
+  16867547:
+    template: Weeper
+    at:       [276.490, -0.406, 73.830, 183]
+    level:    [52, 54]
+
+  16867548:
+    template: Seether
+    at:       [297.951, -0.968, 97.095, 20]
+    level:    [54, 56]
+
+  16867549:
+    template: Wanderer
+    level:    [50, 52]
+    region:   promyvion_vahzl_ne_8
+
+  16867550:
+    template: Weeper
+    level:    [52, 54]
+    region:   promyvion_vahzl_ne_8
+
+  16867551:
+    template: Weeper
+    level:    [52, 54]
+    region:   promyvion_vahzl_ne_8
+
+  16867552:
+    template: Seether
+    at:       [340.267, -0.484, 89.737, 76]
+    level:    [54, 56]
+
+  16867553:
+    template: Seether
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [54, 56]
+
+  16867554:
+    template: Wailer
+    at:       [339.952, -1.826, 143.545, 170]
+    level:    [58, 60]
+
+  16867555:
+    template: Weeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [52, 54]
+
+  16867556:
+    template: Weeper
+    level:    [52, 54]
+    region:   promyvion_vahzl_ne_10
+
+  16867557:
+    template: Seether
+    at:       [383.570, -0.498, 131.103, 176]
+    level:    [54, 56]
+
+  16867558:
+    template: Seether
+    at:       [384.899, -1.795, 93.678, 84]
+    level:    [54, 56]
+
+  16867559:
+    template: Weeper
+    level:    [52, 54]
+    region:   promyvion_vahzl_ne_12
+
+  16867560:
+    template: Weeper
+    level:    [52, 54]
+    region:   promyvion_vahzl_ne_12
+
+  16867561:
+    template: Seether
+    at:       [286.257, -0.499, 242.693, 19]
+    level:    [54, 56]
+
+  16867562:
+    template: Seether
+    at:       [307.923, -0.481, 179.264, 164]
+    level:    [54, 56]
+
+  16867563:
+    template: Wanderer
+    at:       [388.039, -0.498, 187.883, 112]
+    level:    [50, 52]
+
+  16867564:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_ne_3
+
+  16867565:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_ne_3
+
+  16867566:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_ne_3
+
+  16867567:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_ne_3
+
+  16867568:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_ne_5
+
+  16867569:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_ne_5
+
+  16867570:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_ne_5
+
+  16867571:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_ne_5
+
+  16867572:
+    template: Apex_Woeful_Lamenter
+    level:    [139, 142]
+    region:   promyvion_vahzl_ne_5
+
+  16867573:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_ne_9
+
+  16867574:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_ne_9
+
+  16867575:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_ne_9
+
+  16867576:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_ne_9
+
+  16867577:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_ne_9
+
+  16867578:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_ne_9
+
+  16867579:
+    template: Apex_Woeful_Lamenter
+    level:    [139, 142]
+    region:   promyvion_vahzl_ne_9
+
+  16867580:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_ne_11
+
+  16867581:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_ne_11
+
+  16867582:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_ne_11
+
+  16867583:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_ne_11
+
+  16867584:
+    template: Apex_Woeful_Lamenter
+    level:    [139, 142]
+    region:   promyvion_vahzl_ne_11
+
+  16867585:
+    template: Wanderer
+    level:    [50, 52]
+    region:   promyvion_vahzl_ne_13
+
+  16867586:
+    template: Wanderer
+    at:       [441.168, -0.483, 193.127, 60]
+    level:    [50, 52]
+
+  16867587:
+    template: Weeper
+    at:       [434.162, -0.495, 227.073, 221]
+    level:    [52, 54]
+
+  16867588:
+    template: Thinker
+    at:       [174.477, -0.499, 103.434, 238]
+    level:    [56, 58]
+
+  16867589:
+    template: Gorger
+    level:    [56, 58]
+    region:   promyvion_vahzl_ne_2
+
+  16867590:
+    template: Craver
+    at:       [230.132, -0.495, 95.845, 228]
+    level:    [56, 58]
+
+  16867591:
+    template: Thinker
+    at:       [230.628, -0.500, 141.745, 216]
+    level:    [56, 58]
+
+  16867592:
+    template: Gorger
+    level:    [56, 58]
+    region:   promyvion_vahzl_ne_2
+
+  16867593:
+    template: Craver
+    at:       [212.407, -0.388, 151.807, 53]
+    level:    [56, 58]
+
+  16867594:
+    template: Thinker
+    level:    [56, 58]
+    region:   promyvion_vahzl_ne_4
+
+  16867595:
+    template: Gorger
+    level:    [56, 58]
+    region:   promyvion_vahzl_ne_4
+
+  16867596:
+    template: Craver
+    level:    [56, 58]
+    region:   promyvion_vahzl_ne_4
+
+  16867597:
+    template: Thinker
+    level:    [56, 58]
+    region:   promyvion_vahzl_ne_6
+
+  16867598:
+    template: Gorger
+    level:    [56, 58]
+    region:   promyvion_vahzl_ne_6
+
+  16867599:
+    template: Craver
+    level:    [56, 58]
+    region:   promyvion_vahzl_ne_6
+
+  16867601:
+    template: Memory_Receptacle
+    at:       [120.000, -1.000, 40.000, 0]
+    level:    [50, 50]
+
+  16867602:
+    template: Stray
+    level:    [45, 46]
+    region:   promyvion_vahzl_c_8
+
+  16867603:
+    template: Stray
+    level:    [45, 46]
+    region:   promyvion_vahzl_c_8
+
+  16867604:
+    template: Stray_Weeper
+    level:    [45, 46]
+    region:   promyvion_vahzl_c_8
+
+  16867605:
+    template: Stray
+    level:    [45, 46]
+    region:   promyvion_vahzl_c_8
+
+  16867606:
+    template: Stray
+    level:    [45, 46]
+    region:   promyvion_vahzl_c_8
+
+  16867607:
+    template: Stray
+    level:    [45, 46]
+    region:   promyvion_vahzl_c_8
+
+  16867608:
+    template: Stray_Seether
+    level:    [45, 46]
+    region:   promyvion_vahzl_c_8
+
+  16867610:
+    template: Memory_Receptacle
+    at:       [440.000, -1.000, 40.000, 0]
+    level:    [50, 50]
+
+  16867611:
+    template: Stray
+    at:       [440.000, -1.000, 40.000, 0]
+    level:    [45, 46]
+
+  16867612:
+    template: Stray
+    at:       [440.000, -1.000, 40.000, 0]
+    level:    [45, 46]
+
+  16867613:
+    template: Stray_Weeper
+    at:       [440.000, -1.000, 40.000, 0]
+    level:    [45, 46]
+
+  16867614:
+    template: Stray
+    at:       [440.000, -1.000, 40.000, 0]
+    level:    [45, 46]
+
+  16867615:
+    template: Stray
+    at:       [440.000, -1.000, 40.000, 0]
+    level:    [45, 46]
+
+  16867616:
+    template: Stray
+    at:       [440.000, -1.000, 40.000, 0]
+    level:    [45, 46]
+
+  16867617:
+    template: Stray_Seether
+    at:       [440.000, -1.000, 40.000, 0]
+    level:    [45, 46]
+
+  16867619:
+    template: Memory_Receptacle
+    at:       [440.000, -1.000, 280.000, 0]
+    level:    [50, 50]
+
+  16867620:
+    template: Stray
+    level:    [45, 46]
+    region:   promyvion_vahzl_ne_14
+
+  16867621:
+    template: Stray
+    level:    [45, 46]
+    region:   promyvion_vahzl_ne_14
+
+  16867622:
+    template: Stray_Weeper
+    at:       [440.000, -1.000, 280.000, 0]
+    level:    [45, 46]
+
+  16867623:
+    template: Stray
+    level:    [45, 46]
+    region:   promyvion_vahzl_ne_14
+
+  16867624:
+    template: Stray
+    at:       [440.000, -1.000, 280.000, 0]
+    level:    [45, 46]
+
+  16867625:
+    template: Stray
+    at:       [440.000, -1.000, 280.000, 0]
+    level:    [45, 46]
+
+  16867626:
+    template: Stray_Seether
+    at:       [440.000, -1.000, 280.000, 0]
+    level:    [45, 46]
+
+  16867628:
+    template: Wanderer
+    level:    [50, 52]
+    region:   promyvion_vahzl_c_4
+
+  16867629:
+    template: Weeper
+    level:    [52, 54]
+    region:   promyvion_vahzl_c_4
+
+  16867630:
+    template: Weeper
+    at:       [4.759, -0.435, 10.155, 193]
+    level:    [52, 54]
+
+  16867631:
+    template: Wanderer
+    level:    [50, 52]
+    region:   promyvion_vahzl_c_5
+
+  16867632:
+    template: Weeper
+    level:    [52, 54]
+    region:   promyvion_vahzl_c_5
+
+  16867633:
+    template: Weeper
+    level:    [52, 54]
+    region:   promyvion_vahzl_c_5
+
+  16867634:
+    template: Seether
+    at:       [-5.792, -0.500, 58.736, 154]
+    level:    [54, 56]
+
+  16867635:
+    template: Weeper
+    level:    [52, 54]
+    region:   promyvion_vahzl_c_3
+
+  16867636:
+    template: Weeper
+    level:    [52, 54]
+    region:   promyvion_vahzl_c_3
+
+  16867637:
+    template: Wanderer
+    at:       [-30.565, -0.499, 37.843, 217]
+    level:    [50, 52]
+
+  16867638:
+    template: Wanderer
+    level:    [50, 52]
+    region:   promyvion_vahzl_c_2
+
+  16867639:
+    template: Wanderer
+    level:    [50, 52]
+    region:   promyvion_vahzl_c_2
+
+  16867640:
+    template: Seether
+    at:       [-141.474, -0.500, -8.146, 176]
+    level:    [54, 56]
+
+  16867641:
+    template: Weeper
+    at:       [-122.349, -0.500, -20.278, 115]
+    level:    [52, 54]
+
+  16867642:
+    template: Weeper
+    at:       [-154.663, -0.499, -17.640, 188]
+    level:    [52, 54]
+
+  16867643:
+    template: Wanderer
+    at:       [-139.326, -0.500, -24.154, 221]
+    level:    [50, 52]
+
+  16867644:
+    template: Seether
+    at:       [-172.894, -0.500, 36.522, 238]
+    level:    [54, 56]
+
+  16867645:
+    template: Weeper
+    level:    [52, 54]
+    region:   promyvion_vahzl_w_6
+
+  16867646:
+    template: Weeper
+    at:       [-213.055, -0.500, 35.851, 255]
+    level:    [52, 54]
+
+  16867647:
+    template: Seether
+    at:       [-262.027, -0.500, -16.606, 194]
+    level:    [54, 56]
+
+  16867648:
+    template: Wanderer
+    level:    [50, 52]
+    region:   promyvion_vahzl_w_5
+
+  16867649:
+    template: Weeper
+    level:    [52, 54]
+    region:   promyvion_vahzl_w_5
+
+  16867650:
+    template: Weeper
+    level:    [52, 54]
+    region:   promyvion_vahzl_w_5
+
+  16867651:
+    template: Seether
+    at:       [-316.529, -0.500, -3.010, 234]
+    level:    [54, 56]
+
+  16867652:
+    template: Weeper
+    level:    [52, 54]
+    region:   promyvion_vahzl_w_4
+
+  16867653:
+    template: Weeper
+    level:    [52, 54]
+    region:   promyvion_vahzl_w_4
+
+  16867654:
+    template: Seether
+    at:       [-296.659, -0.402, 45.692, 22]
+    level:    [54, 56]
+
+  16867655:
+    template: Weeper
+    at:       [-279.696, -0.473, 40.015, 185]
+    level:    [52, 54]
+
+  16867656:
+    template: Weeper
+    at:       [-273.399, -0.421, 38.547, 120]
+    level:    [52, 54]
+
+  16867657:
+    template: Provoker
+    at:       [-260.000, -0.500, 72.000, 108]
+    level:    [58, 60]
+
+  16867658:
+    template: Seether
+    at:       [-262.558, -0.499, 57.111, 65]
+    level:    [54, 56]
+
+  16867659:
+    template: Seether
+    at:       [-261.025, -0.388, 80.241, 55]
+    level:    [54, 56]
+
+  16867660:
+    template: Seether
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [54, 56]
+
+  16867661:
+    template: Weeper
+    at:       [-280.097, -0.499, 85.776, 152]
+    level:    [52, 54]
+
+  16867662:
+    template: Wanderer
+    level:    [50, 52]
+    region:   promyvion_vahzl_nw_3
+
+  16867663:
+    template: Weeper
+    level:    [52, 54]
+    region:   promyvion_vahzl_nw_3
+
+  16867664:
+    template: Seether
+    at:       [-239.915, -0.500, 164.424, 131]
+    level:    [54, 56]
+
+  16867665:
+    template: Wanderer
+    level:    [50, 52]
+    region:   promyvion_vahzl_nw_4
+
+  16867666:
+    template: Weeper
+    level:    [52, 54]
+    region:   promyvion_vahzl_nw_4
+
+  16867667:
+    template: Weeper
+    at:       [-282.033, -0.499, 134.110, 107]
+    level:    [52, 54]
+
+  16867668:
+    template: Seether
+    at:       [-299.441, -0.500, 137.714, 235]
+    level:    [54, 56]
+
+  16867669:
+    template: Weeper
+    at:       [-303.576, -0.414, 150.968, 89]
+    level:    [52, 54]
+
+  16867670:
+    template: Apex_Idle_Drifter
+    at:       [-350.360, 0.000, 72.650, 89]
+    level:    [139, 142]
+
+  16867671:
+    template: Apex_Idle_Drifter
+    at:       [-360.503, 0.000, 74.700, 89]
+    level:    [139, 142]
+
+  16867672:
+    template: Apex_Idle_Drifter
+    at:       [-346.971, 0.000, 68.598, 89]
+    level:    [139, 142]
+
+  16867673:
+    template: Apex_Woeful_Lamenter
+    at:       [-349.425, 0.000, 69.572, 89]
+    level:    [139, 142]
+
+  16867674:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_w_2
+
+  16867675:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_w_2
+
+  16867676:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_w_2
+
+  16867677:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_w_2
+
+  16867678:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_w_2
+
+  16867679:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_w
+
+  16867680:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_w
+
+  16867681:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_w
+
+  16867682:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_w
+
+  16867683:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_w
+
+  16867684:
+    template: Apex_Woeful_Lamenter
+    level:    [139, 142]
+    region:   promyvion_vahzl_w
+
+  16867685:
+    template: Apex_Livid_Rager
+    level:    [139, 142]
+    region:   promyvion_vahzl_w
+
+  16867686:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_nw
+
+  16867687:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_nw
+
+  16867688:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_nw
+
+  16867689:
+    template: Apex_Idle_Drifter
+    level:    [139, 142]
+    region:   promyvion_vahzl_nw
+
+  16867690:
+    template: Apex_Livid_Rager
+    level:    [140, 142]
+    region:   promyvion_vahzl_nw
+
+  16867691:
+    template: Thinker
+    level:    [56, 58]
+    region:   promyvion_vahzl_w_2
+
+  16867692:
+    template: Gorger
+    at:       [-353.969, -0.500, 87.582, 252]
+    level:    [56, 58]
+
+  16867693:
+    template: Craver
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [56, 58]
+
+  16867694:
+    template: Thinker
+    at:       [-451.858, -0.500, 53.940, 73]
+    level:    [56, 58]
+
+  16867695:
+    template: Gorger
+    level:    [56, 58]
+    region:   promyvion_vahzl_w_2
+
+  16867696:
+    template: Craver
+    at:       [-390.923, -0.500, 72.809, 104]
+    level:    [56, 58]
+
+  16867697:
+    template: Thinker
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [56, 58]
+
+  16867698:
+    template: Gorger
+    at:       [-148.101, -0.500, -20.705, 58]
+    level:    [56, 58]
+
+  16867699:
+    template: Craver
+    level:    [56, 58]
+    region:   promyvion_vahzl_c
+
+  16867700:
+    template: Thinker
+    level:    [56, 58]
+    region:   promyvion_vahzl_w_3
+
+  16867701:
+    template: Gorger
+    level:    [56, 58]
+    region:   promyvion_vahzl_w_3
+
+  16867702:
+    template: Craver
+    level:    [56, 58]
+    region:   promyvion_vahzl_w_3
+
+  16867703:
+    template: Gorger
+    level:    [56, 58]
+    region:   promyvion_vahzl_nw_2
+
+  16867704:
+    template: Craver
+    level:    [56, 58]
+    region:   promyvion_vahzl_nw_2

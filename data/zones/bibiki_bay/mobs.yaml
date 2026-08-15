@@ -1,0 +1,1838 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  16793601:
+    template: Ghost_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 34]
+
+  16793602:
+    template: Grindylow
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [34, 34]
+
+  16793603:
+    template: Greater_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [36, 38]
+
+  16793604:
+    template: Apsaras
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [40, 42]
+
+  16793605:
+    template: Kraken
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [44, 46]
+
+  16793606:
+    template: Lancet_Jagil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [40, 42]
+
+  16793607:
+    template: Jagil
+    at:       [-444.873, -0.299, -403.688, 159]
+    level:    [35, 38]
+
+  16793608:
+    template: Coralline_Uragnite
+    level:    [32, 34]
+    region:   bibiki_bay_sw_21
+
+  16793609:
+    template: Coralline_Uragnite
+    level:    [32, 34]
+    region:   bibiki_bay_sw_26
+
+  16793610:
+    template: Coralline_Uragnite
+    level:    [32, 34]
+    region:   bibiki_bay_sw_26
+
+  16793611:
+    template: Coralline_Uragnite
+    at:       [-281.849, -0.211, -397.711, 98]
+    level:    [32, 34]
+
+  16793612:
+    template: Kraken
+    at:       [-125.000, -0.001, -605.000, 248]
+    level:    [37, 40]
+
+  16793613:
+    template: Viscous_Clot
+    level:    [38, 40]
+    region:   bibiki_bay_sw_24
+
+  16793614:
+    template: Coralline_Uragnite
+    level:    [32, 34]
+    region:   bibiki_bay_sw_24
+
+  16793615:
+    template: Coralline_Uragnite
+    level:    [32, 34]
+    region:   bibiki_bay_sw_24
+
+  16793616:
+    template: Viscous_Clot
+    at:       [-333.446, -1.284, -420.345, 104]
+    level:    [38, 40]
+
+  16793617:
+    template: Coralline_Uragnite
+    level:    [32, 34]
+    region:   bibiki_bay_sw_34
+
+  16793618:
+    template: Ignis_Fatuus
+    level:    [35, 37]
+    region:   bibiki_bay_sw_34
+
+  16793619:
+    template: Coastal_Opo-opo
+    level:    [37, 39]
+    region:   bibiki_bay_sw_23
+
+  16793620:
+    template: Coastal_Opo-opo
+    level:    [37, 39]
+    region:   bibiki_bay_sw_23
+
+  16793621:
+    template: Alraune
+    level:    [38, 40]
+    region:   bibiki_bay_sw_33
+
+  16793622:
+    template: Toucan
+    level:    [38, 40]
+    region:   bibiki_bay_sw_31
+
+  16793623:
+    template: Alraune
+    level:    [38, 40]
+    region:   bibiki_bay_sw_20
+
+  16793624:
+    template: Alraune
+    level:    [38, 40]
+    region:   bibiki_bay_sw_18
+
+  16793625:
+    template: Coastal_Opo-opo
+    level:    [37, 39]
+    region:   bibiki_bay_sw_12
+
+  16793626:
+    template: Coastal_Opo-opo
+    level:    [37, 39]
+    region:   bibiki_bay_sw_13
+
+  16793627:
+    template: Coastal_Opo-opo
+    level:    [37, 39]
+    region:   bibiki_bay_sw_15
+
+  16793628:
+    template: Toucan
+    level:    [38, 40]
+    region:   bibiki_bay_sw_16
+
+  16793629:
+    template: Coastal_Opo-opo
+    level:    [37, 39]
+    region:   bibiki_bay_sw_17
+
+  16793630:
+    template: Coastal_Opo-opo
+    level:    [37, 39]
+    region:   bibiki_bay_sw_17
+
+  16793631:
+    template: Toucan
+    level:    [38, 40]
+    region:   bibiki_bay_sw_14
+
+  16793632:
+    template: Ignis_Fatuus
+    level:    [35, 37]
+    region:   bibiki_bay_sw_14
+
+  16793633:
+    template: Alraune
+    level:    [38, 40]
+    region:   bibiki_bay_sw_11
+
+  16793634:
+    template: Alraune
+    level:    [38, 40]
+    region:   bibiki_bay_sw_10
+
+  16793635:
+    template: Alraune
+    level:    [38, 40]
+    region:   bibiki_bay_sw_10
+
+  16793636:
+    template: Jagil
+    level:    [35, 38]
+    region:   bibiki_bay_sw_2
+
+  16793637:
+    template: Coralline_Uragnite
+    level:    [32, 34]
+    region:   bibiki_bay_sw_4
+
+  16793638:
+    template: Coralline_Uragnite
+    level:    [33, 35]
+    region:   bibiki_bay_sw_4
+
+  16793639:
+    template: Viscous_Clot
+    level:    [38, 40]
+    region:   bibiki_bay_sw_4
+
+  16793640:
+    template: Jagil
+    level:    [35, 38]
+    region:   bibiki_bay_sw_6
+
+  16793641:
+    template: Jagil
+    level:    [35, 38]
+    region:   bibiki_bay_sw_6
+
+  16793642:
+    template: Coralline_Uragnite
+    level:    [33, 35]
+    region:   bibiki_bay_sw_6
+
+  16793643:
+    template: Coralline_Uragnite
+    level:    [33, 35]
+    region:   bibiki_bay_sw_5
+
+  16793644:
+    template: Kraken
+    level:    [37, 40]
+    region:   bibiki_bay_sw_3
+
+  16793645:
+    template: Jagil
+    level:    [35, 38]
+    region:   bibiki_bay_sw
+
+  16793646:
+    template: Serra
+    level:    [44, 46]
+    region:   bibiki_bay_sw_7
+
+  16793647:
+    template: Viscous_Clot
+    at:       [-609.686, -3.325, -667.146, 96]
+    level:    [38, 40]
+
+  16793648:
+    template: Coastal_Opo-opo
+    level:    [37, 39]
+    region:   bibiki_bay_sw_9
+
+  16793649:
+    template: Jagil
+    level:    [35, 38]
+    region:   bibiki_bay_sw_9
+
+  16793650:
+    template: Toucan
+    level:    [38, 40]
+    region:   bibiki_bay_sw_8
+
+  16793651:
+    template: Jagil
+    level:    [35, 38]
+    region:   bibiki_bay_sw_8
+
+  16793652:
+    template: Alraune
+    at:       [-491.524, -3.335, -834.252, 38]
+    level:    [38, 40]
+
+  16793653:
+    template: Coastal_Opo-opo
+    level:    [37, 39]
+    region:   bibiki_bay_sw_19
+
+  16793654:
+    template: Coastal_Opo-opo
+    level:    [37, 39]
+    region:   bibiki_bay_sw_19
+
+  16793655:
+    template: Alraune
+    level:    [38, 40]
+    region:   bibiki_bay_sw_22
+
+  16793656:
+    template: Coastal_Opo-opo
+    level:    [37, 39]
+    region:   bibiki_bay_sw_22
+
+  16793657:
+    template: Alraune
+    level:    [38, 40]
+    region:   bibiki_bay_sw_29
+
+  16793658:
+    template: Alraune
+    level:    [38, 40]
+    region:   bibiki_bay_sw_29
+
+  16793659:
+    template: Coastal_Opo-opo
+    level:    [37, 39]
+    region:   bibiki_bay_sw_36
+
+  16793660:
+    template: Alraune
+    level:    [38, 40]
+    region:   bibiki_bay_sw_35
+
+  16793661:
+    template: Alraune
+    level:    [38, 40]
+    region:   bibiki_bay_sw_35
+
+  16793662:
+    template: Coralline_Uragnite
+    level:    [33, 35]
+    region:   bibiki_bay_sw_28
+
+  16793663:
+    template: Coralline_Uragnite
+    at:       [-128.000, 0.001, -694.000, 1]
+    level:    [33, 35]
+
+  16793664:
+    template: Jagil
+    level:    [35, 38]
+    region:   bibiki_bay_sw_28
+
+  16793665:
+    template: Coralline_Uragnite
+    level:    [33, 35]
+    region:   bibiki_bay_sw_37
+
+  16793666:
+    template: Coralline_Uragnite
+    level:    [33, 35]
+    region:   bibiki_bay_sw_37
+
+  16793667:
+    template: Kraken
+    level:    [37, 40]
+    region:   bibiki_bay_sw_25
+
+  16793668:
+    template: Toucan
+    level:    [38, 40]
+    region:   bibiki_bay_sw_30
+
+  16793669:
+    template: Toucan
+    level:    [38, 40]
+    region:   bibiki_bay_sw_30
+
+  16793670:
+    template: Viscous_Clot
+    level:    [38, 40]
+    region:   bibiki_bay_sw_30
+
+  16793671:
+    template: Viscous_Clot
+    at:       [-358.000, 0.001, -402.000, 218]
+    level:    [38, 40]
+
+  16793672:
+    template: Alraune
+    level:    [38, 40]
+    region:   bibiki_bay_sw_27
+
+  16793673:
+    template: Coastal_Opo-opo
+    level:    [37, 39]
+    region:   bibiki_bay_sw_32
+
+  16793674:
+    template: Coastal_Opo-opo
+    level:    [37, 39]
+    region:   bibiki_bay_sw_32
+
+  16793675:
+    template: Toucan
+    level:    [38, 40]
+    region:   bibiki_bay_sw_38
+
+  16793676:
+    template: Jagil
+    at:       [-266.098, -3.503, -846.997, 236]
+    level:    [35, 38]
+
+  16793677:
+    template: Toucan
+    at:       [-267.917, -3.786, -855.054, 78]
+    level:    [38, 40]
+
+  16793678:
+    template: Jagil
+    level:    [35, 38]
+    region:   bibiki_bay_sw_38
+
+  16793679:
+    template: Toucan
+    level:    [38, 40]
+    region:   bibiki_bay_sw_41
+
+  16793680:
+    template: Alraune
+    level:    [38, 40]
+    region:   bibiki_bay_sw_41
+
+  16793681:
+    template: Alraune
+    level:    [38, 40]
+    region:   bibiki_bay_s
+
+  16793682:
+    template: Alraune
+    level:    [38, 40]
+    region:   bibiki_bay_s
+
+  16793683:
+    template: Coastal_Opo-opo
+    level:    [37, 39]
+    region:   bibiki_bay_sw_42
+
+  16793684:
+    template: Coastal_Opo-opo
+    level:    [37, 39]
+    region:   bibiki_bay_s_2
+
+  16793685:
+    template: Coastal_Opo-opo
+    level:    [37, 39]
+    region:   bibiki_bay_s_2
+
+  16793686:
+    template: Coralline_Uragnite
+    level:    [33, 35]
+    region:   bibiki_bay_s_8
+
+  16793687:
+    template: Coralline_Uragnite
+    level:    [33, 35]
+    region:   bibiki_bay_s_8
+
+  16793688:
+    template: Viscous_Clot
+    at:       [-118.616, -0.314, -703.221, 239]
+    level:    [38, 40]
+
+  16793689:
+    template: Coralline_Uragnite
+    level:    [33, 35]
+    region:   bibiki_bay_s_7
+
+  16793690:
+    template: Coralline_Uragnite
+    level:    [33, 35]
+    region:   bibiki_bay_s_7
+
+  16793691:
+    template: Kraken
+    level:    [37, 40]
+    region:   bibiki_bay_s_9
+
+  16793692:
+    template: Toucan
+    level:    [38, 40]
+    region:   bibiki_bay_s_7
+
+  16793693:
+    template: Alraune
+    level:    [38, 40]
+    region:   bibiki_bay_s_4
+
+  16793694:
+    template: Ignis_Fatuus
+    level:    [35, 37]
+    region:   bibiki_bay_s_4
+
+  16793695:
+    template: Viscous_Clot
+    level:    [38, 40]
+    region:   bibiki_bay_s_4
+
+  16793696:
+    template: Coastal_Opo-opo
+    level:    [37, 39]
+    region:   bibiki_bay_s_5
+
+  16793697:
+    template: Coastal_Opo-opo
+    level:    [37, 39]
+    region:   bibiki_bay_s_5
+
+  16793698:
+    template: Shankha
+    level:    [52, 53]
+    region:   bibiki_bay_s_5
+
+  16793699:
+    template: Jagil
+    level:    [35, 38]
+    region:   bibiki_bay_s_6
+
+  16793700:
+    template: Jagil
+    level:    [35, 38]
+    region:   bibiki_bay_s_6
+
+  16793701:
+    template: Toucan
+    level:    [38, 40]
+    region:   bibiki_bay_s_6
+
+  16793702:
+    template: Coastal_Opo-opo
+    at:       [-187.453, -2.737, -573.818, 171]
+    level:    [37, 39]
+
+  16793703:
+    template: Alraune
+    level:    [38, 40]
+    region:   bibiki_bay_s_3
+
+  16793704:
+    template: Alraune
+    level:    [38, 40]
+    region:   bibiki_bay_s_3
+
+  16793705:
+    template: Toucan
+    at:       [-223.342, -2.715, -533.340, 2]
+    level:    [38, 40]
+
+  16793706:
+    template: Jagil
+    at:       [-285.000, 0.001, -907.000, 70]
+    level:    [35, 38]
+
+  16793707:
+    template: Alraune
+    level:    [38, 40]
+    region:   bibiki_bay_sw_40
+
+  16793708:
+    template: Alraune
+    level:    [38, 40]
+    region:   bibiki_bay_sw_40
+
+  16793709:
+    template: Coastal_Opo-opo
+    level:    [37, 39]
+    region:   bibiki_bay_sw_39
+
+  16793710:
+    template: Ignis_Fatuus
+    level:    [35, 37]
+    region:   bibiki_bay_sw_39
+
+  16793711:
+    template: Peerifool
+    at:       [-320.547, -5.747, -731.893, 65]
+    level:    [48, 48]
+
+  16793712:
+    template: Peerifool
+    at:       [-319.358, -5.852, -732.097, 65]
+    level:    [48, 48]
+
+  16793713:
+    template: Peerifool
+    at:       [-319.040, -7.065, -729.927, 65]
+    level:    [48, 48]
+
+  16793714:
+    template: Peerifool
+    at:       [-319.513, -7.492, -728.548, 65]
+    level:    [48, 48]
+
+  16793715:
+    template: Peerifool
+    at:       [-320.216, -7.246, -729.706, 65]
+    level:    [48, 48]
+
+  16793716:
+    template: Peerifool
+    at:       [-319.862, -6.798, -730.845, 65]
+    level:    [48, 48]
+
+  16793717:
+    template: Island_Rarab
+    level:    [34, 36]
+    region:   bibiki_bay_ne_26
+
+  16793718:
+    template: Island_Rarab
+    level:    [34, 36]
+    region:   bibiki_bay_ne_26
+
+  16793719:
+    template: Marine_Dhalmel
+    level:    [34, 37]
+    region:   bibiki_bay_ne_24
+
+  16793720:
+    template: Marine_Dhalmel
+    level:    [34, 37]
+    region:   bibiki_bay_ne_24
+
+  16793721:
+    template: Raven
+    level:    [36, 38]
+    region:   bibiki_bay_ne_24
+
+  16793722:
+    template: Marine_Dhalmel
+    level:    [34, 37]
+    region:   bibiki_bay_ne_23
+
+  16793723:
+    template: Eft
+    level:    [33, 35]
+    region:   bibiki_bay_ne_23
+
+  16793724:
+    template: Raven
+    level:    [36, 38]
+    region:   bibiki_bay_ne_25
+
+  16793725:
+    template: Island_Rarab
+    level:    [34, 36]
+    region:   bibiki_bay_ne_25
+
+  16793726:
+    template: Ignis_Fatuus
+    level:    [35, 37]
+    region:   bibiki_bay_ne_21
+
+  16793727:
+    template: Marine_Dhalmel
+    level:    [34, 37]
+    region:   bibiki_bay_ne_18
+
+  16793728:
+    template: Island_Rarab
+    level:    [34, 36]
+    region:   bibiki_bay_ne_18
+
+  16793729:
+    template: Goblin_Shaman
+    level:    [34, 36]
+    region:   bibiki_bay_ne_22
+
+  16793730:
+    template: Eft
+    level:    [33, 35]
+    region:   bibiki_bay_ne_19
+
+  16793731:
+    template: Eft
+    level:    [33, 35]
+    region:   bibiki_bay_ne_20
+
+  16793732:
+    template: Eft
+    level:    [33, 35]
+    region:   bibiki_bay_ne_20
+
+  16793733:
+    template: Eft
+    level:    [33, 35]
+    region:   bibiki_bay_ne_17
+
+  16793734:
+    template: Eft
+    level:    [33, 35]
+    region:   bibiki_bay_ne_17
+
+  16793735:
+    template: Eft
+    level:    [33, 35]
+    region:   bibiki_bay_ne_17
+
+  16793736:
+    template: Eft
+    at:       [466.355, -3.602, 728.849, 133]
+    level:    [33, 35]
+
+  16793737:
+    template: Eft
+    at:       [466.019, -3.602, 728.924, 128]
+    level:    [33, 35]
+
+  16793738:
+    template: Raven
+    level:    [36, 38]
+    region:   bibiki_bay_ne_17
+
+  16793739:
+    template: Raven
+    level:    [36, 38]
+    region:   bibiki_bay_ne_17
+
+  16793740:
+    template: Raven
+    level:    [36, 38]
+    region:   bibiki_bay_ne_17
+
+  16793741:
+    template: Eft
+    level:    [33, 35]
+    region:   bibiki_bay_ne_17
+
+  16793742:
+    template: Intulo
+    at:       [525.746, -12.134, 775.797, 98]
+    level:    [46, 47]
+
+  16793743:
+    template: Marine_Dhalmel
+    level:    [34, 37]
+    region:   bibiki_bay_ne_16
+
+  16793744:
+    template: Marine_Dhalmel
+    level:    [34, 37]
+    region:   bibiki_bay_ne_16
+
+  16793745:
+    template: Eft
+    level:    [33, 35]
+    region:   bibiki_bay_ne_16
+
+  16793746:
+    template: Goblin_Pathfinder
+    level:    [34, 36]
+    region:   bibiki_bay_ne_15
+
+  16793747:
+    template: Goblins_Rarab
+    level:    [29, 31]
+    region:   bibiki_bay_ne_15
+
+  16793748:
+    template: Marine_Dhalmel
+    level:    [34, 37]
+    region:   bibiki_bay_ne_15
+
+  16793749:
+    template: Island_Rarab
+    level:    [34, 36]
+    region:   bibiki_bay_ne_15
+
+  16793750:
+    template: Hobgoblin_Martialist
+    at:       [357.379, -28.610, 876.190, 90]
+    level:    [72, 74]
+
+  16793751:
+    template: Hobgoblin_Animalier
+    level:    [72, 74]
+    region:   bibiki_bay_ne_14
+
+  16793752:
+    template: Goblins_Rarab
+    level:    [66, 69]
+    region:   bibiki_bay_ne_14
+
+  16793753:
+    template: Teine_Sith
+    level:    [75, 78]
+    region:   bibiki_bay_ne_14
+
+  16793754:
+    template: Tropical_Rarab
+    level:    [73, 76]
+    region:   bibiki_bay_ne_12
+
+  16793755:
+    template: Tropical_Rarab
+    level:    [73, 76]
+    region:   bibiki_bay_ne_12
+
+  16793756:
+    template: Tropical_Rarab
+    level:    [73, 76]
+    region:   bibiki_bay_ne_13
+
+  16793757:
+    template: Hobgoblin_Venerer
+    level:    [72, 74]
+    region:   bibiki_bay_ne_13
+
+  16793758:
+    template: Catoblepas
+    level:    [76, 77]
+    region:   bibiki_bay_ne_8
+
+  16793759:
+    template: Hobgoblin_Fascinator
+    level:    [72, 74]
+    region:   bibiki_bay_ne_8
+
+  16793760:
+    template: Tragopan
+    level:    [71, 73]
+    region:   bibiki_bay_ne_9
+
+  16793761:
+    template: Tragopan
+    level:    [71, 73]
+    region:   bibiki_bay_ne_9
+
+  16793762:
+    template: Tropical_Rarab
+    level:    [73, 76]
+    region:   bibiki_bay_ne_9
+
+  16793763:
+    template: Tropical_Rarab
+    level:    [73, 76]
+    region:   bibiki_bay_ne_9
+
+  16793764:
+    template: Tropical_Rarab
+    level:    [73, 76]
+    region:   bibiki_bay_ne_7
+
+  16793765:
+    template: Tragopan
+    level:    [71, 73]
+    region:   bibiki_bay_ne_7
+
+  16793766:
+    template: Tragopan
+    level:    [71, 73]
+    region:   bibiki_bay_ne_7
+
+  16793767:
+    template: Teine_Sith
+    level:    [75, 78]
+    region:   bibiki_bay_ne_7
+
+  16793768:
+    template: Catoblepas
+    level:    [76, 77]
+    region:   bibiki_bay_ne_4
+
+  16793769:
+    template: Catoblepas
+    level:    [76, 77]
+    region:   bibiki_bay_ne_4
+
+  16793770:
+    template: Tragopan
+    level:    [71, 73]
+    region:   bibiki_bay_ne_4
+
+  16793771:
+    template: Catoblepas
+    level:    [76, 77]
+    region:   bibiki_bay_ne_3
+
+  16793772:
+    template: Catoblepas
+    level:    [76, 77]
+    region:   bibiki_bay_ne_3
+
+  16793773:
+    template: Tropical_Rarab
+    level:    [73, 76]
+    region:   bibiki_bay_n_13
+
+  16793774:
+    template: Tartarus_Eft
+    level:    [76, 77]
+    region:   bibiki_bay_n_13
+
+  16793775:
+    template: Tartarus_Eft
+    level:    [76, 77]
+    region:   bibiki_bay_n_13
+
+  16793776:
+    template: Splacknuck
+    level:    [69, 70]
+    region:   bibiki_bay_n_13
+
+  16793777:
+    template: Hobgoblin_Animalier
+    level:    [72, 74]
+    region:   bibiki_bay_n_18
+
+  16793778:
+    template: Goblins_Rarab
+    level:    [66, 69]
+    region:   bibiki_bay_n_18
+
+  16793779:
+    template: Tartarus_Eft
+    at:       [97.309, -44.969, 936.494, 58]
+    level:    [76, 77]
+
+  16793780:
+    template: Hobgoblin_Fascinator
+    level:    [72, 74]
+    region:   bibiki_bay_n_12
+
+  16793781:
+    template: Tartarus_Eft
+    level:    [76, 77]
+    region:   bibiki_bay_n_4
+
+  16793782:
+    template: Catoblepas
+    level:    [76, 77]
+    region:   bibiki_bay_n_10
+
+  16793783:
+    template: Tragopan
+    level:    [71, 73]
+    region:   bibiki_bay_n_10
+
+  16793784:
+    template: Hobgoblin_Martialist
+    level:    [72, 74]
+    region:   bibiki_bay_n_17
+
+  16793785:
+    template: Hobgoblin_Venerer
+    level:    [72, 74]
+    region:   bibiki_bay_n_17
+
+  16793786:
+    template: Tragopan
+    level:    [71, 73]
+    region:   bibiki_bay_n_11
+
+  16793787:
+    template: Tropical_Rarab
+    level:    [73, 76]
+    region:   bibiki_bay_n_11
+
+  16793788:
+    template: Tartarus_Eft
+    level:    [76, 77]
+    region:   bibiki_bay_n_4
+
+  16793789:
+    template: Tartarus_Eft
+    level:    [76, 77]
+    region:   bibiki_bay_n_4
+
+  16793790:
+    template: Catoblepas
+    level:    [76, 77]
+    region:   bibiki_bay_n_7
+
+  16793791:
+    template: Tropical_Rarab
+    level:    [73, 76]
+    region:   bibiki_bay_n_7
+
+  16793792:
+    template: Hobgoblin_Fascinator
+    level:    [72, 74]
+    region:   bibiki_bay_n_14
+
+  16793793:
+    template: Tragopan
+    level:    [71, 73]
+    region:   bibiki_bay_n_14
+
+  16793794:
+    template: Catoblepas
+    level:    [76, 77]
+    region:   bibiki_bay_n_9
+
+  16793795:
+    template: Catoblepas
+    level:    [76, 77]
+    region:   bibiki_bay_n_9
+
+  16793796:
+    template: Hobgoblin_Martialist
+    level:    [72, 74]
+    region:   bibiki_bay_n_9
+
+  16793797:
+    template: Hobgoblin_Animalier
+    at:       [116.064, -36.789, 677.892, 187]
+    level:    [72, 74]
+
+  16793798:
+    template: Goblins_Rarab
+    at:       [117.994, -36.772, 678.057, 135]
+    level:    [66, 69]
+
+  16793799:
+    template: Hobgoblin_Venerer
+    at:       [118.495, -36.415, 686.662, 30]
+    level:    [72, 74]
+
+  16793800:
+    template: Locus_Bight_Rarab
+    at:       [115.359, -37.220, 594.536, 136]
+    level:    [135, 137]
+
+  16793801:
+    template: Locus_Bight_Rarab
+    at:       [123.407, -36.736, 597.755, 75]
+    level:    [135, 137]
+
+  16793802:
+    template: Locus_Bight_Rarab
+    at:       [126.034, -37.252, 597.384, 250]
+    level:    [135, 137]
+
+  16793803:
+    template: Locus_Bight_Rarab
+    level:    [135, 137]
+    region:   bibiki_bay_n_3
+
+  16793804:
+    template: Locus_Bight_Rarab
+    level:    [135, 137]
+    region:   bibiki_bay_n_3
+
+  16793805:
+    template: Locus_Bight_Rarab
+    level:    [135, 137]
+    region:   bibiki_bay_n_3
+
+  16793806:
+    template: Locus_Camelopard
+    level:    [135, 137]
+    region:   bibiki_bay_n_2
+
+  16793807:
+    template: Locus_Camelopard
+    level:    [135, 137]
+    region:   bibiki_bay_n_2
+
+  16793808:
+    template: Locus_Camelopard
+    level:    [135, 137]
+    region:   bibiki_bay_n_2
+
+  16793809:
+    template: Locus_Bight_Rarab
+    level:    [135, 137]
+    region:   bibiki_bay_n
+
+  16793810:
+    template: Locus_Bight_Rarab
+    level:    [135, 137]
+    region:   bibiki_bay_n
+
+  16793811:
+    template: Locus_Bight_Rarab
+    level:    [135, 137]
+    region:   bibiki_bay_n
+
+  16793812:
+    template: Locus_Bight_Rarab
+    level:    [135, 137]
+    region:   bibiki_bay_n
+
+  16793813:
+    template: Locus_Camelopard
+    level:    [135, 137]
+    region:   bibiki_bay_n_5
+
+  16793814:
+    template: Locus_Camelopard
+    level:    [135, 137]
+    region:   bibiki_bay_n_5
+
+  16793815:
+    template: Locus_Camelopard
+    level:    [135, 137]
+    region:   bibiki_bay_n_5
+
+  16793816:
+    template: Locus_Camelopard
+    level:    [135, 137]
+    region:   bibiki_bay_n_5
+
+  16793817:
+    template: Locus_Bight_Rarab
+    level:    [135, 137]
+    region:   bibiki_bay_n_6
+
+  16793818:
+    template: Locus_Bight_Rarab
+    level:    [135, 137]
+    region:   bibiki_bay_n_6
+
+  16793819:
+    template: Locus_Bight_Rarab
+    level:    [135, 137]
+    region:   bibiki_bay_n_6
+
+  16793820:
+    template: Locus_Bight_Rarab
+    level:    [135, 137]
+    region:   bibiki_bay_n_6
+
+  16793821:
+    template: Locus_Bight_Rarab
+    level:    [135, 137]
+    region:   bibiki_bay_n_8
+
+  16793822:
+    template: Locus_Bight_Rarab
+    level:    [135, 137]
+    region:   bibiki_bay_n_8
+
+  16793823:
+    template: Locus_Bight_Rarab
+    level:    [135, 137]
+    region:   bibiki_bay_n_8
+
+  16793824:
+    template: Locus_Bight_Rarab
+    level:    [135, 137]
+    region:   bibiki_bay_n_8
+
+  16793825:
+    template: Locus_Bight_Rarab
+    level:    [135, 137]
+    region:   bibiki_bay_n_8
+
+  16793826:
+    template: Locus_Bight_Rarab
+    level:    [135, 137]
+    region:   bibiki_bay_n_8
+
+  16793827:
+    template: Locus_Camelopard
+    level:    [135, 137]
+    region:   bibiki_bay_n_16
+
+  16793828:
+    template: Locus_Camelopard
+    level:    [135, 137]
+    region:   bibiki_bay_n_16
+
+  16793829:
+    template: Locus_Camelopard
+    level:    [135, 137]
+    region:   bibiki_bay_n_16
+
+  16793830:
+    template: Locus_Camelopard
+    level:    [135, 137]
+    region:   bibiki_bay_n_16
+
+  16793831:
+    template: Locus_Camelopard
+    level:    [135, 137]
+    region:   bibiki_bay_n_15
+
+  16793832:
+    template: Locus_Camelopard
+    level:    [135, 137]
+    region:   bibiki_bay_n_15
+
+  16793833:
+    template: Locus_Camelopard
+    level:    [135, 137]
+    region:   bibiki_bay_n_15
+
+  16793834:
+    template: Locus_Camelopard
+    level:    [135, 137]
+    region:   bibiki_bay_n_15
+
+  16793835:
+    template: Locus_Bight_Rarab
+    level:    [135, 137]
+    region:   bibiki_bay_n_20
+
+  16793836:
+    template: Locus_Bight_Rarab
+    level:    [135, 137]
+    region:   bibiki_bay_n_20
+
+  16793837:
+    template: Locus_Bight_Rarab
+    level:    [135, 137]
+    region:   bibiki_bay_n_20
+
+  16793838:
+    template: Locus_Bight_Rarab
+    level:    [135, 137]
+    region:   bibiki_bay_n_20
+
+  16793839:
+    template: Locus_Camelopard
+    level:    [135, 137]
+    region:   bibiki_bay_ne
+
+  16793840:
+    template: Locus_Camelopard
+    level:    [135, 137]
+    region:   bibiki_bay_ne
+
+  16793841:
+    template: Locus_Camelopard
+    level:    [135, 137]
+    region:   bibiki_bay_ne
+
+  16793842:
+    template: Locus_Camelopard
+    level:    [135, 137]
+    region:   bibiki_bay_ne
+
+  16793843:
+    template: Locus_Camelopard
+    level:    [135, 137]
+    region:   bibiki_bay_e_2
+
+  16793844:
+    template: Locus_Camelopard
+    level:    [135, 137]
+    region:   bibiki_bay_e_2
+
+  16793845:
+    template: Locus_Camelopard
+    level:    [135, 137]
+    region:   bibiki_bay_e_2
+
+  16793846:
+    template: Locus_Camelopard
+    level:    [135, 137]
+    region:   bibiki_bay_e_2
+
+  16793847:
+    template: Locus_Hypnos_Eft
+    level:    [135, 137]
+    region:   bibiki_bay_n_19
+
+  16793848:
+    template: Locus_Hypnos_Eft
+    level:    [135, 137]
+    region:   bibiki_bay_n_19
+
+  16793849:
+    template: Locus_Hypnos_Eft
+    level:    [135, 137]
+    region:   bibiki_bay_n_19
+
+  16793850:
+    template: Locus_Hypnos_Eft
+    level:    [135, 137]
+    region:   bibiki_bay_n_19
+
+  16793851:
+    template: Locus_Hypnos_Eft
+    level:    [135, 137]
+    region:   bibiki_bay_ne_2
+
+  16793852:
+    template: Locus_Hypnos_Eft
+    level:    [135, 137]
+    region:   bibiki_bay_ne_2
+
+  16793853:
+    template: Locus_Hypnos_Eft
+    level:    [135, 137]
+    region:   bibiki_bay_ne_2
+
+  16793854:
+    template: Locus_Hypnos_Eft
+    level:    [135, 137]
+    region:   bibiki_bay_ne_2
+
+  16793855:
+    template: Locus_Hypnos_Eft
+    level:    [135, 137]
+    region:   bibiki_bay_ne_5
+
+  16793856:
+    template: Locus_Hypnos_Eft
+    level:    [135, 137]
+    region:   bibiki_bay_ne_5
+
+  16793857:
+    template: Locus_Hypnos_Eft
+    level:    [135, 137]
+    region:   bibiki_bay_ne_5
+
+  16793858:
+    template: Locus_Hypnos_Eft
+    level:    [135, 137]
+    region:   bibiki_bay_ne_5
+
+  16793859:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_ne_6
+
+  16793860:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_ne_6
+
+  16793861:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_ne_6
+
+  16793862:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_ne_6
+
+  16793863:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_ne_6
+
+  16793864:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_ne_6
+
+  16793865:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_ne_10
+
+  16793866:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_ne_10
+
+  16793867:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_ne_10
+
+  16793868:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_ne_10
+
+  16793869:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_ne_10
+
+  16793870:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_ne_10
+
+  16793871:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_ne_11
+
+  16793872:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_ne_11
+
+  16793873:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_ne_11
+
+  16793874:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_ne_11
+
+  16793875:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_ne_11
+
+  16793876:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_ne_11
+
+  16793877:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_e_8
+
+  16793878:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_e_8
+
+  16793879:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_e_8
+
+  16793880:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_e_8
+
+  16793881:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_e_8
+
+  16793882:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_e_8
+
+  16793883:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_c_2
+
+  16793884:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_c_2
+
+  16793885:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_c_2
+
+  16793886:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_c_2
+
+  16793887:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_c
+
+  16793888:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_c
+
+  16793889:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_c
+
+  16793890:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_c
+
+  16793891:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_c
+
+  16793892:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_c
+
+  16793893:
+    template: Locus_Fiddler_Crab
+    at:       [76.251, -30.811, 209.441, 129]
+    level:    [137, 139]
+
+  16793894:
+    template: Locus_Fiddler_Crab
+    at:       [95.304, -29.811, 210.106, 105]
+    level:    [137, 139]
+
+  16793895:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_e
+
+  16793896:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_e
+
+  16793897:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_e
+
+  16793898:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_e
+
+  16793899:
+    template: Locus_Ghost_Crab
+    at:       [244.070, -20.565, 195.742, 50]
+    level:    [137, 139]
+
+  16793900:
+    template: Locus_Ghost_Crab
+    at:       [238.979, -20.976, 204.406, 155]
+    level:    [137, 139]
+
+  16793901:
+    template: Locus_Ghost_Crab
+    at:       [238.411, -21.046, 198.566, 32]
+    level:    [137, 139]
+
+  16793902:
+    template: Locus_Ghost_Crab
+    at:       [246.629, -21.230, 193.720, 105]
+    level:    [137, 139]
+
+  16793903:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_e_4
+
+  16793904:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_e_4
+
+  16793905:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_e_4
+
+  16793906:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_e_4
+
+  16793907:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_e_4
+
+  16793908:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_e_4
+
+  16793909:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_e_6
+
+  16793910:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_e_6
+
+  16793911:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_e_6
+
+  16793912:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_e_6
+
+  16793913:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_e_7
+
+  16793914:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_e_7
+
+  16793915:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_e_7
+
+  16793916:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_e_7
+
+  16793917:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_e_7
+
+  16793918:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_e_7
+
+  16793919:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_e_3
+
+  16793920:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_e_3
+
+  16793921:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_e_3
+
+  16793922:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_e_3
+
+  16793923:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_e_3
+
+  16793924:
+    template: Locus_Ghost_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_e_3
+
+  16793925:
+    template: Locus_Fiddler_Crab
+    level:    [137, 139]
+    region:   bibiki_bay_e_5
+
+  16793926:
+    template: Locus_Fiddler_Crab
+    at:       [272.529, -2.678, 169.613, 120]
+    level:    [137, 139]
+
+  16793927:
+    template: Rohemolipaud
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [55, 56]
+
+  16793928:
+    template: Dalham
+    at:       [95.041, -45.015, 936.651, 243]
+    level:    [65, 65]
+
+  16793929:
+    template: Shen
+    at:       [-102.540, 2.087, -725.207, 156]
+    level:    [83, 84]
+
+  16793930:
+    template: Shens_Filtrate
+    at:       [-111.300, 0.001, -729.000, 159]
+    level:    [80, 81]
+
+  16793931:
+    template: Shens_Filtrate
+    at:       [-111.500, 0.001, -729.000, 159]
+    level:    [80, 81]
+
+  16793932:
+    template: Bismarck
+    at:       [-616.422, -2.461, -628.633, 108]
+    level:    [95, 98]
+
+  16793933:
+    template: Primordial_Pugil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16793934:
+    template: Primordial_Pugil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16793935:
+    template: Primordial_Pugil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16793936:
+    template: Primordial_Pugil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16793937:
+    template: Primordial_Pugil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16793938:
+    template: Primordial_Pugil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16793939:
+    template: Primordial_Pugil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16793940:
+    template: Primordial_Pugil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16793941:
+    template: Primordial_Pugil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16793942:
+    template: Primordial_Pugil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16793943:
+    template: Bismarck
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [95, 98]
+
+  16793944:
+    template: Primordial_Pugil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16793945:
+    template: Primordial_Pugil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16793946:
+    template: Primordial_Pugil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16793947:
+    template: Primordial_Pugil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16793948:
+    template: Primordial_Pugil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16793949:
+    template: Primordial_Pugil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16793950:
+    template: Primordial_Pugil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16793951:
+    template: Primordial_Pugil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16793952:
+    template: Primordial_Pugil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16793953:
+    template: Primordial_Pugil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16793954:
+    template: Bismarck
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [95, 98]
+
+  16793955:
+    template: Primordial_Pugil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16793956:
+    template: Primordial_Pugil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16793957:
+    template: Primordial_Pugil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16793958:
+    template: Primordial_Pugil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16793959:
+    template: Primordial_Pugil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16793960:
+    template: Primordial_Pugil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16793961:
+    template: Primordial_Pugil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16793962:
+    template: Primordial_Pugil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16793963:
+    template: Primordial_Pugil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16793964:
+    template: Primordial_Pugil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16793965:
+    template: Intuila
+    at:       [582.549, -20.954, 847.859, 31]
+    level:    [99, 99]
+
+  16793966:
+    template: Intuila
+    at:       [198.669, -28.500, 562.659, 21]
+    level:    [99, 99]
+
+  16793967:
+    template: Intuila
+    at:       [361.160, -20.500, 319.809, 0]
+    level:    [99, 99]

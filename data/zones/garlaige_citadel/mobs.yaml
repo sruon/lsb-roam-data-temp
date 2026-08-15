@@ -1,0 +1,1598 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17596417:
+    template: Borer_Beetle
+    level:    [41, 44]
+    region:   garlaige_citadel_nw_2
+
+  17596418:
+    template: Siege_Bat
+    level:    [40, 42]
+    region:   garlaige_citadel_nw_2
+
+  17596419:
+    template: Siege_Bat
+    level:    [40, 42]
+    region:   garlaige_citadel_nw_2
+
+  17596420:
+    template: Borer_Beetle
+    level:    [41, 44]
+    region:   garlaige_citadel_nw_6
+
+  17596421:
+    template: Siege_Bat
+    level:    [40, 42]
+    region:   garlaige_citadel_nw_6
+
+  17596422:
+    template: Siege_Bat
+    level:    [40, 42]
+    region:   garlaige_citadel_nw_6
+
+  17596423:
+    template: Siege_Bat
+    level:    [40, 42]
+    region:   garlaige_citadel_nw_6
+
+  17596424:
+    template: Siege_Bat
+    level:    [40, 42]
+    region:   garlaige_citadel_nw_6
+
+  17596425:
+    template: Siege_Bat
+    at:       [-340.000, -0.500, 300.000, 127]
+    level:    [40, 42]
+
+  17596426:
+    template: Wingrats
+    at:       [-355.923, -0.012, 265.697, 85]
+    level:    [40, 42]
+
+  17596427:
+    template: Wingrats
+    at:       [-348.814, -0.012, 275.913, 127]
+    level:    [40, 42]
+
+  17596428:
+    template: Wingrats
+    at:       [-324.047, -0.012, 274.592, 11]
+    level:    [40, 42]
+
+  17596429:
+    template: Wingrats
+    at:       [-331.096, -0.012, 272.960, 127]
+    level:    [40, 42]
+
+  17596430:
+    template: Fallen_Evacuee
+    at:       [-316.194, -0.012, 269.743, 127]
+    level:    [42, 43]
+
+  17596431:
+    template: Fallen_Evacuee
+    level:    [42, 43]
+    region:   garlaige_citadel_nw_7
+
+  17596432:
+    template: Fallen_Evacuee
+    at:       [-353.108, -0.012, 249.415, 127]
+    level:    [42, 43]
+
+  17596433:
+    template: Fallen_Evacuee
+    at:       [-354.134, -0.012, 256.434, 127]
+    level:    [42, 43]
+
+  17596434:
+    template: Borer_Beetle
+    level:    [41, 44]
+    region:   garlaige_citadel_w_2
+
+  17596435:
+    template: Siege_Bat
+    level:    [41, 43]
+    region:   garlaige_citadel_w_2
+
+  17596436:
+    template: Siege_Bat
+    level:    [41, 43]
+    region:   garlaige_citadel_w_2
+
+  17596437:
+    template: Siege_Bat
+    level:    [41, 43]
+    region:   garlaige_citadel_w_2
+
+  17596438:
+    template: Siege_Bat
+    level:    [41, 43]
+    region:   garlaige_citadel_w_2
+
+  17596439:
+    template: Puroboros
+    at:       [-332.043, -0.012, 248.698, 127]
+    level:    [43, 45]
+
+  17596440:
+    template: Oil_Spill
+    at:       [-315.897, -0.012, 248.543, 127]
+    level:    [43, 45]
+
+  17596441:
+    template: Oil_Spill
+    at:       [-313.554, -0.012, 251.152, 127]
+    level:    [43, 45]
+
+  17596442:
+    template: Siege_Bat
+    at:       [-298.429, -0.012, 258.423, 127]
+    level:    [40, 42]
+
+  17596443:
+    template: Wingrats
+    level:    [40, 42]
+    region:   garlaige_citadel_nw_8
+
+  17596444:
+    template: Wingrats
+    level:    [40, 42]
+    region:   garlaige_citadel_nw_8
+
+  17596445:
+    template: Siege_Bat
+    at:       [-259.657, -0.012, 273.530, 44]
+    level:    [40, 42]
+
+  17596446:
+    template: Wingrats
+    at:       [-267.537, -0.012, 270.599, 56]
+    level:    [40, 42]
+
+  17596447:
+    template: Wingrats
+    at:       [-272.148, -0.012, 270.044, 8]
+    level:    [40, 42]
+
+  17596448:
+    template: Wingrats
+    level:    [40, 42]
+    region:   garlaige_citadel_nw_11
+
+  17596449:
+    template: Wingrats
+    at:       [-248.218, -0.012, 276.013, 127]
+    level:    [40, 42]
+
+  17596450:
+    template: Fallen_Evacuee
+    at:       [-247.371, -0.012, 244.900, 63]
+    level:    [42, 43]
+
+  17596451:
+    template: Fallen_Evacuee
+    at:       [-244.040, -0.013, 245.388, 65]
+    level:    [42, 43]
+
+  17596452:
+    template: Siege_Bat
+    at:       [-257.990, -0.012, 243.882, 127]
+    level:    [41, 43]
+
+  17596453:
+    template: Puroboros
+    at:       [-269.613, -0.012, 248.123, 84]
+    level:    [43, 45]
+
+  17596454:
+    template: Clockwork_Pod
+    at:       [-283.853, -0.012, 251.367, 58]
+    level:    [44, 45]
+
+  17596455:
+    template: Clockwork_Pod
+    at:       [-284.190, -0.012, 244.200, 39]
+    level:    [44, 45]
+
+  17596456:
+    template: Borer_Beetle
+    level:    [41, 44]
+    region:   garlaige_citadel_w_7
+
+  17596457:
+    template: Siege_Bat
+    level:    [41, 43]
+    region:   garlaige_citadel_w_7
+
+  17596458:
+    template: Siege_Bat
+    level:    [41, 43]
+    region:   garlaige_citadel_w_7
+
+  17596459:
+    template: Borer_Beetle
+    level:    [41, 44]
+    region:   garlaige_citadel_nw_13
+
+  17596460:
+    template: Siege_Bat
+    level:    [41, 43]
+    region:   garlaige_citadel_nw_13
+
+  17596461:
+    template: Siege_Bat
+    level:    [41, 43]
+    region:   garlaige_citadel_nw_13
+
+  17596462:
+    template: Revenant
+    at:       [-196.720, -0.012, 301.766, 127]
+    level:    [44, 46]
+
+  17596463:
+    template: Revenant
+    at:       [-237.000, -0.012, 379.000, 127]
+    level:    [44, 46]
+
+  17596464:
+    template: Borer_Beetle
+    level:    [41, 44]
+    region:   garlaige_citadel_w_12
+
+  17596465:
+    template: Siege_Bat
+    level:    [41, 43]
+    region:   garlaige_citadel_w_12
+
+  17596466:
+    template: Siege_Bat
+    level:    [41, 43]
+    region:   garlaige_citadel_w_12
+
+  17596467:
+    template: Borer_Beetle
+    level:    [41, 44]
+    region:   garlaige_citadel_w_11
+
+  17596468:
+    template: Siege_Bat
+    level:    [41, 43]
+    region:   garlaige_citadel_w_11
+
+  17596469:
+    template: Siege_Bat
+    level:    [41, 43]
+    region:   garlaige_citadel_w_11
+
+  17596470:
+    template: Citadel_Bats
+    level:    [46, 48]
+    region:   garlaige_citadel_c
+
+  17596471:
+    template: Citadel_Bats
+    level:    [46, 48]
+    region:   garlaige_citadel_c
+
+  17596472:
+    template: Citadel_Bats
+    level:    [46, 48]
+    region:   garlaige_citadel_c
+
+  17596473:
+    template: Citadel_Bats
+    level:    [46, 48]
+    region:   garlaige_citadel_c
+
+  17596474:
+    template: Citadel_Bats
+    level:    [46, 48]
+    region:   garlaige_citadel_c
+
+  17596475:
+    template: Demonic_Weapon
+    at:       [-167.104, -0.012, 252.127, 127]
+    level:    [47, 49]
+
+  17596476:
+    template: Demonic_Weapon
+    at:       [-170.384, -0.013, 250.528, 127]
+    level:    [47, 49]
+
+  17596477:
+    template: Fallen_Soldier
+    at:       [-168.538, -0.012, 233.226, 91]
+    level:    [47, 49]
+
+  17596478:
+    template: Fallen_Soldier
+    at:       [-171.124, -0.013, 230.522, 76]
+    level:    [47, 49]
+
+  17596479:
+    template: Fallen_Soldier
+    at:       [-167.714, -0.012, 204.540, 43]
+    level:    [47, 49]
+
+  17596480:
+    template: Fallen_Soldier
+    at:       [-163.777, -0.012, 214.595, 127]
+    level:    [47, 49]
+
+  17596481:
+    template: Bhuta
+    at:       [-164.283, -0.012, 188.818, 63]
+    level:    [47, 48]
+
+  17596482:
+    template: Citadel_Bats
+    level:    [46, 48]
+    region:   garlaige_citadel_n_2
+
+  17596483:
+    template: Citadel_Bats
+    level:    [46, 48]
+    region:   garlaige_citadel_n_2
+
+  17596484:
+    template: Citadel_Bats
+    level:    [46, 48]
+    region:   garlaige_citadel_n_2
+
+  17596485:
+    template: Bhuta
+    at:       [-126.921, -0.012, 236.445, 127]
+    level:    [49, 49]
+
+  17596486:
+    template: Demonic_Weapon
+    at:       [-125.764, -0.012, 215.450, 127]
+    level:    [47, 49]
+
+  17596487:
+    template: Demonic_Weapon
+    at:       [-124.569, -0.013, 210.591, 127]
+    level:    [47, 49]
+
+  17596488:
+    template: Citadel_Bats
+    level:    [46, 48]
+    region:   garlaige_citadel_c_3
+
+  17596489:
+    template: Citadel_Bats
+    level:    [46, 48]
+    region:   garlaige_citadel_c_3
+
+  17596490:
+    template: Citadel_Bats
+    level:    [46, 48]
+    region:   garlaige_citadel_c_3
+
+  17596491:
+    template: Bhuta
+    at:       [-156.316, -0.012, 209.731, 127]
+    level:    [47, 49]
+
+  17596492:
+    template: Demonic_Weapon
+    at:       [-148.881, -0.012, 229.897, 127]
+    level:    [47, 49]
+
+  17596493:
+    template: Demonic_Weapon
+    at:       [-149.300, -0.500, 236.268, 125]
+    level:    [47, 49]
+
+  17596494:
+    template: Citadel_Bats
+    level:    [46, 48]
+    region:   garlaige_citadel_c
+
+  17596495:
+    template: Citadel_Bats
+    level:    [46, 48]
+    region:   garlaige_citadel_c
+
+  17596496:
+    template: Citadel_Bats
+    level:    [46, 48]
+    region:   garlaige_citadel_c
+
+  17596497:
+    template: Citadel_Bats
+    level:    [46, 48]
+    region:   garlaige_citadel_c
+
+  17596498:
+    template: Citadel_Bats
+    level:    [46, 48]
+    region:   garlaige_citadel_c
+
+  17596499:
+    template: Demonic_Weapon
+    at:       [-114.825, -0.012, 246.148, 105]
+    level:    [47, 49]
+
+  17596500:
+    template: Demonic_Weapon
+    at:       [-110.000, -0.013, 251.000, 102]
+    level:    [47, 49]
+
+  17596501:
+    template: Fallen_Soldier
+    at:       [-111.642, -0.012, 229.557, 120]
+    level:    [47, 49]
+
+  17596502:
+    template: Fallen_Soldier
+    at:       [-116.271, -0.012, 234.751, 127]
+    level:    [47, 49]
+
+  17596503:
+    template: Fallen_Soldier
+    at:       [-115.679, -0.012, 203.911, 92]
+    level:    [47, 49]
+
+  17596504:
+    template: Fallen_Soldier
+    at:       [-115.891, -0.013, 208.444, 127]
+    level:    [47, 49]
+
+  17596505:
+    template: Bhuta
+    at:       [-111.482, -0.012, 189.914, 127]
+    level:    [47, 48]
+
+  17596506:
+    template: Old_Two-Wings
+    level:    [52, 52]
+    region:   garlaige_citadel_c
+
+  17596507:
+    template: Skewer_Sam
+    level:    [54, 54]
+    region:   garlaige_citadel_c
+
+  17596508:
+    template: Funnel_Bats
+    level:    [51, 53]
+    region:   garlaige_citadel_c_6
+
+  17596509:
+    template: Funnel_Bats
+    level:    [51, 53]
+    region:   garlaige_citadel_c_6
+
+  17596510:
+    template: Fetid_Flesh
+    at:       [-79.947, 6.265, 139.543, 127]
+    level:    [54, 56]
+
+  17596511:
+    template: Funnel_Bats
+    level:    [51, 53]
+    region:   garlaige_citadel_c_7
+
+  17596512:
+    template: Funnel_Bats
+    level:    [51, 53]
+    region:   garlaige_citadel_c_7
+
+  17596513:
+    template: Funnel_Bats
+    level:    [51, 53]
+    region:   garlaige_citadel_c_7
+
+  17596514:
+    template: Funnel_Bats
+    level:    [51, 53]
+    region:   garlaige_citadel_c_7
+
+  17596515:
+    template: Explosure
+    at:       [5.839, 7.014, 197.462, 127]
+    level:    [52, 53]
+
+  17596516:
+    template: Explosure
+    at:       [-3.358, 7.014, 203.070, 127]
+    level:    [52, 53]
+
+  17596517:
+    template: Explosure
+    at:       [-6.000, 7.033, 194.000, 127]
+    level:    [52, 53]
+
+  17596518:
+    template: Thunder_Elemental
+    at:       [40.763, 6.987, 110.887, 76]
+    level:    [52, 54]
+
+  17596519:
+    template: Earth_Elemental
+    at:       [-2.969, 7.009, 203.127, 127]
+    level:    [52, 54]
+
+  17596520:
+    template: Hazmat
+    at:       [5.839, 7.014, 197.462, 127]
+    level:    [57, 58]
+
+  17596521:
+    template: Droma
+    at:       [13.034, 6.088, 186.750, 78]
+    level:    [53, 54]
+
+  17596522:
+    template: Droma
+    at:       [7.220, 6.184, 215.250, 11]
+    level:    [53, 54]
+
+  17596523:
+    template: Explosure
+    level:    [52, 53]
+    region:   garlaige_citadel_c_8
+
+  17596524:
+    template: Explosure
+    level:    [52, 53]
+    region:   garlaige_citadel_c_8
+
+  17596525:
+    template: Explosure
+    level:    [52, 53]
+    region:   garlaige_citadel_c_8
+
+  17596526:
+    template: Thunder_Elemental
+    at:       [-313.318, 19.522, 254.342, 58]
+    level:    [52, 54]
+
+  17596527:
+    template: Earth_Elemental
+    at:       [-41.805, 6.929, 232.613, 85]
+    level:    [52, 54]
+
+  17596528:
+    template: Droma
+    at:       [-49.427, 6.191, 225.777, 21]
+    level:    [52, 54]
+
+  17596529:
+    template: Fallen_Officer
+    level:    [52, 54]
+    region:   garlaige_citadel_ne
+
+  17596530:
+    template: Fallen_Officer
+    level:    [52, 54]
+    region:   garlaige_citadel_ne
+
+  17596531:
+    template: Fallen_Officer
+    level:    [52, 54]
+    region:   garlaige_citadel_ne
+
+  17596532:
+    template: Fallen_Officer
+    level:    [52, 54]
+    region:   garlaige_citadel_ne
+
+  17596533:
+    template: Chandelier
+    at:       [19.000, 1.000, 325.000, 67]
+    level:    [63, 63]
+
+  17596534:
+    template: Funnel_Bats
+    level:    [51, 53]
+    region:   garlaige_citadel_n_6
+
+  17596535:
+    template: Funnel_Bats
+    level:    [51, 53]
+    region:   garlaige_citadel_n_6
+
+  17596536:
+    template: Fetid_Flesh
+    at:       [-83.768, 6.232, 298.557, 115]
+    level:    [54, 56]
+
+  17596537:
+    template: Funnel_Bats
+    level:    [51, 53]
+    region:   garlaige_citadel_n_5
+
+  17596538:
+    template: Acid_Grease
+    level:    [52, 54]
+    region:   garlaige_citadel_n_4
+
+  17596539:
+    template: Acid_Grease
+    level:    [52, 54]
+    region:   garlaige_citadel_n_4
+
+  17596540:
+    template: Funnel_Bats
+    level:    [51, 53]
+    region:   garlaige_citadel_n
+
+  17596541:
+    template: Funnel_Bats
+    level:    [51, 53]
+    region:   garlaige_citadel_n
+
+  17596542:
+    template: Explosure
+    at:       [-133.299, -0.012, 352.527, 88]
+    level:    [52, 53]
+
+  17596543:
+    template: Droma
+    at:       [-126.082, -0.012, 331.379, 127]
+    level:    [52, 54]
+
+  17596544:
+    template: Droma
+    at:       [-132.560, -0.012, 331.301, 127]
+    level:    [53, 54]
+
+  17596545:
+    template: Fallen_Officer
+    at:       [-154.216, -0.012, 348.454, 110]
+    level:    [52, 54]
+
+  17596546:
+    template: Fallen_Officer
+    at:       [-148.501, -0.015, 355.582, 127]
+    level:    [53, 54]
+
+  17596547:
+    template: Explosure
+    at:       [-155.169, -0.012, 331.356, 127]
+    level:    [52, 53]
+
+  17596548:
+    template: Explosure
+    at:       [-168.253, -0.012, 356.293, 127]
+    level:    [52, 53]
+
+  17596549:
+    template: Fallen_Officer
+    at:       [-176.009, -0.012, 326.569, 114]
+    level:    [53, 54]
+
+  17596550:
+    template: Fallen_Officer
+    at:       [-170.244, -0.013, 329.409, 25]
+    level:    [52, 54]
+
+  17596551:
+    template: Droma
+    at:       [-186.369, -0.012, 331.959, 127]
+    level:    [52, 54]
+
+  17596552:
+    template: Droma
+    at:       [-192.966, -0.012, 328.089, 61]
+    level:    [53, 54]
+
+  17596553:
+    template: Funnel_Bats
+    at:       [-146.000, 14.000, 215.000, 127]
+    level:    [51, 53]
+
+  17596554:
+    template: Acid_Grease
+    at:       [-186.585, -0.012, 357.410, 127]
+    level:    [52, 54]
+
+  17596555:
+    template: Acid_Grease
+    at:       [-193.897, -0.012, 348.605, 6]
+    level:    [52, 54]
+
+  17596556:
+    template: Wraith
+    at:       [-126.813, -0.012, 381.813, 163]
+    level:    [60, 62]
+
+  17596557:
+    template: Fallen_Officer
+    level:    [53, 55]
+    region:   garlaige_citadel_n_3
+
+  17596558:
+    template: Fallen_Officer
+    level:    [53, 55]
+    region:   garlaige_citadel_n_3
+
+  17596559:
+    template: Fallen_Officer
+    level:    [53, 55]
+    region:   garlaige_citadel_n_3
+
+  17596560:
+    template: Fallen_Officer
+    level:    [53, 55]
+    region:   garlaige_citadel_n_3
+
+  17596561:
+    template: Fallen_Officer
+    level:    [53, 55]
+    region:   garlaige_citadel_n_3
+
+  17596562:
+    template: Fallen_Officer
+    level:    [53, 55]
+    region:   garlaige_citadel_n_7
+
+  17596563:
+    template: Fallen_Officer
+    level:    [53, 55]
+    region:   garlaige_citadel_n_7
+
+  17596564:
+    template: Fallen_Officer
+    level:    [53, 55]
+    region:   garlaige_citadel_n_7
+
+  17596565:
+    template: Funnel_Bats
+    level:    [51, 53]
+    region:   garlaige_citadel_s_2
+
+  17596566:
+    template: Funnel_Bats
+    level:    [51, 53]
+    region:   garlaige_citadel_s_2
+
+  17596567:
+    template: Funnel_Bats
+    level:    [51, 53]
+    region:   garlaige_citadel_s_2
+
+  17596568:
+    template: Droma
+    at:       [-43.432, -0.012, 107.841, 33]
+    level:    [52, 54]
+
+  17596569:
+    template: Droma
+    at:       [-43.692, -0.012, 112.568, 6]
+    level:    [53, 54]
+
+  17596570:
+    template: Explosure
+    at:       [-43.381, -0.012, 86.354, 127]
+    level:    [52, 53]
+
+  17596571:
+    template: Fallen_Officer
+    at:       [-70.490, -0.012, 114.544, 127]
+    level:    [53, 55]
+
+  17596572:
+    template: Fallen_Officer
+    at:       [-64.477, -0.012, 110.816, 127]
+    level:    [52, 54]
+
+  17596573:
+    template: Explosure
+    at:       [-74.377, -0.012, 87.216, 127]
+    level:    [52, 53]
+
+  17596574:
+    template: Acid_Grease
+    at:       [-103.000, -0.012, 90.301, 64]
+    level:    [52, 54]
+
+  17596575:
+    template: Acid_Grease
+    at:       [-96.844, -0.012, 89.250, 127]
+    level:    [52, 54]
+
+  17596576:
+    template: Explosure
+    at:       [-124.122, -0.012, 115.711, 127]
+    level:    [52, 53]
+
+  17596577:
+    template: Fallen_Officer
+    at:       [-135.031, -0.012, 91.288, 127]
+    level:    [52, 54]
+
+  17596578:
+    template: Fallen_Officer
+    at:       [-129.436, -0.012, 92.358, 63]
+    level:    [52, 54]
+
+  17596579:
+    template: Explosure
+    at:       [-149.240, -0.012, 113.180, 127]
+    level:    [52, 53]
+
+  17596580:
+    template: Droma
+    at:       [-156.000, -0.012, 84.000, 127]
+    level:    [52, 54]
+
+  17596581:
+    template: Droma
+    at:       [-146.876, -0.012, 92.394, 127]
+    level:    [52, 54]
+
+  17596582:
+    template: Funnel_Bats
+    level:    [51, 53]
+    region:   garlaige_citadel_sw
+
+  17596583:
+    template: Funnel_Bats
+    level:    [51, 53]
+    region:   garlaige_citadel_sw
+
+  17596584:
+    template: Funnel_Bats
+    level:    [51, 53]
+    region:   garlaige_citadel_sw
+
+  17596585:
+    template: Fallen_Officer
+    level:    [52, 54]
+    region:   garlaige_citadel_w_10
+
+  17596586:
+    template: Fallen_Officer
+    level:    [52, 54]
+    region:   garlaige_citadel_w_10
+
+  17596587:
+    template: Fallen_Officer
+    level:    [52, 54]
+    region:   garlaige_citadel_w_10
+
+  17596588:
+    template: Fallen_Officer
+    level:    [52, 54]
+    region:   garlaige_citadel_w_10
+
+  17596589:
+    template: Droma
+    at:       [-193.536, -0.012, 139.115, 64]
+    level:    [52, 54]
+
+  17596590:
+    template: Chamber_Beetle
+    level:    [56, 58]
+    region:   garlaige_citadel_s
+
+  17596591:
+    template: Chamber_Beetle
+    level:    [56, 58]
+    region:   garlaige_citadel_s
+
+  17596592:
+    template: Chamber_Beetle
+    level:    [56, 58]
+    region:   garlaige_citadel_s
+
+  17596593:
+    template: Chamber_Beetle
+    level:    [56, 58]
+    region:   garlaige_citadel_s_3
+
+  17596594:
+    template: Chamber_Beetle
+    level:    [56, 58]
+    region:   garlaige_citadel_s_3
+
+  17596595:
+    template: Chamber_Beetle
+    level:    [56, 58]
+    region:   garlaige_citadel_s_3
+
+  17596596:
+    template: Chamber_Beetle
+    level:    [56, 58]
+    region:   garlaige_citadel_s_3
+
+  17596597:
+    template: Tainted_Flesh
+    at:       [-260.000, 18.000, 201.000, 127]
+    level:    [63, 64]
+
+  17596598:
+    template: Tainted_Flesh
+    at:       [-209.000, 19.000, 145.000, 127]
+    level:    [63, 64]
+
+  17596599:
+    template: Frogamander
+    at:       [-78.800, 6.150, 140.600, 127]
+    level:    [72, 73]
+
+  17596600:
+    template: Hellmine
+    at:       [38.176, 7.018, 110.095, 17]
+    level:    [59, 61]
+
+  17596601:
+    template: Hellmine
+    level:    [59, 61]
+    region:   garlaige_citadel_se
+
+  17596602:
+    template: Hellmine
+    at:       [33.148, 7.002, 121.440, 121]
+    level:    [59, 61]
+
+  17596603:
+    template: Thunder_Elemental
+    at:       [-283.894, 19.033, 235.495, 76]
+    level:    [52, 54]
+
+  17596604:
+    template: Earth_Elemental
+    at:       [32.256, 6.952, 120.520, 127]
+    level:    [52, 54]
+
+  17596605:
+    template: Over_Weapon
+    at:       [-319.000, 18.000, 179.000, 127]
+    level:    [59, 61]
+
+  17596606:
+    template: Vault_Weapon
+    at:       [-305.000, 19.000, 171.000, 48]
+    level:    [60, 62]
+
+  17596607:
+    template: Over_Weapon
+    at:       [-300.000, 20.000, 176.000, 127]
+    level:    [59, 61]
+
+  17596608:
+    template: Vault_Weapon
+    at:       [-297.000, 18.000, 171.000, 127]
+    level:    [60, 62]
+
+  17596609:
+    template: Chamber_Beetle
+    level:    [56, 58]
+    region:   garlaige_citadel_se_2
+
+  17596610:
+    template: Chamber_Beetle
+    level:    [56, 58]
+    region:   garlaige_citadel_se_2
+
+  17596611:
+    template: Chamber_Beetle
+    level:    [56, 58]
+    region:   garlaige_citadel_se_2
+
+  17596612:
+    template: Chamber_Beetle
+    level:    [56, 58]
+    region:   garlaige_citadel_se_2
+
+  17596613:
+    template: Fallen_Major
+    level:    [60, 62]
+    region:   garlaige_citadel_se_3
+
+  17596614:
+    template: Fallen_Major
+    level:    [60, 62]
+    region:   garlaige_citadel_se_3
+
+  17596615:
+    template: Fallen_Mage
+    level:    [59, 62]
+    region:   garlaige_citadel_se_3
+
+  17596616:
+    template: Fallen_Mage
+    level:    [59, 62]
+    region:   garlaige_citadel_se_3
+
+  17596617:
+    template: Wraith
+    at:       [-123.784, -0.012, 382.057, 127]
+    level:    [60, 62]
+
+  17596618:
+    template: Over_Weapon
+    at:       [-293.000, 19.000, 177.000, 21]
+    level:    [59, 60]
+
+  17596619:
+    template: Vault_Weapon
+    at:       [-291.000, 18.000, 185.000, 127]
+    level:    [60, 62]
+
+  17596620:
+    template: Over_Weapon
+    at:       [-284.000, 18.000, 184.000, 54]
+    level:    [59, 61]
+
+  17596621:
+    template: Vault_Weapon
+    at:       [-285.000, 18.000, 176.000, 127]
+    level:    [60, 62]
+
+  17596622:
+    template: Wraith
+    at:       [124.213, -0.012, 72.559, 127]
+    level:    [60, 62]
+
+  17596623:
+    template: Fallen_Major
+    level:    [60, 62]
+    region:   garlaige_citadel_se_4
+
+  17596624:
+    template: Fallen_Major
+    at:       [180.846, -0.014, 24.911, 20]
+    level:    [60, 62]
+
+  17596625:
+    template: Fallen_Mage
+    level:    [59, 62]
+    region:   garlaige_citadel_se_4
+
+  17596626:
+    template: Fallen_Mage
+    at:       [153.345, -0.012, 18.278, 123]
+    level:    [59, 62]
+
+  17596627:
+    template: Wraith
+    level:    [60, 62]
+    region:   garlaige_citadel_se_4
+
+  17596628:
+    template: Hovering_Hotpot
+    level:    [58, 60]
+    region:   garlaige_citadel_se_4
+
+  17596629:
+    template: Citadel_Bats
+    level:    [46, 48]
+    region:   garlaige_citadel_nw_3
+
+  17596630:
+    template: Citadel_Bats
+    level:    [46, 48]
+    region:   garlaige_citadel_nw_3
+
+  17596631:
+    template: Citadel_Bats
+    level:    [46, 48]
+    region:   garlaige_citadel_nw_3
+
+  17596632:
+    template: Citadel_Bats
+    level:    [46, 48]
+    region:   garlaige_citadel_nw_3
+
+  17596633:
+    template: Citadel_Bats
+    level:    [46, 48]
+    region:   garlaige_citadel_nw_3
+
+  17596634:
+    template: Citadel_Bats
+    level:    [46, 48]
+    region:   garlaige_citadel_nw_3
+
+  17596635:
+    template: Over_Weapon
+    level:    [60, 62]
+    region:   garlaige_citadel_w_4
+
+  17596636:
+    template: Over_Weapon
+    level:    [60, 62]
+    region:   garlaige_citadel_w_4
+
+  17596637:
+    template: Over_Weapon
+    level:    [60, 62]
+    region:   garlaige_citadel_w_4
+
+  17596638:
+    template: Vault_Weapon
+    level:    [60, 62]
+    region:   garlaige_citadel_w_4
+
+  17596639:
+    template: Vault_Weapon
+    level:    [60, 62]
+    region:   garlaige_citadel_w_4
+
+  17596640:
+    template: Vault_Weapon
+    level:    [60, 62]
+    region:   garlaige_citadel_w_4
+
+  17596641:
+    template: Tainted_Flesh
+    level:    [63, 65]
+    region:   garlaige_citadel_w_8
+
+  17596642:
+    template: Tainted_Flesh
+    at:       [16.000, 7.000, 11.000, 127]
+    level:    [63, 64]
+
+  17596643:
+    template: Guardian_Statue
+    at:       [-168.000, 0.000, 230.000, 34]
+    level:    [61, 61]
+
+  17596644:
+    template: Warden_Beetle
+    level:    [95, 96]
+    region:   garlaige_citadel_nw
+
+  17596645:
+    template: Warden_Beetle
+    level:    [95, 96]
+    region:   garlaige_citadel_nw
+
+  17596646:
+    template: Warden_Beetle
+    level:    [95, 96]
+    region:   garlaige_citadel_nw
+
+  17596647:
+    template: Donjon_Bat
+    level:    [91, 93]
+    region:   garlaige_citadel_nw
+
+  17596648:
+    template: Donjon_Bat
+    level:    [91, 93]
+    region:   garlaige_citadel_nw
+
+  17596649:
+    template: Donjon_Bat
+    level:    [91, 93]
+    region:   garlaige_citadel_nw
+
+  17596650:
+    template: Warden_Beetle
+    level:    [95, 96]
+    region:   garlaige_citadel_w
+
+  17596651:
+    template: Warden_Beetle
+    level:    [95, 96]
+    region:   garlaige_citadel_w
+
+  17596652:
+    template: Warden_Beetle
+    level:    [95, 96]
+    region:   garlaige_citadel_w
+
+  17596653:
+    template: Donjon_Bat
+    level:    [91, 93]
+    region:   garlaige_citadel_w
+
+  17596654:
+    template: Donjon_Bat
+    level:    [91, 93]
+    region:   garlaige_citadel_w
+
+  17596655:
+    template: Kaboom
+    level:    [94, 96]
+    region:   garlaige_citadel_w
+
+  17596656:
+    template: Warden_Beetle
+    level:    [95, 96]
+    region:   garlaige_citadel_w_3
+
+  17596657:
+    template: Warden_Beetle
+    level:    [95, 96]
+    region:   garlaige_citadel_w_3
+
+  17596658:
+    template: Warden_Beetle
+    level:    [95, 96]
+    region:   garlaige_citadel_w_3
+
+  17596659:
+    template: Donjon_Bat
+    level:    [91, 93]
+    region:   garlaige_citadel_w_3
+
+  17596660:
+    template: Kaboom
+    level:    [94, 96]
+    region:   garlaige_citadel_w_3
+
+  17596661:
+    template: Fortalice_Bats
+    at:       [-206.000, -0.500, 100.000, 127]
+    level:    [92, 94]
+
+  17596662:
+    template: Fortalice_Bats
+    at:       [-180.000, -0.500, 91.000, 127]
+    level:    [93, 94]
+
+  17596663:
+    template: Fortalice_Bats
+    at:       [-180.000, -0.500, 77.000, 127]
+    level:    [92, 94]
+
+  17596664:
+    template: Fortalice_Bats
+    at:       [-137.000, -0.500, 99.000, 127]
+    level:    [93, 94]
+
+  17596665:
+    template: Warden_Beetle
+    level:    [95, 96]
+    region:   garlaige_citadel_nw_5
+
+  17596666:
+    template: Warden_Beetle
+    level:    [95, 96]
+    region:   garlaige_citadel_nw_5
+
+  17596667:
+    template: Donjon_Bat
+    level:    [91, 93]
+    region:   garlaige_citadel_nw_5
+
+  17596668:
+    template: Donjon_Bat
+    level:    [91, 93]
+    region:   garlaige_citadel_nw_5
+
+  17596669:
+    template: Fortalice_Bats
+    level:    [92, 94]
+    region:   garlaige_citadel_nw_5
+
+  17596670:
+    template: Fortalice_Bats
+    level:    [92, 94]
+    region:   garlaige_citadel_nw_5
+
+  17596671:
+    template: Warden_Beetle
+    level:    [95, 96]
+    region:   garlaige_citadel_nw_4
+
+  17596672:
+    template: Warden_Beetle
+    level:    [95, 96]
+    region:   garlaige_citadel_nw_4
+
+  17596673:
+    template: Donjon_Bat
+    level:    [91, 93]
+    region:   garlaige_citadel_nw_4
+
+  17596674:
+    template: Donjon_Bat
+    level:    [91, 93]
+    region:   garlaige_citadel_nw_4
+
+  17596675:
+    template: Donjon_Bat
+    level:    [91, 93]
+    region:   garlaige_citadel_nw_4
+
+  17596676:
+    template: Kaboom
+    level:    [94, 96]
+    region:   garlaige_citadel_nw_4
+
+  17596677:
+    template: Warden_Beetle
+    level:    [95, 96]
+    region:   garlaige_citadel_w_5
+
+  17596678:
+    template: Warden_Beetle
+    level:    [95, 96]
+    region:   garlaige_citadel_w_5
+
+  17596679:
+    template: Donjon_Bat
+    level:    [91, 93]
+    region:   garlaige_citadel_w_5
+
+  17596680:
+    template: Donjon_Bat
+    level:    [91, 93]
+    region:   garlaige_citadel_w_5
+
+  17596681:
+    template: Kaboom
+    at:       [-373.000, 18.000, 291.000, 127]
+    level:    [94, 96]
+
+  17596682:
+    template: Fortalice_Bats
+    level:    [92, 94]
+    region:   garlaige_citadel_nw_10
+
+  17596683:
+    template: Fortalice_Bats
+    at:       [-20.000, 5.000, 153.000, 127]
+    level:    [92, 94]
+
+  17596684:
+    template: Fortalice_Bats
+    at:       [-30.000, 7.000, 138.000, 127]
+    level:    [92, 94]
+
+  17596685:
+    template: Fortalice_Bats
+    at:       [-52.000, 6.000, 137.000, 127]
+    level:    [92, 94]
+
+  17596686:
+    template: Donjon_Bat
+    at:       [-273.156, 18.332, 279.846, 120]
+    level:    [91, 93]
+
+  17596687:
+    template: Kaboom
+    at:       [-371.000, 18.000, 227.000, 127]
+    level:    [94, 96]
+
+  17596688:
+    template: Fortalice_Bats
+    level:    [92, 94]
+    region:   garlaige_citadel_nw_9
+
+  17596689:
+    template: Fortalice_Bats
+    level:    [92, 94]
+    region:   garlaige_citadel_nw_9
+
+  17596690:
+    template: Fortalice_Bats
+    level:    [92, 94]
+    region:   garlaige_citadel_nw_9
+
+  17596691:
+    template: Warden_Beetle
+    level:    [95, 96]
+    region:   garlaige_citadel_nw_12
+
+  17596692:
+    template: Kaboom
+    level:    [94, 96]
+    region:   garlaige_citadel_nw_12
+
+  17596693:
+    template: Fortalice_Bats
+    level:    [92, 94]
+    region:   garlaige_citadel_nw_12
+
+  17596694:
+    template: Fortalice_Bats
+    level:    [92, 94]
+    region:   garlaige_citadel_nw_12
+
+  17596695:
+    template: Fortalice_Bats
+    level:    [92, 94]
+    region:   garlaige_citadel_nw_12
+
+  17596696:
+    template: Warden_Beetle
+    level:    [95, 96]
+    region:   garlaige_citadel_w_6
+
+  17596697:
+    template: Warden_Beetle
+    level:    [95, 96]
+    region:   garlaige_citadel_w_6
+
+  17596698:
+    template: Kaboom
+    level:    [94, 96]
+    region:   garlaige_citadel_w_9
+
+  17596699:
+    template: Fortalice_Bats
+    level:    [92, 94]
+    region:   garlaige_citadel_w_6
+
+  17596700:
+    template: Fortalice_Bats
+    level:    [92, 94]
+    region:   garlaige_citadel_w_6
+
+  17596701:
+    template: Donjon_Bat
+    level:    [91, 93]
+    region:   garlaige_citadel_nw_14
+
+  17596702:
+    template: Donjon_Bat
+    level:    [91, 93]
+    region:   garlaige_citadel_nw_14
+
+  17596703:
+    template: Kaboom
+    level:    [94, 96]
+    region:   garlaige_citadel_nw_14
+
+  17596704:
+    template: Fortalice_Bats
+    level:    [92, 94]
+    region:   garlaige_citadel_nw_14
+
+  17596705:
+    template: Fortalice_Bats
+    level:    [92, 94]
+    region:   garlaige_citadel_nw_14
+
+  17596706:
+    template: Donjon_Bat
+    level:    [91, 93]
+    region:   garlaige_citadel_nw_15
+
+  17596707:
+    template: Kaboom
+    at:       [-200.082, 19.011, 321.116, 87]
+    level:    [95, 96]
+
+  17596708:
+    template: Fortalice_Bats
+    at:       [-340.000, 19.000, 283.000, 127]
+    level:    [92, 94]
+
+  17596709:
+    template: Fortalice_Bats
+    at:       [-285.000, 19.000, 283.000, 127]
+    level:    [92, 94]
+
+  17596710:
+    template: Fortalice_Bats
+    at:       [-306.000, 19.000, 258.000, 127]
+    level:    [92, 94]
+
+  17596711:
+    template: Donjon_Bat
+    at:       [-172.928, 19.451, 320.467, 180]
+    level:    [91, 93]
+
+  17596712:
+    template: Kaboom
+    at:       [-173.775, 19.223, 329.076, 231]
+    level:    [94, 96]
+
+  17596713:
+    template: Fortalice_Bats
+    at:       [-346.633, 12.126, 249.586, 115]
+    level:    [92, 94]
+
+  17596714:
+    template: Fortalice_Bats
+    at:       [-274.000, 19.000, 233.000, 25]
+    level:    [92, 94]
+
+  17596715:
+    template: Fortalice_Bats
+    at:       [-340.000, 12.000, 261.000, 127]
+    level:    [92, 94]
+
+  17596716:
+    template: Wraith
+    at:       [183.809, -0.012, 32.565, 127]
+    level:    [60, 62]
+
+  17596717:
+    template: Wraith
+    at:       [-159.000, 19.000, 217.000, 127]
+    level:    [60, 62]
+
+  17596718:
+    template: Wraith
+    level:    [60, 62]
+    region:   garlaige_citadel_c_2
+
+  17596719:
+    template: Wraith
+    level:    [60, 62]
+    region:   garlaige_citadel_c_2
+
+  17596720:
+    template: Serket
+    level:    [70, 70]
+    region:   garlaige_citadel_c_2
+
+  17596721:
+    template: Wraith
+    level:    [60, 62]
+    region:   garlaige_citadel_w_13
+
+  17596722:
+    template: Magic_Jug
+    at:       [-171.000, 18.000, 186.000, 127]
+    level:    [63, 64]
+
+  17596723:
+    template: Magic_Jug
+    at:       [-106.000, 18.000, 189.000, 127]
+    level:    [62, 64]
+
+  17596724:
+    template: Magic_Jug
+    at:       [-109.000, 18.000, 253.000, 127]
+    level:    [62, 64]
+
+  17596725:
+    template: Magic_Jug
+    level:    [62, 63]
+    region:   garlaige_citadel_c_5
+
+  17596726:
+    template: Hellmine
+    level:    [60, 62]
+    region:   garlaige_citadel_c_4
+
+  17596727:
+    template: Hellmine
+    level:    [60, 62]
+    region:   garlaige_citadel_c_4
+
+  17596728:
+    template: Mimic
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [60, 60]
+
+  17596729:
+    template: Light_Elemental
+    at:       [257.299, -0.682, 20.000, 0]
+    level:    [75, 75]
+
+  17596730:
+    template: Roly-Poly
+    at:       [-340.000, -0.500, 220.000, 107]
+    level:    [91, 93]
+
+  17596731:
+    template: Roly-Poly
+    at:       [-261.541, -0.500, 379.626, 137]
+    level:    [91, 93]
+
+  17596732:
+    template: Roly-Poly
+    at:       [-140.000, -0.500, 180.000, 61]
+    level:    [91, 93]
+
+  17596733:
+    template: Mephitas
+    at:       [-167.889, 18.750, 321.510, 238]
+    level:    [99, 99]
+
+  17596734:
+    template: Mephitas
+    at:       [-361.299, 18.500, 283.130, 19]
+    level:    [99, 99]
+
+  17596735:
+    template: Mephitas
+    at:       [-260.170, 18.869, 233.899, 197]
+    level:    [99, 99]

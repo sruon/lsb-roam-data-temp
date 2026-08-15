@@ -1,0 +1,2603 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17260545:
+    template: Stag_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [18, 18]
+
+  17260546:
+    template: Puffer_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [18, 18]
+
+  17260547:
+    template: Snipper
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [22, 22]
+
+  17260548:
+    template: Shoal_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [26, 26]
+
+  17260549:
+    template: Clipper
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [25, 25]
+
+  17260550:
+    template: Sylvestre
+    level:    [15, 16]
+    region:   buburimu_peninsula_w
+
+  17260551:
+    template: Sylvestre
+    level:    [15, 16]
+    region:   buburimu_peninsula_w
+
+  17260552:
+    template: Sylvestre
+    level:    [15, 16]
+    region:   buburimu_peninsula_w
+
+  17260553:
+    template: Sylvestre
+    level:    [15, 16]
+    region:   buburimu_peninsula_w
+
+  17260554:
+    template: Mighty_Rarab
+    level:    [15, 16]
+    region:   buburimu_peninsula_w
+
+  17260555:
+    template: Mighty_Rarab
+    level:    [15, 16]
+    region:   buburimu_peninsula_w
+
+  17260556:
+    template: Mighty_Rarab
+    level:    [15, 16]
+    region:   buburimu_peninsula_w
+
+  17260557:
+    template: Mighty_Rarab
+    level:    [15, 16]
+    region:   buburimu_peninsula_w
+
+  17260558:
+    template: Zu
+    level:    [20, 21]
+    region:   buburimu_peninsula_w
+
+  17260559:
+    template: Zu
+    level:    [20, 21]
+    region:   buburimu_peninsula_w
+
+  17260560:
+    template: Zu
+    level:    [20, 21]
+    region:   buburimu_peninsula_w
+
+  17260561:
+    template: Goblin_Ambusher
+    level:    [17, 18]
+    region:   buburimu_peninsula_w
+
+  17260562:
+    template: Goblin_Tinkerer
+    level:    [17, 18]
+    region:   buburimu_peninsula_w
+
+  17260563:
+    template: Goblin_Butcher
+    level:    [17, 18]
+    region:   buburimu_peninsula_w
+
+  17260564:
+    template: Zombie
+    level:    [18, 19]
+    region:   buburimu_peninsula_w_2
+
+  17260565:
+    template: Zombie
+    at:       [-417.000, -31.000, 42.000, 7]
+    level:    [18, 19]
+
+  17260566:
+    template: Sylvestre
+    level:    [15, 16]
+    region:   buburimu_peninsula_w_3
+
+  17260567:
+    template: Sylvestre
+    level:    [15, 16]
+    region:   buburimu_peninsula_w_3
+
+  17260568:
+    template: Sylvestre
+    level:    [15, 16]
+    region:   buburimu_peninsula_w_3
+
+  17260569:
+    template: Sylvestre
+    level:    [15, 16]
+    region:   buburimu_peninsula_w_3
+
+  17260570:
+    template: Mighty_Rarab
+    level:    [15, 16]
+    region:   buburimu_peninsula_w_3
+
+  17260571:
+    template: Mighty_Rarab
+    level:    [15, 16]
+    region:   buburimu_peninsula_w_3
+
+  17260572:
+    template: Mighty_Rarab
+    level:    [15, 16]
+    region:   buburimu_peninsula_w_3
+
+  17260573:
+    template: Mighty_Rarab
+    level:    [15, 16]
+    region:   buburimu_peninsula_w_3
+
+  17260574:
+    template: Zu
+    level:    [20, 21]
+    region:   buburimu_peninsula_w_3
+
+  17260575:
+    template: Zu
+    level:    [20, 21]
+    region:   buburimu_peninsula_w_3
+
+  17260576:
+    template: Zu
+    level:    [20, 21]
+    region:   buburimu_peninsula_w_3
+
+  17260577:
+    template: Goblin_Ambusher
+    level:    [17, 18]
+    region:   buburimu_peninsula_w_3
+
+  17260578:
+    template: Goblin_Tinkerer
+    level:    [17, 18]
+    region:   buburimu_peninsula_w_3
+
+  17260579:
+    template: Goblin_Butcher
+    level:    [17, 18]
+    region:   buburimu_peninsula_w_3
+
+  17260580:
+    template: Zombie
+    at:       [-306.565, -24.037, 2.076, 81]
+    level:    [18, 19]
+
+  17260581:
+    template: Zombie
+    level:    [18, 19]
+    region:   buburimu_peninsula_w_4
+
+  17260582:
+    template: Sylvestre
+    level:    [17, 18]
+    region:   buburimu_peninsula_sw_2
+
+  17260583:
+    template: Sylvestre
+    level:    [17, 18]
+    region:   buburimu_peninsula_sw_2
+
+  17260584:
+    template: Sylvestre
+    level:    [17, 18]
+    region:   buburimu_peninsula_sw_2
+
+  17260585:
+    template: Mighty_Rarab
+    level:    [17, 18]
+    region:   buburimu_peninsula_sw_2
+
+  17260586:
+    template: Mighty_Rarab
+    level:    [17, 18]
+    region:   buburimu_peninsula_sw_2
+
+  17260587:
+    template: Zu
+    level:    [20, 21]
+    region:   buburimu_peninsula_sw_2
+
+  17260588:
+    template: Goblin_Ambusher
+    level:    [18, 19]
+    region:   buburimu_peninsula_sw_2
+
+  17260589:
+    template: Goblin_Butcher
+    level:    [18, 19]
+    region:   buburimu_peninsula_sw_2
+
+  17260590:
+    template: Zombie
+    at:       [-313.783, -16.452, -115.122, 127]
+    level:    [20, 21]
+
+  17260591:
+    template: Sylvestre
+    level:    [17, 18]
+    region:   buburimu_peninsula_sw
+
+  17260592:
+    template: Sylvestre
+    level:    [17, 18]
+    region:   buburimu_peninsula_sw
+
+  17260593:
+    template: Sylvestre
+    level:    [17, 18]
+    region:   buburimu_peninsula_sw
+
+  17260594:
+    template: Sylvestre
+    level:    [17, 18]
+    region:   buburimu_peninsula_sw
+
+  17260595:
+    template: Sylvestre
+    level:    [17, 18]
+    region:   buburimu_peninsula_sw
+
+  17260596:
+    template: Sylvestre
+    level:    [17, 18]
+    region:   buburimu_peninsula_sw
+
+  17260597:
+    template: Sylvestre
+    level:    [17, 18]
+    region:   buburimu_peninsula_sw
+
+  17260598:
+    template: Sylvestre
+    level:    [17, 18]
+    region:   buburimu_peninsula_sw
+
+  17260599:
+    template: Sylvestre
+    level:    [17, 18]
+    region:   buburimu_peninsula_sw
+
+  17260600:
+    template: Mighty_Rarab
+    level:    [17, 18]
+    region:   buburimu_peninsula_sw
+
+  17260601:
+    template: Mighty_Rarab
+    level:    [17, 18]
+    region:   buburimu_peninsula_sw
+
+  17260602:
+    template: Mighty_Rarab
+    level:    [17, 18]
+    region:   buburimu_peninsula_sw
+
+  17260603:
+    template: Zu
+    level:    [20, 21]
+    region:   buburimu_peninsula_sw
+
+  17260604:
+    template: Zu
+    level:    [20, 21]
+    region:   buburimu_peninsula_sw
+
+  17260605:
+    template: Zu
+    level:    [20, 21]
+    region:   buburimu_peninsula_sw
+
+  17260606:
+    template: Goblin_Ambusher
+    level:    [18, 19]
+    region:   buburimu_peninsula_sw
+
+  17260607:
+    template: Goblin_Tinkerer
+    level:    [18, 19]
+    region:   buburimu_peninsula_sw
+
+  17260608:
+    template: Goblin_Butcher
+    level:    [18, 19]
+    region:   buburimu_peninsula_sw
+
+  17260609:
+    template: Zombie
+    at:       [-420.689, -8.304, -192.053, 127]
+    level:    [20, 21]
+
+  17260610:
+    template: Zombie
+    at:       [-482.997, -16.383, -223.502, 127]
+    level:    [20, 21]
+
+  17260611:
+    template: Ghoul
+    at:       [-361.735, -8.500, -202.387, 127]
+    level:    [20, 21]
+
+  17260612:
+    template: Will-o-the-Wisp
+    level:    [25, 27]
+    region:   buburimu_peninsula_sw
+
+  17260613:
+    template: Backoo
+    level:    [37, 37]
+    region:   buburimu_peninsula_sw
+
+  17260614:
+    template: Bogy
+    at:       [-357.743, -0.392, -322.516, 55]
+    level:    [23, 24]
+
+  17260615:
+    template: Bogy
+    at:       [-359.172, -0.142, -325.244, 127]
+    level:    [23, 24]
+
+  17260616:
+    template: Goblin_Ambusher
+    level:    [18, 19]
+    region:   buburimu_peninsula_w_5
+
+  17260617:
+    template: Goblin_Tinkerer
+    level:    [18, 19]
+    region:   buburimu_peninsula_w_5
+
+  17260618:
+    template: Goblin_Tinkerer
+    level:    [18, 19]
+    region:   buburimu_peninsula_w_5
+
+  17260619:
+    template: Goblin_Butcher
+    level:    [18, 19]
+    region:   buburimu_peninsula_w_5
+
+  17260620:
+    template: Zombie
+    at:       [-196.287, -9.103, -85.179, 16]
+    level:    [20, 21]
+
+  17260621:
+    template: Zombie
+    at:       [-236.413, -17.138, -86.407, 109]
+    level:    [20, 21]
+
+  17260622:
+    template: Sylvestre
+    level:    [16, 17]
+    region:   buburimu_peninsula_nw
+
+  17260623:
+    template: Sylvestre
+    level:    [16, 17]
+    region:   buburimu_peninsula_nw
+
+  17260624:
+    template: Mighty_Rarab
+    level:    [16, 17]
+    region:   buburimu_peninsula_nw
+
+  17260625:
+    template: Mighty_Rarab
+    level:    [16, 17]
+    region:   buburimu_peninsula_nw
+
+  17260626:
+    template: Mighty_Rarab
+    level:    [16, 17]
+    region:   buburimu_peninsula_nw
+
+  17260627:
+    template: Mighty_Rarab
+    level:    [16, 17]
+    region:   buburimu_peninsula_nw
+
+  17260628:
+    template: Mighty_Rarab
+    level:    [16, 17]
+    region:   buburimu_peninsula_nw
+
+  17260629:
+    template: Mighty_Rarab
+    level:    [16, 17]
+    region:   buburimu_peninsula_nw
+
+  17260630:
+    template: Zu
+    level:    [20, 21]
+    region:   buburimu_peninsula_nw
+
+  17260631:
+    template: Zu
+    level:    [20, 21]
+    region:   buburimu_peninsula_nw
+
+  17260632:
+    template: Goblin_Ambusher
+    level:    [17, 18]
+    region:   buburimu_peninsula_nw
+
+  17260633:
+    template: Goblin_Tinkerer
+    level:    [17, 18]
+    region:   buburimu_peninsula_nw
+
+  17260634:
+    template: Goblin_Butcher
+    level:    [17, 18]
+    region:   buburimu_peninsula_nw
+
+  17260635:
+    template: Zombie
+    at:       [-354.785, -32.483, 203.701, 127]
+    level:    [18, 19]
+
+  17260636:
+    template: Zombie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [18, 19]
+
+  17260637:
+    template: Ghoul
+    at:       [-350.428, -32.136, 170.349, 120]
+    level:    [20, 21]
+
+  17260638:
+    template: Sylvestre
+    level:    [16, 17]
+    region:   buburimu_peninsula_c
+
+  17260639:
+    template: Sylvestre
+    level:    [16, 17]
+    region:   buburimu_peninsula_c
+
+  17260640:
+    template: Sylvestre
+    level:    [16, 17]
+    region:   buburimu_peninsula_c
+
+  17260641:
+    template: Sylvestre
+    level:    [16, 17]
+    region:   buburimu_peninsula_c
+
+  17260642:
+    template: Mighty_Rarab
+    level:    [16, 17]
+    region:   buburimu_peninsula_c
+
+  17260643:
+    template: Mighty_Rarab
+    level:    [16, 17]
+    region:   buburimu_peninsula_c
+
+  17260644:
+    template: Mighty_Rarab
+    level:    [16, 17]
+    region:   buburimu_peninsula_c
+
+  17260645:
+    template: Mighty_Rarab
+    level:    [16, 17]
+    region:   buburimu_peninsula_c
+
+  17260646:
+    template: Mighty_Rarab
+    level:    [16, 17]
+    region:   buburimu_peninsula_c
+
+  17260647:
+    template: Mighty_Rarab
+    level:    [16, 17]
+    region:   buburimu_peninsula_c
+
+  17260648:
+    template: Mighty_Rarab
+    level:    [16, 17]
+    region:   buburimu_peninsula_c
+
+  17260649:
+    template: Mighty_Rarab
+    level:    [16, 17]
+    region:   buburimu_peninsula_c
+
+  17260650:
+    template: Zu
+    level:    [20, 21]
+    region:   buburimu_peninsula_c
+
+  17260651:
+    template: Zu
+    level:    [20, 21]
+    region:   buburimu_peninsula_c
+
+  17260652:
+    template: Zu
+    level:    [20, 21]
+    region:   buburimu_peninsula_c
+
+  17260653:
+    template: Zu
+    level:    [20, 21]
+    region:   buburimu_peninsula_c
+
+  17260654:
+    template: Goblin_Ambusher
+    level:    [17, 18]
+    region:   buburimu_peninsula_c
+
+  17260655:
+    template: Goblin_Tinkerer
+    level:    [17, 18]
+    region:   buburimu_peninsula_c
+
+  17260656:
+    template: Goblin_Butcher
+    level:    [17, 18]
+    region:   buburimu_peninsula_c
+
+  17260657:
+    template: Zombie
+    at:       [-212.986, -29.801, 145.200, 127]
+    level:    [18, 19]
+
+  17260658:
+    template: Zombie
+    level:    [18, 19]
+    region:   buburimu_peninsula_n_2
+
+  17260659:
+    template: Ghoul
+    at:       [-129.930, -24.645, 97.768, 127]
+    level:    [20, 21]
+
+  17260660:
+    template: Will-o-the-Wisp
+    level:    [25, 27]
+    region:   buburimu_peninsula_c_2
+
+  17260661:
+    template: Sylvestre
+    level:    [16, 17]
+    region:   buburimu_peninsula_n
+
+  17260662:
+    template: Sylvestre
+    level:    [16, 17]
+    region:   buburimu_peninsula_n
+
+  17260663:
+    template: Mighty_Rarab
+    level:    [16, 17]
+    region:   buburimu_peninsula_n
+
+  17260664:
+    template: Mighty_Rarab
+    level:    [16, 17]
+    region:   buburimu_peninsula_n
+
+  17260665:
+    template: Mighty_Rarab
+    level:    [16, 17]
+    region:   buburimu_peninsula_n
+
+  17260666:
+    template: Zu
+    level:    [20, 21]
+    region:   buburimu_peninsula_n
+
+  17260667:
+    template: Goblin_Tinkerer
+    level:    [17, 18]
+    region:   buburimu_peninsula_n
+
+  17260668:
+    template: Goblin_Butcher
+    level:    [17, 18]
+    region:   buburimu_peninsula_n
+
+  17260669:
+    template: Zombie
+    at:       [-192.237, -32.332, 232.852, 127]
+    level:    [18, 19]
+
+  17260670:
+    template: Sylvestre
+    level:    [16, 17]
+    region:   buburimu_peninsula_nw_2
+
+  17260671:
+    template: Sylvestre
+    level:    [16, 17]
+    region:   buburimu_peninsula_nw_2
+
+  17260672:
+    template: Mighty_Rarab
+    level:    [16, 17]
+    region:   buburimu_peninsula_nw_2
+
+  17260673:
+    template: Mighty_Rarab
+    level:    [16, 17]
+    region:   buburimu_peninsula_nw_2
+
+  17260674:
+    template: Mighty_Rarab
+    level:    [16, 17]
+    region:   buburimu_peninsula_nw_2
+
+  17260675:
+    template: Mighty_Rarab
+    level:    [16, 17]
+    region:   buburimu_peninsula_nw_2
+
+  17260676:
+    template: Zu
+    level:    [20, 21]
+    region:   buburimu_peninsula_nw_2
+
+  17260677:
+    template: Zu
+    level:    [20, 21]
+    region:   buburimu_peninsula_nw_2
+
+  17260678:
+    template: Goblin_Ambusher
+    level:    [17, 18]
+    region:   buburimu_peninsula_nw_2
+
+  17260679:
+    template: Goblin_Tinkerer
+    level:    [17, 18]
+    region:   buburimu_peninsula_nw_2
+
+  17260680:
+    template: Goblin_Butcher
+    level:    [17, 18]
+    region:   buburimu_peninsula_nw_2
+
+  17260681:
+    template: Zombie
+    at:       [-346.501, -40.317, 246.700, 109]
+    level:    [18, 19]
+
+  17260682:
+    template: Ghoul
+    at:       [-315.588, -40.185, 268.750, 69]
+    level:    [20, 21]
+
+  17260683:
+    template: Sylvestre
+    level:    [17, 18]
+    region:   buburimu_peninsula_n_3
+
+  17260684:
+    template: Sylvestre
+    level:    [17, 18]
+    region:   buburimu_peninsula_n_3
+
+  17260685:
+    template: Mighty_Rarab
+    level:    [16, 17]
+    region:   buburimu_peninsula_n_3
+
+  17260686:
+    template: Mighty_Rarab
+    level:    [16, 17]
+    region:   buburimu_peninsula_n_3
+
+  17260687:
+    template: Mighty_Rarab
+    level:    [16, 17]
+    region:   buburimu_peninsula_n_3
+
+  17260688:
+    template: Mighty_Rarab
+    level:    [16, 17]
+    region:   buburimu_peninsula_n_3
+
+  17260689:
+    template: Zu
+    level:    [20, 21]
+    region:   buburimu_peninsula_n_3
+
+  17260690:
+    template: Zu
+    level:    [20, 21]
+    region:   buburimu_peninsula_n_3
+
+  17260691:
+    template: Goblin_Ambusher
+    level:    [19, 20]
+    region:   buburimu_peninsula_n_3
+
+  17260692:
+    template: Goblin_Tinkerer
+    level:    [19, 20]
+    region:   buburimu_peninsula_n_3
+
+  17260693:
+    template: Goblin_Butcher
+    level:    [19, 20]
+    region:   buburimu_peninsula_n_3
+
+  17260694:
+    template: Zombie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [21, 22]
+
+  17260695:
+    template: Ghoul
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [22, 23]
+
+  17260696:
+    template: Sylvestre
+    level:    [18, 19]
+    region:   buburimu_peninsula_s_4
+
+  17260697:
+    template: Sylvestre
+    level:    [18, 19]
+    region:   buburimu_peninsula_s_4
+
+  17260698:
+    template: Sylvestre
+    level:    [18, 19]
+    region:   buburimu_peninsula_s_4
+
+  17260699:
+    template: Zu
+    level:    [20, 21]
+    region:   buburimu_peninsula_s_4
+
+  17260700:
+    template: Zu
+    level:    [20, 21]
+    region:   buburimu_peninsula_s_4
+
+  17260701:
+    template: Zu
+    level:    [20, 21]
+    region:   buburimu_peninsula_s_4
+
+  17260702:
+    template: Bull_Dhalmel
+    level:    [21, 22]
+    region:   buburimu_peninsula_s_4
+
+  17260703:
+    template: Bull_Dhalmel
+    level:    [21, 22]
+    region:   buburimu_peninsula_s_4
+
+  17260704:
+    template: Bull_Dhalmel
+    level:    [21, 22]
+    region:   buburimu_peninsula_s_4
+
+  17260705:
+    template: Bull_Dhalmel
+    level:    [21, 22]
+    region:   buburimu_peninsula_s_4
+
+  17260706:
+    template: Bull_Dhalmel
+    level:    [21, 22]
+    region:   buburimu_peninsula_s_4
+
+  17260707:
+    template: Goblin_Mugger
+    level:    [22, 23]
+    region:   buburimu_peninsula_s_4
+
+  17260708:
+    template: Goblin_Ambusher
+    level:    [18, 19]
+    region:   buburimu_peninsula_s_4
+
+  17260709:
+    template: Goblin_Leecher
+    level:    [22, 23]
+    region:   buburimu_peninsula_s_4
+
+  17260710:
+    template: Goblin_Tinkerer
+    level:    [19, 20]
+    region:   buburimu_peninsula_s_4
+
+  17260711:
+    template: Goblin_Gambler
+    level:    [22, 23]
+    region:   buburimu_peninsula_s_4
+
+  17260712:
+    template: Goblin_Butcher
+    level:    [19, 20]
+    region:   buburimu_peninsula_s_4
+
+  17260713:
+    template: Zombie
+    at:       [-91.960, -8.697, -104.888, 127]
+    level:    [21, 22]
+
+  17260714:
+    template: Zombie
+    at:       [-117.066, -8.437, -157.177, 31]
+    level:    [21, 22]
+
+  17260715:
+    template: Ghoul
+    at:       [-8.771, -7.368, -61.320, 84]
+    level:    [22, 23]
+
+  17260716:
+    template: Will-o-the-Wisp
+    level:    [25, 27]
+    region:   buburimu_peninsula_s_3
+
+  17260717:
+    template: Air_Elemental
+    level:    [28, 30]
+    region:   buburimu_peninsula_s_4
+
+  17260718:
+    template: Snipper
+    level:    [19, 20]
+    region:   buburimu_peninsula_s_6
+
+  17260719:
+    template: Snipper
+    level:    [19, 20]
+    region:   buburimu_peninsula_s_6
+
+  17260720:
+    template: Snipper
+    level:    [19, 20]
+    region:   buburimu_peninsula_s_6
+
+  17260721:
+    template: Snipper
+    level:    [19, 20]
+    region:   buburimu_peninsula_s_6
+
+  17260722:
+    template: Snipper
+    level:    [19, 20]
+    region:   buburimu_peninsula_s_6
+
+  17260723:
+    template: Snipper
+    level:    [19, 20]
+    region:   buburimu_peninsula_s_6
+
+  17260724:
+    template: Snipper
+    level:    [19, 20]
+    region:   buburimu_peninsula_s_6
+
+  17260725:
+    template: Poison_Leech
+    level:    [21, 22]
+    region:   buburimu_peninsula_s_6
+
+  17260726:
+    template: Poison_Leech
+    level:    [21, 22]
+    region:   buburimu_peninsula_s_6
+
+  17260727:
+    template: Poison_Leech
+    level:    [21, 22]
+    region:   buburimu_peninsula_s_6
+
+  17260728:
+    template: Poison_Leech
+    level:    [21, 22]
+    region:   buburimu_peninsula_s_6
+
+  17260729:
+    template: Poison_Leech
+    level:    [21, 22]
+    region:   buburimu_peninsula_s_6
+
+  17260730:
+    template: Poison_Leech
+    level:    [21, 22]
+    region:   buburimu_peninsula_s_6
+
+  17260731:
+    template: Poison_Leech
+    level:    [21, 22]
+    region:   buburimu_peninsula_s_6
+
+  17260732:
+    template: Wake_Warder_Wanda
+    level:    [22, 23]
+    region:   buburimu_peninsula_s_6
+
+  17260733:
+    template: Snipper
+    level:    [19, 20]
+    region:   buburimu_peninsula_s_5
+
+  17260734:
+    template: Shoal_Pugil
+    level:    [24, 25]
+    region:   buburimu_peninsula_s_5
+
+  17260735:
+    template: Shoal_Pugil
+    level:    [24, 25]
+    region:   buburimu_peninsula_s_5
+
+  17260736:
+    template: Shoal_Pugil
+    level:    [24, 25]
+    region:   buburimu_peninsula_s_5
+
+  17260737:
+    template: Bogy
+    at:       [-129.000, 15.000, -254.000, 127]
+    level:    [23, 24]
+
+  17260738:
+    template: Bogy
+    level:    [23, 24]
+    region:   buburimu_peninsula_s_7
+
+  17260739:
+    template: Bogy
+    level:    [23, 24]
+    region:   buburimu_peninsula_s_7
+
+  17260740:
+    template: Water_Elemental
+    level:    [28, 30]
+    region:   buburimu_peninsula_s_7
+
+  17260741:
+    template: Snipper
+    level:    [20, 21]
+    region:   buburimu_peninsula_sw_4
+
+  17260742:
+    template: Snipper
+    level:    [20, 21]
+    region:   buburimu_peninsula_sw_4
+
+  17260743:
+    template: Snipper
+    level:    [20, 21]
+    region:   buburimu_peninsula_sw_4
+
+  17260744:
+    template: Snipper
+    level:    [20, 21]
+    region:   buburimu_peninsula_sw_4
+
+  17260745:
+    template: Snipper
+    level:    [20, 21]
+    region:   buburimu_peninsula_sw_4
+
+  17260746:
+    template: Poison_Leech
+    level:    [22, 23]
+    region:   buburimu_peninsula_sw_4
+
+  17260747:
+    template: Poison_Leech
+    level:    [22, 23]
+    region:   buburimu_peninsula_sw_4
+
+  17260748:
+    template: Poison_Leech
+    level:    [22, 23]
+    region:   buburimu_peninsula_sw_4
+
+  17260749:
+    template: Poison_Leech
+    level:    [22, 23]
+    region:   buburimu_peninsula_sw_4
+
+  17260750:
+    template: Shoal_Pugil
+    level:    [25, 26]
+    region:   buburimu_peninsula_sw_3
+
+  17260751:
+    template: Shoal_Pugil
+    level:    [25, 26]
+    region:   buburimu_peninsula_sw_3
+
+  17260752:
+    template: Shoal_Pugil
+    level:    [25, 26]
+    region:   buburimu_peninsula_sw_3
+
+  17260753:
+    template: Shoal_Pugil
+    level:    [25, 26]
+    region:   buburimu_peninsula_sw_3
+
+  17260754:
+    template: Bogy
+    at:       [-202.000, 16.000, -278.000, 9]
+    level:    [24, 25]
+
+  17260755:
+    template: Bogy
+    level:    [24, 25]
+    region:   buburimu_peninsula_sw_3
+
+  17260756:
+    template: Water_Elemental
+    level:    [28, 30]
+    region:   buburimu_peninsula_sw_3
+
+  17260757:
+    template: Sylvestre
+    level:    [18, 19]
+    region:   buburimu_peninsula_s_8
+
+  17260758:
+    template: Sylvestre
+    level:    [18, 19]
+    region:   buburimu_peninsula_s_8
+
+  17260759:
+    template: Sylvestre
+    level:    [18, 19]
+    region:   buburimu_peninsula_s_8
+
+  17260760:
+    template: Carnivorous_Crawler
+    level:    [20, 21]
+    region:   buburimu_peninsula_s_8
+
+  17260761:
+    template: Carnivorous_Crawler
+    level:    [20, 21]
+    region:   buburimu_peninsula_s_8
+
+  17260762:
+    template: Carnivorous_Crawler
+    level:    [20, 21]
+    region:   buburimu_peninsula_s_8
+
+  17260763:
+    template: Carnivorous_Crawler
+    level:    [20, 21]
+    region:   buburimu_peninsula_s_8
+
+  17260764:
+    template: Carnivorous_Crawler
+    level:    [20, 21]
+    region:   buburimu_peninsula_s_8
+
+  17260765:
+    template: Carnivorous_Crawler
+    level:    [20, 21]
+    region:   buburimu_peninsula_s_8
+
+  17260766:
+    template: Zu
+    level:    [21, 22]
+    region:   buburimu_peninsula_s_8
+
+  17260767:
+    template: Zu
+    level:    [21, 22]
+    region:   buburimu_peninsula_s_8
+
+  17260768:
+    template: Zu
+    level:    [21, 22]
+    region:   buburimu_peninsula_s_8
+
+  17260769:
+    template: Goblin_Mugger
+    level:    [22, 23]
+    region:   buburimu_peninsula_s_8
+
+  17260770:
+    template: Goblin_Leecher
+    level:    [22, 23]
+    region:   buburimu_peninsula_s_8
+
+  17260771:
+    template: Goblin_Gambler
+    level:    [22, 23]
+    region:   buburimu_peninsula_s_8
+
+  17260772:
+    template: Sylvestre
+    level:    [18, 19]
+    region:   buburimu_peninsula_c_3
+
+  17260773:
+    template: Sylvestre
+    level:    [18, 19]
+    region:   buburimu_peninsula_c_3
+
+  17260774:
+    template: Sylvestre
+    level:    [18, 19]
+    region:   buburimu_peninsula_c_3
+
+  17260775:
+    template: Zu
+    level:    [21, 22]
+    region:   buburimu_peninsula_c_3
+
+  17260776:
+    template: Zu
+    level:    [21, 22]
+    region:   buburimu_peninsula_c_3
+
+  17260777:
+    template: Zu
+    level:    [21, 22]
+    region:   buburimu_peninsula_c_3
+
+  17260778:
+    template: Bull_Dhalmel
+    level:    [21, 22]
+    region:   buburimu_peninsula_c_3
+
+  17260779:
+    template: Bull_Dhalmel
+    level:    [21, 22]
+    region:   buburimu_peninsula_c_3
+
+  17260780:
+    template: Bull_Dhalmel
+    level:    [21, 22]
+    region:   buburimu_peninsula_c_3
+
+  17260781:
+    template: Goblin_Mugger
+    level:    [22, 23]
+    region:   buburimu_peninsula_c_3
+
+  17260782:
+    template: Goblin_Ambusher
+    level:    [19, 20]
+    region:   buburimu_peninsula_c_3
+
+  17260783:
+    template: Goblin_Leecher
+    level:    [22, 23]
+    region:   buburimu_peninsula_c_3
+
+  17260784:
+    template: Goblin_Tinkerer
+    level:    [19, 20]
+    region:   buburimu_peninsula_c_3
+
+  17260785:
+    template: Goblin_Gambler
+    level:    [22, 23]
+    region:   buburimu_peninsula_c_3
+
+  17260786:
+    template: Goblin_Butcher
+    level:    [19, 20]
+    region:   buburimu_peninsula_c_3
+
+  17260787:
+    template: Zombie
+    level:    [21, 22]
+    region:   buburimu_peninsula_c_5
+
+  17260788:
+    template: Zombie
+    at:       [-68.646, -16.583, 32.674, 127]
+    level:    [21, 22]
+
+  17260789:
+    template: Ghoul
+    at:       [55.930, -16.241, -1.179, 58]
+    level:    [22, 23]
+
+  17260790:
+    template: Will-o-the-Wisp
+    level:    [25, 27]
+    region:   buburimu_peninsula_c_3
+
+  17260791:
+    template: Air_Elemental
+    level:    [28, 30]
+    region:   buburimu_peninsula_c_3
+
+  17260792:
+    template: Sylvestre
+    level:    [18, 19]
+    region:   buburimu_peninsula_c_4
+
+  17260793:
+    template: Sylvestre
+    level:    [18, 19]
+    region:   buburimu_peninsula_c_4
+
+  17260794:
+    template: Sylvestre
+    level:    [18, 19]
+    region:   buburimu_peninsula_c_4
+
+  17260795:
+    template: Zu
+    level:    [21, 22]
+    region:   buburimu_peninsula_c_4
+
+  17260796:
+    template: Zu
+    level:    [21, 22]
+    region:   buburimu_peninsula_c_4
+
+  17260797:
+    template: Zu
+    level:    [21, 22]
+    region:   buburimu_peninsula_c_4
+
+  17260798:
+    template: Bull_Dhalmel
+    level:    [21, 22]
+    region:   buburimu_peninsula_c_4
+
+  17260799:
+    template: Bull_Dhalmel
+    level:    [21, 22]
+    region:   buburimu_peninsula_c_4
+
+  17260800:
+    template: Bull_Dhalmel
+    level:    [21, 22]
+    region:   buburimu_peninsula_c_4
+
+  17260801:
+    template: Bull_Dhalmel
+    level:    [21, 22]
+    region:   buburimu_peninsula_c_4
+
+  17260802:
+    template: Bull_Dhalmel
+    level:    [21, 22]
+    region:   buburimu_peninsula_c_4
+
+  17260803:
+    template: Bull_Dhalmel
+    level:    [21, 22]
+    region:   buburimu_peninsula_c_4
+
+  17260804:
+    template: Goblin_Mugger
+    level:    [22, 23]
+    region:   buburimu_peninsula_c_4
+
+  17260805:
+    template: Goblin_Ambusher
+    level:    [19, 20]
+    region:   buburimu_peninsula_c_4
+
+  17260806:
+    template: Goblin_Leecher
+    level:    [22, 23]
+    region:   buburimu_peninsula_c_4
+
+  17260807:
+    template: Goblin_Tinkerer
+    level:    [19, 20]
+    region:   buburimu_peninsula_c_4
+
+  17260808:
+    template: Goblin_Gambler
+    level:    [22, 23]
+    region:   buburimu_peninsula_c_4
+
+  17260809:
+    template: Goblin_Butcher
+    level:    [19, 20]
+    region:   buburimu_peninsula_c_4
+
+  17260810:
+    template: Sylvestre
+    level:    [18, 19]
+    region:   buburimu_peninsula_n_4
+
+  17260811:
+    template: Sylvestre
+    level:    [18, 19]
+    region:   buburimu_peninsula_n_4
+
+  17260812:
+    template: Sylvestre
+    level:    [18, 19]
+    region:   buburimu_peninsula_n_4
+
+  17260813:
+    template: Zu
+    level:    [21, 22]
+    region:   buburimu_peninsula_n_4
+
+  17260814:
+    template: Zu
+    level:    [21, 22]
+    region:   buburimu_peninsula_n_4
+
+  17260815:
+    template: Zu
+    level:    [21, 22]
+    region:   buburimu_peninsula_n_4
+
+  17260816:
+    template: Bull_Dhalmel
+    level:    [21, 22]
+    region:   buburimu_peninsula_n_4
+
+  17260817:
+    template: Bull_Dhalmel
+    level:    [21, 22]
+    region:   buburimu_peninsula_n_4
+
+  17260818:
+    template: Bull_Dhalmel
+    level:    [21, 22]
+    region:   buburimu_peninsula_n_4
+
+  17260819:
+    template: Goblin_Mugger
+    level:    [22, 23]
+    region:   buburimu_peninsula_n_4
+
+  17260820:
+    template: Goblin_Ambusher
+    level:    [19, 20]
+    region:   buburimu_peninsula_n_4
+
+  17260821:
+    template: Goblin_Leecher
+    level:    [22, 23]
+    region:   buburimu_peninsula_n_4
+
+  17260822:
+    template: Goblin_Tinkerer
+    level:    [19, 20]
+    region:   buburimu_peninsula_n_4
+
+  17260823:
+    template: Goblin_Gambler
+    level:    [22, 23]
+    region:   buburimu_peninsula_n_4
+
+  17260824:
+    template: Goblin_Butcher
+    level:    [19, 20]
+    region:   buburimu_peninsula_n_4
+
+  17260825:
+    template: Zombie
+    at:       [117.509, -24.561, 200.264, 190]
+    level:    [21, 22]
+
+  17260826:
+    template: Ghoul
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [22, 23]
+
+  17260827:
+    template: Ghoul
+    at:       [34.443, -24.673, 180.484, 159]
+    level:    [22, 23]
+
+  17260828:
+    template: Will-o-the-Wisp
+    level:    [25, 27]
+    region:   buburimu_peninsula_n_6
+
+  17260829:
+    template: Air_Elemental
+    level:    [28, 30]
+    region:   buburimu_peninsula_n_4
+
+  17260830:
+    template: Sylvestre
+    level:    [18, 19]
+    region:   buburimu_peninsula_c_6
+
+  17260831:
+    template: Sylvestre
+    level:    [18, 19]
+    region:   buburimu_peninsula_c_6
+
+  17260832:
+    template: Zu
+    level:    [21, 22]
+    region:   buburimu_peninsula_c_6
+
+  17260833:
+    template: Zu
+    level:    [21, 22]
+    region:   buburimu_peninsula_c_6
+
+  17260834:
+    template: Zu
+    level:    [21, 22]
+    region:   buburimu_peninsula_c_6
+
+  17260835:
+    template: Bull_Dhalmel
+    level:    [22, 23]
+    region:   buburimu_peninsula_c_6
+
+  17260836:
+    template: Bull_Dhalmel
+    level:    [22, 23]
+    region:   buburimu_peninsula_c_6
+
+  17260837:
+    template: Bull_Dhalmel
+    level:    [22, 23]
+    region:   buburimu_peninsula_c_6
+
+  17260838:
+    template: Bull_Dhalmel
+    level:    [22, 23]
+    region:   buburimu_peninsula_c_6
+
+  17260839:
+    template: Bull_Dhalmel
+    level:    [22, 23]
+    region:   buburimu_peninsula_c_6
+
+  17260840:
+    template: Goblin_Mugger
+    level:    [22, 23]
+    region:   buburimu_peninsula_c_6
+
+  17260841:
+    template: Goblin_Leecher
+    level:    [22, 23]
+    region:   buburimu_peninsula_c_6
+
+  17260842:
+    template: Goblin_Gambler
+    level:    [22, 23]
+    region:   buburimu_peninsula_c_6
+
+  17260843:
+    template: Zombie
+    level:    [18, 19]
+    region:   buburimu_peninsula_e_4
+
+  17260844:
+    template: Ghoul
+    level:    [20, 21]
+    region:   buburimu_peninsula_c_7
+
+  17260845:
+    template: Ghoul
+    at:       [247.437, -8.221, 155.314, 5]
+    level:    [20, 21]
+
+  17260846:
+    template: Sylvestre
+    level:    [18, 19]
+    region:   buburimu_peninsula_e
+
+  17260847:
+    template: Sylvestre
+    level:    [18, 19]
+    region:   buburimu_peninsula_e
+
+  17260848:
+    template: Zu
+    level:    [21, 22]
+    region:   buburimu_peninsula_e
+
+  17260849:
+    template: Zu
+    level:    [21, 22]
+    region:   buburimu_peninsula_e
+
+  17260850:
+    template: Zu
+    level:    [21, 22]
+    region:   buburimu_peninsula_e
+
+  17260851:
+    template: Bull_Dhalmel
+    level:    [22, 23]
+    region:   buburimu_peninsula_e
+
+  17260852:
+    template: Bull_Dhalmel
+    level:    [22, 23]
+    region:   buburimu_peninsula_e
+
+  17260853:
+    template: Bull_Dhalmel
+    level:    [22, 23]
+    region:   buburimu_peninsula_e
+
+  17260854:
+    template: Bull_Dhalmel
+    level:    [22, 23]
+    region:   buburimu_peninsula_e
+
+  17260855:
+    template: Bull_Dhalmel
+    level:    [22, 23]
+    region:   buburimu_peninsula_e
+
+  17260856:
+    template: Goblin_Mugger
+    level:    [22, 23]
+    region:   buburimu_peninsula_e
+
+  17260857:
+    template: Goblin_Leecher
+    level:    [22, 23]
+    region:   buburimu_peninsula_e
+
+  17260858:
+    template: Goblin_Gambler
+    level:    [22, 23]
+    region:   buburimu_peninsula_e
+
+  17260859:
+    template: Zombie
+    level:    [18, 19]
+    region:   buburimu_peninsula_se
+
+  17260860:
+    template: Ghoul
+    at:       [231.082, -8.573, -72.756, 10]
+    level:    [20, 21]
+
+  17260861:
+    template: Ghoul
+    at:       [284.840, -8.585, -117.251, 127]
+    level:    [20, 21]
+
+  17260862:
+    template: Sylvestre
+    level:    [18, 19]
+    region:   buburimu_peninsula_e_2
+
+  17260863:
+    template: Sylvestre
+    level:    [18, 19]
+    region:   buburimu_peninsula_e_2
+
+  17260864:
+    template: Carnivorous_Crawler
+    level:    [21, 22]
+    region:   buburimu_peninsula_e_2
+
+  17260865:
+    template: Carnivorous_Crawler
+    level:    [21, 22]
+    region:   buburimu_peninsula_e_2
+
+  17260866:
+    template: Carnivorous_Crawler
+    level:    [21, 22]
+    region:   buburimu_peninsula_e_2
+
+  17260867:
+    template: Zu
+    level:    [22, 23]
+    region:   buburimu_peninsula_e_2
+
+  17260868:
+    template: Zu
+    level:    [22, 23]
+    region:   buburimu_peninsula_e_2
+
+  17260869:
+    template: Zu
+    level:    [22, 23]
+    region:   buburimu_peninsula_e_2
+
+  17260870:
+    template: Bull_Dhalmel
+    level:    [23, 24]
+    region:   buburimu_peninsula_e_2
+
+  17260871:
+    template: Bull_Dhalmel
+    level:    [23, 24]
+    region:   buburimu_peninsula_e_2
+
+  17260872:
+    template: Bull_Dhalmel
+    level:    [23, 24]
+    region:   buburimu_peninsula_e_2
+
+  17260873:
+    template: Bull_Dhalmel
+    level:    [23, 24]
+    region:   buburimu_peninsula_e_2
+
+  17260874:
+    template: Goblin_Mugger
+    level:    [24, 25]
+    region:   buburimu_peninsula_e_2
+
+  17260875:
+    template: Goblin_Leecher
+    level:    [24, 25]
+    region:   buburimu_peninsula_e_2
+
+  17260876:
+    template: Goblin_Gambler
+    level:    [24, 25]
+    region:   buburimu_peninsula_e_2
+
+  17260877:
+    template: Zombie
+    level:    [21, 22]
+    region:   buburimu_peninsula_e_7
+
+  17260878:
+    template: Ghoul
+    at:       [367.540, -0.371, -159.981, 85]
+    level:    [23, 24]
+
+  17260879:
+    template: Ghoul
+    at:       [367.704, 0.303, -76.979, 127]
+    level:    [23, 24]
+
+  17260880:
+    template: Will-o-the-Wisp
+    level:    [25, 27]
+    region:   buburimu_peninsula_e_10
+
+  17260881:
+    template: Air_Elemental
+    level:    [28, 30]
+    region:   buburimu_peninsula_e_2
+
+  17260882:
+    template: Carnivorous_Crawler
+    level:    [21, 22]
+    region:   buburimu_peninsula_se_2
+
+  17260883:
+    template: Carnivorous_Crawler
+    level:    [21, 22]
+    region:   buburimu_peninsula_se_2
+
+  17260884:
+    template: Carnivorous_Crawler
+    level:    [21, 22]
+    region:   buburimu_peninsula_se_2
+
+  17260885:
+    template: Carnivorous_Crawler
+    level:    [21, 22]
+    region:   buburimu_peninsula_se_2
+
+  17260886:
+    template: Zu
+    level:    [22, 23]
+    region:   buburimu_peninsula_se_2
+
+  17260887:
+    template: Zu
+    level:    [22, 23]
+    region:   buburimu_peninsula_se_2
+
+  17260888:
+    template: Bull_Dhalmel
+    level:    [23, 24]
+    region:   buburimu_peninsula_se_2
+
+  17260889:
+    template: Bull_Dhalmel
+    level:    [23, 24]
+    region:   buburimu_peninsula_se_2
+
+  17260890:
+    template: Bull_Dhalmel
+    level:    [23, 24]
+    region:   buburimu_peninsula_se_2
+
+  17260891:
+    template: Bull_Dhalmel
+    level:    [23, 24]
+    region:   buburimu_peninsula_se_2
+
+  17260892:
+    template: Goblin_Mugger
+    level:    [24, 25]
+    region:   buburimu_peninsula_se_2
+
+  17260893:
+    template: Goblin_Leecher
+    level:    [24, 25]
+    region:   buburimu_peninsula_se_2
+
+  17260894:
+    template: Goblin_Gambler
+    level:    [24, 25]
+    region:   buburimu_peninsula_se_2
+
+  17260895:
+    template: Zombie
+    level:    [21, 22]
+    region:   buburimu_peninsula_se_2
+
+  17260896:
+    template: Ghoul
+    level:    [23, 24]
+    region:   buburimu_peninsula_se_2
+
+  17260897:
+    template: Will-o-the-Wisp
+    level:    [23, 24]
+    region:   buburimu_peninsula_se_2
+
+  17260898:
+    template: Air_Elemental
+    level:    [28, 30]
+    region:   buburimu_peninsula_se_2
+
+  17260899:
+    template: Carnivorous_Crawler
+    level:    [22, 23]
+    region:   buburimu_peninsula_se_7
+
+  17260900:
+    template: Carnivorous_Crawler
+    level:    [22, 23]
+    region:   buburimu_peninsula_se_7
+
+  17260901:
+    template: Carnivorous_Crawler
+    level:    [22, 23]
+    region:   buburimu_peninsula_se_7
+
+  17260902:
+    template: Carnivorous_Crawler
+    level:    [22, 23]
+    region:   buburimu_peninsula_se_7
+
+  17260903:
+    template: Carnivorous_Crawler
+    level:    [22, 23]
+    region:   buburimu_peninsula_se_7
+
+  17260904:
+    template: Carnivorous_Crawler
+    level:    [22, 23]
+    region:   buburimu_peninsula_se_7
+
+  17260905:
+    template: Zu
+    level:    [23, 24]
+    region:   buburimu_peninsula_se_7
+
+  17260906:
+    template: Zu
+    level:    [23, 24]
+    region:   buburimu_peninsula_se_7
+
+  17260907:
+    template: Helldiver
+    level:    [29, 30]
+    region:   buburimu_peninsula_se_9
+
+  17260908:
+    template: Goblin_Mugger
+    level:    [24, 25]
+    region:   buburimu_peninsula_se_7
+
+  17260909:
+    template: Goblin_Leecher
+    level:    [24, 25]
+    region:   buburimu_peninsula_se_7
+
+  17260910:
+    template: Goblin_Gambler
+    level:    [24, 25]
+    region:   buburimu_peninsula_se_7
+
+  17260911:
+    template: Bogy
+    level:    [24, 25]
+    region:   buburimu_peninsula_se_7
+
+  17260912:
+    template: Sylvestre
+    level:    [18, 19]
+    region:   buburimu_peninsula_e_6
+
+  17260913:
+    template: Sylvestre
+    level:    [18, 19]
+    region:   buburimu_peninsula_e_6
+
+  17260914:
+    template: Carnivorous_Crawler
+    level:    [21, 22]
+    region:   buburimu_peninsula_e_6
+
+  17260915:
+    template: Carnivorous_Crawler
+    level:    [21, 22]
+    region:   buburimu_peninsula_e_6
+
+  17260916:
+    template: Carnivorous_Crawler
+    level:    [21, 22]
+    region:   buburimu_peninsula_e_6
+
+  17260917:
+    template: Zu
+    level:    [22, 23]
+    region:   buburimu_peninsula_e_6
+
+  17260918:
+    template: Zu
+    level:    [22, 23]
+    region:   buburimu_peninsula_e_6
+
+  17260919:
+    template: Zu
+    level:    [22, 23]
+    region:   buburimu_peninsula_e_6
+
+  17260920:
+    template: Bull_Dhalmel
+    level:    [23, 24]
+    region:   buburimu_peninsula_e_6
+
+  17260921:
+    template: Bull_Dhalmel
+    level:    [23, 24]
+    region:   buburimu_peninsula_e_6
+
+  17260922:
+    template: Bull_Dhalmel
+    level:    [23, 24]
+    region:   buburimu_peninsula_e_6
+
+  17260923:
+    template: Goblin_Mugger
+    level:    [24, 25]
+    region:   buburimu_peninsula_e_6
+
+  17260924:
+    template: Goblin_Leecher
+    level:    [24, 25]
+    region:   buburimu_peninsula_e_6
+
+  17260925:
+    template: Goblin_Gambler
+    level:    [24, 25]
+    region:   buburimu_peninsula_e_6
+
+  17260926:
+    template: Zombie
+    level:    [21, 22]
+    region:   buburimu_peninsula_e_6
+
+  17260927:
+    template: Ghoul
+    level:    [23, 24]
+    region:   buburimu_peninsula_e_6
+
+  17260928:
+    template: Will-o-the-Wisp
+    level:    [25, 27]
+    region:   buburimu_peninsula_e_9
+
+  17260929:
+    template: Air_Elemental
+    level:    [28, 30]
+    region:   buburimu_peninsula_e_6
+
+  17260930:
+    template: Carnivorous_Crawler
+    level:    [22, 23]
+    region:   buburimu_peninsula_e_13
+
+  17260931:
+    template: Carnivorous_Crawler
+    level:    [22, 23]
+    region:   buburimu_peninsula_e_13
+
+  17260932:
+    template: Carnivorous_Crawler
+    level:    [22, 23]
+    region:   buburimu_peninsula_e_13
+
+  17260933:
+    template: Carnivorous_Crawler
+    level:    [22, 23]
+    region:   buburimu_peninsula_e_13
+
+  17260934:
+    template: Carnivorous_Crawler
+    level:    [22, 23]
+    region:   buburimu_peninsula_e_13
+
+  17260935:
+    template: Zu
+    level:    [22, 23]
+    region:   buburimu_peninsula_e_13
+
+  17260936:
+    template: Zu
+    level:    [22, 23]
+    region:   buburimu_peninsula_e_13
+
+  17260937:
+    template: Goblin_Mugger
+    level:    [24, 25]
+    region:   buburimu_peninsula_e_13
+
+  17260938:
+    template: Goblin_Leecher
+    level:    [24, 25]
+    region:   buburimu_peninsula_e_13
+
+  17260939:
+    template: Goblin_Gambler
+    level:    [24, 25]
+    region:   buburimu_peninsula_e_13
+
+  17260940:
+    template: Bogy
+    level:    [24, 25]
+    region:   buburimu_peninsula_e_13
+
+  17260941:
+    template: Sylvestre
+    level:    [18, 19]
+    region:   buburimu_peninsula_e_3
+
+  17260942:
+    template: Sylvestre
+    level:    [18, 19]
+    region:   buburimu_peninsula_e_3
+
+  17260943:
+    template: Carnivorous_Crawler
+    level:    [21, 22]
+    region:   buburimu_peninsula_e_3
+
+  17260944:
+    template: Carnivorous_Crawler
+    level:    [21, 22]
+    region:   buburimu_peninsula_e_3
+
+  17260945:
+    template: Carnivorous_Crawler
+    level:    [21, 22]
+    region:   buburimu_peninsula_e_3
+
+  17260946:
+    template: Zu
+    level:    [23, 24]
+    region:   buburimu_peninsula_e_3
+
+  17260947:
+    template: Zu
+    level:    [23, 24]
+    region:   buburimu_peninsula_e_3
+
+  17260948:
+    template: Zu
+    level:    [23, 24]
+    region:   buburimu_peninsula_e_3
+
+  17260949:
+    template: Bull_Dhalmel
+    level:    [23, 24]
+    region:   buburimu_peninsula_e_3
+
+  17260950:
+    template: Bull_Dhalmel
+    level:    [23, 24]
+    region:   buburimu_peninsula_e_3
+
+  17260951:
+    template: Bull_Dhalmel
+    level:    [23, 24]
+    region:   buburimu_peninsula_e_3
+
+  17260952:
+    template: Bull_Dhalmel
+    level:    [23, 24]
+    region:   buburimu_peninsula_e_3
+
+  17260953:
+    template: Goblin_Mugger
+    level:    [24, 25]
+    region:   buburimu_peninsula_e_3
+
+  17260954:
+    template: Goblin_Leecher
+    level:    [24, 25]
+    region:   buburimu_peninsula_e_3
+
+  17260955:
+    template: Goblin_Gambler
+    level:    [24, 25]
+    region:   buburimu_peninsula_e_3
+
+  17260956:
+    template: Zombie
+    level:    [21, 22]
+    region:   buburimu_peninsula_e_8
+
+  17260957:
+    template: Ghoul
+    at:       [269.626, -2.799, 39.219, 127]
+    level:    [23, 24]
+
+  17260958:
+    template: Ghoul
+    at:       [329.405, -0.250, 79.040, 108]
+    level:    [23, 24]
+
+  17260959:
+    template: Will-o-the-Wisp
+    level:    [25, 27]
+    region:   buburimu_peninsula_e_5
+
+  17260960:
+    template: Air_Elemental
+    level:    [28, 30]
+    region:   buburimu_peninsula_e_3
+
+  17260961:
+    template: Carnivorous_Crawler
+    level:    [21, 22]
+    region:   buburimu_peninsula_ne
+
+  17260962:
+    template: Carnivorous_Crawler
+    level:    [21, 22]
+    region:   buburimu_peninsula_ne
+
+  17260963:
+    template: Carnivorous_Crawler
+    level:    [21, 22]
+    region:   buburimu_peninsula_ne
+
+  17260964:
+    template: Carnivorous_Crawler
+    level:    [21, 22]
+    region:   buburimu_peninsula_ne
+
+  17260965:
+    template: Zu
+    level:    [23, 24]
+    region:   buburimu_peninsula_ne
+
+  17260966:
+    template: Zu
+    level:    [23, 24]
+    region:   buburimu_peninsula_ne
+
+  17260967:
+    template: Zu
+    level:    [23, 24]
+    region:   buburimu_peninsula_ne
+
+  17260968:
+    template: Bull_Dhalmel
+    level:    [23, 24]
+    region:   buburimu_peninsula_ne
+
+  17260969:
+    template: Bull_Dhalmel
+    level:    [23, 24]
+    region:   buburimu_peninsula_ne
+
+  17260970:
+    template: Bogy
+    level:    [23, 25]
+    region:   buburimu_peninsula_ne_4
+
+  17260971:
+    template: Will-o-the-Wisp
+    level:    [25, 27]
+    region:   buburimu_peninsula_ne_2
+
+  17260972:
+    template: Air_Elemental
+    level:    [28, 30]
+    region:   buburimu_peninsula_ne
+
+  17260973:
+    template: Carnivorous_Crawler
+    level:    [21, 22]
+    region:   buburimu_peninsula_ne_3
+
+  17260974:
+    template: Carnivorous_Crawler
+    level:    [21, 22]
+    region:   buburimu_peninsula_ne_3
+
+  17260975:
+    template: Carnivorous_Crawler
+    level:    [21, 22]
+    region:   buburimu_peninsula_ne_3
+
+  17260976:
+    template: Carnivorous_Crawler
+    level:    [21, 22]
+    region:   buburimu_peninsula_ne_3
+
+  17260977:
+    template: Zu
+    level:    [23, 24]
+    region:   buburimu_peninsula_ne_3
+
+  17260978:
+    template: Zu
+    level:    [23, 24]
+    region:   buburimu_peninsula_ne_3
+
+  17260979:
+    template: Bull_Dhalmel
+    level:    [23, 24]
+    region:   buburimu_peninsula_ne_3
+
+  17260980:
+    template: Bull_Dhalmel
+    level:    [23, 24]
+    region:   buburimu_peninsula_ne_3
+
+  17260981:
+    template: Bull_Dhalmel
+    level:    [23, 24]
+    region:   buburimu_peninsula_ne_3
+
+  17260982:
+    template: Goblin_Mugger
+    level:    [24, 25]
+    region:   buburimu_peninsula_ne_3
+
+  17260983:
+    template: Goblin_Leecher
+    level:    [24, 25]
+    region:   buburimu_peninsula_ne_3
+
+  17260984:
+    template: Goblin_Gambler
+    level:    [24, 25]
+    region:   buburimu_peninsula_ne_3
+
+  17260985:
+    template: Zombie
+    at:       [340.915, 0.235, 191.073, 127]
+    level:    [21, 22]
+
+  17260986:
+    template: Ghoul
+    at:       [340.853, -0.382, 222.655, 127]
+    level:    [23, 24]
+
+  17260987:
+    template: Ghoul
+    at:       [440.785, -0.429, 195.338, 91]
+    level:    [23, 24]
+
+  17260988:
+    template: Will-o-the-Wisp
+    level:    [25, 27]
+    region:   buburimu_peninsula_ne_6
+
+  17260989:
+    template: Air_Elemental
+    level:    [28, 30]
+    region:   buburimu_peninsula_ne_3
+
+  17260990:
+    template: Snipper
+    level:    [21, 22]
+    region:   buburimu_peninsula_e_11
+
+  17260991:
+    template: Snipper
+    level:    [21, 22]
+    region:   buburimu_peninsula_e_11
+
+  17260992:
+    template: Snipper
+    level:    [21, 22]
+    region:   buburimu_peninsula_e_11
+
+  17260993:
+    template: Snipper
+    level:    [21, 22]
+    region:   buburimu_peninsula_e_11
+
+  17260994:
+    template: Poison_Leech
+    level:    [23, 24]
+    region:   buburimu_peninsula_e_11
+
+  17260995:
+    template: Poison_Leech
+    level:    [23, 24]
+    region:   buburimu_peninsula_e_11
+
+  17260996:
+    template: Poison_Leech
+    level:    [23, 24]
+    region:   buburimu_peninsula_e_11
+
+  17260997:
+    template: Poison_Leech
+    level:    [23, 24]
+    region:   buburimu_peninsula_e_11
+
+  17260998:
+    template: Snipper
+    level:    [21, 22]
+    region:   buburimu_peninsula_e_14
+
+  17260999:
+    template: Shoal_Pugil
+    level:    [26, 27]
+    region:   buburimu_peninsula_e_14
+
+  17261000:
+    template: Shoal_Pugil
+    level:    [26, 27]
+    region:   buburimu_peninsula_e_14
+
+  17261001:
+    template: Shoal_Pugil
+    level:    [26, 27]
+    region:   buburimu_peninsula_e_14
+
+  17261002:
+    template: Shoal_Pugil
+    level:    [26, 27]
+    region:   buburimu_peninsula_e_14
+
+  17261003:
+    template: Buburimboo
+    at:       [444.916, 19.499, 154.289, 78]
+    level:    [30, 31]
+
+  17261004:
+    template: Bogy
+    at:       [415.000, 17.000, 74.000, 101]
+    level:    [24, 25]
+
+  17261005:
+    template: Bogy
+    level:    [24, 25]
+    region:   buburimu_peninsula_e_12
+
+  17261006:
+    template: Water_Elemental
+    level:    [28, 30]
+    region:   buburimu_peninsula_e_12
+
+  17261007:
+    template: Goblin_Digger
+    level:    [20, 21]
+    region:   buburimu_peninsula_n_5
+
+  17261008:
+    template: Hobgoblin_Warrior
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17261009:
+    template: Hobgoblin_White_Mage
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17261010:
+    template: Hobgoblin_Black_Mage
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17261011:
+    template: Hobgoblin_Red_Mage
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17261012:
+    template: Hobgoblin_Thief
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17261013:
+    template: Hobgoblin_Dark_Knight
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17261014:
+    template: Hobgoblin_Ranger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17261015:
+    template: Hobgoblin_Beastmaster
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17261016:
+    template: Goblins_Rabbit
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [28, 30]
+
+  17261017:
+    template: Theoyagudo_Monk
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17261018:
+    template: Theoyagudo_White_Mage
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17261019:
+    template: Theoyagudo_Black_Mage
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17261020:
+    template: Theoyagudo_Bard
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17261021:
+    template: Theoyagudo_Samurai
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17261022:
+    template: Theoyagudo_Ninja
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17261023:
+    template: Theoyagudo_Summoner
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [30, 33]
+
+  17261024:
+    template: Yagudos_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [28, 30]
+
+  17261025:
+    template: Yagudos_Avatar
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [28, 30]
+
+  17261026:
+    template: Goblin_Swordmaker
+    at:       [-494.333, -29.776, 58.614, 120]
+    level:    [30, 35]
+
+  17261027:
+    template: Goblin_Swordmaker
+    at:       [-494.540, -31.075, 62.578, 120]
+    level:    [30, 35]
+
+  17261028:
+    template: Goblin_Thespian
+    at:       [-488.025, -31.559, 68.327, 120]
+    level:    [30, 35]
+
+  17261029:
+    template: Goblin_Thespian
+    at:       [-483.184, -31.641, 69.080, 115]
+    level:    [30, 35]
+
+  17261030:
+    template: Goblin_Furrier
+    at:       [-476.634, -31.665, 69.264, 110]
+    level:    [30, 35]
+
+  17261031:
+    template: Goblin_Furrier
+    at:       [-471.909, -30.738, 67.128, 120]
+    level:    [30, 35]
+
+  17261032:
+    template: Goblin_Shaman
+    at:       [-467.780, -31.120, 64.365, 120]
+    level:    [30, 35]
+
+  17261033:
+    template: Goblin_Shaman
+    at:       [-463.815, -31.213, 59.398, 115]
+    level:    [30, 35]
+
+  17261034:
+    template: Goblin_Guide
+    at:       [-451.610, -32.269, 84.223, 120]
+    level:    [35, 35]
+
+  17261040:
+    template: Puffer_Pugil_Brigand
+    at:       [-81.741, 19.635, -325.773, 94]
+    level:    [15, 18]
+
+  17261041:
+    template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [51, 54]
+
+  17261042:
+    template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [51, 54]
+
+  17261043:
+    template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [51, 54]
+
+  17261044:
+    template: Pixie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [51, 54]
+
+  17261045:
+    template: Pixie
+    level:    [51, 54]
+    region:   buburimu_peninsula_s_2
+
+  17261046:
+    template: Ketos
+    at:       [200.000, -16.500, 240.000, 18]
+    level:    [1, 1]
+
+  17261047:
+    template: Botulus_Rex
+    at:       [80.000, -0.449, -195.000, 0]
+    level:    [94, 95]
+
+  17261048:
+    template: Botulus_Rex
+    at:       [360.000, -0.500, -240.000, 92]
+    level:    [94, 95]
+
+  17261049:
+    template: Botulus_Rex
+    at:       [-360.000, -8.500, -200.000, 83]
+    level:    [94, 95]
+
+  17261050:
+    template: Abyssdiver
+    at:       [445.559, -0.207, -319.429, 110]
+    level:    [0, 0]
+
+  17261051:
+    template: Abyssdiver
+    at:       [441.980, -0.500, 199.850, 92]
+    level:    [0, 0]
+
+  17261052:
+    template: Abyssdiver
+    at:       [19.239, -16.856, 92.739, 102]
+    level:    [0, 0]
+
+  17261085:
+    template: Goblin_Bounty_Hunter
+    level:    [18, 18]
+    region:   buburimu_peninsula_ne_5
+
+  17261086:
+    template: Goblin_Bounty_Hunter
+    level:    [18, 20]
+    region:   buburimu_peninsula_ne_7
+
+  17261087:
+    template: Goblin_Bounty_Hunter
+    level:    [17, 20]
+    region:   buburimu_peninsula_ne_8
+
+  17261088:
+    template: Goblin_Bounty_Hunter
+    level:    [17, 20]
+    region:   buburimu_peninsula_ne_9
+
+  17261089:
+    template: Goblin_Bounty_Hunter
+    level:    [17, 20]
+    region:   buburimu_peninsula_e_15
+
+  17261090:
+    template: Goblin_Bounty_Hunter
+    level:    [18, 19]
+    region:   buburimu_peninsula_e_16
+
+  17261091:
+    template: Goblin_Bounty_Hunter
+    level:    [17, 20]
+    region:   buburimu_peninsula_e_17
+
+  17261092:
+    template: Goblin_Bounty_Hunter
+    level:    [17, 20]
+    region:   buburimu_peninsula_se_4
+
+  17261093:
+    template: Goblin_Bounty_Hunter
+    level:    [17, 19]
+    region:   buburimu_peninsula_se_3
+
+  17261094:
+    template: Goblin_Bounty_Hunter
+    level:    [17, 18]
+    region:   buburimu_peninsula_se_8
+
+  17261095:
+    template: Goblin_Bounty_Hunter
+    level:    [18, 20]
+    region:   buburimu_peninsula_se_10
+
+  17261096:
+    template: Goblin_Bounty_Hunter
+    level:    [17, 20]
+    region:   buburimu_peninsula_se_6
+
+  17261097:
+    template: Goblin_Bounty_Hunter
+    level:    [18, 20]
+    region:   buburimu_peninsula_se_5
+
+  17261098:
+    template: Goblin_Bounty_Hunter
+    at:       [-1.673, 0.342, -327.775, 249]
+    level:    [17, 20]
+
+  17261099:
+    template: Goblin_Bounty_Hunter
+    level:    [17, 20]
+    region:   buburimu_peninsula_s
+
+  17261100:
+    template: Goblin_Bounty_Hunter
+    level:    [17, 20]
+    region:   buburimu_peninsula_s
+
+  17261101:
+    template: Goblin_Bounty_Hunter
+    at:       [-353.921, 0.042, -327.332, 122]
+    level:    [17, 19]

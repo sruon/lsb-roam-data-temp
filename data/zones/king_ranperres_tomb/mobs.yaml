@@ -1,0 +1,2538 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17555457:
+    template: Ding_Bats
+    level:    [2, 4]
+    region:   king_ranperres_tomb_nw_4
+
+  17555458:
+    template: Ding_Bats
+    level:    [2, 4]
+    region:   king_ranperres_tomb_nw_4
+
+  17555459:
+    template: Carrion_Worm
+    level:    [2, 4]
+    region:   king_ranperres_tomb_nw_4
+
+  17555460:
+    template: Carrion_Worm
+    level:    [2, 4]
+    region:   king_ranperres_tomb_nw_4
+
+  17555461:
+    template: Ding_Bats
+    level:    [2, 4]
+    region:   king_ranperres_tomb_nw_3
+
+  17555462:
+    template: Ding_Bats
+    level:    [2, 4]
+    region:   king_ranperres_tomb_nw_3
+
+  17555463:
+    template: Carrion_Worm
+    level:    [2, 4]
+    region:   king_ranperres_tomb_nw_3
+
+  17555464:
+    template: Carrion_Worm
+    level:    [2, 4]
+    region:   king_ranperres_tomb_nw_3
+
+  17555465:
+    template: Carrion_Worm
+    level:    [2, 4]
+    region:   king_ranperres_tomb_nw_2
+
+  17555466:
+    template: Carrion_Worm
+    level:    [2, 4]
+    region:   king_ranperres_tomb_nw_2
+
+  17555467:
+    template: Carrion_Worm
+    level:    [2, 4]
+    region:   king_ranperres_tomb_nw_2
+
+  17555468:
+    template: Goblin_Thug
+    level:    [4, 8]
+    region:   king_ranperres_tomb_nw_2
+
+  17555469:
+    template: Ding_Bats
+    level:    [2, 4]
+    region:   king_ranperres_tomb_nw_2
+
+  17555470:
+    template: Ding_Bats
+    level:    [2, 4]
+    region:   king_ranperres_tomb_nw_2
+
+  17555471:
+    template: Mouse_Bat
+    level:    [3, 6]
+    region:   king_ranperres_tomb_nw_5
+
+  17555472:
+    template: Mouse_Bat
+    level:    [3, 6]
+    region:   king_ranperres_tomb_nw_5
+
+  17555473:
+    template: Goblin_Thug
+    at:       [-182.057, 6.225, 90.120, 60]
+    level:    [4, 8]
+
+  17555474:
+    template: Goblin_Weaver
+    level:    [4, 8]
+    region:   king_ranperres_tomb_nw
+
+  17555475:
+    template: Mouse_Bat
+    level:    [3, 6]
+    region:   king_ranperres_tomb_nw
+
+  17555476:
+    template: Mouse_Bat
+    level:    [3, 6]
+    region:   king_ranperres_tomb_nw
+
+  17555477:
+    template: Mouse_Bat
+    level:    [3, 6]
+    region:   king_ranperres_tomb_nw_6
+
+  17555478:
+    template: Mouse_Bat
+    level:    [3, 6]
+    region:   king_ranperres_tomb_nw_6
+
+  17555479:
+    template: Mouse_Bat
+    level:    [3, 6]
+    region:   king_ranperres_tomb_nw_6
+
+  17555480:
+    template: Mouse_Bat
+    level:    [3, 6]
+    region:   king_ranperres_tomb_nw_6
+
+  17555481:
+    template: Mouse_Bat
+    level:    [3, 6]
+    region:   king_ranperres_tomb_w_4
+
+  17555482:
+    template: Mouse_Bat
+    level:    [3, 6]
+    region:   king_ranperres_tomb_w_4
+
+  17555483:
+    template: Stone_Eater
+    level:    [5, 7]
+    region:   king_ranperres_tomb_w_2
+
+  17555484:
+    template: Stone_Eater
+    level:    [5, 7]
+    region:   king_ranperres_tomb_w_2
+
+  17555485:
+    template: Mouse_Bat
+    level:    [3, 6]
+    region:   king_ranperres_tomb_w
+
+  17555486:
+    template: Mouse_Bat
+    level:    [3, 6]
+    region:   king_ranperres_tomb_w
+
+  17555487:
+    template: Goblin_Thug
+    level:    [4, 8]
+    region:   king_ranperres_tomb_w_3
+
+  17555488:
+    template: Goblin_Weaver
+    at:       [-206.690, 5.973, 14.909, 127]
+    level:    [4, 8]
+
+  17555489:
+    template: Goblin_Thug
+    level:    [4, 8]
+    region:   king_ranperres_tomb_w_3
+
+  17555490:
+    template: Goblin_Weaver
+    at:       [-175.897, 6.017, 18.984, 30]
+    level:    [4, 8]
+
+  17555491:
+    template: Mouse_Bat
+    level:    [3, 6]
+    region:   king_ranperres_tomb_w_3
+
+  17555492:
+    template: Mouse_Bat
+    level:    [3, 6]
+    region:   king_ranperres_tomb_w_3
+
+  17555493:
+    template: Goblin_Thug
+    level:    [4, 8]
+    region:   king_ranperres_tomb_w_5
+
+  17555494:
+    template: Goblin_Weaver
+    at:       [-164.067, 6.044, 28.858, 127]
+    level:    [4, 8]
+
+  17555495:
+    template: Goblin_Thug
+    level:    [4, 8]
+    region:   king_ranperres_tomb_w_5
+
+  17555496:
+    template: Goblin_Weaver
+    at:       [-138.749, 6.092, 13.506, 95]
+    level:    [4, 8]
+
+  17555497:
+    template: Mouse_Bat
+    level:    [3, 6]
+    region:   king_ranperres_tomb_w_5
+
+  17555498:
+    template: Mouse_Bat
+    level:    [3, 6]
+    region:   king_ranperres_tomb_w_5
+
+  17555499:
+    template: Goblin_Thug
+    at:       [-138.000, 6.000, 27.000, 127]
+    level:    [3, 6]
+
+  17555500:
+    template: Goblin_Weaver
+    level:    [4, 8]
+    region:   king_ranperres_tomb_w_6
+
+  17555501:
+    template: Goblin_Thug
+    level:    [4, 8]
+    region:   king_ranperres_tomb_w_6
+
+  17555502:
+    template: Goblin_Weaver
+    at:       [-121.243, 7.959, 16.111, 127]
+    level:    [4, 8]
+
+  17555503:
+    template: Mouse_Bat
+    level:    [3, 6]
+    region:   king_ranperres_tomb_w_6
+
+  17555504:
+    template: Mouse_Bat
+    level:    [3, 6]
+    region:   king_ranperres_tomb_w_6
+
+  17555505:
+    template: Mouse_Bat
+    level:    [3, 6]
+    region:   king_ranperres_tomb_w_9
+
+  17555506:
+    template: Goblin_Thug
+    at:       [-42.302, -0.489, -71.075, 127]
+    level:    [4, 8]
+
+  17555507:
+    template: Goblin_Weaver
+    level:    [4, 8]
+    region:   king_ranperres_tomb_c
+
+  17555508:
+    template: Ding_Bats
+    level:    [3, 5]
+    region:   king_ranperres_tomb_c
+
+  17555509:
+    template: Ding_Bats
+    at:       [-114.273, -0.483, -104.039, 127]
+    level:    [3, 5]
+
+  17555510:
+    template: Carrion_Worm
+    level:    [3, 5]
+    region:   king_ranperres_tomb_c
+
+  17555511:
+    template: Enchanted_Bones
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [4, 8]
+
+  17555512:
+    template: Enchanted_Bones
+    at:       [-106.000, -0.498, -62.000, 124]
+    level:    [4, 8]
+
+  17555513:
+    template: Goblin_Thug
+    at:       [-118.000, -0.400, -124.000, 61]
+    level:    [4, 8]
+
+  17555514:
+    template: Goblin_Weaver
+    at:       [-115.228, -0.357, -107.705, 127]
+    level:    [4, 8]
+
+  17555515:
+    template: Ding_Bats
+    level:    [3, 5]
+    region:   king_ranperres_tomb_w_7
+
+  17555516:
+    template: Ding_Bats
+    at:       [-69.513, -0.431, -132.592, 127]
+    level:    [3, 5]
+
+  17555517:
+    template: Carrion_Worm
+    level:    [3, 5]
+    region:   king_ranperres_tomb_w_7
+
+  17555518:
+    template: Enchanted_Bones
+    at:       [-104.515, -0.527, -134.112, 127]
+    level:    [4, 8]
+
+  17555519:
+    template: Enchanted_Bones
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [4, 8]
+
+  17555520:
+    template: Goblin_Thug
+    at:       [-107.227, -0.507, -136.745, 127]
+    level:    [4, 8]
+
+  17555521:
+    template: Goblin_Weaver
+    level:    [4, 8]
+    region:   king_ranperres_tomb_sw_5
+
+  17555522:
+    template: Ding_Bats
+    level:    [3, 5]
+    region:   king_ranperres_tomb_sw_5
+
+  17555523:
+    template: Ding_Bats
+    at:       [29.531, -0.497, -62.192, 127]
+    level:    [3, 5]
+
+  17555524:
+    template: Carrion_Worm
+    level:    [3, 5]
+    region:   king_ranperres_tomb_sw_5
+
+  17555525:
+    template: Enchanted_Bones
+    at:       [-53.000, -0.557, -135.000, 127]
+    level:    [4, 8]
+
+  17555526:
+    template: Enchanted_Bones
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [4, 8]
+
+  17555527:
+    template: Goblin_Thug
+    level:    [4, 8]
+    region:   king_ranperres_tomb_c_7
+
+  17555528:
+    template: Goblin_Weaver
+    at:       [-15.714, -0.501, -61.331, 127]
+    level:    [4, 8]
+
+  17555529:
+    template: Ding_Bats
+    level:    [3, 5]
+    region:   king_ranperres_tomb_c_7
+
+  17555530:
+    template: Ding_Bats
+    at:       [37.000, -0.498, -75.000, 76]
+    level:    [3, 5]
+
+  17555531:
+    template: Carrion_Worm
+    level:    [3, 5]
+    region:   king_ranperres_tomb_c_7
+
+  17555532:
+    template: Enchanted_Bones
+    at:       [10.455, -0.467, -65.115, 127]
+    level:    [4, 8]
+
+  17555533:
+    template: Enchanted_Bones
+    level:    [4, 8]
+    region:   king_ranperres_tomb_c_7
+
+  17555534:
+    template: Goblin_Thug
+    at:       [34.057, -0.468, -109.357, 127]
+    level:    [4, 8]
+
+  17555535:
+    template: Goblin_Weaver
+    at:       [37.846, -0.499, -116.025, 127]
+    level:    [4, 7]
+
+  17555536:
+    template: Ding_Bats
+    level:    [3, 5]
+    region:   king_ranperres_tomb_c_13
+
+  17555537:
+    template: Ding_Bats
+    level:    [3, 5]
+    region:   king_ranperres_tomb_c_13
+
+  17555538:
+    template: Carrion_Worm
+    level:    [3, 5]
+    region:   king_ranperres_tomb_c_13
+
+  17555539:
+    template: Enchanted_Bones
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [4, 8]
+
+  17555540:
+    template: Enchanted_Bones
+    level:    [4, 8]
+    region:   king_ranperres_tomb_c_13
+
+  17555541:
+    template: Goblin_Thug
+    at:       [20.326, -0.500, -138.091, 123]
+    level:    [4, 8]
+
+  17555542:
+    template: Goblin_Weaver
+    level:    [4, 8]
+    region:   king_ranperres_tomb_s_5
+
+  17555543:
+    template: Ding_Bats
+    level:    [3, 5]
+    region:   king_ranperres_tomb_s_5
+
+  17555544:
+    template: Ding_Bats
+    at:       [-107.868, -0.431, -106.992, 127]
+    level:    [3, 5]
+
+  17555545:
+    template: Carrion_Worm
+    level:    [3, 5]
+    region:   king_ranperres_tomb_s_5
+
+  17555546:
+    template: Enchanted_Bones
+    at:       [29.786, -0.500, -135.039, 127]
+    level:    [4, 8]
+
+  17555547:
+    template: Enchanted_Bones
+    at:       [34.458, -0.500, -134.135, 247]
+    level:    [4, 8]
+
+  17555548:
+    template: Goblin_Thug
+    at:       [-37.189, -0.493, -78.729, 34]
+    level:    [4, 8]
+
+  17555549:
+    template: Goblin_Weaver
+    level:    [4, 8]
+    region:   king_ranperres_tomb_c_6
+
+  17555550:
+    template: Goblin_Thug
+    at:       [-44.650, -0.499, -71.816, 110]
+    level:    [4, 8]
+
+  17555551:
+    template: Goblin_Weaver
+    level:    [4, 8]
+    region:   king_ranperres_tomb_c_6
+
+  17555552:
+    template: Carrion_Worm
+    level:    [3, 5]
+    region:   king_ranperres_tomb_c_6
+
+  17555553:
+    template: Goblin_Thug
+    at:       [-31.701, -0.500, -108.574, 127]
+    level:    [4, 8]
+
+  17555554:
+    template: Goblin_Weaver
+    level:    [4, 8]
+    region:   king_ranperres_tomb_s_3
+
+  17555555:
+    template: Goblin_Thug
+    level:    [4, 8]
+    region:   king_ranperres_tomb_s_3
+
+  17555556:
+    template: Goblin_Weaver
+    at:       [-33.542, -0.500, -129.279, 57]
+    level:    [4, 8]
+
+  17555557:
+    template: Carrion_Worm
+    level:    [3, 5]
+    region:   king_ranperres_tomb_s_3
+
+  17555558:
+    template: Goblin_Thug
+    level:    [4, 8]
+    region:   king_ranperres_tomb_c_2
+
+  17555559:
+    template: Goblin_Weaver
+    at:       [-68.030, -0.502, -122.382, 127]
+    level:    [4, 8]
+
+  17555560:
+    template: Ding_Bats
+    level:    [3, 5]
+    region:   king_ranperres_tomb_c_2
+
+  17555561:
+    template: Ding_Bats
+    at:       [-102.450, -0.482, -75.248, 39]
+    level:    [3, 5]
+
+  17555562:
+    template: Carrion_Worm
+    level:    [3, 5]
+    region:   king_ranperres_tomb_c_2
+
+  17555563:
+    template: Enchanted_Bones
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [4, 8]
+
+  17555564:
+    template: Enchanted_Bones
+    at:       [-88.058, -0.420, -121.594, 129]
+    level:    [4, 8]
+
+  17555565:
+    template: Goblin_Thug
+    level:    [6, 8]
+    region:   king_ranperres_tomb_c_3
+
+  17555566:
+    template: Goblin_Weaver
+    at:       [-73.913, -0.376, -75.711, 3]
+    level:    [5, 8]
+
+  17555567:
+    template: Ding_Bats
+    level:    [3, 5]
+    region:   king_ranperres_tomb_c_3
+
+  17555568:
+    template: Ding_Bats
+    at:       [-83.716, -1.406, -92.992, 122]
+    level:    [3, 5]
+
+  17555569:
+    template: Carrion_Worm
+    level:    [3, 5]
+    region:   king_ranperres_tomb_c_3
+
+  17555570:
+    template: Enchanted_Bones
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [4, 8]
+
+  17555571:
+    template: Enchanted_Bones
+    at:       [-107.728, -0.500, -72.339, 127]
+    level:    [4, 8]
+
+  17555572:
+    template: Ding_Bats
+    level:    [3, 5]
+    region:   king_ranperres_tomb_c_4
+
+  17555573:
+    template: Ding_Bats
+    level:    [3, 5]
+    region:   king_ranperres_tomb_c_4
+
+  17555574:
+    template: Enchanted_Bones
+    level:    [4, 8]
+    region:   king_ranperres_tomb_c_4
+
+  17555575:
+    template: Enchanted_Bones
+    level:    [4, 8]
+    region:   king_ranperres_tomb_c_4
+
+  17555576:
+    template: Enchanted_Bones
+    level:    [4, 8]
+    region:   king_ranperres_tomb_c_4
+
+  17555577:
+    template: Enchanted_Bones
+    level:    [4, 8]
+    region:   king_ranperres_tomb_c_4
+
+  17555578:
+    template: Goblin_Thug
+    level:    [4, 8]
+    region:   king_ranperres_tomb_c_10
+
+  17555579:
+    template: Goblin_Weaver
+    at:       [25.199, -0.484, -115.272, 111]
+    level:    [4, 8]
+
+  17555580:
+    template: Ding_Bats
+    level:    [3, 5]
+    region:   king_ranperres_tomb_c_10
+
+  17555581:
+    template: Ding_Bats
+    at:       [12.000, -0.377, -91.000, 99]
+    level:    [3, 5]
+
+  17555582:
+    template: Carrion_Worm
+    level:    [3, 5]
+    region:   king_ranperres_tomb_c_10
+
+  17555583:
+    template: Enchanted_Bones
+    at:       [24.000, -0.556, -75.000, 127]
+    level:    [4, 8]
+
+  17555584:
+    template: Enchanted_Bones
+    at:       [9.311, -0.486, -125.283, 43]
+    level:    [4, 8]
+
+  17555585:
+    template: Goblin_Thug
+    at:       [1.500, -0.500, -75.717, 127]
+    level:    [4, 8]
+
+  17555586:
+    template: Goblin_Weaver
+    level:    [4, 8]
+    region:   king_ranperres_tomb_c_9
+
+  17555587:
+    template: Ding_Bats
+    level:    [3, 5]
+    region:   king_ranperres_tomb_c_9
+
+  17555588:
+    template: Ding_Bats
+    at:       [2.544, -0.500, -81.127, 127]
+    level:    [3, 5]
+
+  17555589:
+    template: Carrion_Worm
+    level:    [3, 5]
+    region:   king_ranperres_tomb_c_9
+
+  17555590:
+    template: Enchanted_Bones
+    at:       [-25.651, -0.499, -124.887, 71]
+    level:    [4, 8]
+
+  17555591:
+    template: Enchanted_Bones
+    at:       [-8.517, -0.482, -71.866, 127]
+    level:    [4, 8]
+
+  17555592:
+    template: Ding_Bats
+    level:    [3, 5]
+    region:   king_ranperres_tomb_c_11
+
+  17555593:
+    template: Ding_Bats
+    level:    [3, 5]
+    region:   king_ranperres_tomb_c_11
+
+  17555594:
+    template: Enchanted_Bones
+    level:    [4, 8]
+    region:   king_ranperres_tomb_c_11
+
+  17555595:
+    template: Enchanted_Bones
+    level:    [4, 8]
+    region:   king_ranperres_tomb_c_11
+
+  17555596:
+    template: Enchanted_Bones
+    level:    [4, 8]
+    region:   king_ranperres_tomb_c_11
+
+  17555597:
+    template: Enchanted_Bones
+    level:    [4, 8]
+    region:   king_ranperres_tomb_c_11
+
+  17555598:
+    template: Spook
+    at:       [2.912, -0.557, -99.302, 127]
+    level:    [11, 13]
+
+  17555599:
+    template: Wind_Bats
+    at:       [35.000, 3.000, -26.000, 57]
+    level:    [9, 11]
+
+  17555600:
+    template: Goblin_Ambusher
+    level:    [12, 16]
+    region:   king_ranperres_tomb_c_12
+
+  17555601:
+    template: Goblin_Tinkerer
+    at:       [16.297, 7.766, 7.171, 49]
+    level:    [12, 16]
+
+  17555602:
+    template: Goblin_Butcher
+    at:       [45.544, 7.293, 20.099, 95]
+    level:    [12, 16]
+
+  17555603:
+    template: Wind_Bats
+    level:    [9, 11]
+    region:   king_ranperres_tomb_c_12
+
+  17555604:
+    template: Wind_Bats
+    level:    [9, 11]
+    region:   king_ranperres_tomb_c_12
+
+  17555605:
+    template: Stone_Eater
+    level:    [5, 7]
+    region:   king_ranperres_tomb_c_12
+
+  17555606:
+    template: Goblin_Ambusher
+    at:       [91.389, 6.287, 19.730, 89]
+    level:    [12, 16]
+
+  17555607:
+    template: Goblin_Tinkerer
+    level:    [12, 16]
+    region:   king_ranperres_tomb_e
+
+  17555608:
+    template: Goblin_Butcher
+    at:       [100.000, 7.000, 24.000, 127]
+    level:    [12, 16]
+
+  17555609:
+    template: Wind_Bats
+    level:    [9, 11]
+    region:   king_ranperres_tomb_e
+
+  17555610:
+    template: Wind_Bats
+    level:    [9, 11]
+    region:   king_ranperres_tomb_e
+
+  17555611:
+    template: Stone_Eater
+    level:    [5, 7]
+    region:   king_ranperres_tomb_e
+
+  17555612:
+    template: Goblin_Ambusher
+    at:       [145.554, 7.114, 52.773, 83]
+    level:    [12, 16]
+
+  17555613:
+    template: Goblin_Tinkerer
+    level:    [12, 16]
+    region:   king_ranperres_tomb_e_3
+
+  17555614:
+    template: Goblin_Butcher
+    at:       [146.358, 6.860, 60.245, 127]
+    level:    [12, 16]
+
+  17555615:
+    template: Wind_Bats
+    level:    [9, 11]
+    region:   king_ranperres_tomb_e_3
+
+  17555616:
+    template: Wind_Bats
+    level:    [9, 11]
+    region:   king_ranperres_tomb_e_3
+
+  17555617:
+    template: Grave_Bat
+    at:       [145.156, 7.016, 62.543, 73]
+    level:    [12, 12]
+
+  17555618:
+    template: Stone_Eater
+    level:    [5, 7]
+    region:   king_ranperres_tomb_e_3
+
+  17555619:
+    template: Goblin_Ambusher
+    at:       [180.134, 6.993, 86.147, 37]
+    level:    [12, 16]
+
+  17555620:
+    template: Goblin_Tinkerer
+    level:    [12, 16]
+    region:   king_ranperres_tomb_e_4
+
+  17555621:
+    template: Goblin_Butcher
+    at:       [155.000, 7.000, 101.000, 127]
+    level:    [12, 16]
+
+  17555622:
+    template: Wind_Bats
+    level:    [9, 11]
+    region:   king_ranperres_tomb_e_4
+
+  17555623:
+    template: Wind_Bats
+    at:       [177.510, 6.823, 82.911, 85]
+    level:    [9, 11]
+
+  17555624:
+    template: Grave_Bat
+    level:    [11, 13]
+    region:   king_ranperres_tomb_e_4
+
+  17555625:
+    template: Stone_Eater
+    level:    [5, 7]
+    region:   king_ranperres_tomb_e_4
+
+  17555626:
+    template: Goblin_Ambusher
+    level:    [12, 16]
+    region:   king_ranperres_tomb_ne_3
+
+  17555627:
+    template: Goblin_Tinkerer
+    at:       [148.625, 5.706, 127.553, 51]
+    level:    [12, 16]
+
+  17555628:
+    template: Goblin_Butcher
+    level:    [12, 16]
+    region:   king_ranperres_tomb_ne_3
+
+  17555629:
+    template: Goblin_Ambusher
+    at:       [137.116, 8.034, 111.298, 127]
+    level:    [12, 16]
+
+  17555630:
+    template: Goblin_Tinkerer
+    level:    [12, 16]
+    region:   king_ranperres_tomb_ne_3
+
+  17555631:
+    template: Goblin_Butcher
+    at:       [130.811, 7.978, 139.441, 127]
+    level:    [12, 16]
+
+  17555632:
+    template: Wind_Bats
+    level:    [9, 11]
+    region:   king_ranperres_tomb_ne_3
+
+  17555633:
+    template: Wind_Bats
+    level:    [9, 11]
+    region:   king_ranperres_tomb_ne_3
+
+  17555634:
+    template: Grave_Bat
+    level:    [11, 13]
+    region:   king_ranperres_tomb_ne_3
+
+  17555635:
+    template: Goblin_Ambusher
+    at:       [71.542, 7.011, 180.218, 7]
+    level:    [12, 16]
+
+  17555636:
+    template: Goblin_Tinkerer
+    level:    [12, 16]
+    region:   king_ranperres_tomb_n_6
+
+  17555637:
+    template: Goblin_Butcher
+    at:       [45.000, 7.096, 180.000, 127]
+    level:    [12, 16]
+
+  17555638:
+    template: Grave_Bat
+    level:    [11, 13]
+    region:   king_ranperres_tomb_n_6
+
+  17555639:
+    template: Grave_Bat
+    level:    [11, 13]
+    region:   king_ranperres_tomb_n_6
+
+  17555640:
+    template: Grave_Bat
+    level:    [11, 13]
+    region:   king_ranperres_tomb_n_6
+
+  17555641:
+    template: Rock_Eater
+    level:    [14, 16]
+    region:   king_ranperres_tomb_n_3
+
+  17555642:
+    template: Rock_Eater
+    level:    [14, 16]
+    region:   king_ranperres_tomb_n_3
+
+  17555643:
+    template: Rock_Eater
+    level:    [14, 16]
+    region:   king_ranperres_tomb_n_3
+
+  17555644:
+    template: Rock_Eater
+    level:    [14, 16]
+    region:   king_ranperres_tomb_n_2
+
+  17555645:
+    template: Rock_Eater
+    level:    [14, 16]
+    region:   king_ranperres_tomb_n_2
+
+  17555646:
+    template: Rock_Eater
+    level:    [14, 16]
+    region:   king_ranperres_tomb_n_2
+
+  17555647:
+    template: Rock_Eater
+    level:    [14, 16]
+    region:   king_ranperres_tomb_n_2
+
+  17555648:
+    template: Rock_Eater
+    level:    [14, 16]
+    region:   king_ranperres_tomb_n
+
+  17555649:
+    template: Goblin_Gruel
+    level:    [18, 20]
+    region:   king_ranperres_tomb_n
+
+  17555650:
+    template: Goblin_Gruel
+    level:    [18, 20]
+    region:   king_ranperres_tomb_n
+
+  17555651:
+    template: Grave_Bat
+    level:    [11, 13]
+    region:   king_ranperres_tomb_n_4
+
+  17555652:
+    template: Grave_Bat
+    level:    [11, 13]
+    region:   king_ranperres_tomb_n_4
+
+  17555653:
+    template: Nachzehrer
+    level:    [15, 18]
+    region:   king_ranperres_tomb_n_5
+
+  17555654:
+    template: Nachzehrer
+    level:    [15, 18]
+    region:   king_ranperres_tomb_n_5
+
+  17555655:
+    template: Nachzehrer
+    level:    [15, 18]
+    region:   king_ranperres_tomb_n_5
+
+  17555656:
+    template: Nachzehrer
+    at:       [9.740, 7.190, 121.433, 127]
+    level:    [15, 18]
+
+  17555657:
+    template: Grave_Bat
+    level:    [11, 13]
+    region:   king_ranperres_tomb_n_5
+
+  17555658:
+    template: Grave_Bat
+    level:    [11, 13]
+    region:   king_ranperres_tomb_n_5
+
+  17555659:
+    template: Nachzehrer
+    level:    [15, 18]
+    region:   king_ranperres_tomb_c_5
+
+  17555660:
+    template: Nachzehrer
+    level:    [15, 18]
+    region:   king_ranperres_tomb_c_5
+
+  17555661:
+    template: Nachzehrer
+    level:    [15, 18]
+    region:   king_ranperres_tomb_c_5
+
+  17555662:
+    template: Nachzehrer
+    at:       [-54.443, 7.721, 82.184, 189]
+    level:    [15, 18]
+
+  17555663:
+    template: Grave_Bat
+    level:    [11, 13]
+    region:   king_ranperres_tomb_c_5
+
+  17555664:
+    template: Gwyllgi
+    at:       [-65.363, 7.726, 75.649, 127]
+    level:    [31, 32]
+
+  17555665:
+    template: Tomb_Bat
+    level:    [17, 19]
+    region:   king_ranperres_tomb_w_8
+
+  17555666:
+    template: Tomb_Bat
+    level:    [17, 19]
+    region:   king_ranperres_tomb_w_8
+
+  17555667:
+    template: Tomb_Bat
+    level:    [17, 19]
+    region:   king_ranperres_tomb_w_8
+
+  17555668:
+    template: Crypt_Ghost
+    at:       [-114.991, 8.500, 60.433, 127]
+    level:    [20, 21]
+
+  17555669:
+    template: Nachzehrer
+    level:    [16, 18]
+    region:   king_ranperres_tomb_c_14
+
+  17555670:
+    template: Nachzehrer
+    level:    [15, 18]
+    region:   king_ranperres_tomb_c_14
+
+  17555671:
+    template: Nachzehrer
+    at:       [63.373, 7.071, 61.770, 127]
+    level:    [15, 18]
+
+  17555672:
+    template: Nachzehrer
+    level:    [15, 18]
+    region:   king_ranperres_tomb_c_14
+
+  17555673:
+    template: Grave_Bat
+    level:    [11, 13]
+    region:   king_ranperres_tomb_c_14
+
+  17555674:
+    template: Nachzehrer
+    level:    [15, 18]
+    region:   king_ranperres_tomb_c_8
+
+  17555675:
+    template: Nachzehrer
+    level:    [15, 17]
+    region:   king_ranperres_tomb_c_8
+
+  17555676:
+    template: Nachzehrer
+    level:    [15, 18]
+    region:   king_ranperres_tomb_c_8
+
+  17555677:
+    template: Nachzehrer
+    level:    [15, 18]
+    region:   king_ranperres_tomb_c_8
+
+  17555678:
+    template: Grave_Bat
+    level:    [11, 13]
+    region:   king_ranperres_tomb_c_8
+
+  17555679:
+    template: Grave_Bat
+    level:    [11, 13]
+    region:   king_ranperres_tomb_c_8
+
+  17555680:
+    template: Goblin_Ambusher
+    at:       [67.030, 6.949, 219.630, 127]
+    level:    [12, 16]
+
+  17555681:
+    template: Goblin_Tinkerer
+    at:       [83.000, 7.000, 219.000, 127]
+    level:    [12, 16]
+
+  17555682:
+    template: Goblin_Butcher
+    at:       [217.561, 7.460, 311.702, 127]
+    level:    [12, 16]
+
+  17555683:
+    template: Goblin_Ambusher
+    at:       [59.560, 7.028, 219.102, 37]
+    level:    [12, 16]
+
+  17555684:
+    template: Goblin_Tinkerer
+    at:       [39.793, 7.000, 221.272, 12]
+    level:    [12, 16]
+
+  17555685:
+    template: Goblin_Butcher
+    at:       [61.000, 7.000, 201.000, 17]
+    level:    [12, 16]
+
+  17555686:
+    template: Grave_Bat
+    at:       [32.178, 6.999, 223.231, 127]
+    level:    [11, 12]
+
+  17555687:
+    template: Grave_Bat
+    at:       [61.945, 6.792, 220.790, 44]
+    level:    [11, 13]
+
+  17555688:
+    template: Goblin_Ambusher
+    level:    [12, 16]
+    region:   king_ranperres_tomb_ne
+
+  17555689:
+    template: Goblin_Tinkerer
+    at:       [131.000, 7.000, 263.000, 127]
+    level:    [12, 16]
+
+  17555690:
+    template: Goblin_Butcher
+    level:    [12, 16]
+    region:   king_ranperres_tomb_ne
+
+  17555691:
+    template: Goblin_Ambusher
+    at:       [82.000, 6.787, 261.083, 127]
+    level:    [12, 16]
+
+  17555692:
+    template: Goblin_Tinkerer
+    at:       [56.629, 6.825, 260.688, 128]
+    level:    [12, 16]
+
+  17555693:
+    template: Goblin_Butcher
+    level:    [12, 16]
+    region:   king_ranperres_tomb_ne
+
+  17555694:
+    template: Grave_Bat
+    level:    [11, 12]
+    region:   king_ranperres_tomb_ne
+
+  17555695:
+    template: Grave_Bat
+    level:    [11, 12]
+    region:   king_ranperres_tomb_ne
+
+  17555696:
+    template: Goblin_Ambusher
+    at:       [123.000, 7.000, 260.000, 6]
+    level:    [12, 16]
+
+  17555697:
+    template: Goblin_Tinkerer
+    level:    [12, 16]
+    region:   king_ranperres_tomb_ne_5
+
+  17555698:
+    template: Goblin_Butcher
+    level:    [12, 16]
+    region:   king_ranperres_tomb_ne_5
+
+  17555699:
+    template: Goblin_Ambusher
+    at:       [212.056, 7.000, 305.725, 113]
+    level:    [12, 16]
+
+  17555700:
+    template: Goblin_Tinkerer
+    level:    [12, 16]
+    region:   king_ranperres_tomb_ne_5
+
+  17555701:
+    template: Goblin_Butcher
+    at:       [173.051, 7.478, 299.890, 127]
+    level:    [12, 16]
+
+  17555702:
+    template: Grave_Bat
+    level:    [11, 13]
+    region:   king_ranperres_tomb_ne_5
+
+  17555703:
+    template: Grave_Bat
+    level:    [11, 13]
+    region:   king_ranperres_tomb_ne_5
+
+  17555704:
+    template: Nachzehrer
+    level:    [15, 18]
+    region:   king_ranperres_tomb_e_2
+
+  17555705:
+    template: Nachzehrer
+    level:    [15, 18]
+    region:   king_ranperres_tomb_e_2
+
+  17555706:
+    template: Nachzehrer
+    level:    [15, 18]
+    region:   king_ranperres_tomb_e_2
+
+  17555707:
+    template: Nachzehrer
+    level:    [15, 18]
+    region:   king_ranperres_tomb_e_2
+
+  17555708:
+    template: Plague_Bats
+    level:    [15, 17]
+    region:   king_ranperres_tomb_e_2
+
+  17555709:
+    template: Ankou
+    level:    [21, 22]
+    region:   king_ranperres_tomb_e_2
+
+  17555710:
+    template: Plague_Bats
+    at:       [144.138, -0.557, 77.080, 127]
+    level:    [15, 17]
+
+  17555711:
+    template: Plague_Bats
+    at:       [147.856, -0.505, 57.602, 127]
+    level:    [15, 17]
+
+  17555712:
+    template: Rock_Eater
+    at:       [143.678, -0.513, 65.608, 2]
+    level:    [14, 16]
+
+  17555713:
+    template: Rock_Eater
+    at:       [141.168, -0.510, 55.764, 127]
+    level:    [14, 16]
+
+  17555714:
+    template: Plague_Bats
+    at:       [174.357, -0.500, 35.717, 8]
+    level:    [15, 17]
+
+  17555715:
+    template: Plague_Bats
+    at:       [160.396, -0.499, 43.101, 127]
+    level:    [15, 17]
+
+  17555716:
+    template: Rock_Eater
+    at:       [171.564, -0.500, 71.242, 30]
+    level:    [14, 16]
+
+  17555717:
+    template: Rock_Eater
+    at:       [172.705, -0.500, 79.142, 24]
+    level:    [14, 16]
+
+  17555718:
+    template: Plague_Bats
+    at:       [107.771, -0.500, 199.443, 127]
+    level:    [15, 17]
+
+  17555719:
+    template: Plague_Bats
+    level:    [15, 17]
+    region:   king_ranperres_tomb_ne_2
+
+  17555720:
+    template: Plague_Bats
+    level:    [15, 17]
+    region:   king_ranperres_tomb_ne_2
+
+  17555721:
+    template: Barbastelle
+    level:    [15, 17]
+    region:   king_ranperres_tomb_ne_2
+
+  17555722:
+    template: Plague_Bats
+    level:    [15, 17]
+    region:   king_ranperres_tomb_ne_4
+
+  17555723:
+    template: Plague_Bats
+    level:    [15, 17]
+    region:   king_ranperres_tomb_ne_4
+
+  17555724:
+    template: Rock_Eater
+    level:    [14, 16]
+    region:   king_ranperres_tomb_ne_4
+
+  17555725:
+    template: Rock_Eater
+    level:    [14, 16]
+    region:   king_ranperres_tomb_ne_4
+
+  17555726:
+    template: Plague_Bats
+    level:    [15, 17]
+    region:   king_ranperres_tomb_ne_6
+
+  17555727:
+    template: Plague_Bats
+    level:    [15, 17]
+    region:   king_ranperres_tomb_ne_6
+
+  17555728:
+    template: Rock_Eater
+    level:    [14, 16]
+    region:   king_ranperres_tomb_ne_6
+
+  17555729:
+    template: Rock_Eater
+    level:    [14, 16]
+    region:   king_ranperres_tomb_ne_6
+
+  17555730:
+    template: Goblin_Mugger
+    at:       [211.851, -0.500, 174.664, 127]
+    level:    [21, 23]
+
+  17555731:
+    template: Goblin_Leecher
+    level:    [21, 23]
+    region:   king_ranperres_tomb_ne_7
+
+  17555732:
+    template: Goblin_Gambler
+    level:    [21, 23]
+    region:   king_ranperres_tomb_ne_7
+
+  17555733:
+    template: Goblin_Mugger
+    at:       [229.582, -0.501, 178.130, 127]
+    level:    [21, 23]
+
+  17555734:
+    template: Goblin_Leecher
+    at:       [220.252, -0.509, 148.951, 123]
+    level:    [21, 23]
+
+  17555735:
+    template: Goblin_Gambler
+    level:    [21, 23]
+    region:   king_ranperres_tomb_ne_7
+
+  17555736:
+    template: Rock_Eater
+    level:    [14, 16]
+    region:   king_ranperres_tomb_ne_7
+
+  17555737:
+    template: Rock_Eater
+    level:    [14, 16]
+    region:   king_ranperres_tomb_ne_7
+
+  17555738:
+    template: Plague_Bats
+    level:    [15, 17]
+    region:   king_ranperres_tomb_ne_7
+
+  17555739:
+    template: Goblin_Mugger
+    at:       [220.630, -0.497, 94.994, 65]
+    level:    [21, 23]
+
+  17555740:
+    template: Goblin_Leecher
+    at:       [221.219, -0.582, 118.230, 127]
+    level:    [21, 23]
+
+  17555741:
+    template: Goblin_Gambler
+    at:       [211.877, -0.470, 106.972, 185]
+    level:    [21, 23]
+
+  17555742:
+    template: Goblin_Mugger
+    at:       [213.585, -0.500, 108.127, 71]
+    level:    [21, 23]
+
+  17555743:
+    template: Goblin_Leecher
+    at:       [217.503, -0.500, 80.319, 182]
+    level:    [21, 23]
+
+  17555744:
+    template: Goblin_Gambler
+    at:       [213.064, -0.494, 95.954, 59]
+    level:    [21, 23]
+
+  17555745:
+    template: Rock_Eater
+    at:       [220.133, -0.429, 125.366, 127]
+    level:    [14, 16]
+
+  17555746:
+    template: Rock_Eater
+    at:       [223.257, -0.498, 131.648, 36]
+    level:    [14, 16]
+
+  17555747:
+    template: Plague_Bats
+    at:       [211.029, -0.500, 115.794, 71]
+    level:    [15, 17]
+
+  17555748:
+    template: Cherry_Sapling
+    at:       [43.824, -0.600, -282.762, 53]
+    level:    [62, 64]
+
+  17555749:
+    template: Cherry_Sapling
+    at:       [36.356, -0.600, -276.178, 32]
+    level:    [62, 64]
+
+  17555750:
+    template: Cherry_Sapling
+    at:       [43.242, -0.600, -272.295, 127]
+    level:    [62, 64]
+
+  17555751:
+    template: Cherry_Sapling
+    at:       [-2.604, -0.600, -274.021, 127]
+    level:    [62, 64]
+
+  17555752:
+    template: Cherry_Sapling
+    at:       [0.936, -0.600, -286.576, 127]
+    level:    [62, 64]
+
+  17555753:
+    template: Cherry_Sapling
+    at:       [-4.388, -0.600, -279.671, 110]
+    level:    [62, 64]
+
+  17555754:
+    template: Cemetery_Cherry
+    at:       [33.000, -0.600, -287.000, 127]
+    level:    [72, 73]
+
+  17555755:
+    template: Cherry_Sapling
+    level:    [62, 64]
+    region:   king_ranperres_tomb_s_6
+
+  17555756:
+    template: Cherry_Sapling
+    level:    [62, 64]
+    region:   king_ranperres_tomb_s_6
+
+  17555757:
+    template: Hati
+    level:    [77, 78]
+    region:   king_ranperres_tomb_se_2
+
+  17555758:
+    template: Spartoi_Warrior
+    level:    [78, 79]
+    region:   king_ranperres_tomb_se_2
+
+  17555759:
+    template: Spartoi_Sorcerer
+    level:    [80, 81]
+    region:   king_ranperres_tomb_se_2
+
+  17555760:
+    template: Hati
+    level:    [77, 78]
+    region:   king_ranperres_tomb_se_3
+
+  17555761:
+    template: Spartoi_Warrior
+    level:    [78, 80]
+    region:   king_ranperres_tomb_se_3
+
+  17555762:
+    template: Spartoi_Sorcerer
+    level:    [80, 81]
+    region:   king_ranperres_tomb_se_3
+
+  17555763:
+    template: Vrtra
+    at:       [228.000, 7.134, -311.000, 17]
+    level:    [95, 95]
+
+  17555764:
+    template: Pey
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [76, 76]
+
+  17555765:
+    template: Pey
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [76, 76]
+
+  17555766:
+    template: Iruci
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [76, 76]
+
+  17555767:
+    template: Iruci
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [76, 76]
+
+  17555768:
+    template: Airi
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [81, 81]
+
+  17555769:
+    template: Airi
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [81, 81]
+
+  17555770:
+    template: Corrupted_Yorgos
+    at:       [-37.372, 7.500, 20.181, 0]
+    level:    [64, 64]
+
+  17555771:
+    template: Corrupted_Soffeil
+    at:       [-37.477, 7.457, 22.113, 0]
+    level:    [63, 63]
+
+  17555772:
+    template: Corrupted_Ulbrig
+    at:       [-37.429, 7.500, 18.147, 0]
+    level:    [63, 63]
+
+  17555773:
+    template: Hahava
+    at:       [-116.704, 8.500, 61.963, 118]
+    level:    [94, 95]
+
+  17555774:
+    template: Hahava
+    at:       [-22.165, 7.232, -365.124, 180]
+    level:    [94, 95]
+
+  17555775:
+    template: Hahava
+    at:       [-59.033, 7.776, 155.375, 122]
+    level:    [94, 95]
+
+  17555776:
+    template: Arcus_Blades
+    at:       [-264.085, 7.400, -130.273, 61]
+    level:    [0, 0]
+
+  17555777:
+    template: Locus_Dire_Bat
+    at:       [-129.268, 7.000, -143.754, 171]
+    level:    [133, 135]
+
+  17555778:
+    template: Locus_Dire_Bat
+    at:       [-132.144, 6.999, -145.868, 101]
+    level:    [133, 134]
+
+  17555779:
+    template: Locus_Dire_Bat
+    at:       [-136.731, 6.990, -151.449, 206]
+    level:    [133, 135]
+
+  17555780:
+    template: Locus_Dire_Bat
+    at:       [-130.771, 7.000, -144.263, 188]
+    level:    [133, 135]
+
+  17555781:
+    template: Locus_Dire_Bat
+    level:    [133, 135]
+    region:   king_ranperres_tomb_sw_4
+
+  17555782:
+    template: Locus_Dire_Bat
+    level:    [133, 135]
+    region:   king_ranperres_tomb_sw_4
+
+  17555783:
+    template: Locus_Dire_Bat
+    level:    [133, 135]
+    region:   king_ranperres_tomb_sw_4
+
+  17555784:
+    template: Locus_Dire_Bat
+    level:    [133, 135]
+    region:   king_ranperres_tomb_sw_4
+
+  17555785:
+    template: Locus_Cutlass_Scorpion
+    level:    [135, 137]
+    region:   king_ranperres_tomb_s
+
+  17555786:
+    template: Locus_Cutlass_Scorpion
+    level:    [135, 137]
+    region:   king_ranperres_tomb_s
+
+  17555787:
+    template: Locus_Dire_Bat
+    level:    [133, 135]
+    region:   king_ranperres_tomb_s
+
+  17555788:
+    template: Locus_Dire_Bat
+    level:    [133, 135]
+    region:   king_ranperres_tomb_s
+
+  17555789:
+    template: Locus_Dire_Bat
+    level:    [133, 135]
+    region:   king_ranperres_tomb_s
+
+  17555790:
+    template: Locus_Cutlass_Scorpion
+    at:       [-63.242, 7.038, -196.594, 217]
+    level:    [135, 137]
+
+  17555791:
+    template: Locus_Cutlass_Scorpion
+    at:       [-58.671, 7.662, -202.420, 24]
+    level:    [135, 137]
+
+  17555792:
+    template: Locus_Dire_Bat
+    at:       [-65.639, 7.531, -199.195, 90]
+    level:    [133, 135]
+
+  17555793:
+    template: Locus_Dire_Bat
+    at:       [-62.661, 8.100, -200.341, 248]
+    level:    [133, 135]
+
+  17555794:
+    template: Locus_Dire_Bat
+    at:       [-62.933, 7.058, -196.632, 114]
+    level:    [133, 135]
+
+  17555795:
+    template: Locus_Dire_Bat
+    at:       [-71.216, 7.625, -223.978, 182]
+    level:    [133, 135]
+
+  17555796:
+    template: Locus_Dire_Bat
+    at:       [-65.559, 6.944, -232.672, 162]
+    level:    [133, 135]
+
+  17555797:
+    template: Locus_Dire_Bat
+    at:       [-63.819, 7.006, -235.138, 166]
+    level:    [133, 135]
+
+  17555798:
+    template: Locus_Dire_Bat
+    at:       [-63.706, 7.059, -234.674, 31]
+    level:    [133, 135]
+
+  17555799:
+    template: Locus_Thousand_Eyes
+    at:       [-72.896, 6.978, -257.681, 9]
+    level:    [135, 137]
+
+  17555800:
+    template: Locus_Thousand_Eyes
+    at:       [-84.556, 7.840, -260.563, 185]
+    level:    [135, 137]
+
+  17555801:
+    template: Locus_Thousand_Eyes
+    at:       [-74.275, 7.603, -258.033, 137]
+    level:    [135, 137]
+
+  17555802:
+    template: Locus_Thousand_Eyes
+    at:       [-73.011, 7.119, -254.903, 247]
+    level:    [135, 137]
+
+  17555803:
+    template: Locus_Thousand_Eyes
+    at:       [-86.774, 7.185, -261.912, 109]
+    level:    [135, 137]
+
+  17555804:
+    template: Locus_Thousand_Eyes
+    at:       [-75.122, 7.873, -258.215, 220]
+    level:    [135, 137]
+
+  17555805:
+    template: Locus_Dire_Bat
+    at:       [-133.623, 6.467, -263.539, 64]
+    level:    [133, 135]
+
+  17555806:
+    template: Locus_Dire_Bat
+    at:       [-121.797, 6.806, -260.966, 103]
+    level:    [133, 135]
+
+  17555807:
+    template: Locus_Dire_Bat
+    at:       [-133.690, 6.481, -263.287, 63]
+    level:    [133, 135]
+
+  17555808:
+    template: Locus_Dire_Bat
+    at:       [-119.368, 6.908, -260.212, 250]
+    level:    [133, 135]
+
+  17555809:
+    template: Locus_Dire_Bat
+    at:       [-134.716, 6.596, -263.065, 49]
+    level:    [133, 135]
+
+  17555810:
+    template: Locus_Dire_Bat
+    level:    [133, 135]
+    region:   king_ranperres_tomb_sw_3
+
+  17555811:
+    template: Locus_Dire_Bat
+    at:       [-145.802, 7.136, -258.084, 114]
+    level:    [133, 135]
+
+  17555812:
+    template: Locus_Dire_Bat
+    level:    [133, 135]
+    region:   king_ranperres_tomb_sw_3
+
+  17555813:
+    template: Locus_Hati
+    at:       [-179.302, 6.886, -245.900, 184]
+    level:    [136, 137]
+
+  17555814:
+    template: Locus_Hati
+    at:       [-179.505, 6.906, -245.848, 181]
+    level:    [136, 137]
+
+  17555815:
+    template: Locus_Hati
+    at:       [-180.515, 6.829, -244.937, 189]
+    level:    [136, 137]
+
+  17555816:
+    template: Locus_Hati
+    at:       [-176.276, 6.546, -255.784, 236]
+    level:    [136, 137]
+
+  17555817:
+    template: Locus_Dire_Bat
+    level:    [133, 135]
+    region:   king_ranperres_tomb_sw_2
+
+  17555818:
+    template: Locus_Dire_Bat
+    level:    [133, 135]
+    region:   king_ranperres_tomb_sw_2
+
+  17555819:
+    template: Locus_Dire_Bat
+    at:       [-194.240, 6.998, -221.195, 45]
+    level:    [133, 135]
+
+  17555820:
+    template: Locus_Dire_Bat
+    level:    [133, 135]
+    region:   king_ranperres_tomb_sw_2
+
+  17555821:
+    template: Locus_Spartoi_Warrior
+    at:       [-240.980, 8.100, -220.495, 184]
+    level:    [135, 137]
+
+  17555822:
+    template: Locus_Spartoi_Warrior
+    at:       [-235.945, 7.855, -222.578, 50]
+    level:    [135, 137]
+
+  17555823:
+    template: Locus_Spartoi_Sorcerer
+    at:       [-241.444, 7.898, -216.268, 151]
+    level:    [135, 137]
+
+  17555824:
+    template: Locus_Spartoi_Sorcerer
+    at:       [-240.457, 7.745, -224.762, 71]
+    level:    [135, 137]
+
+  17555825:
+    template: Locus_Hati
+    at:       [-240.252, 7.711, -225.035, 83]
+    level:    [136, 137]
+
+  17555826:
+    template: Locus_Spartoi_Warrior
+    at:       [-257.694, 7.778, -223.708, 167]
+    level:    [135, 137]
+
+  17555827:
+    template: Locus_Spartoi_Warrior
+    at:       [-257.980, 7.613, -221.950, 95]
+    level:    [135, 137]
+
+  17555828:
+    template: Locus_Spartoi_Sorcerer
+    at:       [-256.572, 7.482, -220.601, 181]
+    level:    [135, 137]
+
+  17555829:
+    template: Locus_Spartoi_Sorcerer
+    at:       [-246.789, 7.744, -223.632, 65]
+    level:    [135, 137]
+
+  17555830:
+    template: Locus_Hati
+    at:       [-246.570, 7.743, -223.577, 67]
+    level:    [136, 137]
+
+  17555831:
+    template: Locus_Spartoi_Warrior
+    at:       [-258.606, 7.652, -243.693, 63]
+    level:    [135, 137]
+
+  17555832:
+    template: Locus_Spartoi_Warrior
+    at:       [-255.645, 7.774, -236.148, 60]
+    level:    [135, 137]
+
+  17555833:
+    template: Locus_Spartoi_Sorcerer
+    at:       [-262.447, 8.016, -238.862, 28]
+    level:    [135, 137]
+
+  17555834:
+    template: Locus_Spartoi_Sorcerer
+    at:       [-261.695, 8.013, -241.666, 237]
+    level:    [135, 137]
+
+  17555835:
+    template: Locus_Hati
+    at:       [-258.271, 6.804, -247.579, 239]
+    level:    [136, 137]
+
+  17555836:
+    template: Locus_Spartoi_Warrior
+    at:       [-254.902, 6.577, -263.187, 195]
+    level:    [135, 137]
+
+  17555837:
+    template: Locus_Spartoi_Warrior
+    at:       [-257.328, 6.472, -262.797, 90]
+    level:    [135, 137]
+
+  17555838:
+    template: Locus_Spartoi_Sorcerer
+    at:       [-260.483, 6.081, -259.173, 175]
+    level:    [135, 137]
+
+  17555839:
+    template: Locus_Spartoi_Sorcerer
+    at:       [-257.720, 6.186, -258.914, 203]
+    level:    [135, 137]
+
+  17555840:
+    template: Locus_Hati
+    at:       [-260.374, 6.077, -258.971, 160]
+    level:    [136, 137]
+
+  17555841:
+    template: Locus_Spartoi_Warrior
+    at:       [-264.420, 7.736, -280.185, 139]
+    level:    [135, 137]
+
+  17555842:
+    template: Locus_Spartoi_Warrior
+    at:       [-259.363, 8.298, -280.212, 117]
+    level:    [135, 137]
+
+  17555843:
+    template: Locus_Spartoi_Sorcerer
+    at:       [-259.312, 8.281, -279.507, 106]
+    level:    [135, 137]
+
+  17555844:
+    template: Locus_Spartoi_Sorcerer
+    at:       [-257.029, 8.118, -281.797, 184]
+    level:    [135, 137]
+
+  17555845:
+    template: Locus_Hati
+    at:       [-260.468, 8.216, -278.614, 21]
+    level:    [136, 137]
+
+  17555846:
+    template: Locus_Dire_Bat
+    level:    [133, 135]
+    region:   king_ranperres_tomb_sw
+
+  17555847:
+    template: Locus_Dire_Bat
+    level:    [133, 135]
+    region:   king_ranperres_tomb_sw
+
+  17555848:
+    template: Locus_Dire_Bat
+    level:    [133, 135]
+    region:   king_ranperres_tomb_sw
+
+  17555849:
+    template: Locus_Dire_Bat
+    level:    [133, 135]
+    region:   king_ranperres_tomb_sw
+
+  17555850:
+    template: Locus_Dire_Bat
+    at:       [-182.222, 6.999, -285.721, 209]
+    level:    [133, 135]
+
+  17555851:
+    template: Locus_Dire_Bat
+    at:       [-183.070, 6.998, -287.607, 78]
+    level:    [133, 135]
+
+  17555852:
+    template: Locus_Dire_Bat
+    at:       [-199.846, 7.000, -298.243, 225]
+    level:    [133, 135]
+
+  17555853:
+    template: Locus_Dire_Bat
+    at:       [-183.320, 6.998, -287.935, 78]
+    level:    [133, 135]
+
+  17555854:
+    template: Locus_Cutlass_Scorpion
+    at:       [-96.198, 6.553, -296.210, 174]
+    level:    [135, 137]
+
+  17555855:
+    template: Locus_Cutlass_Scorpion
+    at:       [-95.111, 7.095, -307.048, 26]
+    level:    [135, 137]
+
+  17555856:
+    template: Locus_Cutlass_Scorpion
+    at:       [-98.946, 7.246, -306.342, 67]
+    level:    [135, 137]
+
+  17555857:
+    template: Locus_Cutlass_Scorpion
+    at:       [-98.549, 7.071, -304.117, 161]
+    level:    [135, 137]
+
+  17555858:
+    template: Locus_Dire_Bat
+    at:       [-25.796, 7.000, -212.829, 210]
+    level:    [133, 135]
+
+  17555859:
+    template: Locus_Dire_Bat
+    level:    [133, 135]
+    region:   king_ranperres_tomb_s_4
+
+  17555860:
+    template: Locus_Dire_Bat
+    at:       [-20.635, 7.000, -200.923, 96]
+    level:    [133, 135]
+
+  17555861:
+    template: Locus_Dire_Bat
+    level:    [133, 135]
+    region:   king_ranperres_tomb_s_4
+
+  17555862:
+    template: Locus_Dire_Bat
+    at:       [-16.739, 6.990, -191.087, 93]
+    level:    [133, 135]
+
+  17555863:
+    template: Locus_Dire_Bat
+    at:       [-14.446, 6.998, -188.444, 219]
+    level:    [133, 135]
+
+  17555864:
+    template: Locus_Dire_Bat
+    at:       [-5.384, 6.999, -181.611, 229]
+    level:    [133, 135]
+
+  17555865:
+    template: Locus_Dire_Bat
+    at:       [-0.178, 6.999, -181.519, 255]
+    level:    [133, 135]
+
+  17555866:
+    template: Locus_Cutlass_Scorpion
+    level:    [135, 137]
+    region:   king_ranperres_tomb_s_7
+
+  17555867:
+    template: Locus_Cutlass_Scorpion
+    level:    [135, 137]
+    region:   king_ranperres_tomb_s_7
+
+  17555868:
+    template: Locus_Cutlass_Scorpion
+    level:    [135, 137]
+    region:   king_ranperres_tomb_s_7
+
+  17555869:
+    template: Locus_Cutlass_Scorpion
+    at:       [16.968, 7.081, -181.815, 90]
+    level:    [135, 137]
+
+  17555870:
+    template: Locus_Dire_Bat
+    at:       [60.763, 7.000, -196.083, 187]
+    level:    [133, 135]
+
+  17555871:
+    template: Locus_Dire_Bat
+    at:       [49.161, 6.995, -182.911, 25]
+    level:    [133, 135]
+
+  17555872:
+    template: Locus_Dire_Bat
+    at:       [52.550, 7.000, -185.666, 165]
+    level:    [133, 135]
+
+  17555873:
+    template: Locus_Dire_Bat
+    at:       [49.904, 7.000, -183.358, 27]
+    level:    [133, 135]
+
+  17555874:
+    template: Locus_Dire_Bat
+    at:       [59.584, 6.216, -231.078, 196]
+    level:    [133, 135]
+
+  17555875:
+    template: Locus_Dire_Bat
+    at:       [58.833, 6.631, -235.682, 67]
+    level:    [133, 135]
+
+  17555876:
+    template: Locus_Dire_Bat
+    at:       [58.825, 6.680, -236.500, 180]
+    level:    [133, 135]
+
+  17555877:
+    template: Locus_Dire_Bat
+    at:       [58.220, 6.913, -222.552, 57]
+    level:    [133, 135]
+
+  17555878:
+    template: Locus_Spartoi_Warrior
+    at:       [58.445, 7.902, -285.172, 120]
+    level:    [135, 137]
+
+  17555879:
+    template: Locus_Spartoi_Warrior
+    at:       [59.888, 7.983, -276.640, 56]
+    level:    [135, 137]
+
+  17555880:
+    template: Locus_Spartoi_Sorcerer
+    at:       [62.237, 7.084, -272.012, 178]
+    level:    [135, 137]
+
+  17555881:
+    template: Locus_Spartoi_Sorcerer
+    at:       [63.041, 7.687, -284.067, 81]
+    level:    [135, 137]
+
+  17555882:
+    template: Locus_Hati
+    at:       [54.368, 7.732, -279.174, 84]
+    level:    [135, 137]
+
+  17555883:
+    template: Locus_Spartoi_Warrior
+    at:       [45.580, 8.127, -297.964, 118]
+    level:    [135, 137]
+
+  17555884:
+    template: Locus_Spartoi_Warrior
+    at:       [46.256, 8.110, -298.018, 232]
+    level:    [135, 137]
+
+  17555885:
+    template: Locus_Spartoi_Sorcerer
+    at:       [51.509, 7.899, -293.274, 226]
+    level:    [135, 137]
+
+  17555886:
+    template: Locus_Spartoi_Sorcerer
+    at:       [45.505, 8.095, -296.780, 5]
+    level:    [135, 137]
+
+  17555887:
+    template: Locus_Hati
+    at:       [36.325, 8.120, -298.943, 66]
+    level:    [135, 137]
+
+  17555888:
+    template: Locus_Spartoi_Warrior
+    at:       [54.487, 6.104, -302.555, 175]
+    level:    [135, 137]
+
+  17555889:
+    template: Locus_Spartoi_Sorcerer
+    at:       [56.973, 6.567, -301.715, 209]
+    level:    [135, 137]
+
+  17555890:
+    template: Locus_Thousand_Eyes
+    at:       [-23.588, 6.960, -297.764, 131]
+    level:    [135, 137]
+
+  17555891:
+    template: Locus_Thousand_Eyes
+    at:       [-23.700, 7.057, -301.930, 121]
+    level:    [135, 137]
+
+  17555892:
+    template: Locus_Thousand_Eyes
+    at:       [-19.040, 6.749, -305.372, 240]
+    level:    [135, 137]
+
+  17555893:
+    template: Locus_Thousand_Eyes
+    at:       [-16.525, 6.562, -304.108, 23]
+    level:    [135, 137]
+
+  17555894:
+    template: Locus_Dire_Bat
+    level:    [133, 135]
+    region:   king_ranperres_tomb_s_2
+
+  17555895:
+    template: Locus_Dire_Bat
+    level:    [133, 135]
+    region:   king_ranperres_tomb_s_2
+
+  17555896:
+    template: Locus_Dire_Bat
+    level:    [133, 135]
+    region:   king_ranperres_tomb_s_2
+
+  17555897:
+    template: Locus_Dire_Bat
+    level:    [133, 135]
+    region:   king_ranperres_tomb_s_2
+
+  17555898:
+    template: Locus_Dire_Bat
+    at:       [-17.050, 6.795, -322.110, 42]
+    level:    [133, 135]
+
+  17555899:
+    template: Locus_Dire_Bat
+    at:       [-17.927, 6.882, -320.420, 173]
+    level:    [133, 135]
+
+  17555900:
+    template: Locus_Dire_Bat
+    at:       [-17.109, 6.812, -321.786, 38]
+    level:    [133, 135]
+
+  17555901:
+    template: Locus_Dire_Bat
+    at:       [-8.991, 6.999, -336.966, 26]
+    level:    [133, 135]
+
+  17555902:
+    template: Locus_Dire_Bat
+    at:       [29.110, 7.652, -341.306, 10]
+    level:    [133, 135]
+
+  17555903:
+    template: Locus_Dire_Bat
+    at:       [27.270, 7.474, -341.052, 19]
+    level:    [133, 135]
+
+  17555904:
+    template: Locus_Dire_Bat
+    at:       [29.783, 7.654, -341.430, 12]
+    level:    [133, 135]
+
+  17555905:
+    template: Locus_Dire_Bat
+    at:       [32.188, 7.540, -341.300, 1]
+    level:    [133, 135]
+
+  17555906:
+    template: Locus_Dire_Bat
+    at:       [57.287, 6.999, -329.289, 216]
+    level:    [133, 135]
+
+  17555907:
+    template: Locus_Dire_Bat
+    at:       [57.933, 6.999, -327.801, 79]
+    level:    [133, 135]
+
+  17555908:
+    template: Locus_Dire_Bat
+    at:       [55.028, 6.999, -332.108, 88]
+    level:    [133, 135]
+
+  17555909:
+    template: Locus_Dire_Bat
+    at:       [58.491, 6.999, -325.631, 209]
+    level:    [133, 135]
+
+  17555910:
+    template: Locus_Dire_Bat
+    level:    [133, 135]
+    region:   king_ranperres_tomb_se
+
+  17555911:
+    template: Locus_Dire_Bat
+    at:       [78.746, 7.143, -259.197, 244]
+    level:    [133, 135]
+
+  17555912:
+    template: Locus_Dire_Bat
+    level:    [133, 135]
+    region:   king_ranperres_tomb_se
+
+  17555913:
+    template: Locus_Dire_Bat
+    level:    [133, 135]
+    region:   king_ranperres_tomb_se
+
+  17555914:
+    template: Locus_Dire_Bat
+    at:       [98.698, 7.000, -242.238, 201]
+    level:    [133, 135]
+
+  17555915:
+    template: Locus_Dire_Bat
+    at:       [98.864, 6.999, -240.835, 200]
+    level:    [133, 135]
+
+  17555916:
+    template: Locus_Dire_Bat
+    at:       [94.647, 6.986, -251.261, 91]
+    level:    [133, 135]
+
+  17555917:
+    template: Locus_Dire_Bat
+    at:       [102.980, 6.989, -230.030, 89]
+    level:    [133, 135]
+
+  17555918:
+    template: Locus_Dire_Bat
+    at:       [127.599, 6.997, -222.427, 15]
+    level:    [133, 135]
+
+  17555919:
+    template: Locus_Dire_Bat
+    at:       [117.324, 7.000, -219.833, 0]
+    level:    [133, 135]
+
+  17555920:
+    template: Locus_Dire_Bat
+    at:       [125.564, 7.000, -221.796, 120]
+    level:    [133, 135]
+
+  17555921:
+    template: Locus_Dire_Bat
+    at:       [127.575, 6.997, -222.864, 129]
+    level:    [133, 135]
+
+  17555922:
+    template: Locus_Dire_Bat
+    at:       [139.179, 7.000, -238.004, 66]
+    level:    [133, 135]
+
+  17555923:
+    template: Locus_Dire_Bat
+    at:       [139.212, 6.974, -242.675, 185]
+    level:    [133, 135]
+
+  17555924:
+    template: Locus_Dire_Bat
+    at:       [139.420, 7.000, -237.914, 99]
+    level:    [133, 135]
+
+  17555925:
+    template: Locus_Dire_Bat
+    at:       [139.520, 7.000, -238.383, 82]
+    level:    [133, 135]
+
+  17555926:
+    template: Locus_Hati
+    at:       [138.936, 7.270, -244.467, 201]
+    level:    [135, 137]
+
+  17555927:
+    template: Locus_Spartoi_Warrior
+    at:       [142.657, 7.137, -283.781, 9]
+    level:    [135, 137]
+
+  17555928:
+    template: Locus_Spartoi_Sorcerer
+    at:       [143.130, 7.059, -283.894, 139]
+    level:    [135, 137]
+
+  17555929:
+    template: Locus_Lemures
+    at:       [141.923, 8.062, -280.380, 117]
+    level:    [136, 138]
+
+  17555930:
+    template: Locus_Hati
+    at:       [137.836, 8.039, -289.594, 185]
+    level:    [135, 137]
+
+  17555931:
+    template: Locus_Spartoi_Warrior
+    at:       [137.978, 7.165, -293.880, 170]
+    level:    [135, 137]
+
+  17555932:
+    template: Locus_Spartoi_Sorcerer
+    at:       [144.754, 8.124, -301.162, 44]
+    level:    [135, 137]
+
+  17555933:
+    template: Locus_Lemures
+    at:       [138.980, 7.320, -295.760, 55]
+    level:    [136, 138]
+
+  17555934:
+    template: Locus_Dire_Bat
+    at:       [21.115, 6.956, -203.153, 201]
+    level:    [133, 135]
+
+  17555935:
+    template: Locus_Dire_Bat
+    at:       [21.236, 6.578, -214.904, 187]
+    level:    [133, 135]
+
+  17555936:
+    template: Locus_Dire_Bat
+    at:       [21.494, 6.537, -216.801, 59]
+    level:    [133, 135]
+
+  17555937:
+    template: Locus_Dire_Bat
+    at:       [21.370, 6.948, -202.102, 198]
+    level:    [133, 135]
+
+  17555938:
+    template: Locus_Tomb_Worm
+    at:       [30.832, -0.635, -248.008, 242]
+    level:    [131, 133]
+
+  17555939:
+    template: Locus_Tomb_Worm
+    at:       [31.507, -0.514, -229.444, 195]
+    level:    [131, 133]
+
+  17555940:
+    template: Locus_Tomb_Worm
+    at:       [31.411, -0.500, -234.633, 61]
+    level:    [131, 133]
+
+  17555941:
+    template: Locus_Tomb_Worm
+    at:       [30.721, -0.629, -235.998, 224]
+    level:    [131, 133]
+
+  17555942:
+    template: Locus_Tomb_Worm
+    at:       [10.755, -0.883, -229.611, 37]
+    level:    [131, 133]
+
+  17555943:
+    template: Locus_Tomb_Worm
+    at:       [14.013, -1.819, -234.188, 196]
+    level:    [131, 133]
+
+  17555944:
+    template: Locus_Tomb_Worm
+    at:       [24.873, -0.539, -249.051, 123]
+    level:    [131, 133]
+
+  17555945:
+    template: Locus_Tomb_Worm
+    at:       [26.290, -1.500, -238.768, 188]
+    level:    [131, 133]
+
+  17555946:
+    template: Locus_Tomb_Worm
+    at:       [13.903, -1.522, -245.906, 178]
+    level:    [131, 133]
+
+  17555947:
+    template: Locus_Tomb_Worm
+    at:       [12.986, -1.904, -238.607, 36]
+    level:    [131, 133]
+
+  17555948:
+    template: Locus_Armet_Beetle
+    at:       [2.756, -0.500, -271.757, 167]
+    level:    [134, 136]
+
+  17555949:
+    template: Locus_Armet_Beetle
+    at:       [2.957, -0.500, -271.410, 139]
+    level:    [134, 136]
+
+  17555950:
+    template: Locus_Armet_Beetle
+    at:       [3.179, -0.500, -292.093, 98]
+    level:    [134, 136]
+
+  17555951:
+    template: Locus_Armet_Beetle
+    at:       [3.000, -0.500, -271.786, 141]
+    level:    [134, 136]
+
+  17555952:
+    template: Locus_Armet_Beetle
+    at:       [7.281, -0.500, -287.556, 218]
+    level:    [134, 136]
+
+  17555953:
+    template: Locus_Armet_Beetle
+    at:       [3.492, -0.500, -287.405, 150]
+    level:    [134, 136]
+
+  17555954:
+    template: Locus_Armet_Beetle
+    at:       [-4.690, -0.500, -281.911, 162]
+    level:    [134, 136]
+
+  17555955:
+    template: Locus_Armet_Beetle
+    at:       [2.629, -0.500, -281.593, 166]
+    level:    [134, 136]
+
+  17555956:
+    template: Locus_Armet_Beetle
+    at:       [43.489, -0.500, -272.825, 126]
+    level:    [134, 136]
+
+  17555957:
+    template: Locus_Armet_Beetle
+    at:       [35.583, -0.500, -282.598, 3]
+    level:    [134, 136]
+
+  17555958:
+    template: Locus_Armet_Beetle
+    at:       [41.976, -0.500, -274.674, 226]
+    level:    [134, 136]
+
+  17555959:
+    template: Locus_Armet_Beetle
+    at:       [34.976, -0.519, -287.065, 10]
+    level:    [134, 136]
+
+  17555960:
+    template: Locus_Armet_Beetle
+    at:       [42.110, -0.500, -279.720, 57]
+    level:    [134, 136]
+
+  17555961:
+    template: Locus_Armet_Beetle
+    at:       [35.579, -0.500, -273.815, 248]
+    level:    [134, 136]
+
+  17555962:
+    template: Locus_Armet_Beetle
+    at:       [43.271, -0.550, -288.477, 227]
+    level:    [134, 136]
+
+  17555963:
+    template: Locus_Armet_Beetle
+    at:       [37.622, -0.558, -287.151, 180]
+    level:    [134, 136]

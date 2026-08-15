@@ -1,0 +1,1448 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17874945:
+    template: Baited_Jagil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17874946:
+    template: Baited_Jagil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17874947:
+    template: Baited_Jagil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17874948:
+    template: Groundwater_Leech
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17874949:
+    template: Groundwater_Leech
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17874950:
+    template: Burrowing_Chapuli
+    at:       [-60.790, -20.970, -54.055, 56]
+    level:    [101, 103]
+
+  17874951:
+    template: Burrowing_Chapuli
+    at:       [-67.650, -21.180, -52.595, 129]
+    level:    [101, 103]
+
+  17874952:
+    template: Burrowing_Chapuli
+    at:       [-61.150, -21.330, -57.194, 29]
+    level:    [101, 103]
+
+  17874953:
+    template: Burrowing_Chapuli
+    at:       [-92.470, -15.540, -61.962, 81]
+    level:    [101, 103]
+
+  17874954:
+    template: Burrowing_Chapuli
+    at:       [-89.030, -17.220, -57.922, 212]
+    level:    [101, 103]
+
+  17874955:
+    template: Burrowing_Chapuli
+    at:       [-83.750, -18.690, -59.410, 254]
+    level:    [101, 103]
+
+  17874956:
+    template: Bonaria
+    at:       [-103.400, -9.829, -127.410, 145]
+    level:    [101, 103]
+
+  17874957:
+    template: Bonaria
+    at:       [-100.000, -11.190, -134.510, 241]
+    level:    [101, 103]
+
+  17874958:
+    template: Bonaria
+    at:       [-96.870, -10.910, -130.470, 245]
+    level:    [101, 103]
+
+  17874959:
+    template: Bonaria
+    at:       [-103.000, -9.739, -117.400, 3]
+    level:    [101, 103]
+
+  17874960:
+    template: Bonaria
+    at:       [-105.100, -10.170, -116.830, 224]
+    level:    [101, 103]
+
+  17874961:
+    template: Bonaria
+    at:       [-96.350, -9.864, -110.490, 107]
+    level:    [101, 103]
+
+  17874962:
+    template: Javelin_Wasp
+    at:       [-154.100, -10.400, -163.840, 206]
+    level:    [99, 107]
+
+  17874963:
+    template: Javelin_Wasp
+    at:       [-153.800, -10.200, -159.400, 202]
+    level:    [99, 107]
+
+  17874964:
+    template: Javelin_Wasp
+    at:       [-161.800, -10.480, -157.590, 104]
+    level:    [99, 107]
+
+  17874965:
+    template: Javelin_Wasp
+    at:       [-155.100, -10.510, -153.830, 255]
+    level:    [99, 107]
+
+  17874966:
+    template: Loathsome_Obdella
+    at:       [-158.600, -10.490, -159.570, 137]
+    level:    [99, 107]
+
+  17874967:
+    template: Loathsome_Obdella
+    at:       [-156.200, -10.390, -158.980, 138]
+    level:    [99, 107]
+
+  17874968:
+    template: Speleothem_Ungeweder
+    at:       [-161.100, -10.510, -163.580, 140]
+    level:    [103, 105]
+
+  17874969:
+    template: Burrowing_Chapuli
+    at:       [-116.900, -10.550, -240.080, 188]
+    level:    [101, 103]
+
+  17874970:
+    template: Burrowing_Chapuli
+    at:       [-118.500, -10.330, -247.130, 39]
+    level:    [101, 103]
+
+  17874971:
+    template: Burrowing_Chapuli
+    at:       [-125.300, -10.370, -243.950, 156]
+    level:    [101, 103]
+
+  17874972:
+    template: Malodorous_Twitherym
+    at:       [-124.900, -10.420, -238.340, 116]
+    level:    [101, 103]
+
+  17874973:
+    template: Malodorous_Twitherym
+    at:       [-115.900, -10.460, -237.100, 75]
+    level:    [101, 103]
+
+  17874974:
+    template: Malodorous_Twitherym
+    at:       [-117.800, -10.490, -243.200, 247]
+    level:    [101, 103]
+
+  17874975:
+    template: Craklaw
+    at:       [-155.600, -10.480, -320.990, 75]
+    level:    [99, 107]
+
+  17874976:
+    template: Craklaw
+    at:       [-159.400, -10.410, -317.040, 104]
+    level:    [99, 107]
+
+  17874977:
+    template: Craklaw
+    at:       [-152.700, -10.170, -322.250, 5]
+    level:    [99, 107]
+
+  17874978:
+    template: Malodorous_Twitherym
+    at:       [-152.900, -10.210, -321.610, 16]
+    level:    [101, 103]
+
+  17874979:
+    template: Malodorous_Twitherym
+    at:       [-161.000, -10.490, -316.040, 70]
+    level:    [101, 103]
+
+  17874980:
+    template: Pungent_Fungus
+    at:       [101.210, 0.232, -220.230, 108]
+    level:    [1, 1]
+
+  17874981:
+    template: Fulvous_Jagil
+    at:       [-87.470, -0.156, -374.800, 110]
+    level:    [99, 107]
+
+  17874982:
+    template: Fulvous_Jagil
+    at:       [-90.060, -0.442, -375.210, 255]
+    level:    [99, 107]
+
+  17874983:
+    template: Craklaw
+    at:       [-85.760, 0.552, -379.780, 100]
+    level:    [99, 107]
+
+  17874984:
+    template: Fulvous_Jagil
+    at:       [-71.090, 0.276, -376.640, 196]
+    level:    [99, 107]
+
+  17874985:
+    template: Craklaw
+    at:       [-76.930, -0.193, -383.490, 79]
+    level:    [99, 107]
+
+  17874986:
+    template: Pungent_Fungus
+    at:       [-76.120, 0.304, -375.830, 22]
+    level:    [1, 1]
+
+  17874987:
+    template: Craklaw
+    level:    [99, 107]
+    region:   sih_gates_s_3
+
+  17874988:
+    template: Craklaw
+    level:    [99, 107]
+    region:   sih_gates_s_3
+
+  17874989:
+    template: Malodorous_Twitherym
+    level:    [101, 103]
+    region:   sih_gates_s_3
+
+  17874990:
+    template: Malodorous_Twitherym
+    level:    [101, 103]
+    region:   sih_gates_s_3
+
+  17874991:
+    template: Craklaw
+    level:    [99, 107]
+    region:   sih_gates_s_4
+
+  17874992:
+    template: Craklaw
+    level:    [99, 107]
+    region:   sih_gates_s_4
+
+  17874993:
+    template: Malodorous_Twitherym
+    level:    [101, 103]
+    region:   sih_gates_s_4
+
+  17874994:
+    template: Malodorous_Twitherym
+    level:    [101, 103]
+    region:   sih_gates_s_4
+
+  17874995:
+    template: Speleothem_Gefyrst
+    level:    [103, 105]
+    region:   sih_gates_s_4
+
+  17874996:
+    template: Loathsome_Obdella
+    at:       [-220.500, -9.309, -317.150, 65]
+    level:    [99, 107]
+
+  17874997:
+    template: Loathsome_Obdella
+    at:       [-222.000, -10.770, -309.740, 86]
+    level:    [99, 107]
+
+  17874998:
+    template: Loathsome_Obdella
+    at:       [-215.800, -10.870, -306.050, 9]
+    level:    [99, 107]
+
+  17874999:
+    template: Craklaw
+    at:       [-225.600, -20.810, -370.490, 159]
+    level:    [99, 107]
+
+  17875000:
+    template: Malodorous_Twitherym
+    at:       [-225.900, -20.900, -370.880, 183]
+    level:    [101, 103]
+
+  17875001:
+    template: Malodorous_Twitherym
+    at:       [-218.900, -19.230, -362.550, 117]
+    level:    [101, 103]
+
+  17875002:
+    template: Echo_Bats
+    at:       [-278.500, -20.210, -392.210, 137]
+    level:    [101, 103]
+
+  17875003:
+    template: Echo_Bats
+    at:       [-275.900, -20.380, -406.390, 38]
+    level:    [101, 103]
+
+  17875004:
+    template: Macabre_Bat
+    at:       [-284.200, -20.680, -399.110, 117]
+    level:    [101, 103]
+
+  17875005:
+    template: Macabre_Bat
+    at:       [-281.300, -20.510, -400.870, 30]
+    level:    [101, 103]
+
+  17875006:
+    template: Macabre_Bat
+    at:       [-275.400, -20.500, -395.970, 151]
+    level:    [101, 103]
+
+  17875007:
+    template: Speleothem_Gefyrst
+    at:       [-277.200, -20.450, -403.820, 150]
+    level:    [103, 105]
+
+  17875008:
+    template: Loathsome_Leech
+    at:       [-317.700, -19.880, -334.610, 211]
+    level:    [102, 103]
+
+  17875009:
+    template: Loathsome_Leech
+    at:       [-310.200, -20.320, -333.230, 177]
+    level:    [102, 103]
+
+  17875010:
+    template: Loathsome_Obdella
+    at:       [-317.000, -19.790, -335.370, 41]
+    level:    [99, 107]
+
+  17875011:
+    template: Loathsome_Obdella
+    at:       [-317.300, -19.920, -334.400, 174]
+    level:    [99, 107]
+
+  17875012:
+    template: Pungent_Fungus
+    at:       [-309.900, -19.600, -335.460, 47]
+    level:    [1, 1]
+
+  17875013:
+    template: Craklaw
+    at:       [-258.500, -21.520, -334.750, 225]
+    level:    [99, 107]
+
+  17875014:
+    template: Fulvous_Jagil
+    at:       [-264.300, -21.030, -332.960, 5]
+    level:    [99, 107]
+
+  17875015:
+    template: Fulvous_Jagil
+    at:       [-259.700, -20.200, -328.090, 67]
+    level:    [99, 107]
+
+  17875016:
+    template: Speleothem_Gefyrst
+    at:       [-262.400, -20.630, -332.050, 51]
+    level:    [103, 105]
+
+  17875017:
+    template: Ferocious_Funguar
+    at:       [-234.000, -10.490, -192.890, 217]
+    level:    [99, 107]
+
+  17875018:
+    template: Ferocious_Funguar
+    at:       [-234.100, -10.490, -192.770, 216]
+    level:    [99, 107]
+
+  17875019:
+    template: Ferocious_Funguar
+    at:       [-233.400, -10.350, -197.820, 199]
+    level:    [99, 107]
+
+  17875020:
+    template: Ferocious_Funguar
+    at:       [-243.200, -10.480, -193.570, 187]
+    level:    [99, 107]
+
+  17875021:
+    template: Ferocious_Funguar
+    at:       [-247.800, -10.170, -196.110, 75]
+    level:    [99, 107]
+
+  17875022:
+    template: Ferocious_Funguar
+    at:       [-234.100, -10.790, -202.770, 206]
+    level:    [99, 107]
+
+  17875023:
+    template: Speleothem_Ungeweder
+    at:       [-238.800, -10.470, -202.460, 191]
+    level:    [103, 105]
+
+  17875024:
+    template: Ferocious_Funguar
+    level:    [99, 107]
+    region:   sih_gates_sw
+
+  17875025:
+    template: Ferocious_Funguar
+    level:    [99, 107]
+    region:   sih_gates_sw
+
+  17875026:
+    template: Bloated_Acuex
+    level:    [99, 107]
+    region:   sih_gates_sw
+
+  17875027:
+    template: Bloated_Acuex
+    level:    [99, 107]
+    region:   sih_gates_sw
+
+  17875028:
+    template: Ferocious_Funguar
+    level:    [99, 107]
+    region:   sih_gates_sw_2
+
+  17875029:
+    template: Ferocious_Funguar
+    level:    [99, 107]
+    region:   sih_gates_sw_2
+
+  17875030:
+    template: Bloated_Acuex
+    level:    [99, 107]
+    region:   sih_gates_sw_2
+
+  17875031:
+    template: Bloated_Acuex
+    level:    [99, 107]
+    region:   sih_gates_sw_2
+
+  17875032:
+    template: Speleothem_Gefyrst
+    level:    [103, 105]
+    region:   sih_gates_sw_2
+
+  17875033:
+    template: Javelin_Wasp
+    at:       [-182.000, -10.130, -21.809, 114]
+    level:    [99, 107]
+
+  17875034:
+    template: Javelin_Wasp
+    at:       [-178.700, -10.300, -24.697, 250]
+    level:    [99, 107]
+
+  17875035:
+    template: Javelin_Wasp
+    at:       [-179.600, -10.180, -16.846, 202]
+    level:    [99, 107]
+
+  17875036:
+    template: Pungent_Fungus
+    at:       [-180.600, -9.642, -20.044, 52]
+    level:    [1, 1]
+
+  17875037:
+    template: Burrowing_Chapuli
+    level:    [101, 103]
+    region:   sih_gates_w_2
+
+  17875038:
+    template: Burrowing_Chapuli
+    at:       [-216.100, -19.540, -2.401, 251]
+    level:    [101, 103]
+
+  17875039:
+    template: Burrowing_Chapuli
+    level:    [101, 103]
+    region:   sih_gates_w_2
+
+  17875040:
+    template: Burrowing_Chapuli
+    at:       [-223.000, -19.340, 1.344, 135]
+    level:    [101, 103]
+
+  17875041:
+    template: Bloated_Acuex
+    level:    [99, 107]
+    region:   sih_gates_w
+
+  17875042:
+    template: Bloated_Acuex
+    level:    [99, 107]
+    region:   sih_gates_w
+
+  17875043:
+    template: Ferocious_Funguar
+    level:    [99, 107]
+    region:   sih_gates_w
+
+  17875044:
+    template: Ferocious_Funguar
+    level:    [99, 107]
+    region:   sih_gates_w
+
+  17875045:
+    template: Speleothem_Ungeweder
+    level:    [103, 105]
+    region:   sih_gates_w
+
+  17875046:
+    template: Loathsome_Obdella
+    level:    [99, 107]
+    region:   sih_gates_sw_3
+
+  17875047:
+    template: Loathsome_Obdella
+    level:    [99, 107]
+    region:   sih_gates_sw_3
+
+  17875048:
+    template: Malodorous_Twitherym
+    at:       [-179.100, -10.490, -352.480, 190]
+    level:    [101, 103]
+
+  17875049:
+    template: Malodorous_Twitherym
+    at:       [-179.400, -10.490, -352.660, 190]
+    level:    [101, 103]
+
+  17875050:
+    template: Fulvous_Jagil
+    at:       [-61.110, -2.486, -416.070, 149]
+    level:    [99, 107]
+
+  17875051:
+    template: Fulvous_Jagil
+    at:       [-48.210, -1.220, -419.210, 134]
+    level:    [99, 107]
+
+  17875052:
+    template: Knotted_Root
+    at:       [-120.000, -11.500, -97.500, 39]
+    level:    [99, 107]
+
+  17875053:
+    template: Knotted_Root
+    at:       [-120.000, -11.500, -100.000, 14]
+    level:    [99, 107]
+
+  17875054:
+    template: Knotted_Root
+    at:       [-120.000, -11.500, -102.500, 115]
+    level:    [99, 107]
+
+  17875055:
+    template: Cthonic_Chapuli
+    at:       [-116.800, -10.580, -102.360, 68]
+    level:    [101, 103]
+
+  17875056:
+    template: Cthonic_Chapuli
+    at:       [-116.300, -10.480, -97.994, 147]
+    level:    [101, 103]
+
+  17875057:
+    template: Fetid_Twitherym
+    at:       [-113.200, -9.817, -102.080, 156]
+    level:    [101, 103]
+
+  17875058:
+    template: Cthonic_Chapuli
+    at:       [-128.900, -10.320, -101.330, 98]
+    level:    [101, 103]
+
+  17875059:
+    template: Cthonic_Chapuli
+    at:       [-123.300, -10.510, -102.660, 62]
+    level:    [101, 103]
+
+  17875060:
+    template: Fetid_Twitherym
+    at:       [-123.400, -10.500, -102.790, 36]
+    level:    [101, 103]
+
+  17875061:
+    template: Knotted_Root
+    at:       [-80.000, -11.500, -257.500, 55]
+    level:    [99, 107]
+
+  17875062:
+    template: Knotted_Root
+    at:       [-80.000, -11.500, -260.000, 73]
+    level:    [99, 107]
+
+  17875063:
+    template: Knotted_Root
+    at:       [-80.000, -11.500, -262.500, 77]
+    level:    [99, 107]
+
+  17875064:
+    template: Mighty_Craklaw
+    at:       [-89.730, -10.700, -260.740, 143]
+    level:    [102, 104]
+
+  17875065:
+    template: Somber_Obdella
+    at:       [-86.500, -10.670, -261.250, 152]
+    level:    [102, 103]
+
+  17875066:
+    template: Somber_Obdella
+    at:       [-89.560, -10.730, -259.980, 107]
+    level:    [102, 103]
+
+  17875067:
+    template: Mighty_Craklaw
+    at:       [-72.500, -8.095, -259.270, 144]
+    level:    [102, 104]
+
+  17875068:
+    template: Somber_Obdella
+    at:       [-70.520, -7.010, -257.840, 85]
+    level:    [102, 103]
+
+  17875069:
+    template: Somber_Obdella
+    at:       [-73.230, -9.083, -256.670, 217]
+    level:    [102, 103]
+
+  17875070:
+    template: Fomor_Pioneer
+    at:       [-417.600, -20.300, -58.867, 3]
+    level:    [102, 103]
+
+  17875071:
+    template: Hemorraghic_Bats
+    level:    [119, 122]
+    region:   sih_gates_ne_5
+
+  17875072:
+    template: Quiescent_Leech
+    level:    [119, 121]
+    region:   sih_gates_ne_5
+
+  17875073:
+    template: Hemorraghic_Bats
+    level:    [119, 122]
+    region:   sih_gates_ne_6
+
+  17875074:
+    template: Quiescent_Leech
+    level:    [119, 121]
+    region:   sih_gates_ne_6
+
+  17875075:
+    template: Hemorraghic_Bats
+    level:    [119, 122]
+    region:   sih_gates_ne_15
+
+  17875076:
+    template: Hemorraghic_Bats
+    level:    [119, 122]
+    region:   sih_gates_ne_15
+
+  17875077:
+    template: Quiescent_Leech
+    level:    [119, 121]
+    region:   sih_gates_ne_15
+
+  17875078:
+    template: Quiescent_Leech
+    level:    [119, 121]
+    region:   sih_gates_ne_23
+
+  17875079:
+    template: Hemorraghic_Bats
+    level:    [119, 122]
+    region:   sih_gates_ne_22
+
+  17875080:
+    template: Hemorraghic_Bats
+    level:    [119, 122]
+    region:   sih_gates_ne_22
+
+  17875081:
+    template: Quiescent_Leech
+    level:    [119, 121]
+    region:   sih_gates_ne_25
+
+  17875082:
+    template: Quiescent_Leech
+    level:    [119, 121]
+    region:   sih_gates_ne_16
+
+  17875083:
+    template: Quiescent_Leech
+    level:    [119, 121]
+    region:   sih_gates_ne_14
+
+  17875084:
+    template: Quiescent_Leech
+    level:    [119, 121]
+    region:   sih_gates_ne_21
+
+  17875085:
+    template: Hemorraghic_Bats
+    at:       [420.580, -10.650, 481.191, 183]
+    level:    [119, 122]
+
+  17875086:
+    template: Sprightly_Acuex
+    at:       [444.280, -9.168, 460.325, 232]
+    level:    [119, 122]
+
+  17875087:
+    template: Sprightly_Acuex
+    level:    [119, 122]
+    region:   sih_gates_ne_24
+
+  17875088:
+    template: Hemorraghic_Bats
+    level:    [119, 122]
+    region:   sih_gates_ne_20
+
+  17875089:
+    template: Hemorraghic_Bats
+    level:    [119, 122]
+    region:   sih_gates_ne_19
+
+  17875090:
+    template: Hemorraghic_Bats
+    at:       [423.470, -10.300, 425.766, 48]
+    level:    [119, 122]
+
+  17875091:
+    template: Sprightly_Acuex
+    level:    [119, 122]
+    region:   sih_gates_ne_18
+
+  17875092:
+    template: Sprightly_Acuex
+    at:       [421.230, -11.470, 389.713, 62]
+    level:    [119, 122]
+
+  17875093:
+    template: Sprightly_Acuex
+    level:    [119, 122]
+    region:   sih_gates_ne_29
+
+  17875094:
+    template: Sprightly_Acuex
+    level:    [119, 122]
+    region:   sih_gates_ne_29
+
+  17875095:
+    template: Sprightly_Acuex
+    level:    [119, 122]
+    region:   sih_gates_ne_29
+
+  17875096:
+    template: Sprightly_Acuex
+    level:    [119, 122]
+    region:   sih_gates_ne_29
+
+  17875097:
+    template: Sprightly_Acuex
+    level:    [119, 122]
+    region:   sih_gates_ne_29
+
+  17875098:
+    template: Sprightly_Acuex
+    level:    [119, 122]
+    region:   sih_gates_ne_27
+
+  17875099:
+    template: Sprightly_Acuex
+    at:       [454.380, -10.280, 414.210, 94]
+    level:    [119, 122]
+
+  17875100:
+    template: Sprightly_Acuex
+    level:    [119, 122]
+    region:   sih_gates_ne_29
+
+  17875101:
+    template: Sprightly_Acuex
+    level:    [119, 122]
+    region:   sih_gates_ne_33
+
+  17875102:
+    template: Sprightly_Acuex
+    level:    [119, 122]
+    region:   sih_gates_ne_34
+
+  17875103:
+    template: Tortured_Diremite
+    at:       [500.830, -10.440, 349.062, 52]
+    level:    [125, 125]
+
+  17875104:
+    template: Tortured_Diremite
+    level:    [125, 125]
+    region:   sih_gates_ne_31
+
+  17875105:
+    template: Tortured_Diremite
+    level:    [125, 125]
+    region:   sih_gates_ne_31
+
+  17875106:
+    template: Tortured_Diremite
+    level:    [125, 125]
+    region:   sih_gates_ne_31
+
+  17875107:
+    template: Tortured_Diremite
+    level:    [125, 125]
+    region:   sih_gates_ne_31
+
+  17875108:
+    template: Tortured_Diremite
+    level:    [125, 125]
+    region:   sih_gates_ne_31
+
+  17875109:
+    template: Esurient_Bat
+    level:    [119, 122]
+    region:   sih_gates_ne_31
+
+  17875110:
+    template: Tortured_Diremite
+    level:    [125, 125]
+    region:   sih_gates_ne_32
+
+  17875111:
+    template: Tortured_Diremite
+    level:    [125, 125]
+    region:   sih_gates_ne_32
+
+  17875112:
+    template: Esurient_Bat
+    level:    [119, 122]
+    region:   sih_gates_ne_32
+
+  17875113:
+    template: Esurient_Bat
+    level:    [119, 122]
+    region:   sih_gates_ne_26
+
+  17875114:
+    template: Esurient_Bat
+    level:    [119, 122]
+    region:   sih_gates_ne_28
+
+  17875115:
+    template: Esurient_Bat
+    level:    [119, 122]
+    region:   sih_gates_ne_28
+
+  17875116:
+    template: Tortured_Diremite
+    level:    [125, 125]
+    region:   sih_gates_ne_30
+
+  17875117:
+    template: Esurient_Bat
+    level:    [119, 122]
+    region:   sih_gates_ne_30
+
+  17875118:
+    template: Lyngbakr
+    level:    [119, 122]
+    region:   sih_gates_ne_17
+
+  17875119:
+    template: Lyngbakr
+    level:    [119, 122]
+    region:   sih_gates_e
+
+  17875120:
+    template: Lyngbakr
+    level:    [119, 122]
+    region:   sih_gates_e
+
+  17875121:
+    template: Lyngbakr
+    level:    [119, 122]
+    region:   sih_gates_ne_8
+
+  17875122:
+    template: Lyngbakr
+    level:    [119, 122]
+    region:   sih_gates_ne_13
+
+  17875123:
+    template: Choleric_Umbril
+    level:    [119, 122]
+    region:   sih_gates_ne_7
+
+  17875124:
+    template: Choleric_Umbril
+    level:    [119, 122]
+    region:   sih_gates_ne_4
+
+  17875125:
+    template: Unrelenting_Dullahan
+    level:    [119, 122]
+    region:   sih_gates_ne_4
+
+  17875126:
+    template: Choleric_Umbril
+    level:    [119, 122]
+    region:   sih_gates_ne_10
+
+  17875127:
+    template: Unrelenting_Dullahan
+    level:    [119, 122]
+    region:   sih_gates_ne_10
+
+  17875128:
+    template: Unrelenting_Dullahan
+    level:    [119, 122]
+    region:   sih_gates_ne_11
+
+  17875129:
+    template: Unrelenting_Dullahan
+    level:    [119, 122]
+    region:   sih_gates_ne_11
+
+  17875130:
+    template: Unrelenting_Dullahan
+    level:    [119, 122]
+    region:   sih_gates_ne_12
+
+  17875131:
+    template: Choleric_Umbril
+    level:    [119, 122]
+    region:   sih_gates_ne_12
+
+  17875132:
+    template: Choleric_Umbril
+    level:    [119, 122]
+    region:   sih_gates_ne_9
+
+  17875133:
+    template: Choleric_Umbril
+    level:    [119, 122]
+    region:   sih_gates_ne_10
+
+  17875134:
+    template: Choleric_Umbril
+    level:    [119, 122]
+    region:   sih_gates_ne_2
+
+  17875135:
+    template: Choleric_Umbril
+    level:    [119, 122]
+    region:   sih_gates_ne_2
+
+  17875136:
+    template: Unrelenting_Dullahan
+    level:    [119, 122]
+    region:   sih_gates_ne_2
+
+  17875137:
+    template: Choleric_Umbril
+    level:    [119, 122]
+    region:   sih_gates_ne_3
+
+  17875138:
+    template: Snapping_Craklaw
+    at:       [269.170, -10.690, 473.360, 149]
+    level:    [119, 122]
+
+  17875139:
+    template: Flitting_Bee
+    at:       [283.950, -10.590, 480.122, 41]
+    level:    [119, 122]
+
+  17875140:
+    template: Flitting_Bee
+    at:       [271.480, -10.120, 493.207, 1]
+    level:    [119, 122]
+
+  17875141:
+    template: Snapping_Craklaw
+    at:       [294.470, -10.800, 500.748, 68]
+    level:    [119, 122]
+
+  17875142:
+    template: Snapping_Craklaw
+    at:       [285.370, -10.330, 500.580, 150]
+    level:    [119, 122]
+
+  17875143:
+    template: Flitting_Bee
+    at:       [271.280, -10.030, 517.669, 67]
+    level:    [119, 122]
+
+  17875144:
+    template: Flitting_Bee
+    at:       [179.030, -11.240, 414.127, 190]
+    level:    [119, 122]
+
+  17875145:
+    template: Snapping_Craklaw
+    at:       [208.220, -10.390, 381.358, 96]
+    level:    [119, 122]
+
+  17875146:
+    template: Flitting_Bee
+    at:       [207.680, -10.250, 379.832, 194]
+    level:    [119, 122]
+
+  17875147:
+    template: Flitting_Bee
+    at:       [178.210, -9.494, 384.925, 129]
+    level:    [119, 122]
+
+  17875148:
+    template: Flitting_Bee
+    at:       [180.370, -9.588, 384.700, 3]
+    level:    [119, 122]
+
+  17875149:
+    template: Flitting_Bee
+    at:       [175.010, -9.581, 390.350, 61]
+    level:    [119, 122]
+
+  17875150:
+    template: Flitting_Bee
+    at:       [187.700, -11.210, 399.636, 254]
+    level:    [119, 122]
+
+  17875151:
+    template: Snapping_Craklaw
+    at:       [222.730, -10.570, 400.704, 86]
+    level:    [119, 122]
+
+  17875152:
+    template: Snapping_Craklaw
+    at:       [220.530, -9.975, 394.023, 219]
+    level:    [119, 122]
+
+  17875153:
+    template: Snapping_Craklaw
+    at:       [217.130, -10.790, 396.683, 80]
+    level:    [119, 122]
+
+  17875154:
+    template: Flitting_Bee
+    at:       [198.720, -10.430, 420.509, 131]
+    level:    [119, 122]
+
+  17875155:
+    template: Flitting_Bee
+    at:       [220.220, -10.280, 431.878, 151]
+    level:    [119, 122]
+
+  17875156:
+    template: Snapping_Craklaw
+    at:       [230.260, -10.480, 415.153, 184]
+    level:    [119, 122]
+
+  17875157:
+    template: Tortured_Diremite
+    level:    [125, 125]
+    region:   sih_gates_n
+
+  17875158:
+    template: Esurient_Bat
+    level:    [119, 122]
+    region:   sih_gates_ne
+
+  17875159:
+    template: Tortured_Diremite
+    level:    [125, 125]
+    region:   sih_gates_n
+
+  17875160:
+    template: Tortured_Diremite
+    level:    [125, 125]
+    region:   sih_gates_n
+
+  17875161:
+    template: Esurient_Bat
+    level:    [119, 122]
+    region:   sih_gates_n
+
+  17875162:
+    template: Tortured_Diremite
+    level:    [125, 125]
+    region:   sih_gates_n
+
+  17875163:
+    template: Tortured_Diremite
+    level:    [125, 125]
+    region:   sih_gates_n
+
+  17875164:
+    template: Esurient_Bat
+    level:    [119, 122]
+    region:   sih_gates_n
+
+  17875165:
+    template: Tortured_Diremite
+    level:    [125, 125]
+    region:   sih_gates_n
+
+  17875166:
+    template: Tortured_Diremite
+    level:    [125, 125]
+    region:   sih_gates_n
+
+  17875167:
+    template: Esurient_Bat
+    level:    [119, 122]
+    region:   sih_gates_n
+
+  17875168:
+    template: Esurient_Bat
+    level:    [119, 122]
+    region:   sih_gates_n
+
+  17875169:
+    template: Tortured_Diremite
+    level:    [125, 125]
+    region:   sih_gates_n
+
+  17875170:
+    template: Tortured_Diremite
+    level:    [125, 125]
+    region:   sih_gates_n
+
+  17875171:
+    template: Esurient_Bat
+    level:    [119, 122]
+    region:   sih_gates_n
+
+  17875172:
+    template: Furious_Arundmite
+    at:       [239.910, -10.500, 238.677, 143]
+    level:    [119, 122]
+
+  17875173:
+    template: Apex_Leech
+    level:    [125, 127]
+    region:   sih_gates_s
+
+  17875174:
+    template: Apex_Leech
+    level:    [125, 127]
+    region:   sih_gates_s
+
+  17875175:
+    template: Apex_Leech
+    level:    [125, 127]
+    region:   sih_gates_s
+
+  17875176:
+    template: Apex_Leech
+    level:    [125, 127]
+    region:   sih_gates_s
+
+  17875177:
+    template: Apex_Chapuli
+    level:    [125, 127]
+    region:   sih_gates_s
+
+  17875178:
+    template: Apex_Chapuli
+    level:    [125, 127]
+    region:   sih_gates_s
+
+  17875179:
+    template: Apex_Chapuli
+    level:    [125, 127]
+    region:   sih_gates_s
+
+  17875180:
+    template: Apex_Chapuli
+    level:    [125, 127]
+    region:   sih_gates_s
+
+  17875181:
+    template: Apex_Leech
+    level:    [125, 127]
+    region:   sih_gates_s_2
+
+  17875182:
+    template: Apex_Leech
+    level:    [125, 127]
+    region:   sih_gates_s_2
+
+  17875183:
+    template: Apex_Leech
+    level:    [125, 127]
+    region:   sih_gates_s_2
+
+  17875184:
+    template: Apex_Leech
+    level:    [125, 127]
+    region:   sih_gates_s_2
+
+  17875185:
+    template: Apex_Chapuli
+    level:    [125, 127]
+    region:   sih_gates_s_2
+
+  17875186:
+    template: Apex_Chapuli
+    level:    [125, 127]
+    region:   sih_gates_s_2
+
+  17875187:
+    template: Apex_Chapuli
+    level:    [125, 127]
+    region:   sih_gates_s_2
+
+  17875188:
+    template: Apex_Chapuli
+    level:    [125, 127]
+    region:   sih_gates_s_2
+
+  17875189:
+    template: Apex_Mandragora
+    at:       [77.775, 0.661, -181.440, 145]
+    level:    [125, 127]
+
+  17875190:
+    template: Apex_Mandragora
+    at:       [89.615, -0.301, -179.080, 43]
+    level:    [125, 127]
+
+  17875191:
+    template: Apex_Mandragora
+    at:       [82.375, 0.240, -185.280, 90]
+    level:    [125, 127]
+
+  17875192:
+    template: Apex_Mandragora
+    at:       [84.054, 0.713, -177.170, 20]
+    level:    [125, 127]
+
+  17875193:
+    template: Apex_Mandragora
+    at:       [97.474, -0.814, -168.080, 171]
+    level:    [125, 127]
+
+  17875194:
+    template: Apex_Mandragora
+    at:       [100.890, -0.521, -168.680, 196]
+    level:    [125, 127]
+
+  17875195:
+    template: Apex_Mandragora
+    at:       [95.179, -0.861, -177.420, 63]
+    level:    [125, 127]
+
+  17875196:
+    template: Apex_Mandragora
+    at:       [95.745, -0.787, -177.160, 74]
+    level:    [125, 127]
+
+  17875197:
+    template: Pungent_Fungus
+    at:       [98.068, -0.870, -171.070, 84]
+    level:    [1, 1]
+
+  17875198:
+    template: Apex_Mandragora
+    at:       [17.461, -0.758, -265.610, 12]
+    level:    [125, 127]
+
+  17875199:
+    template: Apex_Mandragora
+    at:       [23.990, -0.853, -269.750, 210]
+    level:    [125, 127]
+
+  17875200:
+    template: Apex_Mandragora
+    at:       [14.793, 0.138, -275.430, 127]
+    level:    [125, 127]
+
+  17875201:
+    template: Apex_Mandragora
+    at:       [17.704, -0.823, -266.200, 231]
+    level:    [125, 127]
+
+  17875202:
+    template: Apex_Mandragora
+    at:       [17.113, 0.417, -278.660, 126]
+    level:    [125, 127]
+
+  17875203:
+    template: Apex_Mandragora
+    at:       [19.777, 0.633, -280.290, 9]
+    level:    [125, 127]
+
+  17875204:
+    template: Apex_Mandragora
+    at:       [24.680, -0.865, -292.960, 60]
+    level:    [125, 127]
+
+  17875205:
+    template: Apex_Mandragora
+    at:       [16.642, 0.402, -278.910, 152]
+    level:    [125, 127]
+
+  17875206:
+    template: Pungent_Fungus
+    at:       [24.694, 0.250, -282.470, 104]
+    level:    [1, 1]
+
+  17875207:
+    template: Apex_Leech
+    at:       [97.668, -0.958, -227.450, 102]
+    level:    [125, 127]
+
+  17875208:
+    template: Apex_Leech
+    at:       [101.860, 0.220, -218.230, 70]
+    level:    [125, 127]
+
+  17875209:
+    template: Apex_Leech
+    at:       [103.340, -0.035, -217.200, 158]
+    level:    [125, 127]
+
+  17875210:
+    template: Apex_Leech
+    at:       [93.893, -0.574, -222.760, 158]
+    level:    [125, 127]
+
+  17875211:
+    template: Apex_Leech
+    at:       [99.634, -0.639, -226.330, 97]
+    level:    [125, 127]
+
+  17875212:
+    template: Apex_Leech
+    level:    [125, 127]
+    region:   sih_gates_s_5
+
+  17875213:
+    template: Apex_Leech
+    level:    [125, 127]
+    region:   sih_gates_s_5
+
+  17875214:
+    template: Apex_Leech
+    level:    [125, 127]
+    region:   sih_gates_s_5
+
+  17875215:
+    template: Apex_Chapuli
+    level:    [125, 127]
+    region:   sih_gates_s_5
+
+  17875216:
+    template: Apex_Chapuli
+    level:    [125, 127]
+    region:   sih_gates_s_5
+
+  17875217:
+    template: Apex_Chapuli
+    level:    [125, 127]
+    region:   sih_gates_s_5
+
+  17875218:
+    template: Apex_Jagil
+    level:    [125, 127]
+    region:   sih_gates_s_5
+
+  17875219:
+    template: Apex_Jagil
+    level:    [125, 127]
+    region:   sih_gates_s_5
+
+  17875220:
+    template: Apex_Jagil
+    level:    [125, 127]
+    region:   sih_gates_s_5
+
+  17875221:
+    template: Apex_Leech
+    level:    [125, 127]
+    region:   sih_gates_s_6
+
+  17875222:
+    template: Apex_Leech
+    level:    [125, 127]
+    region:   sih_gates_s_6
+
+  17875223:
+    template: Apex_Leech
+    level:    [125, 127]
+    region:   sih_gates_s_6
+
+  17875224:
+    template: Apex_Chapuli
+    level:    [125, 127]
+    region:   sih_gates_s_6
+
+  17875225:
+    template: Apex_Chapuli
+    level:    [125, 127]
+    region:   sih_gates_s_6
+
+  17875226:
+    template: Apex_Chapuli
+    level:    [125, 127]
+    region:   sih_gates_s_6
+
+  17875227:
+    template: Apex_Jagil
+    level:    [125, 127]
+    region:   sih_gates_s_6
+
+  17875228:
+    template: Apex_Jagil
+    level:    [125, 127]
+    region:   sih_gates_s_6
+
+  17875229:
+    template: Apex_Jagil
+    level:    [125, 127]
+    region:   sih_gates_s_6
+
+  17875230:
+    template: Apex_Jagil
+    level:    [125, 127]
+    region:   sih_gates_s_7
+
+  17875231:
+    template: Apex_Jagil
+    level:    [125, 127]
+    region:   sih_gates_s_7
+
+  17875232:
+    template: Apex_Jagil
+    level:    [125, 127]
+    region:   sih_gates_s_7
+
+  17875233:
+    template: Apex_Jagil
+    level:    [125, 127]
+    region:   sih_gates_s_7

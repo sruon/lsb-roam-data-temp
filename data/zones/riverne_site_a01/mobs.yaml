@@ -1,0 +1,1123 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  16900097:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_se_5
+
+  16900098:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_se_5
+
+  16900099:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_se_5
+
+  16900100:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_se_5
+
+  16900101:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_se_5
+
+  16900102:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_se_5
+
+  16900103:
+    template: Hippogryph
+    level:    [40, 42]
+    region:   riverne_site_a01_se_5
+
+  16900104:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_se_7
+
+  16900105:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_se_7
+
+  16900106:
+    template: Hippogryph
+    at:       [718.960, -3.951, -681.144, 143]
+    level:    [40, 42]
+
+  16900107:
+    template: Hippogryph
+    at:       [749.724, 47.771, -871.226, 250]
+    level:    [40, 42]
+
+  16900108:
+    template: Hippogryph
+    at:       [736.205, 47.979, -859.131, 223]
+    level:    [40, 42]
+
+  16900109:
+    template: Hippogryph
+    at:       [727.484, 47.644, -874.848, 53]
+    level:    [40, 42]
+
+  16900110:
+    template: Heliodromos
+    level:    [45, 45]
+    region:   riverne_site_a01_se_6
+
+  16900111:
+    template: Heliodromos
+    level:    [45, 45]
+    region:   riverne_site_a01_se_6
+
+  16900112:
+    template: Heliodromos
+    level:    [45, 45]
+    region:   riverne_site_a01_se_6
+
+  16900113:
+    template: Air_Elemental
+    at:       [583.142, 19.015, -784.222, 231]
+    level:    [44, 47]
+
+  16900114:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_se_4
+
+  16900115:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_se_4
+
+  16900116:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_se_4
+
+  16900117:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_se_4
+
+  16900118:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_se_4
+
+  16900119:
+    template: Hippogryph
+    level:    [40, 42]
+    region:   riverne_site_a01_se_4
+
+  16900120:
+    template: Hippogryph
+    level:    [40, 42]
+    region:   riverne_site_a01_se_4
+
+  16900121:
+    template: Air_Elemental
+    at:       [447.379, 39.740, -861.050, 252]
+    level:    [44, 47]
+
+  16900122:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_se_3
+
+  16900123:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_se_3
+
+  16900124:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_se_3
+
+  16900125:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_se_3
+
+  16900126:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_se_3
+
+  16900127:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_se_3
+
+  16900128:
+    template: Hippogryph
+    level:    [40, 42]
+    region:   riverne_site_a01_se_3
+
+  16900129:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_se_2
+
+  16900130:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_se_2
+
+  16900131:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_se_2
+
+  16900132:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_se
+
+  16900133:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_se
+
+  16900134:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_se
+
+  16900135:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_s_3
+
+  16900136:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_s_3
+
+  16900137:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_s_3
+
+  16900138:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_s_3
+
+  16900139:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_s_3
+
+  16900140:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_s_3
+
+  16900141:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_s_3
+
+  16900142:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_s_3
+
+  16900143:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_ne_7
+
+  16900144:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_ne_7
+
+  16900145:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_ne_7
+
+  16900146:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_ne_7
+
+  16900147:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_ne_7
+
+  16900148:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_ne_7
+
+  16900149:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_ne_7
+
+  16900150:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_ne_7
+
+  16900151:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_ne_7
+
+  16900152:
+    template: Hippogryph
+    level:    [40, 42]
+    region:   riverne_site_a01_ne_7
+
+  16900153:
+    template: Hippogryph
+    level:    [40, 42]
+    region:   riverne_site_a01_ne_7
+
+  16900154:
+    template: Hippogryph
+    at:       [609.810, -0.351, 470.194, 119]
+    level:    [40, 42]
+
+  16900155:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_ne_5
+
+  16900156:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_ne_5
+
+  16900157:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_ne_5
+
+  16900158:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_ne_5
+
+  16900159:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_ne_5
+
+  16900160:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_ne_5
+
+  16900161:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_ne_5
+
+  16900162:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_ne_5
+
+  16900163:
+    template: Firedrake
+    level:    [41, 43]
+    region:   riverne_site_a01_ne_5
+
+  16900164:
+    template: Firedrake
+    level:    [41, 43]
+    region:   riverne_site_a01_ne_5
+
+  16900165:
+    template: Firedrake
+    level:    [41, 43]
+    region:   riverne_site_a01_ne_5
+
+  16900166:
+    template: Hippogryph
+    level:    [40, 42]
+    region:   riverne_site_a01_ne_6
+
+  16900167:
+    template: Hippogryph
+    level:    [40, 42]
+    region:   riverne_site_a01_ne_5
+
+  16900168:
+    template: Firedrake
+    level:    [41, 43]
+    region:   riverne_site_a01_ne_4
+
+  16900169:
+    template: Firedrake
+    level:    [41, 43]
+    region:   riverne_site_a01_ne_4
+
+  16900170:
+    template: Firedrake
+    level:    [41, 43]
+    region:   riverne_site_a01_ne_4
+
+  16900171:
+    template: Firedrake
+    level:    [41, 43]
+    region:   riverne_site_a01_ne_4
+
+  16900172:
+    template: Firedrake
+    level:    [41, 43]
+    region:   riverne_site_a01_ne_4
+
+  16900173:
+    template: Firedrake
+    level:    [41, 43]
+    region:   riverne_site_a01_ne_4
+
+  16900174:
+    template: Hippogryph
+    level:    [40, 42]
+    region:   riverne_site_a01_ne_4
+
+  16900175:
+    template: Thunder_Elemental
+    level:    [44, 47]
+    region:   riverne_site_a01_ne_4
+
+  16900176:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_ne_3
+
+  16900177:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_ne_3
+
+  16900178:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_ne_3
+
+  16900179:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_ne_3
+
+  16900180:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_ne_3
+
+  16900181:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_ne_3
+
+  16900182:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_ne_3
+
+  16900183:
+    template: Firedrake
+    level:    [41, 43]
+    region:   riverne_site_a01_ne_3
+
+  16900184:
+    template: Firedrake
+    level:    [41, 43]
+    region:   riverne_site_a01_ne_3
+
+  16900185:
+    template: Firedrake
+    level:    [41, 43]
+    region:   riverne_site_a01_ne_3
+
+  16900186:
+    template: Hippogryph
+    level:    [40, 42]
+    region:   riverne_site_a01_ne_3
+
+  16900187:
+    template: Hippogryph
+    level:    [40, 42]
+    region:   riverne_site_a01_ne_3
+
+  16900188:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_n_11
+
+  16900189:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_n_11
+
+  16900190:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_n_11
+
+  16900191:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_n_11
+
+  16900192:
+    template: Riverne_Vulture
+    level:    [39, 42]
+    region:   riverne_site_a01_n_11
+
+  16900193:
+    template: Riverne_Vulture
+    at:       [250.737, -0.088, 394.535, 24]
+    level:    [39, 42]
+
+  16900194:
+    template: Firedrake
+    level:    [41, 43]
+    region:   riverne_site_a01_n_11
+
+  16900195:
+    template: Firedrake
+    level:    [41, 43]
+    region:   riverne_site_a01_n_11
+
+  16900196:
+    template: Firedrake
+    at:       [270.341, 1.806, 287.391, 152]
+    level:    [41, 43]
+
+  16900197:
+    template: Hippogryph
+    level:    [40, 42]
+    region:   riverne_site_a01_n_11
+
+  16900198:
+    template: Hippogryph
+    level:    [40, 42]
+    region:   riverne_site_a01_n_11
+
+  16900199:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_ne
+
+  16900200:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_ne
+
+  16900201:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_n_10
+
+  16900202:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_n_10
+
+  16900203:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_n_10
+
+  16900204:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_n_10
+
+  16900205:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_n_10
+
+  16900206:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_n_10
+
+  16900207:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_n_10
+
+  16900208:
+    template: Hawkertrap
+    level:    [38, 41]
+    region:   riverne_site_a01_n_10
+
+  16900209:
+    template: Thunder_Elemental
+    level:    [47, 50]
+    region:   riverne_site_a01_n_10
+
+  16900210:
+    template: Hippogryph
+    level:    [40, 42]
+    region:   riverne_site_a01_ne_2
+
+  16900211:
+    template: Hippogryph
+    level:    [40, 42]
+    region:   riverne_site_a01_ne_2
+
+  16900212:
+    template: Firedrake
+    level:    [41, 43]
+    region:   riverne_site_a01_n_10
+
+  16900213:
+    template: Firedrake
+    level:    [41, 43]
+    region:   riverne_site_a01_n_10
+
+  16900214:
+    template: Firedrake
+    level:    [41, 43]
+    region:   riverne_site_a01_n_10
+
+  16900215:
+    template: Firedrake
+    level:    [41, 43]
+    region:   riverne_site_a01_n_10
+
+  16900216:
+    template: Hawker
+    level:    [45, 48]
+    region:   riverne_site_a01_n_8
+
+  16900217:
+    template: Hawker
+    level:    [45, 48]
+    region:   riverne_site_a01_n_8
+
+  16900218:
+    template: Hawker
+    level:    [45, 48]
+    region:   riverne_site_a01_n_8
+
+  16900219:
+    template: Hawker
+    level:    [45, 48]
+    region:   riverne_site_a01_n_8
+
+  16900220:
+    template: Hawker
+    level:    [45, 48]
+    region:   riverne_site_a01_n_8
+
+  16900221:
+    template: Hawker
+    level:    [45, 48]
+    region:   riverne_site_a01_n_8
+
+  16900222:
+    template: Hawker
+    level:    [45, 48]
+    region:   riverne_site_a01_n_8
+
+  16900223:
+    template: Hawker
+    level:    [45, 48]
+    region:   riverne_site_a01_n_8
+
+  16900224:
+    template: Cloud_Hippogryph
+    level:    [45, 47]
+    region:   riverne_site_a01_n_8
+
+  16900225:
+    template: Cloud_Hippogryph
+    level:    [45, 47]
+    region:   riverne_site_a01_n_8
+
+  16900226:
+    template: Cloud_Hippogryph
+    level:    [45, 47]
+    region:   riverne_site_a01_n_8
+
+  16900227:
+    template: Atomic_Cluster
+    level:    [45, 48]
+    region:   riverne_site_a01_s_2
+
+  16900228:
+    template: Atomic_Cluster
+    level:    [45, 48]
+    region:   riverne_site_a01_s_2
+
+  16900229:
+    template: Flamedrake
+    level:    [47, 49]
+    region:   riverne_site_a01_s
+
+  16900230:
+    template: Carmine_Dobsonfly
+    level:    [44, 46]
+    region:   riverne_site_a01_s
+
+  16900231:
+    template: Carmine_Dobsonfly
+    level:    [44, 46]
+    region:   riverne_site_a01_s
+
+  16900232:
+    template: Carmine_Dobsonfly
+    level:    [44, 46]
+    region:   riverne_site_a01_s
+
+  16900233:
+    template: Carmine_Dobsonfly
+    level:    [44, 46]
+    region:   riverne_site_a01_s
+
+  16900234:
+    template: Carmine_Dobsonfly
+    level:    [44, 46]
+    region:   riverne_site_a01_s
+
+  16900235:
+    template: Carmine_Dobsonfly
+    level:    [44, 46]
+    region:   riverne_site_a01_s
+
+  16900236:
+    template: Carmine_Dobsonfly
+    level:    [44, 46]
+    region:   riverne_site_a01_s
+
+  16900237:
+    template: Carmine_Dobsonfly
+    level:    [44, 46]
+    region:   riverne_site_a01_s
+
+  16900238:
+    template: Carmine_Dobsonfly
+    level:    [44, 46]
+    region:   riverne_site_a01_s
+
+  16900239:
+    template: Carmine_Dobsonfly
+    level:    [44, 46]
+    region:   riverne_site_a01_s
+
+  16900240:
+    template: Air_Elemental
+    at:       [-371.064, 19.463, -662.991, 189]
+    level:    [47, 50]
+
+  16900241:
+    template: Atomic_Cluster
+    level:    [45, 48]
+    region:   riverne_site_a01_sw_4
+
+  16900242:
+    template: Atomic_Cluster
+    level:    [45, 48]
+    region:   riverne_site_a01_sw_4
+
+  16900243:
+    template: Atomic_Cluster
+    level:    [45, 48]
+    region:   riverne_site_a01_sw_4
+
+  16900244:
+    template: Atomic_Cluster
+    level:    [45, 48]
+    region:   riverne_site_a01_sw_4
+
+  16900245:
+    template: Atomic_Cluster
+    level:    [45, 48]
+    region:   riverne_site_a01_sw_4
+
+  16900246:
+    template: Flamedrake
+    level:    [47, 49]
+    region:   riverne_site_a01_sw_4
+
+  16900247:
+    template: Hawker
+    level:    [45, 48]
+    region:   riverne_site_a01_sw_4
+
+  16900248:
+    template: Hawker
+    level:    [45, 48]
+    region:   riverne_site_a01_sw_4
+
+  16900249:
+    template: Hawker
+    level:    [45, 48]
+    region:   riverne_site_a01_sw_4
+
+  16900250:
+    template: Hawker
+    at:       [-273.079, 19.868, -685.844, 183]
+    level:    [45, 48]
+
+  16900251:
+    template: Hawker
+    level:    [45, 48]
+    region:   riverne_site_a01_sw_4
+
+  16900252:
+    template: Hawker
+    level:    [45, 48]
+    region:   riverne_site_a01_sw_4
+
+  16900253:
+    template: Hawker
+    level:    [45, 48]
+    region:   riverne_site_a01_sw_4
+
+  16900254:
+    template: Hawker
+    level:    [45, 48]
+    region:   riverne_site_a01_sw_4
+
+  16900255:
+    template: Atomic_Cluster
+    at:       [-279.301, 0.742, -607.280, 218]
+    level:    [45, 48]
+
+  16900256:
+    template: Atomic_Cluster
+    at:       [-292.864, 0.694, -596.499, 118]
+    level:    [45, 48]
+
+  16900257:
+    template: Hawker
+    level:    [45, 48]
+    region:   riverne_site_a01_sw_3
+
+  16900258:
+    template: Hawker
+    level:    [45, 48]
+    region:   riverne_site_a01_sw_3
+
+  16900259:
+    template: Hawker
+    level:    [45, 48]
+    region:   riverne_site_a01_sw_3
+
+  16900260:
+    template: Hawker
+    level:    [45, 48]
+    region:   riverne_site_a01_sw_3
+
+  16900261:
+    template: Hawker
+    level:    [45, 48]
+    region:   riverne_site_a01_sw_3
+
+  16900262:
+    template: Hawker
+    level:    [45, 48]
+    region:   riverne_site_a01_sw_3
+
+  16900263:
+    template: Hawker
+    level:    [45, 48]
+    region:   riverne_site_a01_sw_3
+
+  16900264:
+    template: Air_Elemental
+    at:       [-599.991, 19.580, -595.206, 58]
+    level:    [47, 50]
+
+  16900265:
+    template: Cloud_Hippogryph
+    level:    [45, 47]
+    region:   riverne_site_a01_sw
+
+  16900266:
+    template: Cloud_Hippogryph
+    level:    [45, 47]
+    region:   riverne_site_a01_sw
+
+  16900267:
+    template: Cloud_Hippogryph
+    level:    [45, 47]
+    region:   riverne_site_a01_sw
+
+  16900268:
+    template: Cloud_Hippogryph
+    level:    [45, 47]
+    region:   riverne_site_a01_sw
+
+  16900269:
+    template: Cloud_Hippogryph
+    level:    [45, 47]
+    region:   riverne_site_a01_sw
+
+  16900270:
+    template: Hawker
+    level:    [45, 48]
+    region:   riverne_site_a01_sw_2
+
+  16900271:
+    template: Hawker
+    level:    [45, 48]
+    region:   riverne_site_a01_sw_2
+
+  16900272:
+    template: Hawker
+    level:    [45, 48]
+    region:   riverne_site_a01_w
+
+  16900273:
+    template: Hawker
+    level:    [45, 48]
+    region:   riverne_site_a01_w
+
+  16900274:
+    template: Hawker
+    level:    [45, 48]
+    region:   riverne_site_a01_w
+
+  16900275:
+    template: Atomic_Cluster
+    level:    [45, 48]
+    region:   riverne_site_a01_w_2
+
+  16900276:
+    template: Cloud_Hippogryph
+    level:    [45, 47]
+    region:   riverne_site_a01_w
+
+  16900277:
+    template: Darner
+    level:    [84, 85]
+    region:   riverne_site_a01_n_5
+
+  16900278:
+    template: Darner
+    level:    [84, 85]
+    region:   riverne_site_a01_n_5
+
+  16900279:
+    template: Darner
+    level:    [84, 85]
+    region:   riverne_site_a01_n_5
+
+  16900280:
+    template: Darner
+    level:    [84, 85]
+    region:   riverne_site_a01_n_5
+
+  16900281:
+    template: Darner
+    level:    [84, 85]
+    region:   riverne_site_a01_n_2
+
+  16900282:
+    template: Darner
+    level:    [84, 85]
+    region:   riverne_site_a01_n_2
+
+  16900283:
+    template: Darner
+    level:    [84, 85]
+    region:   riverne_site_a01_n_2
+
+  16900284:
+    template: Darner
+    level:    [84, 85]
+    region:   riverne_site_a01_n
+
+  16900285:
+    template: Darner
+    level:    [84, 85]
+    region:   riverne_site_a01_n
+
+  16900286:
+    template: Darner
+    level:    [84, 85]
+    region:   riverne_site_a01_n
+
+  16900287:
+    template: Darner
+    level:    [84, 85]
+    region:   riverne_site_a01_n
+
+  16900288:
+    template: Darner
+    level:    [84, 85]
+    region:   riverne_site_a01_n
+
+  16900289:
+    template: Darner
+    level:    [84, 85]
+    region:   riverne_site_a01_n
+
+  16900290:
+    template: Darner
+    level:    [84, 85]
+    region:   riverne_site_a01_n_3
+
+  16900291:
+    template: Darner
+    level:    [84, 85]
+    region:   riverne_site_a01_n_3
+
+  16900292:
+    template: Darner
+    level:    [84, 85]
+    region:   riverne_site_a01_n_3
+
+  16900293:
+    template: Darner
+    level:    [84, 85]
+    region:   riverne_site_a01_n_3
+
+  16900294:
+    template: Darner
+    level:    [84, 85]
+    region:   riverne_site_a01_n_3
+
+  16900295:
+    template: Darner
+    level:    [84, 85]
+    region:   riverne_site_a01_n_6
+
+  16900296:
+    template: Darner
+    level:    [84, 85]
+    region:   riverne_site_a01_n_6
+
+  16900297:
+    template: Darner
+    level:    [84, 85]
+    region:   riverne_site_a01_n_6
+
+  16900298:
+    template: Darner
+    at:       [-124.034, -0.006, 648.285, 81]
+    level:    [84, 85]
+
+  16900299:
+    template: Atomic_Cluster
+    level:    [45, 48]
+    region:   riverne_site_a01_n_9
+
+  16900300:
+    template: Atomic_Cluster
+    level:    [45, 48]
+    region:   riverne_site_a01_n_9
+
+  16900301:
+    template: Flamedrake
+    level:    [47, 49]
+    region:   riverne_site_a01_n_4
+
+  16900302:
+    template: Flamedrake
+    level:    [47, 49]
+    region:   riverne_site_a01_n_4
+
+  16900303:
+    template: Flamedrake
+    level:    [47, 49]
+    region:   riverne_site_a01_n_4
+
+  16900304:
+    template: Flamedrake
+    level:    [47, 49]
+    region:   riverne_site_a01_n_4
+
+  16900305:
+    template: Flamedrake
+    level:    [47, 49]
+    region:   riverne_site_a01_n_4
+
+  16900306:
+    template: Aiatar
+    at:       [-81.967, 0.246, 751.067, 180]
+    level:    [51, 52]
+
+  16900307:
+    template: Thunder_Elemental
+    level:    [47, 50]
+    region:   riverne_site_a01_n_4
+
+  16900308:
+    template: Atomic_Cluster
+    level:    [45, 48]
+    region:   riverne_site_a01_n_7
+
+  16900309:
+    template: Atomic_Cluster
+    level:    [45, 48]
+    region:   riverne_site_a01_n_7
+
+  16900310:
+    template: Atomic_Cluster
+    level:    [45, 48]
+    region:   riverne_site_a01_n_7
+
+  16900311:
+    template: Atomic_Cluster
+    level:    [45, 48]
+    region:   riverne_site_a01_n_7
+
+  16900312:
+    template: Water_Elemental
+    at:       [9.270, 75.830, -721.020, 0]
+    level:    [72, 73]
+
+  16900313:
+    template: Earth_Elemental
+    at:       [-0.280, 76.340, -737.490, 41]
+    level:    [72, 73]
+
+  16900314:
+    template: Ouryu
+    at:       [18.670, 76.180, -740.650, 224]
+    level:    [90, 90]
+
+  16900315:
+    template: Ziryu
+    at:       [-8.300, 75.828, -757.276, 100]
+    level:    [72, 74]
+
+  16900316:
+    template: Ziryu
+    at:       [0.680, 76.098, -728.375, 143]
+    level:    [72, 74]
+
+  16900317:
+    template: Ziryu
+    at:       [20.744, 76.462, -756.730, 229]
+    level:    [72, 74]
+
+  16900318:
+    template: Ziryu
+    at:       [52.704, 76.034, -713.611, 109]
+    level:    [72, 74]
+
+  16900319:
+    template: Arcane_Phantasm
+    at:       [-727.863, -43.951, -304.650, 239]
+    level:    [44, 45]
+
+  16900320:
+    template: Shieldtrap
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [39, 44]

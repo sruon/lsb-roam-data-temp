@@ -1,0 +1,2983 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17494017:
+    template: Hell_Hound
+    at:       [256.397, -32.500, 132.987, 20]
+    level:    [64, 66]
+
+  17494018:
+    template: Hell_Hound
+    at:       [225.848, -32.500, 140.584, 255]
+    level:    [64, 66]
+
+  17494019:
+    template: Hell_Hound
+    at:       [129.121, -32.500, 139.478, 127]
+    level:    [64, 66]
+
+  17494020:
+    template: Hell_Hound
+    at:       [110.194, -32.500, 140.157, 223]
+    level:    [64, 66]
+
+  17494021:
+    template: Hell_Hound
+    at:       [61.704, -32.500, 92.122, 95]
+    level:    [64, 66]
+
+  17494022:
+    template: Hell_Hound
+    level:    [64, 66]
+    region:   the_eldieme_necropolis_s_c_2
+
+  17494023:
+    template: Hell_Hound
+    at:       [61.186, -32.500, -17.237, 56]
+    level:    [64, 66]
+
+  17494024:
+    template: Hell_Hound
+    at:       [60.843, -32.500, -49.265, 159]
+    level:    [64, 66]
+
+  17494025:
+    template: Hell_Hound
+    at:       [103.914, -32.500, -91.949, 28]
+    level:    [64, 66]
+
+  17494026:
+    template: Hell_Hound
+    at:       [122.648, -32.500, -98.550, 129]
+    level:    [64, 66]
+
+  17494027:
+    template: Hell_Hound
+    at:       [217.915, -32.500, -98.676, 0]
+    level:    [64, 66]
+
+  17494028:
+    template: Hell_Hound
+    at:       [252.616, -32.500, -94.830, 95]
+    level:    [64, 66]
+
+  17494029:
+    template: Hell_Hound
+    level:    [64, 66]
+    region:   the_eldieme_necropolis_s_e_7
+
+  17494030:
+    template: Hell_Hound
+    level:    [64, 66]
+    region:   the_eldieme_necropolis_s_e
+
+  17494031:
+    template: Hell_Hound
+    level:    [64, 66]
+    region:   the_eldieme_necropolis_s_c_8
+
+  17494032:
+    template: Hell_Hound
+    level:    [64, 66]
+    region:   the_eldieme_necropolis_s_c_5
+
+  17494033:
+    template: Hell_Hound
+    level:    [64, 66]
+    region:   the_eldieme_necropolis_s_c_9
+
+  17494034:
+    template: Hell_Hound
+    level:    [64, 66]
+    region:   the_eldieme_necropolis_s_c_6
+
+  17494035:
+    template: Hell_Hound
+    level:    [64, 66]
+    region:   the_eldieme_necropolis_s_c_7
+
+  17494036:
+    template: Hell_Hound
+    level:    [64, 66]
+    region:   the_eldieme_necropolis_s_e_3
+
+  17494037:
+    template: Hell_Hound
+    level:    [64, 66]
+    region:   the_eldieme_necropolis_s_e_6
+
+  17494038:
+    template: Ignis_Djinn
+    at:       [184.224, -32.500, 89.299, 0]
+    level:    [68, 72]
+
+  17494039:
+    template: Ignis_Djinn
+    at:       [105.961, -32.500, 14.146, 126]
+    level:    [68, 72]
+
+  17494040:
+    template: Ignis_Djinn
+    at:       [181.845, -32.500, -50.960, 132]
+    level:    [68, 72]
+
+  17494041:
+    template: Lich
+    at:       [102.123, -33.307, 99.449, 33]
+    level:    [65, 69]
+
+  17494042:
+    template: Lost_Soul
+    at:       [98.422, -33.305, 99.980, 97]
+    level:    [65, 69]
+
+  17494043:
+    template: Lich
+    at:       [93.624, -32.465, 103.161, 223]
+    level:    [65, 69]
+
+  17494044:
+    template: Lost_Soul
+    at:       [106.698, -32.465, 96.632, 64]
+    level:    [65, 69]
+
+  17494045:
+    template: Lich
+    at:       [100.443, -32.932, -56.491, 194]
+    level:    [65, 69]
+
+  17494046:
+    template: Lost_Soul
+    at:       [100.429, -33.020, -63.663, 60]
+    level:    [65, 69]
+
+  17494047:
+    template: Lich
+    at:       [93.794, -32.500, -60.171, 191]
+    level:    [65, 69]
+
+  17494048:
+    template: Lost_Soul
+    at:       [96.710, -32.500, -66.475, 255]
+    level:    [65, 69]
+
+  17494049:
+    template: Orcish_Brawler
+    at:       [341.676, -32.500, -123.896, 128]
+    level:    [67, 69]
+
+  17494050:
+    template: Orcish_Chasseur
+    at:       [332.721, -32.500, -124.124, 152]
+    level:    [67, 69]
+
+  17494051:
+    template: Orcish_Cursemaker
+    at:       [341.590, -32.500, -123.754, 134]
+    level:    [67, 69]
+
+  17494052:
+    template: Orcish_Trooper
+    at:       [344.692, -32.500, -124.216, 185]
+    level:    [67, 69]
+
+  17494053:
+    template: Orcish_Brawler
+    at:       [341.441, -32.500, -155.395, 128]
+    level:    [67, 69]
+
+  17494054:
+    template: Orcish_Chasseur
+    at:       [346.829, -32.500, -151.696, 134]
+    level:    [67, 69]
+
+  17494055:
+    template: Orcish_Cursemaker
+    at:       [344.029, -32.500, -152.172, 198]
+    level:    [67, 69]
+
+  17494056:
+    template: Orcish_Trooper
+    at:       [335.401, -32.500, -154.661, 32]
+    level:    [67, 69]
+
+  17494057:
+    template: Orcish_Brawler
+    level:    [67, 69]
+    region:   the_eldieme_necropolis_s_e_14
+
+  17494058:
+    template: Orcish_Chasseur
+    level:    [67, 69]
+    region:   the_eldieme_necropolis_s_e_14
+
+  17494059:
+    template: Orcish_Cursemaker
+    level:    [67, 69]
+    region:   the_eldieme_necropolis_s_e_20
+
+  17494060:
+    template: Orcish_Trooper
+    level:    [67, 69]
+    region:   the_eldieme_necropolis_s_e_20
+
+  17494061:
+    template: Orcish_Brawler
+    level:    [67, 69]
+    region:   the_eldieme_necropolis_s_e_22
+
+  17494062:
+    template: Orcish_Chasseur
+    level:    [67, 69]
+    region:   the_eldieme_necropolis_s_e_22
+
+  17494063:
+    template: Northern_Spriggan
+    at:       [177.750, -9.500, 16.340, 89]
+    level:    [66, 69]
+
+  17494064:
+    template: Eastern_Spriggan
+    at:       [177.607, -9.500, 22.137, 182]
+    level:    [66, 69]
+
+  17494065:
+    template: Western_Spriggan
+    at:       [181.157, -9.500, 19.848, 158]
+    level:    [66, 69]
+
+  17494066:
+    template: Northern_Spriggan
+    at:       [299.590, -0.500, 67.911, 62]
+    level:    [66, 69]
+
+  17494067:
+    template: Eastern_Spriggan
+    at:       [290.738, -0.500, 59.674, 193]
+    level:    [66, 69]
+
+  17494068:
+    template: Northern_Spriggan
+    at:       [308.584, -0.500, 63.911, 60]
+    level:    [66, 69]
+
+  17494069:
+    template: Southern_Spriggan
+    at:       [300.291, -0.500, 59.601, 126]
+    level:    [66, 69]
+
+  17494070:
+    template: Western_Spriggan
+    at:       [291.028, -0.500, 55.181, 60]
+    level:    [66, 69]
+
+  17494071:
+    template: Northern_Spriggan
+    at:       [299.997, -0.500, -16.797, 62]
+    level:    [66, 69]
+
+  17494072:
+    template: Eastern_Spriggan
+    at:       [300.015, -0.500, -15.878, 63]
+    level:    [66, 69]
+
+  17494073:
+    template: Northern_Spriggan
+    at:       [305.298, -0.500, -20.272, 124]
+    level:    [66, 69]
+
+  17494074:
+    template: Southern_Spriggan
+    at:       [304.613, -0.500, -20.269, 0]
+    level:    [66, 69]
+
+  17494075:
+    template: Western_Spriggan
+    at:       [295.125, -0.500, -24.386, 196]
+    level:    [66, 69]
+
+  17494076:
+    template: Northern_Spriggan
+    at:       [337.669, -1.243, 19.699, 122]
+    level:    [66, 69]
+
+  17494077:
+    template: Western_Spriggan
+    at:       [340.217, -1.354, 17.898, 184]
+    level:    [66, 69]
+
+  17494078:
+    template: Eastern_Spriggan
+    at:       [303.767, 0.924, 25.844, 152]
+    level:    [66, 69]
+
+  17494079:
+    template: Western_Spriggan
+    at:       [301.087, -0.350, 19.949, 127]
+    level:    [66, 69]
+
+  17494080:
+    template: Northern_Spriggan
+    at:       [261.717, -1.383, 20.186, 27]
+    level:    [66, 69]
+
+  17494081:
+    template: Eastern_Spriggan
+    at:       [260.110, -1.440, 18.548, 55]
+    level:    [66, 69]
+
+  17494082:
+    template: Northern_Spriggan
+    at:       [337.461, -0.500, -12.708, 89]
+    level:    [66, 69]
+
+  17494083:
+    template: Eastern_Spriggan
+    at:       [261.242, -0.500, 1.660, 191]
+    level:    [66, 69]
+
+  17494084:
+    template: Southern_Spriggan
+    at:       [267.497, -0.500, 57.471, 95]
+    level:    [66, 69]
+
+  17494085:
+    template: Western_Spriggan
+    at:       [340.849, -0.500, 49.431, 192]
+    level:    [66, 69]
+
+  17494086:
+    template: Gazer
+    level:    [60, 62]
+    region:   the_eldieme_necropolis_s_ne_3
+
+  17494087:
+    template: Gazer
+    at:       [220.224, -16.487, 328.701, 193]
+    level:    [60, 62]
+
+  17494088:
+    template: Gazer
+    level:    [60, 62]
+    region:   the_eldieme_necropolis_s_ne_5
+
+  17494089:
+    template: Gazer
+    at:       [299.180, -29.328, 296.298, 52]
+    level:    [60, 62]
+
+  17494090:
+    template: Gazer
+    at:       [306.146, -32.500, 264.107, 31]
+    level:    [60, 62]
+
+  17494091:
+    template: Gazer
+    at:       [144.323, -15.838, 275.198, 95]
+    level:    [60, 62]
+
+  17494092:
+    template: Gazer
+    at:       [152.131, -15.508, 274.145, 234]
+    level:    [60, 62]
+
+  17494093:
+    template: Ethniu
+    at:       [153.554, -15.375, 286.063, 221]
+    level:    [80, 80]
+
+  17494094:
+    template: Gazer
+    at:       [172.433, -16.016, 285.993, 195]
+    level:    [60, 62]
+
+  17494095:
+    template: Gazer
+    at:       [164.515, -15.466, 271.294, 65]
+    level:    [60, 62]
+
+  17494096:
+    template: Goblin_Freesword
+    at:       [160.107, -15.500, 280.199, 231]
+    level:    [62, 64]
+
+  17494097:
+    template: Goblin_Blastmaster
+    at:       [154.101, -15.501, 281.010, 96]
+    level:    [62, 64]
+
+  17494098:
+    template: Goblin_Corpsman
+    at:       [161.561, -15.479, 285.722, 150]
+    level:    [62, 64]
+
+  17494099:
+    template: Goblin_Freesword
+    at:       [157.279, -15.500, 277.547, 97]
+    level:    [62, 64]
+
+  17494100:
+    template: Goblin_Blastmaster
+    at:       [171.925, -16.181, 286.861, 32]
+    level:    [62, 64]
+
+  17494101:
+    template: Goblin_Corpsman
+    at:       [164.781, -15.384, 274.082, 243]
+    level:    [62, 64]
+
+  17494102:
+    template: Goblin_Freesword
+    at:       [259.624, -24.500, 303.887, 64]
+    level:    [62, 64]
+
+  17494103:
+    template: Goblin_Blastmaster
+    at:       [251.790, -24.500, 299.369, 63]
+    level:    [62, 64]
+
+  17494104:
+    template: Goblin_Corpsman
+    at:       [267.758, -24.500, 298.801, 190]
+    level:    [62, 64]
+
+  17494105:
+    template: Goblin_Freesword
+    at:       [260.074, -24.500, 294.583, 186]
+    level:    [62, 64]
+
+  17494106:
+    template: Goblin_Blastmaster
+    at:       [259.128, -23.708, 259.871, 145]
+    level:    [62, 64]
+
+  17494107:
+    template: Goblin_Pioneer
+    level:    [62, 64]
+    region:   the_eldieme_necropolis_s_ne
+
+  17494108:
+    template: Goblin_Mine
+    level:    [58, 58]
+    region:   the_eldieme_necropolis_s_ne
+
+  17494109:
+    template: War_Smilodon
+    at:       [260.822, -24.087, 237.592, 191]
+    level:    [61, 64]
+
+  17494110:
+    template: War_Smilodon
+    level:    [61, 64]
+    region:   the_eldieme_necropolis_s_ne_6
+
+  17494111:
+    template: War_Smilodon
+    level:    [61, 64]
+    region:   the_eldieme_necropolis_s_ne_7
+
+  17494112:
+    template: War_Smilodon
+    at:       [340.507, -14.067, 188.243, 187]
+    level:    [61, 64]
+
+  17494113:
+    template: War_Smilodon
+    level:    [61, 64]
+    region:   the_eldieme_necropolis_s_e_21
+
+  17494114:
+    template: War_Smilodon
+    at:       [351.485, -2.035, 140.560, 25]
+    level:    [61, 64]
+
+  17494115:
+    template: War_Smilodon
+    at:       [254.627, -23.928, 259.735, 225]
+    level:    [61, 64]
+
+  17494116:
+    template: War_Smilodon
+    at:       [406.368, -0.366, 143.465, 219]
+    level:    [61, 64]
+
+  17494117:
+    template: War_Smilodon
+    at:       [421.043, -0.003, 133.088, 51]
+    level:    [61, 64]
+
+  17494118:
+    template: War_Smilodon
+    at:       [419.642, -0.349, 127.504, 6]
+    level:    [61, 64]
+
+  17494119:
+    template: War_Smilodon
+    at:       [417.224, -0.175, 111.487, 117]
+    level:    [61, 64]
+
+  17494120:
+    template: War_Smilodon
+    at:       [410.604, -0.220, 104.170, 193]
+    level:    [61, 64]
+
+  17494121:
+    template: War_Smilodon
+    at:       [404.549, -0.352, 100.995, 242]
+    level:    [61, 64]
+
+  17494122:
+    template: War_Smilodon
+    at:       [400.621, -0.449, 97.972, 61]
+    level:    [61, 64]
+
+  17494123:
+    template: War_Smilodon
+    at:       [404.788, -0.375, 136.693, 10]
+    level:    [61, 64]
+
+  17494124:
+    template: War_Smilodon
+    at:       [421.043, -0.097, 131.952, 135]
+    level:    [61, 64]
+
+  17494125:
+    template: War_Smilodon
+    at:       [410.105, -0.155, 101.863, 100]
+    level:    [61, 64]
+
+  17494126:
+    template: War_Smilodon
+    at:       [393.710, -0.305, 100.704, 19]
+    level:    [61, 64]
+
+  17494127:
+    template: War_Smilodon
+    level:    [61, 64]
+    region:   the_eldieme_necropolis_s_e_24
+
+  17494128:
+    template: War_Smilodon
+    level:    [61, 64]
+    region:   the_eldieme_necropolis_s_e_23
+
+  17494129:
+    template: War_Smilodon
+    at:       [378.937, -5.406, 55.156, 56]
+    level:    [61, 64]
+
+  17494130:
+    template: Revenant
+    at:       [279.926, -16.464, -216.391, 130]
+    level:    [68, 70]
+
+  17494131:
+    template: Revenant
+    at:       [289.302, -16.156, -217.628, 191]
+    level:    [68, 70]
+
+  17494132:
+    template: Revenant
+    at:       [302.288, -16.416, -243.313, 8]
+    level:    [68, 70]
+
+  17494133:
+    template: Hell_Hound
+    at:       [268.208, -16.497, -226.514, 13]
+    level:    [64, 66]
+
+  17494134:
+    template: Hell_Hound
+    at:       [288.459, -16.162, -221.576, 42]
+    level:    [64, 66]
+
+  17494135:
+    template: Laelaps
+    at:       [295.204, -16.004, -218.251, 148]
+    level:    [78, 78]
+
+  17494136:
+    template: Hell_Hound
+    at:       [296.256, -16.426, -239.112, 121]
+    level:    [64, 66]
+
+  17494137:
+    template: Hell_Hound
+    at:       [296.018, -16.425, -255.121, 116]
+    level:    [64, 66]
+
+  17494138:
+    template: Hell_Hound
+    at:       [279.403, -16.506, -226.461, 254]
+    level:    [64, 66]
+
+  17494139:
+    template: Hell_Hound
+    at:       [300.913, -15.876, -224.537, 176]
+    level:    [64, 66]
+
+  17494140:
+    template: Hell_Hound
+    at:       [303.398, -16.338, -255.760, 13]
+    level:    [64, 66]
+
+  17494141:
+    template: Hell_Hound
+    at:       [216.583, -0.497, -106.723, 32]
+    level:    [64, 66]
+
+  17494142:
+    template: Hell_Hound
+    at:       [221.107, -1.887, -130.623, 195]
+    level:    [64, 66]
+
+  17494143:
+    template: Hell_Hound
+    level:    [64, 66]
+    region:   the_eldieme_necropolis_s_e_8
+
+  17494144:
+    template: Hell_Hound
+    at:       [239.936, -16.358, -179.290, 138]
+    level:    [64, 66]
+
+  17494145:
+    template: Hell_Hound
+    at:       [257.870, -16.488, -173.985, 206]
+    level:    [64, 66]
+
+  17494146:
+    template: Hell_Hound
+    at:       [261.109, -16.253, -200.777, 64]
+    level:    [64, 66]
+
+  17494147:
+    template: Hell_Hound
+    at:       [263.217, -16.463, -252.503, 166]
+    level:    [64, 66]
+
+  17494148:
+    template: Hell_Hound
+    at:       [286.729, -16.495, -259.328, 249]
+    level:    [64, 66]
+
+  17494149:
+    template: Hell_Hound
+    at:       [324.340, -16.623, -259.379, 130]
+    level:    [64, 66]
+
+  17494150:
+    template: Hell_Hound
+    at:       [340.272, -22.146, -270.997, 52]
+    level:    [64, 66]
+
+  17494151:
+    template: Hell_Hound
+    at:       [339.958, -28.765, -300.395, 46]
+    level:    [64, 66]
+
+  17494152:
+    template: Hell_Hound
+    at:       [354.458, -32.426, -339.358, 127]
+    level:    [64, 66]
+
+  17494153:
+    template: Hell_Hound
+    at:       [371.830, -32.836, -342.286, 33]
+    level:    [64, 66]
+
+  17494154:
+    template: Hell_Hound
+    level:    [64, 66]
+    region:   the_eldieme_necropolis_s_se
+
+  17494155:
+    template: Hell_Hound
+    at:       [-97.403, -16.500, 294.472, 224]
+    level:    [64, 66]
+
+  17494156:
+    template: Hell_Hound
+    at:       [-58.789, -12.397, 267.746, 30]
+    level:    [64, 66]
+
+  17494157:
+    template: Hell_Hound
+    at:       [-26.245, -8.429, 262.443, 233]
+    level:    [64, 66]
+
+  17494158:
+    template: Hell_Hound
+    at:       [-21.204, -8.382, 245.074, 62]
+    level:    [64, 66]
+
+  17494159:
+    template: Hell_Hound
+    at:       [-20.331, -9.975, 290.153, 200]
+    level:    [64, 66]
+
+  17494160:
+    template: Hell_Hound
+    level:    [64, 66]
+    region:   the_eldieme_necropolis_s_n
+
+  17494161:
+    template: Revenant
+    at:       [-61.503, -16.500, 294.246, 54]
+    level:    [68, 70]
+
+  17494162:
+    template: Revenant
+    at:       [-67.637, -16.500, 305.934, 242]
+    level:    [68, 70]
+
+  17494163:
+    template: Revenant
+    at:       [-54.940, -16.500, 300.367, 83]
+    level:    [68, 70]
+
+  17494164:
+    template: Revenant
+    at:       [-52.498, -16.500, 293.707, 250]
+    level:    [68, 70]
+
+  17494165:
+    template: Lich
+    at:       [-14.092, -8.676, 223.821, 231]
+    level:    [65, 69]
+
+  17494166:
+    template: Lost_Soul
+    at:       [-22.080, -8.498, 220.142, 134]
+    level:    [65, 69]
+
+  17494167:
+    template: Lich
+    at:       [-22.478, -8.480, 214.764, 181]
+    level:    [65, 69]
+
+  17494168:
+    template: Lost_Soul
+    at:       [-26.023, -8.655, 215.237, 91]
+    level:    [65, 69]
+
+  17494169:
+    template: Northern_Spriggan
+    at:       [37.205, -15.874, 332.028, 243]
+    level:    [66, 69]
+
+  17494170:
+    template: Southern_Spriggan
+    at:       [33.184, -15.499, 319.118, 126]
+    level:    [66, 69]
+
+  17494171:
+    template: Western_Spriggan
+    at:       [31.567, -15.500, 319.413, 232]
+    level:    [66, 69]
+
+  17494172:
+    template: Northern_Spriggan
+    at:       [27.081, -16.076, 314.961, 68]
+    level:    [66, 69]
+
+  17494173:
+    template: Southern_Spriggan
+    at:       [45.826, -16.026, 331.345, 100]
+    level:    [66, 69]
+
+  17494174:
+    template: Eastern_Spriggan
+    at:       [50.190, -15.876, 329.836, 226]
+    level:    [66, 69]
+
+  17494175:
+    template: Eastern_Spriggan
+    at:       [46.945, -15.509, 308.028, 117]
+    level:    [66, 69]
+
+  17494176:
+    template: Western_Spriggan
+    at:       [44.359, -15.530, 307.799, 252]
+    level:    [66, 69]
+
+  17494177:
+    template: Lich
+    at:       [34.008, -15.506, 321.234, 93]
+    level:    [65, 69]
+
+  17494178:
+    template: Lost_Soul
+    at:       [29.297, -15.972, 326.580, 129]
+    level:    [65, 69]
+
+  17494179:
+    template: Lich
+    at:       [39.603, -15.492, 320.012, 219]
+    level:    [65, 69]
+
+  17494180:
+    template: Lost_Soul
+    at:       [31.750, -15.611, 319.977, 230]
+    level:    [65, 69]
+
+  17494181:
+    template: Lich
+    at:       [46.189, -16.093, 333.140, 160]
+    level:    [65, 69]
+
+  17494182:
+    template: Lost_Soul
+    at:       [50.551, -16.001, 327.836, 5]
+    level:    [65, 69]
+
+  17494183:
+    template: Lich
+    at:       [54.253, -15.874, 319.734, 195]
+    level:    [65, 69]
+
+  17494184:
+    template: Lost_Soul
+    at:       [46.967, -15.510, 313.410, 176]
+    level:    [65, 69]
+
+  17494185:
+    template: Revenant
+    at:       [140.204, 7.499, -120.949, 190]
+    level:    [68, 70]
+
+  17494186:
+    template: Revenant
+    at:       [140.129, 6.470, -125.905, 190]
+    level:    [68, 70]
+
+  17494187:
+    template: Revenant
+    at:       [149.609, 2.565, -138.591, 28]
+    level:    [68, 70]
+
+  17494188:
+    template: Revenant
+    at:       [173.662, -0.411, -139.247, 1]
+    level:    [68, 70]
+
+  17494189:
+    template: Revenant
+    at:       [174.265, -0.504, -112.265, 138]
+    level:    [68, 70]
+
+  17494190:
+    template: Revenant
+    at:       [173.158, -1.017, -87.090, 241]
+    level:    [68, 70]
+
+  17494191:
+    template: Revenant
+    at:       [179.535, -0.484, -168.011, 61]
+    level:    [68, 70]
+
+  17494192:
+    template: Revenant
+    at:       [180.856, -0.789, -186.706, 75]
+    level:    [68, 70]
+
+  17494193:
+    template: Revenant
+    at:       [175.193, -0.492, -191.972, 155]
+    level:    [68, 70]
+
+  17494194:
+    template: Revenant
+    at:       [179.712, -0.504, -180.844, 90]
+    level:    [68, 70]
+
+  17494195:
+    template: Revenant
+    at:       [179.090, -0.206, -176.096, 190]
+    level:    [68, 70]
+
+  17494196:
+    template: Lich
+    at:       [-11.023, 0.530, 42.277, 126]
+    level:    [65, 69]
+
+  17494197:
+    template: Lost_Soul
+    at:       [-10.857, -0.241, 53.216, 167]
+    level:    [65, 69]
+
+  17494198:
+    template: Lich
+    at:       [6.599, 0.499, 51.500, 167]
+    level:    [65, 69]
+
+  17494199:
+    template: Lost_Soul
+    at:       [7.346, 0.499, 46.645, 124]
+    level:    [65, 69]
+
+  17494200:
+    template: Lich
+    at:       [-10.577, 0.516, 35.276, 162]
+    level:    [65, 69]
+
+  17494201:
+    template: Lost_Soul
+    at:       [-0.724, 0.510, 36.929, 33]
+    level:    [65, 69]
+
+  17494202:
+    template: Lich
+    at:       [11.665, -0.015, 32.398, 66]
+    level:    [65, 69]
+
+  17494203:
+    template: Lost_Soul
+    at:       [11.500, 0.509, 40.636, 233]
+    level:    [65, 69]
+
+  17494204:
+    template: Ignis_Djinn
+    at:       [25.548, -0.507, -25.117, 18]
+    level:    [68, 72]
+
+  17494205:
+    template: Ignis_Djinn
+    at:       [20.714, -0.696, -14.670, 210]
+    level:    [68, 72]
+
+  17494206:
+    template: Ignis_Djinn
+    at:       [18.719, -0.518, -20.231, 155]
+    level:    [68, 72]
+
+  17494207:
+    template: Ignis_Djinn
+    at:       [18.664, -0.739, -12.650, 147]
+    level:    [68, 72]
+
+  17494208:
+    template: Ignis_Djinn
+    at:       [26.159, -0.506, -25.077, 246]
+    level:    [68, 72]
+
+  17494209:
+    template: Ignis_Djinn
+    at:       [22.509, -0.530, -17.422, 49]
+    level:    [68, 72]
+
+  17494210:
+    template: Ignis_Djinn
+    at:       [113.345, 8.468, -78.573, 253]
+    level:    [68, 72]
+
+  17494211:
+    template: Ignis_Djinn
+    at:       [124.918, 8.500, -77.407, 35]
+    level:    [68, 72]
+
+  17494212:
+    template: Ignis_Djinn
+    at:       [125.228, 8.500, -85.724, 193]
+    level:    [68, 72]
+
+  17494213:
+    template: Tethra
+    at:       [113.621, 8.584, -81.806, 54]
+    level:    [80, 80]
+
+  17494214:
+    template: Ignis_Djinn
+    at:       [120.322, 8.499, -83.217, 132]
+    level:    [68, 72]
+
+  17494215:
+    template: Ignis_Djinn
+    at:       [113.189, 8.480, -77.800, 255]
+    level:    [68, 72]
+
+  17494216:
+    template: Ignis_Djinn
+    at:       [119.961, 8.498, -76.667, 84]
+    level:    [68, 72]
+
+  17494217:
+    template: Ignis_Djinn
+    at:       [112.934, 8.449, -78.427, 212]
+    level:    [68, 72]
+
+  17494218:
+    template: Ignis_Djinn
+    at:       [125.771, 8.500, -83.915, 42]
+    level:    [68, 72]
+
+  17494219:
+    template: Ignis_Djinn
+    level:    [68, 72]
+    region:   the_eldieme_necropolis_s_c
+
+  17494220:
+    template: Ignis_Djinn
+    level:    [68, 72]
+    region:   the_eldieme_necropolis_s_c_3
+
+  17494221:
+    template: Lich
+    at:       [60.166, 0.113, 54.480, 237]
+    level:    [65, 69]
+
+  17494222:
+    template: Lost_Soul
+    at:       [53.117, 0.211, 62.961, 151]
+    level:    [65, 69]
+
+  17494223:
+    template: Lich
+    at:       [64.198, 0.145, 57.627, 226]
+    level:    [65, 69]
+
+  17494224:
+    template: Lost_Soul
+    at:       [56.195, 0.260, 57.826, 72]
+    level:    [65, 69]
+
+  17494225:
+    template: Lich
+    at:       [61.952, -3.500, 64.317, 208]
+    level:    [65, 69]
+
+  17494226:
+    template: Lost_Soul
+    at:       [57.341, -0.723, 21.413, 7]
+    level:    [65, 69]
+
+  17494227:
+    template: Lich
+    at:       [47.055, -1.943, 11.454, 69]
+    level:    [65, 69]
+
+  17494228:
+    template: Lost_Soul
+    at:       [67.695, -0.536, 24.250, 229]
+    level:    [65, 69]
+
+  17494229:
+    template: Lich
+    at:       [60.298, -0.771, 8.830, 118]
+    level:    [65, 69]
+
+  17494230:
+    template: Lost_Soul
+    at:       [47.597, -0.500, 24.746, 188]
+    level:    [65, 69]
+
+  17494231:
+    template: Lich
+    at:       [47.270, -1.480, 14.602, 69]
+    level:    [65, 69]
+
+  17494232:
+    template: Lost_Soul
+    at:       [68.554, -0.537, 23.575, 221]
+    level:    [65, 69]
+
+  17494233:
+    template: Lich
+    at:       [66.075, -0.800, 14.722, 137]
+    level:    [65, 69]
+
+  17494234:
+    template: Lost_Soul
+    at:       [17.329, -4.500, 57.488, 178]
+    level:    [65, 69]
+
+  17494235:
+    template: Lich
+    at:       [17.306, -4.500, 57.893, 80]
+    level:    [65, 69]
+
+  17494236:
+    template: Lost_Soul
+    at:       [67.803, -4.255, 136.782, 237]
+    level:    [65, 69]
+
+  17494237:
+    template: Lich
+    at:       [60.605, -1.579, 126.193, 191]
+    level:    [65, 69]
+
+  17494238:
+    template: Lost_Soul
+    at:       [100.559, -5.942, 110.450, 65]
+    level:    [65, 69]
+
+  17494239:
+    template: Lich
+    at:       [76.151, -0.420, 99.201, 128]
+    level:    [65, 69]
+
+  17494240:
+    template: Lost_Soul
+    at:       [60.883, -0.538, 74.214, 65]
+    level:    [65, 69]
+
+  17494241:
+    template: Lich
+    at:       [32.941, -2.041, 59.231, 124]
+    level:    [65, 69]
+
+  17494242:
+    template: Lost_Soul
+    at:       [1.242, 0.500, 36.686, 186]
+    level:    [65, 69]
+
+  17494243:
+    template: Lich
+    at:       [104.120, -11.500, 143.526, 201]
+    level:    [65, 69]
+
+  17494244:
+    template: Lost_Soul
+    at:       [102.879, -7.742, 139.064, 155]
+    level:    [65, 69]
+
+  17494245:
+    template: Lich
+    at:       [102.838, -7.750, 139.006, 160]
+    level:    [65, 69]
+
+  17494246:
+    template: Lost_Soul
+    at:       [100.429, -7.738, 140.093, 253]
+    level:    [65, 69]
+
+  17494247:
+    template: Lich
+    at:       [175.737, -0.546, 153.189, 152]
+    level:    [65, 69]
+
+  17494248:
+    template: Lost_Soul
+    at:       [173.592, -1.679, 131.032, 26]
+    level:    [65, 69]
+
+  17494249:
+    template: Lich
+    at:       [184.691, -0.780, 136.436, 194]
+    level:    [65, 69]
+
+  17494250:
+    template: Lost_Soul
+    at:       [183.309, -0.769, 138.118, 20]
+    level:    [65, 69]
+
+  17494251:
+    template: Lost_Soul
+    at:       [168.832, -0.506, 141.463, 99]
+    level:    [65, 69]
+
+  17494252:
+    template: Lich
+    at:       [173.429, -1.715, 134.104, 190]
+    level:    [65, 69]
+
+  17494253:
+    template: Lost_Soul
+    at:       [184.059, -0.780, 132.743, 131]
+    level:    [65, 69]
+
+  17494254:
+    template: Lich
+    at:       [184.690, -0.536, 148.242, 197]
+    level:    [65, 69]
+
+  17494255:
+    template: Lich
+    at:       [98.213, -15.927, 227.162, 130]
+    level:    [65, 69]
+
+  17494256:
+    template: Lost_Soul
+    at:       [99.497, -15.768, 224.607, 98]
+    level:    [65, 69]
+
+  17494257:
+    template: Lich
+    at:       [101.168, -15.957, 226.900, 215]
+    level:    [65, 69]
+
+  17494258:
+    template: Lost_Soul
+    at:       [102.003, -15.767, 219.453, 51]
+    level:    [65, 69]
+
+  17494259:
+    template: Lich
+    at:       [96.051, -19.500, 216.064, 248]
+    level:    [65, 69]
+
+  17494260:
+    template: Lost_Soul
+    at:       [58.689, -16.452, 271.579, 63]
+    level:    [65, 69]
+
+  17494261:
+    template: Lich
+    at:       [77.462, -16.339, 259.065, 127]
+    level:    [65, 69]
+
+  17494262:
+    template: Lost_Soul
+    at:       [111.889, -16.629, 258.507, 128]
+    level:    [65, 69]
+
+  17494263:
+    template: Lich
+    at:       [99.769, -16.525, 250.709, 192]
+    level:    [65, 69]
+
+  17494264:
+    template: Lost_Soul
+    at:       [99.081, -14.120, 188.144, 62]
+    level:    [65, 69]
+
+  17494265:
+    template: Lich
+    at:       [99.731, -9.088, 163.902, 193]
+    level:    [65, 69]
+
+  17494266:
+    template: Lost_Soul
+    at:       [130.411, -16.495, 217.310, 8]
+    level:    [65, 69]
+
+  17494267:
+    template: Lich
+    level:    [65, 69]
+    region:   the_eldieme_necropolis_s_n_3
+
+  17494268:
+    template: Lost_Soul
+    level:    [65, 69]
+    region:   the_eldieme_necropolis_s_ne_2
+
+  17494269:
+    template: Lich
+    level:    [65, 69]
+    region:   the_eldieme_necropolis_s_ne_4
+
+  17494270:
+    template: Lich
+    level:    [65, 69]
+    region:   the_eldieme_necropolis_s_n_2
+
+  17494271:
+    template: Lost_Soul
+    at:       [156.040, -9.198, 178.823, 125]
+    level:    [65, 69]
+
+  17494272:
+    template: Lich
+    at:       [178.113, -2.564, 172.240, 166]
+    level:    [65, 69]
+
+  17494273:
+    template: Earth_Elemental
+    level:    [70, 75]
+    region:   the_eldieme_necropolis_s_e
+
+  17494274:
+    template: Earth_Elemental
+    level:    [70, 75]
+    region:   the_eldieme_necropolis_s_e_3
+
+  17494275:
+    template: Ice_Elemental
+    at:       [295.024, 0.924, 24.783, 212]
+    level:    [72, 75]
+
+  17494276:
+    template: Orcish_Transporter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17494277:
+    template: Orcish_Guard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17494278:
+    template: Orcish_Guard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17494279:
+    template: Ellylldan
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494280:
+    template: Dhoul
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494281:
+    template: Dhoul
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494282:
+    template: Dhoul
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494283:
+    template: Dhoul
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494284:
+    template: Dhoul
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494285:
+    template: Dhoul
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494286:
+    template: Valaineral_R_Davilles
+    at:       [0.000, 0.000, 0.000, 155]
+    level:    [0, 0]
+
+  17494287:
+    template: Royal_Guard
+    at:       [0.000, 0.000, 0.000, 175]
+    level:    [1, 1]
+
+  17494288:
+    template: Royal_Guard
+    at:       [0.000, 0.000, 0.000, 29]
+    level:    [1, 1]
+
+  17494289:
+    template: Royal_Guard
+    at:       [0.000, 0.000, 0.000, 221]
+    level:    [1, 1]
+
+  17494290:
+    template: Royal_Guard
+    at:       [0.000, 0.000, 0.000, 135]
+    level:    [1, 1]
+
+  17494291:
+    template: Royal_Guard
+    at:       [0.000, 0.000, 0.000, 249]
+    level:    [1, 1]
+
+  17494292:
+    template: Royal_Guard
+    at:       [0.000, 0.000, 0.000, 194]
+    level:    [1, 1]
+
+  17494293:
+    template: Royal_Guard
+    at:       [0.000, 0.000, 0.000, 67]
+    level:    [1, 1]
+
+  17494294:
+    template: Royal_Guard
+    at:       [0.000, 0.000, 0.000, 194]
+    level:    [1, 1]
+
+  17494295:
+    template: Royal_Guard
+    at:       [0.000, 0.000, 0.000, 194]
+    level:    [1, 1]
+
+  17494296:
+    template: Leonoyne
+    level:    [0, 0]
+    region:   the_eldieme_necropolis_s_e_4
+
+  17494297:
+    template: Savage_Hound_Condottiere
+    level:    [0, 0]
+    region:   the_eldieme_necropolis_s_e_4
+
+  17494298:
+    template: Savage_Hound_Condottiere
+    level:    [0, 0]
+    region:   the_eldieme_necropolis_s_e_4
+
+  17494299:
+    template: Savage_Hound_Condottiere
+    level:    [0, 0]
+    region:   the_eldieme_necropolis_s_e_4
+
+  17494300:
+    template: Savage_Hound_Condottiere
+    level:    [0, 0]
+    region:   the_eldieme_necropolis_s_e_4
+
+  17494301:
+    template: Savage_Hound_Condottiere
+    level:    [0, 0]
+    region:   the_eldieme_necropolis_s_e_4
+
+  17494302:
+    template: Savage_Hound_Condottiere
+    level:    [0, 0]
+    region:   the_eldieme_necropolis_s_e_4
+
+  17494303:
+    template: Savage_Hound_Condottiere
+    level:    [0, 0]
+    region:   the_eldieme_necropolis_s_e_4
+
+  17494304:
+    template: Savage_Hound_Condottiere
+    level:    [0, 0]
+    region:   the_eldieme_necropolis_s_e_4
+
+  17494305:
+    template: Savage_Hound_Condottiere
+    level:    [0, 0]
+    region:   the_eldieme_necropolis_s_e_4
+
+  17494306:
+    template: Ashmea_B_Greinner
+    at:       [0.000, 0.000, 0.000, 244]
+    level:    [0, 0]
+
+  17494307:
+    template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 194]
+    level:    [0, 0]
+
+  17494308:
+    template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 253]
+    level:    [0, 0]
+
+  17494309:
+    template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 61]
+    level:    [0, 0]
+
+  17494310:
+    template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 128]
+    level:    [0, 0]
+
+  17494311:
+    template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 9]
+    level:    [0, 0]
+
+  17494312:
+    template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 127]
+    level:    [0, 0]
+
+  17494313:
+    template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 135]
+    level:    [0, 0]
+
+  17494314:
+    template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 195]
+    level:    [0, 0]
+
+  17494315:
+    template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 188]
+    level:    [0, 0]
+
+  17494316:
+    template: Feldrautte_I_Rouhent
+    at:       [303.871, -32.500, 93.796, 226]
+    level:    [0, 0]
+
+  17494317:
+    template: Norvallen_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494318:
+    template: Norvallen_Knight
+    at:       [0.000, 0.000, 0.000, 237]
+    level:    [0, 0]
+
+  17494319:
+    template: Norvallen_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494320:
+    template: Norvallen_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494321:
+    template: Norvallen_Knight
+    at:       [0.000, 0.000, 0.000, 178]
+    level:    [0, 0]
+
+  17494322:
+    template: Norvallen_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494323:
+    template: Norvallen_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494324:
+    template: Norvallen_Knight
+    at:       [0.000, 0.000, 0.000, 64]
+    level:    [0, 0]
+
+  17494325:
+    template: Norvallen_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494326:
+    template: Yrvaulair_S_Cousseraux
+    at:       [259.762, -32.499, 110.396, 64]
+    level:    [70, 70]
+
+  17494327:
+    template: Royal_Knight
+    at:       [256.803, -32.500, 93.123, 127]
+    level:    [70, 70]
+
+  17494328:
+    template: Royal_Knight
+    at:       [263.441, -32.969, 99.440, 3]
+    level:    [70, 70]
+
+  17494329:
+    template: Royal_Knight
+    at:       [264.096, -32.501, 93.717, 93]
+    level:    [70, 70]
+
+  17494330:
+    template: Royal_Knight
+    at:       [266.648, -32.500, 102.899, 192]
+    level:    [70, 70]
+
+  17494331:
+    template: Royal_Knight
+    at:       [260.040, -33.334, 98.138, 32]
+    level:    [70, 70]
+
+  17494332:
+    template: Royal_Knight
+    at:       [262.124, -32.514, 106.135, 253]
+    level:    [70, 70]
+
+  17494333:
+    template: Royal_Knight
+    at:       [264.975, -32.500, 105.112, 31]
+    level:    [70, 70]
+
+  17494334:
+    template: Royal_Knight
+    at:       [255.945, -32.769, 99.691, 251]
+    level:    [70, 70]
+
+  17494335:
+    template: Royal_Knight
+    at:       [260.395, -32.564, 105.973, 191]
+    level:    [70, 70]
+
+  17494336:
+    template: Febrenard_C_Brunnaut
+    level:    [0, 0]
+    region:   the_eldieme_necropolis_s_e_9
+
+  17494337:
+    template: Temple_Knight
+    at:       [255.701, -32.500, -54.562, 14]
+    level:    [70, 70]
+
+  17494338:
+    template: Temple_Knight
+    level:    [70, 70]
+    region:   the_eldieme_necropolis_s_e_9
+
+  17494339:
+    template: Temple_Knight
+    level:    [70, 70]
+    region:   the_eldieme_necropolis_s_e_9
+
+  17494340:
+    template: Temple_Knight
+    level:    [70, 70]
+    region:   the_eldieme_necropolis_s_e_9
+
+  17494341:
+    template: Temple_Knight
+    level:    [70, 70]
+    region:   the_eldieme_necropolis_s_e_9
+
+  17494342:
+    template: Temple_Knight
+    at:       [263.834, -32.500, -53.340, 98]
+    level:    [70, 70]
+
+  17494343:
+    template: Temple_Knight
+    at:       [261.087, -33.750, -57.857, 175]
+    level:    [70, 70]
+
+  17494344:
+    template: Temple_Knight
+    at:       [265.125, -32.500, -64.514, 202]
+    level:    [70, 70]
+
+  17494345:
+    template: Temple_Knight
+    at:       [266.976, -32.500, -57.714, 17]
+    level:    [70, 70]
+
+  17494346:
+    template: Gold_Badger_Esquire
+    at:       [0.000, 0.000, 0.000, 120]
+    level:    [0, 0]
+
+  17494347:
+    template: Gold_Badger_Esquire
+    at:       [0.000, 0.000, 0.000, 104]
+    level:    [0, 0]
+
+  17494348:
+    template: Gold_Badger_Esquire
+    at:       [0.000, 0.000, 0.000, 101]
+    level:    [0, 0]
+
+  17494349:
+    template: Gold_Badger_Esquire
+    at:       [0.000, 0.000, 0.000, 93]
+    level:    [0, 0]
+
+  17494350:
+    template: Gold_Badger_Esquire
+    at:       [0.000, 0.000, 0.000, 112]
+    level:    [0, 0]
+
+  17494351:
+    template: Gold_Badger_Esquire
+    at:       [0.000, 0.000, 0.000, 77]
+    level:    [0, 0]
+
+  17494352:
+    template: Allied_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494353:
+    template: Allied_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494354:
+    template: Allied_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494355:
+    template: Allied_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494356:
+    template: Allied_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494357:
+    template: Allied_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494358:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494359:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494360:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494361:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494362:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494363:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494364:
+    template: Allied_Belfry
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494365:
+    template: Royal_Banneret
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494366:
+    template: Royal_Banneret
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494367:
+    template: Royal_Banneret
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494368:
+    template: Royal_Banneret
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494369:
+    template: Royal_Banneret
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494370:
+    template: Royal_Banneret
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494371:
+    template: Allied_Armored_Belfry
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494372:
+    template: Royal_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494373:
+    template: Royal_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494374:
+    template: Royal_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494375:
+    template: Royal_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494376:
+    template: Royal_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494377:
+    template: Royal_Esquire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494378:
+    template: Royal_Palliator
+    level:    [60, 60]
+    region:   the_eldieme_necropolis_s_e_16
+
+  17494379:
+    template: Royal_Palliator
+    level:    [60, 60]
+    region:   the_eldieme_necropolis_s_e_2
+
+  17494380:
+    template: Royal_Palliator
+    level:    [60, 60]
+    region:   the_eldieme_necropolis_s_c_4
+
+  17494381:
+    template: Royal_Palliator
+    level:    [60, 60]
+    region:   the_eldieme_necropolis_s_e_11
+
+  17494382:
+    template: Royal_Palliator
+    level:    [60, 60]
+    region:   the_eldieme_necropolis_s_e_18
+
+  17494383:
+    template: Royal_Palliator
+    level:    [60, 60]
+    region:   the_eldieme_necropolis_s_e_2
+
+  17494384:
+    template: Royal_Provisioner
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494385:
+    template: Royal_Provisioner
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494386:
+    template: Royal_Provisioner
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494387:
+    template: Conqueror_Bakgodek
+    at:       [264.429, -32.750, -60.035, 252]
+    level:    [75, 80]
+
+  17494388:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17494389:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17494390:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17494391:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17494392:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17494393:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17494394:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17494395:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17494396:
+    template: Steelhide_Protector
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17494397:
+    template: One-eyed_Gwajboj
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17494398:
+    template: Gutrender_Trooper
+    at:       [407.934, -40.500, 19.041, 134]
+    level:    [70, 70]
+
+  17494399:
+    template: Gutrender_Trooper
+    at:       [386.882, -40.500, 19.926, 126]
+    level:    [70, 70]
+
+  17494400:
+    template: Gutrender_Trooper
+    at:       [212.489, -32.500, -21.078, 160]
+    level:    [70, 70]
+
+  17494401:
+    template: Gutrender_Trooper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17494402:
+    template: Gutrender_Trooper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17494403:
+    template: Gutrender_Trooper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17494404:
+    template: Gutrender_Trooper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17494405:
+    template: Gutrender_Trooper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [70, 70]
+
+  17494406:
+    template: Gutrender_Trooper
+    at:       [395.781, -40.500, 20.594, 124]
+    level:    [70, 70]
+
+  17494407:
+    template: Deathlord_Rojgnoj
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17494408:
+    template: Spinebeak_Neckchopper
+    level:    [60, 60]
+    region:   the_eldieme_necropolis_s_e_5
+
+  17494409:
+    template: Spinebeak_Neckchopper
+    level:    [60, 60]
+    region:   the_eldieme_necropolis_s_e_10
+
+  17494410:
+    template: Spinebeak_Neckchopper
+    level:    [60, 60]
+    region:   the_eldieme_necropolis_s_e_10
+
+  17494411:
+    template: Spinebeak_Neckchopper
+    level:    [60, 60]
+    region:   the_eldieme_necropolis_s_e_10
+
+  17494412:
+    template: Spinebeak_Neckchopper
+    level:    [60, 60]
+    region:   the_eldieme_necropolis_s_e_10
+
+  17494413:
+    template: Spinebeak_Neckchopper
+    level:    [60, 60]
+    region:   the_eldieme_necropolis_s_e_10
+
+  17494414:
+    template: Spinebeak_Neckchopper
+    level:    [60, 60]
+    region:   the_eldieme_necropolis_s_e_10
+
+  17494415:
+    template: Spinebeak_Neckchopper
+    level:    [60, 60]
+    region:   the_eldieme_necropolis_s_e_10
+
+  17494416:
+    template: Spinebeak_Neckchopper
+    level:    [60, 60]
+    region:   the_eldieme_necropolis_s_e_10
+
+  17494417:
+    template: Jagidbods_Warmachine
+    at:       [259.417, -32.500, -48.481, 56]
+    level:    [75, 80]
+
+  17494418:
+    template: Jagidbod_of_Clan_Reaper
+    at:       [265.278, -32.500, -60.061, 64]
+    level:    [0, 0]
+
+  17494419:
+    template: Clan_Reaper_Grunt
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494420:
+    template: Clan_Reaper_Grunt
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494421:
+    template: Clan_Reaper_Grunt
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494422:
+    template: Clan_Reaper_Grunt
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494423:
+    template: Clan_Reaper_Grunt
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494424:
+    template: Clan_Reaper_Grunt
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494425:
+    template: Clan_Reaper_Grunt
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494426:
+    template: Clan_Reaper_Grunt
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494427:
+    template: Clan_Reaper_Grunt
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494428:
+    template: Alpha_Gnole_Anders
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494429:
+    template: Anderss_Guard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 64]
+
+  17494430:
+    template: Anderss_Guard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 64]
+
+  17494431:
+    template: Moonfang_Warrior
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17494432:
+    template: Moonfang_Warrior
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17494433:
+    template: Moonfang_Warrior
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17494434:
+    template: Moonfang_Warrior
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17494435:
+    template: Moonfang_Warrior
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17494436:
+    template: Moonfang_Warrior
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17494437:
+    template: Moonfang_Warrior
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17494438:
+    template: Moonfang_Warrior
+    level:    [60, 60]
+    region:   the_eldieme_necropolis_s_e_15
+
+  17494439:
+    template: Moonfang_Warrior
+    level:    [60, 60]
+    region:   the_eldieme_necropolis_s_e_17
+
+  17494440:
+    template: Battlemaster_Vatgit
+    level:    [65, 65]
+    region:   the_eldieme_necropolis_s_e_12
+
+  17494441:
+    template: Clan_Longtooth_Pillager
+    level:    [65, 65]
+    region:   the_eldieme_necropolis_s_e_12
+
+  17494442:
+    template: Clan_Longtooth_Pillager
+    level:    [65, 65]
+    region:   the_eldieme_necropolis_s_e_12
+
+  17494443:
+    template: Clan_Longtooth_Pillager
+    level:    [65, 65]
+    region:   the_eldieme_necropolis_s_e_12
+
+  17494444:
+    template: Clan_Longtooth_Pillager
+    level:    [65, 65]
+    region:   the_eldieme_necropolis_s_e_12
+
+  17494445:
+    template: Clan_Longtooth_Pillager
+    level:    [65, 65]
+    region:   the_eldieme_necropolis_s_e_19
+
+  17494446:
+    template: Clan_Longtooth_Pillager
+    level:    [65, 65]
+    region:   the_eldieme_necropolis_s_e_13
+
+  17494447:
+    template: Clan_Longtooth_Pillager
+    level:    [65, 65]
+    region:   the_eldieme_necropolis_s_e_12
+
+  17494448:
+    template: Clan_Longtooth_Pillager
+    level:    [65, 65]
+    region:   the_eldieme_necropolis_s_e_12
+
+  17494449:
+    template: Clan_Longtooth_Pillager
+    level:    [65, 65]
+    region:   the_eldieme_necropolis_s_e_12
+
+  17494450:
+    template: Clan_Bear_Fighter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494451:
+    template: Clan_Bear_Fighter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494452:
+    template: Clan_Bear_Fighter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494453:
+    template: Clan_Bear_Fighter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494454:
+    template: Clan_Bear_Fighter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494455:
+    template: Clan_Bear_Fighter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494456:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17494457:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17494458:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17494459:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17494460:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17494461:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17494462:
+    template: Iron_Bomb
+    at:       [185.666, -28.250, 156.949, 188]
+    level:    [75, 75]
+
+  17494463:
+    template: Iron_Bomb
+    at:       [191.888, -28.500, -118.900, 59]
+    level:    [75, 75]
+
+  17494464:
+    template: Iron_Bomb
+    at:       [316.712, -28.250, 15.045, 63]
+    level:    [75, 75]
+
+  17494465:
+    template: Iron_Bomb
+    at:       [316.766, -28.250, 15.005, 63]
+    level:    [75, 75]
+
+  17494466:
+    template: Iron_Bomb
+    at:       [185.897, -28.250, 156.481, 187]
+    level:    [75, 75]
+
+  17494467:
+    template: Iron_Bomb
+    at:       [191.026, -28.500, -118.975, 83]
+    level:    [75, 75]
+
+  17494468:
+    template: Confederate_Belfry
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17494469:
+    template: Orcish_Strongarm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17494470:
+    template: Orcish_Strongarm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17494471:
+    template: Orcish_Strongarm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17494472:
+    template: Orcish_Strongarm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17494473:
+    template: Orcish_Strongarm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17494474:
+    template: Orcish_Strongarm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17494475:
+    template: Orcish_Turret
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17494476:
+    template: War_Smilodon
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494477:
+    template: War_Smilodon
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494478:
+    template: War_Smilodon
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494479:
+    template: War_Smilodon
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494480:
+    template: War_Smilodon
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494481:
+    template: War_Smilodon
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494482:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17494483:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17494484:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17494485:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17494486:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17494487:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17494488:
+    template: Shadowhorn
+    at:       [0.000, 0.000, 0.000, 39]
+    level:    [75, 80]
+
+  17494489:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 123]
+    level:    [60, 60]
+
+  17494490:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 14]
+    level:    [60, 60]
+
+  17494491:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 85]
+    level:    [60, 60]
+
+  17494492:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 185]
+    level:    [60, 60]
+
+  17494493:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 137]
+    level:    [60, 60]
+
+  17494494:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 87]
+    level:    [60, 60]
+
+  17494495:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 129]
+    level:    [60, 60]
+
+  17494496:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 84]
+    level:    [60, 60]
+
+  17494497:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 127]
+    level:    [60, 60]
+
+  17494498:
+    template: Shadowhand
+    at:       [0.000, 0.000, 0.000, 57]
+    level:    [75, 80]
+
+  17494499:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 20]
+    level:    [0, 0]
+
+  17494500:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 190]
+    level:    [0, 0]
+
+  17494501:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 134]
+    level:    [0, 0]
+
+  17494502:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 129]
+    level:    [0, 0]
+
+  17494503:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 184]
+    level:    [0, 0]
+
+  17494504:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 199]
+    level:    [0, 0]
+
+  17494505:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 190]
+    level:    [0, 0]
+
+  17494506:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 240]
+    level:    [0, 0]
+
+  17494507:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 66]
+    level:    [0, 0]
+
+  17494508:
+    template: Shadowfang
+    at:       [0.000, 0.000, 0.000, 90]
+    level:    [75, 80]
+
+  17494509:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 83]
+    level:    [60, 60]
+
+  17494510:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 51]
+    level:    [60, 60]
+
+  17494511:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 77]
+    level:    [60, 60]
+
+  17494512:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 31]
+    level:    [60, 60]
+
+  17494513:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 74]
+    level:    [60, 60]
+
+  17494514:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 127]
+    level:    [60, 60]
+
+  17494515:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 72]
+    level:    [60, 60]
+
+  17494516:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 24]
+    level:    [60, 60]
+
+  17494517:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 23]
+    level:    [60, 60]
+
+  17494518:
+    template: Shadoweye
+    at:       [0.000, 0.000, 0.000, 252]
+    level:    [75, 80]
+
+  17494519:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 72]
+    level:    [60, 60]
+
+  17494520:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 25]
+    level:    [60, 60]
+
+  17494521:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 207]
+    level:    [60, 60]
+
+  17494522:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 199]
+    level:    [60, 60]
+
+  17494523:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 69]
+    level:    [60, 60]
+
+  17494524:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 213]
+    level:    [60, 60]
+
+  17494525:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 106]
+    level:    [60, 60]
+
+  17494526:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 43]
+    level:    [60, 60]
+
+  17494527:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 222]
+    level:    [60, 60]
+
+  17494528:
+    template: Fortification
+    at:       [318.291, -28.500, 14.010, 0]
+    level:    [50, 50]
+
+  17494529:
+    template: Fortification
+    at:       [191.026, -28.500, -118.976, 0]
+    level:    [50, 50]
+
+  17494530:
+    template: Fortification
+    at:       [48.968, -28.500, -1.516, 0]
+    level:    [50, 50]
+
+  17494531:
+    template: Fortification
+    at:       [186.068, -28.500, 158.411, 0]
+    level:    [50, 50]
+
+  17494532:
+    template: Rikoh_Wahcondalo
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494533:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494534:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494535:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494536:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494537:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494538:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494539:
+    template: Dalzakk
+    at:       [0.000, 0.000, 0.000, 52]
+    level:    [1, 1]
+
+  17494540:
+    template: Oggbi
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494541:
+    template: Rainemard
+    at:       [0.000, 0.000, 0.000, 35]
+    level:    [1, 1]
+
+  17494542:
+    template: Maat
+    at:       [0.000, 0.000, 0.000, 159]
+    level:    [1, 1]
+
+  17494543:
+    template: Degenhard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494544:
+    template: Azima
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494545:
+    template: Choh_Moui
+    at:       [0.000, 0.000, 0.000, 125]
+    level:    [1, 1]
+
+  17494546:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494547:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494548:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494549:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494550:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494551:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494552:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494553:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494554:
+    template: Azo
+    at:       [306.271, -28.000, 33.054, 178]
+    level:    [1, 1]
+
+  17494555:
+    template: Vahi
+    at:       [0.000, 0.000, 0.000, 219]
+    level:    [1, 1]
+
+  17494556:
+    template: Rongo-Nango
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494557:
+    template: Lerren
+    at:       [303.171, -28.000, 25.684, 96]
+    level:    [1, 1]
+
+  17494558:
+    template: Jajaro
+    at:       [295.737, -28.000, 12.396, 208]
+    level:    [1, 1]
+
+  17494559:
+    template: Popochu
+    at:       [301.021, -28.032, 28.258, 81]
+    level:    [1, 1]
+
+  17494560:
+    template: Papako
+    at:       [303.434, -28.207, 18.779, 141]
+    level:    [1, 1]
+
+  17494561:
+    template: Momowa
+    at:       [300.373, -28.087, 10.915, 67]
+    level:    [1, 1]
+
+  17494562:
+    template: Ulla
+    at:       [0.000, 0.000, 0.000, 98]
+    level:    [1, 1]
+
+  17494563:
+    template: Kilhwch
+    at:       [0.000, 0.000, 0.000, 99]
+    level:    [1, 1]
+
+  17494564:
+    template: Alfons
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494565:
+    template: Achtelle
+    at:       [0.000, 0.000, 0.000, 63]
+    level:    [1, 1]
+
+  17494566:
+    template: Bravo
+    at:       [289.916, -28.065, 16.444, 80]
+    level:    [1, 1]
+
+  17494567:
+    template: Duskraven
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494568:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494569:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494570:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494571:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494572:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494573:
+    template: Areuhat
+    at:       [0.000, 0.000, 0.000, 198]
+    level:    [1, 1]
+
+  17494574:
+    template: Odzmanouk
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494575:
+    template: Boodlix
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17494576:
+    template: Goblin_Lansquenet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17494577:
+    template: Goblin_Lansquenet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17494578:
+    template: Goblin_Lansquenet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17494579:
+    template: Titania
+    at:       [0.000, 0.000, 0.000, 132]
+    level:    [1, 1]
+
+  17494580:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 207]
+    level:    [1, 1]
+
+  17494581:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 207]
+    level:    [1, 1]
+
+  17494582:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 206]
+    level:    [1, 1]
+
+  17494583:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 252]
+    level:    [1, 1]
+
+  17494584:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 253]
+    level:    [1, 1]
+
+  17494585:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 253]
+    level:    [1, 1]
+
+  17494586:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 255]
+    level:    [1, 1]
+
+  17494587:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494588:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494589:
+    template: Babban_Ny_Mheillea
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494590:
+    template: Abenzio
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494591:
+    template: Bryher
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494592:
+    template: Camlin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494593:
+    template: Darach
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494594:
+    template: Raigegue_R_dOraguille
+    at:       [0.000, 0.000, 0.000, 180]
+    level:    [0, 0]
+
+  17494595:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 83]
+    level:    [0, 0]
+
+  17494596:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 71]
+    level:    [0, 0]
+
+  17494597:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494598:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494599:
+    template: Eurytos
+    at:       [0.000, 0.000, 0.000, 74]
+    level:    [75, 75]
+
+  17494600:
+    template: Gigas_Mercenary
+    at:       [0.000, 0.000, 0.000, 42]
+    level:    [60, 60]
+
+  17494601:
+    template: Gigas_Mercenary
+    at:       [0.000, 0.000, 0.000, 30]
+    level:    [60, 60]
+
+  17494602:
+    template: Poroggo_Prince
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494603:
+    template: Poroggo_Servant
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494604:
+    template: Poroggo_Servant
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494605:
+    template: Poroggo_Servant
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17494606:
+    template: Kaiser_Behemoth
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17494607:
+    template: Ferreous_Coffin
+    at:       [0.000, 0.000, 0.000, 65]
+    level:    [1, 1]
+
+  17494608:
+    template: Lewenhart
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17494609:
+    template: Auroral_Alicorn
+    at:       [0.000, 0.000, 0.000, 61]
+    level:    [1, 1]
+
+  17494610:
+    template: Giltine
+    at:       [-2.000, 0.500, 43.000, 0]
+    level:    [94, 95]
+
+  17494611:
+    template: Giltine
+    at:       [42.000, -15.500, 322.000, 154]
+    level:    [94, 95]
+
+  17494612:
+    template: Giltine
+    at:       [180.000, -0.750, 140.000, 198]
+    level:    [94, 95]

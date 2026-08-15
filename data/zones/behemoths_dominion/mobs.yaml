@@ -1,0 +1,248 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17297409:
+    template: Lesser_Gaylas
+    level:    [41, 42]
+    region:   behemoths_dominion_se
+
+  17297410:
+    template: Lesser_Gaylas
+    level:    [41, 42]
+    region:   behemoths_dominion_se
+
+  17297411:
+    template: Lesser_Gaylas
+    level:    [41, 42]
+    region:   behemoths_dominion_se
+
+  17297412:
+    template: Greater_Gayla
+    level:    [43, 44]
+    region:   behemoths_dominion_se
+
+  17297413:
+    template: Greater_Gayla
+    level:    [43, 44]
+    region:   behemoths_dominion_se
+
+  17297414:
+    template: Thunder_Elemental
+    at:       [138.615, 3.400, -101.378, 125]
+    level:    [48, 50]
+
+  17297415:
+    template: Light_Elemental
+    at:       [138.615, 3.400, -101.378, 125]
+    level:    [48, 50]
+
+  17297416:
+    template: Demonic_Weapon
+    level:    [45, 46]
+    region:   behemoths_dominion_se_2
+
+  17297417:
+    template: Demonic_Weapon
+    level:    [45, 46]
+    region:   behemoths_dominion_se_2
+
+  17297418:
+    template: Lost_Soul
+    level:    [45, 46]
+    region:   behemoths_dominion_c_3
+
+  17297419:
+    template: Lost_Soul
+    level:    [45, 46]
+    region:   behemoths_dominion_c_3
+
+  17297420:
+    template: Lost_Soul
+    level:    [45, 46]
+    region:   behemoths_dominion_c_3
+
+  17297421:
+    template: Lost_Soul
+    level:    [45, 46]
+    region:   behemoths_dominion_c_3
+
+  17297422:
+    template: Demonic_Weapon
+    level:    [45, 46]
+    region:   behemoths_dominion_c_2
+
+  17297423:
+    template: Demonic_Weapon
+    level:    [45, 46]
+    region:   behemoths_dominion_c_2
+
+  17297424:
+    template: Lesser_Gaylas
+    level:    [41, 42]
+    region:   behemoths_dominion_s
+
+  17297425:
+    template: Lesser_Gaylas
+    level:    [41, 42]
+    region:   behemoths_dominion_s
+
+  17297426:
+    template: Greater_Gayla
+    level:    [43, 44]
+    region:   behemoths_dominion_s
+
+  17297427:
+    template: Greater_Gayla
+    level:    [43, 44]
+    region:   behemoths_dominion_s
+
+  17297428:
+    template: Lesser_Gaylas
+    level:    [41, 42]
+    region:   behemoths_dominion_c
+
+  17297429:
+    template: Lesser_Gaylas
+    level:    [41, 42]
+    region:   behemoths_dominion_c
+
+  17297430:
+    template: Greater_Gayla
+    level:    [43, 44]
+    region:   behemoths_dominion_c
+
+  17297431:
+    template: Greater_Gayla
+    level:    [43, 44]
+    region:   behemoths_dominion_c
+
+  17297432:
+    template: Master_Coeurl
+    at:       [-82.389, -4.301, -90.121, 88]
+    level:    [49, 50]
+
+  17297433:
+    template: Bhuta
+    at:       [-70.571, -4.375, -85.672, 53]
+    level:    [47, 48]
+
+  17297434:
+    template: Thunder_Elemental
+    at:       [-84.343, -4.477, -85.742, 127]
+    level:    [48, 50]
+
+  17297435:
+    template: Light_Elemental
+    at:       [-80.538, -4.413, -79.202, 2]
+    level:    [48, 50]
+
+  17297436:
+    template: Master_Coeurl
+    level:    [49, 50]
+    region:   behemoths_dominion_c
+
+  17297437:
+    template: Bhuta
+    at:       [-24.568, -3.857, 4.811, 13]
+    level:    [47, 48]
+
+  17297438:
+    template: Thunder_Elemental
+    at:       [-44.195, -4.390, -8.444, 45]
+    level:    [48, 50]
+
+  17297439:
+    template: Light_Elemental
+    at:       [-44.195, -4.390, -8.444, 45]
+    level:    [48, 50]
+
+  17297440:
+    template: Behemoth
+    at:       [-269.350, -19.773, 74.268, 0]
+    level:    [70, 70]
+
+  17297441:
+    template: King_Behemoth
+    at:       [-269.350, -19.773, 74.268, 0]
+    level:    [85, 85]
+
+  17297442:
+    template: Thunder_Elemental
+    level:    [48, 50]
+    region:   behemoths_dominion_nw
+
+  17297443:
+    template: Thunder_Elemental
+    level:    [48, 50]
+    region:   behemoths_dominion_nw
+
+  17297444:
+    template: Light_Elemental
+    at:       [-209.248, -19.929, 61.437, 57]
+    level:    [48, 50]
+
+  17297445:
+    template: Light_Elemental
+    at:       [-248.852, -20.733, 87.634, 36]
+    level:    [48, 50]
+
+  17297446:
+    template: Picklix_Longindex
+    at:       [208.678, 4.415, -81.035, 93]
+    level:    [60, 60]
+
+  17297447:
+    template: Moxnix_Nightgoggle
+    at:       [204.199, 4.025, -78.000, 93]
+    level:    [58, 58]
+
+  17297448:
+    template: Doglix_Muttsnout
+    at:       [210.899, 4.138, -81.648, 93]
+    level:    [58, 58]
+
+  17297449:
+    template: Ancient_Weapon
+    at:       [-77.000, -4.000, -92.000, 170]
+    level:    [66, 66]
+
+  17297450:
+    template: Legendary_Weapon
+    at:       [-75.000, -4.000, -92.000, 170]
+    level:    [65, 65]
+
+  17297451:
+    template: Gudanna
+    at:       [-279.065, -20.484, -0.456, 18]
+    level:    [55, 60]
+
+  17297452:
+    template: Pil
+    at:       [-210.000, -20.835, 70.000, 0]
+    level:    [94, 95]
+
+  17297453:
+    template: Pil
+    at:       [-4.000, -4.331, -33.299, 0]
+    level:    [94, 95]
+
+  17297454:
+    template: Pil
+    at:       [112.473, 4.549, -108.364, 0]
+    level:    [94, 95]
+
+  17297455:
+    template: Sovereign_Behemoth
+    level:    [99, 99]
+    region:   behemoths_dominion_nw_2
+
+  17297456:
+    template: Sovereign_Behemoth
+    at:       [-48.880, -4.469, -5.769, 0]
+    level:    [99, 99]
+
+  17297457:
+    template: Sovereign_Behemoth
+    at:       [161.259, 3.500, -85.589, 0]
+    level:    [99, 99]

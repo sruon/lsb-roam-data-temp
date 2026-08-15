@@ -1,0 +1,1708 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17575937:
+    template: Lich_C_Magnus
+    at:       [300.000, -0.750, 19.921, 139]
+    level:    [58, 58]
+
+  17575938:
+    template: Skull_of_Gluttony
+    at:       [17.450, -15.940, 339.670, 2]
+    level:    [60, 60]
+
+  17575939:
+    template: Skull_of_Greed
+    at:       [140.120, -15.920, 303.910, 63]
+    level:    [60, 60]
+
+  17575940:
+    template: Skull_of_Sloth
+    at:       [-186.780, 0.000, 57.410, 163]
+    level:    [60, 60]
+
+  17575941:
+    template: Skull_of_Lust
+    at:       [99.890, 8.080, -103.650, 188]
+    level:    [60, 60]
+
+  17575942:
+    template: Skull_of_Pride
+    at:       [382.730, -32.000, -372.690, 160]
+    level:    [60, 60]
+
+  17575943:
+    template: Skull_of_Envy
+    at:       [-657.490, 0.000, 213.270, 102]
+    level:    [60, 60]
+
+  17575944:
+    template: Skull_of_Wrath
+    at:       [-348.130, 0.000, 338.150, 156]
+    level:    [60, 60]
+
+  17575945:
+    template: Marchosias
+    level:    [40, 43]
+    region:   the_eldieme_necropolis_n
+
+  17575946:
+    template: Lost_Soul
+    at:       [-58.325, -16.051, 301.997, 127]
+    level:    [42, 43]
+
+  17575947:
+    template: Lost_Soul
+    at:       [-62.499, -16.051, 294.462, 211]
+    level:    [42, 43]
+
+  17575948:
+    template: Lost_Soul
+    at:       [-65.839, -16.081, 290.386, 41]
+    level:    [42, 43]
+
+  17575949:
+    template: Lost_Soul
+    at:       [-62.327, -16.056, 298.059, 163]
+    level:    [42, 43]
+
+  17575950:
+    template: Marchosias
+    level:    [40, 43]
+    region:   the_eldieme_necropolis_n_2
+
+  17575951:
+    template: Marchosias
+    level:    [40, 43]
+    region:   the_eldieme_necropolis_n_2
+
+  17575952:
+    template: Marchosias
+    level:    [40, 43]
+    region:   the_eldieme_necropolis_n_2
+
+  17575953:
+    template: Shade
+    at:       [-27.486, -8.085, 219.941, 241]
+    level:    [46, 48]
+
+  17575954:
+    template: Shade
+    level:    [46, 48]
+    region:   the_eldieme_necropolis_c_3
+
+  17575955:
+    template: Shade
+    at:       [-51.117, -8.141, 221.142, 253]
+    level:    [46, 48]
+
+  17575956:
+    template: Shade
+    level:    [46, 48]
+    region:   the_eldieme_necropolis_c_3
+
+  17575957:
+    template: Lost_Soul
+    at:       [-30.404, -8.158, 217.056, 153]
+    level:    [44, 45]
+
+  17575958:
+    template: Lost_Soul
+    level:    [44, 45]
+    region:   the_eldieme_necropolis_c_3
+
+  17575959:
+    template: Hellbound_Warrior
+    at:       [48.392, -15.023, 320.096, 186]
+    level:    [91, 93]
+
+  17575960:
+    template: Hellbound_Warlock
+    at:       [44.114, -15.051, 310.441, 87]
+    level:    [91, 93]
+
+  17575961:
+    template: Hellbound_Warrior
+    at:       [41.322, -15.051, 320.774, 252]
+    level:    [91, 93]
+
+  17575962:
+    template: Hellbound_Warlock
+    level:    [91, 93]
+    region:   the_eldieme_necropolis_se_14
+
+  17575963:
+    template: Hellbound_Warrior
+    at:       [42.589, -15.087, 323.559, 57]
+    level:    [91, 93]
+
+  17575964:
+    template: Hellbound_Warlock
+    at:       [37.433, -15.143, 322.948, 68]
+    level:    [91, 93]
+
+  17575965:
+    template: Hellbound_Warrior
+    level:    [91, 93]
+    region:   the_eldieme_necropolis_se_9
+
+  17575966:
+    template: Hellbound_Warlock
+    at:       [51.689, -16.037, 335.075, 194]
+    level:    [91, 93]
+
+  17575967:
+    template: Marchosias
+    level:    [40, 43]
+    region:   the_eldieme_necropolis_c_4
+
+  17575968:
+    template: Marchosias
+    level:    [40, 43]
+    region:   the_eldieme_necropolis_c_4
+
+  17575969:
+    template: Lost_Soul
+    level:    [42, 43]
+    region:   the_eldieme_necropolis_c_5
+
+  17575970:
+    template: Lost_Soul
+    level:    [42, 43]
+    region:   the_eldieme_necropolis_c_5
+
+  17575971:
+    template: Lost_Soul
+    level:    [42, 43]
+    region:   the_eldieme_necropolis_c_5
+
+  17575972:
+    template: Lost_Soul
+    level:    [42, 43]
+    region:   the_eldieme_necropolis_c_5
+
+  17575973:
+    template: Lost_Soul
+    level:    [42, 43]
+    region:   the_eldieme_necropolis_c_5
+
+  17575974:
+    template: Revenant
+    level:    [44, 47]
+    region:   the_eldieme_necropolis_c_5
+
+  17575975:
+    template: Marchosias
+    level:    [40, 43]
+    region:   the_eldieme_necropolis_c_6
+
+  17575976:
+    template: Marchosias
+    level:    [40, 43]
+    region:   the_eldieme_necropolis_c_6
+
+  17575977:
+    template: Marchosias
+    level:    [40, 43]
+    region:   the_eldieme_necropolis_c_6
+
+  17575978:
+    template: Hellbound_Warrior
+    at:       [133.163, 8.712, -82.061, 195]
+    level:    [91, 93]
+
+  17575979:
+    template: Hellbound_Warlock
+    level:    [91, 93]
+    region:   the_eldieme_necropolis_se_12
+
+  17575980:
+    template: Hellbound_Warrior
+    at:       [123.878, 8.324, -65.612, 195]
+    level:    [91, 93]
+
+  17575981:
+    template: Hellbound_Warlock
+    at:       [132.089, 8.222, -72.559, 71]
+    level:    [91, 93]
+
+  17575982:
+    template: Hellbound_Warrior
+    level:    [91, 93]
+    region:   the_eldieme_necropolis_se_10
+
+  17575983:
+    template: Hellbound_Warlock
+    at:       [115.647, 8.161, -65.893, 237]
+    level:    [91, 93]
+
+  17575984:
+    template: Hellbound_Warrior
+    at:       [111.525, 9.022, -88.992, 136]
+    level:    [91, 93]
+
+  17575985:
+    template: Hellbound_Warlock
+    at:       [119.136, 8.422, -94.347, 36]
+    level:    [91, 93]
+
+  17575986:
+    template: Marchosias
+    level:    [40, 43]
+    region:   the_eldieme_necropolis_ne_4
+
+  17575987:
+    template: Marchosias
+    level:    [40, 43]
+    region:   the_eldieme_necropolis_ne_4
+
+  17575988:
+    template: Lost_Soul
+    at:       [257.887, -24.051, 301.108, 155]
+    level:    [45, 46]
+
+  17575989:
+    template: Lost_Soul
+    at:       [262.309, -24.051, 300.847, 153]
+    level:    [45, 46]
+
+  17575990:
+    template: Lost_Soul
+    at:       [266.456, -24.051, 307.883, 175]
+    level:    [45, 46]
+
+  17575991:
+    template: Lost_Soul
+    at:       [264.082, -24.051, 299.515, 14]
+    level:    [45, 46]
+
+  17575992:
+    template: Hell_Hound
+    level:    [46, 49]
+    region:   the_eldieme_necropolis_ne_2
+
+  17575993:
+    template: Hell_Hound
+    level:    [46, 49]
+    region:   the_eldieme_necropolis_ne_2
+
+  17575994:
+    template: Hell_Hound
+    level:    [46, 49]
+    region:   the_eldieme_necropolis_ne_2
+
+  17575995:
+    template: Hellbound_Warrior
+    at:       [153.995, -15.052, 276.301, 127]
+    level:    [91, 93]
+
+  17575996:
+    template: Hellbound_Warlock
+    at:       [151.449, -15.156, 277.028, 17]
+    level:    [91, 93]
+
+  17575997:
+    template: Hellbound_Warrior
+    level:    [91, 93]
+    region:   the_eldieme_necropolis_se_5
+
+  17575998:
+    template: Hellbound_Warlock
+    at:       [169.804, -15.801, 266.959, 11]
+    level:    [91, 93]
+
+  17575999:
+    template: Hellbound_Warrior
+    at:       [168.836, -15.034, 281.226, 218]
+    level:    [91, 93]
+
+  17576000:
+    template: Hellbound_Warlock
+    level:    [91, 93]
+    region:   the_eldieme_necropolis_se_11
+
+  17576001:
+    template: Hellbound_Warrior
+    at:       [147.145, -15.518, 279.641, 138]
+    level:    [91, 93]
+
+  17576002:
+    template: Hellbound_Warlock
+    at:       [160.445, -15.051, 283.043, 139]
+    level:    [91, 93]
+
+  17576003:
+    template: Revenant
+    at:       [256.719, -23.345, 257.984, 68]
+    level:    [44, 47]
+
+  17576004:
+    template: Revenant
+    at:       [255.315, -23.499, 264.654, 121]
+    level:    [44, 47]
+
+  17576005:
+    template: Lost_Soul
+    level:    [45, 46]
+    region:   the_eldieme_necropolis_ne_3
+
+  17576006:
+    template: Lost_Soul
+    level:    [45, 46]
+    region:   the_eldieme_necropolis_ne_3
+
+  17576007:
+    template: Lost_Soul
+    level:    [45, 46]
+    region:   the_eldieme_necropolis_ne_3
+
+  17576008:
+    template: Anemone
+    level:    [45, 46]
+    region:   the_eldieme_necropolis_c_2
+
+  17576009:
+    template: Gazer
+    level:    [41, 43]
+    region:   the_eldieme_necropolis_c_2
+
+  17576010:
+    template: Gazer
+    level:    [41, 43]
+    region:   the_eldieme_necropolis_c_2
+
+  17576011:
+    template: Gazer
+    level:    [41, 43]
+    region:   the_eldieme_necropolis_c_2
+
+  17576012:
+    template: Gazer
+    level:    [41, 43]
+    region:   the_eldieme_necropolis_c_2
+
+  17576013:
+    template: Gazer
+    level:    [41, 43]
+    region:   the_eldieme_necropolis_c_2
+
+  17576014:
+    template: Gazer
+    level:    [41, 43]
+    region:   the_eldieme_necropolis_c
+
+  17576015:
+    template: Gazer
+    level:    [41, 43]
+    region:   the_eldieme_necropolis_c
+
+  17576016:
+    template: Puroboros
+    level:    [42, 44]
+    region:   the_eldieme_necropolis_c
+
+  17576017:
+    template: Puroboros
+    level:    [42, 44]
+    region:   the_eldieme_necropolis_c
+
+  17576018:
+    template: Hell_Hound
+    level:    [46, 49]
+    region:   the_eldieme_necropolis_nw
+
+  17576019:
+    template: Hell_Hound
+    level:    [46, 49]
+    region:   the_eldieme_necropolis_nw
+
+  17576020:
+    template: Mummy
+    at:       [-515.164, -8.109, 506.405, 190]
+    level:    [50, 52]
+
+  17576021:
+    template: Mummy
+    at:       [-517.719, -8.109, 506.570, 134]
+    level:    [50, 52]
+
+  17576022:
+    template: Lich
+    at:       [-515.318, -8.109, 492.611, 0]
+    level:    [51, 53]
+
+  17576023:
+    template: Mummy
+    at:       [-485.049, -8.109, 499.659, 0]
+    level:    [50, 52]
+
+  17576024:
+    template: Mummy
+    at:       [-484.744, -8.109, 499.674, 123]
+    level:    [50, 52]
+
+  17576025:
+    template: Lich
+    at:       [-481.744, -8.109, 506.583, 133]
+    level:    [51, 53]
+
+  17576026:
+    template: Mummy
+    at:       [-460.024, -0.109, 468.698, 127]
+    level:    [50, 52]
+
+  17576027:
+    template: Mummy
+    at:       [-468.323, -0.109, 454.790, 117]
+    level:    [50, 52]
+
+  17576028:
+    template: Lich
+    at:       [-465.817, -0.109, 459.355, 132]
+    level:    [51, 53]
+
+  17576029:
+    template: Lich
+    at:       [-468.121, -0.109, 454.715, 134]
+    level:    [51, 53]
+
+  17576030:
+    template: Hell_Hound
+    at:       [-457.841, 3.889, 498.418, 139]
+    level:    [46, 49]
+
+  17576031:
+    template: Blood_Soul
+    at:       [-422.890, 7.889, 500.012, 4]
+    level:    [50, 52]
+
+  17576032:
+    template: Blood_Soul
+    at:       [-422.137, 7.889, 493.070, 128]
+    level:    [50, 52]
+
+  17576033:
+    template: Blood_Soul
+    at:       [-414.504, 7.888, 499.852, 192]
+    level:    [50, 52]
+
+  17576034:
+    template: Ka
+    at:       [-435.897, 0.888, 402.049, 191]
+    level:    [52, 54]
+
+  17576035:
+    template: Ka
+    level:    [52, 54]
+    region:   the_eldieme_necropolis_nw_3
+
+  17576036:
+    template: Ka
+    at:       [-448.000, 1.000, 403.000, 53]
+    level:    [52, 54]
+
+  17576037:
+    template: Ka
+    level:    [52, 54]
+    region:   the_eldieme_necropolis_nw_3
+
+  17576038:
+    template: Mummy
+    level:    [50, 52]
+    region:   the_eldieme_necropolis_nw_3
+
+  17576039:
+    template: Mummy
+    level:    [50, 52]
+    region:   the_eldieme_necropolis_nw_3
+
+  17576040:
+    template: Lich
+    level:    [51, 53]
+    region:   the_eldieme_necropolis_nw_3
+
+  17576041:
+    template: Lich
+    level:    [51, 53]
+    region:   the_eldieme_necropolis_nw_3
+
+  17576042:
+    template: Ka
+    level:    [52, 54]
+    region:   the_eldieme_necropolis_nw_2
+
+  17576043:
+    template: Ka
+    at:       [-436.238, 0.869, 311.702, 127]
+    level:    [52, 54]
+
+  17576044:
+    template: Ka
+    at:       [-440.729, 0.913, 311.937, 120]
+    level:    [52, 54]
+
+  17576045:
+    template: Ka
+    level:    [52, 54]
+    region:   the_eldieme_necropolis_nw_2
+
+  17576046:
+    template: Mummy
+    level:    [50, 52]
+    region:   the_eldieme_necropolis_nw_2
+
+  17576047:
+    template: Mummy
+    level:    [50, 52]
+    region:   the_eldieme_necropolis_nw_2
+
+  17576048:
+    template: Lich
+    level:    [51, 53]
+    region:   the_eldieme_necropolis_nw_2
+
+  17576049:
+    template: Lich
+    level:    [51, 53]
+    region:   the_eldieme_necropolis_nw_2
+
+  17576050:
+    template: Tomb_Wolf
+    level:    [53, 55]
+    region:   the_eldieme_necropolis_nw_4
+
+  17576051:
+    template: Tomb_Wolf
+    level:    [53, 55]
+    region:   the_eldieme_necropolis_nw_4
+
+  17576052:
+    template: Tomb_Wolf
+    level:    [53, 55]
+    region:   the_eldieme_necropolis_nw_4
+
+  17576053:
+    template: Tomb_Wolf
+    level:    [53, 55]
+    region:   the_eldieme_necropolis_nw_4
+
+  17576054:
+    template: Cwn_Cyrff
+    at:       [-395.612, -0.102, 378.777, 231]
+    level:    [63, 63]
+
+  17576055:
+    template: Utukku
+    level:    [55, 57]
+    region:   the_eldieme_necropolis_nw_5
+
+  17576056:
+    template: Utukku
+    level:    [55, 57]
+    region:   the_eldieme_necropolis_nw_5
+
+  17576057:
+    template: Utukku
+    level:    [55, 57]
+    region:   the_eldieme_necropolis_nw_5
+
+  17576058:
+    template: Utukku
+    at:       [-374.518, 0.465, 336.424, 102]
+    level:    [55, 57]
+
+  17576059:
+    template: Lost_Soul
+    at:       [-617.418, -0.079, 140.206, 250]
+    level:    [42, 43]
+
+  17576060:
+    template: Lost_Soul
+    at:       [-617.186, -0.079, 140.511, 4]
+    level:    [42, 43]
+
+  17576061:
+    template: Lost_Soul
+    at:       [-621.459, -0.079, 135.286, 44]
+    level:    [42, 43]
+
+  17576062:
+    template: Lost_Soul
+    at:       [-611.437, -0.108, 135.832, 255]
+    level:    [42, 43]
+
+  17576063:
+    template: Gazer
+    level:    [41, 43]
+    region:   the_eldieme_necropolis_w
+
+  17576064:
+    template: Gazer
+    level:    [41, 43]
+    region:   the_eldieme_necropolis_w
+
+  17576065:
+    template: Gazer
+    level:    [41, 43]
+    region:   the_eldieme_necropolis_w
+
+  17576066:
+    template: Gazer
+    level:    [41, 43]
+    region:   the_eldieme_necropolis_w
+
+  17576067:
+    template: Anemone
+    level:    [45, 46]
+    region:   the_eldieme_necropolis_w_2
+
+  17576068:
+    template: Puroboros
+    level:    [42, 44]
+    region:   the_eldieme_necropolis_w_2
+
+  17576069:
+    template: Nekros_Hound
+    level:    [93, 95]
+    region:   the_eldieme_necropolis_se_14
+
+  17576070:
+    template: Nekros_Hound
+    at:       [43.443, -15.049, 316.295, 197]
+    level:    [93, 95]
+
+  17576071:
+    template: Nekros_Hound
+    level:    [93, 95]
+    region:   the_eldieme_necropolis_se_13
+
+  17576072:
+    template: Nekros_Hound
+    level:    [93, 95]
+    region:   the_eldieme_necropolis_se_13
+
+  17576073:
+    template: Nekros_Hound
+    level:    [93, 95]
+    region:   the_eldieme_necropolis_se_9
+
+  17576074:
+    template: Nekros_Hound
+    at:       [46.632, -15.029, 323.714, 5]
+    level:    [93, 95]
+
+  17576075:
+    template: Nekros_Hound
+    level:    [93, 95]
+    region:   the_eldieme_necropolis_se_12
+
+  17576076:
+    template: Nekros_Hound
+    at:       [133.610, 8.196, -76.019, 233]
+    level:    [93, 95]
+
+  17576077:
+    template: Nekros_Hound
+    level:    [93, 95]
+    region:   the_eldieme_necropolis_se_10
+
+  17576078:
+    template: Nekros_Hound
+    at:       [113.816, 8.965, -77.263, 46]
+    level:    [93, 95]
+
+  17576079:
+    template: Nekros_Hound
+    level:    [93, 95]
+    region:   the_eldieme_necropolis_se_5
+
+  17576080:
+    template: Nekros_Hound
+    at:       [168.507, -15.793, 267.218, 12]
+    level:    [93, 95]
+
+  17576081:
+    template: Nekros_Hound
+    level:    [93, 95]
+    region:   the_eldieme_necropolis_se_7
+
+  17576082:
+    template: Nekros_Hound
+    level:    [93, 95]
+    region:   the_eldieme_necropolis_se_8
+
+  17576083:
+    template: Lich
+    at:       [179.429, -0.280, -98.129, 198]
+    level:    [52, 54]
+
+  17576084:
+    template: Lich
+    at:       [176.440, -0.087, -98.977, 113]
+    level:    [52, 54]
+
+  17576085:
+    template: Nekros_Hound
+    level:    [93, 95]
+    region:   the_eldieme_necropolis_se_11
+
+  17576086:
+    template: Nekros_Hound
+    at:       [179.397, -0.277, -98.166, 200]
+    level:    [93, 95]
+
+  17576087:
+    template: Nekros_Hound
+    level:    [93, 95]
+    region:   the_eldieme_necropolis_se_15
+
+  17576088:
+    template: Nekros_Hound
+    level:    [93, 95]
+    region:   the_eldieme_necropolis_se_15
+
+  17576089:
+    template: Nekros_Hound
+    at:       [334.523, -32.051, -123.427, 255]
+    level:    [93, 95]
+
+  17576090:
+    template: Nekros_Hound
+    at:       [345.712, -32.051, -157.398, 127]
+    level:    [93, 95]
+
+  17576091:
+    template: Lost_Soul
+    level:    [45, 46]
+    region:   the_eldieme_necropolis_se_16
+
+  17576092:
+    template: Lost_Soul
+    level:    [45, 46]
+    region:   the_eldieme_necropolis_se_16
+
+  17576093:
+    template: Lost_Soul
+    level:    [45, 46]
+    region:   the_eldieme_necropolis_se_16
+
+  17576094:
+    template: Lost_Soul
+    level:    [45, 46]
+    region:   the_eldieme_necropolis_se_16
+
+  17576095:
+    template: Hell_Hound
+    level:    [46, 49]
+    region:   the_eldieme_necropolis_e_19
+
+  17576096:
+    template: Revenant
+    at:       [381.371, -40.051, 22.000, 253]
+    level:    [44, 47]
+
+  17576097:
+    template: Revenant
+    at:       [384.591, -40.051, 19.237, 147]
+    level:    [44, 47]
+
+  17576098:
+    template: Revenant
+    at:       [376.559, -40.051, 20.060, 97]
+    level:    [44, 47]
+
+  17576099:
+    template: Hell_Hound
+    level:    [46, 49]
+    region:   the_eldieme_necropolis_e_14
+
+  17576100:
+    template: Hell_Hound
+    level:    [46, 49]
+    region:   the_eldieme_necropolis_e_14
+
+  17576101:
+    template: Hell_Hound
+    level:    [46, 49]
+    region:   the_eldieme_necropolis_e_14
+
+  17576102:
+    template: Hell_Hound
+    level:    [46, 49]
+    region:   the_eldieme_necropolis_e_15
+
+  17576103:
+    template: Hell_Hound
+    level:    [46, 49]
+    region:   the_eldieme_necropolis_e_15
+
+  17576104:
+    template: Hell_Hound
+    level:    [46, 49]
+    region:   the_eldieme_necropolis_e_15
+
+  17576105:
+    template: Ka
+    at:       [311.494, -27.513, 35.067, 58]
+    level:    [52, 54]
+
+  17576106:
+    template: Ka
+    level:    [52, 54]
+    region:   the_eldieme_necropolis_e_13
+
+  17576107:
+    template: Ka
+    level:    [52, 54]
+    region:   the_eldieme_necropolis_e_13
+
+  17576108:
+    template: Ka
+    at:       [293.479, -27.552, 15.527, 65]
+    level:    [52, 54]
+
+  17576109:
+    template: Blood_Soul
+    level:    [50, 52]
+    region:   the_eldieme_necropolis_e_13
+
+  17576110:
+    template: Blood_Soul
+    level:    [50, 52]
+    region:   the_eldieme_necropolis_e_13
+
+  17576111:
+    template: Blood_Soul
+    level:    [50, 52]
+    region:   the_eldieme_necropolis_e_13
+
+  17576112:
+    template: Dark_Stalker
+    level:    [57, 59]
+    region:   the_eldieme_necropolis_e_10
+
+  17576113:
+    template: Dark_Stalker
+    level:    [57, 59]
+    region:   the_eldieme_necropolis_e_10
+
+  17576114:
+    template: Dark_Stalker
+    at:       [173.009, -27.757, 146.525, 121]
+    level:    [57, 59]
+
+  17576115:
+    template: Dark_Stalker
+    at:       [174.097, -28.500, 121.675, 186]
+    level:    [57, 59]
+
+  17576116:
+    template: Utukku
+    level:    [55, 57]
+    region:   the_eldieme_necropolis_e_10
+
+  17576117:
+    template: Utukku
+    level:    [55, 57]
+    region:   the_eldieme_necropolis_e_10
+
+  17576118:
+    template: Utukku
+    level:    [55, 57]
+    region:   the_eldieme_necropolis_e_10
+
+  17576119:
+    template: Ka
+    level:    [52, 54]
+    region:   the_eldieme_necropolis_se_4
+
+  17576120:
+    template: Ka
+    level:    [52, 54]
+    region:   the_eldieme_necropolis_se_4
+
+  17576121:
+    template: Ka
+    at:       [168.419, -27.670, -111.634, 184]
+    level:    [52, 54]
+
+  17576122:
+    template: Ka
+    at:       [202.869, -31.250, -101.167, 252]
+    level:    [52, 54]
+
+  17576123:
+    template: Blood_Soul
+    level:    [50, 52]
+    region:   the_eldieme_necropolis_se_4
+
+  17576124:
+    template: Blood_Soul
+    level:    [50, 52]
+    region:   the_eldieme_necropolis_se_4
+
+  17576125:
+    template: Blood_Soul
+    level:    [50, 52]
+    region:   the_eldieme_necropolis_se_4
+
+  17576126:
+    template: Dark_Stalker
+    at:       [66.695, -27.997, 2.430, 102]
+    level:    [57, 59]
+
+  17576127:
+    template: Dark_Stalker
+    level:    [57, 59]
+    region:   the_eldieme_necropolis_c_8
+
+  17576128:
+    template: Dark_Stalker
+    level:    [57, 59]
+    region:   the_eldieme_necropolis_c_8
+
+  17576129:
+    template: Dark_Stalker
+    at:       [78.432, -27.826, 13.744, 66]
+    level:    [57, 59]
+
+  17576130:
+    template: Utukku
+    level:    [55, 57]
+    region:   the_eldieme_necropolis_c_8
+
+  17576131:
+    template: Utukku
+    level:    [55, 57]
+    region:   the_eldieme_necropolis_c_8
+
+  17576132:
+    template: Utukku
+    level:    [55, 57]
+    region:   the_eldieme_necropolis_c_8
+
+  17576133:
+    template: Azer
+    at:       [258.375, -32.051, 19.479, 248]
+    level:    [51, 53]
+
+  17576134:
+    template: Azer
+    at:       [176.459, -32.051, 97.435, 200]
+    level:    [51, 53]
+
+  17576135:
+    template: Azer
+    at:       [176.898, -32.051, -56.319, 59]
+    level:    [51, 53]
+
+  17576136:
+    template: Azer
+    at:       [109.985, -32.051, 23.942, 63]
+    level:    [51, 53]
+
+  17576137:
+    template: Fallen_Knight
+    at:       [260.199, -33.167, 99.255, 122]
+    level:    [54, 56]
+
+  17576138:
+    template: Lich
+    at:       [266.324, -32.051, 101.523, 53]
+    level:    [52, 54]
+
+  17576139:
+    template: Lich
+    at:       [260.844, -33.239, 100.819, 191]
+    level:    [52, 54]
+
+  17576140:
+    template: Fallen_Knight
+    at:       [260.651, -33.905, -60.904, 253]
+    level:    [54, 56]
+
+  17576141:
+    template: Lich
+    at:       [253.627, -32.051, -63.462, 55]
+    level:    [52, 54]
+
+  17576142:
+    template: Lich
+    at:       [259.281, -32.051, -53.446, 192]
+    level:    [52, 54]
+
+  17576143:
+    template: Fallen_Knight
+    at:       [99.238, -33.333, 98.244, 43]
+    level:    [54, 56]
+
+  17576144:
+    template: Fallen_Knight
+    at:       [102.614, -33.166, 100.150, 119]
+    level:    [54, 56]
+
+  17576145:
+    template: Lich
+    at:       [98.949, -33.250, 100.713, 186]
+    level:    [52, 54]
+
+  17576146:
+    template: Fallen_Knight
+    at:       [103.817, -32.000, -54.345, 164]
+    level:    [54, 56]
+
+  17576147:
+    template: Fallen_Knight
+    level:    [54, 56]
+    region:   the_eldieme_necropolis_se
+
+  17576148:
+    template: Lich
+    at:       [99.304, -33.241, -58.481, 212]
+    level:    [52, 54]
+
+  17576149:
+    template: Ka
+    at:       [218.834, -32.051, 10.271, 70]
+    level:    [52, 54]
+
+  17576150:
+    template: Ka
+    level:    [52, 54]
+    region:   the_eldieme_necropolis_e_9
+
+  17576151:
+    template: Ka
+    at:       [186.407, -31.049, 16.021, 83]
+    level:    [52, 54]
+
+  17576152:
+    template: Ka
+    level:    [52, 54]
+    region:   the_eldieme_necropolis_e_9
+
+  17576153:
+    template: Tomb_Wolf
+    level:    [53, 55]
+    region:   the_eldieme_necropolis_e_12
+
+  17576154:
+    template: Tomb_Wolf
+    level:    [53, 55]
+    region:   the_eldieme_necropolis_e_12
+
+  17576155:
+    template: Ice_Elemental
+    at:       [220.835, -32.051, 30.241, 63]
+    level:    [52, 55]
+
+  17576156:
+    template: Earth_Elemental
+    level:    [52, 55]
+    region:   the_eldieme_necropolis_e_12
+
+  17576157:
+    template: Tomb_Wolf
+    level:    [53, 55]
+    region:   the_eldieme_necropolis_e_8
+
+  17576158:
+    template: Tomb_Wolf
+    level:    [53, 55]
+    region:   the_eldieme_necropolis_e_8
+
+  17576159:
+    template: Ice_Elemental
+    at:       [159.953, -32.051, 59.704, 0]
+    level:    [52, 55]
+
+  17576160:
+    template: Earth_Elemental
+    level:    [52, 55]
+    region:   the_eldieme_necropolis_e_8
+
+  17576161:
+    template: Tomb_Wolf
+    level:    [53, 55]
+    region:   the_eldieme_necropolis_e_7
+
+  17576162:
+    template: Tomb_Wolf
+    level:    [53, 55]
+    region:   the_eldieme_necropolis_e_7
+
+  17576163:
+    template: Ice_Elemental
+    at:       [170.399, -32.051, -18.512, 252]
+    level:    [52, 55]
+
+  17576164:
+    template: Earth_Elemental
+    level:    [52, 55]
+    region:   the_eldieme_necropolis_e_7
+
+  17576165:
+    template: Tomb_Wolf
+    level:    [53, 55]
+    region:   the_eldieme_necropolis_e_6
+
+  17576166:
+    template: Tomb_Wolf
+    level:    [53, 55]
+    region:   the_eldieme_necropolis_e_6
+
+  17576167:
+    template: Ice_Elemental
+    at:       [140.258, -32.051, 2.562, 64]
+    level:    [52, 55]
+
+  17576168:
+    template: Earth_Elemental
+    level:    [52, 55]
+    region:   the_eldieme_necropolis_e_6
+
+  17576169:
+    template: Tomb_Wolf
+    level:    [53, 55]
+    region:   the_eldieme_necropolis_e_11
+
+  17576170:
+    template: Tomb_Wolf
+    level:    [53, 55]
+    region:   the_eldieme_necropolis_e_4
+
+  17576171:
+    template: Tomb_Wolf
+    level:    [53, 55]
+    region:   the_eldieme_necropolis_c_10
+
+  17576172:
+    template: Tomb_Wolf
+    level:    [53, 55]
+    region:   the_eldieme_necropolis_c_9
+
+  17576173:
+    template: Tomb_Wolf
+    level:    [53, 55]
+    region:   the_eldieme_necropolis_se_2
+
+  17576174:
+    template: Tomb_Wolf
+    level:    [53, 55]
+    region:   the_eldieme_necropolis_se_6
+
+  17576175:
+    template: Haunt
+    at:       [188.435, -0.063, -91.368, 225]
+    level:    [63, 65]
+
+  17576176:
+    template: Haunt
+    at:       [183.369, -0.206, -86.186, 208]
+    level:    [63, 65]
+
+  17576177:
+    template: Tomb_Warrior
+    level:    [60, 62]
+    region:   the_eldieme_necropolis_se_3
+
+  17576178:
+    template: Tomb_Warrior
+    level:    [60, 62]
+    region:   the_eldieme_necropolis_se_3
+
+  17576179:
+    template: Tomb_Mage
+    level:    [60, 63]
+    region:   the_eldieme_necropolis_se_3
+
+  17576180:
+    template: Shade
+    at:       [178.306, 0.108, -178.086, 232]
+    level:    [46, 48]
+
+  17576181:
+    template: Shade
+    at:       [181.449, 0.049, -178.283, 44]
+    level:    [46, 48]
+
+  17576182:
+    template: Shade
+    at:       [182.000, -8.051, 16.000, 127]
+    level:    [46, 48]
+
+  17576183:
+    template: Shade
+    at:       [179.386, -8.051, 23.779, 127]
+    level:    [46, 48]
+
+  17576184:
+    template: Lost_Soul
+    at:       [265.793, -0.051, 15.326, 127]
+    level:    [45, 46]
+
+  17576185:
+    template: Lost_Soul
+    at:       [174.947, -0.385, -187.972, 146]
+    level:    [45, 46]
+
+  17576186:
+    template: Ka
+    at:       [334.257, -0.051, 23.577, 127]
+    level:    [52, 54]
+
+  17576187:
+    template: Ka
+    at:       [341.236, -0.051, 12.751, 115]
+    level:    [52, 54]
+
+  17576188:
+    template: Ka
+    at:       [186.838, -8.051, 24.579, 10]
+    level:    [52, 54]
+
+  17576189:
+    template: Ka
+    at:       [175.100, -8.051, 24.978, 245]
+    level:    [52, 54]
+
+  17576190:
+    template: Fallen_Knight
+    at:       [260.000, -1.248, 19.152, 67]
+    level:    [54, 56]
+
+  17576191:
+    template: Fallen_Knight
+    at:       [261.073, -1.223, 21.064, 29]
+    level:    [54, 56]
+
+  17576192:
+    template: Lich
+    at:       [258.518, -1.107, 20.067, 35]
+    level:    [53, 55]
+
+  17576193:
+    template: Fallen_Knight
+    at:       [343.988, -0.050, 26.178, 7]
+    level:    [54, 56]
+
+  17576194:
+    template: Fallen_Knight
+    at:       [342.399, -1.116, 19.867, 233]
+    level:    [54, 56]
+
+  17576195:
+    template: Lich
+    at:       [339.052, -1.274, 19.354, 22]
+    level:    [53, 55]
+
+  17576196:
+    template: Dark_Stalker
+    at:       [296.484, -0.500, 60.391, 40]
+    level:    [57, 59]
+
+  17576197:
+    template: Dark_Stalker
+    at:       [305.802, -0.500, 60.342, 222]
+    level:    [57, 59]
+
+  17576198:
+    template: Dark_Stalker
+    at:       [295.839, -0.051, 69.523, 144]
+    level:    [57, 59]
+
+  17576199:
+    template: Dark_Stalker
+    at:       [304.877, -0.051, 69.755, 241]
+    level:    [57, 59]
+
+  17576200:
+    template: Dark_Stalker
+    at:       [299.507, 0.033, -12.920, 48]
+    level:    [57, 59]
+
+  17576201:
+    template: Dark_Stalker
+    at:       [299.448, 0.237, -22.545, 196]
+    level:    [57, 59]
+
+  17576202:
+    template: Dark_Stalker
+    at:       [290.764, -0.051, -25.983, 64]
+    level:    [57, 59]
+
+  17576203:
+    template: Dark_Stalker
+    at:       [299.528, 0.250, 4.955, 221]
+    level:    [57, 59]
+
+  17576204:
+    template: Ice_Elemental
+    at:       [295.354, 0.948, 14.378, 8]
+    level:    [52, 55]
+
+  17576205:
+    template: Earth_Elemental
+    level:    [52, 55]
+    region:   the_eldieme_necropolis_e_13
+
+  17576206:
+    template: Tomb_Warrior
+    level:    [60, 62]
+    region:   the_eldieme_necropolis_e_17
+
+  17576207:
+    template: Tomb_Warrior
+    level:    [60, 62]
+    region:   the_eldieme_necropolis_e_17
+
+  17576208:
+    template: Tomb_Mage
+    level:    [60, 63]
+    region:   the_eldieme_necropolis_e_17
+
+  17576209:
+    template: Spriggan
+    level:    [64, 66]
+    region:   the_eldieme_necropolis_e_18
+
+  17576210:
+    template: Spriggan
+    at:       [416.001, 0.326, 109.829, 206]
+    level:    [64, 66]
+
+  17576211:
+    template: Spriggan
+    level:    [64, 66]
+    region:   the_eldieme_necropolis_e_18
+
+  17576212:
+    template: Spriggan
+    level:    [64, 66]
+    region:   the_eldieme_necropolis_e_18
+
+  17576213:
+    template: Spriggan
+    level:    [64, 66]
+    region:   the_eldieme_necropolis_e_18
+
+  17576214:
+    template: Spriggan
+    at:       [415.214, -0.209, 105.739, 208]
+    level:    [64, 66]
+
+  17576215:
+    template: Spriggan
+    at:       [381.893, -0.307, 136.374, 81]
+    level:    [64, 66]
+
+  17576216:
+    template: Spriggan
+    level:    [64, 66]
+    region:   the_eldieme_necropolis_e_18
+
+  17576217:
+    template: Haunt
+    level:    [63, 65]
+    region:   the_eldieme_necropolis_e_18
+
+  17576218:
+    template: Haunt
+    level:    [63, 65]
+    region:   the_eldieme_necropolis_e_18
+
+  17576219:
+    template: Haunt
+    level:    [63, 65]
+    region:   the_eldieme_necropolis_e_18
+
+  17576220:
+    template: Haunt
+    level:    [63, 65]
+    region:   the_eldieme_necropolis_e_18
+
+  17576221:
+    template: Tomb_Warrior
+    level:    [60, 62]
+    region:   the_eldieme_necropolis_e_16
+
+  17576222:
+    template: Tomb_Warrior
+    level:    [60, 62]
+    region:   the_eldieme_necropolis_e_16
+
+  17576223:
+    template: Tomb_Mage
+    level:    [60, 63]
+    region:   the_eldieme_necropolis_e_16
+
+  17576224:
+    template: Tomb_Mage
+    level:    [60, 63]
+    region:   the_eldieme_necropolis_e_16
+
+  17576225:
+    template: Spriggan
+    level:    [64, 66]
+    region:   the_eldieme_necropolis_c_8
+
+  17576226:
+    template: Spriggan
+    at:       [61.577, -0.653, 7.166, 12]
+    level:    [64, 66]
+
+  17576227:
+    template: Spriggan
+    level:    [64, 66]
+    region:   the_eldieme_necropolis_c_8
+
+  17576228:
+    template: Spriggan
+    at:       [53.178, -0.092, 25.888, 254]
+    level:    [64, 66]
+
+  17576229:
+    template: Haunt
+    level:    [63, 65]
+    region:   the_eldieme_necropolis_c_8
+
+  17576230:
+    template: Haunt
+    level:    [63, 65]
+    region:   the_eldieme_necropolis_c_8
+
+  17576231:
+    template: Haunt
+    level:    [63, 65]
+    region:   the_eldieme_necropolis_c_8
+
+  17576232:
+    template: Tomb_Warrior
+    level:    [60, 62]
+    region:   the_eldieme_necropolis_c_7
+
+  17576233:
+    template: Tomb_Warrior
+    level:    [60, 62]
+    region:   the_eldieme_necropolis_c_7
+
+  17576234:
+    template: Tomb_Mage
+    level:    [60, 63]
+    region:   the_eldieme_necropolis_c_7
+
+  17576235:
+    template: Tomb_Mage
+    level:    [60, 63]
+    region:   the_eldieme_necropolis_c_7
+
+  17576236:
+    template: Shade
+    level:    [46, 48]
+    region:   the_eldieme_necropolis_e
+
+  17576237:
+    template: Shade
+    at:       [90.856, -8.079, 142.888, 95]
+    level:    [46, 48]
+
+  17576238:
+    template: Shade
+    at:       [100.154, -7.829, 133.244, 44]
+    level:    [46, 48]
+
+  17576239:
+    template: Shade
+    level:    [46, 48]
+    region:   the_eldieme_necropolis_e
+
+  17576240:
+    template: Lost_Soul
+    level:    [45, 46]
+    region:   the_eldieme_necropolis_e_2
+
+  17576241:
+    template: Lost_Soul
+    level:    [45, 46]
+    region:   the_eldieme_necropolis_e_2
+
+  17576242:
+    template: Lost_Soul
+    level:    [45, 46]
+    region:   the_eldieme_necropolis_e
+
+  17576243:
+    template: Lost_Soul
+    level:    [45, 46]
+    region:   the_eldieme_necropolis_e
+
+  17576244:
+    template: Spriggan
+    level:    [64, 66]
+    region:   the_eldieme_necropolis_e_10
+
+  17576245:
+    template: Spriggan
+    at:       [178.347, -0.750, 137.267, 179]
+    level:    [64, 66]
+
+  17576246:
+    template: Spriggan
+    level:    [64, 66]
+    region:   the_eldieme_necropolis_e_10
+
+  17576247:
+    template: Spriggan
+    at:       [170.434, -0.082, 142.470, 208]
+    level:    [64, 66]
+
+  17576248:
+    template: Haunt
+    level:    [63, 65]
+    region:   the_eldieme_necropolis_e_10
+
+  17576249:
+    template: Haunt
+    level:    [63, 65]
+    region:   the_eldieme_necropolis_e_10
+
+  17576250:
+    template: Haunt
+    level:    [63, 65]
+    region:   the_eldieme_necropolis_e_10
+
+  17576251:
+    template: Tomb_Warrior
+    level:    [60, 62]
+    region:   the_eldieme_necropolis_e_5
+
+  17576252:
+    template: Tomb_Warrior
+    level:    [60, 62]
+    region:   the_eldieme_necropolis_e_5
+
+  17576253:
+    template: Tomb_Warrior
+    level:    [60, 62]
+    region:   the_eldieme_necropolis_e_5
+
+  17576254:
+    template: Tomb_Mage
+    level:    [60, 63]
+    region:   the_eldieme_necropolis_e_5
+
+  17576255:
+    template: Tomb_Mage
+    level:    [60, 63]
+    region:   the_eldieme_necropolis_e_5
+
+  17576256:
+    template: Tomb_Warrior
+    level:    [60, 62]
+    region:   the_eldieme_necropolis_e_3
+
+  17576257:
+    template: Tomb_Warrior
+    level:    [60, 62]
+    region:   the_eldieme_necropolis_e_3
+
+  17576258:
+    template: Tomb_Mage
+    level:    [60, 63]
+    region:   the_eldieme_necropolis_e_3
+
+  17576259:
+    template: Tomb_Mage
+    level:    [60, 63]
+    region:   the_eldieme_necropolis_e_3
+
+  17576260:
+    template: Tomb_Warrior
+    level:    [60, 62]
+    region:   the_eldieme_necropolis_ne
+
+  17576261:
+    template: Tomb_Warrior
+    level:    [60, 62]
+    region:   the_eldieme_necropolis_ne
+
+  17576262:
+    template: Tomb_Mage
+    level:    [60, 63]
+    region:   the_eldieme_necropolis_ne
+
+  17576263:
+    template: Tomb_Mage
+    level:    [60, 63]
+    region:   the_eldieme_necropolis_ne
+
+  17576264:
+    template: Yum_Kimil
+    at:       [-421.036, 7.500, 505.506, 222]
+    level:    [54, 54]
+
+  17576265:
+    template: Dog_Guardian
+    at:       [-421.414, 7.500, 502.336, 218]
+    level:    [52, 52]
+
+  17576266:
+    template: Owl_Guardian
+    at:       [-420.622, 7.500, 504.018, 227]
+    level:    [52, 52]
+
+  17576267:
+    template: Sturm
+    at:       [-412.175, 6.000, 503.615, 120]
+    level:    [62, 62]
+
+  17576268:
+    template: Taifun
+    at:       [-414.222, 8.000, 504.432, 65]
+    level:    [58, 58]
+
+  17576269:
+    template: Trombe
+    at:       [-414.272, 8.000, 496.999, 193]
+    level:    [58, 58]
+
+  17576270:
+    template: Mimic
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [60, 60]
+
+  17576271:
+    template: Ice_Elemental
+    at:       [102.815, -0.761, -180.001, 0]
+    level:    [75, 75]
+
+  17576272:
+    template: Namorodo
+    at:       [-261.763, -0.517, 147.821, 209]
+    level:    [61, 65]
+
+  17576273:
+    template: Namorodo
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [61, 65]
+
+  17576274:
+    template: Namorodo
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [61, 65]
+
+  17576275:
+    template: Gasha
+    at:       [-2.000, 0.500, 43.000, 108]
+    level:    [94, 95]
+
+  17576276:
+    template: Gasha
+    at:       [42.000, -15.500, 322.000, 0]
+    level:    [94, 95]
+
+  17576277:
+    template: Gasha
+    at:       [180.000, -0.750, 140.000, 242]
+    level:    [94, 95]

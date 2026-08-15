@@ -1,0 +1,1288 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17870849:
+    template: Sleettooth_Jagil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17870850:
+    template: Sleettooth_Jagil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17870851:
+    template: Hoarvein_Leech
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17870852:
+    template: Hoarvein_Leech
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17870853:
+    template: Blubbering_Ruszor
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [0, 0]
+
+  17870854:
+    template: Snowpelt_Rabbit
+    level:    [111, 113]
+    region:   kamihr_drifts_se_7
+
+  17870855:
+    template: Snowpelt_Rabbit
+    level:    [111, 113]
+    region:   kamihr_drifts_se_7
+
+  17870856:
+    template: Snowpelt_Rabbit
+    level:    [111, 113]
+    region:   kamihr_drifts_se_7
+
+  17870857:
+    template: Cyanotic_Raptor
+    level:    [111, 113]
+    region:   kamihr_drifts_se_6
+
+  17870858:
+    template: Cyanotic_Raptor
+    level:    [111, 113]
+    region:   kamihr_drifts_se_6
+
+  17870859:
+    template: Cyanotic_Raptor
+    level:    [111, 113]
+    region:   kamihr_drifts_se_6
+
+  17870860:
+    template: Snowpelt_Rabbit
+    level:    [111, 113]
+    region:   kamihr_drifts_se_4
+
+  17870861:
+    template: Snowpelt_Rabbit
+    level:    [111, 113]
+    region:   kamihr_drifts_se_4
+
+  17870862:
+    template: Cicatricose_Raaz
+    level:    [111, 113]
+    region:   kamihr_drifts_se_5
+
+  17870863:
+    template: Cicatricose_Raaz
+    level:    [111, 113]
+    region:   kamihr_drifts_se_5
+
+  17870864:
+    template: Snowpelt_Rabbit
+    level:    [111, 113]
+    region:   kamihr_drifts_se_3
+
+  17870865:
+    template: Snowpelt_Rabbit
+    level:    [111, 113]
+    region:   kamihr_drifts_se_3
+
+  17870866:
+    template: Snowpelt_Rabbit
+    level:    [111, 113]
+    region:   kamihr_drifts_se_3
+
+  17870867:
+    template: Cicatricose_Raaz
+    level:    [111, 113]
+    region:   kamihr_drifts_se_2
+
+  17870868:
+    template: Cicatricose_Raaz
+    level:    [111, 113]
+    region:   kamihr_drifts_se_2
+
+  17870869:
+    template: Cicatricose_Raaz
+    level:    [111, 113]
+    region:   kamihr_drifts_se_2
+
+  17870870:
+    template: Snowpelt_Rabbit
+    level:    [111, 113]
+    region:   kamihr_drifts_s_6
+
+  17870871:
+    template: Snowpelt_Rabbit
+    level:    [111, 113]
+    region:   kamihr_drifts_s_6
+
+  17870872:
+    template: Cyanotic_Raptor
+    at:       [121.854, 39.659, -318.434, 145]
+    level:    [111, 113]
+
+  17870873:
+    template: Cyanotic_Raptor
+    at:       [122.351, 40.828, -309.155, 121]
+    level:    [111, 113]
+
+  17870874:
+    template: Wailing_Umbril
+    at:       [77.887, 39.922, -365.939, 44]
+    level:    [111, 113]
+
+  17870875:
+    template: Wailing_Umbril
+    at:       [83.045, 39.752, -369.036, 60]
+    level:    [111, 113]
+
+  17870876:
+    template: Wailing_Umbril
+    at:       [79.117, 36.693, -360.163, 177]
+    level:    [111, 113]
+
+  17870877:
+    template: Wailing_Umbril
+    at:       [66.188, 38.786, -462.880, 224]
+    level:    [111, 113]
+
+  17870878:
+    template: Wailing_Umbril
+    at:       [71.320, 39.316, -458.122, 158]
+    level:    [111, 113]
+
+  17870879:
+    template: Snowpelt_Rabbit
+    level:    [111, 113]
+    region:   kamihr_drifts_s_4
+
+  17870880:
+    template: Snowpelt_Rabbit
+    level:    [111, 113]
+    region:   kamihr_drifts_s_4
+
+  17870881:
+    template: Snowpelt_Rabbit
+    level:    [111, 113]
+    region:   kamihr_drifts_s_4
+
+  17870882:
+    template: Bedraggled_Lucerewe
+    level:    [111, 113]
+    region:   kamihr_drifts_s
+
+  17870883:
+    template: Bedraggled_Lucerewe
+    level:    [111, 113]
+    region:   kamihr_drifts_s
+
+  17870884:
+    template: Bedraggled_Lucerewe
+    level:    [111, 113]
+    region:   kamihr_drifts_s
+
+  17870885:
+    template: Shaggy_Ovim
+    level:    [111, 113]
+    region:   kamihr_drifts_sw_9
+
+  17870886:
+    template: Shaggy_Ovim
+    level:    [111, 113]
+    region:   kamihr_drifts_sw_9
+
+  17870887:
+    template: Shaggy_Ovim
+    level:    [111, 113]
+    region:   kamihr_drifts_sw_9
+
+  17870888:
+    template: Shaggy_Ovim
+    level:    [111, 113]
+    region:   kamihr_drifts_sw_9
+
+  17870889:
+    template: Shaggy_Ovim
+    level:    [111, 113]
+    region:   kamihr_drifts_sw_9
+
+  17870890:
+    template: Bedraggled_Lucerewe
+    level:    [111, 113]
+    region:   kamihr_drifts_sw_7
+
+  17870891:
+    template: Bedraggled_Lucerewe
+    level:    [111, 113]
+    region:   kamihr_drifts_sw_7
+
+  17870892:
+    template: Bedraggled_Lucerewe
+    level:    [111, 113]
+    region:   kamihr_drifts_sw_7
+
+  17870893:
+    template: Bedraggled_Lucerewe
+    level:    [111, 113]
+    region:   kamihr_drifts_sw_7
+
+  17870894:
+    template: Shaggy_Ovim
+    level:    [111, 113]
+    region:   kamihr_drifts_sw_4
+
+  17870895:
+    template: Shaggy_Ovim
+    level:    [111, 113]
+    region:   kamihr_drifts_sw_4
+
+  17870896:
+    template: Shaggy_Ovim
+    level:    [111, 113]
+    region:   kamihr_drifts_sw_4
+
+  17870897:
+    template: Shaggy_Ovim
+    level:    [111, 113]
+    region:   kamihr_drifts_sw_4
+
+  17870898:
+    template: Bedraggled_Lucerewe
+    level:    [111, 113]
+    region:   kamihr_drifts_sw_5
+
+  17870899:
+    template: Bedraggled_Lucerewe
+    level:    [111, 113]
+    region:   kamihr_drifts_sw_5
+
+  17870900:
+    template: Bedraggled_Lucerewe
+    level:    [111, 113]
+    region:   kamihr_drifts_sw_5
+
+  17870901:
+    template: Bedraggled_Lucerewe
+    level:    [111, 113]
+    region:   kamihr_drifts_sw_5
+
+  17870902:
+    template: Cyanotic_Raptor
+    at:       [-166.713, 59.971, -400.035, 161]
+    level:    [111, 113]
+
+  17870903:
+    template: Cyanotic_Raptor
+    at:       [-159.191, 59.756, -403.310, 74]
+    level:    [111, 113]
+
+  17870904:
+    template: Cyanotic_Raptor
+    at:       [-161.171, 59.976, -410.159, 127]
+    level:    [111, 113]
+
+  17870905:
+    template: Snowpelt_Rabbit
+    level:    [111, 113]
+    region:   kamihr_drifts_s_2
+
+  17870906:
+    template: Snowpelt_Rabbit
+    level:    [111, 113]
+    region:   kamihr_drifts_s_2
+
+  17870907:
+    template: Snowpelt_Rabbit
+    level:    [111, 113]
+    region:   kamihr_drifts_s_2
+
+  17870908:
+    template: Cicatricose_Raaz
+    at:       [-277.358, 39.575, -318.914, 203]
+    level:    [111, 113]
+
+  17870909:
+    template: Cicatricose_Raaz
+    at:       [-276.565, 39.528, -322.677, 154]
+    level:    [111, 113]
+
+  17870910:
+    template: Cicatricose_Raaz
+    at:       [-273.742, 39.879, -310.850, 87]
+    level:    [111, 113]
+
+  17870911:
+    template: Shaggy_Ovim
+    level:    [111, 113]
+    region:   kamihr_drifts_sw
+
+  17870912:
+    template: Shaggy_Ovim
+    level:    [111, 113]
+    region:   kamihr_drifts_sw
+
+  17870913:
+    template: Shaggy_Ovim
+    level:    [111, 113]
+    region:   kamihr_drifts_sw
+
+  17870914:
+    template: Bedraggled_Lucerewe
+    level:    [111, 113]
+    region:   kamihr_drifts_sw_2
+
+  17870915:
+    template: Bedraggled_Lucerewe
+    level:    [111, 113]
+    region:   kamihr_drifts_sw_2
+
+  17870916:
+    template: Bedraggled_Lucerewe
+    level:    [111, 113]
+    region:   kamihr_drifts_sw_3
+
+  17870917:
+    template: Bedraggled_Lucerewe
+    level:    [111, 113]
+    region:   kamihr_drifts_sw_3
+
+  17870918:
+    template: Snowpelt_Rabbit
+    at:       [-250.819, 40.243, -190.465, 71]
+    level:    [111, 113]
+
+  17870919:
+    template: Snowpelt_Rabbit
+    at:       [-242.086, 39.083, -189.335, 124]
+    level:    [111, 113]
+
+  17870920:
+    template: Snowpelt_Rabbit
+    at:       [-251.800, 40.691, -193.710, 191]
+    level:    [111, 113]
+
+  17870921:
+    template: Wailing_Umbril
+    at:       [139.647, 43.412, -214.189, 73]
+    level:    [111, 113]
+
+  17870922:
+    template: Wailing_Umbril
+    at:       [138.625, 43.256, -228.549, 18]
+    level:    [111, 113]
+
+  17870923:
+    template: Wailing_Umbril
+    at:       [144.723, 48.882, -221.578, 228]
+    level:    [111, 113]
+
+  17870924:
+    template: Snowpelt_Rabbit
+    level:    [111, 113]
+    region:   kamihr_drifts_sw_6
+
+  17870925:
+    template: Snowpelt_Rabbit
+    level:    [111, 113]
+    region:   kamihr_drifts_sw_6
+
+  17870926:
+    template: Snowpelt_Rabbit
+    level:    [111, 113]
+    region:   kamihr_drifts_sw_6
+
+  17870927:
+    template: Shaggy_Ovim
+    level:    [111, 113]
+    region:   kamihr_drifts_sw_8
+
+  17870928:
+    template: Shaggy_Ovim
+    level:    [111, 113]
+    region:   kamihr_drifts_sw_8
+
+  17870929:
+    template: Shaggy_Ovim
+    level:    [111, 113]
+    region:   kamihr_drifts_sw_8
+
+  17870930:
+    template: Cicatricose_Raaz
+    level:    [111, 113]
+    region:   kamihr_drifts_s_3
+
+  17870931:
+    template: Cicatricose_Raaz
+    level:    [111, 113]
+    region:   kamihr_drifts_s_3
+
+  17870932:
+    template: Cicatricose_Raaz
+    level:    [111, 113]
+    region:   kamihr_drifts_s_3
+
+  17870933:
+    template: Cicatricose_Raaz
+    level:    [111, 113]
+    region:   kamihr_drifts_s_3
+
+  17870934:
+    template: Cyanotic_Raptor
+    level:    [111, 113]
+    region:   kamihr_drifts_s_5
+
+  17870935:
+    template: Cyanotic_Raptor
+    level:    [111, 113]
+    region:   kamihr_drifts_s_5
+
+  17870936:
+    template: Cyanotic_Raptor
+    level:    [111, 113]
+    region:   kamihr_drifts_s_5
+
+  17870937:
+    template: Cicatricose_Raaz
+    level:    [111, 113]
+    region:   kamihr_drifts_c_4
+
+  17870938:
+    template: Cicatricose_Raaz
+    level:    [111, 113]
+    region:   kamihr_drifts_c_4
+
+  17870939:
+    template: Cicatricose_Raaz
+    level:    [111, 113]
+    region:   kamihr_drifts_c_4
+
+  17870940:
+    template: Cicatricose_Raaz
+    level:    [111, 113]
+    region:   kamihr_drifts_c_7
+
+  17870941:
+    template: Snowpelt_Rabbit
+    level:    [111, 113]
+    region:   kamihr_drifts_e
+
+  17870942:
+    template: Snowpelt_Rabbit
+    level:    [111, 113]
+    region:   kamihr_drifts_e
+
+  17870943:
+    template: Graupel_Formation
+    at:       [243.747, 39.500, -60.722, 114]
+    level:    [1, 1]
+
+  17870944:
+    template: Graupel_Formation
+    at:       [237.789, 39.254, -56.097, 118]
+    level:    [1, 1]
+
+  17870945:
+    template: Wailing_Umbril
+    at:       [149.384, 42.738, -127.687, 161]
+    level:    [111, 113]
+
+  17870946:
+    template: Wailing_Umbril
+    at:       [156.590, 43.416, -122.610, 21]
+    level:    [111, 113]
+
+  17870947:
+    template: Wailing_Umbril
+    at:       [168.789, 42.488, -122.823, 131]
+    level:    [111, 113]
+
+  17870948:
+    template: Cyanotic_Raptor
+    level:    [111, 113]
+    region:   kamihr_drifts_se
+
+  17870949:
+    template: Cyanotic_Raptor
+    level:    [111, 113]
+    region:   kamihr_drifts_se
+
+  17870950:
+    template: Graupel_Formation
+    at:       [197.190, 39.822, -205.165, 112]
+    level:    [1, 1]
+
+  17870951:
+    template: Graupel_Formation
+    at:       [243.779, 40.533, -151.865, 41]
+    level:    [1, 1]
+
+  17870952:
+    template: Graupel_Formation
+    at:       [249.507, 39.579, -166.522, 64]
+    level:    [1, 1]
+
+  17870953:
+    template: Graupel_Formation
+    at:       [294.579, 39.479, -194.274, 84]
+    level:    [1, 1]
+
+  17870954:
+    template: Graupel_Formation
+    at:       [297.353, 39.615, -194.124, 107]
+    level:    [1, 1]
+
+  17870955:
+    template: Snowpelt_Rabbit
+    level:    [111, 113]
+    region:   kamihr_drifts_e_3
+
+  17870956:
+    template: Graupel_Formation
+    at:       [-45.959, 19.871, -49.473, 83]
+    level:    [1, 1]
+
+  17870957:
+    template: Graupel_Formation
+    at:       [-31.739, 19.977, -45.912, 60]
+    level:    [1, 1]
+
+  17870958:
+    template: Hailstone
+    at:       [-34.472, 19.954, -36.995, 55]
+    level:    [111, 113]
+
+  17870959:
+    template: Hailstone
+    at:       [-43.075, 20.909, -30.295, 198]
+    level:    [111, 113]
+
+  17870960:
+    template: Cicatricose_Raaz
+    level:    [111, 113]
+    region:   kamihr_drifts_c_2
+
+  17870961:
+    template: Cicatricose_Raaz
+    level:    [111, 113]
+    region:   kamihr_drifts_c_2
+
+  17870962:
+    template: Graupel_Formation
+    at:       [-8.567, 19.928, 61.430, 18]
+    level:    [1, 1]
+
+  17870963:
+    template: Graupel_Formation
+    at:       [0.815, 21.056, 69.775, 0]
+    level:    [1, 1]
+
+  17870964:
+    template: Graupel_Formation
+    at:       [146.539, 20.355, 55.721, 105]
+    level:    [1, 1]
+
+  17870965:
+    template: Graupel_Formation
+    at:       [2.533, 20.495, 47.983, 7]
+    level:    [1, 1]
+
+  17870966:
+    template: Cicatricose_Raaz
+    level:    [111, 113]
+    region:   kamihr_drifts_c_3
+
+  17870967:
+    template: Bedraggled_Lucerewe
+    level:    [111, 113]
+    region:   kamihr_drifts_w_3
+
+  17870968:
+    template: Bedraggled_Lucerewe
+    level:    [111, 113]
+    region:   kamihr_drifts_w_3
+
+  17870969:
+    template: Bedraggled_Lucerewe
+    level:    [111, 113]
+    region:   kamihr_drifts_w_3
+
+  17870970:
+    template: Cicatricose_Raaz
+    level:    [111, 113]
+    region:   kamihr_drifts_n
+
+  17870971:
+    template: Cicatricose_Raaz
+    level:    [111, 113]
+    region:   kamihr_drifts_n
+
+  17870972:
+    template: Bedraggled_Lucerewe
+    level:    [111, 113]
+    region:   kamihr_drifts_w_2
+
+  17870973:
+    template: Bedraggled_Lucerewe
+    level:    [111, 113]
+    region:   kamihr_drifts_w_2
+
+  17870974:
+    template: Bedraggled_Lucerewe
+    level:    [111, 113]
+    region:   kamihr_drifts_w_2
+
+  17870975:
+    template: Graupel_Formation
+    at:       [-211.928, 20.548, 65.101, 1]
+    level:    [1, 1]
+
+  17870976:
+    template: Graupel_Formation
+    at:       [-193.433, 19.910, 39.700, 108]
+    level:    [1, 1]
+
+  17870977:
+    template: Shaggy_Ovim
+    level:    [111, 113]
+    region:   kamihr_drifts_w
+
+  17870978:
+    template: Shaggy_Ovim
+    level:    [111, 113]
+    region:   kamihr_drifts_w
+
+  17870979:
+    template: Shaggy_Ovim
+    level:    [111, 113]
+    region:   kamihr_drifts_w
+
+  17870980:
+    template: Graupel_Formation
+    at:       [-245.032, 19.897, 86.367, 74]
+    level:    [1, 1]
+
+  17870981:
+    template: Graupel_Formation
+    at:       [-235.107, 21.442, 57.362, 68]
+    level:    [1, 1]
+
+  17870982:
+    template: Hailstone
+    at:       [-105.869, 21.433, 42.794, 18]
+    level:    [111, 113]
+
+  17870983:
+    template: Hailstone
+    level:    [111, 113]
+    region:   kamihr_drifts_w_4
+
+  17870984:
+    template: Gnarring_Yztarg
+    level:    [111, 113]
+    region:   kamihr_drifts_c
+
+  17870985:
+    template: Hailstone
+    at:       [-152.677, 19.847, 7.545, 51]
+    level:    [111, 113]
+
+  17870986:
+    template: Hailstone
+    at:       [-156.070, 19.760, -2.645, 151]
+    level:    [111, 113]
+
+  17870987:
+    template: Wailing_Umbril
+    at:       [-232.793, 22.102, -36.983, 201]
+    level:    [111, 113]
+
+  17870988:
+    template: Wailing_Umbril
+    at:       [-238.916, 22.541, -34.056, 32]
+    level:    [111, 113]
+
+  17870989:
+    template: Wailing_Umbril
+    at:       [-236.168, 22.336, -36.272, 142]
+    level:    [111, 113]
+
+  17870990:
+    template: Graupel_Formation
+    at:       [-326.929, 23.500, 168.725, 83]
+    level:    [1, 1]
+
+  17870991:
+    template: Hailstone
+    level:    [111, 113]
+    region:   kamihr_drifts_nw
+
+  17870992:
+    template: Hailstone
+    level:    [111, 113]
+    region:   kamihr_drifts_nw
+
+  17870993:
+    template: Cicatricose_Raaz
+    level:    [111, 113]
+    region:   kamihr_drifts_nw_2
+
+  17870994:
+    template: Cicatricose_Raaz
+    level:    [111, 113]
+    region:   kamihr_drifts_nw_2
+
+  17870995:
+    template: Hailstone
+    level:    [111, 113]
+    region:   kamihr_drifts_nw_3
+
+  17870996:
+    template: Hailstone
+    level:    [111, 113]
+    region:   kamihr_drifts_nw_3
+
+  17870997:
+    template: Ashen_Tiger
+    level:    [111, 113]
+    region:   kamihr_drifts_nw_4
+
+  17870998:
+    template: Ashen_Tiger
+    level:    [111, 113]
+    region:   kamihr_drifts_nw_4
+
+  17870999:
+    template: Bedraggled_Lucerewe
+    level:    [111, 113]
+    region:   kamihr_drifts_nw_5
+
+  17871000:
+    template: Bedraggled_Lucerewe
+    level:    [111, 113]
+    region:   kamihr_drifts_nw_5
+
+  17871001:
+    template: Graupel_Formation
+    at:       [-122.072, 20.000, 208.310, 111]
+    level:    [1, 1]
+
+  17871002:
+    template: Graupel_Formation
+    level:    [1, 1]
+    region:   kamihr_drifts_nw_6
+
+  17871003:
+    template: Hailstone
+    level:    [111, 113]
+    region:   kamihr_drifts_nw_5
+
+  17871004:
+    template: Graupel_Formation
+    at:       [6.335, 19.629, 273.257, 48]
+    level:    [1, 1]
+
+  17871005:
+    template: Graupel_Formation
+    at:       [-1.406, 20.000, 288.962, 23]
+    level:    [1, 1]
+
+  17871006:
+    template: Cicatricose_Raaz
+    level:    [111, 113]
+    region:   kamihr_drifts_n_4
+
+  17871007:
+    template: Cicatricose_Raaz
+    level:    [111, 113]
+    region:   kamihr_drifts_n_4
+
+  17871008:
+    template: Ashen_Tiger
+    level:    [111, 113]
+    region:   kamihr_drifts_n_5
+
+  17871009:
+    template: Ashen_Tiger
+    level:    [111, 113]
+    region:   kamihr_drifts_n_5
+
+  17871010:
+    template: Ashen_Tiger
+    level:    [111, 113]
+    region:   kamihr_drifts_n_5
+
+  17871011:
+    template: Gnarring_Yztarg
+    level:    [111, 113]
+    region:   kamihr_drifts_n_3
+
+  17871012:
+    template: Gnarring_Yztarg
+    level:    [111, 113]
+    region:   kamihr_drifts_n_3
+
+  17871013:
+    template: Ashen_Tiger
+    level:    [111, 113]
+    region:   kamihr_drifts_n_2
+
+  17871014:
+    template: Ashen_Tiger
+    level:    [111, 113]
+    region:   kamihr_drifts_n_2
+
+  17871015:
+    template: Slobbering_Ruszor
+    level:    [111, 113]
+    region:   kamihr_drifts_ne
+
+  17871016:
+    template: Slobbering_Ruszor
+    level:    [111, 113]
+    region:   kamihr_drifts_ne
+
+  17871017:
+    template: Slobbering_Ruszor
+    level:    [111, 113]
+    region:   kamihr_drifts_ne_2
+
+  17871018:
+    template: Slobbering_Ruszor
+    level:    [111, 113]
+    region:   kamihr_drifts_ne_2
+
+  17871019:
+    template: Ashen_Tiger
+    level:    [111, 113]
+    region:   kamihr_drifts_e_2
+
+  17871020:
+    template: Ashen_Tiger
+    level:    [111, 113]
+    region:   kamihr_drifts_e_2
+
+  17871021:
+    template: Ashen_Tiger
+    level:    [111, 113]
+    region:   kamihr_drifts_e_2
+
+  17871022:
+    template: Graupel_Formation
+    at:       [199.318, 19.655, 123.245, 81]
+    level:    [1, 1]
+
+  17871023:
+    template: Ashen_Tiger
+    level:    [111, 113]
+    region:   kamihr_drifts_c_5
+
+  17871024:
+    template: Ashen_Tiger
+    level:    [111, 113]
+    region:   kamihr_drifts_c_5
+
+  17871025:
+    template: Shaggy_Ovim
+    level:    [111, 113]
+    region:   kamihr_drifts_c_6
+
+  17871026:
+    template: Shaggy_Ovim
+    level:    [111, 113]
+    region:   kamihr_drifts_c_6
+
+  17871027:
+    template: Shaggy_Ovim
+    level:    [111, 113]
+    region:   kamihr_drifts_c_6
+
+  17871028:
+    template: Graupel_Formation
+    at:       [-296.538, 39.418, -189.819, 7]
+    level:    [1, 1]
+
+  17871029:
+    template: Graupel_Formation
+    at:       [-337.539, 39.771, -177.881, 7]
+    level:    [1, 1]
+
+  17871030:
+    template: Shivering_Heartwing
+    level:    [111, 113]
+    region:   kamihr_drifts_sw_6
+
+  17871031:
+    template: Sprightly_Leafkin
+    level:    [111, 113]
+    region:   kamihr_drifts_sw_6
+
+  17871032:
+    template: Sprightly_Leafkin
+    level:    [111, 113]
+    region:   kamihr_drifts_sw_6
+
+  17871033:
+    template: Sprightly_Leafkin
+    level:    [111, 113]
+    region:   kamihr_drifts_sw_6
+
+  17871034:
+    template: Sprightly_Leafkin
+    level:    [111, 113]
+    region:   kamihr_drifts_sw_6
+
+  17871035:
+    template: Wintry_Cave
+    at:       [120.000, 39.500, -440.000, 62]
+    level:    [111, 113]
+
+  17871036:
+    template: Snowpaw_Rabbit
+    at:       [120.649, 39.829, -438.592, 144]
+    level:    [111, 113]
+
+  17871037:
+    template: Snowpaw_Rabbit
+    at:       [123.192, 39.741, -438.282, 241]
+    level:    [111, 113]
+
+  17871038:
+    template: Famished_Raaz
+    at:       [125.032, 39.751, -439.488, 209]
+    level:    [111, 113]
+
+  17871039:
+    template: Famished_Raaz
+    at:       [123.612, 29.749, -436.896, 249]
+    level:    [111, 113]
+
+  17871040:
+    template: Wintry_Cave
+    at:       [-40.000, 39.749, -156.000, 12]
+    level:    [111, 113]
+
+  17871041:
+    template: Snowpaw_Rabbit
+    at:       [-42.337, 39.927, -154.242, 176]
+    level:    [111, 113]
+
+  17871042:
+    template: Snowpaw_Rabbit
+    at:       [-37.884, 39.895, -154.823, 148]
+    level:    [111, 113]
+
+  17871043:
+    template: Incensed_Lucerewe
+    at:       [-40.767, 39.966, -152.194, 137]
+    level:    [111, 113]
+
+  17871044:
+    template: Incensed_Lucerewe
+    at:       [-35.187, 39.920, -153.735, 208]
+    level:    [111, 113]
+
+  17871045:
+    template: Wintry_Cave
+    at:       [126.000, 20.000, 34.000, 20]
+    level:    [111, 113]
+
+  17871046:
+    template: Frostfang_Tiger
+    at:       [129.283, 19.774, 38.428, 0]
+    level:    [111, 113]
+
+  17871047:
+    template: Frostfang_Tiger
+    at:       [131.252, 19.461, 33.365, 47]
+    level:    [111, 113]
+
+  17871048:
+    template: Famished_Raaz
+    at:       [122.600, 19.633, 38.693, 137]
+    level:    [111, 113]
+
+  17871049:
+    template: Famished_Raaz
+    at:       [122.907, 19.812, 36.448, 57]
+    level:    [111, 113]
+
+  17871050:
+    template: Wintry_Cave
+    at:       [-40.000, 19.687, 243.500, 18]
+    level:    [111, 113]
+
+  17871051:
+    template: Incensed_Lucerewe
+    at:       [-34.807, 19.998, 247.802, 252]
+    level:    [111, 113]
+
+  17871052:
+    template: Incensed_Lucerewe
+    at:       [-39.365, 19.999, 247.024, 151]
+    level:    [111, 113]
+
+  17871053:
+    template: Contumacious_Ovim
+    at:       [-44.323, 19.706, 241.508, 10]
+    level:    [111, 113]
+
+  17871054:
+    template: Contumacious_Ovim
+    at:       [-37.427, 19.999, 244.853, 151]
+    level:    [111, 113]
+
+  17871055:
+    template: Wintry_Cave
+    at:       [40.000, -0.250, 356.000, 83]
+    level:    [111, 113]
+
+  17871056:
+    template: Frostfang_Tiger
+    at:       [36.755, -0.028, 354.118, 28]
+    level:    [111, 113]
+
+  17871057:
+    template: Frostfang_Tiger
+    at:       [33.488, -0.142, 357.912, 133]
+    level:    [111, 113]
+
+  17871058:
+    template: Contumacious_Ovim
+    at:       [44.551, -0.172, 357.967, 247]
+    level:    [111, 113]
+
+  17871059:
+    template: Contumacious_Ovim
+    at:       [31.405, -0.047, 353.680, 84]
+    level:    [111, 113]
+
+  17871060:
+    template: Icy_Palisade
+    at:       [114.751, 38.621, -269.382, 126]
+    level:    [111, 113]
+
+  17871061:
+    template: Icy_Palisade
+    at:       [110.185, 39.807, -273.816, 24]
+    level:    [111, 113]
+
+  17871062:
+    template: Alpine_Rabbit
+    at:       [113.876, 39.890, -275.752, 221]
+    level:    [111, 113]
+
+  17871063:
+    template: Alpine_Rabbit
+    at:       [117.389, 39.827, -272.190, 222]
+    level:    [111, 113]
+
+  17871064:
+    template: Territorial_Lucerewe
+    at:       [107.165, 39.520, -270.041, 117]
+    level:    [111, 113]
+
+  17871065:
+    template: Territorial_Lucerewe
+    at:       [110.566, 39.573, -269.579, 97]
+    level:    [111, 113]
+
+  17871066:
+    template: Icy_Palisade
+    at:       [246.362, 38.000, -110.184, 114]
+    level:    [111, 113]
+
+  17871067:
+    template: Icy_Palisade
+    at:       [250.712, 38.000, -114.448, 92]
+    level:    [111, 113]
+
+  17871068:
+    template: Sharptusk_Raaz
+    at:       [245.069, 39.846, -115.016, 253]
+    level:    [111, 113]
+
+  17871069:
+    template: Sharptusk_Raaz
+    at:       [245.343, 39.810, -115.216, 232]
+    level:    [111, 113]
+
+  17871070:
+    template: Raptor_Nightstalker
+    at:       [251.582, 39.323, -110.323, 63]
+    level:    [111, 113]
+
+  17871071:
+    template: Raptor_Nightstalker
+    at:       [249.132, 39.351, -107.609, 19]
+    level:    [111, 113]
+
+  17871072:
+    template: Icy_Palisade
+    at:       [-34.229, 18.000, 11.000, 32]
+    level:    [111, 113]
+
+  17871073:
+    template: Icy_Palisade
+    at:       [-30.394, 18.000, 6.062, 103]
+    level:    [111, 113]
+
+  17871074:
+    template: Umberwood_Tiger
+    at:       [-37.614, 19.979, 9.011, 178]
+    level:    [111, 113]
+
+  17871075:
+    template: Umberwood_Tiger
+    at:       [-34.671, 19.925, 5.422, 223]
+    level:    [111, 113]
+
+  17871076:
+    template: Chilblain_Snoll
+    at:       [-26.975, 19.513, 14.247, 227]
+    level:    [111, 113]
+
+  17871077:
+    template: Chilblain_Snoll
+    at:       [-29.266, 19.587, 15.244, 211]
+    level:    [111, 113]
+
+  17871078:
+    template: Icy_Palisade
+    at:       [-354.640, -1.799, 269.495, 83]
+    level:    [111, 113]
+
+  17871079:
+    template: Icy_Palisade
+    at:       [-350.069, -1.799, 273.916, 95]
+    level:    [111, 113]
+
+  17871080:
+    template: Alpine_Rabbit
+    at:       [-346.755, -1.006, 268.213, 50]
+    level:    [111, 113]
+
+  17871081:
+    template: Territorial_Lucerewe
+    at:       [-344.667, -0.663, 268.953, 239]
+    level:    [111, 113]
+
+  17871082:
+    template: Pungent_Ovim
+    at:       [-354.602, -0.052, 274.754, 94]
+    level:    [111, 113]
+
+  17871083:
+    template: Territorial_Lucerewe
+    at:       [-358.480, -0.304, 275.886, 189]
+    level:    [111, 113]
+
+  17871084:
+    template: Kumhau
+    level:    [117, 119]
+    region:   kamihr_drifts_ne_5
+
+  17871085:
+    template: Kumhaus_Claw
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17871086:
+    template: Kumhaus_Claw
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17871087:
+    template: Kumhaus_Claw
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17871088:
+    template: Kumhaus_Fleshrender
+    level:    [0, 0]
+    region:   kamihr_drifts_ne_3
+
+  17871089:
+    template: Kumhaus_Fleshrender
+    level:    [0, 0]
+    region:   kamihr_drifts_ne_3
+
+  17871090:
+    template: Kumhaus_Fleshrender
+    level:    [0, 0]
+    region:   kamihr_drifts_ne_3
+
+  17871091:
+    template: Kumhaus_Hoof
+    level:    [0, 0]
+    region:   kamihr_drifts_ne_3
+
+  17871092:
+    template: Kumhaus_Hoof
+    level:    [0, 0]
+    region:   kamihr_drifts_ne_3
+
+  17871093:
+    template: Kumhaus_Hoof
+    level:    [0, 0]
+    region:   kamihr_drifts_ne_3
+
+  17871094:
+    template: Kumhaus_Fleshrender
+    level:    [0, 0]
+    region:   kamihr_drifts_ne_4
+
+  17871095:
+    template: Kumhaus_Fleshrender
+    level:    [0, 0]
+    region:   kamihr_drifts_ne_4
+
+  17871096:
+    template: Kumhaus_Hoof
+    level:    [0, 0]
+    region:   kamihr_drifts_ne_4
+
+  17871097:
+    template: Kumhaus_Hoof
+    level:    [0, 0]
+    region:   kamihr_drifts_ne_4
+
+  17871098:
+    template: Kumhaus_Claw
+    level:    [0, 0]
+    region:   kamihr_drifts_ne_4
+
+  17871099:
+    template: Kumhaus_Claw
+    level:    [0, 0]
+    region:   kamihr_drifts_ne_4
+
+  17871100:
+    template: Calydontis
+    at:       [232.589, 39.816, -270.530, 42]
+    level:    [0, 0]
+
+  17871101:
+    template: Azeman
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17871102:
+    template: Sinaa
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17871103:
+    template: Cherti
+    at:       [-207.057, 19.076, 91.819, 78]
+    level:    [0, 0]
+
+  17871104:
+    template: Mirka
+    at:       [-327.512, 23.353, 152.927, 190]
+    level:    [0, 0]
+
+  17871105:
+    template: Awoken_Nihhus
+    at:       [-268.590, 19.550, 67.500, 72]
+    level:    [119, 119]

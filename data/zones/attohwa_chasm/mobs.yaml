@@ -1,0 +1,2003 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  16805889:
+    template: Tracer_Antlion
+    level:    [38, 40]
+    region:   attohwa_chasm_s_11
+
+  16805890:
+    template: Tracer_Antlion
+    level:    [38, 40]
+    region:   attohwa_chasm_s_11
+
+  16805891:
+    template: Gallinipper
+    level:    [36, 38]
+    region:   attohwa_chasm_s_11
+
+  16805892:
+    template: Gallinipper
+    level:    [36, 38]
+    region:   attohwa_chasm_s_11
+
+  16805893:
+    template: Goblin_Smithy
+    level:    [37, 39]
+    region:   attohwa_chasm_s_11
+
+  16805894:
+    template: Goblin_Shaman
+    level:    [35, 37]
+    region:   attohwa_chasm_s_11
+
+  16805895:
+    template: Tracer_Antlion
+    level:    [38, 40]
+    region:   attohwa_chasm_se
+
+  16805896:
+    template: Doom_Scorpion
+    level:    [41, 44]
+    region:   attohwa_chasm_se
+
+  16805897:
+    template: Doom_Scorpion
+    level:    [41, 44]
+    region:   attohwa_chasm_se
+
+  16805898:
+    template: Gallinipper
+    level:    [36, 38]
+    region:   attohwa_chasm_se
+
+  16805899:
+    template: Gallinipper
+    level:    [36, 38]
+    region:   attohwa_chasm_se
+
+  16805900:
+    template: Tracer_Antlion
+    level:    [38, 40]
+    region:   attohwa_chasm_c_10
+
+  16805901:
+    template: Tracer_Antlion
+    level:    [38, 40]
+    region:   attohwa_chasm_c_10
+
+  16805902:
+    template: Goblin_Shaman
+    level:    [35, 37]
+    region:   attohwa_chasm_c_10
+
+  16805903:
+    template: Goblin_Furrier
+    level:    [35, 37]
+    region:   attohwa_chasm_c_10
+
+  16805904:
+    template: Goblin_Pathfinder
+    level:    [36, 38]
+    region:   attohwa_chasm_c_9
+
+  16805905:
+    template: Goblins_Gallinipper
+    level:    [31, 34]
+    region:   attohwa_chasm_c_9
+
+  16805906:
+    template: Goblin_Furrier
+    level:    [35, 37]
+    region:   attohwa_chasm_c_9
+
+  16805907:
+    template: Gallinipper
+    level:    [36, 38]
+    region:   attohwa_chasm_c_9
+
+  16805908:
+    template: Gallinipper
+    level:    [36, 38]
+    region:   attohwa_chasm_c_9
+
+  16805909:
+    template: Attohwa_Coeurl
+    level:    [37, 39]
+    region:   attohwa_chasm_ne
+
+  16805910:
+    template: Tracer_Antlion
+    level:    [38, 40]
+    region:   attohwa_chasm_ne_2
+
+  16805911:
+    template: Gallinipper
+    level:    [36, 38]
+    region:   attohwa_chasm_ne_2
+
+  16805912:
+    template: Goblin_Furrier
+    level:    [35, 37]
+    region:   attohwa_chasm_ne_2
+
+  16805913:
+    template: Goblin_Smithy
+    at:       [293.777, 19.742, 217.787, 174]
+    level:    [36, 38]
+
+  16805914:
+    template: Doom_Scorpion
+    level:    [41, 44]
+    region:   attohwa_chasm_ne_4
+
+  16805915:
+    template: Doom_Scorpion
+    level:    [41, 44]
+    region:   attohwa_chasm_ne_4
+
+  16805916:
+    template: Gallinipper
+    level:    [36, 38]
+    region:   attohwa_chasm_ne_4
+
+  16805917:
+    template: Goblin_Furrier
+    at:       [339.884, 20.165, 233.752, 158]
+    level:    [35, 37]
+
+  16805918:
+    template: Goblin_Shaman
+    level:    [35, 37]
+    region:   attohwa_chasm_ne_4
+
+  16805919:
+    template: Gallinipper
+    level:    [36, 38]
+    region:   attohwa_chasm_ne_5
+
+  16805920:
+    template: Gallinipper
+    level:    [36, 38]
+    region:   attohwa_chasm_ne_5
+
+  16805921:
+    template: Goblin_Smithy
+    level:    [37, 39]
+    region:   attohwa_chasm_ne_5
+
+  16805922:
+    template: Attohwa_Coeurl
+    level:    [37, 39]
+    region:   attohwa_chasm_e_13
+
+  16805923:
+    template: Attohwa_Coeurl
+    level:    [37, 39]
+    region:   attohwa_chasm_e_13
+
+  16805924:
+    template: Tracer_Antlion
+    level:    [38, 40]
+    region:   attohwa_chasm_e_15
+
+  16805925:
+    template: Tracer_Antlion
+    level:    [38, 40]
+    region:   attohwa_chasm_e_15
+
+  16805926:
+    template: Goblin_Pathfinder
+    level:    [38, 39]
+    region:   attohwa_chasm_e_15
+
+  16805927:
+    template: Goblins_Gallinipper
+    level:    [31, 34]
+    region:   attohwa_chasm_e_15
+
+  16805928:
+    template: Tracer_Antlion
+    level:    [38, 40]
+    region:   attohwa_chasm_e_16
+
+  16805929:
+    template: Doom_Scorpion
+    level:    [41, 44]
+    region:   attohwa_chasm_e_16
+
+  16805930:
+    template: Gallinipper
+    level:    [37, 39]
+    region:   attohwa_chasm_e_16
+
+  16805931:
+    template: Attohwa_Coeurl
+    at:       [499.121, 19.274, 49.069, 162]
+    level:    [37, 39]
+
+  16805932:
+    template: Attohwa_Coeurl
+    at:       [472.409, 19.123, -1.265, 223]
+    level:    [38, 39]
+
+  16805933:
+    template: Doom_Scorpion
+    level:    [41, 44]
+    region:   attohwa_chasm_e_11
+
+  16805934:
+    template: Doom_Scorpion
+    level:    [41, 44]
+    region:   attohwa_chasm_e_11
+
+  16805935:
+    template: Gallinipper
+    level:    [37, 39]
+    region:   attohwa_chasm_e_11
+
+  16805936:
+    template: Chasm_Lizard
+    level:    [40, 42]
+    region:   attohwa_chasm_e_11
+
+  16805937:
+    template: Burrow_Antlion
+    at:       [231.151, 19.330, 171.645, 0]
+    level:    [41, 44]
+
+  16805938:
+    template: Chasm_Lizard
+    level:    [40, 42]
+    region:   attohwa_chasm_e_7
+
+  16805939:
+    template: Goblin_Smithy
+    level:    [37, 39]
+    region:   attohwa_chasm_e_7
+
+  16805940:
+    template: Chasm_Lizard
+    level:    [40, 42]
+    region:   attohwa_chasm_e_5
+
+  16805941:
+    template: Gallinipper
+    level:    [37, 39]
+    region:   attohwa_chasm_e_5
+
+  16805942:
+    template: Chasm_Lizard
+    at:       [270.963, 19.542, 83.237, 240]
+    level:    [40, 42]
+
+  16805943:
+    template: Gallinipper
+    at:       [241.207, 20.018, 57.551, 79]
+    level:    [37, 39]
+
+  16805944:
+    template: Goblin_Smithy
+    level:    [37, 39]
+    region:   attohwa_chasm_e_3
+
+  16805945:
+    template: Gallinipper
+    level:    [37, 39]
+    region:   attohwa_chasm_e_2
+
+  16805946:
+    template: Tracer_Antlion
+    level:    [38, 40]
+    region:   attohwa_chasm_e_2
+
+  16805947:
+    template: Tracer_Antlion
+    level:    [38, 40]
+    region:   attohwa_chasm_se_5
+
+  16805948:
+    template: Goblin_Furrier
+    level:    [35, 37]
+    region:   attohwa_chasm_se_5
+
+  16805949:
+    template: Chasm_Lizard
+    level:    [40, 42]
+    region:   attohwa_chasm_se_8
+
+  16805950:
+    template: Goblin_Furrier
+    level:    [35, 37]
+    region:   attohwa_chasm_se_8
+
+  16805951:
+    template: Chasm_Lizard
+    level:    [40, 42]
+    region:   attohwa_chasm_se_12
+
+  16805952:
+    template: Gallinipper
+    level:    [37, 39]
+    region:   attohwa_chasm_se_12
+
+  16805953:
+    template: Goblin_Shaman
+    level:    [35, 37]
+    region:   attohwa_chasm_se_12
+
+  16805954:
+    template: Goblin_Shaman
+    level:    [35, 37]
+    region:   attohwa_chasm_e_10
+
+  16805955:
+    template: Goblin_Shaman
+    level:    [35, 37]
+    region:   attohwa_chasm_e_10
+
+  16805956:
+    template: Tracer_Antlion
+    level:    [38, 40]
+    region:   attohwa_chasm_se_3
+
+  16805957:
+    template: Goblin_Pathfinder
+    level:    [38, 39]
+    region:   attohwa_chasm_se_3
+
+  16805958:
+    template: Goblins_Gallinipper
+    level:    [31, 34]
+    region:   attohwa_chasm_se_3
+
+  16805959:
+    template: Gallinipper
+    level:    [37, 39]
+    region:   attohwa_chasm_se_2
+
+  16805960:
+    template: Gallinipper
+    level:    [37, 39]
+    region:   attohwa_chasm_se_2
+
+  16805961:
+    template: Attohwa_Coeurl
+    level:    [37, 39]
+    region:   attohwa_chasm_se_2
+
+  16805962:
+    template: Sekhmet
+    level:    [52, 53]
+    region:   attohwa_chasm_se_2
+
+  16805963:
+    template: Tracer_Antlion
+    level:    [38, 40]
+    region:   attohwa_chasm_e
+
+  16805964:
+    template: Attohwa_Coeurl
+    level:    [37, 39]
+    region:   attohwa_chasm_e
+
+  16805965:
+    template: Attohwa_Coeurl
+    level:    [37, 39]
+    region:   attohwa_chasm_ne_3
+
+  16805966:
+    template: Burrow_Antlion
+    at:       [276.375, 19.518, 122.663, 0]
+    level:    [41, 44]
+
+  16805967:
+    template: Attohwa_Coeurl
+    at:       [278.849, 19.385, 120.320, 90]
+    level:    [37, 39]
+
+  16805968:
+    template: Chasm_Lizard
+    at:       [262.444, 19.414, 134.738, 74]
+    level:    [40, 42]
+
+  16805969:
+    template: Tracer_Antlion
+    level:    [38, 40]
+    region:   attohwa_chasm_e_4
+
+  16805970:
+    template: Tracer_Antlion
+    level:    [38, 40]
+    region:   attohwa_chasm_e_4
+
+  16805971:
+    template: Goblin_Smithy
+    at:       [236.959, 19.500, 118.408, 211]
+    level:    [37, 39]
+
+  16805972:
+    template: Goblin_Shaman
+    level:    [37, 39]
+    region:   attohwa_chasm_e_4
+
+  16805973:
+    template: Chasm_Lizard
+    level:    [40, 42]
+    region:   attohwa_chasm_e_4
+
+  16805974:
+    template: Burrow_Antlion
+    at:       [405.358, 19.500, 116.128, 0]
+    level:    [41, 44]
+
+  16805975:
+    template: Gallinipper
+    level:    [37, 39]
+    region:   attohwa_chasm_e_6
+
+  16805976:
+    template: Attohwa_Coeurl
+    level:    [37, 39]
+    region:   attohwa_chasm_e_6
+
+  16805977:
+    template: Gallinipper
+    level:    [37, 39]
+    region:   attohwa_chasm_e_8
+
+  16805978:
+    template: Gallinipper
+    level:    [37, 39]
+    region:   attohwa_chasm_e_9
+
+  16805979:
+    template: Goblin_Robber
+    level:    [42, 44]
+    region:   attohwa_chasm_se_4
+
+  16805980:
+    template: Goblin_Trader
+    level:    [42, 44]
+    region:   attohwa_chasm_se_4
+
+  16805981:
+    template: Goblins_Ogrefly
+    level:    [38, 39]
+    region:   attohwa_chasm_se_4
+
+  16805982:
+    template: Goblin_Reaper
+    level:    [42, 44]
+    region:   attohwa_chasm_se_6
+
+  16805983:
+    template: Master_Coeurl
+    at:       [284.138, 19.410, -161.315, 53]
+    level:    [46, 47]
+
+  16805984:
+    template: Burrow_Antlion
+    at:       [315.398, 19.822, -146.192, 0]
+    level:    [41, 44]
+
+  16805985:
+    template: Goblin_Poacher
+    at:       [285.575, 19.411, -196.078, 15]
+    level:    [42, 44]
+
+  16805986:
+    template: Goblin_Robber
+    at:       [309.058, 19.500, -173.137, 192]
+    level:    [42, 44]
+
+  16805987:
+    template: Goblin_Reaper
+    level:    [42, 44]
+    region:   attohwa_chasm_se_7
+
+  16805988:
+    template: Ogrefly
+    level:    [44, 46]
+    region:   attohwa_chasm_se_7
+
+  16805989:
+    template: Ogrefly
+    level:    [44, 46]
+    region:   attohwa_chasm_se_7
+
+  16805990:
+    template: Master_Coeurl
+    at:       [313.366, 19.319, -203.489, 68]
+    level:    [46, 47]
+
+  16805991:
+    template: Burrow_Antlion
+    at:       [328.095, 19.770, -213.731, 0]
+    level:    [41, 44]
+
+  16805992:
+    template: Hunter_Antlion
+    level:    [45, 46]
+    region:   attohwa_chasm_se_9
+
+  16805993:
+    template: Ogrefly
+    level:    [44, 46]
+    region:   attohwa_chasm_se_9
+
+  16805994:
+    template: Burrow_Antlion
+    at:       [374.945, 19.200, -171.876, 0]
+    level:    [41, 44]
+
+  16805995:
+    template: Ogrefly
+    level:    [44, 46]
+    region:   attohwa_chasm_se_10
+
+  16805996:
+    template: Goblin_Poacher
+    level:    [42, 44]
+    region:   attohwa_chasm_se_10
+
+  16805997:
+    template: Goblin_Trader
+    level:    [42, 44]
+    region:   attohwa_chasm_se_11
+
+  16805998:
+    template: Goblins_Ogrefly
+    level:    [38, 39]
+    region:   attohwa_chasm_se_11
+
+  16805999:
+    template: Hunter_Antlion
+    level:    [45, 46]
+    region:   attohwa_chasm_se_13
+
+  16806000:
+    template: Ogrefly
+    level:    [44, 46]
+    region:   attohwa_chasm_se_13
+
+  16806001:
+    template: Ogrefly
+    level:    [44, 46]
+    region:   attohwa_chasm_se_13
+
+  16806002:
+    template: Doom_Scorpion
+    level:    [41, 44]
+    region:   attohwa_chasm_se_14
+
+  16806003:
+    template: Doom_Scorpion
+    level:    [41, 44]
+    region:   attohwa_chasm_se_14
+
+  16806004:
+    template: Doom_Scorpion
+    level:    [41, 44]
+    region:   attohwa_chasm_se_14
+
+  16806005:
+    template: Bane_Lizard
+    level:    [47, 48]
+    region:   attohwa_chasm_se_14
+
+  16806006:
+    template: Bane_Lizard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [47, 48]
+
+  16806007:
+    template: Ogrefly
+    level:    [45, 47]
+    region:   attohwa_chasm_se_14
+
+  16806008:
+    template: Ogrefly
+    level:    [45, 47]
+    region:   attohwa_chasm_se_14
+
+  16806009:
+    template: Bane_Lizard
+    level:    [47, 48]
+    region:   attohwa_chasm_se_15
+
+  16806010:
+    template: Bane_Lizard
+    level:    [47, 48]
+    region:   attohwa_chasm_se_15
+
+  16806011:
+    template: Pit_Antlion
+    at:       [479.291, 20.358, -219.867, 0]
+    level:    [49, 51]
+
+  16806012:
+    template: Hunter_Antlion
+    level:    [45, 46]
+    region:   attohwa_chasm_se_18
+
+  16806013:
+    template: Hunter_Antlion
+    level:    [45, 46]
+    region:   attohwa_chasm_se_18
+
+  16806014:
+    template: Bane_Lizard
+    level:    [47, 48]
+    region:   attohwa_chasm_se_17
+
+  16806015:
+    template: Ogrefly
+    level:    [45, 47]
+    region:   attohwa_chasm_se_17
+
+  16806016:
+    template: Master_Coeurl
+    level:    [47, 48]
+    region:   attohwa_chasm_se_16
+
+  16806017:
+    template: Ogrefly
+    level:    [45, 47]
+    region:   attohwa_chasm_se_16
+
+  16806018:
+    template: Master_Coeurl
+    level:    [47, 48]
+    region:   attohwa_chasm_e_12
+
+  16806019:
+    template: Ogrefly
+    level:    [46, 47]
+    region:   attohwa_chasm_e_12
+
+  16806020:
+    template: Pit_Antlion
+    at:       [464.744, 19.539, -97.982, 0]
+    level:    [49, 51]
+
+  16806021:
+    template: Hunter_Antlion
+    level:    [45, 46]
+    region:   attohwa_chasm_se_19
+
+  16806022:
+    template: Hunter_Antlion
+    level:    [45, 46]
+    region:   attohwa_chasm_se_19
+
+  16806023:
+    template: Ogrefly
+    level:    [45, 47]
+    region:   attohwa_chasm_se_19
+
+  16806024:
+    template: Pit_Antlion
+    at:       [468.221, 19.500, -27.535, 0]
+    level:    [49, 51]
+
+  16806025:
+    template: Bane_Lizard
+    level:    [47, 49]
+    region:   attohwa_chasm_se_20
+
+  16806026:
+    template: Bane_Lizard
+    level:    [47, 49]
+    region:   attohwa_chasm_se_20
+
+  16806027:
+    template: Ogrefly
+    level:    [45, 47]
+    region:   attohwa_chasm_se_20
+
+  16806028:
+    template: Master_Coeurl
+    level:    [47, 48]
+    region:   attohwa_chasm_e_14
+
+  16806029:
+    template: Ogrefly
+    level:    [46, 47]
+    region:   attohwa_chasm_e_14
+
+  16806030:
+    template: Master_Coeurl
+    at:       [460.625, 19.397, -28.494, 142]
+    level:    [47, 48]
+
+  16806031:
+    template: Lioumere
+    at:       [478.863, 19.500, 41.673, 27]
+    level:    [51, 52]
+
+  16806032:
+    template: Hecteyes
+    at:       [-140.453, 19.578, -187.775, 83]
+    level:    [35, 37]
+
+  16806033:
+    template: Hecteyes
+    level:    [35, 37]
+    region:   attohwa_chasm_s_2
+
+  16806034:
+    template: Hecteyes
+    level:    [35, 37]
+    region:   attohwa_chasm_s_4
+
+  16806035:
+    template: Hecteyes
+    level:    [35, 37]
+    region:   attohwa_chasm_s_4
+
+  16806036:
+    template: Flesh_Eater
+    level:    [34, 35]
+    region:   attohwa_chasm_s_4
+
+  16806037:
+    template: Hecteyes
+    level:    [35, 37]
+    region:   attohwa_chasm_s_10
+
+  16806038:
+    template: Hecteyes
+    level:    [35, 37]
+    region:   attohwa_chasm_s_10
+
+  16806039:
+    template: Flesh_Eater
+    level:    [34, 35]
+    region:   attohwa_chasm_s_10
+
+  16806040:
+    template: Flesh_Eater
+    level:    [34, 35]
+    region:   attohwa_chasm_s_10
+
+  16806041:
+    template: Will-o-the-Wykes
+    level:    [40, 43]
+    region:   attohwa_chasm_s_10
+
+  16806042:
+    template: Hecteyes
+    level:    [35, 37]
+    region:   attohwa_chasm_s_9
+
+  16806043:
+    template: Hecteyes
+    level:    [35, 37]
+    region:   attohwa_chasm_s_9
+
+  16806044:
+    template: Hecteyes
+    level:    [35, 37]
+    region:   attohwa_chasm_s_3
+
+  16806045:
+    template: Hecteyes
+    level:    [36, 37]
+    region:   attohwa_chasm_s_3
+
+  16806046:
+    template: Flesh_Eater
+    level:    [34, 35]
+    region:   attohwa_chasm_s_3
+
+  16806047:
+    template: Will-o-the-Wykes
+    level:    [40, 43]
+    region:   attohwa_chasm_s_3
+
+  16806048:
+    template: Flesh_Eater
+    level:    [34, 35]
+    region:   attohwa_chasm_s
+
+  16806049:
+    template: Flesh_Eater
+    level:    [34, 35]
+    region:   attohwa_chasm_s
+
+  16806050:
+    template: Earth_Elemental
+    level:    [40, 42]
+    region:   attohwa_chasm_s
+
+  16806051:
+    template: Flesh_Eater
+    level:    [34, 35]
+    region:   attohwa_chasm_s_5
+
+  16806052:
+    template: Flesh_Eater
+    level:    [34, 35]
+    region:   attohwa_chasm_s_5
+
+  16806053:
+    template: Flesh_Eater
+    level:    [34, 35]
+    region:   attohwa_chasm_s_5
+
+  16806054:
+    template: Air_Elemental
+    level:    [40, 42]
+    region:   attohwa_chasm_s_5
+
+  16806055:
+    template: Flesh_Eater
+    level:    [34, 35]
+    region:   attohwa_chasm_s_7
+
+  16806056:
+    template: Flesh_Eater
+    level:    [34, 35]
+    region:   attohwa_chasm_s_7
+
+  16806057:
+    template: Air_Elemental
+    level:    [40, 42]
+    region:   attohwa_chasm_s_7
+
+  16806058:
+    template: Hecteyes
+    level:    [35, 37]
+    region:   attohwa_chasm_c_5
+
+  16806059:
+    template: Hecteyes
+    level:    [35, 37]
+    region:   attohwa_chasm_c_5
+
+  16806060:
+    template: Will-o-the-Wykes
+    level:    [40, 43]
+    region:   attohwa_chasm_c_5
+
+  16806061:
+    template: Hecteyes
+    level:    [35, 37]
+    region:   attohwa_chasm_c_8
+
+  16806062:
+    template: Flesh_Eater
+    level:    [34, 35]
+    region:   attohwa_chasm_c_8
+
+  16806063:
+    template: Flesh_Eater
+    level:    [34, 35]
+    region:   attohwa_chasm_c_8
+
+  16806064:
+    template: Hecteyes
+    level:    [35, 37]
+    region:   attohwa_chasm_c_6
+
+  16806065:
+    template: Flesh_Eater
+    level:    [34, 35]
+    region:   attohwa_chasm_c_6
+
+  16806066:
+    template: Hecteyes
+    level:    [35, 37]
+    region:   attohwa_chasm_c_7
+
+  16806067:
+    template: Hecteyes
+    level:    [35, 37]
+    region:   attohwa_chasm_c_7
+
+  16806068:
+    template: Earth_Elemental
+    at:       [-6.251, -4.495, 163.401, 176]
+    level:    [40, 42]
+
+  16806069:
+    template: Earth_Elemental
+    at:       [3.967, -4.678, 150.759, 207]
+    level:    [40, 42]
+
+  16806070:
+    template: Flesh_Eater
+    level:    [34, 35]
+    region:   attohwa_chasm_s_8
+
+  16806071:
+    template: Flesh_Eater
+    level:    [34, 35]
+    region:   attohwa_chasm_s_8
+
+  16806072:
+    template: Air_Elemental
+    level:    [41, 43]
+    region:   attohwa_chasm_s_8
+
+  16806073:
+    template: Flesh_Eater
+    level:    [34, 35]
+    region:   attohwa_chasm_s_8
+
+  16806074:
+    template: Flesh_Eater
+    level:    [35, 36]
+    region:   attohwa_chasm_s_6
+
+  16806075:
+    template: Hecteyes
+    level:    [36, 38]
+    region:   attohwa_chasm_c_3
+
+  16806076:
+    template: Hecteyes
+    at:       [-114.727, -0.574, -5.002, 19]
+    level:    [36, 38]
+
+  16806077:
+    template: Will-o-the-Wykes
+    at:       [-116.715, -0.377, -8.058, 123]
+    level:    [40, 43]
+
+  16806078:
+    template: Will-o-the-Wykes
+    at:       [-123.162, -0.455, -4.995, 143]
+    level:    [40, 43]
+
+  16806079:
+    template: Hecteyes
+    level:    [36, 38]
+    region:   attohwa_chasm_c_4
+
+  16806080:
+    template: Hecteyes
+    level:    [36, 38]
+    region:   attohwa_chasm_c_4
+
+  16806081:
+    template: Flesh_Eater
+    at:       [-82.557, -6.404, 92.554, 129]
+    level:    [34, 36]
+
+  16806082:
+    template: Flesh_Eater
+    level:    [35, 36]
+    region:   attohwa_chasm_c_2
+
+  16806083:
+    template: Flesh_Eater
+    level:    [35, 36]
+    region:   attohwa_chasm_c
+
+  16806084:
+    template: Flesh_Eater
+    level:    [35, 36]
+    region:   attohwa_chasm_c
+
+  16806085:
+    template: Hecteyes
+    level:    [36, 38]
+    region:   attohwa_chasm_n_4
+
+  16806086:
+    template: Hecteyes
+    level:    [36, 39]
+    region:   attohwa_chasm_n_4
+
+  16806087:
+    template: Flesh_Eater
+    level:    [35, 36]
+    region:   attohwa_chasm_n_3
+
+  16806088:
+    template: Will-o-the-Wykes
+    level:    [40, 43]
+    region:   attohwa_chasm_n_3
+
+  16806089:
+    template: Flesh_Eater
+    at:       [-177.875, -0.593, 218.699, 4]
+    level:    [34, 36]
+
+  16806090:
+    template: Flesh_Eater
+    level:    [34, 36]
+    region:   attohwa_chasm_n_2
+
+  16806091:
+    template: Hecteyes
+    level:    [36, 39]
+    region:   attohwa_chasm_n
+
+  16806092:
+    template: Hecteyes
+    level:    [36, 39]
+    region:   attohwa_chasm_n
+
+  16806093:
+    template: Flesh_Eater
+    level:    [34, 36]
+    region:   attohwa_chasm_nw_20
+
+  16806094:
+    template: Flesh_Eater
+    level:    [34, 36]
+    region:   attohwa_chasm_nw_20
+
+  16806095:
+    template: Air_Elemental
+    level:    [41, 43]
+    region:   attohwa_chasm_nw_20
+
+  16806096:
+    template: Flesh_Eater
+    level:    [34, 36]
+    region:   attohwa_chasm_nw_18
+
+  16806097:
+    template: Air_Elemental
+    level:    [41, 43]
+    region:   attohwa_chasm_nw_18
+
+  16806098:
+    template: Hecteyes
+    level:    [36, 39]
+    region:   attohwa_chasm_nw_17
+
+  16806099:
+    template: Hecteyes
+    level:    [36, 39]
+    region:   attohwa_chasm_nw_17
+
+  16806100:
+    template: Hecteyes
+    level:    [36, 39]
+    region:   attohwa_chasm_nw_17
+
+  16806101:
+    template: Hecteyes
+    level:    [36, 39]
+    region:   attohwa_chasm_nw_16
+
+  16806102:
+    template: Flesh_Eater
+    level:    [35, 36]
+    region:   attohwa_chasm_nw_16
+
+  16806103:
+    template: Flesh_Eater
+    level:    [36, 37]
+    region:   attohwa_chasm_nw_19
+
+  16806104:
+    template: Flesh_Eater
+    level:    [36, 37]
+    region:   attohwa_chasm_nw_21
+
+  16806105:
+    template: Flesh_Eater
+    level:    [36, 37]
+    region:   attohwa_chasm_nw_21
+
+  16806106:
+    template: Air_Elemental
+    level:    [41, 43]
+    region:   attohwa_chasm_nw_21
+
+  16806107:
+    template: Tulwar_Scorpion
+    level:    [58, 59]
+    region:   attohwa_chasm_w_21
+
+  16806108:
+    template: Tulwar_Scorpion
+    level:    [58, 59]
+    region:   attohwa_chasm_w_21
+
+  16806109:
+    template: Sand_Lizard
+    level:    [65, 67]
+    region:   attohwa_chasm_w_21
+
+  16806110:
+    template: Sand_Lizard
+    level:    [65, 67]
+    region:   attohwa_chasm_w_21
+
+  16806111:
+    template: Tulwar_Scorpion
+    level:    [58, 59]
+    region:   attohwa_chasm_sw_9
+
+  16806112:
+    template: Tulwar_Scorpion
+    level:    [58, 59]
+    region:   attohwa_chasm_sw_9
+
+  16806113:
+    template: Monarch_Ogrefly
+    level:    [65, 66]
+    region:   attohwa_chasm_sw_9
+
+  16806114:
+    template: Tulwar_Scorpion
+    level:    [58, 59]
+    region:   attohwa_chasm_sw_9
+
+  16806115:
+    template: Tulwar_Scorpion
+    level:    [58, 59]
+    region:   attohwa_chasm_sw_9
+
+  16806116:
+    template: Monarch_Ogrefly
+    level:    [65, 66]
+    region:   attohwa_chasm_sw_9
+
+  16806117:
+    template: Sargas
+    level:    [77, 78]
+    region:   attohwa_chasm_sw_9
+
+  16806118:
+    template: Monarch_Ogrefly
+    level:    [65, 66]
+    region:   attohwa_chasm_sw_9
+
+  16806119:
+    template: Sand_Lizard
+    level:    [65, 67]
+    region:   attohwa_chasm_sw_9
+
+  16806120:
+    template: Sand_Lizard
+    level:    [65, 67]
+    region:   attohwa_chasm_sw_9
+
+  16806121:
+    template: Tracker_Antlion
+    level:    [71, 73]
+    region:   attohwa_chasm_w_20
+
+  16806122:
+    template: Trench_Antlion
+    at:       [-257.640, -4.016, -25.562, 0]
+    level:    [70, 71]
+
+  16806123:
+    template: Sand_Lizard
+    at:       [-299.413, -4.744, -67.781, 17]
+    level:    [65, 67]
+
+  16806124:
+    template: Sand_Lizard
+    at:       [-318.505, -4.595, -79.793, 236]
+    level:    [65, 67]
+
+  16806125:
+    template: Sand_Lizard
+    at:       [-336.852, -4.525, -103.689, 97]
+    level:    [65, 67]
+
+  16806126:
+    template: Monarch_Ogrefly
+    level:    [65, 66]
+    region:   attohwa_chasm_sw_7
+
+  16806127:
+    template: Monarch_Ogrefly
+    level:    [65, 66]
+    region:   attohwa_chasm_sw_7
+
+  16806128:
+    template: Tracker_Antlion
+    level:    [70, 72]
+    region:   attohwa_chasm_sw_8
+
+  16806129:
+    template: Tracker_Antlion
+    level:    [70, 72]
+    region:   attohwa_chasm_sw_8
+
+  16806130:
+    template: Tracker_Antlion
+    level:    [70, 72]
+    region:   attohwa_chasm_sw_4
+
+  16806131:
+    template: Tracker_Antlion
+    level:    [70, 72]
+    region:   attohwa_chasm_sw_4
+
+  16806132:
+    template: Tracker_Antlion
+    level:    [70, 72]
+    region:   attohwa_chasm_sw_4
+
+  16806133:
+    template: Sand_Lizard
+    level:    [65, 67]
+    region:   attohwa_chasm_sw_5
+
+  16806134:
+    template: Sand_Lizard
+    level:    [65, 67]
+    region:   attohwa_chasm_sw_5
+
+  16806135:
+    template: Trench_Antlion
+    at:       [-345.444, -4.500, -109.649, 0]
+    level:    [70, 71]
+
+  16806136:
+    template: Sand_Lizard
+    level:    [66, 68]
+    region:   attohwa_chasm_sw_6
+
+  16806137:
+    template: Sand_Lizard
+    level:    [66, 68]
+    region:   attohwa_chasm_sw_6
+
+  16806138:
+    template: Cutlass_Scorpion
+    level:    [67, 69]
+    region:   attohwa_chasm_w_18
+
+  16806139:
+    template: Cutlass_Scorpion
+    level:    [67, 69]
+    region:   attohwa_chasm_w_18
+
+  16806140:
+    template: Tracker_Antlion
+    level:    [70, 72]
+    region:   attohwa_chasm_sw_2
+
+  16806141:
+    template: Tracker_Antlion
+    level:    [70, 72]
+    region:   attohwa_chasm_sw
+
+  16806142:
+    template: Tracker_Antlion
+    level:    [71, 73]
+    region:   attohwa_chasm_sw_3
+
+  16806143:
+    template: Monarch_Ogrefly
+    level:    [65, 66]
+    region:   attohwa_chasm_sw_3
+
+  16806144:
+    template: Monarch_Ogrefly
+    level:    [65, 67]
+    region:   attohwa_chasm_w_13
+
+  16806145:
+    template: Tomb_Mage
+    level:    [70, 72]
+    region:   attohwa_chasm_w_13
+
+  16806146:
+    template: Monarch_Ogrefly
+    level:    [65, 67]
+    region:   attohwa_chasm_w_11
+
+  16806147:
+    template: Tomb_Warrior
+    level:    [71, 73]
+    region:   attohwa_chasm_w_11
+
+  16806148:
+    template: Trench_Antlion
+    at:       [-399.050, -3.465, -60.146, 0]
+    level:    [70, 71]
+
+  16806149:
+    template: Cutlass_Scorpion
+    level:    [67, 69]
+    region:   attohwa_chasm_w_16
+
+  16806150:
+    template: Cutlass_Scorpion
+    level:    [67, 69]
+    region:   attohwa_chasm_w_16
+
+  16806151:
+    template: Mummy
+    level:    [62, 64]
+    region:   attohwa_chasm_w_16
+
+  16806152:
+    template: Lich
+    level:    [62, 64]
+    region:   attohwa_chasm_w_16
+
+  16806153:
+    template: Cutlass_Scorpion
+    level:    [67, 69]
+    region:   attohwa_chasm_w_16
+
+  16806154:
+    template: Monarch_Ogrefly
+    level:    [65, 67]
+    region:   attohwa_chasm_w_16
+
+  16806155:
+    template: Corse
+    level:    [66, 67]
+    region:   attohwa_chasm_w_16
+
+  16806156:
+    template: Lich
+    level:    [62, 64]
+    region:   attohwa_chasm_w_16
+
+  16806157:
+    template: Cutlass_Scorpion
+    level:    [67, 69]
+    region:   attohwa_chasm_w_15
+
+  16806158:
+    template: Corse
+    level:    [66, 67]
+    region:   attohwa_chasm_w_15
+
+  16806159:
+    template: Monarch_Ogrefly
+    level:    [65, 67]
+    region:   attohwa_chasm_w_19
+
+  16806160:
+    template: Mummy
+    level:    [62, 64]
+    region:   attohwa_chasm_w_19
+
+  16806161:
+    template: Corse
+    level:    [66, 67]
+    region:   attohwa_chasm_w_16
+
+  16806162:
+    template: Citipati
+    level:    [67, 70]
+    region:   attohwa_chasm_w_17
+
+  16806163:
+    template: Tracker_Antlion
+    level:    [71, 73]
+    region:   attohwa_chasm_w_12
+
+  16806164:
+    template: Sand_Lizard
+    level:    [66, 68]
+    region:   attohwa_chasm_w_9
+
+  16806165:
+    template: Mummy
+    level:    [62, 64]
+    region:   attohwa_chasm_w_6
+
+  16806166:
+    template: Sand_Lizard
+    level:    [66, 68]
+    region:   attohwa_chasm_w_5
+
+  16806167:
+    template: Tomb_Warrior
+    level:    [71, 73]
+    region:   attohwa_chasm_w_5
+
+  16806168:
+    template: Tomb_Mage
+    level:    [72, 73]
+    region:   attohwa_chasm_w_5
+
+  16806169:
+    template: Sand_Lizard
+    level:    [66, 68]
+    region:   attohwa_chasm_w_8
+
+  16806170:
+    template: Monarch_Ogrefly
+    level:    [65, 67]
+    region:   attohwa_chasm_w_8
+
+  16806171:
+    template: Trench_Antlion
+    at:       [-433.309, -4.300, 113.841, 0]
+    level:    [70, 71]
+
+  16806172:
+    template: Monarch_Ogrefly
+    level:    [65, 67]
+    region:   attohwa_chasm_w_10
+
+  16806173:
+    template: Lich
+    level:    [62, 64]
+    region:   attohwa_chasm_w_10
+
+  16806174:
+    template: Cutlass_Scorpion
+    level:    [67, 69]
+    region:   attohwa_chasm_w_14
+
+  16806175:
+    template: Cutlass_Scorpion
+    level:    [67, 69]
+    region:   attohwa_chasm_w_14
+
+  16806176:
+    template: Monarch_Ogrefly
+    level:    [65, 67]
+    region:   attohwa_chasm_w_14
+
+  16806177:
+    template: Monarch_Ogrefly
+    at:       [-436.746, -4.334, 168.821, 12]
+    level:    [65, 67]
+
+  16806178:
+    template: Sand_Lizard
+    level:    [66, 68]
+    region:   attohwa_chasm_w_7
+
+  16806179:
+    template: Sand_Lizard
+    level:    [66, 68]
+    region:   attohwa_chasm_w_7
+
+  16806180:
+    template: Sand_Lizard
+    at:       [-490.727, -4.500, 142.170, 76]
+    level:    [66, 68]
+
+  16806181:
+    template: Tracker_Antlion
+    level:    [71, 72]
+    region:   attohwa_chasm_nw_3
+
+  16806182:
+    template: Tracker_Antlion
+    level:    [71, 73]
+    region:   attohwa_chasm_nw_3
+
+  16806183:
+    template: Trench_Antlion
+    at:       [-548.200, -4.123, 157.878, 0]
+    level:    [70, 71]
+
+  16806184:
+    template: Cutlass_Scorpion
+    level:    [67, 69]
+    region:   attohwa_chasm_nw_6
+
+  16806185:
+    template: Monarch_Ogrefly
+    level:    [65, 67]
+    region:   attohwa_chasm_nw_6
+
+  16806186:
+    template: Trench_Antlion
+    at:       [-481.588, -3.384, 181.697, 0]
+    level:    [70, 71]
+
+  16806187:
+    template: Monarch_Ogrefly
+    level:    [65, 67]
+    region:   attohwa_chasm_nw_5
+
+  16806188:
+    template: Tracker_Antlion
+    level:    [70, 72]
+    region:   attohwa_chasm_nw_15
+
+  16806189:
+    template: Sand_Lizard
+    level:    [66, 68]
+    region:   attohwa_chasm_nw_15
+
+  16806190:
+    template: Tracker_Antlion
+    level:    [70, 72]
+    region:   attohwa_chasm_nw_14
+
+  16806191:
+    template: Sand_Lizard
+    level:    [66, 68]
+    region:   attohwa_chasm_nw_14
+
+  16806192:
+    template: Tracker_Antlion
+    level:    [70, 72]
+    region:   attohwa_chasm_nw_11
+
+  16806193:
+    template: Monarch_Ogrefly
+    level:    [65, 67]
+    region:   attohwa_chasm_nw_11
+
+  16806194:
+    template: Tracker_Antlion
+    level:    [71, 73]
+    region:   attohwa_chasm_nw_13
+
+  16806195:
+    template: Monarch_Ogrefly
+    level:    [65, 67]
+    region:   attohwa_chasm_nw_13
+
+  16806196:
+    template: Monarch_Ogrefly
+    at:       [-440.057, -4.752, 204.436, 133]
+    level:    [65, 67]
+
+  16806197:
+    template: Monarch_Ogrefly
+    at:       [-438.938, -4.657, 201.287, 47]
+    level:    [65, 67]
+
+  16806198:
+    template: Monarch_Ogrefly
+    at:       [-454.479, -4.617, 211.876, 252]
+    level:    [65, 67]
+
+  16806199:
+    template: Sand_Lizard
+    level:    [66, 68]
+    region:   attohwa_chasm_nw_8
+
+  16806200:
+    template: Sand_Lizard
+    level:    [66, 68]
+    region:   attohwa_chasm_nw_8
+
+  16806201:
+    template: Cutlass_Scorpion
+    level:    [67, 69]
+    region:   attohwa_chasm_nw_9
+
+  16806202:
+    template: Tracker_Antlion
+    level:    [71, 72]
+    region:   attohwa_chasm_nw_10
+
+  16806203:
+    template: Tracker_Antlion
+    level:    [70, 71]
+    region:   attohwa_chasm_nw_10
+
+  16806204:
+    template: Sand_Lizard
+    level:    [66, 68]
+    region:   attohwa_chasm_nw_12
+
+  16806205:
+    template: Sand_Lizard
+    level:    [66, 68]
+    region:   attohwa_chasm_nw_12
+
+  16806206:
+    template: Monarch_Ogrefly
+    level:    [65, 67]
+    region:   attohwa_chasm_nw_12
+
+  16806207:
+    template: Monarch_Ogrefly
+    level:    [65, 67]
+    region:   attohwa_chasm_nw_12
+
+  16806208:
+    template: Monarch_Ogrefly
+    level:    [65, 67]
+    region:   attohwa_chasm_nw_12
+
+  16806209:
+    template: Sand_Lizard
+    level:    [66, 68]
+    region:   attohwa_chasm_nw_7
+
+  16806210:
+    template: Monarch_Ogrefly
+    level:    [65, 67]
+    region:   attohwa_chasm_nw_7
+
+  16806211:
+    template: Cutlass_Scorpion
+    level:    [67, 69]
+    region:   attohwa_chasm_nw_4
+
+  16806212:
+    template: Cutlass_Scorpion
+    at:       [-206.530, -10.406, 340.894, 40]
+    level:    [67, 69]
+
+  16806213:
+    template: Cutlass_Scorpion
+    level:    [67, 69]
+    region:   attohwa_chasm_nw_4
+
+  16806214:
+    template: Cutlass_Scorpion
+    level:    [67, 69]
+    region:   attohwa_chasm_nw_4
+
+  16806215:
+    template: Xolotl
+    level:    [80, 81]
+    region:   attohwa_chasm_nw_4
+
+  16806216:
+    template: Xolotls_Hound_Warrior
+    level:    [72, 72]
+    region:   attohwa_chasm_nw_4
+
+  16806217:
+    template: Xolotls_Sacrifice
+    level:    [72, 72]
+    region:   attohwa_chasm_nw_4
+
+  16806218:
+    template: Sand_Lizard
+    level:    [66, 68]
+    region:   attohwa_chasm_nw_2
+
+  16806219:
+    template: Tracker_Antlion
+    level:    [70, 72]
+    region:   attohwa_chasm_nw
+
+  16806220:
+    template: Tracker_Antlion
+    level:    [70, 72]
+    region:   attohwa_chasm_nw
+
+  16806221:
+    template: Earth_Elemental
+    level:    [40, 42]
+    region:   attohwa_chasm_w
+
+  16806222:
+    template: Cutlass_Scorpion
+    level:    [67, 69]
+    region:   attohwa_chasm_w_3
+
+  16806223:
+    template: Tomb_Warrior
+    level:    [71, 73]
+    region:   attohwa_chasm_w_3
+
+  16806224:
+    template: Tomb_Mage
+    level:    [72, 73]
+    region:   attohwa_chasm_w_3
+
+  16806225:
+    template: Arch_Corse
+    level:    [75, 80]
+    region:   attohwa_chasm_w_3
+
+  16806226:
+    template: Tracker_Antlion
+    level:    [70, 72]
+    region:   attohwa_chasm_w_4
+
+  16806227:
+    template: Tiamat
+    at:       [-529.519, -5.811, -43.413, 233]
+    level:    [95, 95]
+
+  16806228:
+    template: Arch_Corse
+    level:    [75, 80]
+    region:   attohwa_chasm_w_2
+
+  16806229:
+    template: Arch_Corse
+    level:    [75, 80]
+    region:   attohwa_chasm_w_2
+
+  16806230:
+    template: Arch_Corse
+    level:    [75, 80]
+    region:   attohwa_chasm_w_2
+
+  16806231:
+    template: Bifrons
+    level:    [75, 75]
+    region:   attohwa_chasm_w_2
+
+  16806232:
+    template: Bifrons
+    level:    [75, 75]
+    region:   attohwa_chasm_w_2
+
+  16806233:
+    template: Air_Elemental
+    level:    [75, 76]
+    region:   attohwa_chasm_w_2
+
+  16806234:
+    template: Air_Elemental
+    level:    [75, 76]
+    region:   attohwa_chasm_w_2
+
+  16806235:
+    template: Earth_Elemental
+    level:    [75, 76]
+    region:   attohwa_chasm_w_2
+
+  16806236:
+    template: Earth_Elemental
+    at:       [-540.483, -13.020, -72.292, 17]
+    level:    [75, 76]
+
+  16806237:
+    template: Cave_Antlion
+    at:       [-520.369, -3.507, 19.853, 0]
+    level:    [77, 79]
+
+  16806238:
+    template: Cave_Antlion
+    at:       [-515.935, -3.509, -23.010, 0]
+    level:    [77, 79]
+
+  16806239:
+    template: Cave_Antlion
+    at:       [-506.345, -4.300, -28.542, 0]
+    level:    [77, 79]
+
+  16806240:
+    template: Cave_Antlion
+    at:       [-538.828, -3.730, -5.722, 0]
+    level:    [77, 79]
+
+  16806241:
+    template: Cave_Antlion
+    at:       [-532.046, -13.000, -68.401, 0]
+    level:    [77, 79]
+
+  16806242:
+    template: Feeler_Antlion
+    at:       [-402.574, 4.000, -202.750, 107]
+    level:    [78, 78]
+
+  16806243:
+    template: Executioner_Antlion
+    at:       [1.000, 1.000, 1.000, 1]
+    level:    [80, 80]
+
+  16806244:
+    template: Executioner_Antlion
+    at:       [1.000, 1.000, 1.000, 1]
+    level:    [80, 80]
+
+  16806245:
+    template: Executioner_Antlion
+    at:       [1.000, 1.000, 1.000, 1]
+    level:    [80, 80]
+
+  16806246:
+    template: Executioner_Antlion
+    at:       [1.000, 1.000, 1.000, 1]
+    level:    [80, 80]
+
+  16806247:
+    template: Executioner_Antlion
+    at:       [1.000, 1.000, 1.000, 1]
+    level:    [80, 80]
+
+  16806248:
+    template: Alastor_Antlion
+    at:       [1.000, 1.000, 1.000, 1]
+    level:    [83, 83]
+
+  16806249:
+    template: Ambusher_Antlion
+    at:       [-490.195, -4.503, 145.451, 201]
+    level:    [75, 77]
+
+  16806250:
+    template: Fjalar
+    at:       [39.190, -4.500, -116.280, 5]
+    level:    [0, 0]
+
+  16806251:
+    template: Bloody_Skull
+    at:       [39.592, -4.618, -114.778, 40]
+    level:    [0, 0]
+
+  16806252:
+    template: Bloody_Skull
+    at:       [39.814, -4.329, -117.597, 212]
+    level:    [0, 0]
+
+  16806253:
+    template: Bloody_Skull
+    at:       [41.398, -4.500, -121.913, 213]
+    level:    [0, 0]
+
+  16806254:
+    template: Fjalar
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16806255:
+    template: Bloody_Skull
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16806256:
+    template: Bloody_Skull
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16806257:
+    template: Bloody_Skull
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16806258:
+    template: Fjalar
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16806259:
+    template: Bloody_Skull
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16806260:
+    template: Bloody_Skull
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16806261:
+    template: Bloody_Skull
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16806262:
+    template: Muut
+    at:       [-358.195, -3.669, 232.330, 60]
+    level:    [0, 0]
+
+  16806263:
+    template: Muuts_Hound_Warrior
+    at:       [-357.949, -4.303, 232.060, 62]
+    level:    [0, 0]
+
+  16806264:
+    template: Muuts_Sacrifice
+    at:       [-360.367, -4.206, 230.122, 24]
+    level:    [0, 0]
+
+  16806265:
+    template: Muuts_Hound_Warrior
+    at:       [-358.244, -4.177, 229.546, 100]
+    level:    [0, 0]
+
+  16806266:
+    template: Muuts_Sacrifice
+    at:       [-358.422, -4.299, 231.995, 65]
+    level:    [0, 0]
+
+  16806267:
+    template: Muuts_Hound_Warrior
+    at:       [-359.252, -4.222, 230.453, 59]
+    level:    [0, 0]
+
+  16806268:
+    template: Muuts_Sacrifice
+    at:       [-357.807, -4.315, 232.317, 64]
+    level:    [0, 0]
+
+  16806269:
+    template: Muuts_Hound_Warrior
+    at:       [-356.970, -4.181, 229.632, 88]
+    level:    [0, 0]
+
+  16806270:
+    template: Muuts_Sacrifice
+    at:       [-357.515, -4.097, 227.978, 164]
+    level:    [0, 0]
+
+  16806271:
+    template: Muut
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16806272:
+    template: Muuts_Hound_Warrior
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16806273:
+    template: Muuts_Sacrifice
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16806274:
+    template: Muuts_Hound_Warrior
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16806275:
+    template: Muuts_Sacrifice
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16806276:
+    template: Muuts_Hound_Warrior
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16806277:
+    template: Muuts_Sacrifice
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16806278:
+    template: Muuts_Hound_Warrior
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16806279:
+    template: Muuts_Sacrifice
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16806280:
+    template: Muut
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16806281:
+    template: Muuts_Hound_Warrior
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16806282:
+    template: Muuts_Sacrifice
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16806283:
+    template: Muuts_Hound_Warrior
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16806284:
+    template: Muuts_Sacrifice
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16806285:
+    template: Muuts_Hound_Warrior
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16806286:
+    template: Muuts_Sacrifice
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16806287:
+    template: Muuts_Hound_Warrior
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  16806288:
+    template: Muuts_Sacrifice
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]

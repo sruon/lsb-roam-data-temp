@@ -1,0 +1,3188 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17477633:
+    template: Witch_Hazel
+    level:    [62, 64]
+    region:   crawlers_nest_s_c_10
+
+  17477634:
+    template: Witch_Hazel
+    level:    [62, 64]
+    region:   crawlers_nest_s_c_7
+
+  17477635:
+    template: Witch_Hazel
+    level:    [62, 64]
+    region:   crawlers_nest_s_c_9
+
+  17477636:
+    template: Witch_Hazel
+    level:    [62, 64]
+    region:   crawlers_nest_s_c_13
+
+  17477637:
+    template: Puroboros
+    at:       [71.091, -1.376, 26.452, 203]
+    level:    [69, 70]
+
+  17477638:
+    template: Puroboros
+    at:       [67.278, -1.224, 22.986, 114]
+    level:    [69, 70]
+
+  17477639:
+    template: Fire_Elemental
+    at:       [63.771, -1.414, 27.473, 232]
+    level:    [75, 75]
+
+  17477640:
+    template: Morille_Mortelle
+    at:       [59.788, -0.939, 22.316, 169]
+    level:    [82, 83]
+
+  17477641:
+    template: Witch_Hazel
+    level:    [62, 64]
+    region:   crawlers_nest_s_c_14
+
+  17477642:
+    template: Witch_Hazel
+    level:    [62, 64]
+    region:   crawlers_nest_s_c_11
+
+  17477643:
+    template: Witch_Hazel
+    level:    [62, 64]
+    region:   crawlers_nest_s_c_12
+
+  17477644:
+    template: Witch_Hazel
+    level:    [62, 64]
+    region:   crawlers_nest_s_n_19
+
+  17477645:
+    template: Witch_Hazel
+    level:    [62, 64]
+    region:   crawlers_nest_s_c_8
+
+  17477646:
+    template: Witch_Hazel
+    at:       [19.623, -3.204, 138.207, 21]
+    level:    [62, 64]
+
+  17477647:
+    template: Witch_Hazel
+    level:    [62, 64]
+    region:   crawlers_nest_s_c_6
+
+  17477648:
+    template: Witch_Hazel
+    level:    [62, 64]
+    region:   crawlers_nest_s_n_12
+
+  17477649:
+    template: Witch_Hazel
+    level:    [62, 64]
+    region:   crawlers_nest_s_n_15
+
+  17477650:
+    template: Witch_Hazel
+    level:    [62, 64]
+    region:   crawlers_nest_s_c_4
+
+  17477651:
+    template: Electrumcap
+    level:    [68, 70]
+    region:   crawlers_nest_s_c_5
+
+  17477652:
+    template: Wespe
+    level:    [64, 66]
+    region:   crawlers_nest_s_n_4
+
+  17477653:
+    template: Wespe
+    level:    [64, 66]
+    region:   crawlers_nest_s_n_9
+
+  17477654:
+    template: Labyrinth_Lizard
+    level:    [65, 67]
+    region:   crawlers_nest_s_n_21
+
+  17477655:
+    template: Labyrinth_Lizard
+    level:    [65, 67]
+    region:   crawlers_nest_s_n_22
+
+  17477656:
+    template: Witch_Hazel
+    at:       [59.648, -0.854, 276.879, 74]
+    level:    [62, 64]
+
+  17477657:
+    template: Witch_Hazel
+    level:    [62, 64]
+    region:   crawlers_nest_s_n_20
+
+  17477658:
+    template: Witch_Hazel
+    level:    [62, 64]
+    region:   crawlers_nest_s_n_17
+
+  17477659:
+    template: Labyrinth_Lizard
+    at:       [-110.008, -0.785, 218.141, 114]
+    level:    [65, 67]
+
+  17477660:
+    template: Wespe
+    level:    [64, 66]
+    region:   crawlers_nest_s_n_6
+
+  17477661:
+    template: Wespe
+    level:    [64, 66]
+    region:   crawlers_nest_s_n_5
+
+  17477662:
+    template: Wespe
+    level:    [64, 66]
+    region:   crawlers_nest_s_n_7
+
+  17477663:
+    template: Wespe
+    level:    [64, 66]
+    region:   crawlers_nest_s_n_10
+
+  17477664:
+    template: Labyrinth_Lizard
+    level:    [65, 67]
+    region:   crawlers_nest_s_n_11
+
+  17477665:
+    template: Labyrinth_Lizard
+    level:    [65, 67]
+    region:   crawlers_nest_s_n_14
+
+  17477666:
+    template: Old_Quadav
+    at:       [28.549, -0.954, 191.390, 139]
+    level:    [66, 69]
+
+  17477667:
+    template: Heliodor_Quadav
+    at:       [29.690, -0.932, 193.515, 214]
+    level:    [66, 69]
+
+  17477668:
+    template: Labyrinth_Lizard
+    at:       [33.396, -0.899, 179.817, 73]
+    level:    [65, 67]
+
+  17477669:
+    template: Silver_Quadav
+    level:    [66, 69]
+    region:   crawlers_nest_s_n_18
+
+  17477670:
+    template: Emerald_Quadav
+    level:    [66, 69]
+    region:   crawlers_nest_s_n_18
+
+  17477671:
+    template: Labyrinth_Lizard
+    level:    [65, 67]
+    region:   crawlers_nest_s_n_18
+
+  17477672:
+    template: Puroboros
+    at:       [60.664, -0.888, 266.081, 40]
+    level:    [69, 70]
+
+  17477673:
+    template: Puroboros
+    at:       [61.420, -0.897, 264.549, 170]
+    level:    [69, 70]
+
+  17477674:
+    template: Fire_Elemental
+    at:       [51.092, -1.002, 260.946, 89]
+    level:    [75, 75]
+
+  17477675:
+    template: Abatwa
+    at:       [55.076, -0.963, 264.432, 145]
+    level:    [78, 81]
+
+  17477676:
+    template: Bronze_Quadav
+    level:    [66, 69]
+    region:   crawlers_nest_s_n_16
+
+  17477677:
+    template: Silver_Quadav
+    level:    [66, 69]
+    region:   crawlers_nest_s_n_16
+
+  17477678:
+    template: Labyrinth_Lizard
+    level:    [65, 67]
+    region:   crawlers_nest_s_n_16
+
+  17477679:
+    template: Brass_Quadav
+    level:    [66, 69]
+    region:   crawlers_nest_s_n_13
+
+  17477680:
+    template: Sapphirine_Quadav
+    level:    [66, 69]
+    region:   crawlers_nest_s_n_13
+
+  17477681:
+    template: Labyrinth_Lizard
+    level:    [65, 67]
+    region:   crawlers_nest_s_n_13
+
+  17477682:
+    template: Doom_Scorpion
+    at:       [51.074, -0.657, 359.424, 208]
+    level:    [71, 74]
+
+  17477683:
+    template: Doom_Scorpion
+    at:       [52.372, -0.878, 349.818, 25]
+    level:    [71, 74]
+
+  17477684:
+    template: Doom_Scorpion
+    at:       [41.183, -0.719, 372.069, 138]
+    level:    [71, 74]
+
+  17477685:
+    template: Old_Quadav
+    level:    [66, 69]
+    region:   crawlers_nest_s_n_8
+
+  17477686:
+    template: Sapphirine_Quadav
+    level:    [66, 69]
+    region:   crawlers_nest_s_n_8
+
+  17477687:
+    template: Labyrinth_Lizard
+    level:    [65, 67]
+    region:   crawlers_nest_s_n_8
+
+  17477688:
+    template: Bronze_Quadav
+    level:    [66, 69]
+    region:   crawlers_nest_s_n_3
+
+  17477689:
+    template: Brass_Quadav
+    level:    [66, 69]
+    region:   crawlers_nest_s_n_3
+
+  17477690:
+    template: Labyrinth_Lizard
+    level:    [65, 67]
+    region:   crawlers_nest_s_n_3
+
+  17477691:
+    template: Puroboros
+    at:       [-139.075, -1.127, 214.949, 165]
+    level:    [69, 70]
+
+  17477692:
+    template: Puroboros
+    at:       [-130.893, -2.081, 214.112, 227]
+    level:    [69, 70]
+
+  17477693:
+    template: Fire_Elemental
+    at:       [-133.063, -1.218, 209.014, 36]
+    level:    [75, 75]
+
+  17477694:
+    template: Electrumcap
+    at:       [-71.017, -8.727, 83.702, 27]
+    level:    [68, 70]
+
+  17477695:
+    template: Electrumcap
+    at:       [-66.341, -9.186, 85.201, 244]
+    level:    [68, 70]
+
+  17477696:
+    template: Electrumcap
+    at:       [-71.057, -8.713, 83.502, 238]
+    level:    [68, 70]
+
+  17477697:
+    template: Electrumcap
+    level:    [68, 70]
+    region:   crawlers_nest_s_c_3
+
+  17477698:
+    template: Electrumcap
+    level:    [68, 70]
+    region:   crawlers_nest_s_c_3
+
+  17477699:
+    template: Processionaire
+    at:       [-197.854, -0.728, 195.056, 59]
+    level:    [69, 71]
+
+  17477700:
+    template: Processionaire
+    at:       [-183.598, -1.306, 194.174, 186]
+    level:    [69, 71]
+
+  17477701:
+    template: Processionaire
+    at:       [-193.596, -0.743, 201.295, 132]
+    level:    [69, 71]
+
+  17477702:
+    template: Processionaire
+    at:       [-193.701, -1.659, 216.965, 182]
+    level:    [69, 71]
+
+  17477703:
+    template: Processionaire
+    at:       [-192.515, -1.510, 217.390, 145]
+    level:    [69, 71]
+
+  17477704:
+    template: Processionaire
+    level:    [69, 71]
+    region:   crawlers_nest_s_nw_3
+
+  17477705:
+    template: Processionaire
+    level:    [69, 71]
+    region:   crawlers_nest_s_nw_3
+
+  17477706:
+    template: Processionaire
+    at:       [-232.365, -1.022, 235.207, 94]
+    level:    [69, 71]
+
+  17477707:
+    template: Processionaire
+    at:       [-241.079, -0.687, 246.807, 8]
+    level:    [69, 71]
+
+  17477708:
+    template: Lugh
+    at:       [-251.177, -0.848, 250.864, 166]
+    level:    [80, 82]
+
+  17477709:
+    template: Processionaire
+    at:       [-219.234, -1.092, 208.829, 184]
+    level:    [69, 71]
+
+  17477710:
+    template: Processionaire
+    at:       [-231.457, -0.951, 190.203, 70]
+    level:    [69, 71]
+
+  17477711:
+    template: Processionaire
+    level:    [69, 71]
+    region:   crawlers_nest_s_nw
+
+  17477712:
+    template: Processionaire
+    at:       [-249.402, -1.173, 193.999, 122]
+    level:    [69, 71]
+
+  17477713:
+    template: Processionaire
+    at:       [-233.439, -1.304, 221.114, 146]
+    level:    [69, 71]
+
+  17477714:
+    template: Processionaire
+    at:       [-115.953, -0.919, 350.867, 183]
+    level:    [69, 71]
+
+  17477715:
+    template: Processionaire
+    at:       [-122.270, -0.751, 355.641, 187]
+    level:    [69, 71]
+
+  17477716:
+    template: Silver_Quadav
+    at:       [-149.363, -0.721, 356.339, 83]
+    level:    [66, 69]
+
+  17477717:
+    template: Sapphirine_Quadav
+    at:       [-136.503, -1.845, 341.061, 114]
+    level:    [66, 69]
+
+  17477718:
+    template: Emerald_Quadav
+    level:    [66, 69]
+    region:   crawlers_nest_s_n_2
+
+  17477719:
+    template: Heliodor_Quadav
+    level:    [66, 69]
+    region:   crawlers_nest_s_n_2
+
+  17477720:
+    template: Old_Quadav
+    level:    [66, 69]
+    region:   crawlers_nest_s_n
+
+  17477721:
+    template: Silver_Quadav
+    level:    [66, 69]
+    region:   crawlers_nest_s_n
+
+  17477722:
+    template: Processionaire
+    at:       [-164.538, -0.755, 368.831, 130]
+    level:    [69, 71]
+
+  17477723:
+    template: Processionaire
+    at:       [-168.643, -0.777, 363.107, 240]
+    level:    [69, 71]
+
+  17477724:
+    template: Water_Elemental
+    level:    [75, 75]
+    region:   crawlers_nest_s_n
+
+  17477725:
+    template: Water_Elemental
+    level:    [75, 75]
+    region:   crawlers_nest_s_nw_2
+
+  17477726:
+    template: Quadav_Transporter
+    at:       [268.681, -32.859, -62.092, 119]
+    level:    [50, 50]
+
+  17477727:
+    template: Quadav_Guard
+    at:       [264.384, -32.862, -60.504, 166]
+    level:    [75, 75]
+
+  17477728:
+    template: Quadav_Guard
+    at:       [262.488, -32.923, -57.618, 166]
+    level:    [75, 75]
+
+  17477729:
+    template: Goldcap
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17477730:
+    template: Cap_Chomper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17477731:
+    template: Cap_Chomper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17477732:
+    template: Cap_Chomper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17477733:
+    template: Cap_Chomper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17477734:
+    template: Cap_Chomper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17477735:
+    template: Cap_Chomper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17477736:
+    template: Bartholomaus
+    at:       [117.732, -34.189, -78.958, 205]
+    level:    [70, 70]
+
+  17477737:
+    template: 1st_Iron_Musketeer
+    at:       [118.019, -34.189, -79.720, 200]
+    level:    [70, 70]
+
+  17477738:
+    template: 1st_Iron_Musketeer
+    at:       [117.886, -34.189, -77.705, 210]
+    level:    [70, 70]
+
+  17477739:
+    template: 1st_Iron_Musketeer
+    at:       [117.526, -34.189, -78.891, 208]
+    level:    [70, 70]
+
+  17477740:
+    template: 1st_Iron_Musketeer
+    at:       [117.746, -34.189, -77.649, 212]
+    level:    [70, 70]
+
+  17477741:
+    template: 1st_Iron_Musketeer
+    at:       [117.698, -34.189, -77.710, 212]
+    level:    [70, 70]
+
+  17477742:
+    template: 1st_Iron_Musketeer
+    at:       [117.712, -34.189, -79.245, 204]
+    level:    [70, 70]
+
+  17477743:
+    template: 1st_Iron_Musketeer
+    at:       [117.568, -34.066, -79.241, 206]
+    level:    [70, 70]
+
+  17477744:
+    template: 1st_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 203]
+    level:    [70, 70]
+
+  17477745:
+    template: 1st_Iron_Musketeer
+    at:       [117.631, -34.189, -77.889, 212]
+    level:    [70, 70]
+
+  17477746:
+    template: Maximilian
+    at:       [84.309, -32.759, -101.527, 145]
+    level:    [1, 1]
+
+  17477747:
+    template: 1st_Legionnaire
+    at:       [94.663, -32.989, -97.111, 119]
+    level:    [0, 0]
+
+  17477748:
+    template: 1st_Legionnaire
+    at:       [94.709, -32.970, -97.169, 119]
+    level:    [0, 0]
+
+  17477749:
+    template: 1st_Legionnaire
+    at:       [94.637, -32.961, -97.208, 120]
+    level:    [0, 0]
+
+  17477750:
+    template: 1st_Legionnaire
+    at:       [94.876, -32.937, -97.251, 120]
+    level:    [0, 0]
+
+  17477751:
+    template: 1st_Legionnaire
+    at:       [94.939, -32.926, -97.379, 120]
+    level:    [0, 0]
+
+  17477752:
+    template: 1st_Legionnaire
+    at:       [90.509, -33.055, -98.067, 120]
+    level:    [0, 0]
+
+  17477753:
+    template: 1st_Legionnaire
+    at:       [94.781, -32.933, -97.695, 121]
+    level:    [0, 0]
+
+  17477754:
+    template: 1st_Legionnaire
+    at:       [95.097, -32.940, -97.874, 122]
+    level:    [0, 0]
+
+  17477755:
+    template: 1st_Legionnaire
+    at:       [92.705, -32.993, -98.194, 122]
+    level:    [0, 0]
+
+  17477756:
+    template: Ludwig
+    at:       [0.000, 0.000, 0.000, 166]
+    level:    [1, 1]
+
+  17477757:
+    template: 2nd_Legionnaire
+    at:       [0.000, 0.000, 0.000, 179]
+    level:    [0, 0]
+
+  17477758:
+    template: 2nd_Legionnaire
+    at:       [0.000, 0.000, 0.000, 152]
+    level:    [0, 0]
+
+  17477759:
+    template: 2nd_Legionnaire
+    at:       [0.000, 0.000, 0.000, 178]
+    level:    [0, 0]
+
+  17477760:
+    template: 2nd_Legionnaire
+    at:       [0.000, 0.000, 0.000, 154]
+    level:    [0, 0]
+
+  17477761:
+    template: 2nd_Legionnaire
+    at:       [0.000, 0.000, 0.000, 163]
+    level:    [0, 0]
+
+  17477762:
+    template: 2nd_Legionnaire
+    at:       [0.000, 0.000, 0.000, 158]
+    level:    [0, 0]
+
+  17477763:
+    template: 2nd_Legionnaire
+    at:       [0.000, 0.000, 0.000, 180]
+    level:    [0, 0]
+
+  17477764:
+    template: 2nd_Legionnaire
+    at:       [0.000, 0.000, 0.000, 178]
+    level:    [0, 0]
+
+  17477765:
+    template: 2nd_Legionnaire
+    at:       [0.000, 0.000, 0.000, 155]
+    level:    [0, 0]
+
+  17477766:
+    template: Elivira
+    at:       [129.558, -33.401, -87.867, 168]
+    level:    [1, 1]
+
+  17477767:
+    template: 1st_Gold_Musketeer
+    level:    [0, 0]
+    region:   crawlers_nest_s_c_2
+
+  17477768:
+    template: 1st_Gold_Musketeer
+    level:    [0, 0]
+    region:   crawlers_nest_s_c_2
+
+  17477769:
+    template: 1st_Gold_Musketeer
+    at:       [0.000, 0.000, 0.000, 163]
+    level:    [0, 0]
+
+  17477770:
+    template: 1st_Gold_Musketeer
+    level:    [0, 0]
+    region:   crawlers_nest_s_c_2
+
+  17477771:
+    template: 1st_Gold_Musketeer
+    level:    [0, 0]
+    region:   crawlers_nest_s_c_2
+
+  17477772:
+    template: 1st_Gold_Musketeer
+    level:    [0, 0]
+    region:   crawlers_nest_s_c_2
+
+  17477773:
+    template: 1st_Gold_Musketeer
+    at:       [0.000, 0.000, 0.000, 162]
+    level:    [0, 0]
+
+  17477774:
+    template: 1st_Gold_Musketeer
+    level:    [0, 0]
+    region:   crawlers_nest_s_c_2
+
+  17477775:
+    template: 1st_Gold_Musketeer
+    at:       [0.000, 0.000, 0.000, 173]
+    level:    [0, 0]
+
+  17477776:
+    template: Kurt
+    at:       [0.000, 0.000, 0.000, 202]
+    level:    [1, 1]
+
+  17477777:
+    template: 8th_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 152]
+    level:    [0, 0]
+
+  17477778:
+    template: 8th_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 164]
+    level:    [0, 0]
+
+  17477779:
+    template: 8th_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 155]
+    level:    [0, 0]
+
+  17477780:
+    template: 8th_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 165]
+    level:    [0, 0]
+
+  17477781:
+    template: 8th_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 166]
+    level:    [0, 0]
+
+  17477782:
+    template: 8th_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 166]
+    level:    [0, 0]
+
+  17477783:
+    template: 8th_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 167]
+    level:    [0, 0]
+
+  17477784:
+    template: 8th_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 154]
+    level:    [0, 0]
+
+  17477785:
+    template: 8th_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 168]
+    level:    [0, 0]
+
+  17477786:
+    template: Else
+    level:    [68, 68]
+    region:   crawlers_nest_s_c_15
+
+  17477787:
+    template: 1st_Legion_Reiter
+    level:    [68, 68]
+    region:   crawlers_nest_s_c_15
+
+  17477788:
+    template: 1st_Legion_Reiter
+    level:    [68, 68]
+    region:   crawlers_nest_s_c_15
+
+  17477789:
+    template: 1st_Legion_Reiter
+    level:    [68, 68]
+    region:   crawlers_nest_s_c_15
+
+  17477790:
+    template: 1st_Legion_Reiter
+    level:    [68, 68]
+    region:   crawlers_nest_s_c_15
+
+  17477791:
+    template: 1st_Legion_Reiter
+    level:    [68, 68]
+    region:   crawlers_nest_s_c_15
+
+  17477792:
+    template: 1st_Legion_Reiter
+    level:    [68, 68]
+    region:   crawlers_nest_s_c_15
+
+  17477793:
+    template: 1st_Legion_Reiter
+    level:    [68, 68]
+    region:   crawlers_nest_s_c_15
+
+  17477794:
+    template: 1st_Legion_Reiter
+    level:    [68, 68]
+    region:   crawlers_nest_s_c_15
+
+  17477795:
+    template: 1st_Legion_Reiter
+    level:    [68, 68]
+    region:   crawlers_nest_s_c_15
+
+  17477796:
+    template: 4th_Legionnaire
+    at:       [0.000, 0.000, 0.000, 12]
+    level:    [0, 0]
+
+  17477797:
+    template: 4th_Legionnaire
+    at:       [326.635, -32.875, -18.625, 0]
+    level:    [0, 0]
+
+  17477798:
+    template: 4th_Legionnaire
+    at:       [0.000, 0.000, 0.000, 177]
+    level:    [0, 0]
+
+  17477799:
+    template: 4th_Legionnaire
+    at:       [0.000, 0.000, 0.000, 213]
+    level:    [0, 0]
+
+  17477800:
+    template: 4th_Legionnaire
+    at:       [0.000, 0.000, 0.000, 31]
+    level:    [0, 0]
+
+  17477801:
+    template: 4th_Legionnaire
+    at:       [0.000, 0.000, 0.000, 98]
+    level:    [0, 0]
+
+  17477802:
+    template: Allied_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17477803:
+    template: Allied_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17477804:
+    template: Allied_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17477805:
+    template: Allied_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17477806:
+    template: Allied_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17477807:
+    template: Allied_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17477808:
+    template: Nail_Bomb
+    at:       [159.238, -33.549, -139.751, 0]
+    level:    [1, 1]
+
+  17477809:
+    template: Nail_Bomb
+    at:       [159.145, -33.549, -139.707, 0]
+    level:    [1, 1]
+
+  17477810:
+    template: Nail_Bomb
+    at:       [100.190, -33.549, -0.944, 193]
+    level:    [1, 1]
+
+  17477811:
+    template: Nail_Bomb
+    at:       [80.522, -33.549, -99.755, 124]
+    level:    [1, 1]
+
+  17477812:
+    template: Nail_Bomb
+    at:       [100.032, -33.465, -2.119, 201]
+    level:    [1, 1]
+
+  17477813:
+    template: Nail_Bomb
+    at:       [118.949, -34.189, -75.472, 203]
+    level:    [1, 1]
+
+  17477814:
+    template: Allied_Belfry
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17477815:
+    template: 1st_Legion_Aidman
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17477816:
+    template: 1st_Legion_Aidman
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17477817:
+    template: 1st_Legion_Aidman
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17477818:
+    template: 1st_Legion_Aidman
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17477819:
+    template: 1st_Legion_Aidman
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17477820:
+    template: 1st_Legion_Aidman
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17477821:
+    template: Allied_Armored_Belfry
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17477822:
+    template: 1st_Legion_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17477823:
+    template: 1st_Legion_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17477824:
+    template: 1st_Legion_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17477825:
+    template: 1st_Legion_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17477826:
+    template: 1st_Legion_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17477827:
+    template: 1st_Legion_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17477828:
+    template: Field_Woundpatcher
+    level:    [60, 60]
+    region:   crawlers_nest_s_c
+
+  17477829:
+    template: Field_Woundpatcher
+    level:    [60, 60]
+    region:   crawlers_nest_s_c
+
+  17477830:
+    template: Field_Woundpatcher
+    level:    [60, 60]
+    region:   crawlers_nest_s_c
+
+  17477831:
+    template: Field_Woundpatcher
+    level:    [60, 60]
+    region:   crawlers_nest_s_c
+
+  17477832:
+    template: Field_Woundpatcher
+    level:    [60, 60]
+    region:   crawlers_nest_s_c
+
+  17477833:
+    template: Field_Woundpatcher
+    level:    [60, 60]
+    region:   crawlers_nest_s_c
+
+  17477834:
+    template: Republic_Supplier
+    at:       [189.414, -32.840, -157.059, 92]
+    level:    [0, 0]
+
+  17477835:
+    template: Republic_Supplier
+    at:       [111.028, -32.630, 41.072, 166]
+    level:    [0, 0]
+
+  17477836:
+    template: Republic_Supplier
+    at:       [-120.984, -32.594, -86.966, 127]
+    level:    [0, 0]
+
+  17477837:
+    template: DiDha_Adamantfist
+    at:       [0.000, 0.000, 0.000, 234]
+    level:    [75, 80]
+
+  17477838:
+    template: DiDhas_Elite_Guard
+    at:       [0.000, 0.000, 0.000, 233]
+    level:    [0, 0]
+
+  17477839:
+    template: DiDhas_Elite_Guard
+    at:       [0.000, 0.000, 0.000, 192]
+    level:    [0, 0]
+
+  17477840:
+    template: DiDhas_Elite_Guard
+    at:       [0.000, 0.000, 0.000, 192]
+    level:    [0, 0]
+
+  17477841:
+    template: DiDhas_Elite_Guard
+    at:       [0.000, 0.000, 0.000, 237]
+    level:    [0, 0]
+
+  17477842:
+    template: DiDhas_Elite_Guard
+    at:       [0.000, 0.000, 0.000, 192]
+    level:    [0, 0]
+
+  17477843:
+    template: DiDhas_Elite_Guard
+    at:       [0.000, 0.000, 0.000, 192]
+    level:    [0, 0]
+
+  17477844:
+    template: DiDhas_Elite_Guard
+    at:       [0.000, 0.000, 0.000, 233]
+    level:    [0, 0]
+
+  17477845:
+    template: DiDhas_Elite_Guard
+    at:       [0.000, 0.000, 0.000, 193]
+    level:    [0, 0]
+
+  17477846:
+    template: DiDhas_Elite_Guard
+    at:       [0.000, 0.000, 0.000, 191]
+    level:    [0, 0]
+
+  17477847:
+    template: BoDho_Hundredfist
+    level:    [75, 80]
+    region:   crawlers_nest_s_e_5
+
+  17477848:
+    template: Waughroon_Heavyshell
+    level:    [60, 60]
+    region:   crawlers_nest_s_e_2
+
+  17477849:
+    template: Waughroon_Heavyshell
+    level:    [60, 60]
+    region:   crawlers_nest_s_e_2
+
+  17477850:
+    template: Waughroon_Heavyshell
+    level:    [60, 60]
+    region:   crawlers_nest_s_e_4
+
+  17477851:
+    template: Waughroon_Heavyshell
+    level:    [60, 60]
+    region:   crawlers_nest_s_e_2
+
+  17477852:
+    template: Waughroon_Heavyshell
+    level:    [60, 60]
+    region:   crawlers_nest_s_e_2
+
+  17477853:
+    template: Waughroon_Heavyshell
+    level:    [60, 60]
+    region:   crawlers_nest_s_e_2
+
+  17477854:
+    template: Waughroon_Heavyshell
+    at:       [0.000, 0.000, 0.000, 182]
+    level:    [60, 60]
+
+  17477855:
+    template: Waughroon_Heavyshell
+    level:    [60, 60]
+    region:   crawlers_nest_s_e_8
+
+  17477856:
+    template: Waughroon_Heavyshell
+    level:    [60, 60]
+    region:   crawlers_nest_s_e_2
+
+  17477857:
+    template: DeVyu_Headhunter
+    at:       [0.000, 0.000, 0.000, 215]
+    level:    [75, 80]
+
+  17477858:
+    template: Beadeaux_Vanguard
+    at:       [0.000, 0.000, 0.000, 136]
+    level:    [60, 60]
+
+  17477859:
+    template: Beadeaux_Vanguard
+    at:       [0.000, 0.000, 0.000, 76]
+    level:    [60, 60]
+
+  17477860:
+    template: Beadeaux_Vanguard
+    at:       [0.000, 0.000, 0.000, 54]
+    level:    [60, 60]
+
+  17477861:
+    template: Beadeaux_Vanguard
+    at:       [0.000, 0.000, 0.000, 9]
+    level:    [60, 60]
+
+  17477862:
+    template: Beadeaux_Vanguard
+    at:       [0.000, 0.000, 0.000, 221]
+    level:    [60, 60]
+
+  17477863:
+    template: Beadeaux_Vanguard
+    at:       [0.000, 0.000, 0.000, 53]
+    level:    [60, 60]
+
+  17477864:
+    template: Beadeaux_Vanguard
+    at:       [0.000, 0.000, 0.000, 39]
+    level:    [60, 60]
+
+  17477865:
+    template: Beadeaux_Vanguard
+    at:       [0.000, 0.000, 0.000, 11]
+    level:    [60, 60]
+
+  17477866:
+    template: Beadeaux_Vanguard
+    at:       [0.000, 0.000, 0.000, 193]
+    level:    [60, 60]
+
+  17477867:
+    template: BiGho_Headtaker
+    level:    [75, 80]
+    region:   crawlers_nest_s_c_18
+
+  17477868:
+    template: Qulun_Heavyshell
+    level:    [60, 60]
+    region:   crawlers_nest_s_e
+
+  17477869:
+    template: Qulun_Heavyshell
+    level:    [60, 60]
+    region:   crawlers_nest_s_e_6
+
+  17477870:
+    template: Qulun_Heavyshell
+    level:    [60, 60]
+    region:   crawlers_nest_s_e_3
+
+  17477871:
+    template: Qulun_Heavyshell
+    level:    [60, 60]
+    region:   crawlers_nest_s_e
+
+  17477872:
+    template: Qulun_Heavyshell
+    level:    [60, 60]
+    region:   crawlers_nest_s_c_17
+
+  17477873:
+    template: Qulun_Heavyshell
+    level:    [60, 60]
+    region:   crawlers_nest_s_e
+
+  17477874:
+    template: Qulun_Heavyshell
+    level:    [60, 60]
+    region:   crawlers_nest_s_e
+
+  17477875:
+    template: Qulun_Heavyshell
+    level:    [60, 60]
+    region:   crawlers_nest_s_c_17
+
+  17477876:
+    template: Qulun_Heavyshell
+    level:    [60, 60]
+    region:   crawlers_nest_s_e
+
+  17477877:
+    template: GoBhu_Herohunter
+    at:       [146.022, -32.744, -90.268, 52]
+    level:    [75, 80]
+
+  17477878:
+    template: GoBhus_Elite_Raider
+    at:       [166.419, -33.682, -101.775, 134]
+    level:    [0, 0]
+
+  17477879:
+    template: GoBhus_Elite_Raider
+    at:       [167.675, -33.933, -102.094, 135]
+    level:    [0, 0]
+
+  17477880:
+    template: GoBhus_Elite_Raider
+    at:       [139.981, -32.636, -35.823, 64]
+    level:    [0, 0]
+
+  17477881:
+    template: GoBhus_Elite_Raider
+    at:       [140.116, -32.583, -38.405, 63]
+    level:    [0, 0]
+
+  17477882:
+    template: GoBhus_Elite_Raider
+    at:       [168.212, -33.968, -102.026, 135]
+    level:    [0, 0]
+
+  17477883:
+    template: GoBhus_Elite_Raider
+    at:       [166.310, -33.522, -101.611, 135]
+    level:    [0, 0]
+
+  17477884:
+    template: GoBhus_Elite_Raider
+    at:       [168.344, -33.949, -101.864, 135]
+    level:    [0, 0]
+
+  17477885:
+    template: GoBhus_Elite_Raider
+    at:       [174.436, -35.376, -100.498, 112]
+    level:    [0, 0]
+
+  17477886:
+    template: GoBhus_Elite_Raider
+    at:       [140.665, -32.606, -36.863, 64]
+    level:    [0, 0]
+
+  17477887:
+    template: GoDha_Jademaiden
+    level:    [70, 70]
+    region:   crawlers_nest_s_c_16
+
+  17477888:
+    template: GoDhas_Elite_Raider
+    level:    [70, 70]
+    region:   crawlers_nest_s_c_16
+
+  17477889:
+    template: GoDhas_Elite_Raider
+    level:    [70, 70]
+    region:   crawlers_nest_s_c_16
+
+  17477890:
+    template: GoDhas_Elite_Raider
+    level:    [70, 70]
+    region:   crawlers_nest_s_c_16
+
+  17477891:
+    template: GoDhas_Elite_Raider
+    level:    [70, 70]
+    region:   crawlers_nest_s_c_16
+
+  17477892:
+    template: GoDhas_Elite_Raider
+    level:    [70, 70]
+    region:   crawlers_nest_s_c_16
+
+  17477893:
+    template: GoDhas_Elite_Raider
+    level:    [70, 70]
+    region:   crawlers_nest_s_c_16
+
+  17477894:
+    template: GoDhas_Elite_Raider
+    level:    [70, 70]
+    region:   crawlers_nest_s_c_16
+
+  17477895:
+    template: GoDhas_Elite_Raider
+    level:    [70, 70]
+    region:   crawlers_nest_s_c_16
+
+  17477896:
+    template: GoDhas_Elite_Raider
+    level:    [70, 70]
+    region:   crawlers_nest_s_c_16
+
+  17477897:
+    template: BoDhos_Shieldwarrior
+    level:    [75, 80]
+    region:   crawlers_nest_s_ne
+
+  17477898:
+    template: BoDhos_Shieldwarrior
+    level:    [75, 80]
+    region:   crawlers_nest_s_ne_2
+
+  17477899:
+    template: BoDhos_Shieldwarrior
+    level:    [75, 80]
+    region:   crawlers_nest_s_ne_3
+
+  17477900:
+    template: BoDhos_Shieldwarrior
+    level:    [75, 80]
+    region:   crawlers_nest_s_ne_4
+
+  17477901:
+    template: BoDhos_Shieldwarrior
+    level:    [75, 80]
+    region:   crawlers_nest_s_ne_5
+
+  17477902:
+    template: BoDhos_Shieldwarrior
+    level:    [75, 80]
+    region:   crawlers_nest_s_ne_6
+
+  17477903:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17477904:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17477905:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17477906:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17477907:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17477908:
+    template: Confederate_Mantelet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17477909:
+    template: Iron_Bomb
+    at:       [82.566, -33.153, -99.563, 124]
+    level:    [75, 75]
+
+  17477910:
+    template: Iron_Bomb
+    at:       [118.949, -34.189, -75.472, 205]
+    level:    [75, 75]
+
+  17477911:
+    template: Iron_Bomb
+    at:       [82.773, -33.008, -99.579, 123]
+    level:    [75, 75]
+
+  17477912:
+    template: Iron_Bomb
+    at:       [118.949, -34.189, -75.472, 206]
+    level:    [75, 75]
+
+  17477913:
+    template: Iron_Bomb
+    at:       [99.638, -33.153, -2.565, 203]
+    level:    [75, 75]
+
+  17477914:
+    template: Iron_Bomb
+    at:       [159.158, -33.549, -140.057, 4]
+    level:    [75, 75]
+
+  17477915:
+    template: Confederate_Belfry
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17477916:
+    template: Khroma_Quadav
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17477917:
+    template: Khroma_Quadav
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17477918:
+    template: Khroma_Quadav
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17477919:
+    template: Khroma_Quadav
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17477920:
+    template: Khroma_Quadav
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17477921:
+    template: Khroma_Quadav
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17477922:
+    template: Quadav_Turret
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17477923:
+    template: War_Ajattara
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17477924:
+    template: War_Ajattara
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17477925:
+    template: War_Ajattara
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17477926:
+    template: War_Ajattara
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17477927:
+    template: War_Ajattara
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17477928:
+    template: War_Ajattara
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17477929:
+    template: Fiendish_Leechkeeper
+    at:       [130.622, -33.225, -86.145, 124]
+    level:    [75, 80]
+
+  17477930:
+    template: Fiendish_Leechkeeper
+    at:       [55.257, -32.797, -100.522, 7]
+    level:    [75, 80]
+
+  17477931:
+    template: Fiendish_Leechkeeper
+    at:       [160.188, -32.556, -99.551, 9]
+    level:    [75, 80]
+
+  17477932:
+    template: Fiendish_Leechkeeper
+    at:       [148.779, -32.695, -93.639, 21]
+    level:    [75, 80]
+
+  17477933:
+    template: Fiendish_Leechkeeper
+    at:       [125.999, -33.708, -87.082, 133]
+    level:    [75, 80]
+
+  17477934:
+    template: Fiendish_Leechkeeper
+    at:       [139.880, -32.997, -87.589, 5]
+    level:    [75, 80]
+
+  17477935:
+    template: Shadowhorn
+    at:       [0.000, 0.000, 0.000, 196]
+    level:    [75, 80]
+
+  17477936:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 198]
+    level:    [60, 60]
+
+  17477937:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 199]
+    level:    [60, 60]
+
+  17477938:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 200]
+    level:    [60, 60]
+
+  17477939:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 201]
+    level:    [60, 60]
+
+  17477940:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 202]
+    level:    [60, 60]
+
+  17477941:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 203]
+    level:    [60, 60]
+
+  17477942:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 202]
+    level:    [60, 60]
+
+  17477943:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 204]
+    level:    [60, 60]
+
+  17477944:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 203]
+    level:    [60, 60]
+
+  17477945:
+    template: Shadowhand
+    at:       [0.000, 0.000, 0.000, 124]
+    level:    [75, 80]
+
+  17477946:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 240]
+    level:    [0, 0]
+
+  17477947:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 122]
+    level:    [0, 0]
+
+  17477948:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 122]
+    level:    [0, 0]
+
+  17477949:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 123]
+    level:    [0, 0]
+
+  17477950:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 123]
+    level:    [0, 0]
+
+  17477951:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 124]
+    level:    [0, 0]
+
+  17477952:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 124]
+    level:    [0, 0]
+
+  17477953:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 124]
+    level:    [0, 0]
+
+  17477954:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 124]
+    level:    [0, 0]
+
+  17477955:
+    template: Shadowfang
+    at:       [0.000, 0.000, 0.000, 219]
+    level:    [75, 80]
+
+  17477956:
+    template: Shadowfang_Void
+    at:       [121.670, -34.189, -80.770, 134]
+    level:    [60, 60]
+
+  17477957:
+    template: Shadowfang_Void
+    at:       [125.914, -34.189, -82.883, 125]
+    level:    [60, 60]
+
+  17477958:
+    template: Shadowfang_Void
+    at:       [125.806, -34.189, -82.659, 132]
+    level:    [60, 60]
+
+  17477959:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 149]
+    level:    [60, 60]
+
+  17477960:
+    template: Shadowfang_Void
+    at:       [126.639, -33.989, -85.181, 159]
+    level:    [60, 60]
+
+  17477961:
+    template: Shadowfang_Void
+    at:       [126.489, -33.989, -85.076, 160]
+    level:    [60, 60]
+
+  17477962:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 129]
+    level:    [60, 60]
+
+  17477963:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 149]
+    level:    [60, 60]
+
+  17477964:
+    template: Shadowfang_Void
+    at:       [124.753, -34.189, -84.683, 180]
+    level:    [60, 60]
+
+  17477965:
+    template: Shadoweye
+    at:       [140.259, -32.995, -86.816, 145]
+    level:    [75, 80]
+
+  17477966:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 178]
+    level:    [60, 60]
+
+  17477967:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 127]
+    level:    [60, 60]
+
+  17477968:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 82]
+    level:    [60, 60]
+
+  17477969:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 74]
+    level:    [60, 60]
+
+  17477970:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 149]
+    level:    [60, 60]
+
+  17477971:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 153]
+    level:    [60, 60]
+
+  17477972:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 218]
+    level:    [60, 60]
+
+  17477973:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 34]
+    level:    [60, 60]
+
+  17477974:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 176]
+    level:    [60, 60]
+
+  17477975:
+    template: Fortification
+    at:       [118.950, -33.689, -75.472, 0]
+    level:    [50, 50]
+
+  17477976:
+    template: Fortification
+    at:       [160.866, -33.150, -139.975, 0]
+    level:    [50, 50]
+
+  17477977:
+    template: Fortification
+    at:       [80.853, -33.150, -99.927, 0]
+    level:    [50, 50]
+
+  17477978:
+    template: Fortification
+    at:       [100.195, -33.150, -0.780, 0]
+    level:    [50, 50]
+
+  17477979:
+    template: Rikoh_Wahcondalo
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17477980:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17477981:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17477982:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17477983:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17477984:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17477985:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17477986:
+    template: Dalzakk
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17477987:
+    template: Oggbi
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17477988:
+    template: Rainemard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17477989:
+    template: Maat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17477990:
+    template: Degenhard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17477991:
+    template: Azima
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17477992:
+    template: Choh_Moui
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17477993:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17477994:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17477995:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17477996:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17477997:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17477998:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17477999:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478000:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478001:
+    template: Azo
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478002:
+    template: Vahi
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478003:
+    template: Rongo-Nango
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478004:
+    template: Lerren
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478005:
+    template: Jajaro
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478006:
+    template: Popochu
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478007:
+    template: Papako
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478008:
+    template: Momowa
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478009:
+    template: Ulla
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478010:
+    template: Kilhwch
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478011:
+    template: Alfons
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478012:
+    template: Achtelle
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478013:
+    template: Bravo
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478014:
+    template: Duskraven
+    at:       [0.000, 0.000, 0.000, 252]
+    level:    [1, 1]
+
+  17478015:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 252]
+    level:    [1, 1]
+
+  17478016:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 248]
+    level:    [1, 1]
+
+  17478017:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 251]
+    level:    [1, 1]
+
+  17478018:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 115]
+    level:    [1, 1]
+
+  17478019:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 68]
+    level:    [1, 1]
+
+  17478020:
+    template: Areuhat
+    level:    [1, 1]
+    region:   crawlers_nest_s_e_7
+
+  17478021:
+    template: Odzmanouk
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478022:
+    template: Boodlix
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17478023:
+    template: Goblin_Lansquenet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17478024:
+    template: Goblin_Lansquenet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17478025:
+    template: Goblin_Lansquenet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17478026:
+    template: Titania
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478027:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478028:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478029:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478030:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478031:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478032:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478033:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478034:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478035:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478036:
+    template: Babban_Ny_Mheillea
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17478037:
+    template: Abenzio
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478038:
+    template: Bryher
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478039:
+    template: Camlin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478040:
+    template: Darach
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478041:
+    template: Raigegue_R_dOraguille
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17478042:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 250]
+    level:    [0, 0]
+
+  17478043:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 254]
+    level:    [0, 0]
+
+  17478044:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 253]
+    level:    [0, 0]
+
+  17478045:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 253]
+    level:    [0, 0]
+
+  17478046:
+    template: Eurytos
+    at:       [0.000, 0.000, 0.000, 250]
+    level:    [75, 75]
+
+  17478047:
+    template: Gigas_Mercenary
+    at:       [0.000, 0.000, 0.000, 249]
+    level:    [60, 60]
+
+  17478048:
+    template: Gigas_Mercenary
+    at:       [0.000, 0.000, 0.000, 253]
+    level:    [60, 60]
+
+  17478049:
+    template: Poroggo_Prince
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478050:
+    template: Poroggo_Servant
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478051:
+    template: Poroggo_Servant
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478052:
+    template: Poroggo_Servant
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478053:
+    template: Kaiser_Behemoth
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17478054:
+    template: Ferreous_Coffin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478055:
+    template: Lewenhart
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478056:
+    template: Auroral_Alicorn
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17478057:
+    template: Nympha_Eunomia
+    at:       [58.102, -0.828, 270.936, 138]
+    level:    [95, 96]
+
+  17478058:
+    template: Kalos_Eunomia
+    at:       [58.723, -0.883, 269.588, 34]
+    level:    [97, 98]
+
+  17478059:
+    template: Nympha_Eunomia
+    at:       [-187.910, -0.673, 200.811, 207]
+    level:    [95, 96]
+
+  17478060:
+    template: Kalos_Eunomia
+    at:       [-185.839, -1.122, 207.324, 4]
+    level:    [97, 98]
+
+  17478061:
+    template: Nympha_Eunomia
+    at:       [-137.000, -0.743, 377.000, 145]
+    level:    [95, 96]
+
+  17478062:
+    template: Kalos_Eunomia
+    at:       [-137.000, -0.743, 377.000, 145]
+    level:    [97, 98]
+
+  17478063:
+    template: Apex_Lugcrawler
+    level:    [129, 131]
+    region:   crawlers_nest_s_s_11
+
+  17478064:
+    template: Locus_Lugcrawler
+    level:    [129, 131]
+    region:   crawlers_nest_s_s_14
+
+  17478065:
+    template: Apex_Lugcrawler
+    level:    [129, 131]
+    region:   crawlers_nest_s_s_12
+
+  17478066:
+    template: Apex_Hornfly
+    level:    [131, 134]
+    region:   crawlers_nest_s_s_10
+
+  17478067:
+    template: Apex_Hornfly
+    level:    [131, 134]
+    region:   crawlers_nest_s_s_10
+
+  17478068:
+    template: Locus_Hornfly
+    at:       [111.163, 0.000, -252.602, 93]
+    level:    [131, 133]
+
+  17478069:
+    template: Apex_Worker_Lugcrawler
+    level:    [132, 134]
+    region:   crawlers_nest_s_s_10
+
+  17478070:
+    template: Locus_Worker_Lugcrawler
+    level:    [132, 134]
+    region:   crawlers_nest_s_s_10
+
+  17478071:
+    template: Apex_Hornfly
+    level:    [131, 134]
+    region:   crawlers_nest_s_s_9
+
+  17478072:
+    template: Apex_Hornfly
+    level:    [131, 134]
+    region:   crawlers_nest_s_s_9
+
+  17478073:
+    template: Locus_Hornfly
+    at:       [88.345, 0.000, -248.955, 87]
+    level:    [131, 133]
+
+  17478074:
+    template: Apex_Worker_Lugcrawler
+    level:    [132, 134]
+    region:   crawlers_nest_s_s_9
+
+  17478075:
+    template: Locus_Worker_Lugcrawler
+    at:       [80.248, 0.000, -245.235, 234]
+    level:    [132, 134]
+
+  17478076:
+    template: Apex_Hornfly
+    level:    [131, 134]
+    region:   crawlers_nest_s_s_6
+
+  17478077:
+    template: Apex_Hornfly
+    level:    [131, 134]
+    region:   crawlers_nest_s_s_6
+
+  17478078:
+    template: Locus_Hornfly
+    level:    [131, 133]
+    region:   crawlers_nest_s_s_6
+
+  17478079:
+    template: Apex_Worker_Lugcrawler
+    level:    [132, 134]
+    region:   crawlers_nest_s_s_6
+
+  17478080:
+    template: Locus_Worker_Lugcrawler
+    level:    [132, 134]
+    region:   crawlers_nest_s_s_6
+
+  17478081:
+    template: Apex_Hornfly
+    level:    [131, 134]
+    region:   crawlers_nest_s_s_6
+
+  17478082:
+    template: Apex_Hornfly
+    level:    [131, 134]
+    region:   crawlers_nest_s_s_6
+
+  17478083:
+    template: Locus_Hornfly
+    level:    [131, 133]
+    region:   crawlers_nest_s_s_6
+
+  17478084:
+    template: Apex_Worker_Lugcrawler
+    level:    [132, 134]
+    region:   crawlers_nest_s_s_6
+
+  17478085:
+    template: Locus_Worker_Lugcrawler
+    level:    [132, 134]
+    region:   crawlers_nest_s_s_6
+
+  17478086:
+    template: Apex_Hornfly
+    at:       [7.866, 0.000, -249.466, 184]
+    level:    [131, 134]
+
+  17478087:
+    template: Apex_Hornfly
+    at:       [17.475, -1.000, -253.001, 12]
+    level:    [131, 134]
+
+  17478088:
+    template: Locus_Hornfly
+    at:       [5.819, 0.000, -237.183, 174]
+    level:    [131, 133]
+
+  17478089:
+    template: Apex_Worker_Lugcrawler
+    at:       [7.031, 0.000, -251.938, 73]
+    level:    [132, 134]
+
+  17478090:
+    template: Locus_Worker_Lugcrawler
+    at:       [12.914, -1.000, -245.867, 76]
+    level:    [132, 134]
+
+  17478091:
+    template: Apex_Hornfly
+    level:    [131, 134]
+    region:   crawlers_nest_s_s_5
+
+  17478092:
+    template: Apex_Hornfly
+    level:    [131, 134]
+    region:   crawlers_nest_s_s_5
+
+  17478093:
+    template: Locus_Hornfly
+    at:       [-0.831, 0.000, -244.064, 202]
+    level:    [131, 133]
+
+  17478094:
+    template: Apex_Worker_Lugcrawler
+    level:    [132, 134]
+    region:   crawlers_nest_s_s_5
+
+  17478095:
+    template: Locus_Worker_Lugcrawler
+    level:    [132, 134]
+    region:   crawlers_nest_s_s_5
+
+  17478096:
+    template: Apex_Hornfly
+    at:       [-46.810, 0.000, -269.985, 138]
+    level:    [131, 134]
+
+  17478097:
+    template: Locus_Hornfly
+    at:       [-55.115, -1.000, -270.330, 154]
+    level:    [131, 133]
+
+  17478098:
+    template: Apex_Worker_Lugcrawler
+    at:       [-53.716, -1.000, -274.839, 99]
+    level:    [132, 134]
+
+  17478099:
+    template: Locus_Worker_Lugcrawler
+    at:       [-50.872, -1.000, -274.134, 233]
+    level:    [132, 134]
+
+  17478100:
+    template: Apex_Hornfly
+    at:       [-30.247, 0.000, -285.572, 117]
+    level:    [131, 134]
+
+  17478101:
+    template: Locus_Hornfly
+    at:       [-36.236, 0.000, -279.213, 105]
+    level:    [131, 133]
+
+  17478102:
+    template: Apex_Worker_Lugcrawler
+    at:       [-33.516, 0.000, -280.918, 244]
+    level:    [132, 134]
+
+  17478103:
+    template: Locus_Worker_Lugcrawler
+    at:       [-36.683, 0.000, -276.349, 180]
+    level:    [132, 134]
+
+  17478104:
+    template: Apex_Hornfly
+    at:       [-43.558, 0.000, -290.087, 205]
+    level:    [131, 134]
+
+  17478105:
+    template: Locus_Hornfly
+    at:       [-49.315, -1.000, -301.498, 107]
+    level:    [131, 133]
+
+  17478106:
+    template: Apex_Worker_Lugcrawler
+    at:       [-48.018, 0.000, -292.443, 72]
+    level:    [132, 134]
+
+  17478107:
+    template: Apex_Mycelar
+    at:       [-43.263, 0.000, -289.521, 219]
+    level:    [136, 138]
+
+  17478108:
+    template: Apex_Hornfly
+    at:       [-28.946, 0.000, -296.581, 40]
+    level:    [131, 134]
+
+  17478109:
+    template: Locus_Worker_Lugcrawler
+    at:       [-29.084, -1.000, -293.395, 173]
+    level:    [132, 134]
+
+  17478110:
+    template: Apex_Mycelar
+    at:       [-32.605, -1.000, -297.834, 88]
+    level:    [136, 138]
+
+  17478111:
+    template: Apex_Mycelar
+    at:       [-34.313, 0.000, -292.696, 161]
+    level:    [136, 138]
+
+  17478112:
+    template: Apex_Hornfly
+    at:       [-44.436, 0.000, -317.195, 86]
+    level:    [131, 134]
+
+  17478113:
+    template: Locus_Hornfly
+    at:       [-46.187, 0.000, -311.624, 96]
+    level:    [131, 133]
+
+  17478114:
+    template: Locus_Worker_Lugcrawler
+    at:       [-47.401, 0.000, -314.328, 188]
+    level:    [132, 134]
+
+  17478115:
+    template: Apex_Mycelar
+    at:       [-50.179, 0.000, -319.152, 102]
+    level:    [136, 138]
+
+  17478116:
+    template: Locus_Worker_Lugcrawler
+    at:       [-26.523, 0.000, -309.370, 159]
+    level:    [132, 134]
+
+  17478117:
+    template: Apex_Mycelar
+    at:       [-27.499, 0.000, -309.559, 177]
+    level:    [136, 138]
+
+  17478118:
+    template: Apex_Hornfly
+    at:       [-26.893, -1.000, -323.799, 56]
+    level:    [131, 134]
+
+  17478119:
+    template: Locus_Hornfly
+    at:       [-28.527, -1.000, -326.475, 236]
+    level:    [131, 133]
+
+  17478120:
+    template: Locus_Worker_Lugcrawler
+    at:       [-33.613, 0.000, -321.377, 203]
+    level:    [132, 134]
+
+  17478121:
+    template: Apex_Hornfly
+    at:       [110.958, 0.000, -318.055, 243]
+    level:    [131, 134]
+
+  17478122:
+    template: Locus_Hornfly
+    at:       [107.017, -1.000, -321.824, 76]
+    level:    [131, 133]
+
+  17478123:
+    template: Apex_Worker_Lugcrawler
+    at:       [112.783, 0.000, -325.495, 179]
+    level:    [132, 134]
+
+  17478124:
+    template: Locus_Nest_Elytra
+    at:       [116.852, 0.000, -320.552, 239]
+    level:    [132, 134]
+
+  17478125:
+    template: Apex_Hornfly
+    at:       [128.721, -1.000, -337.250, 8]
+    level:    [131, 134]
+
+  17478126:
+    template: Locus_Hornfly
+    at:       [135.072, -1.000, -325.944, 57]
+    level:    [131, 133]
+
+  17478127:
+    template: Locus_Worker_Lugcrawler
+    at:       [127.521, -1.000, -326.166, 11]
+    level:    [132, 134]
+
+  17478128:
+    template: Apex_Nest_Elytra
+    at:       [132.091, -1.000, -334.847, 88]
+    level:    [133, 134]
+
+  17478129:
+    template: Apex_Hornfly
+    at:       [107.381, -1.000, -312.686, 115]
+    level:    [131, 134]
+
+  17478130:
+    template: Locus_Hornfly
+    at:       [112.662, -1.000, -309.114, 216]
+    level:    [131, 133]
+
+  17478131:
+    template: Apex_Worker_Lugcrawler
+    at:       [107.044, -1.000, -303.141, 159]
+    level:    [132, 134]
+
+  17478132:
+    template: Locus_Nest_Elytra
+    at:       [113.086, 0.000, -306.567, 43]
+    level:    [132, 134]
+
+  17478133:
+    template: Apex_Hornfly
+    at:       [125.694, 0.000, -315.668, 113]
+    level:    [131, 134]
+
+  17478134:
+    template: Locus_Hornfly
+    at:       [121.914, 0.000, -305.385, 151]
+    level:    [131, 133]
+
+  17478135:
+    template: Locus_Worker_Lugcrawler
+    at:       [131.547, 0.000, -305.890, 219]
+    level:    [132, 134]
+
+  17478136:
+    template: Apex_Nest_Elytra
+    level:    [133, 134]
+    region:   crawlers_nest_s_s_13
+
+  17478137:
+    template: Apex_Hornfly
+    at:       [135.477, -1.000, -297.887, 12]
+    level:    [131, 134]
+
+  17478138:
+    template: Locus_Hornfly
+    at:       [133.378, -1.000, -291.648, 115]
+    level:    [131, 133]
+
+  17478139:
+    template: Apex_Worker_Lugcrawler
+    at:       [125.260, 0.000, -287.178, 150]
+    level:    [132, 134]
+
+  17478140:
+    template: Locus_Nest_Elytra
+    at:       [127.968, -1.000, -297.078, 219]
+    level:    [132, 134]
+
+  17478141:
+    template: Apex_Hornfly
+    at:       [134.240, 0.000, -267.881, 189]
+    level:    [131, 134]
+
+  17478142:
+    template: Locus_Hornfly
+    at:       [126.657, 0.000, -268.136, 13]
+    level:    [131, 133]
+
+  17478143:
+    template: Apex_Worker_Lugcrawler
+    at:       [133.051, 0.000, -273.714, 81]
+    level:    [132, 134]
+
+  17478144:
+    template: Locus_Nest_Elytra
+    at:       [133.842, 0.000, -277.886, 2]
+    level:    [132, 134]
+
+  17478145:
+    template: Apex_Dragonfly
+    level:    [133, 135]
+    region:   crawlers_nest_s_s_4
+
+  17478146:
+    template: Locus_Dragonfly
+    level:    [133, 135]
+    region:   crawlers_nest_s_s_4
+
+  17478147:
+    template: Locus_Soldier_Lugcrawler
+    level:    [134, 135]
+    region:   crawlers_nest_s_s_4
+
+  17478148:
+    template: Apex_Blazer_Elytra
+    level:    [134, 136]
+    region:   crawlers_nest_s_s_4
+
+  17478149:
+    template: Locus_Dragonfly
+    level:    [133, 135]
+    region:   crawlers_nest_s_s_4
+
+  17478150:
+    template: Locus_Blazer_Elytra
+    level:    [134, 136]
+    region:   crawlers_nest_s_s_4
+
+  17478151:
+    template: Apex_Dragonfly
+    at:       [-46.468, -1.000, -377.670, 252]
+    level:    [133, 135]
+
+  17478152:
+    template: Locus_Dragonfly
+    at:       [-45.265, 0.000, -373.386, 60]
+    level:    [133, 135]
+
+  17478153:
+    template: Locus_Soldier_Lugcrawler
+    at:       [-55.805, -1.000, -380.629, 107]
+    level:    [134, 135]
+
+  17478154:
+    template: Apex_Blazer_Elytra
+    at:       [-56.283, 0.000, -374.226, 95]
+    level:    [134, 136]
+
+  17478155:
+    template: Apex_Dragonfly
+    at:       [-32.100, 0.000, -379.256, 117]
+    level:    [133, 135]
+
+  17478156:
+    template: Locus_Dragonfly
+    at:       [-37.772, 0.000, -367.056, 148]
+    level:    [133, 135]
+
+  17478157:
+    template: Apex_Soldier_Lugcrawler
+    at:       [-39.305, 0.000, -367.723, 170]
+    level:    [135, 135]
+
+  17478158:
+    template: Locus_Blazer_Elytra
+    at:       [-29.827, -1.000, -369.812, 223]
+    level:    [134, 136]
+
+  17478159:
+    template: Apex_Dragonfly
+    level:    [133, 135]
+    region:   crawlers_nest_s_s_3
+
+  17478160:
+    template: Locus_Dragonfly
+    level:    [133, 135]
+    region:   crawlers_nest_s_s_3
+
+  17478161:
+    template: Locus_Soldier_Lugcrawler
+    level:    [134, 135]
+    region:   crawlers_nest_s_s_3
+
+  17478162:
+    template: Apex_Blazer_Elytra
+    level:    [134, 136]
+    region:   crawlers_nest_s_s_3
+
+  17478163:
+    template: Apex_Dragonfly
+    at:       [-31.118, 0.000, -407.672, 211]
+    level:    [133, 135]
+
+  17478164:
+    template: Locus_Dragonfly
+    at:       [-36.487, 0.000, -406.830, 77]
+    level:    [133, 135]
+
+  17478165:
+    template: Locus_Blazer_Elytra
+    at:       [-28.418, 0.000, -406.789, 139]
+    level:    [134, 136]
+
+  17478166:
+    template: Apex_Dragonfly
+    at:       [-17.624, 0.000, -408.403, 193]
+    level:    [133, 135]
+
+  17478167:
+    template: Locus_Dragonfly
+    at:       [-7.963, 0.000, -410.709, 49]
+    level:    [133, 135]
+
+  17478168:
+    template: Apex_Blazer_Elytra
+    at:       [-9.367, 0.000, -406.262, 123]
+    level:    [134, 136]
+
+  17478169:
+    template: Apex_Blazer_Elytra
+    at:       [-0.458, 0.000, -406.614, 251]
+    level:    [134, 136]
+
+  17478170:
+    template: Locus_Blazer_Elytra
+    at:       [-5.468, 0.000, -407.881, 215]
+    level:    [134, 136]
+
+  17478171:
+    template: Apex_Dragonfly
+    at:       [21.783, 0.000, -396.001, 193]
+    level:    [133, 135]
+
+  17478172:
+    template: Locus_Dragonfly
+    at:       [32.492, -1.000, -389.410, 228]
+    level:    [133, 135]
+
+  17478173:
+    template: Apex_Blazer_Elytra
+    at:       [31.510, 0.000, -398.259, 45]
+    level:    [134, 136]
+
+  17478174:
+    template: Apex_Blazer_Elytra
+    at:       [26.916, 0.000, -395.020, 225]
+    level:    [134, 136]
+
+  17478175:
+    template: Locus_Blazer_Elytra
+    at:       [23.069, 0.000, -389.129, 180]
+    level:    [134, 136]
+
+  17478176:
+    template: Apex_Dragonfly
+    at:       [50.892, -1.000, -386.055, 231]
+    level:    [133, 135]
+
+  17478177:
+    template: Locus_Dragonfly
+    at:       [51.937, -1.000, -388.961, 52]
+    level:    [133, 135]
+
+  17478178:
+    template: Apex_Blazer_Elytra
+    at:       [50.568, 0.000, -390.495, 254]
+    level:    [134, 136]
+
+  17478179:
+    template: Locus_Blazer_Elytra
+    at:       [44.311, 0.000, -386.499, 248]
+    level:    [134, 136]
+
+  17478180:
+    template: Apex_Dragonfly
+    at:       [69.444, 0.000, -385.686, 205]
+    level:    [133, 135]
+
+  17478181:
+    template: Locus_Dragonfly
+    at:       [66.297, 0.000, -392.984, 225]
+    level:    [133, 135]
+
+  17478182:
+    template: Apex_Blazer_Elytra
+    at:       [58.723, 0.000, -388.892, 162]
+    level:    [134, 136]
+
+  17478183:
+    template: Locus_Blazer_Elytra
+    at:       [57.680, 0.000, -391.793, 74]
+    level:    [134, 136]
+
+  17478184:
+    template: Apex_Dragonfly
+    at:       [63.872, -1.000, -413.829, 83]
+    level:    [133, 135]
+
+  17478185:
+    template: Apex_Dragonfly
+    at:       [58.289, 0.000, -412.038, 141]
+    level:    [133, 135]
+
+  17478186:
+    template: Locus_Dragonfly
+    at:       [51.599, 0.000, -408.642, 73]
+    level:    [133, 135]
+
+  17478187:
+    template: Apex_Blazer_Elytra
+    at:       [57.411, 0.000, -410.292, 95]
+    level:    [134, 136]
+
+  17478188:
+    template: Locus_Blazer_Elytra
+    at:       [58.458, 0.000, -405.136, 117]
+    level:    [134, 136]
+
+  17478189:
+    template: Apex_Dragonfly
+    at:       [84.313, 0.000, -401.408, 227]
+    level:    [133, 135]
+
+  17478190:
+    template: Apex_Dragonfly
+    at:       [78.139, 0.000, -401.598, 229]
+    level:    [133, 135]
+
+  17478191:
+    template: Locus_Dragonfly
+    at:       [83.594, -1.000, -412.247, 11]
+    level:    [133, 135]
+
+  17478192:
+    template: Apex_Blazer_Elytra
+    at:       [78.013, 0.000, -412.032, 25]
+    level:    [134, 136]
+
+  17478193:
+    template: Locus_Blazer_Elytra
+    at:       [79.859, 0.000, -403.323, 183]
+    level:    [134, 136]
+
+  17478194:
+    template: Apex_Dragonfly
+    at:       [93.582, 0.000, -395.271, 121]
+    level:    [133, 135]
+
+  17478195:
+    template: Locus_Dragonfly
+    at:       [103.706, 0.000, -395.743, 57]
+    level:    [133, 135]
+
+  17478196:
+    template: Apex_Blazer_Elytra
+    at:       [91.356, 0.000, -401.147, 41]
+    level:    [134, 136]
+
+  17478197:
+    template: Locus_Blazer_Elytra
+    at:       [103.211, 0.000, -399.009, 241]
+    level:    [134, 136]
+
+  17478198:
+    template: Apex_Dragonfly
+    at:       [111.307, 0.000, -402.744, 84]
+    level:    [133, 135]
+
+  17478199:
+    template: Locus_Dragonfly
+    at:       [110.682, 0.000, -394.384, 189]
+    level:    [133, 135]
+
+  17478200:
+    template: Apex_Blazer_Elytra
+    at:       [124.079, 0.000, -396.920, 86]
+    level:    [134, 136]
+
+  17478201:
+    template: Locus_Blazer_Elytra
+    at:       [124.641, 0.000, -393.791, 159]
+    level:    [134, 136]
+
+  17478202:
+    template: Apex_Dragonfly
+    at:       [121.420, 0.000, -375.277, 71]
+    level:    [133, 135]
+
+  17478203:
+    template: Locus_Dragonfly
+    at:       [111.760, -1.000, -378.345, 65]
+    level:    [133, 135]
+
+  17478204:
+    template: Apex_Blazer_Elytra
+    at:       [121.848, -1.000, -373.079, 204]
+    level:    [134, 136]
+
+  17478205:
+    template: Locus_Blazer_Elytra
+    at:       [121.951, -1.000, -371.518, 52]
+    level:    [134, 136]
+
+  17478206:
+    template: Apex_Dragonfly
+    at:       [109.029, -1.000, -356.077, 181]
+    level:    [133, 135]
+
+  17478207:
+    template: Locus_Dragonfly
+    at:       [118.639, 0.000, -353.976, 244]
+    level:    [133, 135]
+
+  17478208:
+    template: Apex_Blazer_Elytra
+    at:       [122.347, 0.000, -358.506, 120]
+    level:    [134, 136]
+
+  17478209:
+    template: Locus_Blazer_Elytra
+    at:       [125.933, 0.000, -356.880, 53]
+    level:    [134, 136]
+
+  17478210:
+    template: Apex_Mycelar
+    at:       [128.559, -1.000, -232.482, 73]
+    level:    [136, 138]
+
+  17478211:
+    template: Apex_Mycelar
+    at:       [131.866, -1.000, -233.513, 151]
+    level:    [136, 138]
+
+  17478212:
+    template: Apex_Doom_Scorpion
+    at:       [125.963, 0.000, -233.422, 116]
+    level:    [135, 138]
+
+  17478213:
+    template: Apex_Mycelar
+    at:       [16.258, -1.000, -223.217, 251]
+    level:    [136, 138]
+
+  17478214:
+    template: Apex_Mycelar
+    at:       [13.586, -1.000, -223.466, 138]
+    level:    [136, 138]
+
+  17478215:
+    template: Apex_Doom_Scorpion
+    at:       [15.954, -1.000, -223.054, 250]
+    level:    [135, 138]
+
+  17478216:
+    template: Apex_Mycelar
+    at:       [-47.908, 0.000, -250.894, 217]
+    level:    [136, 138]
+
+  17478217:
+    template: Apex_Mycelar
+    at:       [-51.087, 0.000, -255.030, 9]
+    level:    [136, 138]
+
+  17478218:
+    template: Apex_Doom_Scorpion
+    at:       [-53.117, -1.000, -247.438, 180]
+    level:    [135, 138]
+
+  17478219:
+    template: Apex_Mycelar
+    at:       [-56.681, -1.000, -345.526, 88]
+    level:    [136, 138]
+
+  17478220:
+    template: Apex_Mycelar
+    at:       [-55.192, -1.000, -342.203, 53]
+    level:    [136, 138]
+
+  17478221:
+    template: Apex_Doom_Scorpion
+    at:       [-55.264, -1.000, -342.153, 53]
+    level:    [135, 138]
+
+  17478222:
+    template: Apex_Mycelar
+    at:       [-3.719, 0.000, -390.740, 82]
+    level:    [136, 138]
+
+  17478223:
+    template: Apex_Mycelar
+    at:       [-3.300, 0.000, -392.415, 120]
+    level:    [136, 138]
+
+  17478224:
+    template: Apex_Doom_Scorpion
+    at:       [0.224, 0.000, -391.333, 39]
+    level:    [135, 138]
+
+  17478225:
+    template: Apex_Mycelar
+    at:       [129.224, -1.000, -404.926, 46]
+    level:    [136, 138]
+
+  17478226:
+    template: Apex_Mycelar
+    at:       [128.399, 0.000, -403.134, 175]
+    level:    [136, 138]
+
+  17478227:
+    template: Apex_Doom_Scorpion
+    at:       [126.991, -1.000, -412.077, 105]
+    level:    [135, 138]
+
+  17478228:
+    template: Apex_Mycelar
+    level:    [136, 138]
+    region:   crawlers_nest_s_s_7
+
+  17478229:
+    template: Apex_Mycelar
+    level:    [136, 138]
+    region:   crawlers_nest_s_s_7
+
+  17478230:
+    template: Apex_Mycelar
+    level:    [136, 138]
+    region:   crawlers_nest_s_s_7
+
+  17478231:
+    template: Apex_Mycelar
+    level:    [136, 138]
+    region:   crawlers_nest_s_s_7
+
+  17478232:
+    template: Apex_Mycelar
+    level:    [136, 138]
+    region:   crawlers_nest_s_s_7
+
+  17478233:
+    template: Apex_Mycelar
+    level:    [136, 138]
+    region:   crawlers_nest_s_s_7
+
+  17478234:
+    template: Apex_Mycelar
+    level:    [136, 138]
+    region:   crawlers_nest_s_s_7
+
+  17478235:
+    template: Apex_Mycelar
+    level:    [136, 138]
+    region:   crawlers_nest_s_s_7
+
+  17478236:
+    template: Apex_Fire_Elemental
+    at:       [35.584, 0.000, -238.861, 250]
+    level:    [135, 137]
+
+  17478237:
+    template: Apex_Water_Elemental
+    level:    [135, 137]
+    region:   crawlers_nest_s_s_6
+
+  17478238:
+    template: Apex_Fire_Elemental
+    at:       [22.227, 0.000, -394.764, 199]
+    level:    [135, 137]
+
+  17478239:
+    template: Apex_Water_Elemental
+    level:    [135, 137]
+    region:   crawlers_nest_s_s_8
+
+  17478240:
+    template: Apex_Rumble_Lugcrawler
+    level:    [136, 138]
+    region:   crawlers_nest_s_s_2
+
+  17478241:
+    template: Apex_Rumble_Lugcrawler
+    level:    [136, 138]
+    region:   crawlers_nest_s_s_2
+
+  17478242:
+    template: Apex_Rumble_Lugcrawler
+    level:    [136, 138]
+    region:   crawlers_nest_s_s_2
+
+  17478243:
+    template: Apex_Rumble_Lugcrawler
+    level:    [136, 138]
+    region:   crawlers_nest_s_s_2
+
+  17478244:
+    template: Apex_Rumble_Lugcrawler
+    level:    [136, 138]
+    region:   crawlers_nest_s_s
+
+  17478245:
+    template: Apex_Rumble_Lugcrawler
+    level:    [136, 138]
+    region:   crawlers_nest_s_s
+
+  17478246:
+    template: Apex_Helm_Elytra
+    level:    [136, 138]
+    region:   crawlers_nest_s_sw
+
+  17478247:
+    template: Apex_Helm_Elytra
+    level:    [136, 138]
+    region:   crawlers_nest_s_sw
+
+  17478248:
+    template: Apex_Helm_Elytra
+    level:    [136, 138]
+    region:   crawlers_nest_s_sw
+
+  17478249:
+    template: Apex_Helm_Elytra
+    level:    [136, 138]
+    region:   crawlers_nest_s_sw
+
+  17478250:
+    template: Apex_Helm_Elytra
+    level:    [136, 138]
+    region:   crawlers_nest_s_sw
+
+  17478251:
+    template: Apex_Helm_Elytra
+    level:    [136, 138]
+    region:   crawlers_nest_s_sw
+
+  17478252:
+    template: Apex_Helm_Elytra
+    level:    [136, 138]
+    region:   crawlers_nest_s_sw
+
+  17478253:
+    template: Apex_Helm_Elytra
+    level:    [136, 138]
+    region:   crawlers_nest_s_sw
+
+  17478254:
+    template: Apex_Helm_Elytra
+    level:    [136, 138]
+    region:   crawlers_nest_s_sw
+
+  17478255:
+    template: Apex_Helm_Elytra
+    level:    [136, 138]
+    region:   crawlers_nest_s_sw
+
+  17478256:
+    template: Apex_Helm_Elytra
+    level:    [136, 138]
+    region:   crawlers_nest_s_sw
+
+  17478257:
+    template: Apex_Helm_Elytra
+    level:    [136, 138]
+    region:   crawlers_nest_s_sw
+
+  17478258:
+    template: Apex_Lugcrawler_Hunter
+    at:       [-228.235, 0.000, -251.094, 7]
+    level:    [137, 139]
+
+  17478259:
+    template: Apex_Lugcrawler_Hunter
+    at:       [-236.414, -0.849, -252.522, 82]
+    level:    [137, 139]
+
+  17478260:
+    template: Apex_Lugcrawler_Hunter
+    at:       [-247.517, -1.149, -253.238, 23]
+    level:    [137, 139]
+
+  17478261:
+    template: Apex_Lugcrawler_Hunter
+    at:       [-249.005, -0.737, -238.943, 34]
+    level:    [137, 139]
+
+  17478262:
+    template: Apex_Lugcrawler_Hunter
+    at:       [-249.488, -0.671, -239.978, 9]
+    level:    [137, 139]
+
+  17478263:
+    template: Apex_Lugcrawler_Hunter
+    at:       [-251.084, -0.907, -245.721, 19]
+    level:    [137, 139]
+
+  17478264:
+    template: Apex_Knight_Lugcrawler
+    at:       [-345.967, -1.000, -266.580, 191]
+    level:    [138, 140]
+
+  17478265:
+    template: Apex_Knight_Lugcrawler
+    at:       [-332.155, 0.000, -260.243, 8]
+    level:    [138, 140]
+
+  17478266:
+    template: Apex_Knight_Lugcrawler
+    at:       [-347.033, -1.000, -259.023, 95]
+    level:    [138, 140]
+
+  17478267:
+    template: Apex_Knight_Lugcrawler
+    at:       [-339.777, -2.000, -255.805, 175]
+    level:    [138, 140]
+
+  17478268:
+    template: Apex_Knight_Lugcrawler
+    at:       [-332.210, -0.903, -260.202, 8]
+    level:    [138, 140]
+
+  17478269:
+    template: Apex_Knight_Lugcrawler
+    at:       [-342.440, -1.000, -258.157, 46]
+    level:    [138, 140]

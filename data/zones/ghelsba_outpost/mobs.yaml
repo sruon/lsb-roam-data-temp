@@ -1,0 +1,1398 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17350657:
+    template: Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [3, 4]
+
+  17350658:
+    template: Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [3, 5]
+
+  17350659:
+    template: Pug_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [7, 9]
+
+  17350660:
+    template: Giant_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [11, 13]
+
+  17350661:
+    template: Puffer_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [15, 17]
+
+  17350662:
+    template: Fodderchief_Vokdek
+    at:       [-188.703, -10.048, 45.326, 112]
+    level:    [8, 8]
+
+  17350663:
+    template: Sureshot_Snatgat
+    at:       [-188.164, -10.554, 55.693, 76]
+    level:    [6, 6]
+
+  17350664:
+    template: Strongarm_Zodvad
+    at:       [-177.171, -10.006, 50.070, 112]
+    level:    [6, 6]
+
+  17350665:
+    template: Warchief_Vatgit
+    level:    [16, 16]
+    region:   ghelsba_outpost_c_5
+
+  17350666:
+    template: Fogweaver_Mozzfuzz
+    at:       [-84.454, -33.723, 265.104, 50]
+    level:    [14, 14]
+
+  17350667:
+    template: Bloody_Vrukwuk
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [14, 14]
+
+  17350668:
+    template: Orcish_Fodder
+    level:    [3, 4]
+    region:   ghelsba_outpost_se
+
+  17350669:
+    template: Orcish_Fodder
+    level:    [3, 4]
+    region:   ghelsba_outpost_se
+
+  17350670:
+    template: Orcish_Mesmerizer
+    level:    [3, 4]
+    region:   ghelsba_outpost_se
+
+  17350671:
+    template: Orcish_Grappler
+    at:       [5.543, 0.500, 42.650, 127]
+    level:    [3, 4]
+
+  17350672:
+    template: Spectacled_Bats
+    level:    [1, 3]
+    region:   ghelsba_outpost_se
+
+  17350673:
+    template: Spectacled_Bats
+    level:    [1, 3]
+    region:   ghelsba_outpost_se
+
+  17350674:
+    template: Orcish_Fodder
+    level:    [3, 4]
+    region:   ghelsba_outpost_s_5
+
+  17350675:
+    template: Orcish_Fodder
+    level:    [3, 4]
+    region:   ghelsba_outpost_s_5
+
+  17350676:
+    template: Orcish_Mesmerizer
+    level:    [3, 4]
+    region:   ghelsba_outpost_s_5
+
+  17350677:
+    template: Orcish_Grappler
+    at:       [-3.616, -0.001, -5.215, 59]
+    level:    [3, 4]
+
+  17350678:
+    template: Spectacled_Bats
+    level:    [1, 3]
+    region:   ghelsba_outpost_s_5
+
+  17350679:
+    template: Spectacled_Bats
+    at:       [0.382, 0.500, -3.610, 127]
+    level:    [1, 2]
+
+  17350680:
+    template: Orcish_Stonelauncher
+    at:       [-12.000, -1.000, 109.000, 39]
+    level:    [8, 10]
+
+  17350681:
+    template: Orcish_Stonelauncher
+    at:       [12.978, -1.869, -30.634, 127]
+    level:    [8, 10]
+
+  17350682:
+    template: Orcish_Stonelauncher
+    at:       [-12.438, -1.835, -30.861, 127]
+    level:    [8, 10]
+
+  17350683:
+    template: Orcish_Grappler
+    level:    [3, 4]
+    region:   ghelsba_outpost_s_6
+
+  17350684:
+    template: Orcish_Fodder
+    level:    [3, 4]
+    region:   ghelsba_outpost_s_4
+
+  17350685:
+    template: Orcish_Mesmerizer
+    level:    [3, 4]
+    region:   ghelsba_outpost_s_4
+
+  17350686:
+    template: Orcish_Grappler
+    level:    [3, 4]
+    region:   ghelsba_outpost_s_4
+
+  17350687:
+    template: Orcish_Fodder
+    at:       [-27.197, 0.060, 22.694, 3]
+    level:    [3, 4]
+
+  17350688:
+    template: Orcish_Mesmerizer
+    level:    [3, 4]
+    region:   ghelsba_outpost_s_4
+
+  17350689:
+    template: Orcish_Grappler
+    at:       [-34.367, -0.130, 35.891, 16]
+    level:    [3, 4]
+
+  17350690:
+    template: Orcish_Grunt
+    level:    [11, 13]
+    region:   ghelsba_outpost_se_2
+
+  17350691:
+    template: Orcish_Grunt
+    level:    [11, 13]
+    region:   ghelsba_outpost_se_2
+
+  17350692:
+    template: Orcish_Fodder
+    level:    [3, 4]
+    region:   ghelsba_outpost_s_3
+
+  17350693:
+    template: Orcish_Grappler
+    at:       [-119.000, -10.000, 70.000, 127]
+    level:    [3, 4]
+
+  17350694:
+    template: Orcish_Fodder
+    level:    [3, 4]
+    region:   ghelsba_outpost_s_2
+
+  17350695:
+    template: Orcish_Grappler
+    level:    [3, 4]
+    region:   ghelsba_outpost_s_2
+
+  17350696:
+    template: Orcish_Fodder
+    level:    [3, 5]
+    region:   ghelsba_outpost_c
+
+  17350697:
+    template: Orcish_Mesmerizer
+    level:    [3, 5]
+    region:   ghelsba_outpost_c
+
+  17350698:
+    template: Orcish_Grappler
+    level:    [3, 5]
+    region:   ghelsba_outpost_c
+
+  17350699:
+    template: Orcish_Fodder
+    level:    [3, 5]
+    region:   ghelsba_outpost_c
+
+  17350700:
+    template: Orcish_Mesmerizer
+    level:    [3, 5]
+    region:   ghelsba_outpost_c
+
+  17350701:
+    template: Orcish_Grappler
+    at:       [-146.678, -10.167, 120.234, 127]
+    level:    [3, 5]
+
+  17350702:
+    template: Spectacled_Bats
+    level:    [1, 3]
+    region:   ghelsba_outpost_c
+
+  17350703:
+    template: Spectacled_Bats
+    level:    [1, 3]
+    region:   ghelsba_outpost_c
+
+  17350704:
+    template: Orcish_Fodder
+    level:    [3, 5]
+    region:   ghelsba_outpost_s
+
+  17350705:
+    template: Orcish_Mesmerizer
+    level:    [3, 5]
+    region:   ghelsba_outpost_s
+
+  17350706:
+    template: Orcish_Grappler
+    level:    [3, 5]
+    region:   ghelsba_outpost_s
+
+  17350707:
+    template: Orcish_Fodder
+    at:       [-149.695, -9.949, 64.487, 127]
+    level:    [3, 5]
+
+  17350708:
+    template: Orcish_Mesmerizer
+    at:       [-140.971, -10.269, 62.558, 71]
+    level:    [3, 5]
+
+  17350709:
+    template: Orcish_Grappler
+    level:    [3, 5]
+    region:   ghelsba_outpost_s
+
+  17350710:
+    template: Spectacled_Bats
+    level:    [1, 3]
+    region:   ghelsba_outpost_s
+
+  17350711:
+    template: Orcish_Stonelauncher
+    at:       [-90.000, -11.000, 26.000, 73]
+    level:    [9, 10]
+
+  17350712:
+    template: Orcish_Stonelauncher
+    at:       [-90.000, -11.000, 132.000, 103]
+    level:    [8, 10]
+
+  17350713:
+    template: Orcish_Stonelauncher
+    at:       [-176.297, -11.349, 155.934, 127]
+    level:    [8, 10]
+
+  17350714:
+    template: Orcish_Fodder
+    level:    [4, 5]
+    region:   ghelsba_outpost_w_2
+
+  17350715:
+    template: Orcish_Mesmerizer
+    level:    [4, 5]
+    region:   ghelsba_outpost_w_2
+
+  17350716:
+    template: Orcish_Mesmerizer
+    level:    [4, 5]
+    region:   ghelsba_outpost_c_3
+
+  17350717:
+    template: Orcish_Grappler
+    level:    [4, 5]
+    region:   ghelsba_outpost_c_3
+
+  17350718:
+    template: Orcish_Grappler
+    level:    [5, 7]
+    region:   ghelsba_outpost_w_3
+
+  17350719:
+    template: Watch_Lizard
+    level:    [3, 5]
+    region:   ghelsba_outpost_w_3
+
+  17350720:
+    template: Watch_Lizard
+    level:    [3, 5]
+    region:   ghelsba_outpost_w_3
+
+  17350721:
+    template: Watch_Lizard
+    level:    [3, 5]
+    region:   ghelsba_outpost_w_3
+
+  17350722:
+    template: Watch_Lizard
+    level:    [3, 5]
+    region:   ghelsba_outpost_w_3
+
+  17350723:
+    template: Spectacled_Bats
+    level:    [3, 5]
+    region:   ghelsba_outpost_w_3
+
+  17350724:
+    template: Orcish_Grappler
+    level:    [5, 7]
+    region:   ghelsba_outpost_c_2
+
+  17350725:
+    template: Watch_Lizard
+    level:    [3, 5]
+    region:   ghelsba_outpost_c_2
+
+  17350726:
+    template: Watch_Lizard
+    level:    [3, 5]
+    region:   ghelsba_outpost_c_2
+
+  17350727:
+    template: Watch_Lizard
+    level:    [3, 5]
+    region:   ghelsba_outpost_c_2
+
+  17350728:
+    template: Watch_Lizard
+    level:    [3, 5]
+    region:   ghelsba_outpost_c_2
+
+  17350729:
+    template: Spectacled_Bats
+    level:    [3, 5]
+    region:   ghelsba_outpost_c_2
+
+  17350730:
+    template: Orcish_Fodder
+    level:    [5, 7]
+    region:   ghelsba_outpost_w_4
+
+  17350731:
+    template: Orcish_Fodder
+    level:    [5, 7]
+    region:   ghelsba_outpost_w_4
+
+  17350732:
+    template: Orcish_Fodder
+    level:    [5, 7]
+    region:   ghelsba_outpost_nw
+
+  17350733:
+    template: Orcish_Mesmerizer
+    at:       [-191.978, -10.051, 293.176, 3]
+    level:    [5, 7]
+
+  17350734:
+    template: Orcish_Grappler
+    at:       [-214.869, -10.058, 277.300, 71]
+    level:    [5, 7]
+
+  17350735:
+    template: Orcish_Fodder
+    level:    [5, 7]
+    region:   ghelsba_outpost_nw
+
+  17350736:
+    template: Orcish_Mesmerizer
+    at:       [-211.626, -10.000, 276.493, 117]
+    level:    [5, 7]
+
+  17350737:
+    template: Orcish_Grappler
+    level:    [5, 7]
+    region:   ghelsba_outpost_nw
+
+  17350738:
+    template: Orcish_Fodder
+    at:       [-167.136, -9.899, 297.837, 127]
+    level:    [5, 7]
+
+  17350739:
+    template: Orcish_Mesmerizer
+    level:    [5, 7]
+    region:   ghelsba_outpost_nw_2
+
+  17350740:
+    template: Orcish_Grappler
+    level:    [5, 7]
+    region:   ghelsba_outpost_nw_2
+
+  17350741:
+    template: Orcish_Fodder
+    at:       [-170.421, -10.000, 277.231, 0]
+    level:    [5, 7]
+
+  17350742:
+    template: Orcish_Mesmerizer
+    level:    [5, 7]
+    region:   ghelsba_outpost_nw_2
+
+  17350743:
+    template: Orcish_Grappler
+    at:       [-164.702, -10.500, 279.821, 42]
+    level:    [5, 7]
+
+  17350744:
+    template: Orcish_Fodder
+    at:       [-151.000, -9.000, 245.000, 74]
+    level:    [5, 7]
+
+  17350745:
+    template: Orcish_Mesmerizer
+    level:    [5, 7]
+    region:   ghelsba_outpost_n_2
+
+  17350746:
+    template: Orcish_Grappler
+    at:       [-141.000, -10.684, 278.000, 69]
+    level:    [5, 7]
+
+  17350747:
+    template: Orcish_Grappler
+    level:    [5, 7]
+    region:   ghelsba_outpost_n
+
+  17350748:
+    template: Watch_Lizard
+    level:    [3, 5]
+    region:   ghelsba_outpost_n
+
+  17350749:
+    template: Watch_Lizard
+    level:    [3, 5]
+    region:   ghelsba_outpost_n
+
+  17350750:
+    template: Watch_Lizard
+    level:    [3, 5]
+    region:   ghelsba_outpost_n
+
+  17350751:
+    template: Watch_Lizard
+    level:    [3, 5]
+    region:   ghelsba_outpost_n
+
+  17350752:
+    template: Watch_Lizard
+    level:    [3, 5]
+    region:   ghelsba_outpost_n
+
+  17350753:
+    template: Spectacled_Bats
+    level:    [3, 5]
+    region:   ghelsba_outpost_n
+
+  17350754:
+    template: Orcish_Grappler
+    level:    [5, 7]
+    region:   ghelsba_outpost_n_3
+
+  17350755:
+    template: Watch_Lizard
+    level:    [3, 5]
+    region:   ghelsba_outpost_n_3
+
+  17350756:
+    template: Watch_Lizard
+    level:    [3, 5]
+    region:   ghelsba_outpost_n_3
+
+  17350757:
+    template: Watch_Lizard
+    level:    [3, 5]
+    region:   ghelsba_outpost_n_3
+
+  17350758:
+    template: Watch_Lizard
+    level:    [3, 5]
+    region:   ghelsba_outpost_n_3
+
+  17350759:
+    template: Watch_Lizard
+    level:    [3, 5]
+    region:   ghelsba_outpost_n_3
+
+  17350760:
+    template: Spectacled_Bats
+    level:    [3, 5]
+    region:   ghelsba_outpost_n_3
+
+  17350761:
+    template: Orcish_Fodder
+    level:    [5, 7]
+    region:   ghelsba_outpost_n_6
+
+  17350762:
+    template: Orcish_Fodder
+    at:       [-43.815, -19.965, 354.905, 127]
+    level:    [5, 7]
+
+  17350763:
+    template: Orcish_Mesmerizer
+    level:    [5, 7]
+    region:   ghelsba_outpost_n_6
+
+  17350764:
+    template: Orcish_Grappler
+    at:       [-42.838, -20.443, 342.622, 33]
+    level:    [6, 7]
+
+  17350765:
+    template: Orcish_Stonelauncher
+    at:       [-90.000, -21.000, 346.000, 127]
+    level:    [9, 10]
+
+  17350766:
+    template: Orcish_Stonelauncher
+    at:       [-66.817, -22.139, 432.467, 127]
+    level:    [9, 10]
+
+  17350768:
+    template: Orcish_Mesmerizer
+    at:       [-136.847, -21.102, 377.739, 16]
+    level:    [5, 7]
+
+  17350769:
+    template: Orcish_Grappler
+    at:       [-159.000, -20.000, 393.000, 127]
+    level:    [5, 7]
+
+  17350770:
+    template: Orcish_Fodder
+    at:       [-161.143, -19.999, 403.798, 13]
+    level:    [5, 7]
+
+  17350773:
+    template: Orcish_Fodder
+    at:       [-154.814, -20.076, 384.750, 74]
+    level:    [5, 7]
+
+  17350775:
+    template: Orcish_Grappler
+    at:       [-150.947, -20.135, 397.539, 42]
+    level:    [5, 7]
+
+  17350776:
+    template: Toadstool
+    at:       [-46.783, -3.682, 254.481, 127]
+    level:    [4, 6]
+
+  17350777:
+    template: Toadstool
+    at:       [-48.648, -3.107, 260.885, 11]
+    level:    [4, 6]
+
+  17350778:
+    template: Toadstool
+    at:       [-52.900, -3.047, 263.287, 39]
+    level:    [4, 6]
+
+  17350779:
+    template: Toadstool
+    at:       [-20.696, -7.117, 265.087, 108]
+    level:    [4, 6]
+
+  17350780:
+    template: Toadstool
+    at:       [-14.545, -7.385, 252.443, 30]
+    level:    [4, 6]
+
+  17350781:
+    template: Toadstool
+    at:       [-6.085, -7.595, 266.466, 127]
+    level:    [4, 6]
+
+  17350782:
+    template: Toadstool
+    level:    [4, 6]
+    region:   ghelsba_outpost_n_7
+
+  17350783:
+    template: Toadstool
+    level:    [4, 6]
+    region:   ghelsba_outpost_n_7
+
+  17350784:
+    template: Toadstool
+    level:    [4, 6]
+    region:   ghelsba_outpost_n_7
+
+  17350785:
+    template: Toadstool
+    level:    [4, 6]
+    region:   ghelsba_outpost_n_7
+
+  17350786:
+    template: Toadstool
+    at:       [-70.480, -9.586, 297.439, 127]
+    level:    [4, 6]
+
+  17350787:
+    template: Toadstool
+    at:       [-66.490, -9.483, 294.553, 73]
+    level:    [4, 6]
+
+  17350788:
+    template: Toadstool
+    at:       [-71.602, -9.519, 305.105, 127]
+    level:    [4, 6]
+
+  17350789:
+    template: Orcish_Fodder
+    level:    [5, 7]
+    region:   ghelsba_outpost_n_5
+
+  17350790:
+    template: Orcish_Mesmerizer
+    at:       [-14.356, -7.206, 257.351, 127]
+    level:    [5, 7]
+
+  17350791:
+    template: Orcish_Grappler
+    at:       [-24.377, -8.336, 274.929, 211]
+    level:    [5, 7]
+
+  17350792:
+    template: Cheiroptera
+    level:    [3, 6]
+    region:   ghelsba_outpost_n_5
+
+  17350793:
+    template: Cheiroptera
+    level:    [3, 6]
+    region:   ghelsba_outpost_n_5
+
+  17350794:
+    template: Cheiroptera
+    level:    [3, 6]
+    region:   ghelsba_outpost_n_5
+
+  17350795:
+    template: Orcish_Fodder
+    level:    [5, 7]
+    region:   ghelsba_outpost_ne_4
+
+  17350796:
+    template: Orcish_Mesmerizer
+    at:       [30.726, -1.732, 348.951, 127]
+    level:    [5, 7]
+
+  17350797:
+    template: Orcish_Grappler
+    at:       [30.140, -4.736, 323.438, 127]
+    level:    [5, 7]
+
+  17350798:
+    template: Cheiroptera
+    level:    [3, 6]
+    region:   ghelsba_outpost_ne_5
+
+  17350799:
+    template: Cheiroptera
+    level:    [3, 6]
+    region:   ghelsba_outpost_ne_5
+
+  17350800:
+    template: Orcish_Wallbreacher
+    at:       [11.760, 1.410, 459.940, 34]
+    level:    [15, 16]
+
+  17350801:
+    template: Orcish_Barricader
+    at:       [20.369, 0.927, 449.991, 5]
+    level:    [17, 18]
+
+  17350802:
+    template: Orcish_Grunt
+    at:       [30.036, 0.500, 377.642, 127]
+    level:    [11, 13]
+
+  17350803:
+    template: Orcish_Stonechucker
+    level:    [11, 13]
+    region:   ghelsba_outpost_ne_2
+
+  17350804:
+    template: Orcish_Neckchopper
+    level:    [11, 13]
+    region:   ghelsba_outpost_ne_2
+
+  17350805:
+    template: Orcish_Grunt
+    at:       [52.408, -0.309, 374.140, 127]
+    level:    [11, 13]
+
+  17350806:
+    template: Orcish_Stonechucker
+    level:    [11, 13]
+    region:   ghelsba_outpost_ne_2
+
+  17350807:
+    template: Orcish_Neckchopper
+    at:       [35.486, -0.523, 368.323, 7]
+    level:    [11, 13]
+
+  17350808:
+    template: Cheiroptera
+    level:    [3, 6]
+    region:   ghelsba_outpost_ne_2
+
+  17350809:
+    template: Orcish_Grunt
+    at:       [68.546, -0.268, 313.795, 127]
+    level:    [11, 13]
+
+  17350810:
+    template: Orcish_Stonechucker
+    level:    [11, 13]
+    region:   ghelsba_outpost_ne_6
+
+  17350811:
+    template: Orcish_Neckchopper
+    level:    [11, 13]
+    region:   ghelsba_outpost_ne_6
+
+  17350812:
+    template: Orcish_Grunt
+    at:       [34.177, -0.139, 271.630, 110]
+    level:    [11, 13]
+
+  17350813:
+    template: Orcish_Stonechucker
+    level:    [11, 13]
+    region:   ghelsba_outpost_ne_6
+
+  17350814:
+    template: Orcish_Neckchopper
+    at:       [55.626, -1.926, 301.823, 116]
+    level:    [11, 13]
+
+  17350815:
+    template: Cheiroptera
+    level:    [3, 6]
+    region:   ghelsba_outpost_ne_6
+
+  17350816:
+    template: Orcish_Grunt
+    level:    [11, 13]
+    region:   ghelsba_outpost_ne_8
+
+  17350817:
+    template: Orcish_Stonechucker
+    at:       [80.000, -0.249, 328.000, 127]
+    level:    [11, 13]
+
+  17350818:
+    template: Orcish_Neckchopper
+    level:    [11, 13]
+    region:   ghelsba_outpost_ne_8
+
+  17350819:
+    template: Orcish_Grunt
+    at:       [98.658, -0.319, 328.269, 42]
+    level:    [11, 13]
+
+  17350820:
+    template: Orcish_Stonechucker
+    at:       [96.763, -0.047, 319.781, 78]
+    level:    [11, 13]
+
+  17350821:
+    template: Orcish_Neckchopper
+    level:    [11, 13]
+    region:   ghelsba_outpost_ne_8
+
+  17350822:
+    template: Cheiroptera
+    level:    [3, 6]
+    region:   ghelsba_outpost_ne_8
+
+  17350823:
+    template: Orcish_Grunt
+    at:       [116.798, 0.000, 327.326, 78]
+    level:    [11, 13]
+
+  17350824:
+    template: Orcish_Stonechucker
+    at:       [82.000, -0.500, 366.000, 111]
+    level:    [11, 13]
+
+  17350825:
+    template: Orcish_Neckchopper
+    at:       [123.357, -0.102, 332.706, 127]
+    level:    [11, 13]
+
+  17350826:
+    template: Thousandarm_Deshglesh
+    at:       [124.367, -0.500, 326.606, 127]
+    level:    [11, 13]
+
+  17350827:
+    template: Orcish_Grunt
+    at:       [45.051, -0.093, 233.398, 127]
+    level:    [11, 13]
+
+  17350828:
+    template: Orcish_Stonechucker
+    level:    [11, 13]
+    region:   ghelsba_outpost_e_4
+
+  17350829:
+    template: Orcish_Neckchopper
+    at:       [36.107, 0.500, 198.950, 127]
+    level:    [11, 13]
+
+  17350830:
+    template: Orcish_Grunt
+    level:    [11, 13]
+    region:   ghelsba_outpost_e_4
+
+  17350831:
+    template: Orcish_Stonechucker
+    at:       [62.857, -1.354, 211.468, 102]
+    level:    [11, 13]
+
+  17350832:
+    template: Orcish_Neckchopper
+    level:    [11, 13]
+    region:   ghelsba_outpost_e_4
+
+  17350833:
+    template: Cheiroptera
+    level:    [3, 6]
+    region:   ghelsba_outpost_e_4
+
+  17350834:
+    template: Orcish_Stonelauncher
+    at:       [22.780, -1.288, 178.324, 65]
+    level:    [8, 10]
+
+  17350835:
+    template: Orcish_Grunt
+    at:       [81.916, -0.500, 167.558, 32]
+    level:    [11, 13]
+
+  17350836:
+    template: Orcish_Stonechucker
+    level:    [11, 13]
+    region:   ghelsba_outpost_e_7
+
+  17350837:
+    template: Orcish_Neckchopper
+    at:       [87.185, -0.067, 202.015, 127]
+    level:    [11, 13]
+
+  17350838:
+    template: Orcish_Grunt
+    level:    [11, 13]
+    region:   ghelsba_outpost_e_7
+
+  17350839:
+    template: Orcish_Stonechucker
+    at:       [89.534, -1.309, 171.690, 49]
+    level:    [11, 13]
+
+  17350840:
+    template: Orcish_Neckchopper
+    level:    [11, 13]
+    region:   ghelsba_outpost_e_7
+
+  17350841:
+    template: Cheiroptera
+    level:    [3, 6]
+    region:   ghelsba_outpost_e_7
+
+  17350842:
+    template: Orcish_Grunt
+    level:    [11, 13]
+    region:   ghelsba_outpost_e
+
+  17350843:
+    template: Orcish_Stonechucker
+    at:       [31.706, -1.812, 154.835, 8]
+    level:    [11, 13]
+
+  17350844:
+    template: Orcish_Neckchopper
+    level:    [11, 13]
+    region:   ghelsba_outpost_e
+
+  17350845:
+    template: Orcish_Grunt
+    at:       [59.833, -0.390, 157.131, 127]
+    level:    [11, 13]
+
+  17350846:
+    template: Orcish_Stonechucker
+    level:    [11, 13]
+    region:   ghelsba_outpost_e
+
+  17350847:
+    template: Orcish_Neckchopper
+    at:       [-17.602, -0.308, 157.133, 127]
+    level:    [11, 13]
+
+  17350848:
+    template: Cheiroptera
+    level:    [3, 6]
+    region:   ghelsba_outpost_e
+
+  17350849:
+    template: Orcish_Grunt
+    at:       [-51.789, -0.050, 205.007, 111]
+    level:    [11, 13]
+
+  17350850:
+    template: Orcish_Stonechucker
+    level:    [11, 13]
+    region:   ghelsba_outpost_c_7
+
+  17350851:
+    template: Orcish_Neckchopper
+    at:       [-35.096, -2.774, 161.638, 34]
+    level:    [11, 13]
+
+  17350852:
+    template: Orcish_Grunt
+    level:    [11, 13]
+    region:   ghelsba_outpost_c_7
+
+  17350853:
+    template: Orcish_Stonechucker
+    at:       [-39.426, -3.063, 169.362, 127]
+    level:    [11, 13]
+
+  17350854:
+    template: Orcish_Neckchopper
+    level:    [11, 13]
+    region:   ghelsba_outpost_c_7
+
+  17350855:
+    template: Orcish_Stonelauncher
+    at:       [-21.419, -1.222, 212.567, 108]
+    level:    [8, 10]
+
+  17350856:
+    template: Orcish_Grunt
+    at:       [76.510, -0.419, 131.585, 39]
+    level:    [13, 15]
+
+  17350857:
+    template: Orcish_Stonechucker
+    level:    [13, 15]
+    region:   ghelsba_outpost_e_6
+
+  17350858:
+    template: Orcish_Neckchopper
+    level:    [13, 15]
+    region:   ghelsba_outpost_e_6
+
+  17350859:
+    template: Orcish_Grunt
+    at:       [80.112, -1.022, 105.517, 21]
+    level:    [13, 15]
+
+  17350860:
+    template: Orcish_Stonechucker
+    at:       [84.666, -0.562, 132.104, 127]
+    level:    [13, 15]
+
+  17350861:
+    template: Orcish_Neckchopper
+    level:    [13, 15]
+    region:   ghelsba_outpost_e_6
+
+  17350862:
+    template: Cheiroptera
+    level:    [3, 6]
+    region:   ghelsba_outpost_e_6
+
+  17350863:
+    template: Orcish_Grunt
+    level:    [13, 15]
+    region:   ghelsba_outpost_se_3
+
+  17350864:
+    template: Orcish_Stonechucker
+    at:       [125.678, -1.006, 76.631, 68]
+    level:    [13, 15]
+
+  17350865:
+    template: Orcish_Neckchopper
+    at:       [135.234, -1.005, 78.520, 157]
+    level:    [13, 15]
+
+  17350866:
+    template: Orcish_Grunt
+    at:       [138.212, -1.028, 75.546, 224]
+    level:    [13, 15]
+
+  17350867:
+    template: Orcish_Stonechucker
+    level:    [13, 15]
+    region:   ghelsba_outpost_se_3
+
+  17350868:
+    template: Orcish_Neckchopper
+    at:       [111.249, -1.153, 90.481, 0]
+    level:    [13, 15]
+
+  17350869:
+    template: Ghelsba_Pugil
+    level:    [3, 6]
+    region:   ghelsba_outpost_w
+
+  17350870:
+    template: Ghelsba_Pugil
+    level:    [3, 6]
+    region:   ghelsba_outpost_w
+
+  17350871:
+    template: Ghelsba_Pugil
+    level:    [3, 6]
+    region:   ghelsba_outpost_w
+
+  17350872:
+    template: Ghelsba_Pugil
+    level:    [3, 6]
+    region:   ghelsba_outpost_c_4
+
+  17350873:
+    template: Ghelsba_Pugil
+    level:    [3, 6]
+    region:   ghelsba_outpost_c_4
+
+  17350874:
+    template: Ghelsba_Pugil
+    level:    [3, 6]
+    region:   ghelsba_outpost_c_4
+
+  17350875:
+    template: Ghelsba_Pugil
+    level:    [3, 6]
+    region:   ghelsba_outpost_e_6
+
+  17350876:
+    template: Ghelsba_Pugil
+    level:    [3, 6]
+    region:   ghelsba_outpost_e_6
+
+  17350877:
+    template: Ghelsba_Pugil
+    level:    [3, 6]
+    region:   ghelsba_outpost_e_6
+
+  17350878:
+    template: Ghelsba_Pugil
+    level:    [3, 6]
+    region:   ghelsba_outpost_ne_8
+
+  17350879:
+    template: Ghelsba_Pugil
+    level:    [3, 6]
+    region:   ghelsba_outpost_ne_8
+
+  17350880:
+    template: Ghelsba_Pugil
+    level:    [3, 6]
+    region:   ghelsba_outpost_ne_8
+
+  17350881:
+    template: Ghelsba_Pugil
+    level:    [3, 6]
+    region:   ghelsba_outpost_e_5
+
+  17350882:
+    template: Ghelsba_Pugil
+    level:    [3, 6]
+    region:   ghelsba_outpost_e_5
+
+  17350883:
+    template: Ghelsba_Pugil
+    level:    [3, 5]
+    region:   ghelsba_outpost_e_5
+
+  17350884:
+    template: Orcish_Fodder
+    level:    [5, 7]
+    region:   ghelsba_outpost_ne
+
+  17350885:
+    template: Orcish_Fodder
+    level:    [5, 7]
+    region:   ghelsba_outpost_ne
+
+  17350886:
+    template: Orcish_Mesmerizer
+    at:       [-32.000, -21.000, 419.000, 68]
+    level:    [5, 7]
+
+  17350887:
+    template: Orcish_Grappler
+    level:    [5, 7]
+    region:   ghelsba_outpost_ne
+
+  17350888:
+    template: Orcish_Mesmerizer
+    level:    [5, 7]
+    region:   ghelsba_outpost_ne_7
+
+  17350889:
+    template: Orcish_Mesmerizer
+    level:    [5, 7]
+    region:   ghelsba_outpost_ne_7
+
+  17350890:
+    template: Orcish_Grappler
+    level:    [5, 7]
+    region:   ghelsba_outpost_ne_3
+
+  17350891:
+    template: Orcish_Fodder
+    level:    [7, 9]
+    region:   ghelsba_outpost_c_8
+
+  17350892:
+    template: Orcish_Mesmerizer
+    at:       [2.483, -32.500, 271.246, 127]
+    level:    [7, 9]
+
+  17350893:
+    template: Orcish_Grappler
+    at:       [-58.000, -32.000, 262.000, 47]
+    level:    [7, 9]
+
+  17350894:
+    template: Orcish_Fodder
+    level:    [7, 9]
+    region:   ghelsba_outpost_c_8
+
+  17350895:
+    template: Orcish_Mesmerizer
+    at:       [-77.000, -33.000, 249.000, 127]
+    level:    [7, 9]
+
+  17350896:
+    template: Orcish_Grappler
+    level:    [7, 9]
+    region:   ghelsba_outpost_c_8
+
+  17350897:
+    template: Cheiroptera
+    level:    [3, 6]
+    region:   ghelsba_outpost_c_8
+
+  17350898:
+    template: Orcish_Fodder
+    level:    [7, 9]
+    region:   ghelsba_outpost_e_3
+
+  17350899:
+    template: Orcish_Mesmerizer
+    at:       [-58.000, -32.000, 253.000, 127]
+    level:    [7, 9]
+
+  17350900:
+    template: Orcish_Grappler
+    at:       [4.066, -32.829, 223.579, 13]
+    level:    [7, 9]
+
+  17350901:
+    template: Orcish_Fodder
+    level:    [7, 9]
+    region:   ghelsba_outpost_e_3
+
+  17350902:
+    template: Orcish_Mesmerizer
+    at:       [6.996, -34.337, 207.149, 106]
+    level:    [7, 9]
+
+  17350903:
+    template: Orcish_Grappler
+    level:    [7, 9]
+    region:   ghelsba_outpost_e_3
+
+  17350904:
+    template: Cheiroptera
+    level:    [3, 6]
+    region:   ghelsba_outpost_e_3
+
+  17350905:
+    template: Orcish_Fodder
+    level:    [7, 9]
+    region:   ghelsba_outpost_n_4
+
+  17350906:
+    template: Orcish_Mesmerizer
+    level:    [7, 9]
+    region:   ghelsba_outpost_n_4
+
+  17350907:
+    template: Orcish_Grappler
+    level:    [7, 9]
+    region:   ghelsba_outpost_n_4
+
+  17350908:
+    template: Orcish_Fodder
+    at:       [-35.964, -32.004, 251.046, 60]
+    level:    [7, 9]
+
+  17350909:
+    template: Orcish_Mesmerizer
+    level:    [7, 9]
+    region:   ghelsba_outpost_n_4
+
+  17350910:
+    template: Orcish_Grappler
+    at:       [-65.402, -32.391, 282.177, 127]
+    level:    [7, 9]
+
+  17350911:
+    template: Cheiroptera
+    level:    [3, 6]
+    region:   ghelsba_outpost_n_4
+
+  17350912:
+    template: Cheiroptera
+    level:    [3, 6]
+    region:   ghelsba_outpost_n_4
+
+  17350913:
+    template: Orcish_Mesmerizer
+    level:    [7, 9]
+    region:   ghelsba_outpost_c_5
+
+  17350914:
+    template: Orcish_Grappler
+    level:    [7, 9]
+    region:   ghelsba_outpost_c_5
+
+  17350915:
+    template: Orcish_Fodder
+    level:    [7, 9]
+    region:   ghelsba_outpost_c_6
+
+  17350916:
+    template: Orcish_Mesmerizer
+    level:    [7, 9]
+    region:   ghelsba_outpost_c_6
+
+  17350917:
+    template: Orcish_Grappler
+    level:    [7, 9]
+    region:   ghelsba_outpost_c_6
+
+  17350918:
+    template: Orcish_Fodder
+    level:    [7, 9]
+    region:   ghelsba_outpost_c_6
+
+  17350919:
+    template: Orcish_Mesmerizer
+    at:       [-24.210, -32.145, 236.385, 127]
+    level:    [7, 9]
+
+  17350920:
+    template: Orcish_Grappler
+    at:       [-24.391, -34.265, 222.430, 16]
+    level:    [7, 9]
+
+  17350921:
+    template: Cheiroptera
+    level:    [3, 6]
+    region:   ghelsba_outpost_c_6
+
+  17350922:
+    template: Cheiroptera
+    level:    [3, 6]
+    region:   ghelsba_outpost_c_6
+
+  17350923:
+    template: Orcish_Mesmerizer
+    at:       [-11.789, -35.231, 212.174, 127]
+    level:    [7, 9]
+
+  17350924:
+    template: Orcish_Grunt
+    at:       [-17.280, -35.231, 211.681, 127]
+    level:    [11, 13]
+
+  17350925:
+    template: Cheiroptera
+    level:    [3, 6]
+    region:   ghelsba_outpost_e_2
+
+  17350926:
+    template: Cheiroptera
+    level:    [3, 6]
+    region:   ghelsba_outpost_e_2
+
+  17350927:
+    template: Cheiroptera
+    level:    [3, 6]
+    region:   ghelsba_outpost_e_2
+
+  17350928:
+    template: Cyranuce_M_Cutauleon
+    at:       [-189.000, -10.000, 45.000, 95]
+    level:    [20, 20]
+
+  17350929:
+    template: Colo-colo
+    at:       [-188.970, -10.580, 46.150, 112]
+    level:    [21, 21]
+
+  17350930:
+    template: Furies
+    at:       [-181.600, -10.480, 46.380, 102]
+    level:    [20, 20]
+
+  17350931:
+    template: Furies
+    at:       [-186.190, -10.940, 52.070, 92]
+    level:    [20, 20]
+
+  17350933:
+    template: Kalamainu
+    at:       [-184.401, -10.514, 45.113, 103]
+    level:    [31, 32]
+
+  17350934:
+    template: Kilioa
+    at:       [-193.779, -10.511, 54.269, 87]
+    level:    [31, 32]
+
+  17350936:
+    template: Toadpillow
+    at:       [-183.500, -11.064, 53.500, 160]
+    level:    [34, 36]
+
+  17350937:
+    template: Toadsquab
+    at:       [-185.500, -11.089, 53.500, 224]
+    level:    [34, 36]
+
+  17350938:
+    template: Toadbolster
+    at:       [-183.500, -11.064, 55.500, 96]
+    level:    [34, 36]
+
+  17350939:
+    template: Toadcushion
+    at:       [-185.500, -11.089, 55.500, 32]
+    level:    [34, 36]
+
+  17350941:
+    template: Carrion_Dragon
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [40, 40]
+
+  17350942:
+    template: Carrion_Dragon
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [40, 40]

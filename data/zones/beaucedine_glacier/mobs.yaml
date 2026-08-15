@@ -1,0 +1,1473 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17231873:
+    template: Greater_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [32, 34]
+
+  17231874:
+    template: Vepar
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [32, 34]
+
+  17231875:
+    template: Kraken
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [38, 40]
+
+  17231876:
+    template: Apsaras
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [41, 42]
+
+  17231877:
+    template: Morgawr
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [44, 45]
+
+  17231878:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_sw
+
+  17231879:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_sw
+
+  17231880:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_sw_3
+
+  17231881:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_sw_3
+
+  17231882:
+    template: Goblin_Pathfinder
+    level:    [35, 38]
+    region:   beaucedine_glacier_sw_3
+
+  17231883:
+    template: Goblins_Tiger
+    level:    [28, 35]
+    region:   beaucedine_glacier_sw_3
+
+  17231884:
+    template: Goblin_Furrier
+    level:    [35, 38]
+    region:   beaucedine_glacier_sw_3
+
+  17231885:
+    template: Goblin_Smithy
+    level:    [35, 38]
+    region:   beaucedine_glacier_sw_3
+
+  17231886:
+    template: Goblin_Shaman
+    level:    [35, 38]
+    region:   beaucedine_glacier_sw_3
+
+  17231887:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_sw_2
+
+  17231888:
+    template: Tundra_Tiger
+    at:       [-140.732, -40.299, -221.573, 2]
+    level:    [34, 37]
+
+  17231889:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_sw_4
+
+  17231890:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_sw_4
+
+  17231891:
+    template: Goblin_Pathfinder
+    level:    [35, 38]
+    region:   beaucedine_glacier_sw_4
+
+  17231892:
+    template: Goblins_Tiger
+    level:    [28, 35]
+    region:   beaucedine_glacier_sw_4
+
+  17231893:
+    template: Goblin_Furrier
+    level:    [35, 38]
+    region:   beaucedine_glacier_sw_4
+
+  17231894:
+    template: Goblin_Smithy
+    level:    [35, 38]
+    region:   beaucedine_glacier_sw_4
+
+  17231895:
+    template: Goblin_Shaman
+    level:    [35, 38]
+    region:   beaucedine_glacier_sw_4
+
+  17231896:
+    template: Living_Statue
+    at:       [-179.000, -40.792, -227.000, 127]
+    level:    [37, 39]
+
+  17231897:
+    template: Living_Statue
+    at:       [-178.000, -40.792, -213.000, 7]
+    level:    [37, 39]
+
+  17231898:
+    template: Bat_Eye
+    level:    [40, 42]
+    region:   beaucedine_glacier_s_5
+
+  17231899:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_s_5
+
+  17231900:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_s_5
+
+  17231901:
+    template: Cold_Gigas
+    at:       [-40.696, -40.500, -200.725, 127]
+    level:    [40, 43]
+
+  17231902:
+    template: Snow_Gigas
+    level:    [40, 43]
+    region:   beaucedine_glacier_s_5
+
+  17231903:
+    template: Rime_Gigas
+    at:       [-7.000, -40.500, -218.000, 9]
+    level:    [40, 43]
+
+  17231904:
+    template: Gigass_Tiger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [33, 34]
+
+  17231905:
+    template: Sleet_Gigas
+    level:    [40, 43]
+    region:   beaucedine_glacier_s_6
+
+  17231906:
+    template: Dark_Elemental
+    at:       [-80.464, -40.528, -257.926, 127]
+    level:    [44, 46]
+
+  17231907:
+    template: Bat_Eye
+    level:    [40, 42]
+    region:   beaucedine_glacier_s
+
+  17231908:
+    template: Bat_Eye
+    level:    [40, 42]
+    region:   beaucedine_glacier_s
+
+  17231909:
+    template: Cold_Gigas
+    at:       [-123.000, -59.000, -188.000, 127]
+    level:    [40, 43]
+
+  17231910:
+    template: Snow_Gigas
+    at:       [-100.333, -61.044, -148.729, 127]
+    level:    [40, 43]
+
+  17231911:
+    template: Rime_Gigas
+    level:    [40, 43]
+    region:   beaucedine_glacier_s
+
+  17231912:
+    template: Gigass_Tiger
+    level:    [33, 35]
+    region:   beaucedine_glacier_s
+
+  17231913:
+    template: Sleet_Gigas
+    at:       [-104.955, -59.795, -158.247, 127]
+    level:    [40, 43]
+
+  17231914:
+    template: Bat_Eye
+    level:    [40, 42]
+    region:   beaucedine_glacier_c_3
+
+  17231915:
+    template: Bat_Eye
+    level:    [40, 42]
+    region:   beaucedine_glacier_c_3
+
+  17231916:
+    template: Tundra_Tiger
+    at:       [37.572, -60.235, -110.706, 127]
+    level:    [34, 37]
+
+  17231917:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_c_3
+
+  17231918:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_c_3
+
+  17231919:
+    template: Goblin_Pathfinder
+    level:    [35, 38]
+    region:   beaucedine_glacier_c_3
+
+  17231920:
+    template: Goblins_Tiger
+    level:    [28, 35]
+    region:   beaucedine_glacier_c_3
+
+  17231921:
+    template: Goblin_Furrier
+    level:    [35, 38]
+    region:   beaucedine_glacier_c_3
+
+  17231922:
+    template: Goblin_Smithy
+    level:    [35, 38]
+    region:   beaucedine_glacier_c_3
+
+  17231923:
+    template: Goblin_Shaman
+    level:    [35, 38]
+    region:   beaucedine_glacier_c_3
+
+  17231924:
+    template: Cold_Gigas
+    at:       [-5.000, -59.000, -147.000, 126]
+    level:    [40, 43]
+
+  17231925:
+    template: Snow_Gigas
+    at:       [74.699, -60.435, -86.162, 127]
+    level:    [40, 43]
+
+  17231926:
+    template: Rime_Gigas
+    level:    [40, 43]
+    region:   beaucedine_glacier_c_3
+
+  17231927:
+    template: Gigass_Tiger
+    level:    [33, 35]
+    region:   beaucedine_glacier_c_3
+
+  17231928:
+    template: Sleet_Gigas
+    at:       [20.000, -59.000, -29.000, 72]
+    level:    [40, 43]
+
+  17231929:
+    template: Ice_Elemental
+    level:    [44, 46]
+    region:   beaucedine_glacier_c_5
+
+  17231930:
+    template: Ice_Elemental
+    level:    [44, 46]
+    region:   beaucedine_glacier_c_5
+
+  17231931:
+    template: Living_Statue
+    at:       [-18.221, -60.811, -62.991, 127]
+    level:    [37, 39]
+
+  17231932:
+    template: Living_Statue
+    at:       [-25.224, -60.750, -63.465, 67]
+    level:    [37, 39]
+
+  17231933:
+    template: Bat_Eye
+    level:    [40, 42]
+    region:   beaucedine_glacier_c_4
+
+  17231934:
+    template: Bat_Eye
+    level:    [40, 42]
+    region:   beaucedine_glacier_c_4
+
+  17231935:
+    template: Bat_Eye
+    level:    [40, 42]
+    region:   beaucedine_glacier_c_4
+
+  17231936:
+    template: Bat_Eye
+    level:    [40, 42]
+    region:   beaucedine_glacier_c_8
+
+  17231937:
+    template: Bat_Eye
+    level:    [40, 42]
+    region:   beaucedine_glacier_c_8
+
+  17231938:
+    template: Bat_Eye
+    level:    [40, 42]
+    region:   beaucedine_glacier_c_8
+
+  17231939:
+    template: Bat_Eye
+    level:    [40, 42]
+    region:   beaucedine_glacier_c_2
+
+  17231940:
+    template: Bat_Eye
+    level:    [40, 42]
+    region:   beaucedine_glacier_c_2
+
+  17231941:
+    template: Bat_Eye
+    level:    [40, 42]
+    region:   beaucedine_glacier_c_2
+
+  17231942:
+    template: Bat_Eye
+    level:    [40, 42]
+    region:   beaucedine_glacier_c_2
+
+  17231943:
+    template: Ghast
+    level:    [35, 38]
+    region:   beaucedine_glacier_c_2
+
+  17231944:
+    template: Ghast
+    level:    [37, 40]
+    region:   beaucedine_glacier_c_2
+
+  17231945:
+    template: Lugat
+    level:    [39, 42]
+    region:   beaucedine_glacier_c_2
+
+  17231946:
+    template: Lugat
+    level:    [39, 42]
+    region:   beaucedine_glacier_c_2
+
+  17231947:
+    template: Dark_Elemental
+    level:    [44, 46]
+    region:   beaucedine_glacier_c_6
+
+  17231948:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_c_9
+
+  17231949:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_c_9
+
+  17231950:
+    template: Bat_Eye
+    level:    [40, 42]
+    region:   beaucedine_glacier_w_2
+
+  17231951:
+    template: Bat_Eye
+    level:    [40, 42]
+    region:   beaucedine_glacier_w_2
+
+  17231952:
+    template: Bat_Eye
+    level:    [40, 42]
+    region:   beaucedine_glacier_w_2
+
+  17231953:
+    template: Ghast
+    level:    [35, 38]
+    region:   beaucedine_glacier_w_2
+
+  17231954:
+    template: Ghast
+    level:    [35, 38]
+    region:   beaucedine_glacier_w_2
+
+  17231955:
+    template: Ghast
+    level:    [37, 40]
+    region:   beaucedine_glacier_w_2
+
+  17231956:
+    template: Lugat
+    level:    [39, 42]
+    region:   beaucedine_glacier_w_2
+
+  17231957:
+    template: Bat_Eye
+    level:    [40, 42]
+    region:   beaucedine_glacier_c
+
+  17231958:
+    template: Bat_Eye
+    level:    [40, 42]
+    region:   beaucedine_glacier_c
+
+  17231959:
+    template: Bat_Eye
+    level:    [40, 42]
+    region:   beaucedine_glacier_c
+
+  17231960:
+    template: Ghast
+    level:    [35, 38]
+    region:   beaucedine_glacier_c
+
+  17231961:
+    template: Ghast
+    level:    [37, 40]
+    region:   beaucedine_glacier_c
+
+  17231962:
+    template: Lugat
+    level:    [39, 42]
+    region:   beaucedine_glacier_c
+
+  17231963:
+    template: Dark_Elemental
+    at:       [-120.503, -100.061, 62.239, 127]
+    level:    [44, 46]
+
+  17231964:
+    template: Bat_Eye
+    level:    [40, 42]
+    region:   beaucedine_glacier_w_3
+
+  17231965:
+    template: Bat_Eye
+    level:    [40, 42]
+    region:   beaucedine_glacier_w_3
+
+  17231966:
+    template: Ghast
+    level:    [35, 38]
+    region:   beaucedine_glacier_w_3
+
+  17231967:
+    template: Ghast
+    level:    [37, 40]
+    region:   beaucedine_glacier_w_3
+
+  17231968:
+    template: Lugat
+    level:    [39, 42]
+    region:   beaucedine_glacier_w_3
+
+  17231969:
+    template: Tundra_Tiger
+    at:       [-342.830, -100.584, 168.662, 66]
+    level:    [34, 37]
+
+  17231970:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_w
+
+  17231971:
+    template: Nue
+    at:       [-313.911, -100.308, 147.196, 127]
+    level:    [41, 42]
+
+  17231972:
+    template: Goblin_Poacher
+    level:    [40, 43]
+    region:   beaucedine_glacier_w
+
+  17231973:
+    template: Goblin_Trader
+    level:    [40, 43]
+    region:   beaucedine_glacier_w
+
+  17231974:
+    template: Goblins_Tiger
+    level:    [28, 35]
+    region:   beaucedine_glacier_w
+
+  17231975:
+    template: Goblin_Robber
+    level:    [40, 43]
+    region:   beaucedine_glacier_w
+
+  17231976:
+    template: Goblin_Reaper
+    level:    [40, 43]
+    region:   beaucedine_glacier_w
+
+  17231977:
+    template: Living_Statue
+    at:       [-338.813, -100.750, 135.320, 101]
+    level:    [37, 39]
+
+  17231978:
+    template: Living_Statue
+    at:       [-346.530, -100.750, 138.735, 127]
+    level:    [37, 39]
+
+  17231979:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_c_9
+
+  17231980:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_c_9
+
+  17231981:
+    template: Bat_Eye
+    level:    [40, 42]
+    region:   beaucedine_glacier_c_7
+
+  17231982:
+    template: Bat_Eye
+    level:    [40, 42]
+    region:   beaucedine_glacier_c_7
+
+  17231983:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_c_7
+
+  17231984:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_c_7
+
+  17231985:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_c_7
+
+  17231986:
+    template: Cold_Gigas
+    at:       [81.000, -40.298, 73.000, 64]
+    level:    [40, 43]
+
+  17231987:
+    template: Snow_Gigas
+    at:       [101.103, -40.766, -9.657, 39]
+    level:    [40, 43]
+
+  17231988:
+    template: Rime_Gigas
+    at:       [100.963, -39.548, 38.275, 76]
+    level:    [40, 43]
+
+  17231989:
+    template: Gigass_Tiger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [33, 35]
+
+  17231990:
+    template: Sleet_Gigas
+    level:    [40, 43]
+    region:   beaucedine_glacier_c_7
+
+  17231991:
+    template: Bat_Eye
+    level:    [40, 42]
+    region:   beaucedine_glacier_e
+
+  17231992:
+    template: Bat_Eye
+    level:    [40, 42]
+    region:   beaucedine_glacier_e
+
+  17231993:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_e
+
+  17231994:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_e
+
+  17231995:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_e
+
+  17231996:
+    template: Stone_Golem
+    level:    [40, 42]
+    region:   beaucedine_glacier_e
+
+  17231997:
+    template: Tundra_Tiger
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [34, 37]
+
+  17231998:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_c_10
+
+  17231999:
+    template: Goblin_Pathfinder
+    level:    [35, 38]
+    region:   beaucedine_glacier_c_10
+
+  17232000:
+    template: Goblins_Tiger
+    level:    [28, 35]
+    region:   beaucedine_glacier_c_10
+
+  17232001:
+    template: Goblin_Furrier
+    level:    [35, 38]
+    region:   beaucedine_glacier_c_10
+
+  17232002:
+    template: Goblin_Smithy
+    level:    [35, 38]
+    region:   beaucedine_glacier_c_10
+
+  17232003:
+    template: Goblin_Shaman
+    level:    [35, 38]
+    region:   beaucedine_glacier_c_10
+
+  17232004:
+    template: Living_Statue
+    at:       [96.398, -20.750, 137.904, 123]
+    level:    [37, 39]
+
+  17232005:
+    template: Living_Statue
+    at:       [94.726, -20.750, 144.150, 127]
+    level:    [37, 39]
+
+  17232006:
+    template: Dark_Elemental
+    at:       [223.772, -19.969, 241.855, 64]
+    level:    [44, 46]
+
+  17232007:
+    template: Bat_Eye
+    level:    [40, 42]
+    region:   beaucedine_glacier_e_3
+
+  17232008:
+    template: Bat_Eye
+    level:    [40, 42]
+    region:   beaucedine_glacier_e_3
+
+  17232009:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_e_3
+
+  17232010:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_e_3
+
+  17232011:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_e_3
+
+  17232012:
+    template: Stone_Golem
+    level:    [40, 42]
+    region:   beaucedine_glacier_e_3
+
+  17232013:
+    template: Stone_Golem
+    level:    [40, 42]
+    region:   beaucedine_glacier_e_3
+
+  17232014:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_s_10
+
+  17232015:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_s_10
+
+  17232016:
+    template: Goblin_Poacher
+    level:    [40, 43]
+    region:   beaucedine_glacier_s_10
+
+  17232017:
+    template: Goblin_Trader
+    level:    [40, 43]
+    region:   beaucedine_glacier_s_10
+
+  17232018:
+    template: Goblins_Tiger
+    level:    [28, 35]
+    region:   beaucedine_glacier_s_10
+
+  17232019:
+    template: Goblin_Robber
+    level:    [40, 43]
+    region:   beaucedine_glacier_s_10
+
+  17232020:
+    template: Goblin_Reaper
+    level:    [40, 43]
+    region:   beaucedine_glacier_s_10
+
+  17232021:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_s_8
+
+  17232022:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_s_8
+
+  17232023:
+    template: Goblin_Poacher
+    level:    [40, 43]
+    region:   beaucedine_glacier_s_8
+
+  17232024:
+    template: Goblin_Trader
+    level:    [40, 43]
+    region:   beaucedine_glacier_s_8
+
+  17232025:
+    template: Goblins_Tiger
+    level:    [28, 35]
+    region:   beaucedine_glacier_s_8
+
+  17232026:
+    template: Goblin_Robber
+    level:    [40, 43]
+    region:   beaucedine_glacier_s_8
+
+  17232027:
+    template: Goblin_Reaper
+    level:    [40, 43]
+    region:   beaucedine_glacier_s_8
+
+  17232028:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_s_2
+
+  17232029:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_s_2
+
+  17232030:
+    template: Goblin_Poacher
+    level:    [40, 43]
+    region:   beaucedine_glacier_s_2
+
+  17232031:
+    template: Goblin_Trader
+    level:    [40, 43]
+    region:   beaucedine_glacier_s_2
+
+  17232032:
+    template: Goblins_Tiger
+    level:    [28, 35]
+    region:   beaucedine_glacier_s_2
+
+  17232033:
+    template: Goblin_Robber
+    level:    [40, 43]
+    region:   beaucedine_glacier_s_2
+
+  17232034:
+    template: Goblin_Reaper
+    level:    [40, 43]
+    region:   beaucedine_glacier_s_2
+
+  17232035:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_se
+
+  17232036:
+    template: Cold_Gigas
+    at:       [186.015, 0.098, -203.197, 68]
+    level:    [40, 43]
+
+  17232037:
+    template: Snow_Gigas
+    at:       [153.830, -0.007, -180.089, 93]
+    level:    [40, 43]
+
+  17232038:
+    template: Rime_Gigas
+    level:    [40, 43]
+    region:   beaucedine_glacier_se
+
+  17232039:
+    template: Gigass_Tiger
+    level:    [33, 35]
+    region:   beaucedine_glacier_se
+
+  17232040:
+    template: Sleet_Gigas
+    at:       [-62.000, -0.600, -397.000, 0]
+    level:    [40, 43]
+
+  17232041:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_s_12
+
+  17232042:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_s_9
+
+  17232043:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_s_9
+
+  17232044:
+    template: Kirata
+    at:       [63.000, -0.500, -303.000, 127]
+    level:    [41, 41]
+
+  17232045:
+    template: Goblin_Poacher
+    level:    [40, 43]
+    region:   beaucedine_glacier_s_9
+
+  17232046:
+    template: Goblin_Trader
+    level:    [40, 43]
+    region:   beaucedine_glacier_s_9
+
+  17232047:
+    template: Goblins_Tiger
+    level:    [28, 35]
+    region:   beaucedine_glacier_s_9
+
+  17232048:
+    template: Goblin_Robber
+    level:    [40, 43]
+    region:   beaucedine_glacier_s_9
+
+  17232049:
+    template: Goblin_Reaper
+    level:    [40, 43]
+    region:   beaucedine_glacier_s_9
+
+  17232050:
+    template: Living_Statue
+    at:       [64.868, -0.750, -339.621, 200]
+    level:    [37, 39]
+
+  17232051:
+    template: Living_Statue
+    at:       [59.218, -0.750, -339.465, 68]
+    level:    [37, 39]
+
+  17232052:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_s_11
+
+  17232053:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_s_7
+
+  17232054:
+    template: Cold_Gigas
+    level:    [40, 43]
+    region:   beaucedine_glacier_s_3
+
+  17232055:
+    template: Snow_Gigas
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [40, 43]
+
+  17232056:
+    template: Rime_Gigas
+    at:       [-104.910, 0.209, -359.595, 230]
+    level:    [40, 43]
+
+  17232057:
+    template: Gigass_Tiger
+    at:       [-108.530, -0.042, -362.476, 230]
+    level:    [33, 35]
+
+  17232058:
+    template: Sleet_Gigas
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [40, 43]
+
+  17232059:
+    template: Cold_Gigas
+    at:       [-116.000, 0.600, -385.000, 0]
+    level:    [40, 43]
+
+  17232060:
+    template: Snow_Gigas
+    at:       [-126.888, -0.804, -365.477, 235]
+    level:    [40, 43]
+
+  17232061:
+    template: Rime_Gigas
+    level:    [40, 43]
+    region:   beaucedine_glacier_s_3
+
+  17232062:
+    template: Gigass_Tiger
+    level:    [3, 35]
+    region:   beaucedine_glacier_s_3
+
+  17232063:
+    template: Sleet_Gigas
+    at:       [-87.000, -0.402, -391.000, 127]
+    level:    [40, 43]
+
+  17232064:
+    template: Ice_Elemental
+    level:    [44, 46]
+    region:   beaucedine_glacier_s_4
+
+  17232065:
+    template: Ice_Elemental
+    level:    [44, 46]
+    region:   beaucedine_glacier_s_4
+
+  17232066:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_se_2
+
+  17232067:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_se_2
+
+  17232068:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_se_2
+
+  17232069:
+    template: Stone_Golem
+    level:    [40, 42]
+    region:   beaucedine_glacier_se_2
+
+  17232070:
+    template: Goblin_Poacher
+    level:    [40, 43]
+    region:   beaucedine_glacier_se_2
+
+  17232071:
+    template: Goblin_Trader
+    level:    [40, 43]
+    region:   beaucedine_glacier_se_2
+
+  17232072:
+    template: Goblins_Tiger
+    level:    [28, 35]
+    region:   beaucedine_glacier_se_2
+
+  17232073:
+    template: Goblin_Robber
+    level:    [40, 43]
+    region:   beaucedine_glacier_se_2
+
+  17232074:
+    template: Goblin_Reaper
+    level:    [40, 43]
+    region:   beaucedine_glacier_se_2
+
+  17232075:
+    template: Tundra_Tiger
+    at:       [180.040, -0.431, 156.870, 127]
+    level:    [34, 37]
+
+  17232076:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_e_4
+
+  17232077:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_e_4
+
+  17232078:
+    template: Stone_Golem
+    level:    [40, 42]
+    region:   beaucedine_glacier_e_4
+
+  17232079:
+    template: Gargantua
+    at:       [348.000, -0.500, 17.000, 127]
+    level:    [47, 48]
+
+  17232080:
+    template: Goblin_Poacher
+    level:    [40, 43]
+    region:   beaucedine_glacier_e_4
+
+  17232081:
+    template: Goblin_Trader
+    level:    [40, 43]
+    region:   beaucedine_glacier_e_4
+
+  17232082:
+    template: Goblins_Tiger
+    level:    [28, 35]
+    region:   beaucedine_glacier_e_4
+
+  17232083:
+    template: Goblin_Robber
+    level:    [40, 43]
+    region:   beaucedine_glacier_e_4
+
+  17232084:
+    template: Goblin_Reaper
+    level:    [40, 43]
+    region:   beaucedine_glacier_e_4
+
+  17232085:
+    template: Living_Statue
+    at:       [260.757, -0.750, -27.547, 10]
+    level:    [37, 39]
+
+  17232086:
+    template: Living_Statue
+    at:       [262.060, -0.750, -19.645, 76]
+    level:    [37, 39]
+
+  17232087:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_e_2
+
+  17232088:
+    template: Tundra_Tiger
+    level:    [34, 37]
+    region:   beaucedine_glacier_e_2
+
+  17232089:
+    template: Cold_Gigas
+    at:       [251.000, -0.462, 86.000, 127]
+    level:    [40, 43]
+
+  17232090:
+    template: Snow_Gigas
+    at:       [213.589, -0.297, 92.374, 3]
+    level:    [40, 43]
+
+  17232091:
+    template: Rime_Gigas
+    at:       [199.006, 0.272, 94.903, 127]
+    level:    [40, 43]
+
+  17232092:
+    template: Gigass_Tiger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [33, 35]
+
+  17232093:
+    template: Sleet_Gigas
+    level:    [40, 43]
+    region:   beaucedine_glacier_e_2
+
+  17232094:
+    template: Humbaba
+    level:    [62, 62]
+    region:   beaucedine_glacier_e_2
+
+  17232095:
+    template: Cold_Gigas
+    level:    [40, 43]
+    region:   beaucedine_glacier_ne_2
+
+  17232096:
+    template: Snow_Gigas
+    at:       [241.108, -0.266, 231.962, 120]
+    level:    [40, 43]
+
+  17232097:
+    template: Rime_Gigas
+    at:       [270.161, -0.208, 241.759, 20]
+    level:    [40, 43]
+
+  17232098:
+    template: Gigass_Tiger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [33, 35]
+
+  17232099:
+    template: Sleet_Gigas
+    at:       [263.175, 0.377, 241.131, 112]
+    level:    [40, 43]
+
+  17232100:
+    template: Cold_Gigas
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [40, 43]
+
+  17232101:
+    template: Snow_Gigas
+    at:       [279.137, -0.745, 248.435, 111]
+    level:    [40, 43]
+
+  17232102:
+    template: Rime_Gigas
+    at:       [278.000, -0.563, 206.000, 83]
+    level:    [40, 43]
+
+  17232103:
+    template: Gigass_Tiger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [33, 35]
+
+  17232104:
+    template: Sleet_Gigas
+    at:       [294.860, -0.382, 218.798, 127]
+    level:    [40, 43]
+
+  17232105:
+    template: Ice_Elemental
+    level:    [44, 46]
+    region:   beaucedine_glacier_ne_3
+
+  17232106:
+    template: Ice_Elemental
+    level:    [44, 46]
+    region:   beaucedine_glacier_ne_3
+
+  17232107:
+    template: Goblin_Poacher
+    level:    [40, 43]
+    region:   beaucedine_glacier_ne_4
+
+  17232108:
+    template: Goblin_Trader
+    level:    [40, 43]
+    region:   beaucedine_glacier_ne_4
+
+  17232109:
+    template: Goblins_Tiger
+    level:    [28, 35]
+    region:   beaucedine_glacier_ne_4
+
+  17232110:
+    template: Goblin_Robber
+    level:    [40, 43]
+    region:   beaucedine_glacier_ne_4
+
+  17232111:
+    template: Goblin_Reaper
+    level:    [40, 43]
+    region:   beaucedine_glacier_ne_4
+
+  17232112:
+    template: Living_Statue
+    level:    [37, 39]
+    region:   beaucedine_glacier_ne
+
+  17232113:
+    template: Living_Statue
+    level:    [37, 39]
+    region:   beaucedine_glacier_ne
+
+  17232114:
+    template: Living_Statue
+    level:    [37, 39]
+    region:   beaucedine_glacier_ne
+
+  17232115:
+    template: Living_Statue
+    level:    [37, 39]
+    region:   beaucedine_glacier_ne
+
+  17232116:
+    template: Living_Statue
+    level:    [37, 39]
+    region:   beaucedine_glacier_ne
+
+  17232117:
+    template: Calcabrina
+    level:    [52, 55]
+    region:   beaucedine_glacier_w_2
+
+  17232118:
+    template: Goblin_Poacher
+    level:    [40, 43]
+    region:   beaucedine_glacier_ne
+
+  17232119:
+    template: Goblin_Trader
+    level:    [40, 43]
+    region:   beaucedine_glacier_ne
+
+  17232120:
+    template: Goblins_Tiger
+    level:    [28, 35]
+    region:   beaucedine_glacier_ne
+
+  17232121:
+    template: Goblin_Robber
+    level:    [40, 43]
+    region:   beaucedine_glacier_ne
+
+  17232122:
+    template: Goblin_Reaper
+    level:    [40, 43]
+    region:   beaucedine_glacier_ne
+
+  17232123:
+    template: Living_Statue
+    level:    [37, 39]
+    region:   beaucedine_glacier_ne
+
+  17232124:
+    template: Hobgoblin_Warrior
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [40, 43]
+
+  17232125:
+    template: Hobgoblin_White_Mage
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [40, 43]
+
+  17232126:
+    template: Hobgoblin_Black_Mage
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [40, 43]
+
+  17232127:
+    template: Hobgoblin_Red_Mage
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [40, 43]
+
+  17232128:
+    template: Hobgoblin_Thief
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [40, 43]
+
+  17232129:
+    template: Hobgoblin_Dark_Knight
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [40, 43]
+
+  17232130:
+    template: Hobgoblin_Ranger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [40, 43]
+
+  17232131:
+    template: Hobgoblin_Beastmaster
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [40, 43]
+
+  17232132:
+    template: Goblins_Tiger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [38, 40]
+
+  17232133:
+    template: Gigas_Warrior
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [40, 43]
+
+  17232134:
+    template: Gigas_Monk
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [40, 43]
+
+  17232135:
+    template: Gigas_Beastmaster
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [40, 43]
+
+  17232136:
+    template: Gigas_Ranger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [40, 43]
+
+  17232137:
+    template: Gigass_Tiger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [38, 40]
+
+  17232138:
+    template: Gigas_Hillrazer
+    at:       [-39.623, -60.002, -121.633, 85]
+    level:    [40, 45]
+
+  17232139:
+    template: Gigas_Hillrazer
+    at:       [-19.722, -60.674, -133.982, 85]
+    level:    [40, 45]
+
+  17232140:
+    template: Gigas_Clearcutter
+    at:       [-12.359, -60.228, -130.689, 90]
+    level:    [40, 45]
+
+  17232141:
+    template: Gigas_Clearcutter
+    at:       [-8.184, -59.837, -123.527, 95]
+    level:    [40, 45]
+
+  17232142:
+    template: Gigas_Hillrazer
+    at:       [-4.377, -59.982, -118.493, 80]
+    level:    [40, 45]
+
+  17232143:
+    template: Gigas_Hillrazer
+    at:       [-2.931, -59.725, -110.482, 75]
+    level:    [40, 45]
+
+  17232144:
+    template: Gigas_Clearcutter
+    at:       [-8.106, -59.382, -101.632, 80]
+    level:    [40, 45]
+
+  17232145:
+    template: Gigas_Clearcutter
+    at:       [-37.466, -59.727, -129.476, 85]
+    level:    [40, 45]
+
+  17232146:
+    template: Gigas_Overseer
+    at:       [-5.173, -59.889, -72.582, 90]
+    level:    [45, 45]
+
+  17232147:
+    template: Plumbago
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17232148:
+    template: Yilbegan
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [90, 92]
+
+  17232149:
+    template: Lord_Ruthven
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [85, 85]
+
+  17232150:
+    template: Feuerunke
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [82, 82]
+
+  17232151:
+    template: Erebus
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [82, 82]
+
+  17232152:
+    template: Gjenganger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17232153:
+    template: Gjenganger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17232154:
+    template: Gjenganger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17232155:
+    template: Gjenganger
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17232156:
+    template: Gorehound
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17232157:
+    template: Gorehound
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17232158:
+    template: Gorehound
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17232159:
+    template: Gorehound
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17232160:
+    template: Kalasutrax
+    at:       [363.176, -0.573, -285.463, 20]
+    level:    [96, 98]
+
+  17232161:
+    template: Kalasutrax
+    at:       [115.168, -60.532, -31.721, 40]
+    level:    [96, 98]
+
+  17232162:
+    template: Kalasutrax
+    at:       [-135.000, -61.000, -200.000, 56]
+    level:    [96, 98]
+
+  17232163:
+    template: Largantua
+    at:       [444.890, -0.624, -205.509, 69]
+    level:    [0, 0]
+
+  17232164:
+    template: Largantua
+    at:       [404.979, -0.585, 41.887, 242]
+    level:    [0, 0]
+
+  17232165:
+    template: Largantua
+    at:       [239.940, -0.702, 128.009, 125]
+    level:    [0, 0]
+
+  17232172:
+    template: Awoken_Gorgimera
+    at:       [398.550, -0.400, 284.460, 98]
+    level:    [119, 119]

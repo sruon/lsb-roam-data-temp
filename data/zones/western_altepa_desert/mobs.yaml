@@ -1,0 +1,2318 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17289217:
+    template: Ironshell
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [41, 42]
+
+  17289218:
+    template: Apsaras
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [40, 42]
+
+  17289219:
+    template: Bigclaw
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [45, 47]
+
+  17289220:
+    template: Bigclaw
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [45, 47]
+
+  17289221:
+    template: Razorjaw_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [50, 52]
+
+  17289222:
+    template: Desert_Spider
+    level:    [40, 44]
+    region:   western_altepa_desert_e_3
+
+  17289223:
+    template: Desert_Spider
+    level:    [40, 44]
+    region:   western_altepa_desert_e_3
+
+  17289224:
+    template: Desert_Spider
+    level:    [40, 44]
+    region:   western_altepa_desert_e_3
+
+  17289225:
+    template: Desert_Spider
+    level:    [40, 44]
+    region:   western_altepa_desert_e_3
+
+  17289226:
+    template: Desert_Dhalmel
+    level:    [44, 48]
+    region:   western_altepa_desert_e_3
+
+  17289227:
+    template: Desert_Worm
+    level:    [43, 47]
+    region:   western_altepa_desert_e_3
+
+  17289228:
+    template: Desert_Spider
+    level:    [40, 44]
+    region:   western_altepa_desert_e_2
+
+  17289229:
+    template: Desert_Spider
+    level:    [40, 44]
+    region:   western_altepa_desert_e_2
+
+  17289230:
+    template: Desert_Spider
+    level:    [40, 44]
+    region:   western_altepa_desert_e_2
+
+  17289231:
+    template: Desert_Spider
+    level:    [40, 44]
+    region:   western_altepa_desert_e_2
+
+  17289232:
+    template: Desert_Dhalmel
+    at:       [528.169, -0.370, 19.776, 127]
+    level:    [44, 48]
+
+  17289233:
+    template: Desert_Worm
+    level:    [43, 47]
+    region:   western_altepa_desert_e_2
+
+  17289234:
+    template: Desert_Spider
+    level:    [40, 44]
+    region:   western_altepa_desert_ne_6
+
+  17289235:
+    template: Desert_Spider
+    level:    [40, 44]
+    region:   western_altepa_desert_ne_6
+
+  17289236:
+    template: Desert_Spider
+    level:    [40, 44]
+    region:   western_altepa_desert_ne_6
+
+  17289237:
+    template: Desert_Spider
+    level:    [40, 44]
+    region:   western_altepa_desert_ne_6
+
+  17289238:
+    template: Desert_Dhalmel
+    level:    [44, 48]
+    region:   western_altepa_desert_ne_6
+
+  17289239:
+    template: Antican_Essedarius
+    level:    [41, 45]
+    region:   western_altepa_desert_ne_6
+
+  17289240:
+    template: Desert_Worm
+    level:    [43, 47]
+    region:   western_altepa_desert_ne_8
+
+  17289241:
+    template: Earth_Elemental
+    level:    [56, 58]
+    region:   western_altepa_desert_ne_6
+
+  17289242:
+    template: Desert_Spider
+    level:    [40, 44]
+    region:   western_altepa_desert_ne_4
+
+  17289243:
+    template: Desert_Spider
+    level:    [40, 44]
+    region:   western_altepa_desert_ne_4
+
+  17289244:
+    template: Desert_Spider
+    level:    [40, 44]
+    region:   western_altepa_desert_ne_4
+
+  17289245:
+    template: Desert_Spider
+    level:    [40, 44]
+    region:   western_altepa_desert_ne_4
+
+  17289246:
+    template: Desert_Dhalmel
+    level:    [44, 48]
+    region:   western_altepa_desert_ne_4
+
+  17289247:
+    template: Antican_Essedarius
+    level:    [41, 45]
+    region:   western_altepa_desert_ne_4
+
+  17289248:
+    template: Desert_Worm
+    level:    [43, 47]
+    region:   western_altepa_desert_ne_4
+
+  17289249:
+    template: Desert_Spider
+    level:    [40, 44]
+    region:   western_altepa_desert_ne_5
+
+  17289250:
+    template: Desert_Spider
+    level:    [40, 44]
+    region:   western_altepa_desert_ne_5
+
+  17289251:
+    template: Desert_Spider
+    level:    [40, 44]
+    region:   western_altepa_desert_ne_5
+
+  17289252:
+    template: Desert_Dhalmel
+    level:    [44, 48]
+    region:   western_altepa_desert_ne_5
+
+  17289253:
+    template: Antican_Essedarius
+    level:    [41, 45]
+    region:   western_altepa_desert_ne_5
+
+  17289254:
+    template: Cactuar
+    level:    [48, 52]
+    region:   western_altepa_desert_ne_5
+
+  17289255:
+    template: Desert_Worm
+    level:    [43, 47]
+    region:   western_altepa_desert_ne_5
+
+  17289256:
+    template: Tulwar_Scorpion
+    level:    [53, 56]
+    region:   western_altepa_desert_ne_5
+
+  17289257:
+    template: Earth_Elemental
+    level:    [56, 58]
+    region:   western_altepa_desert_ne_7
+
+  17289258:
+    template: Desert_Spider
+    level:    [40, 44]
+    region:   western_altepa_desert_ne_2
+
+  17289259:
+    template: Desert_Spider
+    level:    [40, 44]
+    region:   western_altepa_desert_ne_2
+
+  17289260:
+    template: Desert_Spider
+    level:    [40, 44]
+    region:   western_altepa_desert_ne_2
+
+  17289261:
+    template: Desert_Dhalmel
+    level:    [44, 48]
+    region:   western_altepa_desert_ne_2
+
+  17289262:
+    template: Desert_Dhalmel
+    level:    [44, 48]
+    region:   western_altepa_desert_ne_2
+
+  17289263:
+    template: Antican_Essedarius
+    level:    [41, 45]
+    region:   western_altepa_desert_ne_2
+
+  17289264:
+    template: Cactuar
+    at:       [351.000, -0.030, 185.000, 127]
+    level:    [48, 52]
+
+  17289265:
+    template: Desert_Worm
+    level:    [43, 47]
+    region:   western_altepa_desert_ne_2
+
+  17289266:
+    template: Tulwar_Scorpion
+    level:    [53, 56]
+    region:   western_altepa_desert_ne_2
+
+  17289267:
+    template: Desert_Spider
+    level:    [40, 44]
+    region:   western_altepa_desert_ne_3
+
+  17289268:
+    template: Desert_Spider
+    level:    [40, 44]
+    region:   western_altepa_desert_ne_3
+
+  17289269:
+    template: Desert_Spider
+    level:    [40, 44]
+    region:   western_altepa_desert_ne_3
+
+  17289270:
+    template: Antican_Essedarius
+    level:    [41, 45]
+    region:   western_altepa_desert_ne_3
+
+  17289271:
+    template: Cactuar
+    at:       [432.964, -2.630, 330.306, 127]
+    level:    [48, 52]
+
+  17289272:
+    template: Desert_Worm
+    level:    [43, 47]
+    region:   western_altepa_desert_ne_3
+
+  17289273:
+    template: Desert_Spider
+    level:    [40, 44]
+    region:   western_altepa_desert_ne
+
+  17289274:
+    template: Desert_Spider
+    level:    [40, 44]
+    region:   western_altepa_desert_ne
+
+  17289275:
+    template: Desert_Spider
+    level:    [40, 44]
+    region:   western_altepa_desert_ne
+
+  17289276:
+    template: Desert_Dhalmel
+    level:    [44, 48]
+    region:   western_altepa_desert_ne
+
+  17289277:
+    template: Desert_Dhalmel
+    level:    [44, 48]
+    region:   western_altepa_desert_ne
+
+  17289278:
+    template: Antican_Essedarius
+    level:    [41, 45]
+    region:   western_altepa_desert_ne
+
+  17289279:
+    template: Antican_Essedarius
+    level:    [41, 45]
+    region:   western_altepa_desert_ne
+
+  17289280:
+    template: Cactuar
+    level:    [48, 52]
+    region:   western_altepa_desert_ne
+
+  17289281:
+    template: Desert_Worm
+    level:    [43, 47]
+    region:   western_altepa_desert_ne
+
+  17289282:
+    template: Desert_Worm
+    level:    [43, 47]
+    region:   western_altepa_desert_ne
+
+  17289283:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_n_17
+
+  17289284:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_n_17
+
+  17289285:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_n_17
+
+  17289286:
+    template: Desert_Dhalmel
+    level:    [44, 48]
+    region:   western_altepa_desert_n_17
+
+  17289287:
+    template: Antican_Retiarius
+    level:    [45, 49]
+    region:   western_altepa_desert_n_17
+
+  17289288:
+    template: Antican_Secutor
+    level:    [54, 58]
+    region:   western_altepa_desert_n_17
+
+  17289289:
+    template: Tulwar_Scorpion
+    level:    [53, 56]
+    region:   western_altepa_desert_n_17
+
+  17289290:
+    template: Cactuar
+    level:    [48, 52]
+    region:   western_altepa_desert_n_17
+
+  17289291:
+    template: Cactuar
+    level:    [48, 52]
+    region:   western_altepa_desert_n_17
+
+  17289292:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_n_13
+
+  17289293:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_n_13
+
+  17289294:
+    template: Antican_Secutor
+    level:    [54, 58]
+    region:   western_altepa_desert_n_13
+
+  17289295:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_n_13
+
+  17289296:
+    template: Cactuar
+    level:    [48, 52]
+    region:   western_altepa_desert_n_13
+
+  17289297:
+    template: Cactuar
+    at:       [-47.837, 0.379, 180.024, 127]
+    level:    [48, 52]
+
+  17289298:
+    template: Desert_Manticore
+    level:    [53, 57]
+    region:   western_altepa_desert_n_13
+
+  17289299:
+    template: Antican_Hoplomachus
+    level:    [54, 58]
+    region:   western_altepa_desert_n_14
+
+  17289300:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_n_14
+
+  17289301:
+    template: Cactuar
+    level:    [48, 52]
+    region:   western_altepa_desert_n_14
+
+  17289302:
+    template: Cactuar
+    level:    [48, 52]
+    region:   western_altepa_desert_n_14
+
+  17289303:
+    template: Desert_Manticore
+    level:    [53, 57]
+    region:   western_altepa_desert_n_14
+
+  17289304:
+    template: Desert_Manticore
+    level:    [53, 57]
+    region:   western_altepa_desert_n_14
+
+  17289305:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_n_6
+
+  17289306:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_n_6
+
+  17289307:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_n_6
+
+  17289308:
+    template: Antican_Hoplomachus
+    level:    [54, 58]
+    region:   western_altepa_desert_n_6
+
+  17289309:
+    template: Antican_Hoplomachus
+    level:    [54, 58]
+    region:   western_altepa_desert_n_6
+
+  17289310:
+    template: Cactuar
+    level:    [49, 53]
+    region:   western_altepa_desert_n_6
+
+  17289311:
+    template: Cactuar
+    at:       [-172.000, -0.010, 173.000, 110]
+    level:    [48, 52]
+
+  17289312:
+    template: Desert_Manticore
+    level:    [53, 57]
+    region:   western_altepa_desert_n_6
+
+  17289313:
+    template: Desert_Manticore
+    level:    [53, 57]
+    region:   western_altepa_desert_n_6
+
+  17289314:
+    template: Desert_Manticore
+    level:    [53, 57]
+    region:   western_altepa_desert_n_6
+
+  17289315:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_nw_5
+
+  17289316:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_nw_5
+
+  17289317:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_nw_5
+
+  17289318:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_nw_5
+
+  17289319:
+    template: Cactuar
+    level:    [49, 53]
+    region:   western_altepa_desert_nw_5
+
+  17289320:
+    template: Cactuar
+    level:    [49, 53]
+    region:   western_altepa_desert_nw_5
+
+  17289321:
+    template: Desert_Manticore
+    level:    [53, 57]
+    region:   western_altepa_desert_nw_5
+
+  17289322:
+    template: Desert_Manticore
+    at:       [-401.000, -0.452, 257.000, 127]
+    level:    [53, 57]
+
+  17289323:
+    template: Dahu
+    level:    [57, 57]
+    region:   western_altepa_desert_n_17
+
+  17289324:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_n_2
+
+  17289325:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_n_2
+
+  17289326:
+    template: Antican_Hoplomachus
+    level:    [54, 58]
+    region:   western_altepa_desert_n_3
+
+  17289327:
+    template: Antican_Hoplomachus
+    level:    [54, 58]
+    region:   western_altepa_desert_n_3
+
+  17289328:
+    template: Antican_Lanista
+    at:       [-366.323, 11.468, 287.621, 110]
+    level:    [54, 58]
+
+  17289329:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_n
+
+  17289330:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_n
+
+  17289331:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_n
+
+  17289332:
+    template: Antican_Hoplomachus
+    level:    [54, 58]
+    region:   western_altepa_desert_n
+
+  17289333:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_n
+
+  17289334:
+    template: Cactuar
+    level:    [48, 52]
+    region:   western_altepa_desert_n
+
+  17289335:
+    template: Tulwar_Scorpion
+    level:    [53, 56]
+    region:   western_altepa_desert_n
+
+  17289336:
+    template: Desert_Manticore
+    level:    [53, 57]
+    region:   western_altepa_desert_n
+
+  17289337:
+    template: Desert_Manticore
+    level:    [53, 57]
+    region:   western_altepa_desert_n
+
+  17289338:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_nw
+
+  17289339:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_nw
+
+  17289340:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_nw
+
+  17289341:
+    template: Antican_Hoplomachus
+    level:    [54, 58]
+    region:   western_altepa_desert_nw
+
+  17289342:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_nw
+
+  17289343:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_nw
+
+  17289344:
+    template: Desert_Manticore
+    level:    [53, 57]
+    region:   western_altepa_desert_nw
+
+  17289345:
+    template: Desert_Manticore
+    level:    [53, 57]
+    region:   western_altepa_desert_nw
+
+  17289346:
+    template: Desert_Manticore
+    at:       [-360.000, -0.131, 159.000, 127]
+    level:    [53, 57]
+
+  17289347:
+    template: Antican_Hoplomachus
+    level:    [54, 58]
+    region:   western_altepa_desert_nw_3
+
+  17289348:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_nw_3
+
+  17289349:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_nw_3
+
+  17289350:
+    template: Fire_Elemental
+    at:       [-495.717, 9.846, 189.909, 127]
+    level:    [56, 58]
+
+  17289351:
+    template: Antican_Hoplomachus
+    level:    [54, 58]
+    region:   western_altepa_desert_nw_4
+
+  17289352:
+    template: Antican_Hoplomachus
+    level:    [54, 58]
+    region:   western_altepa_desert_nw_4
+
+  17289353:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_nw_4
+
+  17289354:
+    template: Fire_Elemental
+    at:       [-452.415, 9.238, 141.426, 127]
+    level:    [56, 58]
+
+  17289355:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_nw_2
+
+  17289356:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_nw_2
+
+  17289357:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_nw_2
+
+  17289358:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_nw_2
+
+  17289359:
+    template: Cactuar
+    level:    [49, 53]
+    region:   western_altepa_desert_nw_2
+
+  17289360:
+    template: Cactuar
+    level:    [49, 53]
+    region:   western_altepa_desert_nw_2
+
+  17289361:
+    template: Tulwar_Scorpion
+    level:    [53, 56]
+    region:   western_altepa_desert_nw_2
+
+  17289362:
+    template: Tulwar_Scorpion
+    level:    [53, 56]
+    region:   western_altepa_desert_nw_2
+
+  17289363:
+    template: Tulwar_Scorpion
+    level:    [53, 56]
+    region:   western_altepa_desert_nw_2
+
+  17289364:
+    template: Phorusrhacos
+    at:       [-531.798, -1.569, 102.483, 127]
+    level:    [57, 60]
+
+  17289365:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_w_4
+
+  17289366:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_w_4
+
+  17289367:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_w_4
+
+  17289368:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_w_4
+
+  17289369:
+    template: Cactuar
+    level:    [49, 53]
+    region:   western_altepa_desert_w_4
+
+  17289370:
+    template: Tulwar_Scorpion
+    level:    [53, 56]
+    region:   western_altepa_desert_w_4
+
+  17289371:
+    template: Tulwar_Scorpion
+    level:    [53, 56]
+    region:   western_altepa_desert_w_4
+
+  17289372:
+    template: Tulwar_Scorpion
+    level:    [53, 56]
+    region:   western_altepa_desert_w_4
+
+  17289373:
+    template: Phorusrhacos
+    level:    [57, 60]
+    region:   western_altepa_desert_w_4
+
+  17289374:
+    template: Phorusrhacos
+    level:    [57, 60]
+    region:   western_altepa_desert_w_4
+
+  17289375:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_c
+
+  17289376:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_c
+
+  17289377:
+    template: Antican_Secutor
+    level:    [54, 58]
+    region:   western_altepa_desert_c
+
+  17289378:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_c
+
+  17289379:
+    template: Cactuar
+    level:    [48, 52]
+    region:   western_altepa_desert_c
+
+  17289380:
+    template: Cactuar
+    level:    [49, 53]
+    region:   western_altepa_desert_c
+
+  17289381:
+    template: Tulwar_Scorpion
+    level:    [53, 56]
+    region:   western_altepa_desert_c
+
+  17289382:
+    template: Tulwar_Scorpion
+    level:    [53, 56]
+    region:   western_altepa_desert_c
+
+  17289383:
+    template: Tulwar_Scorpion
+    level:    [53, 56]
+    region:   western_altepa_desert_c
+
+  17289384:
+    template: Phorusrhacos
+    at:       [-342.171, 0.175, -113.630, 127]
+    level:    [57, 60]
+
+  17289385:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_c_4
+
+  17289386:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_c_4
+
+  17289387:
+    template: Antican_Secutor
+    level:    [54, 58]
+    region:   western_altepa_desert_c_4
+
+  17289388:
+    template: Antican_Retiarius
+    level:    [45, 49]
+    region:   western_altepa_desert_c_4
+
+  17289389:
+    template: Antican_Eques
+    level:    [45, 49]
+    region:   western_altepa_desert_c_4
+
+  17289390:
+    template: Cactuar
+    level:    [48, 52]
+    region:   western_altepa_desert_c_4
+
+  17289391:
+    template: Desert_Worm
+    level:    [43, 47]
+    region:   western_altepa_desert_c_4
+
+  17289392:
+    template: Desert_Worm
+    level:    [43, 47]
+    region:   western_altepa_desert_c_4
+
+  17289393:
+    template: Antican_Hoplomachus
+    level:    [54, 58]
+    region:   western_altepa_desert_c_13
+
+  17289394:
+    template: Antican_Hoplomachus
+    level:    [54, 58]
+    region:   western_altepa_desert_c_13
+
+  17289395:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_c_13
+
+  17289396:
+    template: Antican_Hoplomachus
+    level:    [54, 58]
+    region:   western_altepa_desert_c_20
+
+  17289397:
+    template: Antican_Hoplomachus
+    level:    [54, 58]
+    region:   western_altepa_desert_c_20
+
+  17289398:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_c_20
+
+  17289399:
+    template: Antican_Hoplomachus
+    at:       [-27.350, 11.280, -44.913, 59]
+    level:    [54, 58]
+
+  17289400:
+    template: Antican_Hoplomachus
+    at:       [-48.419, 10.621, -79.729, 59]
+    level:    [54, 58]
+
+  17289401:
+    template: Antican_Lanista
+    at:       [-48.702, 10.621, -88.164, 66]
+    level:    [54, 58]
+
+  17289402:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_c_22
+
+  17289403:
+    template: Antican_Hoplomachus
+    level:    [54, 58]
+    region:   western_altepa_desert_c_18
+
+  17289404:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_c_18
+
+  17289405:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_c_18
+
+  17289406:
+    template: Desert_Dhalmel
+    level:    [44, 48]
+    region:   western_altepa_desert_c_12
+
+  17289407:
+    template: Desert_Dhalmel
+    level:    [44, 48]
+    region:   western_altepa_desert_c_12
+
+  17289408:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_c_12
+
+  17289409:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_c_12
+
+  17289410:
+    template: Antican_Retiarius
+    level:    [45, 49]
+    region:   western_altepa_desert_c_12
+
+  17289411:
+    template: Antican_Eques
+    level:    [45, 49]
+    region:   western_altepa_desert_c_12
+
+  17289412:
+    template: Desert_Worm
+    level:    [43, 47]
+    region:   western_altepa_desert_c_12
+
+  17289413:
+    template: Desert_Worm
+    level:    [43, 47]
+    region:   western_altepa_desert_c_12
+
+  17289414:
+    template: Fire_Elemental
+    at:       [-60.857, -0.194, -122.353, 127]
+    level:    [56, 58]
+
+  17289415:
+    template: Desert_Dhalmel
+    level:    [44, 48]
+    region:   western_altepa_desert_c_15
+
+  17289416:
+    template: Desert_Dhalmel
+    level:    [44, 48]
+    region:   western_altepa_desert_c_15
+
+  17289417:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_c_15
+
+  17289418:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_c_15
+
+  17289419:
+    template: Antican_Eques
+    level:    [45, 49]
+    region:   western_altepa_desert_c_15
+
+  17289420:
+    template: Antican_Retiarius
+    level:    [45, 49]
+    region:   western_altepa_desert_c_15
+
+  17289421:
+    template: Desert_Worm
+    level:    [43, 47]
+    region:   western_altepa_desert_c_15
+
+  17289422:
+    template: Desert_Worm
+    level:    [43, 47]
+    region:   western_altepa_desert_c_15
+
+  17289423:
+    template: Fire_Elemental
+    at:       [-8.197, -1.162, -256.642, 127]
+    level:    [56, 58]
+
+  17289424:
+    template: Desert_Dhalmel
+    level:    [44, 48]
+    region:   western_altepa_desert_c_24
+
+  17289425:
+    template: Desert_Dhalmel
+    level:    [44, 48]
+    region:   western_altepa_desert_c_24
+
+  17289426:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_c_24
+
+  17289427:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_c_24
+
+  17289428:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_c_24
+
+  17289429:
+    template: Antican_Retiarius
+    level:    [45, 49]
+    region:   western_altepa_desert_c_24
+
+  17289430:
+    template: Antican_Eques
+    level:    [45, 49]
+    region:   western_altepa_desert_c_24
+
+  17289431:
+    template: Desert_Worm
+    level:    [43, 47]
+    region:   western_altepa_desert_c_24
+
+  17289432:
+    template: Desert_Worm
+    level:    [43, 47]
+    region:   western_altepa_desert_c_24
+
+  17289433:
+    template: Antican_Hoplomachus
+    level:    [54, 58]
+    region:   western_altepa_desert_c_27
+
+  17289434:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_c_27
+
+  17289435:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_c_27
+
+  17289436:
+    template: Antican_Hoplomachus
+    at:       [133.003, 11.272, -4.993, 38]
+    level:    [54, 58]
+
+  17289437:
+    template: Desert_Dhalmel
+    level:    [44, 48]
+    region:   western_altepa_desert_c_25
+
+  17289438:
+    template: Desert_Dhalmel
+    level:    [44, 48]
+    region:   western_altepa_desert_c_25
+
+  17289439:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_c_25
+
+  17289440:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_c_25
+
+  17289441:
+    template: Antican_Secutor
+    level:    [54, 58]
+    region:   western_altepa_desert_c_25
+
+  17289442:
+    template: Antican_Retiarius
+    level:    [45, 49]
+    region:   western_altepa_desert_c_25
+
+  17289443:
+    template: Antican_Retiarius
+    level:    [45, 49]
+    region:   western_altepa_desert_c_25
+
+  17289444:
+    template: Desert_Worm
+    level:    [43, 47]
+    region:   western_altepa_desert_c_25
+
+  17289445:
+    template: Desert_Worm
+    level:    [43, 47]
+    region:   western_altepa_desert_c_25
+
+  17289446:
+    template: Antican_Secutor
+    level:    [54, 58]
+    region:   western_altepa_desert_e
+
+  17289447:
+    template: Antican_Secutor
+    level:    [54, 58]
+    region:   western_altepa_desert_e
+
+  17289448:
+    template: Desert_Spider
+    level:    [40, 44]
+    region:   western_altepa_desert_c_19
+
+  17289449:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_c_19
+
+  17289450:
+    template: Desert_Dhalmel
+    level:    [44, 48]
+    region:   western_altepa_desert_c_19
+
+  17289451:
+    template: Desert_Dhalmel
+    level:    [44, 48]
+    region:   western_altepa_desert_c_19
+
+  17289452:
+    template: Desert_Dhalmel
+    level:    [44, 48]
+    region:   western_altepa_desert_c_19
+
+  17289453:
+    template: Celphie
+    at:       [70.000, -0.024, 35.000, 127]
+    level:    [47, 50]
+
+  17289454:
+    template: Antican_Retiarius
+    level:    [45, 49]
+    region:   western_altepa_desert_c_19
+
+  17289455:
+    template: Antican_Retiarius
+    level:    [45, 49]
+    region:   western_altepa_desert_c_19
+
+  17289456:
+    template: Desert_Worm
+    level:    [43, 47]
+    region:   western_altepa_desert_c_26
+
+  17289457:
+    template: Desert_Worm
+    level:    [43, 47]
+    region:   western_altepa_desert_c_23
+
+  17289458:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_n_12
+
+  17289459:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_n_12
+
+  17289460:
+    template: Antican_Secutor
+    level:    [54, 58]
+    region:   western_altepa_desert_n_12
+
+  17289461:
+    template: Antican_Secutor
+    level:    [54, 58]
+    region:   western_altepa_desert_n_12
+
+  17289462:
+    template: Antican_Eques
+    level:    [45, 49]
+    region:   western_altepa_desert_n_12
+
+  17289463:
+    template: Desert_Worm
+    level:    [43, 47]
+    region:   western_altepa_desert_n_12
+
+  17289464:
+    template: Antican_Hoplomachus
+    level:    [54, 58]
+    region:   western_altepa_desert_c_21
+
+  17289465:
+    template: Antican_Hoplomachus
+    level:    [54, 58]
+    region:   western_altepa_desert_c_21
+
+  17289466:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_c_21
+
+  17289467:
+    template: Earth_Elemental
+    level:    [56, 58]
+    region:   western_altepa_desert_c_21
+
+  17289468:
+    template: Antican_Hoplomachus
+    level:    [54, 58]
+    region:   western_altepa_desert_n_15
+
+  17289469:
+    template: Antican_Hoplomachus
+    level:    [54, 58]
+    region:   western_altepa_desert_n_15
+
+  17289470:
+    template: Earth_Elemental
+    level:    [56, 58]
+    region:   western_altepa_desert_n_15
+
+  17289471:
+    template: Antican_Hoplomachus
+    at:       [6.241, 11.485, 66.826, 14]
+    level:    [54, 58]
+
+  17289472:
+    template: Desert_Spider
+    level:    [40, 44]
+    region:   western_altepa_desert_n_16
+
+  17289473:
+    template: Desert_Dhalmel
+    level:    [44, 48]
+    region:   western_altepa_desert_n_16
+
+  17289474:
+    template: Desert_Dhalmel
+    level:    [44, 48]
+    region:   western_altepa_desert_n_16
+
+  17289475:
+    template: Antican_Essedarius
+    at:       [33.848, -0.437, 88.026, 127]
+    level:    [41, 45]
+
+  17289476:
+    template: Antican_Retiarius
+    at:       [5.673, 0.200, 96.453, 127]
+    level:    [45, 49]
+
+  17289477:
+    template: Cactuar
+    at:       [10.979, -0.006, 73.713, 51]
+    level:    [48, 52]
+
+  17289478:
+    template: Desert_Worm
+    level:    [43, 47]
+    region:   western_altepa_desert_n_16
+
+  17289479:
+    template: Desert_Worm
+    level:    [43, 47]
+    region:   western_altepa_desert_n_16
+
+  17289480:
+    template: Tulwar_Scorpion
+    level:    [53, 56]
+    region:   western_altepa_desert_n_16
+
+  17289481:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_n_11
+
+  17289482:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_n_11
+
+  17289483:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_n_10
+
+  17289484:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_n_10
+
+  17289485:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_n_9
+
+  17289486:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_n_9
+
+  17289487:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_n_8
+
+  17289488:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_n_8
+
+  17289489:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_n_7
+
+  17289490:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_n_4
+
+  17289491:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_n_4
+
+  17289492:
+    template: Cactuar
+    level:    [48, 52]
+    region:   western_altepa_desert_n_5
+
+  17289493:
+    template: Cactuar
+    at:       [-266.406, -5.580, 88.818, 127]
+    level:    [48, 52]
+
+  17289494:
+    template: Cactuar
+    at:       [-279.754, -4.966, 60.812, 127]
+    level:    [48, 52]
+
+  17289495:
+    template: Cactuar
+    at:       [-262.366, -9.456, 49.902, 127]
+    level:    [48, 52]
+
+  17289496:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_c_3
+
+  17289497:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_c_3
+
+  17289498:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_c_6
+
+  17289499:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_c_6
+
+  17289500:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_c_8
+
+  17289501:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_c_8
+
+  17289502:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_c_9
+
+  17289503:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_c_9
+
+  17289504:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_c_10
+
+  17289505:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_c_11
+
+  17289506:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_c_11
+
+  17289507:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_c_16
+
+  17289508:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_c_16
+
+  17289509:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_c_14
+
+  17289510:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_c_14
+
+  17289511:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_c_17
+
+  17289512:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_c_2
+
+  17289513:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_c_2
+
+  17289514:
+    template: Antican_Secutor
+    level:    [54, 58]
+    region:   western_altepa_desert_c_2
+
+  17289515:
+    template: Antican_Secutor
+    level:    [54, 58]
+    region:   western_altepa_desert_c_2
+
+  17289516:
+    template: Antican_Retiarius
+    level:    [45, 49]
+    region:   western_altepa_desert_c_2
+
+  17289517:
+    template: Antican_Retiarius
+    level:    [45, 49]
+    region:   western_altepa_desert_c_2
+
+  17289518:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_s_5
+
+  17289519:
+    template: Desert_Beetle
+    at:       [-152.814, -1.730, -447.983, 116]
+    level:    [47, 51]
+
+  17289520:
+    template: Desert_Beetle
+    at:       [-305.028, -0.087, -326.812, 127]
+    level:    [47, 51]
+
+  17289521:
+    template: Antican_Secutor
+    at:       [-167.992, -0.254, -327.631, 127]
+    level:    [54, 58]
+
+  17289522:
+    template: Antican_Secutor
+    at:       [-130.385, -0.215, -419.271, 127]
+    level:    [54, 58]
+
+  17289523:
+    template: Desert_Beetle
+    at:       [-284.724, -1.009, -362.965, 127]
+    level:    [47, 51]
+
+  17289524:
+    template: Desert_Beetle
+    at:       [-293.491, -0.451, -335.433, 23]
+    level:    [47, 51]
+
+  17289525:
+    template: Desert_Beetle
+    at:       [-244.000, -0.210, -362.000, 127]
+    level:    [47, 51]
+
+  17289526:
+    template: Antican_Secutor
+    at:       [-250.000, -0.010, -356.000, 127]
+    level:    [54, 58]
+
+  17289527:
+    template: Antican_Lanista
+    at:       [-260.968, 9.699, -341.651, 53]
+    level:    [54, 58]
+
+  17289528:
+    template: Antican_Secutor
+    level:    [54, 58]
+    region:   western_altepa_desert_c_5
+
+  17289529:
+    template: Antican_Secutor
+    level:    [54, 58]
+    region:   western_altepa_desert_c_5
+
+  17289530:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_c_5
+
+  17289531:
+    template: Antican_Secutor
+    level:    [54, 58]
+    region:   western_altepa_desert_c_7
+
+  17289532:
+    template: Antican_Secutor
+    level:    [54, 58]
+    region:   western_altepa_desert_s_4
+
+  17289533:
+    template: Antican_Secutor
+    level:    [54, 58]
+    region:   western_altepa_desert_s_4
+
+  17289534:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_s_4
+
+  17289535:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_s
+
+  17289536:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_s
+
+  17289537:
+    template: Antican_Secutor
+    level:    [54, 58]
+    region:   western_altepa_desert_s
+
+  17289538:
+    template: Antican_Secutor
+    level:    [54, 58]
+    region:   western_altepa_desert_s
+
+  17289539:
+    template: Cactuar
+    level:    [49, 53]
+    region:   western_altepa_desert_s
+
+  17289540:
+    template: Cactuar
+    level:    [49, 53]
+    region:   western_altepa_desert_s
+
+  17289541:
+    template: Fallen_Knight
+    level:    [50, 54]
+    region:   western_altepa_desert_s
+
+  17289542:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_w_5
+
+  17289543:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_w_5
+
+  17289544:
+    template: Cactuar
+    level:    [49, 53]
+    region:   western_altepa_desert_w_5
+
+  17289545:
+    template: Tulwar_Scorpion
+    level:    [53, 56]
+    region:   western_altepa_desert_w_5
+
+  17289546:
+    template: Tulwar_Scorpion
+    level:    [53, 56]
+    region:   western_altepa_desert_w_5
+
+  17289547:
+    template: Calchas
+    at:       [-419.100, -1.440, -293.200, 60]
+    level:    [74, 75]
+
+  17289548:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_s_2
+
+  17289549:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_s_2
+
+  17289550:
+    template: Antican_Secutor
+    level:    [54, 58]
+    region:   western_altepa_desert_s_2
+
+  17289551:
+    template: Antican_Secutor
+    level:    [54, 58]
+    region:   western_altepa_desert_s_2
+
+  17289552:
+    template: Cactuar
+    level:    [49, 53]
+    region:   western_altepa_desert_s_2
+
+  17289553:
+    template: Fallen_Knight
+    level:    [50, 54]
+    region:   western_altepa_desert_s_2
+
+  17289554:
+    template: Tulwar_Scorpion
+    at:       [-285.978, 0.100, -542.327, 127]
+    level:    [53, 56]
+
+  17289555:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_sw_13
+
+  17289556:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_sw_13
+
+  17289557:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_sw_13
+
+  17289558:
+    template: Cactuar
+    level:    [48, 52]
+    region:   western_altepa_desert_sw_13
+
+  17289559:
+    template: Cactuar
+    level:    [48, 52]
+    region:   western_altepa_desert_sw_13
+
+  17289560:
+    template: Cactuar_Cantautor
+    at:       [-490.000, -0.539, -632.000, 124]
+    level:    [55, 59]
+
+  17289561:
+    template: Fallen_Knight
+    level:    [50, 54]
+    region:   western_altepa_desert_sw_13
+
+  17289562:
+    template: Fallen_Knight
+    level:    [50, 54]
+    region:   western_altepa_desert_sw_13
+
+  17289563:
+    template: Lich
+    level:    [49, 53]
+    region:   western_altepa_desert_sw_13
+
+  17289564:
+    template: Lich
+    level:    [49, 53]
+    region:   western_altepa_desert_sw_13
+
+  17289565:
+    template: Tulwar_Scorpion
+    level:    [53, 56]
+    region:   western_altepa_desert_sw_13
+
+  17289566:
+    template: Earth_Elemental
+    level:    [57, 58]
+    region:   western_altepa_desert_sw_13
+
+  17289567:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_s_3
+
+  17289568:
+    template: Desert_Beetle
+    at:       [-195.054, -0.927, -639.540, 127]
+    level:    [47, 51]
+
+  17289569:
+    template: Desert_Beetle
+    at:       [-466.657, 0.428, -661.806, 22]
+    level:    [47, 51]
+
+  17289570:
+    template: Cactuar
+    at:       [-238.342, -0.385, -674.394, 87]
+    level:    [49, 53]
+
+  17289571:
+    template: Fallen_Knight
+    at:       [-204.516, -0.983, -684.851, 36]
+    level:    [50, 54]
+
+  17289572:
+    template: Lich
+    at:       [-272.617, -0.332, -601.923, 127]
+    level:    [49, 53]
+
+  17289573:
+    template: Tulwar_Scorpion
+    at:       [-207.000, -0.200, -670.912, 127]
+    level:    [53, 56]
+
+  17289574:
+    template: Earth_Elemental
+    at:       [-241.884, -0.612, -672.500, 40]
+    level:    [56, 58]
+
+  17289575:
+    template: King_Vinegarroon
+    at:       [-239.000, -0.226, -650.000, 11]
+    level:    [80, 80]
+
+  17289576:
+    template: Desert_Beetle
+    at:       [-451.761, -0.547, -683.411, 127]
+    level:    [47, 51]
+
+  17289577:
+    template: Desert_Beetle
+    at:       [-519.456, -0.383, -516.895, 92]
+    level:    [47, 51]
+
+  17289578:
+    template: Cactuar
+    level:    [49, 53]
+    region:   western_altepa_desert_sw_12
+
+  17289579:
+    template: Fallen_Knight
+    level:    [50, 54]
+    region:   western_altepa_desert_sw_12
+
+  17289580:
+    template: Fallen_Knight
+    level:    [50, 54]
+    region:   western_altepa_desert_sw_12
+
+  17289581:
+    template: Lich
+    level:    [49, 53]
+    region:   western_altepa_desert_sw_12
+
+  17289582:
+    template: Tulwar_Scorpion
+    level:    [53, 56]
+    region:   western_altepa_desert_sw_12
+
+  17289583:
+    template: Tulwar_Scorpion
+    level:    [53, 56]
+    region:   western_altepa_desert_sw_12
+
+  17289584:
+    template: Tulwar_Scorpion
+    level:    [53, 56]
+    region:   western_altepa_desert_sw_14
+
+  17289585:
+    template: Tulwar_Scorpion
+    level:    [53, 56]
+    region:   western_altepa_desert_sw_14
+
+  17289586:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_sw_11
+
+  17289587:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_sw_11
+
+  17289588:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_sw_11
+
+  17289589:
+    template: Cactuar
+    level:    [49, 53]
+    region:   western_altepa_desert_sw_11
+
+  17289590:
+    template: Goblin_Welldigger
+    at:       [-487.714, -0.314, -476.906, 96]
+    level:    [51, 55]
+
+  17289591:
+    template: Fallen_Knight
+    level:    [50, 54]
+    region:   western_altepa_desert_sw_11
+
+  17289592:
+    template: Fallen_Knight
+    level:    [50, 54]
+    region:   western_altepa_desert_sw_11
+
+  17289593:
+    template: Lich
+    level:    [49, 53]
+    region:   western_altepa_desert_sw_11
+
+  17289594:
+    template: Lich
+    at:       [-575.039, 0.198, -386.567, 127]
+    level:    [49, 53]
+
+  17289595:
+    template: Tulwar_Scorpion
+    level:    [53, 56]
+    region:   western_altepa_desert_sw_11
+
+  17289596:
+    template: Goblin_Bouncer
+    level:    [51, 55]
+    region:   western_altepa_desert_w
+
+  17289597:
+    template: Goblin_Bouncer
+    level:    [51, 55]
+    region:   western_altepa_desert_w
+
+  17289598:
+    template: Goblin_Enchanter
+    level:    [51, 55]
+    region:   western_altepa_desert_w
+
+  17289599:
+    template: Goblin_Welldigger
+    level:    [51, 55]
+    region:   western_altepa_desert_w
+
+  17289600:
+    template: Goblin_Hunter
+    at:       [-643.000, -0.010, -360.000, 127]
+    level:    [51, 55]
+
+  17289601:
+    template: Goblin_Enchanter
+    level:    [51, 55]
+    region:   western_altepa_desert_w_2
+
+  17289602:
+    template: Goblin_Hunter
+    level:    [51, 55]
+    region:   western_altepa_desert_w_3
+
+  17289603:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_sw_4
+
+  17289604:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_sw_4
+
+  17289605:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_sw_4
+
+  17289606:
+    template: Antican_Secutor
+    level:    [54, 58]
+    region:   western_altepa_desert_sw_4
+
+  17289607:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_sw_4
+
+  17289608:
+    template: Tulwar_Scorpion
+    at:       [-792.751, -8.053, -483.234, 95]
+    level:    [53, 56]
+
+  17289609:
+    template: Phorusrhacos
+    at:       [-840.612, -8.072, -452.290, 127]
+    level:    [57, 60]
+
+  17289610:
+    template: Antican_Hoplomachus
+    level:    [54, 58]
+    region:   western_altepa_desert_sw_5
+
+  17289611:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_sw_5
+
+  17289612:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_sw_5
+
+  17289613:
+    template: Tulwar_Scorpion
+    level:    [53, 56]
+    region:   western_altepa_desert_sw_5
+
+  17289614:
+    template: Tulwar_Scorpion
+    level:    [53, 56]
+    region:   western_altepa_desert_sw_5
+
+  17289615:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_sw
+
+  17289616:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_sw
+
+  17289617:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_sw
+
+  17289618:
+    template: Tulwar_Scorpion
+    level:    [53, 56]
+    region:   western_altepa_desert_sw
+
+  17289619:
+    template: Phorusrhacos
+    at:       [-889.000, -9.000, -522.000, 127]
+    level:    [57, 60]
+
+  17289620:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_sw_6
+
+  17289621:
+    template: Desert_Beetle
+    at:       [-665.102, -7.600, -564.651, 127]
+    level:    [47, 51]
+
+  17289622:
+    template: Antican_Lanista
+    at:       [-754.487, -8.237, -553.796, 92]
+    level:    [54, 58]
+
+  17289623:
+    template: Tulwar_Scorpion
+    at:       [-746.340, -8.740, -569.594, 64]
+    level:    [53, 56]
+
+  17289624:
+    template: Fire_Elemental
+    at:       [-749.922, -9.201, -572.935, 4]
+    level:    [56, 58]
+
+  17289625:
+    template: Desert_Beetle
+    at:       [-730.152, -10.478, -635.994, 62]
+    level:    [47, 51]
+
+  17289626:
+    template: Antican_Secutor
+    at:       [-648.548, -4.161, -582.186, 30]
+    level:    [54, 58]
+
+  17289627:
+    template: Antican_Lanista
+    at:       [-603.651, -1.184, -562.766, 39]
+    level:    [54, 58]
+
+  17289628:
+    template: Cactuar
+    at:       [-710.129, -8.273, -592.100, 124]
+    level:    [49, 53]
+
+  17289629:
+    template: Tulwar_Scorpion
+    level:    [53, 56]
+    region:   western_altepa_desert_sw_10
+
+  17289630:
+    template: Phorusrhacos
+    at:       [-638.197, 0.472, -619.448, 127]
+    level:    [57, 60]
+
+  17289631:
+    template: Fire_Elemental
+    at:       [-699.907, -7.883, -611.907, 72]
+    level:    [56, 58]
+
+  17289632:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_sw_8
+
+  17289633:
+    template: Desert_Beetle
+    level:    [47, 51]
+    region:   western_altepa_desert_sw_8
+
+  17289634:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_sw_8
+
+  17289635:
+    template: Cactuar
+    level:    [49, 53]
+    region:   western_altepa_desert_sw_8
+
+  17289636:
+    template: Tulwar_Scorpion
+    at:       [-718.999, -8.294, -632.175, 127]
+    level:    [53, 56]
+
+  17289637:
+    template: Phorusrhacos
+    level:    [57, 60]
+    region:   western_altepa_desert_sw_8
+
+  17289638:
+    template: Picolaton
+    at:       [-504.039, -0.085, -37.812, 221]
+    level:    [61, 64]
+
+  17289639:
+    template: Antican_Hoplomachus
+    level:    [54, 58]
+    region:   western_altepa_desert_sw_2
+
+  17289640:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_sw_2
+
+  17289641:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_sw_2
+
+  17289642:
+    template: Desert_Manticore
+    level:    [53, 57]
+    region:   western_altepa_desert_sw_3
+
+  17289643:
+    template: Desert_Manticore
+    level:    [53, 57]
+    region:   western_altepa_desert_sw_3
+
+  17289644:
+    template: Desert_Manticore
+    level:    [53, 57]
+    region:   western_altepa_desert_sw_3
+
+  17289645:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_sw_3
+
+  17289646:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_sw_3
+
+  17289647:
+    template: Phorusrhacos
+    at:       [-757.000, -20.500, -762.000, 5]
+    level:    [57, 60]
+
+  17289648:
+    template: Antican_Lanista
+    level:    [54, 58]
+    region:   western_altepa_desert_sw_7
+
+  17289649:
+    template: Antican_Hoplomachus
+    level:    [54, 58]
+    region:   western_altepa_desert_sw_7
+
+  17289650:
+    template: Antican_Hoplomachus
+    level:    [54, 58]
+    region:   western_altepa_desert_sw_7
+
+  17289651:
+    template: Antican_Hoplomachus
+    at:       [-765.857, -8.678, -672.943, 111]
+    level:    [54, 58]
+
+  17289652:
+    template: Goblin_Digger
+    level:    [51, 54]
+    region:   western_altepa_desert_sw_9
+
+  17289653:
+    template: Sabotender_Enamorado
+    at:       [-262.568, -8.248, 51.540, 0]
+    level:    [63, 63]
+
+  17289654:
+    template: Eastern_Sphinx
+    at:       [-327.799, -2.859, -114.501, 55]
+    level:    [62, 62]
+
+  17289655:
+    template: Western_Sphinx
+    at:       [-329.357, -4.004, -110.601, 175]
+    level:    [62, 62]
+
+  17289656:
+    template: Maharaja
+    at:       [-652.300, 0.200, -341.500, 141]
+    level:    [80, 80]
+
+  17289657:
+    template: Monarca_de_Altepa
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17289658:
+    template: Sabotender_Campeador
+    at:       [551.088, -0.068, 257.063, 73]
+    level:    [0, 0]
+
+  17289659:
+    template: Sabotender_Mercenario
+    at:       [550.598, 0.390, 256.225, 46]
+    level:    [0, 0]
+
+  17289660:
+    template: Sabotender_Mercenario
+    at:       [551.559, 0.377, 256.414, 101]
+    level:    [0, 0]
+
+  17289661:
+    template: Sabotender_Mercenario
+    at:       [553.869, 0.386, 256.395, 13]
+    level:    [0, 0]
+
+  17289662:
+    template: Sabotender_Mercenario
+    at:       [554.194, 0.739, 256.976, 43]
+    level:    [0, 0]
+
+  17289663:
+    template: Sabotender_Mercenario
+    at:       [552.158, 0.440, 257.535, 104]
+    level:    [0, 0]
+
+  17289664:
+    template: Sabotender_Campeador
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17289665:
+    template: Sabotender_Mercenario
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17289666:
+    template: Sabotender_Mercenario
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17289667:
+    template: Sabotender_Mercenario
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17289668:
+    template: Sabotender_Mercenario
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17289669:
+    template: Sabotender_Mercenario
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17289670:
+    template: Sabotender_Campeador
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17289671:
+    template: Sabotender_Mercenario
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17289672:
+    template: Sabotender_Mercenario
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17289673:
+    template: Sabotender_Mercenario
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17289674:
+    template: Sabotender_Mercenario
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17289675:
+    template: Sabotender_Mercenario
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17289676:
+    template: King_Uropygid
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17289677:
+    template: King_Uropygid
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17289678:
+    template: King_Uropygid
+    at:       [148.509, -0.102, 251.419, 237]
+    level:    [0, 0]
+
+  17289711:
+    template: Awoken_Dendainsonne
+    at:       [-19.030, 0.100, 170.240, 59]
+    level:    [119, 119]

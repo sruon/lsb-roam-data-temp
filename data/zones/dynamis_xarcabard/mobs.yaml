@@ -1,0 +1,2973 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17330177:
+    template: Dynamis_Lord
+    at:       [-406.273, -43.693, 20.465, 93]
+    level:    [90, 90]
+
+  17330178:
+    template: Dynamis_Lord
+    at:       [-417.400, -44.500, 19.332, 222]
+    level:    [90, 90]
+
+  17330179:
+    template: Dynamis_Lord
+    at:       [-415.900, -44.390, 20.838, 91]
+    level:    [90, 90]
+
+  17330180:
+    template: Dynamis_Lord
+    at:       [-416.700, -44.490, 17.291, 91]
+    level:    [90, 90]
+
+  17330181:
+    template: Dynamis_Lord
+    at:       [-416.000, -44.490, 17.291, 91]
+    level:    [90, 90]
+
+  17330182:
+    template: Dynamis_Lord
+    at:       [-416.300, -44.490, 17.291, 91]
+    level:    [90, 90]
+
+  17330183:
+    template: Ying
+    at:       [-404.719, -44.404, 34.084, 54]
+    level:    [85, 85]
+
+  17330184:
+    template: Yang
+    at:       [-407.332, -43.773, 19.063, 215]
+    level:    [85, 85]
+
+  17330185:
+    template: Duke_Haures
+    at:       [575.395, -1.988, 18.722, 104]
+    level:    [95, 95]
+
+  17330186:
+    template: Marquis_Caim
+    at:       [579.552, -10.000, 224.746, 183]
+    level:    [95, 95]
+
+  17330187:
+    template: Caims_Vouivre
+    at:       [578.174, -10.065, 225.287, 223]
+    level:    [92, 92]
+
+  17330188:
+    template: Baron_Avnas
+    at:       [342.843, -28.677, 336.044, 42]
+    level:    [95, 95]
+
+  17330189:
+    template: Count_Haagenti
+    at:       [-107.596, -40.309, 35.880, 189]
+    level:    [95, 95]
+
+  17330190:
+    template: Haagentis_Avatar
+    at:       [-108.756, -40.244, 36.453, 216]
+    level:    [95, 95]
+
+  17330191:
+    template: Arch_Dynamis_Lord
+    at:       [-415.000, -44.499, 20.000, 196]
+    level:    [99, 99]
+
+  17330192:
+    template: Arch_Dynamis_Lord
+    at:       [-406.000, -43.478, 26.000, 0]
+    level:    [99, 99]
+
+  17330193:
+    template: Arch_Dynamis_Lord
+    at:       [-406.000, -43.404, 14.000, 0]
+    level:    [99, 99]
+
+  17330194:
+    template: Arch_Dynamis_Lord
+    at:       [-406.000, -43.152, 20.000, 0]
+    level:    [99, 99]
+
+  17330195:
+    template: Arch_Dynamis_Lord
+    at:       [-415.989, -44.499, 20.524, 48]
+    level:    [99, 99]
+
+  17330196:
+    template: Arch_Dynamis_Lord
+    at:       [-413.792, -44.499, 23.551, 75]
+    level:    [99, 99]
+
+  17330197:
+    template: Arch_Dynamis_Lord
+    at:       [-416.746, -44.499, 19.278, 15]
+    level:    [99, 99]
+
+  17330198:
+    template: Arch_Dynamis_Lord
+    at:       [-405.620, -43.743, 22.602, 25]
+    level:    [99, 99]
+
+  17330199:
+    template: Animated_Knuckles
+    at:       [238.000, -21.238, -160.000, 254]
+    level:    [82, 82]
+
+  17330200:
+    template: Animated_Dagger
+    at:       [232.000, -21.238, -170.000, 81]
+    level:    [82, 82]
+
+  17330201:
+    template: Animated_Longsword
+    at:       [119.500, -29.269, -112.500, 23]
+    level:    [82, 82]
+
+  17330202:
+    template: Animated_Claymore
+    at:       [119.000, -29.269, -124.000, 206]
+    level:    [82, 82]
+
+  17330203:
+    template: Animated_Tabar
+    at:       [57.000, -29.011, -192.500, 57]
+    level:    [82, 82]
+
+  17330204:
+    template: Animated_Great_Axe
+    at:       [65.000, -29.011, -201.000, 50]
+    level:    [82, 82]
+
+  17330205:
+    template: Animated_Spear
+    at:       [39.500, -29.214, -140.000, 111]
+    level:    [82, 82]
+
+  17330206:
+    template: Animated_Scythe
+    at:       [39.000, -29.214, -128.500, 59]
+    level:    [82, 82]
+
+  17330207:
+    template: Animated_Kunai
+    at:       [-3.000, -29.054, -96.000, 63]
+    level:    [82, 82]
+
+  17330208:
+    template: Animated_Tachi
+    at:       [-7.500, -29.054, -106.500, 218]
+    level:    [82, 82]
+
+  17330209:
+    template: Animated_Hammer
+    at:       [340.345, 0.272, -334.634, 185]
+    level:    [82, 82]
+
+  17330210:
+    template: Animated_Staff
+    at:       [43.634, -36.077, 71.441, 190]
+    level:    [82, 82]
+
+  17330211:
+    template: Animated_Longbow
+    at:       [-294.000, -23.283, 145.500, 93]
+    level:    [82, 82]
+
+  17330212:
+    template: Animated_Gun
+    at:       [-254.500, -15.299, -147.500, 212]
+    level:    [82, 82]
+
+  17330213:
+    template: Animated_Horn
+    at:       [229.780, -8.500, -71.660, 145]
+    level:    [82, 82]
+
+  17330214:
+    template: Animated_Shield
+    at:       [157.201, -24.737, -247.339, 13]
+    level:    [82, 82]
+
+  17330215:
+    template: Kindred_Paladin
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e_9
+
+  17330216:
+    template: Kindred_Paladin
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e_9
+
+  17330217:
+    template: Kindred_Dark_Knight
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e_9
+
+  17330218:
+    template: Kindred_Dark_Knight
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e_9
+
+  17330219:
+    template: Kindred_Beastmaster
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e_9
+
+  17330220:
+    template: Kindreds_Vouivre
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e_9
+
+  17330221:
+    template: Kindred_Ranger
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e_9
+
+  17330222:
+    template: Kindred_Bard
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se_5
+
+  17330223:
+    template: Marquis_Decarabia
+    at:       [392.770, -0.649, -215.006, 224]
+    level:    [85, 85]
+
+  17330224:
+    template: Kindred_Samurai
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se_5
+
+  17330225:
+    template: Kindred_Samurai
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se_5
+
+  17330226:
+    template: Kindred_Ninja
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se_5
+
+  17330227:
+    template: Kindred_Ninja
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se_5
+
+  17330228:
+    template: Kindred_Summoner
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se_5
+
+  17330229:
+    template: Kindreds_Avatar
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se_5
+
+  17330230:
+    template: Adamantking_Effigy
+    level:    [65, 65]
+    region:   dynamis_xarcabard_se_5
+
+  17330231:
+    template: Adamantking_Effigy
+    at:       [399.045, -0.179, -206.479, 255]
+    level:    [65, 65]
+
+  17330232:
+    template: Kindred_Dragoon
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e_7
+
+  17330233:
+    template: Kindreds_Wyvern
+    at:       [396.456, -0.589, -182.035, 193]
+    level:    [77, 80]
+
+  17330234:
+    template: Kindred_Dragoon
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e_7
+
+  17330235:
+    template: Kindreds_Wyvern
+    at:       [381.819, 2.331, -161.711, 148]
+    level:    [77, 80]
+
+  17330236:
+    template: Kindred_White_Mage
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e_7
+
+  17330237:
+    template: Kindred_Black_Mage
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e_7
+
+  17330238:
+    template: Kindred_Red_Mage
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e_7
+
+  17330239:
+    template: Kindred_Bard
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e_7
+
+  17330240:
+    template: Adamantking_Effigy
+    at:       [399.693, 0.277, -175.391, 8]
+    level:    [65, 65]
+
+  17330241:
+    template: Adamantking_Effigy
+    level:    [65, 65]
+    region:   dynamis_xarcabard_e_7
+
+  17330242:
+    template: Kindred_Warrior
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e_3
+
+  17330243:
+    template: Kindred_Warrior
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e_3
+
+  17330244:
+    template: Kindred_Monk
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e_3
+
+  17330245:
+    template: Kindred_Thief
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e_3
+
+  17330246:
+    template: Kindred_Beastmaster
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e_3
+
+  17330247:
+    template: Kindreds_Vouivre
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e_3
+
+  17330248:
+    template: Serjeant_Tombstone
+    at:       [325.509, 3.593, -181.153, 54]
+    level:    [65, 65]
+
+  17330249:
+    template: Serjeant_Tombstone
+    level:    [65, 65]
+    region:   dynamis_xarcabard_e_3
+
+  17330250:
+    template: Kindred_Paladin
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se_3
+
+  17330251:
+    template: Kindred_Paladin
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se_3
+
+  17330252:
+    template: Kindred_Samurai
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se_3
+
+  17330253:
+    template: Kindred_Ninja
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se_3
+
+  17330254:
+    template: Kindred_Summoner
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se_3
+
+  17330255:
+    template: Kindreds_Avatar
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se_3
+
+  17330256:
+    template: Serjeant_Tombstone
+    level:    [65, 65]
+    region:   dynamis_xarcabard_se_3
+
+  17330257:
+    template: Serjeant_Tombstone
+    at:       [330.593, 6.884, -208.676, 171]
+    level:    [65, 65]
+
+  17330258:
+    template: Kindred_Dark_Knight
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se_4
+
+  17330259:
+    template: Kindred_Dark_Knight
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se_4
+
+  17330260:
+    template: Kindred_Red_Mage
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se_4
+
+  17330261:
+    template: Kindred_Black_Mage
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se_4
+
+  17330262:
+    template: Kindred_Bard
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se_4
+
+  17330263:
+    template: Kindred_Dragoon
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se_4
+
+  17330264:
+    template: Kindreds_Wyvern
+    at:       [323.692, -0.030, -272.243, 8]
+    level:    [77, 80]
+
+  17330265:
+    template: Kindred_Ranger
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e
+
+  17330266:
+    template: Kindred_Ranger
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e
+
+  17330267:
+    template: Kindred_Samurai
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e
+
+  17330268:
+    template: Kindred_Samurai
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e
+
+  17330269:
+    template: Kindred_Ninja
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e
+
+  17330270:
+    template: Kindred_Ninja
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e
+
+  17330271:
+    template: Kindred_Thief
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e
+
+  17330272:
+    template: Kindred_Thief
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e
+
+  17330273:
+    template: Avatar_Icon
+    at:       [297.989, -5.885, -167.718, 211]
+    level:    [65, 65]
+
+  17330274:
+    template: Avatar_Icon
+    level:    [65, 65]
+    region:   dynamis_xarcabard_e
+
+  17330275:
+    template: Kindred_White_Mage
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se_2
+
+  17330276:
+    template: Kindred_White_Mage
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se_2
+
+  17330277:
+    template: Kindred_Black_Mage
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se_2
+
+  17330278:
+    template: Kindred_Black_Mage
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se_2
+
+  17330279:
+    template: Kindred_Red_Mage
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se_2
+
+  17330280:
+    template: Kindred_Red_Mage
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se_2
+
+  17330281:
+    template: Kindred_Summoner
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se_2
+
+  17330282:
+    template: Kindreds_Avatar
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se_2
+
+  17330283:
+    template: Kindred_Summoner
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se_2
+
+  17330284:
+    template: Kindreds_Avatar
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se_2
+
+  17330285:
+    template: Avatar_Icon
+    at:       [289.407, 0.354, -196.103, 219]
+    level:    [65, 65]
+
+  17330286:
+    template: Avatar_Icon
+    level:    [65, 65]
+    region:   dynamis_xarcabard_se_2
+
+  17330287:
+    template: Kindred_Paladin
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se
+
+  17330288:
+    template: Kindred_Paladin
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se
+
+  17330289:
+    template: Kindred_White_Mage
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se
+
+  17330290:
+    template: Satellite_Shield
+    level:    [77, 79]
+    region:   dynamis_xarcabard_se
+
+  17330291:
+    template: Satellite_Shield
+    level:    [77, 79]
+    region:   dynamis_xarcabard_se
+
+  17330292:
+    template: Satellite_Shield
+    level:    [77, 79]
+    region:   dynamis_xarcabard_se
+
+  17330293:
+    template: Vanguard_Eye
+    level:    [70, 70]
+    region:   dynamis_xarcabard_se
+
+  17330294:
+    template: Kindred_Paladin
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se
+
+  17330295:
+    template: Kindred_Paladin
+    level:    [77, 80]
+    region:   dynamis_xarcabard_se
+
+  17330296:
+    template: Kindred_Beastmaster
+    level:    [77, 80]
+    region:   dynamis_xarcabard_s_6
+
+  17330297:
+    template: Kindreds_Vouivre
+    level:    [77, 80]
+    region:   dynamis_xarcabard_s_6
+
+  17330298:
+    template: Kindred_Black_Mage
+    level:    [77, 80]
+    region:   dynamis_xarcabard_s_6
+
+  17330299:
+    template: Satellite_Shield
+    level:    [77, 79]
+    region:   dynamis_xarcabard_s_6
+
+  17330300:
+    template: Satellite_Shield
+    level:    [77, 79]
+    region:   dynamis_xarcabard_s_6
+
+  17330301:
+    template: Satellite_Shield
+    level:    [77, 79]
+    region:   dynamis_xarcabard_s_6
+
+  17330302:
+    template: Vanguard_Eye
+    at:       [202.203, -17.581, -230.449, 252]
+    level:    [70, 70]
+
+  17330303:
+    template: Kindred_Monk
+    level:    [77, 80]
+    region:   dynamis_xarcabard_c_11
+
+  17330304:
+    template: Duke_Gomory
+    at:       [138.420, -25.042, -175.906, 79]
+    level:    [85, 85]
+
+  17330305:
+    template: Kindred_Thief
+    level:    [77, 80]
+    region:   dynamis_xarcabard_c_11
+
+  17330306:
+    template: Satellite_Daggers
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_11
+
+  17330307:
+    template: Satellite_Daggers
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_11
+
+  17330308:
+    template: Satellite_Daggers
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_11
+
+  17330309:
+    template: Satellite_Knuckles
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_11
+
+  17330310:
+    template: Satellite_Knuckles
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_11
+
+  17330311:
+    template: Satellite_Knuckles
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_11
+
+  17330312:
+    template: Vanguard_Eye
+    at:       [191.711, -19.598, -219.473, 70]
+    level:    [70, 70]
+
+  17330313:
+    template: Kindred_Monk
+    level:    [77, 80]
+    region:   dynamis_xarcabard_c_13
+
+  17330314:
+    template: Kindred_Thief
+    level:    [77, 80]
+    region:   dynamis_xarcabard_c_13
+
+  17330315:
+    template: Count_Raum
+    at:       [160.862, -15.902, -106.505, 138]
+    level:    [85, 85]
+
+  17330316:
+    template: Satellite_Daggers
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_13
+
+  17330317:
+    template: Satellite_Daggers
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_13
+
+  17330318:
+    template: Satellite_Daggers
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_13
+
+  17330319:
+    template: Satellite_Knuckles
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_13
+
+  17330320:
+    template: Satellite_Knuckles
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_13
+
+  17330321:
+    template: Satellite_Knuckles
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_13
+
+  17330322:
+    template: Vanguard_Eye
+    level:    [70, 70]
+    region:   dynamis_xarcabard_c_13
+
+  17330323:
+    template: Kindred_Warrior
+    level:    [77, 80]
+    region:   dynamis_xarcabard_c_10
+
+  17330324:
+    template: Kindred_Monk
+    level:    [77, 80]
+    region:   dynamis_xarcabard_c_10
+
+  17330325:
+    template: Kindred_Ranger
+    level:    [77, 80]
+    region:   dynamis_xarcabard_c_10
+
+  17330326:
+    template: Kindred_White_Mage
+    level:    [77, 80]
+    region:   dynamis_xarcabard_c_10
+
+  17330327:
+    template: Kindred_Black_Mage
+    level:    [77, 80]
+    region:   dynamis_xarcabard_c_10
+
+  17330328:
+    template: Kindred_Dark_Knight
+    level:    [77, 80]
+    region:   dynamis_xarcabard_c_10
+
+  17330329:
+    template: Kindred_Dragoon
+    level:    [77, 80]
+    region:   dynamis_xarcabard_c_10
+
+  17330330:
+    template: Kindreds_Wyvern
+    at:       [216.799, -7.969, 31.230, 150]
+    level:    [77, 80]
+
+  17330331:
+    template: Kindred_White_Mage
+    level:    [77, 80]
+    region:   dynamis_xarcabard_c_9
+
+  17330332:
+    template: Prince_Seere
+    level:    [85, 85]
+    region:   dynamis_xarcabard_c_9
+
+  17330333:
+    template: Kindred_Black_Mage
+    level:    [77, 80]
+    region:   dynamis_xarcabard_c_9
+
+  17330334:
+    template: Satellite_Hammers
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_9
+
+  17330335:
+    template: Satellite_Hammers
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_9
+
+  17330336:
+    template: Satellite_Hammers
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_9
+
+  17330337:
+    template: Satellite_Staves
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_9
+
+  17330338:
+    template: Satellite_Staves
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_9
+
+  17330339:
+    template: Satellite_Staves
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_9
+
+  17330340:
+    template: Vanguard_Eye
+    level:    [70, 70]
+    region:   dynamis_xarcabard_c_9
+
+  17330341:
+    template: Kindred_White_Mage
+    level:    [77, 80]
+    region:   dynamis_xarcabard_c_4
+
+  17330342:
+    template: Kindred_Black_Mage
+    level:    [77, 80]
+    region:   dynamis_xarcabard_c_4
+
+  17330343:
+    template: Marquis_Orias
+    at:       [94.730, -15.826, -43.147, 200]
+    level:    [85, 85]
+
+  17330344:
+    template: Satellite_Hammers
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_4
+
+  17330345:
+    template: Satellite_Hammers
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_4
+
+  17330346:
+    template: Satellite_Hammers
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_4
+
+  17330347:
+    template: Satellite_Staves
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_4
+
+  17330348:
+    template: Satellite_Staves
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_4
+
+  17330349:
+    template: Satellite_Staves
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_4
+
+  17330350:
+    template: Vanguard_Eye
+    level:    [70, 70]
+    region:   dynamis_xarcabard_c_4
+
+  17330351:
+    template: Kindred_Paladin
+    level:    [77, 80]
+    region:   dynamis_xarcabard_c_8
+
+  17330352:
+    template: Kindred_Red_Mage
+    level:    [77, 80]
+    region:   dynamis_xarcabard_c_8
+
+  17330353:
+    template: Duke_Berith
+    at:       [51.557, -24.160, -102.157, 104]
+    level:    [85, 85]
+
+  17330354:
+    template: Kindred_Red_Mage
+    level:    [77, 80]
+    region:   dynamis_xarcabard_c_8
+
+  17330355:
+    template: Satellite_Longswords
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_8
+
+  17330356:
+    template: Satellite_Longswords
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_8
+
+  17330357:
+    template: Satellite_Longswords
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_8
+
+  17330358:
+    template: Vanguard_Eye
+    at:       [86.365, -24.068, -92.670, 207]
+    level:    [70, 70]
+
+  17330359:
+    template: Kindred_Paladin
+    level:    [77, 80]
+    region:   dynamis_xarcabard_c_7
+
+  17330360:
+    template: Marquis_Sabnak
+    at:       [72.315, -24.214, -127.865, 81]
+    level:    [85, 85]
+
+  17330361:
+    template: Kindred_Dark_Knight
+    level:    [77, 80]
+    region:   dynamis_xarcabard_c_7
+
+  17330362:
+    template: Satellite_Longswords
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_7
+
+  17330363:
+    template: Satellite_Longswords
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_7
+
+  17330364:
+    template: Satellite_Longswords
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_7
+
+  17330365:
+    template: Satellite_Claymores
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_7
+
+  17330366:
+    template: Satellite_Claymores
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_7
+
+  17330367:
+    template: Satellite_Claymores
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_7
+
+  17330368:
+    template: Vanguard_Eye
+    level:    [70, 70]
+    region:   dynamis_xarcabard_c_7
+
+  17330369:
+    template: Kindred_Dark_Knight
+    level:    [77, 80]
+    region:   dynamis_xarcabard_c_6
+
+  17330370:
+    template: Kindred_Dark_Knight
+    level:    [77, 80]
+    region:   dynamis_xarcabard_c_6
+
+  17330371:
+    template: Kindred_Black_Mage
+    level:    [77, 80]
+    region:   dynamis_xarcabard_c_6
+
+  17330372:
+    template: Satellite_Claymores
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_6
+
+  17330373:
+    template: Satellite_Claymores
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_6
+
+  17330374:
+    template: Satellite_Claymores
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_6
+
+  17330375:
+    template: Vanguard_Eye
+    at:       [87.419, -24.093, -160.732, 40]
+    level:    [70, 70]
+
+  17330376:
+    template: Kindred_Warrior
+    at:       [68.952, -24.360, -169.952, 142]
+    level:    [77, 80]
+
+  17330377:
+    template: Count_Zaebos
+    level:    [85, 85]
+    region:   dynamis_xarcabard_c_5
+
+  17330378:
+    template: Kindred_Beastmaster
+    level:    [77, 80]
+    region:   dynamis_xarcabard_c_5
+
+  17330379:
+    template: Kindreds_Vouivre
+    level:    [77, 80]
+    region:   dynamis_xarcabard_c_5
+
+  17330380:
+    template: Satellite_Tabars
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_5
+
+  17330381:
+    template: Satellite_Tabars
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_5
+
+  17330382:
+    template: Satellite_Tabars
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_5
+
+  17330383:
+    template: Satellite_Great_Axes
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_5
+
+  17330384:
+    template: Satellite_Great_Axes
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_5
+
+  17330385:
+    template: Satellite_Great_Axes
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_5
+
+  17330386:
+    template: Vanguard_Eye
+    level:    [70, 70]
+    region:   dynamis_xarcabard_c_5
+
+  17330387:
+    template: Kindred_Warrior
+    level:    [77, 80]
+    region:   dynamis_xarcabard_s_3
+
+  17330388:
+    template: Kindred_Beastmaster
+    level:    [77, 80]
+    region:   dynamis_xarcabard_s_3
+
+  17330389:
+    template: Kindreds_Vouivre
+    level:    [77, 80]
+    region:   dynamis_xarcabard_s_3
+
+  17330390:
+    template: Marquis_Andras
+    at:       [69.122, -23.951, -221.793, 185]
+    level:    [85, 85]
+
+  17330391:
+    template: Andrass_Vouivre
+    at:       [67.475, -24.458, -223.164, 208]
+    level:    [80, 82]
+
+  17330392:
+    template: Satellite_Tabars
+    level:    [77, 79]
+    region:   dynamis_xarcabard_s_3
+
+  17330393:
+    template: Satellite_Tabars
+    level:    [77, 79]
+    region:   dynamis_xarcabard_s_3
+
+  17330394:
+    template: Satellite_Tabars
+    level:    [77, 79]
+    region:   dynamis_xarcabard_s_3
+
+  17330395:
+    template: Satellite_Great_Axes
+    level:    [77, 79]
+    region:   dynamis_xarcabard_s_3
+
+  17330396:
+    template: Satellite_Great_Axes
+    level:    [77, 79]
+    region:   dynamis_xarcabard_s_3
+
+  17330397:
+    template: Satellite_Great_Axes
+    level:    [77, 79]
+    region:   dynamis_xarcabard_s_3
+
+  17330398:
+    template: Vanguard_Eye
+    level:    [70, 70]
+    region:   dynamis_xarcabard_s_3
+
+  17330399:
+    template: Kindred_Thief
+    level:    [77, 80]
+    region:   dynamis_xarcabard_s_4
+
+  17330400:
+    template: Kindred_Ninja
+    level:    [77, 80]
+    region:   dynamis_xarcabard_s_4
+
+  17330401:
+    template: Kindred_Ranger
+    level:    [77, 80]
+    region:   dynamis_xarcabard_s_4
+
+  17330402:
+    template: Kindred_Thief
+    level:    [77, 80]
+    region:   dynamis_xarcabard_s_2
+
+  17330403:
+    template: Kindred_Ninja
+    level:    [77, 80]
+    region:   dynamis_xarcabard_s_2
+
+  17330404:
+    template: Kindred_Ranger
+    level:    [77, 80]
+    region:   dynamis_xarcabard_s_2
+
+  17330405:
+    template: Kindred_Warrior
+    level:    [77, 80]
+    region:   dynamis_xarcabard_s
+
+  17330406:
+    template: Kindred_Monk
+    level:    [77, 80]
+    region:   dynamis_xarcabard_s
+
+  17330407:
+    template: Kindred_White_Mage
+    level:    [77, 80]
+    region:   dynamis_xarcabard_s
+
+  17330408:
+    template: Kindred_Black_Mage
+    level:    [77, 80]
+    region:   dynamis_xarcabard_s
+
+  17330409:
+    template: Kindred_Red_Mage
+    level:    [77, 80]
+    region:   dynamis_xarcabard_s
+
+  17330410:
+    template: Kindred_Paladin
+    level:    [77, 80]
+    region:   dynamis_xarcabard_s
+
+  17330411:
+    template: Kindred_Dark_Knight
+    level:    [77, 80]
+    region:   dynamis_xarcabard_s
+
+  17330412:
+    template: Kindred_Thief
+    level:    [77, 80]
+    region:   dynamis_xarcabard_s_5
+
+  17330413:
+    template: Kindred_Ninja
+    level:    [77, 80]
+    region:   dynamis_xarcabard_s_5
+
+  17330414:
+    template: Kindred_Ranger
+    level:    [77, 80]
+    region:   dynamis_xarcabard_s_5
+
+  17330415:
+    template: Marquis_Cimeries
+    at:       [98.504, -24.312, -359.729, 213]
+    level:    [85, 85]
+
+  17330416:
+    template: Kindred_Dark_Knight
+    level:    [77, 80]
+    region:   dynamis_xarcabard_c_2
+
+  17330417:
+    template: Duke_Scox
+    at:       [17.611, -23.619, -121.383, 239]
+    level:    [85, 85]
+
+  17330418:
+    template: Kindred_Dragoon
+    level:    [77, 80]
+    region:   dynamis_xarcabard_c_2
+
+  17330419:
+    template: Kindreds_Wyvern
+    at:       [1.216, -24.208, -129.829, 120]
+    level:    [77, 80]
+
+  17330420:
+    template: Satellite_Scythes
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_2
+
+  17330421:
+    template: Satellite_Scythes
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_2
+
+  17330422:
+    template: Satellite_Scythes
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_2
+
+  17330423:
+    template: Satellite_Spears
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_2
+
+  17330424:
+    template: Satellite_Spears
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_2
+
+  17330425:
+    template: Satellite_Spears
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_2
+
+  17330426:
+    template: Vanguard_Eye
+    level:    [70, 70]
+    region:   dynamis_xarcabard_c_2
+
+  17330427:
+    template: Kindred_Dark_Knight
+    at:       [6.812, -24.165, -112.487, 254]
+    level:    [77, 80]
+
+  17330428:
+    template: Kindred_Dragoon
+    level:    [77, 80]
+    region:   dynamis_xarcabard_c_3
+
+  17330429:
+    template: Kindreds_Wyvern
+    at:       [-11.632, -24.500, -130.758, 149]
+    level:    [77, 80]
+
+  17330430:
+    template: King_Zagan
+    at:       [33.587, -23.791, -108.695, 249]
+    level:    [85, 85]
+
+  17330431:
+    template: Zagans_Wyvern
+    at:       [33.420, -23.979, -107.241, 13]
+    level:    [80, 82]
+
+  17330432:
+    template: Satellite_Scythes
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_3
+
+  17330433:
+    template: Satellite_Scythes
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_3
+
+  17330434:
+    template: Satellite_Scythes
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_3
+
+  17330435:
+    template: Satellite_Spears
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_3
+
+  17330436:
+    template: Satellite_Spears
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_3
+
+  17330437:
+    template: Satellite_Spears
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c_3
+
+  17330438:
+    template: Vanguard_Eye
+    at:       [26.080, -24.102, -88.561, 205]
+    level:    [70, 70]
+
+  17330439:
+    template: Kindred_Samurai
+    level:    [77, 80]
+    region:   dynamis_xarcabard_c
+
+  17330440:
+    template: Count_Vine
+    at:       [-40.975, -23.718, -95.814, 199]
+    level:    [85, 85]
+
+  17330441:
+    template: Kindred_Ninja
+    level:    [77, 80]
+    region:   dynamis_xarcabard_c
+
+  17330442:
+    template: Satellite_Kunai
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c
+
+  17330443:
+    template: Satellite_Kunai
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c
+
+  17330444:
+    template: Satellite_Kunai
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c
+
+  17330445:
+    template: Satellite_Tachi
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c
+
+  17330446:
+    template: Satellite_Tachi
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c
+
+  17330447:
+    template: Satellite_Tachi
+    level:    [77, 79]
+    region:   dynamis_xarcabard_c
+
+  17330448:
+    template: Vanguard_Eye
+    level:    [70, 70]
+    region:   dynamis_xarcabard_c
+
+  17330449:
+    template: Kindred_Samurai
+    level:    [77, 80]
+    region:   dynamis_xarcabard_w_6
+
+  17330450:
+    template: Kindred_Ninja
+    level:    [77, 80]
+    region:   dynamis_xarcabard_w_6
+
+  17330451:
+    template: Marquis_Gamygyn
+    level:    [85, 85]
+    region:   dynamis_xarcabard_w_6
+
+  17330452:
+    template: Kindred_Summoner
+    level:    [77, 80]
+    region:   dynamis_xarcabard_w_6
+
+  17330453:
+    template: Kindreds_Avatar
+    level:    [77, 80]
+    region:   dynamis_xarcabard_w_6
+
+  17330454:
+    template: Satellite_Kunai
+    level:    [77, 79]
+    region:   dynamis_xarcabard_w_6
+
+  17330455:
+    template: Satellite_Kunai
+    level:    [77, 79]
+    region:   dynamis_xarcabard_w_6
+
+  17330456:
+    template: Satellite_Kunai
+    level:    [77, 79]
+    region:   dynamis_xarcabard_w_6
+
+  17330457:
+    template: Satellite_Tachi
+    level:    [77, 79]
+    region:   dynamis_xarcabard_w_6
+
+  17330458:
+    template: Satellite_Tachi
+    level:    [77, 79]
+    region:   dynamis_xarcabard_w_6
+
+  17330459:
+    template: Satellite_Tachi
+    level:    [77, 79]
+    region:   dynamis_xarcabard_w_6
+
+  17330460:
+    template: Vanguard_Eye
+    at:       [-90.296, -25.220, -59.944, 143]
+    level:    [70, 70]
+
+  17330461:
+    template: Kindred_Warrior
+    level:    [77, 80]
+    region:   dynamis_xarcabard_w_5
+
+  17330462:
+    template: Kindred_Monk
+    level:    [77, 80]
+    region:   dynamis_xarcabard_w_5
+
+  17330463:
+    template: Kindred_White_Mage
+    level:    [77, 80]
+    region:   dynamis_xarcabard_w_5
+
+  17330464:
+    template: Kindred_Black_Mage
+    level:    [77, 80]
+    region:   dynamis_xarcabard_w_5
+
+  17330465:
+    template: Kindred_Red_Mage
+    level:    [77, 80]
+    region:   dynamis_xarcabard_w_5
+
+  17330466:
+    template: Kindred_Thief
+    level:    [77, 80]
+    region:   dynamis_xarcabard_w_5
+
+  17330467:
+    template: Kindred_Paladin
+    level:    [77, 80]
+    region:   dynamis_xarcabard_w_5
+
+  17330468:
+    template: Kindred_Dark_Knight
+    level:    [77, 80]
+    region:   dynamis_xarcabard_w_5
+
+  17330469:
+    template: Kindred_Beastmaster
+    level:    [77, 80]
+    region:   dynamis_xarcabard_w_5
+
+  17330470:
+    template: Kindreds_Vouivre
+    level:    [77, 80]
+    region:   dynamis_xarcabard_w_5
+
+  17330471:
+    template: Goblin_Replica
+    level:    [65, 65]
+    region:   dynamis_xarcabard_w_5
+
+  17330472:
+    template: Goblin_Replica
+    at:       [-95.399, -23.798, -29.580, 99]
+    level:    [65, 65]
+
+  17330473:
+    template: Kindred_Bard
+    level:    [77, 80]
+    region:   dynamis_xarcabard_w_4
+
+  17330474:
+    template: Kindred_Ranger
+    level:    [77, 80]
+    region:   dynamis_xarcabard_w_4
+
+  17330475:
+    template: Kindred_Samurai
+    level:    [77, 80]
+    region:   dynamis_xarcabard_w_4
+
+  17330476:
+    template: Kindred_Ninja
+    level:    [77, 80]
+    region:   dynamis_xarcabard_w_4
+
+  17330477:
+    template: Kindred_Dragoon
+    level:    [77, 80]
+    region:   dynamis_xarcabard_w_4
+
+  17330478:
+    template: Kindreds_Wyvern
+    at:       [-159.200, -24.450, -44.955, 119]
+    level:    [77, 80]
+
+  17330479:
+    template: Kindred_Summoner
+    level:    [77, 80]
+    region:   dynamis_xarcabard_w_4
+
+  17330480:
+    template: Kindreds_Avatar
+    level:    [77, 80]
+    region:   dynamis_xarcabard_w_4
+
+  17330481:
+    template: Marquis_Nebiros
+    at:       [-127.792, -23.643, -32.870, 66]
+    level:    [85, 85]
+
+  17330482:
+    template: Nebiross_Avatar
+    at:       [-130.763, -22.654, -30.081, 43]
+    level:    [85, 85]
+
+  17330483:
+    template: Goblin_Replica
+    at:       [-150.743, -17.907, -11.532, 224]
+    level:    [65, 65]
+
+  17330484:
+    template: Goblin_Replica
+    at:       [-146.047, -16.014, -4.550, 28]
+    level:    [65, 65]
+
+  17330485:
+    template: Kindred_Warrior
+    at:       [367.028, 5.807, -134.494, 53]
+    level:    [77, 80]
+
+  17330486:
+    template: Kindred_Monk
+    at:       [363.638, -5.977, -93.456, 142]
+    level:    [77, 80]
+
+  17330487:
+    template: Kindred_White_Mage
+    at:       [388.482, 0.714, -116.363, 214]
+    level:    [77, 80]
+
+  17330488:
+    template: Kindred_Black_Mage
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e_6
+
+  17330489:
+    template: Kindred_Red_Mage
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e_6
+
+  17330490:
+    template: Kindred_Thief
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e_6
+
+  17330491:
+    template: Kindred_Bard
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e_4
+
+  17330492:
+    template: Kindred_Bard
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e_4
+
+  17330493:
+    template: Kindred_Summoner
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e_4
+
+  17330494:
+    template: Kindreds_Avatar
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e_4
+
+  17330495:
+    template: Satellite_Horns
+    level:    [77, 79]
+    region:   dynamis_xarcabard_e_4
+
+  17330496:
+    template: Satellite_Horns
+    level:    [77, 79]
+    region:   dynamis_xarcabard_e_4
+
+  17330497:
+    template: Satellite_Horns
+    level:    [77, 79]
+    region:   dynamis_xarcabard_e_4
+
+  17330498:
+    template: Vanguard_Eye
+    level:    [70, 70]
+    region:   dynamis_xarcabard_e_4
+
+  17330499:
+    template: Kindred_Bard
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e_2
+
+  17330500:
+    template: Kindred_Bard
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e_2
+
+  17330501:
+    template: Kindred_Summoner
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e_2
+
+  17330502:
+    template: Kindreds_Avatar
+    level:    [77, 80]
+    region:   dynamis_xarcabard_e_2
+
+  17330503:
+    template: Satellite_Horns
+    level:    [77, 79]
+    region:   dynamis_xarcabard_e_2
+
+  17330504:
+    template: Satellite_Horns
+    level:    [77, 79]
+    region:   dynamis_xarcabard_e_2
+
+  17330505:
+    template: Satellite_Horns
+    level:    [77, 79]
+    region:   dynamis_xarcabard_e_2
+
+  17330506:
+    template: Vanguard_Eye
+    level:    [70, 70]
+    region:   dynamis_xarcabard_e_2
+
+  17330507:
+    template: Vanguard_Dragon
+    level:    [81, 83]
+    region:   dynamis_xarcabard_w_3
+
+  17330508:
+    template: Vanguard_Dragon
+    level:    [81, 83]
+    region:   dynamis_xarcabard_w_3
+
+  17330509:
+    template: Vanguard_Dragon
+    level:    [81, 83]
+    region:   dynamis_xarcabard_nw_3
+
+  17330510:
+    template: Vanguard_Dragon
+    level:    [81, 83]
+    region:   dynamis_xarcabard_nw_3
+
+  17330511:
+    template: Vanguard_Dragon
+    level:    [81, 83]
+    region:   dynamis_xarcabard_w_2
+
+  17330512:
+    template: Vanguard_Dragon
+    level:    [81, 83]
+    region:   dynamis_xarcabard_w_2
+
+  17330513:
+    template: Satellite_Guns
+    level:    [77, 79]
+    region:   dynamis_xarcabard_w
+
+  17330514:
+    template: Satellite_Guns
+    level:    [77, 79]
+    region:   dynamis_xarcabard_w
+
+  17330515:
+    template: Satellite_Guns
+    level:    [77, 79]
+    region:   dynamis_xarcabard_w
+
+  17330516:
+    template: Satellite_Guns
+    level:    [77, 79]
+    region:   dynamis_xarcabard_w
+
+  17330517:
+    template: Satellite_Guns
+    level:    [77, 79]
+    region:   dynamis_xarcabard_w
+
+  17330518:
+    template: Satellite_Guns
+    level:    [77, 79]
+    region:   dynamis_xarcabard_w
+
+  17330519:
+    template: Vanguard_Dragon
+    level:    [81, 83]
+    region:   dynamis_xarcabard_w
+
+  17330520:
+    template: Vanguard_Dragon
+    level:    [81, 83]
+    region:   dynamis_xarcabard_nw_2
+
+  17330521:
+    template: Vanguard_Dragon
+    level:    [81, 83]
+    region:   dynamis_xarcabard_nw_2
+
+  17330522:
+    template: Satellite_Longbows
+    level:    [77, 79]
+    region:   dynamis_xarcabard_nw
+
+  17330523:
+    template: Satellite_Longbows
+    level:    [77, 79]
+    region:   dynamis_xarcabard_nw
+
+  17330524:
+    template: Satellite_Longbows
+    level:    [77, 79]
+    region:   dynamis_xarcabard_nw
+
+  17330525:
+    template: Satellite_Longbows
+    level:    [77, 79]
+    region:   dynamis_xarcabard_nw
+
+  17330526:
+    template: Satellite_Longbows
+    level:    [77, 79]
+    region:   dynamis_xarcabard_nw
+
+  17330527:
+    template: Satellite_Longbows
+    level:    [77, 79]
+    region:   dynamis_xarcabard_nw
+
+  17330528:
+    template: Vanguard_Dragon
+    at:       [-296.785, -24.454, 105.512, 127]
+    level:    [81, 83]
+
+  17330529:
+    template: Vanguard_Dragon
+    at:       [-303.837, -28.747, -71.192, 40]
+    level:    [81, 83]
+
+  17330530:
+    template: Vanguard_Dragon
+    at:       [-309.395, -27.466, -52.140, 67]
+    level:    [81, 83]
+
+  17330531:
+    template: Tombstone_Prototype
+    at:       [342.583, -0.365, -315.169, 68]
+    level:    [65, 65]
+
+  17330532:
+    template: Effigy_Prototype
+    at:       [20.597, -25.926, -444.045, 64]
+    level:    [65, 65]
+
+  17330533:
+    template: Icon_Prototype
+    at:       [176.391, -14.059, -62.834, 149]
+    level:    [65, 65]
+
+  17330534:
+    template: Statue_Prototype
+    at:       [-161.100, -24.360, -80.164, 64]
+    level:    [65, 65]
+
+  17330535:
+    template: Prototype_Eye
+    at:       [317.990, -8.741, 168.167, 192]
+    level:    [80, 80]
+
+  17330536:
+    template: Kindred_Warrior
+    at:       [371.933, -6.448, -44.713, 146]
+    level:    [93, 95]
+
+  17330537:
+    template: Kindred_Warrior
+    at:       [381.530, -3.406, -39.504, 29]
+    level:    [93, 95]
+
+  17330538:
+    template: Kindred_White_Mage
+    level:    [93, 95]
+    region:   dynamis_xarcabard_e_5
+
+  17330539:
+    template: Kindred_White_Mage
+    level:    [93, 95]
+    region:   dynamis_xarcabard_e_5
+
+  17330540:
+    template: Kindred_Red_Mage
+    level:    [93, 95]
+    region:   dynamis_xarcabard_e_5
+
+  17330541:
+    template: Kindred_Red_Mage
+    level:    [93, 95]
+    region:   dynamis_xarcabard_e_5
+
+  17330542:
+    template: Vanguard_Eye
+    at:       [373.383, -6.781, -20.810, 47]
+    level:    [85, 85]
+
+  17330543:
+    template: Kindred_Monk
+    level:    [93, 95]
+    region:   dynamis_xarcabard_e_8
+
+  17330544:
+    template: Kindred_Monk
+    level:    [93, 95]
+    region:   dynamis_xarcabard_e_8
+
+  17330545:
+    template: Kindred_Black_Mage
+    level:    [93, 95]
+    region:   dynamis_xarcabard_e_8
+
+  17330546:
+    template: Kindred_Black_Mage
+    level:    [93, 95]
+    region:   dynamis_xarcabard_e_8
+
+  17330547:
+    template: Kindred_Thief
+    level:    [93, 95]
+    region:   dynamis_xarcabard_e_8
+
+  17330548:
+    template: Kindred_Thief
+    level:    [93, 95]
+    region:   dynamis_xarcabard_e_8
+
+  17330549:
+    template: Vanguard_Eye
+    level:    [85, 85]
+    region:   dynamis_xarcabard_e_8
+
+  17330550:
+    template: Kindred_Paladin
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_9
+
+  17330551:
+    template: Kindred_Paladin
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_9
+
+  17330552:
+    template: Kindred_Dark_Knight
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_9
+
+  17330553:
+    template: Kindred_Dark_Knight
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_9
+
+  17330554:
+    template: Kindred_Beastmaster
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_9
+
+  17330555:
+    template: Kindreds_Vouivre
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_9
+
+  17330556:
+    template: Kindred_Bard
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_10
+
+  17330557:
+    template: Kindred_Bard
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_10
+
+  17330558:
+    template: Kindred_Ranger
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_10
+
+  17330559:
+    template: Kindred_Ranger
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_10
+
+  17330560:
+    template: Kindred_Beastmaster
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_10
+
+  17330561:
+    template: Kindreds_Vouivre
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_10
+
+  17330562:
+    template: Vanguard_Eye
+    level:    [85, 85]
+    region:   dynamis_xarcabard_ne_10
+
+  17330563:
+    template: Kindred_White_Mage
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_11
+
+  17330564:
+    template: Kindred_Red_Mage
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_11
+
+  17330565:
+    template: Kindred_Black_Mage
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_11
+
+  17330566:
+    template: Kindred_Bard
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_11
+
+  17330567:
+    template: Vanguard_Eye
+    at:       [466.913, -2.948, 58.078, 67]
+    level:    [85, 85]
+
+  17330568:
+    template: Kindred_Samurai
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_8
+
+  17330569:
+    template: Kindred_Samurai
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_8
+
+  17330570:
+    template: Kindred_Ninja
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_8
+
+  17330571:
+    template: Kindred_Ninja
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_8
+
+  17330572:
+    template: Kindred_Dragoon
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_7
+
+  17330573:
+    template: Kindreds_Wyvern
+    at:       [360.114, -8.500, 124.430, 11]
+    level:    [93, 95]
+
+  17330574:
+    template: Kindred_Summoner
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_7
+
+  17330575:
+    template: Kindreds_Avatar
+    at:       [340.633, -8.024, 126.997, 161]
+    level:    [93, 95]
+
+  17330576:
+    template: Kindred_White_Mage
+    at:       [297.880, -9.171, 131.766, 249]
+    level:    [93, 95]
+
+  17330577:
+    template: Kindred_Paladin
+    at:       [312.158, -8.522, 130.172, 40]
+    level:    [93, 95]
+
+  17330578:
+    template: Kindred_Dark_Knight
+    at:       [306.314, -8.704, 134.263, 80]
+    level:    [93, 95]
+
+  17330579:
+    template: Kindred_Bard
+    at:       [298.282, -9.550, 135.813, 219]
+    level:    [93, 95]
+
+  17330580:
+    template: Kindred_Ranger
+    at:       [326.827, -8.269, 134.915, 3]
+    level:    [93, 95]
+
+  17330581:
+    template: Vanguard_Eye
+    at:       [293.984, -9.452, 129.654, 201]
+    level:    [85, 85]
+
+  17330582:
+    template: Kindred_Thief
+    at:       [289.254, -8.558, 107.276, 6]
+    level:    [93, 95]
+
+  17330583:
+    template: Kindred_Ranger
+    at:       [289.443, -8.637, 99.823, 34]
+    level:    [93, 95]
+
+  17330584:
+    template: Kindred_Samurai
+    at:       [275.220, -8.246, 100.665, 102]
+    level:    [93, 95]
+
+  17330585:
+    template: Kindred_Ninja
+    at:       [281.653, -8.365, 108.424, 240]
+    level:    [93, 95]
+
+  17330586:
+    template: Vanguard_Eye
+    at:       [282.842, -7.905, 93.943, 53]
+    level:    [85, 85]
+
+  17330587:
+    template: Kindred_Warrior
+    at:       [354.340, -8.249, -8.053, 9]
+    level:    [93, 95]
+
+  17330588:
+    template: Kindred_Monk
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_6
+
+  17330589:
+    template: Kindred_Dark_Knight
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_6
+
+  17330590:
+    template: Kindred_Samurai
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_6
+
+  17330591:
+    template: Kindred_Ninja
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_6
+
+  17330592:
+    template: Kindred_White_Mage
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_4
+
+  17330593:
+    template: Kindred_Black_Mage
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_4
+
+  17330594:
+    template: Kindred_Red_Mage
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_4
+
+  17330595:
+    template: Kindred_Thief
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_4
+
+  17330596:
+    template: Kindred_Summoner
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_4
+
+  17330597:
+    template: Kindreds_Avatar
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_4
+
+  17330598:
+    template: Kindred_Paladin
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_2
+
+  17330599:
+    template: Kindred_Beastmaster
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_2
+
+  17330600:
+    template: Kindreds_Vouivre
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_2
+
+  17330601:
+    template: Kindred_Bard
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_2
+
+  17330602:
+    template: Kindred_Ranger
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_2
+
+  17330603:
+    template: Kindred_Samurai
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_2
+
+  17330604:
+    template: Kindred_Bard
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_16
+
+  17330605:
+    template: Kindred_Bard
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_16
+
+  17330606:
+    template: Kindred_Samurai
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_16
+
+  17330607:
+    template: Kindred_Samurai
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_16
+
+  17330608:
+    template: Kindred_Dragoon
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_16
+
+  17330609:
+    template: Kindreds_Wyvern
+    at:       [225.925, -9.319, 30.407, 125]
+    level:    [93, 95]
+
+  17330610:
+    template: Vanguard_Eye
+    at:       [228.658, -10.215, 28.374, 162]
+    level:    [85, 85]
+
+  17330611:
+    template: Kindred_Ranger
+    level:    [93, 95]
+    region:   dynamis_xarcabard_c_12
+
+  17330612:
+    template: Kindred_Ranger
+    level:    [93, 95]
+    region:   dynamis_xarcabard_c_12
+
+  17330613:
+    template: Kindred_Ninja
+    level:    [93, 95]
+    region:   dynamis_xarcabard_c_12
+
+  17330614:
+    template: Kindred_Ninja
+    level:    [93, 95]
+    region:   dynamis_xarcabard_c_12
+
+  17330615:
+    template: Kindred_Summoner
+    level:    [93, 95]
+    region:   dynamis_xarcabard_c_12
+
+  17330616:
+    template: Kindreds_Avatar
+    level:    [93, 95]
+    region:   dynamis_xarcabard_c_12
+
+  17330617:
+    template: Vanguard_Eye
+    level:    [85, 85]
+    region:   dynamis_xarcabard_c_12
+
+  17330618:
+    template: Kindred_Warrior
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_11
+
+  17330619:
+    template: Kindred_White_Mage
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_11
+
+  17330620:
+    template: Kindred_Black_Mage
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_11
+
+  17330621:
+    template: Kindred_Thief
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_11
+
+  17330622:
+    template: Kindred_Warrior
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_10
+
+  17330623:
+    template: Kindred_Monk
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_10
+
+  17330624:
+    template: Kindred_Black_Mage
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_10
+
+  17330625:
+    template: Kindred_Red_Mage
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_10
+
+  17330626:
+    template: Kindred_Monk
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_6
+
+  17330627:
+    template: Kindred_White_Mage
+    at:       [45.461, -15.894, 24.086, 109]
+    level:    [93, 95]
+
+  17330628:
+    template: Kindred_Black_Mage
+    at:       [24.259, -15.696, 44.484, 109]
+    level:    [93, 95]
+
+  17330629:
+    template: Kindred_Red_Mage
+    at:       [31.030, -16.251, 40.559, 4]
+    level:    [93, 95]
+
+  17330630:
+    template: Kindred_Thief
+    at:       [26.588, -16.579, 29.528, 46]
+    level:    [93, 95]
+
+  17330631:
+    template: Vanguard_Eye
+    at:       [43.796, -16.500, 42.280, 232]
+    level:    [85, 85]
+
+  17330632:
+    template: Kindred_Paladin
+    at:       [1.311, -16.642, 34.554, 123]
+    level:    [93, 95]
+
+  17330633:
+    template: Kindred_Dark_Knight
+    at:       [1.140, -16.641, 34.493, 124]
+    level:    [93, 95]
+
+  17330634:
+    template: Kindred_Beastmaster
+    at:       [-16.848, -16.182, 36.296, 74]
+    level:    [93, 95]
+
+  17330635:
+    template: Kindreds_Vouivre
+    at:       [-16.114, -16.033, 40.744, 83]
+    level:    [93, 95]
+
+  17330636:
+    template: Vanguard_Eye
+    at:       [-2.814, -16.594, 46.423, 164]
+    level:    [85, 85]
+
+  17330637:
+    template: Kindred_Bard
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n
+
+  17330638:
+    template: Kindred_Ranger
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n
+
+  17330639:
+    template: Kindred_Dragoon
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n
+
+  17330640:
+    template: Kindreds_Wyvern
+    at:       [-32.488, -16.324, 40.667, 134]
+    level:    [93, 95]
+
+  17330641:
+    template: Kindred_Samurai
+    level:    [93, 95]
+    region:   dynamis_xarcabard_nw_6
+
+  17330642:
+    template: Kindred_Ninja
+    level:    [93, 95]
+    region:   dynamis_xarcabard_nw_6
+
+  17330643:
+    template: Kindred_Dragoon
+    level:    [93, 95]
+    region:   dynamis_xarcabard_nw_6
+
+  17330644:
+    template: Kindreds_Wyvern
+    at:       [-68.483, -16.612, 27.363, 194]
+    level:    [93, 95]
+
+  17330645:
+    template: Kindred_Summoner
+    level:    [93, 95]
+    region:   dynamis_xarcabard_nw_6
+
+  17330646:
+    template: Kindreds_Avatar
+    level:    [93, 95]
+    region:   dynamis_xarcabard_nw_6
+
+  17330647:
+    template: Kindred_Thief
+    at:       [305.198, -28.960, 180.070, 12]
+    level:    [93, 95]
+
+  17330648:
+    template: Kindred_Bard
+    at:       [315.711, -28.762, 187.442, 43]
+    level:    [93, 95]
+
+  17330649:
+    template: Kindred_Ranger
+    at:       [309.882, -28.167, 198.627, 237]
+    level:    [93, 95]
+
+  17330650:
+    template: Kindred_Ranger
+    at:       [296.929, -28.324, 190.610, 90]
+    level:    [93, 95]
+
+  17330651:
+    template: Kindred_Dark_Knight
+    at:       [303.408, -28.017, 163.619, 203]
+    level:    [93, 95]
+
+  17330652:
+    template: Kindred_Samurai
+    at:       [291.291, -28.790, 164.902, 36]
+    level:    [93, 95]
+
+  17330653:
+    template: Kindred_Dragoon
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_5
+
+  17330654:
+    template: Kindreds_Wyvern
+    at:       [312.449, -28.401, 177.844, 155]
+    level:    [93, 95]
+
+  17330655:
+    template: Kindred_Red_Mage
+    at:       [281.922, -27.858, 174.208, 241]
+    level:    [93, 95]
+
+  17330656:
+    template: Kindred_Paladin
+    at:       [280.561, -27.613, 179.787, 222]
+    level:    [93, 95]
+
+  17330657:
+    template: Kindred_White_Mage
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_3
+
+  17330658:
+    template: Kindred_White_Mage
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_3
+
+  17330659:
+    template: Kindred_Black_Mage
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_3
+
+  17330660:
+    template: Kindred_Black_Mage
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_3
+
+  17330661:
+    template: Kindred_Red_Mage
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne_3
+
+  17330662:
+    template: Vanguard_Eye
+    at:       [256.660, -28.950, 138.352, 215]
+    level:    [85, 85]
+
+  17330663:
+    template: Kindred_Warrior
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne
+
+  17330664:
+    template: Kindred_Thief
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne
+
+  17330665:
+    template: Kindred_Thief
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne
+
+  17330666:
+    template: Kindred_Paladin
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne
+
+  17330667:
+    template: Kindred_Paladin
+    level:    [93, 95]
+    region:   dynamis_xarcabard_ne
+
+  17330668:
+    template: Vanguard_Eye
+    level:    [85, 85]
+    region:   dynamis_xarcabard_ne
+
+  17330669:
+    template: Kindred_Dark_Knight
+    at:       [246.246, -28.482, 75.979, 139]
+    level:    [93, 95]
+
+  17330670:
+    template: Kindred_Beastmaster
+    at:       [251.165, -28.755, 75.588, 115]
+    level:    [93, 95]
+
+  17330671:
+    template: Kindreds_Vouivre
+    at:       [251.142, -28.827, 79.050, 73]
+    level:    [93, 95]
+
+  17330672:
+    template: Kindred_Bard
+    at:       [244.789, -28.652, 66.870, 100]
+    level:    [93, 95]
+
+  17330673:
+    template: Kindred_Samurai
+    at:       [208.895, -28.053, 162.041, 248]
+    level:    [93, 95]
+
+  17330674:
+    template: Kindred_Samurai
+    at:       [215.174, -28.097, 150.437, 129]
+    level:    [93, 95]
+
+  17330675:
+    template: Kindred_Ninja
+    at:       [207.231, -27.250, 142.724, 38]
+    level:    [93, 95]
+
+  17330676:
+    template: Kindred_Ninja
+    at:       [213.565, -26.734, 141.726, 9]
+    level:    [93, 95]
+
+  17330677:
+    template: Kindred_Summoner
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_17
+
+  17330678:
+    template: Kindreds_Avatar
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_17
+
+  17330679:
+    template: Kindred_Warrior
+    at:       [171.345, -28.651, 147.187, 144]
+    level:    [93, 95]
+
+  17330680:
+    template: Kindred_Monk
+    at:       [174.188, -33.785, 122.462, 110]
+    level:    [93, 95]
+
+  17330681:
+    template: Kindred_Thief
+    at:       [163.409, -35.668, 124.006, 128]
+    level:    [93, 95]
+
+  17330682:
+    template: Kindred_Paladin
+    at:       [182.330, -29.769, 144.102, 136]
+    level:    [93, 95]
+
+  17330683:
+    template: Kindred_Dark_Knight
+    at:       [188.602, -30.280, 128.432, 93]
+    level:    [93, 95]
+
+  17330684:
+    template: Kindred_Ranger
+    at:       [163.515, -34.357, 131.222, 185]
+    level:    [93, 95]
+
+  17330685:
+    template: Vanguard_Eye
+    at:       [130.092, -35.826, 150.996, 125]
+    level:    [85, 85]
+
+  17330686:
+    template: Kindred_White_Mage
+    at:       [171.191, -36.310, 104.855, 105]
+    level:    [93, 95]
+
+  17330687:
+    template: Kindred_Black_Mage
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_14
+
+  17330688:
+    template: Kindred_Red_Mage
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_14
+
+  17330689:
+    template: Kindred_Bard
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_14
+
+  17330690:
+    template: Vanguard_Eye
+    level:    [85, 85]
+    region:   dynamis_xarcabard_n_14
+
+  17330691:
+    template: Kindred_Samurai
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_15
+
+  17330692:
+    template: Kindred_Ninja
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_15
+
+  17330693:
+    template: Kindred_Dragoon
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_15
+
+  17330694:
+    template: Kindreds_Wyvern
+    at:       [191.919, -29.342, 70.748, 84]
+    level:    [93, 95]
+
+  17330695:
+    template: Kindred_Summoner
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_15
+
+  17330696:
+    template: Kindreds_Avatar
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_15
+
+  17330697:
+    template: Kindred_Samurai
+    at:       [166.773, -36.500, 40.495, 78]
+    level:    [93, 95]
+
+  17330698:
+    template: Kindred_Ninja
+    at:       [175.742, -35.652, 30.282, 100]
+    level:    [93, 95]
+
+  17330699:
+    template: Kindred_Dragoon
+    at:       [174.085, -35.844, 48.972, 131]
+    level:    [93, 95]
+
+  17330700:
+    template: Kindreds_Wyvern
+    at:       [166.857, -36.500, 38.406, 248]
+    level:    [93, 95]
+
+  17330701:
+    template: Kindred_Summoner
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_13
+
+  17330702:
+    template: Kindreds_Avatar
+    at:       [168.623, -36.003, 31.347, 15]
+    level:    [93, 95]
+
+  17330703:
+    template: Kindred_Paladin
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_12
+
+  17330704:
+    template: Kindred_Paladin
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_12
+
+  17330705:
+    template: Kindred_Dark_Knight
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_12
+
+  17330706:
+    template: Kindred_Dark_Knight
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_12
+
+  17330707:
+    template: Kindred_Bard
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_12
+
+  17330708:
+    template: Kindred_Ninja
+    at:       [72.366, -36.681, 151.104, 109]
+    level:    [93, 95]
+
+  17330709:
+    template: Kindred_Ninja
+    at:       [67.489, -36.081, 159.954, 160]
+    level:    [93, 95]
+
+  17330710:
+    template: Kindred_Dragoon
+    at:       [98.347, -36.469, 149.154, 48]
+    level:    [93, 95]
+
+  17330711:
+    template: Kindreds_Wyvern
+    at:       [88.118, -36.354, 155.458, 140]
+    level:    [93, 95]
+
+  17330712:
+    template: Kindred_Dark_Knight
+    at:       [41.532, -36.165, 146.368, 222]
+    level:    [93, 95]
+
+  17330713:
+    template: Kindred_Black_Mage
+    at:       [33.807, -36.396, 150.952, 79]
+    level:    [93, 95]
+
+  17330714:
+    template: Kindred_Summoner
+    at:       [45.836, -36.473, 161.577, 161]
+    level:    [93, 95]
+
+  17330715:
+    template: Kindreds_Avatar
+    at:       [49.337, -36.338, 158.102, 162]
+    level:    [93, 95]
+
+  17330716:
+    template: Kindred_Summoner
+    at:       [58.625, -35.695, 159.551, 197]
+    level:    [93, 95]
+
+  17330717:
+    template: Kindreds_Avatar
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_9
+
+  17330718:
+    template: Vanguard_Eye
+    level:    [85, 85]
+    region:   dynamis_xarcabard_n_9
+
+  17330719:
+    template: Kindred_Ranger
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_8
+
+  17330720:
+    template: Kindred_Ranger
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_8
+
+  17330721:
+    template: Kindred_Warrior
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_7
+
+  17330722:
+    template: Kindred_Monk
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_7
+
+  17330723:
+    template: Kindred_Monk
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_7
+
+  17330724:
+    template: Kindred_Samurai
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_7
+
+  17330725:
+    template: Kindred_Samurai
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_7
+
+  17330726:
+    template: Kindred_Bard
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_5
+
+  17330727:
+    template: Kindred_Bard
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_5
+
+  17330728:
+    template: Kindred_Red_Mage
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_5
+
+  17330729:
+    template: Kindred_Thief
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_5
+
+  17330730:
+    template: Kindred_Thief
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_5
+
+  17330731:
+    template: Vanguard_Eye
+    at:       [-7.034, -36.529, 158.746, 179]
+    level:    [85, 85]
+
+  17330732:
+    template: Kindred_Warrior
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_4
+
+  17330733:
+    template: Kindred_White_Mage
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_4
+
+  17330734:
+    template: Kindred_Beastmaster
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_4
+
+  17330735:
+    template: Kindreds_Vouivre
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_4
+
+  17330736:
+    template: Kindred_Beastmaster
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_4
+
+  17330737:
+    template: Kindreds_Vouivre
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_4
+
+  17330738:
+    template: Kindred_Bard
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_3
+
+  17330739:
+    template: Kindred_Samurai
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_3
+
+  17330740:
+    template: Kindred_Ninja
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_3
+
+  17330741:
+    template: Kindred_Ninja
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_3
+
+  17330742:
+    template: Kindred_Thief
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_2
+
+  17330743:
+    template: Kindred_Ranger
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_2
+
+  17330744:
+    template: Kindred_Dragoon
+    level:    [93, 95]
+    region:   dynamis_xarcabard_n_2
+
+  17330745:
+    template: Kindreds_Wyvern
+    at:       [-44.344, -36.319, 58.049, 145]
+    level:    [93, 95]
+
+  17330746:
+    template: Vanguard_Eye
+    level:    [85, 85]
+    region:   dynamis_xarcabard_n_2
+
+  17330747:
+    template: Kindred_Thief
+    at:       [-68.335, -36.215, 62.039, 250]
+    level:    [93, 95]
+
+  17330748:
+    template: Kindred_Ranger
+    at:       [-60.688, -35.439, 61.555, 4]
+    level:    [93, 95]
+
+  17330749:
+    template: Vanguard_Eye
+    at:       [-58.034, -35.342, 60.563, 156]
+    level:    [85, 85]
+
+  17330750:
+    template: Kindred_Warrior
+    level:    [93, 95]
+    region:   dynamis_xarcabard_nw_4
+
+  17330751:
+    template: Kindred_Monk
+    level:    [93, 95]
+    region:   dynamis_xarcabard_nw_4
+
+  17330752:
+    template: Kindred_White_Mage
+    level:    [93, 95]
+    region:   dynamis_xarcabard_nw_4
+
+  17330753:
+    template: Kindred_Black_Mage
+    level:    [93, 95]
+    region:   dynamis_xarcabard_nw_4
+
+  17330754:
+    template: Kindred_Red_Mage
+    level:    [93, 95]
+    region:   dynamis_xarcabard_nw_4
+
+  17330755:
+    template: Kindred_Thief
+    level:    [93, 95]
+    region:   dynamis_xarcabard_nw_4
+
+  17330756:
+    template: Vanguard_Eye
+    level:    [85, 85]
+    region:   dynamis_xarcabard_nw_4
+
+  17330757:
+    template: Kindred_Paladin
+    level:    [93, 95]
+    region:   dynamis_xarcabard_nw_5
+
+  17330758:
+    template: Kindred_Dark_Knight
+    level:    [93, 95]
+    region:   dynamis_xarcabard_nw_5
+
+  17330759:
+    template: Kindred_Beastmaster
+    level:    [93, 95]
+    region:   dynamis_xarcabard_nw_5
+
+  17330760:
+    template: Kindreds_Vouivre
+    level:    [93, 95]
+    region:   dynamis_xarcabard_nw_5
+
+  17330761:
+    template: Kindred_Bard
+    level:    [93, 95]
+    region:   dynamis_xarcabard_nw_5
+
+  17330762:
+    template: Vanguard_Eye
+    at:       [-112.318, -36.436, 92.800, 21]
+    level:    [85, 85]
+
+  17330763:
+    template: Kindred_Ranger
+    at:       [-137.401, -26.088, 97.617, 215]
+    level:    [93, 95]
+
+  17330764:
+    template: Kindred_Samurai
+    at:       [-128.573, -28.513, 81.430, 48]
+    level:    [93, 95]
+
+  17330765:
+    template: Kindred_Ninja
+    at:       [-133.264, -29.024, 80.011, 224]
+    level:    [93, 95]
+
+  17330766:
+    template: Kindred_Dragoon
+    at:       [-132.563, -28.864, 81.364, 75]
+    level:    [93, 95]
+
+  17330767:
+    template: Kindreds_Wyvern
+    at:       [-135.075, -28.756, 77.566, 111]
+    level:    [93, 95]
+
+  17330768:
+    template: Kindred_Summoner
+    at:       [-140.685, -26.405, 94.268, 97]
+    level:    [93, 95]
+
+  17330769:
+    template: Kindreds_Avatar
+    at:       [-138.982, -26.353, 94.275, 214]
+    level:    [93, 95]
+
+  17330770:
+    template: Vanguard_Eye
+    at:       [-137.835, -28.826, 79.377, 71]
+    level:    [85, 85]

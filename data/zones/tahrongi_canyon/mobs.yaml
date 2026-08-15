@@ -1,0 +1,2458 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17256449:
+    template: Canyon_Rarab
+    level:    [7, 8]
+    region:   tahrongi_canyon_s_2
+
+  17256450:
+    template: Canyon_Rarab
+    level:    [7, 8]
+    region:   tahrongi_canyon_s_2
+
+  17256451:
+    template: Canyon_Rarab
+    level:    [7, 8]
+    region:   tahrongi_canyon_s_2
+
+  17256452:
+    template: Canyon_Rarab
+    level:    [7, 8]
+    region:   tahrongi_canyon_s_2
+
+  17256453:
+    template: Pygmaioi
+    level:    [8, 9]
+    region:   tahrongi_canyon_s_2
+
+  17256454:
+    template: Pygmaioi
+    level:    [8, 9]
+    region:   tahrongi_canyon_s_2
+
+  17256455:
+    template: Pygmaioi
+    level:    [8, 9]
+    region:   tahrongi_canyon_s_2
+
+  17256456:
+    template: Pygmaioi
+    level:    [8, 9]
+    region:   tahrongi_canyon_s_2
+
+  17256457:
+    template: Strolling_Sapling
+    level:    [7, 8]
+    region:   tahrongi_canyon_s_2
+
+  17256458:
+    template: Strolling_Sapling
+    level:    [7, 8]
+    region:   tahrongi_canyon_s_2
+
+  17256459:
+    template: Strolling_Sapling
+    level:    [7, 8]
+    region:   tahrongi_canyon_s_2
+
+  17256460:
+    template: Strolling_Sapling
+    level:    [7, 8]
+    region:   tahrongi_canyon_s_2
+
+  17256461:
+    template: Strolling_Sapling
+    level:    [7, 8]
+    region:   tahrongi_canyon_s_2
+
+  17256462:
+    template: Canyon_Rarab
+    level:    [7, 8]
+    region:   tahrongi_canyon_se
+
+  17256463:
+    template: Canyon_Rarab
+    level:    [7, 8]
+    region:   tahrongi_canyon_se
+
+  17256464:
+    template: Canyon_Rarab
+    level:    [7, 8]
+    region:   tahrongi_canyon_se
+
+  17256465:
+    template: Canyon_Rarab
+    level:    [7, 8]
+    region:   tahrongi_canyon_se
+
+  17256466:
+    template: Pygmaioi
+    level:    [8, 9]
+    region:   tahrongi_canyon_se
+
+  17256467:
+    template: Pygmaioi
+    level:    [8, 9]
+    region:   tahrongi_canyon_se
+
+  17256468:
+    template: Pygmaioi
+    level:    [8, 9]
+    region:   tahrongi_canyon_se
+
+  17256469:
+    template: Strolling_Sapling
+    level:    [7, 8]
+    region:   tahrongi_canyon_se
+
+  17256470:
+    template: Strolling_Sapling
+    level:    [7, 8]
+    region:   tahrongi_canyon_se
+
+  17256471:
+    template: Strolling_Sapling
+    level:    [7, 8]
+    region:   tahrongi_canyon_se
+
+  17256472:
+    template: Strolling_Sapling
+    level:    [7, 8]
+    region:   tahrongi_canyon_se
+
+  17256473:
+    template: Canyon_Rarab
+    level:    [7, 8]
+    region:   tahrongi_canyon_s
+
+  17256474:
+    template: Canyon_Rarab
+    level:    [7, 8]
+    region:   tahrongi_canyon_s
+
+  17256475:
+    template: Canyon_Rarab
+    level:    [7, 8]
+    region:   tahrongi_canyon_s
+
+  17256476:
+    template: Canyon_Rarab
+    level:    [7, 8]
+    region:   tahrongi_canyon_s
+
+  17256477:
+    template: Pygmaioi
+    level:    [8, 9]
+    region:   tahrongi_canyon_s
+
+  17256478:
+    template: Pygmaioi
+    level:    [8, 9]
+    region:   tahrongi_canyon_s
+
+  17256479:
+    template: Pygmaioi
+    level:    [8, 9]
+    region:   tahrongi_canyon_s
+
+  17256480:
+    template: Strolling_Sapling
+    level:    [7, 8]
+    region:   tahrongi_canyon_s
+
+  17256481:
+    template: Strolling_Sapling
+    level:    [7, 8]
+    region:   tahrongi_canyon_s
+
+  17256482:
+    template: Strolling_Sapling
+    level:    [7, 8]
+    region:   tahrongi_canyon_s
+
+  17256483:
+    template: Strolling_Sapling
+    level:    [7, 8]
+    region:   tahrongi_canyon_s
+
+  17256484:
+    template: Akbaba
+    level:    [11, 12]
+    region:   tahrongi_canyon_sw
+
+  17256485:
+    template: Akbaba
+    level:    [11, 12]
+    region:   tahrongi_canyon_sw
+
+  17256486:
+    template: Akbaba
+    level:    [11, 12]
+    region:   tahrongi_canyon_sw
+
+  17256487:
+    template: Akbaba
+    level:    [11, 12]
+    region:   tahrongi_canyon_sw
+
+  17256488:
+    template: Skeleton_Warrior
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [10, 12]
+
+  17256489:
+    template: Skeleton_Warrior
+    level:    [10, 12]
+    region:   tahrongi_canyon_sw
+
+  17256490:
+    template: Skeleton_Sorcerer
+    at:       [-257.411, 13.516, -544.189, 38]
+    level:    [11, 13]
+
+  17256491:
+    template: Ghost
+    level:    [15, 16]
+    region:   tahrongi_canyon_sw
+
+  17256492:
+    template: Ghost
+    level:    [15, 16]
+    region:   tahrongi_canyon_sw
+
+  17256493:
+    template: Habrok
+    level:    [16, 18]
+    region:   tahrongi_canyon_sw
+
+  17256494:
+    template: Canyon_Rarab
+    at:       [105.216, -10.251, -156.114, 54]
+    level:    [9, 10]
+
+  17256495:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_c
+
+  17256496:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_c
+
+  17256497:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_c
+
+  17256498:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_c
+
+  17256499:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_c
+
+  17256500:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_c
+
+  17256501:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_c
+
+  17256502:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_c
+
+  17256503:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_c
+
+  17256504:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_c
+
+  17256505:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_c
+
+  17256506:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_c
+
+  17256507:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_c
+
+  17256508:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_c
+
+  17256509:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_c
+
+  17256510:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_c
+
+  17256511:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_c
+
+  17256512:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_c
+
+  17256513:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_c
+
+  17256514:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_c
+
+  17256515:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_c
+
+  17256516:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_c
+
+  17256517:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_c
+
+  17256518:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_c
+
+  17256519:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_c
+
+  17256520:
+    template: Canyon_Crawler
+    at:       [-11.158, -7.240, -131.867, 28]
+    level:    [12, 13]
+
+  17256521:
+    template: Canyon_Crawler
+    at:       [-10.493, -7.192, -133.032, 20]
+    level:    [12, 13]
+
+  17256522:
+    template: Canyon_Crawler
+    at:       [6.853, -9.796, -131.746, 67]
+    level:    [12, 13]
+
+  17256523:
+    template: Goblin_Thug
+    level:    [8, 9]
+    region:   tahrongi_canyon_c
+
+  17256524:
+    template: Goblin_Ambusher
+    level:    [12, 13]
+    region:   tahrongi_canyon_c
+
+  17256525:
+    template: Goblin_Weaver
+    level:    [8, 9]
+    region:   tahrongi_canyon_c
+
+  17256526:
+    template: Goblin_Tinkerer
+    level:    [12, 13]
+    region:   tahrongi_canyon_c
+
+  17256527:
+    template: Goblin_Butcher
+    level:    [12, 13]
+    region:   tahrongi_canyon_c
+
+  17256528:
+    template: Skeleton_Warrior
+    at:       [81.827, -11.955, -146.143, 11]
+    level:    [10, 12]
+
+  17256529:
+    template: Skeleton_Sorcerer
+    at:       [-56.470, -16.525, -217.264, 127]
+    level:    [11, 13]
+
+  17256530:
+    template: Air_Elemental
+    level:    [18, 19]
+    region:   tahrongi_canyon_c
+
+  17256531:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_c_6
+
+  17256532:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_c_6
+
+  17256533:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_c_6
+
+  17256534:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_c_6
+
+  17256535:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_c_6
+
+  17256536:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_c_6
+
+  17256537:
+    template: Wild_Dhalmel
+    level:    [14, 15]
+    region:   tahrongi_canyon_c_6
+
+  17256538:
+    template: Wild_Dhalmel
+    at:       [195.715, -8.535, -22.420, 127]
+    level:    [14, 15]
+
+  17256539:
+    template: Wild_Dhalmel
+    level:    [14, 15]
+    region:   tahrongi_canyon_c_6
+
+  17256540:
+    template: Barghest
+    at:       [168.783, -2.139, -43.124, 127]
+    level:    [8, 11]
+
+  17256541:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_c_11
+
+  17256542:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_c_11
+
+  17256543:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_c_11
+
+  17256544:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_c_11
+
+  17256545:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_c_11
+
+  17256546:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_c_11
+
+  17256547:
+    template: Wild_Dhalmel
+    level:    [14, 15]
+    region:   tahrongi_canyon_c_11
+
+  17256548:
+    template: Wild_Dhalmel
+    level:    [14, 15]
+    region:   tahrongi_canyon_c_11
+
+  17256549:
+    template: Wild_Dhalmel
+    level:    [14, 15]
+    region:   tahrongi_canyon_c_11
+
+  17256550:
+    template: Barghest
+    at:       [90.813, 15.545, -8.750, 127]
+    level:    [8, 11]
+
+  17256551:
+    template: Canyon_Crawler
+    at:       [174.854, -3.915, -17.372, 127]
+    level:    [12, 13]
+
+  17256552:
+    template: Canyon_Crawler
+    level:    [12, 13]
+    region:   tahrongi_canyon_e
+
+  17256553:
+    template: Canyon_Crawler
+    level:    [12, 13]
+    region:   tahrongi_canyon_e
+
+  17256554:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_c_7
+
+  17256555:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_c_7
+
+  17256556:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_c_7
+
+  17256557:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_c_7
+
+  17256558:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_c_7
+
+  17256559:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_c_7
+
+  17256560:
+    template: Wild_Dhalmel
+    level:    [14, 15]
+    region:   tahrongi_canyon_c_7
+
+  17256561:
+    template: Wild_Dhalmel
+    level:    [14, 15]
+    region:   tahrongi_canyon_c_7
+
+  17256562:
+    template: Wild_Dhalmel
+    level:    [14, 15]
+    region:   tahrongi_canyon_c_7
+
+  17256563:
+    template: Serpopard_Ishtar
+    level:    [19, 20]
+    region:   tahrongi_canyon_c_7
+
+  17256564:
+    template: Barghest
+    level:    [8, 11]
+    region:   tahrongi_canyon_c_8
+
+  17256565:
+    template: Yagudo_Initiate
+    level:    [8, 9]
+    region:   tahrongi_canyon_c_6
+
+  17256566:
+    template: Yagudo_Mendicant
+    level:    [13, 14]
+    region:   tahrongi_canyon_c_6
+
+  17256567:
+    template: Yagudos_Elemental
+    level:    [8, 9]
+    region:   tahrongi_canyon_c_6
+
+  17256568:
+    template: Yagudo_Acolyte
+    level:    [8, 9]
+    region:   tahrongi_canyon_c_6
+
+  17256569:
+    template: Yagudo_Scribe
+    level:    [8, 9]
+    region:   tahrongi_canyon_c_6
+
+  17256570:
+    template: Yagudo_Piper
+    level:    [13, 14]
+    region:   tahrongi_canyon_c_6
+
+  17256571:
+    template: Yagudo_Persecutor
+    level:    [13, 14]
+    region:   tahrongi_canyon_c_6
+
+  17256572:
+    template: Skeleton_Warrior
+    at:       [225.928, -8.287, 8.898, 127]
+    level:    [10, 12]
+
+  17256573:
+    template: Skeleton_Sorcerer
+    level:    [11, 13]
+    region:   tahrongi_canyon_c_9
+
+  17256574:
+    template: Earth_Elemental
+    level:    [18, 19]
+    region:   tahrongi_canyon_c_6
+
+  17256575:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_w_4
+
+  17256576:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_w_4
+
+  17256577:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_w_4
+
+  17256578:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_w_4
+
+  17256579:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_w_4
+
+  17256580:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_w_4
+
+  17256581:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_w_4
+
+  17256582:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_w_4
+
+  17256583:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_w_4
+
+  17256584:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_w_4
+
+  17256585:
+    template: Canyon_Crawler
+    at:       [-160.533, -7.993, -50.124, 34]
+    level:    [12, 13]
+
+  17256586:
+    template: Canyon_Crawler
+    at:       [-169.234, -8.841, -47.694, 127]
+    level:    [12, 13]
+
+  17256587:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_w_2
+
+  17256588:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_w_2
+
+  17256589:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_w_2
+
+  17256590:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_w_2
+
+  17256591:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_w_2
+
+  17256592:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_w_2
+
+  17256593:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_w_2
+
+  17256594:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_w_2
+
+  17256595:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_w_2
+
+  17256596:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_w_2
+
+  17256597:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_w_3
+
+  17256598:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_w_3
+
+  17256599:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_w_3
+
+  17256600:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_w_3
+
+  17256601:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_w_3
+
+  17256602:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_w_3
+
+  17256603:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_w_3
+
+  17256604:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_w_3
+
+  17256605:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_w_3
+
+  17256606:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_w_3
+
+  17256607:
+    template: Goblin_Thug
+    level:    [8, 9]
+    region:   tahrongi_canyon_w_3
+
+  17256608:
+    template: Goblin_Ambusher
+    level:    [12, 13]
+    region:   tahrongi_canyon_w_3
+
+  17256609:
+    template: Goblin_Weaver
+    level:    [8, 9]
+    region:   tahrongi_canyon_w_3
+
+  17256610:
+    template: Goblin_Tinkerer
+    level:    [12, 13]
+    region:   tahrongi_canyon_w_3
+
+  17256611:
+    template: Goblin_Butcher
+    level:    [12, 13]
+    region:   tahrongi_canyon_w_3
+
+  17256612:
+    template: Skeleton_Warrior
+    at:       [-295.779, -8.335, 80.956, 104]
+    level:    [10, 12]
+
+  17256613:
+    template: Skeleton_Sorcerer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [11, 13]
+
+  17256614:
+    template: Air_Elemental
+    level:    [18, 19]
+    region:   tahrongi_canyon_w_3
+
+  17256615:
+    template: Killer_Bee
+    level:    [11, 12]
+    region:   tahrongi_canyon_w
+
+  17256616:
+    template: Killer_Bee
+    level:    [11, 12]
+    region:   tahrongi_canyon_w
+
+  17256617:
+    template: Killer_Bee
+    level:    [11, 12]
+    region:   tahrongi_canyon_w
+
+  17256618:
+    template: Killer_Bee
+    level:    [11, 12]
+    region:   tahrongi_canyon_w
+
+  17256619:
+    template: Killer_Bee
+    level:    [11, 12]
+    region:   tahrongi_canyon_w
+
+  17256620:
+    template: Goblin_Ambusher
+    at:       [-443.801, -40.747, -196.079, 150]
+    level:    [13, 14]
+
+  17256621:
+    template: Goblin_Ambusher
+    level:    [13, 14]
+    region:   tahrongi_canyon_w
+
+  17256622:
+    template: Goblin_Tinkerer
+    level:    [13, 14]
+    region:   tahrongi_canyon_w
+
+  17256623:
+    template: Goblin_Butcher
+    level:    [13, 14]
+    region:   tahrongi_canyon_w
+
+  17256624:
+    template: Goblin_Butcher
+    level:    [13, 14]
+    region:   tahrongi_canyon_w
+
+  17256625:
+    template: Grenade
+    level:    [15, 17]
+    region:   tahrongi_canyon_w
+
+  17256626:
+    template: Killer_Bee
+    level:    [11, 12]
+    region:   tahrongi_canyon_nw_4
+
+  17256627:
+    template: Killer_Bee
+    level:    [11, 12]
+    region:   tahrongi_canyon_nw_4
+
+  17256628:
+    template: Killer_Bee
+    level:    [11, 12]
+    region:   tahrongi_canyon_nw_4
+
+  17256629:
+    template: Killer_Bee
+    level:    [11, 12]
+    region:   tahrongi_canyon_nw_4
+
+  17256630:
+    template: Killer_Bee
+    level:    [11, 12]
+    region:   tahrongi_canyon_nw_4
+
+  17256631:
+    template: Goblin_Ambusher
+    at:       [-327.145, 7.691, 264.422, 74]
+    level:    [13, 14]
+
+  17256632:
+    template: Goblin_Ambusher
+    at:       [-306.998, 6.918, 247.736, 127]
+    level:    [13, 14]
+
+  17256633:
+    template: Goblin_Tinkerer
+    level:    [13, 14]
+    region:   tahrongi_canyon_nw_4
+
+  17256634:
+    template: Goblin_Tinkerer
+    level:    [13, 14]
+    region:   tahrongi_canyon_nw_4
+
+  17256635:
+    template: Goblin_Butcher
+    level:    [13, 14]
+    region:   tahrongi_canyon_nw_4
+
+  17256636:
+    template: Grenade
+    level:    [15, 17]
+    region:   tahrongi_canyon_nw_4
+
+  17256637:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_n
+
+  17256638:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_n
+
+  17256639:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_n
+
+  17256640:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_n
+
+  17256641:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_n
+
+  17256642:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_n
+
+  17256643:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_n
+
+  17256644:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_n
+
+  17256645:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_n
+
+  17256646:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_n
+
+  17256647:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_n
+
+  17256648:
+    template: Canyon_Crawler
+    at:       [-146.665, 14.477, 137.528, 105]
+    level:    [12, 13]
+
+  17256649:
+    template: Canyon_Crawler
+    at:       [-146.043, 13.431, 136.957, 127]
+    level:    [12, 13]
+
+  17256650:
+    template: Canyon_Crawler
+    at:       [-125.457, 8.007, 129.961, 127]
+    level:    [12, 13]
+
+  17256651:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_n_3
+
+  17256652:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_n_3
+
+  17256653:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_n_3
+
+  17256654:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_n_3
+
+  17256655:
+    template: Strolling_Sapling
+    at:       [-93.287, 0.674, 58.965, 127]
+    level:    [9, 10]
+
+  17256656:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_n_3
+
+  17256657:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_n_3
+
+  17256658:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_n_3
+
+  17256659:
+    template: Wild_Dhalmel
+    level:    [14, 15]
+    region:   tahrongi_canyon_n_3
+
+  17256660:
+    template: Wild_Dhalmel
+    level:    [14, 15]
+    region:   tahrongi_canyon_n_3
+
+  17256661:
+    template: Wild_Dhalmel
+    level:    [14, 15]
+    region:   tahrongi_canyon_n_3
+
+  17256662:
+    template: Barghest
+    at:       [-91.695, -7.409, 38.993, 127]
+    level:    [8, 11]
+
+  17256663:
+    template: Canyon_Crawler
+    at:       [-156.502, 13.495, 69.142, 25]
+    level:    [12, 13]
+
+  17256664:
+    template: Canyon_Crawler
+    at:       [-144.292, 11.484, 71.484, 127]
+    level:    [12, 13]
+
+  17256665:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_n_3
+
+  17256666:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_n_3
+
+  17256667:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_n_3
+
+  17256668:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_n_3
+
+  17256669:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_n_3
+
+  17256670:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_n_3
+
+  17256671:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_n_3
+
+  17256672:
+    template: Wild_Dhalmel
+    level:    [14, 15]
+    region:   tahrongi_canyon_n_3
+
+  17256673:
+    template: Wild_Dhalmel
+    level:    [14, 15]
+    region:   tahrongi_canyon_n_3
+
+  17256674:
+    template: Wild_Dhalmel
+    level:    [14, 15]
+    region:   tahrongi_canyon_n_3
+
+  17256675:
+    template: Barghest
+    level:    [8, 11]
+    region:   tahrongi_canyon_c_5
+
+  17256676:
+    template: Canyon_Crawler
+    at:       [-44.046, -8.814, 44.657, 85]
+    level:    [12, 13]
+
+  17256677:
+    template: Canyon_Crawler
+    at:       [-32.008, -8.640, 35.544, 73]
+    level:    [12, 13]
+
+  17256678:
+    template: Canyon_Rarab
+    at:       [-27.594, 21.948, 228.288, 16]
+    level:    [10, 11]
+
+  17256679:
+    template: Canyon_Rarab
+    level:    [10, 11]
+    region:   tahrongi_canyon_n_3
+
+  17256680:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_n_3
+
+  17256681:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_n_3
+
+  17256682:
+    template: Strolling_Sapling
+    level:    [10, 11]
+    region:   tahrongi_canyon_n_3
+
+  17256683:
+    template: Strolling_Sapling
+    level:    [10, 11]
+    region:   tahrongi_canyon_n_3
+
+  17256684:
+    template: Killer_Bee
+    level:    [11, 12]
+    region:   tahrongi_canyon_n_3
+
+  17256685:
+    template: Killer_Bee
+    level:    [11, 12]
+    region:   tahrongi_canyon_n_3
+
+  17256686:
+    template: Wild_Dhalmel
+    at:       [-23.900, 27.960, 282.280, 125]
+    level:    [15, 16]
+
+  17256687:
+    template: Wild_Dhalmel
+    level:    [15, 16]
+    region:   tahrongi_canyon_n_3
+
+  17256688:
+    template: Wild_Dhalmel
+    level:    [15, 16]
+    region:   tahrongi_canyon_n_3
+
+  17256689:
+    template: Wild_Dhalmel
+    level:    [15, 16]
+    region:   tahrongi_canyon_n_3
+
+  17256690:
+    template: Serpopard_Ishtar
+    level:    [19, 20]
+    region:   tahrongi_canyon_n_5
+
+  17256691:
+    template: Barghest
+    level:    [8, 11]
+    region:   tahrongi_canyon_n_3
+
+  17256692:
+    template: Canyon_Crawler
+    at:       [-144.303, 17.927, 359.219, 127]
+    level:    [12, 13]
+
+  17256693:
+    template: Canyon_Crawler
+    at:       [-172.147, 16.631, 351.996, 59]
+    level:    [12, 13]
+
+  17256694:
+    template: Yagudo_Initiate
+    level:    [8, 9]
+    region:   tahrongi_canyon_n_3
+
+  17256695:
+    template: Yagudo_Mendicant
+    level:    [13, 14]
+    region:   tahrongi_canyon_n_3
+
+  17256696:
+    template: Yagudos_Elemental
+    level:    [8, 9]
+    region:   tahrongi_canyon_n_3
+
+  17256697:
+    template: Yagudo_Acolyte
+    level:    [8, 9]
+    region:   tahrongi_canyon_n_3
+
+  17256698:
+    template: Yagudo_Scribe
+    level:    [8, 9]
+    region:   tahrongi_canyon_n_3
+
+  17256699:
+    template: Yagudo_Piper
+    level:    [13, 14]
+    region:   tahrongi_canyon_n_3
+
+  17256700:
+    template: Yagudo_Persecutor
+    level:    [13, 14]
+    region:   tahrongi_canyon_n_3
+
+  17256701:
+    template: Skeleton_Warrior
+    at:       [-153.171, 0.832, 10.678, 58]
+    level:    [10, 12]
+
+  17256702:
+    template: Skeleton_Sorcerer
+    at:       [-31.847, 13.202, 144.081, 32]
+    level:    [11, 13]
+
+  17256703:
+    template: Earth_Elemental
+    level:    [18, 19]
+    region:   tahrongi_canyon_c_4
+
+  17256704:
+    template: Akbaba
+    level:    [11, 12]
+    region:   tahrongi_canyon_e_2
+
+  17256705:
+    template: Akbaba
+    level:    [11, 12]
+    region:   tahrongi_canyon_e_2
+
+  17256706:
+    template: Akbaba
+    level:    [11, 12]
+    region:   tahrongi_canyon_e_2
+
+  17256707:
+    template: Akbaba
+    level:    [11, 12]
+    region:   tahrongi_canyon_e_2
+
+  17256708:
+    template: Akbaba
+    level:    [11, 12]
+    region:   tahrongi_canyon_e_2
+
+  17256709:
+    template: Skeleton_Warrior
+    at:       [196.006, 4.859, 30.510, 59]
+    level:    [10, 12]
+
+  17256710:
+    template: Skeleton_Warrior
+    level:    [10, 12]
+    region:   tahrongi_canyon_e_2
+
+  17256711:
+    template: Skeleton_Sorcerer
+    at:       [206.987, 7.605, 79.054, 69]
+    level:    [11, 13]
+
+  17256712:
+    template: Ghost
+    level:    [15, 16]
+    region:   tahrongi_canyon_e_2
+
+  17256713:
+    template: Ghost
+    level:    [15, 16]
+    region:   tahrongi_canyon_e_2
+
+  17256714:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_e_3
+
+  17256715:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_e_3
+
+  17256716:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_e_3
+
+  17256717:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_e_3
+
+  17256718:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_e_3
+
+  17256719:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_e_3
+
+  17256720:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_e_3
+
+  17256721:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_e_3
+
+  17256722:
+    template: Wild_Dhalmel
+    level:    [14, 15]
+    region:   tahrongi_canyon_e_3
+
+  17256723:
+    template: Wild_Dhalmel
+    level:    [14, 15]
+    region:   tahrongi_canyon_e_3
+
+  17256724:
+    template: Wild_Dhalmel
+    level:    [14, 15]
+    region:   tahrongi_canyon_e_3
+
+  17256725:
+    template: Barghest
+    at:       [241.947, 7.959, 84.138, 60]
+    level:    [8, 11]
+
+  17256726:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_ne_2
+
+  17256727:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_ne_2
+
+  17256728:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_ne_2
+
+  17256729:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_ne_2
+
+  17256730:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_ne_2
+
+  17256731:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_ne_2
+
+  17256732:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_ne_2
+
+  17256733:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_ne_2
+
+  17256734:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_ne_2
+
+  17256735:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_ne_2
+
+  17256736:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_ne_2
+
+  17256737:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_ne_2
+
+  17256738:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_ne_3
+
+  17256739:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_ne_3
+
+  17256740:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_ne_3
+
+  17256741:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_ne_3
+
+  17256742:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_ne_3
+
+  17256743:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_ne_3
+
+  17256744:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_ne_3
+
+  17256745:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_ne_3
+
+  17256746:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_ne_3
+
+  17256747:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_ne_3
+
+  17256748:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_ne_3
+
+  17256749:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_ne_3
+
+  17256750:
+    template: Goblin_Thug
+    level:    [8, 9]
+    region:   tahrongi_canyon_ne_2
+
+  17256751:
+    template: Goblin_Ambusher
+    level:    [12, 13]
+    region:   tahrongi_canyon_ne_2
+
+  17256752:
+    template: Goblin_Weaver
+    level:    [8, 9]
+    region:   tahrongi_canyon_ne_2
+
+  17256753:
+    template: Goblin_Tinkerer
+    level:    [12, 13]
+    region:   tahrongi_canyon_ne_2
+
+  17256754:
+    template: Goblin_Butcher
+    level:    [12, 13]
+    region:   tahrongi_canyon_ne_2
+
+  17256755:
+    template: Skeleton_Warrior
+    level:    [10, 12]
+    region:   tahrongi_canyon_ne_4
+
+  17256756:
+    template: Skeleton_Sorcerer
+    at:       [225.368, 39.908, 453.501, 18]
+    level:    [11, 13]
+
+  17256757:
+    template: Air_Elemental
+    level:    [18, 19]
+    region:   tahrongi_canyon_ne_2
+
+  17256758:
+    template: Akbaba
+    level:    [12, 13]
+    region:   tahrongi_canyon_ne_5
+
+  17256759:
+    template: Akbaba
+    level:    [12, 13]
+    region:   tahrongi_canyon_ne_5
+
+  17256760:
+    template: Akbaba
+    level:    [12, 13]
+    region:   tahrongi_canyon_ne_5
+
+  17256761:
+    template: Akbaba
+    level:    [12, 13]
+    region:   tahrongi_canyon_ne_5
+
+  17256762:
+    template: Akbaba
+    level:    [12, 13]
+    region:   tahrongi_canyon_ne_5
+
+  17256763:
+    template: Akbaba
+    level:    [12, 13]
+    region:   tahrongi_canyon_ne_5
+
+  17256764:
+    template: Skeleton_Warrior
+    at:       [396.251, 47.004, 488.965, 127]
+    level:    [10, 12]
+
+  17256765:
+    template: Skeleton_Warrior
+    level:    [10, 12]
+    region:   tahrongi_canyon_ne_5
+
+  17256766:
+    template: Skeleton_Sorcerer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [11, 13]
+
+  17256767:
+    template: Ghost
+    level:    [15, 16]
+    region:   tahrongi_canyon_ne_5
+
+  17256768:
+    template: Ghost
+    level:    [15, 16]
+    region:   tahrongi_canyon_ne_5
+
+  17256769:
+    template: Ghost
+    level:    [15, 16]
+    region:   tahrongi_canyon_c_12
+
+  17256770:
+    template: Grenade
+    at:       [88.784, 14.910, 126.078, 85]
+    level:    [15, 16]
+
+  17256771:
+    template: Air_Elemental
+    level:    [18, 19]
+    region:   tahrongi_canyon_c_12
+
+  17256772:
+    template: Earth_Elemental
+    at:       [88.575, 14.913, 126.565, 86]
+    level:    [18, 19]
+
+  17256773:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_n_7
+
+  17256774:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_n_7
+
+  17256775:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_n_7
+
+  17256776:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_n_7
+
+  17256777:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_n_7
+
+  17256778:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_n_7
+
+  17256779:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_n_7
+
+  17256780:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_n_7
+
+  17256781:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_n_7
+
+  17256782:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_n_7
+
+  17256783:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_n_7
+
+  17256784:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_n_7
+
+  17256785:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_n_7
+
+  17256786:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_n_7
+
+  17256787:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_n_7
+
+  17256788:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_n_7
+
+  17256789:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_n_7
+
+  17256790:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_n_7
+
+  17256791:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_n_7
+
+  17256792:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_n_7
+
+  17256793:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_n_7
+
+  17256794:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_n_7
+
+  17256795:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_n_7
+
+  17256796:
+    template: Killer_Bee
+    level:    [10, 11]
+    region:   tahrongi_canyon_n_7
+
+  17256797:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_n_7
+
+  17256798:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_n_7
+
+  17256799:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_n_7
+
+  17256800:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_n_7
+
+  17256801:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_n_7
+
+  17256802:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_n_7
+
+  17256803:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_n_7
+
+  17256804:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_n_7
+
+  17256805:
+    template: Strolling_Sapling
+    level:    [9, 10]
+    region:   tahrongi_canyon_n_7
+
+  17256806:
+    template: Killer_Bee
+    at:       [74.137, 39.567, 482.722, 62]
+    level:    [10, 11]
+
+  17256807:
+    template: Killer_Bee
+    at:       [121.911, 43.054, 459.437, 127]
+    level:    [10, 11]
+
+  17256808:
+    template: Killer_Bee
+    at:       [54.951, 29.297, 457.049, 127]
+    level:    [10, 11]
+
+  17256809:
+    template: Yagudo_Initiate
+    at:       [142.617, 39.428, 445.506, 127]
+    level:    [8, 9]
+
+  17256810:
+    template: Yagudo_Mendicant
+    level:    [13, 14]
+    region:   tahrongi_canyon_n_7
+
+  17256811:
+    template: Yagudos_Elemental
+    level:    [8, 9]
+    region:   tahrongi_canyon_n_7
+
+  17256812:
+    template: Yagudo_Acolyte
+    level:    [8, 9]
+    region:   tahrongi_canyon_n_7
+
+  17256813:
+    template: Yagudo_Scribe
+    level:    [8, 9]
+    region:   tahrongi_canyon_n_7
+
+  17256814:
+    template: Yagudo_Piper
+    level:    [13, 14]
+    region:   tahrongi_canyon_n_7
+
+  17256815:
+    template: Yagudo_Persecutor
+    level:    [13, 14]
+    region:   tahrongi_canyon_n_7
+
+  17256816:
+    template: Skeleton_Warrior
+    at:       [132.338, 39.592, 457.858, 127]
+    level:    [10, 12]
+
+  17256817:
+    template: Skeleton_Sorcerer
+    at:       [128.364, 39.570, 263.277, 127]
+    level:    [11, 13]
+
+  17256818:
+    template: Grenade
+    level:    [15, 16]
+    region:   tahrongi_canyon_n_10
+
+  17256819:
+    template: Poltergeist
+    level:    [18, 19]
+    region:   tahrongi_canyon_ne
+
+  17256820:
+    template: Poltergeist
+    level:    [18, 19]
+    region:   tahrongi_canyon_ne
+
+  17256821:
+    template: Poltergeist
+    level:    [18, 19]
+    region:   tahrongi_canyon_ne
+
+  17256822:
+    template: Canyon_Rarab
+    at:       [-91.176, 29.509, 503.701, 47]
+    level:    [10, 11]
+
+  17256823:
+    template: Canyon_Rarab
+    level:    [10, 11]
+    region:   tahrongi_canyon_n_2
+
+  17256824:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_n_2
+
+  17256825:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_n_2
+
+  17256826:
+    template: Strolling_Sapling
+    level:    [10, 11]
+    region:   tahrongi_canyon_n_2
+
+  17256827:
+    template: Strolling_Sapling
+    level:    [10, 11]
+    region:   tahrongi_canyon_n_2
+
+  17256828:
+    template: Killer_Bee
+    level:    [11, 12]
+    region:   tahrongi_canyon_n_2
+
+  17256829:
+    template: Killer_Bee
+    level:    [11, 12]
+    region:   tahrongi_canyon_n_2
+
+  17256830:
+    template: Wild_Dhalmel
+    level:    [14, 15]
+    region:   tahrongi_canyon_n_2
+
+  17256831:
+    template: Wild_Dhalmel
+    level:    [14, 15]
+    region:   tahrongi_canyon_n_2
+
+  17256832:
+    template: Wild_Dhalmel
+    level:    [14, 15]
+    region:   tahrongi_canyon_n_2
+
+  17256833:
+    template: Barghest
+    at:       [-146.897, 29.485, 436.341, 30]
+    level:    [8, 11]
+
+  17256834:
+    template: Canyon_Crawler
+    level:    [12, 13]
+    region:   tahrongi_canyon_n_4
+
+  17256835:
+    template: Canyon_Crawler
+    level:    [12, 13]
+    region:   tahrongi_canyon_n_4
+
+  17256836:
+    template: Herbage_Hunter
+    level:    [29, 29]
+    region:   tahrongi_canyon_n_4
+
+  17256837:
+    template: Canyon_Rarab
+    level:    [10, 11]
+    region:   tahrongi_canyon_nw_3
+
+  17256838:
+    template: Canyon_Rarab
+    level:    [10, 11]
+    region:   tahrongi_canyon_nw_3
+
+  17256839:
+    template: Canyon_Rarab
+    level:    [10, 11]
+    region:   tahrongi_canyon_nw_3
+
+  17256840:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_nw_3
+
+  17256841:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_nw_3
+
+  17256842:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_nw_3
+
+  17256843:
+    template: Strolling_Sapling
+    level:    [10, 11]
+    region:   tahrongi_canyon_nw_3
+
+  17256844:
+    template: Strolling_Sapling
+    level:    [10, 11]
+    region:   tahrongi_canyon_nw_3
+
+  17256845:
+    template: Strolling_Sapling
+    level:    [10, 11]
+    region:   tahrongi_canyon_nw_3
+
+  17256846:
+    template: Killer_Bee
+    level:    [11, 12]
+    region:   tahrongi_canyon_nw_3
+
+  17256847:
+    template: Killer_Bee
+    level:    [11, 12]
+    region:   tahrongi_canyon_nw_3
+
+  17256848:
+    template: Killer_Bee
+    level:    [11, 12]
+    region:   tahrongi_canyon_nw_3
+
+  17256849:
+    template: Canyon_Rarab
+    level:    [10, 11]
+    region:   tahrongi_canyon_nw_3
+
+  17256850:
+    template: Canyon_Rarab
+    level:    [10, 11]
+    region:   tahrongi_canyon_nw_3
+
+  17256851:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_nw_3
+
+  17256852:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_nw_3
+
+  17256853:
+    template: Strolling_Sapling
+    level:    [10, 11]
+    region:   tahrongi_canyon_nw_3
+
+  17256854:
+    template: Strolling_Sapling
+    at:       [-231.238, 31.578, 428.557, 127]
+    level:    [10, 11]
+
+  17256855:
+    template: Killer_Bee
+    at:       [-269.325, 31.552, 488.438, 0]
+    level:    [11, 12]
+
+  17256856:
+    template: Wild_Dhalmel
+    at:       [-236.976, 39.525, 515.551, 96]
+    level:    [15, 16]
+
+  17256857:
+    template: Wild_Dhalmel
+    at:       [-246.599, 39.088, 482.859, 62]
+    level:    [15, 16]
+
+  17256858:
+    template: Wild_Dhalmel
+    at:       [-264.803, 22.525, 384.910, 93]
+    level:    [15, 16]
+
+  17256859:
+    template: Barghest
+    at:       [-253.538, 25.557, 396.842, 109]
+    level:    [8, 11]
+
+  17256860:
+    template: Canyon_Rarab
+    level:    [10, 11]
+    region:   tahrongi_canyon_nw_3
+
+  17256861:
+    template: Canyon_Rarab
+    level:    [10, 11]
+    region:   tahrongi_canyon_nw_3
+
+  17256862:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_nw_3
+
+  17256863:
+    template: Pygmaioi
+    level:    [10, 11]
+    region:   tahrongi_canyon_nw_3
+
+  17256864:
+    template: Strolling_Sapling
+    level:    [10, 11]
+    region:   tahrongi_canyon_nw_3
+
+  17256865:
+    template: Strolling_Sapling
+    level:    [10, 11]
+    region:   tahrongi_canyon_nw_3
+
+  17256866:
+    template: Killer_Bee
+    level:    [11, 12]
+    region:   tahrongi_canyon_nw_3
+
+  17256867:
+    template: Wild_Dhalmel
+    level:    [15, 16]
+    region:   tahrongi_canyon_nw_3
+
+  17256868:
+    template: Wild_Dhalmel
+    level:    [15, 16]
+    region:   tahrongi_canyon_nw_3
+
+  17256869:
+    template: Wild_Dhalmel
+    level:    [15, 16]
+    region:   tahrongi_canyon_nw_3
+
+  17256870:
+    template: Barghest
+    at:       [-324.516, 23.643, 435.492, 127]
+    level:    [8, 11]
+
+  17256871:
+    template: Yagudo_Mendicant
+    level:    [14, 15]
+    region:   tahrongi_canyon_nw_3
+
+  17256872:
+    template: Yagudos_Elemental
+    level:    [8, 9]
+    region:   tahrongi_canyon_nw_3
+
+  17256873:
+    template: Yagudo_Mendicant
+    level:    [14, 15]
+    region:   tahrongi_canyon_nw_3
+
+  17256874:
+    template: Yagudos_Elemental
+    level:    [8, 9]
+    region:   tahrongi_canyon_nw_3
+
+  17256875:
+    template: Yagudo_Piper
+    level:    [14, 15]
+    region:   tahrongi_canyon_nw_3
+
+  17256876:
+    template: Yagudo_Persecutor
+    level:    [14, 15]
+    region:   tahrongi_canyon_nw_3
+
+  17256877:
+    template: Yagudo_Piper
+    level:    [14, 15]
+    region:   tahrongi_canyon_nw_3
+
+  17256878:
+    template: Yagudo_Persecutor
+    level:    [14, 15]
+    region:   tahrongi_canyon_nw_3
+
+  17256879:
+    template: Skeleton_Warrior
+    at:       [-370.163, 15.715, 400.086, 127]
+    level:    [10, 12]
+
+  17256880:
+    template: Skeleton_Sorcerer
+    at:       [-332.396, 22.359, 392.825, 119]
+    level:    [11, 13]
+
+  17256881:
+    template: Earth_Elemental
+    level:    [18, 20]
+    region:   tahrongi_canyon_nw_3
+
+  17256882:
+    template: Akbaba
+    at:       [-396.000, 14.883, 412.129, 127]
+    level:    [12, 13]
+
+  17256883:
+    template: Akbaba
+    at:       [-427.928, 15.621, 432.554, 2]
+    level:    [12, 13]
+
+  17256884:
+    template: Akbaba
+    at:       [-396.732, 14.975, 412.229, 127]
+    level:    [12, 13]
+
+  17256885:
+    template: Akbaba
+    at:       [-406.744, 15.005, 407.171, 117]
+    level:    [12, 13]
+
+  17256886:
+    template: Akbaba
+    at:       [-407.236, 15.355, 429.605, 118]
+    level:    [12, 13]
+
+  17256887:
+    template: Akbaba
+    at:       [-411.442, 15.574, 401.423, 127]
+    level:    [12, 13]
+
+  17256888:
+    template: Skeleton_Warrior
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [10, 12]
+
+  17256889:
+    template: Skeleton_Warrior
+    at:       [-430.313, 15.383, 423.858, 127]
+    level:    [10, 12]
+
+  17256890:
+    template: Skeleton_Sorcerer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [11, 13]
+
+  17256891:
+    template: Skeleton_Sorcerer
+    level:    [11, 13]
+    region:   tahrongi_canyon_nw_2
+
+  17256892:
+    template: Ghost
+    level:    [15, 16]
+    region:   tahrongi_canyon_nw_2
+
+  17256893:
+    template: Ghost
+    level:    [15, 16]
+    region:   tahrongi_canyon_nw_2
+
+  17256894:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_nw
+
+  17256895:
+    template: Canyon_Rarab
+    level:    [9, 10]
+    region:   tahrongi_canyon_nw
+
+  17256896:
+    template: Grenade
+    level:    [15, 17]
+    region:   tahrongi_canyon_nw
+
+  17256897:
+    template: Ghost
+    level:    [15, 16]
+    region:   tahrongi_canyon_nw
+
+  17256898:
+    template: Goblin_Digger
+    level:    [12, 13]
+    region:   tahrongi_canyon_c_2
+
+  17256899:
+    template: Goblin_Archaeologist
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [30, 75]
+
+  17256900:
+    template: Yara_Ma_Yha_Who
+    at:       [271.000, 0.005, -334.000, 127]
+    level:    [14, 14]
+
+  17256901:
+    template: Pixie
+    level:    [51, 54]
+    region:   tahrongi_canyon_c_3
+
+  17256902:
+    template: Pixie
+    level:    [51, 54]
+    region:   tahrongi_canyon_n_6
+
+  17256903:
+    template: Pixie
+    level:    [51, 54]
+    region:   tahrongi_canyon_n_9
+
+  17256904:
+    template: Pixie
+    level:    [51, 54]
+    region:   tahrongi_canyon_n_8
+
+  17256905:
+    template: Pixie
+    level:    [51, 54]
+    region:   tahrongi_canyon_c_10
+
+  17256906:
+    template: Allocamelus
+    at:       [0.000, 0.000, 0.000, 127]
+    level:    [1, 1]
+
+  17256907:
+    template: Yilbegan
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [90, 92]
+
+  17256908:
+    template: Dawon
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [85, 85]
+
+  17256909:
+    template: Tammuz
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [82, 82]
+
+  17256910:
+    template: Chesma
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [82, 82]
+
+  17256911:
+    template: Void_Hare
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17256912:
+    template: Void_Hare
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17256913:
+    template: Void_Hare
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17256914:
+    template: Void_Hare
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17256915:
+    template: Prickly_Sheep
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17256916:
+    template: Prickly_Sheep
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17256917:
+    template: Prickly_Sheep
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17256918:
+    template: Prickly_Sheep
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17256919:
+    template: Smierc
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [92, 95]
+
+  17256920:
+    template: Smierc
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [92, 95]
+
+  17256921:
+    template: Smierc
+    at:       [360.000, 23.500, 280.000, 127]
+    level:    [92, 95]
+
+  17256963:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17256964:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17256965:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17256975:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17256976:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17256977:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17256987:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17256988:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17256989:
+    template: Wayward_Worm
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17256990:
+    template: Tatenashi_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17256991:
+    template: Hizamaru_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17256992:
+    template: Ubuginu_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17256993:
+    template: Hachiryu_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17256994:
+    template: Omodaka_Armor
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17256995:
+    template: Serpopard_Ninlil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17256996:
+    template: Serpopard_Ninlil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17256997:
+    template: Serpopard_Ninlil
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17256998:
+    template: Otherworldly_Rimester
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]

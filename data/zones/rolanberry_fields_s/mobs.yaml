@@ -1,0 +1,3598 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17149953:
+    template: Snipper
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [24, 28]
+
+  17149954:
+    template: Big_Jaw
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [25, 29]
+
+  17149955:
+    template: Horrid_Fluke
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [25, 29]
+
+  17149956:
+    template: Greater_Pugil
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [25, 29]
+
+  17149957:
+    template: Big_Leech
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [25, 29]
+
+  17149958:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   rolanberry_fields_s_ne_4
+
+  17149959:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   rolanberry_fields_s_ne_4
+
+  17149960:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   rolanberry_fields_s_ne_4
+
+  17149961:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   rolanberry_fields_s_ne_4
+
+  17149962:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   rolanberry_fields_s_ne_4
+
+  17149963:
+    template: Death_Wasp
+    level:    [38, 42]
+    region:   rolanberry_fields_s_ne_4
+
+  17149964:
+    template: Death_Wasp
+    level:    [38, 42]
+    region:   rolanberry_fields_s_ne_4
+
+  17149965:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   rolanberry_fields_s_ne_3
+
+  17149966:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   rolanberry_fields_s_ne_3
+
+  17149967:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   rolanberry_fields_s_ne_3
+
+  17149968:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   rolanberry_fields_s_ne_3
+
+  17149969:
+    template: Death_Wasp
+    level:    [38, 42]
+    region:   rolanberry_fields_s_ne_3
+
+  17149970:
+    template: Death_Wasp
+    level:    [38, 42]
+    region:   rolanberry_fields_s_ne_3
+
+  17149971:
+    template: Death_Wasp
+    level:    [38, 42]
+    region:   rolanberry_fields_s_ne_3
+
+  17149972:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   rolanberry_fields_s_n_9
+
+  17149973:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   rolanberry_fields_s_n_9
+
+  17149974:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   rolanberry_fields_s_n_9
+
+  17149975:
+    template: Death_Wasp
+    level:    [38, 42]
+    region:   rolanberry_fields_s_n_9
+
+  17149976:
+    template: Death_Wasp
+    level:    [38, 42]
+    region:   rolanberry_fields_s_n_9
+
+  17149977:
+    template: Death_Wasp
+    level:    [38, 42]
+    region:   rolanberry_fields_s_n_9
+
+  17149978:
+    template: Death_Wasp
+    level:    [38, 42]
+    region:   rolanberry_fields_s_n_9
+
+  17149979:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   rolanberry_fields_s_n_10
+
+  17149980:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   rolanberry_fields_s_n_10
+
+  17149981:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   rolanberry_fields_s_n_10
+
+  17149982:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   rolanberry_fields_s_n_10
+
+  17149983:
+    template: Lycopodium
+    level:    [28, 32]
+    region:   rolanberry_fields_s_n_10
+
+  17149984:
+    template: Death_Wasp
+    level:    [38, 42]
+    region:   rolanberry_fields_s_n_10
+
+  17149985:
+    template: Death_Wasp
+    level:    [38, 42]
+    region:   rolanberry_fields_s_n_10
+
+  17149986:
+    template: Lamina
+    level:    [57, 58]
+    region:   rolanberry_fields_s_n_10
+
+  17149987:
+    template: Death_Wasp
+    level:    [38, 42]
+    region:   rolanberry_fields_s_ne_6
+
+  17149988:
+    template: Death_Wasp
+    level:    [38, 42]
+    region:   rolanberry_fields_s_ne_6
+
+  17149989:
+    template: Death_Wasp
+    level:    [38, 42]
+    region:   rolanberry_fields_s_ne_6
+
+  17149990:
+    template: Death_Wasp
+    level:    [38, 42]
+    region:   rolanberry_fields_s_ne_2
+
+  17149991:
+    template: Death_Wasp
+    level:    [38, 42]
+    region:   rolanberry_fields_s_ne_2
+
+  17149992:
+    template: Death_Wasp
+    level:    [38, 42]
+    region:   rolanberry_fields_s_ne_2
+
+  17149993:
+    template: Goobbue_Farmer
+    level:    [59, 61]
+    region:   rolanberry_fields_s_ne_2
+
+  17149994:
+    template: Death_Wasp
+    level:    [38, 42]
+    region:   rolanberry_fields_s_ne_17
+
+  17149995:
+    template: Death_Wasp
+    level:    [38, 42]
+    region:   rolanberry_fields_s_ne_17
+
+  17149996:
+    template: Goobbue_Farmer
+    level:    [59, 61]
+    region:   rolanberry_fields_s_ne_17
+
+  17149997:
+    template: Goobbue_Farmer
+    level:    [59, 61]
+    region:   rolanberry_fields_s_ne_17
+
+  17149998:
+    template: Fire_Elemental
+    at:       [287.180, 0.112, 162.391, 62]
+    level:    [43, 43]
+
+  17149999:
+    template: Death_Wasp
+    level:    [38, 42]
+    region:   rolanberry_fields_s_ne_39
+
+  17150000:
+    template: Death_Wasp
+    level:    [38, 42]
+    region:   rolanberry_fields_s_ne_39
+
+  17150001:
+    template: Goobbue_Farmer
+    level:    [59, 61]
+    region:   rolanberry_fields_s_ne_39
+
+  17150002:
+    template: Goobbue_Farmer
+    level:    [59, 61]
+    region:   rolanberry_fields_s_e_16
+
+  17150003:
+    template: Goobbue_Farmer
+    level:    [59, 61]
+    region:   rolanberry_fields_s_e_16
+
+  17150004:
+    template: Chigoe
+    at:       [267.070, 7.828, 82.067, 41]
+    level:    [75, 78]
+
+  17150005:
+    template: Chigoe
+    at:       [266.000, 7.771, 84.020, 169]
+    level:    [75, 78]
+
+  17150006:
+    template: Chigoe
+    at:       [206.060, 7.724, 77.281, 133]
+    level:    [75, 78]
+
+  17150007:
+    template: Chigoe
+    at:       [212.390, 7.837, 76.372, 5]
+    level:    [75, 78]
+
+  17150008:
+    template: Chigoe
+    at:       [225.030, 7.655, 47.544, 248]
+    level:    [75, 78]
+
+  17150009:
+    template: Chigoe
+    at:       [216.790, 7.617, 45.992, 120]
+    level:    [75, 78]
+
+  17150010:
+    template: Goobbue_Farmer
+    level:    [59, 61]
+    region:   rolanberry_fields_s_ne_7
+
+  17150011:
+    template: Goobbue_Farmer
+    level:    [59, 61]
+    region:   rolanberry_fields_s_ne_7
+
+  17150012:
+    template: Moon_Bat
+    level:    [38, 41]
+    region:   rolanberry_fields_s_ne_7
+
+  17150013:
+    template: Moon_Bat
+    level:    [38, 41]
+    region:   rolanberry_fields_s_ne_7
+
+  17150014:
+    template: Wight
+    level:    [50, 60]
+    region:   rolanberry_fields_s_ne_7
+
+  17150015:
+    template: Wight
+    level:    [50, 60]
+    region:   rolanberry_fields_s_ne_7
+
+  17150016:
+    template: Wight
+    level:    [50, 60]
+    region:   rolanberry_fields_s_e_16
+
+  17150017:
+    template: Wight
+    level:    [50, 60]
+    region:   rolanberry_fields_s_e_16
+
+  17150018:
+    template: Wight
+    level:    [50, 60]
+    region:   rolanberry_fields_s_e_16
+
+  17150019:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_ne_38
+
+  17150020:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_ne_38
+
+  17150021:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_ne_38
+
+  17150022:
+    template: Midnight_Wings
+    level:    [38, 42]
+    region:   rolanberry_fields_s_ne_38
+
+  17150023:
+    template: Midnight_Wings
+    level:    [38, 42]
+    region:   rolanberry_fields_s_ne_38
+
+  17150024:
+    template: Poison_Leech
+    level:    [44, 47]
+    region:   rolanberry_fields_s_e_14
+
+  17150025:
+    template: Poison_Leech
+    level:    [44, 47]
+    region:   rolanberry_fields_s_e_14
+
+  17150026:
+    template: Poison_Leech
+    level:    [44, 47]
+    region:   rolanberry_fields_s_e_11
+
+  17150027:
+    template: Poison_Leech
+    level:    [44, 47]
+    region:   rolanberry_fields_s_e_11
+
+  17150028:
+    template: Goblin_Patrolman
+    level:    [56, 59]
+    region:   rolanberry_fields_s_e_11
+
+  17150029:
+    template: Goblin_Franctireur
+    level:    [56, 59]
+    region:   rolanberry_fields_s_e_11
+
+  17150030:
+    template: Goblins_Crawler
+    level:    [51, 53]
+    region:   rolanberry_fields_s_e_11
+
+  17150031:
+    template: Scabrous_Slug
+    level:    [56, 62]
+    region:   rolanberry_fields_s_e_6
+
+  17150032:
+    template: Poison_Leech
+    level:    [44, 47]
+    region:   rolanberry_fields_s_e_6
+
+  17150033:
+    template: Poison_Leech
+    level:    [44, 47]
+    region:   rolanberry_fields_s_e_6
+
+  17150034:
+    template: Goblin_Draftee
+    level:    [56, 59]
+    region:   rolanberry_fields_s_e_6
+
+  17150035:
+    template: Scabrous_Slug
+    level:    [56, 62]
+    region:   rolanberry_fields_s_e_8
+
+  17150036:
+    template: Scabrous_Slug
+    level:    [56, 62]
+    region:   rolanberry_fields_s_e_8
+
+  17150037:
+    template: Poison_Leech
+    level:    [44, 47]
+    region:   rolanberry_fields_s_e_8
+
+  17150038:
+    template: Poison_Leech
+    level:    [44, 47]
+    region:   rolanberry_fields_s_e_8
+
+  17150039:
+    template: Goblin_Franctireur
+    level:    [56, 59]
+    region:   rolanberry_fields_s_e_8
+
+  17150040:
+    template: Scabrous_Slug
+    level:    [56, 62]
+    region:   rolanberry_fields_s_e_4
+
+  17150041:
+    template: Scabrous_Slug
+    level:    [56, 62]
+    region:   rolanberry_fields_s_e_4
+
+  17150042:
+    template: Poison_Leech
+    level:    [44, 47]
+    region:   rolanberry_fields_s_e_4
+
+  17150043:
+    template: Poison_Leech
+    level:    [44, 47]
+    region:   rolanberry_fields_s_e_4
+
+  17150044:
+    template: Goblin_Draftee
+    level:    [56, 59]
+    region:   rolanberry_fields_s_e_4
+
+  17150045:
+    template: Scabrous_Slug
+    level:    [56, 62]
+    region:   rolanberry_fields_s_e_3
+
+  17150046:
+    template: Scabrous_Slug
+    level:    [56, 62]
+    region:   rolanberry_fields_s_e_3
+
+  17150047:
+    template: Dyinyinga
+    at:       [176.060, -31.940, -204.130, 240]
+    level:    [65, 68]
+
+  17150048:
+    template: Scabrous_Slug
+    level:    [56, 62]
+    region:   rolanberry_fields_s_e_7
+
+  17150049:
+    template: Water_Elemental
+    level:    [43, 43]
+    region:   rolanberry_fields_s_e_7
+
+  17150050:
+    template: Goblin_Patrolman
+    level:    [56, 59]
+    region:   rolanberry_fields_s_e_5
+
+  17150051:
+    template: Goblin_Franctireur
+    level:    [56, 59]
+    region:   rolanberry_fields_s_e_5
+
+  17150052:
+    template: Evil_Spirit
+    level:    [43, 43]
+    region:   rolanberry_fields_s_e_5
+
+  17150053:
+    template: Goblins_Crawler
+    level:    [51, 53]
+    region:   rolanberry_fields_s_e_5
+
+  17150054:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_e_12
+
+  17150055:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_e_12
+
+  17150056:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_e_12
+
+  17150057:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_e_12
+
+  17150058:
+    template: Midnight_Wings
+    level:    [38, 42]
+    region:   rolanberry_fields_s_e_12
+
+  17150059:
+    template: Midnight_Wings
+    level:    [38, 42]
+    region:   rolanberry_fields_s_e_12
+
+  17150060:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_n_7
+
+  17150061:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_n_7
+
+  17150062:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_n_7
+
+  17150063:
+    template: Goobbue_Farmer
+    level:    [59, 61]
+    region:   rolanberry_fields_s_n_7
+
+  17150064:
+    template: Goobbue_Farmer
+    level:    [59, 61]
+    region:   rolanberry_fields_s_n_8
+
+  17150065:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_n_5
+
+  17150066:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_n_5
+
+  17150067:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_n_5
+
+  17150068:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_n_5
+
+  17150069:
+    template: Goobbue_Farmer
+    level:    [59, 61]
+    region:   rolanberry_fields_s_n_6
+
+  17150070:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_n_3
+
+  17150071:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_n_3
+
+  17150072:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_n_3
+
+  17150073:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_n_3
+
+  17150074:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_n_3
+
+  17150075:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_c
+
+  17150076:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_c
+
+  17150077:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_c
+
+  17150078:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_c
+
+  17150079:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_c
+
+  17150080:
+    template: Goobbue_Farmer
+    level:    [59, 61]
+    region:   rolanberry_fields_s_c
+
+  17150081:
+    template: Erle
+    at:       [-298.487, 3.637, 54.586, 242]
+    level:    [62, 62]
+
+  17150082:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_c_3
+
+  17150083:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_c_3
+
+  17150084:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_c_3
+
+  17150085:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_c_3
+
+  17150086:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_c_3
+
+  17150087:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_c_5
+
+  17150088:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_c_5
+
+  17150089:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_c_5
+
+  17150090:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_c_5
+
+  17150091:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_c_5
+
+  17150092:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_c_6
+
+  17150093:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_c_6
+
+  17150094:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_c_6
+
+  17150095:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_c_6
+
+  17150096:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_c_6
+
+  17150097:
+    template: Goobbue_Farmer
+    level:    [59, 61]
+    region:   rolanberry_fields_s_c_6
+
+  17150098:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_c_2
+
+  17150099:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_c_2
+
+  17150100:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_c_2
+
+  17150101:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_s_11
+
+  17150102:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_s_11
+
+  17150103:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_s_11
+
+  17150104:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_s_11
+
+  17150105:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_s_14
+
+  17150106:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_s_14
+
+  17150107:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_s_14
+
+  17150108:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_s_14
+
+  17150109:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_s_21
+
+  17150110:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_s_21
+
+  17150111:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_s_21
+
+  17150112:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_s_21
+
+  17150113:
+    template: Goobbue_Farmer
+    level:    [59, 61]
+    region:   rolanberry_fields_s_s_21
+
+  17150114:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_s_26
+
+  17150115:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_s_26
+
+  17150116:
+    template: Death_Jacket
+    level:    [38, 48]
+    region:   rolanberry_fields_s_s_26
+
+  17150117:
+    template: Chigoe
+    at:       [-373.800, 7.373, 309.277, 30]
+    level:    [75, 78]
+
+  17150118:
+    template: Chigoe
+    at:       [-371.500, 7.874, 316.903, 201]
+    level:    [75, 78]
+
+  17150119:
+    template: Chigoe
+    at:       [-373.100, 7.897, 317.871, 246]
+    level:    [75, 78]
+
+  17150120:
+    template: Chigoe
+    at:       [-380.300, 7.641, 316.158, 124]
+    level:    [75, 78]
+
+  17150121:
+    template: Dragonfly
+    level:    [58, 62]
+    region:   rolanberry_fields_s_nw_3
+
+  17150122:
+    template: Dragonfly
+    level:    [58, 62]
+    region:   rolanberry_fields_s_nw_3
+
+  17150123:
+    template: Dragonfly
+    level:    [58, 62]
+    region:   rolanberry_fields_s_nw_2
+
+  17150124:
+    template: Dragonfly
+    level:    [58, 62]
+    region:   rolanberry_fields_s_nw_2
+
+  17150125:
+    template: Dragonfly
+    level:    [58, 62]
+    region:   rolanberry_fields_s_nw_2
+
+  17150126:
+    template: Dragonfly
+    level:    [58, 62]
+    region:   rolanberry_fields_s_nw_2
+
+  17150127:
+    template: Goobbue_Farmer
+    level:    [59, 61]
+    region:   rolanberry_fields_s_n_2
+
+  17150128:
+    template: Fire_Elemental
+    at:       [-285.400, 7.987, 220.973, 59]
+    level:    [43, 43]
+
+  17150129:
+    template: Champion_Crawler
+    level:    [93, 94]
+    region:   rolanberry_fields_s_nw_4
+
+  17150130:
+    template: Champion_Crawler
+    level:    [93, 94]
+    region:   rolanberry_fields_s_nw_4
+
+  17150131:
+    template: Champion_Crawler
+    level:    [93, 94]
+    region:   rolanberry_fields_s_nw_4
+
+  17150132:
+    template: Champion_Crawler
+    level:    [93, 94]
+    region:   rolanberry_fields_s_nw_4
+
+  17150133:
+    template: Champion_Crawler
+    level:    [93, 94]
+    region:   rolanberry_fields_s_nw_4
+
+  17150134:
+    template: Champion_Crawler
+    level:    [93, 94]
+    region:   rolanberry_fields_s_nw
+
+  17150135:
+    template: Champion_Crawler
+    level:    [93, 94]
+    region:   rolanberry_fields_s_nw
+
+  17150136:
+    template: Champion_Crawler
+    level:    [93, 94]
+    region:   rolanberry_fields_s_nw
+
+  17150137:
+    template: Champion_Crawler
+    level:    [93, 94]
+    region:   rolanberry_fields_s_nw
+
+  17150138:
+    template: Champion_Crawler
+    level:    [93, 94]
+    region:   rolanberry_fields_s_nw
+
+  17150139:
+    template: Champion_Crawler
+    level:    [93, 94]
+    region:   rolanberry_fields_s_w_13
+
+  17150140:
+    template: Champion_Crawler
+    level:    [93, 94]
+    region:   rolanberry_fields_s_w_13
+
+  17150141:
+    template: Champion_Crawler
+    level:    [93, 94]
+    region:   rolanberry_fields_s_w_13
+
+  17150142:
+    template: Champion_Crawler
+    level:    [93, 94]
+    region:   rolanberry_fields_s_w_13
+
+  17150143:
+    template: Champion_Crawler
+    level:    [93, 94]
+    region:   rolanberry_fields_s_w_13
+
+  17150144:
+    template: Champion_Crawler
+    level:    [93, 94]
+    region:   rolanberry_fields_s_w_11
+
+  17150145:
+    template: Champion_Crawler
+    level:    [93, 94]
+    region:   rolanberry_fields_s_w_11
+
+  17150146:
+    template: Champion_Crawler
+    level:    [93, 94]
+    region:   rolanberry_fields_s_w_11
+
+  17150147:
+    template: Champion_Crawler
+    level:    [93, 94]
+    region:   rolanberry_fields_s_w_11
+
+  17150148:
+    template: Champion_Crawler
+    level:    [93, 94]
+    region:   rolanberry_fields_s_w_11
+
+  17150149:
+    template: Champion_Crawler
+    level:    [93, 94]
+    region:   rolanberry_fields_s_w_9
+
+  17150150:
+    template: Champion_Crawler
+    level:    [93, 94]
+    region:   rolanberry_fields_s_w_9
+
+  17150151:
+    template: Champion_Crawler
+    level:    [93, 94]
+    region:   rolanberry_fields_s_w_9
+
+  17150152:
+    template: Champion_Crawler
+    level:    [93, 94]
+    region:   rolanberry_fields_s_w_9
+
+  17150153:
+    template: Champion_Crawler
+    level:    [93, 94]
+    region:   rolanberry_fields_s_w_9
+
+  17150154:
+    template: Berry_Grub
+    level:    [42, 52]
+    region:   rolanberry_fields_s_w_10
+
+  17150155:
+    template: Berry_Grub
+    level:    [42, 52]
+    region:   rolanberry_fields_s_w_10
+
+  17150156:
+    template: Berry_Grub
+    level:    [42, 52]
+    region:   rolanberry_fields_s_w_10
+
+  17150157:
+    template: Midnight_Wings
+    level:    [38, 42]
+    region:   rolanberry_fields_s_w_10
+
+  17150158:
+    template: Berry_Grub
+    level:    [42, 52]
+    region:   rolanberry_fields_s_w_7
+
+  17150159:
+    template: Berry_Grub
+    level:    [42, 52]
+    region:   rolanberry_fields_s_w_7
+
+  17150160:
+    template: Berry_Grub
+    level:    [42, 52]
+    region:   rolanberry_fields_s_w_7
+
+  17150161:
+    template: Berry_Grub
+    level:    [42, 52]
+    region:   rolanberry_fields_s_w_7
+
+  17150162:
+    template: Midnight_Wings
+    level:    [38, 42]
+    region:   rolanberry_fields_s_w_7
+
+  17150163:
+    template: Midnight_Wings
+    level:    [38, 42]
+    region:   rolanberry_fields_s_w_7
+
+  17150164:
+    template: Scabrous_Slug
+    level:    [56, 62]
+    region:   rolanberry_fields_s_w_6
+
+  17150165:
+    template: Scabrous_Slug
+    level:    [56, 62]
+    region:   rolanberry_fields_s_w_6
+
+  17150166:
+    template: Scabrous_Slug
+    level:    [56, 62]
+    region:   rolanberry_fields_s_w_8
+
+  17150167:
+    template: Scabrous_Slug
+    level:    [56, 62]
+    region:   rolanberry_fields_s_w_8
+
+  17150168:
+    template: Scabrous_Slug
+    level:    [56, 62]
+    region:   rolanberry_fields_s_w_3
+
+  17150169:
+    template: Poison_Leech
+    level:    [44, 47]
+    region:   rolanberry_fields_s_w_3
+
+  17150170:
+    template: Poison_Leech
+    level:    [44, 47]
+    region:   rolanberry_fields_s_w_3
+
+  17150171:
+    template: Water_Elemental
+    level:    [43, 43]
+    region:   rolanberry_fields_s_w_3
+
+  17150172:
+    template: Berry_Grub
+    level:    [42, 52]
+    region:   rolanberry_fields_s_w_4
+
+  17150173:
+    template: Berry_Grub
+    level:    [42, 52]
+    region:   rolanberry_fields_s_w_4
+
+  17150174:
+    template: Berry_Grub
+    level:    [42, 52]
+    region:   rolanberry_fields_s_w_4
+
+  17150175:
+    template: Berry_Grub
+    level:    [42, 52]
+    region:   rolanberry_fields_s_w_4
+
+  17150176:
+    template: Poison_Leech
+    level:    [44, 47]
+    region:   rolanberry_fields_s_w
+
+  17150177:
+    template: Poison_Leech
+    level:    [44, 47]
+    region:   rolanberry_fields_s_w
+
+  17150178:
+    template: Scabrous_Slug
+    level:    [56, 62]
+    region:   rolanberry_fields_s_w_2
+
+  17150179:
+    template: Scabrous_Slug
+    level:    [56, 62]
+    region:   rolanberry_fields_s_w_2
+
+  17150180:
+    template: Poison_Leech
+    level:    [44, 47]
+    region:   rolanberry_fields_s_w_2
+
+  17150181:
+    template: Poison_Leech
+    level:    [44, 47]
+    region:   rolanberry_fields_s_w_2
+
+  17150182:
+    template: Evil_Spirit
+    level:    [43, 43]
+    region:   rolanberry_fields_s_w_2
+
+  17150183:
+    template: Clipper
+    level:    [43, 45]
+    region:   rolanberry_fields_s_sw_2
+
+  17150184:
+    template: Clipper
+    level:    [43, 45]
+    region:   rolanberry_fields_s_sw_2
+
+  17150185:
+    template: Clipper
+    level:    [43, 45]
+    region:   rolanberry_fields_s_sw_2
+
+  17150186:
+    template: Water_Elemental
+    level:    [43, 43]
+    region:   rolanberry_fields_s_sw_2
+
+  17150187:
+    template: Goblin_Draftee
+    level:    [56, 59]
+    region:   rolanberry_fields_s_sw_2
+
+  17150188:
+    template: Clipper
+    level:    [43, 45]
+    region:   rolanberry_fields_s_sw
+
+  17150189:
+    template: Clipper
+    level:    [43, 45]
+    region:   rolanberry_fields_s_sw
+
+  17150190:
+    template: Clipper
+    level:    [43, 45]
+    region:   rolanberry_fields_s_sw
+
+  17150191:
+    template: Goblin_Patrolman
+    level:    [56, 59]
+    region:   rolanberry_fields_s_sw
+
+  17150192:
+    template: Goblins_Crawler
+    level:    [51, 53]
+    region:   rolanberry_fields_s_sw
+
+  17150193:
+    template: Evil_Spirit
+    level:    [43, 43]
+    region:   rolanberry_fields_s_sw
+
+  17150194:
+    template: Goobbue_Farmer
+    level:    [59, 61]
+    region:   rolanberry_fields_s_s_7
+
+  17150195:
+    template: Moon_Bat
+    level:    [38, 41]
+    region:   rolanberry_fields_s_s_7
+
+  17150196:
+    template: Moon_Bat
+    level:    [38, 41]
+    region:   rolanberry_fields_s_s_7
+
+  17150197:
+    template: Ochu
+    level:    [64, 67]
+    region:   rolanberry_fields_s_sw_8
+
+  17150198:
+    template: Moon_Bat
+    level:    [38, 41]
+    region:   rolanberry_fields_s_sw_8
+
+  17150199:
+    template: Moon_Bat
+    level:    [38, 41]
+    region:   rolanberry_fields_s_sw_8
+
+  17150200:
+    template: Ochu
+    level:    [64, 67]
+    region:   rolanberry_fields_s_s_2
+
+  17150201:
+    template: Moon_Bat
+    level:    [38, 41]
+    region:   rolanberry_fields_s_s_2
+
+  17150202:
+    template: Goobbue_Farmer
+    level:    [59, 61]
+    region:   rolanberry_fields_s_s_19
+
+  17150203:
+    template: Old_Quadav
+    level:    [65, 69]
+    region:   rolanberry_fields_s_s_18
+
+  17150204:
+    template: Heliodor_Quadav
+    level:    [65, 69]
+    region:   rolanberry_fields_s_s_18
+
+  17150205:
+    template: Hawker
+    level:    [38, 48]
+    region:   rolanberry_fields_s_s_24
+
+  17150206:
+    template: Hawker
+    level:    [38, 48]
+    region:   rolanberry_fields_s_s_24
+
+  17150207:
+    template: Hawker
+    level:    [38, 48]
+    region:   rolanberry_fields_s_s_24
+
+  17150208:
+    template: Goobbue_Farmer
+    level:    [59, 61]
+    region:   rolanberry_fields_s_s_24
+
+  17150209:
+    template: Fire_Elemental
+    at:       [-14.520, -8.348, -729.870, 250]
+    level:    [43, 43]
+
+  17150210:
+    template: Hawker
+    level:    [38, 48]
+    region:   rolanberry_fields_s_s_25
+
+  17150211:
+    template: Hawker
+    level:    [38, 48]
+    region:   rolanberry_fields_s_s_25
+
+  17150212:
+    template: Hawker
+    level:    [38, 48]
+    region:   rolanberry_fields_s_s_25
+
+  17150213:
+    template: Hawker
+    level:    [38, 48]
+    region:   rolanberry_fields_s_s_25
+
+  17150214:
+    template: Hawker
+    level:    [38, 48]
+    region:   rolanberry_fields_s_s_27
+
+  17150215:
+    template: Hawker
+    level:    [38, 48]
+    region:   rolanberry_fields_s_s_27
+
+  17150216:
+    template: Goobbue_Farmer
+    level:    [59, 61]
+    region:   rolanberry_fields_s_c_9
+
+  17150217:
+    template: Goobbue_Farmer
+    level:    [59, 61]
+    region:   rolanberry_fields_s_c_9
+
+  17150218:
+    template: Goobbue_Farmer
+    level:    [59, 61]
+    region:   rolanberry_fields_s_s_22
+
+  17150219:
+    template: Goobbue_Farmer
+    level:    [59, 61]
+    region:   rolanberry_fields_s_s_22
+
+  17150220:
+    template: Fire_Elemental
+    at:       [-61.810, -2.003, -418.350, 160]
+    level:    [43, 43]
+
+  17150221:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_s_17
+
+  17150222:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_s_17
+
+  17150223:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_s_17
+
+  17150224:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_s_17
+
+  17150225:
+    template: Midnight_Wings
+    level:    [38, 42]
+    region:   rolanberry_fields_s_s_17
+
+  17150226:
+    template: Midnight_Wings
+    level:    [38, 42]
+    region:   rolanberry_fields_s_s_17
+
+  17150227:
+    template: Goobbue_Farmer
+    level:    [59, 61]
+    region:   rolanberry_fields_s_s_20
+
+  17150228:
+    template: Goobbue_Farmer
+    level:    [59, 61]
+    region:   rolanberry_fields_s_s_20
+
+  17150229:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_e_2
+
+  17150230:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_e_2
+
+  17150231:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_e_2
+
+  17150232:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_e_2
+
+  17150233:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_c_16
+
+  17150234:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_c_16
+
+  17150235:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_c_16
+
+  17150236:
+    template: Goobbue_Farmer
+    level:    [59, 61]
+    region:   rolanberry_fields_s_c_16
+
+  17150237:
+    template: Goobbue_Farmer
+    level:    [59, 61]
+    region:   rolanberry_fields_s_e
+
+  17150238:
+    template: Goobbue_Farmer
+    level:    [59, 61]
+    region:   rolanberry_fields_s_e
+
+  17150239:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_c_17
+
+  17150240:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_c_17
+
+  17150241:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_c_14
+
+  17150242:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_c_14
+
+  17150243:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_c_14
+
+  17150244:
+    template: Goobbue_Farmer
+    level:    [59, 61]
+    region:   rolanberry_fields_s_c_15
+
+  17150245:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_c_12
+
+  17150246:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_c_12
+
+  17150247:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_c_12
+
+  17150248:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_c_8
+
+  17150249:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_c_8
+
+  17150250:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_c_8
+
+  17150251:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_c_11
+
+  17150252:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_c_11
+
+  17150253:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_c_11
+
+  17150254:
+    template: Goobbue_Farmer
+    level:    [59, 61]
+    region:   rolanberry_fields_s_c_11
+
+  17150255:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_c_13
+
+  17150256:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_c_13
+
+  17150257:
+    template: Coppercap
+    level:    [47, 49]
+    region:   rolanberry_fields_s_c_7
+
+  17150258:
+    template: Coppercap
+    at:       [-202.500, -8.288, -47.339, 18]
+    level:    [47, 49]
+
+  17150259:
+    template: Ochu
+    level:    [64, 67]
+    region:   rolanberry_fields_s_s_9
+
+  17150260:
+    template: Ochu
+    level:    [64, 67]
+    region:   rolanberry_fields_s_s_9
+
+  17150261:
+    template: Ochu
+    level:    [64, 67]
+    region:   rolanberry_fields_s_s_4
+
+  17150262:
+    template: Ochu
+    level:    [64, 67]
+    region:   rolanberry_fields_s_s_5
+
+  17150263:
+    template: Ochu
+    level:    [64, 67]
+    region:   rolanberry_fields_s_s_10
+
+  17150264:
+    template: Ochu
+    level:    [64, 67]
+    region:   rolanberry_fields_s_sw_5
+
+  17150265:
+    template: Ochu
+    level:    [64, 67]
+    region:   rolanberry_fields_s_sw_5
+
+  17150266:
+    template: Worker_Crawler
+    level:    [60, 63]
+    region:   rolanberry_fields_s_sw_10
+
+  17150267:
+    template: Worker_Crawler
+    level:    [60, 63]
+    region:   rolanberry_fields_s_sw_10
+
+  17150268:
+    template: Worker_Crawler
+    level:    [60, 63]
+    region:   rolanberry_fields_s_sw_10
+
+  17150269:
+    template: Worker_Crawler
+    level:    [60, 63]
+    region:   rolanberry_fields_s_s_6
+
+  17150270:
+    template: Worker_Crawler
+    level:    [60, 63]
+    region:   rolanberry_fields_s_s_6
+
+  17150271:
+    template: Worker_Crawler
+    level:    [60, 63]
+    region:   rolanberry_fields_s_s_6
+
+  17150272:
+    template: Worker_Crawler
+    level:    [60, 63]
+    region:   rolanberry_fields_s_sw_11
+
+  17150273:
+    template: Worker_Crawler
+    level:    [60, 63]
+    region:   rolanberry_fields_s_sw_11
+
+  17150274:
+    template: Worker_Crawler
+    level:    [60, 63]
+    region:   rolanberry_fields_s_sw_7
+
+  17150275:
+    template: Worker_Crawler
+    level:    [60, 63]
+    region:   rolanberry_fields_s_sw_7
+
+  17150276:
+    template: Worker_Crawler
+    level:    [60, 63]
+    region:   rolanberry_fields_s_sw_7
+
+  17150277:
+    template: Ochu
+    level:    [64, 67]
+    region:   rolanberry_fields_s_sw_9
+
+  17150278:
+    template: Ochu
+    level:    [64, 67]
+    region:   rolanberry_fields_s_sw_3
+
+  17150279:
+    template: Ochu
+    level:    [64, 67]
+    region:   rolanberry_fields_s_sw_3
+
+  17150280:
+    template: Delicieuse_Delphine
+    at:       [-515.400, -23.780, -453.510, 107]
+    level:    [72, 73]
+
+  17150281:
+    template: Silver_Quadav
+    level:    [65, 68]
+    region:   rolanberry_fields_s_s_13
+
+  17150282:
+    template: Emerald_Quadav
+    level:    [65, 68]
+    region:   rolanberry_fields_s_s_13
+
+  17150283:
+    template: Bronze_Quadav
+    level:    [65, 68]
+    region:   rolanberry_fields_s_s_8
+
+  17150284:
+    template: Sapphirine_Quadav
+    level:    [65, 68]
+    region:   rolanberry_fields_s_s_8
+
+  17150285:
+    template: Brass_Quadav
+    level:    [65, 69]
+    region:   rolanberry_fields_s_s_15
+
+  17150286:
+    template: Emerald_Quadav
+    level:    [65, 68]
+    region:   rolanberry_fields_s_s_15
+
+  17150287:
+    template: Old_Quadav
+    level:    [65, 69]
+    region:   rolanberry_fields_s_s
+
+  17150288:
+    template: Bronze_Quadav
+    level:    [65, 68]
+    region:   rolanberry_fields_s_s
+
+  17150289:
+    template: Brass_Quadav
+    level:    [65, 69]
+    region:   rolanberry_fields_s_sw_9
+
+  17150290:
+    template: Silver_Quadav
+    level:    [65, 68]
+    region:   rolanberry_fields_s_sw_9
+
+  17150291:
+    template: Heliodor_Quadav
+    level:    [65, 69]
+    region:   rolanberry_fields_s_sw_9
+
+  17150292:
+    template: Old_Quadav
+    level:    [65, 69]
+    region:   rolanberry_fields_s_sw_4
+
+  17150293:
+    template: Sapphirine_Quadav
+    level:    [65, 68]
+    region:   rolanberry_fields_s_sw_4
+
+  17150294:
+    template: Emerald_Quadav
+    level:    [65, 68]
+    region:   rolanberry_fields_s_sw_4
+
+  17150295:
+    template: Bronze_Quadav
+    level:    [65, 68]
+    region:   rolanberry_fields_s_s_3
+
+  17150296:
+    template: Heliodor_Quadav
+    level:    [65, 69]
+    region:   rolanberry_fields_s_s_3
+
+  17150297:
+    template: Brass_Quadav
+    level:    [65, 69]
+    region:   rolanberry_fields_s_s_3
+
+  17150298:
+    template: Bronze_Quadav
+    level:    [65, 68]
+    region:   rolanberry_fields_s_s_10
+
+  17150299:
+    template: Silver_Quadav
+    level:    [65, 68]
+    region:   rolanberry_fields_s_s_10
+
+  17150300:
+    template: Old_Quadav
+    level:    [65, 69]
+    region:   rolanberry_fields_s_s_10
+
+  17150301:
+    template: Brass_Quadav
+    level:    [65, 69]
+    region:   rolanberry_fields_s_sw_6
+
+  17150302:
+    template: Heliodor_Quadav
+    level:    [65, 69]
+    region:   rolanberry_fields_s_sw_6
+
+  17150303:
+    template: Emerald_Quadav
+    level:    [65, 68]
+    region:   rolanberry_fields_s_sw_6
+
+  17150304:
+    template: Sprite
+    level:    [61, 63]
+    region:   rolanberry_fields_s_ne
+
+  17150305:
+    template: Sprite
+    level:    [61, 63]
+    region:   rolanberry_fields_s_ne_5
+
+  17150306:
+    template: Sprite
+    level:    [61, 63]
+    region:   rolanberry_fields_s_c_10
+
+  17150307:
+    template: Sprite
+    level:    [61, 63]
+    region:   rolanberry_fields_s_n
+
+  17150308:
+    template: Sprite
+    level:    [61, 63]
+    region:   rolanberry_fields_s_s_16
+
+  17150309:
+    template: Goblin_Skirmisher
+    level:    [58, 63]
+    region:   rolanberry_fields_s_n
+
+  17150310:
+    template: Goblin_Mine
+    level:    [53, 53]
+    region:   rolanberry_fields_s_n_4
+
+  17150311:
+    template: Goblin_Skirmisher
+    level:    [58, 63]
+    region:   rolanberry_fields_s_w_5
+
+  17150312:
+    template: Goblin_Mine
+    level:    [53, 53]
+    region:   rolanberry_fields_s_w_12
+
+  17150313:
+    template: Goblin_Skirmisher
+    level:    [58, 63]
+    region:   rolanberry_fields_s_c_4
+
+  17150314:
+    template: Goblin_Mine
+    level:    [53, 53]
+    region:   rolanberry_fields_s_s_12
+
+  17150315:
+    template: Goblin_Skirmisher
+    level:    [58, 63]
+    region:   rolanberry_fields_s_s_16
+
+  17150316:
+    template: Goblin_Mine
+    level:    [53, 53]
+    region:   rolanberry_fields_s_s_23
+
+  17150317:
+    template: Sandworm
+    at:       [289.270, 6.946, 210.951, 82]
+    level:    [85, 85]
+
+  17150318:
+    template: Quadav_Transporter
+    at:       [-208.000, 0.735, -152.990, 156]
+    level:    [60, 60]
+
+  17150319:
+    template: Quadav_Guard
+    at:       [-148.300, 0.709, -210.950, 161]
+    level:    [60, 60]
+
+  17150320:
+    template: Quadav_Guard
+    at:       [-198.000, -0.140, -162.360, 156]
+    level:    [60, 60]
+
+  17150321:
+    template: Dark_Ixion
+    at:       [25.225, -8.723, -346.820, 156]
+    level:    [85, 85]
+
+  17150322:
+    template: Gummy_Guillaume
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150323:
+    template: Kloesse
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150324:
+    template: Kloesse
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150325:
+    template: Kloesse
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150326:
+    template: Kloesse
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150327:
+    template: Kloesse
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150328:
+    template: Kloesse
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150329:
+    template: AaBho_Slashburner
+    at:       [-123.500, 7.515, 202.365, 136]
+    level:    [0, 0]
+
+  17150330:
+    template: BoGha_Winterkill
+    at:       [-120.000, 7.500, 202.000, 73]
+    level:    [0, 0]
+
+  17150331:
+    template: DuVha_Grimewind
+    at:       [-122.100, 7.500, 200.697, 12]
+    level:    [0, 0]
+
+  17150332:
+    template: EaZhu_Tremorcrag
+    at:       [-121.300, 7.500, 200.794, 109]
+    level:    [0, 0]
+
+  17150333:
+    template: GiRho_Wrathstorm
+    at:       [-120.700, 7.872, 198.796, 79]
+    level:    [0, 0]
+
+  17150334:
+    template: HeDho_Spatesurge
+    at:       [-120.600, 7.500, 200.164, 63]
+    level:    [0, 0]
+
+  17150335:
+    template: Yilbegan
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [90, 92]
+
+  17150336:
+    template: Verthandi
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [85, 85]
+
+  17150337:
+    template: Urd
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [82, 82]
+
+  17150338:
+    template: Skuld
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [82, 82]
+
+  17150339:
+    template: Aither
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17150340:
+    template: Deorc
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17150341:
+    template: Eorthe
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17150342:
+    template: Puretos
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17150343:
+    template: Pruina
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17150344:
+    template: Beorht
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17150345:
+    template: Thunor
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17150346:
+    template: Lacus
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [80, 80]
+
+  17150347:
+    template: Bartholomaus
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150348:
+    template: 1st_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150349:
+    template: 1st_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150350:
+    template: 1st_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150351:
+    template: 1st_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150352:
+    template: 1st_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150353:
+    template: 1st_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150354:
+    template: 1st_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150355:
+    template: 1st_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150356:
+    template: 1st_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150357:
+    template: Maximilian
+    level:    [0, 0]
+    region:   rolanberry_fields_s_ne_9
+
+  17150358:
+    template: 1st_Legionnaire
+    level:    [0, 0]
+    region:   rolanberry_fields_s_ne_10
+
+  17150359:
+    template: 1st_Legionnaire
+    level:    [0, 0]
+    region:   rolanberry_fields_s_ne_30
+
+  17150360:
+    template: 1st_Legionnaire
+    level:    [0, 0]
+    region:   rolanberry_fields_s_ne_16
+
+  17150361:
+    template: 1st_Legionnaire
+    level:    [0, 0]
+    region:   rolanberry_fields_s_ne_35
+
+  17150362:
+    template: 1st_Legionnaire
+    level:    [0, 0]
+    region:   rolanberry_fields_s_ne_12
+
+  17150363:
+    template: 1st_Legionnaire
+    level:    [0, 0]
+    region:   rolanberry_fields_s_ne_32
+
+  17150364:
+    template: 1st_Legionnaire
+    level:    [0, 0]
+    region:   rolanberry_fields_s_ne_11
+
+  17150365:
+    template: 1st_Legionnaire
+    level:    [0, 0]
+    region:   rolanberry_fields_s_ne_31
+
+  17150366:
+    template: 1st_Legionnaire
+    level:    [0, 0]
+    region:   rolanberry_fields_s_ne_11
+
+  17150367:
+    template: Ludwig
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150368:
+    template: 2nd_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150369:
+    template: 2nd_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150370:
+    template: 2nd_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150371:
+    template: 2nd_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150372:
+    template: 2nd_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150373:
+    template: 2nd_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150374:
+    template: 2nd_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150375:
+    template: 2nd_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150376:
+    template: 2nd_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150377:
+    template: Elivira
+    at:       [283.633, 7.500, 199.087, 82]
+    level:    [1, 1]
+
+  17150378:
+    template: 1st_Gold_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150379:
+    template: 1st_Gold_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150380:
+    template: 1st_Gold_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150381:
+    template: 1st_Gold_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150382:
+    template: 1st_Gold_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150383:
+    template: 1st_Gold_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150384:
+    template: 1st_Gold_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150385:
+    template: 1st_Gold_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150386:
+    template: 1st_Gold_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150387:
+    template: Kurt
+    at:       [235.656, 8.930, 251.748, 100]
+    level:    [1, 1]
+
+  17150388:
+    template: 8th_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150389:
+    template: 8th_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150390:
+    template: 8th_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150391:
+    template: 8th_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150392:
+    template: 8th_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150393:
+    template: 8th_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150394:
+    template: 8th_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150395:
+    template: 8th_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150396:
+    template: 8th_Iron_Musketeer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150397:
+    template: Striking_Bull
+    level:    [70, 70]
+    region:   rolanberry_fields_s_ne_8
+
+  17150398:
+    template: 2nd_Legion_Grenadier
+    level:    [70, 70]
+    region:   rolanberry_fields_s_ne_8
+
+  17150399:
+    template: 2nd_Legion_Grenadier
+    level:    [70, 70]
+    region:   rolanberry_fields_s_ne_8
+
+  17150400:
+    template: 2nd_Legion_Grenadier
+    level:    [70, 70]
+    region:   rolanberry_fields_s_ne_8
+
+  17150401:
+    template: 2nd_Legion_Grenadier
+    level:    [70, 70]
+    region:   rolanberry_fields_s_ne_8
+
+  17150402:
+    template: 2nd_Legion_Grenadier
+    level:    [70, 70]
+    region:   rolanberry_fields_s_ne_8
+
+  17150403:
+    template: 2nd_Legion_Grenadier
+    level:    [70, 70]
+    region:   rolanberry_fields_s_ne_8
+
+  17150404:
+    template: 2nd_Legion_Grenadier
+    level:    [70, 70]
+    region:   rolanberry_fields_s_ne_8
+
+  17150405:
+    template: 2nd_Legion_Grenadier
+    level:    [70, 70]
+    region:   rolanberry_fields_s_ne_8
+
+  17150406:
+    template: 2nd_Legion_Grenadier
+    level:    [70, 70]
+    region:   rolanberry_fields_s_ne_8
+
+  17150407:
+    template: 4th_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150408:
+    template: 4th_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150409:
+    template: 4th_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150410:
+    template: 4th_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150411:
+    template: 4th_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150412:
+    template: 4th_Legionnaire
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150413:
+    template: Allied_Mantelet
+    at:       [234.309, 7.826, 233.932, 128]
+    level:    [1, 1]
+
+  17150414:
+    template: Allied_Mantelet
+    at:       [234.906, 7.457, 205.330, 128]
+    level:    [1, 1]
+
+  17150415:
+    template: Allied_Mantelet
+    at:       [283.446, 7.913, 207.307, 0]
+    level:    [1, 1]
+
+  17150416:
+    template: Allied_Mantelet
+    at:       [283.454, 7.765, 233.544, 0]
+    level:    [1, 1]
+
+  17150417:
+    template: Allied_Mantelet
+    at:       [260.036, 7.440, 250.014, 192]
+    level:    [1, 1]
+
+  17150418:
+    template: Allied_Mantelet
+    at:       [261.243, 7.086, 188.184, 64]
+    level:    [1, 1]
+
+  17150419:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150420:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150421:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150422:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150423:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150424:
+    template: Nail_Bomb
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150425:
+    template: Allied_Belfry
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150426:
+    template: 1st_Legion_Aidman
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150427:
+    template: 1st_Legion_Aidman
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150428:
+    template: 1st_Legion_Aidman
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150429:
+    template: 1st_Legion_Aidman
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150430:
+    template: 1st_Legion_Aidman
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150431:
+    template: 1st_Legion_Aidman
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150432:
+    template: Allied_Armored_Belfry
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150433:
+    template: 1st_Legion_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150434:
+    template: 1st_Legion_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150435:
+    template: 1st_Legion_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150436:
+    template: 1st_Legion_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150437:
+    template: 1st_Legion_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150438:
+    template: 1st_Legion_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150439:
+    template: Field_Woundpatcher
+    level:    [60, 60]
+    region:   rolanberry_fields_s_ne_8
+
+  17150440:
+    template: Field_Woundpatcher
+    level:    [60, 60]
+    region:   rolanberry_fields_s_ne_8
+
+  17150441:
+    template: Field_Woundpatcher
+    level:    [60, 60]
+    region:   rolanberry_fields_s_ne_8
+
+  17150442:
+    template: Field_Woundpatcher
+    level:    [60, 60]
+    region:   rolanberry_fields_s_ne_8
+
+  17150443:
+    template: Field_Woundpatcher
+    level:    [60, 60]
+    region:   rolanberry_fields_s_ne_8
+
+  17150444:
+    template: Field_Woundpatcher
+    level:    [60, 60]
+    region:   rolanberry_fields_s_ne_8
+
+  17150445:
+    template: Republic_Supplier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150446:
+    template: Republic_Supplier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150447:
+    template: Republic_Supplier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150448:
+    template: DiDha_Adamantfist
+    level:    [75, 80]
+    region:   rolanberry_fields_s_ne_13
+
+  17150449:
+    template: DiDhas_Elite_Guard
+    level:    [0, 0]
+    region:   rolanberry_fields_s_ne_15
+
+  17150450:
+    template: DiDhas_Elite_Guard
+    level:    [0, 0]
+    region:   rolanberry_fields_s_ne_19
+
+  17150451:
+    template: DiDhas_Elite_Guard
+    level:    [0, 0]
+    region:   rolanberry_fields_s_e_9
+
+  17150452:
+    template: DiDhas_Elite_Guard
+    level:    [0, 0]
+    region:   rolanberry_fields_s_ne_28
+
+  17150453:
+    template: DiDhas_Elite_Guard
+    level:    [0, 0]
+    region:   rolanberry_fields_s_ne_23
+
+  17150454:
+    template: DiDhas_Elite_Guard
+    level:    [0, 0]
+    region:   rolanberry_fields_s_ne_21
+
+  17150455:
+    template: DiDhas_Elite_Guard
+    level:    [0, 0]
+    region:   rolanberry_fields_s_ne_14
+
+  17150456:
+    template: DiDhas_Elite_Guard
+    level:    [0, 0]
+    region:   rolanberry_fields_s_ne_18
+
+  17150457:
+    template: DiDhas_Elite_Guard
+    level:    [0, 0]
+    region:   rolanberry_fields_s_ne_16
+
+  17150458:
+    template: BoDho_Hundredfist
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17150459:
+    template: Waughroon_Heavyshell
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150460:
+    template: Waughroon_Heavyshell
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150461:
+    template: Waughroon_Heavyshell
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150462:
+    template: Waughroon_Heavyshell
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150463:
+    template: Waughroon_Heavyshell
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150464:
+    template: Waughroon_Heavyshell
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150465:
+    template: Waughroon_Heavyshell
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150466:
+    template: Waughroon_Heavyshell
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150467:
+    template: Waughroon_Heavyshell
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150468:
+    template: DeVyu_Headhunter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17150469:
+    template: Beadeaux_Vanguard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150470:
+    template: Beadeaux_Vanguard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150471:
+    template: Beadeaux_Vanguard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150472:
+    template: Beadeaux_Vanguard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150473:
+    template: Beadeaux_Vanguard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150474:
+    template: Beadeaux_Vanguard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150475:
+    template: Beadeaux_Vanguard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150476:
+    template: Beadeaux_Vanguard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150477:
+    template: Beadeaux_Vanguard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150478:
+    template: BiGho_Headtaker
+    at:       [285.904, 7.567, 205.493, 241]
+    level:    [75, 80]
+
+  17150479:
+    template: Qulun_Heavyshell
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150480:
+    template: Qulun_Heavyshell
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150481:
+    template: Qulun_Heavyshell
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150482:
+    template: Qulun_Heavyshell
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150483:
+    template: Qulun_Heavyshell
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150484:
+    template: Qulun_Heavyshell
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150485:
+    template: Qulun_Heavyshell
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150486:
+    template: Qulun_Heavyshell
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150487:
+    template: Qulun_Heavyshell
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150488:
+    template: GoBhu_Herohunter
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17150489:
+    template: GoBhus_Elite_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150490:
+    template: GoBhus_Elite_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150491:
+    template: GoBhus_Elite_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150492:
+    template: GoBhus_Elite_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150493:
+    template: GoBhus_Elite_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150494:
+    template: GoBhus_Elite_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150495:
+    template: GoBhus_Elite_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150496:
+    template: GoBhus_Elite_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150497:
+    template: GoBhus_Elite_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150498:
+    template: GaDho_Softstep
+    level:    [75, 80]
+    region:   rolanberry_fields_s_ne_26
+
+  17150499:
+    template: GuDho_Staggershell
+    level:    [67, 72]
+    region:   rolanberry_fields_s_ne_22
+
+  17150500:
+    template: Vhuud_Vanguard
+    level:    [60, 60]
+    region:   rolanberry_fields_s_ne_33
+
+  17150501:
+    template: Vhuud_Vanguard
+    level:    [60, 60]
+    region:   rolanberry_fields_s_ne_24
+
+  17150502:
+    template: Vhuud_Vanguard
+    level:    [60, 60]
+    region:   rolanberry_fields_s_c_19
+
+  17150503:
+    template: Vhuud_Vanguard
+    level:    [60, 60]
+    region:   rolanberry_fields_s_c_18
+
+  17150504:
+    template: Vhuud_Vanguard
+    level:    [60, 60]
+    region:   rolanberry_fields_s_ne_20
+
+  17150505:
+    template: Vhuud_Vanguard
+    level:    [60, 60]
+    region:   rolanberry_fields_s_ne_29
+
+  17150506:
+    template: Vhuud_Vanguard
+    level:    [60, 60]
+    region:   rolanberry_fields_s_ne_34
+
+  17150507:
+    template: Vhuud_Vanguard
+    level:    [60, 60]
+    region:   rolanberry_fields_s_ne_25
+
+  17150508:
+    template: Vhuud_Vanguard
+    level:    [60, 60]
+    region:   rolanberry_fields_s_ne_27
+
+  17150509:
+    template: BoDhos_Shieldwarrior
+    level:    [75, 80]
+    region:   rolanberry_fields_s_e_15
+
+  17150510:
+    template: BoDhos_Shieldwarrior
+    level:    [75, 80]
+    region:   rolanberry_fields_s_ne_36
+
+  17150511:
+    template: BoDhos_Shieldwarrior
+    level:    [75, 80]
+    region:   rolanberry_fields_s_e_10
+
+  17150512:
+    template: BoDhos_Shieldwarrior
+    level:    [75, 80]
+    region:   rolanberry_fields_s_e_13
+
+  17150513:
+    template: BoDhos_Shieldwarrior
+    level:    [75, 80]
+    region:   rolanberry_fields_s_ne_40
+
+  17150514:
+    template: BoDhos_Shieldwarrior
+    level:    [75, 80]
+    region:   rolanberry_fields_s_ne_41
+
+  17150515:
+    template: Confederate_Mantelet
+    at:       [234.300, 7.826, 233.932, 128]
+    level:    [75, 80]
+
+  17150516:
+    template: Confederate_Mantelet
+    at:       [234.900, 7.457, 205.330, 128]
+    level:    [75, 80]
+
+  17150517:
+    template: Confederate_Mantelet
+    at:       [283.440, 7.913, 207.307, 0]
+    level:    [75, 80]
+
+  17150518:
+    template: Confederate_Mantelet
+    at:       [283.450, 7.765, 233.544, 0]
+    level:    [75, 80]
+
+  17150519:
+    template: Confederate_Mantelet
+    at:       [260.030, 7.440, 250.014, 192]
+    level:    [75, 80]
+
+  17150520:
+    template: Confederate_Mantelet
+    at:       [261.240, 7.086, 188.184, 64]
+    level:    [75, 80]
+
+  17150521:
+    template: Iron_Bomb
+    at:       [244.290, 7.536, 236.751, 254]
+    level:    [75, 75]
+
+  17150522:
+    template: Iron_Bomb
+    at:       [277.310, 7.973, 219.541, 151]
+    level:    [75, 75]
+
+  17150523:
+    template: Iron_Bomb
+    at:       [243.080, 7.921, 217.516, 238]
+    level:    [75, 75]
+
+  17150524:
+    template: Iron_Bomb
+    at:       [244.490, 7.561, 236.600, 251]
+    level:    [75, 75]
+
+  17150525:
+    template: Iron_Bomb
+    at:       [255.740, 8.073, 203.014, 195]
+    level:    [75, 75]
+
+  17150526:
+    template: Iron_Bomb
+    at:       [277.250, 7.938, 219.074, 160]
+    level:    [75, 75]
+
+  17150527:
+    template: Confederate_Belfry
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17150528:
+    template: Khroma_Quadav
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150529:
+    template: Khroma_Quadav
+    at:       [277.931, 10.448, 257.793, 66]
+    level:    [60, 60]
+
+  17150530:
+    template: Khroma_Quadav
+    at:       [277.655, 10.506, 258.024, 120]
+    level:    [60, 60]
+
+  17150531:
+    template: Khroma_Quadav
+    at:       [277.403, 10.554, 258.217, 60]
+    level:    [60, 60]
+
+  17150532:
+    template: Khroma_Quadav
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150533:
+    template: Khroma_Quadav
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150534:
+    template: Quadav_Turret
+    level:    [75, 80]
+    region:   rolanberry_fields_s_ne_37
+
+  17150535:
+    template: War_Ajattara
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150536:
+    template: War_Ajattara
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150537:
+    template: War_Ajattara
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150538:
+    template: War_Ajattara
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150539:
+    template: War_Ajattara
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150540:
+    template: War_Ajattara
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150541:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17150542:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17150543:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17150544:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17150545:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17150546:
+    template: Fiendish_Leechkeeper
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17150547:
+    template: Shadowhorn
+    at:       [471.112, -10.426, 46.015, 252]
+    level:    [75, 80]
+
+  17150548:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150549:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150550:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150551:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150552:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150553:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150554:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150555:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150556:
+    template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150557:
+    template: Shadowhand
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17150558:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150559:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150560:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150561:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150562:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150563:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150564:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150565:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150566:
+    template: Shadowhand_Cuirassier
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150567:
+    template: Shadowfang
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17150568:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150569:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150570:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150571:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150572:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150573:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150574:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150575:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150576:
+    template: Shadowfang_Void
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150577:
+    template: Shadoweye
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17150578:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150579:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150580:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150581:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150582:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150583:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150584:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150585:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150586:
+    template: Shadoweye_Gnat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150587:
+    template: Fortification
+    at:       [275.840, 7.696, 220.488, 0]
+    level:    [50, 50]
+
+  17150588:
+    template: Fortification
+    at:       [246.190, 7.678, 236.807, 0]
+    level:    [50, 50]
+
+  17150589:
+    template: Fortification
+    at:       [244.760, 7.801, 218.291, 0]
+    level:    [50, 50]
+
+  17150590:
+    template: Fortification
+    at:       [255.890, 7.767, 204.785, 0]
+    level:    [50, 50]
+
+  17150591:
+    template: Rikoh_Wahcondalo
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150592:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150593:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150594:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150595:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150596:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150597:
+    template: Kagetora
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150598:
+    template: Dalzakk
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150599:
+    template: Oggbi
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150600:
+    template: Rainemard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150601:
+    template: Maat
+    at:       [227.786, 9.526, 203.671, 117]
+    level:    [66, 66]
+
+  17150602:
+    template: Degenhard
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150603:
+    template: Azima
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150604:
+    template: Choh_Moui
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150605:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150606:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150607:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150608:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150609:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150610:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150611:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150612:
+    template: Chigoe
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150613:
+    template: Azo
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150614:
+    template: Vahi
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150615:
+    template: Rongo-Nango
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150616:
+    template: Lerren
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150617:
+    template: Jajaro
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150618:
+    template: Popochu
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150619:
+    template: Papako
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150620:
+    template: Momowa
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150621:
+    template: Ulla
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150622:
+    template: Kilhwch
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150623:
+    template: Alfons
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150624:
+    template: Achtelle
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150625:
+    template: Bravo
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150626:
+    template: Duskraven
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150627:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150628:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150629:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150630:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150631:
+    template: Dusk_Raider
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150632:
+    template: Areuhat
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150633:
+    template: Odzmanouk
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150634:
+    template: Boodlix
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 80]
+
+  17150635:
+    template: Goblin_Lansquenet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150636:
+    template: Goblin_Lansquenet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150637:
+    template: Goblin_Lansquenet
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150638:
+    template: Titania
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150639:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150640:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150641:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150642:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150643:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150644:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150645:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150646:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150647:
+    template: Faerie
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150648:
+    template: Babban_Ny_Mheillea
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150649:
+    template: Abenzio
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150650:
+    template: Bryher
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150651:
+    template: Camlin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150652:
+    template: Darach
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150653:
+    template: Raigegue_R_dOraguille
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150654:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150655:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150656:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150657:
+    template: Ancient_Royal_Knight
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [0, 0]
+
+  17150658:
+    template: Eurytos
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 75]
+
+  17150659:
+    template: Gigas_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150660:
+    template: Gigas_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150661:
+    template: Poroggo_Prince
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150662:
+    template: Poroggo_Servant
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150663:
+    template: Poroggo_Servant
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150664:
+    template: Poroggo_Servant
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150665:
+    template: Kaiser_Behemoth
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [60, 60]
+
+  17150666:
+    template: Ferreous_Coffin
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150667:
+    template: Lewenhart
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150668:
+    template: Auroral_Alicorn
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [1, 1]
+
+  17150669:
+    template: Agathos
+    at:       [-359.600, 7.578, 281.614, 197]
+    level:    [95, 96]
+
+  17150670:
+    template: Agathos
+    at:       [-435.008, -8.318, 14.300, 64]
+    level:    [95, 96]
+
+  17150671:
+    template: Agathos
+    at:       [-633.295, -24.268, -269.822, 130]
+    level:    [95, 96]

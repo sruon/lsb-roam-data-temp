@@ -1,0 +1,1883 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17362945:
+    template: Mine_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [3, 4]
+
+  17362946:
+    template: Mine_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [3, 4]
+
+  17362947:
+    template: Coral_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [9, 10]
+
+  17362948:
+    template: Stag_Crab
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [13, 15]
+
+  17362949:
+    template: Snipper
+    at:       [1.000, 1.000, 1.000, 0]
+    level:    [18, 20]
+
+  17362950:
+    template: Young_Quadav
+    level:    [3, 4]
+    region:   palborough_mines_w_2
+
+  17362951:
+    template: Young_Quadav
+    level:    [3, 4]
+    region:   palborough_mines_w_2
+
+  17362952:
+    template: Amethyst_Quadav
+    level:    [3, 4]
+    region:   palborough_mines_w_2
+
+  17362953:
+    template: Amber_Quadav
+    at:       [52.000, -0.708, 60.000, 3]
+    level:    [3, 4]
+
+  17362954:
+    template: Pit_Hare
+    level:    [2, 4]
+    region:   palborough_mines_w_2
+
+  17362955:
+    template: Young_Quadav
+    at:       [60.000, -0.276, 98.000, 127]
+    level:    [3, 4]
+
+  17362956:
+    template: Young_Quadav
+    at:       [63.000, -0.179, 100.000, 84]
+    level:    [3, 4]
+
+  17362957:
+    template: Amethyst_Quadav
+    at:       [61.556, -0.396, 109.154, 108]
+    level:    [3, 4]
+
+  17362958:
+    template: Amber_Quadav
+    at:       [74.000, -0.556, 99.000, 38]
+    level:    [3, 4]
+
+  17362959:
+    template: Pit_Hare
+    at:       [58.926, -0.360, 95.924, 70]
+    level:    [2, 4]
+
+  17362960:
+    template: Young_Quadav
+    level:    [3, 4]
+    region:   palborough_mines_w
+
+  17362961:
+    template: Pit_Hare
+    level:    [2, 4]
+    region:   palborough_mines_w
+
+  17362962:
+    template: Pit_Hare
+    level:    [2, 4]
+    region:   palborough_mines_w
+
+  17362963:
+    template: Young_Quadav
+    level:    [3, 4]
+    region:   palborough_mines_nw_6
+
+  17362964:
+    template: Amethyst_Quadav
+    at:       [59.000, -0.735, 147.000, 127]
+    level:    [3, 4]
+
+  17362965:
+    template: Amber_Quadav
+    level:    [3, 4]
+    region:   palborough_mines_nw_6
+
+  17362966:
+    template: Young_Quadav
+    level:    [3, 4]
+    region:   palborough_mines_nw_6
+
+  17362967:
+    template: Amethyst_Quadav
+    level:    [3, 4]
+    region:   palborough_mines_nw_6
+
+  17362968:
+    template: Amber_Quadav
+    at:       [58.904, -0.483, 123.259, 127]
+    level:    [3, 4]
+
+  17362969:
+    template: Pit_Hare
+    level:    [2, 4]
+    region:   palborough_mines_nw_6
+
+  17362970:
+    template: Young_Quadav
+    at:       [293.000, -15.000, 19.000, 32]
+    level:    [3, 5]
+
+  17362971:
+    template: Amethyst_Quadav
+    level:    [3, 5]
+    region:   palborough_mines_n_3
+
+  17362972:
+    template: Amber_Quadav
+    at:       [300.480, -15.385, 226.454, 127]
+    level:    [3, 5]
+
+  17362973:
+    template: Pit_Hare
+    level:    [2, 4]
+    region:   palborough_mines_n_3
+
+  17362974:
+    template: Pit_Hare
+    level:    [2, 4]
+    region:   palborough_mines_n_3
+
+  17362975:
+    template: Young_Quadav
+    level:    [3, 5]
+    region:   palborough_mines_n_2
+
+  17362976:
+    template: Amethyst_Quadav
+    level:    [3, 5]
+    region:   palborough_mines_n_2
+
+  17362977:
+    template: Amber_Quadav
+    at:       [87.120, -0.186, 172.118, 127]
+    level:    [3, 5]
+
+  17362978:
+    template: Pit_Hare
+    level:    [2, 4]
+    region:   palborough_mines_n_2
+
+  17362979:
+    template: Young_Quadav
+    at:       [50.118, -7.346, 180.535, 110]
+    level:    [3, 5]
+
+  17362980:
+    template: Amethyst_Quadav
+    level:    [3, 5]
+    region:   palborough_mines_n
+
+  17362981:
+    template: Amber_Quadav
+    at:       [104.811, -2.108, 187.422, 127]
+    level:    [3, 5]
+
+  17362982:
+    template: Young_Quadav
+    level:    [3, 5]
+    region:   palborough_mines_n
+
+  17362983:
+    template: Amethyst_Quadav
+    level:    [3, 5]
+    region:   palborough_mines_n
+
+  17362984:
+    template: Amber_Quadav
+    at:       [79.347, -2.661, 184.401, 91]
+    level:    [3, 5]
+
+  17362985:
+    template: Pit_Hare
+    level:    [2, 4]
+    region:   palborough_mines_n
+
+  17362986:
+    template: Young_Quadav
+    level:    [3, 5]
+    region:   palborough_mines_n_5
+
+  17362987:
+    template: Amethyst_Quadav
+    at:       [139.000, -0.253, 167.000, 127]
+    level:    [3, 5]
+
+  17362988:
+    template: Amber_Quadav
+    at:       [139.068, 0.052, 148.395, 52]
+    level:    [3, 5]
+
+  17362989:
+    template: Young_Quadav
+    level:    [3, 5]
+    region:   palborough_mines_n_5
+
+  17362990:
+    template: Amethyst_Quadav
+    level:    [3, 5]
+    region:   palborough_mines_n_5
+
+  17362991:
+    template: Amber_Quadav
+    at:       [142.000, -0.076, 154.000, 2]
+    level:    [3, 5]
+
+  17362992:
+    template: Pit_Hare
+    level:    [2, 4]
+    region:   palborough_mines_n_5
+
+  17362993:
+    template: Young_Quadav
+    level:    [4, 5]
+    region:   palborough_mines_c_5
+
+  17362994:
+    template: Amethyst_Quadav
+    at:       [104.000, -0.338, 107.000, 127]
+    level:    [4, 5]
+
+  17362995:
+    template: Amber_Quadav
+    at:       [208.000, -1.000, 59.000, 127]
+    level:    [4, 5]
+
+  17362996:
+    template: Pit_Hare
+    level:    [3, 6]
+    region:   palborough_mines_c_5
+
+  17362997:
+    template: Pit_Hare
+    level:    [3, 6]
+    region:   palborough_mines_c_5
+
+  17362998:
+    template: Young_Quadav
+    level:    [4, 5]
+    region:   palborough_mines_c_4
+
+  17362999:
+    template: Amethyst_Quadav
+    level:    [4, 5]
+    region:   palborough_mines_c_4
+
+  17363000:
+    template: Amber_Quadav
+    at:       [198.688, -0.528, 58.840, 127]
+    level:    [4, 5]
+
+  17363001:
+    template: Pit_Hare
+    level:    [3, 6]
+    region:   palborough_mines_c_4
+
+  17363002:
+    template: Pit_Hare
+    level:    [3, 6]
+    region:   palborough_mines_c_4
+
+  17363003:
+    template: Pit_Hare
+    level:    [3, 6]
+    region:   palborough_mines_c_10
+
+  17363004:
+    template: Pit_Hare
+    level:    [3, 6]
+    region:   palborough_mines_c_10
+
+  17363005:
+    template: Pit_Hare
+    level:    [3, 6]
+    region:   palborough_mines_c_10
+
+  17363006:
+    template: Pit_Hare
+    level:    [3, 6]
+    region:   palborough_mines_c_10
+
+  17363007:
+    template: Young_Quadav
+    level:    [4, 5]
+    region:   palborough_mines_c_6
+
+  17363008:
+    template: Amethyst_Quadav
+    level:    [4, 5]
+    region:   palborough_mines_c_6
+
+  17363009:
+    template: Amber_Quadav
+    at:       [99.000, -4.000, 15.000, 38]
+    level:    [4, 5]
+
+  17363010:
+    template: Pit_Hare
+    level:    [3, 6]
+    region:   palborough_mines_c_6
+
+  17363011:
+    template: Pit_Hare
+    level:    [3, 6]
+    region:   palborough_mines_c_6
+
+  17363012:
+    template: Young_Quadav
+    at:       [186.594, -15.177, 27.075, 108]
+    level:    [5, 7]
+
+  17363013:
+    template: Amethyst_Quadav
+    at:       [177.416, -14.969, 19.550, 99]
+    level:    [5, 7]
+
+  17363014:
+    template: Amber_Quadav
+    at:       [148.000, -12.000, 18.000, 127]
+    level:    [5, 7]
+
+  17363015:
+    template: Young_Quadav
+    at:       [168.000, -15.000, 18.000, 8]
+    level:    [5, 7]
+
+  17363016:
+    template: Amethyst_Quadav
+    at:       [190.267, -15.325, 22.516, 127]
+    level:    [5, 7]
+
+  17363017:
+    template: Amber_Quadav
+    at:       [185.000, -14.000, 13.000, 118]
+    level:    [5, 7]
+
+  17363018:
+    template: Young_Quadav
+    at:       [219.000, -7.000, 44.000, 96]
+    level:    [5, 7]
+
+  17363019:
+    template: Amethyst_Quadav
+    level:    [5, 7]
+    region:   palborough_mines_e_2
+
+  17363020:
+    template: Amber_Quadav
+    at:       [213.891, -3.682, 56.039, 127]
+    level:    [5, 7]
+
+  17363021:
+    template: Pit_Hare
+    level:    [3, 6]
+    region:   palborough_mines_e_2
+
+  17363022:
+    template: Pit_Hare
+    level:    [3, 6]
+    region:   palborough_mines_e
+
+  17363023:
+    template: Pit_Hare
+    level:    [3, 6]
+    region:   palborough_mines_e
+
+  17363024:
+    template: Pit_Hare
+    level:    [3, 6]
+    region:   palborough_mines_e
+
+  17363025:
+    template: Pit_Hare
+    level:    [3, 6]
+    region:   palborough_mines_e
+
+  17363026:
+    template: Pit_Hare
+    level:    [3, 6]
+    region:   palborough_mines_e
+
+  17363027:
+    template: Young_Quadav
+    level:    [4, 5]
+    region:   palborough_mines_nw_2
+
+  17363028:
+    template: Amethyst_Quadav
+    level:    [4, 5]
+    region:   palborough_mines_nw_2
+
+  17363029:
+    template: Amber_Quadav
+    at:       [29.000, -8.336, 182.000, 2]
+    level:    [4, 5]
+
+  17363030:
+    template: Pit_Hare
+    level:    [3, 6]
+    region:   palborough_mines_nw_2
+
+  17363031:
+    template: Pit_Hare
+    level:    [3, 6]
+    region:   palborough_mines_nw_2
+
+  17363032:
+    template: Cave_Funguar
+    at:       [-67.468, -7.652, 180.117, 127]
+    level:    [9, 11]
+
+  17363033:
+    template: Cave_Funguar
+    at:       [-60.043, -7.783, 175.545, 127]
+    level:    [9, 11]
+
+  17363034:
+    template: Cave_Funguar
+    at:       [-57.065, -7.560, 179.535, 127]
+    level:    [9, 11]
+
+  17363035:
+    template: Cave_Funguar
+    at:       [-58.385, -8.013, 172.215, 114]
+    level:    [9, 11]
+
+  17363036:
+    template: Young_Quadav
+    level:    [4, 5]
+    region:   palborough_mines_n_9
+
+  17363037:
+    template: Amethyst_Quadav
+    at:       [166.547, -0.466, 139.211, 127]
+    level:    [4, 5]
+
+  17363038:
+    template: Amber_Quadav
+    at:       [172.213, -0.269, 139.367, 125]
+    level:    [4, 5]
+
+  17363039:
+    template: Pit_Hare
+    level:    [3, 6]
+    region:   palborough_mines_n_9
+
+  17363040:
+    template: Young_Quadav
+    at:       [222.000, -0.598, 148.000, 127]
+    level:    [5, 7]
+
+  17363041:
+    template: Amethyst_Quadav
+    at:       [224.438, -1.249, 143.303, 51]
+    level:    [5, 7]
+
+  17363042:
+    template: Amber_Quadav
+    at:       [214.137, -0.412, 146.336, 127]
+    level:    [5, 7]
+
+  17363043:
+    template: Young_Quadav
+    at:       [212.810, -0.315, 135.944, 59]
+    level:    [5, 7]
+
+  17363044:
+    template: Amethyst_Quadav
+    at:       [222.447, -0.415, 133.033, 58]
+    level:    [5, 7]
+
+  17363045:
+    template: Amber_Quadav
+    at:       [230.794, 0.011, 140.524, 127]
+    level:    [5, 7]
+
+  17363046:
+    template: Pit_Hare
+    level:    [3, 6]
+    region:   palborough_mines_e_3
+
+  17363047:
+    template: Pit_Hare
+    level:    [3, 6]
+    region:   palborough_mines_e_3
+
+  17363048:
+    template: Young_Quadav
+    at:       [254.480, -0.288, 146.293, 95]
+    level:    [5, 7]
+
+  17363049:
+    template: Amethyst_Quadav
+    level:    [5, 7]
+    region:   palborough_mines_ne_3
+
+  17363050:
+    template: Amber_Quadav
+    at:       [259.773, -0.434, 159.703, 60]
+    level:    [5, 7]
+
+  17363051:
+    template: Pit_Hare
+    level:    [3, 6]
+    region:   palborough_mines_ne_3
+
+  17363052:
+    template: Young_Quadav
+    at:       [19.015, -8.775, 206.887, 50]
+    level:    [5, 7]
+
+  17363053:
+    template: Amethyst_Quadav
+    at:       [9.649, -10.597, 207.821, 62]
+    level:    [5, 7]
+
+  17363054:
+    template: Amber_Quadav
+    at:       [-38.000, -7.000, 179.000, 27]
+    level:    [5, 7]
+
+  17363055:
+    template: Young_Quadav
+    at:       [3.044, -10.833, 220.882, 127]
+    level:    [5, 7]
+
+  17363056:
+    template: Young_Quadav
+    at:       [9.000, -14.000, 231.000, 125]
+    level:    [5, 7]
+
+  17363057:
+    template: Amethyst_Quadav
+    at:       [26.000, -15.000, 230.000, 92]
+    level:    [5, 7]
+
+  17363058:
+    template: Amber_Quadav
+    at:       [22.688, -12.268, 216.017, 82]
+    level:    [5, 7]
+
+  17363059:
+    template: Young_Quadav
+    at:       [233.216, -8.788, 179.023, 127]
+    level:    [7, 10]
+
+  17363060:
+    template: Amethyst_Quadav
+    at:       [243.000, -7.000, 179.000, 127]
+    level:    [7, 10]
+
+  17363061:
+    template: Amber_Quadav
+    at:       [228.847, -10.563, 168.167, 127]
+    level:    [7, 10]
+
+  17363062:
+    template: Young_Quadav
+    at:       [217.000, -12.000, 180.000, 26]
+    level:    [7, 10]
+
+  17363063:
+    template: Young_Quadav
+    at:       [211.858, -13.427, 173.432, 99]
+    level:    [7, 10]
+
+  17363064:
+    template: Amethyst_Quadav
+    at:       [225.073, -9.805, 175.571, 127]
+    level:    [7, 10]
+
+  17363065:
+    template: Amber_Quadav
+    at:       [219.333, -12.137, 170.542, 52]
+    level:    [7, 10]
+
+  17363066:
+    template: Young_Quadav
+    level:    [7, 10]
+    region:   palborough_mines_nw_5
+
+  17363067:
+    template: Young_Quadav
+    level:    [7, 10]
+    region:   palborough_mines_nw_5
+
+  17363068:
+    template: Amethyst_Quadav
+    at:       [95.000, -15.000, 220.000, 2]
+    level:    [7, 10]
+
+  17363069:
+    template: Amber_Quadav
+    at:       [34.000, -15.000, 220.000, 127]
+    level:    [7, 10]
+
+  17363070:
+    template: Pit_Hare
+    level:    [5, 6]
+    region:   palborough_mines_nw_5
+
+  17363071:
+    template: Young_Quadav
+    at:       [110.987, -15.977, 227.906, 96]
+    level:    [7, 10]
+
+  17363072:
+    template: Amethyst_Quadav
+    level:    [7, 10]
+    region:   palborough_mines_n_4
+
+  17363073:
+    template: Amber_Quadav
+    level:    [7, 10]
+    region:   palborough_mines_n_4
+
+  17363074:
+    template: Young_Quadav
+    at:       [134.489, -15.409, 229.328, 68]
+    level:    [7, 10]
+
+  17363075:
+    template: Amethyst_Quadav
+    at:       [111.426, -15.313, 239.499, 127]
+    level:    [7, 10]
+
+  17363076:
+    template: Amber_Quadav
+    level:    [7, 10]
+    region:   palborough_mines_n_4
+
+  17363077:
+    template: Pit_Hare
+    level:    [5, 6]
+    region:   palborough_mines_n_6
+
+  17363078:
+    template: Pit_Hare
+    level:    [5, 6]
+    region:   palborough_mines_n_6
+
+  17363079:
+    template: Pit_Hare
+    level:    [5, 6]
+    region:   palborough_mines_n_6
+
+  17363080:
+    template: QuVho_Deathhurler
+    level:    [17, 17]
+    region:   palborough_mines_n_6
+
+  17363081:
+    template: Young_Quadav
+    at:       [151.624, -15.317, 230.741, 127]
+    level:    [7, 10]
+
+  17363082:
+    template: Amethyst_Quadav
+    level:    [8, 10]
+    region:   palborough_mines_n_8
+
+  17363083:
+    template: Amber_Quadav
+    at:       [164.259, -15.180, 244.365, 12]
+    level:    [7, 10]
+
+  17363084:
+    template: Young_Quadav
+    level:    [7, 10]
+    region:   palborough_mines_n_8
+
+  17363085:
+    template: Amethyst_Quadav
+    at:       [167.460, -15.363, 232.122, 127]
+    level:    [7, 10]
+
+  17363086:
+    template: Amber_Quadav
+    level:    [7, 10]
+    region:   palborough_mines_n_8
+
+  17363087:
+    template: Young_Quadav
+    at:       [127.000, -15.000, 254.000, 127]
+    level:    [7, 10]
+
+  17363088:
+    template: Amethyst_Quadav
+    at:       [180.000, -15.000, 216.000, 47]
+    level:    [7, 10]
+
+  17363089:
+    template: Amber_Quadav
+    at:       [180.000, -16.429, 202.000, 63]
+    level:    [7, 10]
+
+  17363090:
+    template: Pit_Hare
+    level:    [5, 6]
+    region:   palborough_mines_n_11
+
+  17363091:
+    template: Young_Quadav
+    at:       [216.757, -15.901, 259.523, 13]
+    level:    [7, 10]
+
+  17363092:
+    template: Amethyst_Quadav
+    at:       [213.000, -15.000, 266.000, 127]
+    level:    [7, 10]
+
+  17363093:
+    template: Amber_Quadav
+    at:       [221.496, -16.937, 269.031, 127]
+    level:    [7, 10]
+
+  17363094:
+    template: Young_Quadav
+    at:       [210.486, -16.171, 259.431, 83]
+    level:    [7, 10]
+
+  17363095:
+    template: Amethyst_Quadav
+    at:       [230.000, -16.256, 262.000, 33]
+    level:    [7, 10]
+
+  17363096:
+    template: Amber_Quadav
+    at:       [221.000, -16.085, 254.000, 127]
+    level:    [7, 10]
+
+  17363097:
+    template: Young_Quadav
+    level:    [7, 10]
+    region:   palborough_mines_ne_2
+
+  17363098:
+    template: Young_Quadav
+    level:    [7, 10]
+    region:   palborough_mines_ne_2
+
+  17363099:
+    template: Amethyst_Quadav
+    at:       [222.750, -16.280, 189.104, 27]
+    level:    [7, 10]
+
+  17363100:
+    template: Amber_Quadav
+    at:       [219.000, -16.497, 232.000, 127]
+    level:    [7, 10]
+
+  17363101:
+    template: Pit_Hare
+    level:    [5, 6]
+    region:   palborough_mines_ne_2
+
+  17363102:
+    template: Pit_Hare
+    at:       [257.204, -16.364, 257.151, 127]
+    level:    [5, 6]
+
+  17363103:
+    template: Pit_Hare
+    at:       [263.283, -16.719, 253.244, 71]
+    level:    [5, 6]
+
+  17363104:
+    template: Young_Quadav
+    level:    [7, 10]
+    region:   palborough_mines_ne_5
+
+  17363105:
+    template: Young_Quadav
+    at:       [260.000, -15.798, 244.000, 126]
+    level:    [7, 10]
+
+  17363106:
+    template: Amethyst_Quadav
+    level:    [7, 10]
+    region:   palborough_mines_ne_5
+
+  17363107:
+    template: Amber_Quadav
+    at:       [272.506, -16.098, 260.085, 12]
+    level:    [7, 10]
+
+  17363108:
+    template: Young_Quadav
+    level:    [7, 10]
+    region:   palborough_mines_ne_5
+
+  17363109:
+    template: Amethyst_Quadav
+    level:    [7, 10]
+    region:   palborough_mines_ne_5
+
+  17363110:
+    template: Amber_Quadav
+    at:       [289.435, -16.250, 263.320, 55]
+    level:    [7, 10]
+
+  17363111:
+    template: Veteran_Quadav
+    level:    [11, 12]
+    region:   palborough_mines_ne_4
+
+  17363112:
+    template: Greater_Quadav
+    level:    [11, 13]
+    region:   palborough_mines_ne_4
+
+  17363113:
+    template: Onyx_Quadav
+    at:       [300.000, -16.497, 206.000, 127]
+    level:    [11, 13]
+
+  17363114:
+    template: Copper_Beetle
+    level:    [9, 12]
+    region:   palborough_mines_ne_4
+
+  17363115:
+    template: Copper_Beetle
+    level:    [9, 12]
+    region:   palborough_mines_ne_4
+
+  17363116:
+    template: Veteran_Quadav
+    at:       [306.084, -16.500, 187.199, 34]
+    level:    [11, 13]
+
+  17363117:
+    template: Greater_Quadav
+    level:    [11, 13]
+    region:   palborough_mines_ne_6
+
+  17363118:
+    template: Onyx_Quadav
+    level:    [11, 13]
+    region:   palborough_mines_ne_6
+
+  17363119:
+    template: Copper_Beetle
+    level:    [9, 12]
+    region:   palborough_mines_ne_6
+
+  17363120:
+    template: Copper_Beetle
+    level:    [9, 12]
+    region:   palborough_mines_ne_6
+
+  17363121:
+    template: Veteran_Quadav
+    level:    [12, 15]
+    region:   palborough_mines_e_6
+
+  17363122:
+    template: Greater_Quadav
+    at:       [285.000, -15.000, 140.000, 127]
+    level:    [12, 15]
+
+  17363123:
+    template: Onyx_Quadav
+    level:    [12, 15]
+    region:   palborough_mines_e_6
+
+  17363124:
+    template: Veteran_Quadav
+    level:    [12, 15]
+    region:   palborough_mines_e_6
+
+  17363125:
+    template: Greater_Quadav
+    level:    [12, 15]
+    region:   palborough_mines_e_6
+
+  17363126:
+    template: Onyx_Quadav
+    level:    [12, 15]
+    region:   palborough_mines_e_6
+
+  17363127:
+    template: Copper_Beetle
+    level:    [9, 12]
+    region:   palborough_mines_e_6
+
+  17363128:
+    template: Copper_Beetle
+    level:    [9, 12]
+    region:   palborough_mines_e_6
+
+  17363129:
+    template: Veteran_Quadav
+    at:       [260.000, -15.000, 86.000, 127]
+    level:    [12, 15]
+
+  17363130:
+    template: Greater_Quadav
+    at:       [261.636, -15.823, 61.545, 101]
+    level:    [12, 15]
+
+  17363131:
+    template: Onyx_Quadav
+    at:       [265.897, -16.364, 53.043, 127]
+    level:    [12, 15]
+
+  17363132:
+    template: Veteran_Quadav
+    at:       [259.798, -16.227, 51.791, 127]
+    level:    [12, 15]
+
+  17363133:
+    template: Greater_Quadav
+    at:       [262.197, -16.020, 67.301, 42]
+    level:    [12, 15]
+
+  17363134:
+    template: Onyx_Quadav
+    at:       [266.040, -16.159, 65.618, 11]
+    level:    [12, 15]
+
+  17363135:
+    template: Veteran_Quadav
+    at:       [294.000, -15.783, 65.000, 40]
+    level:    [12, 15]
+
+  17363136:
+    template: Greater_Quadav
+    at:       [299.088, -15.662, 62.825, 115]
+    level:    [12, 15]
+
+  17363137:
+    template: Onyx_Quadav
+    at:       [308.948, -16.060, 65.639, 127]
+    level:    [12, 15]
+
+  17363138:
+    template: Veteran_Quadav
+    at:       [310.000, -15.460, 57.000, 31]
+    level:    [12, 15]
+
+  17363139:
+    template: Greater_Quadav
+    at:       [304.171, -15.539, 60.400, 127]
+    level:    [12, 15]
+
+  17363140:
+    template: Onyx_Quadav
+    at:       [300.941, -15.775, 54.900, 100]
+    level:    [12, 15]
+
+  17363141:
+    template: Veteran_Quadav
+    at:       [221.934, -15.966, 53.788, 124]
+    level:    [12, 15]
+
+  17363142:
+    template: Greater_Quadav
+    at:       [225.313, -15.805, 59.981, 127]
+    level:    [12, 15]
+
+  17363143:
+    template: Onyx_Quadav
+    at:       [221.000, -15.672, 67.000, 127]
+    level:    [12, 15]
+
+  17363144:
+    template: Veteran_Quadav
+    at:       [213.000, -15.996, 59.000, 78]
+    level:    [12, 15]
+
+  17363145:
+    template: Greater_Quadav
+    at:       [226.660, -15.984, 56.944, 127]
+    level:    [12, 15]
+
+  17363146:
+    template: Onyx_Quadav
+    at:       [213.000, -15.641, 54.000, 36]
+    level:    [12, 15]
+
+  17363147:
+    template: Young_Quadav
+    level:    [7, 10]
+    region:   palborough_mines_nw_3
+
+  17363148:
+    template: Young_Quadav
+    at:       [103.586, -15.439, 140.626, 28]
+    level:    [7, 10]
+
+  17363149:
+    template: Amethyst_Quadav
+    at:       [12.397, -16.243, 261.169, 127]
+    level:    [9, 10]
+
+  17363150:
+    template: Amber_Quadav
+    level:    [7, 10]
+    region:   palborough_mines_nw_3
+
+  17363151:
+    template: Pit_Hare
+    level:    [5, 6]
+    region:   palborough_mines_nw_3
+
+  17363152:
+    template: Pit_Hare
+    level:    [5, 6]
+    region:   palborough_mines_nw_3
+
+  17363153:
+    template: Cave_Funguar
+    at:       [-57.664, -16.172, 267.844, 127]
+    level:    [9, 11]
+
+  17363154:
+    template: Cave_Funguar
+    at:       [-67.959, -16.106, 253.315, 125]
+    level:    [9, 11]
+
+  17363155:
+    template: Cave_Funguar
+    at:       [-61.340, -15.508, 261.833, 127]
+    level:    [9, 11]
+
+  17363156:
+    template: Cave_Funguar
+    level:    [9, 11]
+    region:   palborough_mines_nw
+
+  17363157:
+    template: Cave_Funguar
+    level:    [9, 11]
+    region:   palborough_mines_nw
+
+  17363158:
+    template: Cave_Funguar
+    level:    [9, 11]
+    region:   palborough_mines_nw
+
+  17363159:
+    template: Cave_Funguar
+    level:    [9, 11]
+    region:   palborough_mines_nw
+
+  17363160:
+    template: Mine_Scorpion
+    at:       [-49.692, -15.987, 215.426, 43]
+    level:    [14, 16]
+
+  17363161:
+    template: Young_Quadav
+    level:    [7, 10]
+    region:   palborough_mines_nw_4
+
+  17363162:
+    template: Young_Quadav
+    level:    [7, 10]
+    region:   palborough_mines_nw_4
+
+  17363163:
+    template: Amethyst_Quadav
+    at:       [78.000, -15.808, 140.000, 0]
+    level:    [7, 10]
+
+  17363164:
+    template: Amber_Quadav
+    level:    [7, 10]
+    region:   palborough_mines_nw_4
+
+  17363165:
+    template: Veteran_Quadav
+    at:       [102.407, -16.386, 133.531, 127]
+    level:    [11, 13]
+
+  17363166:
+    template: Greater_Quadav
+    at:       [60.000, -15.000, 121.000, 127]
+    level:    [11, 13]
+
+  17363167:
+    template: Onyx_Quadav
+    at:       [99.090, -15.842, 135.425, 127]
+    level:    [11, 13]
+
+  17363168:
+    template: Veteran_Quadav
+    at:       [100.000, -15.992, 164.000, 121]
+    level:    [11, 13]
+
+  17363169:
+    template: Greater_Quadav
+    at:       [92.739, -16.028, 138.319, 127]
+    level:    [11, 13]
+
+  17363170:
+    template: Onyx_Quadav
+    at:       [99.868, -16.414, 143.549, 127]
+    level:    [11, 13]
+
+  17363171:
+    template: Copper_Beetle
+    at:       [120.000, -15.000, 140.000, 79]
+    level:    [9, 12]
+
+  17363172:
+    template: Veteran_Quadav
+    at:       [114.280, -16.475, 100.752, 127]
+    level:    [11, 13]
+
+  17363173:
+    template: Greater_Quadav
+    level:    [11, 13]
+    region:   palborough_mines_c
+
+  17363174:
+    template: Onyx_Quadav
+    at:       [90.800, -16.376, 101.162, 127]
+    level:    [11, 13]
+
+  17363175:
+    template: Copper_Beetle
+    level:    [9, 12]
+    region:   palborough_mines_c
+
+  17363176:
+    template: Copper_Beetle
+    level:    [9, 12]
+    region:   palborough_mines_c
+
+  17363177:
+    template: Copper_Beetle
+    level:    [9, 12]
+    region:   palborough_mines_n_10
+
+  17363178:
+    template: Copper_Beetle
+    level:    [9, 12]
+    region:   palborough_mines_n_10
+
+  17363179:
+    template: Copper_Beetle
+    level:    [9, 12]
+    region:   palborough_mines_n_10
+
+  17363180:
+    template: Copper_Beetle
+    level:    [9, 12]
+    region:   palborough_mines_n_10
+
+  17363181:
+    template: BuGhi_Howlblade
+    at:       [185.502, -31.864, 175.730, 130]
+    level:    [12, 12]
+
+  17363182:
+    template: Veteran_Quadav
+    at:       [203.447, -32.086, 180.682, 21]
+    level:    [12, 15]
+
+  17363183:
+    template: Greater_Quadav
+    level:    [12, 15]
+    region:   palborough_mines_ne
+
+  17363184:
+    template: Onyx_Quadav
+    level:    [12, 15]
+    region:   palborough_mines_ne
+
+  17363185:
+    template: Copper_Beetle
+    level:    [9, 12]
+    region:   palborough_mines_ne
+
+  17363186:
+    template: Veteran_Quadav
+    at:       [135.000, -18.000, 141.000, 101]
+    level:    [12, 15]
+
+  17363187:
+    template: Greater_Quadav
+    at:       [152.757, -30.516, 179.048, 5]
+    level:    [12, 15]
+
+  17363188:
+    template: Onyx_Quadav
+    level:    [12, 15]
+    region:   palborough_mines_n_7
+
+  17363189:
+    template: Copper_Beetle
+    level:    [9, 12]
+    region:   palborough_mines_n_7
+
+  17363190:
+    template: Veteran_Quadav
+    level:    [12, 15]
+    region:   palborough_mines_n_9
+
+  17363191:
+    template: Greater_Quadav
+    level:    [12, 15]
+    region:   palborough_mines_n_9
+
+  17363192:
+    template: Onyx_Quadav
+    level:    [12, 15]
+    region:   palborough_mines_n_9
+
+  17363193:
+    template: Veteran_Quadav
+    at:       [144.000, -31.000, 138.000, 127]
+    level:    [12, 15]
+
+  17363194:
+    template: Greater_Quadav
+    at:       [133.915, -32.312, 142.804, 127]
+    level:    [12, 15]
+
+  17363195:
+    template: Onyx_Quadav
+    at:       [133.960, -32.198, 90.589, 123]
+    level:    [12, 15]
+
+  17363196:
+    template: Veteran_Quadav
+    at:       [149.000, -32.473, 99.000, 127]
+    level:    [12, 15]
+
+  17363197:
+    template: Greater_Quadav
+    at:       [182.690, -32.285, 103.385, 127]
+    level:    [12, 15]
+
+  17363198:
+    template: Onyx_Quadav
+    at:       [174.000, -32.284, 98.000, 127]
+    level:    [12, 15]
+
+  17363199:
+    template: Veteran_Quadav
+    at:       [224.863, -32.308, 135.234, 127]
+    level:    [12, 15]
+
+  17363200:
+    template: Greater_Quadav
+    at:       [227.000, -31.000, 138.000, 127]
+    level:    [12, 15]
+
+  17363201:
+    template: Onyx_Quadav
+    at:       [227.012, -32.313, 144.549, 127]
+    level:    [12, 15]
+
+  17363202:
+    template: Veteran_Quadav
+    at:       [140.939, -32.462, 101.245, 108]
+    level:    [12, 15]
+
+  17363203:
+    template: Greater_Quadav
+    at:       [76.847, -32.630, 58.112, 67]
+    level:    [12, 15]
+
+  17363204:
+    template: Onyx_Quadav
+    at:       [141.660, -32.301, 105.150, 127]
+    level:    [12, 15]
+
+  17363205:
+    template: Veteran_Quadav
+    level:    [12, 15]
+    region:   palborough_mines_c_8
+
+  17363206:
+    template: Greater_Quadav
+    level:    [12, 15]
+    region:   palborough_mines_c_8
+
+  17363207:
+    template: Onyx_Quadav
+    level:    [12, 15]
+    region:   palborough_mines_c_8
+
+  17363208:
+    template: ZiGhi_Boneeater
+    at:       [138.839, -32.500, 72.357, 17]
+    level:    [15, 16]
+
+  17363209:
+    template: Veteran_Quadav
+    level:    [12, 15]
+    region:   palborough_mines_c_9
+
+  17363210:
+    template: Greater_Quadav
+    at:       [140.553, -30.813, 20.561, 127]
+    level:    [12, 15]
+
+  17363211:
+    template: Onyx_Quadav
+    level:    [12, 15]
+    region:   palborough_mines_c_9
+
+  17363212:
+    template: Veteran_Quadav
+    at:       [223.954, -32.290, 67.640, 0]
+    level:    [12, 15]
+
+  17363213:
+    template: Greater_Quadav
+    level:    [12, 15]
+    region:   palborough_mines_e_4
+
+  17363214:
+    template: Onyx_Quadav
+    level:    [12, 15]
+    region:   palborough_mines_e_4
+
+  17363215:
+    template: Veteran_Quadav
+    level:    [14, 18]
+    region:   palborough_mines_c_11
+
+  17363216:
+    template: Greater_Quadav
+    at:       [180.000, -32.705, 9.010, 63]
+    level:    [14, 18]
+
+  17363217:
+    template: Onyx_Quadav
+    at:       [179.000, -32.000, -2.000, 71]
+    level:    [14, 18]
+
+  17363218:
+    template: Rabid_Rat
+    level:    [11, 13]
+    region:   palborough_mines_c_11
+
+  17363219:
+    template: Rabid_Rat
+    level:    [11, 13]
+    region:   palborough_mines_c_11
+
+  17363220:
+    template: Rabid_Rat
+    at:       [181.512, -31.589, -23.665, 42]
+    level:    [11, 13]
+
+  17363221:
+    template: Rabid_Rat
+    at:       [186.330, -31.829, -20.754, 1]
+    level:    [11, 13]
+
+  17363222:
+    template: Rabid_Rat
+    at:       [170.745, -32.265, -20.600, 127]
+    level:    [11, 13]
+
+  17363223:
+    template: Veteran_Quadav
+    level:    [12, 15]
+    region:   palborough_mines_e_3
+
+  17363224:
+    template: Greater_Quadav
+    at:       [233.000, -32.285, 100.000, 127]
+    level:    [12, 15]
+
+  17363225:
+    template: Onyx_Quadav
+    level:    [12, 15]
+    region:   palborough_mines_e_3
+
+  17363226:
+    template: Rabid_Rat
+    level:    [11, 12]
+    region:   palborough_mines_e_6
+
+  17363227:
+    template: Rabid_Rat
+    level:    [11, 13]
+    region:   palborough_mines_e_6
+
+  17363228:
+    template: Rabid_Rat
+    level:    [11, 13]
+    region:   palborough_mines_e_6
+
+  17363229:
+    template: Veteran_Quadav
+    level:    [12, 15]
+    region:   palborough_mines_e_6
+
+  17363230:
+    template: Greater_Quadav
+    at:       [262.193, -32.266, 139.036, 124]
+    level:    [12, 15]
+
+  17363231:
+    template: Onyx_Quadav
+    level:    [14, 18]
+    region:   palborough_mines_e_6
+
+  17363232:
+    template: Veteran_Quadav
+    level:    [14, 18]
+    region:   palborough_mines_e_7
+
+  17363233:
+    template: Greater_Quadav
+    level:    [14, 18]
+    region:   palborough_mines_e_7
+
+  17363234:
+    template: Onyx_Quadav
+    level:    [14, 18]
+    region:   palborough_mines_e_7
+
+  17363235:
+    template: Veteran_Quadav
+    level:    [14, 18]
+    region:   palborough_mines_e_7
+
+  17363236:
+    template: Greater_Quadav
+    level:    [14, 18]
+    region:   palborough_mines_e_7
+
+  17363237:
+    template: Onyx_Quadav
+    level:    [14, 18]
+    region:   palborough_mines_e_7
+
+  17363238:
+    template: Rabid_Rat
+    level:    [11, 13]
+    region:   palborough_mines_e_7
+
+  17363239:
+    template: Rabid_Rat
+    level:    [11, 13]
+    region:   palborough_mines_e_7
+
+  17363240:
+    template: Mine_Scorpion
+    at:       [250.456, -31.799, 182.662, 76]
+    level:    [14, 16]
+
+  17363241:
+    template: Scimitar_Scorpion
+    at:       [257.723, -31.665, 182.547, 49]
+    level:    [19, 21]
+
+  17363242:
+    template: Veteran_Quadav
+    level:    [14, 18]
+    region:   palborough_mines_e_5
+
+  17363243:
+    template: Greater_Quadav
+    level:    [14, 18]
+    region:   palborough_mines_e_5
+
+  17363244:
+    template: Onyx_Quadav
+    at:       [260.000, -33.000, 18.000, 127]
+    level:    [14, 18]
+
+  17363245:
+    template: Veteran_Quadav
+    level:    [14, 18]
+    region:   palborough_mines_e_5
+
+  17363246:
+    template: Greater_Quadav
+    at:       [261.171, -32.405, 77.404, 59]
+    level:    [14, 18]
+
+  17363247:
+    template: Onyx_Quadav
+    level:    [14, 18]
+    region:   palborough_mines_e_5
+
+  17363248:
+    template: Veteran_Quadav
+    at:       [263.680, -32.182, -26.892, 127]
+    level:    [14, 18]
+
+  17363249:
+    template: Greater_Quadav
+    at:       [254.177, -31.869, -17.303, 127]
+    level:    [14, 18]
+
+  17363250:
+    template: Onyx_Quadav
+    at:       [266.884, -32.250, -16.804, 127]
+    level:    [14, 18]
+
+  17363251:
+    template: Old_Quadav
+    at:       [255.000, -32.000, -27.000, 127]
+    level:    [21, 23]
+
+  17363252:
+    template: Copper_Quadav
+    at:       [238.000, -31.976, -19.000, 127]
+    level:    [21, 23]
+
+  17363253:
+    template: Veteran_Quadav
+    at:       [252.000, -31.584, -56.000, 127]
+    level:    [14, 18]
+
+  17363254:
+    template: Greater_Quadav
+    at:       [260.744, -31.931, -53.847, 127]
+    level:    [14, 18]
+
+  17363255:
+    template: Onyx_Quadav
+    at:       [266.614, -32.081, -62.895, 86]
+    level:    [14, 18]
+
+  17363256:
+    template: Old_Quadav
+    at:       [253.869, -31.740, -69.220, 127]
+    level:    [21, 23]
+
+  17363257:
+    template: Copper_Quadav
+    at:       [264.534, -31.961, -68.647, 104]
+    level:    [21, 23]
+
+  17363258:
+    template: BeHya_Hundredwall
+    at:       [258.800, -31.230, -63.300, 0]
+    level:    [23, 24]
+
+  17363259:
+    template: Old_Quadav
+    level:    [21, 23]
+    region:   palborough_mines_se
+
+  17363260:
+    template: Copper_Quadav
+    level:    [21, 23]
+    region:   palborough_mines_se
+
+  17363261:
+    template: Veteran_Quadav
+    at:       [220.084, -31.911, -71.034, 14]
+    level:    [14, 18]
+
+  17363262:
+    template: Greater_Quadav
+    at:       [225.000, -31.950, -55.000, 127]
+    level:    [14, 18]
+
+  17363263:
+    template: Onyx_Quadav
+    at:       [218.190, -31.694, -58.543, 206]
+    level:    [14, 18]
+
+  17363264:
+    template: Old_Quadav
+    at:       [226.673, -31.982, -63.429, 46]
+    level:    [21, 23]
+
+  17363265:
+    template: Copper_Quadav
+    at:       [213.000, -31.637, -58.000, 51]
+    level:    [21, 23]
+
+  17363266:
+    template: Veteran_Quadav
+    level:    [14, 18]
+    region:   palborough_mines_n_3
+
+  17363267:
+    template: Greater_Quadav
+    level:    [14, 18]
+    region:   palborough_mines_n_3
+
+  17363268:
+    template: Onyx_Quadav
+    level:    [14, 18]
+    region:   palborough_mines_n_3
+
+  17363269:
+    template: Rabid_Rat
+    level:    [11, 13]
+    region:   palborough_mines_n_3
+
+  17363270:
+    template: Rabid_Rat
+    level:    [11, 13]
+    region:   palborough_mines_n_3
+
+  17363271:
+    template: Veteran_Quadav
+    at:       [51.000, -31.919, 104.000, 72]
+    level:    [14, 18]
+
+  17363272:
+    template: Greater_Quadav
+    at:       [68.112, -31.965, 99.753, 127]
+    level:    [16, 18]
+
+  17363273:
+    template: Onyx_Quadav
+    at:       [64.675, -32.023, 94.869, 8]
+    level:    [14, 17]
+
+  17363274:
+    template: Veteran_Quadav
+    level:    [14, 18]
+    region:   palborough_mines_c_2
+
+  17363275:
+    template: Greater_Quadav
+    at:       [89.135, -32.486, 101.753, 49]
+    level:    [14, 18]
+
+  17363276:
+    template: Onyx_Quadav
+    level:    [14, 16]
+    region:   palborough_mines_c_2
+
+  17363277:
+    template: Veteran_Quadav
+    level:    [14, 18]
+    region:   palborough_mines_c_7
+
+  17363278:
+    template: Greater_Quadav
+    level:    [14, 18]
+    region:   palborough_mines_c_7
+
+  17363279:
+    template: Onyx_Quadav
+    level:    [14, 18]
+    region:   palborough_mines_c_7
+
+  17363280:
+    template: Veteran_Quadav
+    at:       [48.019, -32.077, 59.795, 127]
+    level:    [14, 18]
+
+  17363281:
+    template: Greater_Quadav
+    at:       [59.863, -31.864, 68.322, 127]
+    level:    [14, 18]
+
+  17363282:
+    template: Onyx_Quadav
+    at:       [67.867, -32.081, 59.731, 127]
+    level:    [14, 18]
+
+  17363283:
+    template: Mine_Scorpion
+    at:       [19.502, -32.339, 73.759, 59]
+    level:    [14, 16]
+
+  17363284:
+    template: Scimitar_Scorpion
+    at:       [19.372, -32.156, 80.410, 127]
+    level:    [19, 21]
+
+  17363285:
+    template: Veteran_Quadav
+    level:    [14, 18]
+    region:   palborough_mines_c_3
+
+  17363286:
+    template: Greater_Quadav
+    level:    [14, 18]
+    region:   palborough_mines_c_3
+
+  17363287:
+    template: Onyx_Quadav
+    level:    [14, 18]
+    region:   palborough_mines_c_3
+
+  17363288:
+    template: Old_Quadav
+    at:       [103.000, -32.309, -15.000, 1]
+    level:    [21, 23]
+
+  17363289:
+    template: Copper_Quadav
+    at:       [104.793, -32.575, -23.287, 127]
+    level:    [21, 23]
+
+  17363290:
+    template: Brass_Quadav
+    at:       [92.851, -32.297, -14.360, 127]
+    level:    [21, 23]
+
+  17363291:
+    template: Old_Quadav
+    at:       [56.000, -31.000, -27.000, 11]
+    level:    [21, 23]
+
+  17363292:
+    template: Copper_Quadav
+    at:       [56.000, -31.000, -14.000, 24]
+    level:    [21, 23]
+
+  17363293:
+    template: Brass_Quadav
+    at:       [68.335, -32.075, -21.215, 127]
+    level:    [21, 23]
+
+  17363294:
+    template: Old_Quadav
+    at:       [66.000, -31.000, -67.000, 127]
+    level:    [21, 23]
+
+  17363295:
+    template: Copper_Quadav
+    at:       [59.033, -32.307, -53.663, 1]
+    level:    [21, 23]
+
+  17363296:
+    template: Brass_Quadav
+    at:       [55.000, -31.000, -66.000, 127]
+    level:    [21, 23]
+
+  17363297:
+    template: Old_Quadav
+    at:       [67.000, -32.301, -13.000, 127]
+    level:    [21, 23]
+
+  17363298:
+    template: Copper_Quadav
+    at:       [93.000, -31.000, -66.000, 127]
+    level:    [21, 23]
+
+  17363299:
+    template: Brass_Quadav
+    at:       [105.406, -32.313, -66.458, 32]
+    level:    [21, 22]
+
+  17363300:
+    template: Old_Quadav
+    at:       [101.000, -32.311, -51.000, 127]
+    level:    [21, 23]
+
+  17363301:
+    template: Copper_Quadav
+    at:       [69.296, -32.484, -59.497, 111]
+    level:    [21, 23]
+
+  17363302:
+    template: Brass_Quadav
+    at:       [93.000, -32.493, -55.000, 127]
+    level:    [21, 22]
+
+  17363303:
+    template: Old_Quadav
+    at:       [54.854, -32.646, -94.692, 127]
+    level:    [21, 23]
+
+  17363304:
+    template: Old_Quadav
+    at:       [25.387, -32.577, -91.954, 3]
+    level:    [21, 23]
+
+  17363305:
+    template: NoMho_Crimsonarmor
+    at:       [20.433, -31.675, -97.176, 127]
+    level:    [22, 23]
+
+  17363306:
+    template: Old_Quadav
+    level:    [21, 23]
+    region:   palborough_mines_s_2
+
+  17363307:
+    template: Copper_Quadav
+    level:    [21, 23]
+    region:   palborough_mines_s_2
+
+  17363308:
+    template: Brass_Quadav
+    level:    [21, 23]
+    region:   palborough_mines_s_2
+
+  17363309:
+    template: Old_Quadav
+    level:    [21, 23]
+    region:   palborough_mines_s_2
+
+  17363310:
+    template: Copper_Quadav
+    level:    [22, 23]
+    region:   palborough_mines_s_2
+
+  17363311:
+    template: Brass_Quadav
+    at:       [106.704, -34.026, -128.147, 110]
+    level:    [21, 22]
+
+  17363312:
+    template: Old_Quadav
+    level:    [21, 23]
+    region:   palborough_mines_s
+
+  17363313:
+    template: Copper_Quadav
+    level:    [21, 23]
+    region:   palborough_mines_s
+
+  17363314:
+    template: Brass_Quadav
+    at:       [90.000, -36.000, -149.000, 127]
+    level:    [21, 23]
+
+  17363315:
+    template: Old_Quadav
+    level:    [21, 23]
+    region:   palborough_mines_s
+
+  17363316:
+    template: Copper_Quadav
+    level:    [21, 23]
+    region:   palborough_mines_s
+
+  17363317:
+    template: Brass_Quadav
+    level:    [21, 23]
+    region:   palborough_mines_s
+
+  17363318:
+    template: NiGhu_Nestfender
+    at:       [14.000, -31.000, -94.000, 16]
+    level:    [53, 53]
+
+  17363319:
+    template: Incensed_Pineapple
+    at:       [18.790, -32.401, 80.129, 63]
+    level:    [0, 0]
+
+  17363321:
+    template: Awoken_Ariri_Samariri
+    at:       [23.880, -31.000, -103.910, 162]
+    level:    [119, 119]

@@ -1,0 +1,133 @@
+# Synthesized from sql/mob_spawn_points.sql plus the roaming dataset, for region review.
+# Not the real mobs.yaml: it carries only the fields the region tooling reads.
+spawns:
+
+  17383425:
+    template: Ancient_Quadav
+    at:       [262.000, 40.000, 85.000, 124]
+    level:    [69, 72]
+
+  17383426:
+    template: Darksteel_Quadav
+    at:       [291.882, 39.528, 22.795, 127]
+    level:    [69, 72]
+
+  17383427:
+    template: Platinum_Quadav
+    at:       [306.111, 39.603, 16.437, 30]
+    level:    [69, 72]
+
+  17383428:
+    template: Sapphire_Quadav
+    at:       [297.294, 39.675, 15.086, 223]
+    level:    [69, 72]
+
+  17383429:
+    template: Ancient_Quadav
+    at:       [296.000, 40.000, 89.000, 44]
+    level:    [69, 72]
+
+  17383430:
+    template: Darksteel_Quadav
+    at:       [298.000, 40.000, 19.000, 25]
+    level:    [69, 72]
+
+  17383431:
+    template: Platinum_Quadav
+    at:       [289.000, 43.000, 79.000, 25]
+    level:    [69, 72]
+
+  17383432:
+    template: Sapphire_Quadav
+    at:       [306.567, 39.765, 21.833, 255]
+    level:    [69, 72]
+
+  17383433:
+    template: Ruby_Quadav
+    at:       [295.000, 40.000, 13.000, 127]
+    level:    [72, 74]
+
+  17383434:
+    template: Darksteel_Quadav
+    level:    [69, 72]
+    region:   qulun_dome_c
+
+  17383435:
+    template: Sapphire_Quadav
+    level:    [69, 72]
+    region:   qulun_dome_c
+
+  17383436:
+    template: Darksteel_Quadav
+    level:    [69, 72]
+    region:   qulun_dome_w
+
+  17383437:
+    template: Sapphire_Quadav
+    level:    [69, 72]
+    region:   qulun_dome_w
+
+  17383438:
+    template: Ancient_Quadav
+    level:    [69, 72]
+    region:   qulun_dome_c
+
+  17383439:
+    template: Platinum_Quadav
+    level:    [69, 72]
+    region:   qulun_dome_c
+
+  17383440:
+    template: Adaman_Quadav
+    at:       [283.000, 43.000, 95.000, 9]
+    level:    [72, 74]
+
+  17383441:
+    template: Ruby_Quadav
+    at:       [276.362, 42.624, 93.686, 127]
+    level:    [72, 74]
+
+  17383442:
+    template: Diamond_Quadav
+    at:       [277.930, 42.625, 96.177, 127]
+    level:    [75, 75]
+
+  17383443:
+    template: ZaDha_Adamantking
+    at:       [281.000, 43.000, 96.000, 127]
+    level:    [85, 85]
+
+  17383444:
+    template: Diamond_Quadav
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [75, 75]
+
+  17383445:
+    template: MuZha_Infernoblade
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [72, 75]
+
+  17383446:
+    template: HuRhe_Marrowgorger
+    at:       [166.130, -0.500, -20.914, 127]
+    level:    [72, 75]
+
+  17383447:
+    template: DePha_Unscarred
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [72, 75]
+
+  17383448:
+    template: SoHyu_Quakemaker
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [72, 75]
+
+  17383449:
+    template: KaGhi_Trovetaker
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [72, 75]
+
+  17383450:
+    template: NoBhu_Unyielding
+    at:       [0.000, 0.000, 0.000, 0]
+    level:    [72, 75]
