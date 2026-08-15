@@ -144,8 +144,8 @@ spawns:
 
   17506333:
     template: Aura_Pot
+    at:       [805.290, -0.499, 97.778, 111]
     level:    [77, 80]
-    region:   e_29
 
   17506334:
     template: Aura_Pot
@@ -154,8 +154,8 @@ spawns:
 
   17506335:
     template: Aura_Pot
+    at:       [807.324, -0.494, 112.092, 99]
     level:    [77, 80]
-    region:   e_31
 
   17506336:
     template: Aura_Pot
@@ -179,8 +179,8 @@ spawns:
 
   17506340:
     template: Aura_Pot
+    at:       [859.043, -0.499, 76.672, 120]
     level:    [77, 80]
-    region:   e_36
 
   17506341:
     template: Ice_Elemental
@@ -214,13 +214,13 @@ spawns:
 
   17506347:
     template: Aura_Pot
+    at:       [766.005, -0.499, 60.500, 3]
     level:    [77, 80]
-    region:   e_43
 
   17506348:
     template: Aura_Pot
+    at:       [829.544, -0.378, 8.722, 37]
     level:    [77, 80]
-    region:   e_44
 
   17506349:
     template: Aura_Pot
@@ -229,13 +229,13 @@ spawns:
 
   17506350:
     template: Aura_Pot
+    at:       [777.993, -0.500, 41.325, 127]
     level:    [77, 80]
-    region:   e_46
 
   17506351:
     template: Aura_Pot
+    at:       [769.463, -0.373, 8.389, 102]
     level:    [77, 80]
-    region:   e_47
 
   17506352:
     template: Aura_Butler
@@ -254,8 +254,8 @@ spawns:
 
   17506355:
     template: Aura_Butler
+    at:       [783.882, -0.500, -22.334, 118]
     level:    [79, 82]
-    region:   e_51
 
   17506356:
     template: Aura_Butler
@@ -269,8 +269,8 @@ spawns:
 
   17506358:
     template: Aura_Butler
+    at:       [771.459, -0.481, -6.807, 24]
     level:    [79, 82]
-    region:   e_54
 
   17506359:
     template: Aura_Butler
@@ -279,8 +279,8 @@ spawns:
 
   17506360:
     template: Aura_Butler
+    at:       [809.615, -0.405, -71.787, 193]
     level:    [79, 82]
-    region:   e_56
 
   17506361:
     template: Fire_Elemental
@@ -304,8 +304,8 @@ spawns:
 
   17506365:
     template: Aura_Butler
+    at:       [809.596, -0.499, -99.962, 127]
     level:    [79, 82]
-    region:   e_61
 
   17506366:
     template: Aura_Butler
@@ -319,8 +319,8 @@ spawns:
 
   17506368:
     template: Aura_Butler
+    at:       [809.307, -0.453, -113.485, 92]
     level:    [79, 82]
-    region:   e_64
 
   17506369:
     template: Aura_Butler
@@ -344,8 +344,8 @@ spawns:
 
   17506373:
     template: Aura_Butler
+    at:       [740.794, -0.500, -57.507, 66]
     level:    [79, 82]
-    region:   e_69
 
   17506374:
     template: Fire_Elemental
@@ -1684,13 +1684,13 @@ spawns:
 
   17506641:
     template: Aura_Statue
+    at:       [-22.600, -0.390, -50.290, 87]
     level:    [81, 84]
-    region:   w_337
 
   17506642:
     template: Aura_Statue
+    at:       [-15.603, -0.390, -60.881, 127]
     level:    [81, 84]
-    region:   w_338
 
   17506643:
     template: Aura_Statue
@@ -1735,22 +1735,22 @@ spawns:
   17506651:
     template: Baelfyr
     level:    [104, 106]
-    region:   w_119
+    region:   w_347
 
   17506652:
     template: Gefyrst
     level:    [104, 106]
-    region:   w_119
+    region:   w_347
 
   17506653:
     template: Ungeweder
     level:    [104, 106]
-    region:   w_119
+    region:   w_347
 
   17506654:
     template: Byrgen
     level:    [104, 106]
-    region:   w_119
+    region:   w_347
 
   17506655:
     template: Aura_Sculpture
@@ -1790,22 +1790,22 @@ spawns:
   17506662:
     template: Baelfyr
     level:    [104, 106]
-    region:   c_137
+    region:   w_358
 
   17506663:
     template: Gefyrst
     level:    [104, 106]
-    region:   c_137
+    region:   w_358
 
   17506664:
     template: Ungeweder
     level:    [104, 106]
-    region:   c_137
+    region:   w_358
 
   17506665:
     template: Byrgen
     level:    [104, 106]
-    region:   c_137
+    region:   w_358
 
   17506666:
     template: Aura_Sculpture

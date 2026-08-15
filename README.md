@@ -39,7 +39,15 @@ tuned constant:
   half a cell over the wall, while demanding all nine erases narrow indoor corridors, where no cell is
   ever fully covered. Where clipping severs a corridor the mobs walked through, the cells along the
   severed path are put back -- otherwise the far side holds no mob, is dropped, and a third of a
-  territory disappears. Inferring walkable ground from the capture
+  territory disappears.
+- **In-game barriers close grid edges.** Tree trunks, fences and invisible walls are read from the
+  client zone mesh, which the navmesh does not encode. They really do stop movement: of 593,399
+  recorded movement steps in west_ronfaure only 0.35% cross one. A barrier closes the edge *between*
+  two cells rather than deleting cells, since a wall is thinner than a cell and the same cell holds
+  walkable floor on both sides. Ground walled off from a territory stays a hole however small, so a
+  polygon never covers a trunk a mob could be spawned inside.
+- **Mobs on different floors never share a region.** The grid is flat, so without that check a
+  castle's storeys collapse into one another -- Castle Oztroja had 22 of 94 regions mixing floors. Inferring walkable ground from the capture
   instead both over-reaches -- padding a trail out across a tunnel wall -- and under-covers, since
   the roam capture lights up only about 45% of a zone's walkable surface.
 - A gap is cut out as a hole only when it is off the navmesh. A gap on walkable ground is somewhere

@@ -30,7 +30,7 @@ spawns:
   17588230:
     template: Goblin_Tinkerer
     level:    [16, 18]
-    region:   sw_3
+    region:   sw_6
 
   17588231:
     template: Goblin_Butcher
@@ -1255,7 +1255,7 @@ spawns:
   17588475:
     template: Goblin_Tinkerer
     level:    [16, 18]
-    region:   c_250
+    region:   s_251
 
   17588476:
     template: Goblin_Butcher
@@ -1319,8 +1319,8 @@ spawns:
 
   17588488:
     template: Ghoul
+    at:       [-18.157, 19.625, -6.461, 127]
     level:    [22, 26]
-    region:   c_264
 
   17588489:
     template: Jelly
@@ -1465,17 +1465,17 @@ spawns:
   17588517:
     template: Abyss_Worm
     level:    [27, 30]
-    region:   c_161
+    region:   c_293
 
   17588518:
     template: Abyss_Worm
     level:    [27, 30]
-    region:   c_161
+    region:   c_293
 
   17588519:
     template: Abyss_Worm
     level:    [27, 30]
-    region:   c_161
+    region:   c_293
 
   17588520:
     template: Wight
@@ -1489,8 +1489,8 @@ spawns:
 
   17588522:
     template: Abyss_Worm
+    at:       [-81.224, 19.302, -34.271, 127]
     level:    [27, 30]
-    region:   c_298
 
   17588523:
     template: Abyss_Worm
@@ -1525,7 +1525,7 @@ spawns:
   17588529:
     template: Wight
     level:    [32, 35]
-    region:   w_55
+    region:   c_305
 
   17588530:
     template: Wight
@@ -1535,17 +1535,17 @@ spawns:
   17588531:
     template: Wight
     level:    [32, 35]
-    region:   w_55
+    region:   c_307
 
   17588532:
     template: Wight
     level:    [32, 35]
-    region:   w_55
+    region:   c_308
 
   17588533:
     template: Abyss_Worm
     level:    [27, 30]
-    region:   w_55
+    region:   c_305
 
   17588534:
     template: Abyss_Worm
@@ -1555,42 +1555,42 @@ spawns:
   17588535:
     template: Abyss_Worm
     level:    [27, 30]
-    region:   w_55
+    region:   c_307
 
   17588536:
     template: Abyss_Worm
     level:    [27, 30]
-    region:   w_55
+    region:   c_308
 
   17588537:
     template: Ancient_Bat
     level:    [26, 29]
-    region:   w_55
+    region:   c_308
 
   17588538:
     template: Ancient_Bat
     level:    [26, 29]
-    region:   w_55
+    region:   c_308
 
   17588539:
     template: Labyrinth_Scorpion
     level:    [30, 33]
-    region:   w_55
+    region:   c_308
 
   17588540:
     template: Labyrinth_Scorpion
     level:    [30, 33]
-    region:   w_55
+    region:   c_308
 
   17588541:
     template: Air_Elemental
     level:    [33, 36]
-    region:   w_55
+    region:   c_308
 
   17588542:
     template: Earth_Elemental
     level:    [33, 36]
-    region:   w_55
+    region:   c_307
 
   17588543:
     template: Wight
@@ -1610,7 +1610,7 @@ spawns:
   17588546:
     template: Wight
     level:    [32, 35]
-    region:   c_250
+    region:   c_322
 
   17588547:
     template: Abyss_Worm
@@ -1630,7 +1630,7 @@ spawns:
   17588550:
     template: Abyss_Worm
     level:    [27, 30]
-    region:   c_250
+    region:   c_322
 
   17588551:
     template: Ancient_Bat
@@ -1655,12 +1655,12 @@ spawns:
   17588555:
     template: Wight
     level:    [32, 35]
-    region:   w_39
+    region:   w_331
 
   17588556:
     template: Wight
     level:    [32, 35]
-    region:   w_39
+    region:   w_331
 
   17588557:
     template: Wight
@@ -1670,12 +1670,12 @@ spawns:
   17588558:
     template: Abyss_Worm
     level:    [27, 30]
-    region:   w_39
+    region:   w_331
 
   17588559:
     template: Abyss_Worm
     level:    [27, 30]
-    region:   w_39
+    region:   w_331
 
   17588560:
     template: Abyss_Worm
@@ -1685,17 +1685,17 @@ spawns:
   17588561:
     template: Ancient_Bat
     level:    [26, 29]
-    region:   w_39
+    region:   w_337
 
   17588562:
     template: Ancient_Bat
     level:    [26, 29]
-    region:   w_39
+    region:   w_337
 
   17588563:
     template: Labyrinth_Scorpion
     level:    [30, 33]
-    region:   w_39
+    region:   w_337
 
   17588564:
     template: Labyrinth_Scorpion
@@ -1705,27 +1705,27 @@ spawns:
   17588565:
     template: Air_Elemental
     level:    [33, 36]
-    region:   w_39
+    region:   w_337
 
   17588566:
     template: Earth_Elemental
     level:    [33, 36]
-    region:   w_39
+    region:   w_331
 
   17588567:
     template: Labyrinth_Scorpion
     level:    [30, 33]
-    region:   w_52
+    region:   sw_343
 
   17588568:
     template: Labyrinth_Scorpion
     level:    [30, 33]
-    region:   w_52
+    region:   sw_343
 
   17588569:
     template: Protozoan
     level:    [29, 31]
-    region:   w_52
+    region:   sw_343
 
   17588570:
     template: Wight

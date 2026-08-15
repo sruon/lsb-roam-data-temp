@@ -994,28 +994,28 @@ spawns:
 
   17113287:
     template: Orcish_Bowshooter
+    at:       [36.015, -1.474, -194.455, 127]
     level:    [76, 79]
-    region:   c_199
 
   17113288:
     template: Orcish_Bowshooter
+    at:       [56.118, -4.048, -240.235, 255]
     level:    [76, 79]
-    region:   s_200
 
   17113289:
     template: Orcish_Bowshooter
+    at:       [-1.539, -5.220, -294.259, 64]
     level:    [76, 79]
-    region:   s_201
 
   17113290:
     template: Orcish_Bowshooter
+    at:       [-86.410, -4.876, -385.219, 93]
     level:    [76, 79]
-    region:   s_202
 
   17113291:
     template: Orcish_Bowshooter
+    at:       [-166.022, -2.743, -425.923, 222]
     level:    [76, 79]
-    region:   s_203
 
   17113292:
     template: Orcish_Champion
@@ -1660,7 +1660,7 @@ spawns:
   17113420:
     template: Goblin_Mine
     level:    [75, 75]
-    region:   sw_331
+    region:   sw_332
 
   17113421:
     template: Goblin_Bombardier
@@ -2630,7 +2630,7 @@ spawns:
   17113614:
     template: Gutrender_Trooper
     level:    [75, 80]
-    region:   nw_526
+    region:   nw_525
 
   17113615:
     template: Gutrender_Trooper
@@ -2645,7 +2645,7 @@ spawns:
   17113617:
     template: Gutrender_Trooper
     level:    [75, 80]
-    region:   nw_526
+    region:   nw_529
 
   17113618:
     template: Gutrender_Trooper
@@ -2779,13 +2779,13 @@ spawns:
 
   17113644:
     template: Anderss_Guard
+    at:       [0.000, 0.000, 0.000, 253]
     level:    [60, 60]
-    region:   ne_556
 
   17113645:
     template: Anderss_Guard
+    at:       [0.000, 0.000, 0.000, 254]
     level:    [60, 60]
-    region:   ne_556
 
   17113646:
     template: Moonfang_Warrior
@@ -2985,7 +2985,7 @@ spawns:
   17113685:
     template: Orcish_Strongarm
     level:    [60, 60]
-    region:   c_597
+    region:   c_596
 
   17113686:
     template: Orcish_Strongarm
@@ -3005,12 +3005,12 @@ spawns:
   17113689:
     template: Orcish_Strongarm
     level:    [60, 60]
-    region:   c_598
+    region:   c_601
 
   17113690:
     template: Orcish_Turret
+    at:       [80.934, -0.198, -29.975, 139]
     level:    [60, 60]
-    region:   ne_602
 
   17113691:
     template: War_Smilodon

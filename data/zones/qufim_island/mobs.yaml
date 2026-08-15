@@ -630,7 +630,7 @@ spawns:
   17293438:
     template: Land_Worm
     level:    [26, 27]
-    region:   c_118
+    region:   c_126
 
   17293439:
     template: Land_Worm
@@ -780,7 +780,7 @@ spawns:
   17293468:
     template: Banshee
     level:    [31, 32]
-    region:   ne_146
+    region:   n_156
 
   17293469:
     template: Thunder_Elemental
@@ -850,12 +850,12 @@ spawns:
   17293482:
     template: Banshee
     level:    [31, 32]
-    region:   c_158
+    region:   c_170
 
   17293483:
     template: Banshee
     level:    [31, 32]
-    region:   c_158
+    region:   c_170
 
   17293484:
     template: Thunder_Elemental
@@ -920,7 +920,7 @@ spawns:
   17293497:
     template: Giant_Ascetic
     level:    [29, 30]
-    region:   c_175
+    region:   c_185
 
   17293498:
     template: Giant_Trapper
@@ -1195,12 +1195,12 @@ spawns:
   17293552:
     template: Giant_Trapper
     level:    [29, 30]
-    region:   n_226
+    region:   n_240
 
   17293553:
     template: Gigass_Leech
     level:    [24, 25]
-    region:   n_226
+    region:   n_240
 
   17293554:
     template: Giant_Hunter
@@ -1410,7 +1410,7 @@ spawns:
   17293595:
     template: Banshee
     level:    [31, 32]
-    region:   n_270
+    region:   n_283
 
   17293596:
     template: Thunder_Elemental
@@ -1510,12 +1510,12 @@ spawns:
   17293615:
     template: Dancing_Weapon
     level:    [28, 29]
-    region:   nw_299
+    region:   nw_303
 
   17293616:
     template: Dancing_Weapon
     level:    [28, 29]
-    region:   nw_299
+    region:   nw_303
 
   17293617:
     template: Hobgoblin_Warrior
@@ -1714,8 +1714,8 @@ spawns:
 
   17293656:
     template: Goblin_Bounty_Hunter
+    at:       [-288.229, -7.039, 14.614, 137]
     level:    [32, 36]
-    region:   w_344
 
   17293657:
     template: Goblin_Bounty_Hunter

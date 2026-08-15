@@ -400,12 +400,12 @@ spawns:
   17354832:
     template: Orcish_Fodder
     level:    [8, 10]
-    region:   nw_77
+    region:   nw_80
 
   17354833:
     template: Orcish_Mesmerizer
     level:    [8, 10]
-    region:   nw_77
+    region:   nw_80
 
   17354834:
     template: Orcish_Grappler
@@ -559,13 +559,13 @@ spawns:
 
   17354864:
     template: Orcish_Stonechucker
+    at:       [183.152, -46.597, 101.022, 61]
     level:    [11, 13]
-    region:   ne_112
 
   17354865:
     template: Orcish_Fighter
+    at:       [183.865, -46.357, 103.986, 6]
     level:    [21, 21]
-    region:   ne_112
 
   17354866:
     template: Orcish_Grunt
@@ -634,8 +634,8 @@ spawns:
 
   17354879:
     template: Orcish_Flamethrower
+    at:       [72.732, -51.576, 84.155, 197]
     level:    [16, 18]
-    region:   n_127
 
   17354880:
     template: Orcish_Grunt
@@ -894,13 +894,13 @@ spawns:
 
   17354931:
     template: Orcish_Stonechucker
+    at:       [145.000, -45.599, -108.000, 127]
     level:    [11, 13]
-    region:   se_179
 
   17354932:
     template: Orcish_Fighter
+    at:       [140.382, -45.599, -104.377, 127]
     level:    [21, 21]
-    region:   se_179
 
   17354933:
     template: Orcish_Flamethrower
@@ -1019,13 +1019,13 @@ spawns:
 
   17354956:
     template: Orcish_Cursemaker
+    at:       [121.879, -61.595, 51.185, 127]
     level:    [21, 21]
-    region:   e_204
 
   17354957:
     template: Orcish_Stonechucker
+    at:       [69.992, -61.599, 16.824, 79]
     level:    [14, 17]
-    region:   c_205
 
   17354958:
     template: Orcish_Cursemaker
@@ -1039,8 +1039,8 @@ spawns:
 
   17354960:
     template: Orcish_Cursemaker
+    at:       [118.591, -62.084, -11.813, 124]
     level:    [21, 21]
-    region:   e_208
 
   17354961:
     template: Orcish_Flamethrower
@@ -1135,7 +1135,7 @@ spawns:
   17354979:
     template: Orcish_Grunt
     level:    [14, 17]
-    region:   e_225
+    region:   e_227
 
   17354980:
     template: Orcish_Stonechucker
@@ -1145,14 +1145,14 @@ spawns:
   17354981:
     template: Orcish_Neckchopper
     level:    [14, 17]
-    region:   e_225
+    region:   e_227
 
   17354982:
     template: Orcish_Cursemaker
+    at:       [185.888, -86.599, 17.192, 111]
     level:    [21, 21]
-    region:   e_230
 
   17354983:
     template: Orcish_Serjeant
+    at:       [188.487, -86.342, 20.457, 91]
     level:    [21, 21]
-    region:   e_230

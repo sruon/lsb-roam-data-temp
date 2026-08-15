@@ -335,7 +335,7 @@ spawns:
   17616963:
     template: Dire_Bat
     level:    [60, 63]
-    region:   e_67
+    region:   e_66
 
   17616964:
     template: Volcano_Wasp
@@ -355,7 +355,7 @@ spawns:
   17616967:
     template: Dire_Bat
     level:    [60, 63]
-    region:   e_70
+    region:   e_71
 
   17616968:
     template: Volcanic_Gas
@@ -480,7 +480,7 @@ spawns:
   17616992:
     template: Volcanic_Gas
     level:    [64, 66]
-    region:   c_75
+    region:   c_96
 
   17616993:
     template: Volcanic_Gas
@@ -509,8 +509,8 @@ spawns:
 
   17616998:
     template: Volcanic_Gas
+    at:       [-115.071, 19.870, -72.246, 95]
     level:    [67, 68]
-    region:   s_102
 
   17616999:
     template: Tyrannic_Tunnok
@@ -955,12 +955,12 @@ spawns:
   17617087:
     template: Volcanic_Bomb
     level:    [71, 75]
-    region:   c_77
+    region:   c_191
 
   17617088:
     template: Volcanic_Bomb
     level:    [71, 75]
-    region:   c_76
+    region:   c_192
 
   17617089:
     template: Volcanic_Bomb
@@ -1195,7 +1195,7 @@ spawns:
   17617135:
     template: Volcanic_Bomb
     level:    [74, 78]
-    region:   c_174
+    region:   c_239
 
   17617136:
     template: Volcanic_Bomb
@@ -1269,8 +1269,8 @@ spawns:
 
   17617150:
     template: Volcanic_Bomb
+    at:       [-276.073, 39.785, 123.248, 21]
     level:    [74, 78]
-    region:   nw_254
 
   17617151:
     template: Volcanic_Bomb
@@ -1295,7 +1295,7 @@ spawns:
   17617155:
     template: Volcanic_Bomb
     level:    [72, 75]
-    region:   c_189
+    region:   c_259
 
   17617156:
     template: Volcanic_Bomb

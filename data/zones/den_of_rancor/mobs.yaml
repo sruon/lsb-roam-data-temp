@@ -304,18 +304,18 @@ spawns:
 
   17432637:
     template: Dire_Bat
+    at:       [-67.000, 15.428, -15.000, 127]
     level:    [60, 63]
-    region:   w_61
 
   17432638:
     template: Bifrons
     level:    [68, 70]
-    region:   w_61
+    region:   w_62
 
   17432639:
     template: Bifrons
     level:    [68, 70]
-    region:   w_61
+    region:   w_63
 
   17432640:
     template: Friar_Rush
@@ -355,22 +355,22 @@ spawns:
   17432647:
     template: Tonberry_Imprecator
     level:    [62, 64]
-    region:   w_14
+    region:   c_71
 
   17432648:
     template: Dire_Bat
     level:    [60, 63]
-    region:   w_14
+    region:   c_71
 
   17432649:
     template: Cave_Worm
     level:    [61, 64]
-    region:   w_14
+    region:   c_71
 
   17432650:
     template: Cave_Worm
     level:    [61, 64]
-    region:   w_14
+    region:   c_71
 
   17432651:
     template: Tonberry_Trailer
@@ -640,7 +640,7 @@ spawns:
   17432704:
     template: Puck
     level:    [74, 77]
-    region:   ne_124
+    region:   ne_128
 
   17432705:
     template: Tormentor
@@ -765,22 +765,22 @@ spawns:
   17432729:
     template: Bullbeggar
     level:    [78, 80]
-    region:   ne_132
+    region:   ne_153
 
   17432730:
     template: Bullbeggar
     level:    [78, 80]
-    region:   ne_132
+    region:   ne_153
 
   17432731:
     template: Bullbeggar
     level:    [78, 80]
-    region:   ne_132
+    region:   ne_153
 
   17432732:
     template: Den_Scorpion
     level:    [79, 81]
-    region:   ne_132
+    region:   ne_153
 
   17432733:
     template: Tonberry_Slasher
@@ -789,8 +789,8 @@ spawns:
 
   17432734:
     template: Bifrons
+    at:       [401.006, 25.500, 367.180, 127]
     level:    [68, 70]
-    region:   ne_157
 
   17432735:
     template: Bifrons
@@ -1479,13 +1479,13 @@ spawns:
 
   17432872:
     template: Mousse
+    at:       [111.027, 15.508, -317.467, 92]
     level:    [64, 67]
-    region:   s_296
 
   17432873:
     template: Mousse
+    at:       [114.101, 15.502, -326.874, 77]
     level:    [64, 67]
-    region:   s_296
 
   17432874:
     template: Dire_Bat
@@ -1690,27 +1690,27 @@ spawns:
   17432914:
     template: Tonberry_Slasher
     level:    [67, 69]
-    region:   sw_261
+    region:   sw_338
 
   17432915:
     template: Tonberry_Beleaguerer
     level:    [66, 69]
-    region:   sw_261
+    region:   sw_338
 
   17432916:
     template: Tonberrys_Elemental
     level:    [53, 59]
-    region:   sw_261
+    region:   sw_338
 
   17432917:
     template: Succubus_Bats
     level:    [65, 68]
-    region:   sw_261
+    region:   sw_338
 
   17432918:
     template: Succubus_Bats
     level:    [65, 68]
-    region:   sw_261
+    region:   sw_338
 
   17432919:
     template: Tonberry_Slasher
@@ -1735,27 +1735,27 @@ spawns:
   17432923:
     template: Tonberry_Slasher
     level:    [67, 69]
-    region:   sw_302
+    region:   s_347
 
   17432924:
     template: Tonberry_Beleaguerer
     level:    [66, 69]
-    region:   sw_302
+    region:   s_347
 
   17432925:
     template: Tonberrys_Elemental
     level:    [53, 59]
-    region:   sw_302
+    region:   s_347
 
   17432926:
     template: Succubus_Bats
     level:    [65, 68]
-    region:   sw_302
+    region:   s_347
 
   17432927:
     template: Fire_Elemental
     level:    [70, 72]
-    region:   sw_302
+    region:   s_351
 
   17432928:
     template: Tonberry_Slasher
@@ -1824,18 +1824,18 @@ spawns:
 
   17432941:
     template: Mousse
+    at:       [206.719, 35.514, -285.343, 23]
     level:    [64, 67]
-    region:   s_365
 
   17432942:
     template: Bifrons
+    at:       [207.491, 35.504, -285.699, 64]
     level:    [68, 70]
-    region:   s_365
 
   17432943:
     template: Bifrons
+    at:       [192.356, 35.534, -275.124, 127]
     level:    [68, 70]
-    region:   s_365
 
   17432944:
     template: Million_Eyes
@@ -2124,13 +2124,13 @@ spawns:
 
   17433001:
     template: Tonberry_Tracker
+    at:       [-167.336, 15.851, -120.259, 100]
     level:    [72, 74]
-    region:   w_425
 
   17433002:
     template: Tonberry_Decapitator
+    at:       [-165.510, 15.833, -116.849, 124]
     level:    [72, 74]
-    region:   w_425
 
   17433003:
     template: Tonberry_Pontifex

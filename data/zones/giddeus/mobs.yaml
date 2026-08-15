@@ -270,7 +270,7 @@ spawns:
   17371190:
     template: Giddeus_Bee
     level:    [4, 5]
-    region:   nw_49
+    region:   n_54
 
   17371191:
     template: Giddeus_Pugil
@@ -530,7 +530,7 @@ spawns:
   17371242:
     template: Yagudo_Initiate
     level:    [5, 7]
-    region:   n_7
+    region:   n_106
 
   17371243:
     template: Yagudo_Acolyte
@@ -545,17 +545,17 @@ spawns:
   17371245:
     template: Dirt_Eater
     level:    [3, 5]
-    region:   n_7
+    region:   n_106
 
   17371246:
     template: Dirt_Eater
     level:    [3, 5]
-    region:   n_7
+    region:   n_106
 
   17371247:
     template: Dirt_Eater
     level:    [3, 5]
-    region:   n_7
+    region:   n_106
 
   17371248:
     template: Yagudo_Initiate
@@ -944,13 +944,13 @@ spawns:
 
   17371325:
     template: Yagudo_Piper
+    at:       [221.000, -2.717, -277.000, 74]
     level:    [14, 18]
-    region:   se_189
 
   17371326:
     template: Yagudo_Persecutor
+    at:       [218.000, -1.876, -295.000, 90]
     level:    [14, 18]
-    region:   se_189
 
   17371327:
     template: Yagudo_Initiate
@@ -1224,13 +1224,13 @@ spawns:
 
   17371381:
     template: Yagudos_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
     level:    [4, 6]
-    region:   sw_244
 
   17371382:
     template: Yagudo_Piper
+    at:       [-254.814, -2.759, -266.385, 127]
     level:    [14, 18]
-    region:   sw_244
 
   17371383:
     template: Yagudo_Persecutor
@@ -1310,7 +1310,7 @@ spawns:
   17371398:
     template: Digger_Wasp
     level:    [11, 13]
-    region:   sw_256
+    region:   sw_262
 
   17371399:
     template: Quu_Xijo_the_Illusory
@@ -1440,12 +1440,12 @@ spawns:
   17371424:
     template: Yagudo_Mendicant
     level:    [11, 13]
-    region:   w_93
+    region:   w_288
 
   17371425:
     template: Yagudos_Elemental
     level:    [4, 6]
-    region:   w_93
+    region:   w_288
 
   17371426:
     template: Yagudo_Piper
@@ -1460,12 +1460,12 @@ spawns:
   17371428:
     template: Earth_Eater
     level:    [10, 12]
-    region:   w_93
+    region:   w_288
 
   17371429:
     template: Earth_Eater
     level:    [10, 12]
-    region:   w_93
+    region:   w_288
 
   17371430:
     template: Yagudo_Mendicant
@@ -1675,7 +1675,7 @@ spawns:
   17371471:
     template: Yagudo_Piper
     level:    [12, 15]
-    region:   c_117
+    region:   c_335
 
   17371472:
     template: Yagudo_Persecutor
@@ -1685,12 +1685,12 @@ spawns:
   17371473:
     template: Earth_Eater
     level:    [10, 12]
-    region:   c_117
+    region:   c_335
 
   17371474:
     template: Earth_Eater
     level:    [10, 12]
-    region:   c_117
+    region:   c_335
 
   17371475:
     template: Yagudo_Mendicant
@@ -1710,22 +1710,22 @@ spawns:
   17371478:
     template: Yagudo_Persecutor
     level:    [12, 15]
-    region:   n_88
+    region:   n_342
 
   17371479:
     template: Earth_Eater
     level:    [10, 12]
-    region:   n_88
+    region:   n_342
 
   17371480:
     template: Earth_Eater
     level:    [10, 12]
-    region:   n_88
+    region:   n_342
 
   17371481:
     template: Earth_Eater
     level:    [10, 12]
-    region:   n_88
+    region:   n_342
 
   17371482:
     template: Yagudo_Mendicant
@@ -2004,8 +2004,8 @@ spawns:
 
   17371537:
     template: Yagudo_Votary
+    at:       [66.774, -1.451, -252.935, 127]
     level:    [21, 23]
-    region:   se_401
 
   17371538:
     template: Yagudo_Votary

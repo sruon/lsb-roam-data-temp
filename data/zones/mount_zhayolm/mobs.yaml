@@ -200,7 +200,7 @@ spawns:
   17027112:
     template: Phasma
     level:    [73, 76]
-    region:   s_38
+    region:   s_40
 
   17027113:
     template: Sulphuric_Jagil
@@ -560,7 +560,7 @@ spawns:
   17027184:
     template: Volcanic_Leech
     level:    [73, 75]
-    region:   c_106
+    region:   c_112
 
   17027185:
     template: Hilltroll_Dark_Knight
@@ -1075,7 +1075,7 @@ spawns:
   17027287:
     template: Fire_Elemental
     level:    [74, 76]
-    region:   ne_214
+    region:   ne_215
 
   17027288:
     template: Earth_Elemental
@@ -1389,8 +1389,8 @@ spawns:
 
   17027350:
     template: Hilltroll_Paladin
+    at:       [309.920, -24.320, -33.430, 133]
     level:    [81, 83]
-    region:   c_278
 
   17027351:
     template: Earth_Elemental
@@ -1900,12 +1900,12 @@ spawns:
   17027452:
     template: Scoriaceous_Eruca
     level:    [88, 89]
-    region:   nw_379
+    region:   nw_380
 
   17027453:
     template: Scoriaceous_Eruca
     level:    [88, 89]
-    region:   nw_379
+    region:   nw_380
 
   17027454:
     template: Dahak

@@ -690,12 +690,12 @@ spawns:
   17285258:
     template: Yhoator_Wasp
     level:    [37, 40]
-    region:   c_137
+    region:   c_138
 
   17285259:
     template: Goblin_Reaper
     level:    [41, 45]
-    region:   c_137
+    region:   c_139
 
   17285260:
     template: Young_Opo-opo
@@ -870,7 +870,7 @@ spawns:
   17285294:
     template: Worker_Crawler
     level:    [43, 46]
-    region:   w_171
+    region:   w_174
 
   17285295:
     template: Worker_Crawler
@@ -1685,7 +1685,7 @@ spawns:
   17285457:
     template: Tonberry_Creeper
     level:    [45, 49]
-    region:   se_335
+    region:   se_337
 
   17285458:
     template: Tonberry_Hexer
@@ -1700,12 +1700,12 @@ spawns:
   17285460:
     template: Bisque-heeled_Sunberry
     level:    [57, 59]
-    region:   se_333
+    region:   se_340
 
   17285461:
     template: Tonberry_Hexer
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [45, 49]
-    region:   se_341
 
   17285462:
     template: Tonberry_Creeper
@@ -2100,7 +2100,7 @@ spawns:
   17285540:
     template: Tonberry_Chopper
     level:    [61, 63]
-    region:   e_414
+    region:   e_420
 
   17285541:
     template: Tonberry_Shadower

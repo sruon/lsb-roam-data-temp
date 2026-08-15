@@ -440,27 +440,27 @@ spawns:
   17182808:
     template: Yagudo_Sentinel
     level:    [76, 79]
-    region:   s_84
+    region:   s_88
 
   17182809:
     template: Yagudo_Sentinel
     level:    [76, 79]
-    region:   s_84
+    region:   s_88
 
   17182810:
     template: Yagudo_High_Priest
     level:    [76, 79]
-    region:   s_84
+    region:   s_88
 
   17182811:
     template: Yagudo_Prelate
     level:    [76, 79]
-    region:   s_84
+    region:   s_88
 
   17182812:
     template: Yagudo_Sentinel
     level:    [76, 79]
-    region:   s_84
+    region:   s_88
 
   17182813:
     template: Zhuu_Buxu_the_Silent
@@ -610,7 +610,7 @@ spawns:
   17182842:
     template: Fire_Elemental
     level:    [80, 80]
-    region:   se_103
+    region:   se_122
 
   17182843:
     template: Aa_Xalmo_the_Savage
@@ -720,17 +720,17 @@ spawns:
   17182864:
     template: Yagudo_Knight_Templar
     level:    [76, 79]
-    region:   c_78
+    region:   c_144
 
   17182865:
     template: Yagudo_Eradicator
     level:    [76, 79]
-    region:   c_78
+    region:   c_144
 
   17182866:
     template: Yagudo_High_Priest
     level:    [76, 79]
-    region:   c_78
+    region:   c_144
 
   17182867:
     template: Yagudo_Sentinel
@@ -809,23 +809,23 @@ spawns:
 
   17182882:
     template: Yagudo_Nokizaru
+    at:       [114.125, -16.500, -95.230, 249]
     level:    [79, 82]
-    region:   se_162
 
   17182883:
     template: Yagudo_Nokizaru
+    at:       [115.899, -16.503, -89.748, 49]
     level:    [79, 82]
-    region:   se_162
 
   17182884:
     template: Yagudo_Yojimbo
     level:    [81, 83]
-    region:   se_111
+    region:   se_164
 
   17182885:
     template: Yagudo_Nokizaru
+    at:       [72.394, -19.993, -132.978, 31]
     level:    [79, 82]
-    region:   se_111
 
   17182886:
     template: Seneschal_Imp
@@ -1005,32 +1005,32 @@ spawns:
   17182921:
     template: Yagudo_High_Priest
     level:    [76, 79]
-    region:   w_2
+    region:   w_201
 
   17182922:
     template: Yagudo_Prelate
     level:    [76, 79]
-    region:   w_2
+    region:   w_201
 
   17182923:
     template: Yagudo_Chanter
     level:    [76, 79]
-    region:   w_2
+    region:   w_201
 
   17182924:
     template: Yagudo_High_Priest
     level:    [76, 79]
-    region:   n_6
+    region:   n_204
 
   17182925:
     template: Yagudo_High_Priest
     level:    [76, 79]
-    region:   n_6
+    region:   n_204
 
   17182926:
     template: Bulwark_Bat
     level:    [70, 72]
-    region:   n_6
+    region:   n_204
 
   17182927:
     template: Yagudo_Prelate
@@ -1315,42 +1315,42 @@ spawns:
   17182983:
     template: Yagudo_Flagellant
     level:    [81, 83]
-    region:   s_82
+    region:   s_263
 
   17182984:
     template: Yagudo_Abbot
     level:    [81, 83]
-    region:   s_82
+    region:   s_263
 
   17182985:
     template: Yagudo_Hierogrammat
     level:    [81, 83]
-    region:   s_82
+    region:   s_263
 
   17182986:
     template: Yagudo_Conductor
     level:    [81, 83]
-    region:   s_82
+    region:   s_266
 
   17182987:
     template: Yagudo_Yojimbo
     level:    [81, 83]
-    region:   s_82
+    region:   s_266
 
   17182988:
     template: Yagudo_Nokizaru
     level:    [79, 82]
-    region:   s_82
+    region:   s_266
 
   17182989:
     template: Yagudo_Superior
     level:    [81, 83]
-    region:   s_82
+    region:   s_269
 
   17182990:
     template: Yagudos_Elemental
     level:    [70, 79]
-    region:   s_82
+    region:   s_269
 
   17182991:
     template: Yagudo_Parasite
@@ -1455,32 +1455,32 @@ spawns:
   17183011:
     template: Yagudo_Flagellant
     level:    [81, 83]
-    region:   s_84
+    region:   s_291
 
   17183012:
     template: Yagudo_Abbot
     level:    [81, 83]
-    region:   s_84
+    region:   s_291
 
   17183013:
     template: Yagudo_Nokizaru
     level:    [79, 82]
-    region:   s_82
+    region:   s_293
 
   17183014:
     template: Yagudo_Hierogrammat
     level:    [81, 83]
-    region:   s_82
+    region:   s_293
 
   17183015:
     template: Yagudo_Conductor
     level:    [81, 83]
-    region:   s_82
+    region:   s_295
 
   17183016:
     template: Yagudo_Yojimbo
     level:    [81, 83]
-    region:   s_82
+    region:   s_295
 
   17183017:
     template: Yagudo_Nokizaru
@@ -1525,12 +1525,12 @@ spawns:
   17183025:
     template: Yagudo_Yojimbo
     level:    [81, 83]
-    region:   c_234
+    region:   c_305
 
   17183026:
     template: Yagudo_Yojimbo
     level:    [81, 83]
-    region:   c_234
+    region:   c_305
 
   17183027:
     template: Yagudo_Abbot
@@ -1555,7 +1555,7 @@ spawns:
   17183031:
     template: Dee_Zelko_the_Esoteric
     level:    [83, 83]
-    region:   s_82
+    region:   s_269
 
   17183032:
     template: Marquis_Forneus

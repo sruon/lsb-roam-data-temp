@@ -55,12 +55,12 @@ spawns:
   16949259:
     template: Nightmare_Worm
     level:    [78, 80]
-    region:   c_9
+    region:   c_11
 
   16949260:
     template: Nightmare_Worm
     level:    [78, 80]
-    region:   c_9
+    region:   c_11
 
   16949261:
     template: Nightmare_Worm
@@ -90,7 +90,7 @@ spawns:
   16949266:
     template: Nightmare_Worm
     level:    [78, 80]
-    region:   c_17
+    region:   c_18
 
   16949267:
     template: Nightmare_Worm
@@ -110,7 +110,7 @@ spawns:
   16949270:
     template: Adamantking_Effigy
     level:    [70, 70]
-    region:   c_17
+    region:   c_22
 
   16949271:
     template: Adamantking_Effigy
@@ -120,7 +120,7 @@ spawns:
   16949272:
     template: Effigy_Prototype
     level:    [70, 70]
-    region:   c_17
+    region:   c_24
 
   16949273:
     template: Nightmare_Hornet
@@ -369,8 +369,8 @@ spawns:
 
   16949322:
     template: Goblin_Replica
+    at:       [-73.610, -11.653, -5.566, 10]
     level:    [70, 70]
-    region:   w_69
 
   16949323:
     template: Goblin_Replica
@@ -420,47 +420,47 @@ spawns:
   16949332:
     template: Nightmare_Cluster
     level:    [95, 97]
-    region:   c_9
+    region:   c_84
 
   16949333:
     template: Nightmare_Cluster
     level:    [95, 97]
-    region:   c_9
+    region:   c_84
 
   16949334:
     template: Nightmare_Cluster
     level:    [95, 97]
-    region:   c_9
+    region:   c_84
 
   16949335:
     template: Nightmare_Cluster
     level:    [95, 97]
-    region:   c_13
+    region:   c_87
 
   16949336:
     template: Nightmare_Cluster
     level:    [95, 97]
-    region:   c_13
+    region:   c_87
 
   16949337:
     template: Nightmare_Cluster
     level:    [95, 97]
-    region:   c_13
+    region:   c_89
 
   16949338:
     template: Nightmare_Cluster
     level:    [95, 97]
-    region:   c_17
+    region:   c_90
 
   16949339:
     template: Nightmare_Cluster
     level:    [95, 97]
-    region:   c_17
+    region:   c_90
 
   16949340:
     template: Nightmare_Cluster
     level:    [95, 97]
-    region:   c_17
+    region:   c_90
 
   16949341:
     template: Nightmare_Leech

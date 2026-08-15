@@ -635,7 +635,7 @@ spawns:
   17498239:
     template: Vampire_Bat
     level:    [42, 45]
-    region:   c_126
+    region:   c_127
 
   17498240:
     template: Vampire_Bat
@@ -1390,7 +1390,7 @@ spawns:
   17498390:
     template: Thunder_Elemental
     level:    [55, 58]
-    region:   w_275
+    region:   w_278
 
   17498391:
     template: Swamp_Sahagin
@@ -1455,7 +1455,7 @@ spawns:
   17498403:
     template: Thunder_Elemental
     level:    [55, 58]
-    region:   w_288
+    region:   w_291
 
   17498404:
     template: Marsh_Sahagin
@@ -1509,8 +1509,8 @@ spawns:
 
   17498414:
     template: Rock_Crab
+    at:       [-299.728, 20.234, -71.261, 92]
     level:    [53, 58]
-    region:   w_302
 
   17498415:
     template: Marsh_Sahagin
@@ -1620,7 +1620,7 @@ spawns:
   17498436:
     template: Yarr_the_Pearleyed
     level:    [64, 66]
-    region:   s_319
+    region:   s_324
 
   17498437:
     template: Shore_Sahagin
@@ -1954,13 +1954,13 @@ spawns:
 
   17498503:
     template: Robber_Crab
+    at:       [-255.176, 47.969, -333.297, 127]
     level:    [62, 67]
-    region:   sw_391
 
   17498504:
     template: Robber_Crab
+    at:       [-258.214, 51.147, -343.688, 57]
     level:    [62, 67]
-    region:   sw_391
 
   17498505:
     template: Devil_Manta
@@ -2070,7 +2070,7 @@ spawns:
   17498526:
     template: Delta_Sahagin
     level:    [69, 71]
-    region:   c_413
+    region:   c_414
 
   17498527:
     template: Shore_Sahagin

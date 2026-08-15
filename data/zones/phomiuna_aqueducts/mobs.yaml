@@ -144,8 +144,8 @@ spawns:
 
   16887837:
     template: Gloop
+    at:       [27.270, -6.589, -17.422, 54]
     level:    [36, 38]
-    region:   c_29
 
   16887838:
     template: Canal_Bats
@@ -450,12 +450,12 @@ spawns:
   16887898:
     template: Air_Elemental
     level:    [45, 45]
-    region:   n_85
+    region:   n_90
 
   16887899:
     template: Thunder_Elemental
     level:    [45, 45]
-    region:   n_85
+    region:   n_90
 
   16887900:
     template: Dark_Elemental
@@ -805,7 +805,7 @@ spawns:
   16887969:
     template: Diremite
     level:    [47, 48]
-    region:   e_61
+    region:   e_161
 
   16887970:
     template: Stegotaur
@@ -819,33 +819,33 @@ spawns:
 
   16887972:
     template: Fomor_Ranger
+    at:       [101.884, -24.600, 98.193, 114]
     level:    [47, 48]
-    region:   ne_53
 
   16887973:
     template: Fomor_Bard
+    at:       [103.164, -24.591, 99.499, 103]
     level:    [47, 48]
-    region:   ne_53
 
   16887974:
     template: Fomor_Bard
+    at:       [101.035, -24.580, 98.971, 70]
     level:    [47, 48]
-    region:   ne_53
 
   16887975:
     template: Fomor_Ranger
+    at:       [109.334, -24.598, 102.523, 139]
     level:    [47, 48]
-    region:   ne_53
 
   16887976:
     template: Fomor_Ranger
+    at:       [94.267, -24.600, 23.151, 128]
     level:    [47, 48]
-    region:   e_168
 
   16887977:
     template: Fomor_Paladin
+    at:       [95.966, -24.599, 23.468, 122]
     level:    [47, 48]
-    region:   e_168
 
   16887978:
     template: Fomor_Paladin
@@ -869,23 +869,23 @@ spawns:
 
   16887982:
     template: Fomor_Red_Mage
+    at:       [104.094, -24.592, 22.523, 244]
     level:    [47, 48]
-    region:   e_168
 
   16887983:
     template: Fomor_Black_Mage
+    at:       [103.103, -24.585, 22.335, 249]
     level:    [47, 48]
-    region:   e_168
 
   16887984:
     template: Fomor_Black_Mage
+    at:       [84.981, -24.598, 19.772, 138]
     level:    [47, 48]
-    region:   e_168
 
   16887985:
     template: Fomor_Red_Mage
+    at:       [86.803, -24.590, 19.029, 140]
     level:    [47, 48]
-    region:   e_168
 
   16887986:
     template: Fomor_Red_Mage
@@ -899,13 +899,13 @@ spawns:
 
   16887988:
     template: Fomor_Monk
+    at:       [88.033, -24.000, 100.683, 64]
     level:    [47, 48]
-    region:   ne_53
 
   16887989:
     template: Fomor_Red_Mage
+    at:       [88.968, -24.500, 98.589, 67]
     level:    [47, 48]
-    region:   ne_53
 
   16887990:
     template: Stegotaur
@@ -924,33 +924,33 @@ spawns:
 
   16887993:
     template: Fomor_Warrior
+    at:       [-68.735, -24.600, 109.813, 234]
     level:    [47, 48]
-    region:   n_185
 
   16887994:
     template: Fomor_Samurai
+    at:       [-70.247, -24.600, 108.819, 233]
     level:    [47, 48]
-    region:   n_185
 
   16887995:
     template: Fomor_Samurai
+    at:       [-48.428, -24.600, 101.264, 176]
     level:    [47, 48]
-    region:   n_185
 
   16887996:
     template: Fomor_Warrior
+    at:       [-46.847, -24.600, 100.121, 162]
     level:    [47, 48]
-    region:   n_185
 
   16887997:
     template: Fomor_Warrior
+    at:       [-65.603, -24.600, 17.367, 158]
     level:    [47, 48]
-    region:   c_189
 
   16887998:
     template: Fomor_Ranger
+    at:       [-67.174, -24.500, 18.369, 167]
     level:    [47, 48]
-    region:   c_189
 
   16887999:
     template: Fomor_Ranger
@@ -974,23 +974,23 @@ spawns:
 
   16888003:
     template: Fomor_Bard
+    at:       [-70.330, -24.582, 9.762, 134]
     level:    [47, 48]
-    region:   c_189
 
   16888004:
     template: Fomor_Thief
+    at:       [-69.152, -24.599, 9.946, 10]
     level:    [47, 48]
-    region:   c_189
 
   16888005:
     template: Fomor_Thief
+    at:       [-59.232, -24.600, 18.659, 59]
     level:    [47, 48]
-    region:   c_189
 
   16888006:
     template: Fomor_Bard
+    at:       [-59.568, -24.585, 20.569, 59]
     level:    [47, 48]
-    region:   c_189
 
   16888007:
     template: Fomor_Bard
@@ -1004,13 +1004,13 @@ spawns:
 
   16888009:
     template: Fomor_Thief
+    at:       [-56.913, -24.600, 101.273, 119]
     level:    [47, 48]
-    region:   n_185
 
   16888010:
     template: Fomor_Bard
+    at:       [-49.206, -24.507, 102.005, 115]
     level:    [47, 48]
-    region:   n_185
 
   16888011:
     template: Aqueduct_Spider

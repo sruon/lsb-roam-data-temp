@@ -814,23 +814,23 @@ spawns:
 
   16806051:
     template: Flesh_Eater
+    at:       [-66.936, 33.382, -122.975, 186]
     level:    [34, 35]
-    region:   s_163
 
   16806052:
     template: Flesh_Eater
+    at:       [-63.057, 33.596, -103.561, 205]
     level:    [34, 35]
-    region:   s_163
 
   16806053:
     template: Flesh_Eater
+    at:       [-65.304, 33.543, -110.112, 205]
     level:    [34, 35]
-    region:   s_165
 
   16806054:
     template: Air_Elemental
     level:    [40, 42]
-    region:   s_165
+    region:   s_166
 
   16806055:
     template: Flesh_Eater
@@ -909,28 +909,28 @@ spawns:
 
   16806070:
     template: Flesh_Eater
+    at:       [-44.080, 13.508, -63.402, 63]
     level:    [34, 35]
-    region:   c_182
 
   16806071:
     template: Flesh_Eater
+    at:       [-43.982, 13.505, -63.318, 63]
     level:    [34, 35]
-    region:   c_182
 
   16806072:
     template: Air_Elemental
+    at:       [-45.088, 13.355, -50.984, 180]
     level:    [41, 43]
-    region:   c_182
 
   16806073:
     template: Flesh_Eater
+    at:       [-44.038, 13.385, -54.642, 186]
     level:    [34, 35]
-    region:   c_182
 
   16806074:
     template: Flesh_Eater
+    at:       [-66.724, 13.646, -74.311, 198]
     level:    [35, 36]
-    region:   s_186
 
   16806075:
     template: Hecteyes
@@ -1024,28 +1024,28 @@ spawns:
 
   16806093:
     template: Flesh_Eater
+    at:       [-243.865, 13.518, 263.571, 196]
     level:    [34, 36]
-    region:   nw_205
 
   16806094:
     template: Flesh_Eater
+    at:       [-245.305, 13.359, 248.779, 216]
     level:    [34, 36]
-    region:   nw_205
 
   16806095:
     template: Air_Elemental
     level:    [41, 43]
-    region:   nw_205
+    region:   nw_207
 
   16806096:
     template: Flesh_Eater
+    at:       [-265.935, 13.564, 248.438, 210]
     level:    [34, 36]
-    region:   nw_208
 
   16806097:
     template: Air_Elemental
+    at:       [-265.656, 13.582, 248.894, 82]
     level:    [41, 43]
-    region:   nw_208
 
   16806098:
     template: Hecteyes
@@ -1074,8 +1074,8 @@ spawns:
 
   16806103:
     template: Flesh_Eater
+    at:       [-265.155, -5.964, 330.605, 68]
     level:    [36, 37]
-    region:   nw_215
 
   16806104:
     template: Flesh_Eater
@@ -1325,22 +1325,22 @@ spawns:
   16806153:
     template: Cutlass_Scorpion
     level:    [67, 69]
-    region:   w_261
+    region:   w_265
 
   16806154:
     template: Monarch_Ogrefly
     level:    [65, 67]
-    region:   w_261
+    region:   w_265
 
   16806155:
     template: Corse
     level:    [66, 67]
-    region:   w_261
+    region:   w_265
 
   16806156:
     template: Lich
     level:    [62, 64]
-    region:   w_261
+    region:   w_265
 
   16806157:
     template: Cutlass_Scorpion
@@ -1365,7 +1365,7 @@ spawns:
   16806161:
     template: Corse
     level:    [66, 67]
-    region:   w_261
+    region:   w_273
 
   16806162:
     template: Citipati
@@ -1625,27 +1625,27 @@ spawns:
   16806213:
     template: Cutlass_Scorpion
     level:    [67, 69]
-    region:   nw_323
+    region:   nw_325
 
   16806214:
     template: Cutlass_Scorpion
     level:    [67, 69]
-    region:   nw_323
+    region:   nw_325
 
   16806215:
     template: Xolotl
     level:    [80, 81]
-    region:   nw_323
+    region:   nw_327
 
   16806216:
     template: Xolotls_Hound_Warrior
     level:    [72, 72]
-    region:   nw_323
+    region:   nw_327
 
   16806217:
     template: Xolotls_Sacrifice
     level:    [72, 72]
-    region:   nw_323
+    region:   nw_327
 
   16806218:
     template: Sand_Lizard

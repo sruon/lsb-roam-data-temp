@@ -269,23 +269,23 @@ spawns:
 
   17342518:
     template: Orcish_Augur
+    at:       [20.000, -24.000, -58.000, 44]
     level:    [76, 79]
-    region:   sw_54
 
   17342519:
     template: Orcish_Dragonbrander
+    at:       [16.000, -24.000, -26.000, 54]
     level:    [76, 78]
-    region:   sw_55
 
   17342520:
     template: Orcish_Champion
     level:    [76, 79]
-    region:   sw_54
+    region:   sw_56
 
   17342521:
     template: Orcish_Dragonbrander
     level:    [76, 78]
-    region:   sw_55
+    region:   sw_56
 
   17342522:
     template: Demon_Magus
@@ -690,7 +690,7 @@ spawns:
   17342602:
     template: Demon_Magus
     level:    [80, 81]
-    region:   sw_136
+    region:   sw_138
 
   17342603:
     template: Ogler
@@ -1060,17 +1060,17 @@ spawns:
   17342676:
     template: Doom_Lens
     level:    [84, 85]
-    region:   w_59
+    region:   w_212
 
   17342677:
     template: Doom_Lens
     level:    [84, 85]
-    region:   s_77
+    region:   s_213
 
   17342678:
     template: Doom_Lens
     level:    [84, 85]
-    region:   w_106
+    region:   sw_214
 
   17342679:
     template: Doom_Lens
@@ -1195,42 +1195,42 @@ spawns:
   17342703:
     template: Doom_Lens
     level:    [84, 85]
-    region:   w_90
+    region:   w_239
 
   17342704:
     template: Doom_Lens
     level:    [84, 85]
-    region:   sw_86
+    region:   sw_240
 
   17342705:
     template: Doom_Lens
     level:    [84, 85]
-    region:   s_80
+    region:   sw_241
 
   17342706:
     template: Doom_Lens
     level:    [84, 85]
-    region:   s_80
+    region:   sw_241
 
   17342707:
     template: Doom_Lens
     level:    [84, 85]
-    region:   sw_110
+    region:   sw_243
 
   17342708:
     template: Doom_Lens
     level:    [84, 85]
-    region:   sw_110
+    region:   sw_243
 
   17342709:
     template: Deathwreaker_Demon
     level:    [85, 87]
-    region:   sw_216
+    region:   sw_245
 
   17342710:
     template: Soulsearer_Demon
     level:    [85, 88]
-    region:   sw_216
+    region:   sw_245
 
   17342711:
     template: Foredoomer_Demon
@@ -1245,12 +1245,12 @@ spawns:
   17342713:
     template: Deathwreaker_Demon
     level:    [85, 87]
-    region:   sw_232
+    region:   sw_249
 
   17342714:
     template: Soulsearer_Demon
     level:    [85, 88]
-    region:   sw_220
+    region:   sw_250
 
   17342715:
     template: Deathwreaker_Demon
@@ -1315,12 +1315,12 @@ spawns:
   17342727:
     template: Foredoomer_Demon
     level:    [85, 88]
-    region:   sw_233
+    region:   sw_263
 
   17342728:
     template: Demons_Elemental
     level:    [80, 83]
-    region:   sw_233
+    region:   sw_263
 
   17342729:
     template: Zvahl_Fortalice
@@ -2500,7 +2500,7 @@ spawns:
   17342964:
     template: Shadowhind_Machinator
     level:    [65, 65]
-    region:   ne_498
+    region:   ne_500
 
   17342965:
     template: Shadowhind_Machinator
@@ -2515,7 +2515,7 @@ spawns:
   17342967:
     template: Shadowhind_Machinator
     level:    [65, 65]
-    region:   ne_498
+    region:   ne_503
 
   17342968:
     template: Confederate_Mantelet

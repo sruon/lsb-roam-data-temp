@@ -459,18 +459,18 @@ spawns:
 
   17428572:
     template: Branding_Iron
+    at:       [60.000, 1.461, -64.000, 21]
     level:    [55, 58]
-    region:   s_92
 
   17428573:
     template: Rumble_Crawler
+    at:       [53.801, 1.162, -73.590, 44]
     level:    [53, 56]
-    region:   s_92
 
   17428574:
     template: Rumble_Crawler
+    at:       [61.266, 1.346, -70.879, 98]
     level:    [53, 56]
-    region:   s_92
 
   17428575:
     template: Rumble_Crawler
@@ -669,18 +669,18 @@ spawns:
 
   17428614:
     template: Branding_Iron
+    at:       [-146.000, 1.463, -21.000, 53]
     level:    [55, 58]
-    region:   sw_134
 
   17428615:
     template: Wespe
+    at:       [-135.898, 1.462, -24.791, 33]
     level:    [52, 55]
-    region:   sw_134
 
   17428616:
     template: Wespe
+    at:       [-139.891, 1.499, -20.621, 63]
     level:    [52, 55]
-    region:   sw_134
 
   17428617:
     template: Tonberry_Cutter
@@ -779,8 +779,8 @@ spawns:
 
   17428636:
     template: Tonberry_Cutter
+    at:       [-140.494, 0.000, -90.177, 16]
     level:    [56, 59]
-    region:   sw_156
 
   17428637:
     template: Tonberry_Cutter
@@ -1070,7 +1070,7 @@ spawns:
   17428694:
     template: Hover_Tank
     level:    [64, 68]
-    region:   s_172
+    region:   s_214
 
   17428695:
     template: Tonberry_Maledictor
@@ -1145,7 +1145,7 @@ spawns:
   17428709:
     template: Fire_Elemental
     level:    [65, 68]
-    region:   sw_222
+    region:   sw_229
 
   17428710:
     template: Hover_Tank
@@ -1215,27 +1215,27 @@ spawns:
   17428723:
     template: Iron_Maiden
     level:    [64, 68]
-    region:   sw_176
+    region:   sw_243
 
   17428724:
     template: Iron_Maiden
     level:    [64, 68]
-    region:   sw_176
+    region:   sw_243
 
   17428725:
     template: Fire_Elemental
     level:    [65, 68]
-    region:   sw_176
+    region:   sw_245
 
   17428726:
     template: Hover_Tank
     level:    [64, 68]
-    region:   sw_137
+    region:   sw_246
 
   17428727:
     template: Hover_Tank
     level:    [64, 68]
-    region:   sw_137
+    region:   sw_246
 
   17428728:
     template: Torama
@@ -1459,8 +1459,8 @@ spawns:
 
   17428772:
     template: Tonberry_Stabber
+    at:       [336.400, -0.500, 218.653, 127]
     level:    [64, 67]
-    region:   ne_292
 
   17428773:
     template: Tonberry_Dismayer
@@ -1519,13 +1519,13 @@ spawns:
 
   17428784:
     template: Temple_Bee
+    at:       [301.085, 1.490, 260.047, 94]
     level:    [60, 63]
-    region:   ne_304
 
   17428785:
     template: Temple_Bee
+    at:       [300.268, 1.517, 263.782, 127]
     level:    [60, 63]
-    region:   ne_304
 
   17428786:
     template: Water_Elemental

@@ -94,23 +94,23 @@ spawns:
 
   17580051:
     template: Fly_Agaric
+    at:       [-14.282, -59.900, -177.424, 15]
     level:    [20, 23]
-    region:   s_19
 
   17580052:
     template: Fly_Agaric
+    at:       [-16.713, -59.780, -186.027, 66]
     level:    [20, 23]
-    region:   s_19
 
   17580053:
     template: Fly_Agaric
+    at:       [-28.088, -59.560, -180.088, 127]
     level:    [20, 23]
-    region:   s_19
 
   17580054:
     template: Fly_Agaric
+    at:       [-27.976, -59.560, -180.089, 88]
     level:    [20, 23]
-    region:   s_19
 
   17580055:
     template: Fly_Agaric
@@ -204,18 +204,18 @@ spawns:
 
   17580073:
     template: Ghoul
+    at:       [5.000, -54.000, -92.000, 127]
     level:    [20, 24]
-    region:   s_41
 
   17580074:
     template: Ghoul
+    at:       [15.834, -60.117, -96.727, 67]
     level:    [20, 24]
-    region:   s_41
 
   17580075:
     template: Ghoul
+    at:       [41.000, -54.000, -93.000, 55]
     level:    [24, 27]
-    region:   s_41
 
   17580076:
     template: Ghoul
@@ -345,7 +345,7 @@ spawns:
   17580101:
     template: Bandersnatch
     level:    [22, 24]
-    region:   se_67
+    region:   se_69
 
   17580102:
     template: Ghoul
@@ -524,13 +524,13 @@ spawns:
 
   17580137:
     template: Wendigo
+    at:       [18.865, -40.100, 106.229, 248]
     level:    [26, 30]
-    region:   c_105
 
   17580138:
     template: Wight
+    at:       [19.186, -40.599, 102.541, 57]
     level:    [29, 33]
-    region:   c_105
 
   17580139:
     template: Accursed_Soldier
@@ -1040,22 +1040,22 @@ spawns:
   17580240:
     template: Feu_Follet
     level:    [35, 38]
-    region:   nw_187
+    region:   nw_208
 
   17580241:
     template: Feu_Follet
     level:    [35, 38]
-    region:   nw_187
+    region:   nw_208
 
   17580242:
     template: Thunder_Elemental
     level:    [33, 36]
-    region:   nw_187
+    region:   nw_208
 
   17580243:
     template: Earth_Elemental
     level:    [33, 36]
-    region:   nw_187
+    region:   nw_208
 
   17580244:
     template: Myconid
@@ -1320,7 +1320,7 @@ spawns:
   17580296:
     template: Wight
     level:    [31, 34]
-    region:   n_263
+    region:   n_264
 
   17580297:
     template: Ghast
@@ -1375,12 +1375,12 @@ spawns:
   17580307:
     template: Rancid_Ooze
     level:    [31, 34]
-    region:   nw_216
+    region:   nw_275
 
   17580308:
     template: Rancid_Ooze
     level:    [31, 34]
-    region:   nw_216
+    region:   nw_275
 
   17580309:
     template: Greater_Pugil
@@ -1450,7 +1450,7 @@ spawns:
   17580322:
     template: Mauthe_Doog
     level:    [28, 31]
-    region:   n_289
+    region:   n_290
 
   17580323:
     template: Wight

@@ -64,13 +64,13 @@ spawns:
 
   16986125:
     template: Lesser_Colibri
+    at:       [605.000, -18.000, 180.000, 127]
     level:    [63, 65]
-    region:   ne_13
 
   16986126:
     template: Lesser_Colibri
+    at:       [580.000, -18.000, 199.000, 127]
     level:    [63, 65]
-    region:   ne_13
 
   16986127:
     template: Lesser_Colibri
@@ -290,12 +290,12 @@ spawns:
   16986170:
     template: Worker_Pephredo
     level:    [62, 63]
-    region:   e_57
+    region:   e_58
 
   16986171:
     template: Worker_Pephredo
     level:    [62, 63]
-    region:   e_57
+    region:   e_58
 
   16986172:
     template: Marid
@@ -315,12 +315,12 @@ spawns:
   16986175:
     template: Lesser_Colibri
     level:    [63, 65]
-    region:   e_63
+    region:   e_58
 
   16986176:
     template: Lesser_Colibri
     level:    [63, 65]
-    region:   e_63
+    region:   e_58
 
   16986177:
     template: Marid
@@ -705,7 +705,7 @@ spawns:
   16986253:
     template: Puk
     level:    [68, 70]
-    region:   s_138
+    region:   s_141
 
   16986254:
     template: Soldier_Pephredo
@@ -1109,13 +1109,13 @@ spawns:
 
   16986334:
     template: Lesser_Colibri
+    at:       [-419.656, -10.145, 89.705, 193]
     level:    [64, 65]
-    region:   w_222
 
   16986335:
     template: Lesser_Colibri
+    at:       [-389.297, -10.020, 99.656, 252]
     level:    [64, 65]
-    region:   w_222
 
   16986336:
     template: Lesser_Colibri
@@ -1225,12 +1225,12 @@ spawns:
   16986357:
     template: Worker_Pephredo
     level:    [63, 64]
-    region:   w_244
+    region:   w_245
 
   16986358:
     template: Worker_Pephredo
     level:    [63, 64]
-    region:   w_244
+    region:   w_245
 
   16986359:
     template: Soldier_Pephredo
@@ -1249,13 +1249,13 @@ spawns:
 
   16986362:
     template: Mamool_Ja_Sophist
+    at:       [-677.000, -12.000, -493.000, 127]
     level:    [72, 73]
-    region:   w_250
 
   16986363:
     template: Mamool_Ja_Bounder
+    at:       [-714.000, -12.000, -494.000, 127]
     level:    [72, 73]
-    region:   w_250
 
   16986364:
     template: Mamool_Ja_Mimicker
@@ -1369,8 +1369,8 @@ spawns:
 
   16986386:
     template: Woodland_Runner
+    at:       [-499.000, -11.000, -476.000, 127]
     level:    [71, 72]
-    region:   sw_274
 
   16986387:
     template: Mamool_Ja_Sophist
@@ -1435,17 +1435,17 @@ spawns:
   16986399:
     template: Worker_Pephredo
     level:    [63, 64]
-    region:   sw_286
+    region:   s_287
 
   16986400:
     template: Worker_Pephredo
     level:    [63, 64]
-    region:   sw_286
+    region:   s_287
 
   16986401:
     template: Worker_Pephredo
     level:    [63, 64]
-    region:   sw_286
+    region:   s_287
 
   16986402:
     template: Puk
@@ -1469,13 +1469,13 @@ spawns:
 
   16986406:
     template: Puk
+    at:       [-615.000, -18.000, -206.000, 127]
     level:    [68, 70]
-    region:   sw_294
 
   16986407:
     template: Puk
+    at:       [-228.000, -18.000, -417.000, 127]
     level:    [68, 70]
-    region:   sw_294
 
   16986408:
     template: Mamool_Ja_Sophist
@@ -1500,7 +1500,7 @@ spawns:
   16986412:
     template: Mamool_Ja_Mimicker
     level:    [72, 73]
-    region:   sw_299
+    region:   sw_300
 
   16986413:
     template: Air_Elemental
@@ -2434,8 +2434,8 @@ spawns:
 
   16986599:
     template: Troll_Destroyer
+    at:       [-1.000, 0.000, 0.000, 205]
     level:    [119, 119]
-    region:   e_487
 
   16986600:
     template: Troll_Destroyer

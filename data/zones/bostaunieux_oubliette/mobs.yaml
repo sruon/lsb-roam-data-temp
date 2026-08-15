@@ -134,8 +134,8 @@ spawns:
 
   17461275:
     template: Haunt
+    at:       [-218.968, 0.000, -171.540, 120]
     level:    [60, 63]
-    region:   w_27
 
   17461276:
     template: Garm
@@ -220,17 +220,17 @@ spawns:
   17461292:
     template: Funnel_Bats
     level:    [52, 55]
-    region:   c_43
+    region:   c_44
 
   17461293:
     template: Dark_Aspic
     level:    [52, 54]
-    region:   c_43
+    region:   c_44
 
   17461294:
     template: Dark_Aspic
     level:    [52, 54]
-    region:   c_43
+    region:   c_44
 
   17461295:
     template: Haunt
@@ -375,27 +375,27 @@ spawns:
   17461323:
     template: Werebat
     level:    [55, 59]
-    region:   c_47
+    region:   s_75
 
   17461324:
     template: Werebat
     level:    [55, 59]
-    region:   c_47
+    region:   s_75
 
   17461325:
     template: Dark_Aspic
     level:    [52, 54]
-    region:   c_47
+    region:   s_75
 
   17461326:
     template: Dark_Aspic
     level:    [52, 54]
-    region:   c_47
+    region:   s_75
 
   17461327:
     template: Haunt
     level:    [60, 63]
-    region:   s_74
+    region:   sw_79
 
   17461328:
     template: Werebat
@@ -700,7 +700,7 @@ spawns:
   17461388:
     template: Blind_Bat
     level:    [95, 97]
-    region:   e_139
+    region:   e_140
 
   17461389:
     template: Panna_Cotta
@@ -730,12 +730,12 @@ spawns:
   17461394:
     template: Blind_Bat
     level:    [95, 97]
-    region:   ne_144
+    region:   ne_146
 
   17461395:
     template: Blind_Bat
     level:    [95, 97]
-    region:   ne_144
+    region:   ne_146
 
   17461396:
     template: Panna_Cotta
@@ -930,37 +930,37 @@ spawns:
   17461434:
     template: Bloodsucker
     level:    [65, 68]
-    region:   c_47
+    region:   s_186
 
   17461435:
     template: Bloodsucker
     level:    [65, 68]
-    region:   c_47
+    region:   s_186
 
   17461436:
     template: Bloodsucker
     level:    [65, 68]
-    region:   c_47
+    region:   s_186
 
   17461437:
     template: Bloodsucker
     level:    [65, 68]
-    region:   c_47
+    region:   s_186
 
   17461438:
     template: Bloodsucker
     level:    [65, 68]
-    region:   s_74
+    region:   s_190
 
   17461439:
     template: Bloodsucker
     level:    [65, 68]
-    region:   s_74
+    region:   s_190
 
   17461440:
     template: Bloodsucker
     level:    [65, 68]
-    region:   s_74
+    region:   s_190
 
   17461441:
     template: Bloodsucker
@@ -1025,42 +1025,42 @@ spawns:
   17461453:
     template: Bloodsucker
     level:    [65, 68]
-    region:   s_111
+    region:   s_205
 
   17461454:
     template: Bloodsucker
     level:    [65, 68]
-    region:   s_111
+    region:   s_205
 
   17461455:
     template: Bloodsucker
     level:    [65, 68]
-    region:   s_111
+    region:   s_205
 
   17461456:
     template: Bloodsucker
     level:    [65, 68]
-    region:   s_112
+    region:   c_208
 
   17461457:
     template: Bloodsucker
     level:    [65, 68]
-    region:   s_112
+    region:   c_208
 
   17461458:
     template: Bloodsucker
     level:    [65, 68]
-    region:   s_112
+    region:   c_208
 
   17461459:
     template: Bloodsucker
     level:    [65, 68]
-    region:   s_112
+    region:   c_208
 
   17461460:
     template: Bloodsucker
     level:    [65, 68]
-    region:   s_112
+    region:   c_208
 
   17461461:
     template: Bloodsucker
@@ -1105,12 +1105,12 @@ spawns:
   17461469:
     template: Gespenst
     level:    [68, 70]
-    region:   c_60
+    region:   c_221
 
   17461470:
     template: Gespenst
     level:    [68, 70]
-    region:   c_60
+    region:   c_221
 
   17461471:
     template: Manes
@@ -1120,12 +1120,12 @@ spawns:
   17461472:
     template: Bloodsucker
     level:    [65, 68]
-    region:   c_56
+    region:   c_224
 
   17461473:
     template: Bloodsucker
     level:    [65, 68]
-    region:   c_56
+    region:   c_224
 
   17461474:
     template: Bloodsucker
@@ -1140,7 +1140,7 @@ spawns:
   17461476:
     template: Gespenst
     level:    [68, 70]
-    region:   c_136
+    region:   c_228
 
   17461477:
     template: Gespenst
@@ -1150,7 +1150,7 @@ spawns:
   17461478:
     template: Bloodsucker_NM
     level:    [70, 73]
-    region:   s_112
+    region:   c_208
 
   17461479:
     template: Bodach
