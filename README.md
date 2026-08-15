@@ -52,8 +52,11 @@ tuned constant:
   castle's storeys collapse into one another -- Castle Oztroja had 22 of 94 regions mixing floors. Inferring walkable ground from the capture
   instead both over-reaches -- padding a trail out across a tunnel wall -- and under-covers, since
   the roam capture lights up only about 45% of a zone's walkable surface.
-- A gap is cut out as a hole only when it is off the navmesh. A gap on walkable ground is somewhere
-  the mobs simply were not recorded, not a building, so it is filled in.
+- A gap is cut out as a hole only when it is off the navmesh **and** none of the region's own mobs
+  were recorded inside it. A recorded position outranks the navmesh: it stops at the shallows, so
+  without that rule the deep water a river crab swims in is clipped away and returns as a hole in the
+  middle of its own lake. A gap on walkable ground is somewhere the mobs simply were not recorded,
+  not a building, so it is filled in.
 
 The navmesh comes from `lsb/navmeshes/*.nav`; all 161 zones have one.
 
