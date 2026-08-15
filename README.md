@@ -37,7 +37,9 @@ tuned constant:
   clipped to the navmesh, so padding cannot cross a wall. Each grid cell is checked at nine points
   across it and needs seven on the navmesh: judging by the centre alone lets every boundary cell hang
   half a cell over the wall, while demanding all nine erases narrow indoor corridors, where no cell is
-  ever fully covered. Inferring walkable ground from the capture
+  ever fully covered. Where clipping severs a corridor the mobs walked through, the cells along the
+  severed path are put back -- otherwise the far side holds no mob, is dropped, and a third of a
+  territory disappears. Inferring walkable ground from the capture
   instead both over-reaches -- padding a trail out across a tunnel wall -- and under-covers, since
   the roam capture lights up only about 45% of a zone's walkable surface.
 - A gap is cut out as a hole only when it is off the navmesh. A gap on walkable ground is somewhere
