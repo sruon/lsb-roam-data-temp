@@ -1094,8 +1094,8 @@ spawns:
 
   17211611:
     template: Young_Quadav
-    at:       [176.000, 1.000, 259.000, 127]
     level:    [3, 4]
+    region:   s_219
 
   17211612:
     template: Young_Quadav
@@ -1294,13 +1294,13 @@ spawns:
 
   17211651:
     template: Young_Quadav
-    at:       [-58.817, 1.514, 254.668, 76]
     level:    [3, 4]
+    region:   s_259
 
   17211652:
     template: Amethyst_Quadav
-    at:       [-63.361, 2.143, 256.942, 29]
     level:    [3, 3]
+    region:   s_259
 
   17211653:
     template: Stone_Eater
@@ -1415,7 +1415,7 @@ spawns:
   17211675:
     template: Stone_Eater
     level:    [2, 3]
-    region:   w_283
+    region:   c_279
 
   17211676:
     template: Stone_Eater
@@ -1445,17 +1445,17 @@ spawns:
   17211681:
     template: River_Crab
     level:    [4, 5]
-    region:   c_288
+    region:   c_289
 
   17211682:
     template: River_Crab
     level:    [4, 5]
-    region:   c_288
+    region:   c_289
 
   17211683:
     template: River_Crab
     level:    [4, 5]
-    region:   c_288
+    region:   c_289
 
   17211684:
     template: Goblin_Fisher
@@ -1465,12 +1465,12 @@ spawns:
   17211685:
     template: Goblin_Fisher
     level:    [4, 5]
-    region:   c_288
+    region:   c_289
 
   17211686:
     template: Goblin_Fisher
     level:    [4, 5]
-    region:   c_288
+    region:   c_289
 
   17211687:
     template: Maneating_Hornet
@@ -1714,8 +1714,8 @@ spawns:
 
   17211735:
     template: Amethyst_Quadav
-    at:       [496.614, -0.448, 617.949, 82]
     level:    [7, 8]
+    region:   e_343
 
   17211736:
     template: Amber_Quadav
@@ -2009,8 +2009,8 @@ spawns:
 
   17211794:
     template: Shrapnel
-    at:       [-454.318, 38.097, 274.242, 87]
     level:    [8, 9]
+    region:   sw_402
 
   17211795:
     template: Stone_Eater

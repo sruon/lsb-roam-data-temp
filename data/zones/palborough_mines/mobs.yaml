@@ -54,13 +54,13 @@ spawns:
 
   17362955:
     template: Young_Quadav
-    at:       [60.000, -0.276, 98.000, 127]
     level:    [3, 4]
+    region:   c_11
 
   17362956:
     template: Young_Quadav
-    at:       [63.000, -0.179, 100.000, 84]
     level:    [3, 4]
+    region:   c_11
 
   17362957:
     template: Amethyst_Quadav
@@ -74,8 +74,8 @@ spawns:
 
   17362959:
     template: Pit_Hare
-    at:       [58.926, -0.360, 95.924, 70]
     level:    [2, 4]
+    region:   c_11
 
   17362960:
     template: Young_Quadav
@@ -95,7 +95,7 @@ spawns:
   17362963:
     template: Young_Quadav
     level:    [3, 4]
-    region:   nw_19
+    region:   n_19
 
   17362964:
     template: Amethyst_Quadav
@@ -105,17 +105,17 @@ spawns:
   17362965:
     template: Amber_Quadav
     level:    [3, 4]
-    region:   nw_19
+    region:   n_19
 
   17362966:
     template: Young_Quadav
     level:    [3, 4]
-    region:   nw_19
+    region:   n_19
 
   17362967:
     template: Amethyst_Quadav
     level:    [3, 4]
-    region:   nw_19
+    region:   n_19
 
   17362968:
     template: Amber_Quadav
@@ -125,7 +125,7 @@ spawns:
   17362969:
     template: Pit_Hare
     level:    [2, 4]
-    region:   nw_19
+    region:   n_19
 
   17362970:
     template: Young_Quadav
@@ -344,8 +344,8 @@ spawns:
 
   17363013:
     template: Amethyst_Quadav
-    at:       [177.416, -14.969, 19.550, 99]
     level:    [5, 7]
+    region:   c_69
 
   17363014:
     template: Amber_Quadav
@@ -354,13 +354,13 @@ spawns:
 
   17363015:
     template: Young_Quadav
-    at:       [168.000, -15.000, 18.000, 8]
     level:    [5, 7]
+    region:   c_69
 
   17363016:
     template: Amethyst_Quadav
-    at:       [190.267, -15.325, 22.516, 127]
     level:    [5, 7]
+    region:   c_69
 
   17363017:
     template: Amber_Quadav
@@ -390,27 +390,27 @@ spawns:
   17363022:
     template: Pit_Hare
     level:    [3, 6]
-    region:   c_78
+    region:   e_78
 
   17363023:
     template: Pit_Hare
     level:    [3, 6]
-    region:   c_78
+    region:   e_78
 
   17363024:
     template: Pit_Hare
     level:    [3, 6]
-    region:   c_78
+    region:   e_78
 
   17363025:
     template: Pit_Hare
     level:    [3, 6]
-    region:   c_78
+    region:   e_78
 
   17363026:
     template: Pit_Hare
     level:    [3, 6]
-    region:   c_78
+    region:   e_78
 
   17363027:
     template: Young_Quadav
@@ -439,23 +439,23 @@ spawns:
 
   17363032:
     template: Cave_Funguar
-    at:       [-67.468, -7.652, 180.117, 127]
     level:    [9, 11]
+    region:   nw_88
 
   17363033:
     template: Cave_Funguar
-    at:       [-60.043, -7.783, 175.545, 127]
     level:    [9, 11]
+    region:   nw_88
 
   17363034:
     template: Cave_Funguar
-    at:       [-57.065, -7.560, 179.535, 127]
     level:    [9, 11]
+    region:   nw_88
 
   17363035:
     template: Cave_Funguar
-    at:       [-58.385, -8.013, 172.215, 114]
     level:    [9, 11]
+    region:   nw_88
 
   17363036:
     template: Young_Quadav
@@ -484,8 +484,8 @@ spawns:
 
   17363041:
     template: Amethyst_Quadav
-    at:       [224.438, -1.249, 143.303, 51]
     level:    [5, 7]
+    region:   ne_97
 
   17363042:
     template: Amber_Quadav
@@ -494,8 +494,8 @@ spawns:
 
   17363043:
     template: Young_Quadav
-    at:       [212.810, -0.315, 135.944, 59]
     level:    [5, 7]
+    region:   ne_97
 
   17363044:
     template: Amethyst_Quadav
@@ -539,8 +539,8 @@ spawns:
 
   17363052:
     template: Young_Quadav
-    at:       [19.015, -8.775, 206.887, 50]
     level:    [5, 7]
+    region:   nw_108
 
   17363053:
     template: Amethyst_Quadav
@@ -554,8 +554,8 @@ spawns:
 
   17363055:
     template: Young_Quadav
-    at:       [3.044, -10.833, 220.882, 127]
     level:    [5, 7]
+    region:   nw_111
 
   17363056:
     template: Young_Quadav
@@ -564,8 +564,8 @@ spawns:
 
   17363057:
     template: Amethyst_Quadav
-    at:       [26.000, -15.000, 230.000, 92]
     level:    [5, 7]
+    region:   nw_111
 
   17363058:
     template: Amber_Quadav
@@ -574,8 +574,8 @@ spawns:
 
   17363059:
     template: Young_Quadav
-    at:       [233.216, -8.788, 179.023, 127]
     level:    [7, 10]
+    region:   ne_115
 
   17363060:
     template: Amethyst_Quadav
@@ -589,8 +589,8 @@ spawns:
 
   17363062:
     template: Young_Quadav
-    at:       [217.000, -12.000, 180.000, 26]
     level:    [7, 10]
+    region:   ne_118
 
   17363063:
     template: Young_Quadav
@@ -599,8 +599,8 @@ spawns:
 
   17363064:
     template: Amethyst_Quadav
-    at:       [225.073, -9.805, 175.571, 127]
     level:    [7, 10]
+    region:   ne_118
 
   17363065:
     template: Amber_Quadav
@@ -719,8 +719,8 @@ spawns:
 
   17363088:
     template: Amethyst_Quadav
-    at:       [180.000, -15.000, 216.000, 47]
     level:    [7, 10]
+    region:   n_144
 
   17363089:
     template: Amber_Quadav
@@ -730,7 +730,7 @@ spawns:
   17363090:
     template: Pit_Hare
     level:    [5, 6]
-    region:   n_146
+    region:   ne_146
 
   17363091:
     template: Young_Quadav
@@ -739,8 +739,8 @@ spawns:
 
   17363092:
     template: Amethyst_Quadav
-    at:       [213.000, -15.000, 266.000, 127]
     level:    [7, 10]
+    region:   ne_148
 
   17363093:
     template: Amber_Quadav
@@ -754,8 +754,8 @@ spawns:
 
   17363095:
     template: Amethyst_Quadav
-    at:       [230.000, -16.256, 262.000, 33]
     level:    [7, 10]
+    region:   ne_148
 
   17363096:
     template: Amber_Quadav
@@ -789,13 +789,13 @@ spawns:
 
   17363102:
     template: Pit_Hare
-    at:       [257.204, -16.364, 257.151, 127]
     level:    [5, 6]
+    region:   ne_158
 
   17363103:
     template: Pit_Hare
-    at:       [263.283, -16.719, 253.244, 71]
     level:    [5, 6]
+    region:   ne_158
 
   17363104:
     template: Young_Quadav
@@ -859,28 +859,28 @@ spawns:
 
   17363116:
     template: Veteran_Quadav
-    at:       [306.084, -16.500, 187.199, 34]
     level:    [11, 13]
+    region:   ne_172
 
   17363117:
     template: Greater_Quadav
     level:    [11, 13]
-    region:   ne_173
+    region:   ne_172
 
   17363118:
     template: Onyx_Quadav
     level:    [11, 13]
-    region:   ne_173
+    region:   ne_172
 
   17363119:
     template: Copper_Beetle
     level:    [9, 12]
-    region:   ne_173
+    region:   ne_172
 
   17363120:
     template: Copper_Beetle
     level:    [9, 12]
-    region:   ne_173
+    region:   ne_172
 
   17363121:
     template: Veteran_Quadav
@@ -924,18 +924,18 @@ spawns:
 
   17363129:
     template: Veteran_Quadav
-    at:       [260.000, -15.000, 86.000, 127]
     level:    [12, 15]
+    region:   e_185
 
   17363130:
     template: Greater_Quadav
-    at:       [261.636, -15.823, 61.545, 101]
     level:    [12, 15]
+    region:   e_185
 
   17363131:
     template: Onyx_Quadav
-    at:       [265.897, -16.364, 53.043, 127]
     level:    [12, 15]
+    region:   e_185
 
   17363132:
     template: Veteran_Quadav
@@ -944,18 +944,18 @@ spawns:
 
   17363133:
     template: Greater_Quadav
-    at:       [262.197, -16.020, 67.301, 42]
     level:    [12, 15]
+    region:   e_185
 
   17363134:
     template: Onyx_Quadav
-    at:       [266.040, -16.159, 65.618, 11]
     level:    [12, 15]
+    region:   e_185
 
   17363135:
     template: Veteran_Quadav
-    at:       [294.000, -15.783, 65.000, 40]
     level:    [12, 15]
+    region:   e_191
 
   17363136:
     template: Greater_Quadav
@@ -969,8 +969,8 @@ spawns:
 
   17363138:
     template: Veteran_Quadav
-    at:       [310.000, -15.460, 57.000, 31]
     level:    [12, 15]
+    region:   e_191
 
   17363139:
     template: Greater_Quadav
@@ -994,8 +994,8 @@ spawns:
 
   17363143:
     template: Onyx_Quadav
-    at:       [221.000, -15.672, 67.000, 127]
     level:    [12, 15]
+    region:   e_199
 
   17363144:
     template: Veteran_Quadav
@@ -1009,8 +1009,8 @@ spawns:
 
   17363146:
     template: Onyx_Quadav
-    at:       [213.000, -15.641, 54.000, 36]
     level:    [12, 15]
+    region:   e_199
 
   17363147:
     template: Young_Quadav
@@ -1029,8 +1029,8 @@ spawns:
 
   17363150:
     template: Amber_Quadav
-    at:       [-20.000, -15.000, 244.000, 127]
     level:    [7, 10]
+    region:   nw_203
 
   17363151:
     template: Pit_Hare
@@ -1039,23 +1039,23 @@ spawns:
 
   17363152:
     template: Pit_Hare
-    at:       [-16.961, -16.344, 256.327, 127]
     level:    [5, 6]
+    region:   nw_203
 
   17363153:
     template: Cave_Funguar
-    at:       [-57.664, -16.172, 267.844, 127]
     level:    [9, 11]
+    region:   nw_209
 
   17363154:
     template: Cave_Funguar
-    at:       [-67.959, -16.106, 253.315, 125]
     level:    [9, 11]
+    region:   nw_209
 
   17363155:
     template: Cave_Funguar
-    at:       [-61.340, -15.508, 261.833, 127]
     level:    [9, 11]
+    region:   nw_209
 
   17363156:
     template: Cave_Funguar
@@ -1085,12 +1085,12 @@ spawns:
   17363161:
     template: Young_Quadav
     level:    [7, 10]
-    region:   nw_217
+    region:   nw_83
 
   17363162:
     template: Young_Quadav
     level:    [7, 10]
-    region:   nw_217
+    region:   nw_83
 
   17363163:
     template: Amethyst_Quadav
@@ -1100,12 +1100,12 @@ spawns:
   17363164:
     template: Amber_Quadav
     level:    [7, 10]
-    region:   nw_217
+    region:   nw_83
 
   17363165:
     template: Veteran_Quadav
-    at:       [102.407, -16.386, 133.531, 127]
     level:    [11, 13]
+    region:   n_27
 
   17363166:
     template: Greater_Quadav
@@ -1119,8 +1119,8 @@ spawns:
 
   17363168:
     template: Veteran_Quadav
-    at:       [100.000, -15.992, 164.000, 121]
     level:    [11, 13]
+    region:   n_27
 
   17363169:
     template: Greater_Quadav
@@ -1134,8 +1134,8 @@ spawns:
 
   17363171:
     template: Copper_Beetle
-    at:       [120.000, -15.000, 140.000, 79]
     level:    [9, 12]
+    region:   n_27
 
   17363172:
     template: Veteran_Quadav
@@ -1145,7 +1145,7 @@ spawns:
   17363173:
     template: Greater_Quadav
     level:    [11, 13]
-    region:   w_229
+    region:   c_229
 
   17363174:
     template: Onyx_Quadav
@@ -1155,12 +1155,12 @@ spawns:
   17363175:
     template: Copper_Beetle
     level:    [9, 12]
-    region:   w_229
+    region:   c_229
 
   17363176:
     template: Copper_Beetle
     level:    [9, 12]
-    region:   w_229
+    region:   c_229
 
   17363177:
     template: Copper_Beetle
@@ -1170,17 +1170,17 @@ spawns:
   17363178:
     template: Copper_Beetle
     level:    [9, 12]
-    region:   n_233
+    region:   n_234
 
   17363179:
     template: Copper_Beetle
     level:    [9, 12]
-    region:   n_233
+    region:   n_235
 
   17363180:
     template: Copper_Beetle
     level:    [9, 12]
-    region:   n_233
+    region:   n_236
 
   17363181:
     template: BuGhi_Howlblade
@@ -1195,17 +1195,17 @@ spawns:
   17363183:
     template: Greater_Quadav
     level:    [12, 15]
-    region:   ne_239
+    region:   ne_118
 
   17363184:
     template: Onyx_Quadav
     level:    [12, 15]
-    region:   ne_239
+    region:   ne_118
 
   17363185:
     template: Copper_Beetle
     level:    [9, 12]
-    region:   ne_239
+    region:   ne_118
 
   17363186:
     template: Veteran_Quadav
@@ -1230,27 +1230,27 @@ spawns:
   17363190:
     template: Veteran_Quadav
     level:    [12, 15]
-    region:   n_92
+    region:   c_246
 
   17363191:
     template: Greater_Quadav
     level:    [12, 15]
-    region:   n_92
+    region:   c_246
 
   17363192:
     template: Onyx_Quadav
     level:    [12, 15]
-    region:   n_92
+    region:   c_246
 
   17363193:
     template: Veteran_Quadav
-    at:       [144.000, -31.000, 138.000, 127]
     level:    [12, 15]
+    region:   n_249
 
   17363194:
     template: Greater_Quadav
-    at:       [133.915, -32.312, 142.804, 127]
     level:    [12, 15]
+    region:   n_249
 
   17363195:
     template: Onyx_Quadav
@@ -1259,13 +1259,13 @@ spawns:
 
   17363196:
     template: Veteran_Quadav
-    at:       [149.000, -32.473, 99.000, 127]
     level:    [12, 15]
+    region:   e_252
 
   17363197:
     template: Greater_Quadav
-    at:       [182.690, -32.285, 103.385, 127]
     level:    [12, 15]
+    region:   e_252
 
   17363198:
     template: Onyx_Quadav
@@ -1274,18 +1274,18 @@ spawns:
 
   17363199:
     template: Veteran_Quadav
-    at:       [224.863, -32.308, 135.234, 127]
     level:    [12, 15]
+    region:   ne_97
 
   17363200:
     template: Greater_Quadav
-    at:       [227.000, -31.000, 138.000, 127]
     level:    [12, 15]
+    region:   ne_97
 
   17363201:
     template: Onyx_Quadav
-    at:       [227.012, -32.313, 144.549, 127]
     level:    [12, 15]
+    region:   ne_97
 
   17363202:
     template: Veteran_Quadav
@@ -1299,8 +1299,8 @@ spawns:
 
   17363204:
     template: Onyx_Quadav
-    at:       [141.660, -32.301, 105.150, 127]
     level:    [12, 15]
+    region:   c_260
 
   17363205:
     template: Veteran_Quadav
@@ -1345,12 +1345,12 @@ spawns:
   17363213:
     template: Greater_Quadav
     level:    [12, 15]
-    region:   e_269
+    region:   e_199
 
   17363214:
     template: Onyx_Quadav
     level:    [12, 15]
-    region:   e_269
+    region:   e_199
 
   17363215:
     template: Veteran_Quadav
@@ -1379,18 +1379,18 @@ spawns:
 
   17363220:
     template: Rabid_Rat
-    at:       [181.512, -31.589, -23.665, 42]
     level:    [11, 13]
+    region:   s_276
 
   17363221:
     template: Rabid_Rat
-    at:       [186.330, -31.829, -20.754, 1]
     level:    [11, 13]
+    region:   s_276
 
   17363222:
     template: Rabid_Rat
-    at:       [170.745, -32.265, -20.600, 127]
     level:    [11, 13]
+    region:   s_276
 
   17363223:
     template: Veteran_Quadav
@@ -1479,8 +1479,8 @@ spawns:
 
   17363240:
     template: Mine_Scorpion
-    at:       [250.456, -31.799, 182.662, 76]
     level:    [14, 16]
+    region:   ne_296
 
   17363241:
     template: Scimitar_Scorpion
@@ -1490,12 +1490,12 @@ spawns:
   17363242:
     template: Veteran_Quadav
     level:    [14, 18]
-    region:   e_298
+    region:   e_185
 
   17363243:
     template: Greater_Quadav
     level:    [14, 18]
-    region:   e_298
+    region:   e_185
 
   17363244:
     template: Onyx_Quadav
@@ -1505,7 +1505,7 @@ spawns:
   17363245:
     template: Veteran_Quadav
     level:    [14, 18]
-    region:   e_298
+    region:   e_185
 
   17363246:
     template: Greater_Quadav
@@ -1515,12 +1515,12 @@ spawns:
   17363247:
     template: Onyx_Quadav
     level:    [14, 18]
-    region:   e_298
+    region:   e_185
 
   17363248:
     template: Veteran_Quadav
-    at:       [263.680, -32.182, -26.892, 127]
     level:    [14, 18]
+    region:   se_304
 
   17363249:
     template: Greater_Quadav
@@ -1529,8 +1529,8 @@ spawns:
 
   17363250:
     template: Onyx_Quadav
-    at:       [266.884, -32.250, -16.804, 127]
     level:    [14, 18]
+    region:   se_304
 
   17363251:
     template: Old_Quadav
@@ -1539,13 +1539,13 @@ spawns:
 
   17363252:
     template: Copper_Quadav
-    at:       [238.000, -31.976, -19.000, 127]
     level:    [21, 23]
+    region:   se_304
 
   17363253:
     template: Veteran_Quadav
-    at:       [252.000, -31.584, -56.000, 127]
     level:    [14, 18]
+    region:   se_309
 
   17363254:
     template: Greater_Quadav
@@ -1554,8 +1554,8 @@ spawns:
 
   17363255:
     template: Onyx_Quadav
-    at:       [266.614, -32.081, -62.895, 86]
     level:    [14, 18]
+    region:   se_309
 
   17363256:
     template: Old_Quadav
@@ -1564,13 +1564,13 @@ spawns:
 
   17363257:
     template: Copper_Quadav
-    at:       [264.534, -31.961, -68.647, 104]
     level:    [21, 23]
+    region:   se_309
 
   17363258:
     template: BeHya_Hundredwall
-    at:       [258.800, -31.230, -63.300, 0]
     level:    [23, 24]
+    region:   se_309
 
   17363259:
     template: Old_Quadav
@@ -1584,8 +1584,8 @@ spawns:
 
   17363261:
     template: Veteran_Quadav
-    at:       [220.084, -31.911, -71.034, 14]
     level:    [14, 18]
+    region:   se_317
 
   17363262:
     template: Greater_Quadav
@@ -1594,18 +1594,18 @@ spawns:
 
   17363263:
     template: Onyx_Quadav
-    at:       [218.190, -31.694, -58.543, 206]
     level:    [14, 18]
+    region:   se_317
 
   17363264:
     template: Old_Quadav
-    at:       [226.673, -31.982, -63.429, 46]
     level:    [21, 23]
+    region:   se_317
 
   17363265:
     template: Copper_Quadav
-    at:       [213.000, -31.637, -58.000, 51]
     level:    [21, 23]
+    region:   se_317
 
   17363266:
     template: Veteran_Quadav
@@ -1634,23 +1634,23 @@ spawns:
 
   17363271:
     template: Veteran_Quadav
-    at:       [51.000, -31.919, 104.000, 72]
     level:    [14, 18]
+    region:   c_11
 
   17363272:
     template: Greater_Quadav
-    at:       [68.112, -31.965, 99.753, 127]
     level:    [16, 18]
+    region:   c_11
 
   17363273:
     template: Onyx_Quadav
-    at:       [64.675, -32.023, 94.869, 8]
     level:    [14, 17]
+    region:   c_11
 
   17363274:
     template: Veteran_Quadav
     level:    [14, 18]
-    region:   w_229
+    region:   c_330
 
   17363275:
     template: Greater_Quadav
@@ -1660,7 +1660,7 @@ spawns:
   17363276:
     template: Onyx_Quadav
     level:    [14, 16]
-    region:   w_229
+    region:   c_330
 
   17363277:
     template: Veteran_Quadav
@@ -1679,18 +1679,18 @@ spawns:
 
   17363280:
     template: Veteran_Quadav
-    at:       [48.019, -32.077, 59.795, 127]
     level:    [14, 18]
+    region:   c_6
 
   17363281:
     template: Greater_Quadav
-    at:       [59.863, -31.864, 68.322, 127]
     level:    [14, 18]
+    region:   c_6
 
   17363282:
     template: Onyx_Quadav
-    at:       [67.867, -32.081, 59.731, 127]
     level:    [14, 18]
+    region:   c_6
 
   17363283:
     template: Mine_Scorpion
@@ -1699,38 +1699,38 @@ spawns:
 
   17363284:
     template: Scimitar_Scorpion
-    at:       [19.372, -32.156, 80.410, 127]
     level:    [19, 21]
+    region:   w_340
 
   17363285:
     template: Veteran_Quadav
     level:    [14, 18]
-    region:   c_63
+    region:   c_341
 
   17363286:
     template: Greater_Quadav
     level:    [14, 18]
-    region:   c_63
+    region:   c_341
 
   17363287:
     template: Onyx_Quadav
     level:    [14, 18]
-    region:   c_63
+    region:   c_341
 
   17363288:
     template: Old_Quadav
-    at:       [103.000, -32.309, -15.000, 1]
     level:    [21, 23]
+    region:   s_344
 
   17363289:
     template: Copper_Quadav
-    at:       [104.793, -32.575, -23.287, 127]
     level:    [21, 23]
+    region:   s_344
 
   17363290:
     template: Brass_Quadav
-    at:       [92.851, -32.297, -14.360, 127]
     level:    [21, 23]
+    region:   s_344
 
   17363291:
     template: Old_Quadav
@@ -1739,53 +1739,53 @@ spawns:
 
   17363292:
     template: Copper_Quadav
-    at:       [56.000, -31.000, -14.000, 24]
     level:    [21, 23]
+    region:   s_348
 
   17363293:
     template: Brass_Quadav
-    at:       [68.335, -32.075, -21.215, 127]
     level:    [21, 23]
+    region:   s_348
 
   17363294:
     template: Old_Quadav
-    at:       [66.000, -31.000, -67.000, 127]
     level:    [21, 23]
+    region:   s_350
 
   17363295:
     template: Copper_Quadav
-    at:       [59.033, -32.307, -53.663, 1]
     level:    [21, 23]
+    region:   s_350
 
   17363296:
     template: Brass_Quadav
-    at:       [55.000, -31.000, -66.000, 127]
     level:    [21, 23]
+    region:   s_350
 
   17363297:
     template: Old_Quadav
-    at:       [67.000, -32.301, -13.000, 127]
     level:    [21, 23]
+    region:   s_353
 
   17363298:
     template: Copper_Quadav
-    at:       [93.000, -31.000, -66.000, 127]
     level:    [21, 23]
+    region:   s_353
 
   17363299:
     template: Brass_Quadav
-    at:       [105.406, -32.313, -66.458, 32]
     level:    [21, 22]
+    region:   s_353
 
   17363300:
     template: Old_Quadav
-    at:       [101.000, -32.311, -51.000, 127]
     level:    [21, 23]
+    region:   s_353
 
   17363301:
     template: Copper_Quadav
-    at:       [69.296, -32.484, -59.497, 111]
     level:    [21, 23]
+    region:   s_353
 
   17363302:
     template: Brass_Quadav
@@ -1794,18 +1794,18 @@ spawns:
 
   17363303:
     template: Old_Quadav
-    at:       [54.854, -32.646, -94.692, 127]
     level:    [21, 23]
+    region:   s_359
 
   17363304:
     template: Old_Quadav
-    at:       [25.387, -32.577, -91.954, 3]
     level:    [21, 23]
+    region:   sw_360
 
   17363305:
     template: NoMho_Crimsonarmor
-    at:       [20.433, -31.675, -97.176, 127]
     level:    [22, 23]
+    region:   sw_360
 
   17363306:
     template: Old_Quadav
@@ -1849,8 +1849,8 @@ spawns:
 
   17363314:
     template: Brass_Quadav
-    at:       [90.000, -36.000, -149.000, 127]
     level:    [21, 23]
+    region:   s_368
 
   17363315:
     template: Old_Quadav

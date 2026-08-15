@@ -44,8 +44,8 @@ spawns:
 
   17960969:
     template: Eschan_Zdei
-    at:       [83.440, -40.700, -443.230, 64]
     level:    [81, 89]
+    region:   s_9
 
   17960970:
     template: Eschan_Zdei
@@ -59,8 +59,8 @@ spawns:
 
   17960972:
     template: Eschan_Zdei
-    at:       [57.673, -24.500, -418.900, 64]
     level:    [81, 89]
+    region:   s_12
 
   17960973:
     template: Eschan_Zdei
@@ -74,8 +74,8 @@ spawns:
 
   17960975:
     template: Eschan_Zdei
-    at:       [92.255, -24.700, -380.960, 64]
     level:    [81, 89]
+    region:   s_15
 
   17960976:
     template: Eschan_Zdei
@@ -94,8 +94,8 @@ spawns:
 
   17960979:
     template: Eschan_Zdei
-    at:       [160.640, -24.500, -386.250, 64]
     level:    [81, 89]
+    region:   s_19
 
   17960980:
     template: Eschan_Zdei
@@ -129,8 +129,8 @@ spawns:
 
   17960986:
     template: Eschan_Zdei
-    at:       [-23.950, -40.700, -458.820, 64]
     level:    [81, 89]
+    region:   s_26
 
   17960987:
     template: Eschan_Zdei
@@ -245,7 +245,7 @@ spawns:
   17961009:
     template: Eschan_Ilaerns_Wynav
     level:    [116, 116]
-    region:   s_48
+    region:   s_49
 
   17961010:
     template: Eschan_Ilaern
@@ -255,7 +255,7 @@ spawns:
   17961011:
     template: Eschan_Ilaerns_Wynav
     level:    [116, 116]
-    region:   s_51
+    region:   s_50
 
   17961012:
     template: Eschan_Phuabo
@@ -494,8 +494,8 @@ spawns:
 
   17961059:
     template: Eschan_Euvhi
-    at:       [386.010, -17.320, -125.400, 66]
     level:    [115, 119]
+    region:   e_99
 
   17961060:
     template: Eschan_Euvhi
@@ -539,8 +539,8 @@ spawns:
 
   17961068:
     template: Eschan_Ilaern
-    at:       [380.200, -30.430, 39.967, 253]
     level:    [115, 119]
+    region:   e_108
 
   17961069:
     template: Eschan_Ilaerns_Euvhi
@@ -729,8 +729,8 @@ spawns:
 
   17961106:
     template: Eschan_Clionid
-    at:       [567.020, -71.080, -24.545, 201]
     level:    [115, 119]
+    region:   e_146
 
   17961107:
     template: Eschan_Clionid
@@ -799,8 +799,8 @@ spawns:
 
   17961120:
     template: Eschan_Hpemde
-    at:       [242.080, -17.420, 326.200, 225]
     level:    [115, 119]
+    region:   ne_160
 
   17961121:
     template: Eschan_Hpemde
@@ -844,8 +844,8 @@ spawns:
 
   17961129:
     template: Eschan_Ilaern
-    at:       [98.338, -39.910, 360.404, 12]
     level:    [115, 119]
+    region:   n_169
 
   17961130:
     template: Eschan_Ilaern
@@ -894,13 +894,13 @@ spawns:
 
   17961139:
     template: Eschan_Hpemde
-    at:       [176.320, -40.500, 388.213, 85]
     level:    [115, 119]
+    region:   n_179
 
   17961140:
     template: Eschan_Hpemde
-    at:       [113.010, -40.780, 380.459, 76]
     level:    [115, 119]
+    region:   n_180
 
   17961141:
     template: Eschan_Ilaern
@@ -949,8 +949,8 @@ spawns:
 
   17961150:
     template: Eschan_Ilaern
-    at:       [323.670, -33.810, 191.837, 135]
     level:    [115, 119]
+    region:   e_190
 
   17961151:
     template: Eschan_Ilaern
@@ -999,18 +999,18 @@ spawns:
 
   17961160:
     template: Eschan_Hpemde
-    at:       [328.800, -40.780, 227.531, 231]
     level:    [115, 119]
+    region:   ne_200
 
   17961161:
     template: Eschan_Hpemde
-    at:       [303.830, -40.780, 267.812, 226]
     level:    [115, 119]
+    region:   ne_201
 
   17961162:
     template: Eschan_Amoeban
-    at:       [198.370, -71.260, 515.697, 79]
     level:    [115, 119]
+    region:   n_202
 
   17961163:
     template: Eschan_Amoeban
@@ -1124,8 +1124,8 @@ spawns:
 
   17961185:
     template: Eschan_Ilaern
-    at:       [-79.800, -30.220, 376.731, 191]
     level:    [115, 119]
+    region:   n_225
 
   17961186:
     template: Eschan_Ilaern
@@ -1184,13 +1184,13 @@ spawns:
 
   17961197:
     template: Eschan_Xzomit
-    at:       [-113.600, -40.610, 379.118, 180]
     level:    [115, 119]
+    region:   n_237
 
   17961198:
     template: Eschan_Xzomit
-    at:       [-157.300, -40.610, 363.595, 175]
     level:    [115, 119]
+    region:   n_238
 
   17961199:
     template: Eschan_Ilaern
@@ -1224,8 +1224,8 @@ spawns:
 
   17961205:
     template: Eschan_Ilaern
-    at:       [-318.000, -34.570, 191.942, 86]
     level:    [115, 119]
+    region:   w_245
 
   17961206:
     template: Eschan_Ilaern
@@ -1284,18 +1284,18 @@ spawns:
 
   17961217:
     template: Eschan_Xzomit
-    at:       [-319.600, -40.610, 221.121, 24]
     level:    [115, 119]
+    region:   nw_257
 
   17961218:
     template: Eschan_Xzomit
-    at:       [-296.600, -40.610, 261.438, 157]
     level:    [115, 119]
+    region:   nw_258
 
   17961219:
     template: Eschan_Murex
-    at:       [-438.400, -70.840, 358.057, 24]
     level:    [115, 119]
+    region:   nw_259
 
   17961220:
     template: Eschan_Murex
@@ -1369,8 +1369,8 @@ spawns:
 
   17961234:
     template: Eschan_Ghrah
-    at:       [-389.800, -15.930, -124.690, 220]
     level:    [115, 119]
+    region:   w_274
 
   17961235:
     template: Eschan_Ghrah
@@ -1414,8 +1414,8 @@ spawns:
 
   17961243:
     template: Eschan_Ilaern
-    at:       [-372.900, -33.650, 34.485, 171]
     level:    [115, 119]
+    region:   w_283
 
   17961244:
     template: Eschan_Ilaerns_Spirit
@@ -1474,13 +1474,13 @@ spawns:
 
   17961255:
     template: Eschan_Ghrah
-    at:       [-388.500, -40.500, 10.761, 0]
     level:    [115, 119]
+    region:   w_295
 
   17961256:
     template: Eschan_Ghrah
-    at:       [-393.900, -40.500, -35.347, 124]
     level:    [115, 119]
+    region:   w_296
 
   17961257:
     template: Eschan_Ilaern
@@ -1594,18 +1594,18 @@ spawns:
 
   17961279:
     template: Eschan_Ghrah
-    at:       [-311.800, -40.500, -239.370, 229]
     level:    [115, 119]
+    region:   sw_319
 
   17961280:
     template: Eschan_Ghrah
-    at:       [-340.800, -40.500, -202.850, 234]
     level:    [115, 119]
+    region:   sw_320
 
   17961281:
     template: Eschan_Limule
-    at:       [-474.800, -70.620, -308.920, 162]
     level:    [115, 119]
+    region:   sw_321
 
   17961282:
     template: Eschan_Limule
@@ -2074,8 +2074,8 @@ spawns:
 
   17961375:
     template: Warder_of_Mercy
-    at:       [-442.023, -71.302, 336.785, 80]
     level:    [125, 125]
+    region:   nw_415
 
   17961376:
     template: Eschan_Porxie

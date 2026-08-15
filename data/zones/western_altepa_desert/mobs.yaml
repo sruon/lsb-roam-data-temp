@@ -120,7 +120,7 @@ spawns:
   17289240:
     template: Desert_Worm
     level:    [43, 47]
-    region:   ne_24
+    region:   ne_18
 
   17289241:
     template: Earth_Elemental
@@ -559,8 +559,8 @@ spawns:
 
   17289328:
     template: Antican_Lanista
-    at:       [-366.323, 11.468, 287.621, 110]
     level:    [54, 58]
+    region:   nw_112
 
   17289329:
     template: Desert_Beetle
@@ -914,18 +914,18 @@ spawns:
 
   17289399:
     template: Antican_Hoplomachus
-    at:       [-27.350, 11.280, -44.913, 59]
     level:    [54, 58]
+    region:   c_183
 
   17289400:
     template: Antican_Hoplomachus
-    at:       [-48.419, 10.621, -79.729, 59]
     level:    [54, 58]
+    region:   c_184
 
   17289401:
     template: Antican_Lanista
-    at:       [-48.702, 10.621, -88.164, 66]
     level:    [54, 58]
+    region:   c_184
 
   17289402:
     template: Antican_Lanista
@@ -1099,8 +1099,8 @@ spawns:
 
   17289436:
     template: Antican_Hoplomachus
-    at:       [133.003, 11.272, -4.993, 38]
     level:    [54, 58]
+    region:   c_220
 
   17289437:
     template: Desert_Dhalmel
@@ -1200,7 +1200,7 @@ spawns:
   17289456:
     template: Desert_Worm
     level:    [43, 47]
-    region:   c_240
+    region:   c_232
 
   17289457:
     template: Desert_Worm
@@ -1274,8 +1274,8 @@ spawns:
 
   17289471:
     template: Antican_Hoplomachus
-    at:       [6.241, 11.485, 66.826, 14]
     level:    [54, 58]
+    region:   n_255
 
   17289472:
     template: Desert_Spider
@@ -1394,8 +1394,8 @@ spawns:
 
   17289495:
     template: Cactuar
-    at:       [-262.366, -9.456, 49.902, 127]
     level:    [48, 52]
+    region:   n_279
 
   17289496:
     template: Desert_Beetle
@@ -2174,8 +2174,8 @@ spawns:
 
   17289651:
     template: Antican_Hoplomachus
-    at:       [-765.857, -8.678, -672.943, 111]
     level:    [54, 58]
+    region:   sw_435
 
   17289652:
     template: Goblin_Digger

@@ -4,8 +4,8 @@ spawns:
 
   16850946:
     template: Wanderer
-    at:       [171.001, -0.500, -192.979, 30]
     level:    [22, 24]
+    region:   se_2
 
   16850947:
     template: Wanderer
@@ -19,8 +19,8 @@ spawns:
 
   16850949:
     template: Wanderer
-    at:       [191.647, -0.500, -188.210, 212]
     level:    [22, 24]
+    region:   se_5
 
   16850950:
     template: Apex_Idle_Drifter
@@ -44,73 +44,73 @@ spawns:
 
   16850954:
     template: Apex_Idle_Drifter
-    at:       [249.800, 0.000, -194.602, 100]
     level:    [139, 142]
+    region:   se_10
 
   16850955:
     template: Apex_Idle_Drifter
-    at:       [242.224, 0.000, -210.399, 100]
     level:    [139, 142]
+    region:   se_10
 
   16850956:
     template: Apex_Idle_Drifter
-    at:       [246.788, 0.000, -192.966, 100]
     level:    [139, 142]
+    region:   se_10
 
   16850957:
     template: Apex_Idle_Drifter
-    at:       [246.474, 0.000, -192.155, 100]
     level:    [139, 142]
+    region:   se_10
 
   16850958:
     template: Weeper
-    at:       [185.384, -0.500, -263.271, 251]
     level:    [24, 26]
+    region:   se_14
 
   16850959:
     template: Wanderer
-    at:       [186.982, -0.500, -254.781, 199]
     level:    [22, 24]
+    region:   se_15
 
   16850960:
     template: Wanderer
-    at:       [173.771, -0.500, -275.132, 252]
     level:    [22, 24]
+    region:   se_16
 
   16850961:
     template: Weeper
-    at:       [187.231, -0.500, -279.335, 29]
     level:    [24, 26]
+    region:   se_17
 
   16850962:
     template: Wanderer
-    at:       [196.658, -0.500, -254.167, 194]
     level:    [22, 24]
+    region:   se_18
 
   16850963:
     template: Wanderer
-    at:       [196.366, -0.500, -280.730, 12]
     level:    [22, 24]
+    region:   se_19
 
   16850964:
     template: Wanderer
-    at:       [197.678, -0.500, -277.062, 100]
     level:    [22, 24]
+    region:   se_19
 
   16850965:
     template: Weeper
-    at:       [207.013, -0.500, -290.433, 255]
     level:    [24, 26]
+    region:   se_19
 
   16850966:
     template: Weeper
-    at:       [206.148, -0.500, -269.518, 23]
     level:    [24, 26]
+    region:   se_22
 
   16850967:
     template: Wanderer
-    at:       [184.390, -0.500, -277.806, 235]
     level:    [22, 24]
+    region:   se_23
 
   16850968:
     template: Gorger
@@ -119,13 +119,13 @@ spawns:
 
   16850969:
     template: Weeper
-    at:       [143.574, -0.500, -290.307, 118]
     level:    [24, 26]
+    region:   se_25
 
   16850970:
     template: Weeper
-    at:       [201.411, -0.500, -222.396, 117]
     level:    [24, 26]
+    region:   se_26
 
   16850972:
     template: Memory_Receptacle
@@ -184,38 +184,38 @@ spawns:
 
   16850984:
     template: Wanderer
-    at:       [-190.796, -0.500, 4.997, 206]
     level:    [26, 28]
+    region:   w_40
 
   16850985:
     template: Weeper
-    at:       [-174.017, -0.500, 11.541, 182]
     level:    [28, 30]
+    region:   w_40
 
   16850986:
     template: Weeper
-    at:       [-156.496, -0.500, -1.891, 227]
     level:    [28, 30]
+    region:   w_42
 
   16850987:
     template: Weeper
-    at:       [-129.489, -0.500, -57.298, 171]
     level:    [28, 30]
+    region:   c_43
 
   16850988:
     template: Wanderer
     level:    [26, 28]
-    region:   w_44
+    region:   c_44
 
   16850989:
     template: Wanderer
     level:    [26, 28]
-    region:   w_44
+    region:   c_44
 
   16850990:
     template: Weeper
-    at:       [-158.908, -0.500, -111.481, 182]
     level:    [28, 30]
+    region:   sw_46
 
   16850991:
     template: Weeper
@@ -244,18 +244,18 @@ spawns:
 
   16850996:
     template: Seether
-    at:       [-201.404, -0.500, -144.645, 67]
     level:    [30, 32]
+    region:   sw_52
 
   16850997:
     template: Wanderer
-    at:       [-198.280, -0.500, -144.011, 221]
     level:    [26, 28]
+    region:   sw_53
 
   16850998:
     template: Seether
-    at:       [-248.506, -0.500, -159.522, 179]
     level:    [30, 32]
+    region:   sw_54
 
   16850999:
     template: Wanderer
@@ -269,48 +269,48 @@ spawns:
 
   16851001:
     template: Weeper
-    at:       [-287.259, -0.500, -123.048, 118]
     level:    [28, 30]
+    region:   sw_57
 
   16851002:
     template: Wanderer
-    at:       [-280.453, -0.499, -73.672, 45]
     level:    [26, 28]
+    region:   w_58
 
   16851003:
     template: Weeper
-    at:       [-282.240, -0.498, -69.798, 14]
     level:    [28, 30]
+    region:   w_58
 
   16851004:
     template: Wanderer
     level:    [26, 28]
-    region:   w_60
+    region:   c_60
 
   16851005:
     template: Weeper
     level:    [28, 30]
-    region:   w_60
+    region:   c_60
 
   16851006:
     template: Weeper
-    at:       [-157.853, -0.480, 92.533, 187]
     level:    [28, 30]
+    region:   w_62
 
   16851007:
     template: Weeper
-    at:       [-155.879, -0.500, 84.352, 233]
     level:    [28, 30]
+    region:   w_62
 
   16851008:
     template: Weeper
-    at:       [-205.714, -0.500, 78.650, 55]
     level:    [28, 30]
+    region:   w_64
 
   16851009:
     template: Seether
-    at:       [-221.635, -0.500, 78.804, 183]
     level:    [30, 32]
+    region:   w_65
 
   16851010:
     template: Weeper
@@ -319,13 +319,13 @@ spawns:
 
   16851011:
     template: Wanderer
-    at:       [-228.304, -0.500, 66.414, 104]
     level:    [26, 28]
+    region:   w_67
 
   16851012:
     template: Wanderer
-    at:       [-240.642, -0.500, 34.434, 139]
     level:    [26, 28]
+    region:   w_68
 
   16851013:
     template: Seether
@@ -349,18 +349,18 @@ spawns:
 
   16851017:
     template: Wanderer
-    at:       [-273.586, -0.500, 74.295, 79]
     level:    [26, 28]
+    region:   w_73
 
   16851018:
     template: Weeper
-    at:       [-314.306, -0.500, 78.258, 44]
     level:    [28, 30]
+    region:   w_74
 
   16851019:
     template: Seether
-    at:       [-366.129, -0.500, 0.556, 71]
     level:    [30, 32]
+    region:   w_75
 
   16851020:
     template: Gorger
@@ -424,28 +424,28 @@ spawns:
 
   16851034:
     template: Stray
-    at:       [-80.000, -1.000, 80.000, 0]
     level:    [23, 24]
+    region:   c_90
 
   16851035:
     template: Stray
-    at:       [-80.000, -1.000, 80.000, 0]
     level:    [23, 24]
+    region:   c_90
 
   16851036:
     template: Stray
-    at:       [-80.000, -1.000, 80.000, 0]
     level:    [23, 24]
+    region:   c_90
 
   16851037:
     template: Stray
-    at:       [-80.000, -1.000, 80.000, 0]
     level:    [23, 24]
+    region:   c_90
 
   16851038:
     template: Stray
-    at:       [-80.000, -1.000, 80.000, 0]
     level:    [23, 24]
+    region:   c_90
 
   16851040:
     template: Memory_Receptacle
@@ -454,28 +454,28 @@ spawns:
 
   16851041:
     template: Stray
-    at:       [-280.000, -1.000, -200.000, 0]
     level:    [23, 24]
+    region:   sw_97
 
   16851042:
     template: Stray
-    at:       [-280.000, -1.000, -200.000, 0]
     level:    [23, 24]
+    region:   sw_97
 
   16851043:
     template: Stray
-    at:       [-280.000, -1.000, -200.000, 0]
     level:    [23, 24]
+    region:   sw_97
 
   16851044:
     template: Stray
-    at:       [-280.000, -1.000, -200.000, 0]
     level:    [23, 24]
+    region:   sw_97
 
   16851045:
     template: Stray
-    at:       [-280.000, -1.000, -200.000, 0]
     level:    [23, 24]
+    region:   sw_97
 
   16851047:
     template: Memory_Receptacle
@@ -484,33 +484,33 @@ spawns:
 
   16851048:
     template: Stray
-    at:       [-360.000, -1.000, 40.000, 0]
     level:    [23, 24]
+    region:   w_104
 
   16851049:
     template: Stray
-    at:       [-360.000, -1.000, 40.000, 0]
     level:    [23, 24]
+    region:   w_104
 
   16851050:
     template: Stray
-    at:       [-360.000, -1.000, 40.000, 0]
     level:    [23, 24]
+    region:   w_104
 
   16851051:
     template: Stray
-    at:       [-360.000, -1.000, 40.000, 0]
     level:    [23, 24]
+    region:   w_104
 
   16851052:
     template: Stray
-    at:       [-360.000, -1.000, 40.000, 0]
     level:    [23, 24]
+    region:   w_104
 
   16851054:
     template: Weeper
-    at:       [-25.172, -0.500, -315.748, 224]
     level:    [31, 33]
+    region:   s_110
 
   16851055:
     template: Wanderer
@@ -519,33 +519,33 @@ spawns:
 
   16851056:
     template: Weeper
-    at:       [-7.246, -0.500, -275.861, 251]
     level:    [31, 33]
+    region:   s_111
 
   16851057:
     template: Wanderer
-    at:       [-95.050, -0.500, -350.991, 162]
     level:    [29, 31]
+    region:   s_113
 
   16851058:
     template: Weeper
-    at:       [-86.157, -0.500, -359.445, 210]
     level:    [31, 33]
+    region:   s_113
 
   16851059:
     template: Weeper
     level:    [31, 33]
-    region:   sw_115
+    region:   s_115
 
   16851060:
     template: Wanderer
-    at:       [-134.465, -0.500, -331.363, 120]
     level:    [29, 31]
+    region:   s_116
 
   16851061:
     template: Weeper
-    at:       [-126.521, -0.499, -301.751, 82]
     level:    [31, 33]
+    region:   s_116
 
   16851062:
     template: Wanderer
@@ -559,8 +559,8 @@ spawns:
 
   16851064:
     template: Seether
-    at:       [-121.587, -0.500, -303.567, 179]
     level:    [33, 35]
+    region:   s_120
 
   16851065:
     template: Weeper
@@ -569,23 +569,23 @@ spawns:
 
   16851066:
     template: Weeper
-    at:       [16.183, -0.500, -202.455, 188]
     level:    [31, 33]
+    region:   s_122
 
   16851067:
     template: Weeper
-    at:       [-29.757, -0.499, -242.271, 223]
     level:    [31, 33]
+    region:   s_123
 
   16851068:
     template: Seether
-    at:       [-33.356, -0.500, -245.562, 229]
     level:    [33, 35]
+    region:   s_124
 
   16851069:
     template: Weeper
-    at:       [-69.481, -0.500, -240.319, 35]
     level:    [31, 33]
+    region:   s_125
 
   16851070:
     template: Gorger
@@ -719,33 +719,33 @@ spawns:
 
   16851099:
     template: Weeper
-    at:       [-198.113, -0.500, 397.584, 178]
     level:    [31, 33]
+    region:   nw_155
 
   16851100:
     template: Wanderer
-    at:       [-201.152, -0.500, 368.396, 243]
     level:    [29, 31]
+    region:   nw_156
 
   16851101:
     template: Weeper
-    at:       [-200.570, -0.500, 372.398, 117]
     level:    [31, 33]
+    region:   nw_156
 
   16851102:
     template: Weeper
-    at:       [-241.115, -0.500, 360.733, 177]
     level:    [31, 33]
+    region:   nw_158
 
   16851103:
     template: Wanderer
-    at:       [-242.365, -0.500, 354.851, 158]
     level:    [29, 31]
+    region:   nw_159
 
   16851104:
     template: Weeper
-    at:       [-274.565, -0.500, 318.688, 105]
     level:    [31, 33]
+    region:   nw_160
 
   16851105:
     template: Wanderer
@@ -764,18 +764,18 @@ spawns:
 
   16851108:
     template: Weeper
-    at:       [-245.260, -0.500, 278.500, 24]
     level:    [31, 33]
+    region:   nw_164
 
   16851109:
     template: Weeper
-    at:       [-204.726, -0.500, 273.841, 20]
     level:    [31, 33]
+    region:   nw_165
 
   16851110:
     template: Weeper
-    at:       [-197.480, -0.500, 223.987, 187]
     level:    [31, 33]
+    region:   nw_166
 
   16851111:
     template: Wanderer
@@ -794,23 +794,23 @@ spawns:
 
   16851114:
     template: Seether
-    at:       [-180.365, -0.500, 212.006, 128]
     level:    [33, 35]
+    region:   nw_170
 
   16851115:
     template: Weeper
-    at:       [-169.193, -0.500, 226.719, 97]
     level:    [31, 33]
+    region:   nw_171
 
   16851116:
     template: Weeper
-    at:       [-174.657, -0.500, 227.050, 158]
     level:    [31, 33]
+    region:   nw_171
 
   16851117:
     template: Seether
-    at:       [-159.280, -0.500, 210.002, 253]
     level:    [33, 35]
+    region:   nw_173
 
   16851118:
     template: Weeper
@@ -819,23 +819,23 @@ spawns:
 
   16851119:
     template: Weeper
-    at:       [-147.102, -0.500, 224.941, 7]
     level:    [31, 33]
+    region:   nw_175
 
   16851120:
     template: Weeper
-    at:       [-118.334, -0.500, 233.140, 64]
     level:    [31, 33]
+    region:   n_176
 
   16851121:
     template: Weeper
-    at:       [-137.598, -0.500, 220.484, 123]
     level:    [31, 33]
+    region:   n_177
 
   16851122:
     template: Seether
-    at:       [-136.435, -0.500, 216.424, 232]
     level:    [33, 35]
+    region:   n_177
 
   16851123:
     template: Weeper
@@ -844,13 +844,13 @@ spawns:
 
   16851124:
     template: Wanderer
-    at:       [-212.104, -0.496, 190.033, 40]
     level:    [29, 31]
+    region:   nw_180
 
   16851125:
     template: Weeper
-    at:       [-186.674, -0.500, 212.492, 203]
     level:    [31, 33]
+    region:   nw_181
 
   16851126:
     template: Weeper
@@ -859,23 +859,23 @@ spawns:
 
   16851127:
     template: Seether
-    at:       [-239.547, -0.500, 157.283, 56]
     level:    [33, 35]
+    region:   nw_183
 
   16851128:
     template: Seether
-    at:       [-95.232, -0.500, 271.773, 227]
     level:    [33, 35]
+    region:   n_184
 
   16851129:
     template: Weeper
-    at:       [-92.503, -0.500, 276.424, 195]
     level:    [31, 33]
+    region:   n_185
 
   16851130:
     template: Weeper
-    at:       [-48.732, -0.500, 282.279, 135]
     level:    [31, 33]
+    region:   n_186
 
   16851131:
     template: Gorger
@@ -1065,42 +1065,42 @@ spawns:
   16851171:
     template: Stray
     level:    [26, 27]
-    region:   nw_227
+    region:   n_227
 
   16851172:
     template: Stray
     level:    [26, 27]
-    region:   nw_227
+    region:   n_227
 
   16851173:
     template: Stray
     level:    [26, 27]
-    region:   nw_227
+    region:   n_227
 
   16851174:
     template: Stray
     level:    [26, 27]
-    region:   nw_227
+    region:   n_227
 
   16851175:
     template: Stray
     level:    [26, 27]
-    region:   nw_227
+    region:   n_227
 
   16851176:
     template: Stray
     level:    [26, 27]
-    region:   nw_227
+    region:   n_227
 
   16851177:
     template: Stray
     level:    [26, 27]
-    region:   nw_227
+    region:   n_227
 
   16851179:
     template: Seether
-    at:       [276.466, -0.500, 311.362, 151]
     level:    [35, 37]
+    region:   ne_235
 
   16851180:
     template: Seether
@@ -1109,38 +1109,38 @@ spawns:
 
   16851181:
     template: Seether
-    at:       [278.135, -0.500, 281.435, 91]
     level:    [35, 37]
+    region:   ne_237
 
   16851182:
     template: Weeper
-    at:       [265.389, -0.500, 287.330, 130]
     level:    [33, 35]
+    region:   ne_238
 
   16851183:
     template: Wanderer
-    at:       [280.500, -0.500, 271.698, 75]
     level:    [31, 33]
+    region:   ne_239
 
   16851184:
     template: Weeper
-    at:       [289.700, -0.500, 274.565, 133]
     level:    [33, 35]
+    region:   ne_240
 
   16851185:
     template: Weeper
-    at:       [300.774, -0.499, 269.536, 73]
     level:    [33, 35]
+    region:   ne_240
 
   16851186:
     template: Seether
-    at:       [310.712, -0.500, 253.758, 225]
     level:    [35, 37]
+    region:   ne_242
 
   16851187:
     template: Seether
-    at:       [312.698, -0.500, 217.984, 180]
     level:    [35, 37]
+    region:   ne_243
 
   16851188:
     template: Apex_Idle_Drifter
@@ -1234,13 +1234,13 @@ spawns:
 
   16851206:
     template: Wanderer
-    at:       [322.696, -0.500, 200.421, 14]
     level:    [31, 33]
+    region:   ne_262
 
   16851207:
     template: Seether
-    at:       [320.986, -0.500, 173.111, 196]
     level:    [35, 37]
+    region:   ne_263
 
   16851208:
     template: Weeper
@@ -1259,8 +1259,8 @@ spawns:
 
   16851211:
     template: Seether
-    at:       [270.634, -0.500, 101.648, 195]
     level:    [35, 37]
+    region:   e_267
 
   16851212:
     template: Weeper
@@ -1280,7 +1280,7 @@ spawns:
   16851215:
     template: Weeper
     level:    [33, 35]
-    region:   ne_271
+    region:   e_271
 
   16851216:
     template: Wanderer
@@ -1294,8 +1294,8 @@ spawns:
 
   16851218:
     template: Seether
-    at:       [214.247, -0.500, 55.362, 175]
     level:    [35, 37]
+    region:   e_274
 
   16851219:
     template: Wanderer
@@ -1319,8 +1319,8 @@ spawns:
 
   16851223:
     template: Seether
-    at:       [158.850, -0.500, 4.216, 144]
     level:    [35, 37]
+    region:   e_279
 
   16851224:
     template: Weeper
@@ -1354,13 +1354,13 @@ spawns:
 
   16851230:
     template: Weeper
-    at:       [136.794, -0.500, 241.180, 222]
     level:    [33, 35]
+    region:   ne_286
 
   16851231:
     template: Seether
-    at:       [124.011, -0.500, 230.686, 18]
     level:    [35, 37]
+    region:   ne_287
 
   16851232:
     template: Weeper
@@ -1369,18 +1369,18 @@ spawns:
 
   16851233:
     template: Weeper
-    at:       [116.112, -0.500, 164.862, 91]
     level:    [33, 35]
+    region:   ne_289
 
   16851234:
     template: Weeper
     level:    [33, 35]
-    region:   n_290
+    region:   c_290
 
   16851235:
     template: Weeper
     level:    [33, 35]
-    region:   n_290
+    region:   c_290
 
   16851236:
     template: Seether
@@ -1389,8 +1389,8 @@ spawns:
 
   16851237:
     template: Seether
-    at:       [90.243, -0.500, 90.139, 28]
     level:    [35, 37]
+    region:   c_293
 
   16851238:
     template: Wanderer
@@ -1399,8 +1399,8 @@ spawns:
 
   16851239:
     template: Wanderer
-    at:       [49.269, -0.500, 76.908, 19]
     level:    [31, 33]
+    region:   c_295
 
   16851240:
     template: Gorger

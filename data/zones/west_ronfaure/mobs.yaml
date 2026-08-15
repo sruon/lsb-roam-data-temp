@@ -115,7 +115,7 @@ spawns:
   17186839:
     template: Ding_Bats
     level:    [1, 1]
-    region:   n_23
+    region:   n_22
 
   17186840:
     template: Ding_Bats
@@ -629,13 +629,13 @@ spawns:
 
   17186942:
     template: Orcish_Fodder
-    at:       [-506.264, -63.156, 499.804, 32]
     level:    [4, 5]
+    region:   nw_126
 
   17186943:
     template: Orcish_Mesmerizer
-    at:       [-504.790, -63.089, 497.584, 29]
     level:    [4, 5]
+    region:   nw_126
 
   17186944:
     template: Orcish_Grappler
@@ -644,18 +644,18 @@ spawns:
 
   17186945:
     template: Orcish_Fodder
-    at:       [-572.030, -61.785, 465.120, 127]
     level:    [4, 5]
+    region:   nw_129
 
   17186946:
     template: Orcish_Mesmerizer
-    at:       [-573.030, -61.661, 464.767, 45]
     level:    [4, 5]
+    region:   nw_129
 
   17186947:
     template: Orcish_Grappler
-    at:       [-571.694, -61.140, 470.693, 126]
     level:    [4, 5]
+    region:   nw_129
 
   17186948:
     template: Orcish_Fodder
@@ -689,18 +689,18 @@ spawns:
 
   17186954:
     template: Orcish_Fodder
-    at:       [-655.000, -62.000, 544.000, 127]
     level:    [6, 7]
+    region:   nw_138
 
   17186955:
     template: Orcish_Mesmerizer
-    at:       [-656.000, -60.000, 549.000, 71]
     level:    [6, 7]
+    region:   nw_138
 
   17186956:
     template: Orcish_Grappler
-    at:       [-652.000, -61.000, 546.000, 127]
     level:    [6, 7]
+    region:   nw_138
 
   17186957:
     template: Forest_Hare
@@ -1995,27 +1995,27 @@ spawns:
   17187215:
     template: River_Crab
     level:    [5, 6]
-    region:   s_399
+    region:   s_386
 
   17187216:
     template: River_Crab
     level:    [5, 6]
-    region:   s_399
+    region:   s_386
 
   17187217:
     template: River_Crab
     level:    [5, 6]
-    region:   s_399
+    region:   s_386
 
   17187218:
     template: River_Crab
     level:    [5, 6]
-    region:   s_402
+    region:   s_386
 
   17187219:
     template: River_Crab
     level:    [5, 6]
-    region:   s_399
+    region:   s_386
 
   17187220:
     template: River_Crab
@@ -2119,8 +2119,8 @@ spawns:
 
   17187240:
     template: Goblin_Weaver
-    at:       [-213.567, 0.071, -493.319, 47]
     level:    [7, 8]
+    region:   se_424
 
   17187241:
     template: Forest_Hare

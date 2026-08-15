@@ -84,8 +84,8 @@ spawns:
 
   16875537:
     template: Miner_Bee
-    at:       [-198.903, -6.261, -207.881, 35]
     level:    [31, 34]
+    region:   sw_17
 
   16875538:
     template: Miner_Bee
@@ -169,8 +169,8 @@ spawns:
 
   16875554:
     template: Bugard
-    at:       [-5.725, -7.758, -178.544, 56]
     level:    [34, 37]
+    region:   s_34
 
   16875555:
     template: Tavnazian_Sheep
@@ -684,33 +684,33 @@ spawns:
 
   16875657:
     template: Fomor_Bard
-    at:       [225.341, -22.597, 267.359, 36]
     level:    [80, 82]
+    region:   ne_137
 
   16875658:
     template: Fomor_Red_Mage
-    at:       [224.622, -22.597, 268.897, 32]
     level:    [79, 81]
+    region:   ne_137
 
   16875659:
     template: Fomor_Samurai
-    at:       [232.205, -22.855, 263.214, 17]
     level:    [79, 81]
+    region:   ne_137
 
   16875660:
     template: Fomor_Red_Mage
-    at:       [230.735, -22.835, 264.263, 24]
     level:    [79, 81]
+    region:   ne_137
 
   16875661:
     template: Fomor_Warrior
-    at:       [226.591, -22.646, 265.349, 146]
     level:    [80, 82]
+    region:   ne_137
 
   16875662:
     template: Fomor_Red_Mage
-    at:       [228.161, -22.779, 264.456, 146]
     level:    [79, 81]
+    region:   ne_137
 
   16875663:
     template: Air_Elemental
@@ -719,8 +719,8 @@ spawns:
 
   16875664:
     template: Dark_Elemental
-    at:       [198.066, -23.521, 339.562, 214]
     level:    [84, 86]
+    region:   ne_143
 
   16875665:
     template: Fomor_Paladin
@@ -1199,8 +1199,8 @@ spawns:
 
   16875760:
     template: Leshy
-    at:       [-163.431, -16.329, 284.699, 52]
     level:    [52, 54]
+    region:   n_240
 
   16875761:
     template: Leshy

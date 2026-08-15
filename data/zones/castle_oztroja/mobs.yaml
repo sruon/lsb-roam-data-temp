@@ -54,13 +54,13 @@ spawns:
 
   17395723:
     template: Yagudo_Theologist
-    at:       [-163.397, 0.193, -101.514, 127]
     level:    [22, 23]
+    region:   w_7
 
   17395724:
     template: Yagudo_Priest
-    at:       [-140.784, 0.194, -104.481, 127]
     level:    [22, 23]
+    region:   w_7
 
   17395725:
     template: Yagudo_Votary
@@ -159,43 +159,43 @@ spawns:
 
   17395744:
     template: Yagudo_Theologist
-    at:       [-53.789, 0.193, -58.643, 39]
     level:    [23, 27]
+    region:   c_32
 
   17395745:
     template: Yagudo_Priest
-    at:       [-57.538, -1.568, -62.558, 38]
     level:    [24, 28]
+    region:   c_32
 
   17395746:
     template: Bastion_Bats
-    at:       [-80.158, 0.193, 61.616, 127]
     level:    [18, 21]
+    region:   c_34
 
   17395747:
     template: Bastion_Bats
-    at:       [-90.142, 0.193, 59.388, 127]
     level:    [18, 21]
+    region:   c_34
 
   17395748:
     template: Yagudo_Votary
     level:    [22, 26]
-    region:   n_36
+    region:   c_36
 
   17395749:
     template: Yagudo_Theologist
     level:    [23, 27]
-    region:   n_36
+    region:   c_36
 
   17395750:
     template: Yagudo_Priest
     level:    [24, 26]
-    region:   n_36
+    region:   c_36
 
   17395751:
     template: Bastion_Bats
     level:    [18, 21]
-    region:   n_36
+    region:   c_36
 
   17395752:
     template: Yagudo_Votary
@@ -259,8 +259,8 @@ spawns:
 
   17395764:
     template: Fire_Elemental
-    at:       [-201.594, -0.068, 94.285, 38]
     level:    [47, 49]
+    region:   nw_52
 
   17395765:
     template: Earth_Elemental
@@ -409,23 +409,23 @@ spawns:
 
   17395794:
     template: Cutter
-    at:       [-249.896, 0.638, 100.249, 126]
     level:    [30, 32]
+    region:   nw_82
 
   17395795:
     template: Yagudo_Herald
-    at:       [-227.325, -4.340, 132.590, 127]
     level:    [32, 36]
+    region:   nw_83
 
   17395796:
     template: Yagudo_Oracle
-    at:       [-212.000, -4.340, 140.000, 72]
     level:    [34, 38]
+    region:   nw_83
 
   17395797:
     template: Yagudos_Elemental
-    at:       [1.000, 1.000, 1.000, 0]
     level:    [25, 29]
+    region:   nw_83
 
   17395798:
     template: Yagudo_Drummer
@@ -759,18 +759,18 @@ spawns:
 
   17395864:
     template: Cutter
-    at:       [97.779, 0.495, -179.811, 18]
     level:    [30, 32]
+    region:   se_152
 
   17395865:
     template: Yagudo_Drummer
-    at:       [54.000, -4.345, -147.000, 7]
     level:    [33, 37]
+    region:   se_153
 
   17395866:
     template: Yagudo_Interrogator
-    at:       [65.000, -4.338, -146.000, 111]
     level:    [35, 39]
+    region:   se_153
 
   17395867:
     template: Yagudo_Herald
@@ -839,13 +839,13 @@ spawns:
 
   17395880:
     template: Yagudo_Herald
-    at:       [25.399, -0.250, 19.448, 62]
     level:    [32, 36]
+    region:   e_168
 
   17395881:
     template: Yagudo_Interrogator
-    at:       [22.323, -0.250, 15.782, 91]
     level:    [35, 39]
+    region:   e_168
 
   17395882:
     template: Yagudo_Drummer
@@ -909,68 +909,68 @@ spawns:
 
   17395894:
     template: Yagudo_Zealot
-    at:       [-24.723, -15.806, -23.101, 127]
     level:    [42, 46]
+    region:   c_182
 
   17395895:
     template: Yagudo_Prior
-    at:       [-18.158, -15.806, -19.866, 69]
     level:    [45, 49]
+    region:   c_182
 
   17395896:
     template: Lii_Jixa_the_Somnolist
-    at:       [-23.000, -15.000, -21.000, 192]
     level:    [43, 43]
+    region:   c_182
 
   17395897:
     template: Yagudo_Oracle
     level:    [34, 38]
-    region:   se_185
+    region:   s_185
 
   17395898:
     template: Yagudos_Elemental
     level:    [25, 29]
-    region:   se_185
+    region:   s_185
 
   17395899:
     template: Yagudo_Interrogator
     level:    [35, 39]
-    region:   se_185
+    region:   s_185
 
   17395900:
     template: Bulwark_Bat
     level:    [29, 31]
-    region:   se_185
+    region:   s_185
 
   17395901:
     template: Yagudo_Conquistador
-    at:       [12.502, -16.763, -90.271, 127]
     level:    [43, 47]
+    region:   se_189
 
   17395902:
     template: Yagudo_Lutenist
-    at:       [17.461, -16.750, -88.240, 76]
     level:    [44, 48]
+    region:   se_189
 
   17395903:
     template: Yagudo_Zealot
-    at:       [116.980, -16.811, -89.588, 127]
     level:    [42, 46]
+    region:   se_191
 
   17395904:
     template: Yagudo_Conquistador
-    at:       [110.238, -16.744, -92.145, 88]
     level:    [43, 47]
+    region:   se_191
 
   17395905:
     template: Yagudo_Lutenist
-    at:       [5.145, -16.067, -191.162, 92]
     level:    [44, 48]
+    region:   se_193
 
   17395906:
     template: Yagudo_Prior
-    at:       [1.000, -16.056, -186.000, 127]
     level:    [45, 49]
+    region:   se_193
 
   17395907:
     template: Yagudo_Herald
@@ -995,17 +995,17 @@ spawns:
   17395911:
     template: Yagudo_Herald
     level:    [32, 36]
-    region:   se_123
+    region:   se_199
 
   17395912:
     template: Yagudo_Drummer
     level:    [33, 37]
-    region:   se_123
+    region:   se_199
 
   17395913:
     template: Yagudo_Interrogator
     level:    [35, 39]
-    region:   se_123
+    region:   se_199
 
   17395914:
     template: Yagudo_Drummer
@@ -1089,18 +1089,18 @@ spawns:
 
   17395930:
     template: Yagudo_Oracle
-    at:       [-172.705, -15.751, -20.036, 130]
     level:    [34, 38]
+    region:   c_32
 
   17395931:
     template: Yagudos_Elemental
-    at:       [-175.735, -15.751, -18.539, 25]
     level:    [25, 29]
+    region:   c_32
 
   17395932:
     template: Yagudo_Interrogator
-    at:       [-63.748, -16.250, -58.799, 119]
     level:    [35, 39]
+    region:   c_32
 
   17395933:
     template: Yagudo_Herald
@@ -1139,13 +1139,13 @@ spawns:
 
   17395940:
     template: Yagudo_Lutenist
-    at:       [-178.082, -15.795, -23.954, 52]
     level:    [44, 48]
+    region:   w_228
 
   17395941:
     template: Yagudo_Prior
-    at:       [-183.727, -15.789, -18.059, 82]
     level:    [45, 49]
+    region:   w_228
 
   17395942:
     template: Yagudo_Sentinel
@@ -1159,13 +1159,13 @@ spawns:
 
   17395944:
     template: Yagudo_Chanter
-    at:       [-258.000, -15.000, -24.000, 127]
     level:    [53, 57]
+    region:   w_232
 
   17395945:
     template: Yagudo_Inquisitor
-    at:       [-223.778, -27.470, -58.530, 125]
     level:    [54, 58]
+    region:   w_232
 
   17395946:
     template: Yagudo_Sentinel
@@ -1199,8 +1199,8 @@ spawns:
 
   17395952:
     template: Yagudo_Lutenist
-    at:       [-25.044, -16.250, -141.534, 96]
     level:    [44, 48]
+    region:   s_240
 
   17395953:
     template: Yagudo_Prior
@@ -1209,38 +1209,38 @@ spawns:
 
   17395954:
     template: Yaa_Haqa_the_Profane
-    at:       [-28.000, -15.000, -136.000, 127]
     level:    [43, 43]
+    region:   s_240
 
   17395955:
     template: Yagudo_Lutenist
-    at:       [-23.662, -15.806, 15.413, 21]
     level:    [44, 48]
+    region:   c_243
 
   17395956:
     template: Yagudo_Prior
-    at:       [-17.070, -17.557, 22.181, 42]
     level:    [45, 49]
+    region:   c_243
 
   17395957:
     template: Yagudo_Drummer
     level:    [33, 37]
-    region:   e_245
+    region:   e_168
 
   17395958:
     template: Yagudo_Oracle
     level:    [34, 38]
-    region:   e_245
+    region:   e_168
 
   17395959:
     template: Yagudos_Elemental
     level:    [25, 29]
-    region:   e_245
+    region:   e_168
 
   17395960:
     template: Yagudo_Interrogator
     level:    [35, 39]
-    region:   e_245
+    region:   e_168
 
   17395961:
     template: Yagudo_Herald
@@ -1305,12 +1305,12 @@ spawns:
   17395973:
     template: Bulwark_Bat
     level:    [29, 31]
-    region:   c_261
+    region:   c_34
 
   17395974:
     template: Bulwark_Bat
     level:    [29, 31]
-    region:   c_261
+    region:   c_34
 
   17395975:
     template: Yagudo_Drummer
@@ -1359,8 +1359,8 @@ spawns:
 
   17395984:
     template: Yagudos_Elemental
-    at:       [1.000, 1.000, 1.000, 0]
     level:    [25, 29]
+    region:   c_5
 
   17395985:
     template: Yagudo_Interrogator
@@ -1389,33 +1389,33 @@ spawns:
 
   17395990:
     template: Yagudo_Zealot
-    at:       [-172.217, -16.056, 90.840, 127]
     level:    [42, 46]
+    region:   nw_278
 
   17395991:
     template: Yagudo_Lutenist
-    at:       [-176.668, -16.712, 89.372, 127]
     level:    [44, 48]
+    region:   nw_278
 
   17395992:
     template: Yagudo_Conquistador
-    at:       [-161.963, -16.292, 190.577, 12]
     level:    [43, 47]
+    region:   nw_280
 
   17395993:
     template: Yagudo_Prior
-    at:       [-163.749, -16.311, 194.545, 42]
     level:    [45, 49]
+    region:   nw_280
 
   17395994:
     template: Yagudo_Zealot
-    at:       [-273.852, -16.308, 196.002, 105]
     level:    [42, 46]
+    region:   nw_282
 
   17395995:
     template: Yagudo_Prior
-    at:       [-267.665, -16.364, 199.167, 127]
     level:    [45, 49]
+    region:   nw_282
 
   17395996:
     template: Yagudo_Drummer
@@ -1459,23 +1459,23 @@ spawns:
 
   17396004:
     template: Bulwark_Bat
-    at:       [-159.745, -15.806, 218.863, 26]
     level:    [29, 31]
+    region:   nw_292
 
   17396005:
     template: Bulwark_Bat
-    at:       [-175.522, -15.806, 216.207, 127]
     level:    [29, 31]
+    region:   nw_292
 
   17396006:
     template: Yagudo_Oracle
-    at:       [-134.726, -16.250, 219.455, 127]
     level:    [34, 38]
+    region:   n_294
 
   17396007:
     template: Yagudos_Elemental
-    at:       [1.000, 1.000, 1.000, 0]
     level:    [25, 29]
+    region:   n_294
 
   17396008:
     template: Yagudo_Drummer
@@ -1515,27 +1515,27 @@ spawns:
   17396015:
     template: Yagudo_Herald
     level:    [32, 36]
-    region:   n_36
+    region:   c_36
 
   17396016:
     template: Yagudo_Drummer
     level:    [33, 37]
-    region:   n_36
+    region:   c_36
 
   17396017:
     template: Yagudo_Oracle
     level:    [34, 38]
-    region:   n_36
+    region:   c_36
 
   17396018:
     template: Yagudos_Elemental
     level:    [25, 29]
-    region:   n_36
+    region:   c_36
 
   17396019:
     template: Bulwark_Bat
     level:    [29, 31]
-    region:   n_36
+    region:   c_36
 
   17396020:
     template: Yagudo_Herald
@@ -1649,13 +1649,13 @@ spawns:
 
   17396042:
     template: Yagudo_Conquistador
-    at:       [-141.187, 23.750, -24.069, 96]
     level:    [43, 47]
+    region:   c_330
 
   17396043:
     template: Yagudo_Lutenist
-    at:       [-135.620, 23.750, -18.425, 127]
     level:    [44, 48]
+    region:   c_330
 
   17396044:
     template: Yagudo_Zealot
@@ -1699,23 +1699,23 @@ spawns:
 
   17396052:
     template: Yagudo_Lutenist
-    at:       [-59.898, 22.414, -101.226, 127]
     level:    [44, 48]
+    region:   s_101
 
   17396053:
     template: Yagudo_Prior
-    at:       [-60.000, 24.000, -91.000, 37]
     level:    [45, 49]
+    region:   s_101
 
   17396054:
     template: Bulwark_Bat
-    at:       [-121.698, 23.750, -100.188, 176]
     level:    [29, 31]
+    region:   s_210
 
   17396055:
     template: Yagudo_Zealot
-    at:       [-99.056, 24.193, -101.176, 127]
     level:    [42, 46]
+    region:   s_105
 
   17396056:
     template: Yagudo_Conquistador
@@ -1834,23 +1834,23 @@ spawns:
 
   17396079:
     template: Yagudo_Parasite
-    at:       [-85.878, -40.194, -80.221, 127]
     level:    [45, 48]
+    region:   s_367
 
   17396080:
     template: Yagudo_Parasite
-    at:       [-77.619, -40.370, -74.393, 127]
     level:    [45, 48]
+    region:   s_367
 
   17396081:
     template: Yagudo_Parasite
-    at:       [-78.000, -40.615, -83.000, 39]
     level:    [45, 48]
+    region:   s_367
 
   17396082:
     template: Yagudo_Parasite
-    at:       [-79.294, -40.072, -80.090, 127]
     level:    [45, 48]
+    region:   s_367
 
   17396083:
     template: Yagudo_Sentinel
@@ -1974,43 +1974,43 @@ spawns:
 
   17396107:
     template: Yagudo_Flagellant
-    at:       [-61.300, -72.363, -62.099, 127]
     level:    [62, 66]
+    region:   c_32
 
   17396108:
     template: Yagudo_Conductor
-    at:       [-64.967, -72.258, -58.215, 127]
     level:    [63, 67]
+    region:   c_32
 
   17396109:
     template: Yagudo_Assassin
-    at:       [-59.281, -72.258, -134.001, 127]
     level:    [64, 68]
+    region:   s_397
 
   17396110:
     template: Yagudo_Prelate
-    at:       [-63.043, -72.251, -143.802, 41]
     level:    [65, 69]
+    region:   s_397
 
   17396111:
     template: Yagudo_Flagellant
-    at:       [-144.710, -72.250, -61.402, 42]
     level:    [62, 66]
+    region:   w_399
 
   17396112:
     template: Yagudo_Prelate
-    at:       [-135.000, -72.250, -58.000, 69]
     level:    [65, 69]
+    region:   w_399
 
   17396113:
     template: Yagudo_Conductor
-    at:       [-138.199, -72.259, -135.167, 127]
     level:    [63, 67]
+    region:   sw_401
 
   17396114:
     template: Yagudo_Assassin
-    at:       [-141.949, -72.251, -134.629, 127]
     level:    [64, 68]
+    region:   sw_401
 
   17396115:
     template: Yagudo_Flagellant
@@ -2080,12 +2080,12 @@ spawns:
   17396128:
     template: Yagudo_Flagellant
     level:    [70, 72]
-    region:   n_36
+    region:   c_36
 
   17396129:
     template: Yagudo_Prelate
     level:    [70, 72]
-    region:   n_36
+    region:   c_36
 
   17396130:
     template: Yagudo_Conductor
@@ -2099,13 +2099,13 @@ spawns:
 
   17396132:
     template: Yagudo_Templar
-    at:       [-98.331, -72.857, 101.593, 127]
     level:    [72, 74]
+    region:   n_420
 
   17396133:
     template: Yagudo_High_Priest
-    at:       [-102.000, -63.000, 64.000, 127]
     level:    [72, 74]
+    region:   n_420
 
   17396134:
     template: Yagudo_Avatar

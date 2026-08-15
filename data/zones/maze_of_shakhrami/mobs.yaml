@@ -219,8 +219,8 @@ spawns:
 
   17588268:
     template: Goblin_Butcher
-    at:       [-131.153, -0.530, -20.266, 24]
     level:    [16, 18]
+    region:   w_44
 
   17588269:
     template: Maze_Maker
@@ -259,13 +259,13 @@ spawns:
 
   17588276:
     template: Maze_Maker
-    at:       [-108.589, 0.074, -102.373, 127]
     level:    [18, 21]
+    region:   w_52
 
   17588277:
     template: Maze_Maker
-    at:       [-99.858, -0.230, -96.884, 9]
     level:    [18, 21]
+    region:   w_52
 
   17588278:
     template: Trembler_Tabitha
@@ -414,18 +414,18 @@ spawns:
 
   17588307:
     template: Goblin_Mugger
-    at:       [-152.437, -9.614, 139.240, 127]
     level:    [22, 26]
+    region:   nw_83
 
   17588308:
     template: Goblin_Leecher
-    at:       [-143.200, -10.723, 142.939, 40]
     level:    [22, 26]
+    region:   nw_83
 
   17588309:
     template: Goblin_Gambler
-    at:       [-151.251, -11.381, 146.374, 127]
     level:    [22, 26]
+    region:   nw_83
 
   17588310:
     template: Goblin_Mugger
@@ -439,8 +439,8 @@ spawns:
 
   17588312:
     template: Goblin_Gambler
-    at:       [-151.384, -10.993, 132.841, 127]
     level:    [22, 26]
+    region:   nw_83
 
   17588313:
     template: Combat
@@ -614,8 +614,8 @@ spawns:
 
   17588347:
     template: Jelly
-    at:       [89.533, 9.481, 142.650, 183]
     level:    [26, 28]
+    region:   n_122
 
   17588348:
     template: Poison_Leech
@@ -699,8 +699,8 @@ spawns:
 
   17588364:
     template: Earth_Elemental
-    at:       [123.619, -0.557, 79.274, 127]
     level:    [33, 36]
+    region:   c_140
 
   17588365:
     template: Bleeder_Leech
@@ -1319,18 +1319,18 @@ spawns:
 
   17588488:
     template: Ghoul
-    at:       [-18.157, 19.625, -6.461, 127]
     level:    [22, 26]
+    region:   c_264
 
   17588489:
     template: Jelly
-    at:       [-94.052, -0.378, -148.637, 227]
     level:    [26, 28]
+    region:   sw_265
 
   17588490:
     template: Jelly
-    at:       [-98.728, -0.605, -148.046, 170]
     level:    [26, 28]
+    region:   sw_265
 
   17588491:
     template: Maze_Maker
@@ -1464,18 +1464,18 @@ spawns:
 
   17588517:
     template: Abyss_Worm
-    at:       [-118.473, 19.851, -29.671, 127]
     level:    [27, 30]
+    region:   c_161
 
   17588518:
     template: Abyss_Worm
-    at:       [-89.712, 19.555, -51.849, 127]
     level:    [27, 30]
+    region:   c_161
 
   17588519:
     template: Abyss_Worm
-    at:       [-113.607, 19.466, -44.403, 127]
     level:    [27, 30]
+    region:   c_161
 
   17588520:
     template: Wight
@@ -1484,13 +1484,13 @@ spawns:
 
   17588521:
     template: Abyss_Worm
-    at:       [-100.098, 20.044, -44.894, 47]
     level:    [27, 30]
+    region:   c_297
 
   17588522:
     template: Abyss_Worm
-    at:       [-81.224, 19.302, -34.271, 127]
     level:    [27, 30]
+    region:   c_298
 
   17588523:
     template: Abyss_Worm
@@ -1525,12 +1525,12 @@ spawns:
   17588529:
     template: Wight
     level:    [32, 35]
-    region:   c_305
+    region:   w_55
 
   17588530:
     template: Wight
     level:    [32, 35]
-    region:   c_69
+    region:   c_306
 
   17588531:
     template: Wight
@@ -1545,12 +1545,12 @@ spawns:
   17588533:
     template: Abyss_Worm
     level:    [27, 30]
-    region:   c_305
+    region:   w_55
 
   17588534:
     template: Abyss_Worm
     level:    [27, 30]
-    region:   c_69
+    region:   c_306
 
   17588535:
     template: Abyss_Worm
@@ -1715,17 +1715,17 @@ spawns:
   17588567:
     template: Labyrinth_Scorpion
     level:    [30, 33]
-    region:   sw_343
+    region:   w_52
 
   17588568:
     template: Labyrinth_Scorpion
     level:    [30, 33]
-    region:   sw_343
+    region:   w_52
 
   17588569:
     template: Protozoan
     level:    [29, 31]
-    region:   sw_343
+    region:   w_52
 
   17588570:
     template: Wight
@@ -1969,13 +1969,13 @@ spawns:
 
   17588618:
     template: Ghoul
-    at:       [133.869, 9.782, -216.282, 21]
     level:    [22, 26]
+    region:   s_394
 
   17588619:
     template: Wendigo
-    at:       [229.046, 19.457, -86.832, 76]
     level:    [24, 28]
+    region:   s_394
 
   17588620:
     template: Ghoul
@@ -2149,8 +2149,8 @@ spawns:
 
   17588654:
     template: Goblin_Smithy
-    at:       [294.018, 19.210, -142.780, 218]
     level:    [31, 34]
+    region:   se_430
 
   17588655:
     template: Goblin_Shaman
@@ -2169,13 +2169,13 @@ spawns:
 
   17588658:
     template: Goblin_Furrier
-    at:       [289.466, 19.256, -139.866, 74]
     level:    [31, 34]
+    region:   se_430
 
   17588659:
     template: Goblin_Smithy
-    at:       [302.404, 19.510, -136.294, 232]
     level:    [31, 34]
+    region:   se_430
 
   17588660:
     template: Goblin_Shaman
@@ -2254,13 +2254,13 @@ spawns:
 
   17588675:
     template: Ancient_Bat
-    at:       [229.205, 19.334, -139.939, 179]
     level:    [26, 29]
+    region:   se_451
 
   17588676:
     template: Ancient_Bat
-    at:       [214.263, 19.844, -140.061, 8]
     level:    [26, 29]
+    region:   se_451
 
   17588677:
     template: Poison_Leech

@@ -154,8 +154,8 @@ spawns:
 
   16896031:
     template: Pyrodrake
-    at:       [472.589, -2.392, -776.482, 97]
     level:    [50, 53]
+    region:   se_31
 
   16896032:
     template: Lesser_Roc
@@ -304,13 +304,13 @@ spawns:
 
   16896061:
     template: Nitro_Cluster
-    at:       [292.856, -2.825, -744.128, 12]
     level:    [55, 57]
+    region:   se_61
 
   16896062:
     template: Nitro_Cluster
-    at:       [293.546, -2.828, -744.053, 109]
     level:    [55, 57]
+    region:   se_61
 
   16896063:
     template: Blazedrake
@@ -654,8 +654,8 @@ spawns:
 
   16896131:
     template: Boroka
-    at:       [-365.921, -31.255, 486.367, 161]
     level:    [58, 60]
+    region:   nw_131
 
   16896132:
     template: Ignidrake

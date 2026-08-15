@@ -14,13 +14,13 @@ spawns:
 
   17412099:
     template: Ogler
-    at:       [-54.666, -0.453, -27.574, 42]
     level:    [80, 82]
+    region:   s_3
 
   17412100:
     template: Ogler
-    at:       [-62.730, -0.453, -27.427, 90]
     level:    [80, 82]
+    region:   s_3
 
   17412101:
     template: Cointeach
@@ -55,22 +55,22 @@ spawns:
   17412107:
     template: Gnarled_Gargouille
     level:    [80, 82]
-    region:   s_11
+    region:   c_11
 
   17412108:
     template: Gnarled_Gargouille
     level:    [80, 82]
-    region:   s_11
+    region:   c_11
 
   17412109:
     template: Gnarled_Gargouille
     level:    [80, 82]
-    region:   s_11
+    region:   c_11
 
   17412110:
     template: Gnarled_Gargouille
     level:    [80, 82]
-    region:   s_11
+    region:   c_11
 
   17412111:
     template: Errand_Imp
@@ -80,22 +80,22 @@ spawns:
   17412112:
     template: Gnarled_Gargouille
     level:    [80, 82]
-    region:   s_16
+    region:   c_16
 
   17412113:
     template: Gnarled_Gargouille
     level:    [80, 82]
-    region:   s_16
+    region:   c_16
 
   17412114:
     template: Gnarled_Gargouille
     level:    [80, 82]
-    region:   s_16
+    region:   c_16
 
   17412115:
     template: Gnarled_Gargouille
     level:    [80, 82]
-    region:   s_16
+    region:   c_16
 
   17412116:
     template: Errand_Imp
@@ -105,22 +105,22 @@ spawns:
   17412117:
     template: Gnarled_Gargouille
     level:    [80, 82]
-    region:   s_21
+    region:   c_21
 
   17412118:
     template: Gnarled_Gargouille
     level:    [80, 82]
-    region:   s_21
+    region:   c_21
 
   17412119:
     template: Gnarled_Gargouille
     level:    [80, 82]
-    region:   s_21
+    region:   c_21
 
   17412120:
     template: Gnarled_Gargouille
     level:    [80, 82]
-    region:   s_21
+    region:   c_21
 
   17412121:
     template: Gnarled_Gargouille
@@ -159,8 +159,8 @@ spawns:
 
   17412128:
     template: Errand_Imp
-    at:       [-26.093, 0.100, 107.683, 71]
     level:    [79, 80]
+    region:   c_32
 
   17412129:
     template: Gnarled_Gargouille
@@ -274,23 +274,23 @@ spawns:
 
   17412151:
     template: Orcish_Dreadnought
-    at:       [-12.520, 0.100, -145.948, 81]
     level:    [81, 82]
+    region:   s_55
 
   17412152:
     template: Orcish_Farkiller
     level:    [81, 82]
-    region:   s_56
+    region:   s_55
 
   17412153:
     template: Orcish_Strategist
     level:    [81, 82]
-    region:   s_56
+    region:   s_55
 
   17412154:
     template: Orcish_Imperial_Guard
     level:    [81, 82]
-    region:   s_56
+    region:   s_55
 
   17412155:
     template: Orcish_Cupholder
@@ -339,23 +339,23 @@ spawns:
 
   17412164:
     template: Ogler
-    at:       [-59.759, -8.495, -183.207, 127]
     level:    [80, 82]
+    region:   s_68
 
   17412165:
     template: Ogler
-    at:       [-55.872, -8.480, -183.060, 128]
     level:    [80, 82]
+    region:   s_68
 
   17412166:
     template: Doyen_Quadav
-    at:       [-49.604, -15.900, 107.218, 134]
     level:    [80, 82]
+    region:   c_35
 
   17412167:
     template: Meteor_Quadav
     level:    [81, 82]
-    region:   c_71
+    region:   c_35
 
   17412168:
     template: Doyen_Quadav
@@ -385,22 +385,22 @@ spawns:
   17412173:
     template: Doyen_Quadav
     level:    [80, 82]
-    region:   s_16
+    region:   c_16
 
   17412174:
     template: Platinum_Quadav
     level:    [80, 82]
-    region:   s_16
+    region:   c_16
 
   17412175:
     template: Baetyl_Quadav
     level:    [81, 82]
-    region:   s_16
+    region:   c_16
 
   17412176:
     template: Meteor_Quadav
     level:    [81, 82]
-    region:   s_16
+    region:   c_16
 
   17412177:
     template: Errand_Imp
@@ -410,22 +410,22 @@ spawns:
   17412178:
     template: Chatoyant_Quadav
     level:    [80, 82]
-    region:   s_82
+    region:   c_82
 
   17412179:
     template: Ferroalloy_Quadav
     level:    [80, 82]
-    region:   s_82
+    region:   c_82
 
   17412180:
     template: Platinum_Quadav
     level:    [80, 82]
-    region:   s_82
+    region:   c_82
 
   17412181:
     template: Chatoyant_Quadav
     level:    [80, 82]
-    region:   s_82
+    region:   c_82
 
   17412182:
     template: Steel_Quadav
@@ -579,13 +579,13 @@ spawns:
 
   17412212:
     template: Doom_Lens
-    at:       [-95.306, -16.500, 12.453, 192]
     level:    [82, 83]
+    region:   s_116
 
   17412213:
     template: Doom_Lens
     level:    [82, 83]
-    region:   s_117
+    region:   s_116
 
   17412214:
     template: Doom_Lens
@@ -594,8 +594,8 @@ spawns:
 
   17412215:
     template: Doom_Lens
-    at:       [-84.764, -16.500, -55.564, 128]
     level:    [82, 83]
+    region:   s_118
 
   17412216:
     template: Demon_Warrior
@@ -635,7 +635,7 @@ spawns:
   17412223:
     template: Demon_Befouler
     level:    [80, 81]
-    region:   sw_127
+    region:   w_127
 
   17412224:
     template: Demon_Justiciar
@@ -659,23 +659,23 @@ spawns:
 
   17412228:
     template: Desmodus
-    at:       [-225.500, -47.800, 141.139, 0]
     level:    [80, 82]
+    region:   w_132
 
   17412229:
     template: Desmodus
-    at:       [-259.300, -43.750, 134.701, 60]
     level:    [80, 82]
+    region:   w_133
 
   17412230:
     template: Desmodus
-    at:       [-260.600, -43.750, 135.026, 36]
     level:    [80, 82]
+    region:   w_133
 
   17412231:
     template: Varkolak
-    at:       [-264.200, -43.750, 142.296, 7]
     level:    [89, 89]
+    region:   w_133
 
   17412232:
     template: Demon_Magus
@@ -709,23 +709,23 @@ spawns:
 
   17412238:
     template: Desmodus
-    at:       [-368.280, -46.205, -179.418, 0]
     level:    [80, 82]
+    region:   sw_142
 
   17412239:
     template: Desmodus
-    at:       [-348.100, -43.750, -185.880, 89]
     level:    [80, 82]
+    region:   sw_143
 
   17412240:
     template: Desmodus
-    at:       [-341.200, -43.750, -186.030, 72]
     level:    [80, 82]
+    region:   sw_143
 
   17412241:
     template: Varkolak
-    at:       [-338.700, -43.750, -184.060, 165]
     level:    [89, 89]
+    region:   sw_143
 
   17412242:
     template: Demon_Magus
@@ -759,23 +759,23 @@ spawns:
 
   17412248:
     template: Desmodus
-    at:       [-140.000, -47.750, -94.746, 64]
     level:    [80, 82]
+    region:   s_152
 
   17412249:
     template: Desmodus
-    at:       [-141.900, -43.750, -62.117, 90]
     level:    [80, 82]
+    region:   s_153
 
   17412250:
     template: Desmodus
-    at:       [-146.100, -43.750, -67.575, 89]
     level:    [80, 82]
+    region:   s_153
 
   17412251:
     template: Varkolak
-    at:       [-145.400, -43.750, -60.169, 103]
     level:    [89, 89]
+    region:   s_153
 
   17412252:
     template: Demon_Warrior
@@ -794,8 +794,8 @@ spawns:
 
   17412255:
     template: Demon_Magus
-    at:       [-257.806, -52.595, -51.521, 224]
     level:    [80, 81]
+    region:   sw_159
 
   17412256:
     template: Demon_Justiciar
@@ -814,8 +814,8 @@ spawns:
 
   17412259:
     template: Demons_Elemental
-    at:       [-334.860, -52.500, -40.472, 60]
     level:    [75, 78]
+    region:   sw_162
 
   17412260:
     template: Demon_Befouler
@@ -830,12 +830,12 @@ spawns:
   17412262:
     template: Doom_Lens
     level:    [82, 83]
-    region:   sw_166
+    region:   w_166
 
   17412263:
     template: Doom_Lens
     level:    [82, 83]
-    region:   sw_166
+    region:   w_166
 
   17412264:
     template: Demon_Suppressor
@@ -925,22 +925,22 @@ spawns:
   17412281:
     template: Demon_Suppressor
     level:    [82, 83]
-    region:   sw_185
+    region:   w_185
 
   17412282:
     template: Demon_Entomber
     level:    [82, 83]
-    region:   sw_185
+    region:   w_185
 
   17412283:
     template: Dark_Elemental
-    at:       [-465.384, -67.750, 50.960, 126]
     level:    [81, 81]
+    region:   w_187
 
   17412284:
     template: Ice_Elemental
-    at:       [-457.618, -67.750, 51.585, 114]
     level:    [81, 83]
+    region:   w_187
 
   17412285:
     template: Inferno_Demon
@@ -960,12 +960,12 @@ spawns:
   17412288:
     template: Berserker_Demon
     level:    [82, 83]
-    region:   sw_192
+    region:   w_192
 
   17412289:
     template: Eclipse_Demon
     level:    [82, 83]
-    region:   sw_192
+    region:   w_192
 
   17412290:
     template: Zvahl_Fortalice

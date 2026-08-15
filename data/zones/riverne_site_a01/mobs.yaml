@@ -49,8 +49,8 @@ spawns:
 
   16900106:
     template: Hippogryph
-    at:       [718.960, -3.951, -681.144, 143]
     level:    [40, 42]
+    region:   se_8
 
   16900107:
     template: Hippogryph
@@ -794,13 +794,13 @@ spawns:
 
   16900255:
     template: Atomic_Cluster
-    at:       [-279.301, 0.742, -607.280, 218]
     level:    [45, 48]
+    region:   sw_159
 
   16900256:
     template: Atomic_Cluster
-    at:       [-292.864, 0.694, -596.499, 118]
     level:    [45, 48]
+    region:   sw_159
 
   16900257:
     template: Hawker
@@ -1009,8 +1009,8 @@ spawns:
 
   16900298:
     template: Darner
-    at:       [-124.034, -0.006, 648.285, 81]
     level:    [84, 85]
+    region:   n_202
 
   16900299:
     template: Atomic_Cluster

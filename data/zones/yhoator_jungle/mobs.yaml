@@ -89,13 +89,13 @@ spawns:
 
   17285138:
     template: White_Lizard
-    at:       [-243.790, 7.653, 19.459, 2]
     level:    [36, 39]
+    region:   nw_18
 
   17285139:
     template: White_Lizard
-    at:       [-261.648, 7.355, 31.986, 127]
     level:    [36, 39]
+    region:   nw_18
 
   17285140:
     template: Yhoator_Mandragora
@@ -134,8 +134,8 @@ spawns:
 
   17285147:
     template: White_Lizard
-    at:       [-340.334, 7.806, -5.710, 65]
     level:    [36, 39]
+    region:   w_27
 
   17285148:
     template: Yhoator_Mandragora
@@ -194,8 +194,8 @@ spawns:
 
   17285159:
     template: White_Lizard
-    at:       [-164.440, 7.958, 142.136, 127]
     level:    [36, 39]
+    region:   n_39
 
   17285160:
     template: White_Lizard
@@ -505,12 +505,12 @@ spawns:
   17285221:
     template: Big_Jaw
     level:    [43, 47]
-    region:   n_88
+    region:   n_101
 
   17285222:
     template: Big_Jaw
     level:    [43, 47]
-    region:   n_88
+    region:   n_101
 
   17285223:
     template: Water_Elemental
@@ -695,7 +695,7 @@ spawns:
   17285259:
     template: Goblin_Reaper
     level:    [41, 45]
-    region:   c_139
+    region:   c_137
 
   17285260:
     template: Young_Opo-opo
@@ -894,8 +894,8 @@ spawns:
 
   17285299:
     template: Worker_Crawler
-    at:       [-468.152, 1.022, -226.360, 124]
     level:    [43, 46]
+    region:   w_179
 
   17285300:
     template: Worker_Crawler
@@ -929,13 +929,13 @@ spawns:
 
   17285306:
     template: Worker_Crawler
-    at:       [-346.559, 6.614, -217.975, 83]
     level:    [43, 46]
+    region:   w_186
 
   17285307:
     template: Worker_Crawler
-    at:       [-350.116, 6.953, -219.390, 127]
     level:    [43, 46]
+    region:   w_186
 
   17285308:
     template: Young_Opo-opo
@@ -1034,8 +1034,8 @@ spawns:
 
   17285327:
     template: Worker_Crawler
-    at:       [-296.424, -0.036, -432.720, 127]
     level:    [43, 46]
+    region:   sw_205
 
   17285328:
     template: Worker_Crawler
@@ -1509,13 +1509,13 @@ spawns:
 
   17285422:
     template: Young_Opo-opo
-    at:       [418.724, 8.338, -388.449, 127]
     level:    [40, 44]
+    region:   se_302
 
   17285423:
     template: Tonberry_Creeper
-    at:       [0.000, 0.000, 0.000, 0]
     level:    [45, 49]
+    region:   se_302
 
   17285424:
     template: Young_Opo-opo
@@ -1629,8 +1629,8 @@ spawns:
 
   17285446:
     template: Big_Jaw
-    at:       [284.801, 2.958, -502.966, 127]
     level:    [43, 47]
+    region:   se_326
 
   17285447:
     template: Big_Jaw
@@ -1704,8 +1704,8 @@ spawns:
 
   17285461:
     template: Tonberry_Hexer
-    at:       [0.000, 0.000, 0.000, 0]
     level:    [45, 49]
+    region:   se_341
 
   17285462:
     template: Tonberry_Creeper

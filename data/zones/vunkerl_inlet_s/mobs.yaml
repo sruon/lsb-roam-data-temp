@@ -64,18 +64,18 @@ spawns:
 
   17117197:
     template: Duriumshell
-    at:       [-23.240, -31.487, 243.874, 252]
     level:    [92, 94]
+    region:   n_13
 
   17117198:
     template: Duriumshell
-    at:       [-38.159, -32.381, 243.540, 38]
     level:    [92, 94]
+    region:   n_13
 
   17117199:
     template: Duriumshell
-    at:       [-22.753, -31.344, 244.878, 33]
     level:    [92, 94]
+    region:   n_13
 
   17117200:
     template: Duriumshell
@@ -139,8 +139,8 @@ spawns:
 
   17117212:
     template: Fierce_Smilodon
-    at:       [171.724, -31.923, 240.550, 97]
     level:    [67, 70]
+    region:   ne_28
 
   17117213:
     template: Carrion_Marabou
@@ -149,13 +149,13 @@ spawns:
 
   17117214:
     template: Carrion_Marabou
-    at:       [199.565, -31.650, 263.165, 58]
     level:    [36, 38]
+    region:   ne_26
 
   17117215:
     template: Carrion_Marabou
-    at:       [184.794, -31.613, 248.691, 92]
     level:    [36, 38]
+    region:   ne_28
 
   17117216:
     template: Carrion_Marabou
@@ -164,18 +164,18 @@ spawns:
 
   17117217:
     template: Carrion_Marabou
-    at:       [162.679, -31.685, 230.834, 191]
     level:    [36, 38]
+    region:   ne_33
 
   17117218:
     template: Carrion_Marabou
-    at:       [130.303, -32.112, 201.666, 80]
     level:    [36, 38]
+    region:   ne_34
 
   17117219:
     template: Air_Elemental
-    at:       [169.432, -32.011, 252.051, 219]
     level:    [45, 45]
+    region:   ne_28
 
   17117220:
     template: Fierce_Smilodon
@@ -194,8 +194,8 @@ spawns:
 
   17117223:
     template: Carrion_Marabou
-    at:       [159.705, -32.547, 116.881, 255]
     level:    [36, 38]
+    region:   e_39
 
   17117224:
     template: Carrion_Marabou
@@ -209,8 +209,8 @@ spawns:
 
   17117226:
     template: Carrion_Marabou
-    at:       [83.112, -39.919, 49.283, 60]
     level:    [36, 38]
+    region:   c_42
 
   17117227:
     template: Carrion_Marabou
@@ -219,23 +219,23 @@ spawns:
 
   17117228:
     template: Carrion_Marabou
-    at:       [19.197, -40.348, 28.410, 106]
     level:    [36, 38]
+    region:   c_44
 
   17117229:
     template: Air_Elemental
-    at:       [5.513, -32.452, 279.510, 186]
     level:    [45, 45]
+    region:   n_20
 
   17117230:
     template: Ignis_Djinn
-    at:       [327.028, -40.616, 434.442, 3]
     level:    [70, 72]
+    region:   ne_46
 
   17117231:
     template: Ignis_Djinn
-    at:       [322.280, -40.537, 397.992, 9]
     level:    [70, 72]
+    region:   ne_47
 
   17117232:
     template: Ignis_Djinn
@@ -249,18 +249,18 @@ spawns:
 
   17117234:
     template: Ignis_Djinn
-    at:       [367.850, -31.859, 385.341, 71]
     level:    [70, 72]
+    region:   ne_50
 
   17117235:
     template: Ignis_Djinn
-    at:       [386.354, -31.494, 391.855, 72]
     level:    [70, 72]
+    region:   ne_51
 
   17117236:
     template: Ignis_Djinn
-    at:       [380.778, -31.862, 416.192, 104]
     level:    [70, 72]
+    region:   ne_52
 
   17117237:
     template: Ignis_Djinn
@@ -274,8 +274,8 @@ spawns:
 
   17117239:
     template: Gigas_Deckhand
-    at:       [353.804, -32.565, 424.440, 215]
     level:    [78, 82]
+    region:   ne_55
 
   17117240:
     template: Gigas_Jack
@@ -284,18 +284,18 @@ spawns:
 
   17117241:
     template: Gigas_Helmsman
-    at:       [406.266, -31.721, 422.772, 74]
     level:    [78, 82]
+    region:   ne_57
 
   17117242:
     template: Gigass_Tiger
-    at:       [403.113, -31.915, 426.662, 42]
     level:    [73, 75]
+    region:   ne_57
 
   17117243:
     template: Gigas_Marine
-    at:       [335.407, -32.472, 369.451, 255]
     level:    [78, 82]
+    region:   ne_59
 
   17117244:
     template: Gigas_Deckhand
@@ -304,8 +304,8 @@ spawns:
 
   17117245:
     template: Gigas_Jack
-    at:       [383.947, -31.906, 365.172, 183]
     level:    [78, 82]
+    region:   ne_61
 
   17117246:
     template: Gigas_Helmsman
@@ -314,18 +314,18 @@ spawns:
 
   17117247:
     template: Gigass_Tiger
-    at:       [300.016, -46.413, 318.661, 54]
     level:    [73, 75]
+    region:   ne_62
 
   17117248:
     template: Gigas_Deckhand
-    at:       [314.555, -38.184, 276.644, 168]
     level:    [78, 82]
+    region:   ne_64
 
   17117249:
     template: Gigas_Jack
-    at:       [324.916, -38.278, 284.818, 189]
     level:    [78, 82]
+    region:   ne_64
 
   17117250:
     template: Pallas
@@ -369,8 +369,8 @@ spawns:
 
   17117258:
     template: Goblin_Flagman
-    at:       [-167.118, -39.965, 36.154, 91]
     level:    [66, 69]
+    region:   c_74
 
   17117259:
     template: Goblin_Grenadier
@@ -389,8 +389,8 @@ spawns:
 
   17117262:
     template: Goblin_Flagman
-    at:       [-166.635, -32.065, 100.039, 116]
     level:    [66, 69]
+    region:   c_78
 
   17117263:
     template: Goblin_Grenadier
@@ -449,8 +449,8 @@ spawns:
 
   17117274:
     template: Doom_Soldier
-    at:       [-174.953, -31.897, 78.903, 159]
     level:    [69, 71]
+    region:   c_75
 
   17117275:
     template: Doom_Mage
@@ -469,8 +469,8 @@ spawns:
 
   17117278:
     template: Doom_Soldier
-    at:       [-240.939, -32.471, 1.255, 183]
     level:    [69, 71]
+    region:   c_94
 
   17117279:
     template: Doom_Mage
@@ -494,18 +494,18 @@ spawns:
 
   17117283:
     template: Ignis_Djinn
-    at:       [62.455, -39.714, -107.523, 66]
     level:    [70, 72]
+    region:   c_99
 
   17117284:
     template: Ignis_Djinn
-    at:       [32.308, -39.787, -102.594, 212]
     level:    [70, 72]
+    region:   c_100
 
   17117285:
     template: Gigas_Marine
-    at:       [106.731, -40.429, -39.068, 69]
     level:    [78, 82]
+    region:   e_101
 
   17117286:
     template: Gigas_Deckhand
@@ -514,18 +514,18 @@ spawns:
 
   17117287:
     template: Gigas_Jack
-    at:       [70.754, -40.297, -86.507, 96]
     level:    [78, 82]
+    region:   c_103
 
   17117288:
     template: Gigas_Helmsman
-    at:       [25.437, -39.989, -106.261, 134]
     level:    [78, 82]
+    region:   c_100
 
   17117289:
     template: Gigass_Tiger
-    at:       [26.075, -39.942, -105.549, 109]
     level:    [73, 75]
+    region:   c_100
 
   17117290:
     template: Gigas_Marine
@@ -539,28 +539,28 @@ spawns:
 
   17117292:
     template: Gigas_Jack
-    at:       [166.221, -38.244, -159.805, 210]
     level:    [78, 82]
+    region:   e_108
 
   17117293:
     template: Gigas_Deckhand
-    at:       [166.502, -38.263, -158.711, 54]
     level:    [78, 82]
+    region:   e_108
 
   17117294:
     template: Bugard
-    at:       [33.849, -40.493, -116.289, 196]
     level:    [66, 68]
+    region:   c_110
 
   17117295:
     template: Warabouc
-    at:       [75.930, -40.153, -108.196, 196]
     level:    [72, 73]
+    region:   c_110
 
   17117296:
     template: Bugard
-    at:       [-8.999, -39.988, -128.027, 36]
     level:    [66, 68]
+    region:   c_112
 
   17117297:
     template: Bugard
@@ -644,18 +644,18 @@ spawns:
 
   17117313:
     template: Robber_Crab
-    at:       [-310.055, -39.777, -288.291, 9]
     level:    [62, 64]
+    region:   w_129
 
   17117314:
     template: Robber_Crab
-    at:       [-307.376, -39.883, -281.554, 135]
     level:    [62, 64]
+    region:   w_129
 
   17117315:
     template: Robber_Crab
-    at:       [-322.254, -40.434, -323.157, 157]
     level:    [62, 64]
+    region:   sw_131
 
   17117316:
     template: Robber_Crab
@@ -679,8 +679,8 @@ spawns:
 
   17117320:
     template: Stygian_Pugil
-    at:       [-134.291, -38.867, -265.342, 154]
     level:    [64, 66]
+    region:   c_136
 
   17117321:
     template: Stygian_Pugil
@@ -704,13 +704,13 @@ spawns:
 
   17117325:
     template: Stygian_Pugil
-    at:       [-316.223, -39.574, -339.820, 14]
     level:    [64, 66]
+    region:   sw_131
 
   17117326:
     template: Stygian_Pugil
-    at:       [-315.376, -39.605, -338.916, 36]
     level:    [64, 66]
+    region:   sw_131
 
   17117327:
     template: Stygian_Pugil
@@ -740,7 +740,7 @@ spawns:
   17117332:
     template: Wandering_Sapling
     level:    [35, 36]
-    region:   s_148
+    region:   c_148
 
   17117333:
     template: Wandering_Sapling
@@ -764,13 +764,13 @@ spawns:
 
   17117337:
     template: Wandering_Sapling
-    at:       [-314.596, -39.814, -268.920, 185]
     level:    [35, 36]
+    region:   w_129
 
   17117338:
     template: Wandering_Sapling
-    at:       [-308.273, -40.000, -323.043, 91]
     level:    [35, 36]
+    region:   sw_131
 
   17117339:
     template: Wandering_Sapling
@@ -779,8 +779,8 @@ spawns:
 
   17117340:
     template: Wandering_Sapling
-    at:       [-307.554, -39.770, -353.329, 164]
     level:    [35, 36]
+    region:   sw_156
 
   17117341:
     template: Haunt
@@ -804,13 +804,13 @@ spawns:
 
   17117345:
     template: Ignis_Djinn
-    at:       [-413.757, -47.789, -357.833, 213]
     level:    [70, 72]
+    region:   sw_161
 
   17117346:
     template: Ignis_Djinn
-    at:       [-427.362, -47.977, -356.292, 235]
     level:    [70, 72]
+    region:   sw_162
 
   17117347:
     template: Ignis_Djinn
@@ -829,13 +829,13 @@ spawns:
 
   17117350:
     template: Ignis_Djinn
-    at:       [-409.901, -48.171, -355.021, 175]
     level:    [70, 72]
+    region:   sw_161
 
   17117351:
     template: Ignis_Djinn
-    at:       [-431.702, -47.981, -364.278, 56]
     level:    [70, 72]
+    region:   sw_162
 
   17117352:
     template: Treant
@@ -844,13 +844,13 @@ spawns:
 
   17117353:
     template: Treant
-    at:       [-440.813, -47.693, -301.884, 65]
     level:    [73, 76]
+    region:   w_169
 
   17117354:
     template: Treant
-    at:       [-467.112, -41.166, -351.075, 33]
     level:    [73, 76]
+    region:   sw_170
 
   17117355:
     template: Treant
@@ -905,27 +905,27 @@ spawns:
   17117365:
     template: Orcish_Footsoldier
     level:    [71, 74]
-    region:   sw_181
+    region:   sw_170
 
   17117366:
     template: Orcish_Gladiator
     level:    [71, 74]
-    region:   sw_181
+    region:   sw_170
 
   17117367:
     template: Orcish_Hexspinner
     level:    [71, 74]
-    region:   sw_181
+    region:   sw_170
 
   17117368:
     template: Doom_Soldier
-    at:       [-438.123, -48.453, -356.801, 54]
     level:    [69, 71]
+    region:   sw_184
 
   17117369:
     template: Doom_Mage
-    at:       [-469.884, -40.762, -344.419, 206]
     level:    [69, 71]
+    region:   sw_170
 
   17117370:
     template: Treant
@@ -939,48 +939,48 @@ spawns:
 
   17117372:
     template: Ignis_Djinn
-    at:       [-422.680, -47.815, -448.159, 42]
     level:    [70, 72]
+    region:   sw_188
 
   17117373:
     template: Ignis_Djinn
-    at:       [-427.357, -47.922, -449.903, 80]
     level:    [70, 72]
+    region:   sw_188
 
   17117374:
     template: Ignis_Djinn
-    at:       [-621.901, -49.122, -451.880, 58]
     level:    [70, 72]
+    region:   sw_190
 
   17117375:
     template: Ignis_Djinn
-    at:       [-624.513, -48.423, -443.529, 127]
     level:    [70, 72]
+    region:   sw_190
 
   17117376:
     template: Ignis_Djinn
-    at:       [-640.198, -47.670, -462.381, 127]
     level:    [70, 72]
+    region:   sw_190
 
   17117377:
     template: Ignis_Djinn
-    at:       [-632.276, -48.309, -474.281, 132]
     level:    [70, 72]
+    region:   sw_193
 
   17117378:
     template: Ignis_Djinn
-    at:       [-632.915, -48.358, -474.309, 131]
     level:    [70, 72]
+    region:   sw_193
 
   17117379:
     template: Ignis_Djinn
-    at:       [-629.102, -47.955, -433.838, 2]
     level:    [70, 72]
+    region:   sw_195
 
   17117380:
     template: Ignis_Djinn
-    at:       [-637.183, -47.636, -420.981, 182]
     level:    [70, 72]
+    region:   sw_195
 
   17117381:
     template: Orcish_Zerker
@@ -1029,18 +1029,18 @@ spawns:
 
   17117390:
     template: Orcish_Gladiator
-    at:       [-588.655, -47.201, -453.299, 36]
     level:    [71, 74]
+    region:   sw_206
 
   17117391:
     template: Orcish_Footsoldier
-    at:       [-580.467, -45.916, -453.622, 2]
     level:    [71, 74]
+    region:   sw_206
 
   17117392:
     template: Orcish_Zerker
-    at:       [-586.403, -47.630, -446.366, 164]
     level:    [71, 74]
+    region:   sw_206
 
   17117393:
     template: Gigas_Marine
@@ -1064,38 +1064,38 @@ spawns:
 
   17117397:
     template: Gigas_Marine
-    at:       [-574.007, -48.135, -569.379, 168]
     level:    [78, 82]
+    region:   sw_213
 
   17117398:
     template: Gigas_Deckhand
-    at:       [-566.220, -48.424, -568.611, 167]
     level:    [78, 82]
+    region:   sw_213
 
   17117399:
     template: Gigas_Jack
-    at:       [-573.250, -48.068, -567.084, 121]
     level:    [78, 82]
+    region:   sw_213
 
   17117400:
     template: Gigas_Helmsman
-    at:       [-515.525, -48.514, -597.940, 195]
     level:    [78, 82]
+    region:   sw_216
 
   17117401:
     template: Gigass_Tiger
-    at:       [-517.192, -48.588, -598.908, 43]
     level:    [73, 75]
+    region:   sw_216
 
   17117402:
     template: Gigas_Deckhand
-    at:       [-559.258, -48.502, -598.878, 23]
     level:    [78, 82]
+    region:   sw_218
 
   17117403:
     template: Gigas_Jack
-    at:       [-552.461, -48.465, -592.062, 192]
     level:    [78, 82]
+    region:   sw_218
 
   17117404:
     template: Demonic_Rose
@@ -1109,8 +1109,8 @@ spawns:
 
   17117406:
     template: Demonic_Rose
-    at:       [-506.383, -40.087, -445.004, 154]
     level:    [74, 78]
+    region:   sw_222
 
   17117407:
     template: Demonic_Rose
@@ -1124,8 +1124,8 @@ spawns:
 
   17117409:
     template: Demonic_Rose
-    at:       [-568.796, -48.826, -584.379, 154]
     level:    [74, 78]
+    region:   sw_218
 
   17117410:
     template: Doom_Soldier
@@ -1144,18 +1144,18 @@ spawns:
 
   17117413:
     template: Doom_Mage
-    at:       [-570.572, -49.003, -574.953, 72]
     level:    [69, 71]
+    region:   sw_213
 
   17117414:
     template: Gigas_Deckhand
-    at:       [-635.984, -53.878, -540.681, 0]
     level:    [78, 82]
+    region:   sw_230
 
   17117415:
     template: Gigas_Helmsman
-    at:       [-669.754, -46.635, -549.131, 227]
     level:    [78, 82]
+    region:   sw_231
 
   17117416:
     template: Gigass_Tiger
@@ -1164,13 +1164,13 @@ spawns:
 
   17117417:
     template: Gigas_Marine
-    at:       [-675.859, -46.212, -565.384, 131]
     level:    [78, 82]
+    region:   sw_233
 
   17117418:
     template: Gigas_Deckhand
-    at:       [-674.824, -46.180, -561.360, 201]
     level:    [78, 82]
+    region:   sw_233
 
   17117419:
     template: Demonic_Rose
@@ -1205,7 +1205,7 @@ spawns:
   17117425:
     template: Royal_Leech
     level:    [35, 37]
-    region:   sw_241
+    region:   s_241
 
   17117426:
     template: Royal_Leech
@@ -1224,8 +1224,8 @@ spawns:
 
   17117429:
     template: Royal_Leech
-    at:       [-262.819, -39.676, -715.430, 232]
     level:    [35, 37]
+    region:   s_245
 
   17117430:
     template: Royal_Leech
@@ -1244,8 +1244,8 @@ spawns:
 
   17117433:
     template: Wandering_Sapling
-    at:       [-215.138, -48.400, -589.659, 165]
     level:    [35, 36]
+    region:   s_249
 
   17117434:
     template: Wandering_Sapling
@@ -1254,8 +1254,8 @@ spawns:
 
   17117435:
     template: Wandering_Sapling
-    at:       [-213.171, -47.993, -640.982, 27]
     level:    [35, 36]
+    region:   s_251
 
   17117436:
     template: Haunt
@@ -1269,8 +1269,8 @@ spawns:
 
   17117438:
     template: Thunder_Elemental
-    at:       [-128.372, -39.141, -261.112, 182]
     level:    [60, 60]
+    region:   c_136
 
   17117439:
     template: Treant
@@ -1324,38 +1324,38 @@ spawns:
 
   17117449:
     template: Ignis_Djinn
-    at:       [-70.044, -39.823, -448.018, 230]
     level:    [70, 72]
+    region:   s_265
 
   17117450:
     template: Ignis_Djinn
-    at:       [-89.435, -40.042, -455.523, 126]
     level:    [70, 72]
+    region:   s_265
 
   17117451:
     template: Orcish_Hexspinner
-    at:       [81.719, -48.694, -450.380, 249]
     level:    [71, 74]
+    region:   s_267
 
   17117452:
     template: Orcish_Footsoldier
-    at:       [71.678, -48.160, -469.352, 37]
     level:    [71, 74]
+    region:   s_267
 
   17117453:
     template: Orcish_Gladiator
-    at:       [75.819, -48.046, -467.925, 68]
     level:    [71, 74]
+    region:   s_267
 
   17117454:
     template: Orcish_Hexspinner
-    at:       [85.743, -47.954, -428.071, 163]
     level:    [71, 74]
+    region:   s_270
 
   17117455:
     template: Orcish_Gladiator
-    at:       [80.068, -47.891, -427.083, 129]
     level:    [71, 74]
+    region:   s_270
 
   17117456:
     template: Orcish_Footsoldier
@@ -1369,28 +1369,28 @@ spawns:
 
   17117458:
     template: Orcish_Zerker
-    at:       [112.906, -47.789, -428.747, 92]
     level:    [71, 74]
+    region:   s_274
 
   17117459:
     template: Orcish_Footsoldier
-    at:       [102.599, -47.548, -433.386, 95]
     level:    [71, 74]
+    region:   s_274
 
   17117460:
     template: Orcish_Gladiator
-    at:       [121.999, -48.256, -431.548, 158]
     level:    [71, 74]
+    region:   s_274
 
   17117461:
     template: Dragonfly
-    at:       [129.627, -41.078, -466.652, 244]
     level:    [58, 60]
+    region:   se_277
 
   17117462:
     template: Dragonfly
-    at:       [117.129, -40.467, -486.463, 23]
     level:    [58, 60]
+    region:   se_278
 
   17117463:
     template: Dragonfly
@@ -1399,13 +1399,13 @@ spawns:
 
   17117464:
     template: Dragonfly
-    at:       [134.364, -39.976, -530.795, 97]
     level:    [58, 60]
+    region:   se_280
 
   17117465:
     template: Dragonfly
-    at:       [146.716, -39.911, -520.925, 73]
     level:    [58, 60]
+    region:   se_281
 
   17117466:
     template: Dragonfly
@@ -1414,13 +1414,13 @@ spawns:
 
   17117467:
     template: Chigoe
-    at:       [121.865, -40.601, -467.953, 173]
     level:    [75, 78]
+    region:   se_277
 
   17117468:
     template: Chigoe
-    at:       [131.029, -40.707, -475.421, 79]
     level:    [75, 78]
+    region:   se_277
 
   17117469:
     template: Chigoe
@@ -1439,13 +1439,13 @@ spawns:
 
   17117472:
     template: Chigoe
-    at:       [120.681, -40.519, -560.878, 168]
     level:    [75, 78]
+    region:   se_288
 
   17117473:
     template: Chigoe
-    at:       [118.517, -40.713, -564.351, 3]
     level:    [75, 78]
+    region:   se_288
 
   17117474:
     template: Chigoe
@@ -1459,53 +1459,53 @@ spawns:
 
   17117476:
     template: Chigoe
-    at:       [105.590, -40.875, -481.535, 141]
     level:    [75, 78]
+    region:   se_278
 
   17117477:
     template: Chigoe
-    at:       [132.824, -39.926, -523.902, 88]
     level:    [75, 78]
+    region:   se_280
 
   17117478:
     template: Chigoe
-    at:       [149.618, -40.136, -511.065, 51]
     level:    [75, 78]
+    region:   se_281
 
   17117479:
     template: Goliath_Beetle
-    at:       [-365.195, -32.656, -79.459, 59]
     level:    [34, 36]
+    region:   w_295
 
   17117480:
     template: Goliath_Beetle
-    at:       [-379.094, -31.697, -44.799, 191]
     level:    [34, 36]
+    region:   w_296
 
   17117481:
     template: Goliath_Beetle
-    at:       [-370.310, -31.917, -54.585, 5]
     level:    [34, 36]
+    region:   w_296
 
   17117482:
     template: Goliath_Beetle
-    at:       [-385.196, -30.916, -27.453, 244]
     level:    [34, 36]
+    region:   w_298
 
   17117483:
     template: Goliath_Beetle
-    at:       [-411.658, -29.190, -32.997, 88]
     level:    [34, 36]
+    region:   w_299
 
   17117484:
     template: Goliath_Beetle
-    at:       [-430.671, -32.175, 41.244, 52]
     level:    [34, 36]
+    region:   w_300
 
   17117485:
     template: Goliath_Beetle
-    at:       [-445.285, -32.006, 37.259, 34]
     level:    [34, 36]
+    region:   w_301
 
   17117486:
     template: Goliath_Beetle
@@ -1529,18 +1529,18 @@ spawns:
 
   17117490:
     template: Carrion_Marabou
-    at:       [-356.610, -32.460, -43.694, 201]
     level:    [36, 38]
+    region:   w_296
 
   17117491:
     template: Carrion_Marabou
-    at:       [-378.372, -31.089, -29.371, 17]
     level:    [36, 38]
+    region:   w_298
 
   17117492:
     template: Carrion_Marabou
-    at:       [-417.721, -31.437, 29.799, 225]
     level:    [36, 38]
+    region:   w_308
 
   17117493:
     template: Carrion_Marabou
@@ -1554,73 +1554,73 @@ spawns:
 
   17117495:
     template: Goliath_Beetle
-    at:       [-364.967, -29.530, 272.044, 128]
     level:    [34, 36]
+    region:   nw_311
 
   17117496:
     template: Goliath_Beetle
-    at:       [-341.033, -31.696, 282.909, 126]
     level:    [34, 36]
+    region:   nw_312
 
   17117497:
     template: Goliath_Beetle
-    at:       [-320.943, -32.587, 283.201, 129]
     level:    [34, 36]
+    region:   nw_313
 
   17117498:
     template: Goliath_Beetle
-    at:       [-281.680, -32.395, 277.489, 2]
     level:    [34, 36]
+    region:   n_314
 
   17117499:
     template: Goliath_Beetle
-    at:       [-365.619, -31.076, 342.433, 150]
     level:    [34, 36]
+    region:   nw_315
 
   17117500:
     template: Goliath_Beetle
-    at:       [-375.274, -32.052, 361.822, 151]
     level:    [34, 36]
+    region:   nw_316
 
   17117501:
     template: Goliath_Beetle
-    at:       [-389.687, -30.914, 350.881, 98]
     level:    [34, 36]
+    region:   nw_317
 
   17117502:
     template: Goliath_Beetle
-    at:       [-410.295, -29.942, 365.563, 209]
     level:    [34, 36]
+    region:   nw_318
 
   17117503:
     template: Goliath_Beetle
-    at:       [-395.382, -31.937, 358.505, 73]
     level:    [34, 36]
+    region:   nw_318
 
   17117504:
     template: Carrion_Marabou
-    at:       [-366.706, -29.546, 273.530, 127]
     level:    [36, 38]
+    region:   nw_311
 
   17117505:
     template: Carrion_Marabou
-    at:       [-343.884, -31.693, 283.190, 80]
     level:    [36, 38]
+    region:   nw_312
 
   17117506:
     template: Carrion_Marabou
-    at:       [-364.534, -31.664, 294.235, 173]
     level:    [36, 38]
+    region:   nw_322
 
   17117507:
     template: Carrion_Marabou
-    at:       [-373.560, -29.392, 324.408, 60]
     level:    [36, 38]
+    region:   nw_315
 
   17117508:
     template: Carrion_Marabou
-    at:       [-385.678, -31.341, 353.388, 198]
     level:    [36, 38]
+    region:   nw_317
 
   17117509:
     template: Goliath_Beetle
@@ -1634,38 +1634,38 @@ spawns:
 
   17117511:
     template: Goliath_Beetle
-    at:       [-481.736, -31.620, 217.727, 5]
     level:    [34, 36]
+    region:   nw_327
 
   17117512:
     template: Goliath_Beetle
-    at:       [-470.562, -31.864, 223.763, 162]
     level:    [34, 36]
+    region:   nw_328
 
   17117513:
     template: Goliath_Beetle
-    at:       [-442.289, -31.954, 228.658, 244]
     level:    [34, 36]
+    region:   nw_329
 
   17117514:
     template: Goliath_Beetle
-    at:       [-451.211, -32.259, 244.746, 176]
     level:    [34, 36]
+    region:   nw_330
 
   17117515:
     template: Goliath_Beetle
-    at:       [-432.022, -31.493, 261.056, 0]
     level:    [34, 36]
+    region:   nw_331
 
   17117516:
     template: Goliath_Beetle
-    at:       [-435.769, -29.689, 289.748, 124]
     level:    [34, 36]
+    region:   nw_332
 
   17117517:
     template: Gnole
-    at:       [-520.211, -40.193, 169.788, 155]
     level:    [66, 68]
+    region:   w_333
 
   17117518:
     template: Gnole
@@ -1674,28 +1674,28 @@ spawns:
 
   17117519:
     template: Gnole
-    at:       [-403.772, -32.467, 197.865, 159]
     level:    [66, 68]
+    region:   nw_335
 
   17117520:
     template: Gnole
-    at:       [-499.778, -46.758, 128.808, 70]
     level:    [66, 68]
+    region:   nw_327
 
   17117521:
     template: Gnole
-    at:       [-477.938, -32.472, 237.775, 38]
     level:    [66, 68]
+    region:   nw_337
 
   17117522:
     template: Gnole
-    at:       [-437.568, -31.741, 250.200, 67]
     level:    [66, 68]
+    region:   nw_331
 
   17117523:
     template: Air_Elemental
-    at:       [-456.564, -31.658, 226.708, 241]
     level:    [45, 45]
+    region:   nw_328
 
   17117524:
     template: Dire_Bat
@@ -1709,28 +1709,28 @@ spawns:
 
   17117526:
     template: Dire_Bat
-    at:       [254.634, -49.772, 378.882, 249]
     level:    [61, 63]
+    region:   ne_342
 
   17117527:
     template: Dire_Bat
-    at:       [-443.518, -56.574, -660.974, 121]
     level:    [61, 63]
+    region:   sw_343
 
   17117528:
     template: Dire_Bat
-    at:       [-97.497, -57.061, -750.199, 57]
     level:    [61, 63]
+    region:   s_344
 
   17117529:
     template: Dire_Bat
-    at:       [-298.578, -56.505, -439.519, 62]
     level:    [61, 63]
+    region:   sw_345
 
   17117530:
     template: Dire_Bat
-    at:       [-302.223, -58.359, -459.204, 95]
     level:    [61, 63]
+    region:   sw_346
 
   17117531:
     template: Royal_Leech
@@ -1774,8 +1774,8 @@ spawns:
 
   17117539:
     template: Wandering_Sapling
-    at:       [19.015, -54.952, -464.727, 51]
     level:    [35, 36]
+    region:   s_355
 
   17117540:
     template: Wandering_Sapling
@@ -1784,13 +1784,13 @@ spawns:
 
   17117541:
     template: Wandering_Sapling
-    at:       [-299.951, -46.154, -101.316, 11]
     level:    [35, 36]
+    region:   w_357
 
   17117542:
     template: Wandering_Sapling
-    at:       [-261.667, -46.757, -86.306, 192]
     level:    [35, 36]
+    region:   c_358
 
   17117543:
     template: Wandering_Sapling
@@ -2529,13 +2529,13 @@ spawns:
 
   17117690:
     template: Spinebeak_Neckchopper
-    at:       [0.000, 0.000, 0.000, 18]
     level:    [60, 60]
+    region:   sw_505
 
   17117691:
     template: Spinebeak_Neckchopper
-    at:       [0.000, 0.000, 0.000, 158]
     level:    [60, 60]
+    region:   sw_505
 
   17117692:
     template: Spinebeak_Neckchopper
@@ -2544,8 +2544,8 @@ spawns:
 
   17117693:
     template: Spinebeak_Neckchopper
-    at:       [0.000, 0.000, 0.000, 210]
     level:    [60, 60]
+    region:   sw_505
 
   17117694:
     template: Spinebeak_Neckchopper
@@ -2554,18 +2554,18 @@ spawns:
 
   17117695:
     template: Spinebeak_Neckchopper
-    at:       [0.000, 0.000, 0.000, 57]
     level:    [60, 60]
+    region:   sw_505
 
   17117696:
     template: Spinebeak_Neckchopper
     level:    [60, 60]
-    region:   sw_512
+    region:   sw_505
 
   17117697:
     template: Spinebeak_Neckchopper
     level:    [60, 60]
-    region:   sw_513
+    region:   sw_505
 
   17117698:
     template: Jagidbods_Warmachine
@@ -2625,42 +2625,42 @@ spawns:
   17117709:
     template: Alpha_Gnole_Anders
     level:    [0, 0]
-    region:   sw_384
+    region:   sw_505
 
   17117710:
     template: Anderss_Guard
     level:    [60, 60]
-    region:   sw_384
+    region:   sw_505
 
   17117711:
     template: Anderss_Guard
     level:    [60, 60]
-    region:   sw_384
+    region:   sw_505
 
   17117712:
     template: Moonfang_Warrior
     level:    [60, 60]
-    region:   sw_384
+    region:   sw_505
 
   17117713:
     template: Moonfang_Warrior
     level:    [60, 60]
-    region:   sw_384
+    region:   sw_505
 
   17117714:
     template: Moonfang_Warrior
     level:    [60, 60]
-    region:   sw_384
+    region:   sw_505
 
   17117715:
     template: Moonfang_Warrior
     level:    [60, 60]
-    region:   sw_384
+    region:   sw_505
 
   17117716:
     template: Moonfang_Warrior
     level:    [60, 60]
-    region:   sw_384
+    region:   sw_505
 
   17117717:
     template: Moonfang_Warrior
@@ -2670,42 +2670,42 @@ spawns:
   17117718:
     template: Moonfang_Warrior
     level:    [60, 60]
-    region:   sw_384
+    region:   sw_505
 
   17117719:
     template: Moonfang_Warrior
-    at:       [0.000, 0.000, 0.000, 64]
     level:    [60, 60]
+    region:   sw_505
 
   17117720:
     template: Moonfang_Warrior
     level:    [60, 60]
-    region:   sw_384
+    region:   sw_505
 
   17117721:
     template: Three-eyed_Prozpuz
     level:    [60, 60]
-    region:   sw_384
+    region:   sw_505
 
   17117722:
     template: Throatripper_Predator
     level:    [60, 60]
-    region:   sw_384
+    region:   sw_505
 
   17117723:
     template: Throatripper_Predator
     level:    [60, 60]
-    region:   sw_384
+    region:   sw_505
 
   17117724:
     template: Throatripper_Predator
     level:    [60, 60]
-    region:   sw_384
+    region:   sw_505
 
   17117725:
     template: Throatripper_Predator
     level:    [60, 60]
-    region:   sw_384
+    region:   sw_505
 
   17117726:
     template: Throatripper_Predator

@@ -49,18 +49,18 @@ spawns:
 
   17567754:
     template: Snipper
-    at:       [-84.740, 1.499, 613.137, 152]
     level:    [17, 20]
+    region:   n_10
 
   17567755:
     template: Snipper
-    at:       [-79.630, 1.452, 602.752, 253]
     level:    [17, 20]
+    region:   n_10
 
   17567756:
     template: Stink_Bats
-    at:       [-39.760, 0.001, 579.539, 31]
     level:    [15, 18]
+    region:   n_12
 
   17567757:
     template: Stink_Bats
@@ -104,8 +104,8 @@ spawns:
 
   17567765:
     template: Goblin_Tinkerer
-    at:       [57.549, 12.083, 501.656, 69]
     level:    [17, 20]
+    region:   ne_21
 
   17567766:
     template: Goblin_Butcher
@@ -179,8 +179,8 @@ spawns:
 
   17567780:
     template: Blood_Bunny
-    at:       [65.046, 17.482, 385.375, 254]
     level:    [17, 19]
+    region:   ne_36
 
   17567781:
     template: Stink_Bats
@@ -204,8 +204,8 @@ spawns:
 
   17567785:
     template: Stink_Bats
-    at:       [96.358, 25.204, 307.903, 198]
     level:    [15, 18]
+    region:   e_41
 
   17567786:
     template: Blood_Bunny
@@ -619,8 +619,8 @@ spawns:
 
   17567868:
     template: Hognosed_Bat
-    at:       [-114.900, 31.976, 179.054, 119]
     level:    [17, 20]
+    region:   w_122
 
   17567869:
     template: Dung_Beetle
@@ -949,8 +949,8 @@ spawns:
 
   17567934:
     template: Hognosed_Bat
-    at:       [-20.210, 32.058, 131.347, 68]
     level:    [17, 20]
+    region:   c_190
 
   17567935:
     template: Hognosed_Bat
@@ -1015,17 +1015,17 @@ spawns:
   17567947:
     template: Buds_Bunny
     level:    [84, 86]
-    region:   s_166
+    region:   s_203
 
   17567948:
     template: Buds_Bunny
     level:    [84, 86]
-    region:   s_166
+    region:   s_203
 
   17567949:
     template: Swagger_Spruce
     level:    [86, 88]
-    region:   s_166
+    region:   s_203
 
   17567950:
     template: Buds_Bunny
@@ -1065,17 +1065,17 @@ spawns:
   17567957:
     template: Buds_Bunny
     level:    [84, 86]
-    region:   sw_103
+    region:   w_213
 
   17567958:
     template: Swagger_Spruce
     level:    [86, 88]
-    region:   sw_103
+    region:   w_213
 
   17567959:
     template: Swagger_Spruce
     level:    [86, 88]
-    region:   sw_103
+    region:   w_213
 
   17567960:
     template: Swagger_Spruce
@@ -1409,23 +1409,23 @@ spawns:
 
   17568026:
     template: Stink_Bats
-    at:       [-21.950, 31.931, 425.373, 200]
     level:    [15, 18]
+    region:   n_282
 
   17568027:
     template: Stink_Bats
-    at:       [-22.050, 31.888, 423.796, 70]
     level:    [15, 18]
+    region:   n_282
 
   17568028:
     template: Thread_Leech
-    at:       [-19.830, 31.999, 439.158, 120]
     level:    [18, 21]
+    region:   n_282
 
   17568029:
     template: Thread_Leech
-    at:       [-18.570, 31.999, 444.803, 199]
     level:    [18, 21]
+    region:   n_282
 
   17568030:
     template: Fly_Agaric
@@ -1454,23 +1454,23 @@ spawns:
 
   17568035:
     template: Stink_Bats
-    at:       [124.670, 32.000, 460.940, 1]
     level:    [15, 18]
+    region:   ne_291
 
   17568036:
     template: Stink_Bats
-    at:       [130.050, 32.000, 462.609, 98]
     level:    [15, 18]
+    region:   ne_292
 
   17568037:
     template: Stink_Bats
-    at:       [134.880, 32.000, 467.506, 226]
     level:    [15, 18]
+    region:   ne_293
 
   17568038:
     template: Thread_Leech
-    at:       [122.730, 32.000, 459.417, 29]
     level:    [18, 21]
+    region:   ne_294
 
   17568039:
     template: Thread_Leech
@@ -1584,28 +1584,28 @@ spawns:
 
   17568061:
     template: Clipper
-    at:       [-102.700, 0.485, 279.751, 129]
     level:    [26, 29]
+    region:   c_317
 
   17568062:
     template: Clipper
-    at:       [-96.230, 0.482, 278.842, 81]
     level:    [26, 29]
+    region:   c_317
 
   17568063:
     template: Jelly
-    at:       [-102.100, 0.767, 286.121, 134]
     level:    [26, 28]
+    region:   c_317
 
   17568064:
     template: Goliath_Beetle
-    at:       [-138.700, 0.005, 202.361, 59]
     level:    [29, 31]
+    region:   w_320
 
   17568065:
     template: Goliath_Beetle
-    at:       [-138.400, 0.104, 177.867, 224]
     level:    [29, 31]
+    region:   w_321
 
   17568066:
     template: Seeker_Bats
@@ -1709,8 +1709,8 @@ spawns:
 
   17568086:
     template: Ancient_Bat
-    at:       [-107.600, -15.830, 136.761, 50]
     level:    [26, 28]
+    region:   w_340
 
   17568087:
     template: Goliath_Beetle
@@ -1720,7 +1720,7 @@ spawns:
   17568088:
     template: Goliath_Beetle
     level:    [29, 31]
-    region:   w_340
+    region:   w_344
 
   17568089:
     template: Seeker_Bats

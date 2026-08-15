@@ -1154,18 +1154,18 @@ spawns:
 
   17178855:
     template: Hill_Lizard
-    at:       [226.775, -0.525, -328.155, 184]
     level:    [45, 48]
+    region:   s_231
 
   17178856:
     template: Moon_Bat
-    at:       [228.605, -0.103, -324.246, 139]
     level:    [49, 51]
+    region:   s_231
 
   17178857:
     template: Hill_Lizard
-    at:       [281.642, 7.332, -277.432, 231]
     level:    [45, 48]
+    region:   se_233
 
   17178858:
     template: Hill_Lizard
@@ -1244,8 +1244,8 @@ spawns:
 
   17178873:
     template: Diving_Beetle
-    at:       [119.996, 7.517, -199.201, 231]
     level:    [44, 47]
+    region:   s_249
 
   17178874:
     template: Diving_Beetle
@@ -1650,7 +1650,7 @@ spawns:
   17178954:
     template: Scorpion_Caster
     level:    [1, 1]
-    region:   n_329
+    region:   ne_330
 
   17178955:
     template: Scorpion_Caster
@@ -1714,13 +1714,13 @@ spawns:
 
   17178967:
     template: Pya
-    at:       [-40.255, 23.500, 201.494, 109]
     level:    [1, 1]
+    region:   n_343
 
   17178968:
     template: Kyo
-    at:       [-40.006, 24.277, 215.776, 119]
     level:    [1, 1]
+    region:   n_344
 
   17178969:
     template: Python_Mercenary
@@ -1740,7 +1740,7 @@ spawns:
   17178972:
     template: Python_Mercenary
     level:    [0, 0]
-    region:   s_348
+    region:   n_310
 
   17178973:
     template: Python_Mercenary
@@ -1750,12 +1750,12 @@ spawns:
   17178974:
     template: Python_Mercenary
     level:    [0, 0]
-    region:   s_350
+    region:   n_310
 
   17178975:
     template: Python_Mercenary
     level:    [0, 0]
-    region:   s_351
+    region:   n_310
 
   17178976:
     template: Python_Mercenary
@@ -1800,7 +1800,7 @@ spawns:
   17178984:
     template: Wildcat_Volunteer
     level:    [0, 0]
-    region:   ne_360
+    region:   n_356
 
   17178985:
     template: Wildcat_Volunteer
@@ -1855,12 +1855,12 @@ spawns:
   17178995:
     template: Crocodile_Mercenary
     level:    [0, 0]
-    region:   c_371
+    region:   n_370
 
   17178996:
     template: Crocodile_Mercenary
     level:    [0, 0]
-    region:   n_372
+    region:   n_370
 
   17178997:
     template: Crocodile_Mercenary

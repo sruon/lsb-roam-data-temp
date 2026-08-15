@@ -34,13 +34,13 @@ spawns:
 
   17555463:
     template: Carrion_Worm
-    at:       [-149.850, -0.987, 196.421, 90]
     level:    [2, 4]
+    region:   nw_5
 
   17555464:
     template: Carrion_Worm
-    at:       [-92.972, -0.500, -63.214, 127]
     level:    [2, 4]
+    region:   nw_5
 
   17555465:
     template: Carrion_Worm
@@ -90,17 +90,17 @@ spawns:
   17555474:
     template: Goblin_Weaver
     level:    [4, 8]
-    region:   w_18
+    region:   nw_18
 
   17555475:
     template: Mouse_Bat
     level:    [3, 6]
-    region:   w_18
+    region:   nw_18
 
   17555476:
     template: Mouse_Bat
     level:    [3, 6]
-    region:   w_18
+    region:   nw_18
 
   17555477:
     template: Mouse_Bat
@@ -294,8 +294,8 @@ spawns:
 
   17555515:
     template: Ding_Bats
-    at:       [-114.498, -0.497, -87.220, 195]
     level:    [3, 5]
+    region:   w_59
 
   17555516:
     template: Ding_Bats
@@ -305,7 +305,7 @@ spawns:
   17555517:
     template: Carrion_Worm
     level:    [3, 5]
-    region:   w_61
+    region:   w_59
 
   17555518:
     template: Enchanted_Bones
@@ -325,12 +325,12 @@ spawns:
   17555521:
     template: Goblin_Weaver
     level:    [4, 8]
-    region:   sw_65
+    region:   s_65
 
   17555522:
     template: Ding_Bats
     level:    [3, 5]
-    region:   sw_65
+    region:   s_65
 
   17555523:
     template: Ding_Bats
@@ -340,7 +340,7 @@ spawns:
   17555524:
     template: Carrion_Worm
     level:    [3, 5]
-    region:   sw_65
+    region:   s_65
 
   17555525:
     template: Enchanted_Bones
@@ -404,13 +404,13 @@ spawns:
 
   17555537:
     template: Ding_Bats
-    at:       [5.025, -0.499, -134.055, 127]
     level:    [3, 5]
+    region:   c_80
 
   17555538:
     template: Carrion_Worm
-    at:       [-58.342, -0.499, -120.062, 92]
     level:    [3, 5]
+    region:   c_80
 
   17555539:
     template: Enchanted_Bones
@@ -529,8 +529,8 @@ spawns:
 
   17555562:
     template: Carrion_Worm
-    at:       [-97.045, -0.429, -121.726, 137]
     level:    [3, 5]
+    region:   c_102
 
   17555563:
     template: Enchanted_Bones
@@ -709,13 +709,13 @@ spawns:
 
   17555598:
     template: Spook
-    at:       [2.912, -0.557, -99.302, 127]
     level:    [11, 13]
+    region:   c_142
 
   17555599:
     template: Wind_Bats
-    at:       [35.000, 3.000, -26.000, 57]
     level:    [9, 11]
+    region:   c_143
 
   17555600:
     template: Goblin_Ambusher
@@ -1339,8 +1339,8 @@ spawns:
 
   17555724:
     template: Rock_Eater
-    at:       [143.056, -0.500, 214.811, 0]
     level:    [14, 16]
+    region:   ne_266
 
   17555725:
     template: Rock_Eater
@@ -1459,33 +1459,33 @@ spawns:
 
   17555748:
     template: Cherry_Sapling
-    at:       [43.824, -0.600, -282.762, 53]
     level:    [62, 64]
+    region:   s_292
 
   17555749:
     template: Cherry_Sapling
-    at:       [36.356, -0.600, -276.178, 32]
     level:    [62, 64]
+    region:   s_292
 
   17555750:
     template: Cherry_Sapling
-    at:       [43.242, -0.600, -272.295, 127]
     level:    [62, 64]
+    region:   s_292
 
   17555751:
     template: Cherry_Sapling
-    at:       [-2.604, -0.600, -274.021, 127]
     level:    [62, 64]
+    region:   s_295
 
   17555752:
     template: Cherry_Sapling
-    at:       [0.936, -0.600, -286.576, 127]
     level:    [62, 64]
+    region:   s_295
 
   17555753:
     template: Cherry_Sapling
-    at:       [-4.388, -0.600, -279.671, 110]
     level:    [62, 64]
+    region:   s_295
 
   17555754:
     template: Cemetery_Cherry
@@ -1609,18 +1609,18 @@ spawns:
 
   17555778:
     template: Locus_Dire_Bat
-    at:       [-132.144, 6.999, -145.868, 101]
     level:    [133, 134]
+    region:   sw_322
 
   17555779:
     template: Locus_Dire_Bat
-    at:       [-136.731, 6.990, -151.449, 206]
     level:    [133, 135]
+    region:   sw_322
 
   17555780:
     template: Locus_Dire_Bat
-    at:       [-130.771, 7.000, -144.263, 188]
     level:    [133, 135]
+    region:   sw_322
 
   17555781:
     template: Locus_Dire_Bat
@@ -1669,138 +1669,138 @@ spawns:
 
   17555790:
     template: Locus_Cutlass_Scorpion
-    at:       [-63.242, 7.038, -196.594, 217]
     level:    [135, 137]
+    region:   s_334
 
   17555791:
     template: Locus_Cutlass_Scorpion
-    at:       [-58.671, 7.662, -202.420, 24]
     level:    [135, 137]
+    region:   s_334
 
   17555792:
     template: Locus_Dire_Bat
-    at:       [-65.639, 7.531, -199.195, 90]
     level:    [133, 135]
+    region:   s_334
 
   17555793:
     template: Locus_Dire_Bat
-    at:       [-62.661, 8.100, -200.341, 248]
     level:    [133, 135]
+    region:   s_334
 
   17555794:
     template: Locus_Dire_Bat
-    at:       [-62.933, 7.058, -196.632, 114]
     level:    [133, 135]
+    region:   s_334
 
   17555795:
     template: Locus_Dire_Bat
-    at:       [-71.216, 7.625, -223.978, 182]
     level:    [133, 135]
+    region:   s_339
 
   17555796:
     template: Locus_Dire_Bat
-    at:       [-65.559, 6.944, -232.672, 162]
     level:    [133, 135]
+    region:   s_339
 
   17555797:
     template: Locus_Dire_Bat
-    at:       [-63.819, 7.006, -235.138, 166]
     level:    [133, 135]
+    region:   s_339
 
   17555798:
     template: Locus_Dire_Bat
-    at:       [-63.706, 7.059, -234.674, 31]
     level:    [133, 135]
+    region:   s_339
 
   17555799:
     template: Locus_Thousand_Eyes
-    at:       [-72.896, 6.978, -257.681, 9]
     level:    [135, 137]
+    region:   s_343
 
   17555800:
     template: Locus_Thousand_Eyes
-    at:       [-84.556, 7.840, -260.563, 185]
     level:    [135, 137]
+    region:   s_343
 
   17555801:
     template: Locus_Thousand_Eyes
-    at:       [-74.275, 7.603, -258.033, 137]
     level:    [135, 137]
+    region:   s_343
 
   17555802:
     template: Locus_Thousand_Eyes
-    at:       [-73.011, 7.119, -254.903, 247]
     level:    [135, 137]
+    region:   s_343
 
   17555803:
     template: Locus_Thousand_Eyes
-    at:       [-86.774, 7.185, -261.912, 109]
     level:    [135, 137]
+    region:   s_343
 
   17555804:
     template: Locus_Thousand_Eyes
-    at:       [-75.122, 7.873, -258.215, 220]
     level:    [135, 137]
+    region:   s_343
 
   17555805:
     template: Locus_Dire_Bat
-    at:       [-133.623, 6.467, -263.539, 64]
     level:    [133, 135]
+    region:   sw_349
 
   17555806:
     template: Locus_Dire_Bat
-    at:       [-121.797, 6.806, -260.966, 103]
     level:    [133, 135]
+    region:   sw_349
 
   17555807:
     template: Locus_Dire_Bat
-    at:       [-133.690, 6.481, -263.287, 63]
     level:    [133, 135]
+    region:   sw_349
 
   17555808:
     template: Locus_Dire_Bat
-    at:       [-119.368, 6.908, -260.212, 250]
     level:    [133, 135]
+    region:   sw_349
 
   17555809:
     template: Locus_Dire_Bat
-    at:       [-134.716, 6.596, -263.065, 49]
     level:    [133, 135]
+    region:   sw_353
 
   17555810:
     template: Locus_Dire_Bat
     level:    [133, 135]
-    region:   sw_354
+    region:   sw_353
 
   17555811:
     template: Locus_Dire_Bat
-    at:       [-145.802, 7.136, -258.084, 114]
     level:    [133, 135]
+    region:   sw_353
 
   17555812:
     template: Locus_Dire_Bat
     level:    [133, 135]
-    region:   sw_354
+    region:   sw_353
 
   17555813:
     template: Locus_Hati
-    at:       [-179.302, 6.886, -245.900, 184]
     level:    [136, 137]
+    region:   sw_357
 
   17555814:
     template: Locus_Hati
-    at:       [-179.505, 6.906, -245.848, 181]
     level:    [136, 137]
+    region:   sw_357
 
   17555815:
     template: Locus_Hati
-    at:       [-180.515, 6.829, -244.937, 189]
     level:    [136, 137]
+    region:   sw_357
 
   17555816:
     template: Locus_Hati
-    at:       [-176.276, 6.546, -255.784, 236]
     level:    [136, 137]
+    region:   sw_357
 
   17555817:
     template: Locus_Dire_Bat
@@ -1814,8 +1814,8 @@ spawns:
 
   17555819:
     template: Locus_Dire_Bat
-    at:       [-194.240, 6.998, -221.195, 45]
     level:    [133, 135]
+    region:   sw_361
 
   17555820:
     template: Locus_Dire_Bat
@@ -1859,93 +1859,93 @@ spawns:
 
   17555828:
     template: Locus_Spartoi_Sorcerer
-    at:       [-256.572, 7.482, -220.601, 181]
     level:    [135, 137]
+    region:   sw_372
 
   17555829:
     template: Locus_Spartoi_Sorcerer
-    at:       [-246.789, 7.744, -223.632, 65]
     level:    [135, 137]
+    region:   sw_372
 
   17555830:
     template: Locus_Hati
-    at:       [-246.570, 7.743, -223.577, 67]
     level:    [136, 137]
+    region:   sw_372
 
   17555831:
     template: Locus_Spartoi_Warrior
-    at:       [-258.606, 7.652, -243.693, 63]
     level:    [135, 137]
+    region:   sw_375
 
   17555832:
     template: Locus_Spartoi_Warrior
-    at:       [-255.645, 7.774, -236.148, 60]
     level:    [135, 137]
+    region:   sw_375
 
   17555833:
     template: Locus_Spartoi_Sorcerer
-    at:       [-262.447, 8.016, -238.862, 28]
     level:    [135, 137]
+    region:   sw_375
 
   17555834:
     template: Locus_Spartoi_Sorcerer
-    at:       [-261.695, 8.013, -241.666, 237]
     level:    [135, 137]
+    region:   sw_375
 
   17555835:
     template: Locus_Hati
-    at:       [-258.271, 6.804, -247.579, 239]
     level:    [136, 137]
+    region:   sw_375
 
   17555836:
     template: Locus_Spartoi_Warrior
-    at:       [-254.902, 6.577, -263.187, 195]
     level:    [135, 137]
+    region:   sw_380
 
   17555837:
     template: Locus_Spartoi_Warrior
-    at:       [-257.328, 6.472, -262.797, 90]
     level:    [135, 137]
+    region:   sw_380
 
   17555838:
     template: Locus_Spartoi_Sorcerer
-    at:       [-260.483, 6.081, -259.173, 175]
     level:    [135, 137]
+    region:   sw_380
 
   17555839:
     template: Locus_Spartoi_Sorcerer
-    at:       [-257.720, 6.186, -258.914, 203]
     level:    [135, 137]
+    region:   sw_380
 
   17555840:
     template: Locus_Hati
-    at:       [-260.374, 6.077, -258.971, 160]
     level:    [136, 137]
+    region:   sw_380
 
   17555841:
     template: Locus_Spartoi_Warrior
-    at:       [-264.420, 7.736, -280.185, 139]
     level:    [135, 137]
+    region:   sw_385
 
   17555842:
     template: Locus_Spartoi_Warrior
-    at:       [-259.363, 8.298, -280.212, 117]
     level:    [135, 137]
+    region:   sw_385
 
   17555843:
     template: Locus_Spartoi_Sorcerer
-    at:       [-259.312, 8.281, -279.507, 106]
     level:    [135, 137]
+    region:   sw_385
 
   17555844:
     template: Locus_Spartoi_Sorcerer
-    at:       [-257.029, 8.118, -281.797, 184]
     level:    [135, 137]
+    region:   sw_385
 
   17555845:
     template: Locus_Hati
-    at:       [-260.468, 8.216, -278.614, 21]
     level:    [136, 137]
+    region:   sw_385
 
   17555846:
     template: Locus_Dire_Bat
@@ -1969,83 +1969,83 @@ spawns:
 
   17555850:
     template: Locus_Dire_Bat
-    at:       [-182.222, 6.999, -285.721, 209]
     level:    [133, 135]
+    region:   sw_394
 
   17555851:
     template: Locus_Dire_Bat
-    at:       [-183.070, 6.998, -287.607, 78]
     level:    [133, 135]
+    region:   sw_394
 
   17555852:
     template: Locus_Dire_Bat
-    at:       [-199.846, 7.000, -298.243, 225]
     level:    [133, 135]
+    region:   sw_394
 
   17555853:
     template: Locus_Dire_Bat
-    at:       [-183.320, 6.998, -287.935, 78]
     level:    [133, 135]
+    region:   sw_394
 
   17555854:
     template: Locus_Cutlass_Scorpion
-    at:       [-96.198, 6.553, -296.210, 174]
     level:    [135, 137]
+    region:   s_398
 
   17555855:
     template: Locus_Cutlass_Scorpion
-    at:       [-95.111, 7.095, -307.048, 26]
     level:    [135, 137]
+    region:   s_398
 
   17555856:
     template: Locus_Cutlass_Scorpion
-    at:       [-98.946, 7.246, -306.342, 67]
     level:    [135, 137]
+    region:   s_398
 
   17555857:
     template: Locus_Cutlass_Scorpion
-    at:       [-98.549, 7.071, -304.117, 161]
     level:    [135, 137]
+    region:   s_398
 
   17555858:
     template: Locus_Dire_Bat
-    at:       [-25.796, 7.000, -212.829, 210]
     level:    [133, 135]
+    region:   s_402
 
   17555859:
     template: Locus_Dire_Bat
     level:    [133, 135]
-    region:   s_403
+    region:   s_402
 
   17555860:
     template: Locus_Dire_Bat
-    at:       [-20.635, 7.000, -200.923, 96]
     level:    [133, 135]
+    region:   s_402
 
   17555861:
     template: Locus_Dire_Bat
     level:    [133, 135]
-    region:   s_403
+    region:   s_402
 
   17555862:
     template: Locus_Dire_Bat
-    at:       [-16.739, 6.990, -191.087, 93]
     level:    [133, 135]
+    region:   s_406
 
   17555863:
     template: Locus_Dire_Bat
-    at:       [-14.446, 6.998, -188.444, 219]
     level:    [133, 135]
+    region:   s_406
 
   17555864:
     template: Locus_Dire_Bat
-    at:       [-5.384, 6.999, -181.611, 229]
     level:    [133, 135]
+    region:   s_406
 
   17555865:
     template: Locus_Dire_Bat
-    at:       [-0.178, 6.999, -181.519, 255]
     level:    [133, 135]
+    region:   s_406
 
   17555866:
     template: Locus_Cutlass_Scorpion
@@ -2064,13 +2064,13 @@ spawns:
 
   17555869:
     template: Locus_Cutlass_Scorpion
-    at:       [16.968, 7.081, -181.815, 90]
     level:    [135, 137]
+    region:   s_410
 
   17555870:
     template: Locus_Dire_Bat
-    at:       [60.763, 7.000, -196.083, 187]
     level:    [133, 135]
+    region:   s_414
 
   17555871:
     template: Locus_Dire_Bat
@@ -2109,53 +2109,53 @@ spawns:
 
   17555878:
     template: Locus_Spartoi_Warrior
-    at:       [58.445, 7.902, -285.172, 120]
     level:    [135, 137]
+    region:   s_422
 
   17555879:
     template: Locus_Spartoi_Warrior
-    at:       [59.888, 7.983, -276.640, 56]
     level:    [135, 137]
+    region:   s_422
 
   17555880:
     template: Locus_Spartoi_Sorcerer
-    at:       [62.237, 7.084, -272.012, 178]
     level:    [135, 137]
+    region:   s_422
 
   17555881:
     template: Locus_Spartoi_Sorcerer
-    at:       [63.041, 7.687, -284.067, 81]
     level:    [135, 137]
+    region:   s_422
 
   17555882:
     template: Locus_Hati
-    at:       [54.368, 7.732, -279.174, 84]
     level:    [135, 137]
+    region:   s_422
 
   17555883:
     template: Locus_Spartoi_Warrior
-    at:       [45.580, 8.127, -297.964, 118]
     level:    [135, 137]
+    region:   s_427
 
   17555884:
     template: Locus_Spartoi_Warrior
-    at:       [46.256, 8.110, -298.018, 232]
     level:    [135, 137]
+    region:   s_427
 
   17555885:
     template: Locus_Spartoi_Sorcerer
-    at:       [51.509, 7.899, -293.274, 226]
     level:    [135, 137]
+    region:   s_427
 
   17555886:
     template: Locus_Spartoi_Sorcerer
-    at:       [45.505, 8.095, -296.780, 5]
     level:    [135, 137]
+    region:   s_427
 
   17555887:
     template: Locus_Hati
-    at:       [36.325, 8.120, -298.943, 66]
     level:    [135, 137]
+    region:   s_427
 
   17555888:
     template: Locus_Spartoi_Warrior
@@ -2169,23 +2169,23 @@ spawns:
 
   17555890:
     template: Locus_Thousand_Eyes
-    at:       [-23.588, 6.960, -297.764, 131]
     level:    [135, 137]
+    region:   s_434
 
   17555891:
     template: Locus_Thousand_Eyes
-    at:       [-23.700, 7.057, -301.930, 121]
     level:    [135, 137]
+    region:   s_434
 
   17555892:
     template: Locus_Thousand_Eyes
-    at:       [-19.040, 6.749, -305.372, 240]
     level:    [135, 137]
+    region:   s_434
 
   17555893:
     template: Locus_Thousand_Eyes
-    at:       [-16.525, 6.562, -304.108, 23]
     level:    [135, 137]
+    region:   s_434
 
   17555894:
     template: Locus_Dire_Bat
@@ -2209,13 +2209,13 @@ spawns:
 
   17555898:
     template: Locus_Dire_Bat
-    at:       [-17.050, 6.795, -322.110, 42]
     level:    [133, 135]
+    region:   s_442
 
   17555899:
     template: Locus_Dire_Bat
-    at:       [-17.927, 6.882, -320.420, 173]
     level:    [133, 135]
+    region:   s_442
 
   17555900:
     template: Locus_Dire_Bat
@@ -2259,208 +2259,208 @@ spawns:
 
   17555908:
     template: Locus_Dire_Bat
-    at:       [55.028, 6.999, -332.108, 88]
     level:    [133, 135]
+    region:   s_452
 
   17555909:
     template: Locus_Dire_Bat
-    at:       [58.491, 6.999, -325.631, 209]
     level:    [133, 135]
+    region:   s_452
 
   17555910:
     template: Locus_Dire_Bat
     level:    [133, 135]
-    region:   s_454
+    region:   se_454
 
   17555911:
     template: Locus_Dire_Bat
-    at:       [78.746, 7.143, -259.197, 244]
     level:    [133, 135]
+    region:   se_454
 
   17555912:
     template: Locus_Dire_Bat
     level:    [133, 135]
-    region:   s_454
+    region:   se_454
 
   17555913:
     template: Locus_Dire_Bat
     level:    [133, 135]
-    region:   s_454
+    region:   se_454
 
   17555914:
     template: Locus_Dire_Bat
-    at:       [98.698, 7.000, -242.238, 201]
     level:    [133, 135]
+    region:   se_458
 
   17555915:
     template: Locus_Dire_Bat
-    at:       [98.864, 6.999, -240.835, 200]
     level:    [133, 135]
+    region:   se_458
 
   17555916:
     template: Locus_Dire_Bat
-    at:       [94.647, 6.986, -251.261, 91]
     level:    [133, 135]
+    region:   se_458
 
   17555917:
     template: Locus_Dire_Bat
-    at:       [102.980, 6.989, -230.030, 89]
     level:    [133, 135]
+    region:   se_458
 
   17555918:
     template: Locus_Dire_Bat
-    at:       [127.599, 6.997, -222.427, 15]
     level:    [133, 135]
+    region:   se_462
 
   17555919:
     template: Locus_Dire_Bat
-    at:       [117.324, 7.000, -219.833, 0]
     level:    [133, 135]
+    region:   se_462
 
   17555920:
     template: Locus_Dire_Bat
-    at:       [125.564, 7.000, -221.796, 120]
     level:    [133, 135]
+    region:   se_462
 
   17555921:
     template: Locus_Dire_Bat
-    at:       [127.575, 6.997, -222.864, 129]
     level:    [133, 135]
+    region:   se_462
 
   17555922:
     template: Locus_Dire_Bat
-    at:       [139.179, 7.000, -238.004, 66]
     level:    [133, 135]
+    region:   se_466
 
   17555923:
     template: Locus_Dire_Bat
-    at:       [139.212, 6.974, -242.675, 185]
     level:    [133, 135]
+    region:   se_466
 
   17555924:
     template: Locus_Dire_Bat
-    at:       [139.420, 7.000, -237.914, 99]
     level:    [133, 135]
+    region:   se_466
 
   17555925:
     template: Locus_Dire_Bat
-    at:       [139.520, 7.000, -238.383, 82]
     level:    [133, 135]
+    region:   se_466
 
   17555926:
     template: Locus_Hati
-    at:       [138.936, 7.270, -244.467, 201]
     level:    [135, 137]
+    region:   se_470
 
   17555927:
     template: Locus_Spartoi_Warrior
-    at:       [142.657, 7.137, -283.781, 9]
     level:    [135, 137]
+    region:   se_470
 
   17555928:
     template: Locus_Spartoi_Sorcerer
-    at:       [143.130, 7.059, -283.894, 139]
     level:    [135, 137]
+    region:   se_470
 
   17555929:
     template: Locus_Lemures
-    at:       [141.923, 8.062, -280.380, 117]
     level:    [136, 138]
+    region:   se_470
 
   17555930:
     template: Locus_Hati
-    at:       [137.836, 8.039, -289.594, 185]
     level:    [135, 137]
+    region:   se_474
 
   17555931:
     template: Locus_Spartoi_Warrior
-    at:       [137.978, 7.165, -293.880, 170]
     level:    [135, 137]
+    region:   se_474
 
   17555932:
     template: Locus_Spartoi_Sorcerer
-    at:       [144.754, 8.124, -301.162, 44]
     level:    [135, 137]
+    region:   se_474
 
   17555933:
     template: Locus_Lemures
-    at:       [138.980, 7.320, -295.760, 55]
     level:    [136, 138]
+    region:   se_474
 
   17555934:
     template: Locus_Dire_Bat
-    at:       [21.115, 6.956, -203.153, 201]
     level:    [133, 135]
+    region:   s_478
 
   17555935:
     template: Locus_Dire_Bat
-    at:       [21.236, 6.578, -214.904, 187]
     level:    [133, 135]
+    region:   s_478
 
   17555936:
     template: Locus_Dire_Bat
-    at:       [21.494, 6.537, -216.801, 59]
     level:    [133, 135]
+    region:   s_478
 
   17555937:
     template: Locus_Dire_Bat
-    at:       [21.370, 6.948, -202.102, 198]
     level:    [133, 135]
+    region:   s_478
 
   17555938:
     template: Locus_Tomb_Worm
-    at:       [30.832, -0.635, -248.008, 242]
     level:    [131, 133]
+    region:   s_482
 
   17555939:
     template: Locus_Tomb_Worm
-    at:       [31.507, -0.514, -229.444, 195]
     level:    [131, 133]
+    region:   s_482
 
   17555940:
     template: Locus_Tomb_Worm
-    at:       [31.411, -0.500, -234.633, 61]
     level:    [131, 133]
+    region:   s_482
 
   17555941:
     template: Locus_Tomb_Worm
-    at:       [30.721, -0.629, -235.998, 224]
     level:    [131, 133]
+    region:   s_482
 
   17555942:
     template: Locus_Tomb_Worm
-    at:       [10.755, -0.883, -229.611, 37]
     level:    [131, 133]
+    region:   s_482
 
   17555943:
     template: Locus_Tomb_Worm
-    at:       [14.013, -1.819, -234.188, 196]
     level:    [131, 133]
+    region:   s_482
 
   17555944:
     template: Locus_Tomb_Worm
-    at:       [24.873, -0.539, -249.051, 123]
     level:    [131, 133]
+    region:   s_482
 
   17555945:
     template: Locus_Tomb_Worm
-    at:       [26.290, -1.500, -238.768, 188]
     level:    [131, 133]
+    region:   s_482
 
   17555946:
     template: Locus_Tomb_Worm
-    at:       [13.903, -1.522, -245.906, 178]
     level:    [131, 133]
+    region:   s_482
 
   17555947:
     template: Locus_Tomb_Worm
-    at:       [12.986, -1.904, -238.607, 36]
     level:    [131, 133]
+    region:   s_482
 
   17555948:
     template: Locus_Armet_Beetle
-    at:       [2.756, -0.500, -271.757, 167]
     level:    [134, 136]
+    region:   s_295
 
   17555949:
     template: Locus_Armet_Beetle
@@ -2504,35 +2504,35 @@ spawns:
 
   17555957:
     template: Locus_Armet_Beetle
-    at:       [35.583, -0.500, -282.598, 3]
     level:    [134, 136]
+    region:   s_292
 
   17555958:
     template: Locus_Armet_Beetle
-    at:       [41.976, -0.500, -274.674, 226]
     level:    [134, 136]
+    region:   s_292
 
   17555959:
     template: Locus_Armet_Beetle
-    at:       [34.976, -0.519, -287.065, 10]
     level:    [134, 136]
+    region:   s_292
 
   17555960:
     template: Locus_Armet_Beetle
-    at:       [42.110, -0.500, -279.720, 57]
     level:    [134, 136]
+    region:   s_292
 
   17555961:
     template: Locus_Armet_Beetle
-    at:       [35.579, -0.500, -273.815, 248]
     level:    [134, 136]
+    region:   s_292
 
   17555962:
     template: Locus_Armet_Beetle
-    at:       [43.271, -0.550, -288.477, 227]
     level:    [134, 136]
+    region:   s_292
 
   17555963:
     template: Locus_Armet_Beetle
-    at:       [37.622, -0.558, -287.151, 180]
     level:    [134, 136]
+    region:   s_292

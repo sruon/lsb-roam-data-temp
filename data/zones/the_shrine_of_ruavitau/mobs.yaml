@@ -14,8 +14,8 @@ spawns:
 
   17506307:
     template: Aura_Weapon
-    at:       [901.262, 99.500, 666.785, 127]
     level:    [80, 82]
+    region:   ne_3
 
   17506308:
     template: Aura_Weapon
@@ -24,8 +24,8 @@ spawns:
 
   17506309:
     template: Aura_Weapon
-    at:       [866.854, 99.500, 622.557, 248]
     level:    [80, 82]
+    region:   ne_5
 
   17506310:
     template: Aura_Weapon
@@ -39,8 +39,8 @@ spawns:
 
   17506312:
     template: Aura_Weapon
-    at:       [771.008, 99.500, 661.572, 127]
     level:    [80, 82]
+    region:   ne_8
 
   17506313:
     template: Aura_Weapon
@@ -54,8 +54,8 @@ spawns:
 
   17506315:
     template: Aura_Weapon
-    at:       [699.248, 99.563, 687.831, 68]
     level:    [80, 82]
+    region:   ne_11
 
   17506316:
     template: Aura_Weapon
@@ -74,8 +74,8 @@ spawns:
 
   17506319:
     template: Aura_Pot
-    at:       [898.633, 99.500, 500.722, 62]
     level:    [75, 80]
+    region:   ne_15
 
   17506320:
     template: Aura_Pot
@@ -84,8 +84,8 @@ spawns:
 
   17506321:
     template: Aura_Pot
-    at:       [882.578, 98.978, 564.510, 40]
     level:    [75, 80]
+    region:   ne_17
 
   17506322:
     template: Aura_Pot
@@ -99,8 +99,8 @@ spawns:
 
   17506324:
     template: Aura_Pot
-    at:       [796.015, 98.556, 570.556, 127]
     level:    [75, 80]
+    region:   ne_20
 
   17506325:
     template: Aura_Pot
@@ -109,8 +109,8 @@ spawns:
 
   17506326:
     template: Aura_Pot
-    at:       [748.390, 99.500, 538.705, 127]
     level:    [75, 80]
+    region:   ne_22
 
   17506327:
     template: Aura_Pot
@@ -144,8 +144,8 @@ spawns:
 
   17506333:
     template: Aura_Pot
-    at:       [805.290, -0.499, 97.778, 111]
     level:    [77, 80]
+    region:   e_29
 
   17506334:
     template: Aura_Pot
@@ -154,8 +154,8 @@ spawns:
 
   17506335:
     template: Aura_Pot
-    at:       [807.324, -0.494, 112.092, 99]
     level:    [77, 80]
+    region:   e_31
 
   17506336:
     template: Aura_Pot
@@ -179,8 +179,8 @@ spawns:
 
   17506340:
     template: Aura_Pot
-    at:       [859.043, -0.499, 76.672, 120]
     level:    [77, 80]
+    region:   e_36
 
   17506341:
     template: Ice_Elemental
@@ -199,13 +199,13 @@ spawns:
 
   17506344:
     template: Aura_Pot
-    at:       [780.546, -0.500, 38.470, 77]
     level:    [77, 80]
+    region:   e_40
 
   17506345:
     template: Aura_Pot
-    at:       [815.349, -0.500, 22.675, 127]
     level:    [77, 80]
+    region:   e_41
 
   17506346:
     template: Aura_Pot
@@ -214,13 +214,13 @@ spawns:
 
   17506347:
     template: Aura_Pot
-    at:       [766.005, -0.499, 60.500, 3]
     level:    [77, 80]
+    region:   e_43
 
   17506348:
     template: Aura_Pot
-    at:       [829.544, -0.378, 8.722, 37]
     level:    [77, 80]
+    region:   e_44
 
   17506349:
     template: Aura_Pot
@@ -229,18 +229,18 @@ spawns:
 
   17506350:
     template: Aura_Pot
-    at:       [777.993, -0.500, 41.325, 127]
     level:    [77, 80]
+    region:   e_46
 
   17506351:
     template: Aura_Pot
-    at:       [769.463, -0.373, 8.389, 102]
     level:    [77, 80]
+    region:   e_47
 
   17506352:
     template: Aura_Butler
-    at:       [830.280, -0.479, -70.348, 127]
     level:    [79, 82]
+    region:   e_48
 
   17506353:
     template: Aura_Butler
@@ -254,8 +254,8 @@ spawns:
 
   17506355:
     template: Aura_Butler
-    at:       [783.882, -0.500, -22.334, 118]
     level:    [79, 82]
+    region:   e_51
 
   17506356:
     template: Aura_Butler
@@ -269,8 +269,8 @@ spawns:
 
   17506358:
     template: Aura_Butler
-    at:       [771.459, -0.481, -6.807, 24]
     level:    [79, 82]
+    region:   e_54
 
   17506359:
     template: Aura_Butler
@@ -279,8 +279,8 @@ spawns:
 
   17506360:
     template: Aura_Butler
-    at:       [809.615, -0.405, -71.787, 193]
     level:    [79, 82]
+    region:   e_56
 
   17506361:
     template: Fire_Elemental
@@ -304,8 +304,8 @@ spawns:
 
   17506365:
     template: Aura_Butler
-    at:       [809.596, -0.499, -99.962, 127]
     level:    [79, 82]
+    region:   e_61
 
   17506366:
     template: Aura_Butler
@@ -319,8 +319,8 @@ spawns:
 
   17506368:
     template: Aura_Butler
-    at:       [809.307, -0.453, -113.485, 92]
     level:    [79, 82]
+    region:   e_64
 
   17506369:
     template: Aura_Butler
@@ -344,8 +344,8 @@ spawns:
 
   17506373:
     template: Aura_Butler
-    at:       [740.794, -0.500, -57.507, 66]
     level:    [79, 82]
+    region:   e_69
 
   17506374:
     template: Fire_Elemental
@@ -439,8 +439,8 @@ spawns:
 
   17506392:
     template: Defender
-    at:       [889.733, -100.269, -592.791, 127]
     level:    [73, 76]
+    region:   se_88
 
   17506393:
     template: Aura_Gear
@@ -449,8 +449,8 @@ spawns:
 
   17506394:
     template: Defender
-    at:       [870.622, -99.924, -580.343, 25]
     level:    [73, 76]
+    region:   se_88
 
   17506395:
     template: Aura_Gear
@@ -669,8 +669,8 @@ spawns:
 
   17506438:
     template: Decorative_Weapon
-    at:       [-79.102, -16.398, 30.642, 68]
     level:    [79, 81]
+    region:   w_134
 
   17506439:
     template: Decorative_Weapon
@@ -744,8 +744,8 @@ spawns:
 
   17506453:
     template: Decorative_Weapon
-    at:       [179.127, -16.500, -109.612, 127]
     level:    [79, 81]
+    region:   c_149
 
   17506454:
     template: Aura_Butler
@@ -800,7 +800,7 @@ spawns:
   17506464:
     template: Decorative_Weapon
     level:    [79, 81]
-    region:   w_159
+    region:   w_160
 
   17506465:
     template: Aura_Butler
@@ -854,8 +854,8 @@ spawns:
 
   17506475:
     template: Defender
-    at:       [175.610, -0.390, 311.269, 127]
     level:    [73, 76]
+    region:   n_169
 
   17506476:
     template: Aura_Gear
@@ -914,8 +914,8 @@ spawns:
 
   17506487:
     template: Aura_Weapon
-    at:       [153.382, -0.500, 179.501, 106]
     level:    [80, 82]
+    region:   c_183
 
   17506488:
     template: Aura_Weapon
@@ -1094,8 +1094,8 @@ spawns:
 
   17506523:
     template: Decorative_Weapon
-    at:       [-43.726, -0.902, -158.698, 119]
     level:    [79, 81]
+    region:   sw_219
 
   17506524:
     template: Decorative_Weapon
@@ -1109,8 +1109,8 @@ spawns:
 
   17506526:
     template: Decorative_Weapon
-    at:       [-6.927, -1.031, -121.793, 127]
     level:    [79, 81]
+    region:   w_222
 
   17506527:
     template: Decorative_Weapon
@@ -1149,8 +1149,8 @@ spawns:
 
   17506534:
     template: Decorative_Weapon
-    at:       [89.260, -0.496, -62.898, 106]
     level:    [79, 81]
+    region:   c_230
 
   17506535:
     template: Air_Elemental
@@ -1249,8 +1249,8 @@ spawns:
 
   17506554:
     template: Decorative_Weapon
-    at:       [305.629, -0.499, -164.516, 29]
     level:    [79, 81]
+    region:   w_250
 
   17506555:
     template: Decorative_Weapon
@@ -1289,8 +1289,8 @@ spawns:
 
   17506562:
     template: Decorative_Weapon
-    at:       [-119.784, 0.003, -81.073, 92]
     level:    [79, 81]
+    region:   w_258
 
   17506563:
     template: Earth_Elemental
@@ -1389,8 +1389,8 @@ spawns:
 
   17506582:
     template: Aura_Weapon
-    at:       [-314.249, -1.645, -154.741, 127]
     level:    [80, 82]
+    region:   c_278
 
   17506583:
     template: Aura_Weapon
@@ -1449,8 +1449,8 @@ spawns:
 
   17506594:
     template: Aura_Weapon
-    at:       [94.250, -0.884, 60.467, 36]
     level:    [80, 82]
+    region:   w_290
 
   17506595:
     template: Aura_Weapon
@@ -1524,8 +1524,8 @@ spawns:
 
   17506609:
     template: Aura_Weapon
-    at:       [-63.443, -0.852, 139.158, 127]
     level:    [80, 82]
+    region:   w_305
 
   17506610:
     template: Aura_Weapon
@@ -1539,13 +1539,13 @@ spawns:
 
   17506612:
     template: Dark_Elemental
-    at:       [19.916, -0.390, 49.506, 88]
     level:    [73, 74]
+    region:   w_308
 
   17506613:
     template: Dark_Elemental
     level:    [74, 74]
-    region:   w_309
+    region:   w_308
 
   17506614:
     template: Aura_Statue
@@ -1684,8 +1684,8 @@ spawns:
 
   17506641:
     template: Aura_Statue
-    at:       [-22.600, -0.390, -50.290, 87]
     level:    [81, 84]
+    region:   w_337
 
   17506642:
     template: Aura_Statue
@@ -1704,8 +1704,8 @@ spawns:
 
   17506645:
     template: Aura_Statue
-    at:       [3.453, 2.264, 8.101, 127]
     level:    [81, 84]
+    region:   w_341
 
   17506646:
     template: Baelfyr

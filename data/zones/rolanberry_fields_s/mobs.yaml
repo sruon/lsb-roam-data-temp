@@ -279,13 +279,13 @@ spawns:
 
   17150008:
     template: Chigoe
-    at:       [225.030, 7.655, 47.544, 248]
     level:    [75, 78]
+    region:   e_56
 
   17150009:
     template: Chigoe
-    at:       [216.790, 7.617, 45.992, 120]
     level:    [75, 78]
+    region:   e_56
 
   17150010:
     template: Goobbue_Farmer
@@ -824,23 +824,23 @@ spawns:
 
   17150117:
     template: Chigoe
-    at:       [-373.800, 7.373, 309.277, 30]
     level:    [75, 78]
+    region:   nw_165
 
   17150118:
     template: Chigoe
-    at:       [-371.500, 7.874, 316.903, 201]
     level:    [75, 78]
+    region:   nw_165
 
   17150119:
     template: Chigoe
-    at:       [-373.100, 7.897, 317.871, 246]
     level:    [75, 78]
+    region:   nw_165
 
   17150120:
     template: Chigoe
-    at:       [-380.300, 7.641, 316.158, 124]
     level:    [75, 78]
+    region:   nw_165
 
   17150121:
     template: Dragonfly
@@ -1529,8 +1529,8 @@ spawns:
 
   17150258:
     template: Coppercap
-    at:       [-202.500, -8.288, -47.339, 18]
     level:    [47, 49]
+    region:   c_306
 
   17150259:
     template: Ochu
@@ -1785,7 +1785,7 @@ spawns:
   17150309:
     template: Goblin_Skirmisher
     level:    [58, 63]
-    region:   n_357
+    region:   w_355
 
   17150310:
     template: Goblin_Mine
@@ -1815,7 +1815,7 @@ spawns:
   17150315:
     template: Goblin_Skirmisher
     level:    [58, 63]
-    region:   s_363
+    region:   s_356
 
   17150316:
     template: Goblin_Mine
@@ -2060,7 +2060,7 @@ spawns:
   17150364:
     template: 1st_Legionnaire
     level:    [0, 0]
-    region:   ne_412
+    region:   ne_408
 
   17150365:
     template: 1st_Legionnaire
@@ -2070,7 +2070,7 @@ spawns:
   17150366:
     template: 1st_Legionnaire
     level:    [0, 0]
-    region:   ne_412
+    region:   ne_408
 
   17150367:
     template: Ludwig
@@ -2480,7 +2480,7 @@ spawns:
   17150448:
     template: DiDha_Adamantfist
     level:    [75, 80]
-    region:   ne_496
+    region:   ne_408
 
   17150449:
     template: DiDhas_Elite_Guard
@@ -2510,7 +2510,7 @@ spawns:
   17150454:
     template: DiDhas_Elite_Guard
     level:    [0, 0]
-    region:   e_502
+    region:   ne_408
 
   17150455:
     template: DiDhas_Elite_Guard

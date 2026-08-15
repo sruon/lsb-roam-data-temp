@@ -634,38 +634,38 @@ spawns:
 
   17559679:
     template: Goblin_Headsman
-    at:       [-439.000, 4.000, 38.000, 127]
     level:    [86, 87]
+    region:   c_127
 
   17559680:
     template: Goblin_Healer
     level:    [86, 87]
-    region:   c_126
+    region:   c_127
 
   17559681:
     template: Goblin_Brigand
     level:    [86, 87]
-    region:   c_126
+    region:   c_127
 
   17559682:
     template: Goblin_Headsman
     level:    [86, 87]
-    region:   c_126
+    region:   c_127
 
   17559683:
     template: Goblin_Healer
     level:    [86, 87]
-    region:   c_126
+    region:   e_131
 
   17559684:
     template: Witchetty_Grub
     level:    [89, 90]
-    region:   c_126
+    region:   c_127
 
   17559685:
     template: Witchetty_Grub
     level:    [88, 90]
-    region:   c_126
+    region:   c_133
 
   17559686:
     template: Goblin_Brigand
@@ -755,12 +755,12 @@ spawns:
   17559703:
     template: Witchetty_Grub
     level:    [88, 90]
-    region:   e_149
+    region:   ne_151
 
   17559704:
     template: Witchetty_Grub
     level:    [88, 90]
-    region:   e_149
+    region:   e_152
 
   17559705:
     template: Goblin_Brigand
@@ -919,8 +919,8 @@ spawns:
 
   17559736:
     template: Goblin_Healer
-    at:       [-203.000, 3.000, 314.000, 127]
     level:    [86, 87]
+    region:   ne_182
 
   17559737:
     template: Witchetty_Grub
@@ -1274,13 +1274,13 @@ spawns:
 
   17559807:
     template: Witchetty_Grub
-    at:       [-309.000, 3.000, 222.000, 127]
     level:    [88, 90]
+    region:   c_252
 
   17559808:
     template: Witchetty_Grub
-    at:       [-320.000, 3.000, 219.000, 7]
     level:    [88, 90]
+    region:   c_256
 
   17559809:
     template: Goblin_Bladesmith

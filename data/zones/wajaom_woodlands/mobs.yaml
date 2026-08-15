@@ -139,23 +139,23 @@ spawns:
 
   16986140:
     template: Soldier_Pephredo
-    at:       [169.000, -23.000, 294.000, 127]
     level:    [64, 65]
+    region:   n_28
 
   16986141:
     template: Worker_Pephredo
-    at:       [163.000, -23.000, 304.000, 127]
     level:    [62, 63]
+    region:   n_29
 
   16986142:
     template: Worker_Pephredo
-    at:       [154.000, -23.000, 303.000, 127]
     level:    [62, 63]
+    region:   n_29
 
   16986143:
     template: Worker_Pephredo
-    at:       [152.000, -24.000, 294.000, 127]
     level:    [62, 63]
+    region:   n_29
 
   16986144:
     template: Marid
@@ -169,18 +169,18 @@ spawns:
 
   16986146:
     template: Red_Kisser
-    at:       [185.000, -23.000, 277.000, 127]
     level:    [68, 69]
+    region:   ne_34
 
   16986147:
     template: Red_Kisser
-    at:       [169.000, -23.000, 277.000, 127]
     level:    [68, 69]
+    region:   ne_34
 
   16986148:
     template: Red_Kisser
-    at:       [175.000, -23.000, 280.000, 127]
     level:    [68, 69]
+    region:   ne_34
 
   16986149:
     template: Grand_Marid
@@ -269,33 +269,33 @@ spawns:
 
   16986166:
     template: Soldier_Pephredo
-    at:       [232.000, -19.000, 96.000, 127]
     level:    [64, 65]
+    region:   e_54
 
   16986167:
     template: Worker_Pephredo
-    at:       [240.000, -19.000, 100.000, 127]
     level:    [62, 63]
+    region:   e_54
 
   16986168:
     template: Worker_Pephredo
-    at:       [248.000, -19.000, 94.000, 127]
     level:    [62, 63]
+    region:   e_54
 
   16986169:
     template: Soldier_Pephredo
-    at:       [250.000, -17.000, 82.000, 127]
     level:    [64, 65]
+    region:   e_57
 
   16986170:
     template: Worker_Pephredo
-    at:       [245.000, -17.000, 70.000, 127]
     level:    [62, 63]
+    region:   e_57
 
   16986171:
     template: Worker_Pephredo
-    at:       [235.000, -16.000, 76.000, 127]
     level:    [62, 63]
+    region:   e_57
 
   16986172:
     template: Marid
@@ -335,22 +335,22 @@ spawns:
   16986179:
     template: Lesser_Colibri
     level:    [63, 65]
-    region:   c_67
+    region:   n_67
 
   16986180:
     template: Lesser_Colibri
     level:    [63, 65]
-    region:   c_67
+    region:   n_67
 
   16986181:
     template: Red_Kisser
-    at:       [250.000, -23.000, 124.000, 127]
     level:    [68, 69]
+    region:   e_69
 
   16986182:
     template: Red_Kisser
-    at:       [258.000, -23.000, 121.000, 127]
     level:    [68, 69]
+    region:   e_69
 
   16986183:
     template: Ameretat
@@ -385,17 +385,17 @@ spawns:
   16986189:
     template: Wajaom_Tiger
     level:    [67, 68]
-    region:   e_71
+    region:   e_77
 
   16986190:
     template: Wajaom_Tiger
     level:    [67, 68]
-    region:   e_71
+    region:   e_77
 
   16986191:
     template: Lesser_Colibri
-    at:       [181.000, -18.000, -63.000, 127]
     level:    [63, 65]
+    region:   e_79
 
   16986192:
     template: Lesser_Colibri
@@ -519,23 +519,23 @@ spawns:
 
   16986216:
     template: Soldier_Pephredo
-    at:       [6.000, -16.000, -290.000, 127]
     level:    [65, 65]
+    region:   c_104
 
   16986217:
     template: Worker_Pephredo
-    at:       [0.500, -15.000, -294.000, 127]
     level:    [62, 63]
+    region:   c_105
 
   16986218:
     template: Worker_Pephredo
-    at:       [2.000, -15.000, -302.000, 127]
     level:    [62, 63]
+    region:   c_105
 
   16986219:
     template: Worker_Pephredo
-    at:       [10.000, -16.000, -300.000, 127]
     level:    [62, 63]
+    region:   c_105
 
   16986220:
     template: Ameretat
@@ -594,13 +594,13 @@ spawns:
 
   16986231:
     template: Aht_Urhgan_Attercop
-    at:       [-80.000, -8.000, -593.000, 127]
     level:    [66, 67]
+    region:   s_119
 
   16986232:
     template: Aht_Urhgan_Attercop
-    at:       [-71.000, -12.000, -576.000, 127]
     level:    [66, 67]
+    region:   s_119
 
   16986233:
     template: Mamool_Ja_Mimicker
@@ -644,28 +644,28 @@ spawns:
 
   16986241:
     template: Aht_Urhgan_Attercop
-    at:       [-84.000, -16.000, -323.000, 127]
     level:    [66, 67]
+    region:   s_129
 
   16986242:
     template: Aht_Urhgan_Attercop
-    at:       [-581.000, -19.000, 162.000, 127]
     level:    [66, 67]
+    region:   s_129
 
   16986243:
     template: Aht_Urhgan_Attercop
-    at:       [-7.000, -15.000, -77.000, 127]
     level:    [66, 67]
+    region:   s_129
 
   16986244:
     template: Aht_Urhgan_Attercop
-    at:       [-556.000, -16.000, 156.000, 127]
     level:    [66, 67]
+    region:   s_129
 
   16986245:
     template: Puk
-    at:       [-179.000, -17.000, -460.000, 127]
     level:    [68, 70]
+    region:   s_129
 
   16986246:
     template: Puk
@@ -679,13 +679,13 @@ spawns:
 
   16986248:
     template: Puk
-    at:       [-176.000, -18.000, -504.000, 127]
     level:    [68, 70]
+    region:   s_136
 
   16986249:
     template: Haunt
-    at:       [-64.000, -15.000, -564.000, 127]
     level:    [65, 66]
+    region:   s_136
 
   16986250:
     template: Puk
@@ -709,23 +709,23 @@ spawns:
 
   16986254:
     template: Soldier_Pephredo
-    at:       [-190.000, -17.000, -413.000, 127]
     level:    [64, 65]
+    region:   s_142
 
   16986255:
     template: Worker_Pephredo
-    at:       [-199.000, -17.000, -410.000, 127]
     level:    [63, 64]
+    region:   s_142
 
   16986256:
     template: Worker_Pephredo
-    at:       [-203.000, -18.000, -413.000, 127]
     level:    [63, 64]
+    region:   s_142
 
   16986257:
     template: Worker_Pephredo
-    at:       [-199.000, -19.000, -419.000, 127]
     level:    [63, 64]
+    region:   s_142
 
   16986258:
     template: Puk
@@ -759,58 +759,58 @@ spawns:
 
   16986264:
     template: Red_Kisser
-    at:       [-84.000, -15.000, -344.000, 127]
     level:    [70, 71]
+    region:   s_152
 
   16986265:
     template: Red_Kisser
-    at:       [-85.000, -15.000, -348.000, 127]
     level:    [70, 71]
+    region:   s_152
 
   16986266:
     template: Soldier_Pephredo
-    at:       [-203.000, -16.000, -395.000, 127]
     level:    [64, 65]
+    region:   n_154
 
   16986267:
     template: Worker_Pephredo
-    at:       [-322.000, -8.000, -512.000, 127]
     level:    [62, 63]
+    region:   n_154
 
   16986268:
     template: Worker_Pephredo
-    at:       [-205.000, -15.000, -403.000, 127]
     level:    [62, 63]
+    region:   n_154
 
   16986269:
     template: Soldier_Pephredo
-    at:       [-325.000, -8.000, -521.000, 127]
     level:    [64, 65]
+    region:   n_157
 
   16986270:
     template: Worker_Pephredo
-    at:       [-320.000, -8.000, -524.000, 127]
     level:    [62, 63]
+    region:   n_157
 
   16986271:
     template: Worker_Pephredo
-    at:       [-315.000, -8.000, -520.000, 127]
     level:    [62, 63]
+    region:   n_157
 
   16986272:
     template: Soldier_Pephredo
-    at:       [-263.000, -23.000, 396.000, 127]
     level:    [64, 65]
+    region:   n_160
 
   16986273:
     template: Worker_Pephredo
-    at:       [-286.000, -25.000, 408.000, 127]
     level:    [62, 63]
+    region:   n_160
 
   16986274:
     template: Worker_Pephredo
-    at:       [-290.000, -25.000, 402.000, 127]
     level:    [62, 63]
+    region:   n_160
 
   16986275:
     template: Defoliate_Treant
@@ -984,8 +984,8 @@ spawns:
 
   16986309:
     template: Woodtroll_Monk
-    at:       [-816.000, -25.000, 113.000, 127]
     level:    [72, 73]
+    region:   w_197
 
   16986310:
     template: Woodtroll_Dark_Knight
@@ -1129,8 +1129,8 @@ spawns:
 
   16986338:
     template: Defoliate_Treant
-    at:       [-322.000, -16.000, 83.000, 127]
     level:    [72, 74]
+    region:   c_226
 
   16986339:
     template: Lesser_Colibri
@@ -1219,53 +1219,53 @@ spawns:
 
   16986356:
     template: Soldier_Pephredo
-    at:       [-671.000, -8.000, -162.000, 127]
     level:    [64, 66]
+    region:   w_244
 
   16986357:
     template: Worker_Pephredo
-    at:       [-682.000, -8.000, -160.000, 127]
     level:    [63, 64]
+    region:   w_244
 
   16986358:
     template: Worker_Pephredo
-    at:       [-678.000, -7.000, -155.000, 127]
     level:    [63, 64]
+    region:   w_244
 
   16986359:
     template: Soldier_Pephredo
-    at:       [-688.000, -7.000, -156.000, 127]
     level:    [64, 66]
+    region:   w_247
 
   16986360:
     template: Worker_Pephredo
-    at:       [-683.000, -7.000, -147.000, 127]
     level:    [63, 64]
+    region:   w_248
 
   16986361:
     template: Worker_Pephredo
-    at:       [-694.000, -7.000, -148.000, 127]
     level:    [63, 64]
+    region:   w_248
 
   16986362:
     template: Mamool_Ja_Sophist
-    at:       [-677.000, -12.000, -493.000, 127]
     level:    [72, 73]
+    region:   w_250
 
   16986363:
     template: Mamool_Ja_Bounder
-    at:       [-714.000, -12.000, -494.000, 127]
     level:    [72, 73]
+    region:   w_250
 
   16986364:
     template: Mamool_Ja_Mimicker
-    at:       [-743.000, -11.000, -511.000, 127]
     level:    [72, 73]
+    region:   w_252
 
   16986365:
     template: Mamool_Ja_Savant
-    at:       [-742.000, -7.000, -538.000, 127]
     level:    [72, 73]
+    region:   w_252
 
   16986366:
     template: Great_Ameretat
@@ -1294,18 +1294,18 @@ spawns:
 
   16986371:
     template: Puk
-    at:       [-618.000, -14.000, -139.000, 127]
     level:    [68, 70]
+    region:   w_259
 
   16986372:
     template: Puk
     level:    [68, 70]
-    region:   sw_260
+    region:   w_260
 
   16986373:
     template: Puk
     level:    [68, 70]
-    region:   sw_260
+    region:   w_260
 
   16986374:
     template: Puk
@@ -1369,8 +1369,8 @@ spawns:
 
   16986386:
     template: Woodland_Runner
-    at:       [-499.000, -11.000, -476.000, 127]
     level:    [71, 72]
+    region:   sw_274
 
   16986387:
     template: Mamool_Ja_Sophist
@@ -1429,23 +1429,23 @@ spawns:
 
   16986398:
     template: Soldier_Pephredo
-    at:       [-286.000, -25.000, 389.000, 127]
     level:    [64, 66]
+    region:   sw_286
 
   16986399:
     template: Worker_Pephredo
-    at:       [-278.000, -24.000, 395.000, 127]
     level:    [63, 64]
+    region:   sw_286
 
   16986400:
     template: Worker_Pephredo
-    at:       [-276.000, -24.000, 403.000, 127]
     level:    [63, 64]
+    region:   sw_286
 
   16986401:
     template: Worker_Pephredo
-    at:       [-270.000, -24.000, 407.000, 127]
     level:    [63, 64]
+    region:   sw_286
 
   16986402:
     template: Puk
@@ -1479,28 +1479,28 @@ spawns:
 
   16986408:
     template: Mamool_Ja_Sophist
-    at:       [-645.000, -10.000, -102.000, 127]
     level:    [72, 73]
+    region:   sw_296
 
   16986409:
     template: Woodland_Runner
-    at:       [-646.000, -7.000, -512.000, 127]
     level:    [71, 72]
+    region:   sw_296
 
   16986410:
     template: Woodland_Runner
-    at:       [-641.000, -8.000, -482.000, 127]
     level:    [71, 72]
+    region:   sw_296
 
   16986411:
     template: Mamool_Ja_Bounder
-    at:       [-509.861, -28.517, -777.520, 88]
     level:    [72, 73]
+    region:   sw_299
 
   16986412:
     template: Mamool_Ja_Mimicker
-    at:       [-515.215, -28.680, -781.639, 100]
     level:    [72, 73]
+    region:   sw_299
 
   16986413:
     template: Air_Elemental
@@ -2434,8 +2434,8 @@ spawns:
 
   16986599:
     template: Troll_Destroyer
-    at:       [-1.000, 0.000, 0.000, 205]
     level:    [119, 119]
+    region:   e_487
 
   16986600:
     template: Troll_Destroyer

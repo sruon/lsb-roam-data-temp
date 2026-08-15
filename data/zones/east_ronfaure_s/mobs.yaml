@@ -154,8 +154,8 @@ spawns:
 
   17109023:
     template: River_Crab
-    at:       [221.000, -57.000, 441.000, 61]
     level:    [11, 14]
+    region:   c_31
 
   17109024:
     template: River_Crab
@@ -164,13 +164,13 @@ spawns:
 
   17109025:
     template: River_Crab
-    at:       [419.000, -47.000, 161.000, 192]
     level:    [11, 14]
+    region:   c_33
 
   17109026:
     template: River_Crab
-    at:       [385.000, -47.000, 88.000, 196]
     level:    [11, 14]
+    region:   c_34
 
   17109027:
     template: River_Crab
@@ -184,13 +184,13 @@ spawns:
 
   17109029:
     template: Pugil
-    at:       [289.000, -57.000, 341.000, 253]
     level:    [14, 17]
+    region:   c_37
 
   17109030:
     template: Pugil
-    at:       [253.000, -57.000, 372.000, 183]
     level:    [14, 17]
+    region:   c_34
 
   17109031:
     template: Pugil
@@ -724,13 +724,13 @@ spawns:
 
   17109137:
     template: Goblin_Patrolman
-    at:       [764.000, -59.000, 548.000, 88]
     level:    [56, 59]
+    region:   ne_145
 
   17109138:
     template: Goblins_Ladybug
-    at:       [1.000, 1.000, 1.000, 88]
     level:    [52, 54]
+    region:   ne_145
 
   17109139:
     template: Wild_Sheep
@@ -769,18 +769,18 @@ spawns:
 
   17109146:
     template: Giant_Spider
-    at:       [794.000, -59.000, 519.000, 102]
     level:    [50, 52]
+    region:   ne_154
 
   17109147:
     template: Melusine
-    at:       [806.113, -61.463, 522.366, 201]
     level:    [73, 73]
+    region:   ne_154
 
   17109148:
     template: Giant_Spider
-    at:       [806.000, -60.000, 640.000, 214]
     level:    [50, 52]
+    region:   ne_145
 
   17109149:
     template: Giant_Spider
@@ -959,13 +959,13 @@ spawns:
 
   17109184:
     template: River_Crab
-    at:       [181.000, -49.000, 179.000, 128]
     level:    [11, 14]
+    region:   n_192
 
   17109185:
     template: River_Crab
-    at:       [112.000, -57.000, 182.000, 166]
     level:    [11, 14]
+    region:   n_193
 
   17109186:
     template: Pugil
@@ -974,8 +974,8 @@ spawns:
 
   17109187:
     template: Pugil
-    at:       [142.000, -57.000, 178.000, 147]
     level:    [14, 17]
+    region:   n_193
 
   17109188:
     template: Pugil
@@ -1074,8 +1074,8 @@ spawns:
 
   17109207:
     template: River_Crab
-    at:       [262.000, -37.000, 89.000, 59]
     level:    [11, 14]
+    region:   e_215
 
   17109208:
     template: River_Crab
@@ -1754,18 +1754,18 @@ spawns:
 
   17109343:
     template: Orcish_Mesmerizer
-    at:       [363.000, -20.000, -317.000, 76]
     level:    [62, 64]
+    region:   s_351
 
   17109344:
     template: Orcish_Neckchopper
-    at:       [353.000, -19.000, -324.000, 86]
     level:    [62, 64]
+    region:   s_351
 
   17109345:
     template: Orcish_Fodder
-    at:       [327.000, -20.000, -343.000, 194]
     level:    [62, 64]
+    region:   s_351
 
   17109346:
     template: Orcish_Stonechucker
@@ -2630,7 +2630,7 @@ spawns:
   17109518:
     template: Spinebeak_Neckchopper
     level:    [60, 60]
-    region:   se_524
+    region:   se_526
 
   17109519:
     template: Spinebeak_Neckchopper
@@ -2655,7 +2655,7 @@ spawns:
   17109523:
     template: Spinebeak_Neckchopper
     level:    [60, 60]
-    region:   se_524
+    region:   se_531
 
   17109524:
     template: Spinebeak_Neckchopper
@@ -2810,7 +2810,7 @@ spawns:
   17109554:
     template: Dismemberment_Grappler
     level:    [70, 70]
-    region:   se_562
+    region:   c_403
 
   17109555:
     template: Dismemberment_Grappler
@@ -3285,7 +3285,7 @@ spawns:
   17109649:
     template: Rainemard
     level:    [1, 1]
-    region:   c_657
+    region:   c_403
 
   17109650:
     template: Maat

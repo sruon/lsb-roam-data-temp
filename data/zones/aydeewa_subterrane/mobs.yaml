@@ -39,23 +39,23 @@ spawns:
 
   17055752:
     template: Puktrap
-    at:       [62.047, 38.869, 107.405, 183]
     level:    [67, 69]
+    region:   c_8
 
   17055753:
     template: Puktrap
-    at:       [62.160, 38.872, 105.791, 65]
     level:    [67, 69]
+    region:   c_8
 
   17055754:
     template: Puktrap
-    at:       [110.160, 38.929, 60.792, 121]
     level:    [67, 69]
+    region:   c_10
 
   17055755:
     template: Puktrap
-    at:       [132.650, 38.875, 62.101, 94]
     level:    [67, 69]
+    region:   c_11
 
   17055756:
     template: Treant_Sapling
@@ -84,18 +84,18 @@ spawns:
 
   17055761:
     template: Slime_Mold
-    at:       [181.650, 35.823, 51.443, 110]
     level:    [67, 69]
+    region:   e_17
 
   17055762:
     template: Slime_Mold
-    at:       [176.810, 35.866, 53.598, 32]
     level:    [67, 69]
+    region:   e_17
 
   17055763:
     template: Treant_Sapling
-    at:       [180.750, 38.585, 19.546, 45]
     level:    [66, 68]
+    region:   e_19
 
   17055764:
     template: Treant_Sapling
@@ -119,13 +119,13 @@ spawns:
 
   17055768:
     template: Slime_Mold
-    at:       [53.564, 38.838, 16.317, 154]
     level:    [67, 69]
+    region:   c_24
 
   17055769:
     template: Slime_Mold
-    at:       [54.195, 39.338, 20.488, 152]
     level:    [67, 69]
+    region:   c_24
 
   17055770:
     template: Qiqirn_Enterpriser
@@ -134,8 +134,8 @@ spawns:
 
   17055771:
     template: Qiqirn_Enterpriser
-    at:       [23.822, 36.014, 98.400, 120]
     level:    [68, 70]
+    region:   c_27
 
   17055772:
     template: Qiqirn_Lieuter
@@ -149,8 +149,8 @@ spawns:
 
   17055774:
     template: Qiqirn_Enterpriser
-    at:       [67.132, 36.014, 57.394, 111]
     level:    [68, 70]
+    region:   c_27
 
   17055775:
     template: Qiqirn_Enterpriser
@@ -169,18 +169,18 @@ spawns:
 
   17055778:
     template: Slime_Mold
-    at:       [-66.090, 35.923, 26.815, 146]
     level:    [67, 69]
+    region:   c_34
 
   17055779:
     template: Slime_Mold
     level:    [67, 69]
-    region:   c_35
+    region:   c_34
 
   17055780:
     template: Treant_Sapling
-    at:       [-16.800, 38.713, 15.485, 43]
     level:    [66, 68]
+    region:   c_36
 
   17055781:
     template: Treant_Sapling
@@ -199,33 +199,33 @@ spawns:
 
   17055784:
     template: Puktrap
-    at:       [-18.070, 38.869, -8.578, 198]
     level:    [67, 69]
+    region:   c_40
 
   17055785:
     template: Puktrap
-    at:       [-17.940, 38.869, -15.284, 159]
     level:    [67, 69]
+    region:   c_40
 
   17055786:
     template: Slime_Mold
-    at:       [13.392, 39.233, -17.853, 182]
     level:    [67, 69]
+    region:   c_42
 
   17055787:
     template: Slime_Mold
     level:    [67, 69]
-    region:   c_43
+    region:   c_42
 
   17055788:
     template: Qiqirn_Enterpriser
-    at:       [20.642, 38.464, -58.175, 35]
     level:    [68, 70]
+    region:   c_44
 
   17055789:
     template: Qiqirn_Enterpriser
-    at:       [55.817, 36.019, -59.469, 5]
     level:    [68, 70]
+    region:   c_45
 
   17055790:
     template: Qiqirn_Enterpriser
@@ -250,7 +250,7 @@ spawns:
   17055794:
     template: Qiqirn_Enterpriser
     level:    [68, 70]
-    region:   w_50
+    region:   c_50
 
   17055795:
     template: Qiqirn_Enterpriser
@@ -289,8 +289,8 @@ spawns:
 
   17055802:
     template: Phlebotomic_Slug
-    at:       [-301.400, 19.561, 41.665, 63]
     level:    [68, 70]
+    region:   w_58
 
   17055803:
     template: Phlebotomic_Slug
@@ -299,123 +299,123 @@ spawns:
 
   17055804:
     template: Phlebotomic_Slug
-    at:       [-159.300, 20.375, -59.290, 238]
     level:    [68, 70]
+    region:   c_60
 
   17055805:
     template: Puktrap
-    at:       [201.040, 39.401, 133.093, 13]
     level:    [67, 69]
+    region:   e_61
 
   17055806:
     template: Defoliator
-    at:       [198.210, 39.376, 113.902, 18]
     level:    [68, 70]
+    region:   e_62
 
   17055807:
     template: Defoliator
-    at:       [211.770, 39.359, 124.747, 229]
     level:    [68, 70]
+    region:   e_63
 
   17055808:
     template: Puktrap
-    at:       [218.550, 38.842, 137.537, 39]
     level:    [67, 69]
+    region:   e_64
 
   17055809:
     template: Defoliator
-    at:       [227.500, 39.340, 129.304, 136]
     level:    [68, 70]
+    region:   e_65
 
   17055810:
     template: Puktrap
-    at:       [243.220, 39.347, 133.716, 114]
     level:    [67, 69]
+    region:   e_66
 
   17055811:
     template: Defoliator
-    at:       [231.110, 39.401, 113.486, 132]
     level:    [68, 70]
+    region:   e_67
 
   17055812:
     template: Defoliator
-    at:       [257.660, 39.127, 110.309, 135]
     level:    [68, 70]
+    region:   e_68
 
   17055813:
     template: Defoliator
-    at:       [235.140, 39.337, 91.606, 72]
     level:    [68, 70]
+    region:   e_69
 
   17055814:
     template: Puktrap
-    at:       [251.620, 39.382, 93.164, 230]
     level:    [67, 69]
+    region:   e_70
 
   17055815:
     template: Puktrap
-    at:       [234.070, 39.268, 78.097, 71]
     level:    [67, 69]
+    region:   e_71
 
   17055816:
     template: Defoliator
-    at:       [243.610, 39.159, 77.023, 23]
     level:    [68, 70]
+    region:   e_72
 
   17055817:
     template: Defoliator
-    at:       [243.980, 39.535, 67.534, 142]
     level:    [68, 70]
+    region:   e_73
 
   17055818:
     template: Air_Elemental
-    at:       [241.000, 39.356, 71.236, 121]
     level:    [70, 70]
+    region:   e_73
 
   17055819:
     template: Defoliator
-    at:       [283.460, 39.236, 50.717, 143]
     level:    [68, 70]
+    region:   e_75
 
   17055820:
     template: Defoliator
-    at:       [272.720, 39.152, 48.016, 215]
     level:    [68, 70]
+    region:   e_76
 
   17055821:
     template: Defoliator
-    at:       [265.630, 39.118, 32.517, 12]
     level:    [68, 70]
+    region:   e_77
 
   17055822:
     template: Defoliator
-    at:       [284.580, 39.347, 26.526, 49]
     level:    [68, 70]
+    region:   e_78
 
   17055823:
     template: Defoliator
-    at:       [138.000, 36.039, 3.224, 212]
     level:    [70, 72]
+    region:   c_79
 
   17055824:
     template: Defoliator
-    at:       [101.670, 36.189, -3.186, 93]
     level:    [70, 72]
+    region:   c_80
 
   17055825:
     template: Aydeewa_Diremite
-    at:       [113.700, 36.576, -25.395, 218]
     level:    [70, 72]
+    region:   c_81
 
   17055826:
     template: Defoliator
-    at:       [108.940, 36.595, -21.603, 76]
     level:    [70, 72]
+    region:   c_81
 
   17055827:
     template: Aydeewa_Diremite
-    at:       [119.490, 36.419, -10.442, 172]
     level:    [70, 72]
+    region:   c_83
 
   17055828:
     template: Defoliator
@@ -429,18 +429,18 @@ spawns:
 
   17055830:
     template: Defoliator
-    at:       [129.050, 36.675, -44.833, 206]
     level:    [70, 72]
+    region:   c_86
 
   17055831:
     template: Defoliator
-    at:       [136.670, 36.233, -49.991, 125]
     level:    [70, 72]
+    region:   c_87
 
   17055832:
     template: Aydeewa_Diremite
-    at:       [141.020, 36.706, -37.792, 218]
     level:    [70, 72]
+    region:   c_88
 
   17055833:
     template: Defoliator
@@ -454,13 +454,13 @@ spawns:
 
   17055835:
     template: Fossorial_Flea
-    at:       [150.430, 35.263, -24.593, 126]
     level:    [66, 68]
+    region:   c_91
 
   17055836:
     template: Fossorial_Flea
-    at:       [134.400, 34.501, -15.685, 50]
     level:    [66, 68]
+    region:   c_92
 
   17055837:
     template: Mycohopper
@@ -585,22 +585,22 @@ spawns:
   17055861:
     template: Defoliator
     level:    [71, 73]
-    region:   s_117
+    region:   c_117
 
   17055862:
     template: Defoliator
     level:    [71, 73]
-    region:   s_117
+    region:   c_117
 
   17055863:
     template: Great_Ameretat
-    at:       [-117.600, 8.191, -196.150, 247]
     level:    [73, 75]
+    region:   s_119
 
   17055864:
     template: Defoliator
-    at:       [-115.700, 8.391, -211.760, 220]
     level:    [71, 73]
+    region:   s_120
 
   17055865:
     template: Defoliator
@@ -639,18 +639,18 @@ spawns:
 
   17055872:
     template: Deforester
-    at:       [-307.000, 8.727, 85.101, 111]
     level:    [87, 89]
+    region:   w_128
 
   17055873:
     template: Deforester
-    at:       [-304.600, 8.388, 90.559, 184]
     level:    [87, 89]
+    region:   w_128
 
   17055874:
     template: Deforester
-    at:       [-304.000, 8.390, 80.824, 255]
     level:    [87, 89]
+    region:   w_128
 
   17055875:
     template: Deforester
@@ -699,33 +699,33 @@ spawns:
 
   17055884:
     template: Fossorial_Flea
-    at:       [-502.600, 11.097, -222.000, 255]
     level:    [66, 68]
+    region:   sw_140
 
   17055885:
     template: Fossorial_Flea
-    at:       [-518.300, 11.211, -220.470, 5]
     level:    [66, 68]
+    region:   sw_140
 
   17055886:
     template: Fossorial_Flea
-    at:       [-503.900, 11.175, -220.380, 104]
     level:    [66, 68]
+    region:   sw_140
 
   17055887:
     template: Fossorial_Flea
-    at:       [-478.400, 11.135, -222.500, 19]
     level:    [66, 68]
+    region:   sw_143
 
   17055888:
     template: Fossorial_Flea
-    at:       [-480.900, 11.413, -220.410, 17]
     level:    [66, 68]
+    region:   sw_143
 
   17055889:
     template: Qiqirn_Mosstrooper
-    at:       [-482.600, 11.163, -222.650, 81]
     level:    [73, 75]
+    region:   sw_143
 
   17055890:
     template: Qiqirn_Mine
@@ -734,28 +734,28 @@ spawns:
 
   17055891:
     template: Fossorial_Flea
-    at:       [-454.900, 11.133, -221.530, 255]
     level:    [66, 68]
+    region:   sw_147
 
   17055892:
     template: Fossorial_Flea
-    at:       [-450.900, 10.968, -214.220, 151]
     level:    [66, 68]
+    region:   sw_147
 
   17055893:
     template: Qiqirn_Archaeologist
-    at:       [-422.400, 10.626, -221.490, 231]
     level:    [73, 75]
+    region:   sw_149
 
   17055894:
     template: Qiqirn_Archaeologist
-    at:       [-420.100, 8.429, -175.890, 129]
     level:    [73, 75]
+    region:   sw_150
 
   17055895:
     template: Qiqirn_Mosstrooper
-    at:       [-420.200, 7.877, -193.190, 63]
     level:    [73, 75]
+    region:   sw_150
 
   17055896:
     template: Qiqirn_Mine
@@ -764,8 +764,8 @@ spawns:
 
   17055897:
     template: Qiqirn_Mosstrooper
-    at:       [-387.000, 7.883, -181.160, 9]
     level:    [73, 75]
+    region:   sw_153
 
   17055898:
     template: Qiqirn_Mine
@@ -814,38 +814,38 @@ spawns:
 
   17055907:
     template: Qiqirn_Archaeologist
-    at:       [-457.700, 11.000, -224.260, 66]
     level:    [73, 75]
+    region:   sw_163
 
   17055908:
     template: Mold_Eater
-    at:       [-454.500, 12.175, -260.690, 154]
     level:    [69, 71]
+    region:   sw_164
 
   17055909:
     template: Mold_Eater
-    at:       [-456.300, 12.694, -263.440, 34]
     level:    [69, 71]
+    region:   sw_164
 
   17055910:
     template: Mold_Eater
-    at:       [-456.400, 11.130, -254.770, 163]
     level:    [69, 71]
+    region:   sw_164
 
   17055911:
     template: Slime_Mold
-    at:       [-427.700, 14.303, -257.310, 229]
     level:    [68, 70]
+    region:   sw_167
 
   17055912:
     template: Slime_Mold
-    at:       [-419.900, 14.142, -262.540, 199]
     level:    [68, 70]
+    region:   sw_167
 
   17055913:
     template: Fossorial_Flea
-    at:       [-422.700, 14.282, -259.980, 154]
     level:    [66, 68]
+    region:   sw_167
 
   17055914:
     template: Qiqirn_Archaeologist
@@ -854,13 +854,13 @@ spawns:
 
   17055915:
     template: Mold_Eater
-    at:       [-357.300, 14.276, -338.670, 250]
     level:    [69, 71]
+    region:   sw_171
 
   17055916:
     template: Qiqirn_Mosstrooper
-    at:       [-352.100, 14.251, -337.300, 243]
     level:    [73, 75]
+    region:   sw_171
 
   17055917:
     template: Qiqirn_Mine
@@ -869,8 +869,8 @@ spawns:
 
   17055918:
     template: Mold_Eater
-    at:       [-331.900, 14.123, -336.080, 0]
     level:    [69, 71]
+    region:   sw_174
 
   17055919:
     template: Mold_Eater
@@ -879,28 +879,28 @@ spawns:
 
   17055920:
     template: Mold_Eater
-    at:       [-313.000, 13.940, -338.430, 239]
     level:    [69, 71]
+    region:   sw_176
 
   17055921:
     template: Mold_Eater
-    at:       [-308.600, 13.869, -340.190, 11]
     level:    [69, 71]
+    region:   sw_176
 
   17055922:
     template: Qiqirn_Archaeologist
-    at:       [-307.100, 13.869, -348.790, 157]
     level:    [73, 75]
+    region:   sw_176
 
   17055923:
     template: Mold_Eater
-    at:       [-294.700, 14.083, -380.610, 120]
     level:    [69, 71]
+    region:   sw_179
 
   17055924:
     template: Mold_Eater
-    at:       [-297.500, 14.020, -381.390, 247]
     level:    [69, 71]
+    region:   sw_179
 
   17055925:
     template: Qiqirn_Archaeologist
@@ -919,23 +919,23 @@ spawns:
 
   17055928:
     template: Qiqirn_Archaeologist
-    at:       [-262.100, 10.984, -341.290, 175]
     level:    [73, 75]
+    region:   sw_184
 
   17055929:
     template: Mold_Eater
-    at:       [-270.900, 13.845, -384.050, 149]
     level:    [69, 71]
+    region:   sw_185
 
   17055930:
     template: Mold_Eater
-    at:       [-263.300, 13.109, -388.440, 130]
     level:    [69, 71]
+    region:   sw_185
 
   17055931:
     template: Qiqirn_Mosstrooper
-    at:       [-301.600, 16.195, -464.000, 183]
     level:    [73, 75]
+    region:   sw_187
 
   17055932:
     template: Qiqirn_Mine
@@ -944,43 +944,43 @@ spawns:
 
   17055933:
     template: Fossorial_Flea
-    at:       [-298.200, 16.431, -468.360, 11]
     level:    [66, 68]
+    region:   sw_189
 
   17055934:
     template: Fossorial_Flea
-    at:       [-300.800, 15.993, -458.620, 78]
     level:    [66, 68]
+    region:   sw_189
 
   17055935:
     template: Qiqirn_Archaeologist
-    at:       [-300.500, 15.935, -456.720, 201]
     level:    [73, 75]
+    region:   sw_189
 
   17055936:
     template: Qiqirn_Archaeologist
-    at:       [-295.000, 10.829, -339.560, 41]
     level:    [73, 75]
+    region:   sw_192
 
   17055937:
     template: Slime_Mold
-    at:       [-299.100, 10.824, -306.440, 21]
     level:    [68, 70]
+    region:   sw_193
 
   17055938:
     template: Slime_Mold
-    at:       [-298.300, 10.946, -305.540, 47]
     level:    [68, 70]
+    region:   sw_193
 
   17055939:
     template: Qiqirn_Archaeologist
-    at:       [-327.000, -6.276, -253.090, 201]
     level:    [73, 75]
+    region:   sw_195
 
   17055940:
     template: Qiqirn_Archaeologist
-    at:       [-332.900, 10.703, -300.970, 17]
     level:    [73, 75]
+    region:   sw_196
 
   17055941:
     template: Qiqirn_Archaeologist
@@ -994,13 +994,13 @@ spawns:
 
   17055943:
     template: Slime_Mold
-    at:       [-184.900, 11.100, -336.060, 92]
     level:    [68, 70]
+    region:   s_199
 
   17055944:
     template: Slime_Mold
-    at:       [-183.100, 11.208, -340.320, 117]
     level:    [68, 70]
+    region:   s_199
 
   17055945:
     template: Qiqirn_Mosstrooper
@@ -1019,23 +1019,23 @@ spawns:
 
   17055948:
     template: Puktrap
-    at:       [-173.200, 11.149, -299.130, 18]
     level:    [69, 70]
+    region:   sw_204
 
   17055949:
     template: Puktrap
-    at:       [-196.700, 11.069, -297.070, 209]
     level:    [69, 70]
+    region:   sw_205
 
   17055950:
     template: Qiqirn_Archaeologist
-    at:       [-197.300, 11.078, -297.220, 222]
     level:    [73, 75]
+    region:   sw_205
 
   17055951:
     template: Puktrap
-    at:       [-220.200, 10.977, -302.490, 13]
     level:    [69, 70]
+    region:   sw_207
 
   17055952:
     template: Qiqirn_Archaeologist
@@ -1044,13 +1044,13 @@ spawns:
 
   17055953:
     template: Fossorial_Flea
-    at:       [-153.500, 10.873, -302.350, 169]
     level:    [66, 68]
+    region:   s_209
 
   17055954:
     template: Fossorial_Flea
-    at:       [-147.600, 10.668, -295.790, 210]
     level:    [66, 68]
+    region:   s_209
 
   17055955:
     template: Qiqirn_Archaeologist
@@ -1059,8 +1059,8 @@ spawns:
 
   17055956:
     template: Qiqirn_Mosstrooper
-    at:       [-101.300, 8.242, -285.830, 200]
     level:    [73, 75]
+    region:   s_212
 
   17055957:
     template: Qiqirn_Mine
@@ -1069,38 +1069,38 @@ spawns:
 
   17055958:
     template: Fossorial_Flea
-    at:       [-101.100, 7.871, -290.290, 158]
     level:    [66, 68]
+    region:   s_212
 
   17055959:
     template: Fossorial_Flea
-    at:       [-101.400, 8.603, -266.700, 91]
     level:    [66, 68]
+    region:   s_215
 
   17055960:
     template: Fossorial_Flea
-    at:       [-95.770, 8.376, -255.890, 199]
     level:    [66, 68]
+    region:   s_215
 
   17055961:
     template: Fossorial_Flea
-    at:       [-97.900, 8.608, -262.030, 87]
     level:    [66, 68]
+    region:   s_215
 
   17055962:
     template: Treant_Sapling
-    at:       [-190.100, 8.037, -141.360, 251]
     level:    [67, 69]
+    region:   w_218
 
   17055963:
     template: Slime_Mold
-    at:       [-172.600, 8.032, -179.720, 180]
     level:    [68, 70]
+    region:   s_219
 
   17055964:
     template: Slime_Mold
-    at:       [-186.000, 8.210, -176.940, 248]
     level:    [68, 70]
+    region:   s_219
 
   17055965:
     template: Treant_Sapling
@@ -1109,8 +1109,8 @@ spawns:
 
   17055966:
     template: Phlebotomic_Slug
-    at:       [-97.410, 18.308, -124.380, 215]
     level:    [68, 70]
+    region:   c_222
 
   17055967:
     template: Qiqirn_Archaeologist
@@ -1129,13 +1129,13 @@ spawns:
 
   17055970:
     template: Qiqirn_Archaeologist
-    at:       [-19.890, 36.221, -56.506, 75]
     level:    [73, 75]
+    region:   c_226
 
   17055971:
     template: Qiqirn_Archaeologist
-    at:       [-16.940, 36.118, -100.440, 181]
     level:    [73, 75]
+    region:   c_227
 
   17055972:
     template: Fossorial_Flea
@@ -1199,18 +1199,18 @@ spawns:
 
   17055984:
     template: Aydeewa_Diremite
-    at:       [-323.200, 36.282, -136.460, 123]
     level:    [72, 74]
+    region:   w_240
 
   17055985:
     template: Aydeewa_Diremite
-    at:       [-313.700, 36.532, -114.480, 25]
     level:    [72, 74]
+    region:   w_241
 
   17055986:
     template: Aydeewa_Diremite
-    at:       [-322.500, 36.268, -111.050, 229]
     level:    [72, 74]
+    region:   w_242
 
   17055987:
     template: Cave_Tiger
@@ -1219,13 +1219,13 @@ spawns:
 
   17055988:
     template: Phlebotomic_Slug
-    at:       [-370.600, 14.704, -408.160, 131]
     level:    [68, 70]
+    region:   sw_244
 
   17055989:
     template: Cave_Tiger
-    at:       [-347.500, 14.451, -421.820, 218]
     level:    [73, 75]
+    region:   sw_245
 
   17055990:
     template: Phlebotomic_Slug
@@ -1259,8 +1259,8 @@ spawns:
 
   17055996:
     template: Fossorial_Flea
-    at:       [-353.300, 14.430, -430.880, 151]
     level:    [66, 68]
+    region:   sw_252
 
   17055997:
     template: Cave_Tiger
@@ -1274,28 +1274,28 @@ spawns:
 
   17055999:
     template: Fossorial_Flea
-    at:       [-405.200, 14.027, -456.550, 22]
     level:    [66, 68]
+    region:   sw_255
 
   17056000:
     template: Fossorial_Flea
-    at:       [-389.800, 14.694, -449.640, 42]
     level:    [66, 68]
+    region:   sw_255
 
   17056001:
     template: Cave_Tiger
-    at:       [-371.400, 12.543, -462.580, 82]
     level:    [73, 75]
+    region:   sw_257
 
   17056002:
     template: Fossorial_Flea
-    at:       [-374.300, 12.623, -464.940, 165]
     level:    [66, 68]
+    region:   sw_257
 
   17056003:
     template: Cave_Tiger
-    at:       [-356.300, 14.456, -456.690, 172]
     level:    [73, 75]
+    region:   sw_259
 
   17056004:
     template: Cave_Tiger
@@ -1374,48 +1374,48 @@ spawns:
 
   17056019:
     template: Mycoskulker
-    at:       [-124.400, 36.272, -24.899, 234]
     level:    [89, 90]
+    region:   c_275
 
   17056020:
     template: Mycoskulker
-    at:       [-120.900, 36.349, -48.650, 67]
     level:    [89, 90]
+    region:   c_276
 
   17056021:
     template: Mycoskulker
-    at:       [-128.600, 35.990, -70.295, 70]
     level:    [89, 90]
+    region:   c_277
 
   17056022:
     template: Mycoskulker
-    at:       [-115.900, 36.243, -90.244, 45]
     level:    [89, 90]
+    region:   c_278
 
   17056023:
     template: Mycoskulker
-    at:       [-65.180, 36.140, -88.402, 81]
     level:    [89, 90]
+    region:   c_279
 
   17056024:
     template: Mycoskulker
-    at:       [-71.900, 36.390, -74.135, 129]
     level:    [89, 90]
+    region:   c_280
 
   17056025:
     template: Mycoskulker
-    at:       [-75.490, 36.676, -53.777, 87]
     level:    [89, 90]
+    region:   c_281
 
   17056026:
     template: Mycoskulker
-    at:       [-85.310, 36.445, -30.052, 108]
     level:    [89, 90]
+    region:   c_282
 
   17056027:
     template: Mycoskulker
-    at:       [-105.200, 36.237, -27.482, 55]
     level:    [89, 90]
+    region:   c_283
 
   17056028:
     template: Mycoskulker
@@ -1519,23 +1519,23 @@ spawns:
 
   17056048:
     template: Slime_Mold
-    at:       [16.454, 33.203, -258.700, 245]
     level:    [68, 70]
+    region:   s_304
 
   17056049:
     template: Slime_Mold
-    at:       [14.614, 33.199, -265.080, 206]
     level:    [68, 70]
+    region:   s_304
 
   17056050:
     template: Phlebotomic_Slug
-    at:       [26.927, 32.991, -218.610, 130]
     level:    [68, 70]
+    region:   s_306
 
   17056051:
     template: Phlebotomic_Slug
-    at:       [8.132, 33.125, -219.850, 136]
     level:    [68, 70]
+    region:   s_306
 
   17056052:
     template: Phlebotomic_Slug
@@ -1599,18 +1599,18 @@ spawns:
 
   17056064:
     template: Slime_Mold
-    at:       [-120.900, 11.267, -385.870, 73]
     level:    [68, 70]
+    region:   s_320
 
   17056065:
     template: Slime_Mold
-    at:       [-105.500, 11.187, -394.810, 170]
     level:    [68, 70]
+    region:   s_320
 
   17056066:
     template: Slime_Mold
-    at:       [-110.200, 10.826, -385.540, 6]
     level:    [68, 70]
+    region:   s_320
 
   17056067:
     template: Phlebotomic_Slug
@@ -1620,32 +1620,32 @@ spawns:
   17056068:
     template: Phlebotomic_Slug
     level:    [68, 70]
-    region:   s_324
+    region:   c_324
 
   17056069:
     template: Slime_Mold
     level:    [68, 70]
-    region:   s_324
+    region:   c_324
 
   17056070:
     template: Phlebotomic_Slug
-    at:       [184.840, 31.736, -182.610, 102]
     level:    [68, 70]
+    region:   se_326
 
   17056071:
     template: Slime_Mold
-    at:       [185.550, 33.425, -158.680, 165]
     level:    [68, 70]
+    region:   e_327
 
   17056072:
     template: Slime_Mold
-    at:       [194.960, 33.793, -142.460, 86]
     level:    [68, 70]
+    region:   e_328
 
   17056073:
     template: Air_Elemental
-    at:       [196.520, 33.768, -140.790, 160]
     level:    [70, 70]
+    region:   e_328
 
   17056074:
     template: Phlebotomic_Slug
@@ -1684,18 +1684,18 @@ spawns:
 
   17056081:
     template: Phlebotomic_Slug
-    at:       [245.440, 33.648, -125.180, 130]
     level:    [68, 70]
+    region:   e_337
 
   17056082:
     template: Phlebotomic_Slug
-    at:       [238.110, 33.701, -113.980, 115]
     level:    [68, 70]
+    region:   e_338
 
   17056083:
     template: Phlebotomic_Slug
-    at:       [182.170, 31.325, -144.760, 115]
     level:    [68, 70]
+    region:   e_339
 
   17056084:
     template: Phlebotomic_Slug
@@ -1724,8 +1724,8 @@ spawns:
 
   17056089:
     template: Phlebotomic_Slug
-    at:       [282.230, 33.409, -65.736, 30]
     level:    [68, 70]
+    region:   e_345
 
   17056090:
     template: Slime_Mold
@@ -1819,23 +1819,23 @@ spawns:
 
   17056108:
     template: Slime_Mold
-    at:       [266.560, 1.087, 341.184, 129]
     level:    [68, 70]
+    region:   ne_364
 
   17056109:
     template: Slime_Mold
-    at:       [260.170, 1.213, 340.282, 248]
     level:    [68, 70]
+    region:   ne_364
 
   17056110:
     template: Mold_Eater
-    at:       [258.870, 0.984, 357.726, 58]
     level:    [69, 71]
+    region:   ne_366
 
   17056111:
     template: Mold_Eater
-    at:       [283.900, 0.881, 338.950, 122]
     level:    [69, 71]
+    region:   ne_367
 
   17056112:
     template: Treant_Sapling
@@ -1854,8 +1854,8 @@ spawns:
 
   17056115:
     template: Treant_Sapling
-    at:       [216.380, 1.089, 417.045, 189]
     level:    [67, 69]
+    region:   ne_371
 
   17056116:
     template: Qiqirn_Enterpriser
@@ -1874,13 +1874,13 @@ spawns:
 
   17056119:
     template: Treant_Sapling
-    at:       [271.990, -17.880, 449.963, 221]
     level:    [67, 69]
+    region:   ne_375
 
   17056120:
     template: Qiqirn_Enterpriser
-    at:       [184.610, 0.214, 374.875, 101]
     level:    [68, 70]
+    region:   ne_376
 
   17056121:
     template: Puktrap
@@ -1949,23 +1949,23 @@ spawns:
 
   17056134:
     template: Slime_Eater
-    at:       [398.160, -26.660, 454.093, 111]
     level:    [87, 89]
+    region:   ne_390
 
   17056135:
     template: Slime_Eater
-    at:       [393.850, -26.700, 449.971, 204]
     level:    [87, 89]
+    region:   ne_390
 
   17056136:
     template: Slime_Eater
-    at:       [415.340, -26.630, 438.959, 254]
     level:    [88, 89]
+    region:   ne_392
 
   17056137:
     template: Slime_Eater
-    at:       [399.600, -26.850, 437.890, 168]
     level:    [87, 89]
+    region:   ne_392
 
   17056138:
     template: Puktrap
@@ -2029,13 +2029,13 @@ spawns:
 
   17056150:
     template: Phlebotomic_Slug
-    at:       [410.680, 1.382, 319.477, 229]
     level:    [67, 69]
+    region:   ne_406
 
   17056151:
     template: Phlebotomic_Slug
-    at:       [409.540, 1.201, 328.480, 199]
     level:    [67, 69]
+    region:   ne_406
 
   17056152:
     template: Qiqirn_Enterpriser

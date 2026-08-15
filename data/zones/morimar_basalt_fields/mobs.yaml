@@ -29,18 +29,18 @@ spawns:
 
   17862662:
     template: Frosty_Twitherym
-    at:       [442.600, -16.500, -477.420, 123]
     level:    [102, 105]
+    region:   se_6
 
   17862663:
     template: Frosty_Twitherym
-    at:       [442.890, -16.500, -483.190, 59]
     level:    [102, 105]
+    region:   se_6
 
   17862664:
     template: Frosty_Twitherym
-    at:       [435.130, -16.480, -473.650, 161]
     level:    [102, 105]
+    region:   se_6
 
   17862665:
     template: Tephra_Lizard
@@ -284,13 +284,13 @@ spawns:
 
   17862713:
     template: Qohanyk
-    at:       [482.300, -16.490, 83.033, 200]
     level:    [102, 104]
+    region:   e_57
 
   17862714:
     template: Qohanyk
-    at:       [518.450, -16.490, 73.710, 75]
     level:    [102, 104]
+    region:   e_58
 
   17862715:
     template: Snowcap_Umbril
@@ -560,37 +560,37 @@ spawns:
   17862768:
     template: Frosty_Twitherym
     level:    [102, 105]
-    region:   e_112
+    region:   c_112
 
   17862769:
     template: Frosty_Twitherym
     level:    [102, 105]
-    region:   e_112
+    region:   c_112
 
   17862770:
     template: Frosty_Twitherym
     level:    [102, 105]
-    region:   e_112
+    region:   c_112
 
   17862771:
     template: Frosty_Twitherym
     level:    [102, 105]
-    region:   e_112
+    region:   c_112
 
   17862772:
     template: Animosiraptor
     level:    [102, 104]
-    region:   e_112
+    region:   c_112
 
   17862773:
     template: Animosiraptor
     level:    [102, 104]
-    region:   e_112
+    region:   c_112
 
   17862774:
     template: Animosiraptor
     level:    [102, 104]
-    region:   e_112
+    region:   c_112
 
   17862775:
     template: Frosty_Twitherym
@@ -640,47 +640,47 @@ spawns:
   17862784:
     template: Tephra_Lizard
     level:    [102, 104]
-    region:   e_128
+    region:   c_128
 
   17862785:
     template: Tephra_Lizard
     level:    [102, 104]
-    region:   e_128
+    region:   c_128
 
   17862786:
     template: Animosiraptor
     level:    [102, 104]
-    region:   e_128
+    region:   c_128
 
   17862787:
     template: Animosiraptor
     level:    [102, 104]
-    region:   e_128
+    region:   c_128
 
   17862788:
     template: Animosiraptor
     level:    [102, 104]
-    region:   e_128
+    region:   c_128
 
   17862789:
     template: Tephra_Lizard
     level:    [102, 104]
-    region:   e_128
+    region:   c_128
 
   17862790:
     template: Tephra_Lizard
     level:    [102, 104]
-    region:   e_128
+    region:   c_128
 
   17862791:
     template: Tephra_Lizard
     level:    [102, 104]
-    region:   e_128
+    region:   c_128
 
   17862792:
     template: Sinewy_Matamata
     level:    [102, 104]
-    region:   e_128
+    region:   c_128
 
   17862793:
     template: Sinewy_Matamata
@@ -2010,12 +2010,12 @@ spawns:
   17863058:
     template: Acerbic_Jagil
     level:    [102, 104]
-    region:   n_402
+    region:   nw_402
 
   17863059:
     template: Hoarfrost_Gefyrst
     level:    [102, 104]
-    region:   n_402
+    region:   nw_402
 
   17863060:
     template: Steam_Spout
@@ -2025,17 +2025,17 @@ spawns:
   17863061:
     template: Sinewy_Matamata
     level:    [102, 104]
-    region:   n_402
+    region:   nw_402
 
   17863062:
     template: Sinewy_Matamata
     level:    [102, 104]
-    region:   n_402
+    region:   nw_402
 
   17863063:
     template: Hoarfrost_Gefyrst
     level:    [102, 104]
-    region:   n_402
+    region:   nw_402
 
   17863064:
     template: Animosiraptor
@@ -2385,17 +2385,17 @@ spawns:
   17863133:
     template: Anthousai
     level:    [105, 110]
-    region:   ne_477
+    region:   n_477
 
   17863134:
     template: Anthousai
     level:    [105, 110]
-    region:   ne_477
+    region:   n_477
 
   17863135:
     template: Anthousai
     level:    [105, 110]
-    region:   ne_477
+    region:   n_477
 
   17863136:
     template: Anthousai
@@ -2590,7 +2590,7 @@ spawns:
   17863174:
     template: Twirling_Heartwing
     level:    [103, 106]
-    region:   ne_518
+    region:   n_518
 
   17863175:
     template: Mountain_Peiste
@@ -2804,33 +2804,33 @@ spawns:
 
   17863217:
     template: Matamata
-    at:       [117.140, -0.149, -50.051, 18]
     level:    [103, 103]
+    region:   c_561
 
   17863218:
     template: Matamata
-    at:       [114.630, -0.321, -45.493, 104]
     level:    [103, 103]
+    region:   c_561
 
   17863219:
     template: Matamata
-    at:       [114.770, -0.111, -50.099, 94]
     level:    [103, 103]
+    region:   c_561
 
   17863220:
     template: Snaggletooth_Raptor
-    at:       [109.230, -0.206, -42.152, 131]
     level:    [103, 103]
+    region:   c_564
 
   17863221:
     template: Snaggletooth_Raptor
-    at:       [123.750, 0.179, -50.707, 28]
     level:    [103, 103]
+    region:   c_564
 
   17863222:
     template: Snaggletooth_Raptor
-    at:       [123.400, -0.286, -46.153, 23]
     level:    [103, 103]
+    region:   c_564
 
   17863223:
     template: Bedrock_Crag
@@ -2864,18 +2864,18 @@ spawns:
 
   17863229:
     template: Snaggletooth_Raptor
-    at:       [0.153, -0.079, 69.183, 65]
     level:    [103, 103]
+    region:   c_573
 
   17863230:
     template: Snaggletooth_Raptor
-    at:       [8.713, 0.819, 68.132, 255]
     level:    [103, 103]
+    region:   c_573
 
   17863231:
     template: Snaggletooth_Raptor
-    at:       [-6.809, -0.086, 69.737, 250]
     level:    [103, 103]
+    region:   c_573
 
   17863232:
     template: Bedrock_Crag
@@ -2894,13 +2894,13 @@ spawns:
 
   17863235:
     template: Matamata
-    at:       [-46.930, -16.290, -281.830, 187]
     level:    [103, 103]
+    region:   s_579
 
   17863236:
     template: Matamata
-    at:       [-51.380, -15.560, -287.680, 177]
     level:    [103, 103]
+    region:   s_579
 
   17863237:
     template: Matamata
@@ -2954,18 +2954,18 @@ spawns:
 
   17863247:
     template: Basalt_Lizard
-    at:       [-122.400, -16.200, -433.430, 117]
     level:    [103, 103]
+    region:   s_591
 
   17863248:
     template: Basalt_Lizard
-    at:       [-117.400, -16.220, -432.980, 7]
     level:    [103, 103]
+    region:   s_591
 
   17863249:
     template: Basalt_Lizard
-    at:       [-123.900, -16.350, -436.490, 74]
     level:    [103, 103]
+    region:   s_591
 
   17863250:
     template: Bedrock_Crag
@@ -2984,33 +2984,33 @@ spawns:
 
   17863253:
     template: Matamata
-    at:       [-240.700, -32.790, -220.710, 90]
     level:    [103, 103]
+    region:   sw_597
 
   17863254:
     template: Matamata
-    at:       [-238.800, -32.530, -225.400, 131]
     level:    [103, 103]
+    region:   sw_597
 
   17863255:
     template: Matamata
-    at:       [-229.200, -32.570, -228.000, 92]
     level:    [103, 103]
+    region:   sw_597
 
   17863256:
     template: Basalt_Lizard
-    at:       [-240.900, -32.100, -223.230, 103]
     level:    [103, 103]
+    region:   sw_600
 
   17863257:
     template: Basalt_Lizard
-    at:       [-239.800, -32.360, -226.090, 139]
     level:    [103, 103]
+    region:   sw_600
 
   17863258:
     template: Basalt_Lizard
-    at:       [-242.300, -32.750, -223.480, 90]
     level:    [103, 103]
+    region:   sw_600
 
   17863259:
     template: Bedrock_Crag
@@ -3029,28 +3029,28 @@ spawns:
 
   17863262:
     template: Matamata
-    at:       [-350.300, -31.880, -150.850, 255]
     level:    [103, 103]
+    region:   w_606
 
   17863263:
     template: Matamata
-    at:       [-355.000, -32.240, -154.120, 23]
     level:    [103, 103]
+    region:   w_606
 
   17863264:
     template: Matamata
-    at:       [-367.900, -31.870, -154.150, 113]
     level:    [103, 103]
+    region:   w_606
 
   17863265:
     template: Basalt_Lizard
-    at:       [-365.600, -31.620, -150.250, 241]
     level:    [103, 103]
+    region:   w_609
 
   17863266:
     template: Basalt_Lizard
-    at:       [-354.800, -32.320, -155.220, 233]
     level:    [103, 103]
+    region:   w_609
 
   17863267:
     template: Basalt_Lizard

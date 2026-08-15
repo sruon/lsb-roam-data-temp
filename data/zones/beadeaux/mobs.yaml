@@ -119,13 +119,13 @@ spawns:
 
   17379352:
     template: Ooze
-    at:       [-100.640, 0.085, 54.555, 127]
     level:    [28, 30]
+    region:   w_24
 
   17379353:
     template: Ooze
-    at:       [-104.888, -0.150, 56.675, 127]
     level:    [28, 30]
+    region:   w_24
 
   17379354:
     template: Old_Quadav
@@ -215,12 +215,12 @@ spawns:
   17379371:
     template: Brass_Quadav
     level:    [24, 28]
-    region:   n_43
+    region:   nw_43
 
   17379372:
     template: Old_Quadav
     level:    [22, 25]
-    region:   n_43
+    region:   nw_43
 
   17379373:
     template: Copper_Quadav
@@ -234,23 +234,23 @@ spawns:
 
   17379375:
     template: Caterpillar
-    at:       [-108.379, 23.626, 105.752, 127]
     level:    [22, 25]
+    region:   nw_21
 
   17379376:
     template: Caterpillar
-    at:       [-99.333, 23.752, 95.370, 41]
     level:    [22, 25]
+    region:   nw_21
 
   17379377:
     template: Caterpillar
-    at:       [-105.759, 23.547, 93.143, 41]
     level:    [22, 25]
+    region:   nw_21
 
   17379378:
     template: Caterpillar
-    at:       [-99.612, 23.728, 92.526, 127]
     level:    [22, 25]
+    region:   nw_21
 
   17379379:
     template: Old_Quadav
@@ -284,38 +284,38 @@ spawns:
 
   17379385:
     template: Caterpillar
-    at:       [-51.304, 23.689, 23.592, 27]
     level:    [22, 25]
+    region:   w_57
 
   17379386:
     template: Caterpillar
-    at:       [-61.095, 23.639, 21.498, 110]
     level:    [22, 25]
+    region:   w_57
 
   17379387:
     template: Caterpillar
-    at:       [-56.621, 23.633, 22.225, 127]
     level:    [22, 25]
+    region:   w_57
 
   17379388:
     template: Caterpillar
-    at:       [-58.014, 23.624, 23.802, 24]
     level:    [22, 25]
+    region:   w_57
 
   17379389:
     template: Copper_Quadav
-    at:       [-136.335, 23.669, 16.170, 94]
     level:    [23, 27]
+    region:   w_61
 
   17379390:
     template: Copper_Quadav
-    at:       [-143.730, 23.561, 20.828, 67]
     level:    [23, 27]
+    region:   w_61
 
   17379391:
     template: Copper_Quadav
-    at:       [-143.348, 23.688, 18.330, 127]
     level:    [23, 27]
+    region:   w_61
 
   17379392:
     template: Old_Quadav
@@ -349,58 +349,58 @@ spawns:
 
   17379398:
     template: Copper_Quadav
-    at:       [-178.811, 23.825, 107.946, 127]
     level:    [23, 27]
+    region:   nw_70
 
   17379399:
     template: Copper_Quadav
-    at:       [-185.714, 23.958, 98.119, 35]
     level:    [23, 27]
+    region:   nw_70
 
   17379400:
     template: Copper_Quadav
-    at:       [-170.904, 23.725, 102.968, 127]
     level:    [23, 27]
+    region:   nw_70
 
   17379401:
     template: Caterpillar
-    at:       [-229.647, 23.753, 105.197, 127]
     level:    [22, 25]
+    region:   nw_73
 
   17379402:
     template: Caterpillar
-    at:       [-221.286, 23.620, 96.984, 127]
     level:    [22, 25]
+    region:   nw_73
 
   17379403:
     template: Caterpillar
-    at:       [-217.323, 23.613, 105.585, 90]
     level:    [22, 25]
+    region:   nw_73
 
   17379404:
     template: Caterpillar
-    at:       [-231.338, 23.598, 102.286, 74]
     level:    [22, 25]
+    region:   nw_73
 
   17379405:
     template: Caterpillar
-    at:       [-140.607, 23.533, 95.532, 127]
     level:    [22, 25]
+    region:   nw_77
 
   17379406:
     template: Caterpillar
-    at:       [-141.720, 23.515, 92.727, 40]
     level:    [22, 25]
+    region:   nw_77
 
   17379407:
     template: Caterpillar
-    at:       [-144.685, 23.450, 92.329, 111]
     level:    [22, 25]
+    region:   nw_77
 
   17379408:
     template: Caterpillar
-    at:       [-145.345, 23.634, 95.053, 127]
     level:    [22, 25]
+    region:   nw_77
 
   17379409:
     template: Old_Quadav
@@ -1310,7 +1310,7 @@ spawns:
   17379590:
     template: Iron_Quadav
     level:    [43, 47]
-    region:   sw_261
+    region:   sw_262
 
   17379591:
     template: Spinel_Quadav
@@ -2085,47 +2085,47 @@ spawns:
   17379745:
     template: Steel_Quadav
     level:    [52, 56]
-    region:   ne_417
+    region:   n_417
 
   17379746:
     template: Mythril_Quadav
     level:    [53, 57]
-    region:   ne_417
+    region:   n_417
 
   17379747:
     template: Gold_Quadav
     level:    [54, 58]
-    region:   ne_417
+    region:   n_417
 
   17379748:
     template: Topaz_Quadav
     level:    [55, 59]
-    region:   ne_417
+    region:   n_417
 
   17379749:
     template: Larva
     level:    [35, 38]
-    region:   ne_417
+    region:   n_417
 
   17379750:
     template: Larva
     level:    [35, 38]
-    region:   ne_417
+    region:   n_417
 
   17379751:
     template: Ancient_Quadav
     level:    [62, 66]
-    region:   c_353
+    region:   ne_423
 
   17379752:
     template: Darksteel_Quadav
     level:    [63, 67]
-    region:   c_353
+    region:   ne_423
 
   17379753:
     template: Platinum_Quadav
     level:    [64, 68]
-    region:   c_353
+    region:   ne_423
 
   17379754:
     template: Sapphire_Quadav
@@ -2135,7 +2135,7 @@ spawns:
   17379755:
     template: Ancient_Quadav
     level:    [62, 66]
-    region:   c_353
+    region:   ne_423
 
   17379756:
     template: Darksteel_Quadav
@@ -2150,22 +2150,22 @@ spawns:
   17379758:
     template: Sapphire_Quadav
     level:    [65, 69]
-    region:   c_353
+    region:   ne_423
 
   17379759:
     template: Larva
-    at:       [178.746, 39.570, 50.449, 127]
     level:    [35, 38]
+    region:   c_431
 
   17379760:
     template: Larva
-    at:       [178.683, 39.684, 43.096, 69]
     level:    [35, 38]
+    region:   c_431
 
   17379761:
     template: Platinum_Quadav
-    at:       [183.157, 39.571, 27.301, 8]
     level:    [64, 68]
+    region:   c_433
 
   17379762:
     template: Platinum_Quadav
@@ -2219,33 +2219,33 @@ spawns:
 
   17379772:
     template: Ancient_Quadav
-    at:       [382.579, 23.667, 139.752, 99]
     level:    [62, 66]
+    region:   ne_444
 
   17379773:
     template: Darksteel_Quadav
-    at:       [388.103, 23.498, 140.245, 127]
     level:    [63, 67]
+    region:   ne_444
 
   17379774:
     template: Platinum_Quadav
-    at:       [388.806, 23.437, 134.515, 127]
     level:    [64, 68]
+    region:   ne_444
 
   17379775:
     template: Ancient_Quadav
-    at:       [428.016, 23.694, 91.990, 127]
     level:    [62, 66]
+    region:   ne_447
 
   17379776:
     template: Platinum_Quadav
-    at:       [425.759, 23.558, 99.757, 127]
     level:    [64, 68]
+    region:   ne_447
 
   17379777:
     template: Sapphire_Quadav
-    at:       [420.005, 23.577, 94.821, 127]
     level:    [65, 69]
+    region:   ne_447
 
   17379778:
     template: Darksteel_Quadav
@@ -2264,13 +2264,13 @@ spawns:
 
   17379781:
     template: Larva
-    at:       [381.904, 24.783, 100.451, 127]
     level:    [35, 38]
+    region:   ne_453
 
   17379782:
     template: Larva
-    at:       [378.324, 24.782, 100.575, 127]
     level:    [35, 38]
+    region:   ne_453
 
   17379783:
     template: Mimic

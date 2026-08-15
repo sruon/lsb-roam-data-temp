@@ -54,8 +54,8 @@ spawns:
 
   17113099:
     template: Forest_Leech
-    at:       [-133.879, 3.848, 108.843, 234]
     level:    [38, 41]
+    region:   c_11
 
   17113100:
     template: Orcish_Bowshooter
@@ -74,8 +74,8 @@ spawns:
 
   17113103:
     template: Snipper
-    at:       [154.084, -0.284, 189.670, 56]
     level:    [38, 41]
+    region:   n_15
 
   17113104:
     template: Snipper
@@ -159,8 +159,8 @@ spawns:
 
   17113120:
     template: Land_Pugil
-    at:       [196.936, 0.624, -75.312, 136]
     level:    [38, 41]
+    region:   e_32
 
   17113121:
     template: Land_Pugil
@@ -234,8 +234,8 @@ spawns:
 
   17113135:
     template: Decrepit_Gnole
-    at:       [343.750, -2.912, 8.494, 46]
     level:    [73, 75]
+    region:   e_47
 
   17113136:
     template: Orcish_Bowshooter
@@ -329,8 +329,8 @@ spawns:
 
   17113154:
     template: Forest_Leech
-    at:       [-303.923, 3.876, 60.833, 148]
     level:    [38, 41]
+    region:   w_66
 
   17113155:
     template: Forest_Leech
@@ -374,8 +374,8 @@ spawns:
 
   17113163:
     template: Biddybug
-    at:       [-160.749, -0.264, 249.259, 156]
     level:    [62, 64]
+    region:   n_75
 
   17113164:
     template: Biddybug
@@ -575,12 +575,12 @@ spawns:
   17113203:
     template: Stag_Beetle
     level:    [42, 43]
-    region:   ne_115
+    region:   ne_114
 
   17113204:
     template: Stag_Beetle
     level:    [42, 43]
-    region:   ne_115
+    region:   ne_114
 
   17113205:
     template: Jugner_Funguar
@@ -724,8 +724,8 @@ spawns:
 
   17113233:
     template: Lobison
-    at:       [-540.571, 2.760, 341.654, 168]
     level:    [81, 82]
+    region:   nw_145
 
   17113234:
     template: Walking_Tree
@@ -754,8 +754,8 @@ spawns:
 
   17113239:
     template: Lobison
-    at:       [-366.966, -0.578, 254.914, 26]
     level:    [81, 82]
+    region:   nw_151
 
   17113240:
     template: Lobison
@@ -899,8 +899,8 @@ spawns:
 
   17113268:
     template: Biddybug
-    at:       [-153.657, -1.710, 243.582, 199]
     level:    [62, 64]
+    region:   n_75
 
   17113269:
     template: Biddybug
@@ -924,18 +924,18 @@ spawns:
 
   17113273:
     template: Orcish_Champion
-    at:       [-147.279, -1.040, -412.746, 123]
     level:    [76, 79]
+    region:   s_185
 
   17113274:
     template: Orcish_Dragonbrander
-    at:       [-139.425, -1.682, -408.868, 26]
     level:    [76, 79]
+    region:   s_185
 
   17113275:
     template: Orcish_Veteran
-    at:       [-155.722, -0.614, -405.586, 148]
     level:    [76, 79]
+    region:   s_185
 
   17113276:
     template: Orcish_Champion
@@ -964,13 +964,13 @@ spawns:
 
   17113281:
     template: Orcish_Protector
-    at:       [-161.446, -0.557, -444.713, 107]
     level:    [76, 79]
+    region:   s_193
 
   17113282:
     template: Orcish_Veteran
-    at:       [-162.577, -0.569, -445.481, 222]
     level:    [76, 79]
+    region:   s_193
 
   17113283:
     template: Orcish_Champion
@@ -994,28 +994,28 @@ spawns:
 
   17113287:
     template: Orcish_Bowshooter
-    at:       [36.015, -1.474, -194.455, 127]
     level:    [76, 79]
+    region:   c_199
 
   17113288:
     template: Orcish_Bowshooter
-    at:       [56.118, -4.048, -240.235, 255]
     level:    [76, 79]
+    region:   s_200
 
   17113289:
     template: Orcish_Bowshooter
-    at:       [-1.539, -5.220, -294.259, 64]
     level:    [76, 79]
+    region:   s_201
 
   17113290:
     template: Orcish_Bowshooter
-    at:       [-86.410, -4.876, -385.219, 93]
     level:    [76, 79]
+    region:   s_202
 
   17113291:
     template: Orcish_Bowshooter
-    at:       [-166.022, -2.743, -425.923, 222]
     level:    [76, 79]
+    region:   s_203
 
   17113292:
     template: Orcish_Champion
@@ -1044,8 +1044,8 @@ spawns:
 
   17113297:
     template: Decrepit_Gnole
-    at:       [34.509, 0.302, -297.176, 124]
     level:    [73, 75]
+    region:   s_209
 
   17113298:
     template: Decrepit_Gnole
@@ -1074,8 +1074,8 @@ spawns:
 
   17113303:
     template: Decrepit_Gnole
-    at:       [-31.647, -2.453, -441.877, 53]
     level:    [73, 75]
+    region:   s_215
 
   17113304:
     template: Decrepit_Gnole
@@ -1149,8 +1149,8 @@ spawns:
 
   17113318:
     template: Decrepit_Gnole
-    at:       [-8.714, -14.707, -591.332, 203]
     level:    [73, 75]
+    region:   s_230
 
   17113319:
     template: Decrepit_Gnole
@@ -1169,8 +1169,8 @@ spawns:
 
   17113322:
     template: Decrepit_Gnole
-    at:       [-28.292, -13.967, -604.707, 27]
     level:    [73, 75]
+    region:   s_234
 
   17113323:
     template: Decrepit_Gnole
@@ -1214,33 +1214,33 @@ spawns:
 
   17113331:
     template: Stag_Beetle
-    at:       [467.464, -1.622, -174.310, 2]
     level:    [42, 43]
+    region:   e_243
 
   17113332:
     template: Boll_Weevil
-    at:       [444.051, -0.373, -154.413, 138]
     level:    [56, 57]
+    region:   e_243
 
   17113333:
     template: Stag_Beetle
-    at:       [431.832, 6.144, -124.217, 107]
     level:    [42, 43]
+    region:   e_245
 
   17113334:
     template: Stag_Beetle
-    at:       [442.146, 7.482, -119.401, 98]
     level:    [42, 43]
+    region:   e_245
 
   17113335:
     template: Stag_Beetle
-    at:       [430.768, 3.772, -110.876, 210]
     level:    [42, 43]
+    region:   e_245
 
   17113336:
     template: Stag_Beetle
-    at:       [441.707, 5.768, -132.702, 151]
     level:    [42, 43]
+    region:   e_248
 
   17113337:
     template: Ignis_Djinn
@@ -1409,8 +1409,8 @@ spawns:
 
   17113370:
     template: Stag_Beetle
-    at:       [264.129, -4.770, -312.376, 178]
     level:    [42, 43]
+    region:   se_282
 
   17113371:
     template: Stag_Beetle
@@ -1434,8 +1434,8 @@ spawns:
 
   17113375:
     template: Snipper
-    at:       [292.993, -9.830, -431.921, 76]
     level:    [38, 41]
+    region:   se_287
 
   17113376:
     template: Snipper
@@ -1444,23 +1444,23 @@ spawns:
 
   17113377:
     template: Ignis_Djinn
-    at:       [271.898, -13.796, -560.246, 204]
     level:    [76, 79]
+    region:   se_289
 
   17113378:
     template: Orcish_Champion
-    at:       [233.773, -15.829, -548.145, 104]
     level:    [76, 79]
+    region:   se_290
 
   17113379:
     template: Orcish_Dragonbrander
-    at:       [203.399, 0.388, -335.686, 80]
     level:    [76, 79]
+    region:   se_290
 
   17113380:
     template: Orcish_Veteran
-    at:       [195.578, -0.556, -347.699, 128]
     level:    [76, 79]
+    region:   se_290
 
   17113381:
     template: Drumskull_Zogdregg
@@ -1469,13 +1469,13 @@ spawns:
 
   17113382:
     template: Orcish_Champion
-    at:       [229.804, -16.278, -507.032, 8]
     level:    [76, 79]
+    region:   se_294
 
   17113383:
     template: Orcish_Dragonbrander
-    at:       [234.859, -14.530, -501.872, 37]
     level:    [76, 79]
+    region:   se_294
 
   17113384:
     template: Orcish_Dragonbrander
@@ -1489,13 +1489,13 @@ spawns:
 
   17113386:
     template: Orcish_Champion
-    at:       [237.881, -16.417, -558.963, 131]
     level:    [76, 79]
+    region:   se_289
 
   17113387:
     template: Orcish_Protector
-    at:       [239.925, -17.090, -560.896, 207]
     level:    [76, 79]
+    region:   se_289
 
   17113388:
     template: Land_Pugil
@@ -1524,8 +1524,8 @@ spawns:
 
   17113393:
     template: Land_Pugil
-    at:       [281.817, -12.096, -498.969, 25]
     level:    [38, 41]
+    region:   se_287
 
   17113394:
     template: Land_Pugil
@@ -1540,7 +1540,7 @@ spawns:
   17113396:
     template: Screamer
     level:    [40, 42]
-    region:   se_308
+    region:   se_282
 
   17113397:
     template: Screamer
@@ -1660,7 +1660,7 @@ spawns:
   17113420:
     template: Goblin_Mine
     level:    [75, 75]
-    region:   sw_331
+    region:   sw_332
 
   17113421:
     template: Goblin_Bombardier
@@ -1685,7 +1685,7 @@ spawns:
   17113425:
     template: Goblin_Mine
     level:    [75, 75]
-    region:   sw_336
+    region:   sw_337
 
   17113426:
     template: Goblin_Bombardier
@@ -1705,7 +1705,7 @@ spawns:
   17113429:
     template: Goblin_Mine
     level:    [75, 75]
-    region:   sw_336
+    region:   sw_337
 
   17113430:
     template: Orcish_Bowshooter
@@ -1759,8 +1759,8 @@ spawns:
 
   17113440:
     template: Brutal_Sheep
-    at:       [-279.891, -0.113, -106.545, 41]
     level:    [39, 41]
+    region:   w_352
 
   17113441:
     template: Brutal_Sheep
@@ -2645,7 +2645,7 @@ spawns:
   17113617:
     template: Gutrender_Trooper
     level:    [75, 80]
-    region:   nw_529
+    region:   nw_526
 
   17113618:
     template: Gutrender_Trooper
@@ -2699,8 +2699,8 @@ spawns:
 
   17113628:
     template: Spinebeak_Neckchopper
-    at:       [49.316, -0.099, -28.186, 206]
     level:    [70, 70]
+    region:   ne_540
 
   17113629:
     template: Spinebeak_Neckchopper
@@ -2989,8 +2989,8 @@ spawns:
 
   17113686:
     template: Orcish_Strongarm
-    at:       [55.036, -0.048, 4.766, 255]
     level:    [60, 60]
+    region:   c_598
 
   17113687:
     template: Orcish_Strongarm
@@ -3004,8 +3004,8 @@ spawns:
 
   17113689:
     template: Orcish_Strongarm
-    at:       [60.176, 0.491, -40.134, 132]
     level:    [60, 60]
+    region:   c_598
 
   17113690:
     template: Orcish_Turret
@@ -3445,7 +3445,7 @@ spawns:
   17113777:
     template: Ulla
     level:    [1, 1]
-    region:   ne_556
+    region:   c_605
 
   17113778:
     template: Kilhwch

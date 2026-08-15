@@ -284,18 +284,18 @@ spawns:
 
   17457209:
     template: Seeker_Bats
-    at:       [-58.367, -6.498, -56.828, 127]
     level:    [25, 28]
+    region:   c_57
 
   17457210:
     template: Stirge
-    at:       [-52.518, -6.636, -93.312, 127]
     level:    [31, 33]
+    region:   c_57
 
   17457211:
     template: Stirge
-    at:       [-88.000, -6.000, -60.000, 66]
     level:    [31, 33]
+    region:   c_57
 
   17457212:
     template: Stirge
@@ -364,8 +364,8 @@ spawns:
 
   17457225:
     template: Giant_Scorpion
-    at:       [100.539, 4.808, -84.262, 5]
     level:    [38, 40]
+    region:   s_73
 
   17457226:
     template: Bat_Eye
@@ -604,18 +604,18 @@ spawns:
 
   17457273:
     template: Evil_Weapon
-    at:       [-271.000, -46.000, 194.000, 131]
     level:    [35, 37]
+    region:   nw_121
 
   17457274:
     template: Evil_Weapon
-    at:       [-275.000, -45.000, 207.000, 30]
     level:    [35, 37]
+    region:   nw_121
 
   17457275:
     template: Evil_Weapon
-    at:       [-269.000, -46.000, 206.000, 100]
     level:    [35, 37]
+    region:   nw_121
 
   17457276:
     template: Bilesucker
@@ -674,8 +674,8 @@ spawns:
 
   17457287:
     template: Goblin_Hoodoo
-    at:       [6.000, -35.000, 160.000, 127]
     level:    [88, 90]
+    region:   n_135
 
   17457288:
     template: Goblin_Artificer
@@ -684,8 +684,8 @@ spawns:
 
   17457289:
     template: Goblin_Tanner
-    at:       [-5.000, -36.000, 167.000, 12]
     level:    [88, 90]
+    region:   n_135
 
   17457290:
     template: Goblin_Chaser

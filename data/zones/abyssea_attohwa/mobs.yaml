@@ -24,18 +24,18 @@ spawns:
 
   17657861:
     template: Crevice_Amoeban
-    at:       [-139.068, 20.183, -95.397, 250]
     level:    [77, 80]
+    region:   s_5
 
   17657862:
     template: Crevice_Amoeban
-    at:       [-139.363, 20.000, -107.582, 50]
     level:    [77, 80]
+    region:   s_5
 
   17657863:
     template: Crevice_Amoeban
-    at:       [-161.367, 9.907, -138.236, 100]
     level:    [77, 80]
+    region:   s_5
 
   17657864:
     template: Crevice_Amoeban
@@ -65,7 +65,7 @@ spawns:
   17657869:
     template: Ephemeral_Amoeban
     level:    [79, 80]
-    region:   s_13
+    region:   s_5
 
   17657870:
     template: Rock_Murex
@@ -149,18 +149,18 @@ spawns:
 
   17657886:
     template: Decayed_Flesh
-    at:       [-113.259, 0.021, -2.906, 175]
     level:    [83, 84]
+    region:   c_30
 
   17657887:
     template: Decayed_Flesh
-    at:       [-110.369, -0.247, -2.793, 200]
     level:    [83, 84]
+    region:   c_30
 
   17657888:
     template: Decayed_Flesh
-    at:       [-119.436, 0.001, -5.658, 225]
     level:    [83, 84]
+    region:   c_30
 
   17657889:
     template: Decayed_Flesh
@@ -180,7 +180,7 @@ spawns:
   17657892:
     template: Ephemeral_Amoeban
     level:    [79, 80]
-    region:   c_36
+    region:   c_30
 
   17657893:
     template: Spuk
@@ -214,8 +214,8 @@ spawns:
 
   17657899:
     template: Spuk
-    at:       [-185.176, 0.014, 223.919, 250]
     level:    [82, 83]
+    region:   n_40
 
   17657900:
     template: Spuk
@@ -245,12 +245,12 @@ spawns:
   17657905:
     template: Spuk
     level:    [82, 83]
-    region:   n_49
+    region:   c_48
 
   17657906:
     template: Spuk
-    at:       [-179.000, 2.000, 247.000, 175]
     level:    [82, 83]
+    region:   c_50
 
   17657907:
     template: Ephemeral_Amoeban
@@ -294,8 +294,8 @@ spawns:
 
   17657915:
     template: Myriadeyes
-    at:       [64.165, 20.235, -22.655, 150]
     level:    [82, 83]
+    region:   c_57
 
   17657916:
     template: Myriadeyes
@@ -309,28 +309,28 @@ spawns:
 
   17657918:
     template: Myriadeyes
-    at:       [61.382, 20.192, -27.478, 225]
     level:    [82, 83]
+    region:   c_62
 
   17657919:
     template: Myriadeyes
-    at:       [59.177, 19.715, -42.118, 250]
     level:    [82, 83]
+    region:   c_62
 
   17657920:
     template: Myriadeyes
-    at:       [57.677, 20.043, -18.224, 30]
     level:    [82, 83]
+    region:   c_62
 
   17657921:
     template: Myriadeyes
-    at:       [15.141, 9.626, -57.255, 60]
     level:    [82, 83]
+    region:   c_62
 
   17657922:
     template: Myriadeyes
-    at:       [14.114, 9.951, -59.913, 90]
     level:    [82, 83]
+    region:   c_62
 
   17657923:
     template: Myriadeyes
@@ -410,7 +410,7 @@ spawns:
   17657938:
     template: Ephemeral_Amoeban
     level:    [79, 80]
-    region:   w_82
+    region:   w_71
 
   17657939:
     template: Crevice_Amoeban
@@ -475,37 +475,37 @@ spawns:
   17657951:
     template: Crevice_Amoeban
     level:    [77, 80]
-    region:   sw_83
+    region:   sw_95
 
   17657952:
     template: Crevice_Amoeban
     level:    [77, 80]
-    region:   sw_83
+    region:   sw_95
 
   17657953:
     template: Crevice_Amoeban
     level:    [77, 80]
-    region:   sw_83
+    region:   sw_95
 
   17657954:
     template: Crevice_Amoeban
     level:    [77, 80]
-    region:   sw_83
+    region:   sw_95
 
   17657955:
     template: Crevice_Amoeban
     level:    [77, 80]
-    region:   sw_83
+    region:   sw_95
 
   17657956:
     template: Crevice_Amoeban
     level:    [77, 80]
-    region:   sw_83
+    region:   sw_95
 
   17657957:
     template: Ephemeral_Amoeban
     level:    [79, 80]
-    region:   sw_83
+    region:   sw_101
 
   17657958:
     template: Defile_Scorpion
@@ -575,7 +575,7 @@ spawns:
   17657971:
     template: Ephemeral_Amoeban
     level:    [79, 80]
-    region:   sw_102
+    region:   sw_115
 
   17657972:
     template: Rift_Dragon
@@ -659,13 +659,13 @@ spawns:
 
   17657988:
     template: Funnel_Antlion
-    at:       [-478.000, -3.000, 97.000, 80]
     level:    [0, 0]
+    region:   w_132
 
   17657989:
     template: Funnel_Antlion
-    at:       [-464.000, -3.000, 82.000, 110]
     level:    [0, 0]
+    region:   w_133
 
   17657990:
     template: Funnel_Antlion
@@ -689,8 +689,8 @@ spawns:
 
   17657994:
     template: Funnel_Antlion
-    at:       [-402.000, -3.000, 65.000, 10]
     level:    [0, 0]
+    region:   w_138
 
   17657995:
     template: Funnel_Antlion
@@ -1440,27 +1440,27 @@ spawns:
   17658144:
     template: Entozoon
     level:    [81, 82]
-    region:   ne_268
+    region:   ne_288
 
   17658145:
     template: Entozoon
     level:    [81, 82]
-    region:   ne_268
+    region:   ne_288
 
   17658146:
     template: Entozoon
     level:    [81, 82]
-    region:   ne_268
+    region:   ne_288
 
   17658147:
     template: Entozoon
     level:    [81, 82]
-    region:   ne_268
+    region:   ne_288
 
   17658148:
     template: Ephemeral_Murex
     level:    [79, 88]
-    region:   ne_268
+    region:   ne_288
 
   17658149:
     template: Terminus_Eft
@@ -1515,37 +1515,37 @@ spawns:
   17658159:
     template: Terminus_Eft
     level:    [81, 82]
-    region:   ne_293
+    region:   e_303
 
   17658160:
     template: Terminus_Eft
     level:    [81, 82]
-    region:   ne_293
+    region:   e_303
 
   17658161:
     template: Terminus_Eft
     level:    [81, 82]
-    region:   ne_293
+    region:   e_303
 
   17658162:
     template: Terminus_Eft
     level:    [81, 82]
-    region:   ne_293
+    region:   e_303
 
   17658163:
     template: Terminus_Eft
     level:    [81, 82]
-    region:   ne_293
+    region:   e_303
 
   17658164:
     template: Terminus_Eft
     level:    [81, 82]
-    region:   ne_293
+    region:   e_303
 
   17658165:
     template: Terminus_Eft
     level:    [81, 82]
-    region:   ne_293
+    region:   e_303
 
   17658166:
     template: Terminus_Eft
@@ -1810,7 +1810,7 @@ spawns:
   17658218:
     template: Ephemeral_Murex
     level:    [79, 88]
-    region:   se_357
+    region:   se_362
 
   17658219:
     template: Hannequet
@@ -1879,8 +1879,8 @@ spawns:
 
   17658232:
     template: Hannequet
-    at:       [410.959, 20.069, 3.722, 150]
     level:    [94, 95]
+    region:   e_373
 
   17658233:
     template: Hannequet
@@ -2155,7 +2155,7 @@ spawns:
   17658287:
     template: Amun
     level:    [90, 90]
-    region:   c_57
+    region:   c_431
 
   17658288:
     template: Gieremund
@@ -2289,8 +2289,8 @@ spawns:
 
   17658314:
     template: Scrutinizer
-    at:       [-353.961, -12.339, 43.856, 95]
     level:    [0, 0]
+    region:   w_458
 
   17658315:
     template: Vigilant_Gear
@@ -2404,60 +2404,60 @@ spawns:
 
   17658337:
     template: Bastion_Fighter
-    at:       [0.000, 0.000, 0.000, 0]
     level:    [0, 0]
+    region:   nw_442
 
   17658338:
     template: Bastion_Fighter
     level:    [0, 0]
-    region:   w_482
+    region:   nw_442
 
   17658339:
     template: Bastion_Fighter
-    at:       [0.000, 0.000, 0.000, 0]
     level:    [0, 0]
+    region:   w_483
 
   17658340:
     template: Bastion_Fighter
     level:    [0, 0]
-    region:   w_484
+    region:   nw_442
 
   17658341:
     template: Bastion_Fighter
     level:    [0, 0]
-    region:   w_484
+    region:   nw_442
 
   17658342:
     template: Bastion_Mage
-    at:       [0.000, 0.000, 0.000, 0]
     level:    [0, 0]
+    region:   nw_442
 
   17658343:
     template: Bastion_Mage
-    at:       [0.000, 0.000, 0.000, 0]
     level:    [0, 0]
+    region:   w_487
 
   17658344:
     template: Bastion_Mage
-    at:       [0.000, 0.000, 0.000, 0]
     level:    [0, 0]
+    region:   nw_442
 
   17658345:
     template: Qiqirn_Trapper
-    at:       [0.000, 0.000, 0.000, 0]
     level:    [0, 0]
+    region:   w_489
 
   17658346:
     template: Qiqirn_Trapper
-    at:       [0.000, 0.000, 0.000, 0]
     level:    [0, 0]
+    region:   nw_442
 
   17658347:
     template: Qiqirn_Bewitcher
-    at:       [0.000, 0.000, 0.000, 0]
     level:    [0, 0]
+    region:   w_491
 
   17658348:
     template: Qiqirn_Bewitcher
-    at:       [0.000, 0.000, 0.000, 0]
     level:    [0, 0]
+    region:   w_491

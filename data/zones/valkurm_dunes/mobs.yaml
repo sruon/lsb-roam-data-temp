@@ -394,18 +394,18 @@ spawns:
 
   17199183:
     template: Goblin_Mugger
-    at:       [500.830, -16.374, 255.148, 127]
     level:    [22, 23]
+    region:   ne_79
 
   17199184:
     template: Goblin_Leecher
-    at:       [496.000, -16.000, 259.000, 127]
     level:    [22, 23]
+    region:   ne_79
 
   17199185:
     template: Goblin_Gambler
-    at:       [501.000, -16.000, 259.000, 27]
     level:    [22, 23]
+    region:   ne_79
 
   17199186:
     template: Fire_Elemental
@@ -1239,13 +1239,13 @@ spawns:
 
   17199352:
     template: Sand_Bats
-    at:       [418.616, -0.519, -203.428, 127]
     level:    [12, 13]
+    region:   se_248
 
   17199353:
     template: Sand_Bats
-    at:       [418.335, -0.552, -206.461, 74]
     level:    [12, 13]
+    region:   se_248
 
   17199354:
     template: Sand_Hare
@@ -1454,13 +1454,13 @@ spawns:
 
   17199395:
     template: Goblin_Leecher
-    at:       [-55.000, -8.000, 179.000, 127]
     level:    [23, 24]
+    region:   n_291
 
   17199396:
     template: Goblin_Gambler
-    at:       [-34.000, -7.000, 152.000, 76]
     level:    [23, 24]
+    region:   n_291
 
   17199397:
     template: Fire_Elemental
@@ -1779,13 +1779,13 @@ spawns:
 
   17199460:
     template: Sand_Bats
-    at:       [-299.954, -0.514, -156.769, 34]
     level:    [12, 13]
+    region:   sw_356
 
   17199461:
     template: Giant_Bat
-    at:       [-296.679, -0.510, -164.298, 127]
     level:    [21, 22]
+    region:   sw_356
 
   17199462:
     template: Sand_Hare
@@ -2240,7 +2240,7 @@ spawns:
   17199552:
     template: Bogy
     level:    [28, 29]
-    region:   w_448
+    region:   w_428
 
   17199553:
     template: Bogy
@@ -2570,7 +2570,7 @@ spawns:
   17199651:
     template: Goblin_Bounty_Hunter
     level:    [17, 20]
-    region:   s_545
+    region:   s_547
 
   17199652:
     template: Goblin_Bounty_Hunter

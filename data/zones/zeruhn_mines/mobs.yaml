@@ -14,8 +14,8 @@ spawns:
 
   17481731:
     template: Ding_Bats
-    at:       [-58.029, -0.045, 54.626, 209]
     level:    [1, 2]
+    region:   nw_3
 
   17481732:
     template: Ding_Bats
@@ -29,13 +29,13 @@ spawns:
 
   17481734:
     template: Ding_Bats
-    at:       [-31.308, -0.073, 75.119, 199]
     level:    [1, 2]
+    region:   nw_6
 
   17481735:
     template: River_Crab
-    at:       [-28.942, -0.062, 69.577, 118]
     level:    [2, 3]
+    region:   nw_6
 
   17481736:
     template: Ding_Bats
@@ -44,8 +44,8 @@ spawns:
 
   17481737:
     template: River_Crab
-    at:       [-31.407, -0.073, 45.963, 2]
     level:    [2, 4]
+    region:   nw_9
 
   17481738:
     template: Ding_Bats
@@ -54,18 +54,18 @@ spawns:
 
   17481739:
     template: River_Crab
-    at:       [-10.590, -0.073, 70.524, 56]
     level:    [3, 4]
+    region:   n_11
 
   17481740:
     template: Ding_Bats
-    at:       [-15.732, -0.061, 45.679, 134]
     level:    [1, 2]
+    region:   n_12
 
   17481741:
     template: River_Crab
-    at:       [-4.733, -0.073, 45.924, 24]
     level:    [3, 4]
+    region:   n_12
 
   17481742:
     template: Colliery_Bat
@@ -139,13 +139,13 @@ spawns:
 
   17481756:
     template: Burrower_Worm
-    at:       [60.925, 8.655, -139.187, 117]
     level:    [77, 79]
+    region:   c_28
 
   17481757:
     template: Burrower_Worm
-    at:       [61.506, 8.378, -137.323, 92]
     level:    [77, 79]
+    region:   c_28
 
   17481758:
     template: Colliery_Bat
@@ -189,28 +189,28 @@ spawns:
 
   17481766:
     template: Burrower_Worm
-    at:       [-90.922, 7.898, -221.289, 100]
     level:    [77, 79]
+    region:   sw_38
 
   17481767:
     template: Burrower_Worm
-    at:       [-93.574, 7.191, -220.164, 74]
     level:    [77, 79]
+    region:   sw_38
 
   17481768:
     template: Burrower_Worm
-    at:       [-67.751, 7.967, -261.296, 61]
     level:    [77, 79]
+    region:   sw_40
 
   17481769:
     template: Burrower_Worm
-    at:       [-71.841, 7.754, -257.261, 82]
     level:    [77, 79]
+    region:   sw_40
 
   17481770:
     template: Burrower_Worm
-    at:       [-59.465, 8.068, -280.254, 174]
     level:    [77, 79]
+    region:   sw_42
 
   17481771:
     template: Soot_Crab
@@ -250,27 +250,27 @@ spawns:
   17481778:
     template: Colliery_Bat
     level:    [75, 77]
-    region:   e_46
+    region:   e_50
 
   17481779:
     template: Colliery_Bat
     level:    [75, 77]
-    region:   e_46
+    region:   e_51
 
   17481780:
     template: Burrower_Worm
-    at:       [57.656, 7.917, -253.272, 222]
     level:    [77, 79]
+    region:   s_52
 
   17481781:
     template: Burrower_Worm
-    at:       [55.034, 8.322, -262.828, 233]
     level:    [77, 79]
+    region:   s_52
 
   17481782:
     template: Burrower_Worm
-    at:       [54.671, 7.812, -254.777, 220]
     level:    [77, 79]
+    region:   s_52
 
   17481783:
     template: Burrower_Worm

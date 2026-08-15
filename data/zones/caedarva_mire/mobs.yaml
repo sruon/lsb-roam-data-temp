@@ -329,13 +329,13 @@ spawns:
 
   17100866:
     template: Puktrap
-    at:       [186.973, 0.650, -618.610, 53]
     level:    [64, 66]
+    region:   s_66
 
   17100867:
     template: Puktrap
-    at:       [158.850, 0.696, -623.267, 145]
     level:    [64, 66]
+    region:   s_67
 
   17100868:
     template: Caedarva_Leech
@@ -399,13 +399,13 @@ spawns:
 
   17100880:
     template: Jnun
-    at:       [301.229, -15.545, -368.114, 241]
     level:    [72, 73]
+    region:   s_80
 
   17100881:
     template: Jnun
-    at:       [300.517, -15.085, -382.627, 149]
     level:    [72, 73]
+    region:   s_81
 
   17100882:
     template: Oil_Slick
@@ -419,8 +419,8 @@ spawns:
 
   17100884:
     template: Jnun
-    at:       [301.042, -15.186, -348.030, 226]
     level:    [72, 73]
+    region:   s_84
 
   17100885:
     template: Marsh_Murre
@@ -669,8 +669,8 @@ spawns:
 
   17100934:
     template: Jnun
-    at:       [464.310, -6.500, -300.164, 70]
     level:    [76, 77]
+    region:   se_134
 
   17100935:
     template: Water_Elemental
@@ -679,13 +679,13 @@ spawns:
 
   17100936:
     template: Jnun
-    at:       [450.107, -6.307, -299.079, 135]
     level:    [76, 77]
+    region:   se_136
 
   17100937:
     template: Jnun
-    at:       [462.380, -7.209, -329.571, 45]
     level:    [76, 77]
+    region:   se_137
 
   17100938:
     template: Spongilla_Fly
@@ -964,23 +964,23 @@ spawns:
 
   17100993:
     template: Marsh_Murre
-    at:       [-414.725, 7.020, -609.893, 5]
     level:    [65, 67]
+    region:   sw_193
 
   17100994:
     template: Qiqirn_Rock_Hound
-    at:       [-445.583, 7.748, -606.324, 253]
     level:    [67, 69]
+    region:   sw_194
 
   17100995:
     template: Guard_Skeleton
     level:    [67, 69]
-    region:   sw_195
+    region:   sw_194
 
   17100996:
     template: Qiqirn_Mireguide
-    at:       [-441.161, 7.831, -577.821, 40]
     level:    [67, 69]
+    region:   sw_196
 
   17100997:
     template: Qiqirn_Mine
@@ -990,27 +990,27 @@ spawns:
   17100998:
     template: Guard_Skeleton
     level:    [67, 69]
-    region:   sw_198
+    region:   sw_196
 
   17100999:
     template: Qiqirn_Rock_Hound
-    at:       [-420.630, 7.504, -585.338, 127]
     level:    [67, 69]
+    region:   sw_199
 
   17101000:
     template: Guard_Skeleton
-    at:       [-405.310, 7.643, -585.286, 126]
     level:    [67, 69]
+    region:   sw_199
 
   17101001:
     template: Marsh_Murre
-    at:       [-386.580, 7.852, -556.033, 182]
     level:    [65, 67]
+    region:   sw_201
 
   17101002:
     template: Qiqirn_Mireguide
-    at:       [-426.312, 7.629, -574.422, 2]
     level:    [67, 69]
+    region:   sw_202
 
   17101003:
     template: Qiqirn_Mine
@@ -1020,7 +1020,7 @@ spawns:
   17101004:
     template: Guard_Skeleton
     level:    [67, 69]
-    region:   sw_204
+    region:   sw_202
 
   17101005:
     template: Marsh_Murre
@@ -1029,13 +1029,13 @@ spawns:
 
   17101006:
     template: Marsh_Murre
-    at:       [-362.341, 4.303, -579.876, 23]
     level:    [65, 67]
+    region:   sw_206
 
   17101007:
     template: Qiqirn_Mireguide
-    at:       [-367.418, 7.722, -552.142, 179]
     level:    [67, 69]
+    region:   sw_207
 
   17101008:
     template: Qiqirn_Mine
@@ -1045,22 +1045,22 @@ spawns:
   17101009:
     template: Guard_Skeleton
     level:    [67, 69]
-    region:   sw_209
+    region:   sw_207
 
   17101010:
     template: Marsh_Murre
-    at:       [-349.849, 6.372, -547.437, 6]
     level:    [65, 67]
+    region:   sw_210
 
   17101011:
     template: Orderly_Imp
-    at:       [-343.280, 4.409, -556.486, 7]
     level:    [66, 68]
+    region:   sw_210
 
   17101012:
     template: Qiqirn_Mireguide
-    at:       [-343.185, 4.934, -583.392, 5]
     level:    [67, 69]
+    region:   sw_212
 
   17101013:
     template: Qiqirn_Mine
@@ -1069,13 +1069,13 @@ spawns:
 
   17101014:
     template: Guard_Skeleton
-    at:       [-342.967, 4.479, -567.506, 253]
     level:    [67, 69]
+    region:   sw_212
 
   17101015:
     template: Marsh_Murre
-    at:       [-463.839, 5.685, -586.081, 31]
     level:    [65, 67]
+    region:   sw_215
 
   17101016:
     template: Chigoe
@@ -1099,8 +1099,8 @@ spawns:
 
   17101020:
     template: Marsh_Murre
-    at:       [-321.764, 3.386, -506.753, 249]
     level:    [65, 67]
+    region:   sw_220
 
   17101021:
     template: Slough_Skua
@@ -1179,13 +1179,13 @@ spawns:
 
   17101036:
     template: Ephramadian_Shade
-    at:       [-746.200, 11.550, -57.243, 158]
     level:    [75, 77]
+    region:   w_236
 
   17101037:
     template: Ephramadian_Shade
-    at:       [-742.400, 12.805, -53.251, 224]
     level:    [75, 77]
+    region:   w_236
 
   17101038:
     template: Ephramadian_Shade
@@ -1214,8 +1214,8 @@ spawns:
 
   17101043:
     template: Jnun
-    at:       [-616.565, 12.820, -172.268, 1]
     level:    [75, 77]
+    region:   w_243
 
   17101044:
     template: Jnun
@@ -1264,23 +1264,23 @@ spawns:
 
   17101053:
     template: Ephramadian_Shade
-    at:       [-657.600, 10.652, -270.510, 27]
     level:    [75, 77]
+    region:   w_253
 
   17101054:
     template: Ephramadian_Shade
-    at:       [-655.100, 10.506, -270.720, 171]
     level:    [75, 77]
+    region:   w_253
 
   17101055:
     template: Guard_Bhoot
-    at:       [-589.839, 7.268, -133.674, 235]
     level:    [81, 83]
+    region:   w_255
 
   17101056:
     template: Dark_Elemental
-    at:       [-598.417, 9.389, -146.678, 69]
     level:    [74, 76]
+    region:   w_255
 
   17101057:
     template: Draugar_Servant
@@ -1329,13 +1329,13 @@ spawns:
 
   17101066:
     template: Jnun
-    at:       [-423.378, -3.326, -177.261, 28]
     level:    [75, 77]
+    region:   w_266
 
   17101067:
     template: Jnun
-    at:       [-412.104, -3.153, -179.663, 206]
     level:    [75, 77]
+    region:   w_267
 
   17101068:
     template: Jnun
@@ -1344,13 +1344,13 @@ spawns:
 
   17101069:
     template: Oil_Slick
-    at:       [-378.321, -3.375, -141.927, 11]
     level:    [67, 69]
+    region:   w_268
 
   17101070:
     template: Oil_Slick
-    at:       [-387.203, -3.184, -132.252, 196]
     level:    [67, 69]
+    region:   w_268
 
   17101071:
     template: Lamia_Idolater
@@ -1844,8 +1844,8 @@ spawns:
 
   17101169:
     template: Heraldic_Imp
-    at:       [732.600, -8.105, 355.677, 73]
     level:    [80, 82]
+    region:   ne_369
 
   17101170:
     template: Heraldic_Imp
@@ -1934,8 +1934,8 @@ spawns:
 
   17101187:
     template: Soulflayer
-    at:       [696.660, -8.298, 511.791, 123]
     level:    [82, 83]
+    region:   ne_387
 
   17101188:
     template: Heraldic_Imp
@@ -2164,8 +2164,8 @@ spawns:
 
   17101233:
     template: Shedu
-    at:       [591.048, -9.162, 316.739, 80]
     level:    [99, 99]
+    region:   ne_433
 
   17101234:
     template: Shedu
@@ -2339,40 +2339,40 @@ spawns:
 
   17101277:
     template: Locus_Imp
-    at:       [819.875, -4.182, 358.746, 63]
     level:    [134, 136]
+    region:   ne_477
 
   17101278:
     template: Locus_Imp
-    at:       [816.298, -5.288, 366.971, 101]
     level:    [134, 136]
+    region:   ne_477
 
   17101279:
     template: Locus_Imp
-    at:       [824.116, -4.031, 366.492, 216]
     level:    [134, 136]
+    region:   ne_477
 
   17101280:
     template: Locus_Imp
-    at:       [818.711, -4.390, 358.249, 12]
     level:    [134, 136]
+    region:   ne_477
 
   17101281:
     template: Locus_Imp
-    at:       [823.319, -3.057, 357.436, 171]
     level:    [134, 136]
+    region:   ne_477
 
   17101282:
     template: Locus_Imp
-    at:       [823.401, -4.255, 368.201, 4]
     level:    [134, 136]
+    region:   ne_477
 
   17101283:
     template: Locus_Imp
-    at:       [815.465, -5.339, 366.313, 203]
     level:    [134, 136]
+    region:   ne_477
 
   17101284:
     template: Locus_Imp
-    at:       [816.616, -4.585, 359.677, 103]
     level:    [134, 136]
+    region:   ne_477

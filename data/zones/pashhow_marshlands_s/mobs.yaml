@@ -974,18 +974,18 @@ spawns:
 
   17146051:
     template: Snipper
-    at:       [446.268, 24.207, 362.779, 68]
     level:    [62, 65]
+    region:   ne_195
 
   17146052:
     template: Snipper
-    at:       [449.792, 24.165, 367.455, 135]
     level:    [62, 65]
+    region:   ne_195
 
   17146053:
     template: Snipper
-    at:       [433.638, 24.032, 354.688, 190]
     level:    [62, 65]
+    region:   ne_195
 
   17146054:
     template: Thread_Leech
@@ -1224,28 +1224,28 @@ spawns:
 
   17146101:
     template: Electrumcap
-    at:       [530.070, 24.500, -156.762, 57]
     level:    [68, 70]
+    region:   se_245
 
   17146102:
     template: Electrumcap
-    at:       [522.713, 24.500, -148.646, 127]
     level:    [68, 70]
+    region:   se_245
 
   17146103:
     template: Electrumcap
-    at:       [528.892, 24.500, -160.437, 237]
     level:    [68, 70]
+    region:   se_245
 
   17146104:
     template: Mythril_Quadav
-    at:       [516.689, 24.500, -163.436, 230]
     level:    [71, 74]
+    region:   se_245
 
   17146105:
     template: Zircon_Quadav
-    at:       [518.554, 24.500, -170.125, 41]
     level:    [71, 74]
+    region:   se_245
 
   17146106:
     template: Electrumcap
@@ -1380,22 +1380,22 @@ spawns:
   17146132:
     template: Night_Bats
     level:    [65, 66]
-    region:   e_236
+    region:   e_276
 
   17146133:
     template: Night_Bats
     level:    [65, 66]
-    region:   e_236
+    region:   e_276
 
   17146134:
     template: Bogy
     level:    [70, 73]
-    region:   e_236
+    region:   e_276
 
   17146135:
     template: Moor_Hound
     level:    [69, 74]
-    region:   e_236
+    region:   e_276
 
   17146136:
     template: Night_Bats
@@ -1435,7 +1435,7 @@ spawns:
   17146143:
     template: Goblin_Toxophilite
     level:    [66, 69]
-    region:   n_287
+    region:   nw_141
 
   17146144:
     template: Goblin_Mine
@@ -2195,7 +2195,7 @@ spawns:
   17146295:
     template: DiDhas_Elite_Guard
     level:    [0, 0]
-    region:   ne_439
+    region:   ne_434
 
   17146296:
     template: DiDhas_Elite_Guard
@@ -2450,7 +2450,7 @@ spawns:
   17146346:
     template: GiGhis_Elite_Guard
     level:    [70, 70]
-    region:   c_490
+    region:   sw_331
 
   17146347:
     template: GiGhis_Elite_Guard

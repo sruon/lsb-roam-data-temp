@@ -669,8 +669,8 @@ spawns:
 
   17203334:
     template: Water_Elemental
-    at:       [-500.637, 8.492, 281.808, 127]
     level:    [27, 29]
+    region:   nw_134
 
   17203335:
     template: Stag_Beetle
@@ -769,8 +769,8 @@ spawns:
 
   17203354:
     template: Water_Elemental
-    at:       [105.628, 3.643, 439.504, 127]
     level:    [27, 29]
+    region:   n_154
 
   17203355:
     template: Stag_Beetle
@@ -940,7 +940,7 @@ spawns:
   17203388:
     template: Land_Pugil
     level:    [19, 20]
-    region:   c_188
+    region:   c_183
 
   17203389:
     template: Snipper
@@ -950,17 +950,17 @@ spawns:
   17203390:
     template: Land_Pugil
     level:    [19, 20]
-    region:   c_189
+    region:   c_190
 
   17203391:
     template: Snipper
     level:    [19, 20]
-    region:   s_191
+    region:   c_191
 
   17203392:
     template: Land_Pugil
     level:    [19, 20]
-    region:   s_191
+    region:   c_191
 
   17203393:
     template: Snipper
@@ -1109,18 +1109,18 @@ spawns:
 
   17203422:
     template: Water_Elemental
-    at:       [-8.196, -15.777, -588.725, 127]
     level:    [27, 29]
+    region:   s_222
 
   17203423:
     template: Forest_Tiger
-    at:       [-47.585, -19.117, -648.590, 127]
     level:    [24, 25]
+    region:   s_223
 
   17203424:
     template: Forest_Tiger
-    at:       [-53.845, -20.874, -654.784, 106]
     level:    [24, 25]
+    region:   s_223
 
   17203425:
     template: Stag_Beetle
@@ -1324,8 +1324,8 @@ spawns:
 
   17203465:
     template: Water_Elemental
-    at:       [246.856, -17.062, -503.959, 127]
     level:    [27, 29]
+    region:   se_265
 
   17203466:
     template: Stag_Beetle
@@ -1679,13 +1679,13 @@ spawns:
 
   17203536:
     template: Forest_Tiger
-    at:       [325.443, -1.678, 40.651, 82]
     level:    [24, 25]
+    region:   e_336
 
   17203537:
     template: Forest_Tiger
-    at:       [316.655, -1.970, 35.257, 77]
     level:    [24, 25]
+    region:   e_336
 
   17203538:
     template: Stag_Beetle
@@ -1760,42 +1760,42 @@ spawns:
   17203552:
     template: Stag_Beetle
     level:    [22, 23]
-    region:   e_328
+    region:   e_352
 
   17203553:
     template: Stag_Beetle
     level:    [22, 23]
-    region:   e_328
+    region:   e_352
 
   17203554:
     template: Wandering_Sapling
     level:    [15, 16]
-    region:   e_328
+    region:   e_352
 
   17203555:
     template: Wandering_Sapling
     level:    [15, 16]
-    region:   e_328
+    region:   e_352
 
   17203556:
     template: Wandering_Sapling
     level:    [15, 16]
-    region:   e_328
+    region:   e_352
 
   17203557:
     template: Wandering_Sapling
     level:    [15, 16]
-    region:   e_328
+    region:   e_352
 
   17203558:
     template: Brutal_Sheep
     level:    [20, 21]
-    region:   e_328
+    region:   e_352
 
   17203559:
     template: Brutal_Sheep
     level:    [20, 21]
-    region:   e_328
+    region:   e_352
 
   17203560:
     template: Scavenging_Hound
@@ -2494,8 +2494,8 @@ spawns:
 
   17203699:
     template: Emperor_Arthro
-    at:       [84.790, -0.188, -201.369, 133]
     level:    [0, 0]
+    region:   c_499
 
   17203700:
     template: Emperor_Arthro

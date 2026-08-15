@@ -579,8 +579,8 @@ spawns:
 
   17522804:
     template: Pteranodon
-    at:       [-75.790, 11.500, -211.980, 22]
     level:    [90, 92]
+    region:   c_116
 
   17522805:
     template: Pteranodon
@@ -904,8 +904,8 @@ spawns:
 
   17522869:
     template: Iron_Cranium
-    at:       [-540.000, 2.499, -660.000, 0]
     level:    [90, 92]
+    region:   sw_181
 
   17522870:
     template: Iron_Cranium
@@ -919,13 +919,13 @@ spawns:
 
   17522872:
     template: Iron_Cranium
-    at:       [-622.500, 5.965, -644.170, 200]
     level:    [90, 92]
+    region:   sw_184
 
   17522873:
     template: Iron_Cranium
-    at:       [-620.100, 5.791, -644.970, 163]
     level:    [90, 92]
+    region:   sw_185
 
   17522874:
     template: Iron_Cranium
@@ -934,23 +934,23 @@ spawns:
 
   17522875:
     template: Iron_Cranium
-    at:       [-600.000, 5.499, -700.000, 64]
     level:    [90, 92]
+    region:   sw_187
 
   17522876:
     template: Iron_Cranium
-    at:       [-550.000, 5.499, -690.000, 96]
     level:    [90, 92]
+    region:   sw_188
 
   17522877:
     template: Iron_Cranium
-    at:       [-530.000, -0.500, -650.000, 160]
     level:    [90, 92]
+    region:   sw_189
 
   17522878:
     template: Iron_Cranium
-    at:       [-620.300, 5.761, -644.780, 127]
     level:    [90, 92]
+    region:   sw_190
 
   17522879:
     template: Iron_Cranium
@@ -984,23 +984,23 @@ spawns:
 
   17522885:
     template: Sanguine_Sapsucker
-    at:       [-107.100, -0.500, -476.850, 198]
     level:    [90, 92]
+    region:   s_197
 
   17522886:
     template: Sanguine_Sapsucker
-    at:       [-114.500, -0.500, -484.380, 173]
     level:    [90, 92]
+    region:   s_197
 
   17522887:
     template: Sanguine_Sapsucker
-    at:       [-118.100, -0.500, -562.570, 244]
     level:    [90, 92]
+    region:   s_199
 
   17522888:
     template: Sanguine_Sapsucker
-    at:       [-113.900, -0.500, -553.370, 99]
     level:    [90, 92]
+    region:   s_199
 
   17522889:
     template: Sanguine_Sapsucker
@@ -1044,13 +1044,13 @@ spawns:
 
   17522897:
     template: Malicious_Magpie
-    at:       [-131.300, -0.500, -638.650, 154]
     level:    [90, 92]
+    region:   s_209
 
   17522898:
     template: Malicious_Magpie
-    at:       [-127.600, -0.500, -629.030, 129]
     level:    [90, 92]
+    region:   s_209
 
   17522899:
     template: Barra_Edinazu
@@ -1139,8 +1139,8 @@ spawns:
 
   17522916:
     template: Coeurl_Tiro
-    at:       [742.239, 71.500, -580.594, 61]
     level:    [90, 92]
+    region:   se_228
 
   17522917:
     template: Mingyi
@@ -1164,8 +1164,8 @@ spawns:
 
   17522921:
     template: Yahhta
-    at:       [262.930, -0.500, -584.680, 192]
     level:    [90, 92]
+    region:   se_233
 
   17522922:
     template: Ne
@@ -1199,23 +1199,23 @@ spawns:
 
   17522928:
     template: Glaciated_Yanthu
-    at:       [233.950, -0.500, -587.980, 0]
     level:    [90, 92]
+    region:   s_238
 
   17522929:
     template: Electrified_Yanthu
-    at:       [272.250, -0.500, -546.720, 242]
     level:    [90, 92]
+    region:   se_241
 
   17522930:
     template: Electrified_Yanthu
     level:    [90, 92]
-    region:   se_242
+    region:   se_241
 
   17522931:
     template: Electrified_Yanthu
     level:    [90, 92]
-    region:   se_242
+    region:   se_241
 
   17522932:
     template: Entombed_Yanthu
@@ -1229,8 +1229,8 @@ spawns:
 
   17522934:
     template: Entombed_Yanthu
-    at:       [267.980, -0.500, -628.020, 159]
     level:    [90, 92]
+    region:   se_244
 
   17522935:
     template: Caldera_Crab
@@ -1480,7 +1480,7 @@ spawns:
   17522984:
     template: Anthracite_Antlion
     level:    [90, 92]
-    region:   ne_296
+    region:   n_296
 
   17522985:
     template: Anthracite_Antlion
@@ -1500,12 +1500,12 @@ spawns:
   17522988:
     template: Anthracite_Antlion
     level:    [90, 92]
-    region:   ne_300
+    region:   n_300
 
   17522989:
     template: Anthracite_Antlion
     level:    [90, 92]
-    region:   ne_301
+    region:   n_301
 
   17522990:
     template: Anthracite_Antlion
@@ -1610,7 +1610,7 @@ spawns:
   17523010:
     template: Saltopus
     level:    [90, 92]
-    region:   nw_319
+    region:   nw_322
 
   17523011:
     template: Saltopus
@@ -1620,7 +1620,7 @@ spawns:
   17523012:
     template: Saltopus
     level:    [90, 92]
-    region:   nw_319
+    region:   nw_324
 
   17523013:
     template: Jebutoise
@@ -1935,12 +1935,12 @@ spawns:
   17523075:
     template: Murderous_Mandragora
     level:    [90, 92]
-    region:   s_387
+    region:   e_367
 
   17523076:
     template: Murderous_Mandragora
     level:    [90, 92]
-    region:   se_388
+    region:   s_388
 
   17523077:
     template: Murderous_Mandragora
@@ -2214,23 +2214,23 @@ spawns:
 
   17523131:
     template: Sanguine_Sapsucker
-    at:       [0.000, 0.000, 0.000, 0]
     level:    [90, 92]
+    region:   s_197
 
   17523132:
     template: Sanguine_Sapsucker
-    at:       [0.000, 0.000, 0.000, 0]
     level:    [90, 92]
+    region:   s_197
 
   17523133:
     template: Sanguine_Sapsucker
-    at:       [0.000, 0.000, 0.000, 0]
     level:    [90, 92]
+    region:   s_199
 
   17523134:
     template: Sanguine_Sapsucker
-    at:       [0.000, 0.000, 0.000, 0]
     level:    [90, 92]
+    region:   s_199
 
   17523135:
     template: Sanguine_Sapsucker
@@ -2239,8 +2239,8 @@ spawns:
 
   17523136:
     template: Sanguine_Sapsucker
-    at:       [0.000, 0.000, 0.000, 0]
     level:    [90, 92]
+    region:   s_201
 
   17523137:
     template: Malicious_Magpie
@@ -2249,8 +2249,8 @@ spawns:
 
   17523138:
     template: Malicious_Magpie
-    at:       [0.000, 0.000, 0.000, 0]
     level:    [90, 92]
+    region:   s_203
 
   17523139:
     template: Malicious_Magpie
@@ -2264,8 +2264,8 @@ spawns:
 
   17523141:
     template: Malicious_Magpie
-    at:       [0.000, 0.000, 0.000, 0]
     level:    [90, 92]
+    region:   sw_207
 
   17523142:
     template: Malicious_Magpie
@@ -2275,7 +2275,7 @@ spawns:
   17523143:
     template: Malicious_Magpie
     level:    [90, 92]
-    region:   s_455
+    region:   s_209
 
   17523144:
     template: Malicious_Magpie
@@ -2339,8 +2339,8 @@ spawns:
 
   17523156:
     template: Coeurl_Prentice
-    at:       [0.000, 0.000, 0.000, 0]
     level:    [90, 92]
+    region:   se_222
 
   17523157:
     template: Coeurl_Tiro
@@ -2349,8 +2349,8 @@ spawns:
 
   17523158:
     template: Coeurl_Tiro
-    at:       [0.000, 0.000, 0.000, 0]
     level:    [90, 92]
+    region:   se_470
 
   17523159:
     template: Coeurl_Tiro
@@ -2369,8 +2369,8 @@ spawns:
 
   17523162:
     template: Coeurl_Tiro
-    at:       [0.000, 0.000, 0.000, 0]
     level:    [90, 92]
+    region:   se_228
 
   17523163:
     template: Mingyi
@@ -2454,13 +2454,13 @@ spawns:
 
   17523179:
     template: Entombed_Yanthu
-    at:       [0.000, 0.000, 0.000, 0]
     level:    [90, 92]
+    region:   se_244
 
   17523180:
     template: Entombed_Yanthu
-    at:       [0.000, 0.000, 0.000, 0]
     level:    [90, 92]
+    region:   se_244
 
   17523181:
     template: Ragelise

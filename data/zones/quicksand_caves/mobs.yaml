@@ -34,8 +34,8 @@ spawns:
 
   17629191:
     template: Sand_Spider
-    at:       [939.385, -8.785, -302.224, 127]
     level:    [51, 55]
+    region:   e_7
 
   17629192:
     template: Sand_Spider
@@ -59,8 +59,8 @@ spawns:
 
   17629196:
     template: Sand_Spider
-    at:       [858.844, -8.244, -355.697, 127]
     level:    [51, 55]
+    region:   se_12
 
   17629197:
     template: Sand_Spider
@@ -109,8 +109,8 @@ spawns:
 
   17629206:
     template: Sand_Eater
-    at:       [828.146, -5.599, -458.059, 123]
     level:    [51, 54]
+    region:   se_22
 
   17629207:
     template: Sand_Eater
@@ -274,8 +274,8 @@ spawns:
 
   17629239:
     template: Sand_Spider
-    at:       [726.073, 0.260, -542.381, 75]
     level:    [51, 55]
+    region:   se_55
 
   17629240:
     template: Antican_Hastatus
@@ -309,8 +309,8 @@ spawns:
 
   17629246:
     template: Sand_Eater
-    at:       [674.982, 2.683, -577.115, 127]
     level:    [52, 55]
+    region:   se_62
 
   17629247:
     template: Sand_Spider
@@ -544,8 +544,8 @@ spawns:
 
   17629293:
     template: Sand_Eater
-    at:       [815.635, 2.774, -729.980, 127]
     level:    [52, 55]
+    region:   se_109
 
   17629294:
     template: Helm_Beetle
@@ -589,8 +589,8 @@ spawns:
 
   17629302:
     template: Helm_Beetle
-    at:       [659.372, -16.582, -798.875, 127]
     level:    [51, 54]
+    region:   se_118
 
   17629303:
     template: Antican_Hastatus
@@ -639,13 +639,13 @@ spawns:
 
   17629312:
     template: Sabotender_Bailaor
-    at:       [782.926, -15.885, -800.008, 240]
     level:    [52, 55]
+    region:   se_128
 
   17629313:
     template: Sabotender_Bailaor
-    at:       [779.953, -15.741, -801.030, 167]
     level:    [52, 55]
+    region:   se_128
 
   17629314:
     template: Sabotender_Bailaor
@@ -729,8 +729,8 @@ spawns:
 
   17629330:
     template: Helm_Beetle
-    at:       [458.348, -15.786, -759.040, 127]
     level:    [51, 54]
+    region:   se_146
 
   17629331:
     template: Helm_Beetle
@@ -1014,8 +1014,8 @@ spawns:
 
   17629387:
     template: Sand_Lizard
-    at:       [34.189, -0.670, -18.746, 127]
     level:    [56, 59]
+    region:   c_203
 
   17629388:
     template: Antican_Hastatus
@@ -1100,42 +1100,42 @@ spawns:
   17629404:
     template: Sand_Eater
     level:    [56, 59]
-    region:   e_220
+    region:   c_220
 
   17629405:
     template: Sand_Eater
     level:    [56, 59]
-    region:   e_220
+    region:   c_220
 
   17629406:
     template: Sabotender_Bailaor
     level:    [56, 59]
-    region:   e_220
+    region:   c_220
 
   17629407:
     template: Sabotender_Bailaor
     level:    [56, 59]
-    region:   e_220
+    region:   c_220
 
   17629408:
     template: Sand_Lizard
-    at:       [-36.531, -0.409, -60.063, 126]
     level:    [56, 59]
+    region:   c_224
 
   17629409:
     template: Antican_Hastatus
-    at:       [-90.010, -0.567, -29.424, 127]
     level:    [56, 59]
+    region:   c_225
 
   17629410:
     template: Antican_Princeps
-    at:       [-73.523, -0.500, -41.681, 127]
     level:    [56, 59]
+    region:   c_225
 
   17629411:
     template: Antican_Signifer
-    at:       [-84.865, -0.428, -43.475, 127]
     level:    [56, 59]
+    region:   c_225
 
   17629412:
     template: Antican_Magister
@@ -1144,18 +1144,18 @@ spawns:
 
   17629413:
     template: Sand_Lizard
-    at:       [-89.033, -0.574, -49.804, 120]
     level:    [56, 59]
+    region:   c_225
 
   17629414:
     template: Sand_Lizard
-    at:       [-76.697, -0.407, -28.568, 127]
     level:    [56, 59]
+    region:   c_225
 
   17629415:
     template: Sand_Lizard
-    at:       [-73.936, -0.444, -27.393, 73]
     level:    [56, 59]
+    region:   c_225
 
   17629416:
     template: Antican_Princeps
@@ -1164,23 +1164,23 @@ spawns:
 
   17629417:
     template: Helm_Beetle
-    at:       [36.273, -0.240, -178.437, 127]
     level:    [55, 58]
+    region:   c_233
 
   17629418:
     template: Antican_Hastatus
-    at:       [84.296, -0.295, -209.098, 87]
     level:    [56, 59]
+    region:   c_234
 
   17629419:
     template: Antican_Princeps
-    at:       [73.919, -0.240, -201.451, 38]
     level:    [56, 59]
+    region:   c_234
 
   17629420:
     template: Antican_Signifer
-    at:       [89.575, -0.299, -196.206, 127]
     level:    [56, 59]
+    region:   c_234
 
   17629421:
     template: Antican_Proconsul
@@ -1189,18 +1189,18 @@ spawns:
 
   17629422:
     template: Helm_Beetle
-    at:       [66.932, -0.252, -197.068, 127]
     level:    [55, 58]
+    region:   c_234
 
   17629423:
     template: Helm_Beetle
-    at:       [90.213, -0.297, -197.465, 127]
     level:    [55, 58]
+    region:   c_234
 
   17629424:
     template: Helm_Beetle
-    at:       [74.090, -0.241, -210.722, 53]
     level:    [55, 58]
+    region:   c_234
 
   17629425:
     template: Antican_Hastatus
@@ -1594,8 +1594,8 @@ spawns:
 
   17629503:
     template: Sand_Lizard
-    at:       [-563.592, -0.596, -420.432, 127]
     level:    [56, 59]
+    region:   sw_319
 
   17629504:
     template: Antican_Antesignanus
@@ -1750,12 +1750,12 @@ spawns:
   17629534:
     template: Antican_Quaestor
     level:    [62, 65]
-    region:   sw_350
+    region:   sw_335
 
   17629535:
     template: Antican_Antesignanus
     level:    [62, 65]
-    region:   sw_350
+    region:   sw_335
 
   17629536:
     template: Antican_Aedilis
@@ -1840,47 +1840,47 @@ spawns:
   17629552:
     template: Sand_Tarantula
     level:    [65, 68]
-    region:   n_368
+    region:   nw_368
 
   17629553:
     template: Antican_Triarius
     level:    [66, 69]
-    region:   n_369
+    region:   nw_369
 
   17629554:
     template: Antican_Quaestor
     level:    [66, 69]
-    region:   n_369
+    region:   nw_369
 
   17629555:
     template: Antican_Antesignanus
     level:    [66, 69]
-    region:   n_369
+    region:   nw_369
 
   17629556:
     template: Antican_Aedilis
     level:    [66, 69]
-    region:   n_369
+    region:   nw_369
 
   17629557:
     template: Antican_Triarius
     level:    [66, 69]
-    region:   n_373
+    region:   nw_373
 
   17629558:
     template: Antican_Quaestor
     level:    [66, 69]
-    region:   n_373
+    region:   nw_373
 
   17629559:
     template: Antican_Antesignanus
     level:    [66, 69]
-    region:   n_373
+    region:   nw_373
 
   17629560:
     template: Antican_Aedilis
     level:    [66, 69]
-    region:   n_373
+    region:   nw_373
 
   17629561:
     template: Hastatus_XI-XII
@@ -1930,22 +1930,22 @@ spawns:
   17629570:
     template: Antican_Triarius
     level:    [66, 69]
-    region:   n_386
+    region:   nw_386
 
   17629571:
     template: Antican_Quaestor
     level:    [66, 69]
-    region:   n_386
+    region:   nw_386
 
   17629572:
     template: Antican_Antesignanus
     level:    [66, 69]
-    region:   n_386
+    region:   nw_386
 
   17629573:
     template: Antican_Aedilis
     level:    [66, 69]
-    region:   n_386
+    region:   nw_386
 
   17629574:
     template: Sand_Tarantula
@@ -2004,8 +2004,8 @@ spawns:
 
   17629585:
     template: Antican_Quaestor
-    at:       [-506.540, -0.219, 775.617, 127]
     level:    [66, 69]
+    region:   nw_399
 
   17629586:
     template: Spelunking_Sabotender
@@ -2064,8 +2064,8 @@ spawns:
 
   17629597:
     template: Sand_Tarantula
-    at:       [-420.850, -0.237, 720.530, 127]
     level:    [65, 68]
+    region:   nw_413
 
   17629598:
     template: Sand_Tarantula
@@ -2109,23 +2109,23 @@ spawns:
 
   17629606:
     template: Antican_Triarius
-    at:       [-464.501, -0.127, 620.732, 127]
     level:    [66, 69]
+    region:   nw_422
 
   17629607:
     template: Antican_Quaestor
-    at:       [-459.715, -0.127, 616.667, 62]
     level:    [66, 69]
+    region:   nw_422
 
   17629608:
     template: Antican_Aedilis
-    at:       [-463.927, -0.127, 614.274, 78]
     level:    [66, 69]
+    region:   nw_422
 
   17629609:
     template: Sand_Tarantula
-    at:       [-321.438, -0.196, 659.428, 108]
     level:    [65, 68]
+    region:   n_425
 
   17629610:
     template: Sand_Tarantula
@@ -2209,8 +2209,8 @@ spawns:
 
   17629626:
     template: Spelunking_Sabotender
-    at:       [-179.558, 0.612, 350.955, 66]
     level:    [65, 68]
+    region:   n_442
 
   17629627:
     template: Antican_Triarius
@@ -2274,13 +2274,13 @@ spawns:
 
   17629639:
     template: Antican_Praetor
-    at:       [-298.904, -2.441, 377.605, 127]
     level:    [72, 74]
+    region:   n_455
 
   17629640:
     template: Antican_Legatus
-    at:       [-297.699, -2.414, 384.209, 47]
     level:    [72, 74]
+    region:   n_455
 
   17629641:
     template: Antican_Consul

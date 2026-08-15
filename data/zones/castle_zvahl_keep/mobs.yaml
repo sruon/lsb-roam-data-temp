@@ -129,8 +129,8 @@ spawns:
 
   17440794:
     template: Goblin_Reaper
-    at:       [0.000, 0.000, 0.000, 0]
     level:    [47, 49]
+    region:   ne_26
 
   17440795:
     template: Goblin_Poacher
@@ -234,13 +234,13 @@ spawns:
 
   17440815:
     template: Goblin_Hunter
-    at:       [-30.000, 0.474, 88.000, 51]
     level:    [50, 52]
+    region:   ne_47
 
   17440816:
     template: Goblin_Bouncer
-    at:       [-29.016, 0.100, 91.763, 237]
     level:    [50, 52]
+    region:   ne_47
 
   17440817:
     template: Goblin_Enchanter
@@ -264,8 +264,8 @@ spawns:
 
   17440821:
     template: Goblin_Hunter
-    at:       [-52.323, 0.474, 106.806, 127]
     level:    [50, 52]
+    region:   ne_53
 
   17440822:
     template: Goblin_Bouncer
@@ -274,13 +274,13 @@ spawns:
 
   17440823:
     template: Goblin_Enchanter
-    at:       [-69.795, -0.499, 121.537, 228]
     level:    [50, 52]
+    region:   ne_53
 
   17440824:
     template: Goblin_Hunter
-    at:       [-71.564, 0.474, 108.222, 127]
     level:    [50, 52]
+    region:   ne_56
 
   17440825:
     template: Goblin_Bouncer
@@ -354,8 +354,8 @@ spawns:
 
   17440839:
     template: Orcish_Bowshooter
-    at:       [-51.000, 0.100, -96.000, 119]
     level:    [47, 49]
+    region:   se_71
 
   17440840:
     template: Orcish_Footsoldier
@@ -424,8 +424,8 @@ spawns:
 
   17440853:
     template: Orcish_Zerker
-    at:       [0.000, 0.000, 0.000, 0]
     level:    [50, 52]
+    region:   se_85
 
   17440854:
     template: Orcish_Warchief
@@ -534,23 +534,23 @@ spawns:
 
   17440875:
     template: Evil_Eye
-    at:       [-69.201, -8.160, 143.251, 25]
     level:    [46, 48]
+    region:   ne_107
 
   17440876:
     template: Evil_Eye
-    at:       [-50.262, -8.125, 144.389, 127]
     level:    [46, 48]
+    region:   ne_107
 
   17440877:
     template: Evil_Eye
-    at:       [-51.497, -8.125, -182.772, 127]
     level:    [46, 48]
+    region:   se_109
 
   17440878:
     template: Evil_Eye
-    at:       [-59.000, -8.125, -184.000, 127]
     level:    [46, 48]
+    region:   se_109
 
   17440879:
     template: Elder_Quadav
@@ -564,33 +564,33 @@ spawns:
 
   17440881:
     template: Spinel_Quadav
-    at:       [0.000, 0.000, 0.000, 0]
     level:    [47, 49]
+    region:   ne_53
 
   17440882:
     template: Emerald_Quadav
-    at:       [-54.125, -15.557, 113.852, 119]
     level:    [47, 49]
+    region:   ne_53
 
   17440883:
     template: Elder_Quadav
     level:    [47, 49]
-    region:   ne_115
+    region:   ne_56
 
   17440884:
     template: Iron_Quadav
     level:    [47, 49]
-    region:   ne_115
+    region:   ne_56
 
   17440885:
     template: Spinel_Quadav
     level:    [47, 49]
-    region:   ne_115
+    region:   ne_56
 
   17440886:
     template: Emerald_Quadav
     level:    [47, 49]
-    region:   ne_115
+    region:   ne_56
 
   17440887:
     template: Elder_Quadav
@@ -739,8 +739,8 @@ spawns:
 
   17440916:
     template: Yagudo_Conquistador
-    at:       [0.000, 0.000, 0.000, 0]
     level:    [47, 49]
+    region:   se_148
 
   17440917:
     template: Yagudo_Lutenist
@@ -824,8 +824,8 @@ spawns:
 
   17440933:
     template: Yagudo_Lutenist
-    at:       [0.000, 0.000, 0.000, 0]
     level:    [47, 49]
+    region:   se_71
 
   17440934:
     template: Yagudo_Prior
@@ -859,8 +859,8 @@ spawns:
 
   17440940:
     template: Yagudo_Chanter
-    at:       [-86.769, -15.544, -108.947, 61]
     level:    [50, 52]
+    region:   se_172
 
   17440941:
     template: Yagudo_Inquisitor
@@ -895,12 +895,12 @@ spawns:
   17440947:
     template: Evil_Eye
     level:    [46, 48]
-    region:   e_179
+    region:   e_5
 
   17440948:
     template: Evil_Eye
     level:    [46, 48]
-    region:   e_179
+    region:   e_5
 
   17440949:
     template: Evil_Eye
@@ -929,23 +929,23 @@ spawns:
 
   17440954:
     template: Morbid_Eye
-    at:       [-274.000, -48.125, -21.000, 1]
     level:    [52, 53]
+    region:   c_186
 
   17440955:
     template: Morbid_Eye
-    at:       [-299.000, -48.184, 4.000, 37]
     level:    [52, 53]
+    region:   c_187
 
   17440956:
     template: Morbid_Eye
-    at:       [-296.896, -48.125, -53.381, 127]
     level:    [52, 53]
+    region:   c_188
 
   17440957:
     template: Morbid_Eye
-    at:       [-322.000, -48.125, -19.000, 101]
     level:    [52, 53]
+    region:   c_189
 
   17440958:
     template: Demon_Pawn
@@ -980,22 +980,22 @@ spawns:
   17440964:
     template: Demon_Wizard
     level:    [52, 55]
-    region:   s_196
+    region:   c_196
 
   17440965:
     template: Demon_Pawn
     level:    [52, 55]
-    region:   s_197
+    region:   c_197
 
   17440966:
     template: Demon_Warlock
     level:    [52, 55]
-    region:   se_198
+    region:   e_198
 
   17440967:
     template: Demons_Elemental
     level:    [45, 53]
-    region:   se_198
+    region:   e_198
 
   17440968:
     template: Demon_Knight
@@ -1095,12 +1095,12 @@ spawns:
   17440987:
     template: Deadly_Iris
     level:    [55, 56]
-    region:   w_219
+    region:   nw_219
 
   17440988:
     template: Deadly_Iris
     level:    [55, 56]
-    region:   w_219
+    region:   nw_219
 
   17440989:
     template: Demon_Pawn
@@ -1184,13 +1184,13 @@ spawns:
 
   17441005:
     template: Demon_Warlock
-    at:       [-465.705, -67.375, 68.205, 127]
     level:    [55, 56]
+    region:   nw_237
 
   17441006:
     template: Demons_Elemental
-    at:       [1.000, 1.000, 1.000, 0]
     level:    [45, 53]
+    region:   nw_237
 
   17441007:
     template: Demon_Knight

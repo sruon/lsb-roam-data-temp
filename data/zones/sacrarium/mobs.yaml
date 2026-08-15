@@ -44,8 +44,8 @@ spawns:
 
   16891913:
     template: Mummy
-    at:       [-114.735, -0.600, 28.141, 69]
     level:    [54, 56]
+    region:   w_9
 
   16891914:
     template: Mummy
@@ -54,8 +54,8 @@ spawns:
 
   16891915:
     template: Lich
-    at:       [-107.424, -0.599, 25.998, 253]
     level:    [54, 56]
+    region:   w_9
 
   16891916:
     template: Mummy
@@ -79,8 +79,8 @@ spawns:
 
   16891920:
     template: Mummy
-    at:       [-86.657, -0.500, -33.218, 195]
     level:    [54, 56]
+    region:   w_16
 
   16891921:
     template: Lich
@@ -89,18 +89,18 @@ spawns:
 
   16891922:
     template: Lich
-    at:       [-95.769, -0.599, -31.763, 180]
     level:    [54, 56]
+    region:   w_16
 
   16891923:
     template: Mummy
-    at:       [-66.121, -0.600, 12.150, 189]
     level:    [54, 56]
+    region:   w_19
 
   16891924:
     template: Lich
-    at:       [-75.203, -0.599, 7.772, 180]
     level:    [54, 56]
+    region:   w_19
 
   16891925:
     template: Blubber_Eyes
@@ -139,13 +139,13 @@ spawns:
 
   16891932:
     template: Lich
-    at:       [-47.806, -0.599, -6.104, 131]
     level:    [54, 56]
+    region:   w_28
 
   16891933:
     template: Blubber_Eyes
-    at:       [-53.992, -0.564, -22.007, 189]
     level:    [57, 59]
+    region:   w_28
 
   16891934:
     template: Mummy
@@ -159,13 +159,13 @@ spawns:
 
   16891936:
     template: Mummy
-    at:       [-7.401, -0.600, 14.979, 127]
     level:    [54, 56]
+    region:   c_32
 
   16891937:
     template: Mummy
-    at:       [-7.693, -0.600, 14.770, 141]
     level:    [54, 56]
+    region:   c_32
 
   16891938:
     template: Lich
@@ -179,13 +179,13 @@ spawns:
 
   16891940:
     template: Mummy
-    at:       [-12.080, -0.600, -24.003, 130]
     level:    [54, 56]
+    region:   c_36
 
   16891941:
     template: Lich
-    at:       [-4.394, -0.569, -27.598, 192]
     level:    [54, 56]
+    region:   c_36
 
   16891942:
     template: Utukku
@@ -215,12 +215,12 @@ spawns:
   16891947:
     template: Utukku
     level:    [55, 55]
-    region:   c_43
+    region:   c_36
 
   16891948:
     template: Elel
     level:    [60, 60]
-    region:   w_44
+    region:   c_32
 
   16891949:
     template: Stegotaur
@@ -229,8 +229,8 @@ spawns:
 
   16891950:
     template: Stegotaur
-    at:       [-60.765, -0.347, -53.644, 187]
     level:    [47, 49]
+    region:   sw_46
 
   16891951:
     template: Fomor_Ranger
@@ -249,18 +249,18 @@ spawns:
 
   16891954:
     template: Fomor_Dragoon
-    at:       [49.031, -0.624, 67.719, 184]
     level:    [54, 56]
+    region:   n_50
 
   16891955:
     template: Fomors_Wyvern
-    at:       [1.000, 1.000, 1.000, 254]
     level:    [49, 52]
+    region:   n_50
 
   16891956:
     template: Fomor_Ranger
-    at:       [49.294, -0.608, 65.212, 61]
     level:    [54, 56]
+    region:   n_50
 
   16891957:
     template: Fomor_Black_Mage
@@ -299,18 +299,18 @@ spawns:
 
   16891964:
     template: Fomor_Dark_Knight
-    at:       [57.013, -0.596, -70.723, 129]
     level:    [54, 56]
+    region:   s_60
 
   16891965:
     template: Fomor_Summoner
-    at:       [57.116, -0.596, -70.561, 128]
     level:    [54, 56]
+    region:   s_60
 
   16891966:
     template: Fomors_Elemental
-    at:       [1.000, 1.000, 1.000, 120]
     level:    [49, 51]
+    region:   s_60
 
   16891967:
     template: Fomor_Warrior
@@ -799,8 +799,8 @@ spawns:
 
   16892064:
     template: Dark_Elemental
-    at:       [153.218, 5.472, 100.007, 127]
     level:    [60, 60]
+    region:   ne_158
 
   16892065:
     template: Air_Elemental
@@ -854,58 +854,58 @@ spawns:
 
   16892075:
     template: Aqueduct_Spider
-    at:       [-172.143, -7.947, -18.455, 18]
     level:    [84, 86]
+    region:   w_171
 
   16892076:
     template: Aqueduct_Spider
-    at:       [-176.226, -8.599, -20.349, 218]
     level:    [84, 86]
+    region:   w_171
 
   16892077:
     template: Aqueduct_Spider
-    at:       [-185.510, -8.599, -20.465, 164]
     level:    [84, 86]
+    region:   w_171
 
   16892078:
     template: Aqueduct_Spider
-    at:       [-181.463, -8.599, -24.307, 48]
     level:    [84, 86]
+    region:   w_171
 
   16892079:
     template: Aqueduct_Spider
-    at:       [-180.419, -8.585, -14.921, 171]
     level:    [84, 86]
+    region:   w_171
 
   16892080:
     template: Aqueduct_Spider
-    at:       [-166.700, -7.600, -19.257, 72]
     level:    [84, 86]
+    region:   w_176
 
   16892081:
     template: Aqueduct_Spider
-    at:       [-159.137, -7.600, -16.144, 255]
     level:    [84, 86]
+    region:   w_176
 
   16892082:
     template: Aqueduct_Spider
-    at:       [158.470, -0.837, 59.464, 127]
     level:    [84, 86]
+    region:   ne_178
 
   16892083:
     template: Aqueduct_Spider
-    at:       [158.531, -0.821, 59.227, 127]
     level:    [84, 86]
+    region:   ne_178
 
   16892084:
     template: Aqueduct_Spider
-    at:       [139.119, -0.368, 80.249, 63]
     level:    [84, 86]
+    region:   ne_158
 
   16892085:
     template: Aqueduct_Spider
-    at:       [139.297, 0.879, 86.147, 64]
     level:    [84, 86]
+    region:   ne_158
 
   16892086:
     template: Aqueduct_Spider
@@ -924,23 +924,23 @@ spawns:
 
   16892089:
     template: Aqueduct_Spider
-    at:       [140.228, -0.560, -81.596, 64]
     level:    [84, 86]
+    region:   se_185
 
   16892090:
     template: Aqueduct_Spider
-    at:       [140.477, -0.529, -80.427, 64]
     level:    [84, 86]
+    region:   se_185
 
   16892091:
     template: Aqueduct_Spider
-    at:       [168.678, -2.474, -61.076, 255]
     level:    [84, 86]
+    region:   se_161
 
   16892092:
     template: Aqueduct_Spider
-    at:       [172.191, -3.305, -60.903, 255]
     level:    [84, 86]
+    region:   se_161
 
   16892093:
     template: Aqueduct_Spider

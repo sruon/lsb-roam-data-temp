@@ -1739,8 +1739,8 @@ spawns:
 
   17191260:
     template: Goblin_Thug
-    at:       [300.313, 0.065, -496.409, 11]
     level:    [7, 8]
+    region:   s_348
 
   17191261:
     template: Goblin_Weaver
@@ -1955,7 +1955,7 @@ spawns:
   17191303:
     template: Orcish_Grappler
     level:    [7, 8]
-    region:   se_391
+    region:   se_380
 
   17191304:
     template: Ding_Bats

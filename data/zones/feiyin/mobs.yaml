@@ -20,12 +20,12 @@ spawns:
   17612804:
     template: Undead_Bats
     level:    [38, 40]
-    region:   s_4
+    region:   sw_4
 
   17612805:
     template: Undead_Bats
     level:    [38, 40]
-    region:   s_4
+    region:   sw_4
 
   17612806:
     template: Revenant
@@ -309,13 +309,13 @@ spawns:
 
   17612862:
     template: Ore_Golem
-    at:       [200.600, -23.760, -47.527, 149]
     level:    [43, 45]
+    region:   se_62
 
   17612863:
     template: Ore_Golem
-    at:       [193.250, -23.990, -47.166, 122]
     level:    [43, 45]
+    region:   se_62
 
   17612864:
     template: Drone
@@ -354,8 +354,8 @@ spawns:
 
   17612871:
     template: Shadow
-    at:       [-21.320, -16.110, -76.029, 67]
     level:    [44, 46]
+    region:   s_71
 
   17612872:
     template: Shadow
@@ -364,8 +364,8 @@ spawns:
 
   17612873:
     template: Shadow
-    at:       [17.775, -16.090, -105.290, 132]
     level:    [44, 46]
+    region:   s_73
 
   17612874:
     template: Shadow
@@ -409,18 +409,18 @@ spawns:
 
   17612882:
     template: Wekufe
-    at:       [156.910, -23.720, -86.917, 37]
     level:    [97, 98]
+    region:   se_82
 
   17612883:
     template: Wekufe
-    at:       [155.140, -23.670, -84.502, 164]
     level:    [97, 99]
+    region:   se_82
 
   17612884:
     template: Wekufe
-    at:       [156.720, -24.100, -68.772, 209]
     level:    [98, 99]
+    region:   se_84
 
   17612885:
     template: Wekufe
@@ -429,8 +429,8 @@ spawns:
 
   17612886:
     template: Wekufe
-    at:       [126.460, -24.120, -31.284, 165]
     level:    [97, 99]
+    region:   se_86
 
   17612887:
     template: Wekufe
@@ -439,13 +439,13 @@ spawns:
 
   17612888:
     template: Wekufe
-    at:       [119.340, -23.560, -41.310, 67]
     level:    [98, 99]
+    region:   se_88
 
   17612889:
     template: Wekufe
-    at:       [116.760, -23.730, -45.855, 220]
     level:    [97, 99]
+    region:   se_88
 
   17612890:
     template: Shadow
@@ -509,18 +509,18 @@ spawns:
 
   17612902:
     template: Wekufe
-    at:       [155.010, -23.820, 6.555, 95]
     level:    [97, 99]
+    region:   e_102
 
   17612903:
     template: Wekufe
-    at:       [156.800, -23.830, 8.568, 65]
     level:    [97, 99]
+    region:   e_102
 
   17612904:
     template: Wekufe
-    at:       [164.650, -23.650, -2.242, 252]
     level:    [97, 99]
+    region:   se_104
 
   17612905:
     template: Wekufe
@@ -549,13 +549,13 @@ spawns:
 
   17612910:
     template: Sentient_Carafe
-    at:       [130.240, -25.180, 55.396, 140]
     level:    [98, 99]
+    region:   e_110
 
   17612911:
     template: Sentient_Carafe
-    at:       [131.020, -25.160, 59.323, 55]
     level:    [98, 99]
+    region:   e_110
 
   17612912:
     template: Sentient_Carafe
@@ -569,8 +569,8 @@ spawns:
 
   17612914:
     template: Wekufe
-    at:       [221.060, -23.720, 24.148, 42]
     level:    [97, 99]
+    region:   e_114
 
   17612915:
     template: Wekufe
@@ -579,98 +579,98 @@ spawns:
 
   17612916:
     template: Wekufe
-    at:       [230.120, -24.090, 23.676, 176]
     level:    [97, 99]
+    region:   e_116
 
   17612917:
     template: Wekufe
-    at:       [228.650, -24.020, 13.272, 252]
     level:    [99, 99]
+    region:   e_116
 
   17612918:
     template: Balayang
-    at:       [230.970, -24.100, 96.625, 219]
     level:    [95, 97]
+    region:   e_118
 
   17612919:
     template: Balayang
-    at:       [218.440, -23.710, 90.029, 119]
     level:    [95, 97]
+    region:   e_118
 
   17612920:
     template: Balayang
-    at:       [226.160, -23.910, 92.475, 1]
     level:    [95, 97]
+    region:   e_118
 
   17612921:
     template: Balayang
-    at:       [224.840, -23.740, 98.014, 133]
     level:    [95, 97]
+    region:   e_121
 
   17612922:
     template: Balayang
-    at:       [219.360, -23.770, 106.105, 76]
     level:    [95, 97]
+    region:   e_121
 
   17612923:
     template: Balayang
-    at:       [217.580, -24.090, 109.177, 140]
     level:    [95, 97]
+    region:   e_121
 
   17612924:
     template: Balayang
-    at:       [154.870, -23.850, 113.125, 160]
     level:    [95, 97]
+    region:   e_124
 
   17612925:
     template: Balayang
-    at:       [160.060, -24.050, 108.533, 36]
     level:    [95, 97]
+    region:   e_124
 
   17612926:
     template: Balayang
-    at:       [153.480, -24.080, 119.579, 60]
     level:    [95, 97]
+    region:   e_124
 
   17612927:
     template: Balayang
-    at:       [172.970, -24.130, 122.530, 48]
     level:    [95, 97]
+    region:   e_127
 
   17612928:
     template: Balayang
-    at:       [167.680, -24.110, 129.615, 25]
     level:    [95, 97]
+    region:   e_127
 
   17612929:
     template: Balayang
-    at:       [167.720, -23.750, 122.304, 35]
     level:    [95, 97]
+    region:   e_127
 
   17612930:
     template: Balayang
-    at:       [132.120, -24.110, 155.684, 63]
     level:    [95, 97]
+    region:   e_130
 
   17612931:
     template: Balayang
-    at:       [120.960, -23.550, 157.865, 12]
     level:    [95, 97]
+    region:   e_130
 
   17612932:
     template: Balayang
-    at:       [131.500, -24.480, 159.820, 41]
     level:    [95, 97]
+    region:   e_130
 
   17612933:
     template: Balayang
-    at:       [121.950, -23.700, 166.869, 152]
     level:    [95, 97]
+    region:   e_133
 
   17612934:
     template: Balayang
-    at:       [114.280, -23.710, 162.458, 39]
     level:    [95, 97]
+    region:   e_133
 
   17612935:
     template: Balayang
@@ -679,28 +679,28 @@ spawns:
 
   17612936:
     template: Balayang
-    at:       [169.490, -24.020, 196.572, 200]
     level:    [95, 97]
+    region:   ne_136
 
   17612937:
     template: Balayang
-    at:       [162.650, -23.580, 197.634, 101]
     level:    [95, 97]
+    region:   ne_136
 
   17612938:
     template: Balayang
     level:    [95, 97]
-    region:   ne_138
+    region:   ne_136
 
   17612939:
     template: Balayang
-    at:       [154.170, -23.660, 201.884, 76]
     level:    [95, 97]
+    region:   ne_139
 
   17612940:
     template: Balayang
-    at:       [152.150, -23.750, 200.567, 6]
     level:    [95, 97]
+    region:   ne_139
 
   17612941:
     template: Balayang
@@ -1089,8 +1089,8 @@ spawns:
 
   17613018:
     template: Underworld_Bats
-    at:       [21.000, -0.112, 143.000, 127]
     level:    [50, 52]
+    region:   n_218
 
   17613019:
     template: Specter
@@ -1114,13 +1114,13 @@ spawns:
 
   17613023:
     template: Underworld_Bats
-    at:       [21.055, -0.112, 298.605, 110]
     level:    [50, 52]
+    region:   n_223
 
   17613024:
     template: Specter
-    at:       [35.085, -0.024, 289.886, 163]
     level:    [55, 57]
+    region:   n_224
 
   17613025:
     template: Specter
@@ -1129,8 +1129,8 @@ spawns:
 
   17613026:
     template: Specter
-    at:       [-2.000, -0.114, 314.000, 127]
     level:    [55, 57]
+    region:   n_224
 
   17613027:
     template: Specter
@@ -1160,12 +1160,12 @@ spawns:
   17613032:
     template: Underworld_Bats
     level:    [50, 52]
-    region:   n_232
+    region:   nw_232
 
   17613033:
     template: Underworld_Bats
     level:    [50, 52]
-    region:   n_232
+    region:   nw_232
 
   17613034:
     template: Droma
@@ -1189,18 +1189,18 @@ spawns:
 
   17613038:
     template: Killing_Weapon
-    at:       [-136.500, 0.286, 183.906, 220]
     level:    [59, 61]
+    region:   nw_238
 
   17613039:
     template: Hellish_Weapon
-    at:       [-131.900, 0.154, 180.319, 90]
     level:    [61, 63]
+    region:   nw_238
 
   17613040:
     template: Hellish_Weapon
-    at:       [-141.500, 0.191, 181.302, 139]
     level:    [61, 63]
+    region:   nw_238
 
   17613041:
     template: Utukku
@@ -1484,8 +1484,8 @@ spawns:
 
   17613097:
     template: Underworld_Bats
-    at:       [-179.100, -16.500, 94.674, 221]
     level:    [50, 52]
+    region:   w_297
 
   17613098:
     template: Specter

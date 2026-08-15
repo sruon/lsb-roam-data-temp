@@ -60,12 +60,12 @@ spawns:
   17498124:
     template: Undead_Bats
     level:    [36, 39]
-    region:   ne_12
+    region:   n_12
 
   17498125:
     template: Royal_Leech
     level:    [35, 38]
-    region:   ne_12
+    region:   n_12
 
   17498126:
     template: Royal_Leech
@@ -95,32 +95,32 @@ spawns:
   17498131:
     template: Royal_Leech
     level:    [35, 38]
-    region:   ne_19
+    region:   n_19
 
   17498132:
     template: Royal_Leech
     level:    [35, 38]
-    region:   ne_19
+    region:   n_19
 
   17498133:
     template: Undead_Bats
     level:    [36, 39]
-    region:   ne_19
+    region:   n_19
 
   17498134:
     template: Undead_Bats
     level:    [36, 39]
-    region:   ne_19
+    region:   n_19
 
   17498135:
     template: Pond_Sahagin
     level:    [36, 39]
-    region:   ne_19
+    region:   n_19
 
   17498136:
     template: Spring_Sahagin
     level:    [36, 39]
-    region:   ne_19
+    region:   n_19
 
   17498137:
     template: Royal_Leech
@@ -179,23 +179,23 @@ spawns:
 
   17498148:
     template: Ironshell
-    at:       [-28.095, 9.335, 294.882, 1]
     level:    [37, 40]
+    region:   n_36
 
   17498149:
     template: Ghast
-    at:       [-37.192, 9.480, 298.519, 124]
     level:    [38, 41]
+    region:   n_36
 
   17498150:
     template: Ironshell
-    at:       [-22.714, 11.100, 262.956, 127]
     level:    [37, 40]
+    region:   n_38
 
   17498151:
     template: Ghast
-    at:       [-21.320, 11.197, 265.802, 127]
     level:    [38, 41]
+    region:   n_38
 
   17498152:
     template: Ironshell
@@ -239,8 +239,8 @@ spawns:
 
   17498160:
     template: Ironshell
-    at:       [24.078, 10.134, 185.711, 127]
     level:    [37, 40]
+    region:   n_48
 
   17498161:
     template: Royal_Leech
@@ -279,13 +279,13 @@ spawns:
 
   17498168:
     template: Royal_Leech
-    at:       [-67.866, 11.107, 221.278, 127]
     level:    [35, 38]
+    region:   n_56
 
   17498169:
     template: Royal_Leech
-    at:       [-54.612, 11.072, 211.888, 14]
     level:    [35, 38]
+    region:   n_56
 
   17498170:
     template: Ghast
@@ -364,8 +364,8 @@ spawns:
 
   17498185:
     template: Ooze
-    at:       [-187.253, 9.364, 142.011, 127]
     level:    [39, 42]
+    region:   nw_73
 
   17498186:
     template: Ghast
@@ -389,18 +389,18 @@ spawns:
 
   17498190:
     template: Ooze
-    at:       [-182.581, 25.268, 229.155, 127]
     level:    [39, 42]
+    region:   nw_78
 
   17498191:
     template: Undead_Bats
-    at:       [11.454, 8.445, 152.169, 102]
     level:    [36, 39]
+    region:   n_79
 
   17498192:
     template: Royal_Leech
-    at:       [14.644, 7.840, 154.508, 127]
     level:    [35, 38]
+    region:   n_80
 
   17498193:
     template: Ironshell
@@ -444,8 +444,8 @@ spawns:
 
   17498201:
     template: Undead_Bats
-    at:       [152.593, -3.660, 169.867, 104]
     level:    [36, 39]
+    region:   n_89
 
   17498202:
     template: Undead_Bats
@@ -669,13 +669,13 @@ spawns:
 
   17498246:
     template: Vampire_Bat
-    at:       [222.655, 19.712, -71.549, 104]
     level:    [42, 45]
+    region:   e_134
 
   17498247:
     template: Vampire_Bat
-    at:       [225.231, 19.680, -57.378, 127]
     level:    [42, 45]
+    region:   e_134
 
   17498248:
     template: Brook_Sahagin
@@ -729,8 +729,8 @@ spawns:
 
   17498258:
     template: Bigclaw
-    at:       [219.739, 19.604, -6.589, 75]
     level:    [43, 48]
+    region:   e_146
 
   17498259:
     template: Riparian_Sahagin
@@ -789,33 +789,33 @@ spawns:
 
   17498270:
     template: Grotto_Pugil
-    at:       [217.491, 20.091, 52.775, 127]
     level:    [44, 47]
+    region:   e_158
 
   17498271:
     template: Bigclaw
-    at:       [220.315, 19.786, 48.919, 127]
     level:    [43, 48]
+    region:   e_158
 
   17498272:
     template: Bigclaw
-    at:       [210.726, 19.706, 51.657, 49]
     level:    [43, 48]
+    region:   e_158
 
   17498273:
     template: Brook_Sahagin
-    at:       [293.123, 19.594, -104.357, 18]
     level:    [44, 48]
+    region:   e_161
 
   17498274:
     template: Grotto_Pugil
-    at:       [327.747, 19.554, -104.447, 127]
     level:    [44, 47]
+    region:   e_162
 
   17498275:
     template: Grotto_Pugil
-    at:       [332.496, 19.487, -108.875, 108]
     level:    [44, 47]
+    region:   e_162
 
   17498276:
     template: Brook_Sahagin
@@ -879,13 +879,13 @@ spawns:
 
   17498288:
     template: Riparian_Sahagin
-    at:       [407.176, 8.411, -57.298, 127]
     level:    [44, 48]
+    region:   e_176
 
   17498289:
     template: Bigclaw
-    at:       [333.220, 9.666, -74.693, 44]
     level:    [43, 48]
+    region:   e_177
 
   17498290:
     template: Brook_Sahagin
@@ -949,23 +949,23 @@ spawns:
 
   17498302:
     template: Bigclaw
-    at:       [257.694, 9.423, 66.404, 4]
     level:    [43, 48]
+    region:   e_190
 
   17498303:
     template: Bigclaw
-    at:       [259.027, 9.504, 63.345, 29]
     level:    [43, 48]
+    region:   e_190
 
   17498304:
     template: Grotto_Pugil
-    at:       [262.638, 9.949, 60.317, 127]
     level:    [44, 47]
+    region:   e_192
 
   17498305:
     template: Grotto_Pugil
-    at:       [266.995, 9.971, 68.243, 127]
     level:    [44, 47]
+    region:   e_192
 
   17498306:
     template: Riparian_Sahagin
@@ -1004,13 +1004,13 @@ spawns:
 
   17498313:
     template: Sea_Bonze
-    at:       [252.763, 29.682, 152.098, 127]
     level:    [47, 50]
+    region:   ne_201
 
   17498314:
     template: Sea_Bonze
-    at:       [315.034, 20.123, 20.537, 127]
     level:    [47, 50]
+    region:   e_202
 
   17498315:
     template: Riparian_Sahagin
@@ -1069,18 +1069,18 @@ spawns:
 
   17498326:
     template: Marsh_Sahagin
-    at:       [18.758, 13.541, 15.815, 107]
     level:    [52, 55]
+    region:   c_214
 
   17498327:
     template: Sahagin_Parasite
-    at:       [9.812, 16.740, 20.466, 127]
     level:    [50, 53]
+    region:   c_214
 
   17498328:
     template: Thunder_Elemental
-    at:       [8.197, 17.597, 22.581, 127]
     level:    [55, 58]
+    region:   c_214
 
   17498329:
     template: Marsh_Sahagin
@@ -1194,13 +1194,13 @@ spawns:
 
   17498351:
     template: Sahagin_Parasite
-    at:       [-103.972, 20.685, 47.566, 127]
     level:    [50, 53]
+    region:   w_239
 
   17498352:
     template: Rock_Crab
-    at:       [-102.571, 20.596, 47.974, 127]
     level:    [53, 58]
+    region:   w_239
 
   17498353:
     template: Marsh_Sahagin
@@ -1249,13 +1249,13 @@ spawns:
 
   17498362:
     template: Rock_Crab
-    at:       [-97.687, 21.248, 56.343, 127]
     level:    [53, 58]
+    region:   w_250
 
   17498363:
     template: Rock_Crab
-    at:       [-97.378, 21.252, 56.860, 35]
     level:    [53, 58]
+    region:   w_250
 
   17498364:
     template: Marsh_Sahagin
@@ -1274,13 +1274,13 @@ spawns:
 
   17498367:
     template: Rock_Crab
-    at:       [-57.883, 21.183, -57.265, 83]
     level:    [53, 58]
+    region:   c_255
 
   17498368:
     template: Rock_Crab
-    at:       [-56.100, 21.280, -64.382, 9]
     level:    [53, 58]
+    region:   c_255
 
   17498369:
     template: Rock_Crab
@@ -1304,13 +1304,13 @@ spawns:
 
   17498373:
     template: Blubber_Eyes
-    at:       [-122.229, 28.859, 23.664, 127]
     level:    [55, 58]
+    region:   w_261
 
   17498374:
     template: Swamp_Sahagin
-    at:       [-116.010, 28.332, 19.924, 127]
     level:    [52, 55]
+    region:   w_261
 
   17498375:
     template: Rock_Crab
@@ -1364,13 +1364,13 @@ spawns:
 
   17498385:
     template: Rock_Crab
-    at:       [-217.119, 19.313, -75.153, 127]
     level:    [53, 58]
+    region:   w_273
 
   17498386:
     template: Rock_Crab
-    at:       [-215.222, 19.862, -71.408, 78]
     level:    [53, 58]
+    region:   w_273
 
   17498387:
     template: Bog_Sahagin
@@ -1394,18 +1394,18 @@ spawns:
 
   17498391:
     template: Swamp_Sahagin
-    at:       [-140.146, 19.873, -17.046, 127]
     level:    [55, 59]
+    region:   w_279
 
   17498392:
     template: Rock_Crab
-    at:       [-130.940, 19.919, -24.797, 8]
     level:    [53, 58]
+    region:   w_279
 
   17498393:
     template: Rock_Crab
-    at:       [-136.064, 19.379, -11.775, 127]
     level:    [53, 58]
+    region:   w_279
 
   17498394:
     template: Blubber_Eyes
@@ -1429,13 +1429,13 @@ spawns:
 
   17498398:
     template: Bog_Sahagin
-    at:       [-172.851, 19.895, 60.643, 127]
     level:    [55, 59]
+    region:   w_286
 
   17498399:
     template: Rock_Crab
-    at:       [-172.628, 19.766, 61.058, 127]
     level:    [53, 58]
+    region:   w_286
 
   17498400:
     template: Marsh_Sahagin
@@ -1459,8 +1459,8 @@ spawns:
 
   17498404:
     template: Marsh_Sahagin
-    at:       [-216.753, 19.196, 40.092, 127]
     level:    [55, 59]
+    region:   w_292
 
   17498405:
     template: Razorjaw_Pugil
@@ -1474,13 +1474,13 @@ spawns:
 
   17498407:
     template: Razorjaw_Pugil
-    at:       [-260.362, 19.967, -43.055, 127]
     level:    [57, 60]
+    region:   w_295
 
   17498408:
     template: Razorjaw_Pugil
-    at:       [-268.168, 20.274, -56.808, 65]
     level:    [57, 60]
+    region:   w_295
 
   17498409:
     template: Marsh_Sahagin
@@ -1509,8 +1509,8 @@ spawns:
 
   17498414:
     template: Rock_Crab
-    at:       [-299.728, 20.234, -71.261, 92]
     level:    [53, 58]
+    region:   w_302
 
   17498415:
     template: Marsh_Sahagin
@@ -1564,8 +1564,8 @@ spawns:
 
   17498425:
     template: Razorjaw_Pugil
-    at:       [-259.000, 10.000, -77.000, 67]
     level:    [57, 60]
+    region:   w_313
 
   17498426:
     template: Marsh_Sahagin
@@ -1584,13 +1584,13 @@ spawns:
 
   17498429:
     template: Mousse
-    at:       [41.102, 19.361, -99.853, 11]
     level:    [62, 65]
+    region:   c_317
 
   17498430:
     template: Water_Elemental
-    at:       [41.364, 19.477, -100.439, 127]
     level:    [65, 68]
+    region:   c_317
 
   17498431:
     template: Shore_Sahagin
@@ -1730,32 +1730,32 @@ spawns:
   17498458:
     template: Dire_Bat
     level:    [63, 66]
-    region:   s_346
+    region:   sw_346
 
   17498459:
     template: Water_Elemental
     level:    [65, 68]
-    region:   s_346
+    region:   sw_346
 
   17498460:
     template: Shore_Sahagin
-    at:       [-102.877, 9.859, -300.331, 10]
     level:    [62, 65]
+    region:   sw_348
 
   17498461:
     template: Coastal_Sahagin
-    at:       [-102.127, 9.797, -308.149, 98]
     level:    [62, 65]
+    region:   sw_348
 
   17498462:
     template: Dire_Bat
-    at:       [-103.628, 9.862, -307.753, 47]
     level:    [63, 66]
+    region:   sw_348
 
   17498463:
     template: Dire_Bat
-    at:       [-93.063, 9.768, -302.413, 127]
     level:    [63, 66]
+    region:   sw_348
 
   17498464:
     template: Denn_the_Orcavoiced
@@ -1764,13 +1764,13 @@ spawns:
 
   17498465:
     template: Dire_Bat
-    at:       [-88.186, 27.963, -177.110, 127]
     level:    [63, 66]
+    region:   s_353
 
   17498466:
     template: Mousse
-    at:       [-90.964, 26.347, -167.792, 40]
     level:    [62, 65]
+    region:   sw_354
 
   17498467:
     template: Dire_Bat
@@ -1839,18 +1839,18 @@ spawns:
 
   17498480:
     template: Dire_Bat
-    at:       [-160.230, 19.610, -261.433, 73]
     level:    [63, 66]
+    region:   sw_368
 
   17498481:
     template: Dire_Bat
-    at:       [-156.503, 19.977, -260.877, 127]
     level:    [63, 66]
+    region:   sw_368
 
   17498482:
     template: Robber_Crab
-    at:       [-152.049, 19.944, -264.849, 38]
     level:    [62, 67]
+    region:   sw_368
 
   17498483:
     template: Dire_Bat
@@ -1869,13 +1869,13 @@ spawns:
 
   17498486:
     template: Robber_Crab
-    at:       [-193.993, 30.165, -258.590, 127]
     level:    [62, 67]
+    region:   sw_374
 
   17498487:
     template: Robber_Crab
     level:    [62, 67]
-    region:   sw_375
+    region:   sw_374
 
   17498488:
     template: Shore_Sahagin
@@ -1899,13 +1899,13 @@ spawns:
 
   17498492:
     template: Robber_Crab
-    at:       [-185.783, 29.856, -216.996, 114]
     level:    [62, 67]
+    region:   sw_380
 
   17498493:
     template: Devil_Manta
-    at:       [-179.649, 30.063, -206.458, 84]
     level:    [66, 69]
+    region:   sw_380
 
   17498494:
     template: Robber_Crab
@@ -1919,8 +1919,8 @@ spawns:
 
   17498496:
     template: Devil_Manta
-    at:       [-226.371, 40.195, -213.499, 127]
     level:    [66, 69]
+    region:   sw_384
 
   17498497:
     template: Robber_Crab
@@ -1944,33 +1944,33 @@ spawns:
 
   17498501:
     template: Robber_Crab
-    at:       [-268.628, 50.157, -302.061, 127]
     level:    [62, 67]
+    region:   sw_389
 
   17498502:
     template: Robber_Crab
-    at:       [-263.387, 50.145, -306.740, 127]
     level:    [62, 67]
+    region:   sw_389
 
   17498503:
     template: Robber_Crab
-    at:       [-255.176, 47.969, -333.297, 127]
     level:    [62, 67]
+    region:   sw_391
 
   17498504:
     template: Robber_Crab
-    at:       [-258.214, 51.147, -343.688, 57]
     level:    [62, 67]
+    region:   sw_391
 
   17498505:
     template: Devil_Manta
-    at:       [-230.814, 39.978, -264.337, 102]
     level:    [66, 69]
+    region:   sw_393
 
   17498506:
     template: Devil_Manta
-    at:       [-225.144, 39.750, -270.253, 48]
     level:    [66, 69]
+    region:   sw_393
 
   17498507:
     template: Robber_Crab
@@ -2034,8 +2034,8 @@ spawns:
 
   17498519:
     template: Water_Elemental
-    at:       [-218.690, 37.288, -340.355, 50]
     level:    [65, 68]
+    region:   sw_406
 
   17498520:
     template: Devil_Manta
@@ -2054,13 +2054,13 @@ spawns:
 
   17498523:
     template: Mindgazer
-    at:       [110.662, 2.660, 12.958, 127]
     level:    [66, 69]
+    region:   c_411
 
   17498524:
     template: Shore_Sahagin
-    at:       [107.255, 2.561, 15.756, 127]
     level:    [69, 71]
+    region:   c_411
 
   17498525:
     template: Greatclaw
@@ -2149,23 +2149,23 @@ spawns:
 
   17498542:
     template: Greatclaw
-    at:       [106.670, 1.057, -174.391, 115]
     level:    [66, 69]
+    region:   s_430
 
   17498543:
     template: Greatclaw
     level:    [66, 69]
-    region:   s_431
+    region:   s_430
 
   17498544:
     template: Delta_Sahagin
-    at:       [103.753, 0.345, -195.368, 57]
     level:    [69, 71]
+    region:   s_432
 
   17498545:
     template: Abyss_Sahagin
-    at:       [100.499, 0.730, -194.593, 127]
     level:    [72, 74]
+    region:   s_432
 
   17498546:
     template: Greatclaw
@@ -2174,18 +2174,18 @@ spawns:
 
   17498547:
     template: Mindgazer
-    at:       [112.778, 6.217, -228.384, 127]
     level:    [66, 69]
+    region:   s_435
 
   17498548:
     template: Greatclaw
-    at:       [100.355, 7.887, -233.598, 97]
     level:    [66, 69]
+    region:   s_436
 
   17498549:
     template: Delta_Sahagin
-    at:       [98.817, 9.502, -240.199, 55]
     level:    [70, 72]
+    region:   s_436
 
   17498550:
     template: Shore_Sahagin

@@ -74,8 +74,8 @@ spawns:
 
   16916495:
     template: Eoghrah
-    at:       [-420.035, -0.500, 614.068, 60]
     level:    [75, 77]
+    region:   nw_14
 
   16916496:
     template: Eoghrah
@@ -129,8 +129,8 @@ spawns:
 
   16916506:
     template: Eoeuvhi
-    at:       [-100.000, -0.500, 492.000, 192]
     level:    [75, 77]
+    region:   c_26
 
   16916507:
     template: Eoeuvhi
@@ -180,12 +180,12 @@ spawns:
   16916516:
     template: Eoghrah
     level:    [75, 77]
-    region:   s_36
+    region:   sw_36
 
   16916517:
     template: Eoghrah
     level:    [75, 77]
-    region:   s_36
+    region:   sw_36
 
   16916518:
     template: Eozdei
@@ -229,8 +229,8 @@ spawns:
 
   16916526:
     template: Eoeuvhi
-    at:       [-292.000, -0.500, 100.000, 128]
     level:    [75, 76]
+    region:   sw_46
 
   16916527:
     template: Eoeuvhi
@@ -249,8 +249,8 @@ spawns:
 
   16916530:
     template: Eoeuvhi
-    at:       [-265.782, -0.500, 263.706, 206]
     level:    [74, 76]
+    region:   sw_50
 
   16916531:
     template: Eoghrah
@@ -259,8 +259,8 @@ spawns:
 
   16916532:
     template: Eozdei
-    at:       [-540.000, -0.500, 60.000, 130]
     level:    [77, 78]
+    region:   sw_52
 
   16916533:
     template: Eoghrah
@@ -329,8 +329,8 @@ spawns:
 
   16916546:
     template: Eoeuvhi
-    at:       [-575.405, -0.500, 264.087, 114]
     level:    [74, 76]
+    region:   sw_66
 
   16916547:
     template: Eoghrah
@@ -419,8 +419,8 @@ spawns:
 
   16916564:
     template: Eoaern
-    at:       [-343.847, -0.497, 531.066, 125]
     level:    [79, 82]
+    region:   nw_83
 
   16916565:
     template: Eoaern
@@ -439,8 +439,8 @@ spawns:
 
   16916568:
     template: Eoaern_SMN
-    at:       [-370.012, -0.499, 537.948, 192]
     level:    [79, 82]
+    region:   nw_88
 
   16916569:
     template: Aerns_Elemental
@@ -449,13 +449,13 @@ spawns:
 
   16916570:
     template: Eoeuvhi
-    at:       [-340.258, -0.500, 506.286, 229]
     level:    [75, 77]
+    region:   w_90
 
   16916571:
     template: Eoeuvhi
-    at:       [-299.782, -0.500, 506.397, 207]
     level:    [74, 76]
+    region:   w_91
 
   16916572:
     template: Eoghrah
@@ -469,8 +469,8 @@ spawns:
 
   16916574:
     template: Eoaern
-    at:       [-248.367, -0.500, 466.341, 111]
     level:    [79, 82]
+    region:   w_94
 
   16916575:
     template: Eoaern
@@ -509,13 +509,13 @@ spawns:
 
   16916582:
     template: Eoeuvhi
-    at:       [-335.414, -0.500, 424.875, 219]
     level:    [74, 76]
+    region:   w_102
 
   16916583:
     template: Eoghrah
     level:    [75, 77]
-    region:   w_103
+    region:   w_102
 
   16916584:
     template: Eoaern
@@ -524,8 +524,8 @@ spawns:
 
   16916585:
     template: Eoaern
-    at:       [-291.534, -0.499, 349.845, 194]
     level:    [79, 82]
+    region:   w_105
 
   16916586:
     template: Eoaern_BST
@@ -539,8 +539,8 @@ spawns:
 
   16916588:
     template: Eoaern
-    at:       [-292.726, -0.499, 373.359, 245]
     level:    [79, 82]
+    region:   w_108
 
   16916589:
     template: Eoaern
@@ -614,8 +614,8 @@ spawns:
 
   16916603:
     template: Eoaern
-    at:       [-509.441, -0.499, 261.035, 192]
     level:    [79, 82]
+    region:   sw_123
 
   16916604:
     template: Eoaern
@@ -634,8 +634,8 @@ spawns:
 
   16916607:
     template: Eoaern
-    at:       [-539.247, -0.499, 250.953, 65]
     level:    [79, 82]
+    region:   sw_127
 
   16916608:
     template: Eozdei_Still
@@ -654,8 +654,8 @@ spawns:
 
   16916611:
     template: Eoeuvhi
-    at:       [-503.357, -0.500, 335.582, 129]
     level:    [75, 77]
+    region:   w_131
 
   16916612:
     template: Eoaern
@@ -664,13 +664,13 @@ spawns:
 
   16916613:
     template: Eoaern
-    at:       [-537.254, -0.460, 381.314, 127]
     level:    [79, 82]
+    region:   w_133
 
   16916614:
     template: Eoaern
-    at:       [-541.334, -0.500, 329.863, 184]
     level:    [79, 82]
+    region:   w_134
 
   16916615:
     template: Eoaern
@@ -709,23 +709,23 @@ spawns:
 
   16916622:
     template: Eoaern
-    at:       [-530.014, -0.499, 453.750, 66]
     level:    [79, 82]
+    region:   w_142
 
   16916623:
     template: Eoaern
-    at:       [-576.085, -0.478, 460.248, 112]
     level:    [79, 82]
+    region:   w_143
 
   16916624:
     template: Eoaern
     level:    [79, 82]
-    region:   w_144
+    region:   w_142
 
   16916625:
     template: Eoaern_BST
     level:    [79, 82]
-    region:   w_144
+    region:   w_142
 
   16916626:
     template: Eoaern_SMN
@@ -754,13 +754,13 @@ spawns:
 
   16916631:
     template: Eoeuvhi
-    at:       [-539.888, -0.500, 505.969, 177]
     level:    [74, 76]
+    region:   w_151
 
   16916632:
     template: Eoeuvhi
-    at:       [-501.346, -0.500, 499.084, 6]
     level:    [75, 77]
+    region:   w_152
 
   16916633:
     template: Eoghrah
@@ -779,8 +779,8 @@ spawns:
 
   16916636:
     template: Eoaern
-    at:       [-459.267, -0.460, 537.065, 198]
     level:    [79, 82]
+    region:   nw_156
 
   16916637:
     template: Eoaern
@@ -794,8 +794,8 @@ spawns:
 
   16916639:
     template: Eoaern_DRG
-    at:       [-489.662, -0.500, 544.601, 235]
     level:    [79, 82]
+    region:   nw_159
 
   16916640:
     template: Aerns_Wynav
@@ -869,8 +869,8 @@ spawns:
 
   16916654:
     template: Eoghrah
-    at:       [459.932, -0.500, 747.119, 151]
     level:    [75, 77]
+    region:   ne_174
 
   16916655:
     template: Eozdei
@@ -879,13 +879,13 @@ spawns:
 
   16916656:
     template: Eoghrah
-    at:       [458.610, -0.510, 659.204, 252]
     level:    [75, 77]
+    region:   ne_176
 
   16916657:
     template: Eoghrah
-    at:       [380.359, -0.500, 659.756, 128]
     level:    [75, 77]
+    region:   ne_177
 
   16916658:
     template: Eozdei_Still
@@ -944,8 +944,8 @@ spawns:
 
   16916669:
     template: Eoghrah
-    at:       [784.590, -0.500, 504.725, 15]
     level:    [75, 77]
+    region:   e_189
 
   16916670:
     template: Eoghrah
@@ -959,8 +959,8 @@ spawns:
 
   16916672:
     template: Eoghrah
-    at:       [787.084, -0.500, 420.243, 13]
     level:    [75, 77]
+    region:   e_192
 
   16916673:
     template: Eozdei
@@ -969,13 +969,13 @@ spawns:
 
   16916674:
     template: Eoghrah
-    at:       [704.983, -0.500, 424.234, 214]
     level:    [75, 77]
+    region:   e_194
 
   16916675:
     template: Eoghrah
-    at:       [700.791, -0.500, 501.936, 59]
     level:    [75, 77]
+    region:   e_195
 
   16916676:
     template: Eoeuvhi
@@ -1019,8 +1019,8 @@ spawns:
 
   16916684:
     template: Eoghrah
-    at:       [626.414, -0.500, 59.730, 212]
     level:    [75, 77]
+    region:   se_204
 
   16916685:
     template: Eoghrah
@@ -1034,8 +1034,8 @@ spawns:
 
   16916687:
     template: Eoghrah
-    at:       [542.306, -0.500, 58.651, 242]
     level:    [75, 77]
+    region:   se_207
 
   16916688:
     template: Eozdei
@@ -1044,13 +1044,13 @@ spawns:
 
   16916689:
     template: Eoghrah
-    at:       [540.234, -0.500, 139.709, 130]
     level:    [75, 77]
+    region:   se_209
 
   16916690:
     template: Eoghrah
-    at:       [623.375, -0.500, 144.458, 252]
     level:    [75, 77]
+    region:   se_210
 
   16916691:
     template: Eoeuvhi
@@ -1119,8 +1119,8 @@ spawns:
 
   16916704:
     template: Eoghrah
-    at:       [215.676, -0.500, 55.893, 47]
     level:    [75, 77]
+    region:   s_224
 
   16916705:
     template: Eozdei
@@ -1134,8 +1134,8 @@ spawns:
 
   16916707:
     template: Eoghrah
-    at:       [305.698, -0.500, 136.316, 78]
     level:    [75, 77]
+    region:   se_227
 
   16916708:
     template: Eoeuvhi
@@ -1174,8 +1174,8 @@ spawns:
 
   16916715:
     template: Eoeuvhi
-    at:       [260.468, -0.500, 261.787, 100]
     level:    [76, 76]
+    region:   se_235
 
   16916716:
     template: Eozdei
@@ -1184,8 +1184,8 @@ spawns:
 
   16916717:
     template: Eoghrah
-    at:       [63.621, -0.500, 424.708, 225]
     level:    [75, 77]
+    region:   c_237
 
   16916718:
     template: Eoghrah
@@ -1199,8 +1199,8 @@ spawns:
 
   16916720:
     template: Eoghrah
-    at:       [52.224, -0.499, 500.057, 84]
     level:    [75, 77]
+    region:   c_240
 
   16916721:
     template: Eozdei
@@ -1209,13 +1209,13 @@ spawns:
 
   16916722:
     template: Eoghrah
-    at:       [140.025, -0.500, 500.494, 99]
     level:    [75, 77]
+    region:   c_242
 
   16916723:
     template: Eoghrah
-    at:       [132.633, -0.500, 419.672, 129]
     level:    [75, 77]
+    region:   c_243
 
   16916724:
     template: Eoeuvhi
@@ -1254,8 +1254,8 @@ spawns:
 
   16916731:
     template: Eoaern
-    at:       [490.638, -0.499, 546.405, 64]
     level:    [79, 82]
+    region:   ne_251
 
   16916732:
     template: Eoaern
@@ -1279,8 +1279,8 @@ spawns:
 
   16916736:
     template: Eoaern_SMN
-    at:       [460.869, -0.499, 531.022, 126]
     level:    [79, 82]
+    region:   ne_256
 
   16916737:
     template: Aerns_Elemental
@@ -1289,43 +1289,43 @@ spawns:
 
   16916738:
     template: Eoghrah
-    at:       [501.153, -0.500, 506.535, 64]
     level:    [75, 77]
+    region:   e_258
 
   16916739:
     template: Eoghrah
-    at:       [539.833, -0.500, 501.411, 25]
     level:    [75, 77]
+    region:   e_259
 
   16916740:
     template: Eoaern
-    at:       [570.814, -0.494, 462.675, 191]
     level:    [79, 82]
+    region:   e_260
 
   16916741:
     template: Eoaern
-    at:       [550.568, -0.499, 459.583, 191]
     level:    [79, 82]
+    region:   e_261
 
   16916742:
     template: Eoaern
     level:    [79, 82]
-    region:   e_262
+    region:   e_261
 
   16916743:
     template: Eoaern
-    at:       [582.084, -0.500, 460.033, 154]
     level:    [79, 82]
+    region:   e_260
 
   16916744:
     template: Eoaern
     level:    [79, 82]
-    region:   e_262
+    region:   e_261
 
   16916745:
     template: Eoaern_DRG
-    at:       [529.264, -0.500, 466.424, 78]
     level:    [79, 82]
+    region:   e_261
 
   16916746:
     template: Aerns_Wynav
@@ -1339,8 +1339,8 @@ spawns:
 
   16916748:
     template: Eoeuvhi
-    at:       [587.891, -0.500, 416.780, 179]
     level:    [74, 76]
+    region:   e_268
 
   16916749:
     template: Eoeuvhi
@@ -1354,8 +1354,8 @@ spawns:
 
   16916751:
     template: Eoghrah
-    at:       [538.783, -6.500, 385.433, 205]
     level:    [75, 77]
+    region:   e_271
 
   16916752:
     template: Eoeuvhi
@@ -1379,13 +1379,13 @@ spawns:
 
   16916756:
     template: Eoaern
-    at:       [529.444, -0.499, 267.461, 192]
     level:    [79, 82]
+    region:   se_276
 
   16916757:
     template: Eoaern
     level:    [79, 82]
-    region:   se_277
+    region:   se_276
 
   16916758:
     template: Eoaern
@@ -1395,17 +1395,17 @@ spawns:
   16916759:
     template: Eoaern
     level:    [79, 82]
-    region:   se_277
+    region:   se_276
 
   16916760:
     template: Eoaern_DRG
-    at:       [541.136, -0.483, 285.037, 139]
     level:    [79, 82]
+    region:   se_276
 
   16916761:
     template: Eoaern_DRG
     level:    [79, 82]
-    region:   se_277
+    region:   se_276
 
   16916762:
     template: Aerns_Wynav
@@ -1424,8 +1424,8 @@ spawns:
 
   16916765:
     template: Eoghrah
-    at:       [412.345, -0.499, 219.891, 153]
     level:    [75, 77]
+    region:   se_285
 
   16916766:
     template: Eoghrah
@@ -1449,18 +1449,18 @@ spawns:
 
   16916770:
     template: Eoeuvhi
-    at:       [416.526, -6.500, 179.270, 135]
     level:    [74, 74]
+    region:   se_290
 
   16916771:
     template: Eoghrah
-    at:       [378.344, -0.500, 217.645, 235]
     level:    [75, 77]
+    region:   se_291
 
   16916772:
     template: Eoghrah
-    at:       [385.584, -0.500, 256.435, 78]
     level:    [75, 77]
+    region:   se_292
 
   16916773:
     template: Eoghrah
@@ -1485,7 +1485,7 @@ spawns:
   16916777:
     template: Eoaern
     level:    [79, 82]
-    region:   se_294
+    region:   se_297
 
   16916778:
     template: Eoaern
@@ -1494,8 +1494,8 @@ spawns:
 
   16916779:
     template: Eoaern
-    at:       [301.069, -0.458, 261.364, 125]
     level:    [79, 82]
+    region:   se_297
 
   16916780:
     template: Eozdei_Still
@@ -1519,8 +1519,8 @@ spawns:
 
   16916784:
     template: Eoghrah
-    at:       [295.779, -6.500, 377.032, 206]
     level:    [75, 77]
+    region:   e_304
 
   16916785:
     template: Eoeuvhi
@@ -1535,12 +1535,12 @@ spawns:
   16916787:
     template: Eoghrah
     level:    [75, 77]
-    region:   e_307
+    region:   e_304
 
   16916788:
     template: Eoeuvhi
-    at:       [266.328, -0.500, 419.974, 29]
     level:    [74, 76]
+    region:   e_308
 
   16916789:
     template: Eoaern
@@ -1559,13 +1559,13 @@ spawns:
 
   16916792:
     template: Eoaern
-    at:       [270.021, -0.499, 460.279, 63]
     level:    [79, 82]
+    region:   e_309
 
   16916793:
     template: Eoaern_SMN
-    at:       [279.624, -0.500, 467.009, 139]
     level:    [79, 82]
+    region:   e_313
 
   16916794:
     template: Eoaern_SMN
@@ -1589,23 +1589,23 @@ spawns:
 
   16916798:
     template: Eoghrah
-    at:       [296.714, -0.500, 504.497, 129]
     level:    [75, 77]
+    region:   e_318
 
   16916799:
     template: Eoghrah
-    at:       [340.309, -0.500, 506.384, 207]
     level:    [75, 77]
+    region:   e_319
 
   16916800:
     template: Eoaern
-    at:       [379.529, -0.458, 540.229, 4]
     level:    [79, 82]
+    region:   ne_320
 
   16916801:
     template: Eoaern
-    at:       [350.987, -0.499, 538.926, 191]
     level:    [79, 82]
+    region:   ne_321
 
   16916802:
     template: Eoaern

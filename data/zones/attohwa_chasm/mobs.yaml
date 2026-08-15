@@ -214,13 +214,13 @@ spawns:
 
   16805931:
     template: Attohwa_Coeurl
-    at:       [499.121, 19.274, 49.069, 162]
     level:    [37, 39]
+    region:   e_43
 
   16805932:
     template: Attohwa_Coeurl
-    at:       [472.409, 19.123, -1.265, 223]
     level:    [38, 39]
+    region:   e_44
 
   16805933:
     template: Doom_Scorpion
@@ -269,8 +269,8 @@ spawns:
 
   16805942:
     template: Chasm_Lizard
-    at:       [270.963, 19.542, 83.237, 240]
     level:    [40, 42]
+    region:   e_54
 
   16805943:
     template: Gallinipper
@@ -394,13 +394,13 @@ spawns:
 
   16805967:
     template: Attohwa_Coeurl
-    at:       [278.849, 19.385, 120.320, 90]
     level:    [37, 39]
+    region:   e_79
 
   16805968:
     template: Chasm_Lizard
-    at:       [262.444, 19.414, 134.738, 74]
     level:    [40, 42]
+    region:   e_80
 
   16805969:
     template: Tracer_Antlion
@@ -474,8 +474,8 @@ spawns:
 
   16805983:
     template: Master_Coeurl
-    at:       [284.138, 19.410, -161.315, 53]
     level:    [46, 47]
+    region:   se_94
 
   16805984:
     template: Burrow_Antlion
@@ -484,8 +484,8 @@ spawns:
 
   16805985:
     template: Goblin_Poacher
-    at:       [285.575, 19.411, -196.078, 15]
     level:    [42, 44]
+    region:   se_97
 
   16805986:
     template: Goblin_Robber
@@ -509,8 +509,8 @@ spawns:
 
   16805990:
     template: Master_Coeurl
-    at:       [313.366, 19.319, -203.489, 68]
     level:    [46, 47]
+    region:   se_102
 
   16805991:
     template: Burrow_Antlion
@@ -709,8 +709,8 @@ spawns:
 
   16806030:
     template: Master_Coeurl
-    at:       [460.625, 19.397, -28.494, 142]
     level:    [47, 48]
+    region:   e_142
 
   16806031:
     template: Lioumere
@@ -719,13 +719,13 @@ spawns:
 
   16806032:
     template: Hecteyes
-    at:       [-140.453, 19.578, -187.775, 83]
     level:    [35, 37]
+    region:   s_144
 
   16806033:
     template: Hecteyes
     level:    [35, 37]
-    region:   s_145
+    region:   s_144
 
   16806034:
     template: Hecteyes
@@ -899,13 +899,13 @@ spawns:
 
   16806068:
     template: Earth_Elemental
-    at:       [-6.251, -4.495, 163.401, 176]
     level:    [40, 42]
+    region:   n_180
 
   16806069:
     template: Earth_Elemental
-    at:       [3.967, -4.678, 150.759, 207]
     level:    [40, 42]
+    region:   n_180
 
   16806070:
     template: Flesh_Eater
@@ -925,7 +925,7 @@ spawns:
   16806073:
     template: Flesh_Eater
     level:    [34, 35]
-    region:   c_185
+    region:   c_182
 
   16806074:
     template: Flesh_Eater
@@ -939,18 +939,18 @@ spawns:
 
   16806076:
     template: Hecteyes
-    at:       [-114.727, -0.574, -5.002, 19]
     level:    [36, 38]
+    region:   c_188
 
   16806077:
     template: Will-o-the-Wykes
-    at:       [-116.715, -0.377, -8.058, 123]
     level:    [40, 43]
+    region:   c_188
 
   16806078:
     template: Will-o-the-Wykes
-    at:       [-123.162, -0.455, -4.995, 143]
     level:    [40, 43]
+    region:   c_188
 
   16806079:
     template: Hecteyes
@@ -980,7 +980,7 @@ spawns:
   16806084:
     template: Flesh_Eater
     level:    [35, 36]
-    region:   c_196
+    region:   c_195
 
   16806085:
     template: Hecteyes
@@ -1004,13 +1004,13 @@ spawns:
 
   16806089:
     template: Flesh_Eater
-    at:       [-177.875, -0.593, 218.699, 4]
     level:    [34, 36]
+    region:   n_201
 
   16806090:
     template: Flesh_Eater
     level:    [34, 36]
-    region:   n_202
+    region:   n_201
 
   16806091:
     template: Hecteyes
@@ -1079,18 +1079,18 @@ spawns:
 
   16806104:
     template: Flesh_Eater
-    at:       [-246.954, -6.250, 315.241, 52]
     level:    [36, 37]
+    region:   nw_216
 
   16806105:
     template: Flesh_Eater
     level:    [36, 37]
-    region:   nw_205
+    region:   nw_216
 
   16806106:
     template: Air_Elemental
     level:    [41, 43]
-    region:   nw_205
+    region:   nw_216
 
   16806107:
     template: Tulwar_Scorpion
@@ -1130,37 +1130,37 @@ spawns:
   16806114:
     template: Tulwar_Scorpion
     level:    [58, 59]
-    region:   sw_226
+    region:   sw_223
 
   16806115:
     template: Tulwar_Scorpion
     level:    [58, 59]
-    region:   sw_226
+    region:   sw_223
 
   16806116:
     template: Monarch_Ogrefly
     level:    [65, 66]
-    region:   sw_226
+    region:   sw_223
 
   16806117:
     template: Sargas
     level:    [77, 78]
-    region:   sw_226
+    region:   sw_223
 
   16806118:
     template: Monarch_Ogrefly
     level:    [65, 66]
-    region:   sw_226
+    region:   sw_223
 
   16806119:
     template: Sand_Lizard
     level:    [65, 67]
-    region:   sw_226
+    region:   sw_223
 
   16806120:
     template: Sand_Lizard
     level:    [65, 67]
-    region:   sw_226
+    region:   sw_223
 
   16806121:
     template: Tracker_Antlion
@@ -1174,18 +1174,18 @@ spawns:
 
   16806123:
     template: Sand_Lizard
-    at:       [-299.413, -4.744, -67.781, 17]
     level:    [65, 67]
+    region:   w_235
 
   16806124:
     template: Sand_Lizard
-    at:       [-318.505, -4.595, -79.793, 236]
     level:    [65, 67]
+    region:   sw_236
 
   16806125:
     template: Sand_Lizard
-    at:       [-336.852, -4.525, -103.689, 97]
     level:    [65, 67]
+    region:   sw_237
 
   16806126:
     template: Monarch_Ogrefly
@@ -1444,8 +1444,8 @@ spawns:
 
   16806177:
     template: Monarch_Ogrefly
-    at:       [-436.746, -4.334, 168.821, 12]
     level:    [65, 67]
+    region:   w_289
 
   16806178:
     template: Sand_Lizard
@@ -1459,8 +1459,8 @@ spawns:
 
   16806180:
     template: Sand_Lizard
-    at:       [-490.727, -4.500, 142.170, 76]
     level:    [66, 68]
+    region:   w_292
 
   16806181:
     template: Tracker_Antlion
@@ -1539,18 +1539,18 @@ spawns:
 
   16806196:
     template: Monarch_Ogrefly
-    at:       [-440.057, -4.752, 204.436, 133]
     level:    [65, 67]
+    region:   nw_308
 
   16806197:
     template: Monarch_Ogrefly
-    at:       [-438.938, -4.657, 201.287, 47]
     level:    [65, 67]
+    region:   nw_308
 
   16806198:
     template: Monarch_Ogrefly
-    at:       [-454.479, -4.617, 211.876, 252]
     level:    [65, 67]
+    region:   nw_310
 
   16806199:
     template: Sand_Lizard
@@ -1580,27 +1580,27 @@ spawns:
   16806204:
     template: Sand_Lizard
     level:    [66, 68]
-    region:   nw_314
+    region:   nw_316
 
   16806205:
     template: Sand_Lizard
     level:    [66, 68]
-    region:   nw_314
+    region:   nw_316
 
   16806206:
     template: Monarch_Ogrefly
     level:    [65, 67]
-    region:   nw_314
+    region:   nw_316
 
   16806207:
     template: Monarch_Ogrefly
     level:    [65, 67]
-    region:   nw_314
+    region:   nw_316
 
   16806208:
     template: Monarch_Ogrefly
     level:    [65, 67]
-    region:   nw_314
+    region:   nw_316
 
   16806209:
     template: Sand_Lizard

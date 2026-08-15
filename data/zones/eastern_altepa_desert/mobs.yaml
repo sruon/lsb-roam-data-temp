@@ -770,12 +770,12 @@ spawns:
   17244314:
     template: Antican_Faber
     level:    [35, 38]
-    region:   c_154
+    region:   c_153
 
   17244315:
     template: Antican_Decurio
     level:    [44, 49]
-    region:   c_154
+    region:   c_153
 
   17244316:
     template: Antican_Decurio
@@ -814,13 +814,13 @@ spawns:
 
   17244323:
     template: Sand_Beetle
-    at:       [56.019, -11.632, -119.283, 127]
     level:    [36, 40]
+    region:   c_163
 
   17244324:
     template: Antican_Centurio
-    at:       [48.550, 3.497, -86.337, 91]
     level:    [50, 52]
+    region:   c_163
 
   17244325:
     template: Giant_Spider
@@ -1684,8 +1684,8 @@ spawns:
 
   17244497:
     template: Goblin_Poacher
-    at:       [-195.000, 8.000, -166.000, 127]
     level:    [45, 49]
+    region:   sw_337
 
   17244498:
     template: Goblin_Trader

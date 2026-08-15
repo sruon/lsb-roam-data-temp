@@ -49,23 +49,23 @@ spawns:
 
   17575946:
     template: Lost_Soul
-    at:       [-58.325, -16.051, 301.997, 127]
     level:    [42, 43]
+    region:   n_10
 
   17575947:
     template: Lost_Soul
-    at:       [-62.499, -16.051, 294.462, 211]
     level:    [42, 43]
+    region:   n_10
 
   17575948:
     template: Lost_Soul
-    at:       [-65.839, -16.081, 290.386, 41]
     level:    [42, 43]
+    region:   n_10
 
   17575949:
     template: Lost_Soul
-    at:       [-62.327, -16.056, 298.059, 163]
     level:    [42, 43]
+    region:   n_10
 
   17575950:
     template: Marchosias
@@ -114,18 +114,18 @@ spawns:
 
   17575959:
     template: Hellbound_Warrior
-    at:       [48.392, -15.023, 320.096, 186]
     level:    [91, 93]
+    region:   n_23
 
   17575960:
     template: Hellbound_Warlock
-    at:       [44.114, -15.051, 310.441, 87]
     level:    [91, 93]
+    region:   n_23
 
   17575961:
     template: Hellbound_Warrior
-    at:       [41.322, -15.051, 320.774, 252]
     level:    [91, 93]
+    region:   n_23
 
   17575962:
     template: Hellbound_Warlock
@@ -134,13 +134,13 @@ spawns:
 
   17575963:
     template: Hellbound_Warrior
-    at:       [42.589, -15.087, 323.559, 57]
     level:    [91, 93]
+    region:   n_27
 
   17575964:
     template: Hellbound_Warlock
-    at:       [37.433, -15.143, 322.948, 68]
     level:    [91, 93]
+    region:   n_27
 
   17575965:
     template: Hellbound_Warrior
@@ -149,8 +149,8 @@ spawns:
 
   17575966:
     template: Hellbound_Warlock
-    at:       [51.689, -16.037, 335.075, 194]
     level:    [91, 93]
+    region:   n_27
 
   17575967:
     template: Marchosias
@@ -209,8 +209,8 @@ spawns:
 
   17575978:
     template: Hellbound_Warrior
-    at:       [133.163, 8.712, -82.061, 195]
     level:    [91, 93]
+    region:   se_42
 
   17575979:
     template: Hellbound_Warlock
@@ -219,13 +219,13 @@ spawns:
 
   17575980:
     template: Hellbound_Warrior
-    at:       [123.878, 8.324, -65.612, 195]
     level:    [91, 93]
+    region:   se_44
 
   17575981:
     template: Hellbound_Warlock
-    at:       [132.089, 8.222, -72.559, 71]
     level:    [91, 93]
+    region:   se_44
 
   17575982:
     template: Hellbound_Warrior
@@ -234,18 +234,18 @@ spawns:
 
   17575983:
     template: Hellbound_Warlock
-    at:       [115.647, 8.161, -65.893, 237]
     level:    [91, 93]
+    region:   se_47
 
   17575984:
     template: Hellbound_Warrior
-    at:       [111.525, 9.022, -88.992, 136]
     level:    [91, 93]
+    region:   se_48
 
   17575985:
     template: Hellbound_Warlock
-    at:       [119.136, 8.422, -94.347, 36]
     level:    [91, 93]
+    region:   se_48
 
   17575986:
     template: Marchosias
@@ -259,23 +259,23 @@ spawns:
 
   17575988:
     template: Lost_Soul
-    at:       [257.887, -24.051, 301.108, 155]
     level:    [45, 46]
+    region:   ne_52
 
   17575989:
     template: Lost_Soul
-    at:       [262.309, -24.051, 300.847, 153]
     level:    [45, 46]
+    region:   ne_52
 
   17575990:
     template: Lost_Soul
-    at:       [266.456, -24.051, 307.883, 175]
     level:    [45, 46]
+    region:   ne_52
 
   17575991:
     template: Lost_Soul
-    at:       [264.082, -24.051, 299.515, 14]
     level:    [45, 46]
+    region:   ne_52
 
   17575992:
     template: Hell_Hound
@@ -294,13 +294,13 @@ spawns:
 
   17575995:
     template: Hellbound_Warrior
-    at:       [153.995, -15.052, 276.301, 127]
     level:    [91, 93]
+    region:   ne_59
 
   17575996:
     template: Hellbound_Warlock
-    at:       [151.449, -15.156, 277.028, 17]
     level:    [91, 93]
+    region:   ne_59
 
   17575997:
     template: Hellbound_Warrior
@@ -309,13 +309,13 @@ spawns:
 
   17575998:
     template: Hellbound_Warlock
-    at:       [169.804, -15.801, 266.959, 11]
     level:    [91, 93]
+    region:   ne_62
 
   17575999:
     template: Hellbound_Warrior
-    at:       [168.836, -15.034, 281.226, 218]
     level:    [91, 93]
+    region:   ne_62
 
   17576000:
     template: Hellbound_Warlock
@@ -324,23 +324,23 @@ spawns:
 
   17576001:
     template: Hellbound_Warrior
-    at:       [147.145, -15.518, 279.641, 138]
     level:    [91, 93]
+    region:   ne_65
 
   17576002:
     template: Hellbound_Warlock
-    at:       [160.445, -15.051, 283.043, 139]
     level:    [91, 93]
+    region:   ne_65
 
   17576003:
     template: Revenant
-    at:       [256.719, -23.345, 257.984, 68]
     level:    [44, 47]
+    region:   ne_67
 
   17576004:
     template: Revenant
-    at:       [255.315, -23.499, 264.654, 121]
     level:    [44, 47]
+    region:   ne_67
 
   17576005:
     template: Lost_Soul
@@ -394,8 +394,8 @@ spawns:
 
   17576015:
     template: Gazer
-    at:       [-222.800, -0.289, 63.262, 117]
     level:    [41, 43]
+    region:   c_78
 
   17576016:
     template: Puroboros
@@ -449,28 +449,28 @@ spawns:
 
   17576026:
     template: Mummy
-    at:       [-460.024, -0.109, 468.698, 127]
     level:    [50, 52]
+    region:   nw_90
 
   17576027:
     template: Mummy
-    at:       [-468.323, -0.109, 454.790, 117]
     level:    [50, 52]
+    region:   nw_90
 
   17576028:
     template: Lich
-    at:       [-465.817, -0.109, 459.355, 132]
     level:    [51, 53]
+    region:   nw_90
 
   17576029:
     template: Lich
-    at:       [-468.121, -0.109, 454.715, 134]
     level:    [51, 53]
+    region:   nw_90
 
   17576030:
     template: Hell_Hound
-    at:       [-457.841, 3.889, 498.418, 139]
     level:    [46, 49]
+    region:   nw_94
 
   17576031:
     template: Blood_Soul
@@ -609,28 +609,28 @@ spawns:
 
   17576058:
     template: Utukku
-    at:       [-374.518, 0.465, 336.424, 102]
     level:    [55, 57]
+    region:   nw_119
 
   17576059:
     template: Lost_Soul
-    at:       [-617.418, -0.079, 140.206, 250]
     level:    [42, 43]
+    region:   w_123
 
   17576060:
     template: Lost_Soul
-    at:       [-617.186, -0.079, 140.511, 4]
     level:    [42, 43]
+    region:   w_123
 
   17576061:
     template: Lost_Soul
-    at:       [-621.459, -0.079, 135.286, 44]
     level:    [42, 43]
+    region:   w_123
 
   17576062:
     template: Lost_Soul
-    at:       [-611.437, -0.108, 135.832, 255]
     level:    [42, 43]
+    region:   w_123
 
   17576063:
     template: Gazer
@@ -669,8 +669,8 @@ spawns:
 
   17576070:
     template: Nekros_Hound
-    at:       [43.443, -15.049, 316.295, 197]
     level:    [93, 95]
+    region:   n_23
 
   17576071:
     template: Nekros_Hound
@@ -689,8 +689,8 @@ spawns:
 
   17576074:
     template: Nekros_Hound
-    at:       [46.632, -15.029, 323.714, 5]
     level:    [93, 95]
+    region:   n_27
 
   17576075:
     template: Nekros_Hound
@@ -699,8 +699,8 @@ spawns:
 
   17576076:
     template: Nekros_Hound
-    at:       [133.610, 8.196, -76.019, 233]
     level:    [93, 95]
+    region:   se_42
 
   17576077:
     template: Nekros_Hound
@@ -709,8 +709,8 @@ spawns:
 
   17576078:
     template: Nekros_Hound
-    at:       [113.816, 8.965, -77.263, 46]
     level:    [93, 95]
+    region:   se_47
 
   17576079:
     template: Nekros_Hound
@@ -719,8 +719,8 @@ spawns:
 
   17576080:
     template: Nekros_Hound
-    at:       [168.507, -15.793, 267.218, 12]
     level:    [93, 95]
+    region:   ne_62
 
   17576081:
     template: Nekros_Hound
@@ -749,8 +749,8 @@ spawns:
 
   17576086:
     template: Nekros_Hound
-    at:       [179.397, -0.277, -98.166, 200]
     level:    [93, 95]
+    region:   ne_62
 
   17576087:
     template: Nekros_Hound
@@ -764,13 +764,13 @@ spawns:
 
   17576089:
     template: Nekros_Hound
-    at:       [334.523, -32.051, -123.427, 255]
     level:    [93, 95]
+    region:   se_153
 
   17576090:
     template: Nekros_Hound
-    at:       [345.712, -32.051, -157.398, 127]
     level:    [93, 95]
+    region:   se_154
 
   17576091:
     template: Lost_Soul
@@ -799,18 +799,18 @@ spawns:
 
   17576096:
     template: Revenant
-    at:       [381.371, -40.051, 22.000, 253]
     level:    [44, 47]
+    region:   e_160
 
   17576097:
     template: Revenant
-    at:       [384.591, -40.051, 19.237, 147]
     level:    [44, 47]
+    region:   e_160
 
   17576098:
     template: Revenant
-    at:       [376.559, -40.051, 20.060, 97]
     level:    [44, 47]
+    region:   e_160
 
   17576099:
     template: Hell_Hound
@@ -984,83 +984,83 @@ spawns:
 
   17576133:
     template: Azer
-    at:       [258.375, -32.051, 19.479, 248]
     level:    [51, 53]
+    region:   e_197
 
   17576134:
     template: Azer
-    at:       [176.459, -32.051, 97.435, 200]
     level:    [51, 53]
+    region:   e_198
 
   17576135:
     template: Azer
-    at:       [176.898, -32.051, -56.319, 59]
     level:    [51, 53]
+    region:   se_199
 
   17576136:
     template: Azer
-    at:       [109.985, -32.051, 23.942, 63]
     level:    [51, 53]
+    region:   e_200
 
   17576137:
     template: Fallen_Knight
-    at:       [260.199, -33.167, 99.255, 122]
     level:    [54, 56]
+    region:   e_201
 
   17576138:
     template: Lich
-    at:       [266.324, -32.051, 101.523, 53]
     level:    [52, 54]
+    region:   e_201
 
   17576139:
     template: Lich
-    at:       [260.844, -33.239, 100.819, 191]
     level:    [52, 54]
+    region:   e_201
 
   17576140:
     template: Fallen_Knight
-    at:       [260.651, -33.905, -60.904, 253]
     level:    [54, 56]
+    region:   se_204
 
   17576141:
     template: Lich
-    at:       [253.627, -32.051, -63.462, 55]
     level:    [52, 54]
+    region:   se_204
 
   17576142:
     template: Lich
-    at:       [259.281, -32.051, -53.446, 192]
     level:    [52, 54]
+    region:   se_204
 
   17576143:
     template: Fallen_Knight
-    at:       [99.238, -33.333, 98.244, 43]
     level:    [54, 56]
+    region:   e_207
 
   17576144:
     template: Fallen_Knight
-    at:       [102.614, -33.166, 100.150, 119]
     level:    [54, 56]
+    region:   e_207
 
   17576145:
     template: Lich
-    at:       [98.949, -33.250, 100.713, 186]
     level:    [52, 54]
+    region:   e_207
 
   17576146:
     template: Fallen_Knight
-    at:       [103.817, -32.000, -54.345, 164]
     level:    [54, 56]
+    region:   se_210
 
   17576147:
     template: Fallen_Knight
     level:    [54, 56]
-    region:   se_211
+    region:   se_210
 
   17576148:
     template: Lich
-    at:       [99.304, -33.241, -58.481, 212]
     level:    [52, 54]
+    region:   se_210
 
   17576149:
     template: Ka
@@ -1194,13 +1194,13 @@ spawns:
 
   17576175:
     template: Haunt
-    at:       [188.435, -0.063, -91.368, 225]
     level:    [63, 65]
+    region:   se_239
 
   17576176:
     template: Haunt
-    at:       [183.369, -0.206, -86.186, 208]
     level:    [63, 65]
+    region:   se_239
 
   17576177:
     template: Tomb_Warrior
@@ -1224,8 +1224,8 @@ spawns:
 
   17576181:
     template: Shade
-    at:       [181.449, 0.049, -178.283, 44]
     level:    [46, 48]
+    region:   se_245
 
   17576182:
     template: Shade
@@ -1234,13 +1234,13 @@ spawns:
 
   17576183:
     template: Shade
-    at:       [179.386, -8.051, 23.779, 127]
     level:    [46, 48]
+    region:   se_245
 
   17576184:
     template: Lost_Soul
-    at:       [265.793, -0.051, 15.326, 127]
     level:    [45, 46]
+    region:   se_245
 
   17576185:
     template: Lost_Soul
@@ -1249,8 +1249,8 @@ spawns:
 
   17576186:
     template: Ka
-    at:       [334.257, -0.051, 23.577, 127]
     level:    [52, 54]
+    region:   e_214
 
   17576187:
     template: Ka
@@ -1259,8 +1259,8 @@ spawns:
 
   17576188:
     template: Ka
-    at:       [186.838, -8.051, 24.579, 10]
     level:    [52, 54]
+    region:   e_214
 
   17576189:
     template: Ka
@@ -1269,33 +1269,33 @@ spawns:
 
   17576190:
     template: Fallen_Knight
-    at:       [260.000, -1.248, 19.152, 67]
     level:    [54, 56]
+    region:   e_197
 
   17576191:
     template: Fallen_Knight
-    at:       [261.073, -1.223, 21.064, 29]
     level:    [54, 56]
+    region:   e_197
 
   17576192:
     template: Lich
-    at:       [258.518, -1.107, 20.067, 35]
     level:    [53, 55]
+    region:   e_197
 
   17576193:
     template: Fallen_Knight
-    at:       [343.988, -0.050, 26.178, 7]
     level:    [54, 56]
+    region:   e_257
 
   17576194:
     template: Fallen_Knight
-    at:       [342.399, -1.116, 19.867, 233]
     level:    [54, 56]
+    region:   e_257
 
   17576195:
     template: Lich
-    at:       [339.052, -1.274, 19.354, 22]
     level:    [53, 55]
+    region:   e_257
 
   17576196:
     template: Dark_Stalker
@@ -1304,18 +1304,18 @@ spawns:
 
   17576197:
     template: Dark_Stalker
-    at:       [305.802, -0.500, 60.342, 222]
     level:    [57, 59]
+    region:   e_261
 
   17576198:
     template: Dark_Stalker
-    at:       [295.839, -0.051, 69.523, 144]
     level:    [57, 59]
+    region:   e_261
 
   17576199:
     template: Dark_Stalker
-    at:       [304.877, -0.051, 69.755, 241]
     level:    [57, 59]
+    region:   e_261
 
   17576200:
     template: Dark_Stalker
@@ -1324,8 +1324,8 @@ spawns:
 
   17576201:
     template: Dark_Stalker
-    at:       [299.448, 0.237, -22.545, 196]
     level:    [57, 59]
+    region:   e_265
 
   17576202:
     template: Dark_Stalker
@@ -1334,8 +1334,8 @@ spawns:
 
   17576203:
     template: Dark_Stalker
-    at:       [299.528, 0.250, 4.955, 221]
     level:    [57, 59]
+    region:   e_265
 
   17576204:
     template: Ice_Elemental
@@ -1519,13 +1519,13 @@ spawns:
 
   17576240:
     template: Lost_Soul
-    at:       [98.598, -6.036, 111.188, 51]
     level:    [45, 46]
+    region:   e_304
 
   17576241:
     template: Lost_Soul
-    at:       [98.913, -7.777, 121.246, 191]
     level:    [45, 46]
+    region:   e_304
 
   17576242:
     template: Lost_Soul

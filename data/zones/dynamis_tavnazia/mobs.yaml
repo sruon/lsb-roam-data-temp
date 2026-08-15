@@ -34,13 +34,13 @@ spawns:
 
   16949255:
     template: Nightmare_Bugard
-    at:       [23.871, -12.546, 44.276, 141]
     level:    [78, 80]
+    region:   n_7
 
   16949256:
     template: Nightmare_Bugard
-    at:       [30.454, -12.502, 44.152, 127]
     level:    [78, 80]
+    region:   n_7
 
   16949257:
     template: Nightmare_Worm
@@ -49,13 +49,13 @@ spawns:
 
   16949258:
     template: Nightmare_Worm
-    at:       [-17.477, -22.499, 20.797, 216]
     level:    [78, 80]
+    region:   c_9
 
   16949259:
     template: Nightmare_Worm
-    at:       [0.161, -24.030, 33.732, 26]
     level:    [78, 80]
+    region:   c_9
 
   16949260:
     template: Nightmare_Worm
@@ -64,23 +64,23 @@ spawns:
 
   16949261:
     template: Nightmare_Worm
-    at:       [-21.913, -22.478, -13.886, 45]
     level:    [78, 80]
+    region:   c_13
 
   16949262:
     template: Nightmare_Worm
-    at:       [-18.776, -22.301, -18.321, 158]
     level:    [78, 80]
+    region:   c_13
 
   16949263:
     template: Nightmare_Worm
-    at:       [-22.120, -22.424, -14.472, 47]
     level:    [78, 80]
+    region:   c_13
 
   16949264:
     template: Nightmare_Worm
-    at:       [-23.397, -22.587, -12.544, 174]
     level:    [78, 80]
+    region:   c_13
 
   16949265:
     template: Nightmare_Worm
@@ -125,22 +125,22 @@ spawns:
   16949273:
     template: Nightmare_Hornet
     level:    [78, 80]
-    region:   nw_25
+    region:   n_25
 
   16949274:
     template: Nightmare_Hornet
     level:    [78, 80]
-    region:   nw_25
+    region:   n_25
 
   16949275:
     template: Nightmare_Hornet
     level:    [78, 80]
-    region:   nw_25
+    region:   n_25
 
   16949276:
     template: Nightmare_Hornet
     level:    [78, 80]
-    region:   nw_25
+    region:   n_25
 
   16949277:
     template: Nightmare_Hornet
@@ -174,8 +174,8 @@ spawns:
 
   16949283:
     template: Hydra_Paladin
-    at:       [-96.407, -27.366, -16.573, 55]
     level:    [77, 79]
+    region:   w_33
 
   16949284:
     template: Hydra_Ninja
@@ -184,23 +184,23 @@ spawns:
 
   16949285:
     template: Hydra_Monk
-    at:       [-99.500, -27.420, -44.662, 8]
     level:    [77, 79]
+    region:   sw_37
 
   16949286:
     template: Hydra_White_Mage
-    at:       [-109.493, -27.493, -39.361, 236]
     level:    [77, 79]
+    region:   sw_37
 
   16949287:
     template: Hydra_Beastmaster
-    at:       [-110.239, -27.449, -36.357, 150]
     level:    [77, 79]
+    region:   sw_37
 
   16949288:
     template: Hydras_Hound
-    at:       [-107.359, -27.478, -36.484, 133]
     level:    [77, 79]
+    region:   sw_37
 
   16949289:
     template: Serjeant_Tombstone
@@ -214,13 +214,13 @@ spawns:
 
   16949291:
     template: Serjeant_Tombstone
-    at:       [-112.810, -27.540, -49.090, 194]
     level:    [70, 70]
+    region:   sw_37
 
   16949292:
     template: Tombstone_Prototype
-    at:       [-106.651, -27.581, -42.936, 132]
     level:    [70, 70]
+    region:   sw_37
 
   16949293:
     template: Hydra_Black_Mage
@@ -249,28 +249,28 @@ spawns:
 
   16949298:
     template: Hydra_Thief
-    at:       [-103.367, -27.296, 50.013, 234]
     level:    [77, 79]
+    region:   nw_50
 
   16949299:
     template: Hydra_Ranger
-    at:       [-104.862, -27.407, 54.295, 95]
     level:    [77, 79]
+    region:   nw_50
 
   16949300:
     template: Hydra_Samurai
-    at:       [-110.409, -27.419, 48.331, 195]
     level:    [77, 79]
+    region:   nw_50
 
   16949301:
     template: Hydra_Summoner
-    at:       [-97.630, -27.450, 49.399, 30]
     level:    [77, 79]
+    region:   nw_50
 
   16949302:
     template: Hydras_Avatar
-    at:       [-99.329, -27.428, 51.145, 31]
     level:    [77, 79]
+    region:   nw_50
 
   16949303:
     template: Manifest_Icon
@@ -284,13 +284,13 @@ spawns:
 
   16949305:
     template: Manifest_Icon
-    at:       [-102.625, -27.346, 46.551, 3]
     level:    [70, 70]
+    region:   nw_50
 
   16949306:
     template: Icon_Prototype
-    at:       [-105.414, -27.320, 48.618, 196]
     level:    [70, 70]
+    region:   nw_50
 
   16949307:
     template: Nightmare_Taurus
@@ -309,13 +309,13 @@ spawns:
 
   16949310:
     template: Nightmare_Taurus
-    at:       [-80.283, -20.490, -68.536, 98]
     level:    [78, 80]
+    region:   sw_62
 
   16949311:
     template: Nightmare_Taurus
-    at:       [-80.290, -20.490, -63.233, 242]
     level:    [78, 80]
+    region:   sw_62
 
   16949312:
     template: Nightmare_Taurus
@@ -344,33 +344,33 @@ spawns:
 
   16949317:
     template: Nightmare_Makara
-    at:       [-84.818, -13.085, 11.089, 187]
     level:    [78, 80]
+    region:   w_69
 
   16949318:
     template: Nightmare_Makara
-    at:       [-79.299, -11.973, 7.221, 125]
     level:    [78, 80]
+    region:   w_69
 
   16949319:
     template: Nightmare_Makara
-    at:       [-87.969, -13.360, 4.338, 193]
     level:    [78, 80]
+    region:   w_69
 
   16949320:
     template: Nightmare_Makara
-    at:       [-86.147, -13.054, 8.368, 100]
     level:    [78, 80]
+    region:   w_69
 
   16949321:
     template: Nightmare_Makara
-    at:       [-74.099, -12.204, 0.955, 63]
     level:    [78, 80]
+    region:   w_69
 
   16949322:
     template: Goblin_Replica
-    at:       [-73.610, -11.653, -5.566, 10]
     level:    [70, 70]
+    region:   w_69
 
   16949323:
     template: Goblin_Replica
@@ -384,8 +384,8 @@ spawns:
 
   16949325:
     template: Statue_Prototype
-    at:       [-72.307, -11.686, -5.761, 11]
     level:    [70, 70]
+    region:   w_69
 
   16949326:
     template: Diabolos_Somnus
@@ -435,27 +435,27 @@ spawns:
   16949335:
     template: Nightmare_Cluster
     level:    [95, 97]
-    region:   c_87
+    region:   c_13
 
   16949336:
     template: Nightmare_Cluster
     level:    [95, 97]
-    region:   c_87
+    region:   c_13
 
   16949337:
     template: Nightmare_Cluster
     level:    [95, 97]
-    region:   c_87
+    region:   c_13
 
   16949338:
     template: Nightmare_Cluster
-    at:       [23.218, -36.480, -11.961, 225]
     level:    [95, 97]
+    region:   c_17
 
   16949339:
     template: Nightmare_Cluster
-    at:       [20.402, -36.380, -17.969, 208]
     level:    [95, 97]
+    region:   c_17
 
   16949340:
     template: Nightmare_Cluster
@@ -549,28 +549,28 @@ spawns:
 
   16949358:
     template: Goblin_Replica
-    at:       [103.360, -41.290, 52.062, 93]
     level:    [70, 70]
+    region:   ne_105
 
   16949359:
     template: Kindred_Red_Mage
-    at:       [100.540, -41.430, -37.951, 205]
     level:    [95, 97]
+    region:   se_111
 
   16949360:
     template: Kindred_Paladin
-    at:       [113.300, -41.500, -41.226, 56]
     level:    [95, 97]
+    region:   se_111
 
   16949361:
     template: Kindred_Samurai
-    at:       [109.100, -41.530, -45.554, 77]
     level:    [95, 97]
+    region:   se_111
 
   16949362:
     template: Manifest_Icon
-    at:       [96.217, -41.480, -46.854, 235]
     level:    [70, 70]
+    region:   se_111
 
   16949363:
     template: Manifest_Icon
@@ -654,13 +654,13 @@ spawns:
 
   16949379:
     template: Vanguard_Eye
-    at:       [76.675, -25.349, 1.108, 135]
     level:    [80, 82]
+    region:   e_131
 
   16949380:
     template: Prototype_Eye
-    at:       [72.709, -25.402, 4.501, 76]
     level:    [80, 82]
+    region:   e_131
 
   16949381:
     template: Vanguard_Eye

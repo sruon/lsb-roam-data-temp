@@ -29,13 +29,13 @@ spawns:
 
   16990214:
     template: Aht_Urhgan_Attercop
-    at:       [380.000, -10.000, 6.000, 127]
     level:    [64, 65]
+    region:   e_6
 
   16990215:
     template: Aht_Urhgan_Attercop
-    at:       [374.000, -9.000, 20.000, 127]
     level:    [64, 65]
+    region:   e_6
 
   16990216:
     template: Lesser_Colibri
@@ -89,8 +89,8 @@ spawns:
 
   16990226:
     template: Aht_Urhgan_Attercop
-    at:       [339.805, -10.444, 83.397, 184]
     level:    [64, 65]
+    region:   e_18
 
   16990227:
     template: Aht_Urhgan_Attercop
@@ -179,28 +179,28 @@ spawns:
 
   16990244:
     template: Lesser_Colibri
-    at:       [279.000, -7.000, 172.000, 127]
     level:    [63, 65]
+    region:   e_36
 
   16990245:
     template: Wajaom_Tiger
-    at:       [206.000, -18.000, 299.000, 127]
     level:    [67, 68]
+    region:   e_36
 
   16990246:
     template: Fomor_Thief
-    at:       [322.000, -10.000, 24.000, 127]
     level:    [63, 64]
+    region:   e_36
 
   16990247:
     template: Fomor_Beastmaster
-    at:       [499.000, -10.000, 212.000, 127]
     level:    [63, 64]
+    region:   e_36
 
   16990248:
     template: Fomors_Bats
-    at:       [1.000, 1.000, 1.000, 0]
     level:    [58, 60]
+    region:   e_36
 
   16990249:
     template: Aht_Urhgan_Attercop
@@ -279,13 +279,13 @@ spawns:
 
   16990264:
     template: Lesser_Colibri
-    at:       [452.385, -15.728, 280.919, 206]
     level:    [63, 65]
+    region:   ne_56
 
   16990265:
     template: Lesser_Colibri
-    at:       [449.395, -15.724, 294.132, 132]
     level:    [63, 65]
+    region:   ne_56
 
   16990266:
     template: Ameretat
@@ -314,13 +314,13 @@ spawns:
 
   16990271:
     template: Aht_Urhgan_Attercop
-    at:       [457.000, -17.000, 375.000, 127]
     level:    [64, 65]
+    region:   ne_63
 
   16990272:
     template: Aht_Urhgan_Attercop
-    at:       [455.000, -20.000, 365.000, 127]
     level:    [64, 65]
+    region:   ne_63
 
   16990273:
     template: Aht_Urhgan_Attercop
@@ -394,13 +394,13 @@ spawns:
 
   16990287:
     template: Wajaom_Tiger
-    at:       [315.000, -7.000, 214.000, 127]
     level:    [67, 68]
+    region:   ne_79
 
   16990288:
     template: Wajaom_Tiger
-    at:       [279.000, -8.000, 208.000, 127]
     level:    [67, 68]
+    region:   ne_79
 
   16990289:
     template: Chigoe
@@ -469,13 +469,13 @@ spawns:
 
   16990302:
     template: Colibri
-    at:       [198.000, -16.000, 352.000, 127]
     level:    [71, 73]
+    region:   n_94
 
   16990303:
     template: Colibri
-    at:       [147.000, -18.000, 322.000, 127]
     level:    [71, 73]
+    region:   n_95
 
   16990304:
     template: Marid
@@ -494,43 +494,43 @@ spawns:
 
   16990307:
     template: Red_Kisser
-    at:       [185.000, -15.000, 363.000, 127]
     level:    [68, 69]
+    region:   n_99
 
   16990308:
     template: Red_Kisser
-    at:       [179.000, -15.000, 363.000, 127]
     level:    [68, 69]
+    region:   n_99
 
   16990309:
     template: Red_Kisser
-    at:       [172.000, -15.000, 366.000, 127]
     level:    [68, 69]
+    region:   n_99
 
   16990310:
     template: Fomor_Paladin
-    at:       [101.938, -20.328, 350.641, 19]
     level:    [63, 64]
+    region:   n_102
 
   16990311:
     template: Fomor_Bard
-    at:       [275.000, -8.000, 153.000, 127]
     level:    [63, 64]
+    region:   n_102
 
   16990312:
     template: Haunt
-    at:       [340.000, -10.000, 288.000, 127]
     level:    [63, 64]
+    region:   n_104
 
   16990313:
     template: Fomor_Thief
-    at:       [102.924, -15.078, 379.794, 105]
     level:    [63, 64]
+    region:   n_104
 
   16990314:
     template: Fomor_Paladin
-    at:       [262.000, -11.000, 153.000, 127]
     level:    [63, 64]
+    region:   n_104
 
   16990315:
     template: Colibri
@@ -544,48 +544,48 @@ spawns:
 
   16990317:
     template: Colibri
-    at:       [55.000, -17.000, 269.000, 127]
     level:    [71, 73]
+    region:   n_109
 
   16990318:
     template: Colibri
-    at:       [38.000, -19.000, 258.000, 127]
     level:    [71, 73]
+    region:   n_109
 
   16990319:
     template: Troll_Surveillant
-    at:       [17.000, -14.000, 298.000, 127]
     level:    [72, 73]
+    region:   n_111
 
   16990320:
     template: Trolls_Automaton
-    at:       [1.000, 1.000, 1.000, 0]
     level:    [70, 71]
+    region:   n_111
 
   16990321:
     template: Troll_Shieldbearer
-    at:       [28.000, -17.000, 298.000, 127]
     level:    [72, 73]
+    region:   n_111
 
   16990322:
     template: Troll_Sabreur
-    at:       [28.000, -17.000, 289.000, 127]
     level:    [72, 73]
+    region:   n_114
 
   16990323:
     template: Troll_Surveillant
     level:    [72, 73]
-    region:   n_115
+    region:   n_114
 
   16990324:
     template: Trolls_Automaton
-    at:       [1.000, 1.000, 1.000, 0]
     level:    [70, 71]
+    region:   n_114
 
   16990325:
     template: Date_Eruca
-    at:       [32.000, -16.000, 282.000, 127]
     level:    [72, 73]
+    region:   n_114
 
   16990326:
     template: Date_Eruca
@@ -609,8 +609,8 @@ spawns:
 
   16990330:
     template: Colibri
-    at:       [179.000, -19.000, 127.000, 127]
     level:    [71, 73]
+    region:   n_122
 
   16990331:
     template: Colibri
@@ -639,8 +639,8 @@ spawns:
 
   16990336:
     template: Colibri
-    at:       [61.000, -19.000, 283.000, 127]
     level:    [71, 73]
+    region:   c_128
 
   16990337:
     template: Treant_Sapling
@@ -659,13 +659,13 @@ spawns:
 
   16990340:
     template: Wajaom_Tiger
-    at:       [260.000, -17.000, 385.000, 127]
     level:    [67, 68]
+    region:   ne_132
 
   16990341:
     template: Wajaom_Tiger
-    at:       [260.000, -19.000, 406.000, 127]
     level:    [67, 68]
+    region:   ne_132
 
   16990342:
     template: Air_Elemental
@@ -674,13 +674,13 @@ spawns:
 
   16990343:
     template: Treant_Sapling
-    at:       [45.000, -32.000, 552.000, 127]
     level:    [66, 68]
+    region:   ne_135
 
   16990344:
     template: Treant_Sapling
-    at:       [81.000, -32.000, 634.000, 127]
     level:    [66, 68]
+    region:   ne_135
 
   16990345:
     template: Treant_Sapling
@@ -754,8 +754,8 @@ spawns:
 
   16990359:
     template: Colibri
-    at:       [100.000, -34.000, 523.000, 127]
     level:    [71, 73]
+    region:   n_151
 
   16990360:
     template: Olden_Treant
@@ -794,23 +794,23 @@ spawns:
 
   16990367:
     template: Incubus_Bats
-    at:       [-9.000, -33.000, 540.000, 127]
     level:    [61, 63]
+    region:   n_159
 
   16990368:
     template: Incubus_Bats
-    at:       [-23.000, -34.000, 501.000, 127]
     level:    [61, 63]
+    region:   n_159
 
   16990369:
     template: Incubus_Bats
-    at:       [-37.000, -32.000, 476.000, 127]
     level:    [61, 63]
+    region:   n_161
 
   16990370:
     template: Incubus_Bats
-    at:       [-20.000, -35.000, 530.000, 127]
     level:    [61, 63]
+    region:   n_161
 
   16990371:
     template: Treant_Sapling
@@ -829,8 +829,8 @@ spawns:
 
   16990374:
     template: Olden_Treant
-    at:       [86.000, -35.000, 621.000, 127]
     level:    [72, 74]
+    region:   n_166
 
   16990375:
     template: Colorful_Treant
@@ -854,8 +854,8 @@ spawns:
 
   16990379:
     template: Treant_Sapling
-    at:       [-37.000, -34.000, 494.000, 127]
     level:    [66, 68]
+    region:   n_169
 
   16990380:
     template: Treant_Sapling
@@ -864,8 +864,8 @@ spawns:
 
   16990381:
     template: Olden_Treant
-    at:       [200.000, -31.000, 511.000, 127]
     level:    [72, 74]
+    region:   n_173
 
   16990382:
     template: Colorful_Treant
@@ -874,13 +874,13 @@ spawns:
 
   16990383:
     template: Sea_Puk
-    at:       [-135.000, -18.000, -648.000, 127]
     level:    [77, 78]
+    region:   s_175
 
   16990384:
     template: Sea_Puk
-    at:       [-104.000, -18.000, -636.000, 127]
     level:    [77, 78]
+    region:   s_176
 
   16990385:
     template: Sea_Puk
@@ -920,32 +920,32 @@ spawns:
   16990392:
     template: Sea_Puk
     level:    [77, 78]
-    region:   s_184
+    region:   s_177
 
   16990393:
     template: Sea_Puk
-    at:       [-128.000, -15.000, -602.000, 127]
     level:    [77, 78]
+    region:   s_185
 
   16990394:
     template: Sea_Puk
-    at:       [-132.000, -16.000, -612.000, 127]
     level:    [77, 78]
+    region:   s_185
 
   16990395:
     template: Skoffin
-    at:       [-157.000, -18.000, -611.000, 127]
     level:    [82, 83]
+    region:   s_185
 
   16990396:
     template: Mamool_Ja_Pikeman
-    at:       [-96.000, -18.000, -621.000, 127]
     level:    [81, 83]
+    region:   s_185
 
   16990397:
     template: Mamool_Jas_Wyvern
-    at:       [1.000, 1.000, 1.000, 0]
     level:    [76, 78]
+    region:   s_185
 
   16990398:
     template: Sea_Puk
@@ -994,53 +994,53 @@ spawns:
 
   16990407:
     template: Mamool_Ja_Lurker
-    at:       [-195.000, -15.000, -563.000, 127]
     level:    [81, 83]
+    region:   s_199
 
   16990408:
     template: Mamool_Ja_Infiltrator
-    at:       [-190.000, -18.000, -547.000, 127]
     level:    [81, 83]
+    region:   s_199
 
   16990409:
     template: Mamool_Ja_Infiltrator
-    at:       [150.000, -18.000, -496.000, 127]
     level:    [81, 83]
+    region:   s_201
 
   16990410:
     template: Mamool_Ja_Pikeman
-    at:       [-181.000, -19.000, -511.000, 127]
     level:    [81, 83]
+    region:   s_201
 
   16990411:
     template: Mamool_Jas_Wyvern
-    at:       [1.000, 1.000, 1.000, 0]
     level:    [76, 77]
+    region:   s_201
 
   16990412:
     template: Sea_Puk
-    at:       [-145.000, -16.000, -610.000, 127]
     level:    [77, 78]
+    region:   s_201
 
   16990413:
     template: Mamool_Ja_Blusterer
-    at:       [-167.000, -19.000, -498.000, 127]
     level:    [82, 83]
+    region:   s_205
 
   16990414:
     template: Sea_Puk
-    at:       [-144.000, -18.000, -626.000, 127]
     level:    [77, 78]
+    region:   s_205
 
   16990415:
     template: Mamool_Ja_Blusterer
-    at:       [-187.000, -19.000, -528.000, 127]
     level:    [82, 83]
+    region:   s_207
 
   16990416:
     template: Mamool_Ja_Philosopher
-    at:       [-138.000, -14.000, -500.000, 127]
     level:    [82, 83]
+    region:   s_207
 
   16990417:
     template: Plague_Chigoe
@@ -1109,8 +1109,8 @@ spawns:
 
   16990430:
     template: Mamool_Ja_Philosopher
-    at:       [-110.000, -16.000, -627.000, 127]
     level:    [81, 83]
+    region:   w_222
 
   16990431:
     template: Mamool_Ja_Blusterer
@@ -1124,33 +1124,33 @@ spawns:
 
   16990433:
     template: Mamool_Ja_Blusterer
-    at:       [-401.000, -16.000, -95.000, 127]
     level:    [81, 83]
+    region:   w_225
 
   16990434:
     template: Mamool_Ja_Lurker
-    at:       [-418.000, -14.000, -97.000, 127]
     level:    [81, 83]
+    region:   w_225
 
   16990435:
     template: Mamool_Ja_Stabler
-    at:       [-434.000, -14.000, -98.000, 127]
     level:    [81, 83]
+    region:   w_225
 
   16990436:
     template: Mamool_Jas_Raptor
     level:    [76, 78]
-    region:   w_228
+    region:   w_225
 
   16990437:
     template: Mamool_Ja_Stabler
-    at:       [-474.000, -22.000, -95.000, 127]
     level:    [81, 83]
+    region:   w_225
 
   16990438:
     template: Mamool_Jas_Raptor
     level:    [76, 78]
-    region:   w_228
+    region:   w_225
 
   16990439:
     template: Mamool_Ja_Infiltrator
@@ -1324,13 +1324,13 @@ spawns:
 
   16990473:
     template: Locus_Wivre
-    at:       [-606.000, -4.000, -39.000, 127]
     level:    [135, 137]
+    region:   w_260
 
   16990474:
     template: Locus_Wivre
-    at:       [-563.000, -15.000, -95.000, 70]
     level:    [135, 137]
+    region:   w_260
 
   16990475:
     template: Locus_Colibri
@@ -1394,23 +1394,23 @@ spawns:
 
   16990487:
     template: Locus_Colibri
-    at:       [-539.000, -11.000, -89.000, 191]
     level:    [133, 135]
+    region:   w_279
 
   16990488:
     template: Locus_Colibri
-    at:       [-602.161, -4.637, -3.299, 127]
     level:    [133, 135]
+    region:   w_279
 
   16990489:
     template: Locus_Colibri
-    at:       [-595.038, -4.813, 3.993, 233]
     level:    [133, 135]
+    region:   w_279
 
   16990490:
     template: Locus_Wivre
-    at:       [-602.114, -4.580, -4.361, 160]
     level:    [135, 137]
+    region:   w_279
 
   16990491:
     template: Locus_Colibri

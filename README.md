@@ -23,18 +23,21 @@ was given a region, its `at:` is dropped: the region replaces the fixed spawn po
 
 ## How a region was decided
 
-Each mob's recorded trail is rasterised at 4 yalms into the ground it covers. Mobs whose trail spans
-under 25 yalms never leave their spawn and get no region. Everything else, patrol routes included, is
-grouped with its neighbours by how much their territories overlap, and each group becomes one region
-shared by every mob in it — a field belongs to the pack that walks it, not to one species.
+Each mob's recorded trail is rasterised at 4 yalms into the ground it covers, filling the segment
+between consecutive samples: samples sit a median 10 yalms apart, so rasterising the points alone
+leaves a dotted line rather than a path. Mobs whose trail spans under 8 yalms never leave their spawn
+and get no region. Everything else, patrol routes included, is grouped with its neighbours by how much
+their territories overlap, and each group becomes one region shared by every mob in it — a field
+belongs to the pack that walks it, not to one species.
 
 Two rules keep the geometry honest, and both are answered by the zone's **navmesh** rather than by a
 tuned constant:
 
 - A polygon may not reach more than 4 yalms from ground a mob was recorded standing on, and it is
-  clipped to the navmesh, so padding cannot cross a wall. A grid cell counts as walkable only when
-  the *whole* cell is on the navmesh, not merely its centre -- otherwise every boundary cell hangs up
-  to half a cell over the wall, which is what pushed visible spurs into obstacles. Inferring walkable ground from the capture
+  clipped to the navmesh, so padding cannot cross a wall. Each grid cell is checked at nine points
+  across it and needs seven on the navmesh: judging by the centre alone lets every boundary cell hang
+  half a cell over the wall, while demanding all nine erases narrow indoor corridors, where no cell is
+  ever fully covered. Inferring walkable ground from the capture
   instead both over-reaches -- padding a trail out across a tunnel wall -- and under-covers, since
   the roam capture lights up only about 45% of a zone's walkable surface.
 - A gap is cut out as a hole only when it is off the navmesh. A gap on walkable ground is somewhere

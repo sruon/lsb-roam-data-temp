@@ -174,33 +174,33 @@ spawns:
 
   17326115:
     template: Vanguard_Constable
-    at:       [212.200, -0.316, -193.265, 79]
     level:    [75, 77]
+    region:   se_35
 
   17326116:
     template: Vanguard_Defender
-    at:       [219.890, -0.294, -191.721, 198]
     level:    [75, 77]
+    region:   se_35
 
   17326117:
     template: Vanguard_Protector
-    at:       [218.990, -0.505, -189.960, 226]
     level:    [75, 77]
+    region:   se_35
 
   17326118:
     template: Vanguard_Hatamoto
-    at:       [261.519, -0.486, -209.069, 232]
     level:    [75, 77]
+    region:   se_38
 
   17326119:
     template: Vanguard_Kusa
-    at:       [272.572, -0.229, -213.334, 97]
     level:    [75, 77]
+    region:   se_38
 
   17326120:
     template: Vanguard_Protector
-    at:       [276.849, -0.469, -198.549, 155]
     level:    [75, 77]
+    region:   se_38
 
   17326121:
     template: Vanguard_Purloiner
@@ -529,18 +529,18 @@ spawns:
 
   17326186:
     template: Vanguard_Constable
-    at:       [363.311, 0.122, -104.536, 61]
     level:    [75, 77]
+    region:   e_106
 
   17326187:
     template: Vanguard_Thaumaturge
-    at:       [357.692, -0.161, -89.479, 186]
     level:    [75, 77]
+    region:   e_106
 
   17326188:
     template: Vanguard_Hatamoto
-    at:       [348.181, -0.312, -99.912, 206]
     level:    [75, 77]
+    region:   e_106
 
   17326189:
     template: Vanguard_Hatamoto
@@ -549,8 +549,8 @@ spawns:
 
   17326190:
     template: JiKhu_Towercleaver
-    at:       [355.772, 0.329, -67.318, 249]
     level:    [80, 81]
+    region:   e_106
 
   17326191:
     template: Vanguard_Protector
@@ -1025,22 +1025,22 @@ spawns:
   17326285:
     template: Vanguard_Visionary
     level:    [75, 77]
-    region:   c_205
+    region:   c_200
 
   17326286:
     template: Vanguard_Liberator
     level:    [75, 77]
-    region:   c_205
+    region:   c_200
 
   17326287:
     template: Vanguard_Sentinel
     level:    [75, 77]
-    region:   c_205
+    region:   c_200
 
   17326288:
     template: Vanguard_Sentinel
     level:    [75, 77]
-    region:   c_205
+    region:   c_200
 
   17326289:
     template: Xaa_Chau_the_Roctalon
@@ -1234,8 +1234,8 @@ spawns:
 
   17326327:
     template: Vanguards_Crow
-    at:       [165.019, -20.330, 6.970, 102]
     level:    [75, 77]
+    region:   e_246
 
   17326328:
     template: Soo_Jopo_the_Fiendking
@@ -1355,7 +1355,7 @@ spawns:
   17326351:
     template: Avatar_Icon
     level:    [70, 70]
-    region:   e_240
+    region:   e_271
 
   17326352:
     template: Avatar_Icon
@@ -1365,7 +1365,7 @@ spawns:
   17326353:
     template: Avatar_Idol
     level:    [70, 70]
-    region:   c_205
+    region:   c_200
 
   17326354:
     template: Vanguard_Smithy
@@ -1444,8 +1444,8 @@ spawns:
 
   17326369:
     template: Vanguards_Avatar
-    at:       [-281.880, -40.014, -293.305, 11]
     level:    [75, 77]
+    region:   sw_285
 
   17326370:
     template: Vanguard_Welldigger
@@ -1589,18 +1589,18 @@ spawns:
 
   17326398:
     template: Vanguard_Armorer
-    at:       [-29.792, -40.713, -229.696, 111]
     level:    [75, 77]
+    region:   s_318
 
   17326399:
     template: Vanguard_Enchanter
-    at:       [-30.053, -40.674, -230.640, 170]
     level:    [75, 77]
+    region:   s_318
 
   17326400:
     template: Vanguard_Enchanter
-    at:       [-35.798, -39.732, -224.126, 167]
     level:    [75, 77]
+    region:   s_318
 
   17326401:
     template: Gibberox_Pimplebeak
@@ -1629,23 +1629,23 @@ spawns:
 
   17326406:
     template: Vanguard_Pathfinder
-    at:       [-25.601, -39.945, -201.738, 103]
     level:    [75, 77]
+    region:   s_326
 
   17326407:
     template: Vanguards_Slime
-    at:       [-22.547, -39.789, -199.815, 105]
     level:    [75, 77]
+    region:   s_326
 
   17326408:
     template: Vanguard_Welldigger
-    at:       [-25.503, -40.017, -198.031, 76]
     level:    [75, 77]
+    region:   s_326
 
   17326409:
     template: Vanguard_Welldigger
-    at:       [-12.710, -40.209, -201.023, 191]
     level:    [75, 77]
+    region:   s_326
 
   17326410:
     template: Bordox_Kittyback
@@ -1654,23 +1654,23 @@ spawns:
 
   17326411:
     template: Vanguard_Tinkerer
-    at:       [17.532, -39.573, -208.785, 30]
     level:    [75, 77]
+    region:   s_331
 
   17326412:
     template: Vanguard_Maestro
-    at:       [3.076, -40.505, -205.185, 200]
     level:    [75, 77]
+    region:   s_331
 
   17326413:
     template: Vanguard_Armorer
-    at:       [0.897, -40.502, -198.945, 161]
     level:    [75, 77]
+    region:   s_331
 
   17326414:
     template: Vanguard_Armorer
-    at:       [-3.086, -40.576, -206.359, 167]
     level:    [75, 77]
+    region:   s_331
 
   17326415:
     template: Ruffbix_Jumbolobes
@@ -1769,13 +1769,13 @@ spawns:
 
   17326434:
     template: Vanguard_Maestro
-    at:       [132.144, -40.641, -77.968, 1]
     level:    [75, 77]
+    region:   c_354
 
   17326435:
     template: Vanguard_Dragontamer
-    at:       [118.566, -40.498, -86.036, 86]
     level:    [75, 77]
+    region:   c_354
 
   17326436:
     template: Vanguards_Wyvern
@@ -1784,13 +1784,13 @@ spawns:
 
   17326437:
     template: Vanguard_Pathfinder
-    at:       [124.613, -40.367, -83.764, 23]
     level:    [75, 77]
+    region:   c_354
 
   17326438:
     template: Vanguards_Slime
-    at:       [131.023, -40.268, -87.488, 49]
     level:    [75, 77]
+    region:   c_354
 
   17326439:
     template: Routsix_Rubbertendon
@@ -1804,18 +1804,18 @@ spawns:
 
   17326441:
     template: Vanguard_Armorer
-    at:       [144.324, -40.047, -51.513, 149]
     level:    [75, 77]
+    region:   c_361
 
   17326442:
     template: Vanguard_Shaman
-    at:       [140.135, -41.211, -56.106, 86]
     level:    [75, 77]
+    region:   c_361
 
   17326443:
     template: Vanguard_Enchanter
-    at:       [135.737, -41.094, -64.587, 90]
     level:    [75, 77]
+    region:   c_361
 
   17326444:
     template: Vanguard_Necromancer
@@ -1829,28 +1829,28 @@ spawns:
 
   17326446:
     template: Morblox_Chubbychin
-    at:       [138.194, -39.909, -71.004, 125]
     level:    [80, 81]
+    region:   c_361
 
   17326447:
     template: Vanguards_Avatar
-    at:       [136.847, -40.273, -69.689, 236]
     level:    [80, 81]
+    region:   c_361
 
   17326448:
     template: Vanguard_Armorer
-    at:       [142.800, -40.901, -27.493, 139]
     level:    [75, 77]
+    region:   c_368
 
   17326449:
     template: Vanguard_Ronin
-    at:       [149.240, -38.830, -30.693, 57]
     level:    [75, 77]
+    region:   c_368
 
   17326450:
     template: Vanguard_Maestro
-    at:       [142.388, -40.068, -17.553, 211]
     level:    [75, 77]
+    region:   c_368
 
   17326451:
     template: Vanguard_Maestro
@@ -1859,8 +1859,8 @@ spawns:
 
   17326452:
     template: Whistrix_Toadthroat
-    at:       [141.064, -40.892, -27.014, 60]
     level:    [80, 81]
+    region:   c_368
 
   17326453:
     template: Vanguard_Welldigger
@@ -3134,23 +3134,23 @@ spawns:
 
   17326707:
     template: Hydra_Warrior
-    at:       [-87.978, -79.597, -68.476, 240]
     level:    [92, 95]
+    region:   w_627
 
   17326708:
     template: Hydra_White_Mage
-    at:       [-92.150, -80.955, -65.155, 193]
     level:    [92, 95]
+    region:   w_627
 
   17326709:
     template: Hydra_Monk
-    at:       [-47.754, -79.700, -28.126, 26]
     level:    [92, 95]
+    region:   c_629
 
   17326710:
     template: Hydra_Red_Mage
-    at:       [-43.656, -79.781, -24.428, 255]
     level:    [92, 95]
+    region:   c_629
 
   17326711:
     template: Hydra_White_Mage

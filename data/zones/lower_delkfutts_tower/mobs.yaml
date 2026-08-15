@@ -14,8 +14,8 @@ spawns:
 
   17530883:
     template: Giant_Guard
-    at:       [451.661, -0.287, 50.624, 127]
     level:    [28, 30]
+    region:   w_3
 
   17530884:
     template: Giant_Sentry
@@ -114,8 +114,8 @@ spawns:
 
   17530903:
     template: Giant_Sentry
-    at:       [391.372, 0.075, -48.658, 45]
     level:    [28, 30]
+    region:   sw_23
 
   17530904:
     template: Gigass_Bat
@@ -164,8 +164,8 @@ spawns:
 
   17530913:
     template: Goblin_Mugger
-    at:       [514.000, -0.524, -84.000, 127]
     level:    [27, 30]
+    region:   s_33
 
   17530914:
     template: Goblin_Leecher
@@ -174,8 +174,8 @@ spawns:
 
   17530915:
     template: Goblin_Gambler
-    at:       [477.777, -15.971, 44.720, 127]
     level:    [27, 30]
+    region:   s_33
 
   17530916:
     template: Goblin_Mugger
@@ -184,18 +184,18 @@ spawns:
 
   17530917:
     template: Goblin_Leecher
-    at:       [522.000, -0.443, -71.000, 127]
     level:    [27, 30]
+    region:   s_33
 
   17530918:
     template: Goblin_Gambler
-    at:       [521.577, -0.006, -82.548, 90]
     level:    [27, 30]
+    region:   s_33
 
   17530919:
     template: Goblin_Mugger
-    at:       [570.874, -0.494, -40.757, 127]
     level:    [27, 30]
+    region:   se_39
 
   17530920:
     template: Goblin_Leecher
@@ -209,13 +209,13 @@ spawns:
 
   17530922:
     template: Goblin_Mugger
-    at:       [554.329, -0.429, -47.452, 68]
     level:    [27, 30]
+    region:   se_39
 
   17530923:
     template: Goblin_Leecher
-    at:       [555.126, -0.071, -36.019, 127]
     level:    [27, 30]
+    region:   se_39
 
   17530924:
     template: Goblin_Gambler
@@ -244,28 +244,28 @@ spawns:
 
   17530929:
     template: Chaos_Idol
-    at:       [538.413, -0.100, 23.027, 127]
     level:    [28, 30]
+    region:   c_49
 
   17530930:
     template: Chaos_Idol
-    at:       [535.002, -0.099, 20.051, 113]
     level:    [28, 30]
+    region:   c_49
 
   17530931:
     template: Chaos_Idol
-    at:       [537.358, -0.102, 12.665, 127]
     level:    [28, 30]
+    region:   c_49
 
   17530932:
     template: Tyrant
-    at:       [541.000, 0.500, 19.000, 128]
     level:    [40, 42]
+    region:   c_49
 
   17530933:
     template: Giant_Gatekeeper
     level:    [28, 30]
-    region:   ne_53
+    region:   n_53
 
   17530934:
     template: Giant_Guard
@@ -290,7 +290,7 @@ spawns:
   17530938:
     template: Giant_Gatekeeper
     level:    [28, 30]
-    region:   ne_53
+    region:   n_53
 
   17530939:
     template: Giant_Guard
@@ -300,12 +300,12 @@ spawns:
   17530940:
     template: Giant_Sentry
     level:    [28, 30]
-    region:   ne_53
+    region:   n_53
 
   17530941:
     template: Gigass_Bat
     level:    [21, 23]
-    region:   ne_53
+    region:   n_53
 
   17530942:
     template: Giant_Lobber
@@ -315,17 +315,17 @@ spawns:
   17530943:
     template: Seeker_Bats
     level:    [25, 27]
-    region:   ne_53
+    region:   n_53
 
   17530944:
     template: Seeker_Bats
     level:    [25, 27]
-    region:   ne_53
+    region:   n_53
 
   17530945:
     template: Ancient_Bat
     level:    [27, 29]
-    region:   ne_53
+    region:   n_53
 
   17530946:
     template: Seeker_Bats
@@ -489,18 +489,18 @@ spawns:
 
   17530978:
     template: Magic_Urn
-    at:       [643.175, 23.558, 110.105, 109]
     level:    [34, 35]
+    region:   ne_98
 
   17530979:
     template: Magic_Urn
-    at:       [639.762, 23.968, 116.359, 25]
     level:    [34, 35]
+    region:   ne_98
 
   17530980:
     template: Magic_Urn
-    at:       [639.467, 24.022, 120.416, 127]
     level:    [34, 35]
+    region:   ne_98
 
   17530981:
     template: Bogy
@@ -514,18 +514,18 @@ spawns:
 
   17530983:
     template: Magic_Urn
-    at:       [413.463, 15.899, -19.150, 127]
     level:    [34, 35]
+    region:   w_103
 
   17530984:
     template: Magic_Urn
-    at:       [420.070, 15.900, -20.234, 127]
     level:    [34, 35]
+    region:   w_103
 
   17530985:
     template: Thunder_Elemental
-    at:       [426.108, 15.900, -16.844, 82]
     level:    [35, 36]
+    region:   w_103
 
   17530986:
     template: Light_Elemental
@@ -594,28 +594,28 @@ spawns:
 
   17530999:
     template: Hippolytos
-    at:       [339.212, -16.099, 16.733, 28]
     level:    [32, 32]
+    region:   w_119
 
   17531000:
     template: Giant_Gatekeeper
-    at:       [337.079, -16.100, 17.386, 21]
     level:    [28, 30]
+    region:   w_119
 
   17531001:
     template: Giant_Guard
-    at:       [338.454, -16.124, 28.625, 127]
     level:    [28, 30]
+    region:   w_119
 
   17531002:
     template: Giant_Sentry
-    at:       [346.244, -16.126, 10.373, 127]
     level:    [28, 30]
+    region:   w_119
 
   17531003:
     template: Gigass_Bat
-    at:       [1.000, 1.000, 1.000, 0]
     level:    [21, 23]
+    region:   w_119
 
   17531004:
     template: Giant_Lobber
@@ -800,22 +800,22 @@ spawns:
   17531040:
     template: Chaos_Idol
     level:    [28, 30]
-    region:   ne_53
+    region:   n_53
 
   17531041:
     template: Chaos_Idol
     level:    [28, 30]
-    region:   ne_53
+    region:   n_53
 
   17531042:
     template: Chaos_Idol
     level:    [28, 30]
-    region:   ne_53
+    region:   n_53
 
   17531043:
     template: Chaos_Idol
     level:    [28, 30]
-    region:   ne_53
+    region:   n_53
 
   17531044:
     template: Giant_Gatekeeper
@@ -854,48 +854,48 @@ spawns:
 
   17531051:
     template: Magic_Pot
-    at:       [464.497, -16.101, -57.092, 64]
     level:    [28, 29]
+    region:   s_171
 
   17531052:
     template: Ancient_Bat
-    at:       [468.019, -16.102, -54.125, 31]
     level:    [27, 29]
+    region:   s_171
 
   17531053:
     template: Ancient_Bat
-    at:       [498.203, -32.073, 87.789, 8]
     level:    [27, 29]
+    region:   s_171
 
   17531054:
     template: Bogy
-    at:       [548.778, -16.100, 19.150, 127]
     level:    [30, 32]
+    region:   c_49
 
   17531055:
     template: Bogy
-    at:       [537.000, -16.099, 29.000, 102]
     level:    [30, 32]
+    region:   c_49
 
   17531056:
     template: Bogy
-    at:       [542.466, -16.100, 16.147, 127]
     level:    [30, 32]
+    region:   c_49
 
   17531057:
     template: Chaos_Idol
-    at:       [529.673, -32.100, 17.594, 106]
     level:    [28, 30]
+    region:   c_49
 
   17531058:
     template: Chaos_Idol
-    at:       [540.000, -32.099, 29.000, 127]
     level:    [28, 30]
+    region:   c_49
 
   17531059:
     template: Chaos_Idol
-    at:       [549.000, -32.116, 15.000, 127]
     level:    [28, 30]
+    region:   c_49
 
   17531060:
     template: Giant_Gatekeeper
@@ -1159,13 +1159,13 @@ spawns:
 
   17531112:
     template: Bogy
-    at:       [469.000, -32.099, -55.000, 127]
     level:    [30, 32]
+    region:   s_171
 
   17531113:
     template: Bogy
-    at:       [454.746, -32.099, -63.274, 127]
     level:    [30, 32]
+    region:   s_171
 
   17531114:
     template: Eurymedon
@@ -1184,18 +1184,18 @@ spawns:
 
   17531117:
     template: Giant_Guard
-    at:       [402.086, -32.456, -29.081, 149]
     level:    [28, 30]
+    region:   sw_237
 
   17531118:
     template: Giant_Sentry
-    at:       [397.252, -32.128, -32.807, 35]
     level:    [28, 30]
+    region:   sw_237
 
   17531119:
     template: Gigass_Bat
-    at:       [1.000, 1.000, 1.000, 0]
     level:    [21, 23]
+    region:   sw_237
 
   17531120:
     template: Giant_Lobber

@@ -119,18 +119,18 @@ spawns:
 
   17281048:
     template: Yuhtunga_Mandragora
-    at:       [-234.000, -0.600, 486.000, 64]
     level:    [30, 33]
+    region:   n_24
 
   17281049:
     template: Yuhtunga_Mandragora
     level:    [30, 33]
-    region:   n_25
+    region:   n_24
 
   17281050:
     template: Goblin_Smithy
     level:    [32, 37]
-    region:   n_25
+    region:   n_24
 
   17281051:
     template: Ivory_Lizard
@@ -159,33 +159,33 @@ spawns:
 
   17281056:
     template: Yuhtunga_Mandragora
-    at:       [-308.667, 0.504, 181.546, 116]
     level:    [30, 33]
+    region:   nw_32
 
   17281057:
     template: Yuhtunga_Mandragora
     level:    [30, 33]
-    region:   nw_33
+    region:   nw_32
 
   17281058:
     template: Yuhtunga_Mandragora
-    at:       [-300.111, -0.101, 199.517, 56]
     level:    [30, 33]
+    region:   nw_32
 
   17281059:
     template: Goblin_Smithy
     level:    [32, 37]
-    region:   nw_33
+    region:   nw_32
 
   17281060:
     template: Goblin_Smithy
-    at:       [-301.557, 0.058, 207.924, 32]
     level:    [32, 37]
+    region:   nw_32
 
   17281061:
     template: Koropokkur
-    at:       [-301.557, 0.058, 207.924, 32]
     level:    [36, 37]
+    region:   nw_32
 
   17281062:
     template: Ivory_Lizard
@@ -514,13 +514,13 @@ spawns:
 
   17281127:
     template: Ivory_Lizard
-    at:       [-75.419, 7.898, 300.851, 12]
     level:    [32, 35]
+    region:   n_103
 
   17281128:
     template: Ivory_Lizard
-    at:       [-92.748, 6.556, 298.562, 96]
     level:    [32, 35]
+    region:   n_103
 
   17281129:
     template: Death_Jacket
@@ -1405,12 +1405,12 @@ spawns:
   17281305:
     template: Makara
     level:    [35, 38]
-    region:   sw_281
+    region:   sw_248
 
   17281306:
     template: Makara
     level:    [35, 38]
-    region:   sw_281
+    region:   sw_248
 
   17281307:
     template: Makara
@@ -1419,13 +1419,13 @@ spawns:
 
   17281308:
     template: Makara
-    at:       [-344.771, 16.169, -342.925, 94]
     level:    [35, 38]
+    region:   sw_284
 
   17281309:
     template: Makara
-    at:       [-457.397, 16.687, -345.215, 127]
     level:    [35, 38]
+    region:   sw_285
 
   17281310:
     template: Death_Jacket
@@ -1784,18 +1784,18 @@ spawns:
 
   17281381:
     template: Ivory_Lizard
-    at:       [198.344, 3.501, 247.409, 127]
     level:    [32, 35]
+    region:   ne_357
 
   17281382:
     template: Ivory_Lizard
-    at:       [199.277, 3.509, 236.187, 127]
     level:    [32, 35]
+    region:   ne_357
 
   17281383:
     template: Jungle_Coeurl
-    at:       [199.139, 3.499, 245.978, 105]
     level:    [35, 38]
+    region:   ne_357
 
   17281384:
     template: Ivory_Lizard
@@ -1854,8 +1854,8 @@ spawns:
 
   17281395:
     template: Ivory_Lizard
-    at:       [334.458, 7.823, 175.993, 98]
     level:    [32, 35]
+    region:   ne_371
 
   17281396:
     template: Soldier_Crawler
@@ -2159,13 +2159,13 @@ spawns:
 
   17281456:
     template: Makara
-    at:       [455.856, 20.640, 179.568, 127]
     level:    [35, 38]
+    region:   ne_432
 
   17281457:
     template: Makara
-    at:       [416.435, 20.758, 228.039, 127]
     level:    [35, 38]
+    region:   ne_433
 
   17281458:
     template: Makara
@@ -2209,8 +2209,8 @@ spawns:
 
   17281466:
     template: Makara
-    at:       [335.094, 20.648, 298.502, 99]
     level:    [35, 38]
+    region:   ne_442
 
   17281467:
     template: Goblin_Digger

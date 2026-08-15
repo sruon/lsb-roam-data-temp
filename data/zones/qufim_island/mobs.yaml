@@ -434,8 +434,8 @@ spawns:
 
   17293399:
     template: Giant_Ranger
-    at:       [90.540, -20.397, 85.499, 127]
     level:    [29, 30]
+    region:   e_87
 
   17293400:
     template: Giant_Ascetic
@@ -474,13 +474,13 @@ spawns:
 
   17293407:
     template: Banshee
-    at:       [203.302, -20.631, 113.160, 28]
     level:    [31, 32]
+    region:   e_95
 
   17293408:
     template: Banshee
-    at:       [204.455, -20.519, 117.017, 127]
     level:    [31, 32]
+    region:   e_95
 
   17293409:
     template: Clipper
@@ -650,47 +650,47 @@ spawns:
   17293442:
     template: Clipper
     level:    [28, 29]
-    region:   ne_130
+    region:   e_130
 
   17293443:
     template: Clipper
     level:    [28, 29]
-    region:   ne_130
+    region:   e_130
 
   17293444:
     template: Clipper
     level:    [28, 29]
-    region:   ne_130
+    region:   e_130
 
   17293445:
     template: Clipper
     level:    [28, 29]
-    region:   ne_130
+    region:   e_130
 
   17293446:
     template: Land_Worm
     level:    [26, 27]
-    region:   ne_130
+    region:   e_130
 
   17293447:
     template: Land_Worm
     level:    [26, 27]
-    region:   ne_130
+    region:   e_130
 
   17293448:
     template: Dark_Bats
     level:    [26, 27]
-    region:   ne_130
+    region:   e_130
 
   17293449:
     template: Dark_Bats
     level:    [26, 27]
-    region:   ne_130
+    region:   e_130
 
   17293450:
     template: Glow_Bat
     level:    [28, 29]
-    region:   ne_130
+    region:   e_130
 
   17293451:
     template: Giant_Ranger
@@ -700,7 +700,7 @@ spawns:
   17293452:
     template: Giant_Ascetic
     level:    [29, 30]
-    region:   ne_130
+    region:   e_130
 
   17293453:
     template: Giant_Trapper
@@ -720,12 +720,12 @@ spawns:
   17293456:
     template: Wight
     level:    [28, 29]
-    region:   ne_130
+    region:   e_130
 
   17293457:
     template: Wight
     level:    [28, 29]
-    region:   ne_130
+    region:   e_130
 
   17293458:
     template: Clipper
@@ -1449,13 +1449,13 @@ spawns:
 
   17293603:
     template: Wight
-    at:       [-339.128, -12.994, 533.764, 90]
     level:    [28, 29]
+    region:   nw_291
 
   17293604:
     template: Wight
-    at:       [-335.886, -13.522, 532.259, 19]
     level:    [28, 29]
+    region:   nw_291
 
   17293605:
     template: Seeker_Bats
@@ -1479,13 +1479,13 @@ spawns:
 
   17293609:
     template: Wight
-    at:       [-427.571, -12.507, 337.510, 80]
     level:    [28, 29]
+    region:   nw_297
 
   17293610:
     template: Wight
-    at:       [-419.158, -11.386, 339.963, 109]
     level:    [28, 29]
+    region:   nw_297
 
   17293611:
     template: Seeker_Bats
@@ -1695,7 +1695,7 @@ spawns:
   17293652:
     template: Goblin_Bounty_Hunter
     level:    [32, 36]
-    region:   e_340
+    region:   se_340
 
   17293653:
     template: Goblin_Bounty_Hunter

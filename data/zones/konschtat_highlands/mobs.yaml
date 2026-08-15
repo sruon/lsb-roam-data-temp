@@ -564,13 +564,13 @@ spawns:
 
   17219697:
     template: Poltergeist
-    at:       [459.714, 25.343, 240.892, 81]
     level:    [18, 19]
+    region:   e_113
 
   17219698:
     template: Poltergeist
-    at:       [483.000, 28.000, 261.000, 82]
     level:    [18, 19]
+    region:   e_113
 
   17219699:
     template: Mist_Lizard
@@ -735,7 +735,7 @@ spawns:
   17219731:
     template: Grenade
     level:    [15, 16]
-    region:   e_147
+    region:   ne_97
 
   17219732:
     template: Veteran_Quadav
@@ -1699,13 +1699,13 @@ spawns:
 
   17219924:
     template: Ghost
-    at:       [-710.913, 2.309, 101.913, 119]
     level:    [15, 16]
+    region:   w_340
 
   17219925:
     template: Earth_Elemental
-    at:       [-700.529, 2.963, 104.203, 104]
     level:    [18, 20]
+    region:   w_340
 
   17219926:
     template: Huge_Wasp
@@ -2110,7 +2110,7 @@ spawns:
   17220006:
     template: Pixie
     level:    [51, 54]
-    region:   sw_422
+    region:   s_422
 
   17220007:
     template: Thunderhead

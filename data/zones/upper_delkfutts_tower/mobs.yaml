@@ -4,8 +4,8 @@ spawns:
 
   17424385:
     template: Enkelados
-    at:       [-391.000, -145.000, 25.000, 127]
     level:    [40, 40]
+    region:   w_1
 
   17424386:
     template: Gigass_Bats
@@ -14,28 +14,28 @@ spawns:
 
   17424387:
     template: Gigas_Torturer
-    at:       [-387.740, -144.100, 16.162, 127]
     level:    [34, 35]
+    region:   w_3
 
   17424388:
     template: Gigas_Bonecutter
-    at:       [-371.586, -144.367, 28.244, 45]
     level:    [34, 35]
+    region:   w_3
 
   17424389:
     template: Gigass_Bats
-    at:       [1.000, 1.000, 1.000, 0]
     level:    [27, 29]
+    region:   w_3
 
   17424390:
     template: Gigas_Stonemason
-    at:       [-380.843, -144.099, 11.526, 21]
     level:    [34, 35]
+    region:   w_3
 
   17424391:
     template: Gigas_Spirekeeper
     level:    [34, 35]
-    region:   nw_7
+    region:   n_7
 
   17424392:
     template: Gigas_Torturer
@@ -45,12 +45,12 @@ spawns:
   17424393:
     template: Gigas_Bonecutter
     level:    [34, 35]
-    region:   nw_7
+    region:   n_7
 
   17424394:
     template: Gigass_Bats
     level:    [27, 29]
-    region:   n_10
+    region:   n_7
 
   17424395:
     template: Gigas_Stonemason
@@ -60,7 +60,7 @@ spawns:
   17424396:
     template: Thunder_Elemental
     level:    [35, 36]
-    region:   nw_7
+    region:   n_7
 
   17424397:
     template: Light_Elemental
@@ -174,23 +174,23 @@ spawns:
 
   17424419:
     template: Mimas
-    at:       [-293.419, -144.070, 53.648, 127]
     level:    [36, 36]
+    region:   n_35
 
   17424420:
     template: Magic_Urn
-    at:       [-238.899, -144.002, 77.680, 61]
     level:    [34, 35]
+    region:   ne_36
 
   17424421:
     template: Magic_Urn
-    at:       [-236.313, -144.298, 72.947, 50]
     level:    [34, 35]
+    region:   ne_36
 
   17424422:
     template: Magic_Urn
-    at:       [-241.098, -144.076, 86.067, 127]
     level:    [34, 35]
+    region:   ne_36
 
   17424423:
     template: Enkelados
@@ -204,23 +204,23 @@ spawns:
 
   17424425:
     template: Gigas_Spirekeeper
-    at:       [-225.374, -144.100, 19.749, 127]
     level:    [34, 35]
+    region:   e_41
 
   17424426:
     template: Gigas_Bonecutter
-    at:       [-215.194, -144.099, 19.528, 127]
     level:    [34, 35]
+    region:   e_41
 
   17424427:
     template: Gigass_Bats
-    at:       [1.000, 1.000, 1.000, 0]
     level:    [27, 29]
+    region:   e_41
 
   17424428:
     template: Gigas_Stonemason
-    at:       [-225.728, -144.103, 30.087, 125]
     level:    [34, 35]
+    region:   e_41
 
   17424429:
     template: Porphyrion
@@ -289,13 +289,13 @@ spawns:
 
   17424442:
     template: Demonic_Doll
-    at:       [-358.825, -144.159, -38.803, 127]
     level:    [68, 70]
+    region:   sw_58
 
   17424443:
     template: Demonic_Doll
-    at:       [-226.754, -144.728, -32.811, 106]
     level:    [68, 70]
+    region:   se_59
 
   17424444:
     template: Pallas
@@ -415,7 +415,7 @@ spawns:
   17424467:
     template: Jotunn_Wallkeeper
     level:    [65, 69]
-    region:   e_83
+    region:   c_48
 
   17424468:
     template: Jotunn_Gatekeeper
@@ -439,13 +439,13 @@ spawns:
 
   17424472:
     template: Phasma
-    at:       [-366.908, -160.336, 84.753, 127]
     level:    [67, 69]
+    region:   nw_88
 
   17424473:
     template: Phasma
-    at:       [-359.458, -160.002, 76.582, 127]
     level:    [67, 69]
+    region:   nw_88
 
   17424474:
     template: Phasma
@@ -624,18 +624,18 @@ spawns:
 
   17424509:
     template: Phasma
-    at:       [-348.777, -176.461, 76.460, 127]
     level:    [67, 69]
+    region:   nw_88
 
   17424510:
     template: Phasma
-    at:       [-359.671, -176.144, 86.200, 127]
     level:    [67, 69]
+    region:   nw_88
 
   17424511:
     template: Phasma
-    at:       [-362.595, -176.133, 85.139, 68]
     level:    [67, 69]
+    region:   nw_88
 
   17424512:
     template: Ixtab
@@ -655,9 +655,9 @@ spawns:
   17424515:
     template: Incubus_Bats
     level:    [62, 64]
-    region:   sw_131
+    region:   c_45
 
   17424516:
     template: Incubus_Bats
     level:    [62, 64]
-    region:   sw_131
+    region:   c_45

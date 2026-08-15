@@ -1040,17 +1040,17 @@ spawns:
   17166544:
     template: Crawler
     level:    [18, 21]
-    region:   s_198
+    region:   s_208
 
   17166545:
     template: Crawler
     level:    [18, 21]
-    region:   s_198
+    region:   s_208
 
   17166546:
     template: Crawler
     level:    [18, 21]
-    region:   s_198
+    region:   s_208
 
   17166547:
     template: River_Crab
@@ -1454,28 +1454,28 @@ spawns:
 
   17166627:
     template: Yagudo_Mendicant
-    at:       [-331.699, -20.811, 199.732, 131]
     level:    [61, 64]
+    region:   w_291
 
   17166628:
     template: Yagudos_Elemental
-    at:       [-328.101, -20.756, 196.334, 65]
     level:    [56, 58]
+    region:   w_291
 
   17166629:
     template: Yagudo_Piper
-    at:       [-337.323, -21.259, 200.971, 16]
     level:    [61, 64]
+    region:   w_291
 
   17166630:
     template: Yagudo_Scribe
-    at:       [-337.183, -21.036, 233.544, 151]
     level:    [61, 64]
+    region:   w_294
 
   17166631:
     template: Yagudo_Acolyte
-    at:       [-349.383, -20.636, 238.916, 102]
     level:    [61, 64]
+    region:   w_294
 
   17166632:
     template: Yagudo_Initiate
@@ -1504,18 +1504,18 @@ spawns:
 
   17166637:
     template: Yagudo_Scribe
-    at:       [-278.279, -19.480, 331.214, 178]
     level:    [61, 64]
+    region:   nw_301
 
   17166638:
     template: Yagudo_Mendicant
-    at:       [-271.674, -19.549, 333.201, 215]
     level:    [61, 64]
+    region:   nw_301
 
   17166639:
     template: Yagudos_Elemental
-    at:       [-271.859, -19.873, 331.357, 207]
     level:    [56, 58]
+    region:   nw_301
 
   17166640:
     template: Yagudo_Acolyte
@@ -1529,13 +1529,13 @@ spawns:
 
   17166642:
     template: Yagudo_Initiate
-    at:       [-317.673, -16.595, 368.276, 43]
     level:    [61, 64]
+    region:   nw_306
 
   17166643:
     template: Yagudo_Scribe
-    at:       [-316.446, -16.560, 369.515, 64]
     level:    [61, 64]
+    region:   nw_306
 
   17166644:
     template: Yagudo_Acolyte
@@ -1820,27 +1820,27 @@ spawns:
   17166700:
     template: Poroggo_Gent
     level:    [56, 67]
-    region:   s_364
+    region:   s_363
 
   17166701:
     template: Toad
     level:    [51, 54]
-    region:   s_365
+    region:   s_363
 
   17166702:
     template: Toad
     level:    [51, 54]
-    region:   s_365
+    region:   s_363
 
   17166703:
     template: Toad
     level:    [51, 54]
-    region:   s_365
+    region:   s_363
 
   17166704:
     template: Toad
     level:    [51, 54]
-    region:   s_365
+    region:   s_363
 
   17166705:
     template: Ramponneau
@@ -1855,7 +1855,7 @@ spawns:
   17166707:
     template: Poroggo_Gent
     level:    [56, 67]
-    region:   sw_371
+    region:   sw_370
 
   17166708:
     template: Toad
@@ -1884,13 +1884,13 @@ spawns:
 
   17166713:
     template: Poroggo_Gent
-    at:       [-245.903, -16.460, 644.531, 81]
     level:    [56, 67]
+    region:   nw_377
 
   17166714:
     template: Poroggo_Gent
-    at:       [-248.989, -16.429, 642.367, 1]
     level:    [56, 67]
+    region:   nw_378
 
   17166715:
     template: Toad
@@ -2290,17 +2290,17 @@ spawns:
   17166794:
     template: Scorpion_Caster
     level:    [70, 70]
-    region:   c_458
+    region:   c_457
 
   17166795:
     template: Scorpion_Caster
     level:    [70, 70]
-    region:   c_459
+    region:   c_457
 
   17166796:
     template: Scorpion_Caster
     level:    [70, 70]
-    region:   c_460
+    region:   c_457
 
   17166797:
     template: Scorpion_Caster
@@ -2500,7 +2500,7 @@ spawns:
   17166836:
     template: Ace_of_Batons
     level:    [70, 70]
-    region:   n_500
+    region:   n_499
 
   17166837:
     template: Ace_of_Swords
@@ -2510,7 +2510,7 @@ spawns:
   17166838:
     template: Ace_of_Coins
     level:    [70, 70]
-    region:   n_502
+    region:   n_501
 
   17166839:
     template: Capricornian_Caster

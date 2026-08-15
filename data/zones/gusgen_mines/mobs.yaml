@@ -34,83 +34,83 @@ spawns:
 
   17580039:
     template: Smothered_Schmidt
-    at:       [202.000, -59.000, -98.000, 127]
     level:    [36, 38]
+    region:   se_7
 
   17580040:
     template: Crushed_Krause
-    at:       [167.000, -39.000, -18.000, 127]
     level:    [37, 38]
+    region:   se_8
 
   17580041:
     template: Pulverized_Pfeffer
-    at:       [-124.000, -59.000, -101.000, 127]
     level:    [36, 38]
+    region:   sw_9
 
   17580042:
     template: Burned_Bergmann
-    at:       [128.000, -19.000, 429.000, 127]
     level:    [36, 38]
+    region:   ne_10
 
   17580043:
     template: Wounded_Wurfel
-    at:       [41.000, -11.000, 430.000, 127]
     level:    [36, 38]
+    region:   n_11
 
   17580044:
     template: Asphyxiated_Amsel
-    at:       [-85.000, -26.000, 431.000, 127]
     level:    [36, 38]
+    region:   nw_12
 
   17580045:
     template: Skeleton_Warrior
-    at:       [15.079, -59.919, -216.982, 131]
     level:    [15, 17]
+    region:   s_13
 
   17580046:
     template: Skeleton_Warrior
-    at:       [20.000, -60.234, -212.000, 68]
     level:    [15, 17]
+    region:   s_13
 
   17580047:
     template: Skeleton_Warrior
-    at:       [19.490, -60.205, -225.113, 78]
     level:    [15, 17]
+    region:   s_13
 
   17580048:
     template: Skeleton_Warrior
-    at:       [13.000, -59.000, -183.000, 18]
     level:    [15, 17]
+    region:   s_16
 
   17580049:
     template: Skeleton_Warrior
-    at:       [18.982, -59.922, -169.474, 127]
     level:    [15, 17]
+    region:   s_16
 
   17580050:
     template: Skeleton_Warrior
-    at:       [19.282, -59.874, -175.445, 127]
     level:    [15, 17]
+    region:   s_16
 
   17580051:
     template: Fly_Agaric
-    at:       [-14.282, -59.900, -177.424, 15]
     level:    [20, 23]
+    region:   s_19
 
   17580052:
     template: Fly_Agaric
-    at:       [-16.713, -59.780, -186.027, 66]
     level:    [20, 23]
+    region:   s_19
 
   17580053:
     template: Fly_Agaric
-    at:       [-28.088, -59.560, -180.088, 127]
     level:    [20, 23]
+    region:   s_19
 
   17580054:
     template: Fly_Agaric
-    at:       [-27.976, -59.560, -180.089, 88]
     level:    [20, 23]
+    region:   s_19
 
   17580055:
     template: Fly_Agaric
@@ -119,18 +119,18 @@ spawns:
 
   17580056:
     template: Fly_Agaric
-    at:       [69.590, -59.701, -181.616, 127]
     level:    [20, 23]
+    region:   s_24
 
   17580057:
     template: Fly_Agaric
-    at:       [63.000, -59.672, -176.000, 12]
     level:    [20, 23]
+    region:   s_24
 
   17580058:
     template: Fly_Agaric
-    at:       [56.344, -59.622, -178.876, 127]
     level:    [20, 23]
+    region:   s_24
 
   17580059:
     template: Ghoul
@@ -204,18 +204,18 @@ spawns:
 
   17580073:
     template: Ghoul
-    at:       [5.000, -54.000, -92.000, 127]
     level:    [20, 24]
+    region:   s_41
 
   17580074:
     template: Ghoul
-    at:       [15.834, -60.117, -96.727, 67]
     level:    [20, 24]
+    region:   s_41
 
   17580075:
     template: Ghoul
-    at:       [41.000, -54.000, -93.000, 55]
     level:    [24, 27]
+    region:   s_41
 
   17580076:
     template: Ghoul
@@ -459,18 +459,18 @@ spawns:
 
   17580124:
     template: Bogy
-    at:       [-3.531, -40.003, -43.794, 183]
     level:    [27, 29]
+    region:   s_92
 
   17580125:
     template: Bogy
-    at:       [18.222, -39.923, 67.602, 127]
     level:    [27, 29]
+    region:   s_93
 
   17580126:
     template: Bogy
-    at:       [18.522, -39.872, 12.086, 127]
     level:    [27, 29]
+    region:   s_94
 
   17580127:
     template: Wendigo
@@ -524,13 +524,13 @@ spawns:
 
   17580137:
     template: Wendigo
-    at:       [18.865, -40.100, 106.229, 248]
     level:    [26, 30]
+    region:   c_105
 
   17580138:
     template: Wight
-    at:       [19.186, -40.599, 102.541, 57]
     level:    [29, 33]
+    region:   c_105
 
   17580139:
     template: Accursed_Soldier
@@ -994,8 +994,8 @@ spawns:
 
   17580231:
     template: Wendigo
-    at:       [-19.852, -39.878, -0.123, 64]
     level:    [26, 30]
+    region:   s_199
 
   17580232:
     template: Mauthe_Doog
@@ -1009,28 +1009,28 @@ spawns:
 
   17580234:
     template: Mauthe_Doog
-    at:       [-20.357, -39.895, 76.140, 196]
     level:    [28, 31]
+    region:   c_202
 
   17580235:
     template: Myconid
     level:    [30, 32]
-    region:   nw_203
+    region:   w_203
 
   17580236:
     template: Myconid
     level:    [30, 32]
-    region:   nw_203
+    region:   w_203
 
   17580237:
     template: Myconid
     level:    [30, 32]
-    region:   nw_203
+    region:   w_203
 
   17580238:
     template: Myconid
     level:    [30, 32]
-    region:   nw_203
+    region:   w_203
 
   17580239:
     template: Myconid
@@ -1049,8 +1049,8 @@ spawns:
 
   17580242:
     template: Thunder_Elemental
-    at:       [-126.231, 0.936, 241.004, 93]
     level:    [33, 36]
+    region:   nw_187
 
   17580243:
     template: Earth_Elemental
@@ -1079,13 +1079,13 @@ spawns:
 
   17580248:
     template: Juggler_Hecatomb
-    at:       [-138.821, 2.603, 337.125, 127]
     level:    [46, 48]
+    region:   nw_216
 
   17580249:
     template: Rancid_Ooze
-    at:       [-135.023, 2.282, 344.851, 25]
     level:    [31, 34]
+    region:   nw_216
 
   17580250:
     template: Gallinipper
@@ -1214,18 +1214,18 @@ spawns:
 
   17580275:
     template: Banshee
-    at:       [-6.562, -20.169, 165.154, 127]
     level:    [31, 34]
+    region:   c_243
 
   17580276:
     template: Banshee
-    at:       [19.387, -20.002, 164.075, 127]
     level:    [31, 34]
+    region:   c_244
 
   17580277:
     template: Banshee
-    at:       [43.677, -19.995, 160.065, 127]
     level:    [31, 34]
+    region:   c_245
 
   17580278:
     template: Wight
@@ -1259,23 +1259,23 @@ spawns:
 
   17580284:
     template: Foul_Meat
-    at:       [23.966, -19.575, 303.201, 15]
     level:    [43, 45]
+    region:   n_252
 
   17580285:
     template: Myconid
-    at:       [-57.553, -19.891, 295.650, 1]
     level:    [30, 32]
+    region:   nw_253
 
   17580286:
     template: Myconid
-    at:       [-54.845, -19.423, 299.686, 127]
     level:    [30, 32]
+    region:   nw_253
 
   17580287:
     template: Myconid
-    at:       [-50.208, -20.267, 305.226, 127]
     level:    [30, 32]
+    region:   nw_253
 
   17580288:
     template: Wight
@@ -1309,8 +1309,8 @@ spawns:
 
   17580294:
     template: Myconid
-    at:       [-61.751, -28.032, 351.250, 35]
     level:    [30, 32]
+    region:   nw_256
 
   17580295:
     template: Wight
@@ -1319,8 +1319,8 @@ spawns:
 
   17580296:
     template: Wight
-    at:       [18.667, -19.863, 370.556, 80]
     level:    [31, 34]
+    region:   n_263
 
   17580297:
     template: Ghast
@@ -1374,13 +1374,13 @@ spawns:
 
   17580307:
     template: Rancid_Ooze
-    at:       [-147.030, -27.782, 335.902, 21]
     level:    [31, 34]
+    region:   nw_216
 
   17580308:
     template: Rancid_Ooze
-    at:       [-137.520, -28.069, 347.120, 127]
     level:    [31, 34]
+    region:   nw_216
 
   17580309:
     template: Greater_Pugil
@@ -1444,13 +1444,13 @@ spawns:
 
   17580321:
     template: Mauthe_Doog
-    at:       [19.000, -19.898, 198.000, 64]
     level:    [28, 31]
+    region:   n_289
 
   17580322:
     template: Mauthe_Doog
-    at:       [20.884, -19.895, 221.524, 127]
     level:    [28, 31]
+    region:   n_290
 
   17580323:
     template: Wight
@@ -1504,13 +1504,13 @@ spawns:
 
   17580333:
     template: Wight
-    at:       [-100.000, -27.875, 402.000, 127]
     level:    [31, 34]
+    region:   nw_301
 
   17580334:
     template: Wight
-    at:       [-100.000, -28.067, 386.000, 127]
     level:    [31, 34]
+    region:   nw_301
 
   17580335:
     template: Ghast

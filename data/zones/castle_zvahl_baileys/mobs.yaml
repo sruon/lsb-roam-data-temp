@@ -29,8 +29,8 @@ spawns:
 
   17436678:
     template: Dark_Elemental
-    at:       [299.000, -16.000, -20.000, 127]
     level:    [48, 49]
+    region:   e_6
 
   17436679:
     template: Ice_Elemental
@@ -54,8 +54,8 @@ spawns:
 
   17436683:
     template: Dark_Elemental
-    at:       [292.259, -20.517, 61.493, 5]
     level:    [48, 49]
+    region:   e_11
 
   17436684:
     template: Ice_Elemental
@@ -89,8 +89,8 @@ spawns:
 
   17436690:
     template: Evil_Eye
-    at:       [180.880, -24.539, 22.258, 127]
     level:    [46, 48]
+    region:   e_18
 
   17436691:
     template: Demon_Pawn
@@ -134,8 +134,8 @@ spawns:
 
   17436699:
     template: Evil_Eye
-    at:       [99.589, -24.550, 20.144, 34]
     level:    [46, 48]
+    region:   c_27
 
   17436700:
     template: Demon_Pawn
@@ -149,23 +149,23 @@ spawns:
 
   17436702:
     template: Demon_Pawn
-    at:       [180.358, -24.539, 95.951, 47]
     level:    [50, 52]
+    region:   ne_30
 
   17436703:
     template: Demon_Wizard
-    at:       [147.000, -24.562, 100.000, 16]
     level:    [50, 52]
+    region:   ne_30
 
   17436704:
     template: Demon_Pawn
-    at:       [183.383, -24.578, -53.639, 127]
     level:    [50, 52]
+    region:   se_32
 
   17436705:
     template: Demon_Wizard
-    at:       [136.000, -24.547, -59.000, 97]
     level:    [50, 52]
+    region:   se_32
 
   17436706:
     template: Demon_Pawn
@@ -199,28 +199,28 @@ spawns:
 
   17436712:
     template: Evil_Eye
-    at:       [135.484, -24.538, 64.949, 127]
     level:    [46, 48]
+    region:   c_40
 
   17436713:
     template: Evil_Eye
-    at:       [134.806, -24.522, 56.228, 43]
     level:    [46, 48]
+    region:   c_40
 
   17436714:
     template: Likho
-    at:       [141.130, -24.030, 60.870, 60]
     level:    [67, 68]
+    region:   c_40
 
   17436715:
     template: Evil_Eye
-    at:       [141.048, -24.503, -18.064, 127]
     level:    [46, 48]
+    region:   c_43
 
   17436716:
     template: Evil_Eye
-    at:       [141.449, -24.503, -16.373, 59]
     level:    [46, 48]
+    region:   c_43
 
   17436717:
     template: Demon_Pawn
@@ -359,18 +359,18 @@ spawns:
 
   17436744:
     template: Demon_Knight
-    at:       [-24.100, -20.510, 72.867, 87]
     level:    [50, 52]
+    region:   n_72
 
   17436745:
     template: Demon_Warlock
-    at:       [-24.251, -20.500, 77.300, 100]
     level:    [50, 52]
+    region:   n_72
 
   17436746:
     template: Demons_Elemental
-    at:       [1.000, 1.000, 1.000, 127]
     level:    [43, 45]
+    region:   n_72
 
   17436747:
     template: Demon_Wizard
@@ -379,18 +379,18 @@ spawns:
 
   17436748:
     template: Demon_Knight
-    at:       [0.000, 0.000, 0.000, 0]
     level:    [50, 52]
+    region:   s_76
 
   17436749:
     template: Demon_Warlock
-    at:       [-16.532, -20.500, -35.249, 8]
     level:    [50, 52]
+    region:   s_76
 
   17436750:
     template: Demons_Elemental
-    at:       [1.000, 1.000, 1.000, 0]
     level:    [43, 45]
+    region:   s_76
 
   17436751:
     template: Goblin_Poacher
@@ -504,8 +504,8 @@ spawns:
 
   17436773:
     template: Evil_Eye
-    at:       [48.573, -24.500, 21.315, 127]
     level:    [46, 48]
+    region:   c_101
 
   17436774:
     template: Goblin_Poacher
@@ -674,13 +674,13 @@ spawns:
 
   17436807:
     template: Morbid_Eye
-    at:       [-139.645, -42.569, 31.512, 127]
     level:    [52, 53]
+    region:   w_135
 
   17436808:
     template: Morbid_Eye
-    at:       [-142.132, -42.505, 4.812, 38]
     level:    [52, 53]
+    region:   w_136
 
   17436809:
     template: Elder_Quadav
@@ -809,33 +809,33 @@ spawns:
 
   17436834:
     template: Demon_Wizard
-    at:       [-75.814, -24.526, 32.408, 127]
     level:    [50, 52]
+    region:   w_162
 
   17436835:
     template: Demon_Knight
-    at:       [-83.000, -24.500, 20.000, 34]
     level:    [50, 52]
+    region:   w_162
 
   17436836:
     template: Demon_Wizard
-    at:       [-82.330, -24.616, -3.131, 127]
     level:    [50, 52]
+    region:   w_164
 
   17436837:
     template: Demon_Warlock
-    at:       [-74.742, -24.639, 9.747, 127]
     level:    [50, 52]
+    region:   w_164
 
   17436838:
     template: Demons_Elemental
-    at:       [1.000, 1.000, 1.000, 0]
     level:    [43, 45]
+    region:   w_164
 
   17436839:
     template: Morbid_Eye
-    at:       [-75.280, -24.542, 20.772, 127]
     level:    [52, 53]
+    region:   w_167
 
   17436840:
     template: Morbid_Eye
@@ -884,103 +884,103 @@ spawns:
 
   17436849:
     template: Demon_Commander
-    at:       [0.660, 3.499, 124.338, 7]
     level:    [57, 59]
+    region:   n_177
 
   17436850:
     template: Demon_General
-    at:       [-6.266, 3.499, 125.143, 42]
     level:    [57, 59]
+    region:   n_177
 
   17436851:
     template: Demon_Chancellor
-    at:       [-5.661, 3.499, 121.638, 127]
     level:    [57, 59]
+    region:   n_177
 
   17436852:
     template: Demon_Magistrate
-    at:       [-8.098, 3.499, 112.239, 99]
     level:    [57, 59]
+    region:   n_177
 
   17436853:
     template: Demons_Elemental
-    at:       [1.000, 1.000, 1.000, 0]
     level:    [49, 54]
+    region:   n_177
 
   17436854:
     template: Demon_Commander
-    at:       [9.023, 3.499, -79.536, 43]
     level:    [57, 59]
+    region:   s_182
 
   17436855:
     template: Demon_General
-    at:       [-1.000, 4.000, -76.000, 127]
     level:    [57, 59]
+    region:   s_182
 
   17436856:
     template: Demon_Chancellor
-    at:       [5.968, 3.499, -89.748, 127]
     level:    [57, 59]
+    region:   s_182
 
   17436857:
     template: Demon_Magistrate
-    at:       [-0.300, 3.499, -90.580, 57]
     level:    [57, 59]
+    region:   s_182
 
   17436858:
     template: Demons_Elemental
-    at:       [1.000, 1.000, 1.000, 0]
     level:    [49, 54]
+    region:   s_182
 
   17436859:
     template: Demon_Commander
-    at:       [-126.356, 3.499, 125.843, 127]
     level:    [57, 59]
+    region:   nw_187
 
   17436860:
     template: Demon_General
-    at:       [-124.360, 3.499, 121.628, 127]
     level:    [57, 59]
+    region:   nw_187
 
   17436861:
     template: Demon_Chancellor
-    at:       [-122.968, 3.499, 115.177, 62]
     level:    [57, 59]
+    region:   nw_187
 
   17436862:
     template: Demon_Magistrate
-    at:       [-113.000, 3.499, 124.000, 121]
     level:    [57, 59]
+    region:   nw_187
 
   17436863:
     template: Demons_Elemental
-    at:       [1.000, 1.000, 1.000, 0]
     level:    [49, 54]
+    region:   nw_187
 
   17436864:
     template: Demon_Commander
-    at:       [-126.723, 3.499, -86.485, 58]
     level:    [57, 59]
+    region:   sw_192
 
   17436865:
     template: Demon_General
-    at:       [-120.000, 3.499, -86.000, 86]
     level:    [57, 59]
+    region:   sw_192
 
   17436866:
     template: Demon_Chancellor
-    at:       [-117.616, 3.499, -70.317, 127]
     level:    [57, 59]
+    region:   sw_192
 
   17436867:
     template: Demon_Magistrate
-    at:       [-113.756, 3.499, -73.765, 83]
     level:    [57, 59]
+    region:   sw_192
 
   17436868:
     template: Demons_Elemental
-    at:       [1.000, 1.000, 1.000, 0]
     level:    [49, 54]
+    region:   sw_192
 
   17436869:
     template: Blood_Demon
@@ -1145,7 +1145,7 @@ spawns:
   17436901:
     template: Ahriman
     level:    [63, 65]
-    region:   n_53
+    region:   n_229
 
   17436902:
     template: Ahriman
@@ -1209,28 +1209,28 @@ spawns:
 
   17436914:
     template: Gore_Demon
-    at:       [-25.385, -4.500, -15.515, 127]
     level:    [71, 73]
+    region:   w_242
 
   17436915:
     template: Judicator_Demon
-    at:       [-38.739, -4.500, -10.996, 27]
     level:    [71, 73]
+    region:   w_242
 
   17436916:
     template: Stygian_Demon
-    at:       [-27.689, -4.500, -3.916, 119]
     level:    [71, 73]
+    region:   w_242
 
   17436917:
     template: Demons_Elemental
     level:    [60, 64]
-    region:   w_245
+    region:   w_242
 
   17436918:
     template: Marquis_Amon
-    at:       [-30.715, -4.500, -20.455, 29]
     level:    [76, 76]
+    region:   w_242
 
   17436919:
     template: Gore_Demon
@@ -1259,28 +1259,28 @@ spawns:
 
   17436924:
     template: Gore_Demon
-    at:       [-93.000, -4.500, -15.000, 99]
     level:    [71, 73]
+    region:   w_252
 
   17436925:
     template: Dread_Demon
-    at:       [-97.000, -4.500, -0.600, 102]
     level:    [71, 73]
+    region:   w_252
 
   17436926:
     template: Judicator_Demon
-    at:       [-81.908, -4.498, -4.230, 99]
     level:    [71, 73]
+    region:   w_252
 
   17436927:
     template: Grand_Duke_Batym
-    at:       [-78.000, -4.000, -15.000, 127]
     level:    [76, 76]
+    region:   w_252
 
   17436928:
     template: Demons_Elemental
     level:    [60, 64]
-    region:   w_256
+    region:   w_252
 
   17436929:
     template: Demons_Avatar
@@ -1320,12 +1320,12 @@ spawns:
   17436936:
     template: Ahriman
     level:    [63, 65]
-    region:   w_264
+    region:   w_167
 
   17436937:
     template: Ahriman
     level:    [63, 65]
-    region:   w_264
+    region:   w_167
 
   17436938:
     template: Ahriman
@@ -1340,12 +1340,12 @@ spawns:
   17436940:
     template: Ahriman
     level:    [63, 65]
-    region:   c_97
+    region:   c_268
 
   17436941:
     template: Ahriman
     level:    [63, 65]
-    region:   c_97
+    region:   c_268
 
   17436942:
     template: Ahriman
@@ -1385,22 +1385,22 @@ spawns:
   17436949:
     template: Gore_Demon
     level:    [71, 73]
-    region:   w_245
+    region:   w_242
 
   17436950:
     template: Judicator_Demon
     level:    [71, 73]
-    region:   w_245
+    region:   w_242
 
   17436951:
     template: Stygian_Demon
     level:    [71, 73]
-    region:   w_245
+    region:   w_242
 
   17436952:
     template: Demons_Elemental
     level:    [49, 54]
-    region:   w_245
+    region:   w_242
 
   17436953:
     template: Dread_Demon
@@ -1430,22 +1430,22 @@ spawns:
   17436958:
     template: Judicator_Demon
     level:    [71, 73]
-    region:   w_264
+    region:   w_167
 
   17436959:
     template: Gore_Demon
     level:    [71, 73]
-    region:   w_256
+    region:   w_252
 
   17436960:
     template: Dread_Demon
     level:    [71, 73]
-    region:   w_256
+    region:   w_252
 
   17436961:
     template: Judicator_Demon
     level:    [71, 73]
-    region:   w_256
+    region:   w_252
 
   17436962:
     template: Stygian_Demon

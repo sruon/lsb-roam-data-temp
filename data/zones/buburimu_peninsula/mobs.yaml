@@ -349,13 +349,13 @@ spawns:
 
   17260614:
     template: Bogy
-    at:       [-357.743, -0.392, -322.516, 55]
     level:    [23, 24]
+    region:   sw_70
 
   17260615:
     template: Bogy
-    at:       [-359.172, -0.142, -325.244, 127]
     level:    [23, 24]
+    region:   sw_70
 
   17260616:
     template: Goblin_Ambusher
@@ -485,12 +485,12 @@ spawns:
   17260641:
     template: Sylvestre
     level:    [16, 17]
-    region:   c_97
+    region:   c_94
 
   17260642:
     template: Mighty_Rarab
     level:    [16, 17]
-    region:   c_97
+    region:   c_94
 
   17260643:
     template: Mighty_Rarab
@@ -574,8 +574,8 @@ spawns:
 
   17260659:
     template: Ghoul
-    at:       [-129.930, -24.645, 97.768, 127]
     level:    [20, 21]
+    region:   n_115
 
   17260660:
     template: Will-o-the-Wisp
@@ -970,17 +970,17 @@ spawns:
   17260738:
     template: Bogy
     level:    [23, 24]
-    region:   s_194
+    region:   s_189
 
   17260739:
     template: Bogy
     level:    [23, 24]
-    region:   s_194
+    region:   s_189
 
   17260740:
     template: Water_Elemental
     level:    [28, 30]
-    region:   s_194
+    region:   s_189
 
   17260741:
     template: Snipper
@@ -1765,7 +1765,7 @@ spawns:
   17260897:
     template: Will-o-the-Wisp
     level:    [23, 24]
-    region:   se_353
+    region:   se_338
 
   17260898:
     template: Air_Elemental
@@ -2075,7 +2075,7 @@ spawns:
   17260959:
     template: Will-o-the-Wisp
     level:    [25, 27]
-    region:   e_415
+    region:   e_397
 
   17260960:
     template: Air_Elemental
@@ -2584,8 +2584,8 @@ spawns:
 
   17261098:
     template: Goblin_Bounty_Hunter
-    at:       [-1.673, 0.342, -327.775, 249]
     level:    [17, 20]
+    region:   s_554
 
   17261099:
     template: Goblin_Bounty_Hunter
@@ -2599,5 +2599,5 @@ spawns:
 
   17261101:
     template: Goblin_Bounty_Hunter
-    at:       [-353.921, 0.042, -327.332, 122]
     level:    [17, 19]
+    region:   sw_557

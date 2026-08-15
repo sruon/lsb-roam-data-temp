@@ -34,13 +34,13 @@ spawns:
 
   17154055:
     template: Vajra_Quadav
-    at:       [-180.275, 0.500, 135.138, 68]
     level:    [76, 79]
+    region:   w_7
 
   17154056:
     template: Ancient_Quadav
-    at:       [-160.967, 0.486, 144.352, 1]
     level:    [76, 79]
+    region:   w_8
 
   17154057:
     template: Magnes_Quadav
@@ -84,8 +84,8 @@ spawns:
 
   17154065:
     template: Iron_Quadav
-    at:       [-59.346, 0.249, 102.302, 211]
     level:    [76, 79]
+    region:   w_17
 
   17154066:
     template: Star_Ruby_Quadav
@@ -164,18 +164,18 @@ spawns:
 
   17154081:
     template: Ancient_Quadav
-    at:       [-189.596, 0.438, -180.031, 139]
     level:    [76, 79]
+    region:   sw_33
 
   17154082:
     template: Vajra_Quadav
-    at:       [-158.291, 0.500, -172.426, 250]
     level:    [76, 79]
+    region:   sw_34
 
   17154083:
     template: Edible_Slug
-    at:       [-159.378, 0.500, -160.287, 253]
     level:    [72, 76]
+    region:   sw_34
 
   17154084:
     template: Star_Ruby_Quadav
@@ -219,23 +219,23 @@ spawns:
 
   17154092:
     template: Electrumcap
-    at:       [-29.675, 0.094, -106.983, 194]
     level:    [69, 71]
+    region:   sw_44
 
   17154093:
     template: Electrumcap
-    at:       [-30.504, 0.109, -107.325, 203]
     level:    [69, 71]
+    region:   sw_44
 
   17154094:
     template: Electrumcap
-    at:       [-43.681, 0.066, -107.919, 230]
     level:    [69, 71]
+    region:   sw_44
 
   17154095:
     template: Gold_Quadav
-    at:       [-37.741, 0.344, -127.037, 102]
     level:    [76, 79]
+    region:   sw_44
 
   17154096:
     template: Electrumcap
@@ -299,13 +299,13 @@ spawns:
 
   17154108:
     template: Steel_Quadav
-    at:       [143.731, 0.491, -19.114, 19]
     level:    [80, 83]
+    region:   s_60
 
   17154109:
     template: Ferroalloy_Quadav
-    at:       [130.610, 0.499, -19.302, 123]
     level:    [80, 83]
+    region:   s_60
 
   17154110:
     template: Doyen_Quadav
@@ -389,13 +389,13 @@ spawns:
 
   17154126:
     template: Doyen_Quadav
-    at:       [220.225, 0.500, 90.587, 44]
     level:    [80, 83]
+    region:   c_78
 
   17154127:
     template: Platinum_Quadav
-    at:       [215.768, 0.500, 99.694, 173]
     level:    [80, 83]
+    region:   c_78
 
   17154128:
     template: Chatoyant_Quadav
@@ -419,8 +419,8 @@ spawns:
 
   17154132:
     template: Steel_Quadav
-    at:       [172.129, 0.500, 105.935, 215]
     level:    [80, 83]
+    region:   c_84
 
   17154133:
     template: Doyen_Quadav
@@ -444,8 +444,8 @@ spawns:
 
   17154137:
     template: Steel_Quadav
-    at:       [178.855, 0.491, 130.411, 189]
     level:    [80, 83]
+    region:   c_89
 
   17154138:
     template: Ancient_Quadav
@@ -884,8 +884,8 @@ spawns:
 
   17154225:
     template: Ancient_Quadav
-    at:       [-209.546, -3.762, -155.655, 91]
     level:    [76, 79]
+    region:   sw_177
 
   17154226:
     template: Gold_Quadav
@@ -949,8 +949,8 @@ spawns:
 
   17154238:
     template: Doyen_Quadav
-    at:       [64.675, -3.761, 122.285, 243]
     level:    [80, 83]
+    region:   c_190
 
   17154239:
     template: Doyen_Quadav
@@ -994,8 +994,8 @@ spawns:
 
   17154247:
     template: Meteor_Quadav
-    at:       [151.890, -3.303, 174.398, 88]
     level:    [80, 83]
+    region:   c_199
 
   17154248:
     template: Doyen_Quadav
@@ -1094,23 +1094,23 @@ spawns:
 
   17154267:
     template: Doyen_Quadav
-    at:       [122.848, -3.578, -52.622, 55]
     level:    [80, 83]
+    region:   s_219
 
   17154268:
     template: Baetyl_Quadav
-    at:       [127.383, -3.475, -35.279, 229]
     level:    [80, 83]
+    region:   s_219
 
   17154269:
     template: Platinum_Quadav
-    at:       [165.231, -3.464, -37.056, 201]
     level:    [80, 83]
+    region:   s_221
 
   17154270:
     template: Chatoyant_Quadav
-    at:       [157.881, -3.453, -36.216, 155]
     level:    [80, 83]
+    region:   s_221
 
   17154271:
     template: Steel_Quadav
@@ -1274,8 +1274,8 @@ spawns:
 
   17154303:
     template: Gold_Quadav
-    at:       [-118.247, 23.718, 19.794, 254]
     level:    [76, 79]
+    region:   w_255
 
   17154304:
     template: Star_Ruby_Quadav
@@ -1284,8 +1284,8 @@ spawns:
 
   17154305:
     template: Ancient_Quadav
-    at:       [-179.609, 23.578, 76.044, 213]
     level:    [76, 79]
+    region:   w_257
 
   17154306:
     template: Vajra_Quadav
@@ -1294,88 +1294,88 @@ spawns:
 
   17154307:
     template: Ancient_Quadav
-    at:       [-193.002, 13.350, 33.374, 203]
     level:    [76, 79]
+    region:   w_259
 
   17154308:
     template: Virulent_Peiste
-    at:       [-64.519, 23.686, 24.190, 157]
     level:    [79, 81]
+    region:   w_260
 
   17154309:
     template: Virulent_Peiste
-    at:       [-61.901, 23.685, 17.631, 196]
     level:    [79, 81]
+    region:   w_260
 
   17154310:
     template: Iron_Quadav
-    at:       [-96.997, 23.660, 111.180, 251]
     level:    [76, 79]
+    region:   w_262
 
   17154311:
     template: Adaman_Quadav
-    at:       [-99.993, 23.576, 103.776, 201]
     level:    [77, 79]
+    region:   w_262
 
   17154312:
     template: Seneschal_Imp
-    at:       [-105.162, 23.702, 106.388, 181]
     level:    [77, 79]
+    region:   w_262
 
   17154313:
     template: Vajra_Quadav
-    at:       [-138.003, 24.154, 19.500, 219]
     level:    [76, 79]
+    region:   w_265
 
   17154314:
     template: Star_Ruby_Quadav
-    at:       [-144.448, 24.104, 18.973, 160]
     level:    [76, 79]
+    region:   w_265
 
   17154315:
     template: Gold_Quadav
-    at:       [-179.033, 24.190, 104.724, 90]
     level:    [76, 79]
+    region:   w_267
 
   17154316:
     template: Iron_Quadav
-    at:       [-177.098, 23.939, 105.760, 217]
     level:    [76, 79]
+    region:   w_267
 
   17154317:
     template: Seneschal_Imp
-    at:       [-179.358, 24.112, 96.824, 110]
     level:    [77, 79]
+    region:   w_267
 
   17154318:
     template: Virulent_Peiste
-    at:       [-137.071, 23.553, 97.719, 63]
     level:    [79, 81]
+    region:   w_270
 
   17154319:
     template: Virulent_Peiste
-    at:       [-143.603, 23.578, 105.578, 196]
     level:    [79, 81]
+    region:   w_270
 
   17154320:
     template: Virulent_Peiste
-    at:       [-141.560, 23.543, 104.712, 43]
     level:    [79, 81]
+    region:   w_270
 
   17154321:
     template: Virulent_Peiste
-    at:       [-229.525, 23.606, 98.330, 98]
     level:    [79, 81]
+    region:   w_273
 
   17154322:
     template: Virulent_Peiste
-    at:       [-218.131, 23.683, 101.380, 28]
     level:    [79, 81]
+    region:   w_273
 
   17154323:
     template: Virulent_Peiste
-    at:       [-218.901, 23.627, 92.969, 46]
     level:    [79, 81]
+    region:   w_273
 
   17154324:
     template: Doyen_Quadav
@@ -1459,58 +1459,58 @@ spawns:
 
   17154340:
     template: Platinum_Quadav
-    at:       [306.320, 40.100, 19.713, 50]
     level:    [80, 83]
+    region:   e_292
 
   17154341:
     template: Platinum_Quadav
-    at:       [381.189, 24.088, 65.533, 158]
     level:    [80, 83]
+    region:   e_293
 
   17154342:
     template: Baetyl_Quadav
-    at:       [384.342, 24.121, 60.160, 228]
     level:    [80, 83]
+    region:   e_293
 
   17154343:
     template: Ferroalloy_Quadav
-    at:       [420.277, 23.566, 95.168, 99]
     level:    [80, 83]
+    region:   e_295
 
   17154344:
     template: Chatoyant_Quadav
-    at:       [416.854, 23.562, 101.537, 186]
     level:    [80, 83]
+    region:   e_295
 
   17154345:
     template: Steel_Quadav
-    at:       [339.341, 24.065, 97.603, 150]
     level:    [80, 83]
+    region:   e_297
 
   17154346:
     template: Doyen_Quadav
-    at:       [335.244, 24.166, 101.174, 96]
     level:    [80, 83]
+    region:   e_297
 
   17154347:
     template: Meteor_Quadav
-    at:       [375.594, 23.641, 147.770, 182]
     level:    [80, 83]
+    region:   e_299
 
   17154348:
     template: Baetyl_Quadav
-    at:       [384.455, 23.749, 148.349, 231]
     level:    [80, 83]
+    region:   e_299
 
   17154349:
     template: Platinum_Quadav
-    at:       [258.593, 40.164, 144.511, 194]
     level:    [80, 83]
+    region:   e_301
 
   17154350:
     template: Baetyl_Quadav
-    at:       [255.663, 40.175, 140.974, 0]
     level:    [80, 83]
+    region:   e_301
 
   17154351:
     template: Thunder_Elemental
@@ -1529,13 +1529,13 @@ spawns:
 
   17154354:
     template: Water_Elemental
-    at:       [-135.933, 0.500, -71.613, 251]
     level:    [75, 82]
+    region:   sw_18
 
   17154355:
     template: Water_Elemental
     level:    [75, 82]
-    region:   c_246
+    region:   c_249
 
   17154356:
     template: GaLhu_Nevermolt
@@ -1544,8 +1544,8 @@ spawns:
 
   17154357:
     template: Bres
-    at:       [179.322, 39.503, 13.407, 153]
     level:    [83, 83]
+    region:   c_309
 
   17154358:
     template: DiZho_Spongeshell
@@ -2709,8 +2709,8 @@ spawns:
 
   17154596:
     template: BoDhos_Shieldwarrior
-    at:       [0.000, 0.000, 0.000, 0]
     level:    [75, 80]
+    region:   ne_548
 
   17154597:
     template: BoDhos_Shieldwarrior
