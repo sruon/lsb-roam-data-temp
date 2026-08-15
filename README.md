@@ -28,15 +28,17 @@ under 25 yalms never leave their spawn and get no region. Everything else, patro
 grouped with its neighbours by how much their territories overlap, and each group becomes one region
 shared by every mob in it — a field belongs to the pack that walks it, not to one species.
 
-Two rules keep the geometry honest, both grounded in the roam data rather than in a tuned constant:
+Two rules keep the geometry honest, and both are answered by the zone's **navmesh** rather than by a
+tuned constant:
 
-- A polygon may not reach more than 4 yalms from ground a mob was actually recorded standing on, and
-  padding may only land on cells *someone* in the zone was recorded standing on. Without the second
-  rule an obstacle narrower than twice the padding vanishes: mobs pass either side, each side pads
-  inward, and the rock is gone.
-- A gap is only cut out as a hole if nobody in the zone was ever recorded inside it. A sparsely
-  sampled flier leaves pockets all over its own range that ground mobs walk straight through; those
-  are sampling artefacts, not buildings.
+- A polygon may not reach more than 4 yalms from ground a mob was recorded standing on, and it is
+  clipped to the navmesh, so padding cannot cross a wall. Inferring walkable ground from the capture
+  instead both over-reaches -- padding a trail out across a tunnel wall -- and under-covers, since
+  the roam capture lights up only about 45% of a zone's walkable surface.
+- A gap is cut out as a hole only when it is off the navmesh. A gap on walkable ground is somewhere
+  the mobs simply were not recorded, not a building, so it is filled in.
+
+The navmesh comes from `lsb/navmeshes/*.nav`; all 161 zones have one.
 
 ## Known limits
 
@@ -50,7 +52,10 @@ Two rules keep the geometry honest, both grounded in the roam data rather than i
   a reach-cap change 99.9% of spawns keep their region name and across a simplification change 100%
   do; the residual churn is a grouping change genuinely moving a mob to a different region.
 - **Coverage is limited by the capture.** A zone only gets regions where mobs were observed; sparsely
-  sampled corners get nothing.
+  sampled corners get nothing. The navmesh bounds a region, it does not extend one.
+- **The 4-yalm grid still rounds narrow features up.** A tunnel comes out somewhat wider than it is.
+  Halving the grid narrows it further but costs four to five times the vertices, which is not a trade
+  worth making for a file meant to be read in a diff.
 
 Regenerate with [xi-regions-bootstrap](https://github.com/sruon/xi-visualizer); review in the
 visualizer's Regions page by pointing it at `data/zones`.
