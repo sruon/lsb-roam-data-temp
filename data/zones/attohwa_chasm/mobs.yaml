@@ -80,32 +80,32 @@ spawns:
   16805904:
     template: Goblin_Pathfinder
     level:    [36, 38]
-    region:   e_16
+    region:   c_16
 
   16805905:
     template: Goblins_Gallinipper
     level:    [31, 34]
-    region:   e_16
+    region:   c_16
 
   16805906:
     template: Goblin_Furrier
     level:    [35, 37]
-    region:   e_16
+    region:   c_16
 
   16805907:
     template: Gallinipper
     level:    [36, 38]
-    region:   e_16
+    region:   c_16
 
   16805908:
     template: Gallinipper
     level:    [36, 38]
-    region:   e_16
+    region:   c_16
 
   16805909:
     template: Attohwa_Coeurl
     level:    [37, 39]
-    region:   e_21
+    region:   ne_21
 
   16805910:
     template: Tracer_Antlion
@@ -700,12 +700,12 @@ spawns:
   16806028:
     template: Master_Coeurl
     level:    [47, 48]
-    region:   se_140
+    region:   e_140
 
   16806029:
     template: Ogrefly
     level:    [46, 47]
-    region:   se_140
+    region:   e_140
 
   16806030:
     template: Master_Coeurl
@@ -910,22 +910,22 @@ spawns:
   16806070:
     template: Flesh_Eater
     level:    [34, 35]
-    region:   c_182
+    region:   s_182
 
   16806071:
     template: Flesh_Eater
     level:    [34, 35]
-    region:   c_182
+    region:   s_182
 
   16806072:
     template: Air_Elemental
     level:    [41, 43]
-    region:   c_182
+    region:   s_182
 
   16806073:
     template: Flesh_Eater
     level:    [34, 35]
-    region:   c_182
+    region:   s_182
 
   16806074:
     template: Flesh_Eater
@@ -1250,12 +1250,12 @@ spawns:
   16806138:
     template: Cutlass_Scorpion
     level:    [67, 69]
-    region:   sw_250
+    region:   w_250
 
   16806139:
     template: Cutlass_Scorpion
     level:    [67, 69]
-    region:   sw_250
+    region:   w_250
 
   16806140:
     template: Tracker_Antlion
@@ -1280,12 +1280,12 @@ spawns:
   16806144:
     template: Monarch_Ogrefly
     level:    [65, 67]
-    region:   sw_256
+    region:   w_256
 
   16806145:
     template: Tomb_Mage
     level:    [70, 72]
-    region:   sw_256
+    region:   w_256
 
   16806146:
     template: Monarch_Ogrefly
@@ -1445,7 +1445,7 @@ spawns:
   16806177:
     template: Monarch_Ogrefly
     level:    [65, 67]
-    region:   w_289
+    region:   nw_289
 
   16806178:
     template: Sand_Lizard
