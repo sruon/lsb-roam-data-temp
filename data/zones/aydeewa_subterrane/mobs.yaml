@@ -139,8 +139,8 @@ spawns:
 
   17055772:
     template: Qiqirn_Lieuter
-    at:       [64.424, 36.001, 57.858, 46]
     level:    [68, 70]
+    region:   c_28
 
   17055773:
     template: Qiqirn_Mine
@@ -154,8 +154,8 @@ spawns:
 
   17055775:
     template: Qiqirn_Enterpriser
-    at:       [100.770, 35.525, 50.037, 94]
     level:    [68, 70]
+    region:   c_31
 
   17055776:
     template: Treant_Sapling
@@ -224,13 +224,13 @@ spawns:
 
   17055789:
     template: Qiqirn_Enterpriser
-    at:       [55.817, 36.019, -59.469, 5]
     level:    [68, 70]
+    region:   c_45
 
   17055790:
     template: Qiqirn_Enterpriser
-    at:       [25.240, 29.135, -92.989, 24]
     level:    [68, 70]
+    region:   c_46
 
   17055791:
     template: Qiqirn_Lieuter
@@ -254,8 +254,8 @@ spawns:
 
   17055795:
     template: Qiqirn_Enterpriser
-    at:       [-180.100, 8.155, 108.055, 62]
     level:    [68, 70]
+    region:   w_51
 
   17055796:
     template: Qiqirn_Enterpriser
@@ -779,13 +779,13 @@ spawns:
 
   17055900:
     template: Qiqirn_Archaeologist
-    at:       [-288.100, 25.163, -180.910, 40]
     level:    [73, 75]
+    region:   w_156
 
   17055901:
     template: Qiqirn_Mosstrooper
-    at:       [-378.800, 38.667, -99.126, 34]
     level:    [73, 75]
+    region:   w_157
 
   17055902:
     template: Qiqirn_Mine
@@ -794,8 +794,8 @@ spawns:
 
   17055903:
     template: Fossorial_Flea
-    at:       [-351.900, 35.887, -99.128, 5]
     level:    [66, 68]
+    region:   w_157
 
   17055904:
     template: Fossorial_Flea
@@ -1539,18 +1539,18 @@ spawns:
 
   17056052:
     template: Phlebotomic_Slug
-    at:       [54.874, 33.000, -224.840, 8]
     level:    [68, 70]
+    region:   s_308
 
   17056053:
     template: Phlebotomic_Slug
-    at:       [38.702, 33.241, -221.130, 9]
     level:    [68, 70]
+    region:   s_308
 
   17056054:
     template: Phlebotomic_Slug
-    at:       [60.013, 32.936, -177.880, 175]
     level:    [68, 70]
+    region:   s_310
 
   17056055:
     template: Phlebotomic_Slug
@@ -1839,13 +1839,13 @@ spawns:
 
   17056112:
     template: Treant_Sapling
-    at:       [218.290, 1.268, 356.052, 199]
     level:    [67, 69]
+    region:   ne_368
 
   17056113:
     template: Qiqirn_Enterpriser
-    at:       [218.220, 1.130, 352.089, 196]
     level:    [68, 70]
+    region:   ne_368
 
   17056114:
     template: Treant_Sapling

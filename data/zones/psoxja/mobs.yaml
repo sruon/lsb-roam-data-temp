@@ -389,8 +389,8 @@ spawns:
 
   16814158:
     template: Diremite_Assaulter
-    at:       [92.265, 7.399, -389.378, 10]
     level:    [65, 68]
+    region:   s_77
 
   16814159:
     template: Thousand_Eyes
@@ -404,13 +404,13 @@ spawns:
 
   16814161:
     template: Diremite_Assaulter
-    at:       [89.028, 7.387, -297.665, 64]
     level:    [65, 68]
+    region:   s_80
 
   16814162:
     template: Thousand_Eyes
-    at:       [89.088, 6.515, -304.033, 191]
     level:    [64, 66]
+    region:   s_80
 
   16814163:
     template: Goblin_Mercenary
@@ -1029,23 +1029,23 @@ spawns:
 
   16814286:
     template: Diremite_Stalker
-    at:       [-310.935, 31.403, -229.162, 63]
     level:    [56, 59]
+    region:   sw_206
 
   16814287:
     template: Diremite_Stalker
-    at:       [-310.993, 31.420, -231.809, 192]
     level:    [56, 59]
+    region:   sw_206
 
   16814288:
     template: Diremite_Stalker
     level:    [56, 59]
-    region:   sw_208
+    region:   sw_206
 
   16814289:
     template: Cryptonberry_Plaguer
-    at:       [-311.101, 31.421, -240.554, 64]
     level:    [59, 60]
+    region:   sw_206
 
   16814290:
     template: Treasure_Chest

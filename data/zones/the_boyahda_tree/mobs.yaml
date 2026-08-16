@@ -264,13 +264,13 @@ spawns:
 
   17403957:
     template: Bark_Spider
-    at:       [336.200, -3.536, 101.186, 55]
     level:    [60, 63]
+    region:   ne_53
 
   17403958:
     template: Bark_Spider
     level:    [60, 63]
-    region:   ne_54
+    region:   ne_53
 
   17403959:
     template: Bark_Spider
@@ -779,8 +779,8 @@ spawns:
 
   17404060:
     template: Moss_Eater
-    at:       [1.725, 8.846, 80.469, 127]
     level:    [62, 66]
+    region:   n_156
 
   17404061:
     template: Old_Goobbue

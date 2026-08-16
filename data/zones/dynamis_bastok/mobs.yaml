@@ -134,8 +134,8 @@ spawns:
 
   17539099:
     template: Vanguards_Avatar
-    at:       [15.421, -0.500, -81.002, 241]
     level:    [75, 77]
+    region:   s_27
 
   17539100:
     template: Vanguard_Protector
@@ -364,18 +364,18 @@ spawns:
 
   17539145:
     template: Vanguard_Purloiner
-    at:       [1.126, -0.500, -23.889, 1]
     level:    [75, 77]
+    region:   c_73
 
   17539146:
     template: Vanguard_Purloiner
-    at:       [8.490, -0.500, -24.093, 128]
     level:    [75, 77]
+    region:   c_73
 
   17539147:
     template: ZeVho_Fallsplitter
     level:    [85, 85]
-    region:   e_75
+    region:   c_73
 
   17539148:
     template: Adamantking_Image
@@ -484,8 +484,8 @@ spawns:
 
   17539169:
     template: Vanguard_Vigilante
-    at:       [21.094, -0.500, 8.754, 127]
     level:    [75, 77]
+    region:   e_92
 
   17539170:
     template: Vanguard_Mason

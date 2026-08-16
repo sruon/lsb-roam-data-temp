@@ -224,8 +224,8 @@ spawns:
 
   17342509:
     template: Dire_Gargouille
-    at:       [-9.000, -24.000, 141.000, 136]
     level:    [80, 82]
+    region:   w_45
 
   17342510:
     template: Orcish_Bowshooter
@@ -619,18 +619,18 @@ spawns:
 
   17342588:
     template: Demon_Warrior
-    at:       [177.000, -24.000, -63.000, 199]
     level:    [80, 81]
+    region:   sw_124
 
   17342589:
     template: Demon_Warrior
-    at:       [221.000, -24.000, 17.000, 211]
     level:    [80, 81]
+    region:   sw_124
 
   17342590:
     template: Demon_Magus
-    at:       [-131.000, -36.000, -5.000, 194]
     level:    [80, 81]
+    region:   sw_124
 
   17342591:
     template: Ancient_Quadav
@@ -684,13 +684,13 @@ spawns:
 
   17342601:
     template: Demons_Elemental
-    at:       [-120.000, 3.000, -85.000, 100]
     level:    [75, 78]
+    region:   sw_135
 
   17342602:
     template: Demon_Magus
-    at:       [-151.000, -19.000, 84.000, 193]
     level:    [80, 81]
+    region:   sw_135
 
   17342603:
     template: Ogler
@@ -744,13 +744,13 @@ spawns:
 
   17342613:
     template: Ogler
-    at:       [-70.000, -19.000, -10.000, 88]
     level:    [81, 82]
+    region:   w_149
 
   17342614:
     template: Ogler
-    at:       [-93.000, -19.000, -8.000, 155]
     level:    [81, 82]
+    region:   w_149
 
   17342615:
     template: Ogler

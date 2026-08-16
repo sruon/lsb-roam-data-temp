@@ -284,13 +284,13 @@ spawns:
 
   16826425:
     template: Moblin_Draftsman
-    at:       [-108.965, 15.537, 96.989, 17]
     level:    [66, 68]
+    region:   nw_57
 
   16826426:
     template: Moblin_Tankman
     level:    [66, 68]
-    region:   nw_58
+    region:   nw_57
 
   16826427:
     template: Dire_Bat
@@ -429,8 +429,8 @@ spawns:
 
   16826454:
     template: Bugbear_Trashman
-    at:       [-123.713, 11.400, -101.145, 127]
     level:    [66, 67]
+    region:   sw_84
 
   16826455:
     template: Goblin_Packman
@@ -774,13 +774,13 @@ spawns:
 
   16826523:
     template: Goblin_Headman
-    at:       [89.331, 15.392, 19.999, 248]
     level:    [75, 77]
+    region:   c_154
 
   16826524:
     template: Goblins_Bat
-    at:       [89.272, 15.394, 19.657, 112]
     level:    [71, 73]
+    region:   c_154
 
   16826525:
     template: Bugbear_Deathsman

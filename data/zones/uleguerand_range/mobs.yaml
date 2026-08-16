@@ -819,13 +819,13 @@ spawns:
 
   16797860:
     template: Doom_Mage
-    at:       [504.069, -9.762, 105.060, 160]
     level:    [74, 76]
+    region:   e_164
 
   16797861:
     template: Doom_Mage
-    at:       [501.249, -14.243, 126.421, 57]
     level:    [74, 76]
+    region:   e_164
 
   16797862:
     template: Doom_Mage
@@ -849,13 +849,13 @@ spawns:
 
   16797866:
     template: Nightmare_Bats
-    at:       [499.373, -39.238, 255.021, 186]
     level:    [69, 72]
+    region:   ne_170
 
   16797867:
     template: Doom_Mage
     level:    [74, 76]
-    region:   ne_171
+    region:   ne_170
 
   16797868:
     template: Nightmare_Bats
@@ -1024,8 +1024,8 @@ spawns:
 
   16797901:
     template: Doom_Mage
-    at:       [226.904, -72.633, 460.173, 232]
     level:    [74, 76]
+    region:   ne_205
 
   16797902:
     template: Doom_Mage
@@ -1039,8 +1039,8 @@ spawns:
 
   16797904:
     template: Doom_Mage
-    at:       [216.744, -73.588, 497.058, 112]
     level:    [74, 76]
+    region:   ne_208
 
   16797905:
     template: Nightmare_Bats
@@ -1519,13 +1519,13 @@ spawns:
 
   16798000:
     template: Nightmare_Bats
-    at:       [-264.153, -77.441, 15.841, 18]
     level:    [69, 72]
+    region:   w_304
 
   16798001:
     template: Mountain_Worm
-    at:       [-262.209, -75.684, 9.078, 52]
     level:    [66, 70]
+    region:   w_304
 
   16798002:
     template: Mindgazer
@@ -1874,13 +1874,13 @@ spawns:
 
   16798071:
     template: Esbat
-    at:       [-417.885, -21.443, -137.515, 136]
     level:    [59, 61]
+    region:   w_375
 
   16798072:
     template: Glacier_Eater
-    at:       [-417.734, -17.358, -110.916, 200]
     level:    [58, 62]
+    region:   w_375
 
   16798073:
     template: Esbat

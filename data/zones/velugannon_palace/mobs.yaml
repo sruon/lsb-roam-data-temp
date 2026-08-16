@@ -674,8 +674,8 @@ spawns:
 
   17502343:
     template: Detector
-    at:       [420.340, -0.793, 66.796, 127]
     level:    [72, 74]
+    region:   e_135
 
   17502344:
     template: Caretaker
@@ -794,8 +794,8 @@ spawns:
 
   17502367:
     template: Detector
-    at:       [301.372, -0.212, 321.940, 127]
     level:    [72, 74]
+    region:   ne_159
 
   17502368:
     template: Caretaker
@@ -964,13 +964,13 @@ spawns:
 
   17502401:
     template: Dustbuster
-    at:       [-313.784, 5.753, 420.303, 0]
     level:    [75, 78]
+    region:   nw_193
 
   17502402:
     template: Dustbuster
-    at:       [-318.317, 6.821, 420.565, 1]
     level:    [75, 78]
+    region:   nw_193
 
   17502403:
     template: Detector
@@ -1284,13 +1284,13 @@ spawns:
 
   17502465:
     template: Enkidu
-    at:       [-258.695, 5.137, 392.743, 127]
     level:    [77, 80]
+    region:   nw_257
 
   17502466:
     template: Enkidu
-    at:       [-258.651, 8.467, 407.019, 127]
     level:    [77, 80]
+    region:   nw_257
 
   17502467:
     template: Detector

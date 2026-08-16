@@ -69,8 +69,8 @@ spawns:
 
   17494030:
     template: Hell_Hound
-    at:       [175.022, -32.500, 61.215, 251]
     level:    [64, 66]
+    region:   e_14
 
   17494031:
     template: Hell_Hound
@@ -99,8 +99,8 @@ spawns:
 
   17494036:
     template: Hell_Hound
-    at:       [175.141, -32.500, -21.248, 22]
     level:    [64, 66]
+    region:   e_20
 
   17494037:
     template: Hell_Hound
@@ -154,13 +154,13 @@ spawns:
 
   17494047:
     template: Lich
-    at:       [93.794, -32.500, -60.171, 191]
     level:    [65, 69]
+    region:   c_31
 
   17494048:
     template: Lost_Soul
-    at:       [96.710, -32.500, -66.475, 255]
     level:    [65, 69]
+    region:   c_31
 
   17494049:
     template: Orcish_Brawler
@@ -694,8 +694,8 @@ spawns:
 
   17494155:
     template: Hell_Hound
-    at:       [-97.403, -16.500, 294.472, 224]
     level:    [64, 66]
+    region:   n_139
 
   17494156:
     template: Hell_Hound
@@ -1284,13 +1284,13 @@ spawns:
 
   17494273:
     template: Earth_Elemental
-    at:       [172.469, -32.500, 59.845, 118]
     level:    [70, 75]
+    region:   e_14
 
   17494274:
     template: Earth_Elemental
     level:    [70, 75]
-    region:   e_258
+    region:   e_20
 
   17494275:
     template: Ice_Elemental
@@ -1814,8 +1814,8 @@ spawns:
 
   17494379:
     template: Royal_Palliator
+    at:       [60.644, -32.499, 75.944, 203]
     level:    [60, 60]
-    region:   e_363
 
   17494380:
     template: Royal_Palliator
@@ -1824,8 +1824,8 @@ spawns:
 
   17494381:
     template: Royal_Palliator
+    at:       [260.455, -32.502, 88.373, 63]
     level:    [60, 60]
-    region:   e_365
 
   17494382:
     template: Royal_Palliator
@@ -1835,7 +1835,7 @@ spawns:
   17494383:
     template: Royal_Palliator
     level:    [60, 60]
-    region:   e_363
+    region:   e_367
 
   17494384:
     template: Royal_Provisioner

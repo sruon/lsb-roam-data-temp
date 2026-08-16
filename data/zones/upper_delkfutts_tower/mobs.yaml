@@ -74,8 +74,8 @@ spawns:
 
   17424399:
     template: Gigas_Torturer
-    at:       [-268.000, -144.000, 100.000, 79]
     level:    [34, 35]
+    region:   n_15
 
   17424400:
     template: Gigas_Bonecutter
@@ -90,12 +90,12 @@ spawns:
   17424402:
     template: Gigas_Stonemason
     level:    [34, 35]
-    region:   n_18
+    region:   n_15
 
   17424403:
     template: Thunder_Elemental
     level:    [35, 36]
-    region:   n_18
+    region:   n_15
 
   17424404:
     template: Light_Elemental
@@ -344,8 +344,8 @@ spawns:
 
   17424453:
     template: Jotunn_Gatekeeper
-    at:       [-305.000, -160.397, 51.000, 127]
     level:    [65, 69]
+    region:   c_69
 
   17424454:
     template: Jotunn_Hallkeeper
@@ -589,8 +589,8 @@ spawns:
 
   17424502:
     template: Jotunn_Wildkeeper
-    at:       [-321.807, -175.924, 15.624, 127]
     level:    [65, 69]
+    region:   c_118
 
   17424503:
     template: Gigass_Bat
@@ -609,8 +609,8 @@ spawns:
 
   17424506:
     template: Jotunn_Hallkeeper
-    at:       [-267.000, -176.000, 3.000, 8]
     level:    [65, 69]
+    region:   s_122
 
   17424507:
     template: Jotunn_Wildkeeper

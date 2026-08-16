@@ -394,13 +394,13 @@ spawns:
 
   16887887:
     template: Makara
-    at:       [55.319, 0.457, 260.074, 126]
     level:    [45, 47]
+    region:   ne_79
 
   16887888:
     template: Makara
     level:    [45, 47]
-    region:   ne_80
+    region:   ne_79
 
   16887889:
     template: Minotaur
@@ -594,13 +594,13 @@ spawns:
 
   16887927:
     template: Makara
-    at:       [-20.218, 0.477, 64.932, 64]
     level:    [44, 45]
+    region:   c_119
 
   16887928:
     template: Oil_Spill
-    at:       [-20.039, 0.533, 62.845, 191]
     level:    [44, 47]
+    region:   c_119
 
   16887929:
     template: Foul_Meat
@@ -1069,23 +1069,23 @@ spawns:
 
   16888022:
     template: Aqueduct_Spider
-    at:       [139.595, 0.000, 130.281, 64]
     level:    [84, 85]
+    region:   ne_214
 
   16888023:
     template: Aqueduct_Spider
-    at:       [139.876, 0.447, 143.237, 192]
     level:    [84, 85]
+    region:   ne_214
 
   16888024:
     template: Aqueduct_Spider
     level:    [84, 85]
-    region:   ne_216
+    region:   ne_214
 
   16888025:
     template: Aqueduct_Spider
     level:    [84, 85]
-    region:   ne_216
+    region:   ne_214
 
   16888026:
     template: Aqueduct_Spider

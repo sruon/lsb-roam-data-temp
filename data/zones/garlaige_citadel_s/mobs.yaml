@@ -124,8 +124,8 @@ spawns:
 
   17448985:
     template: Thunder_Elemental
-    at:       [16.929, -0.500, -125.529, 197]
     level:    [75, 75]
+    region:   c_24
 
   17448986:
     template: Explosure
@@ -144,8 +144,8 @@ spawns:
 
   17448989:
     template: Dire_Bat
-    at:       [25.066, 6.635, 62.899, 23]
     level:    [62, 64]
+    region:   c_29
 
   17448990:
     template: Citadel_Pipistrelles
@@ -324,13 +324,13 @@ spawns:
 
   17449025:
     template: Yagudo_Abbot
-    at:       [255.086, -0.500, -218.509, 251]
     level:    [71, 74]
+    region:   se_65
 
   17449026:
     template: Yagudo_Prior
-    at:       [254.948, -0.500, -218.468, 253]
     level:    [71, 74]
+    region:   se_65
 
   17449027:
     template: Explosure

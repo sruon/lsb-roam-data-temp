@@ -4,23 +4,23 @@ spawns:
 
   17657857:
     template: Crevice_Amoeban
-    at:       [-86.378, -28.261, -99.793, 25]
     level:    [77, 80]
+    region:   s_1
 
   17657858:
     template: Crevice_Amoeban
     level:    [77, 80]
-    region:   s_2
+    region:   s_1
 
   17657859:
     template: Crevice_Amoeban
     level:    [77, 80]
-    region:   s_2
+    region:   s_1
 
   17657860:
     template: Crevice_Amoeban
     level:    [77, 80]
-    region:   s_2
+    region:   s_1
 
   17657861:
     template: Crevice_Amoeban
@@ -2419,13 +2419,13 @@ spawns:
 
   17658340:
     template: Bastion_Fighter
-    at:       [0.000, 0.000, 0.000, 0]
     level:    [0, 0]
+    region:   w_484
 
   17658341:
     template: Bastion_Fighter
     level:    [0, 0]
-    region:   w_485
+    region:   w_484
 
   17658342:
     template: Bastion_Mage

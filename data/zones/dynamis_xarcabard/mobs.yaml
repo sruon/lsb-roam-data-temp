@@ -1609,8 +1609,8 @@ spawns:
 
   17330498:
     template: Vanguard_Eye
-    at:       [327.656, -6.776, -97.537, 232]
     level:    [70, 70]
+    region:   e_322
 
   17330499:
     template: Kindred_Bard
@@ -2829,18 +2829,18 @@ spawns:
 
   17330742:
     template: Kindred_Thief
-    at:       [-43.281, -36.170, 55.952, 8]
     level:    [93, 95]
+    region:   n_566
 
   17330743:
     template: Kindred_Ranger
-    at:       [-29.140, -35.696, 53.949, 23]
     level:    [93, 95]
+    region:   n_566
 
   17330744:
     template: Kindred_Dragoon
     level:    [93, 95]
-    region:   n_568
+    region:   n_566
 
   17330745:
     template: Kindreds_Wyvern
@@ -2850,7 +2850,7 @@ spawns:
   17330746:
     template: Vanguard_Eye
     level:    [85, 85]
-    region:   n_568
+    region:   n_566
 
   17330747:
     template: Kindred_Thief

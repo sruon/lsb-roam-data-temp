@@ -144,8 +144,8 @@ spawns:
 
   17436701:
     template: Demon_Pawn
-    at:       [181.241, -24.539, -35.040, 63]
     level:    [50, 52]
+    region:   e_29
 
   17436702:
     template: Demon_Pawn
@@ -779,18 +779,18 @@ spawns:
 
   17436828:
     template: Demon_Pawn
-    at:       [-129.202, -38.469, 12.499, 64]
     level:    [50, 52]
+    region:   w_156
 
   17436829:
     template: Demon_Pawn
-    at:       [-128.977, -38.467, 17.266, 127]
     level:    [50, 52]
+    region:   w_156
 
   17436830:
     template: Demon_Wizard
-    at:       [-128.762, -38.462, 29.008, 63]
     level:    [50, 52]
+    region:   w_156
 
   17436831:
     template: Morbid_Eye
@@ -844,18 +844,18 @@ spawns:
 
   17436841:
     template: Morbid_Eye
-    at:       [-59.977, -3.968, 156.549, 63]
     level:    [54, 55]
+    region:   nw_168
 
   17436842:
     template: Morbid_Eye
-    at:       [-59.000, -4.000, -112.000, 127]
     level:    [54, 55]
+    region:   sw_170
 
   17436843:
     template: Morbid_Eye
-    at:       [-60.570, -11.150, -98.882, 127]
     level:    [54, 55]
+    region:   sw_170
 
   17436844:
     template: Demon_Commander

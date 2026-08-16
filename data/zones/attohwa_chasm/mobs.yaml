@@ -819,13 +819,13 @@ spawns:
 
   16806052:
     template: Flesh_Eater
-    at:       [-63.057, 33.596, -103.561, 205]
     level:    [34, 35]
+    region:   s_164
 
   16806053:
     template: Flesh_Eater
-    at:       [-65.304, 33.543, -110.112, 205]
     level:    [34, 35]
+    region:   s_164
 
   16806054:
     template: Air_Elemental
@@ -834,18 +834,18 @@ spawns:
 
   16806055:
     template: Flesh_Eater
-    at:       [-47.766, 33.483, -117.816, 76]
     level:    [34, 35]
+    region:   s_167
 
   16806056:
     template: Flesh_Eater
-    at:       [-45.126, 33.501, -110.288, 207]
     level:    [34, 35]
+    region:   s_167
 
   16806057:
     template: Air_Elemental
-    at:       [-46.810, 33.450, -114.395, 77]
     level:    [40, 42]
+    region:   s_167
 
   16806058:
     template: Hecteyes
@@ -974,13 +974,13 @@ spawns:
 
   16806083:
     template: Flesh_Eater
-    at:       [-103.608, -6.549, 116.514, 246]
     level:    [35, 36]
+    region:   c_195
 
   16806084:
     template: Flesh_Eater
-    at:       [-98.209, -6.548, 116.439, 118]
     level:    [35, 36]
+    region:   c_195
 
   16806085:
     template: Hecteyes
@@ -1049,18 +1049,18 @@ spawns:
 
   16806098:
     template: Hecteyes
-    at:       [-303.142, -0.128, 220.389, 192]
     level:    [36, 39]
+    region:   nw_210
 
   16806099:
     template: Hecteyes
-    at:       [-300.534, 0.117, 227.447, 210]
     level:    [36, 39]
+    region:   nw_210
 
   16806100:
     template: Hecteyes
     level:    [36, 39]
-    region:   nw_212
+    region:   nw_210
 
   16806101:
     template: Hecteyes

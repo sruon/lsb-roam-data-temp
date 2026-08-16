@@ -89,8 +89,8 @@ spawns:
 
   16822290:
     template: Moblin_Ragman
-    at:       [-301.056, -0.072, 216.073, 70]
     level:    [33, 35]
+    region:   nw_17
 
   16822291:
     template: Moblin_Chapman
@@ -284,13 +284,13 @@ spawns:
 
   16822329:
     template: Stirge
-    at:       [-178.526, 7.535, 49.965, 203]
     level:    [33, 35]
+    region:   w_57
 
   16822330:
     template: Moblin_Ragman
-    at:       [-175.243, 7.529, 53.367, 222]
     level:    [33, 35]
+    region:   w_57
 
   16822331:
     template: Ancient_Bomb
@@ -499,8 +499,8 @@ spawns:
 
   16822372:
     template: Moblin_Ragman
-    at:       [-213.007, 7.491, -295.843, 36]
     level:    [34, 36]
+    region:   sw_100
 
   16822373:
     template: Bugbear_Servingman
@@ -724,13 +724,13 @@ spawns:
 
   16822417:
     template: Dark_Bats
-    at:       [18.698, 7.570, 4.266, 190]
     level:    [34, 35]
+    region:   e_145
 
   16822418:
     template: Ancient_Bomb
-    at:       [18.736, 7.567, 4.048, 191]
     level:    [45, 45]
+    region:   e_145
 
   16822419:
     template: Goblin_Doorman
@@ -844,13 +844,13 @@ spawns:
 
   16822441:
     template: Stirge
+    at:       [113.721, 11.525, -59.730, 124]
     level:    [34, 36]
-    region:   se_169
 
   16822442:
     template: Stirge
     level:    [34, 36]
-    region:   se_169
+    region:   se_170
 
   16822443:
     template: Ancient_Bomb
@@ -859,8 +859,8 @@ spawns:
 
   16822444:
     template: Moblin_Gasman
-    at:       [158.240, 11.400, -58.642, 147]
     level:    [43, 44]
+    region:   se_172
 
   16822445:
     template: Moblin_Coalman

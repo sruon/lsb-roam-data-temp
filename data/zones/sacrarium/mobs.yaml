@@ -24,8 +24,8 @@ spawns:
 
   16891909:
     template: Gazer
-    at:       [-137.595, -8.593, 61.056, 128]
     level:    [48, 50]
+    region:   nw_5
 
   16891910:
     template: Stegotaur
@@ -234,18 +234,18 @@ spawns:
 
   16891951:
     template: Fomor_Ranger
-    at:       [-2.495, -0.604, 60.168, 128]
     level:    [54, 56]
+    region:   n_47
 
   16891952:
     template: Fomor_Ninja
     level:    [54, 56]
-    region:   n_48
+    region:   n_47
 
   16891953:
     template: Fomor_Bard
     level:    [54, 56]
-    region:   n_48
+    region:   n_47
 
   16891954:
     template: Fomor_Dragoon
@@ -264,23 +264,23 @@ spawns:
 
   16891957:
     template: Fomor_Black_Mage
-    at:       [108.161, -0.528, 58.973, 255]
     level:    [54, 56]
+    region:   n_53
 
   16891958:
     template: Fomor_Bard
-    at:       [97.430, -0.607, 58.699, 4]
     level:    [54, 56]
+    region:   n_53
 
   16891959:
     template: Fomor_Beastmaster
-    at:       [106.670, -0.504, 58.766, 127]
     level:    [54, 56]
+    region:   n_53
 
   16891960:
     template: Fomors_Bats
-    at:       [1.000, 1.000, 1.000, 117]
     level:    [49, 51]
+    region:   n_53
 
   16891961:
     template: Fomor_Monk
@@ -324,8 +324,8 @@ spawns:
 
   16891969:
     template: Fomor_Paladin
-    at:       [97.532, -0.635, -59.852, 126]
     level:    [54, 56]
+    region:   s_63
 
   16891970:
     template: Old_Professor_Mariselle
@@ -684,8 +684,8 @@ spawns:
 
   16892041:
     template: Blubber_Eyes
-    at:       [139.780, -0.609, -2.051, 63]
     level:    [57, 59]
+    region:   e_130
 
   16892042:
     template: Teratotaur
@@ -789,18 +789,18 @@ spawns:
 
   16892062:
     template: Air_Elemental
-    at:       [141.164, 2.470, 93.241, 192]
     level:    [60, 60]
+    region:   ne_158
 
   16892063:
     template: Thunder_Elemental
     level:    [60, 60]
-    region:   ne_159
+    region:   ne_158
 
   16892064:
     template: Dark_Elemental
     level:    [60, 60]
-    region:   ne_159
+    region:   ne_158
 
   16892065:
     template: Air_Elemental

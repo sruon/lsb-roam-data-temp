@@ -1104,13 +1104,13 @@ spawns:
 
   17576157:
     template: Tomb_Wolf
-    at:       [186.793, -32.051, 59.420, 59]
     level:    [53, 55]
+    region:   e_221
 
   17576158:
     template: Tomb_Wolf
-    at:       [209.374, -32.051, 60.292, 253]
     level:    [53, 55]
+    region:   e_221
 
   17576159:
     template: Ice_Elemental
@@ -1119,8 +1119,8 @@ spawns:
 
   17576160:
     template: Earth_Elemental
-    at:       [220.667, -32.051, 71.023, 57]
     level:    [52, 55]
+    region:   e_221
 
   17576161:
     template: Tomb_Wolf
@@ -1174,8 +1174,8 @@ spawns:
 
   17576171:
     template: Tomb_Wolf
-    at:       [59.966, -32.051, 64.521, 54]
     level:    [53, 55]
+    region:   c_235
 
   17576172:
     template: Tomb_Wolf
