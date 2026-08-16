@@ -80,9 +80,8 @@ The navmesh comes from `lsb/navmeshes/*.nav`; all 161 zones have one.
   do; the residual churn is a grouping change genuinely moving a mob to a different region.
 - **Coverage is limited by the capture.** A zone only gets regions where mobs were observed; sparsely
   sampled corners get nothing. The navmesh bounds a region, it does not extend one.
-- **The 4-yalm grid still rounds narrow features up.** A tunnel comes out somewhat wider than it is.
-  Halving the grid narrows it further but costs four to five times the vertices, which is not a trade
-  worth making for a file meant to be read in a diff.
+- **The grid still rounds narrow features up**, by up to a cell. A recorded point claims the whole
+  cell it lands in, so an outline runs up to 2 yalms past the outermost point it holds.
 
 Regenerate with [xi-regions-bootstrap](https://github.com/sruon/xi-visualizer); review in the
 visualizer's Regions page by pointing it at `data/zones`.
