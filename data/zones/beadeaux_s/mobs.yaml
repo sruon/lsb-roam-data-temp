@@ -34,13 +34,13 @@ spawns:
 
   17154055:
     template: Vajra_Quadav
+    at:       [-180.275, 0.500, 135.138, 68]
     level:    [76, 79]
-    region:   w_7
 
   17154056:
     template: Ancient_Quadav
+    at:       [-160.967, 0.486, 144.352, 1]
     level:    [76, 79]
-    region:   c_8
 
   17154057:
     template: Magnes_Quadav
@@ -84,8 +84,8 @@ spawns:
 
   17154065:
     template: Iron_Quadav
+    at:       [-59.346, 0.249, 102.302, 211]
     level:    [76, 79]
-    region:   c_17
 
   17154066:
     template: Star_Ruby_Quadav
@@ -164,8 +164,8 @@ spawns:
 
   17154081:
     template: Ancient_Quadav
+    at:       [-189.596, 0.438, -180.031, 139]
     level:    [76, 79]
-    region:   sw_33
 
   17154082:
     template: Vajra_Quadav
@@ -289,13 +289,13 @@ spawns:
 
   17154106:
     template: Meteor_Quadav
+    at:       [108.939, 0.844, -17.640, 141]
     level:    [80, 83]
-    region:   c_58
 
   17154107:
     template: Platinum_Quadav
+    at:       [106.812, 0.952, -17.446, 255]
     level:    [80, 83]
-    region:   c_58
 
   17154108:
     template: Steel_Quadav
@@ -309,23 +309,23 @@ spawns:
 
   17154110:
     template: Doyen_Quadav
+    at:       [158.530, 0.513, -20.605, 134]
     level:    [80, 83]
-    region:   e_62
 
   17154111:
     template: Baetyl_Quadav
+    at:       [170.435, 0.673, -22.078, 134]
     level:    [80, 83]
-    region:   e_62
 
   17154112:
     template: Platinum_Quadav
+    at:       [109.337, 0.931, 16.473, 121]
     level:    [80, 83]
-    region:   c_64
 
   17154113:
     template: Meteor_Quadav
+    at:       [91.372, 0.689, 18.354, 137]
     level:    [80, 83]
-    region:   c_64
 
   17154114:
     template: Chatoyant_Quadav
@@ -419,8 +419,8 @@ spawns:
 
   17154132:
     template: Steel_Quadav
+    at:       [172.129, 0.500, 105.935, 215]
     level:    [80, 83]
-    region:   c_84
 
   17154133:
     template: Doyen_Quadav
@@ -444,8 +444,8 @@ spawns:
 
   17154137:
     template: Steel_Quadav
+    at:       [178.855, 0.491, 130.411, 189]
     level:    [80, 83]
-    region:   e_89
 
   17154138:
     template: Ancient_Quadav
@@ -899,13 +899,13 @@ spawns:
 
   17154228:
     template: Gold_Quadav
+    at:       [-120.158, -3.398, -78.627, 192]
     level:    [76, 79]
-    region:   c_180
 
   17154229:
     template: Iron_Quadav
+    at:       [-161.670, -3.385, -145.097, 107]
     level:    [76, 79]
-    region:   c_181
 
   17154230:
     template: Doyen_Quadav
@@ -1274,8 +1274,8 @@ spawns:
 
   17154303:
     template: Gold_Quadav
+    at:       [-118.247, 23.718, 19.794, 254]
     level:    [76, 79]
-    region:   c_255
 
   17154304:
     template: Star_Ruby_Quadav
@@ -1284,8 +1284,8 @@ spawns:
 
   17154305:
     template: Ancient_Quadav
+    at:       [-179.609, 23.578, 76.044, 213]
     level:    [76, 79]
-    region:   w_257
 
   17154306:
     template: Vajra_Quadav
@@ -1324,13 +1324,13 @@ spawns:
 
   17154313:
     template: Vajra_Quadav
+    at:       [-138.003, 24.154, 19.500, 219]
     level:    [76, 79]
-    region:   c_265
 
   17154314:
     template: Star_Ruby_Quadav
+    at:       [-144.448, 24.104, 18.973, 160]
     level:    [76, 79]
-    region:   c_265
 
   17154315:
     template: Gold_Quadav
@@ -1389,8 +1389,8 @@ spawns:
 
   17154326:
     template: Meteor_Quadav
+    at:       [219.548, 39.553, 111.421, 63]
     level:    [80, 83]
-    region:   e_278
 
   17154327:
     template: Baetyl_Quadav
@@ -1504,13 +1504,13 @@ spawns:
 
   17154349:
     template: Platinum_Quadav
+    at:       [258.593, 40.164, 144.511, 194]
     level:    [80, 83]
-    region:   e_301
 
   17154350:
     template: Baetyl_Quadav
+    at:       [255.663, 40.175, 140.974, 0]
     level:    [80, 83]
-    region:   e_301
 
   17154351:
     template: Thunder_Elemental
@@ -2709,28 +2709,28 @@ spawns:
 
   17154596:
     template: BoDhos_Shieldwarrior
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [75, 80]
-    region:   ne_548
 
   17154597:
     template: BoDhos_Shieldwarrior
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [75, 80]
-    region:   ne_549
 
   17154598:
     template: BoDhos_Shieldwarrior
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [75, 80]
-    region:   ne_550
 
   17154599:
     template: BoDhos_Shieldwarrior
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [75, 80]
-    region:   ne_551
 
   17154600:
     template: BoDhos_Shieldwarrior
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [75, 80]
-    region:   ne_552
 
   17154601:
     template: BoDhos_Shieldwarrior

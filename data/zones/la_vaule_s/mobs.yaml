@@ -229,8 +229,8 @@ spawns:
 
   17125422:
     template: War_Lizard
+    at:       [340.079, -0.634, -83.883, 166]
     level:    [71, 73]
-    region:   e_46
 
   17125423:
     template: Orcish_Dragonbrander
@@ -264,8 +264,8 @@ spawns:
 
   17125429:
     template: War_Lizard
+    at:       [347.143, 0.236, -176.749, 41]
     level:    [71, 73]
-    region:   se_53
 
   17125430:
     template: Orcish_Dragonbrander
@@ -324,8 +324,8 @@ spawns:
 
   17125441:
     template: Orcish_Bowshooter
+    at:       [278.032, 3.583, -275.711, 63]
     level:    [76, 79]
-    region:   se_65
 
   17125442:
     template: Orcish_Augur
@@ -369,13 +369,13 @@ spawns:
 
   17125450:
     template: Orcish_Augur
+    at:       [234.481, 3.424, -241.751, 192]
     level:    [76, 79]
-    region:   se_74
 
   17125451:
     template: Orcish_Dragonbrander
+    at:       [238.026, 3.499, -246.238, 128]
     level:    [76, 79]
-    region:   se_75
 
   17125452:
     template: Ashmaker_Gotblut
@@ -389,8 +389,8 @@ spawns:
 
   17125454:
     template: Fighting_Smilodon
+    at:       [329.336, 0.036, -255.052, 232]
     level:    [75, 78]
-    region:   se_78
 
   17125455:
     template: Fighting_Smilodon
@@ -404,8 +404,8 @@ spawns:
 
   17125457:
     template: Fighting_Smilodon
+    at:       [217.842, -0.505, -289.718, 71]
     level:    [75, 78]
-    region:   se_81
 
   17125458:
     template: Orcish_Veteran
@@ -459,13 +459,13 @@ spawns:
 
   17125468:
     template: Mariehene
+    at:       [110.886, -0.464, -15.915, 141]
     level:    [71, 74]
-    region:   c_92
 
   17125469:
     template: War_Lizard
+    at:       [120.760, -0.510, -20.616, 126]
     level:    [71, 73]
-    region:   c_92
 
   17125470:
     template: Orcish_Dragonbrander
@@ -504,8 +504,8 @@ spawns:
 
   17125477:
     template: Thunder_Elemental
+    at:       [35.972, -0.683, -24.584, 32]
     level:    [75, 75]
-    region:   c_101
 
   17125478:
     template: Orcish_Champion
@@ -899,8 +899,8 @@ spawns:
 
   17125556:
     template: Orcish_Farkiller
+    at:       [17.149, -4.032, -189.977, 246]
     level:    [81, 83]
-    region:   s_180
 
   17125557:
     template: Orcish_Strategist
@@ -984,8 +984,8 @@ spawns:
 
   17125573:
     template: Orcish_Cupholder
+    at:       [-116.051, -0.377, -298.661, 134]
     level:    [81, 83]
-    region:   s_197
 
   17125574:
     template: Orcish_Farkiller
@@ -1014,8 +1014,8 @@ spawns:
 
   17125579:
     template: Lobison
+    at:       [84.989, -0.726, -261.109, 17]
     level:    [80, 82]
-    region:   s_203
 
   17125580:
     template: Lobison
@@ -1089,8 +1089,8 @@ spawns:
 
   17125594:
     template: Orcish_Imperial_Guard
+    at:       [62.985, -3.753, -114.289, 139]
     level:    [81, 83]
-    region:   c_218
 
   17125595:
     template: Orcish_Wyrmbrander
@@ -1119,8 +1119,8 @@ spawns:
 
   17125600:
     template: Orcish_Dreadnought
+    at:       [72.654, -3.767, -172.063, 244]
     level:    [81, 83]
-    region:   s_224
 
   17125601:
     template: Orcish_Prophetess
@@ -1179,13 +1179,13 @@ spawns:
 
   17125612:
     template: Orcish_Wyrmbrander
+    at:       [53.036, -9.111, -162.729, 200]
     level:    [81, 83]
-    region:   c_236
 
   17125613:
     template: Orcish_Prophetess
+    at:       [55.196, -9.140, -165.539, 236]
     level:    [81, 83]
-    region:   c_236
 
   17125614:
     template: Orcish_Prophetess
@@ -1209,8 +1209,8 @@ spawns:
 
   17125618:
     template: La_Vaule_Pugil
+    at:       [57.192, 3.534, -9.203, 187]
     level:    [72, 75]
-    region:   c_242
 
   17125619:
     template: La_Vaule_Pugil
@@ -1314,8 +1314,8 @@ spawns:
 
   17125639:
     template: La_Vaule_Pugil
+    at:       [-262.356, 3.300, -87.265, 69]
     level:    [72, 75]
-    region:   w_263
 
   17125640:
     template: Orcish_Dreadnought
@@ -1329,8 +1329,8 @@ spawns:
 
   17125642:
     template: Orcish_Prophetess
+    at:       [138.344, -0.482, -155.041, 178]
     level:    [81, 83]
-    region:   c_266
 
   17125643:
     template: Orcish_Dreadnought
@@ -1649,78 +1649,78 @@ spawns:
 
   17125712:
     template: Leonoyne
+    at:       [272.609, 3.326, -195.338, 76]
     level:    [1, 1]
-    region:   e_336
 
   17125713:
     template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 235]
     level:    [0, 0]
-    region:   e_337
 
   17125714:
     template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 182]
     level:    [0, 0]
-    region:   e_338
 
   17125715:
     template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 185]
     level:    [0, 0]
-    region:   e_337
 
   17125716:
     template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 12]
     level:    [0, 0]
-    region:   e_340
 
   17125717:
     template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 180]
     level:    [0, 0]
-    region:   e_338
 
   17125718:
     template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 45]
     level:    [0, 0]
-    region:   e_342
 
   17125719:
     template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 71]
     level:    [0, 0]
-    region:   e_343
 
   17125720:
     template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 178]
     level:    [0, 0]
-    region:   e_344
 
   17125721:
     template: Savage_Hound_Condottiere
+    at:       [0.000, 0.000, 0.000, 166]
     level:    [0, 0]
-    region:   e_338
 
   17125722:
     template: Ashmea_B_Greinner
+    at:       [280.685, 3.500, -234.608, 29]
     level:    [0, 0]
-    region:   e_346
 
   17125723:
     template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 198]
     level:    [0, 0]
-    region:   e_338
 
   17125724:
     template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 151]
     level:    [0, 0]
-    region:   e_348
 
   17125725:
     template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 237]
     level:    [0, 0]
-    region:   e_349
 
   17125726:
     template: Scarlet_Boar_Esquire
+    at:       [0.000, 0.000, 0.000, 52]
     level:    [0, 0]
-    region:   e_350
 
   17125727:
     template: Scarlet_Boar_Esquire
@@ -2459,8 +2459,8 @@ spawns:
 
   17125874:
     template: Gravemaker_Mesmerizer
+    at:       [0.000, 0.000, 0.000, 124]
     level:    [70, 70]
-    region:   ne_498
 
   17125875:
     template: Gravemaker_Mesmerizer
@@ -2469,8 +2469,8 @@ spawns:
 
   17125876:
     template: Gravemaker_Mesmerizer
+    at:       [0.000, 0.000, 0.000, 124]
     level:    [70, 70]
-    region:   ne_500
 
   17125877:
     template: Gravemaker_Mesmerizer
@@ -2509,8 +2509,8 @@ spawns:
 
   17125884:
     template: Clan_Longtooth_Pillager
+    at:       [0.000, 0.000, 0.000, 166]
     level:    [0, 0]
-    region:   se_59
 
   17125885:
     template: Clan_Longtooth_Pillager
@@ -3009,8 +3009,8 @@ spawns:
 
   17125984:
     template: Rainemard
+    at:       [275.695, 3.778, -221.410, 27]
     level:    [1, 1]
-    region:   se_608
 
   17125985:
     template: Maat
@@ -3114,13 +3114,13 @@ spawns:
 
   17126005:
     template: Ulla
+    at:       [291.822, 2.172, -232.006, 230]
     level:    [1, 1]
-    region:   e_629
 
   17126006:
     template: Kilhwch
+    at:       [0.000, 0.000, 0.000, 218]
     level:    [1, 1]
-    region:   sw_630
 
   17126007:
     template: Alfons

@@ -104,8 +104,8 @@ spawns:
 
   17190933:
     template: Ding_Bats
+    at:       [131.281, -60.112, 151.963, 127]
     level:    [1, 1]
-    region:   w_21
 
   17190934:
     template: Ding_Bats
@@ -114,8 +114,8 @@ spawns:
 
   17190935:
     template: Ding_Bats
+    at:       [139.633, -60.523, 164.973, 30]
     level:    [1, 1]
-    region:   w_23
 
   17190936:
     template: Ding_Bats
@@ -204,18 +204,18 @@ spawns:
 
   17190953:
     template: Ding_Bats
+    at:       [238.284, -60.631, 330.343, 127]
     level:    [1, 1]
-    region:   w_41
 
   17190954:
     template: Ding_Bats
+    at:       [171.518, -60.203, 300.702, 100]
     level:    [1, 1]
-    region:   w_42
 
   17190955:
     template: Ding_Bats
+    at:       [263.937, -49.883, 171.960, 127]
     level:    [1, 1]
-    region:   nw_43
 
   17190956:
     template: Ding_Bats
@@ -299,8 +299,8 @@ spawns:
 
   17190972:
     template: Ding_Bats
+    at:       [161.727, -60.823, 401.959, 10]
     level:    [1, 1]
-    region:   nw_60
 
   17190973:
     template: Ding_Bats
@@ -384,8 +384,8 @@ spawns:
 
   17190989:
     template: Ding_Bats
+    at:       [151.832, -48.889, 51.622, 127]
     level:    [2, 3]
-    region:   w_77
 
   17190990:
     template: Ding_Bats
@@ -494,8 +494,8 @@ spawns:
 
   17191011:
     template: Mouse_Bat
+    at:       [370.259, -52.363, 175.979, 127]
     level:    [3, 4]
-    region:   c_99
 
   17191012:
     template: Mouse_Bat
@@ -524,8 +524,8 @@ spawns:
 
   17191017:
     template: Pugil
+    at:       [259.554, -39.345, 94.038, 127]
     level:    [2, 3]
-    region:   w_105
 
   17191018:
     template: Pugil
@@ -889,8 +889,8 @@ spawns:
 
   17191090:
     template: Carrion_Worm
+    at:       [625.691, -50.897, 270.652, 80]
     level:    [4, 5]
-    region:   ne_178
 
   17191091:
     template: Scarab_Beetle
@@ -929,8 +929,8 @@ spawns:
 
   17191098:
     template: Mouse_Bat
+    at:       [682.366, -60.803, 442.144, 117]
     level:    [5, 6]
-    region:   e_186
 
   17191099:
     template: Mouse_Bat
@@ -1069,8 +1069,8 @@ spawns:
 
   17191126:
     template: Carrion_Worm
+    at:       [429.015, -50.732, 159.266, 117]
     level:    [3, 4]
-    region:   c_214
 
   17191127:
     template: Scarab_Beetle
@@ -1219,8 +1219,8 @@ spawns:
 
   17191156:
     template: Bomb
+    at:       [467.978, -41.702, 72.949, 127]
     level:    [8, 10]
-    region:   c_244
 
   17191157:
     template: Tainted_Hound
@@ -1324,8 +1324,8 @@ spawns:
 
   17191177:
     template: Ding_Bats
+    at:       [332.154, -22.508, -223.977, 127]
     level:    [4, 5]
-    region:   s_265
 
   17191178:
     template: Ding_Bats
@@ -1334,8 +1334,8 @@ spawns:
 
   17191179:
     template: Mouse_Bat
+    at:       [369.485, -20.499, -294.462, 127]
     level:    [5, 6]
-    region:   s_267
 
   17191180:
     template: Mouse_Bat
@@ -1474,8 +1474,8 @@ spawns:
 
   17191207:
     template: Ding_Bats
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [4, 5]
-    region:   c_295
 
   17191208:
     template: Ding_Bats
@@ -1724,23 +1724,23 @@ spawns:
 
   17191257:
     template: Tainted_Hound
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [7, 8]
-    region:   sw_345
 
   17191258:
     template: Enchanted_Bones
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [6, 7]
-    region:   sw_346
 
   17191259:
     template: Enchanted_Bones
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [6, 7]
-    region:   sw_347
 
   17191260:
     template: Goblin_Thug
+    at:       [300.313, 0.065, -496.409, 11]
     level:    [7, 8]
-    region:   s_348
 
   17191261:
     template: Goblin_Weaver
@@ -1954,8 +1954,8 @@ spawns:
 
   17191303:
     template: Orcish_Grappler
+    at:       [521.805, -9.964, -366.619, 118]
     level:    [7, 8]
-    region:   se_391
 
   17191304:
     template: Ding_Bats
@@ -2669,8 +2669,8 @@ spawns:
 
   17191456:
     template: She-Slime
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [0, 0]
-    region:   w_544
 
   17191457:
     template: She-Slime
@@ -2684,8 +2684,8 @@ spawns:
 
   17191459:
     template: She-Slime
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [0, 0]
-    region:   w_547
 
   17191460:
     template: She-Slime
@@ -2719,8 +2719,8 @@ spawns:
 
   17191466:
     template: Metal_Slime
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [0, 0]
-    region:   nw_554
 
   17191467:
     template: Metal_Slime

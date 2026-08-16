@@ -1084,13 +1084,13 @@ spawns:
 
   17387737:
     template: Orcish_Footsoldier
+    at:       [-103.329, -0.845, -125.497, 36]
     level:    [44, 47]
-    region:   w_217
 
   17387738:
     template: Orcish_Gladiator
+    at:       [-102.365, -0.749, -96.825, 127]
     level:    [44, 48]
-    region:   w_217
 
   17387739:
     template: Orcish_Trooper
@@ -1099,13 +1099,13 @@ spawns:
 
   17387740:
     template: Orcish_Bowshooter
+    at:       [-110.852, -0.500, -102.656, 19]
     level:    [42, 46]
-    region:   w_217
 
   17387741:
     template: Orcish_Footsoldier
     level:    [44, 47]
-    region:   w_217
+    region:   w_221
 
   17387742:
     template: Orcish_Gladiator
@@ -1119,13 +1119,13 @@ spawns:
 
   17387744:
     template: Davoi_Wasp
+    at:       [-98.008, -0.698, -92.997, 127]
     level:    [30, 33]
-    region:   w_217
 
   17387745:
     template: Davoi_Wasp
     level:    [30, 33]
-    region:   w_217
+    region:   w_221
 
   17387746:
     template: Orcish_Veteran
@@ -1339,8 +1339,8 @@ spawns:
 
   17387788:
     template: Orcish_Dreadnought
+    at:       [-61.000, 4.000, -241.000, 127]
     level:    [63, 67]
-    region:   s_268
 
   17387789:
     template: Orcish_Farkiller
@@ -1814,13 +1814,13 @@ spawns:
 
   17387883:
     template: Morbol
+    at:       [187.780, 1.271, -373.121, 190]
     level:    [37, 39]
-    region:   se_363
 
   17387884:
     template: Davoi_Mush
+    at:       [189.698, 1.145, -371.004, 127]
     level:    [34, 35]
-    region:   se_363
 
   17387885:
     template: Morbol

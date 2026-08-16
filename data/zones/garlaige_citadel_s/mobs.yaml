@@ -24,18 +24,18 @@ spawns:
 
   17448965:
     template: Dire_Bat
+    at:       [-19.259, -0.500, -11.634, 194]
     level:    [62, 64]
-    region:   c_5
 
   17448966:
     template: Incubus_Bats
+    at:       [-19.456, -0.500, -7.824, 63]
     level:    [62, 64]
-    region:   c_5
 
   17448967:
     template: Incubus_Bats
+    at:       [-28.143, -0.499, 22.242, 127]
     level:    [62, 64]
-    region:   c_7
 
   17448968:
     template: Dire_Bat
@@ -124,8 +124,8 @@ spawns:
 
   17448985:
     template: Thunder_Elemental
+    at:       [16.929, -0.500, -125.529, 197]
     level:    [75, 75]
-    region:   c_24
 
   17448986:
     template: Explosure
@@ -144,8 +144,8 @@ spawns:
 
   17448989:
     template: Dire_Bat
+    at:       [25.066, 6.635, 62.899, 23]
     level:    [62, 64]
-    region:   c_29
 
   17448990:
     template: Citadel_Pipistrelles
@@ -229,28 +229,28 @@ spawns:
 
   17449006:
     template: Explosure
+    at:       [-141.107, -0.500, -109.301, 63]
     level:    [64, 65]
-    region:   c_46
 
   17449007:
     template: Explosure
+    at:       [-149.277, -0.500, -99.403, 0]
     level:    [64, 65]
-    region:   c_47
 
   17449008:
     template: Elatha
+    at:       [-137.193, -0.500, -100.000, 0]
     level:    [80, 81]
-    region:   c_47
 
   17449009:
     template: Scolopendrid
+    at:       [59.069, 5.729, -158.076, 190]
     level:    [68, 70]
-    region:   s_49
 
   17449010:
     template: Scolopendrid
+    at:       [76.551, 5.719, -183.464, 102]
     level:    [68, 70]
-    region:   s_50
 
   17449011:
     template: Scolopendrid
@@ -264,8 +264,8 @@ spawns:
 
   17449013:
     template: Scolopendrid
+    at:       [98.878, 5.538, -150.114, 190]
     level:    [68, 70]
-    region:   c_53
 
   17449014:
     template: Scolopendrid
@@ -289,8 +289,8 @@ spawns:
 
   17449018:
     template: Scolopendrid
+    at:       [139.901, 5.574, -149.144, 194]
     level:    [68, 70]
-    region:   c_58
 
   17449019:
     template: Yagudo_Missionary
@@ -304,13 +304,13 @@ spawns:
 
   17449021:
     template: Yagudo_Zealot
+    at:       [259.964, -0.500, -191.785, 189]
     level:    [71, 74]
-    region:   se_61
 
   17449022:
     template: Yagudo_Templar
+    at:       [260.344, -0.500, -194.764, 62]
     level:    [71, 74]
-    region:   se_61
 
   17449023:
     template: Yagudo_Pythoness
@@ -324,13 +324,13 @@ spawns:
 
   17449025:
     template: Yagudo_Abbot
+    at:       [255.086, -0.500, -218.509, 251]
     level:    [71, 74]
-    region:   se_65
 
   17449026:
     template: Yagudo_Prior
+    at:       [254.948, -0.500, -218.468, 253]
     level:    [71, 74]
-    region:   se_65
 
   17449027:
     template: Explosure
@@ -344,18 +344,18 @@ spawns:
 
   17449029:
     template: Yagudo_Transporter
+    at:       [29.970, -5.536, 140.561, 0]
     level:    [60, 60]
-    region:   c_69
 
   17449030:
     template: Yagudo_Guard
+    at:       [38.029, -6.406, 140.816, 0]
     level:    [60, 60]
-    region:   c_70
 
   17449031:
     template: Yagudo_Guard
+    at:       [45.225, -6.495, 139.887, 9]
     level:    [60, 60]
-    region:   c_69
 
   17449032:
     template: Khadem_Quemquoma
@@ -394,13 +394,13 @@ spawns:
 
   17449039:
     template: Kayeel-Payeel
+    at:       [63.799, 5.592, 19.995, 103]
     level:    [0, 0]
-    region:   w_79
 
   17449040:
     template: Ice_Fiend
+    at:       [62.798, 5.491, 18.995, 113]
     level:    [1, 1]
-    region:   c_80
 
   17449041:
     template: Thunder_Fiend
@@ -409,48 +409,48 @@ spawns:
 
   17449042:
     template: Aquarian_Caster
+    at:       [0.000, 0.000, 0.000, 225]
     level:    [1, 1]
-    region:   w_82
 
   17449043:
     template: Aquarian_Caster
+    at:       [0.000, 0.000, 0.000, 120]
     level:    [1, 1]
-    region:   w_83
 
   17449044:
     template: Aquarian_Caster
+    at:       [0.000, 0.000, 0.000, 236]
     level:    [1, 1]
-    region:   w_84
 
   17449045:
     template: Aquarian_Caster
+    at:       [0.000, 0.000, 0.000, 115]
     level:    [1, 1]
-    region:   w_85
 
   17449046:
     template: Aquarian_Caster
+    at:       [0.000, 0.000, 0.000, 87]
     level:    [1, 1]
-    region:   sw_86
 
   17449047:
     template: Aquarian_Caster
+    at:       [0.000, 0.000, 0.000, 152]
     level:    [1, 1]
-    region:   w_87
 
   17449048:
     template: Aquarian_Caster
+    at:       [0.000, 0.000, 0.000, 88]
     level:    [1, 1]
-    region:   n_88
 
   17449049:
     template: Aquarian_Caster
+    at:       [0.000, 0.000, 0.000, 228]
     level:    [1, 1]
-    region:   w_89
 
   17449050:
     template: Aquarian_Caster
+    at:       [0.000, 0.000, 0.000, 170]
     level:    [1, 1]
-    region:   n_90
 
   17449051:
     template: Gariri
@@ -509,53 +509,53 @@ spawns:
 
   17449062:
     template: Zolku-Azolku
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [0, 0]
-    region:   w_102
 
   17449063:
     template: Libran_Caster
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [1, 1]
-    region:   w_103
 
   17449064:
     template: Libran_Caster
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [1, 1]
-    region:   w_104
 
   17449065:
     template: Libran_Caster
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [1, 1]
-    region:   w_105
 
   17449066:
     template: Libran_Caster
+    at:       [0.000, 0.000, 0.000, 255]
     level:    [1, 1]
-    region:   w_106
 
   17449067:
     template: Libran_Caster
+    at:       [0.000, 0.000, 0.000, 255]
     level:    [1, 1]
-    region:   w_107
 
   17449068:
     template: Libran_Caster
+    at:       [0.000, 0.000, 0.000, 255]
     level:    [1, 1]
-    region:   w_108
 
   17449069:
     template: Libran_Caster
+    at:       [0.000, 0.000, 0.000, 254]
     level:    [1, 1]
-    region:   w_109
 
   17449070:
     template: Libran_Caster
+    at:       [0.000, 0.000, 0.000, 254]
     level:    [1, 1]
-    region:   w_110
 
   17449071:
     template: Libran_Caster
+    at:       [0.000, 0.000, 0.000, 253]
     level:    [1, 1]
-    region:   w_111
 
   17449072:
     template: Lhu_Mhakaracca
@@ -669,68 +669,68 @@ spawns:
 
   17449094:
     template: Lutete
+    at:       [62.562, 5.213, 17.519, 123]
     level:    [67, 67]
-    region:   c_134
 
   17449095:
     template: Luminous_Coalescence
+    at:       [62.472, 4.966, 16.308, 139]
     level:    [1, 1]
-    region:   c_135
 
   17449096:
     template: Luminous_Coalescence
+    at:       [62.078, 5.357, 17.731, 121]
     level:    [1, 1]
-    region:   c_136
 
   17449097:
     template: Luminous_Coalescence
+    at:       [62.058, 5.370, 17.770, 129]
     level:    [1, 1]
-    region:   c_136
 
   17449098:
     template: Ariesian_Caster
+    at:       [37.874, 5.885, 14.836, 0]
     level:    [67, 67]
-    region:   c_138
 
   17449099:
     template: Ariesian_Caster
+    at:       [46.915, 5.791, 13.048, 9]
     level:    [67, 67]
-    region:   c_138
 
   17449100:
     template: Ariesian_Caster
+    at:       [34.403, 6.480, -4.994, 190]
     level:    [67, 67]
-    region:   c_140
 
   17449101:
     template: Ariesian_Caster
+    at:       [42.084, 6.580, 4.357, 25]
     level:    [67, 67]
-    region:   c_141
 
   17449102:
     template: Ariesian_Caster
+    at:       [46.712, 6.402, 7.536, 168]
     level:    [67, 67]
-    region:   c_142
 
   17449103:
     template: Ariesian_Caster
+    at:       [49.286, 6.176, -4.876, 248]
     level:    [67, 67]
-    region:   c_143
 
   17449104:
     template: Ariesian_Caster
+    at:       [53.250, 5.983, 0.543, 196]
     level:    [67, 67]
-    region:   c_144
 
   17449105:
     template: Ariesian_Caster
+    at:       [43.053, 6.578, 7.615, 153]
     level:    [67, 67]
-    region:   c_145
 
   17449106:
     template: Ariesian_Caster
+    at:       [52.231, 5.974, -4.626, 254]
     level:    [67, 67]
-    region:   c_146
 
   17449107:
     template: Piscean_Caster
@@ -924,8 +924,8 @@ spawns:
 
   17449145:
     template: Federation_Dispenser
+    at:       [0.000, 0.000, 0.000, 249]
     level:    [0, 0]
-    region:   w_185
 
   17449146:
     template: Federation_Dispenser

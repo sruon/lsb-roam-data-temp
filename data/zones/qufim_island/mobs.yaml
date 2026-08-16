@@ -65,7 +65,7 @@ spawns:
   17293325:
     template: Dancing_Weapon
     level:    [28, 29]
-    region:   se_13
+    region:   se_12
 
   17293326:
     template: Seeker_Bats
@@ -79,8 +79,8 @@ spawns:
 
   17293328:
     template: Dancing_Weapon
+    at:       [257.587, -8.303, -27.606, 55]
     level:    [28, 29]
-    region:   e_16
 
   17293329:
     template: Land_Worm
@@ -164,18 +164,18 @@ spawns:
 
   17293345:
     template: Giant_Hunter
+    at:       [116.000, -20.500, 120.000, 127]
     level:    [29, 30]
-    region:   e_33
 
   17293346:
     template: Giant_Ranger
+    at:       [127.642, -19.847, 26.319, 119]
     level:    [29, 30]
-    region:   e_34
 
   17293347:
     template: Giant_Ascetic
+    at:       [133.000, -19.000, 92.000, 40]
     level:    [29, 30]
-    region:   e_35
 
   17293348:
     template: Giant_Trapper
@@ -264,8 +264,8 @@ spawns:
 
   17293365:
     template: Banshee
+    at:       [93.812, -21.756, -57.691, 52]
     level:    [31, 32]
-    region:   c_53
 
   17293366:
     template: Thunder_Elemental
@@ -779,8 +779,8 @@ spawns:
 
   17293468:
     template: Banshee
+    at:       [-8.542, -20.773, 300.196, 99]
     level:    [31, 32]
-    region:   n_156
 
   17293469:
     template: Thunder_Elemental
@@ -849,13 +849,13 @@ spawns:
 
   17293482:
     template: Banshee
+    at:       [-292.246, -20.813, 50.106, 127]
     level:    [31, 32]
-    region:   c_170
 
   17293483:
     template: Banshee
+    at:       [-244.268, -20.527, 43.688, 80]
     level:    [31, 32]
-    region:   w_171
 
   17293484:
     template: Thunder_Elemental
@@ -914,13 +914,13 @@ spawns:
 
   17293496:
     template: Giant_Ranger
+    at:       [-203.012, -19.587, 141.747, 61]
     level:    [29, 30]
-    region:   c_184
 
   17293497:
     template: Giant_Ascetic
+    at:       [-183.256, -19.704, 35.952, 127]
     level:    [29, 30]
-    region:   c_185
 
   17293498:
     template: Giant_Trapper
@@ -1089,8 +1089,8 @@ spawns:
 
   17293531:
     template: Wight
+    at:       [-204.294, -20.408, 195.454, 127]
     level:    [28, 29]
-    region:   c_219
 
   17293532:
     template: Light_Elemental
@@ -1244,8 +1244,8 @@ spawns:
 
   17293562:
     template: Wight
+    at:       [-202.466, -20.384, 267.475, 127]
     level:    [28, 29]
-    region:   n_250
 
   17293563:
     template: Light_Elemental
@@ -1409,8 +1409,8 @@ spawns:
 
   17293595:
     template: Banshee
+    at:       [-103.964, -20.654, 380.802, 127]
     level:    [31, 32]
-    region:   n_283
 
   17293596:
     template: Thunder_Elemental
@@ -1449,13 +1449,13 @@ spawns:
 
   17293603:
     template: Wight
+    at:       [-339.128, -12.994, 533.764, 90]
     level:    [28, 29]
-    region:   nw_291
 
   17293604:
     template: Wight
+    at:       [-335.886, -13.522, 532.259, 19]
     level:    [28, 29]
-    region:   nw_291
 
   17293605:
     template: Seeker_Bats
@@ -1479,13 +1479,13 @@ spawns:
 
   17293609:
     template: Wight
+    at:       [-427.571, -12.507, 337.510, 80]
     level:    [28, 29]
-    region:   nw_297
 
   17293610:
     template: Wight
+    at:       [-419.158, -11.386, 339.963, 109]
     level:    [28, 29]
-    region:   nw_297
 
   17293611:
     template: Seeker_Bats
@@ -1634,8 +1634,8 @@ spawns:
 
   17293640:
     template: Dosetsu_Tree
+    at:       [-240.000, -20.795, 37.000, 31]
     level:    [35, 35]
-    region:   c_328
 
   17293641:
     template: Ingaevon

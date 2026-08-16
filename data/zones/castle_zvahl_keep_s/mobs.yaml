@@ -74,8 +74,8 @@ spawns:
 
   17412111:
     template: Errand_Imp
+    at:       [-31.501, 0.100, 69.607, 230]
     level:    [79, 80]
-    region:   c_15
 
   17412112:
     template: Gnarled_Gargouille
@@ -159,28 +159,28 @@ spawns:
 
   17412128:
     template: Errand_Imp
+    at:       [-26.093, 0.100, 107.683, 71]
     level:    [79, 80]
-    region:   c_32
 
   17412129:
     template: Gnarled_Gargouille
+    at:       [-28.463, 0.100, 89.979, 139]
     level:    [80, 82]
-    region:   c_33
 
   17412130:
     template: Gnarled_Gargouille
+    at:       [-47.086, 0.100, 90.476, 8]
     level:    [80, 82]
-    region:   c_34
 
   17412131:
     template: Gnarled_Gargouille
+    at:       [-47.052, 0.100, 107.663, 107]
     level:    [80, 82]
-    region:   c_35
 
   17412132:
     template: Gnarled_Gargouille
+    at:       [-69.532, 0.100, 110.506, 224]
     level:    [80, 82]
-    region:   c_36
 
   17412133:
     template: Orcish_Prophetess
@@ -190,7 +190,7 @@ spawns:
   17412134:
     template: Orcish_Dreadnought
     level:    [81, 82]
-    region:   s_38
+    region:   s_37
 
   17412135:
     template: Orcish_Strategist
@@ -329,13 +329,13 @@ spawns:
 
   17412162:
     template: Ogler
+    at:       [-49.528, -8.499, 142.225, 47]
     level:    [80, 82]
-    region:   c_66
 
   17412163:
     template: Ogler
+    at:       [-62.552, -8.499, 144.646, 255]
     level:    [80, 82]
-    region:   c_66
 
   17412164:
     template: Ogler
@@ -349,13 +349,13 @@ spawns:
 
   17412166:
     template: Doyen_Quadav
+    at:       [-49.604, -15.900, 107.218, 134]
     level:    [80, 82]
-    region:   c_70
 
   17412167:
     template: Meteor_Quadav
+    at:       [-46.024, -15.899, 110.353, 158]
     level:    [81, 82]
-    region:   c_71
 
   17412168:
     template: Doyen_Quadav
@@ -659,8 +659,8 @@ spawns:
 
   17412228:
     template: Desmodus
+    at:       [-225.500, -47.800, 141.139, 0]
     level:    [80, 82]
-    region:   w_132
 
   17412229:
     template: Desmodus
@@ -709,8 +709,8 @@ spawns:
 
   17412238:
     template: Desmodus
+    at:       [-368.280, -46.205, -179.418, 0]
     level:    [80, 82]
-    region:   sw_142
 
   17412239:
     template: Desmodus
@@ -759,8 +759,8 @@ spawns:
 
   17412248:
     template: Desmodus
+    at:       [-140.000, -47.750, -94.746, 64]
     level:    [80, 82]
-    region:   s_152
 
   17412249:
     template: Desmodus
@@ -2134,8 +2134,8 @@ spawns:
 
   17412523:
     template: Shadowhind_Machinator
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [0, 0]
-    region:   ne_427
 
   17412524:
     template: Shadowhind_Machinator
@@ -2144,13 +2144,13 @@ spawns:
 
   17412525:
     template: Shadowhind_Machinator
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [0, 0]
-    region:   ne_429
 
   17412526:
     template: Shadowhind_Machinator
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [0, 0]
-    region:   ne_430
 
   17412527:
     template: Shadowhind_Machinator
@@ -2159,8 +2159,8 @@ spawns:
 
   17412528:
     template: Shadowhind_Machinator
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [0, 0]
-    region:   ne_432
 
   17412529:
     template: Confederate_Mantelet

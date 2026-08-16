@@ -159,13 +159,13 @@ spawns:
 
   17215520:
     template: Ding_Bats
+    at:       [484.304, -0.125, -441.789, 17]
     level:    [1, 1]
-    region:   e_32
 
   17215521:
     template: Ding_Bats
+    at:       [553.909, 0.435, -448.707, 31]
     level:    [1, 1]
-    region:   e_33
 
   17215522:
     template: Ding_Bats
@@ -849,8 +849,8 @@ spawns:
 
   17215658:
     template: Stone_Eater
+    at:       [362.820, -0.072, -270.662, 127]
     level:    [2, 3]
-    region:   e_170
 
   17215659:
     template: Rock_Lizard
@@ -1279,8 +1279,8 @@ spawns:
 
   17215744:
     template: Stone_Eater
+    at:       [284.345, -0.095, -637.362, 38]
     level:    [4, 5]
-    region:   se_256
 
   17215745:
     template: Stone_Eater
@@ -1364,8 +1364,8 @@ spawns:
 
   17215761:
     template: Shrapnel
+    at:       [328.320, -0.341, -610.653, 85]
     level:    [8, 9]
-    region:   se_273
 
   17215762:
     template: Stone_Eater
@@ -1589,18 +1589,18 @@ spawns:
 
   17215806:
     template: Shrapnel
+    at:       [-161.855, 10.163, -359.714, 17]
     level:    [8, 9]
-    region:   w_318
 
   17215807:
     template: Stone_Eater
+    at:       [-116.375, 19.793, -461.837, 68]
     level:    [4, 5]
-    region:   c_319
 
   17215808:
     template: Stone_Eater
+    at:       [0.910, 1.994, -428.347, 87]
     level:    [4, 5]
-    region:   c_320
 
   17215809:
     template: Rock_Lizard
@@ -1654,8 +1654,8 @@ spawns:
 
   17215819:
     template: Young_Quadav
+    at:       [-22.604, 6.982, -424.051, 127]
     level:    [6, 7]
-    region:   c_331
 
   17215820:
     template: Young_Quadav
@@ -1674,23 +1674,23 @@ spawns:
 
   17215823:
     template: Shrapnel
+    at:       [-116.110, 19.076, -449.929, 127]
     level:    [8, 10]
-    region:   c_335
 
   17215824:
     template: Stone_Eater
+    at:       [41.121, -0.052, -577.450, 127]
     level:    [4, 5]
-    region:   s_336
 
   17215825:
     template: Stone_Eater
+    at:       [43.614, 2.049, -497.341, 87]
     level:    [4, 5]
-    region:   s_337
 
   17215826:
     template: Rock_Lizard
+    at:       [66.149, 0.232, -556.592, 127]
     level:    [5, 6]
-    region:   s_338
 
   17215827:
     template: Rock_Lizard
@@ -1749,8 +1749,8 @@ spawns:
 
   17215838:
     template: Young_Quadav
+    at:       [16.735, 0.380, -428.331, 85]
     level:    [4, 5]
-    region:   s_350
 
   17215839:
     template: Young_Quadav
@@ -1764,8 +1764,8 @@ spawns:
 
   17215841:
     template: Amber_Quadav
+    at:       [36.000, -0.550, -468.000, 38]
     level:    [4, 5]
-    region:   s_353
 
   17215842:
     template: Enchanted_Bones
@@ -1794,18 +1794,18 @@ spawns:
 
   17215847:
     template: Stone_Eater
+    at:       [126.154, -0.057, -579.490, 110]
     level:    [4, 5]
-    region:   s_359
 
   17215848:
     template: Stone_Eater
+    at:       [152.407, 0.087, -593.848, 127]
     level:    [4, 5]
-    region:   s_360
 
   17215849:
     template: Rock_Lizard
+    at:       [150.942, 0.186, -593.710, 127]
     level:    [5, 6]
-    region:   s_361
 
   17215850:
     template: Rock_Lizard
@@ -1869,8 +1869,8 @@ spawns:
 
   17215862:
     template: Shrapnel
+    at:       [210.098, 2.158, -616.197, 127]
     level:    [8, 10]
-    region:   s_374
 
   17215863:
     template: Rock_Lizard
@@ -1949,8 +1949,8 @@ spawns:
 
   17215878:
     template: Amber_Quadav
+    at:       [-279.381, 19.500, -393.718, 80]
     level:    [7, 8]
-    region:   w_390
 
   17215879:
     template: Enchanted_Bones
@@ -2024,13 +2024,13 @@ spawns:
 
   17215893:
     template: Vulture
+    at:       [-354.882, 38.491, -328.393, 127]
     level:    [6, 7]
-    region:   w_405
 
   17215894:
     template: Vulture
+    at:       [-403.019, 39.947, -446.894, 127]
     level:    [6, 7]
-    region:   w_406
 
   17215895:
     template: Young_Quadav
@@ -2039,13 +2039,13 @@ spawns:
 
   17215896:
     template: Young_Quadav
+    at:       [-362.289, 30.496, -449.346, 127]
     level:    [7, 8]
-    region:   w_408
 
   17215897:
     template: Amber_Quadav
+    at:       [-372.868, 34.819, -422.473, 16]
     level:    [7, 8]
-    region:   w_409
 
   17215898:
     template: Enchanted_Bones
@@ -2124,8 +2124,8 @@ spawns:
 
   17215913:
     template: Enchanted_Bones
+    at:       [-434.146, 39.363, -275.784, 67]
     level:    [7, 8]
-    region:   w_425
 
   17215914:
     template: Maneating_Hornet
@@ -2209,8 +2209,8 @@ spawns:
 
   17215930:
     template: Shrapnel
+    at:       [-519.726, 40.060, -526.655, 127]
     level:    [8, 10]
-    region:   w_442
 
   17215931:
     template: Maneating_Hornet
@@ -2294,8 +2294,8 @@ spawns:
 
   17215947:
     template: Shrapnel
+    at:       [-512.816, 39.345, -366.324, 127]
     level:    [8, 10]
-    region:   w_459
 
   17215948:
     template: Goblin_Digger
@@ -2569,33 +2569,33 @@ spawns:
 
   17216039:
     template: Pyracmon
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [1, 1]
-    region:   e_551
 
   17216040:
     template: Wraith_Bat
+    at:       [-81.990, 1.699, 220.305, 101]
     level:    [1, 1]
-    region:   e_552
 
   17216041:
     template: Wraith_Bat
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [1, 1]
-    region:   c_553
 
   17216042:
     template: Wraith_Bat
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [1, 1]
-    region:   e_554
 
   17216043:
     template: Wraith_Bat
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [1, 1]
-    region:   e_552
 
   17216044:
     template: Wraith_Bat
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [1, 1]
-    region:   n_556
 
   17216045:
     template: Wraith_Bat
@@ -2604,8 +2604,8 @@ spawns:
 
   17216046:
     template: Wraith_Bat
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [1, 1]
-    region:   ne_558
 
   17216047:
     template: Wraith_Bat
@@ -2614,13 +2614,13 @@ spawns:
 
   17216048:
     template: Wraith_Bat
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [1, 1]
-    region:   n_560
 
   17216049:
     template: Wraith_Bat
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [1, 1]
-    region:   n_561
 
   17216050:
     template: Astral_Box
@@ -2954,8 +2954,8 @@ spawns:
 
   17216116:
     template: She-Slime
+    at:       [380.484, -0.541, -251.435, 78]
     level:    [0, 0]
-    region:   n_628
 
   17216117:
     template: She-Slime

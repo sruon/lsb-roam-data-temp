@@ -229,13 +229,13 @@ spawns:
 
   16986158:
     template: Fomor_Thief
+    at:       [-122.000, -26.000, 379.000, 127]
     level:    [63, 65]
-    region:   n_46
 
   16986159:
     template: Fomor_Paladin
     level:    [63, 65]
-    region:   n_46
+    region:   n_47
 
   16986160:
     template: Fomor_Thief
@@ -629,8 +629,8 @@ spawns:
 
   16986238:
     template: Aht_Urhgan_Attercop
+    at:       [-59.000, -17.000, -425.000, 127]
     level:    [66, 67]
-    region:   s_125
 
   16986239:
     template: Puk
@@ -839,8 +839,8 @@ spawns:
 
   16986280:
     template: Defoliate_Treant
+    at:       [-297.000, -25.000, 500.000, 127]
     level:    [71, 73]
-    region:   n_168
 
   16986281:
     template: Defoliate_Treant
@@ -1094,13 +1094,13 @@ spawns:
 
   16986331:
     template: Wajaom_Tiger
+    at:       [413.000, -26.000, 20.000, 127]
     level:    [67, 68]
-    region:   w_219
 
   16986332:
     template: Wajaom_Tiger
+    at:       [376.000, -18.000, -22.000, 127]
     level:    [67, 68]
-    region:   w_219
 
   16986333:
     template: Lesser_Colibri
@@ -1234,8 +1234,8 @@ spawns:
 
   16986359:
     template: Soldier_Pephredo
+    at:       [-688.000, -7.000, -156.000, 127]
     level:    [64, 66]
-    region:   w_247
 
   16986360:
     template: Worker_Pephredo
@@ -2434,8 +2434,8 @@ spawns:
 
   16986599:
     template: Troll_Destroyer
+    at:       [-1.000, 0.000, 0.000, 205]
     level:    [119, 119]
-    region:   e_487
 
   16986600:
     template: Troll_Destroyer

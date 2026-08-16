@@ -254,13 +254,13 @@ spawns:
 
   17571891:
     template: Black_Slime
+    at:       [0.000, 0.000, 0.000, 127]
     level:    [23, 25]
-    region:   nw_51
 
   17571892:
     template: Black_Slime
+    at:       [0.000, 0.000, 0.000, 127]
     level:    [23, 25]
-    region:   nw_51
 
   17571893:
     template: Ghoul
@@ -1529,8 +1529,8 @@ spawns:
 
   17572146:
     template: Bomb_King
+    at:       [549.000, -1.000, 769.000, 4]
     level:    [16, 18]
-    region:   ne_306
 
   17572147:
     template: Doppelganger_Gog

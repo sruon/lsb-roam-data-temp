@@ -29,8 +29,8 @@ spawns:
 
   17436678:
     template: Dark_Elemental
+    at:       [299.000, -16.000, -20.000, 127]
     level:    [48, 49]
-    region:   e_6
 
   17436679:
     template: Ice_Elemental
@@ -54,8 +54,8 @@ spawns:
 
   17436683:
     template: Dark_Elemental
+    at:       [292.259, -20.517, 61.493, 5]
     level:    [48, 49]
-    region:   e_11
 
   17436684:
     template: Ice_Elemental
@@ -144,8 +144,8 @@ spawns:
 
   17436701:
     template: Demon_Pawn
+    at:       [181.241, -24.539, -35.040, 63]
     level:    [50, 52]
-    region:   e_29
 
   17436702:
     template: Demon_Pawn
@@ -504,8 +504,8 @@ spawns:
 
   17436773:
     template: Evil_Eye
+    at:       [48.573, -24.500, 21.315, 127]
     level:    [46, 48]
-    region:   c_101
 
   17436774:
     template: Goblin_Poacher
@@ -779,18 +779,18 @@ spawns:
 
   17436828:
     template: Demon_Pawn
+    at:       [-129.202, -38.469, 12.499, 64]
     level:    [50, 52]
-    region:   w_156
 
   17436829:
     template: Demon_Pawn
+    at:       [-128.977, -38.467, 17.266, 127]
     level:    [50, 52]
-    region:   w_156
 
   17436830:
     template: Demon_Wizard
+    at:       [-128.762, -38.462, 29.008, 63]
     level:    [50, 52]
-    region:   w_156
 
   17436831:
     template: Morbid_Eye
@@ -844,18 +844,18 @@ spawns:
 
   17436841:
     template: Morbid_Eye
+    at:       [-59.977, -3.968, 156.549, 63]
     level:    [54, 55]
-    region:   nw_168
 
   17436842:
     template: Morbid_Eye
+    at:       [-59.000, -4.000, -112.000, 127]
     level:    [54, 55]
-    region:   sw_170
 
   17436843:
     template: Morbid_Eye
+    at:       [-60.570, -11.150, -98.882, 127]
     level:    [54, 55]
-    region:   sw_170
 
   17436844:
     template: Demon_Commander
@@ -1144,28 +1144,28 @@ spawns:
 
   17436901:
     template: Ahriman
+    at:       [40.136, -8.525, 140.683, 127]
     level:    [63, 65]
-    region:   n_229
 
   17436902:
     template: Ahriman
+    at:       [35.265, -8.522, -98.959, 0]
     level:    [63, 65]
-    region:   s_230
 
   17436903:
     template: Ahriman
+    at:       [-156.114, -8.527, 141.314, 0]
     level:    [63, 65]
-    region:   nw_231
 
   17436904:
     template: Ahriman
+    at:       [-145.473, -8.502, -98.465, 127]
     level:    [63, 65]
-    region:   sw_232
 
   17436905:
     template: Ahriman
+    at:       [-19.288, -4.509, 91.330, 127]
     level:    [63, 65]
-    region:   n_233
 
   17436906:
     template: Ahriman
@@ -1179,8 +1179,8 @@ spawns:
 
   17436908:
     template: Ahriman
+    at:       [-100.000, -4.526, -41.000, 91]
     level:    [63, 65]
-    region:   sw_236
 
   17436909:
     template: Dread_Demon

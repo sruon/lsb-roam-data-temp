@@ -1205,7 +1205,7 @@ spawns:
   17363185:
     template: Copper_Beetle
     level:    [9, 12]
-    region:   ne_241
+    region:   ne_239
 
   17363186:
     template: Veteran_Quadav
@@ -1299,8 +1299,8 @@ spawns:
 
   17363204:
     template: Onyx_Quadav
+    at:       [141.660, -32.301, 105.150, 127]
     level:    [12, 15]
-    region:   c_260
 
   17363205:
     template: Veteran_Quadav
@@ -1679,8 +1679,8 @@ spawns:
 
   17363280:
     template: Veteran_Quadav
+    at:       [48.019, -32.077, 59.795, 127]
     level:    [14, 18]
-    region:   c_336
 
   17363281:
     template: Greater_Quadav

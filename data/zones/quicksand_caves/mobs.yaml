@@ -34,8 +34,8 @@ spawns:
 
   17629191:
     template: Sand_Spider
+    at:       [939.385, -8.785, -302.224, 127]
     level:    [51, 55]
-    region:   e_7
 
   17629192:
     template: Sand_Spider
@@ -59,8 +59,8 @@ spawns:
 
   17629196:
     template: Sand_Spider
+    at:       [858.844, -8.244, -355.697, 127]
     level:    [51, 55]
-    region:   se_12
 
   17629197:
     template: Sand_Spider
@@ -109,8 +109,8 @@ spawns:
 
   17629206:
     template: Sand_Eater
+    at:       [828.146, -5.599, -458.059, 123]
     level:    [51, 54]
-    region:   se_22
 
   17629207:
     template: Sand_Eater
@@ -309,8 +309,8 @@ spawns:
 
   17629246:
     template: Sand_Eater
+    at:       [674.982, 2.683, -577.115, 127]
     level:    [52, 55]
-    region:   se_62
 
   17629247:
     template: Sand_Spider
@@ -544,8 +544,8 @@ spawns:
 
   17629293:
     template: Sand_Eater
+    at:       [815.635, 2.774, -729.980, 127]
     level:    [52, 55]
-    region:   se_109
 
   17629294:
     template: Helm_Beetle
@@ -589,8 +589,8 @@ spawns:
 
   17629302:
     template: Helm_Beetle
+    at:       [659.372, -16.582, -798.875, 127]
     level:    [51, 54]
-    region:   se_118
 
   17629303:
     template: Antican_Hastatus
@@ -729,8 +729,8 @@ spawns:
 
   17629330:
     template: Helm_Beetle
+    at:       [458.348, -15.786, -759.040, 127]
     level:    [51, 54]
-    region:   se_146
 
   17629331:
     template: Helm_Beetle
@@ -864,13 +864,13 @@ spawns:
 
   17629357:
     template: Helm_Beetle
+    at:       [128.943, -3.264, -139.320, 127]
     level:    [55, 58]
-    region:   c_173
 
   17629358:
     template: Helm_Beetle
     level:    [55, 58]
-    region:   c_173
+    region:   c_174
 
   17629359:
     template: Antican_Hastatus
@@ -1014,8 +1014,8 @@ spawns:
 
   17629387:
     template: Sand_Lizard
+    at:       [34.189, -0.670, -18.746, 127]
     level:    [56, 59]
-    region:   c_203
 
   17629388:
     template: Antican_Hastatus
@@ -1119,8 +1119,8 @@ spawns:
 
   17629408:
     template: Sand_Lizard
+    at:       [-36.531, -0.409, -60.063, 126]
     level:    [56, 59]
-    region:   c_224
 
   17629409:
     template: Antican_Hastatus
@@ -1164,8 +1164,8 @@ spawns:
 
   17629417:
     template: Helm_Beetle
+    at:       [36.273, -0.240, -178.437, 127]
     level:    [55, 58]
-    region:   c_233
 
   17629418:
     template: Antican_Hastatus
@@ -1594,8 +1594,8 @@ spawns:
 
   17629503:
     template: Sand_Lizard
+    at:       [-563.592, -0.596, -420.432, 127]
     level:    [56, 59]
-    region:   sw_319
 
   17629504:
     template: Antican_Antesignanus
@@ -1949,8 +1949,8 @@ spawns:
 
   17629574:
     template: Sand_Tarantula
+    at:       [-356.499, -0.274, 822.123, 127]
     level:    [65, 68]
-    region:   nw_390
 
   17629575:
     template: Antican_Triarius
@@ -2064,8 +2064,8 @@ spawns:
 
   17629597:
     template: Sand_Tarantula
+    at:       [-420.850, -0.237, 720.530, 127]
     level:    [65, 68]
-    region:   nw_413
 
   17629598:
     template: Sand_Tarantula
@@ -2124,8 +2124,8 @@ spawns:
 
   17629609:
     template: Sand_Tarantula
+    at:       [-321.438, -0.196, 659.428, 108]
     level:    [65, 68]
-    region:   n_425
 
   17629610:
     template: Sand_Tarantula
@@ -2209,8 +2209,8 @@ spawns:
 
   17629626:
     template: Spelunking_Sabotender
+    at:       [-179.558, 0.612, 350.955, 66]
     level:    [65, 68]
-    region:   n_442
 
   17629627:
     template: Antican_Triarius
@@ -2274,13 +2274,13 @@ spawns:
 
   17629639:
     template: Antican_Praetor
+    at:       [-298.904, -2.441, 377.605, 127]
     level:    [72, 74]
-    region:   n_455
 
   17629640:
     template: Antican_Legatus
+    at:       [-297.699, -2.414, 384.209, 47]
     level:    [72, 74]
-    region:   n_455
 
   17629641:
     template: Antican_Consul

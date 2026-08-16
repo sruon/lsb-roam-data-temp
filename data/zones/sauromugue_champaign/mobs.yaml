@@ -309,8 +309,8 @@ spawns:
 
   17268798:
     template: Wight
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [26, 28]
-    region:   e_62
 
   17268799:
     template: Earth_Elemental
@@ -524,8 +524,8 @@ spawns:
 
   17268841:
     template: Wight
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [29, 34]
-    region:   ne_105
 
   17268842:
     template: Ignis_Fatuus
@@ -639,13 +639,13 @@ spawns:
 
   17268864:
     template: Wight
+    at:       [252.797, 39.034, 353.467, 127]
     level:    [28, 33]
-    region:   ne_128
 
   17268865:
     template: Wight
+    at:       [228.611, 39.968, 337.443, 34]
     level:    [28, 33]
-    region:   n_129
 
   17268866:
     template: Thunder_Elemental
@@ -1009,8 +1009,8 @@ spawns:
 
   17268938:
     template: Wight
+    at:       [207.077, 33.766, 259.038, 127]
     level:    [28, 34]
-    region:   n_202
 
   17268939:
     template: Wight
@@ -1174,13 +1174,13 @@ spawns:
 
   17268971:
     template: Wight
+    at:       [79.240, 22.363, 169.648, 44]
     level:    [28, 34]
-    region:   w_235
 
   17268972:
     template: Wight
+    at:       [149.057, 23.980, 214.744, 100]
     level:    [28, 34]
-    region:   c_236
 
   17268973:
     template: Ignis_Fatuus
@@ -1189,13 +1189,13 @@ spawns:
 
   17268974:
     template: Yagudo_Theologist
+    at:       [-62.696, 23.951, 178.630, 86]
     level:    [27, 28]
-    region:   c_238
 
   17268975:
     template: Yagudo_Oracle
+    at:       [-85.210, 24.178, 184.528, 126]
     level:    [32, 33]
-    region:   c_238
 
   17268976:
     template: Yagudos_Elemental
@@ -1204,13 +1204,13 @@ spawns:
 
   17268977:
     template: Yagudo_Priest
+    at:       [-59.000, 23.000, 183.000, 127]
     level:    [27, 28]
-    region:   c_238
 
   17268978:
     template: Yagudo_Interrogator
+    at:       [-65.633, 23.781, 180.680, 127]
     level:    [32, 33]
-    region:   c_238
 
   17268979:
     template: Sauromugue_Skink
@@ -1584,8 +1584,8 @@ spawns:
 
   17269053:
     template: Thunder_Elemental
+    at:       [92.631, -12.360, -306.195, 61]
     level:    [38, 40]
-    region:   s_317
 
   17269054:
     template: Goblin_Pathfinder

@@ -34,18 +34,18 @@ spawns:
 
   17580039:
     template: Smothered_Schmidt
+    at:       [202.000, -59.000, -98.000, 127]
     level:    [36, 38]
-    region:   se_7
 
   17580040:
     template: Crushed_Krause
+    at:       [167.000, -39.000, -18.000, 127]
     level:    [37, 38]
-    region:   se_8
 
   17580041:
     template: Pulverized_Pfeffer
+    at:       [-124.000, -59.000, -101.000, 127]
     level:    [36, 38]
-    region:   sw_9
 
   17580042:
     template: Burned_Bergmann
@@ -59,8 +59,8 @@ spawns:
 
   17580044:
     template: Asphyxiated_Amsel
+    at:       [-85.000, -26.000, 431.000, 127]
     level:    [36, 38]
-    region:   nw_12
 
   17580045:
     template: Skeleton_Warrior
@@ -204,18 +204,18 @@ spawns:
 
   17580073:
     template: Ghoul
+    at:       [5.000, -54.000, -92.000, 127]
     level:    [20, 24]
-    region:   s_41
 
   17580074:
     template: Ghoul
+    at:       [15.834, -60.117, -96.727, 67]
     level:    [20, 24]
-    region:   s_41
 
   17580075:
     template: Ghoul
+    at:       [41.000, -54.000, -93.000, 55]
     level:    [24, 27]
-    region:   s_43
 
   17580076:
     template: Ghoul
@@ -345,7 +345,7 @@ spawns:
   17580101:
     template: Bandersnatch
     level:    [22, 24]
-    region:   se_69
+    region:   se_67
 
   17580102:
     template: Ghoul
@@ -524,13 +524,13 @@ spawns:
 
   17580137:
     template: Wendigo
+    at:       [18.865, -40.100, 106.229, 248]
     level:    [26, 30]
-    region:   c_105
 
   17580138:
     template: Wight
+    at:       [19.186, -40.599, 102.541, 57]
     level:    [29, 33]
-    region:   c_105
 
   17580139:
     template: Accursed_Soldier
@@ -1009,8 +1009,8 @@ spawns:
 
   17580234:
     template: Mauthe_Doog
+    at:       [-20.357, -39.895, 76.140, 196]
     level:    [28, 31]
-    region:   c_202
 
   17580235:
     template: Myconid
@@ -1020,17 +1020,17 @@ spawns:
   17580236:
     template: Myconid
     level:    [30, 32]
-    region:   w_204
+    region:   w_203
 
   17580237:
     template: Myconid
     level:    [30, 32]
-    region:   w_204
+    region:   w_203
 
   17580238:
     template: Myconid
     level:    [30, 32]
-    region:   w_204
+    region:   w_203
 
   17580239:
     template: Myconid
@@ -1069,8 +1069,8 @@ spawns:
 
   17580246:
     template: Thunder_Elemental
+    at:       [-149.308, 1.016, 307.837, 86]
     level:    [33, 36]
-    region:   nw_214
 
   17580247:
     template: Earth_Elemental

@@ -334,8 +334,8 @@ spawns:
 
   17428547:
     template: Temple_Opo-opo
+    at:       [34.000, -0.500, -140.000, 96]
     level:    [51, 54]
-    region:   s_67
 
   17428548:
     template: Temple_Opo-opo
@@ -394,8 +394,8 @@ spawns:
 
   17428559:
     template: Tonberry_Harrier
+    at:       [128.000, -0.060, -110.000, 127]
     level:    [52, 55]
-    region:   s_79
 
   17428560:
     template: Tonberrys_Elemental
@@ -404,18 +404,18 @@ spawns:
 
   17428561:
     template: Tonberry_Cutter
+    at:       [113.322, -0.068, -128.806, 23]
     level:    [52, 55]
-    region:   s_81
 
   17428562:
     template: Tonberry_Harrier
+    at:       [90.122, 0.000, -127.217, 72]
     level:    [52, 55]
-    region:   s_82
 
   17428563:
     template: Tonberrys_Elemental
+    at:       [1.000, 1.000, 1.000, 0]
     level:    [43, 55]
-    region:   s_82
 
   17428564:
     template: Rumble_Crawler
@@ -539,13 +539,13 @@ spawns:
 
   17428588:
     template: Tonberry_Stalker
+    at:       [-126.492, 0.000, 29.483, 127]
     level:    [54, 58]
-    region:   w_108
 
   17428589:
     template: Tonberry_Harrier
+    at:       [-126.143, 0.000, 6.188, 4]
     level:    [54, 58]
-    region:   w_109
 
   17428590:
     template: Tonberrys_Elemental
@@ -554,13 +554,13 @@ spawns:
 
   17428591:
     template: Tonberry_Cutter
+    at:       [-148.412, 0.000, 32.412, 11]
     level:    [54, 58]
-    region:   w_111
 
   17428592:
     template: Tonberry_Stalker
+    at:       [-150.447, 0.000, 6.989, 100]
     level:    [54, 58]
-    region:   w_112
 
   17428593:
     template: Wespe
@@ -719,13 +719,13 @@ spawns:
 
   17428624:
     template: Tonberry_Stalker
+    at:       [-134.905, 0.000, -49.984, 127]
     level:    [55, 59]
-    region:   sw_144
 
   17428625:
     template: Tonberry_Harrier
+    at:       [-130.000, -0.244, -72.000, 127]
     level:    [55, 59]
-    region:   sw_145
 
   17428626:
     template: Tonberrys_Elemental
@@ -734,13 +734,13 @@ spawns:
 
   17428627:
     template: Tonberry_Cutter
+    at:       [-150.859, 0.000, -49.856, 127]
     level:    [55, 59]
-    region:   sw_147
 
   17428628:
     template: Tonberry_Stalker
+    at:       [-151.187, 0.000, -69.264, 127]
     level:    [55, 59]
-    region:   sw_148
 
   17428629:
     template: Tonberry_Stalker
@@ -764,18 +764,18 @@ spawns:
 
   17428633:
     template: Tonberry_Stalker
+    at:       [-144.986, -1.112, -100.396, 127]
     level:    [56, 59]
-    region:   sw_153
 
   17428634:
     template: Tonberry_Harrier
+    at:       [-128.450, -0.001, -97.229, 127]
     level:    [56, 59]
-    region:   sw_153
 
   17428635:
     template: Tonberrys_Elemental
     level:    [43, 55]
-    region:   sw_153
+    region:   sw_155
 
   17428636:
     template: Tonberry_Cutter
@@ -944,8 +944,8 @@ spawns:
 
   17428669:
     template: Tonberry_Stalker
+    at:       [-237.788, -2.000, 8.000, 27]
     level:    [56, 59]
-    region:   sw_189
 
   17428670:
     template: Tonberry_Maledictor
@@ -1099,8 +1099,8 @@ spawns:
 
   17428700:
     template: Fire_Elemental
+    at:       [-24.660, -17.000, -140.670, 1]
     level:    [65, 68]
-    region:   sw_220
 
   17428701:
     template: Hover_Tank
@@ -1144,23 +1144,23 @@ spawns:
 
   17428709:
     template: Fire_Elemental
+    at:       [-97.866, -9.001, -88.045, 52]
     level:    [65, 68]
-    region:   sw_229
 
   17428710:
     template: Hover_Tank
+    at:       [-11.770, -17.059, -149.142, 127]
     level:    [64, 68]
-    region:   s_230
 
   17428711:
     template: Iron_Maiden
+    at:       [-28.224, -17.000, -149.309, 127]
     level:    [64, 68]
-    region:   sw_231
 
   17428712:
     template: Iron_Maiden
+    at:       [-69.000, -17.000, -152.000, 2]
     level:    [64, 68]
-    region:   sw_232
 
   17428713:
     template: Hover_Tank
@@ -1184,8 +1184,8 @@ spawns:
 
   17428717:
     template: Fire_Elemental
+    at:       [-21.246, -25.307, -2.998, 48]
     level:    [65, 68]
-    region:   s_237
 
   17428718:
     template: Tonberry_Maledictor
@@ -1239,8 +1239,8 @@ spawns:
 
   17428728:
     template: Torama
+    at:       [221.536, 0.000, 41.607, 43]
     level:    [55, 58]
-    region:   e_248
 
   17428729:
     template: Tonberry_Stalker
@@ -1324,13 +1324,13 @@ spawns:
 
   17428745:
     template: Tonberry_Stalker
+    at:       [272.000, -0.013, 90.000, 56]
     level:    [56, 59]
-    region:   e_265
 
   17428746:
     template: Tonberry_Cutter
+    at:       [268.877, 0.000, 112.780, 37]
     level:    [56, 59]
-    region:   e_266
 
   17428747:
     template: Tonberry_Pursuer
@@ -1589,23 +1589,23 @@ spawns:
 
   17428798:
     template: Tonberry_Pursuer
+    at:       [372.551, 0.000, 268.189, 127]
     level:    [61, 64]
-    region:   ne_318
 
   17428799:
     template: Tonberry_Maledictor
+    at:       [372.693, 0.000, 248.883, 126]
     level:    [61, 64]
-    region:   ne_319
 
   17428800:
     template: Tonberry_Stabber
+    at:       [392.465, 0.000, 270.998, 127]
     level:    [61, 64]
-    region:   ne_320
 
   17428801:
     template: Tonberry_Dismayer
+    at:       [388.315, 0.002, 248.494, 127]
     level:    [61, 64]
-    region:   ne_321
 
   17428802:
     template: Tonberrys_Elemental

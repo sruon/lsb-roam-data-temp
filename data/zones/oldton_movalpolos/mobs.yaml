@@ -74,8 +74,8 @@ spawns:
 
   16822287:
     template: Moblin_Witchman
+    at:       [-301.408, -0.474, 289.523, 189]
     level:    [33, 35]
-    region:   nw_14
 
   16822288:
     template: Dark_Bats
@@ -89,8 +89,8 @@ spawns:
 
   16822290:
     template: Moblin_Ragman
+    at:       [-301.056, -0.072, 216.073, 70]
     level:    [33, 35]
-    region:   nw_17
 
   16822291:
     template: Moblin_Chapman
@@ -134,13 +134,13 @@ spawns:
 
   16822299:
     template: Goblin_Hammerman
+    at:       [-299.349, -0.475, 277.249, 61]
     level:    [33, 35]
-    region:   nw_27
 
   16822300:
     template: Dark_Bats
+    at:       [-300.373, -0.589, 203.997, 66]
     level:    [31, 33]
-    region:   nw_27
 
   16822301:
     template: Moblin_Chapman
@@ -284,13 +284,13 @@ spawns:
 
   16822329:
     template: Stirge
+    at:       [-178.526, 7.535, 49.965, 203]
     level:    [33, 35]
-    region:   w_57
 
   16822330:
     template: Moblin_Ragman
+    at:       [-175.243, 7.529, 53.367, 222]
     level:    [33, 35]
-    region:   w_57
 
   16822331:
     template: Ancient_Bomb
@@ -499,8 +499,8 @@ spawns:
 
   16822372:
     template: Moblin_Ragman
+    at:       [-213.007, 7.491, -295.843, 36]
     level:    [34, 36]
-    region:   sw_100
 
   16822373:
     template: Bugbear_Servingman
@@ -549,8 +549,8 @@ spawns:
 
   16822382:
     template: Goblin_Hammerman
+    at:       [-132.058, 15.488, -59.485, 245]
     level:    [35, 36]
-    region:   s_110
 
   16822383:
     template: Moblin_Pickman
@@ -559,8 +559,8 @@ spawns:
 
   16822384:
     template: Moblin_Ragman
+    at:       [-61.705, 15.155, -111.188, 174]
     level:    [35, 36]
-    region:   s_112
 
   16822385:
     template: Goblin_Hammerman
@@ -579,8 +579,8 @@ spawns:
 
   16822388:
     template: Moblin_Witchman
+    at:       [-72.516, 22.170, -116.967, 239]
     level:    [35, 36]
-    region:   s_116
 
   16822389:
     template: Goblin_Gutterman
@@ -604,8 +604,8 @@ spawns:
 
   16822393:
     template: Moblin_Ragman
+    at:       [-60.763, 15.205, -111.960, 173]
     level:    [35, 36]
-    region:   s_112
 
   16822394:
     template: Goblin_Gutterman
@@ -624,8 +624,8 @@ spawns:
 
   16822397:
     template: Earth_Elemental
+    at:       [-24.347, 11.525, -136.066, 228]
     level:    [45, 50]
-    region:   s_125
 
   16822398:
     template: Ancient_Bomb
@@ -644,13 +644,13 @@ spawns:
 
   16822401:
     template: Goblin_Tollman
+    at:       [-19.952, 7.400, 99.856, 3]
     level:    [42, 43]
-    region:   c_129
 
   16822402:
     template: Goblins_Bat
+    at:       [-19.589, 7.400, 100.273, 130]
     level:    [37, 38]
-    region:   c_129
 
   16822403:
     template: Bugbear_Bondman
@@ -724,13 +724,13 @@ spawns:
 
   16822417:
     template: Dark_Bats
+    at:       [18.698, 7.570, 4.266, 190]
     level:    [34, 35]
-    region:   e_145
 
   16822418:
     template: Ancient_Bomb
+    at:       [18.736, 7.567, 4.048, 191]
     level:    [45, 45]
-    region:   e_145
 
   16822419:
     template: Goblin_Doorman
@@ -859,13 +859,13 @@ spawns:
 
   16822444:
     template: Moblin_Gasman
+    at:       [158.240, 11.400, -58.642, 147]
     level:    [43, 44]
-    region:   se_172
 
   16822445:
     template: Moblin_Coalman
+    at:       [164.045, 11.399, -58.198, 231]
     level:    [43, 44]
-    region:   se_172
 
   16822446:
     template: Moblin_Pikeman

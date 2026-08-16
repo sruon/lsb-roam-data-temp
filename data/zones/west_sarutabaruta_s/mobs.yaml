@@ -1729,8 +1729,8 @@ spawns:
 
   17166682:
     template: Goblin_Mine
+    at:       [299.674, -20.336, 352.726, 88]
     level:    [52, 53]
-    region:   e_346
 
   17166683:
     template: Goblin_Skirmisher
@@ -1739,8 +1739,8 @@ spawns:
 
   17166684:
     template: Goblin_Mine
+    at:       [236.593, -20.846, 449.540, 32]
     level:    [52, 53]
-    region:   ne_348
 
   17166685:
     template: Goblin_Skirmisher
@@ -1749,8 +1749,8 @@ spawns:
 
   17166686:
     template: Goblin_Mine
+    at:       [60.907, -0.665, -287.424, 65]
     level:    [52, 53]
-    region:   s_350
 
   17166687:
     template: Goblin_Skirmisher
@@ -1759,8 +1759,8 @@ spawns:
 
   17166688:
     template: Goblin_Mine
+    at:       [-148.755, -5.702, -222.434, 228]
     level:    [52, 53]
-    region:   s_352
 
   17166689:
     template: Pixie
@@ -1814,13 +1814,13 @@ spawns:
 
   17166699:
     template: Poroggo_Gent
+    at:       [201.346, -2.388, -61.025, 205]
     level:    [56, 67]
-    region:   s_363
 
   17166700:
     template: Poroggo_Gent
+    at:       [88.710, -0.605, -209.785, 145]
     level:    [56, 67]
-    region:   s_363
 
   17166701:
     template: Toad
@@ -1854,8 +1854,8 @@ spawns:
 
   17166707:
     template: Poroggo_Gent
+    at:       [-342.743, 2.958, -400.488, 128]
     level:    [56, 67]
-    region:   sw_371
 
   17166708:
     template: Toad
@@ -1889,8 +1889,8 @@ spawns:
 
   17166714:
     template: Poroggo_Gent
+    at:       [-248.989, -16.429, 642.367, 1]
     level:    [56, 67]
-    region:   nw_378
 
   17166715:
     template: Toad
@@ -1954,18 +1954,18 @@ spawns:
 
   17166727:
     template: Yagudo_Transporter
+    at:       [53.211, -21.148, 483.899, 100]
     level:    [60, 60]
-    region:   c_391
 
   17166728:
     template: Yagudo_Guard
+    at:       [48.013, -20.672, 479.117, 100]
     level:    [60, 60]
-    region:   c_392
 
   17166729:
     template: Yagudo_Guard
+    at:       [43.901, -20.654, 472.051, 83]
     level:    [60, 60]
-    region:   c_392
 
   17166730:
     template: Dark_Ixion
@@ -2274,58 +2274,58 @@ spawns:
 
   17166791:
     template: Gariri
+    at:       [14.064, -15.135, 313.907, 0]
     level:    [70, 70]
-    region:   c_455
 
   17166792:
     template: Flame_Giant
+    at:       [-7.526, -13.573, 296.826, 228]
     level:    [70, 70]
-    region:   c_456
 
   17166793:
     template: Scorpion_Caster
+    at:       [18.633, -15.220, 293.997, 193]
     level:    [70, 70]
-    region:   c_457
 
   17166794:
     template: Scorpion_Caster
+    at:       [-19.314, -13.281, 318.760, 203]
     level:    [70, 70]
-    region:   c_457
 
   17166795:
     template: Scorpion_Caster
+    at:       [-17.497, -13.403, 316.309, 99]
     level:    [70, 70]
-    region:   c_457
 
   17166796:
     template: Scorpion_Caster
+    at:       [-3.865, -12.867, 329.917, 99]
     level:    [70, 70]
-    region:   c_457
 
   17166797:
     template: Scorpion_Caster
+    at:       [7.445, -12.948, 285.282, 212]
     level:    [70, 70]
-    region:   c_461
 
   17166798:
     template: Scorpion_Caster
+    at:       [-22.046, -12.082, 328.917, 0]
     level:    [70, 70]
-    region:   c_462
 
   17166799:
     template: Scorpion_Caster
+    at:       [12.894, -15.170, 327.029, 23]
     level:    [70, 70]
-    region:   c_463
 
   17166800:
     template: Scorpion_Caster
+    at:       [-27.818, -12.373, 313.100, 25]
     level:    [70, 70]
-    region:   c_464
 
   17166801:
     template: Scorpion_Caster
+    at:       [11.378, -14.600, 326.158, 148]
     level:    [70, 70]
-    region:   c_465
 
   17166802:
     template: Zolku-Azolku
@@ -2379,8 +2379,8 @@ spawns:
 
   17166812:
     template: Lhu_Mhakaracca
+    at:       [-26.190, -12.170, 314.638, 125]
     level:    [70, 70]
-    region:   n_476
 
   17166813:
     template: Pya
@@ -2394,43 +2394,43 @@ spawns:
 
   17166815:
     template: Python_Mercenary
+    at:       [-28.708, -12.691, 311.406, 71]
     level:    [70, 70]
-    region:   n_479
 
   17166816:
     template: Python_Mercenary
+    at:       [-28.328, -12.611, 311.314, 77]
     level:    [70, 70]
-    region:   n_480
 
   17166817:
     template: Python_Mercenary
+    at:       [-30.716, -13.000, 313.019, 232]
     level:    [70, 70]
-    region:   n_481
 
   17166818:
     template: Python_Mercenary
+    at:       [-28.189, -12.632, 311.045, 81]
     level:    [70, 70]
-    region:   n_482
 
   17166819:
     template: Python_Mercenary
+    at:       [-27.335, -12.432, 309.999, 106]
     level:    [70, 70]
-    region:   n_483
 
   17166820:
     template: Python_Mercenary
+    at:       [-26.432, -12.702, 314.782, 122]
     level:    [70, 70]
-    region:   n_484
 
   17166821:
     template: Python_Mercenary
+    at:       [-30.022, -12.896, 312.506, 54]
     level:    [70, 70]
-    region:   n_485
 
   17166822:
     template: Python_Mercenary
+    at:       [-29.342, -12.779, 314.198, 242]
     level:    [70, 70]
-    region:   n_486
 
   17166823:
     template: Python_Mercenary
@@ -2489,73 +2489,73 @@ spawns:
 
   17166834:
     template: Zonpa-Zippa
+    at:       [23.874, -16.492, 309.466, 164]
     level:    [70, 70]
-    region:   c_498
 
   17166835:
     template: Ace_of_Cups
+    at:       [-4.283, -13.547, 296.752, 204]
     level:    [70, 70]
-    region:   n_499
 
   17166836:
     template: Ace_of_Batons
+    at:       [-4.278, -13.516, 296.270, 203]
     level:    [70, 70]
-    region:   n_499
 
   17166837:
     template: Ace_of_Swords
+    at:       [-4.090, -13.531, 296.498, 202]
     level:    [70, 70]
-    region:   n_501
 
   17166838:
     template: Ace_of_Coins
+    at:       [-4.879, -13.530, 296.489, 209]
     level:    [70, 70]
-    region:   n_502
 
   17166839:
     template: Capricornian_Caster
+    at:       [7.470, -12.933, 317.144, 144]
     level:    [70, 70]
-    region:   c_503
 
   17166840:
     template: Capricornian_Caster
+    at:       [6.004, -12.952, 286.180, 28]
     level:    [70, 70]
-    region:   c_504
 
   17166841:
     template: Capricornian_Caster
+    at:       [8.369, -13.829, 296.269, 87]
     level:    [70, 70]
-    region:   c_505
 
   17166842:
     template: Capricornian_Caster
+    at:       [-20.187, -12.802, 315.914, 33]
     level:    [70, 70]
-    region:   c_506
 
   17166843:
     template: Capricornian_Caster
+    at:       [-18.051, -12.741, 318.784, 44]
     level:    [70, 70]
-    region:   e_507
 
   17166844:
     template: Capricornian_Caster
+    at:       [-24.962, -12.502, 320.301, 102]
     level:    [70, 70]
-    region:   e_508
 
   17166845:
     template: Capricornian_Caster
+    at:       [2.266, -13.066, 329.190, 155]
     level:    [70, 70]
-    region:   e_509
 
   17166846:
     template: Capricornian_Caster
+    at:       [-15.631, -13.259, 299.696, 49]
     level:    [70, 70]
-    region:   c_506
 
   17166847:
     template: Capricornian_Caster
+    at:       [-17.553, -12.851, 322.917, 143]
     level:    [70, 70]
-    region:   e_511
 
   17166848:
     template: Piscean_Caster
@@ -2749,8 +2749,8 @@ spawns:
 
   17166886:
     template: Federation_Dispenser
+    at:       [-1.674, -12.817, 332.078, 22]
     level:    [70, 70]
-    region:   sw_550
 
   17166887:
     template: Federation_Dispenser

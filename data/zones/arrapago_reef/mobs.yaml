@@ -34,18 +34,18 @@ spawns:
 
   16998407:
     template: Reserve_Draugar
+    at:       [453.738, -8.966, 66.754, 94]
     level:    [72, 73]
-    region:   e_7
 
   16998408:
     template: Reserve_Draugar
+    at:       [478.340, -9.761, 81.387, 62]
     level:    [72, 73]
-    region:   e_8
 
   16998409:
     template: Merrow_Chantress
+    at:       [464.402, -7.000, 70.480, 221]
     level:    [73, 75]
-    region:   e_9
 
   16998410:
     template: Arrapago_Apkallu
@@ -70,12 +70,12 @@ spawns:
   16998414:
     template: Arrapago_Apkallu
     level:    [70, 72]
-    region:   e_14
+    region:   e_13
 
   16998415:
     template: Arrapago_Apkallu
     level:    [70, 72]
-    region:   e_14
+    region:   e_13
 
   16998416:
     template: Arrapago_Apkallu
@@ -104,13 +104,13 @@ spawns:
 
   16998421:
     template: Lamia_Graverobber
+    at:       [578.524, -11.681, 92.020, 116]
     level:    [73, 75]
-    region:   e_21
 
   16998422:
     template: Reserve_Draugar
+    at:       [570.648, -9.900, 95.594, 140]
     level:    [72, 73]
-    region:   e_21
 
   16998423:
     template: Phasma
@@ -119,8 +119,8 @@ spawns:
 
   16998424:
     template: Reserve_Draugar
+    at:       [580.159, -15.931, 158.282, 192]
     level:    [72, 73]
-    region:   e_24
 
   16998425:
     template: Reserve_Draugar
@@ -149,8 +149,8 @@ spawns:
 
   16998430:
     template: Reserve_Draugar
+    at:       [488.244, -8.263, 219.296, 255]
     level:    [72, 73]
-    region:   ne_30
 
   16998431:
     template: Arrapago_Apkallu
@@ -279,8 +279,8 @@ spawns:
 
   16998456:
     template: Reserve_Draugar
+    at:       [342.927, -8.469, 72.756, 68]
     level:    [72, 73]
-    region:   e_56
 
   16998457:
     template: Draugars_Wyvern
@@ -454,23 +454,23 @@ spawns:
 
   16998491:
     template: Purgatory_Bat
+    at:       [59.817, -8.229, 120.056, 67]
     level:    [72, 73]
-    region:   c_91
 
   16998492:
     template: Purgatory_Bat
+    at:       [59.365, -8.243, 116.521, 191]
     level:    [72, 73]
-    region:   c_91
 
   16998493:
     template: Qutrub
+    at:       [-0.567, -13.298, 166.169, 64]
     level:    [73, 74]
-    region:   c_93
 
   16998494:
     template: Qutrub
+    at:       [-0.686, -13.313, 166.233, 64]
     level:    [73, 74]
-    region:   c_93
 
   16998495:
     template: Purgatory_Bat
@@ -819,8 +819,8 @@ spawns:
 
   16998564:
     template: Phasma
+    at:       [-225.228, -3.950, 120.541, 37]
     level:    [73, 74]
-    region:   w_164
 
   16998565:
     template: Jnun
@@ -889,8 +889,8 @@ spawns:
 
   16998578:
     template: Jnun
+    at:       [-369.107, -5.278, 88.784, 130]
     level:    [77, 78]
-    region:   w_178
 
   16998579:
     template: Merrow_Chantress
@@ -904,8 +904,8 @@ spawns:
 
   16998581:
     template: Fallen_Imperial_Wizard
+    at:       [-421.265, -6.882, 103.021, 92]
     level:    [72, 74]
-    region:   w_181
 
   16998582:
     template: Merrow_Kabukidancer
@@ -969,8 +969,8 @@ spawns:
 
   16998594:
     template: Jnun
+    at:       [-488.007, -5.158, 85.171, 35]
     level:    [77, 78]
-    region:   w_194
 
   16998595:
     template: Merrow_Icedancer
@@ -999,8 +999,8 @@ spawns:
 
   16998600:
     template: Merrow_Chantress
+    at:       [-579.072, -15.855, 205.624, 185]
     level:    [73, 75]
-    region:   w_200
 
   16998601:
     template: Fallen_Volunteer
@@ -1314,8 +1314,8 @@ spawns:
 
   16998663:
     template: Merrow_Bladedancer
+    at:       [203.712, -11.008, 280.946, 25]
     level:    [81, 83]
-    region:   n_263
 
   16998664:
     template: Ice_Elemental
@@ -1419,8 +1419,8 @@ spawns:
 
   16998684:
     template: Merrow_Wavedancer
+    at:       [399.311, -9.675, 409.513, 30]
     level:    [81, 83]
-    region:   ne_284
 
   16998685:
     template: Merrow_Songstress
@@ -1434,8 +1434,8 @@ spawns:
 
   16998687:
     template: Jnun
+    at:       [384.438, -5.386, 483.383, 180]
     level:    [79, 80]
-    region:   ne_287
 
   16998688:
     template: Jnun
@@ -1544,13 +1544,13 @@ spawns:
 
   16998709:
     template: Lamia_Idolater
+    at:       [552.397, -7.933, 461.480, 127]
     level:    [80, 82]
-    region:   ne_309
 
   16998710:
     template: Merrow_Typhoondancer
+    at:       [-472.506, -7.281, 203.831, 179]
     level:    [81, 83]
-    region:   w_310
 
   16998711:
     template: Merrow_Songstress
@@ -1639,13 +1639,13 @@ spawns:
 
   16998728:
     template: Emperor_Apkallu
+    at:       [-548.843, -5.359, 279.953, 194]
     level:    [81, 83]
-    region:   nw_328
 
   16998729:
     template: Emperor_Apkallu
+    at:       [-547.344, -5.553, 283.658, 233]
     level:    [81, 83]
-    region:   nw_328
 
   16998730:
     template: Emperor_Apkallu
@@ -1655,12 +1655,12 @@ spawns:
   16998731:
     template: Emperor_Apkallu
     level:    [81, 83]
-    region:   nw_331
+    region:   nw_330
 
   16998732:
     template: Emperor_Apkallu
     level:    [81, 83]
-    region:   nw_331
+    region:   nw_330
 
   16998733:
     template: Nix_Songstress
@@ -1779,23 +1779,23 @@ spawns:
 
   16998756:
     template: Dweomershell
+    at:       [-280.400, -4.974, 162.382, 230]
     level:    [88, 89]
-    region:   w_356
 
   16998757:
     template: Dweomershell
+    at:       [-303.700, -5.381, 198.623, 229]
     level:    [88, 89]
-    region:   w_356
 
   16998758:
     template: Dweomershell
+    at:       [-302.800, -3.700, 173.001, 137]
     level:    [88, 89]
-    region:   w_356
 
   16998759:
     template: Dweomershell
+    at:       [-289.000, -5.242, 166.268, 163]
     level:    [88, 90]
-    region:   w_356
 
   16998760:
     template: Dweomershell
@@ -1824,8 +1824,8 @@ spawns:
 
   16998765:
     template: Draugar_Servant
+    at:       [100.980, -10.576, -13.382, 187]
     level:    [79, 81]
-    region:   c_365
 
   16998766:
     template: Nix_Wavedancer
@@ -1834,8 +1834,8 @@ spawns:
 
   16998767:
     template: Nix_Bladedancer
+    at:       [-23.315, -17.245, -65.709, 59]
     level:    [81, 83]
-    region:   c_367
 
   16998768:
     template: Draugar_Servant
@@ -1909,8 +1909,8 @@ spawns:
 
   16998782:
     template: Dark_Elemental
+    at:       [-49.301, -4.160, -205.069, 33]
     level:    [80, 80]
-    region:   s_382
 
   16998783:
     template: Lamia_Idolater

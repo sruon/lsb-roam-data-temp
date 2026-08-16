@@ -74,13 +74,13 @@ spawns:
 
   17403919:
     template: Bark_Spider
+    at:       [299.610, 8.395, -83.037, 62]
     level:    [60, 63]
-    region:   e_15
 
   17403920:
     template: Bark_Spider
+    at:       [297.220, 8.540, -73.097, 185]
     level:    [60, 63]
-    region:   e_15
 
   17403921:
     template: Death_Cap
@@ -189,13 +189,13 @@ spawns:
 
   17403942:
     template: Bark_Spider
+    at:       [298.560, 8.567, -4.452, 78]
     level:    [60, 63]
-    region:   ne_38
 
   17403943:
     template: Bark_Spider
+    at:       [299.420, 8.636, 5.120, 183]
     level:    [60, 63]
-    region:   ne_38
 
   17403944:
     template: Bark_Spider
@@ -264,13 +264,13 @@ spawns:
 
   17403957:
     template: Bark_Spider
+    at:       [336.200, -3.536, 101.186, 55]
     level:    [60, 63]
-    region:   ne_53
 
   17403958:
     template: Bark_Spider
     level:    [60, 63]
-    region:   ne_53
+    region:   ne_54
 
   17403959:
     template: Bark_Spider
@@ -284,13 +284,13 @@ spawns:
 
   17403961:
     template: Bark_Spider
+    at:       [258.300, 5.516, 53.095, 87]
     level:    [60, 63]
-    region:   ne_57
 
   17403962:
     template: Bark_Spider
+    at:       [258.730, 5.567, 54.658, 220]
     level:    [60, 63]
-    region:   ne_57
 
   17403963:
     template: Bark_Spider
@@ -309,13 +309,13 @@ spawns:
 
   17403966:
     template: Bark_Spider
+    at:       [222.120, 8.521, -8.940, 210]
     level:    [60, 63]
-    region:   ne_62
 
   17403967:
     template: Bark_Spider
+    at:       [219.620, 8.220, 0.265, 90]
     level:    [60, 63]
-    region:   ne_62
 
   17403968:
     template: Mourioche
@@ -484,8 +484,8 @@ spawns:
 
   17404001:
     template: Water_Elemental
+    at:       [185.940, 6.115, -70.771, 225]
     level:    [69, 72]
-    region:   c_97
 
   17404002:
     template: Robber_Crab
@@ -619,13 +619,13 @@ spawns:
 
   17404028:
     template: Old_Goobbue
+    at:       [33.708, 8.771, 76.831, 174]
     level:    [65, 68]
-    region:   n_124
 
   17404029:
     template: Unut
+    at:       [104.340, 8.423, 81.217, 81]
     level:    [69, 71]
-    region:   n_125
 
   17404030:
     template: Moss_Eater
@@ -779,8 +779,8 @@ spawns:
 
   17404060:
     template: Moss_Eater
+    at:       [1.725, 8.846, 80.469, 127]
     level:    [62, 66]
-    region:   n_156
 
   17404061:
     template: Old_Goobbue
@@ -800,7 +800,7 @@ spawns:
   17404064:
     template: Water_Elemental
     level:    [69, 72]
-    region:   n_160
+    region:   n_158
 
   17404065:
     template: Robber_Crab
@@ -1309,33 +1309,33 @@ spawns:
 
   17404166:
     template: Robber_Crab
+    at:       [20.138, -8.412, 36.608, 65]
     level:    [62, 66]
-    region:   n_262
 
   17404167:
     template: Water_Elemental
+    at:       [20.970, -2.285, 47.504, 70]
     level:    [69, 72]
-    region:   n_262
 
   17404168:
     template: Robber_Crab
+    at:       [117.610, -7.271, -59.709, 252]
     level:    [62, 66]
-    region:   c_264
 
   17404169:
     template: Water_Elemental
+    at:       [126.486, -1.464, -58.665, 118]
     level:    [69, 72]
-    region:   c_264
 
   17404170:
     template: Steelshell
+    at:       [-85.800, -2.989, -58.632, 2]
     level:    [73, 76]
-    region:   w_266
 
   17404171:
     template: Water_Elemental
+    at:       [-76.350, -6.800, -59.633, 132]
     level:    [69, 72]
-    region:   w_267
 
   17404172:
     template: Skimmer
@@ -1355,7 +1355,7 @@ spawns:
   17404175:
     template: Processionaire
     level:    [72, 75]
-    region:   c_271
+    region:   c_270
 
   17404176:
     template: Processionaire
@@ -1414,8 +1414,8 @@ spawns:
 
   17404187:
     template: Thunder_Elemental
+    at:       [-60.110, 4.671, -265.850, 120]
     level:    [69, 72]
-    region:   sw_283
 
   17404188:
     template: Processionaire
@@ -1644,18 +1644,18 @@ spawns:
 
   17404233:
     template: Processionaire
+    at:       [-180.700, 8.558, -189.490, 82]
     level:    [72, 75]
-    region:   w_329
 
   17404234:
     template: Processionaire
+    at:       [-180.100, 8.481, -188.120, 211]
     level:    [72, 75]
-    region:   w_330
 
   17404235:
     template: Thunder_Elemental
+    at:       [-179.500, 8.442, -182.860, 83]
     level:    [71, 72]
-    region:   w_330
 
   17404236:
     template: Mourning_Crawler
@@ -1870,7 +1870,7 @@ spawns:
   17404278:
     template: Elder_Goobbue
     level:    [74, 77]
-    region:   sw_374
+    region:   sw_372
 
   17404279:
     template: Elder_Goobbue

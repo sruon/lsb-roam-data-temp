@@ -194,8 +194,8 @@ spawns:
 
   17117223:
     template: Carrion_Marabou
+    at:       [159.705, -32.547, 116.881, 255]
     level:    [36, 38]
-    region:   e_39
 
   17117224:
     template: Carrion_Marabou
@@ -384,8 +384,8 @@ spawns:
 
   17117261:
     template: Goblin_Mine
+    at:       [-239.339, -32.371, -7.225, 93]
     level:    [63, 63]
-    region:   c_77
 
   17117262:
     template: Goblin_Flagman
@@ -424,8 +424,8 @@ spawns:
 
   17117269:
     template: Goblin_Mine
+    at:       [-186.417, -32.933, 7.855, 217]
     level:    [63, 63]
-    region:   c_85
 
   17117270:
     template: Goblin_Guerrilla
@@ -494,8 +494,8 @@ spawns:
 
   17117283:
     template: Ignis_Djinn
+    at:       [62.455, -39.714, -107.523, 66]
     level:    [70, 72]
-    region:   c_99
 
   17117284:
     template: Ignis_Djinn
@@ -1149,13 +1149,13 @@ spawns:
 
   17117414:
     template: Gigas_Deckhand
+    at:       [-635.984, -53.878, -540.681, 0]
     level:    [78, 82]
-    region:   sw_230
 
   17117415:
     template: Gigas_Helmsman
+    at:       [-669.754, -46.635, -549.131, 227]
     level:    [78, 82]
-    region:   sw_231
 
   17117416:
     template: Gigass_Tiger
@@ -1554,8 +1554,8 @@ spawns:
 
   17117495:
     template: Goliath_Beetle
+    at:       [-364.967, -29.530, 272.044, 128]
     level:    [34, 36]
-    region:   nw_311
 
   17117496:
     template: Goliath_Beetle
@@ -1564,13 +1564,13 @@ spawns:
 
   17117497:
     template: Goliath_Beetle
+    at:       [-320.943, -32.587, 283.201, 129]
     level:    [34, 36]
-    region:   nw_313
 
   17117498:
     template: Goliath_Beetle
+    at:       [-281.680, -32.395, 277.489, 2]
     level:    [34, 36]
-    region:   n_314
 
   17117499:
     template: Goliath_Beetle
@@ -1599,8 +1599,8 @@ spawns:
 
   17117504:
     template: Carrion_Marabou
+    at:       [-366.706, -29.546, 273.530, 127]
     level:    [36, 38]
-    region:   nw_320
 
   17117505:
     template: Carrion_Marabou
@@ -1699,8 +1699,8 @@ spawns:
 
   17117524:
     template: Dire_Bat
+    at:       [-279.590, -40.553, 378.659, 7]
     level:    [61, 63]
-    region:   nw_340
 
   17117525:
     template: Dire_Bat
@@ -1714,28 +1714,28 @@ spawns:
 
   17117527:
     template: Dire_Bat
+    at:       [-443.518, -56.574, -660.974, 121]
     level:    [61, 63]
-    region:   sw_343
 
   17117528:
     template: Dire_Bat
+    at:       [-97.497, -57.061, -750.199, 57]
     level:    [61, 63]
-    region:   s_344
 
   17117529:
     template: Dire_Bat
+    at:       [-298.578, -56.505, -439.519, 62]
     level:    [61, 63]
-    region:   sw_345
 
   17117530:
     template: Dire_Bat
+    at:       [-302.223, -58.359, -459.204, 95]
     level:    [61, 63]
-    region:   sw_346
 
   17117531:
     template: Royal_Leech
+    at:       [-355.778, -38.761, 540.269, 141]
     level:    [35, 37]
-    region:   nw_347
 
   17117532:
     template: Royal_Leech
@@ -1754,13 +1754,13 @@ spawns:
 
   17117535:
     template: Wandering_Sapling
+    at:       [-340.063, -54.893, -480.546, 67]
     level:    [35, 36]
-    region:   sw_351
 
   17117536:
     template: Wandering_Sapling
+    at:       [-124.140, -46.831, -417.633, 14]
     level:    [35, 36]
-    region:   s_352
 
   17117537:
     template: Wandering_Sapling
@@ -1769,8 +1769,8 @@ spawns:
 
   17117538:
     template: Wandering_Sapling
+    at:       [-143.007, -53.423, -710.409, 56]
     level:    [35, 36]
-    region:   s_354
 
   17117539:
     template: Wandering_Sapling
@@ -1784,13 +1784,13 @@ spawns:
 
   17117541:
     template: Wandering_Sapling
+    at:       [-299.951, -46.154, -101.316, 11]
     level:    [35, 36]
-    region:   w_357
 
   17117542:
     template: Wandering_Sapling
+    at:       [-261.667, -46.757, -86.306, 192]
     level:    [35, 36]
-    region:   c_358
 
   17117543:
     template: Wandering_Sapling
@@ -2164,8 +2164,8 @@ spawns:
 
   17117617:
     template: Noillurie
+    at:       [-181.913, -40.000, -273.755, 73]
     level:    [1, 1]
-    region:   c_433
 
   17117618:
     template: Red_Rose_Condottiere
@@ -2519,18 +2519,18 @@ spawns:
 
   17117688:
     template: Deathlord_Rojgnoj
+    at:       [-227.172, -38.962, -276.287, 194]
     level:    [60, 60]
-    region:   sw_504
 
   17117689:
     template: Spinebeak_Neckchopper
+    at:       [0.000, 0.000, 0.000, 3]
     level:    [60, 60]
-    region:   sw_505
 
   17117690:
     template: Spinebeak_Neckchopper
+    at:       [0.000, 0.000, 0.000, 18]
     level:    [60, 60]
-    region:   sw_506
 
   17117691:
     template: Spinebeak_Neckchopper
@@ -2539,33 +2539,33 @@ spawns:
 
   17117692:
     template: Spinebeak_Neckchopper
+    at:       [0.000, 0.000, 0.000, 124]
     level:    [60, 60]
-    region:   sw_508
 
   17117693:
     template: Spinebeak_Neckchopper
+    at:       [0.000, 0.000, 0.000, 210]
     level:    [60, 60]
-    region:   sw_509
 
   17117694:
     template: Spinebeak_Neckchopper
+    at:       [0.000, 0.000, 0.000, 102]
     level:    [60, 60]
-    region:   ne_510
 
   17117695:
     template: Spinebeak_Neckchopper
+    at:       [0.000, 0.000, 0.000, 57]
     level:    [60, 60]
-    region:   sw_509
 
   17117696:
     template: Spinebeak_Neckchopper
+    at:       [0.000, 0.000, 0.000, 175]
     level:    [60, 60]
-    region:   sw_509
 
   17117697:
     template: Spinebeak_Neckchopper
+    at:       [0.000, 0.000, 0.000, 173]
     level:    [60, 60]
-    region:   sw_509
 
   17117698:
     template: Jagidbods_Warmachine
@@ -2639,8 +2639,8 @@ spawns:
 
   17117712:
     template: Moonfang_Warrior
+    at:       [0.000, 0.000, 0.000, 115]
     level:    [60, 60]
-    region:   ne_525
 
   17117713:
     template: Moonfang_Warrior
@@ -2664,8 +2664,8 @@ spawns:
 
   17117717:
     template: Moonfang_Warrior
+    at:       [0.000, 0.000, 0.000, 7]
     level:    [60, 60]
-    region:   ne_533
 
   17117718:
     template: Moonfang_Warrior
@@ -2704,8 +2704,8 @@ spawns:
 
   17117725:
     template: Throatripper_Predator
+    at:       [0.000, 0.000, 0.000, 148]
     level:    [60, 60]
-    region:   c_541
 
   17117726:
     template: Throatripper_Predator

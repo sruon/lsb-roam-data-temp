@@ -4,8 +4,8 @@ spawns:
 
   17424385:
     template: Enkelados
+    at:       [-391.000, -145.000, 25.000, 127]
     level:    [40, 40]
-    region:   w_1
 
   17424386:
     template: Gigass_Bats
@@ -74,8 +74,8 @@ spawns:
 
   17424399:
     template: Gigas_Torturer
+    at:       [-268.000, -144.000, 100.000, 79]
     level:    [34, 35]
-    region:   n_15
 
   17424400:
     template: Gigas_Bonecutter
@@ -90,12 +90,12 @@ spawns:
   17424402:
     template: Gigas_Stonemason
     level:    [34, 35]
-    region:   n_15
+    region:   n_18
 
   17424403:
     template: Thunder_Elemental
     level:    [35, 36]
-    region:   n_15
+    region:   n_18
 
   17424404:
     template: Light_Elemental
@@ -174,8 +174,8 @@ spawns:
 
   17424419:
     template: Mimas
+    at:       [-293.419, -144.070, 53.648, 127]
     level:    [36, 36]
-    region:   n_35
 
   17424420:
     template: Magic_Urn
@@ -344,8 +344,8 @@ spawns:
 
   17424453:
     template: Jotunn_Gatekeeper
+    at:       [-305.000, -160.397, 51.000, 127]
     level:    [65, 69]
-    region:   c_69
 
   17424454:
     template: Jotunn_Hallkeeper
@@ -364,8 +364,8 @@ spawns:
 
   17424457:
     template: Jotunn_Wallkeeper
+    at:       [-280.327, -159.993, -5.097, 34]
     level:    [65, 69]
-    region:   s_73
 
   17424458:
     template: Jotunn_Gatekeeper
@@ -404,13 +404,13 @@ spawns:
 
   17424465:
     template: Jotunn_Wildkeeper
+    at:       [-333.395, -160.515, 1.424, 50]
     level:    [65, 69]
-    region:   w_81
 
   17424466:
     template: Gigass_Bat
+    at:       [1.000, 1.000, 1.000, 0]
     level:    [53, 55]
-    region:   c_82
 
   17424467:
     template: Jotunn_Wallkeeper
@@ -465,7 +465,7 @@ spawns:
   17424477:
     template: Incubus_Bats
     level:    [62, 64]
-    region:   sw_93
+    region:   sw_92
 
   17424478:
     template: Incubus_Bats
@@ -475,7 +475,7 @@ spawns:
   17424479:
     template: Incubus_Bats
     level:    [62, 64]
-    region:   ne_95
+    region:   ne_94
 
   17424480:
     template: Alkyoneus
@@ -569,8 +569,8 @@ spawns:
 
   17424498:
     template: Gigass_Bat
+    at:       [1.000, 1.000, 1.000, 0]
     level:    [53, 55]
-    region:   s_113
 
   17424499:
     template: Jotunn_Wallkeeper
@@ -589,18 +589,18 @@ spawns:
 
   17424502:
     template: Jotunn_Wildkeeper
+    at:       [-321.807, -175.924, 15.624, 127]
     level:    [65, 69]
-    region:   c_118
 
   17424503:
     template: Gigass_Bat
+    at:       [1.000, 1.000, 1.000, 0]
     level:    [53, 55]
-    region:   c_118
 
   17424504:
     template: Jotunn_Wallkeeper
+    at:       [-265.683, -176.511, 23.816, 37]
     level:    [65, 69]
-    region:   c_120
 
   17424505:
     template: Jotunn_Gatekeeper
@@ -609,8 +609,8 @@ spawns:
 
   17424506:
     template: Jotunn_Hallkeeper
+    at:       [-267.000, -176.000, 3.000, 8]
     level:    [65, 69]
-    region:   s_122
 
   17424507:
     template: Jotunn_Wildkeeper

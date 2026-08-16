@@ -395,17 +395,17 @@ spawns:
   17576015:
     template: Gazer
     level:    [41, 43]
-    region:   c_79
+    region:   c_78
 
   17576016:
     template: Puroboros
     level:    [42, 44]
-    region:   c_79
+    region:   c_78
 
   17576017:
     template: Puroboros
     level:    [42, 44]
-    region:   c_79
+    region:   c_78
 
   17576018:
     template: Hell_Hound
@@ -1104,13 +1104,13 @@ spawns:
 
   17576157:
     template: Tomb_Wolf
+    at:       [186.793, -32.051, 59.420, 59]
     level:    [53, 55]
-    region:   e_221
 
   17576158:
     template: Tomb_Wolf
+    at:       [209.374, -32.051, 60.292, 253]
     level:    [53, 55]
-    region:   e_222
 
   17576159:
     template: Ice_Elemental
@@ -1119,8 +1119,8 @@ spawns:
 
   17576160:
     template: Earth_Elemental
+    at:       [220.667, -32.051, 71.023, 57]
     level:    [52, 55]
-    region:   e_222
 
   17576161:
     template: Tomb_Wolf
@@ -1160,7 +1160,7 @@ spawns:
   17576168:
     template: Earth_Elemental
     level:    [52, 55]
-    region:   e_232
+    region:   e_229
 
   17576169:
     template: Tomb_Wolf
@@ -1174,8 +1174,8 @@ spawns:
 
   17576171:
     template: Tomb_Wolf
+    at:       [59.966, -32.051, 64.521, 54]
     level:    [53, 55]
-    region:   c_235
 
   17576172:
     template: Tomb_Wolf
@@ -1435,7 +1435,7 @@ spawns:
   17576223:
     template: Tomb_Mage
     level:    [60, 63]
-    region:   e_287
+    region:   e_285
 
   17576224:
     template: Tomb_Mage
@@ -1515,7 +1515,7 @@ spawns:
   17576239:
     template: Shade
     level:    [46, 48]
-    region:   e_303
+    region:   e_300
 
   17576240:
     template: Lost_Soul

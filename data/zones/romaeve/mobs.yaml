@@ -19,13 +19,13 @@ spawns:
 
   17276932:
     template: Killing_Weapon
+    at:       [-29.698, -5.800, -108.852, 52]
     level:    [60, 64]
-    region:   s_4
 
   17276933:
     template: Ominous_Weapon
+    at:       [-1.000, -8.000, -122.000, 98]
     level:    [61, 65]
-    region:   s_5
 
   17276934:
     template: Killing_Weapon
@@ -59,23 +59,23 @@ spawns:
 
   17276940:
     template: Killing_Weapon
+    at:       [-46.733, -4.383, -51.025, 38]
     level:    [60, 64]
-    region:   s_12
 
   17276941:
     template: Killing_Weapon
+    at:       [44.211, -4.583, -52.037, 127]
     level:    [60, 64]
-    region:   s_13
 
   17276942:
     template: Ominous_Weapon
+    at:       [-84.808, -3.672, -95.509, 16]
     level:    [61, 65]
-    region:   s_14
 
   17276943:
     template: Ominous_Weapon
+    at:       [74.438, -2.500, -99.089, 38]
     level:    [61, 65]
-    region:   s_15
 
   17276944:
     template: Ominous_Weapon
@@ -124,13 +124,13 @@ spawns:
 
   17276953:
     template: Killing_Weapon
+    at:       [-99.140, -3.253, -64.165, 127]
     level:    [60, 64]
-    region:   s_25
 
   17276954:
     template: Killing_Weapon
+    at:       [99.339, -3.112, -63.870, 127]
     level:    [60, 64]
-    region:   se_26
 
   17276955:
     template: Killing_Weapon
@@ -220,7 +220,7 @@ spawns:
   17276972:
     template: Magic_Flagon
     level:    [64, 69]
-    region:   se_44
+    region:   se_43
 
   17276973:
     template: Killing_Weapon
@@ -374,13 +374,13 @@ spawns:
 
   17277003:
     template: Apocalyptic_Weapon
+    at:       [-146.041, -8.500, 6.534, 33]
     level:    [78, 80]
-    region:   w_75
 
   17277004:
     template: Infernal_Weapon
+    at:       [-160.655, -8.500, 20.212, 127]
     level:    [79, 81]
-    region:   w_76
 
   17277005:
     template: Apocalyptic_Weapon
@@ -419,13 +419,13 @@ spawns:
 
   17277012:
     template: Apocalyptic_Weapon
+    at:       [-163.567, -8.499, -21.382, 127]
     level:    [78, 80]
-    region:   w_84
 
   17277013:
     template: Infernal_Weapon
+    at:       [-185.180, -8.500, -12.199, 16]
     level:    [79, 81]
-    region:   w_85
 
   17277014:
     template: Cursed_Puppet
@@ -459,13 +459,13 @@ spawns:
 
   17277020:
     template: Apocalyptic_Weapon
+    at:       [146.977, -8.585, 5.940, 127]
     level:    [78, 80]
-    region:   e_92
 
   17277021:
     template: Infernal_Weapon
+    at:       [165.148, -8.500, 16.747, 127]
     level:    [79, 81]
-    region:   e_93
 
   17277022:
     template: Apocalyptic_Weapon
@@ -504,8 +504,8 @@ spawns:
 
   17277029:
     template: Infernal_Weapon
+    at:       [185.081, -8.500, -6.635, 127]
     level:    [79, 81]
-    region:   e_101
 
   17277030:
     template: Cursed_Puppet
@@ -514,8 +514,8 @@ spawns:
 
   17277031:
     template: Mythril_Golem
+    at:       [-1.452, -13.424, -68.042, 78]
     level:    [68, 70]
-    region:   s_103
 
   17277032:
     template: Mythril_Golem
@@ -604,8 +604,8 @@ spawns:
 
   17277049:
     template: Infernal_Weapon
+    at:       [-257.022, -4.500, 8.557, 127]
     level:    [79, 81]
-    region:   w_121
 
   17277050:
     template: Magic_Flagon
@@ -649,8 +649,8 @@ spawns:
 
   17277058:
     template: Apocalyptic_Weapon
+    at:       [-212.306, -7.906, -18.156, 127]
     level:    [78, 80]
-    region:   w_130
 
   17277059:
     template: Infernal_Weapon
@@ -759,8 +759,8 @@ spawns:
 
   17277080:
     template: Apocalyptic_Weapon
+    at:       [219.170, -5.376, -16.069, 127]
     level:    [78, 80]
-    region:   e_152
 
   17277081:
     template: Infernal_Weapon
@@ -829,8 +829,8 @@ spawns:
 
   17277094:
     template: Magic_Flagon
+    at:       [-205.051, -3.700, 101.649, 127]
     level:    [64, 69]
-    region:   nw_166
 
   17277095:
     template: Magic_Flagon
@@ -839,8 +839,8 @@ spawns:
 
   17277096:
     template: Magic_Flagon
+    at:       [-109.374, -4.018, 78.090, 0]
     level:    [64, 69]
-    region:   nw_168
 
   17277097:
     template: Magic_Flagon
@@ -854,13 +854,13 @@ spawns:
 
   17277099:
     template: Magic_Flagon
+    at:       [-138.021, 3.695, 70.711, 226]
     level:    [64, 69]
-    region:   nw_171
 
   17277100:
     template: Apocalyptic_Weapon
+    at:       [-158.640, -7.837, 50.393, 127]
     level:    [78, 80]
-    region:   nw_172
 
   17277101:
     template: Infernal_Weapon
@@ -879,13 +879,13 @@ spawns:
 
   17277104:
     template: Apocalyptic_Weapon
+    at:       [-162.479, 2.352, 85.123, 127]
     level:    [78, 80]
-    region:   nw_176
 
   17277105:
     template: Darksteel_Golem
+    at:       [-172.296, 3.167, 71.227, 83]
     level:    [80, 82]
-    region:   nw_176
 
   17277106:
     template: Apocalyptic_Weapon
@@ -894,8 +894,8 @@ spawns:
 
   17277107:
     template: Infernal_Weapon
+    at:       [161.104, -4.500, 62.375, 20]
     level:    [79, 81]
-    region:   ne_179
 
   17277108:
     template: Apocalyptic_Weapon
@@ -939,13 +939,13 @@ spawns:
 
   17277116:
     template: Magic_Flagon
+    at:       [137.876, -4.430, 64.682, 53]
     level:    [64, 69]
-    region:   ne_188
 
   17277117:
     template: Magic_Flagon
+    at:       [104.432, -3.700, 78.851, 110]
     level:    [64, 69]
-    region:   ne_189
 
   17277118:
     template: Magic_Flagon
@@ -964,8 +964,8 @@ spawns:
 
   17277121:
     template: Apocalyptic_Weapon
+    at:       [161.093, -6.782, 51.033, 89]
     level:    [78, 80]
-    region:   ne_193
 
   17277122:
     template: Infernal_Weapon

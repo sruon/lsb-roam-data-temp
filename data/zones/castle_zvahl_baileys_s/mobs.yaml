@@ -64,13 +64,13 @@ spawns:
 
   17342477:
     template: Dark_Elemental
+    at:       [237.000, -24.000, 58.000, 200]
     level:    [79, 82]
-    region:   s_13
 
   17342478:
     template: Ice_Elemental
+    at:       [109.000, -24.000, 100.000, 200]
     level:    [79, 82]
-    region:   se_14
 
   17342479:
     template: Demon_Warrior
@@ -124,13 +124,13 @@ spawns:
 
   17342489:
     template: Demon_Warrior
+    at:       [131.000, -24.000, 15.000, 221]
     level:    [80, 81]
-    region:   s_25
 
   17342490:
     template: Demon_Magus
+    at:       [180.000, -24.000, -24.000, 190]
     level:    [80, 81]
-    region:   s_26
 
   17342491:
     template: Demon_Warrior
@@ -144,18 +144,18 @@ spawns:
 
   17342493:
     template: Demon_Warrior
+    at:       [116.000, -24.000, 24.000, 48]
     level:    [80, 81]
-    region:   c_29
 
   17342494:
     template: Dark_Elemental
+    at:       [158.000, -24.000, 100.000, 200]
     level:    [79, 82]
-    region:   c_29
 
   17342495:
     template: Ice_Elemental
+    at:       [152.000, -24.000, -60.000, 200]
     level:    [79, 82]
-    region:   c_29
 
   17342496:
     template: Demon_Justiciar
@@ -224,8 +224,8 @@ spawns:
 
   17342509:
     template: Dire_Gargouille
+    at:       [-9.000, -24.000, 141.000, 136]
     level:    [80, 82]
-    region:   w_45
 
   17342510:
     template: Orcish_Bowshooter
@@ -619,18 +619,18 @@ spawns:
 
   17342588:
     template: Demon_Warrior
+    at:       [177.000, -24.000, -63.000, 199]
     level:    [80, 81]
-    region:   sw_124
 
   17342589:
     template: Demon_Warrior
+    at:       [221.000, -24.000, 17.000, 211]
     level:    [80, 81]
-    region:   sw_124
 
   17342590:
     template: Demon_Magus
+    at:       [-131.000, -36.000, -5.000, 194]
     level:    [80, 81]
-    region:   sw_124
 
   17342591:
     template: Ancient_Quadav
@@ -684,13 +684,13 @@ spawns:
 
   17342601:
     template: Demons_Elemental
+    at:       [-120.000, 3.000, -85.000, 100]
     level:    [75, 78]
-    region:   sw_135
 
   17342602:
     template: Demon_Magus
+    at:       [-151.000, -19.000, 84.000, 193]
     level:    [80, 81]
-    region:   sw_135
 
   17342603:
     template: Ogler
@@ -744,23 +744,23 @@ spawns:
 
   17342613:
     template: Ogler
+    at:       [-70.000, -19.000, -10.000, 88]
     level:    [81, 82]
-    region:   w_149
 
   17342614:
     template: Ogler
+    at:       [-93.000, -19.000, -8.000, 155]
     level:    [81, 82]
-    region:   w_149
 
   17342615:
     template: Ogler
+    at:       [-93.000, -24.000, 20.000, 7]
     level:    [81, 82]
-    region:   sw_151
 
   17342616:
     template: Ogler
+    at:       [-60.000, -14.000, 133.000, 206]
     level:    [81, 82]
-    region:   sw_151
 
   17342617:
     template: Demon_Warrior
@@ -1039,28 +1039,28 @@ spawns:
 
   17342672:
     template: Doom_Lens
+    at:       [-57.000, 0.001, 35.000, 71]
     level:    [84, 85]
-    region:   c_208
 
   17342673:
     template: Doom_Lens
+    at:       [-61.000, 0.001, 52.000, 55]
     level:    [84, 85]
-    region:   s_209
 
   17342674:
     template: Doom_Lens
+    at:       [-22.000, 0.001, 20.000, 2]
     level:    [84, 85]
-    region:   w_210
 
   17342675:
     template: Doom_Lens
+    at:       [-42.000, 0.001, 21.000, 137]
     level:    [84, 85]
-    region:   sw_211
 
   17342676:
     template: Doom_Lens
+    at:       [-57.000, 0.001, 0.001, 92]
     level:    [84, 85]
-    region:   w_212
 
   17342677:
     template: Doom_Lens
@@ -1074,8 +1074,8 @@ spawns:
 
   17342679:
     template: Doom_Lens
+    at:       [-90.000, 0.001, 19.000, 135]
     level:    [84, 85]
-    region:   sw_215
 
   17342680:
     template: Deathwreaker_Demon
@@ -2489,33 +2489,33 @@ spawns:
 
   17342962:
     template: Shadowhind_Machinator
+    at:       [19.298, -24.974, -23.220, 192]
     level:    [65, 65]
-    region:   ne_498
 
   17342963:
     template: Shadowhind_Machinator
+    at:       [80.000, -24.049, 24.000, 233]
     level:    [65, 65]
-    region:   ne_499
 
   17342964:
     template: Shadowhind_Machinator
+    at:       [51.359, -24.501, 18.921, 253]
     level:    [65, 65]
-    region:   ne_500
 
   17342965:
     template: Shadowhind_Machinator
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [65, 65]
-    region:   ne_501
 
   17342966:
     template: Shadowhind_Machinator
+    at:       [19.703, -24.726, -15.446, 192]
     level:    [65, 65]
-    region:   ne_502
 
   17342967:
     template: Shadowhind_Machinator
+    at:       [19.728, -24.529, 7.600, 191]
     level:    [65, 65]
-    region:   ne_503
 
   17342968:
     template: Confederate_Mantelet
@@ -3034,8 +3034,8 @@ spawns:
 
   17343072:
     template: Gigas_Mercenary
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [0, 0]
-    region:   ne_608
 
   17343073:
     template: Gigas_Mercenary

@@ -14,8 +14,8 @@ spawns:
 
   17530883:
     template: Giant_Guard
+    at:       [451.661, -0.287, 50.624, 127]
     level:    [28, 30]
-    region:   w_3
 
   17530884:
     template: Giant_Sentry
@@ -44,13 +44,13 @@ spawns:
 
   17530889:
     template: Giant_Sentry
+    at:       [486.190, -0.111, 18.496, 127]
     level:    [28, 30]
-    region:   c_9
 
   17530890:
     template: Gigass_Bat
+    at:       [1.000, 1.000, 1.000, 0]
     level:    [21, 23]
-    region:   c_10
 
   17530891:
     template: Giant_Lobber
@@ -84,8 +84,8 @@ spawns:
 
   17530897:
     template: Giant_Guard
+    at:       [408.868, -0.405, -65.429, 127]
     level:    [28, 30]
-    region:   sw_17
 
   17530898:
     template: Giant_Sentry
@@ -114,8 +114,8 @@ spawns:
 
   17530903:
     template: Giant_Sentry
+    at:       [391.372, 0.075, -48.658, 45]
     level:    [28, 30]
-    region:   sw_23
 
   17530904:
     template: Gigass_Bat
@@ -149,18 +149,18 @@ spawns:
 
   17530910:
     template: Seeker_Bats
+    at:       [341.703, -0.500, 15.569, 64]
     level:    [25, 27]
-    region:   w_30
 
   17530911:
     template: Ancient_Bat
+    at:       [341.774, -0.500, 8.530, 64]
     level:    [27, 29]
-    region:   w_30
 
   17530912:
     template: Bogy
+    at:       [341.809, -0.500, 8.751, 69]
     level:    [30, 32]
-    region:   w_30
 
   17530913:
     template: Goblin_Mugger
@@ -1194,8 +1194,8 @@ spawns:
 
   17531119:
     template: Gigass_Bat
+    at:       [1.000, 1.000, 1.000, 0]
     level:    [21, 23]
-    region:   sw_239
 
   17531120:
     template: Giant_Lobber

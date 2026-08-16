@@ -44,8 +44,8 @@ spawns:
 
   17174537:
     template: Yagudo_Prioress
+    at:       [669.991, -24.716, 20.593, 126]
     level:    [76, 79]
-    region:   e_9
 
   17174538:
     template: Yagudos_Elemental
@@ -59,8 +59,8 @@ spawns:
 
   17174540:
     template: Yagudo_Knight_Templar
+    at:       [638.466, -24.549, 121.435, 225]
     level:    [76, 79]
-    region:   e_12
 
   17174541:
     template: Yagudo_Eradicator
@@ -69,8 +69,8 @@ spawns:
 
   17174542:
     template: Yagudo_Sentinel
+    at:       [215.179, -17.387, 272.893, 169]
     level:    [76, 79]
-    region:   n_14
 
   17174543:
     template: Yagudo_High_Priest
@@ -354,8 +354,8 @@ spawns:
 
   17174599:
     template: Lycopodium
+    at:       [-363.819, 9.197, 434.518, 9]
     level:    [31, 34]
-    region:   nw_71
 
   17174600:
     template: Lycopodium
@@ -374,8 +374,8 @@ spawns:
 
   17174603:
     template: Lycopodium
+    at:       [-370.172, 9.350, 434.997, 134]
     level:    [31, 34]
-    region:   nw_71
 
   17174604:
     template: Stag_Beetle
@@ -484,8 +484,8 @@ spawns:
 
   17174625:
     template: Lynx
+    at:       [-199.666, 7.727, 560.200, 135]
     level:    [49, 51]
-    region:   nw_97
 
   17174626:
     template: Lynx
@@ -849,8 +849,8 @@ spawns:
 
   17174698:
     template: Scolopendrid
+    at:       [-93.007, 13.304, -283.335, 70]
     level:    [67, 70]
-    region:   s_170
 
   17174699:
     template: Scolopendrid
@@ -859,13 +859,13 @@ spawns:
 
   17174700:
     template: Scolopendrid
+    at:       [-137.073, 15.710, -251.104, 255]
     level:    [67, 70]
-    region:   sw_172
 
   17174701:
     template: Scolopendrid
+    at:       [-200.338, 21.100, -213.729, 128]
     level:    [67, 70]
-    region:   sw_173
 
   17174702:
     template: Scolopendrid
@@ -879,8 +879,8 @@ spawns:
 
   17174704:
     template: Scolopendrid
+    at:       [-54.098, 20.512, -113.212, 201]
     level:    [67, 70]
-    region:   s_176
 
   17174705:
     template: Mountain_Scolopendrid
@@ -924,8 +924,8 @@ spawns:
 
   17174713:
     template: Mountain_Scolopendrid
+    at:       [54.625, 20.693, -15.412, 190]
     level:    [78, 81]
-    region:   c_185
 
   17174714:
     template: Mountain_Scolopendrid
@@ -959,8 +959,8 @@ spawns:
 
   17174720:
     template: Mountain_Scolopendrid
+    at:       [301.143, 7.882, -286.562, 143]
     level:    [78, 81]
-    region:   s_192
 
   17174721:
     template: Mountain_Scolopendrid
@@ -1694,8 +1694,8 @@ spawns:
 
   17174867:
     template: Fire_Elemental
+    at:       [-10.815, -10.519, 162.831, 148]
     level:    [75, 75]
-    region:   c_339
 
   17174868:
     template: Fire_Elemental
@@ -1704,8 +1704,8 @@ spawns:
 
   17174869:
     template: Fire_Elemental
+    at:       [714.139, -14.969, -448.892, 25]
     level:    [75, 75]
-    region:   se_341
 
   17174870:
     template: Sprite
@@ -1739,18 +1739,18 @@ spawns:
 
   17174876:
     template: Goblin_Mine
+    at:       [221.684, 7.912, -390.627, 96]
     level:    [66, 67]
-    region:   s_348
 
   17174877:
     template: Goblin_Mine
+    at:       [-260.265, 8.486, -38.562, 127]
     level:    [66, 67]
-    region:   w_349
 
   17174878:
     template: Goblin_Mine
+    at:       [690.374, -24.522, 507.865, 109]
     level:    [66, 67]
-    region:   ne_350
 
   17174879:
     template: Jumbo_Rafflesia
@@ -1959,8 +1959,8 @@ spawns:
 
   17174920:
     template: Thunder_Fiend
+    at:       [-270.079, 13.878, 421.469, 191]
     level:    [70, 70]
-    region:   nw_392
 
   17174921:
     template: Aquarian_Caster
@@ -2114,8 +2114,8 @@ spawns:
 
   17174951:
     template: Lhu_Mhakaracca
+    at:       [-256.838, 10.209, 398.085, 85]
     level:    [65, 65]
-    region:   nw_423
 
   17174952:
     template: Pya
@@ -2124,8 +2124,8 @@ spawns:
 
   17174953:
     template: Kyo
+    at:       [-257.838, 10.459, 399.084, 66]
     level:    [65, 65]
-    region:   nw_423
 
   17174954:
     template: Python_Mercenary
@@ -2134,43 +2134,43 @@ spawns:
 
   17174955:
     template: Python_Mercenary
+    at:       [-280.314, 15.710, 416.748, 240]
     level:    [65, 65]
-    region:   nw_427
 
   17174956:
     template: Python_Mercenary
+    at:       [-297.618, 16.370, 423.567, 48]
     level:    [65, 65]
-    region:   sw_428
 
   17174957:
     template: Python_Mercenary
+    at:       [-272.365, 14.579, 426.635, 48]
     level:    [65, 65]
-    region:   sw_429
 
   17174958:
     template: Python_Mercenary
+    at:       [-262.268, 11.667, 405.613, 225]
     level:    [65, 65]
-    region:   sw_428
 
   17174959:
     template: Python_Mercenary
+    at:       [-262.877, 11.648, 404.625, 66]
     level:    [65, 65]
-    region:   nw_431
 
   17174960:
     template: Python_Mercenary
+    at:       [-265.473, 12.552, 401.157, 11]
     level:    [65, 65]
-    region:   nw_431
 
   17174961:
     template: Python_Mercenary
+    at:       [-304.201, 16.674, 430.842, 9]
     level:    [65, 65]
-    region:   sw_433
 
   17174962:
     template: Python_Mercenary
+    at:       [-261.228, 11.325, 409.853, 31]
     level:    [65, 65]
-    region:   nw_434
 
   17174963:
     template: Haja_Zhwan
@@ -2274,33 +2274,33 @@ spawns:
 
   17174983:
     template: Piscean_Caster
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [70, 70]
-    region:   sw_455
 
   17174984:
     template: Piscean_Caster
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [70, 70]
-    region:   sw_456
 
   17174985:
     template: Piscean_Caster
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [70, 70]
-    region:   w_457
 
   17174986:
     template: Piscean_Caster
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [70, 70]
-    region:   n_458
 
   17174987:
     template: Piscean_Caster
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [70, 70]
-    region:   sw_459
 
   17174988:
     template: Piscean_Caster
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [70, 70]
-    region:   sw_460
 
   17174989:
     template: Allied_Mantelet
@@ -2479,63 +2479,63 @@ spawns:
 
   17175024:
     template: Vee_Qiqa_the_Decreer
+    at:       [-273.980, 14.834, 419.632, 113]
     level:    [70, 70]
-    region:   n_496
 
   17175025:
     template: Vee_Qiqas_Elemental
+    at:       [-278.132, 15.985, 420.946, 68]
     level:    [70, 70]
-    region:   ne_497
 
   17175026:
     template: Vee_Qiqas_Elemental
+    at:       [-281.924, 16.216, 414.376, 209]
     level:    [70, 70]
-    region:   ne_497
 
   17175027:
     template: Vee_Qiqas_Elemental
+    at:       [-276.453, 15.597, 419.872, 97]
     level:    [70, 70]
-    region:   ne_497
 
   17175028:
     template: Vee_Qiqas_Elemental
+    at:       [-279.622, 15.759, 412.107, 206]
     level:    [70, 70]
-    region:   ne_497
 
   17175029:
     template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 248]
     level:    [70, 70]
-    region:   ne_501
 
   17175030:
     template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 249]
     level:    [70, 70]
-    region:   ne_502
 
   17175031:
     template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 62]
     level:    [70, 70]
-    region:   ne_503
 
   17175032:
     template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 242]
     level:    [70, 70]
-    region:   ne_504
 
   17175033:
     template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 43]
     level:    [70, 70]
-    region:   ne_505
 
   17175034:
     template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 243]
     level:    [70, 70]
-    region:   ne_506
 
   17175035:
     template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 231]
     level:    [70, 70]
-    region:   ne_507
 
   17175036:
     template: Divine_Templar
@@ -2544,58 +2544,58 @@ spawns:
 
   17175037:
     template: Divine_Templar
+    at:       [0.000, 0.000, 0.000, 215]
     level:    [70, 70]
-    region:   ne_509
 
   17175038:
     template: Moo_Ouzi_the_Swiftblade
+    at:       [-259.920, 10.980, 394.356, 248]
     level:    [70, 70]
-    region:   ne_510
 
   17175039:
     template: Divine_Disseminator
+    at:       [-277.747, 15.725, 428.387, 155]
     level:    [70, 70]
-    region:   n_511
 
   17175040:
     template: Divine_Disseminator
+    at:       [-277.666, 15.786, 426.510, 169]
     level:    [70, 70]
-    region:   ne_512
 
   17175041:
     template: Divine_Disseminator
+    at:       [-265.194, 13.083, 404.252, 114]
     level:    [70, 70]
-    region:   ne_513
 
   17175042:
     template: Divine_Disseminator
+    at:       [-293.733, 16.073, 441.042, 87]
     level:    [70, 70]
-    region:   n_514
 
   17175043:
     template: Divine_Disseminator
+    at:       [-286.693, 15.880, 418.295, 135]
     level:    [70, 70]
-    region:   ne_515
 
   17175044:
     template: Divine_Disseminator
+    at:       [-297.448, 16.412, 424.265, 198]
     level:    [70, 70]
-    region:   ne_516
 
   17175045:
     template: Divine_Disseminator
+    at:       [-277.921, 15.769, 427.598, 165]
     level:    [70, 70]
-    region:   ne_517
 
   17175046:
     template: Divine_Disseminator
+    at:       [-278.202, 15.756, 428.388, 160]
     level:    [70, 70]
-    region:   ne_517
 
   17175047:
     template: Divine_Disseminator
+    at:       [-278.165, 15.763, 428.208, 162]
     level:    [70, 70]
-    region:   ne_513
 
   17175048:
     template: Muu_Buxu_the_Elusive
@@ -2604,163 +2604,163 @@ spawns:
 
   17175049:
     template: Divine_Assassin
+    at:       [0.000, 0.000, 0.000, 232]
     level:    [70, 70]
-    region:   n_521
 
   17175050:
     template: Divine_Assassin
+    at:       [0.000, 0.000, 0.000, 48]
     level:    [70, 70]
-    region:   ne_522
 
   17175051:
     template: Divine_Assassin
+    at:       [0.000, 0.000, 0.000, 249]
     level:    [70, 70]
-    region:   ne_523
 
   17175052:
     template: Divine_Assassin
+    at:       [0.000, 0.000, 0.000, 231]
     level:    [70, 70]
-    region:   ne_524
 
   17175053:
     template: Divine_Assassin
+    at:       [0.000, 0.000, 0.000, 170]
     level:    [70, 70]
-    region:   n_525
 
   17175054:
     template: Divine_Assassin
+    at:       [0.000, 0.000, 0.000, 52]
     level:    [70, 70]
-    region:   n_526
 
   17175055:
     template: Divine_Assassin
+    at:       [0.000, 0.000, 0.000, 181]
     level:    [70, 70]
-    region:   ne_527
 
   17175056:
     template: Divine_Assassin
+    at:       [0.000, 0.000, 0.000, 5]
     level:    [70, 70]
-    region:   ne_528
 
   17175057:
     template: Divine_Assassin
+    at:       [0.000, 0.000, 0.000, 170]
     level:    [70, 70]
-    region:   ne_527
 
   17175058:
     template: Dee_Xalmo_the_Grim
+    at:       [-278.599, 15.682, 430.414, 55]
     level:    [70, 70]
-    region:   c_530
 
   17175059:
     template: Divine_Ascetic
+    at:       [-279.016, 16.095, 424.691, 0]
     level:    [70, 70]
-    region:   ne_531
 
   17175060:
     template: Divine_Ascetic
+    at:       [-285.608, 15.690, 422.321, 0]
     level:    [70, 70]
-    region:   ne_501
 
   17175061:
     template: Divine_Ascetic
+    at:       [-273.436, 14.912, 424.148, 214]
     level:    [70, 70]
-    region:   ne_533
 
   17175062:
     template: Divine_Ascetic
+    at:       [-275.598, 15.341, 423.386, 226]
     level:    [70, 70]
-    region:   ne_534
 
   17175063:
     template: Divine_Ascetic
+    at:       [-272.129, 14.776, 426.566, 169]
     level:    [70, 70]
-    region:   ne_535
 
   17175064:
     template: Divine_Ascetic
+    at:       [-277.107, 15.500, 436.944, 0]
     level:    [70, 70]
-    region:   ne_536
 
   17175065:
     template: Divine_Ascetic
+    at:       [-288.017, 15.923, 416.917, 129]
     level:    [70, 70]
-    region:   ne_537
 
   17175066:
     template: Divine_Ascetic
+    at:       [-296.322, 16.316, 439.564, 0]
     level:    [70, 70]
-    region:   ne_538
 
   17175067:
     template: Divine_Ascetic
+    at:       [0.000, 0.000, 0.000, 80]
     level:    [70, 70]
-    region:   n_539
 
   17175068:
     template: Kazan_the_Peerless
+    at:       [-254.068, 9.758, 400.372, 176]
     level:    [70, 70]
-    region:   ne_540
 
   17175069:
     template: Plenilune_Ronin
+    at:       [0.000, 0.000, 0.000, 157]
     level:    [70, 70]
-    region:   ne_508
 
   17175070:
     template: Plenilune_Ronin
+    at:       [0.000, 0.000, 0.000, 229]
     level:    [70, 70]
-    region:   ne_542
 
   17175071:
     template: Plenilune_Ronin
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [70, 70]
-    region:   ne_543
 
   17175072:
     template: Plenilune_Ronin
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [70, 70]
-    region:   ne_544
 
   17175073:
     template: Plenilune_Ronin
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [70, 70]
-    region:   ne_545
 
   17175074:
     template: Plenilune_Ronin
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [70, 70]
-    region:   ne_546
 
   17175075:
     template: Plenilune_Ronin
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [70, 70]
-    region:   ne_547
 
   17175076:
     template: Plenilune_Ronin
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [70, 70]
-    region:   ne_548
 
   17175077:
     template: Plenilune_Ronin
+    at:       [0.000, 0.000, 0.000, 54]
     level:    [70, 70]
-    region:   ne_549
 
   17175078:
     template: Vaa_Oozu_the_Redolent
+    at:       [-296.953, 16.357, 423.753, 189]
     level:    [70, 70]
-    region:   sw_450
 
   17175079:
     template: Vaa_Oozus_Scolopendrid
+    at:       [-284.842, 15.856, 417.347, 6]
     level:    [70, 70]
-    region:   ne_551
 
   17175080:
     template: Vaa_Oozus_Scolopendrid
+    at:       [-296.951, 16.357, 423.753, 9]
     level:    [70, 70]
-    region:   ne_552
 
   17175081:
     template: Divine_Inciter
@@ -2769,73 +2769,73 @@ spawns:
 
   17175082:
     template: Divine_Inciter
+    at:       [63.218, -11.500, 329.034, 164]
     level:    [70, 70]
-    region:   ne_554
 
   17175083:
     template: Divine_Inciter
+    at:       [-259.434, 11.001, 407.424, 110]
     level:    [70, 70]
-    region:   ne_553
 
   17175084:
     template: Divine_Inciter
+    at:       [-267.580, 13.312, 394.108, 97]
     level:    [70, 70]
-    region:   ne_553
 
   17175085:
     template: Divine_Inciter
+    at:       [-265.151, 12.626, 396.672, 230]
     level:    [70, 70]
-    region:   ne_557
 
   17175086:
     template: Divine_Inciter
+    at:       [-259.619, 10.904, 403.675, 174]
     level:    [70, 70]
-    region:   ne_558
 
   17175087:
     template: Divine_Inciter
+    at:       [-259.149, 10.786, 405.678, 195]
     level:    [70, 70]
-    region:   ne_559
 
   17175088:
     template: Divine_Inciter
+    at:       [80.273, -18.987, 306.757, 157]
     level:    [70, 70]
-    region:   ne_559
 
   17175089:
     template: Divine_Inciter
+    at:       [-264.530, 12.199, 402.545, 171]
     level:    [70, 70]
-    region:   ne_561
 
   17175090:
     template: Divine_Pilgrim
+    at:       [0.000, 0.000, 0.000, 51]
     level:    [70, 70]
-    region:   ne_562
 
   17175091:
     template: Divine_Pilgrim
+    at:       [0.000, 0.000, 0.000, 231]
     level:    [70, 70]
-    region:   ne_563
 
   17175092:
     template: Divine_Pilgrim
+    at:       [0.000, 0.000, 0.000, 231]
     level:    [70, 70]
-    region:   ne_564
 
   17175093:
     template: Divine_Pilgrim
+    at:       [0.000, 0.000, 0.000, 231]
     level:    [70, 70]
-    region:   ne_565
 
   17175094:
     template: Divine_Pilgrim
+    at:       [0.000, 0.000, 0.000, 231]
     level:    [70, 70]
-    region:   ne_566
 
   17175095:
     template: Divine_Pilgrim
+    at:       [0.000, 0.000, 0.000, 231]
     level:    [70, 70]
-    region:   ne_567
 
   17175096:
     template: Confederate_Mantelet
@@ -2934,13 +2934,13 @@ spawns:
 
   17175115:
     template: Yagudo_Turret
+    at:       [-291.562, 14.755, 448.941, 51]
     level:    [70, 70]
-    region:   ne_587
 
   17175116:
     template: War_Lynx
+    at:       [-293.571, 16.057, 442.002, 253]
     level:    [70, 70]
-    region:   nw_588
 
   17175117:
     template: War_Lynx
@@ -3004,48 +3004,48 @@ spawns:
 
   17175129:
     template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 209]
     level:    [70, 70]
-    region:   n_601
 
   17175130:
     template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 178]
     level:    [70, 70]
-    region:   n_602
 
   17175131:
     template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 178]
     level:    [70, 70]
-    region:   n_603
 
   17175132:
     template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 176]
     level:    [70, 70]
-    region:   n_604
 
   17175133:
     template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 108]
     level:    [70, 70]
-    region:   n_605
 
   17175134:
     template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 115]
     level:    [70, 70]
-    region:   n_606
 
   17175135:
     template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 186]
     level:    [70, 70]
-    region:   n_606
 
   17175136:
     template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 185]
     level:    [70, 70]
-    region:   n_608
 
   17175137:
     template: Shadowhorn_Stormer
+    at:       [0.000, 0.000, 0.000, 18]
     level:    [70, 70]
-    region:   n_606
 
   17175138:
     template: Shadowhand
@@ -3589,8 +3589,8 @@ spawns:
 
   17175246:
     template: Kaiser_Behemoth
+    at:       [-258.307, 10.525, 391.691, 0]
     level:    [70, 70]
-    region:   nw_718
 
   17175247:
     template: Ferreous_Coffin

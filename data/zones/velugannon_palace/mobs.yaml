@@ -104,8 +104,8 @@ spawns:
 
   17502229:
     template: Detector
+    at:       [28.824, -0.266, -341.224, 127]
     level:    [72, 74]
-    region:   s_21
 
   17502230:
     template: Caretaker
@@ -164,13 +164,13 @@ spawns:
 
   17502241:
     template: Detector
+    at:       [203.675, -0.599, -339.863, 127]
     level:    [72, 74]
-    region:   se_33
 
   17502242:
     template: Caretaker
+    at:       [203.675, -0.599, -339.863, 127]
     level:    [76, 79]
-    region:   se_34
 
   17502243:
     template: Detector
@@ -254,8 +254,8 @@ spawns:
 
   17502259:
     template: Detector
+    at:       [339.179, -0.643, -218.295, 74]
     level:    [72, 74]
-    region:   se_51
 
   17502260:
     template: Caretaker
@@ -274,8 +274,8 @@ spawns:
 
   17502263:
     template: Detector
+    at:       [394.259, -1.043, -181.513, 127]
     level:    [72, 74]
-    region:   se_55
 
   17502264:
     template: Caretaker
@@ -299,8 +299,8 @@ spawns:
 
   17502268:
     template: Ornamental_Weapon
+    at:       [370.184, 15.631, -195.655, 36]
     level:    [74, 76]
-    region:   se_60
 
   17502269:
     template: Air_Elemental
@@ -334,8 +334,8 @@ spawns:
 
   17502275:
     template: Ornamental_Weapon
+    at:       [329.031, 15.830, -208.731, 2]
     level:    [74, 76]
-    region:   se_67
 
   17502276:
     template: Ornamental_Weapon
@@ -364,8 +364,8 @@ spawns:
 
   17502281:
     template: Ornamental_Weapon
+    at:       [366.653, 15.753, -270.823, 121]
     level:    [74, 76]
-    region:   se_73
 
   17502282:
     template: Ornamental_Weapon
@@ -479,8 +479,8 @@ spawns:
 
   17502304:
     template: Detector
+    at:       [-340.099, -0.677, -214.158, 37]
     level:    [72, 74]
-    region:   sw_96
 
   17502305:
     template: Caretaker
@@ -499,8 +499,8 @@ spawns:
 
   17502308:
     template: Detector
+    at:       [-403.111, -0.909, -178.893, 0]
     level:    [72, 74]
-    region:   sw_100
 
   17502309:
     template: Caretaker
@@ -569,8 +569,8 @@ spawns:
 
   17502322:
     template: Mystic_Weapon
+    at:       [-387.387, 15.400, -272.610, 127]
     level:    [74, 77]
-    region:   sw_114
 
   17502323:
     template: Mystic_Weapon
@@ -604,8 +604,8 @@ spawns:
 
   17502329:
     template: Detector
+    at:       [445.173, -0.319, -61.542, 127]
     level:    [72, 74]
-    region:   e_121
 
   17502330:
     template: Caretaker
@@ -634,8 +634,8 @@ spawns:
 
   17502335:
     template: Detector
+    at:       [381.325, -1.060, -7.990, 127]
     level:    [72, 74]
-    region:   e_127
 
   17502336:
     template: Caretaker
@@ -674,8 +674,8 @@ spawns:
 
   17502343:
     template: Detector
+    at:       [420.340, -0.793, 66.796, 127]
     level:    [72, 74]
-    region:   e_135
 
   17502344:
     template: Caretaker
@@ -754,8 +754,8 @@ spawns:
 
   17502359:
     template: Detector
+    at:       [340.711, -0.212, 226.143, 127]
     level:    [72, 74]
-    region:   ne_151
 
   17502360:
     template: Caretaker
@@ -794,8 +794,8 @@ spawns:
 
   17502367:
     template: Detector
+    at:       [301.372, -0.212, 321.940, 127]
     level:    [72, 74]
-    region:   ne_159
 
   17502368:
     template: Caretaker
@@ -814,8 +814,8 @@ spawns:
 
   17502371:
     template: Detector
+    at:       [379.975, -0.212, 347.526, 127]
     level:    [72, 74]
-    region:   ne_163
 
   17502372:
     template: Caretaker
@@ -824,8 +824,8 @@ spawns:
 
   17502373:
     template: Detector
+    at:       [303.931, -0.433, 373.065, 41]
     level:    [72, 74]
-    region:   ne_165
 
   17502374:
     template: Caretaker
@@ -879,8 +879,8 @@ spawns:
 
   17502384:
     template: Dustbuster
+    at:       [367.138, 15.516, -6.536, 127]
     level:    [75, 78]
-    region:   e_176
 
   17502385:
     template: Dustbuster
@@ -944,8 +944,8 @@ spawns:
 
   17502397:
     template: Detector
+    at:       [-357.142, -0.242, 339.289, 127]
     level:    [72, 74]
-    region:   nw_189
 
   17502398:
     template: Caretaker
@@ -964,13 +964,13 @@ spawns:
 
   17502401:
     template: Dustbuster
+    at:       [-313.784, 5.753, 420.303, 0]
     level:    [75, 78]
-    region:   nw_193
 
   17502402:
     template: Dustbuster
+    at:       [-318.317, 6.821, 420.565, 1]
     level:    [75, 78]
-    region:   nw_193
 
   17502403:
     template: Detector
@@ -1014,8 +1014,8 @@ spawns:
 
   17502411:
     template: Detector
+    at:       [-341.703, -0.185, 229.512, 127]
     level:    [72, 74]
-    region:   nw_203
 
   17502412:
     template: Caretaker
@@ -1134,8 +1134,8 @@ spawns:
 
   17502435:
     template: Detector
+    at:       [-378.797, -0.516, -10.406, 65]
     level:    [72, 74]
-    region:   w_227
 
   17502436:
     template: Caretaker
@@ -1284,18 +1284,18 @@ spawns:
 
   17502465:
     template: Enkidu
+    at:       [-258.695, 5.137, 392.743, 127]
     level:    [77, 80]
-    region:   nw_257
 
   17502466:
     template: Enkidu
+    at:       [-258.651, 8.467, 407.019, 127]
     level:    [77, 80]
-    region:   nw_257
 
   17502467:
     template: Detector
+    at:       [-171.230, -0.718, 380.852, 127]
     level:    [72, 74]
-    region:   nw_259
 
   17502468:
     template: Caretaker
@@ -1334,8 +1334,8 @@ spawns:
 
   17502475:
     template: Detector
+    at:       [-62.668, -0.659, 453.614, 127]
     level:    [72, 74]
-    region:   n_267
 
   17502476:
     template: Caretaker
@@ -1369,18 +1369,18 @@ spawns:
 
   17502482:
     template: Caretaker
+    at:       [13.115, -0.326, 421.193, 127]
     level:    [76, 79]
-    region:   n_274
 
   17502483:
     template: Detector
     level:    [72, 74]
-    region:   n_275
+    region:   n_273
 
   17502484:
     template: Caretaker
+    at:       [20.057, -0.326, 421.014, 127]
     level:    [76, 79]
-    region:   n_276
 
   17502485:
     template: Detector
@@ -1394,13 +1394,13 @@ spawns:
 
   17502487:
     template: Detector
+    at:       [50.151, -0.119, 419.640, 127]
     level:    [72, 74]
-    region:   n_279
 
   17502488:
     template: Caretaker
+    at:       [50.151, -0.119, 419.640, 127]
     level:    [76, 79]
-    region:   ne_280
 
   17502489:
     template: Fire_Elemental
@@ -1414,8 +1414,8 @@ spawns:
 
   17502491:
     template: Detector
+    at:       [60.548, -0.173, 443.991, 71]
     level:    [72, 74]
-    region:   n_283
 
   17502492:
     template: Caretaker
@@ -1434,8 +1434,8 @@ spawns:
 
   17502495:
     template: Enkidu
+    at:       [126.135, 0.355, 435.370, 127]
     level:    [77, 80]
-    region:   n_287
 
   17502496:
     template: Enkidu
@@ -1454,13 +1454,13 @@ spawns:
 
   17502499:
     template: Detector
+    at:       [184.653, -0.173, 381.001, 127]
     level:    [72, 74]
-    region:   ne_291
 
   17502500:
     template: Caretaker
+    at:       [184.653, -0.173, 381.001, 127]
     level:    [76, 79]
-    region:   n_292
 
   17502501:
     template: Enkidu
@@ -1474,8 +1474,8 @@ spawns:
 
   17502503:
     template: Detector
+    at:       [218.387, -0.173, 454.910, 127]
     level:    [72, 74]
-    region:   ne_295
 
   17502504:
     template: Caretaker
@@ -1514,13 +1514,13 @@ spawns:
 
   17502511:
     template: Enkidu
+    at:       [-191.647, 15.704, 474.627, 127]
     level:    [77, 80]
-    region:   nw_303
 
   17502512:
     template: Enkidu
+    at:       [-171.344, 15.706, 474.755, 100]
     level:    [77, 80]
-    region:   nw_304
 
   17502513:
     template: Enkidu
@@ -1579,23 +1579,23 @@ spawns:
 
   17502524:
     template: Enkidu
+    at:       [194.244, 15.711, 368.082, 33]
     level:    [77, 80]
-    region:   ne_316
 
   17502525:
     template: Enkidu
+    at:       [171.232, 15.765, 367.796, 127]
     level:    [77, 80]
-    region:   ne_317
 
   17502526:
     template: Enkidu
+    at:       [147.592, 15.711, 368.503, 96]
     level:    [77, 80]
-    region:   n_318
 
   17502527:
     template: Enkidu
+    at:       [130.281, 15.712, 364.918, 35]
     level:    [77, 80]
-    region:   n_319
 
   17502528:
     template: Enkidu
@@ -1624,8 +1624,8 @@ spawns:
 
   17502533:
     template: Enkidu
+    at:       [134.490, 15.500, 461.072, 10]
     level:    [77, 80]
-    region:   n_325
 
   17502534:
     template: Enkidu
@@ -1759,8 +1759,8 @@ spawns:
 
   17502560:
     template: Caretaker
+    at:       [220.013, 15.618, 429.744, 127]
     level:    [76, 79]
-    region:   n_352
 
   17502561:
     template: Detector
@@ -1809,8 +1809,8 @@ spawns:
 
   17502570:
     template: Zipacna
+    at:       [-195.000, -0.500, 396.000, 1]
     level:    [83, 85]
-    region:   ne_362
 
   17502571:
     template: Uptala

@@ -9,13 +9,13 @@ spawns:
 
   17494018:
     template: Hell_Hound
+    at:       [225.848, -32.500, 140.584, 255]
     level:    [64, 66]
-    region:   e_2
 
   17494019:
     template: Hell_Hound
+    at:       [129.121, -32.500, 139.478, 127]
     level:    [64, 66]
-    region:   c_3
 
   17494020:
     template: Hell_Hound
@@ -29,13 +29,13 @@ spawns:
 
   17494022:
     template: Hell_Hound
+    at:       [60.200, -32.500, 77.661, 201]
     level:    [64, 66]
-    region:   c_6
 
   17494023:
     template: Hell_Hound
+    at:       [61.186, -32.500, -17.237, 56]
     level:    [64, 66]
-    region:   c_7
 
   17494024:
     template: Hell_Hound
@@ -49,18 +49,18 @@ spawns:
 
   17494026:
     template: Hell_Hound
+    at:       [122.648, -32.500, -98.550, 129]
     level:    [64, 66]
-    region:   c_10
 
   17494027:
     template: Hell_Hound
+    at:       [217.915, -32.500, -98.676, 0]
     level:    [64, 66]
-    region:   e_11
 
   17494028:
     template: Hell_Hound
+    at:       [252.616, -32.500, -94.830, 95]
     level:    [64, 66]
-    region:   e_12
 
   17494029:
     template: Hell_Hound
@@ -69,8 +69,8 @@ spawns:
 
   17494030:
     template: Hell_Hound
+    at:       [175.022, -32.500, 61.215, 251]
     level:    [64, 66]
-    region:   e_14
 
   17494031:
     template: Hell_Hound
@@ -84,8 +84,8 @@ spawns:
 
   17494033:
     template: Hell_Hound
+    at:       [138.259, -32.500, 19.880, 64]
     level:    [64, 66]
-    region:   c_17
 
   17494034:
     template: Hell_Hound
@@ -99,8 +99,8 @@ spawns:
 
   17494036:
     template: Hell_Hound
+    at:       [175.141, -32.500, -21.248, 22]
     level:    [64, 66]
-    region:   e_20
 
   17494037:
     template: Hell_Hound
@@ -124,13 +124,13 @@ spawns:
 
   17494041:
     template: Lich
+    at:       [102.123, -33.307, 99.449, 33]
     level:    [65, 69]
-    region:   c_25
 
   17494042:
     template: Lost_Soul
+    at:       [98.422, -33.305, 99.980, 97]
     level:    [65, 69]
-    region:   c_25
 
   17494043:
     template: Lich
@@ -144,23 +144,23 @@ spawns:
 
   17494045:
     template: Lich
+    at:       [100.443, -32.932, -56.491, 194]
     level:    [65, 69]
-    region:   c_29
 
   17494046:
     template: Lost_Soul
+    at:       [100.429, -33.020, -63.663, 60]
     level:    [65, 69]
-    region:   c_29
 
   17494047:
     template: Lich
+    at:       [93.794, -32.500, -60.171, 191]
     level:    [65, 69]
-    region:   c_31
 
   17494048:
     template: Lost_Soul
+    at:       [96.710, -32.500, -66.475, 255]
     level:    [65, 69]
-    region:   c_31
 
   17494049:
     template: Orcish_Brawler
@@ -349,13 +349,13 @@ spawns:
 
   17494086:
     template: Gazer
+    at:       [194.830, -16.386, 300.648, 2]
     level:    [60, 62]
-    region:   ne_70
 
   17494087:
     template: Gazer
+    at:       [220.224, -16.487, 328.701, 193]
     level:    [60, 62]
-    region:   ne_71
 
   17494088:
     template: Gazer
@@ -364,13 +364,13 @@ spawns:
 
   17494089:
     template: Gazer
+    at:       [299.180, -29.328, 296.298, 52]
     level:    [60, 62]
-    region:   ne_73
 
   17494090:
     template: Gazer
+    at:       [306.146, -32.500, 264.107, 31]
     level:    [60, 62]
-    region:   ne_74
 
   17494091:
     template: Gazer
@@ -474,23 +474,23 @@ spawns:
 
   17494111:
     template: War_Smilodon
+    at:       [320.706, -24.146, 219.385, 5]
     level:    [61, 64]
-    region:   ne_95
 
   17494112:
     template: War_Smilodon
+    at:       [340.507, -14.067, 188.243, 187]
     level:    [61, 64]
-    region:   ne_96
 
   17494113:
     template: War_Smilodon
+    at:       [341.069, -8.431, 161.395, 62]
     level:    [61, 64]
-    region:   e_97
 
   17494114:
     template: War_Smilodon
+    at:       [351.485, -2.035, 140.560, 25]
     level:    [61, 64]
-    region:   e_98
 
   17494115:
     template: War_Smilodon
@@ -554,8 +554,8 @@ spawns:
 
   17494127:
     template: War_Smilodon
+    at:       [378.995, -0.475, 125.860, 194]
     level:    [61, 64]
-    region:   e_111
 
   17494128:
     template: War_Smilodon
@@ -564,8 +564,8 @@ spawns:
 
   17494129:
     template: War_Smilodon
+    at:       [378.937, -5.406, 55.156, 56]
     level:    [61, 64]
-    region:   e_113
 
   17494130:
     template: Revenant
@@ -609,8 +609,8 @@ spawns:
 
   17494138:
     template: Hell_Hound
+    at:       [279.403, -16.506, -226.461, 254]
     level:    [64, 66]
-    region:   se_117
 
   17494139:
     template: Hell_Hound
@@ -624,18 +624,18 @@ spawns:
 
   17494141:
     template: Hell_Hound
+    at:       [216.583, -0.497, -106.723, 32]
     level:    [64, 66]
-    region:   e_125
 
   17494142:
     template: Hell_Hound
+    at:       [221.107, -1.887, -130.623, 195]
     level:    [64, 66]
-    region:   e_126
 
   17494143:
     template: Hell_Hound
+    at:       [221.945, -7.063, -153.625, 199]
     level:    [64, 66]
-    region:   e_127
 
   17494144:
     template: Hell_Hound
@@ -644,38 +644,38 @@ spawns:
 
   17494145:
     template: Hell_Hound
+    at:       [257.870, -16.488, -173.985, 206]
     level:    [64, 66]
-    region:   se_129
 
   17494146:
     template: Hell_Hound
+    at:       [261.109, -16.253, -200.777, 64]
     level:    [64, 66]
-    region:   se_130
 
   17494147:
     template: Hell_Hound
+    at:       [263.217, -16.463, -252.503, 166]
     level:    [64, 66]
-    region:   se_131
 
   17494148:
     template: Hell_Hound
+    at:       [286.729, -16.495, -259.328, 249]
     level:    [64, 66]
-    region:   se_132
 
   17494149:
     template: Hell_Hound
+    at:       [324.340, -16.623, -259.379, 130]
     level:    [64, 66]
-    region:   se_133
 
   17494150:
     template: Hell_Hound
+    at:       [340.272, -22.146, -270.997, 52]
     level:    [64, 66]
-    region:   se_134
 
   17494151:
     template: Hell_Hound
+    at:       [339.958, -28.765, -300.395, 46]
     level:    [64, 66]
-    region:   se_135
 
   17494152:
     template: Hell_Hound
@@ -694,8 +694,8 @@ spawns:
 
   17494155:
     template: Hell_Hound
+    at:       [-97.403, -16.500, 294.472, 224]
     level:    [64, 66]
-    region:   n_139
 
   17494156:
     template: Hell_Hound
@@ -709,18 +709,18 @@ spawns:
 
   17494158:
     template: Hell_Hound
+    at:       [-21.204, -8.382, 245.074, 62]
     level:    [64, 66]
-    region:   n_142
 
   17494159:
     template: Hell_Hound
+    at:       [-20.331, -9.975, 290.153, 200]
     level:    [64, 66]
-    region:   n_143
 
   17494160:
     template: Hell_Hound
+    at:       [-1.713, -16.191, 299.442, 0]
     level:    [64, 66]
-    region:   n_144
 
   17494161:
     template: Revenant
@@ -844,38 +844,38 @@ spawns:
 
   17494185:
     template: Revenant
+    at:       [140.204, 7.499, -120.949, 190]
     level:    [68, 70]
-    region:   c_169
 
   17494186:
     template: Revenant
+    at:       [140.129, 6.470, -125.905, 190]
     level:    [68, 70]
-    region:   c_169
 
   17494187:
     template: Revenant
+    at:       [149.609, 2.565, -138.591, 28]
     level:    [68, 70]
-    region:   c_171
 
   17494188:
     template: Revenant
+    at:       [173.662, -0.411, -139.247, 1]
     level:    [68, 70]
-    region:   e_172
 
   17494189:
     template: Revenant
+    at:       [174.265, -0.504, -112.265, 138]
     level:    [68, 70]
-    region:   e_173
 
   17494190:
     template: Revenant
+    at:       [173.158, -1.017, -87.090, 241]
     level:    [68, 70]
-    region:   e_174
 
   17494191:
     template: Revenant
+    at:       [179.535, -0.484, -168.011, 61]
     level:    [68, 70]
-    region:   e_175
 
   17494192:
     template: Revenant
@@ -1014,13 +1014,13 @@ spawns:
 
   17494219:
     template: Ignis_Djinn
+    at:       [59.943, 0.782, -44.165, 65]
     level:    [68, 72]
-    region:   c_203
 
   17494220:
     template: Ignis_Djinn
+    at:       [87.149, 7.580, -59.247, 255]
     level:    [68, 72]
-    region:   c_204
 
   17494221:
     template: Lich
@@ -1089,13 +1089,13 @@ spawns:
 
   17494234:
     template: Lost_Soul
+    at:       [17.329, -4.500, 57.488, 178]
     level:    [65, 69]
-    region:   c_218
 
   17494235:
     template: Lich
+    at:       [17.306, -4.500, 57.893, 80]
     level:    [65, 69]
-    region:   c_218
 
   17494236:
     template: Lost_Soul
@@ -1104,28 +1104,28 @@ spawns:
 
   17494237:
     template: Lich
+    at:       [60.605, -1.579, 126.193, 191]
     level:    [65, 69]
-    region:   c_221
 
   17494238:
     template: Lost_Soul
+    at:       [100.559, -5.942, 110.450, 65]
     level:    [65, 69]
-    region:   c_222
 
   17494239:
     template: Lich
+    at:       [76.151, -0.420, 99.201, 128]
     level:    [65, 69]
-    region:   c_223
 
   17494240:
     template: Lost_Soul
+    at:       [60.883, -0.538, 74.214, 65]
     level:    [65, 69]
-    region:   c_224
 
   17494241:
     template: Lich
+    at:       [32.941, -2.041, 59.231, 124]
     level:    [65, 69]
-    region:   c_225
 
   17494242:
     template: Lost_Soul
@@ -1224,38 +1224,38 @@ spawns:
 
   17494261:
     template: Lich
+    at:       [77.462, -16.339, 259.065, 127]
     level:    [65, 69]
-    region:   n_245
 
   17494262:
     template: Lost_Soul
+    at:       [111.889, -16.629, 258.507, 128]
     level:    [65, 69]
-    region:   n_246
 
   17494263:
     template: Lich
+    at:       [99.769, -16.525, 250.709, 192]
     level:    [65, 69]
-    region:   n_247
 
   17494264:
     template: Lost_Soul
+    at:       [99.081, -14.120, 188.144, 62]
     level:    [65, 69]
-    region:   n_248
 
   17494265:
     template: Lich
+    at:       [99.731, -9.088, 163.902, 193]
     level:    [65, 69]
-    region:   n_249
 
   17494266:
     template: Lost_Soul
+    at:       [130.411, -16.495, 217.310, 8]
     level:    [65, 69]
-    region:   n_250
 
   17494267:
     template: Lich
+    at:       [161.983, -16.582, 218.518, 130]
     level:    [65, 69]
-    region:   n_251
 
   17494268:
     template: Lost_Soul
@@ -1264,8 +1264,8 @@ spawns:
 
   17494269:
     template: Lich
+    at:       [216.316, -29.417, 258.037, 0]
     level:    [65, 69]
-    region:   ne_253
 
   17494270:
     template: Lich
@@ -1274,23 +1274,23 @@ spawns:
 
   17494271:
     template: Lost_Soul
+    at:       [156.040, -9.198, 178.823, 125]
     level:    [65, 69]
-    region:   n_255
 
   17494272:
     template: Lich
+    at:       [178.113, -2.564, 172.240, 166]
     level:    [65, 69]
-    region:   ne_256
 
   17494273:
     template: Earth_Elemental
+    at:       [172.469, -32.500, 59.845, 118]
     level:    [70, 75]
-    region:   e_14
 
   17494274:
     template: Earth_Elemental
     level:    [70, 75]
-    region:   e_20
+    region:   e_258
 
   17494275:
     template: Ice_Elemental
@@ -1809,8 +1809,8 @@ spawns:
 
   17494378:
     template: Royal_Palliator
+    at:       [105.977, -32.499, -93.654, 159]
     level:    [60, 60]
-    region:   e_362
 
   17494379:
     template: Royal_Palliator
@@ -1819,8 +1819,8 @@ spawns:
 
   17494380:
     template: Royal_Palliator
+    at:       [218.568, -32.491, 140.759, 255]
     level:    [60, 60]
-    region:   c_364
 
   17494381:
     template: Royal_Palliator
@@ -1829,8 +1829,8 @@ spawns:
 
   17494382:
     template: Royal_Palliator
+    at:       [260.550, -32.500, -42.755, 65]
     level:    [60, 60]
-    region:   e_366
 
   17494383:
     template: Royal_Palliator
@@ -1959,48 +1959,48 @@ spawns:
 
   17494408:
     template: Spinebeak_Neckchopper
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [60, 60]
-    region:   ne_392
 
   17494409:
     template: Spinebeak_Neckchopper
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [60, 60]
-    region:   ne_393
 
   17494410:
     template: Spinebeak_Neckchopper
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [60, 60]
-    region:   e_394
 
   17494411:
     template: Spinebeak_Neckchopper
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [60, 60]
-    region:   e_394
 
   17494412:
     template: Spinebeak_Neckchopper
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [60, 60]
-    region:   e_394
 
   17494413:
     template: Spinebeak_Neckchopper
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [60, 60]
-    region:   e_394
 
   17494414:
     template: Spinebeak_Neckchopper
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [60, 60]
-    region:   e_394
 
   17494415:
     template: Spinebeak_Neckchopper
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [60, 60]
-    region:   e_394
 
   17494416:
     template: Spinebeak_Neckchopper
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [60, 60]
-    region:   ne_400
 
   17494417:
     template: Jagidbods_Warmachine
@@ -2109,63 +2109,63 @@ spawns:
 
   17494438:
     template: Moonfang_Warrior
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [60, 60]
-    region:   e_422
 
   17494439:
     template: Moonfang_Warrior
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [60, 60]
-    region:   e_423
 
   17494440:
     template: Battlemaster_Vatgit
+    at:       [260.680, -32.500, -75.084, 62]
     level:    [65, 65]
-    region:   e_424
 
   17494441:
     template: Clan_Longtooth_Pillager
+    at:       [259.915, -32.500, 90.557, 63]
     level:    [65, 65]
-    region:   e_425
 
   17494442:
     template: Clan_Longtooth_Pillager
+    at:       [261.818, -33.334, 100.021, 91]
     level:    [65, 65]
-    region:   e_426
 
   17494443:
     template: Clan_Longtooth_Pillager
+    at:       [191.748, -28.250, -116.139, 74]
     level:    [65, 65]
-    region:   e_427
 
   17494444:
     template: Clan_Longtooth_Pillager
+    at:       [266.509, -32.500, 99.990, 89]
     level:    [65, 65]
-    region:   e_425
 
   17494445:
     template: Clan_Longtooth_Pillager
+    at:       [339.863, -32.500, 69.859, 186]
     level:    [65, 65]
-    region:   e_429
 
   17494446:
     template: Clan_Longtooth_Pillager
+    at:       [256.484, -32.500, 93.489, 15]
     level:    [65, 65]
-    region:   e_430
 
   17494447:
     template: Clan_Longtooth_Pillager
+    at:       [187.622, -28.250, -116.597, 24]
     level:    [65, 65]
-    region:   e_427
 
   17494448:
     template: Clan_Longtooth_Pillager
+    at:       [299.992, -32.500, -33.035, 201]
     level:    [65, 65]
-    region:   e_432
 
   17494449:
     template: Clan_Longtooth_Pillager
+    at:       [47.896, -28.282, 2.371, 53]
     level:    [65, 65]
-    region:   e_433
 
   17494450:
     template: Clan_Bear_Fighter

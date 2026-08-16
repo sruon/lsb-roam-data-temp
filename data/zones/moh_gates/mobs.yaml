@@ -245,7 +245,7 @@ spawns:
   17879089:
     template: Conflagrant_Eruca
     level:    [101, 110]
-    region:   e_49
+    region:   e_47
 
   17879090:
     template: Erupting_Geyser
@@ -684,18 +684,18 @@ spawns:
 
   17879177:
     template: Scoriaceous_Clot
+    at:       [99.580, 29.628, -161.980, 119]
     level:    [101, 110]
-    region:   s_137
 
   17879178:
     template: Scoriaceous_Clot
+    at:       [99.247, 29.804, -163.270, 141]
     level:    [101, 110]
-    region:   s_137
 
   17879179:
     template: Skittish_Matamata
+    at:       [96.454, 29.141, -158.350, 57]
     level:    [102, 110]
-    region:   s_137
 
   17879180:
     template: Scoriaceous_Clot
@@ -774,8 +774,8 @@ spawns:
 
   17879195:
     template: Steelclaw_Raptor
+    at:       [-451.900, 39.561, 343.579, 243]
     level:    [120, 124]
-    region:   nw_155
 
   17879196:
     template: Steelclaw_Raptor
@@ -785,7 +785,7 @@ spawns:
   17879197:
     template: Steelclaw_Raptor
     level:    [120, 124]
-    region:   nw_157
+    region:   nw_156
 
   17879198:
     template: Praying_Chapuli
@@ -814,8 +814,8 @@ spawns:
 
   17879203:
     template: Praying_Chapuli
+    at:       [-371.500, 39.439, 381.679, 134]
     level:    [120, 124]
-    region:   nw_163
 
   17879204:
     template: Groundstomp_Matamata
@@ -824,8 +824,8 @@ spawns:
 
   17879205:
     template: Groundstomp_Matamata
+    at:       [-311.100, 49.736, 425.509, 243]
     level:    [120, 124]
-    region:   nw_165
 
   17879206:
     template: Groundstomp_Matamata
@@ -839,8 +839,8 @@ spawns:
 
   17879208:
     template: Groundstomp_Matamata
+    at:       [-303.100, 50.244, 431.170, 83]
     level:    [120, 124]
-    region:   nw_168
 
   17879209:
     template: Erupting_Geyser
@@ -974,8 +974,8 @@ spawns:
 
   17879235:
     template: Murkmoan_Umbril
+    at:       [-163.400, 60.027, 420.372, 127]
     level:    [120, 124]
-    region:   n_195
 
   17879236:
     template: Somatophylax_Dullahan
@@ -1059,13 +1059,13 @@ spawns:
 
   17879252:
     template: Groundstomp_Matamata
+    at:       [-219.100, 58.965, 349.203, 124]
     level:    [120, 124]
-    region:   nw_212
 
   17879253:
     template: Steelclaw_Raptor
+    at:       [-219.100, 58.292, 364.544, 47]
     level:    [120, 124]
-    region:   nw_213
 
   17879254:
     template: Gelatinous_Clot

@@ -89,8 +89,8 @@ spawns:
 
   16990226:
     template: Aht_Urhgan_Attercop
+    at:       [339.805, -10.444, 83.397, 184]
     level:    [64, 65]
-    region:   e_18
 
   16990227:
     template: Aht_Urhgan_Attercop
@@ -204,33 +204,33 @@ spawns:
 
   16990249:
     template: Aht_Urhgan_Attercop
+    at:       [371.994, -9.766, 180.350, 155]
     level:    [64, 65]
-    region:   e_41
 
   16990250:
     template: Aht_Urhgan_Attercop
+    at:       [389.243, -10.044, 179.771, 2]
     level:    [64, 65]
-    region:   e_41
 
   16990251:
     template: Fomor_Thief
+    at:       [381.346, -9.265, 178.600, 140]
     level:    [63, 64]
-    region:   e_41
 
   16990252:
     template: Harvestman
     level:    [72, 73]
-    region:   e_41
+    region:   e_44
 
   16990253:
     template: Lesser_Colibri
+    at:       [419.992, -12.136, 208.738, 184]
     level:    [63, 65]
-    region:   ne_45
 
   16990254:
     template: Lesser_Colibri
+    at:       [420.636, -14.116, 214.871, 64]
     level:    [63, 65]
-    region:   ne_45
 
   16990255:
     template: Lesser_Colibri
@@ -324,13 +324,13 @@ spawns:
 
   16990273:
     template: Aht_Urhgan_Attercop
+    at:       [491.628, -10.025, 260.410, 79]
     level:    [64, 65]
-    region:   ne_65
 
   16990274:
     template: Aht_Urhgan_Attercop
+    at:       [499.928, -9.825, 250.201, 58]
     level:    [64, 65]
-    region:   ne_65
 
   16990275:
     template: Aht_Urhgan_Attercop
@@ -509,13 +509,13 @@ spawns:
 
   16990310:
     template: Fomor_Paladin
+    at:       [101.938, -20.328, 350.641, 19]
     level:    [63, 64]
-    region:   n_102
 
   16990311:
     template: Fomor_Bard
+    at:       [275.000, -8.000, 153.000, 127]
     level:    [63, 64]
-    region:   n_102
 
   16990312:
     template: Haunt
@@ -559,8 +559,8 @@ spawns:
 
   16990320:
     template: Trolls_Automaton
+    at:       [1.000, 1.000, 1.000, 0]
     level:    [70, 71]
-    region:   n_112
 
   16990321:
     template: Troll_Shieldbearer
@@ -659,13 +659,13 @@ spawns:
 
   16990340:
     template: Wajaom_Tiger
+    at:       [260.000, -17.000, 385.000, 127]
     level:    [67, 68]
-    region:   ne_132
 
   16990341:
     template: Wajaom_Tiger
+    at:       [260.000, -19.000, 406.000, 127]
     level:    [67, 68]
-    region:   ne_132
 
   16990342:
     template: Air_Elemental
@@ -804,13 +804,13 @@ spawns:
 
   16990369:
     template: Incubus_Bats
+    at:       [-37.000, -32.000, 476.000, 127]
     level:    [61, 63]
-    region:   n_161
 
   16990370:
     template: Incubus_Bats
+    at:       [-20.000, -35.000, 530.000, 127]
     level:    [61, 63]
-    region:   n_161
 
   16990371:
     template: Treant_Sapling
@@ -1109,8 +1109,8 @@ spawns:
 
   16990430:
     template: Mamool_Ja_Philosopher
+    at:       [-110.000, -16.000, -627.000, 127]
     level:    [81, 83]
-    region:   w_222
 
   16990431:
     template: Mamool_Ja_Blusterer

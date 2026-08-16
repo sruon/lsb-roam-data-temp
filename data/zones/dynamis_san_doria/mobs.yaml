@@ -29,8 +29,8 @@ spawns:
 
   17534982:
     template: Vanguard_Amputator
+    at:       [144.495, -2.500, 106.451, 251]
     level:    [75, 77]
-    region:   ne_6
 
   17534983:
     template: Vanguard_Vexer
@@ -239,18 +239,18 @@ spawns:
 
   17535024:
     template: Vanguard_Vexer
+    at:       [156.643, -7.300, 43.381, 64]
     level:    [75, 77]
-    region:   e_48
 
   17535025:
     template: Vanguard_Trooper
+    at:       [156.344, -7.102, 52.107, 32]
     level:    [75, 77]
-    region:   e_48
 
   17535026:
     template: Warchief_Tombstone
+    at:       [156.591, -7.197, 41.199, 64]
     level:    [65, 65]
-    region:   e_48
 
   17535027:
     template: Vanguard_Bugler
@@ -279,8 +279,8 @@ spawns:
 
   17535032:
     template: Wyrmgnasher_Bjakdek
+    at:       [91.085, -6.714, -10.785, 221]
     level:    [83, 84]
-    region:   e_56
 
   17535033:
     template: Vanguards_Wyvern
@@ -759,23 +759,23 @@ spawns:
 
   17535128:
     template: Warchief_Tombstone
+    at:       [-157.228, -9.275, 69.602, 125]
     level:    [80, 80]
-    region:   nw_152
 
   17535129:
     template: Vanguard_Vexer
+    at:       [-185.930, -9.300, 29.037, 181]
     level:    [90, 92]
-    region:   w_153
 
   17535130:
     template: Vanguard_Trooper
+    at:       [-186.659, -9.300, 24.944, 220]
     level:    [90, 92]
-    region:   w_154
 
   17535131:
     template: Warchief_Tombstone
+    at:       [-191.374, -9.290, 25.688, 26]
     level:    [80, 80]
-    region:   w_153
 
   17535132:
     template: Vanguard_Vexer

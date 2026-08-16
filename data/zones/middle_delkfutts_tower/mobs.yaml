@@ -224,13 +224,13 @@ spawns:
 
   17420333:
     template: Goblin_Smithy
+    at:       [10.414, -47.644, -58.753, 41]
     level:    [30, 32]
-    region:   se_45
 
   17420334:
     template: Goblin_Shaman
+    at:       [-28.625, -48.093, -57.318, 127]
     level:    [30, 32]
-    region:   se_45
 
   17420335:
     template: Goblin_Pathfinder
@@ -244,8 +244,8 @@ spawns:
 
   17420337:
     template: Goblin_Furrier
+    at:       [19.047, -48.500, -29.611, 75]
     level:    [30, 32]
-    region:   se_49
 
   17420338:
     template: Goblin_Smithy
@@ -464,8 +464,8 @@ spawns:
 
   17420381:
     template: Giant_Lobber
+    at:       [-48.936, -64.114, 8.575, 127]
     level:    [30, 32]
-    region:   e_93
 
   17420382:
     template: Polybotes
@@ -809,13 +809,13 @@ spawns:
 
   17420450:
     template: Goblin_Pathfinder
+    at:       [-450.284, -95.529, -35.169, 114]
     level:    [32, 34]
-    region:   se_162
 
   17420451:
     template: Goblins_Bat
+    at:       [1.000, 1.000, 1.000, 0]
     level:    [23, 25]
-    region:   se_162
 
   17420452:
     template: Goblin_Furrier
@@ -1509,8 +1509,8 @@ spawns:
 
   17420590:
     template: Thunder_Elemental
+    at:       [-500.822, -128.105, -24.245, 127]
     level:    [35, 36]
-    region:   sw_302
 
   17420591:
     template: Light_Elemental
@@ -1684,8 +1684,8 @@ spawns:
 
   17420625:
     template: Magic_Jar
+    at:       [-447.026, -128.105, 99.648, 127]
     level:    [31, 32]
-    region:   nw_337
 
   17420626:
     template: Jagd_Doll

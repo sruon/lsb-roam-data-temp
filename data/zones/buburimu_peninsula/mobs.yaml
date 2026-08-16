@@ -99,8 +99,8 @@ spawns:
 
   17260564:
     template: Zombie
+    at:       [-451.165, -32.482, 81.454, 127]
     level:    [18, 19]
-    region:   w_20
 
   17260565:
     template: Zombie
@@ -184,8 +184,8 @@ spawns:
 
   17260581:
     template: Zombie
+    at:       [-332.648, -24.906, 54.985, 127]
     level:    [18, 19]
-    region:   w_37
 
   17260582:
     template: Sylvestre
@@ -339,8 +339,8 @@ spawns:
 
   17260612:
     template: Will-o-the-Wisp
+    at:       [-444.580, -8.890, -189.219, 217]
     level:    [25, 27]
-    region:   sw_68
 
   17260613:
     template: Backoo
@@ -569,13 +569,13 @@ spawns:
 
   17260658:
     template: Zombie
+    at:       [-260.551, -23.758, 104.843, 127]
     level:    [18, 19]
-    region:   n_114
 
   17260659:
     template: Ghoul
+    at:       [-129.930, -24.645, 97.768, 127]
     level:    [20, 21]
-    region:   n_115
 
   17260660:
     template: Will-o-the-Wisp
@@ -859,8 +859,8 @@ spawns:
 
   17260716:
     template: Will-o-the-Wisp
+    at:       [-77.242, -0.450, -157.954, 244]
     level:    [25, 27]
-    region:   s_172
 
   17260717:
     template: Air_Elemental
@@ -1214,8 +1214,8 @@ spawns:
 
   17260787:
     template: Zombie
+    at:       [21.457, -15.761, 70.487, 127]
     level:    [21, 22]
-    region:   c_243
 
   17260788:
     template: Zombie
@@ -1229,8 +1229,8 @@ spawns:
 
   17260790:
     template: Will-o-the-Wisp
+    at:       [0.782, -16.255, 5.094, 32]
     level:    [25, 27]
-    region:   c_246
 
   17260791:
     template: Air_Elemental
@@ -1419,8 +1419,8 @@ spawns:
 
   17260828:
     template: Will-o-the-Wisp
+    at:       [142.186, -24.193, 165.765, 80]
     level:    [25, 27]
-    region:   n_284
 
   17260829:
     template: Air_Elemental
@@ -1494,13 +1494,13 @@ spawns:
 
   17260843:
     template: Zombie
+    at:       [209.930, -14.621, 76.289, 7]
     level:    [18, 19]
-    region:   e_299
 
   17260844:
     template: Ghoul
+    at:       [205.250, -14.195, 93.500, 127]
     level:    [20, 21]
-    region:   c_300
 
   17260845:
     template: Ghoul
@@ -1574,8 +1574,8 @@ spawns:
 
   17260859:
     template: Zombie
+    at:       [199.414, -13.583, -58.714, 9]
     level:    [18, 19]
-    region:   se_315
 
   17260860:
     template: Ghoul
@@ -1664,8 +1664,8 @@ spawns:
 
   17260877:
     template: Zombie
+    at:       [372.953, 0.188, -153.001, 126]
     level:    [21, 22]
-    region:   e_333
 
   17260878:
     template: Ghoul
@@ -1679,8 +1679,8 @@ spawns:
 
   17260880:
     template: Will-o-the-Wisp
+    at:       [362.571, -0.435, -86.687, 45]
     level:    [25, 27]
-    region:   e_336
 
   17260881:
     template: Air_Elemental
@@ -1754,8 +1754,8 @@ spawns:
 
   17260895:
     template: Zombie
+    at:       [452.844, 1.990, -222.982, 7]
     level:    [21, 22]
-    region:   se_351
 
   17260896:
     template: Ghoul
@@ -1764,8 +1764,8 @@ spawns:
 
   17260897:
     template: Will-o-the-Wisp
+    at:       [407.880, -0.201, -202.098, 0]
     level:    [23, 24]
-    region:   se_353
 
   17260898:
     template: Air_Elemental
@@ -1814,8 +1814,8 @@ spawns:
 
   17260907:
     template: Helldiver
+    at:       [475.000, -0.500, -240.000, 127]
     level:    [29, 30]
-    region:   se_363
 
   17260908:
     template: Goblin_Mugger
@@ -1909,23 +1909,23 @@ spawns:
 
   17260926:
     template: Zombie
+    at:       [344.738, 0.251, 89.080, 79]
     level:    [21, 22]
-    region:   e_382
 
   17260927:
     template: Ghoul
+    at:       [441.661, 0.258, 20.120, 127]
     level:    [23, 24]
-    region:   e_383
 
   17260928:
     template: Will-o-the-Wisp
+    at:       [328.918, -0.350, 39.699, 24]
     level:    [25, 27]
-    region:   e_384
 
   17260929:
     template: Air_Elemental
+    at:       [419.798, 0.462, -83.507, 127]
     level:    [28, 30]
-    region:   e_385
 
   17260930:
     template: Carnivorous_Crawler
@@ -2059,8 +2059,8 @@ spawns:
 
   17260956:
     template: Zombie
+    at:       [321.094, -0.197, 69.021, 127]
     level:    [21, 22]
-    region:   e_412
 
   17260957:
     template: Ghoul
@@ -2074,8 +2074,8 @@ spawns:
 
   17260959:
     template: Will-o-the-Wisp
+    at:       [314.331, -0.408, 126.959, 252]
     level:    [25, 27]
-    region:   e_415
 
   17260960:
     template: Air_Elemental
@@ -2129,13 +2129,13 @@ spawns:
 
   17260970:
     template: Bogy
+    at:       [361.000, -8.000, 278.000, 127]
     level:    [23, 25]
-    region:   ne_426
 
   17260971:
     template: Will-o-the-Wisp
+    at:       [311.952, -1.448, 342.727, 141]
     level:    [25, 27]
-    region:   ne_427
 
   17260972:
     template: Air_Elemental
@@ -2219,8 +2219,8 @@ spawns:
 
   17260988:
     template: Will-o-the-Wisp
+    at:       [353.833, 0.189, 221.934, 160]
     level:    [25, 27]
-    region:   ne_444
 
   17260989:
     template: Air_Elemental

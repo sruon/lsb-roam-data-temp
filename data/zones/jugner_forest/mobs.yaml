@@ -79,8 +79,8 @@ spawns:
 
   17203216:
     template: King_Arthro
+    at:       [-144.000, 5.000, 474.000, 93]
     level:    [55, 55]
-    region:   n_16
 
   17203217:
     template: Stag_Beetle
@@ -129,8 +129,8 @@ spawns:
 
   17203226:
     template: Scavenging_Hound
+    at:       [-512.716, 0.612, -424.661, 164]
     level:    [22, 23]
-    region:   sw_26
 
   17203227:
     template: Stag_Beetle
@@ -179,8 +179,8 @@ spawns:
 
   17203236:
     template: Scavenging_Hound
+    at:       [-352.845, -1.182, -395.931, 72]
     level:    [22, 23]
-    region:   sw_36
 
   17203237:
     template: Jugner_Funguar
@@ -369,8 +369,8 @@ spawns:
 
   17203274:
     template: Zombie
+    at:       [-467.444, -0.739, -368.853, 127]
     level:    [16, 17]
-    region:   sw_74
 
   17203275:
     template: Thunder_Elemental
@@ -534,8 +534,8 @@ spawns:
 
   17203307:
     template: Scavenging_Hound
+    at:       [-21.138, -1.934, 133.956, 86]
     level:    [22, 23]
-    region:   c_107
 
   17203308:
     template: Jugner_Funguar
@@ -629,13 +629,13 @@ spawns:
 
   17203326:
     template: Ghoul
+    at:       [-27.630, 0.155, 69.012, 79]
     level:    [16, 17]
-    region:   c_126
 
   17203327:
     template: Zombie
+    at:       [-61.207, 1.788, 89.480, 127]
     level:    [21, 22]
-    region:   w_127
 
   17203328:
     template: Thunder_Elemental
@@ -669,8 +669,8 @@ spawns:
 
   17203334:
     template: Water_Elemental
+    at:       [-500.637, 8.492, 281.808, 127]
     level:    [27, 29]
-    region:   nw_134
 
   17203335:
     template: Stag_Beetle
@@ -739,8 +739,8 @@ spawns:
 
   17203348:
     template: Water_Elemental
+    at:       [-13.701, 0.385, 330.864, 127]
     level:    [27, 29]
-    region:   n_148
 
   17203349:
     template: Snipper
@@ -769,8 +769,8 @@ spawns:
 
   17203354:
     template: Water_Elemental
+    at:       [105.628, 3.643, 439.504, 127]
     level:    [27, 29]
-    region:   n_154
 
   17203355:
     template: Stag_Beetle
@@ -814,8 +814,8 @@ spawns:
 
   17203363:
     template: Scavenging_Hound
+    at:       [104.576, 2.607, 171.745, 2]
     level:    [22, 23]
-    region:   c_163
 
   17203364:
     template: Jugner_Funguar
@@ -1029,8 +1029,8 @@ spawns:
 
   17203406:
     template: Will-o-the-Wisp
+    at:       [102.831, -0.045, 159.810, 7]
     level:    [24, 25]
-    region:   s_206
 
   17203407:
     template: Orcish_Grunt
@@ -1109,18 +1109,18 @@ spawns:
 
   17203422:
     template: Water_Elemental
+    at:       [-8.196, -15.777, -588.725, 127]
     level:    [27, 29]
-    region:   s_222
 
   17203423:
     template: Forest_Tiger
+    at:       [-47.585, -19.117, -648.590, 127]
     level:    [24, 25]
-    region:   s_223
 
   17203424:
     template: Forest_Tiger
+    at:       [-53.845, -20.874, -654.784, 106]
     level:    [24, 25]
-    region:   s_223
 
   17203425:
     template: Stag_Beetle
@@ -1224,8 +1224,8 @@ spawns:
 
   17203445:
     template: Will-o-the-Wisp
+    at:       [212.124, -0.141, -374.747, 210]
     level:    [24, 25]
-    region:   s_245
 
   17203446:
     template: Scavenging_Hound
@@ -1324,8 +1324,8 @@ spawns:
 
   17203465:
     template: Water_Elemental
+    at:       [246.856, -17.062, -503.959, 127]
     level:    [27, 29]
-    region:   se_265
 
   17203466:
     template: Stag_Beetle
@@ -1504,8 +1504,8 @@ spawns:
 
   17203501:
     template: Will-o-the-Wisp
+    at:       [318.081, -15.956, -450.034, 196]
     level:    [24, 25]
-    region:   se_301
 
   17203502:
     template: Boggart
@@ -2049,8 +2049,8 @@ spawns:
 
   17203610:
     template: Scavenging_Hound
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [22, 23]
-    region:   ne_410
 
   17203611:
     template: Stag_Beetle
@@ -2404,13 +2404,13 @@ spawns:
 
   17203681:
     template: Sprite
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [61, 63]
-    region:   e_481
 
   17203682:
     template: Sprite
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [61, 63]
-    region:   c_482
 
   17203683:
     template: Kumbaba
@@ -2494,8 +2494,8 @@ spawns:
 
   17203699:
     template: Emperor_Arthro
+    at:       [84.790, -0.188, -201.369, 133]
     level:    [0, 0]
-    region:   c_499
 
   17203700:
     template: Emperor_Arthro

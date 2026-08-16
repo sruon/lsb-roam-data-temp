@@ -4,23 +4,23 @@ spawns:
 
   17657857:
     template: Crevice_Amoeban
+    at:       [-86.378, -28.261, -99.793, 25]
     level:    [77, 80]
-    region:   s_1
 
   17657858:
     template: Crevice_Amoeban
     level:    [77, 80]
-    region:   s_1
+    region:   s_2
 
   17657859:
     template: Crevice_Amoeban
     level:    [77, 80]
-    region:   s_1
+    region:   s_2
 
   17657860:
     template: Crevice_Amoeban
     level:    [77, 80]
-    region:   s_1
+    region:   s_2
 
   17657861:
     template: Crevice_Amoeban
@@ -659,13 +659,13 @@ spawns:
 
   17657988:
     template: Funnel_Antlion
+    at:       [-478.000, -3.000, 97.000, 80]
     level:    [0, 0]
-    region:   w_132
 
   17657989:
     template: Funnel_Antlion
+    at:       [-464.000, -3.000, 82.000, 110]
     level:    [0, 0]
-    region:   w_133
 
   17657990:
     template: Funnel_Antlion
@@ -689,13 +689,13 @@ spawns:
 
   17657994:
     template: Funnel_Antlion
+    at:       [-402.000, -3.000, 65.000, 10]
     level:    [0, 0]
-    region:   w_138
 
   17657995:
     template: Funnel_Antlion
+    at:       [-400.000, -3.000, 102.000, 40]
     level:    [0, 0]
-    region:   w_139
 
   17657996:
     template: Ephemeral_Amoeban
@@ -1449,8 +1449,8 @@ spawns:
 
   17658146:
     template: Entozoon
+    at:       [292.000, 19.000, 231.000, 70]
     level:    [81, 82]
-    region:   ne_290
 
   17658147:
     template: Entozoon
@@ -2214,8 +2214,8 @@ spawns:
 
   17658299:
     template: Surveyor
+    at:       [0.000, 0.000, 0.000, 160]
     level:    [0, 0]
-    region:   nw_442
 
   17658300:
     template: Scrutinizer
@@ -2229,23 +2229,23 @@ spawns:
 
   17658302:
     template: Decontaminator
+    at:       [-439.714, -4.437, 194.608, 64]
     level:    [0, 0]
-    region:   nw_446
 
   17658303:
     template: Decontaminator
+    at:       [0.000, 0.000, 0.000, 30]
     level:    [0, 0]
-    region:   nw_442
 
   17658304:
     template: Vigilant_Gears
+    at:       [0.000, 0.000, 0.000, 60]
     level:    [0, 0]
-    region:   nw_442
 
   17658305:
     template: Vigilant_Gears
+    at:       [-363.337, -12.568, 78.288, 124]
     level:    [0, 0]
-    region:   nw_442
 
   17658306:
     template: Immobilizer
@@ -2289,8 +2289,8 @@ spawns:
 
   17658314:
     template: Scrutinizer
+    at:       [-353.961, -12.339, 43.856, 95]
     level:    [0, 0]
-    region:   w_458
 
   17658315:
     template: Vigilant_Gear
@@ -2339,18 +2339,18 @@ spawns:
 
   17658324:
     template: Surveyor
+    at:       [-327.935, -4.499, -115.497, 24]
     level:    [0, 0]
-    region:   sw_468
 
   17658325:
     template: Surveyor
+    at:       [-341.423, -4.500, -100.727, 29]
     level:    [0, 0]
-    region:   sw_469
 
   17658326:
     template: Scrutinizer
+    at:       [-342.068, -4.500, -100.139, 29]
     level:    [0, 0]
-    region:   sw_470
 
   17658327:
     template: Scrutinizer
@@ -2359,23 +2359,23 @@ spawns:
 
   17658328:
     template: Custodian
+    at:       [-326.894, -4.567, -154.415, 34]
     level:    [0, 0]
-    region:   sw_472
 
   17658329:
     template: Custodian
+    at:       [0.000, 0.000, 0.000, 60]
     level:    [0, 0]
-    region:   sw_473
 
   17658330:
     template: Ravager_Chariot
+    at:       [0.000, 0.000, 0.000, 90]
     level:    [0, 0]
-    region:   sw_474
 
   17658331:
     template: Ravager_Chariot
+    at:       [-329.152, -12.091, 33.385, 83]
     level:    [0, 0]
-    region:   sw_475
 
   17658332:
     template: Immobilizer
@@ -2389,8 +2389,8 @@ spawns:
 
   17658334:
     template: Oppressor
+    at:       [-331.843, -4.499, -112.285, 25]
     level:    [0, 0]
-    region:   sw_478
 
   17658335:
     template: Edifier
@@ -2404,60 +2404,60 @@ spawns:
 
   17658337:
     template: Bastion_Fighter
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [0, 0]
-    region:   w_481
 
   17658338:
     template: Bastion_Fighter
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [0, 0]
-    region:   w_482
 
   17658339:
     template: Bastion_Fighter
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [0, 0]
-    region:   w_483
 
   17658340:
     template: Bastion_Fighter
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [0, 0]
-    region:   w_484
 
   17658341:
     template: Bastion_Fighter
     level:    [0, 0]
-    region:   w_484
+    region:   w_485
 
   17658342:
     template: Bastion_Mage
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [0, 0]
-    region:   w_486
 
   17658343:
     template: Bastion_Mage
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [0, 0]
-    region:   w_487
 
   17658344:
     template: Bastion_Mage
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [0, 0]
-    region:   w_486
 
   17658345:
     template: Qiqirn_Trapper
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [0, 0]
-    region:   w_489
 
   17658346:
     template: Qiqirn_Trapper
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [0, 0]
-    region:   w_482
 
   17658347:
     template: Qiqirn_Bewitcher
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [0, 0]
-    region:   w_491
 
   17658348:
     template: Qiqirn_Bewitcher
+    at:       [0.000, 0.000, 0.000, 0]
     level:    [0, 0]
-    region:   w_491
